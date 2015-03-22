@@ -1,0 +1,56 @@
+---
+-
+  - id
+  - description
+  - genre
+  - target
+  - content
+  - unclozeables
+  - percent
+-
+  - stereotype
+  - Academic word of the day--stereotype
+  - esp
+  - all
+  - |+
+    Martin McMorrow: Hello. And welcome to the Academic Word of the Day, from Massey University in Albany, New Zealand. Today's academic word is stereotype.
+
+    A stereotype is an inaccurate, exaggerated (and usually negative) image of people or places. So, for example, a stereotypical English person is supposed to be punctual and to enjoy queuing and talking about the weather. Of course, there is sometimes "a grain of truth" in a stereotype! But stereotypes can be dangerous when they stop people from appreciating diversity and individuality or when they are used as an excuse to look down on people from a particular culture because of unfair and exaggerated prejudices.
+
+    I'm going to give you a short test on our word of the day.
+
+    Here are four sentences with the word of the day. Three of them are correct - which is the odd one out?
+
+    Our research project aims to develop an evidence-based stereotype of kiwi culture.
+
+    She was red-haired and quick-tempered and seemed to fit the stereotype of a celtic woman, though she was, in fact, Italian.
+
+    Children need to hear stories of strong, successful women that challenge the stereotypes that they may have picked up from popular culture.
+
+    A liking for gossip has long been seen as a stereotypical female trait.
+
+    The first one is the odd one out. If this is evidence-based, it's not a stereotype.
+
+    Here's a little practice question: By the way, if you are listening to this and you don't see, or you would like to see, it on the screen at the same time, well, you can type in to your web browser, tinyurl.com, T-I-N-Y-U-R-L dot com, forward slash, 6xy9hy, and then you should be able to see the text, while you're listening, and also the various questions which are part of the podcast.
+
+    Your practice question here is, What national stereotypes do you know? Where do you think these stereotypes come from? Is there "a grain of truth" in any of them? Have you met people who do not fit the stereotype at all?
+
+    ...
+
+  - Martin McMorrow|Massey|Albany|New Zealand|punctual|queuing|kiwi|celtic
+  - 20
+---
+-
+  - genre
+  - text
+  - id
+  - target
+  - content
+  - answer
+#-
+#  - literature
+#  - stereotype
+#  - 1
+#  - all
+#  - No
+#  - True

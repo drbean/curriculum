@@ -1,0 +1,467 @@
+% Internet English
+% Dr Bean
+% 02 Term 2
+
+
+## The Internet as a way to learn English
+
+- Pros:
+	- Same experience as in US.
+
+- Cons:
+	- Unnatural, not as close, intimate as face-to-face. No body language.
+	- Communication is narrow, restricted.
+	- Disables learners. Like blind people,
+	learners-  have to use machines to work around their disability.
+	- Breaks easily. Not permanent. Web pages disappear. It's harder to lose books or CD's.
+
+## Identity on the Internet
+
+- http://en.wikipedia.org/wiki/On_the_Internet,_nobody_knows_you%27re_a_dog
+- 
+- 'dog' can have many meanings: good, as in the cartoon
+- 
+- or bad: eg, it can mean an ugly woman or man:
+- 
+- http://www.urbandictionary.com/define.php?term=dog
+- 
+- What identity do you have on the Internet?
+- What character do you portray on the Internet?
+
+## Internet use
+
+- Finding information
+- Facebook
+- Keeping in touch
+- Chat
+- Playing games
+- Movies
+- Music
+- Shopping
+
+## Internet activities in class
+
+-	Recording webcam videos and uploading them
+-	Downloading soundfiles, transcribing them and writing questions
+-	ESL chat rooms (text, not skype)
+-	Internet surveys?
+-	Blogs eg Twitter (no Facebook)
+
+## What do you use the Internet for?
+
+Write it on the board.
+
+## Seating chart
+
+http://web.nuu.edu.tw/~greg/AFB1J0.html
+
+## Textbook
+
+- CALL Course Book
+- http://www.languages.dk/archive/pools-m/manuals/final/call.pdf
+- Download and print the first 15 pages -- but not now
+- 
+- pools-m www.languages.dk 2010
+
+## Treasure (scavenger) hunts
+
+- http://www.google.com/search?q=internet%20treasure%20hunt%20esl&num=100
+- http://www.rochedalss.eq.edu.au/mapp.htm
+
+## Beginner scavenger hunt
+
+http://iteslj.org/th/1/sg-begin.html
+
+## Weather forecast hunt
+
+- What is the weather like in Mexico City today?
+- Is it raining?
+
+> + You can use http://weather.yahoo.com
+
+## Exchange rate hunt
+
+- How much is one US dollar worth in Taiwan NT dollars today?
+- Is it more or less than 30?
+
+> + You can use http://xe.com
+
+## Movie which made most money
+
+The highest grossing movie in history
+
+Did it make more than 3 billion dollars?
+
++ You can use http://www.ssonlineuniverse.net
+
++ http://en.wikipedia.org/wiki/List_of_highest-grossing_films
+
+## Twitter
+
+Famous people on Twitter
+
+- Dywane Wade http https://twitter.com/DywaneWade
+- Lady Gaga https://twitter.com/LadyGaga
+- Beyonce https://twitter.com/Beyonce
+- The pope https://twitter.com/Pontifex
+- Obama https://twitter.com/Obama
+- The White House https://twitter.com/WhiteHouse
+
+Who else of the rich and famous (and not so famous, eg,
+your friends) are on Twitter?
+
+## == Twitter people
+
+- Post message on http://ec.must.edu.tw
+- Ask questions about another group's Twitter person
+- Show tweets and tell about your group's Twitter person
+- The best show and tell sessions get 3 points.
+
+## Homework
+
+Retweet someone's message on Twitter
+so I (and your followers) can read it.
+
+## Homework Week 7
+
+- One message to internet_english@gmail.com
+- Post a link to a message you posted in English 
+  on a discussion board related to an interest.
+- Eg, Jeremy puts a message on http://espnfc.com
+- and posts the link in an email to internet_english@gmail.com
+
+## Homework results Week 7
+
+[http://web.nuu.edu.tw/~greg/AFB1J0/homework.yaml](http://web.nuu.edu.tw/~greg/AFB1J0/homework.yaml)
+
+## Classwork Week 8
+
+Chat on freenode
+ 
+- Connect via [http://webchat.freenode.net](http://webchat.freenode.net)
+- Choose a nickname, (tell Dr Bean so he can give you a score)
+- Enter channels:
+	* \##AFB1JO-Black
+	* \##AFB1JO-Blue
+	* \##AFB1JO-Green
+	* \##AFB1JO-Charcoal
+	* \##AFB1JO-Orange
+	* \##AFB1JO-Pink
+	* \##AFB1JO-White
+	* \##AFB1JO-Yellow
+
+- Copy the letters
+- Connect
+- Join other channels by typing '/join ##AFB1J0-Yellow' etc
+- Ask questions, answer questions
+
+## Classwork grade
+
+- Every question/answer gives 1 point to the questioner
+  and 1 point to the owner of the room, unless the questioner
+  owns that room.
+- The 4 groups with most points get a grade of 3, the other
+  4 groups get 2.
+
+## Homework Week 8
+
+6 questions and 6 answers to someone else's questions on one or more of:
+
+		- ##AFB1JO-Black
+		- ##AFB1JO-Blue
+		- ##AFB1JO-Green
+		- ##AFB1JO-Charcoal
+		- ##AFB1JO-Orange
+		- ##AFB1JO-Pink
+		- ##AFB1JO-White
+		- ##AFB1JO-Yellow
+
+## Exam Week 9
+
+[A bio-dad, biomom and single man with adopted child](http://web.nuu.edu.tw/~greg/minghsin.html)
+
+[Minghsin self intros](http://web.nuu.edu.tw/~greg/AFB1J0/minghsin_intros.yaml)
+
+[Questions about self-intros again](http://sac.nuu.edu.tw/cgi-bin/bett/script/bett_cgi.pl/login?exercise=AFB1J0)
+
+## Flashcards
+
+demonstration
+Anki http://ankisrs.net
+Mnemosyne http://mnemosyne-proj.org
+
+## Anki introduction
+
+[http://ankisrs.net/docs/manual.html](http://ankisrs.net/docs/manual.html)
+[http://www.youtube.com/watch?v=QS2G-k2hQyg&feature=plcp](http://www.youtube.com/watch?v=QS2G-k2hQyg&feature=plcp)
+
+## Installing Anki
+
+[http://www.youtube.com/watch?v=4CMaoOzhehU](http://www.youtube.com/watch?v=4CMaoOzhehU)
+
+## Using Anki in a browser
+
+[http://ankiweb.net](http://ankiweb.net)
+
+## Problems with flashcards
+
+* Non-contextualized (just single words)
+* Language-focused (not communication-focused),
+	so meaningless
+* Every repetition is the same (no change in the presentation)
+	but in the real world, the presented word always changes
+
+## Problems using flashcards
+
+- How to use?
+
+- If not practiced, no use.
+
+- Many flash cards make a collection or deck. Too many cards is same problem as not using the cards.
+
+- Answer: use the cards which you didn't see recently, or forgot last time.
+
+## http://memrise.com
+
+The site uses the metaphor of growing a plant for learning a language. So 'watering the plant' means practicing vocaulary you have learned.
+
+It will send you email messages when you get an account.
+
+## Let's learn some topic on http://memrise.com
+
+Learn [Upper-intermediate English](http://www.memrise.com/course/48407/upper-intermediate-english/)
+
+Dr Bean learns [http://www.memrise.com/course/984/hsk-level-4/](http://www.memrise.com/course/984/hsk-level-4/)
+
+## Quiz
+
+Which group knows the most words
+
+One word from the first 2 levels is shown.
+Group representatives have to write down the meaning.
+
+## Homework week 10
+
+15 words (with Chinese equivalents) that you would like to learn using anki/mnemosyne for an exam in Week 13.
+On [http://ec.must.edu.tw](http://ec.must.edu.tw)
+
+## Homework week 11
+
+- Create a course on memrise.com. Post screenshot on http://ec.must.edu.tw
+- Learn 5 words from another 明新 student's course. Post other screen shot also.
+
+15 words (with Chinese equivalents) that you would like to learn using anki/mnemosyne for an exam in Week 13.
+On [http://ec.must.edu.tw](http://ec.must.edu.tw)
+
+## Vocabulary
+
+[http://en.wikipedia.org/wiki/Vocabulary](http://en.wikipedia.org/wiki/Vocabulary)
+
+## Vocabulary frequency
+
+[Rank, frequency, English[(http://www.google.com/search?q=rank%20frequency%20english&num=100)
+
+[Search for rank of word.](http://www.wordcount.org/main.php)
+
+## Rank of word "the"
+
+a) 1st
+b) 3rd
+c) 7th
+
+. . . 
+
+a) 1st
+
+## Rank of word "English"
+
+a) 93rd
+b) 390th
+c) 3009th
+
+. . .
+
+b) 390th
+
+## Rank of word "good"
+
+a) 16th
+b) 61st
+c) 116th
+
+. . .
+
+c) 116th
+
+## Rank of word "oscars"
+
+a) 2711st
+b) 27111st
+c) 2711111st
+
+. . .
+
+## Homework week 12
+
+- Another 15 words (with Chinese equivalents) that you would like to learn using anki/mnemosyne for an exam in Week 13.
+
+- Make them easy words, that are important for you to learn.
+  Make sure they are among the 5,000 most common words. You can use [http://www.wordcount.org/main.php[(http://www.wordcount.org/main.php)
+On [http://ec.must.edu.tw](http://ec.must.edu.tw)
+
+# Discussion with people outside 台灣 in English
+
+## Penpals (via email)
+
+[Penpal sites](http://www.google.com/search?q=penpal%20sites&num=100)
+
+## Web discussion forums
+
+Sites for discussion of topics which interest us.
+
+Dr Bean:
+
+[Soccer discussion forums](http://www.google.com/search?q=soccer%20discussion%20forums&num=100)
+
+[Basketball discussion forums](http://www.google.com/search?q=basketball%20discussion%20forums&num=100)
+
+[Pet discussion forums](http://www.google.com/search?q=pet%20discussion%20forums&num=100)
+
+## Emily1's suggestions
+
+[Baseball discussion forums](https://www.google.com.tw/webhp?source=search_app&gfe_rd=cr&ei=1B96U-fRCsSh8wXVhoHAAg#q=baseball+discussion+forum)
+
+[Music discussion forums](https://www.google.com.tw/webhp?source=search_app&gfe_rd=cr&ei=DSF6U92SGMiHmQX4roGIBA#q=music+discussion+forum&spell=1)
+
+[Movie discussion forums](https://www.google.com.tw/webhp?source=search_app&gfe_rd=cr&ei=DSF6U92SGMiHmQX4roGIBA#q=movie+discussion+forum)
+
+[Dance discussion forums](https://www.google.com.tw/webhp?source=search_app&gfe_rd=cr&ei=DSF6U92SGMiHmQX4roGIBA#q=dance+discussion+forum)
+
+## Peggy's suggestions
+
+[Fashion discussion forums](http://www.search.ask.com/web?q=fashion+discussion&o=APN10044&tpr=10&gct=sb)
+
+[Story discussion forums](http://www.search.ask.com/web?q=story+discussion&o=APN10044&gct=sb&tpr=2&ts=1400542728611)
+
+[Group Discussion forums](http://www.search.ask.com/web?o=APN10044&gct=sb&tpr=5&q=Group+Discussions&&ots=1400542833565)
+
+[Cat discussion forums](http://www.search.ask.com/web?q=cat+Discussion&o=APN10044&gct=sb&tpr=2&ts=1400543009781)
+
+## Classwork
+
+- Find some kind of way of communicating with people outside 臺灣, eg chat, email, website.
+- Send a message to 2 sites.
+
+## Message to send
+
+	"Hi. I am a student from Taiwan.
+
+	I've been thinking about X.
+
+	I think X is y, a, and b. Because it/she/he is c, d, and e.
+
+	I'm really f, g, and h about X.
+
+	What do you think?
+
+	Name"
+
+## Homework Week 14
+
+A message to a penpal or forum, with a link, or copy posted on ec.must.edu.tw
+
+PLUS, a reply from someone to your message.
+
+## Sit back and wait till communications roll in.
+
+- They won't roll in.
+  	- Perhaps they are not interested in your topic.
+	- Perhaps they are shy.
+	- Perhaps they feel you aren't a member of the group.
+- Think about how you can get in touch with the thinking of the group.
+
+## Recommendation for one discussion forum
+
+- One or more persons from each group comes to front 
+- Introduces discussion forum
+  	- types of messages, eg on a clothes site: about jackets, pants
+	- participants eg fashion designers, clothes buyers
+	- types of communications eg light/heavy, conversational/academic, short/long, etc
+	- number of messages eg many messages a day, 1 or 2 a month
+	- types of interaction eg long-running threads/little response to individual messages
+
+## Unhappy about Week 14 homework
+
+I could only find one post by Betty on the Internet.
+
+-  http://www.musicbanter.com/rock-metal/77276-rock-bank.html
+
+And one post by Emily1
+
+- http://thethingamongst.us/index.php?threads/taiwan.1817/ 
+
+Peggy wrote a message but I don't think she posted it.
+
+# Posting competition
+
+## Claiming site
+
+Each person claims one site on http://ec.must.edu.tw
+
+- The first person to claim the site has exclusive use of it.
+- You cannot post on the site if someone has already claimed it.
+
+## Posting on site
+
+- Each person posts a message on his/her site.
+- Each person posts a clickable link on ec.must.edu.tw in reply to their claim of their site.
+
+## Replying to message on site
+
+- Each person replies to a message on his/her site.
+- Post a clickable link on ec.must.edu.tw in reply to their claim of their site..
+
+## Posting 2nd, 3rd message, replying to 2nd, 3rd message in a different thread.
+
+Continue
+
+## Winners
+
+The group with most (reasonable-length) messages and replies in different threads on their three sites.
+
+# Understanding discussion forum posting behavior
+
+## Homework
+
+- Emily1 last week
+- Oliver
+- Betty
+- Peggy
+- Avis
+- Emily1
+
+## Who got the best response?
+
+You have 5 minutes to post an answer on http://ec.must.edu.tw
+- One group, one answer, put the name of the group in the subject line.
+
+## Who did the most work?
+## Why might the responses to Emily on http://thethingamongst.us be making fun of her?
+## What do the posts of the women have in common and the one guy, Oliver's, not?
+## What do Peggy's post and Betty and Emily's messages have in common?
+## What do Avis's post and Betty and Emily's replies have in common?
+## Is http://thethingamongst.us an appropriate place for Emily's message about Taiwan?
+## Why might the website staff have removed replies to Betty's messages about surfing in Bali?
+
+[Local Style - Best Surf Breaks in Bali Indonesia, Episode 9 ](http://www.youtube.com/watch?v=_azIoZ50zuM)
+
+- One message was removed by the author's request.
+- Two messages were regarded as inappropriate.
+
+## Why did staff want Emily to repost her message about places to go in NY?
+
+## Classwork Week 17
+
+- One 20 word message to a discussion forum (3 points)
+- As many questions as possible about the questions on http://ec.must.edu.tw
+## The end
