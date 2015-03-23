@@ -386,6 +386,56 @@ students at college or for students working alone to learn the words they most
 needed. The sublists are ordered such that the words in the first sublist are
 the most frequent words and those in the last sublist are the least frequent.
 
+## The history of IMRAD in medical journals
+
+authored
+authors
+briefly
+contributed
+editors
+evolved
+format
+global
+internal
+interpreted
+investigation
+journal
+journals
+majority
+medical
+method
+methods
+norms
+objective
+overall
+period
+published
+randomly
+selected
+structure
+structured
+style
+theory
+
+Background: The scientific article in the health sciences [1]_______ from the letter form and purely descriptive [2]_______ in the seventeenth century to a very standardized structure in the twentieth century known as introduction, [3]_____________ , results, and discussion (IMRAD). The pace in which this [4]_______________ began to be used and when it became the most used standard of today's scientific discourse in the health sciences is not well established.
+
+Purpose: The purpose of this study is to point out the [5]_________ in time during which the IMRAD [6]_______________ was definitively and widely adopted in [7]___________ scientific writing.
+
+Methods: In a cross-sectional study, the frequency of articles written under the IMRAD [8]_______________ was measured from 1935 to 1985 in a [9]_____________ [10]____________ sample of articles [11]______________ in four leading [12]____________ in [13]____________ medicine: the British [14]__________ [15]____________ , JAMA, The Lancet, and the New England [16]__________ of Medicine.
+
+Results: The IMRAD [17]________________ , in those [18]______________ , began to be used in the 1940s. In the 1970s, it reached 80%25 and, in the 1980s, was the only pattern adopted in original papers.
+
+Conclusions: Although recommended since the beginning of the twentieth century, the IMRAD [19]______________ was adopted as a [20]____________ only in the 1970s. The influence of other disciplines and the recommendations of [21]__________ are among the facts that [22]__________________ to [23]__________ adhering to it.
+
+Since its origin in 1665, the scientific paper has been through many changes. Although during the first two centuries its form and [24]______ were not standardized, the letter form and the experimental report coexisted. The letter was usually single [25]______________ , written in a polite [26]________ , and addressed several subjects at the same time . The experimental report was purely descriptive, and events were often presented in chronological order. It [27]__________ to a more [28]________________ form in which methods and results were incipiently described and [29]____________________ , while the letter form disappeared . [30]________ description increasingly developed during the second half of the nineteenth century , and an [31]__________ organization known as [32]__________ " ---experiment ---discussion" appeared. In the early twentieth century, contemporary [33]______ began to be standardized with a decreasing use of the literary [34]________ . Gradually, in the course of the twentieth century, the formal established introduction, [35]____________ , results, and discussion (IMRAD) [36]______________ was adopted .
+
+However, neither the rate at which the use of this [37]________ increased nor the point at which it became the standard for today's [38]__________ scientific writing is well established. The main [39]______________ of this [40]______________________ is to discover when this [41]________ was definitively adopted. Also, to have a [42]________ idea of the articles published during the studied [43]__________ , articles written without the IMRAD [44]______________ will be [45]__________ described.
+
+## The history of IMRAD in medical journals--the original article
+
+- [The introduction, methods, results, and discussion (IMRAD) structure: a fifty-year survey ](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC442179/)
+
+
 ## Procedure: pre-test post-test
 
 Pretest: Homework Week 6 translate 180 words into Chinese
