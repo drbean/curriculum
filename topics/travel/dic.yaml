@@ -8,8 +8,8 @@
   - unclozeables
   - percent
 -
-  - "canada"
-  - "Across Canada"
+  - "canada-1"
+  - "Across Canada 1"
   - "topics"
   - "all"
   - |+
@@ -20,6 +20,16 @@
     W: I'm going for a month. I want to see as much as I can!
     M: You are so lucky! What places are you going to visit?
     W: First, I'll spend a few days in Vancouver. Then I'll take a train through the Rocky Mountains.
+
+  - I'm|so|just|the|Where|Canada|are you|to see|I can|You|lucky|What|I'll|Vancouver|Then|take|through|Rocky Mountains|Oh, you're|Rockies|That's|Then I'll|Toronto, and|Niagara Falls. Did|that you|actually|under|huge|It's|Maid of the Mist|Wow! That's|thing|You're|Well|don't|in Nova Scotia|every|And I'd|to bike|small|too|Have|time, and|of
+  - 100
+
+-
+  - "canada-2"
+  - "Across Canada 2"
+  - "topics"
+  - "all"
+  - |+
     M: Oh, you're riding through the Rockies! That's really exciting!
     W: Then I'll fly to Toronto, and take a bus to Niagara Falls. Did you know that you can actually take a boat under that huge waterfall? It's called Maid of the Mist.
     M: Wow! That's an amazing thing to do! You're so lucky!
@@ -39,7 +49,7 @@
   - answer
 -
   - topics
-  - canada
+  - canada-1
   - 1
   - all
   - ''
