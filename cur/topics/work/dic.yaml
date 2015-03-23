@@ -1,0 +1,52 @@
+---
+-
+  - id
+  - description
+  - genre
+  - target
+  - content
+  - unclozeables
+  - percent
+
+-
+  - "part-time-job-1"
+  - "A part-time job"
+  - "topics"
+  - "all"
+  - |+
+    B: I want to find a part-time job. Do you have any ideas about where I should look for work?
+    W: Have you looked in the newspaper? There are lots of job advertisements in the newspaper.
+    B: Yes, I have. But there were no jobs I was interested in.
+    W: Did you search on the Internet? Many companies put job advertisements on the Internet.
+    B: No, I haven't looked on the Internet. I don't know what I should search for.
+  - to|part-time|Do|have any|about where I|Have you|in the|There|lots of|Yes, I|But|were no|I was|in.|Did you|on the|many companies put|I haven't|on|I don't|what I|for.|that have|postings that|look at. You|also|for the|OK.|me what I|do. I'll|my|right now.|of some|at those|That|might|be very|Thanks
+  - 100
+
+-
+  - "part-time-job-2"
+  - "A part-time job"
+  - "topics"
+  - "all"
+  - |+
+    W: There are many websites that have job postings that you could look at. You could also search for the type of job that you are interested in.
+    B: OK. Thanks for telling me what I need to do. I'll start my Internet search right now.
+    W: I have a list of some websites. You could start looking at those first. That might save you some time.
+    B: That would be very useful. Thanks!
+  - to|part-time|Do|have any|about where I|Have you|in the|There|lots of|Yes, I|But|were no|I was|in.|Did you|on the|many companies put|I haven't|on|I don't|what I|for.|that have|postings that|look at. You|also|for the|OK.|me what I|do. I'll|my|right now.|of some|at those|That|might|be very|Thanks
+  - 100
+
+---
+-
+  - genre
+  - text
+  - id
+  - target
+  - content
+  - answer
+-
+  - topics
+  - canada-1
+  - 1
+  - all
+  - ''
+  - False
