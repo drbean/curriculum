@@ -386,48 +386,77 @@ students at college or for students working alone to learn the words they most
 needed. The sublists are ordered such that the words in the first sublist are
 the most frequent words and those in the last sublist are the least frequent.
 
-## The history of IMRAD in medical journals
+## The history of IMRAD in medical journals {.allowframebreaks}
 
 authored
 authors
 briefly
 contributed
 editors
-evolved
-format
+evolved(x2)
+format(x2)
 global
 internal
 interpreted
 investigation
-journal
-journals
+journal(x2)
+journals(x2)
 majority
-medical
+medical(x3)
 method
-methods
+methods(x2)
 norms
 objective
 overall
-period
+period(x2)
 published
 randomly
 selected
-structure
+structure(x7)
 structured
-style
+style(x4)
 theory
 
-Background: The scientific article in the health sciences [1]_______ from the letter form and purely descriptive [2]_______ in the seventeenth century to a very standardized structure in the twentieth century known as introduction, [3]_____________ , results, and discussion (IMRAD). The pace in which this [4]_______________ began to be used and when it became the most used standard of today's scientific discourse in the health sciences is not well established.
+Medical articles [1]____ from letters with a simple descriptive [2]____ 400 years ago to a standardized form now known as introduction, [3]____ , results, and discussion (IMRAD). The speed at which this [4]____ began to be used and the period it became standard in medicine is not well established. This study proposes to determine the [5]____ in time during which IMRAD [6]____ became the most common form of [7]____ scientific writing.
 
-Purpose: The purpose of this study is to point out the [5]_________ in time during which the IMRAD [6]_______________ was definitively and widely adopted in [7]___________ scientific writing.
+Methods: The frequency of articles following the IMRAD [8]____ was measured from 1935 to 1985 in a [9]____ [10]____ sample of articles [11]____ in four leading [12]____ in [13]____ medicine: the British [14]____ [15]____ , JAMA, The Lancet, and the New England [16]____ of Medicine.
 
-Methods: In a cross-sectional study, the frequency of articles written under the IMRAD [8]_______________ was measured from 1935 to 1985 in a [9]_____________ [10]____________ sample of articles [11]______________ in four leading [12]____________ in [13]____________ medicine: the British [14]__________ [15]____________ , JAMA, The Lancet, and the New England [16]__________ of Medicine.
+authored
+authors
+briefly
+contributed
+editors
+evolved(x2)
+format(x2)
+global
+internal
+interpreted
+investigation
+journal(x2)
+journals(x2)
+majority
+medical(x3)
+method
+methods(x2)
+norms
+objective
+overall
+period(x2)
+published
+randomly
+selected
+structure(x7)
+structured
+style(x4)
+theory
 
-Results: The IMRAD [17]________________ , in those [18]______________ , began to be used in the 1940s. In the 1970s, it reached 80%25 and, in the 1980s, was the only pattern adopted in original papers.
+Results: The IMRAD [17]____ , in those [18]____ , began to be used in the 1940s. In the 1970s, it reached 80% and, in the 1980s, was the only pattern adopted in original papers.
 
-Conclusions: Although recommended since the beginning of the twentieth century, the IMRAD [19]______________ was adopted as a [20]____________ only in the 1970s. The influence of other disciplines and the recommendations of [21]__________ are among the facts that [22]__________________ to [23]__________ adhering to it.
+Conclusions: Although recommended since the beginning of the twentieth century, the IMRAD [19]____ was adopted as a [20]____ only in the 1970s. The influence of other disciplines and the recommendations of [21]____ are among the facts that [22]____ to [23]____ adhering to it.
 
-Since its origin in 1665, the scientific paper has been through many changes. Although during the first two centuries its form and [24]______ were not standardized, the letter form and the experimental report coexisted. The letter was usually single [25]______________ , written in a polite [26]________ , and addressed several subjects at the same time . The experimental report was purely descriptive, and events were often presented in chronological order. It [27]__________ to a more [28]________________ form in which methods and results were incipiently described and [29]____________________ , while the letter form disappeared . [30]________ description increasingly developed during the second half of the nineteenth century , and an [31]__________ organization known as [32]__________ " ---experiment ---discussion" appeared. In the early twentieth century, contemporary [33]______ began to be standardized with a decreasing use of the literary [34]________ . Gradually, in the course of the twentieth century, the formal established introduction, [35]____________ , results, and discussion (IMRAD) [36]______________ was adopted .
+## More on the history of IMRAD in medical journals {.allowframebreaks}
+
+Since its origin in 1665, the scientific paper has been through many changes. Although during the first two centuries its form and [24]____ were not standardized, the letter form and the experimental report coexisted. The letter was usually single [25]____ , written in a polite [26]____ , and addressed several subjects at the same time . The experimental report was purely descriptive, and events were often presented in chronological order. It [27]____ to a more [28]____ form in which methods and results were incipiently described and [29]____ , while the letter form disappeared . [30]____ description increasingly developed during the second half of the nineteenth century , and an [31]__________ organization known as [32]__________ " ---experiment ---discussion" appeared. In the early twentieth century, contemporary [33]______ began to be standardized with a decreasing use of the literary [34]________ . Gradually, in the course of the twentieth century, the formal established introduction, [35]____________ , results, and discussion (IMRAD) [36]______________ was adopted .
 
 However, neither the rate at which the use of this [37]________ increased nor the point at which it became the standard for today's [38]__________ scientific writing is well established. The main [39]______________ of this [40]______________________ is to discover when this [41]________ was definitively adopted. Also, to have a [42]________ idea of the articles published during the studied [43]__________ , articles written without the IMRAD [44]______________ will be [45]__________ described.
 
