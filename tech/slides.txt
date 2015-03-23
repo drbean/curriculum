@@ -792,7 +792,9 @@ answers.
 	That is only one meaning, and probably not the most important one.
 
 	In any case, this will be regarded as the right answer in the exam. All others 
-	will be regarded as incorrect. Sorry.
+	will be regarded as incorrect, even if they are actually correct
+	
+	Do you want to change any of these translations. Report.
 
 ## Youtube self-introductions
 
