@@ -96,5 +96,271 @@ If you aren't working, a 30-second elevator pitch, directed at Dr Bean, like his
 How many points should you make?
 What words does he say you can use?
 
+## Practicing in the elevator
+
+Floor 7 to Floor 2
+
+- Get in the elevator at Floor 7
+- Wait for your turn to do your speech. You are at the end of the line waiting.
+- Do your speech
+- Get out of the elevator at Floor 2 and walk to the other end of the hall
+- Get in the elevator at Floor 2. (The elevator is waiting for you.)
+- Wait for your turn to do your speech. You are at the end of the line waiting.
+
+Floor 2 to Floor 7
+
+- Get in the elevator at Floor 2
+- Wait for your turn to do your speech. You are at the end of the line waiting.
+- Do your speech
+- Get out of the elevator at Floor 7 and walk to the other end of the hall
+- Get in the elevator at Floor 7. (The elevator is waiting for you.)
+- Wait for your turn to do your speech. You are at the end of the line waiting.
+
+## Elevator protocol
+
+When one person gets out:
+
+If one person gets out and no one is there waiting to go back up/down, everyone must get out of the elevator and wait for that person to join.
+
+There must be a constant number of people in each elevator.
+
+# Exam--Peer evaluation
+
+## Exam procedure
+
+3 rounds. Everyone does a speech.
+
+Then repeat twice.
+
+## Scoring and Score Tally
+
+--------------- --------------- --------------- ---------------
+4-1: Rd 1  2  3 3-1: Rd 1  2  3 2-1: Rd 1  2  3 1-1: Rd 1  2  3
+--------------- --------------- --------------- ---------------
+A               A               A               A
+
+B               B               B               B
+
+C               C               C               C
+--------------- --------------- --------------- ---------------
+
+--------------- --------------- --------------- ---------------
+4-2: Rd 1  2  3 3-2: Rd 1  2  3 2-2: Rd 1  2  3 1-2: Rd 1  2  3
+--------------- --------------- --------------- ---------------
+A               A               A               A
+
+B               B               B               B
+
+C               C               C               C
+--------------- --------------- --------------- ---------------
+
+
+---------------------- -----------------------
+Left Front: Rd 1  2  3 Right Front: Rd 1  2  3
+---------------------- -----------------------
+3:                     3: 
+4:                     4: 
+5:                     5: 
+
+--------------------- ----------------------
+Left Back: Rd 1  2  3 Right Back: Rd 1  2  2
+--------------------- ----------------------
+3:                    3: 
+4:                    4: 
+5:                    5: 
+--------------------- ----------------------
+
+## Starting Arrangement Round 1
+
+Left Front Right Front
+---------- -----------
+3-1    ←   1-1
+3-2        1-2
+---------- -----------
+
+ ↓          ↑
+
+Left Back  Right Back
+---------  ----------
+4-1    →   2-1
+4-2        2-2
+---------  ----------
+
+After each speech, the speaker leaves and goes anti-clockwise to join the next group. The other five, who listened to the speaker give her/him a score and write it on the board, and add to the tally of 3, 4, and 5's.
+
+## 1. Elevator Speech {1,2,3,4}-1 A in Round 1
+
+Left Front Right Front
+---------- -----------
+3-1-A      1-1-A
+---------- -----------
+
+Left Back  Right Back
+---------  ----------
+4-1-A      2-1-A
+---------  ----------
+
+
+## 2. Elevator Speech {1,2,3,4}-1 B in Round 1
+
+Left Front Right Front
+---------- -----------
+3-1-B      1-1-B
+---------- -----------
+
+Left Back  Right Back
+---------  ----------
+4-1-B      2-1-B
+---------  ----------
+
+
+## 3. Elevator Speech {1,2,3,4}-1 C in Round 1
+
+Left Front Right Front
+---------- -----------
+3-1-C      1-1-C
+---------- -----------
+
+Left Back  Right Back
+---------  ----------
+4-1-C      2-1-C
+---------  ----------
+
+
+## 4. Elevator Speech {1,2,3,4}-2 A in Round 1
+
+Left Front Right Front
+---------- -----------
+3-2-A      1-2-A
+---------- -----------
+
+Left Back  Right Back
+---------  ----------
+4-2-A      2-2-A
+---------  ----------
+
+
+## 5. Elevator Speech {1,2,3,4}-2 B in Round 1
+
+Left Front Right Front
+---------- -----------
+3-2-B      1-2-B
+---------- -----------
+
+Left Back  Right Back
+---------  ----------
+4-2-B      2-2-B
+---------  ----------
+
+
+## 6. Elevator Speech {1,2,3,4}-2 C in Round 1
+
+Left Front Right Front
+---------- -----------
+3-2-C      1-2-C
+---------- -----------
+
+Left Back  Right Back
+---------  ----------
+4-2-C      2-2-C
+---------  ----------
+
+## Round 2
+
+## Starting Arrangement Round 2
+
+Left Front Right Front
+---------- -----------
+3-1        1-1
+3-2         1-2
+---------- -----------
+
+Left Back  Right Back
+---------  ----------
+4-1        2-1
+4-2         2-2
+---------  ----------
+
+After each speech, the speaker leaves and goes anti-clockwise to join the next group. The other five, who listened to the speaker give her/him a score and write it on the board, and add to the tally of 3, 4, and 5's.
+
+## 7. Elevator Speech {1,2,3,4}-2 C
+
+Left Front Right Front
+---------- -----------
+3-2-C      1-2-C
+---------- -----------
+
+Left Back  Right Back
+---------  ----------
+3-2-C      1-2-C
+---------  ----------
+
+
+## 8. Elevator Speech {1,2,3,4}-2 B
+
+Left Front Right Front
+---------- -----------
+3-2-B      1-2-B
+---------- -----------
+
+Left Back  Right Back
+---------  ----------
+3-2-B      1-2-B
+---------  ----------
+
+
+
+## 9. Elevator Speech {1,2,3,4}-2 A
+
+Left Front Right Front
+---------- -----------
+3-2-A      1-2-A
+---------- -----------
+
+Left Back  Right Back
+---------  ----------
+3-2-A      1-2-A
+---------  ----------
+
+
+## 10. Elevator Speech {1,2,3,4}-1 C
+
+Left Front Right Front
+---------- -----------
+3-1-C      1-1-C
+---------- -----------
+
+Left Back  Right Back
+---------  ----------
+3-1-C      1-1-C
+---------  ----------
+
+
+## 11. Elevator Speech {1,2,3,4}-1 B
+
+Left Front Right Front
+---------- -----------
+3-1-B      1-1-B
+---------- -----------
+
+Left Back  Right Back
+---------  ----------
+3-1-B      1-1-B
+---------  ----------
+
+
+## 12. Elevator Speech {1,2,3,4}-2 A
+
+Left Front Right Front
+---------- -----------
+3-1-A      1-1-A
+---------- -----------
+
+Left Back  Right Back
+---------  ----------
+3-1-A      1-1-A
+---------  ----------
+
+
 
 ## The End
