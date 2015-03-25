@@ -1,0 +1,308 @@
+---
+genre: intermediate
+brockovich:
+  jigsaw:
+    0:
+      identifier: brockovich 0
+      A: You play Erin Brockovich in a movie. The real Erin Brockovich plays a waitress serving you. Ed Masry, her boss in real life, sits behind you.
+      B: In real life, you were Erin Brockovich's boss. You gave her a job because she needed money. You appear in the movie about her sitting behind Julia Roberts.
+      C: You had kids and no money. You worked very hard for Ed Masry and made a lot of money. You and he appear in the movie in which Julia Roberts plays you.
+      quiz:
+        - question: A
+          option: 
+           - Ed
+           - Erin
+           - Julia
+          answer: Julia
+        - question: B
+          option: 
+           - Ed
+           - Erin
+           - Julia
+          answer: Ed
+        - question: C
+          option: 
+           - Ed
+           - Erin
+           - Julia
+          answer: Erin
+        - question: Erin was poor when she met Ed.
+          answer: True
+        - question: Erin was working as a waitress.
+          answer: False
+        - question: Julia Roberts gave Erin a job.
+          answer: False
+        - question: Julia plays Erin in the movie.
+          answer: True
+        - question: Ed plays Erin's boss in the movie.
+          answer: False
+        - question: Erin becomes rich in real life.
+          answer: True
+        - question: Erin plays a waitress in the movie.
+          answer: True
+dickson:
+  jigsaw:
+    0:
+      identifier: dickson 0
+      A: You are the boss at a company. Your daughter, Dee wants to be an electrician there. You don't want her to work there, because Jim and the other electricians will not welcome her. But you give her a job anyway.
+      B: You are unhappy Alf, is letting his daughter, Dee work with your group of electricians, who are all men. You tell Dee she is taking jobs away from men with families. You tell her she only got the job because her dad is the boss.
+      C: You don't want to ask your dad, Alf to give you a job at his company. But you have to. You have 2 kids, no husband and no money. You work as an electrician. You work harder than Jim and the other men to show that women can be equal to men.
+      quiz:
+        - question: A
+          option: 
+           - Alf
+           - Dee
+           - Jim
+          answer: Alf
+        - question: B
+          option:
+           - Alf
+           - Dee
+           - Jim
+          answer: Jim
+        - question: C
+          option:
+           - Alf
+           - Dee
+           - Jim
+          answer: Dee
+        - question: Alf is Dee's father.
+          answer: True
+        - question: Dee doesn't need a job.
+          answer: False
+        - question: Dee wants to be an electrician.
+          answer: True
+        - question: Alf wants Dee to work for his company.
+          answer: False
+        - question: Jim wants Dee to work for the company.
+          answer: False
+        - question: Alf gives Dee a job.
+          answer: True
+        - question: Dee can't do as good a job as Jim.
+          answer: False
+abreu:
+  jigsaw:
+    0:
+      identifier: abreu 0
+      A: Your aunt, Claritza came to the U.S. in 1990 when you were 10. Her English was very good, but she had a Hispanic accent and she didn't know much about English names. You helped her to learn how to spell names by reading them out of the phone book to her.
+      B: Your company sells computer services to hospitals. You hired a young woman as a receptionist. She is from the Dominican Republic and had studied computers there. Her English is OK, but you are worried customers like John Doe won't understand her.
+      C: You are John Doe, a hospital administrator. You approach Joan's company for advice on computer systems at your hospital. When you visit, you are greeted by Claritza, Joan's receptionist. You are embarrassed when she asks you how you spell your name.
+      D: You are glad that Joan gave you the job, but worried that she will fire you if you can't handle customers. You have problems understanding John Doe, a customer. You don't know how to spell his last name. After, you ask Adela your niece for help.
+      quiz:
+        - question: A
+          option: 
+           - Adela
+           - Claritza
+           - Joan
+           - John Doe
+          answer: Adela
+        - question: B
+          option:
+           - Adela
+           - Claritza
+           - Joan
+           - John Doe
+          answer: Joan
+        - question: C
+          option:
+           - Adela
+           - Claritza
+           - Joan
+           - John Doe
+          answer: John Doe
+        - question: D
+          option:
+           - Adela
+           - Claritza
+           - Joan
+           - John Doe
+          answer: Claritza
+        - question: Claritza is Adela's aunt.
+          answer: True
+        - question: Joan employs Claritza.
+          answer: True
+        - question: John Doe is Joan's client.
+          answer: True
+        - question: Claritza can spell Doe's name.
+          answer: False
+        - question: Joan teaches Claritza spelling.
+          answer: False
+        - question: Joan is confident Claritza understands.
+          answer: False
+    1:
+      identifier: abreu 1
+      A: Your company sells computer services to hospitals. You hired Claritza as a receptionist. Her English is OK, but she has an accent, and you are worried customers like John Doe won't understand her. You listen to the way she takes their names.
+      B: You are worried that Joan will fire you if you can't handle customers. You have problems spelling the name of John Doe, a customer. You don't understand his explanation of how to spell his last name. Why does he talk about dead bodies?
+      C: You are John Doe, a hospital administrator. You are a customer of Joan's company. You need computer services at your hospital. You talk to Claritza, Joan's receptionist. You tell her that dead bodies have your name. She doesn't understand.
+      quiz:
+        - question: A
+          option: 
+           - Claritza
+           - Joan
+           - John Doe
+          answer: Joan
+        - question: B
+          option:
+           - Claritza
+           - Joan
+           - John Doe
+          answer: Claritza
+        - question: C
+          option:
+           - Claritza
+           - Joan
+           - John Doe
+          answer: John Doe
+        - question: Joan employs Claritza.
+          answer: True
+        - question: Joan knows Claritza is OK.
+          answer: False
+        - question: John Doe is Joan's customer.
+          answer: True
+        - question: Claritza is confident.
+          answer: False
+        - question: Claritza can spell Doe's name.
+          answer: False
+        - question: John Doe explains his name's meaning.
+          answer: True
+        - question: Dead bodies may be named 'John Doe.'
+          answer: True
+    2:
+      identifier: abreu 2
+      A: Your company sells computers. You hired Claritza as a receptionist. Her English is OK, but you are worried customers like John Smith won't understand her.
+      B: You are worried that Jane will fire you. You have problems spelling the name of John Smith, a customer. You ask him how to spell his name because you don't know.
+      C: You are John Smith, a customer of Joan's company. You need computers. You talk to Claritza, Jane's receptionist. You are surprised that she can't spell your name.
+      quiz:
+        - question: A
+          option: 
+           - Claritza
+           - Jane
+           - John Smith
+          answer: Jane
+        - question: B
+          option:
+           - Claritza
+           - Jane
+           - John Smith
+          answer: Claritza
+        - question: C
+          option:
+           - Claritza
+           - Jane
+           - John Smith
+          answer: John Smith
+        - question: Jane employs Claritza.
+          answer: True
+        - question: Jane knows Claritza is OK.
+          answer: False
+        - question: John Smith is Jane's customer.
+          answer: True
+        - question: Claritza is confident.
+          answer: False
+        - question: Claritza can spell Smith's name.
+          answer: False
+        - question: Claritza surprises Smith.
+          answer: True
+        - question: Claritza asks how to spell `Smith.'
+          answer: True
+  compcomp:
+    0:
+      identifier: abreu 0
+      White: |+
+        \begin{normalsize}The job of receptionist\end{normalsize}
+        \normalsize
+        \begin{description}
+        \item [The job] Making a good first impression by answering phones, routing calls, greeting visitors, responding to inquiries from \& providing information to the public.
+        \item [Variations] In hospitals, gathering patients' insurance information, giving directions. In hair salons: arranging appointments, directing to stylists, taking payment.
+        \item [Environment] Good-looking, quiet surroundings, but the work may be repetitious \& stressful, constantly answering the phone, and encountering difficult callers. However, it may also be friendly and motivating.
+        \item [Training] A high school diploma, interpersonal skills and computer proficiency are usually expected.
+        \end{description}
+      Black: |+
+        \begin{normalsize}Claritza Abreu's career\end{normalsize}
+        \normalsize
+        \begin{description}
+        \item [Dominican Republic] Born 1966. Graduated 1987, BS (information technology)
+        \item [Adult life in U.S.] 1989-1993 Receptionist (Health information services company)\\1993-2005 Information Services Manager (Boston Public Health Commission)\\2005-2010 Chief Information Officer (Massachusetts Department of Mental Health)\\2011-to date  Assistant Chief Information Officer (Massachusetts Office for Health \& Human Services)
+        \item [Languages] English: Full professional proficiency\\Spanish: Native (bilingual) proficiency
+
+        \end{description}
+      quiz:
+        - question: Question 5: Abreu. A receptionist is probably not the first person at a company that a client or customer will come into contact with.
+          answer: False
+        - question: Question 6: Abreu. Claritza's computer knowledge may have been one of the reasons she got the receptionist job.
+          answer: True
+        - question: Question 7: Abreu. The work that receptionists do does not depend on the type of company they work for.
+          answer: False
+        - question: Question 8: Abreu. Claritza had more qualifications than usually expected from a receptionist.
+          answer: True
+smallwood:
+  jigsaw:
+    2:
+      identifier: smallwood 2
+      A: You interviewed Tia. You thought she was attractive. You thought it was OK to ask her to stand up and turn around. You were not happy when she said, No.
+      B: You taught business. Tia was the only woman in your class. You gave her a hard time. You didn't sexually harass her like Mr Batchelor did at her interview.
+      C: You studied at an all-male business school. The teacher, Mr Payne was unfair. At the interview, Mr Batchelor offended you and you didn't stand up for him.
+      quiz:
+        - question: A
+          option: 
+           - Batchelor
+           - Payne
+           - Tia
+          answer: Batchelor
+        - question: B
+          option:
+           - Batchelor
+           - Payne
+           - Tia
+          answer: Payne
+        - question: C
+          option:
+           - Batchelor
+           - Payne
+           - Tia
+          answer: Tia
+        - question: Payne taught Tia.
+          answer: True
+        - question: Tia's teacher was friendly.
+          answer: False
+        - question: Payne treated her equally with the men.
+          answer: False
+        - question: Tia was sexually harassed by Payne.
+          answer: False
+        - question: Tia welcomed Batchelor's attention.
+          answer: False
+        - question: Tia was sexually harassed by Batchelor.
+          answer: True
+        - question: Both men offended Tia.
+          answer: True
+  compcomp:
+    0:
+      identifier: smallwood 0
+      White: |+
+        \begin{normalsize}Balancing roles of worker, mother, wife\end{normalsize}
+        \normalsize
+        \begin{description}
+        \item [Work] More women with families work nowadays. But they still have much housework at home. Most companies are unwilling to provide full pay while their female workers are giving birth.  \vspace{-0.3cm}
+        \item [Parenthood] In Taiwan, with extended families, working mothers have more options for day-care for their kids. In the West, child-care people have to be paid. And working mothers have less time to be with their kids.  \vspace{-0.6cm}
+        \item [Relationship with husband] Some husbands are more willing to help their wives cope. In the US. 1 in 3 families is headed by a single parent. Because divorce is more common, women are continuing to work even while married, to prepare for possible divorce.
+        \end{description}
+      Black: |+
+        \begin{normalsize}Sexual harassment\end{normalsize}
+        \normalsize
+        \begin{description}
+        \vspace{-0.3cm}
+        \item [Definition] Actions directed toward another person (usually, a woman) of a sexual nature that are unwelcome to that person, or to any witness to the actions. \vspace{-0.3cm}
+        \item [Situations] Often (not always) the harasser is a boss, or professor. The victim \& harasser can be any gender. Harassers may be unaware their actions are offensive.  \vspace{-0.6cm}
+        \item [Types] Public vs. private harassers. Humiliators, Ego-enhancers. Territorialists (eg Dickson's co-workers) \vspace{-0.6cm}
+        \item [Consequences] Victims who complain may be badly treated by harassers \& also their schools/companies. \vspace{-0.6cm}
+        \item [Law] Firing victims who complain, or a consistently hostile environment are illegal. In 2007, 12,510 complaints were made. Few made it to courts.
+        \end{description}
+      quiz:
+        - question: Question 9. Smallwood. Married women who are working may be worried about divorce.
+          answer: True
+        - question: Question 10. Smallwood. Sexual harassment is any unwelcome act directed at a woman.
+          answer: False
+        - question: Question 11. Smallwood. It may be easier being a working mother in Taiwan than the U.S.
+          answer: True
+        - question: Question 12. Smallwood. Harassers will only sexually harass victims, not otherwise badly treating them.
+          answer: False
