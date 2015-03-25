@@ -239,6 +239,44 @@ allen:
           answer  : True
         - question: Rex kept the rock.
           answer  : True
+    2:
+      identifier: judy allen 2
+      A: You and your husband, Rex, got divorced. You threw a big rock through his car window. Later he gave you some very heavy things.
+      B: After you and your wife, Judy divorced, you gave her back the rock she threw through your car window, but didn't tell her what it was.
+      C: You are the rock that Judy threw through Rex's car window. Rex gave Judy back some things. She didn't know they were you, the rock.
+      quiz:
+        - question: A
+          option:
+            - Judy
+            - Rex
+            - Rock
+          answer: Judy
+        - question: B
+          option:
+            - Judy
+            - Rex
+            - Rock
+          answer: Rex
+        - question: C
+          option:
+            - Judy
+            - Rex
+            - Rock
+          answer: Rock
+        - question: Judy divorced Rex because he damaged her car.
+          answer  : False
+        - question: Rex threw the rock away.
+          answer  : False
+        - question: Judy got some things back from Rex.
+          answer  : True
+        - question: Rex didn't know the things were the rock.
+          answer  : False
+        - question: Judy didn't know the things were the rock.
+          answer  : True
+        - question: Rex didn't tell Judy what the things were.
+          answer  : True
+        - question: The rock Judy had thrown was a different rock.
+          answer  : False
 goetz:
   jigsaw:
     0:
