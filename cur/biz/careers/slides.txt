@@ -380,7 +380,15 @@ With introductory paragraph, middle paragraphs (see 1. & 2.),
 	- Relationships between different tips--similarities
 		and differences
 
-## Candidates
+# Exam
+
+## Compcomp
+
+- [http://web.nuu.edu.tw/~greg/careers/questions.pdf ](http://web.nuu.edu.tw/~greg/careers/questions.pdf)
+
+# Candidates
+
+## Fast-Track's search for Sales Manager
 
 Fast-Track is looking for a new Polish Sales Manager.
 Sales are poor and staff is unmotivated.
@@ -392,6 +400,17 @@ He/She will be energetic, confident, outgoing, and have
 	3. good academic record,
 	4. administrative ability,
 	5. knowledge of languages.
+
+## Selection criteria
+
+      A: These criteria will be used to choose the candidate: 
+      
+      1. a natural leader,
+      2. most energetic, confident and outgoing, 
+      3. best sales record, 
+      4. best organizational skills, 
+      5. best academic record, 
+      6. most knowledge of languages, 
 
 ## Candidate questions 
 
@@ -449,15 +468,15 @@ He/She will be energetic, confident, outgoing, and have
 
 ## Conversation about candidates
 
-One: What do you think of the three candidates?
-Two: I don't know. There are 2 women and 1 man.
-One: How do you choose who is the best candidate?
-Two: Education is important. Experience, as a manager, and 
-sales person. Personality is also important. What do you think?
-One: It depends on the job, I think. Sales people need to be 
-very sociable people. I think I'd choose Barbara?
-Two: Why? She's very aggressive.
-One: Sales people need to be aggressive, I think.
+| One: What do you think of the three candidates?
+| Two: I don't know. There are 2 women and 1 man.
+| One: How do you choose who is the best candidate?
+| Two: Education is important. Experience, as a manager, and 
+| sales person. Personality is also important. What do you think?
+| One: It depends on the job, I think. Sales people need to be 
+| very sociable people. I think I'd choose Barbara?
+| Two: Why? She's very aggressive.
+| One: Sales people need to be aggressive, I think.
 
 ## Sentences about the candidates
 
@@ -559,51 +578,51 @@ The Student: Learn while away from the job.
 ## Barbara
 
 
- "Does Barbara have an aim?"
- "Does Barbara want to get to the top as soon as possible?"
- "Is Barbara very ambitious?"
- "Does Barbara think that Barbara can become a director, if Barbara gets the job?"
- "Does Barbara really want to become a director?"
- "Is becoming a director what Barbara really wants?"
- "Does Barbara apply for the job because Barbara thinks that Barbara has a lot to offer?"
- "Is Barbara competitive?"
- "Does Barbara like to win?"
- "Does Barbara know that a few people think that Barbara is difficult to work with?"
- "Is it true that Barbara is difficult to work with?"
- "Does Barbara get results?"
- "Does Barbara think that results are the main thing?"
+- "Does Barbara have an aim?"
+- "Does Barbara want to get to the top as soon as possible?"
+- "Is Barbara very ambitious?"
+- "Does Barbara think that Barbara can become a director, if Barbara gets the job?"
+- "Does Barbara really want to become a director?"
+- "Is becoming a director what Barbara really wants?"
+- "Does Barbara apply for the job because Barbara thinks that Barbara has a lot to offer?"
+- "Is Barbara competitive?"
+- "Does Barbara like to win?"
+- "Does Barbara know that a few people think that Barbara is difficult to work with?"
+- "Is it true that Barbara is difficult to work with?"
+- "Does Barbara get results?"
+- "Does Barbara think that results are the main thing?"
 
 ## Tadeusz
 
- "Does Tadeusz want to do a good job for the company?"
- "Does Tadeusz think that Fast-Track should expand slowly over the next five years?"
- "Does Tadeusz think that Fast-Track is in a very competitive market?"
- "Does Tadeusz think that Fast-Track shouldn't take too many risks?"
- "Does Tadeusz think that Fast-Track can increase market share in the long term?"
- "Does Tadeusz think that Fast-Track should be patient?"
- "Does Tadeusz think that Fast-Track should be realistic?"
- "Does Tadeusz feel that Tadeusz has the ability to do the job?"
- "Does Tadeusz feel that Tadeusz has the sales experience to do the job?"
- "Does Tadeusz say that Tadeusz is a safe pair of hands?"
- "Do people respect Tadeusz because Tadeusz has good judgement?"
+- "Does Tadeusz want to do a good job for the company?"
+- "Does Tadeusz think that Fast-Track should expand slowly over the next five years?"
+- "Does Tadeusz think that Fast-Track is in a very competitive market?"
+- "Does Tadeusz think that Fast-Track shouldn't take too many risks?"
+- "Does Tadeusz think that Fast-Track can increase market share in the long term?"
+- "Does Tadeusz think that Fast-Track should be patient?"
+- "Does Tadeusz think that Fast-Track should be realistic?"
+- "Does Tadeusz feel that Tadeusz has the ability to do the job?"
+- "Does Tadeusz feel that Tadeusz has the sales experience to do the job?"
+- "Does Tadeusz say that Tadeusz is a safe pair of hands?"
+- "Do people respect Tadeusz because Tadeusz has good judgement?"
 
 ## Eva
 
- "Does Eva want to start improving Fast-Track's sales team, if Fast-Track chooses Eva?"
- "If Fast-Track chooses Eva, does Eva want to start by improving Fast-Track's sales team?"
- "Does Eva want people to enjoy working in Fast-Track's sales department?"
- "Does Eva think that people in the sales deparment should help each other?"
- "Does Eva think that people in the sales department should help Eva as much as possible?"
- "Does Eva think that Fast-Track can get good results, if people help Eva do the job?"
- "Does Eva have a lot of sales experience?"
- "Is Eva successful?"
- "Does Eva think that Eva can lead a sales team well?"
- "Is Eva the head of a local business club?"
- "Does Eva like organizing people?"
- "Does Eva like telling people to do things?"
- "Does Eva say that Eva is a fast learner?"
- "Would Eva enjoy doing a training course to help Eva do the job better?"
- "Would Eva enjoy going on a training course to help Eva do the job better?"
+- "Does Eva want to start improving Fast-Track's sales team, if Fast-Track chooses Eva?"
+- "If Fast-Track chooses Eva, does Eva want to start by improving Fast-Track's sales team?"
+- "Does Eva want people to enjoy working in Fast-Track's sales department?"
+- "Does Eva think that people in the sales deparment should help each other?"
+- "Does Eva think that people in the sales department should help Eva as much as possible?"
+- "Does Eva think that Fast-Track can get good results, if people help Eva do the job?"
+- "Does Eva have a lot of sales experience?"
+- "Is Eva successful?"
+- "Does Eva think that Eva can lead a sales team well?"
+- "Is Eva the head of a local business club?"
+- "Does Eva like organizing people?"
+- "Does Eva like telling people to do things?"
+- "Does Eva say that Eva is a fast learner?"
+- "Would Eva enjoy doing a training course to help Eva do the job better?"
+- "Would Eva enjoy going on a training course to help Eva do the job better?"
 
 ## Dr Bean
 
