@@ -1161,8 +1161,8 @@ tips:
         10. \textbf{Get a life!} Relax on the weekend.\\
     12:
       identifier: tips 12
-      A: Tadeusz doesn't like to try new ideas to increase sales. He likes to do things the old way. It is easier. New ways may fail.
-      B: Fast-Track wants Tadeusz to try new ideas to increase sales. But he doesn't have any ideas, and he doesn't want to try thinking.
+      A: Tadeusz doesn't like to try new ideas, which may fail. He likes to do things the old way. It is easier. New ways are risky.
+      B: Fast-Track wants Tadeusz to try new ideas to increase sales. But he doesn't have any ideas. He is willing to depend on others' ideas.
       C: Tadeusz asks his co-workers for ideas. Some of them do have good ideas. He uses their ideas. The ideas work. Tadeusz is happy.
       quiz:
         - question: 'The candidate believes in:'
