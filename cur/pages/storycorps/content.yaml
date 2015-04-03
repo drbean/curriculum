@@ -191,6 +191,12 @@ topic:
         title: Memorial Day memories
         blurb: Last week's story about the US Army lieutenant killed in Iraq. His father <a href="http://www.npr.org/templates/story/story.php?storyId=104389637">describes</a> accidentally meeting the trauma nurse who prepared his body for viewing at a Memorial Day ceremony.
         comment: The father placed a <a href="http://images.google.com/search?tbm=isch&hl=en&source=hp&biw=624&bih=611&q=lei&btnG=Search+Images&gbv=2&aq=f&aqi=g10&aql=&oq=">lei</a> around her neck. <a href="http://en.wikipedia.org/wiki/Lei_(Hawaii)">Giving a lei</a> is a Hawaiian custom.
+      -
+        id: harllee
+        title: A chaplain at war
+        blurb: |
+          A <a href="http://www.google.com/search?q=chaplain&num=30">chaplain</a> is a religious person who cares for the spiritual needs of soldiers at war, or people in other non-religious organizations. Bob Harllee describes being a <a href="http://www.npr.org/templates/story/story.php?storyId=5430603">chaplain in Vietnam</a>.
+        comment: The other disasters we discussed were a plane crash and a hurricane, or <a href="http://www.google.com/search?q=acts%20of%20god&num=30">Acts of God</a>. War, on the other hand, is the Work of Man.
   -
     id: disease
     title: Coping with disease
@@ -292,6 +298,11 @@ topic:
         blurb: |
           Listen to <a href=http://signal.baldwincity.com/photos/2006/jun/22/10002/>Star Novak</a> talk about <a href=http://www.youtube.com/watch?v=DO4EciJgVD8>falling in love with flying,</a> a condition many Americans have, in <a href=http://www.youtube.com/watch?v=G-kcF89MHNc&feature=related>Kansas City</a>. See <a href=http://www.airliners.net</a> or <a href=http://www.smilinjack.com>http://www.smilinjack.com</a>. She is talking about the <a href=http://en.wikipedia.org/TWA>TWA</a> <a href=http://en.wikipedia.org/wiki/Lockheed_Constellation>Constellation</a>, in both of which <a href=http://en.wikipedia.org/wiki/Howard_Hughes>Howard_Hughes</a> had a hand.
         comment: Note the <a href=http://www.youtube.com/t/captions_about>closed captions, CC</a> on the Star Novak sound file. There is also a Chinese translation. Unfortunately (heh-heh), there are many errors in it.
+  -
+    id: crime
+    title: Crime--Offenders, Victims, the Police, the Courts
+    intro: No crime story is a good story, but for most people, crime stories are also fascinating, compelling, and hard to ignore.
+    story:
       -
         id: pigott
         title: Judge's relationship with criminal
@@ -311,12 +322,6 @@ topic:
           <li><a href="http://www.youtube.com/watch?v=kz2ZM3eR-nQ">Ferrigno on Night Court</a></li>
           <li><a href="http://www.youtube.com/watch?v=S6lm__xmapQ">Night Court - First appearance of Bob & June Wheeler</a></li>
           </ul>
-      -
-        id: harllee
-        title: A chaplain at war
-        blurb: |
-          A <a href="http://www.google.com/search?q=chaplain&num=30">chaplain</a> is a religious person who cares for the spiritual needs of soldiers at war, or people in other non-religious organizations. Bob Harllee describes being a <a href="http://www.npr.org/templates/story/story.php?storyId=5430603">chaplain in Vietnam</a>.
-        comment: The other disasters we discussed were a plane crash and a hurricane, or <a href="http://www.google.com/search?q=acts%20of%20god&num=30">Acts of God</a>. War, on the other hand, is the Work of Man.
   -
     id: katrina
     title: Hurrican Katrina
