@@ -303,6 +303,13 @@ topic:
     title: Crime--Offenders, Victims, the Police, the Courts
     intro: No crime story is a good story, but for most people, crime stories are also fascinating, compelling, and hard to ignore.
     story:
+      - 
+        id: blackh
+        title: Father reflects on murder of adopted daughter
+        blurb: |
+          A religious man talks about <a href="http://www.npr.org/templates/story/story.php?storyId=18791726">his murdered daughter and the man who murdered her.</a>
+        comment: Read <a href="http://www.willsworld.com/~mvfhr/whatcanlovedo.htm">an account of the event.</a>. A pastor claims, <a href="http://parsippanyumc.com/blog/?p=2194">"Black regards Ivan Simpson, the nurderer, as his friend."</a>
+
       -
         id: pigott
         title: Judge's relationship with criminal
