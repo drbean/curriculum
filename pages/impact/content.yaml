@@ -34,6 +34,12 @@ topic:
     intro: There are both wrong things and right things happening in the world. What is the right way for us to act to do good and not to do wrong?
     story:
       -
+        id: aid
+        title: Aid--Good or bad?
+        blurb: |
+          <a href="http://en.wikipedia.org/wiki/Dambisa_Moyo">Dambisa Moyo</a>, an African economist, argues that aid to Africa has been bad.
+        comment: Play or download a <a href=" http://learningenglish.voanews.com/content/international-aid-for-the-horn-of-africa-133038893/117067.html">VOA broadcast about aid in Africa</a> and listen from 12:07 to some problems. Then listen to a student question Bill Gates, a major aid-giver to Africa with the <a href="http://en.wikipedia.org/wiki/Bill_%26_Melinda_Gates_Foundation">Bill and Melinda Gates Foundation</a> about <a href="https://www.youtube.com/watch?v=5utDdxveaJc">his views of Dambisa Moyo</a>.
+      -
         id: refugees
         title: Who will help the refugees?
         blurb: |
