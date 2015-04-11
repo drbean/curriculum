@@ -1,0 +1,68 @@
+---
+-
+  - id
+  - description
+  - genre
+  - target
+  - content
+  - unclozeables
+  - percent
+-
+  - blackh
+  - "Man remembers murder of daughter"
+  - "conversation"
+  - all
+  - |+
+    We learned about what had happened in bits and pieces. She came home and he was hiding in the closet hoping to jump out the back window and get away. But she opened the closet door and she fell backwards and he tied her hands behind her back. And they had a conversation in the course of which she told him that he needed to get help with his drug habit. He told her to put burglar bars on the back window and always leave a light on. He asked her for sex and she said, 'You'll have to kill me first.' And so he did. 
+    
+    We were all just devastated. Nothing like this had ever happened. I mean, we'd known death but not like this. I'd never been in favor of the death penalty, but I wanted that man to hurt the way he had hurt her. I wanted him to hurt the way I was hurting. But after a while I wanted to know who it was, what kind of a monster would do a thing like this and I learned a little bit about Ivan Simpson, which is his name. I found out that he was born in a mental hospital. And that when he was about 11 years old his mother took him and his brother and sister to a swimming pool and said God was ordering her to destroy them. He escaped and his brother escaped from her but he watched while his mother drowned his little sister. Suzie and I both went to the district attorney's office and he was quite upset when we told him that we did not want this man killed. He plead guilty to every charge. And then it came turn for anybody who had been affected by the crime to say how this crime had affected them. So I read my statement and in my statement I said, 'I don't hate you, Ivan Simpson. But I hate with all my soul what you did to my daughter.' And I looked in his eyes. The tears were streaming down his cheeks. And before he was led away he asked to speak and was lead to the microphone and he twice said, "I'm so sorry for the pain that I've caused." And when I got back to my room that night, I couldn't sleep because I really felt as though a tremendous weight had been lifted from me and that I had forgiven him.
+  - Ivan Simpson|Suzie|district attorney
+  - 18
+-
+  - abath
+  - "Man remembers involvement in art theft"
+  - "conversation"
+  - all
+  - |+
+    [0:28] It's the Storycorps podcast. I'm Michael Garofolo, producer here at Storycorps, and today we're going to look back on the biggest art heist in history. I'm here with Jasmine Belcher Morris, who produced the story. Hi, Jasmine. 
+    Jasmine: Hi, Michael.
+    Michael: So, Jasmine, when did this robbery happen?
+    Jasmine: It happened almost exactly twenty-five years ago, in the really early morning hours of March 18, in 1990, at Boston's Isabella Stewart Gardner Museum.
+    Michael: So, what happened on that night in 1990.
+    Jasmine: That night, two men posing as police officers tricked the night watchmen into letting them in. And then they stole art work worth half a billion dollars. The thieves have never been caught and the art never recovered.
+    Michael: And what we're going to hear now from the security guard who opened the door that night.
+    Jasmine: Yep. His name is Rick Abath, and he hasn't done many interviews. But he agreed to come to Storycorps with his wife, Diana. And this is the only interview he's giving for the twenty-fifth anniversary.
+    Rick: At the time of the robbery I had just dropped out of Berklee College of Music. I was playing in a jam band, and working night shift at the museum. I was just this hippie guy who wasn't hurting anything, wasn't on anybody's radar, and the next day I was on everybody's radar for the largest art heist in history. You know most of the guards were either older or they were college students. Nobody there was capable of dealing with actual criminals. But that night 2 cops rang the doorbell. They had hats, badges. They looked like cops, and I let them in. They said, 'Are you here alone?' And I said, 'I have a partner that's out on a round.' They said, 'Call him down.' And they said, 'Gentlemen, this is a robbery.' They duct taped around our eyes and duct taped like the bottom of my chin to the top of my head, and they handcuffed me to the electrical box for seven hours. At first I was panicking, and then I started singing "I Shall Be Released" by Bob Dylan. I don't know how long I was singing that damn song for but it was quite some time. They took 3 Rembrandts, a Vermeer, a Manet, bunch of sketches by Degas. And two of the Rembrandts, they cut them out of the frames. So even if they get the paintings back they'll never be the same, and I feel horrible about that.
+
+    Diana: You ever feel embarrassed about it?
+
+    Rick: More than anything else I'm angry about it. I don't want to be remembered for this alone. I'd like to be remembered for the good things I've done. I'm a husband, a father of two really cool kids, but they're saying it's half a billion dollars worth of artwork now. And ultimately I'm the one who made that decision to buzz them in. It's the kind of thing most people don't have to learn to cope with. It's like doing penance. It's always there.
+    Michael: That was Rick Abath, who was a security guard on duty at the Isabella Stewart Gardner Museum in Boston. The night that it was robbed in the biggest art heist in history. He was speaking with his wife, Diana. So, Jasmine, there's a lot to talk about with this story.
+    Jasmine: Absolutely.
+    Michael: Let's start with the song that we'ver been hearing, Bob Dylan's "I Shall be Released".
+    Jasmine: Yeh, this is the song that Rick was singing for hours while he was tied up in the basement. And the lyrics are really ironic. And I doubt Rick realized that at the time. But looking back, they're like, they say everything can be replaced, so I remember every face of every man who put me here. And then of course, any day now, I shall be released. It's kind of a metaphor for his life. I mean, at the time, he literally wanted to bre released from the duct tape and handcuffs in the basement. But this has followed him for the last twenty five years.
+    Michael: And in a comment on the story, someone brought up Bill Buckner who in Boston's sports lore is the greatest scapegoat of all time. Because he's the guy who missed the ground ball in the World Series in 1986, which led them to lose that World Series. And that's followed him his entire life. And so this comment said that Rick Abath was the Bill Buckner of the art world.
+    Jasmine: So, that's kind of perfect.
+    Michael: So the robbery happened really early in the morning on March 18, which means the previous day, the day it had just ended was March 17, Saint Patrick's Day.
+    Jasmine: Which is a really rowdy time in Boston. And it's not strange to have a lot of police officers around. So that's why Rick didn't really think much of it when they showed up at the museum.
+    Michael: And what were the rules about opening the door.
+    Jasmine: Well, there was a rule, but I'll let Rick tell you about it.
+
+  - Rick|Diana|Berklee|Bob Dylan|Rembrandts|Vermeer|Manet|Degas|penance
+
+
+---
+-
+  - genre
+  - text
+  - id
+  - target
+  - content
+  - answer
+-
+  - "conversation"
+  - "blackh"
+  - 1
+  - all
+  - ""
+  - "False" 
