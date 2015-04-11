@@ -1,0 +1,146 @@
+% Crime
+% by Dr Bean
+% 三  2月 25 18:21:56 CST 2015
+
+# Hector Black and the murder of his adopted daughter
+
+## Hector Black and Ivan Simpson
+
+- [Black talks about his daughter and her murderer](http://www.npr.org/templates/story/story.php?storyId=18791726)
+- [Pastor's sermon on Black-Simpson relationship](http://parsippanyumc.com/blog/?p=2194)
+- [Account of trial](http://www.willsworld.com/~mvfhr/whatcanlovedo.htm)
+
+## Forgive
+
+AGENT forgive BENEFICIARY/ACTION
+
+- [The grammar of FORGIVE](http://verbs.colorado.edu/verb-index/vn/judgement-33.php)
+- [Examples of FORGIVE](http://verbs.colorado.edu/propbank/framesets-english/forgive-v.html)
+- [The semantics of FORGIVENESS](https://framenet2.icsi.berkeley.edu/fnReports/data/frame/Forgiveness.xml)
+
+I forgave a driver who passed too closely to me on my bicycle.
+
+I cannot forgive the students who don't do the homework.
+
+Your example?
+
+Something/someone you forgave, something/someone you didn't.
+
+## Devastate (=destroy)
+
+AGENT devastate PATIENT
+
+- [The grammar of DESTROY](http://verbs.colorado.edu/./verb-index/vn/destroy-44.php#destroy-44)
+- [Examples of DESTROY](http://verbs.colorado.edu/html_groupings/devastate-v.html)
+- [The semantics of DESTRUCTION](https://framenet2.icsi.berkeley.edu/fnReports/data/frame/Destroying.xml)
+
+I was devastated by my students' unwillingness to use English/that my students would not speak English.
+
+My inability to find a full-time job was devastating/devastated me.
+
+Your example? Active voice and passive voice.
+
+# Crime in the United States
+
+## Crime over time
+
+
+becoming
+crime
+doubled
+early
+however
+increased
+maximum
+nearly
+no-one
+period
+steeply
+theories
+violent
+
+From the 1940s, crime rates _____(1) in the United States, _____(2) greatest from the 1970s to the _____(3) 1990s. _____(4) crime increased _____(5) 400 percent between 1960 and its _____(6) in 1991. Property _____(7) more than _____(8) over the same _____(9). Since the 1990s, _____(10), crime in the United States has declined _____(11). There are _____(12) about this decline, but _____(13) is sure why it happened.
+
+## International comparisons
+
+
+countries
+higher
+lower
+property
+rate
+similar
+someone
+things
+
+The crime rate is _____(1) in the US to other _____(2) but the US _____(3) of homicides, ie crimes where _____(4) is killed, is a lot _____(5). On the other hand, _____(6) crime, eg taking _____(7) from houses, ie burglary, is _____(8).
+
+## Who commit crimes?
+
+Crime is more common in the cities, but there is wide variation between different cities. In 2011, Memphis had a violent crime rate of 980 per 100,000 residents, while Logan had only 49. The average offender is male, over 18 and white, but blacks are responsible for a very significantly greater percentage of total crimes than their percentage of the population, Native Americans commit slightly more than could be expected, whites are responsible for a slightly smaller percentage than their percentage of the population, and Asians commit many fewer crimes than might be expected from their percentage of the total population.
+
+
+# Chris Abath and the biggest art robbery in history
+
+## The art heist
+
+- [Storycorps podcast about Abath and the art heist](http://storycorps.org/podcast/)
+
+- [Former Security Guard Reflects On What He Lost One Fateful Night : NPR ](http://www.npr.org/2015/03/13/392567024/former-security-guard-reflects-on-what-he-lost-one-fateful-night)
+- [FBI Says It Knows Who's Behind Biggest Art Museum Heist In History : The Two-Way : NPR ](http://www.npr.org/blogs/thetwo-way/2013/03/19/174662693/fbi-says-it-knows-whos-behind-biggest-art-museum-heist-in-history)
+
+## Art robbery cloze
+
+carrier
+criminals
+frame
+means
+most
+motivated
+pieces
+purpose
+recovered
+scope
+to
+trivial
+weigh
+willing
+
+Art theft is usually for the _____(1) of resale or for ransom. Stolen art is sometimes used by _____(2) to secure loans. Only a small percentage of stolen art is _____(3), perhaps 5 to 10%. This _____(4) that little is known about the _____(5) and characteristics of art theft.  Many thieves are _____(6) by the fact that valuable art _____(7) are worth millions of dollars and _____(8) only a few kilograms at _____(9). Transport for items such as paintings is also _____(10), assuming the thief is _____(11) to inflict some damage _____(12) the painting by cutting it off the _____(13) and rolling it up into a tube _____(14)
+.
+
+## Art robbery cloze
+
+Also, while most high-profile museums have extremely tight security, many places with multi-million art collections works have disproportionately poor security measures.^ That makes them susceptible to thefts that are slightly more complicated than a typical smash-and-grab, but offer a huge potential payoff. Thieves sometimes target works based on their own familiarity with the artist, rather than the artist's reputation in the art world or the theoretical value of the work.^  Unfortunately for the thieves, it is extremely difficult to sell the most famous and valuable famous works without getting caught, since any interested buyer will almost certainly know the work is stolen and advertising it risks someone contacting the authorities. It is also difficult for the buyer to display the work to visitors without it being recognized as stolen, thus defeating much of the point of owning the art. Many famous works have instead been held for ransom from the legitimate owner or even returned without ransom, due to the lack of black-market customers. Returning for ransom also risks a sting operation.^
+
+## Art robbery link
+
+- [Art theft - Wikipedia, the free encyclopedia ](http://en.wikipedia.org/wiki/Art_heist)
+
+
+## It's the kind of thing most people don't have to learn to cope with. 
+
+One thing that you have to do, but other people don't. What kind of thing is it?
+
+Or, one thing that most people DO have to learn to cope with.
+
+Say:
+
+"I try to avoid cigarette smoke and cigarette smokers. It the kind of thing most non-smokers have to learn to cope with."
+
+That is, ways of avoiding cigarette smoke and cigarette smokers.
+
+## Cope with/Deal with
+
+Nobody there was capable of dealing with actual criminals. 
+
+- [The grammar of COPE](http://verbs.colorado.edu/verb-index/vn/cope-83.php#cope-83-1)
+- [Examples of COPE](http://verbs.colorado.edu/propbank/framesets-english/cope-v.html)
+  Synonyms of COPE: "deal with", manage, handle, ..
+- [The semantics of RESOLVING PROBLEMS](https://framenet2.icsi.berkeley.edu/fnReports/data/frame/Resolve_problem.xml)
+
+## I don't know how long I was singing that damn song for but it was quite some time. 
+ 
+I don't know how long I have been learning Chinese characters (for) but it is quite some time. 
+
+# The End
