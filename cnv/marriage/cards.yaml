@@ -72,6 +72,44 @@ clay:
       B: You were married to Rebia for 17 years. You had a good marriage, but you left your wife and moved to Michigan. There you met a woman called Jill, who you got involved with. You were attracted to her, and she needed some help. However, she had a boyfriend. You fought with the boyfriend and he shot you.
       C: You are an attractive woman. Your boyfriend doesn't like other men to show interest in you. You don't care if other men show interest in you. You are not interested in them. You love your boyfriend. But this other man thought you needed some help. Perhaps he was interested in you. You don't know. Anyway, your boyfriend, Jack is mad.
       D: You are angry with a man who appears interested in your girlfriend. He used some bad language with you. You used some bad language with him. You start fighting. He has a gun. You try to take the gun from him. As you pull the gun from him, it goes off and he is hit in the back. He dies.
+    6:
+      identifier: clay 6
+      A: You have kids, but your man has left you. Frank comes up to you at a dance party, and says he wants to marry you. You feel pleased and annoyed at the same time.
+      B: You are attracted to Rebia, and to tease her you go up to her and say you want to marry her, but you aren't really serious. She seems interested in you.
+      C: You are the rings that Frank didn't give to Rebia when they got married, but that he did give her when he had more money, five years after they got married.
+      quiz:
+        - question: A
+          option:
+            - Frank
+            - Rebia
+            - Rings
+          answer: Rebia
+        - question: B
+          option:
+            - Frank
+            - Rebia
+            - Rings
+          answer: Frank
+        - question: C
+          option:
+            - Frank
+            - Rebia
+            - Rings
+          answer: Rings
+        - question: Rebia already had kids when Frank met her.
+          answer  : True
+        - question: Frank was attracted to Rebia when they met.
+          answer  : True
+        - question: Frank really intended to marry Rebia.
+          answer  : False
+        - question: Frank's attention didn't excite Rebia.
+          answer  : False
+        - question: Frank gave Rebia rings on their marriage.
+          answer  : False
+        - question: Frank couldn't afford rings on their marriage.
+          answer  : True
+        - question: Frank had more money 5 years after their marriage.
+          answer  : True
   compcomp:
     0:
       identifier: Rebia Mixon Clay and Frank Mixon
@@ -359,6 +397,45 @@ goetz:
           answer: True
         - question: Dan isn't with Sam \& PJ on weekends.
           answer: False
+    3:
+      identifier: goetz 3
+      A: Before you married your wife, PJ, you loved her very much. After you got married, you loved her less. You fought. PJ left you, taking Sam, your son for 2 years.
+      B: After your marriage, Dan and you became unhappy. You separated for two years and came close to getting a divorce. You tell Sam, your son now your marriage is strong.
+      C: Your mom and dad used to fight a lot. You and your mom left your dad for 2 years. Now you are together. Your dad is happy, your mom is happy and you are happy.
+      quiz:
+        - question: A
+          option:
+            - Dan
+            - PJ
+            - Sam
+          answer: Dan
+        - question: B
+          option:
+            - Dan
+            - PJ
+            - Sam
+          answer: PJ
+        - question: C
+          option:
+            - Dan
+            - PJ
+            - Sam
+            - Sam
+          answer: Sam
+        - question: PJ and Dan's marriage wasn't good at first.
+          answer: False
+        - question: PJ and Dan's marriage got worse afterwards.
+          answer: True
+        - question: PJ took Sam and left Dan.
+          answer: True
+        - question: Dan took Sam and left PJ.
+          answer: False
+        - question: PJ and her husband are still separated.
+          answer: False
+        - question: Dan and PJ's marriage is stronger now.
+          answer: True
+        - question: PJ and Sam are happy, but Dan is unhappy.
+          answer: False
   compcomp:
     0:
       identifier: goetz
@@ -460,6 +537,44 @@ ward:
         - question: Martha had no doubts about Brad.
           answer  : False
         - question: Robbie was unhappy about the marriage.
+          answer  : False
+    2:
+      identifier: ward 2
+      A: You owned a place in Nevada for guests to come to get divorced. Beth and Robbie, your daughters, helped you. Beth was divorced.
+      B: You had a good marriage, but your sister, Beth was divorced. Your mother, Martha and you were surprised when Beth married a guest.
+      C: Your mother, Martha was unhappy you were divorced. She and your sister, Robbie were surprised when you married a man who had been a guest.
+      quiz:
+        - question: A
+          option:
+            - Beth
+            - Martha
+            - Robbie
+          answer: Martha
+        - question: B
+          option:
+            - Beth
+            - Martha
+            - Robbie
+          answer: Robbie
+        - question: C
+          option:
+            - Beth
+            - Martha
+            - Robbie
+          answer: Beth
+        - question: Martha had a place for guests to get divorced.
+          answer  : True
+        - question: Both Martha's daughters got divorced there.
+          answer  : False
+        - question: Beth divorced one of the guests.
+          answer  : False
+        - question: Beth surprised Martha by marrying a guest.
+          answer  : True
+        - question: Beth's 2nd husband had not been divorced.
+          answer  : False
+        - question: Both Beth and her husband had been divorced.
+          answer  : True
+        - question: Robbie's marriage also ended in divorce.
           answer  : False
   comp:
     0:
