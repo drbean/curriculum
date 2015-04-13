@@ -37,65 +37,60 @@ V0041015:
   weigh:        ~
   whip: ~
 V0041046:
-  bake:	~
-  baste:	~
-  blend:	~
-  boil:	~
-  braise:	~
-  brew:	~
-  chop:	~
-  combine:	~
-  cooker:	~
-  cut:	~
-  dough:	~
-  drain:	~
-  fried:	~
-  grilled:	~
-  knead:	~
-  mash:	~
-  mix:	~
-  oven:	~
-  peel:	~
-  pot:	~
-  precook:	~
-  press-cook:	~
-  refresh:	~
-  sauce:	~
-  saute:	~
-  season:	~
-  shave:	~
-  slice:	~
-  steam:	~
-  stir:	~
+  bake: ~
+  baste:        ~
+  blend:        ~
+  boil: ~
+  braise:       ~
+  brew: ~
+  combine:      ~
+  cooker:       ~
+  cut:  ~
+  dough:        ~
+  drain:        ~
+  mash: ~
+  mix:  ~
+  oven: ~
+  peel: ~
+  pot:  ~
+  precook:      ~
+  press-cook:   ~
+  refresh:      ~
+  sauce:        ~
+  saute:        ~
+  season:       ~
+  shave:        ~
+  slice:        ~
+  stir: ~
 V0041058:
-  all-purpose flour:	~
-  arrowroot flour:	~
-  baking powder:	~
-  bread:	~
-  breadcrumbs:	~
-  cooked rice flour:	~
-  cornstarch:	~
-  cream of tartar:	~
-  custard powder:	~
-  fried glutinous rice flour:	~
-  gluten flour:	~
-  low protein flour:	~
-  mungbean flour:	~
-  pastry cream:	~
-  potassium carbonate:	~
-  potato flour:	~
-  powdered baking ammonia:	~
-  rice flour:	~
-  self-raising flour:	~
-  sweet potato flour:	~
-  sweet rice flour:	~
-  tapioca flour:	~
-  toast:	~
-  vanilla　pod:	~
-  water chestnut flour:	~
-  wheat germ:	~
-  wheat gluten:	~
-  wheat starch:	~
-  whole wheat flour:	~
-  yeast:	~
-  yellow cornmeal:	~
+  all-purpose flour:   ~
+  arrowroot flour:     ~
+  baking powder:       ~
+  bread:       ~
+  breadcrumbs: ~
+  cooked rice flour:   ~
+  cornstarch:  ~
+  cream of tartar:     ~
+  custard powder:      ~
+  fried glutinous rice flour:  ~
+  gluten flour:        ~
+  low protein flour:   ~
+  mungbean flour:      ~
+  pastry cream:        ~
+  potassium carbonate: ~
+  potato flour:        ~
+  powdered baking ammonia:     ~
+  rice flour:  ~
+  self-raising flour:  ~
+  sweet potato flour:  ~
+  sweet rice flour:    ~
+  tapioca flour:       ~
+  toast:       ~
+  vanilla　pod:        ~
+  water chestnut flour:        ~
+  wheat germ:  ~
+  wheat gluten:        ~
+  wheat starch:        ~
+  whole wheat flour:   ~
+  yeast:       ~
+  yellow cornmeal:     ~
