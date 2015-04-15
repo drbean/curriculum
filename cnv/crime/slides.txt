@@ -145,7 +145,23 @@ I don't know how long I have been learning Chinese characters (for) but it is qu
 
 # Carlos Rocha regrets killing inmate after brother is killed the same way
 
+## Prison violence
 
-Prison violence is inflicted onto either another inmate, a prison guard, or themselves. In 1999 it was reported that one in five inmates, or twenty percent of inmates, at fourteen state prisons had been physically assaulted by another inmate.[2] Prison violence can consist of inmates fighting with their fists, homemade weapons, or being raped. The attacks that are implemented onto anyone but the self are either instrumental or expressive
+assaulted
+consist
+guard
+inflicted
+inmate
+prisons
+violence
+weapons
+
+Prison violence is _____(1) upon either another _____(2), a prison _____(3) or themselves. In 1999, one in five inmates at fourteen state _____(4) had been physically _____(5) by another inmate. Prison _____(6) can _____(7) of inmates fighting with their fists, homemade _____(8) or being raped.
+
+## Prison blind spots
+
+Prisons are covered with guards standing watch, and/or video cameras. Neither can cover every inch of a prison’s ground. Inmates purposefully look for blind spots to commit violent acts undetected by prison guards. The inmate’s goal is to know that they are going to be able to complete the act of violence to the degree that they desire without guards noticing and intervening. Inmates look for places that give them more time to complete their attacks.
+
+
 
 # The End
