@@ -8,28 +8,28 @@ V0041015:
   barbecue:                   燒烤
   broil:                      烤
   carve:                      雕刻
-  chop:                       斬
+  chop:                       剁
   crush:                      粉碎
   fry:                        炒
-  gel:                        凝膠
-  grate:                      爐排
+  gel:                        膠化
+  grate:                      摩擦
   gratin:                     奶汁
   grease:                     油脂
   grill:                      烤架
   knead:                      揉
   measure:                    測量
-  melt:                       熔
-  microwave:                  微波
+  melt:                       溶解
+  microwave:                  用微波爐熱
   mince:                      剁碎
   parboil:                    先煮成半熟
-  peel:                       果皮
-  pinch:                      掐
+  peel:                       削去
+  pinch:                      一少量
   pit:                        坑
   pour:                       倒
   roast:                      烤
   saute:                      炒香
-  scramble:                   爭奪
-  sear:                       瘢痕
+  scramble:                   炒
+  sear:                       燒烤
   serve:                      服務
   shell:                      外殼
   simmer:                     煨
@@ -39,29 +39,29 @@ V0041015:
 V0041046:
   bake:                       烘
   baste:                      繃
-  blend:                      混合
+  blend:                      使混和
   boil:                       熬
   braise:                     燴
   brew:                       釀
   combine:                    結合
-  cooker:                     灶
+  cooker:                     炊具
   cut:                        切
   dough:                      生麵團
-  drain:                      排水
+  drain:                      排出
   mash:                       搗碎
   mix:                        混合
   oven:                       烤箱
-  peel:                       果皮
+  peel:                       削去
   pot:                        鍋
   pre-cook:                   預煮
-  press-cook:                 壓煮
-  refresh:                    刷新
+  pressure-cook:              以高壓烹調
+  refresh:                    使清涼
   sauce:                      醬
   saute:                      炒香
   season:                     季節
   shave:                      刮鬍子
   slice:                      片
-  stir:                       轟動
+  stir:                       攪動
 V0041058:
   all-purpose flour:          通用麵粉
   arrowroot flour:            藕粉
@@ -78,7 +78,7 @@ V0041058:
   mungbean flour:             綠豆粉
   pastry cream:               酥皮奶油
   potassium carbonate:        碳酸鉀
-  potato flour:               土豆粉
+  potato flour:               馬鈴薯粉
   powdered baking ammonia:    粉烘焙氨
   rice flour:                 米粉
   self-raising flour:         自發麵粉
