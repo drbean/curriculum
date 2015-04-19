@@ -1,0 +1,42 @@
+---
+genre: impact
+aid:
+  jigsaw:
+    0:
+      identifier: aid 0
+      A: You are an economist from Africa. Your book says aid to Africa has made it dependent. Gates calls your book evil.
+      B: You give aid to Africa. You say you are not creating a dependency. You think Moyo's book has made others less willing to help.
+      C: You say Moyo's book shows aid has not helped Africa develop its economy, and has made it dependent. You ask Gates what he thinks. 
+      quiz:
+        - question: A
+          option: 
+           - Gates
+           - Moyo
+           - Student
+          answer: Moyo
+        - question: B
+          option: 
+           - Gates
+           - Moyo
+           - Student
+          answer: Gates
+        - question: C
+          option: 
+           - Gates
+           - Moyo
+           - Student
+          answer: Student
+        - question: Moyo says aid is good.
+          answer: False
+        - question: Moyo is against aid which makes Africa dependent.
+          answer: True
+        - question: Gates is against aid which makes Africa dependent.
+          answer: False
+        - question: Gate agrees his aid makes Africa more dependent.
+          answer: False
+        - question: The student asks if Gates thinks he is helping Africa develop.
+          answer: True
+        - question: Gates calls Moyo's book evil.
+          answer: True
+        - question: Moyo wants Africa to develop.
+          answer: True
