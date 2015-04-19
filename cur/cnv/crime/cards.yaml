@@ -87,10 +87,10 @@ abath:
           answer: True
         - question: The Rembrandt is now back at the museum.
           answer: False
-carlos-rocha:
+carlosrocha:
   jigsaw:
     0:
-      identifier: carlos-rocha
+      identifier: carlosrocha
       A: You were a gang member in prison. You killed Andy. Then, you were sad when Bruce died and now you regret killing Andy.
       B: You were Carlos's brother. Carlos was sad when you were killed in jail. And he realized Andy's family was sad when he died.
       C: You were not in Carlos's gang. Carlos killed you. Your family was sad when you died, like Carlos was when Bruce died.
