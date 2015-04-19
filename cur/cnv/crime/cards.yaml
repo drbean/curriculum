@@ -1,0 +1,51 @@
+genre: conversation
+carlo-rocha:
+abath:
+blackh:
+  compcomp:
+    0:
+      identifier: 
+      White:
+      Black:
+      quiz:
+        - question: 
+          answer: True
+  jigsaw:
+    0:
+      identifier: blackh
+      A: You killed Hector's daughter, Trish. You are now in prison. You write to Hector and he writes to you.
+      B: You were adopted by Hector when you were 8. He was devastated when Ivan killed you. But he befriends Ivan.
+      C: You were devastated by the killing of your adopted daughter, Trish. But you forgive Ivan and befriend him.
+      quiz:
+        - question: A
+          option: 
+           - Hector
+           - Ivan
+           - Trish
+          answer: Ivan
+        - question: B
+          option: 
+           - Hector
+           - Ivan
+           - Trish
+          answer: Trish
+        - question: C
+          option: 
+           - Hector
+           - Ivan
+           - Trish
+          answer: Hector
+        - question: Hector was Trish's biological father.
+          answer: False
+        - question: Trish and Ivan are both dead.
+          answer: False
+        - question: Hector wasn't very sad when Trish died.
+          answer: False
+        - question: Hector forgave Ivan.
+          answer: True
+        - question: Hector still hates Ivan.
+          answer: False
+        - question: Hector and Ivan write to each other.
+          answer: True
+        - question: Hector and Ivan become friends.
+          answer: True
