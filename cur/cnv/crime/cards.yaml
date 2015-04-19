@@ -87,3 +87,43 @@ abath:
           answer: True
         - question: The Rembrandt is now back at the museum.
           answer: False
+carlos-rocha:
+  jigsaw:
+    0:
+      identifier: carlos-rocha
+      A: You were a gang member in prison. You killed Andy. Then, you were sad when Bruce died and now you regret killing Andy.
+      B: You were Carlos's brother. Carlos was sad when you were killed in jail. And he realized Andy's family was sad when he died.
+      C: You were not in Carlos's gang. Carlos killed you. Your family was sad when you died, like Carlos was when Bruce died.
+      quiz:
+        - question: A
+          option: 
+           - Andy
+           - Bruce
+           - Carlos
+          answer: Carlos
+        - question: B
+          option: 
+           - Andy
+           - Bruce
+           - Carlos
+          answer: Bruce
+        - question: C
+          option: 
+           - Andy
+           - Bruce
+           - Carlos
+          answer: Andy
+        - question: Andy killed Carlos.
+          answer: False
+        - question: Andy's family is sad.
+          answer: True
+        - question: Bruce is Carlos's brother.
+          answer: True
+        - question: Bruce dies.
+          answer: True
+        - question: Carlos is not sad.
+          answer: False
+        - question: Carlos realizes Andy's family is sad.
+          answer: True
+        - question: Carlos doesn't regret killing Andy.
+          answer: False
