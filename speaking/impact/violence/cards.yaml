@@ -1,0 +1,42 @@
+---
+genre: impact
+experience:
+  jigsaw:
+    0:
+      identifier: experience 0
+      A: Dr Bean comes to get you from a bar to dance in a show. You tell him that the name of the doorman who hits him is Mike.
+      B: You are a bouncer in a bar. When Dr Bean takes Elsie out of the bar, you push him from behind. You then hit him.
+      C: You get Elsie for a concert. You say rudely to Mike, "Who are you?" He hits you above the eye, splitting your eyebrow.
+      quiz:
+        - question: A
+          option: 
+           - Dr Bean
+           - Elsie
+           - Mike
+          answer: Elsie
+        - question: B
+          option: 
+           - Dr Bean
+           - Elsie
+           - Mike
+          answer: Mike
+        - question: C
+          option: 
+           - Dr Bean
+           - Elsie
+           - Mike
+          answer: Dr Bean
+        - question: Dr Bean is in the bar, then Elsie comes in.
+          answer: False
+        - question: Dr Bean will dance in a show.
+          answer: False
+        - question: Dr Bean leaves the bar with Elsie.
+          answer: True
+        - question: Mike pushes Dr Bean out of the bar.
+          answer: True
+        - question: Mike says to Dr Bean, "Who are you?"
+          answer: False
+        - question: Dr Bean hits Mike.
+          answer: False
+        - question: Dr Bean's eyebrow is split.
+          answer: True
