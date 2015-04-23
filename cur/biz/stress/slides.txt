@@ -71,6 +71,8 @@ Imagine it as more stressful (not NUU, but NTU):
    - A few students try to help, but what they tell you doesn't
      	help.
 
+# Vocabulary
+
 ## Chinese for stress and for pressure
 
 What is the Chinese for pressure?
@@ -123,6 +125,20 @@ He doesn't feel as much stress as you would. Why?
 + He has SUPPORT from others on the mountain.
 + There is not much PRESSURE on him. It's just for fun.
 
+## When the going gets tough, the tough get going
+
+Pressure (or the external conditions) is NOT the same thing as stress
+
+- ["When the going gets tough the tough get going" - Google Search ](http://images.google.com/search?q=%22when+the+going+gets+tough+the+tough+get+going%22&num=100&tbm=isch)
+
+Bring it on!
+
+## Is running a marathon stressful?
+
+- [http://if-i-were-your-coach.blogspot.tw/2011/08/running-mad-does-stress-help-runners.html](http://if-i-were-your-coach.blogspot.tw/2011/08/running-mad-does-stress-help-runners.html)
+- ["Running cheaper than therapy" - Google Search ](http://images.google.com/search?q=%22running+cheaper+than+therapy%22&num=100&tbm=isch)
+
+
 ## 3 questions about CUSP and X at NTU
 
 One WH, one YN and one Tag question
@@ -156,22 +172,20 @@ having playing speaking taking talking thinking
 14. _____ in English
 15. _____ basketball
 
-# Vocabulary
-
 ## Talking about stress
 
-coping with
-dealing with
-handling		stress
-reducing
+|	coping with
+|	dealing with
+|	handling       stress
+|	reducing
 
-cause	 		stress
-prevent
+|	cause        stress
+|	prevent
 
-report			stress
-getting help with
-getting support from the boss because of ..
-talking to a manager about ...
+|	report        stress
+|	getting help with
+|	getting support from the boss because of ..
+|	talking to a manager about ...
 
 stress occurs in ..
 
@@ -227,6 +241,7 @@ iii. is unfriendly and critical of workers.
 ## Uncertainty and risk
 
 For example,
+
 	* Job security is low
 	* The future is unclear
 	* Management doesn't tell labor
@@ -474,14 +489,14 @@ Group 1, 2: Asks Dr Bean a question
 ---- skip
 1. A&B 2. C&D
 
-##Exam 1
+## Exam 1
 
 Jigsaw: Ellen MacArthur's stress Control (Lack of), Uncertainty,
 		Support (Lack of), Pressure
 
 A situation: http://web.nuu.edu.tw/~greg/stress/adventure.pdf
 
-##Dr Bean's stress:	Control (Lack of), Uncertainty,
+## Dr Bean's stress:	Control (Lack of), Uncertainty,
 		Support (Lack of), Pressure
 
 Stress problem: I like teaching, but it is very stressful. 
@@ -495,9 +510,11 @@ them to do.
 
 Keywords: make, work, difficult, make the students do something
 
-+Cause of stress: Control (Lack of)
+. . .
 
-##Student's stress:	Control (Lack of), Uncertainty,
+Cause of stress: Control (Lack of)
+
+## Student's stress:	Control (Lack of), Uncertainty,
 		Support (Lack of), Pressure
 
 Stress problem: X comes to school every morning by train 
@@ -511,9 +528,11 @@ She doesn't know if she will be late.
 
 Keywords: late, know, happen
 
-+Cause of stress: Uncertainty
+. . .
 
-##Elle Macarthur's stress:	Control (Lack of), Uncertainty,
+Cause of stress: Uncertainty
+
+## Elle Macarthur's stress:	Control (Lack of), Uncertainty,
 		Support (Lack of), Pressure
 
 Stress problem: The boat is very big and very fast, and she 
@@ -526,19 +545,23 @@ If you're not very careful, some very bad thing will happen.
 
 Keywords: skill, difficult, careful, bad thing
 
-+Cause of stress: Control (Lack of)
+. . .
 
-##Soccer's stress:	Control (Lack of), Uncertainty,
+Cause of stress: Control (Lack of)
+
+## Jim's stress:	Control (Lack of), Uncertainty,
 		Support (Lack of), Pressure
 
-Stress problem: Soccer wants to get on to the school basketball team, but no-one else he knows wants to. He finds it stressful none of his friends are interested in joining him. He has to practice himself a lot.
+Stress problem: Jim wants to get on to the school basketball team, but no-one else he knows wants to. He finds it stressful none of his friends are interested in joining him. He has to practice himself a lot.
 
 Stress reason: Doing this by yourself without help is stressful. 
 You can't talk to anyone. You can't find anyone to give you advice.
 
 Keywords: help, team, talking
 
-+Cause of stress: Support (Lack of)
+. . .
+
+Cause of stress: Support (Lack of)
 
 ## Stress cause battleships
                                 People
@@ -553,15 +576,15 @@ Keywords: help, team, talking
 
 ## Stress cause questions
 
-Does X feel stress because of pressure from the boss?
-Does X feel stress because of the bad environment?
-Does X feel stress because of uncertainty about the future?
-Does X feel stress because of a lack of support?
-Does X feel stress because of a lack of control?
+- Does X feel stress because of pressure from the boss?
+- Does X feel stress because of the bad environment?
+- Does X feel stress because of uncertainty about the future?
+- Does X feel stress because of a lack of support?
+- Does X feel stress because of a lack of control?
 
-Is pressure from the boss a reason X feels stress?
-Is pressure from the boss causing X stress?
-Do the causes of the stress X feels include pressure from the boss?
+- Is pressure from the boss a reason X feels stress?
+- Is pressure from the boss causing X stress?
+- Do the causes of the stress X feels include pressure from the boss?
 
 ## Summary of card
 
@@ -587,43 +610,38 @@ Do the causes of the stress X feels include pressure from the boss?
 ## Question
 Who cope with stress better, men or women?
 
+## Bradshaw
+
+- Who report less stress, men or women?
+- Who are better at asking for and getting support, men or women?
+- Who don't like to appear vulnerable, men or women?
+- Who are in fact more vulnerable, men or women?
+- Who cope with stress better, men or women?
+
+
 ## Suicide
 
-Hamlet:
-<http://en.wikipedia.org/wiki/To_be,_or_not_to_be>
+- [Hamlet: To be or not to be ](http://en.wikipedia.org/wiki/To_be,_or_not_to_be)
 
-Youtube
-http://www.google.com/search?q=site%3Ayoutube.com%20%22to%20be%20or%20not%20to%20be%22&num=100
+
+- [Hamlet on Youtube ](http://www.google.com/search?q=site%3Ayoutube.com%20%22to%20be%20or%20not%20to%20be%22&num=100)
+
 
 ## Comparative suicide rates
 
-http://sg.news.yahoo.com/men-higher-suicide-rate-women-taiwanese-official-says-084003613.html
+- [Taiwan men-women suicide rates](http://sg.news.yahoo.com/men-higher-suicide-rate-women-taiwanese-official-says-084003613.html)
 
 ## Steve Fossett and Ellen MacArthur
 
-Steve Fossett
-http://en.wikipedia.org/wiki/Steve_Fossett
-
-Steve Fossett's Global Flyer
-http://www.youtube.com/watch?v=Ml73lXW_jLs&feature=related
-
-Steve Fossett's Playstation
-http://www.youtube.com/watch?v=95c5ZM_y79U&feature=related
-
-Steve Fossett's Spirit of Freedom 3
-https://www.youtube.com/watch?v=zIlNI6XjuLM
-
-Ellen MacArthur
-http://en.wikipedia.org/wiki/Ellen_MacArthur
-
-Ellen MacArthur
-http://www.youtube.com/watch?v=B31LVMmgUuo
-
-Neal Petersen
-http://www.youtube.com/watch?v=ovhi4Di_GGw&playnext=1&list=PL75865E3F056CE914
-
-Donald Crowhurst
-http://en.wikipedia.org/wiki/Donald_Crowhurst
+- [Steve Fossett ](http://en.wikipedia.org/wiki/Steve_Fossett)
+- [Steve Fossett's Global Flyer ](http://www.youtube.com/watch?v=Ml73lXW_jLs&feature=related)
+- [Steve Fossett's Playstation ](http://www.youtube.com/watch?v=95c5ZM_y79U&feature=related)
+- [Steve Fossett's Spirit of Freedom 3 ](https://www.youtube.com/watch?v=zIlNI6XjuLM)
+- [Ellen MacArthur ](http://en.wikipedia.org/wiki/Ellen_MacArthur)
+- [Ellen MacArthur fastest single-handed circumnavigation](https://www.youtube.com/watch?v=elb-cus-Luo)
+- [Ellen MacArthur crying on her boat](http://www.youtube.com/watch?v=B31LVMmgUuo)
+- [Neal Petersen ](http://www.youtube.com/watch?v=ovhi4Di_GGw&playnext=1&list=PL75865E3F056CE914)
+- [Donald Crowhurst ](http://en.wikipedia.org/wiki/Donald_Crowhurst)
 
 ## Adventure Stress battleships
 
