@@ -1,0 +1,68 @@
+---
+field:
+  - exercise
+  - head
+  - answer
+  - sublist
+V0041055:
+  earthquake                : 地震             
+  flood                     : 洪水             
+  disaster                  : 災難             
+  infectious disease        : 傳染病           
+  thief                     : 賊               
+  medicine                  : 藥               
+  crackup                   : 裂了             
+  culture                   : 文化             
+  robbery                   : 搶劫             
+  storm                     : 風暴             
+  illness                   : 疾病             
+  virus                     : 病毒             
+  pathogeny                 : 病原             
+  currency                  : 貨幣             
+  abrupt                    : 突兀             
+  map                       : 地圖             
+  accident insurance        : 意外傷害保險     
+  lodging                   : 住宿             
+  baggage                   : 行李             
+  passport                  : 護照             
+  emergency exit            : 緊急出口         
+  missing                   : 失踪             
+  crime syndicate           : 黑社會性質組織罪 
+  sanitation                : 衛生             
+  traffic regulations       : 交通規則         
+  traffic safety            : 行車安全         
+  personal safety           : 人身安全         
+  public security           : 公安             
+  global positioning system : 全球定位系統     
+  contact                   : 聯繫             
+
+地震
+洪水
+災難
+傳染病
+賊
+藥
+裂了
+文化
+搶劫
+風暴
+疾病
+病毒
+病原
+貨幣
+突兀
+地圖
+意外傷害保險
+住宿
+行李
+護照
+緊急出口
+失踪
+黑社會性質組織罪
+衛生
+交通規則
+行車安全
+人身安全
+公安
+全球定位系統
+聯繫
