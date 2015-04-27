@@ -1,0 +1,52 @@
+---
+-
+  - id
+  - description
+  - genre
+  - target
+  - content
+  - unclozeables
+  - percent
+-
+  - "puppy-1"
+  - "A big responsibility"
+  - "topics"
+  - "all"
+  - |+
+    B: Mom, can I get a puppy?
+    W: No, Billy. Taking care of a pet is a big responsibility.
+    B: I promise to take good care of him, and you won't have to remind me to do things for him.
+    W: A dog isn't a toy that you play with for a while. He will be part of your life for the next 10 or 20 years. He is a living creature.
+    B: I understand that, Mom. I promise to feed him every morning and take him for a walk every afternoon.
+    W: That's part of the responsibility, but there's more. He needs a license ...
+  - Mom|No, Billy|I promise|of|a while|life|He|is|Mom|feed|of|and|vet|also|You|can't|so|too|Well|lawns|with|family|OK
+  - 100
+
+-
+  - "puppy-2"
+  - "A big responsibility"
+  - "topics"
+  - "all"
+  - |+
+    W: ... and has to go to the vet to get shots. A dog also needs companionship. You can't go off with your friends and leave him locked up in the house all day.
+    B: I understand, Mom. I have almost \$100 in the bank so I can pay for his license and shots now.
+    W: There are other expenses, too. Dog food is rather expensive.
+    B: Well, I have my job mowing lawns and I'll get a newspaper route.
+    W: I think we should discuss this with your father when he gets home. This is a family decision.
+    B: OK, Mom. Thanks!
+  - Mom|No, Billy|I promise|of|a while|life|He|is|Mom|feed|of|and|vet|also|You|can't|so|too|Well|lawns|with|family|OK
+  - 100
+-
+  - genre
+  - text
+  - id
+  - target
+  - content
+  - answer
+-
+  - topics
+  - puppy-1
+  - 1
+  - all
+  - ''
+  - False
