@@ -1,5 +1,5 @@
 % 科技英文, or Technical English
-% by Dr Bean
+% Cooking, by Dr Bean
 % Mon Mar 16 16:54:12 CST 2015
 
 # Vocabulary: base, report-base, test
