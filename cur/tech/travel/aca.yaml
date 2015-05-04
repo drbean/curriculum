@@ -5,6 +5,7 @@ field:
   - answer
   - sublist
 V0041055:
+
   earthquake                : 地震
   flood                     : 洪水
   disaster                  : 災難
@@ -37,6 +38,7 @@ V0041055:
   contact                   : 聯絡
 
 V0041064:
+
   destination               : 目的地
   journey                   : 旅程
   travel agent              : 旅行社
@@ -105,6 +107,7 @@ V9741022:
   souvenir                  : 紀念品
 
 V0041046:
+
   passport                  : 護照       
   lobby                     : 前廳       
   boarding gate             : 登機口     
