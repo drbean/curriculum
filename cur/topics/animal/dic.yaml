@@ -29,6 +29,23 @@
   - non_existent
   - 100
 
+-
+  - "elephant-1"
+  - "Elephants"
+  - "topics"
+  - "all"
+  - |+
+    Elephants are interesting. They are intelligent. They also have a great memory. You should always be kind to elephants. They remember everything. A woman from India told me a story. When she was little, she knew of an evil elephant keeper. He often hit his elephant. He was very mean and cruel to the elephant. Then the evil keeper sold the elephant. The new keeper was a very kind man. Many years later, the evil keeper met the elephant again. The elephant remembered the evil man.
+  - Elephants|They|intelligent|should|India|elephant|was|later|The elephant|it|man|each|low|far|helps|to
+-
+  - "elephant-2"
+  - "Elephants"
+  - "topics"
+  - "all"
+  - |+
+    He picked up a stone with his trunk and threw it at the evil man. The elephant still knew the man, even after so many years.
+    Elephants help each other too. Elephants use a special sound. The sound is so low that people cannot hear it. This sound travels really far. Groups of elephants can communicate with each other, even if they are far apart. this is very useful because it helps the elephants to find water and food. The elephants cooperate with each other.
+  - Elephants|They|intelligent|should|India|elephant|was|later|The elephant|it|man|each|low|far|helps|to
 ---
 -
   - genre
@@ -39,7 +56,7 @@
   - answer
 -
   - topics
-  - messages
+  - elephant
   - 1
   - all
   - ''
