@@ -38,6 +38,18 @@ topic:
           We now will test for some of the 180 words from the first 3 Academic Wordlist sublists for the Week5 exam (worth 5 points).
         comment: Guess the meanings (in Chinese) of the words, or if we know them, just write them in.
       -
+        id: cooking-test
+        title: Test for learning of 90 cooking words from V0041015, V0041046, V0041058 
+        blurb: |
+          We now will test for some of the 90 words from V0041015, V0041046, V0041058 for the Week9 exam (worth 5 points).
+        comment: Guess the meanings (in Chinese) of the words, or if we know them, just write them in.
+      -
+        id: travel
+        title: Baseline for learning of 120 travel words from Vam, Winny, Nini, Camuel
+        blurb: |
+          We now will learn the 120 words from 4 students, using <a href="http://ankisrs.n, or <a href="http://memrise.com">Memrise</a>. But first we need to establish what the base level is.
+        comment: To do this, we will guess the meanings (in Chinese) of the words, or if we know them, just write them in.
+      -
         id: sport
         title: Sports/Fitness sublists: Theory, Activities, Weight training, Sports
         blurb: |
