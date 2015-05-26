@@ -1,0 +1,82 @@
+---
+genre: impact
+ideology:
+  jigsaw:
+    0:
+      identifier: ideology 0
+      A: You want the government to help people without jobs. Adam calls you a socialist, but you are not. Jeff explains socialism.
+      B: You disagree with Carla that the government should help the unemployed. You don't want it involved. Jeff calls you a capitalist.
+      C: You say Carla doesn't, but socialists do, want government control of the economy, \& Adam is a capitalist because he wants the government out.
+      quiz:
+        - question: A
+          option: 
+           - Adam
+           - Carla
+           - Jeff
+          answer: Carla
+        - question: B
+          option: 
+           - Adam
+           - Carla
+           - Jeff
+          answer: Adam
+        - question: C
+          option: 
+           - Adam
+           - Carla
+           - Jeff
+          answer: Jeff
+        - question: Adam wants government aid for the unemployed.
+          answer: False
+        - question: Adam is a socialist.
+          answer: False
+        - question: Adam calls Carla a socialist.
+          answer: True
+        - question: Carla is a socialist.
+          answer: False
+        - question: Jeff calls Adam a capitalist.
+          answer: True
+        - question: Socialists want goverment control of the economy.
+          answer: True
+        - question: Capitalists want goverment control of the economy.
+          answer: False
+extremism:
+  jigsaw:
+    0:
+      identifier: extremism 0
+      A: You are a moderate but might vote for Mao Tse-tung because he would keep the moderate DPP and Kuomintang on their toes. 
+      B: You are a moderate, sometimes voting for the DPP and sometimes for the Kuomintang. And, unlike Jin-sook. you hate Mao Tse-tung.
+      C: You are an extremist. You hate moderates like Annan and JinSook. After the revolution, there will be no alternate points of view.
+      quiz:
+        - question: A
+          option: 
+           - Annan
+           - Jinsook
+           - Mao Tse-tung
+          answer: Jinsook
+        - question: B
+          option: 
+           - Annan
+           - Jinsook
+           - Mao Tse-tung
+          answer: Annan
+        - question: C
+          option: 
+           - Annan
+           - Jinsook
+           - Mao Tse-tung
+          answer: Mao Tse-tung
+        - question: Jinsook is an extremist.
+          answer: False
+        - question: Jinsook would vote for Mao.
+          answer: True
+        - question: Annan is a moderate.
+          answer: True
+        - question: Annan wouldn't vote for the DPP or KMT.
+          answer: False
+        - question: Jinsook thinks Mao would keep politics fresh.
+          answer: True
+        - question: Annan hates extremists.
+          answer: True
+        - question: Mao would allow moderates to speak.
+          answer: False
