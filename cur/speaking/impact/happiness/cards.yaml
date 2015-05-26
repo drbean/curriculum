@@ -1,0 +1,82 @@
+---
+genre: impact
+happyperson:
+  jigsaw:
+    0:
+      identifier: happyperson 0
+      A: You are not happy NOW, like the rat-racer, but you also don't expect to be happy in the FUTURE, like the hedonist.
+      B: You are happy now, unlike the rat-racer and nihilist, but you DON'T look forward to the future. You don't expect to be happy then.
+      C: You are working very hard and not enjoying it, but you expect to be happy in the future, unlike the hedonist, and nihilist.
+      quiz:
+        - question: A
+          option: 
+           - Hedonist
+           - Nihilist
+           - Rat-racer
+          answer: Nihilist
+        - question: B
+          option: 
+           - Hedonist
+           - Nihilist
+           - Rat-racer
+          answer: Hedonist
+        - question: C
+          option: 
+           - Hedonist
+           - Nihilist
+           - Rat-racer
+          answer: Rat-racer
+        - question: The rat-racer enjoys working.
+          answer: False
+        - question: The rat-racer expects future happiness.
+          answer: True
+        - question: The hedonist is having a good time now.
+          answer: True
+        - question: The hedonist also expects future happiness.
+          answer: False
+        - question: The nihilist is unhappy now.
+          answer: True
+        - question: The nihilist expects future happiness.
+          answer: False
+        - question: None of the 3 is both happy and expects to be happy later.
+          answer: False
+wellbeing:
+  jigsaw:
+    0:
+      identifier: wellbeing 0
+      A: Your people are not happy. Compared to Taiwan \& Denmark, they are not generous, they die early, and corruption is a problem.
+      B: Your people are happiest. You have the highest GDP, and lowest corruption. People are more generous. Their life expectancy equals Taiwan's.
+      C: Your people's happiness is between Denmark and India's. Generosity, corruption \& GDP are also in the middle. Life expectancy equals Denmark's
+      quiz:
+        - question: A
+          option: 
+           - Denmark
+           - India
+           - Taiwan
+          answer: India
+        - question: B
+          option: 
+           - Denmark
+           - India
+           - Taiwan
+          answer: Denmark
+        - question: C
+          option: 
+           - Denmark
+           - India
+           - Taiwan
+          answer: Taiwan
+        - question: People are happiest in Taiwan.
+          answer: False
+        - question: Taiwan's GDP is not as large as Denmark's.
+          answer: True
+        - question: Indian people are generous, live long, and there is no corruption.
+          answer: False
+        - question: People are happiest in India.
+          answer: False
+        - question: Life expectancy is the same in Taiwan and Denmark.
+          answer: True
+        - question: Happiness ranking: Taiwan, India, Denmark
+          answer: False
+        - question: Corruption, life expectancy, generosity and GDP appear to effect happiness.
+          answer: True
