@@ -76,6 +76,18 @@ AGENT verb THEME (V-ing)
 
 - [The grammar of CONSIDER](http://verbs.colorado.edu/vn3.2.3-test-uvi/vn/consider-29.9.php)
 
+NOT: "remember to do something"
+
+That is,
+
+1. think about it, then
+2. do it
+
+"remember doing something" is
+
+2. do it, and then later (perhaps much later)
+1. think about it (because it is memorable)
+
 Your example?
 
 
@@ -301,6 +313,10 @@ Your examples?
 ## Spelling quiz
 
 What does *-*-*-*-* spell?
+
+## Tammy Wynette and George Jones speak
+
+- [Two top singers, once a couple but now divorced, talk about their relationship](https://www.youtube.com/watch?v=fkUiCKtiF5E)
 
 
 ## Divorce in the US
