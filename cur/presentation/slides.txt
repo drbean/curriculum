@@ -132,7 +132,7 @@ There must be a constant number of people in each elevator.
 
 Then repeat twice.
 
-## Scoring and Score Tally
+## Funding
 
 --------------- --------------- --------------- ---------------
 4-1: Rd 1  2  3 3-1: Rd 1  2  3 2-1: Rd 1  2  3 1-1: Rd 1  2  3
@@ -154,20 +154,21 @@ B               B               B               B
 C               C               C               C
 --------------- --------------- --------------- ---------------
 
+## Beans remaining
 
 ---------------------- -----------------------
 Left Front: Rd 1  2  3 Right Front: Rd 1  2  3
 ---------------------- -----------------------
-3:                     3: 
-4:                     4: 
-5:                     5: 
+C:                     C: 
+B:                     B: 
+A:                     A: 
 
 --------------------- ----------------------
 Left Back: Rd 1  2  3 Right Back: Rd 1  2  2
 --------------------- ----------------------
-3:                    3: 
-4:                    4: 
-5:                    5: 
+C:                    C: 
+B:                    B: 
+A:                    A: 
 --------------------- ----------------------
 
 ## Starting Arrangement Round 1
@@ -188,16 +189,16 @@ Left Back  Right Back
 
 After each speech, the speaker leaves and goes anti-clockwise to join the next group. The other five, who listened to the speaker give her/him a score and write it on the board, and add to the tally of 3, 4, and 5's.
 
-## 1. Elevator Speech {1,2,3,4}-1 A in Round 1
+## 1. Elevator Speech {1,2,3,4}-1 C in Round 1
 
 Left Front Right Front
 ---------- -----------
-3-1-A      1-1-A
+3-1-C      1-1-C
 ---------- -----------
 
 Left Back  Right Back
 ---------  ----------
-4-1-A      2-1-A
+4-1-C      2-1-C
 ---------  ----------
 
 
@@ -214,20 +215,20 @@ Left Back  Right Back
 ---------  ----------
 
 
-## 3. Elevator Speech {1,2,3,4}-1 C in Round 1
+## 3. Elevator Speech {1,2,3,4}-1 A in Round 1
 
 Left Front Right Front
 ---------- -----------
-3-1-C      1-1-C
+3-1-A      1-1-A
 ---------- -----------
 
 Left Back  Right Back
 ---------  ----------
-4-1-C      2-1-C
+4-1-A      2-1-A
 ---------  ----------
 
 
-## 4. Elevator Speech {1,2,3,4}-2 A in Round 1
+## 4. Elevator Speech {1,2,3,4}-2 A in Round 2
 
 Left Front Right Front
 ---------- -----------
@@ -240,7 +241,7 @@ Left Back  Right Back
 ---------  ----------
 
 
-## 5. Elevator Speech {1,2,3,4}-2 B in Round 1
+## 5. Elevator Speech {1,2,3,4}-2 B in Round 2
 
 Left Front Right Front
 ---------- -----------
@@ -253,7 +254,7 @@ Left Back  Right Back
 ---------  ----------
 
 
-## 6. Elevator Speech {1,2,3,4}-2 C in Round 1
+## 6. Elevator Speech {1,2,3,4}-2 C in Round 2
 
 Left Front Right Front
 ---------- -----------
@@ -405,9 +406,11 @@ Week 9 peer evaluation
 
 Unit of currency: bean
 
-24,000 beans in 1 area
+48,000 beans in 1 area
 
-5,000 beans = 100% in exam
+- 10,000 beans = 100% in exam
+- 8,000 beans = 80% in exam
+- 6,000 beans = 60% in exam
 
 ## Week 6's speeches
 
@@ -457,7 +460,272 @@ The 70K decision you make today is not binding. It's just a reference point for 
 
 If you are willing to sacrifice your grade for the benefit of the ideas/causes/projects which are going to get 90K, go ahead.
 
-# Week 13 
+## People who have volunteered for 70K
 
+1-1
 
-## The End
+- YanSan
+
+1-2
+
+- Sing
+
+2-1
+
+- Danny
+
+2-2
+
+- Bruce
+
+3-1
+
+- Lucy
+
+3-2
+
+- Owen
+
+4-1
+
+- Karsten
+- Leon
+
+None of those people got 70K.
+
+Bruce, YanSan, and Karsten got 100K.
+
+# Plan for Week 13
+
+## Concerns (=organizations, companies)
+
+- Winny: coffee shop
+- [YanSan 苗栗市農會's efforts to raise farmer income  ](https://www.facebook.com/mcfa.org)
+
+- |	[苗栗市農會 ](http://youtu.be/kKOVH6PmPYU)
+
+- Bruce: ???
+- [Karsten: school for the retired ](https://www.youtube.com/watch?v=JFhwXklSaHM)
+- One more
+
+You will join one of these concerns as an investor, equal partner, a member of the board.
+
+The above people may/may not be allowed to join the concern they presented on in Week 9.
+
+## Presentation in Week 13
+
+In Week 13, you will present, for an individual grade, on one of 
+
+- Innovation, idea
+- Team
+- Market opportunity--do customers want what your concern has to offer
+- Money strategy, thinking
+
+in connection with your concern, because you want to get more investment in it.
+
+You are not a worker. You are a part-owner.
+
+## Government corruption
+
+Dr Bean is "leaning" on investors, collecting beans (=points from grade in Week 13) for attractive positions in these concerns
+
+- 10 beans for the most attractive
+- 5 beans for the less attractive
+- -5 beans for the positions which do not appeal
+- -10 beans for the least attractive
+
+In any case, the originator of the idea has no say in who is investing in the concern and taking control of the organization.
+
+## 5 Ventures, concerns
+
+- A: Miaoli Farmers' Association action to raise farmers' incomes
+- B: School for the retired
+- C: Clothes store
+- D: AIDS drug
+- E: Coffee shop
+
+## 4 Ingredients for success
+
+Innovation
+Team
+Market opportunity
+Money strategy
+
+## Responsibilities
+
++-----------+-------------+-----------+-----------+----------+----------+
+|           |Farmer income|Aged ed    |Clothes    |AIDS drug |Coffee    |
++===========+=============+===========+===========+==========+==========+
+|Innovation |Owen  +10    |May     +5 |Lucy    +5 |Willy  -5 |Joy    -10|
++-----------+-------------+-----------+-----------+----------+----------+
+|Team       |Tony         |Una     -10|Iris    +5 |Leon   +10|Jhaoyi -10|
++-----------+-------------+-----------+-----------+----------+----------+
+|Opportunity|Winny        |Karsten +5 |Christy -5 |YanSan -5 |Sing   -10|
++-----------+-------------+-----------+-----------+----------+----------+
+|Money      |Ada          |Bruce      |YuWen   -10|Danny  +10|Camuel -5 |
++-----------+-------------+-----------+-----------+----------+----------+
+
+## 80 percent of new businesses fail
+
+That means 4 of the 5 concerns fail.
+
+Which 4 of the 5 businesses will fail?
+
+Which one of the 5 businesses won't fail?
+
+Why?
+
+- [failure "new business" - Google ](http://www.google.com.tw/search?q=failure+%22new+business%22&num=100)
+
+## Your founder has gone in most cases
+
+Karsten is still with the School for the Aged concern, but 
+
+- YanSan is not with the Farmer Income concern
+- Camuel is not with the Clothes Store concern
+- Bruce is not with the AIDS Drug concern
+- Winny is not with the Coffee Shop concern
+
+## Why won't your concern fail?
+
+Think of innovation, team, opportunity, money!
+
+## The team
+
+- The ability to persuade others to buy into your vision
+- The ability to understand how money drives your business
+- Experience with the customers, the product, new businesses
+- Good relationships with customers, other businesses, investors, consultants
+
+## Why new businesses fail
+
+1. Failure to have strong, continuing exchanges with customers from which the way ahead is learned
+2. No value which is unique and different than other competitors
+3. Failure to communicate to customers--Do they understand? Are you boring? Are you compelling?
+4. You are not the right person to lead the concern. You do not have good leadership characteristics.
+5. Failure of your business model to generate income. The product is not something people will pay for.
+
+# Presentations recorded in Week 12 homework
+
+## Market opportunity
+
+- AIDS drug development
+- School for aged
+
+How are YanSan, Karsten's points similar/different?
+
+What don't they say?
+
+What can you say?
+
+- Winny
+- Christy
+- Sing
+
+## Innovation
+
+- Coffee shop
+- ??
+
+How are Joy, ??'s points similar/different?
+
+What don't they say?
+
+What can you say?
+
+- Owen
+- May
+- Lucy
+- Willy
+
+# Week 13 exam
+
+## Procedure 
+
+2 minutes before the WHOLE CLASS 
+
+In order:
+
+- AIDS drug development
+- Clothes store
+- Coffee shop
+- Miaoli farmers income 
+- School for aged
+
+## Investments {.allowframebreaks}
+
+Each group has 192,000 beans
+
+- Investments by groups 
+- Investments by Dr Bean
+
+- Groups write down investments based on individual's presentation
+- Dr Bean writes down investments based on individual's presentation
+
++-----------+----------+-----------+----------+-------------+-----------+
+|           |AIDS drug |Clothes    |Coffee    |Farmer income|Aged ed    |
++===========+==========+===========+==========+=============+===========+
+|Innovation |Willy     |Lucy       |Joy       |Owen         |May        |
++-----------+----------+-----------+----------+-------------+-----------+
+|Team       |Leon      |Iris       |Jhaoyi    |Tony         |Una        |
++-----------+----------+-----------+----------+-------------+-----------+
+|Opportunity|YanSan    |Christy    |Sing      |Winny        |Karsten    |
++-----------+----------+-----------+----------+-------------+-----------+
+|Money      |Danny     |YuWen      |Camuel    |Ada          |Bruce      |
++-----------+----------+-----------+----------+-------------+-----------+
+
+Sherry, Darnell speak on the coffee shop and farmers' income, respectively.
+
+The individual speaker gets the beans.
+
+After the 4 people in each concern speak, the investments are revealed. Dr Bean consults with the groups to decide the final investment, based on his/their reasons.
+
+# Preparation for Week 13
+
+## Group preparation
+
+In concerns, plan the 4 presentations. Have something written down.
+
+It is an individual grade, but if your partners do a good job, you will be helped too.
+Put it on elearning under the name of one member of the group.
+Eg, Presentation plan for Farmer income concern
+
+## Individual preparation
+
+Do you presentation for homework. Put it on youtube. Link it on elearning. Include 3 points (6-10 words) on elearning.
+
+# Week 13 Investors Meeting
+
+## Money
+
+We have approximately 32,000 beans for each concern.
+
+We have a fixed 176,000 beans. If you run out of money, May, Una, Karsten and Bruce will be unhappy. If you have too much at the end, you will have money you cannot use. Give approximately 32,000 beans for each concern.
+
+Listen to the teams explain Innovation, Team, Opportunity and Money in turn, and decide how much extra to invest.
+
+## Presentations
+
++-----------+----------+-----------+----------+-------------+-----------+
+|           |AIDS drug |Clothes    |Coffee    |Farmer income|Aged ed    |
++===========+==========+===========+==========+=============+===========+
+|Innovation |Willy     |Lucy       |Joy       |Owen         |May        |
++-----------+----------+-----------+----------+-------------+-----------+
+|Team       |Leon      |Iris       |Jhaoyi    |Tony         |Una        |
++-----------+----------+-----------+----------+-------------+-----------+
+|Opportunity|YanSan    |Christy    |Sing      |Winny        |Karsten    |
++-----------+----------+-----------+----------+-------------+-----------+
+|Money      |Danny     |YuWen      |Camuel    |Ada          |Bruce      |
++-----------+----------+-----------+----------+-------------+-----------+
+|Other      |          |           |Sherry    |Darnell      |           |
++-----------+----------+-----------+----------+-------------+-----------+
+
+## Investment card
+
+One investment card per group.
+
+All members of the group together decide how much they will invest on the basis of the presentation they just heard, and one person writes the amount on the card. eg 6,000 (minimum), 8,000, 10,000 (maximum).
+
+Then they write on the board, and discuss with Dr Bean.
+
+# The End
