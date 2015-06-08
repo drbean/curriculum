@@ -1,6 +1,6 @@
 % Speaking with Impact Issues 2 and Conversation Strategies
-% Politics by Dr Bean (高來圭)
-% 二  4月 28 09:43:22 CST 2015
+% Economics by Dr Bean (高來圭)
+% 三  6月  3 08:43:44 CST 2015
 
 # Textbook
 
@@ -12,192 +12,91 @@ The Discussion on the 3rd page is the REAL THING.
 
 ## Warm-up questions
 
-- [DPP (Democratic Progressive Party) ](http://english.dpp.org.tw/)
-- [KMT Kuomintang ](http://www.kmt.org.tw/)
+- [The dismal science - Wikipedia, the free encyclopedia ](http://en.wikipedia.org/wiki/The_dismal_science)
+
+	Thinking about money all the time makes me unhappy. Money is necessary, but I don't think money is good. I wouldn't want to be an entrepreneur
+
+- Why is the price of bananas getting cheaper at the moment?
+
+	Explain [Supply and Demand ](http://en.wikipedia.org/wiki/Supply_and_demand)
+ 
+- Economic disagreement
+
+	- Things economists disagree about
+
+	  	- Communism"http://en.wikipedia.org/wiki/Communism"
+		- Socialism"http://en.wikipedia.org/wiki/Socialism"
+		- Capitalism"http://en.wikipedia.org/wiki/Capitalism"
+
+	- [4 Politically Controversial Issues Where All Economists Agree- The Atlantic](http://www.theatlantic.com/business/archive/2012/04/4-politically-controversial-issues-where-all-economists-agree/255600/)
+
+# Economic vocabulary
+
+## Words
+
+inflation
+recession
+indirect tax
+exports
+imports
+market research
+productivity
+trade deficit
+Gross National Product
+Gross Domestic Product
+economic growth
+consumption
+supply
+demand
+
+通貨膨脹
+不景氣
+間接稅
+出口
+進口
+市場調查
+生產率
+逆差
+國民生產總值
+國內生產總值
+經濟增長
+消費
+供應
+需求
+
+## Translate the Chinese
+
+The economy's in a mess. The 
+逆差
+is getting larger,
+生產率
+is declining and
+經濟增長
+is stagnating.
+
+If things get worse, we'll be in a 
+不景氣
+
+M: The government should encourage 
+出口
+to reduce the 
+逆差
+and boost 
+消費
+to stimulate
+經濟增長.
+
+C: The government is afraid of 
+通貨膨脹.
+All the 
+市場調查
+I've seen indicates that prices won't increase fast.
+We have to focus on avoiding
+不景氣.
 
-# Political vocabulary
 
-## moderate
 
-moderate
 
-. . . 
-
-溫和       
-
-## interest groups
-
-interest groups
-
-. . . 
-
-利益集團   
-
-## majority
-
-majority
-
-. . . 
-
-多數       
-
-## socialist
-
-socialist
-
-. . . 
-
-社會主義的 
-
-## election
-
-election
-
-. . . 
-
-選舉       
-
-## represent
-
-represent
-
-. . . 
-
-代表       
-
-## campaign
-
-campaign
-
-. . . 
-
-運動       
-
-## ideology
-
-ideology
-
-. . . 
-
-思想       
-
-## communism
-
-communism
-
-. . . 
-
-共產主義   
-
-## idealists
-
-idealists
-
-. . . 
-
-理想主義者 
-
-## left wing
-
-left wing
-
-. . . 
-
-左翼       
-
-## right wing
-
-right wing
-
-. . . 
-
-右翼       
-
-## prime minister
-
-prime minister
-
-. . . 
-
-總理       
-
-## president
-
-president
-
-. . . 
-
-總統       
-
-## extremist
-
-extremist
-
-. . . 
-
-極端主義   
-
-## middle of the road
-
-middle of the road
-
-. . . 
-
-路中間     
-
-## moderate
-
-moderate
-
-. . . 
-
-溫和       
-
-
-## contentious
-
-contentious
-
-. . . 
-
-爭議
-
-## complacent
-
-complacent
-
-. . . 
-
-自滿
-
-## dynamic
-
-dynamic
-
-. . . 
-
-動態
-
-
-溫和
-利益集團
-多數
-社會主義的
-選舉
-代表
-運動
-思想
-共產主義
-理想主義者
-左翼
-右翼
-總理
-總統
-極端主義
-路中間
-溫和
-
-# Dr Bean and others' political views
 
 ## Dr Bean and Yoko
 
@@ -250,51 +149,24 @@ punishment.
 
 # Points of view
 
-## Annan, Jin-Sook argue about politics {.allowframebreaks}
+## Abena, Christina argue about economics {.allowframebreaks}
 
-1. Jin-sook says, "It's a good idea to have extremists to keep moderates on their toes." Does she mean:
+1. Abena argues income tax should be reduced
 
-- Extremists can be good for a society to have
-- Extremists should be eliminated and replaced with moderates
+- What are the good effects she expects?
+- What are the bad effects she expects?
 
-2. "To keep a person on his/her toes" is an idiom from boxing, a martial art. In this situation, it means to
+2. Christina argues income tax should be increased
 
-- force moderates into a bad position, where they cannot respond to changes
-- make moderates active, aware and responsive, ready to react to changes
+- What are the good effects she expects?
+- What are the bad effects she expects?
 
-3. Who is the idealist? Who is the realist? What makes you think so?
+3. Which sectors of society would support Abena, which Christina?
 
-An idealist thinks about how things could/should be. A realist says that's not important. What is important is how things ARE.
+4. What do you think about income tax?
 
 - Annan, Jin-Sook
 - Jin-Sook, Annan
-
-4. Who is idealistic about extremism?
-
-- Annan
-- Jin-Sook
-
-# Being critical
-
-## Let's criticize communism {.allowframebreaks}
-
-Dr Bean thinks communism may be good in theory, but it's bad in practice.
-
-It's good to help the 'proletariat' (= the working class) but government control of the economy does not work. It's better to let people have free markets. 
-
-In markets, people have more information about their needs, and can make better decisions than government bureaucrats.
-
-Government bureaucrats probably think they know best, and are probably trying to help. But the economy is too complicated to be controlled successfully.
-
-## Let's criticize capitalism {.allowframebreaks}
-
-Dr Bean thinks it's OK to be a capitalist, but he isn't a capitalist.
-
-Money may be necessary, but the interesting and important things in life are not work and making money. It's not good to have lots of money.
-
-People should try to do things that DON'T make money.
-
-# A discussion of different political philosophies
 
 ## Capitalism and socialism/communism {.allowframebreaks}
 
@@ -312,5 +184,17 @@ Have a similar discussion, about:
   	- Capitalists: 1-1, 1-2, 2-1, 2-2
   	- Communists: 3-1, 3-2, 4-1, 4-2
 
+## Dr Bean and Steve's plan to publish a writing textbook (p 83)
+
+They are teachers, not businessmen. They need managers, who will make the business decisions, to run the company.
+
+You are those managers.
+
+Make decisions about:
+
+	- Capital
+	- Location
+	- Marketing strategy
+	- Business forecast
 
 # The end
