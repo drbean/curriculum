@@ -95,58 +95,6 @@ We have to focus on avoiding
 不景氣.
 
 
-
-
-
-## Dr Bean and Yoko
-
-- He has little interest in political affairs, but he interested in talking about political ideologies.
-- She is interested in elections in Japan and is radical, voting for communist candidates and opposition parties and against the government party in power.
-
-## Dr Bean's mother and father
-
-- Dr Bean's father came from a middle-class family and he supported moderate right-wing candidates. In the US, he would have voted for the Republican Party.
-- Dr Bean's mother came from a working-class family and she supported moderate left-wing candidates. In the US, she would have voted for the Democratic Party.
-
-## Steve Hoover and his wife
-
-- Steve (I think) has good things to say about the DPP, despite Chen SuiBian.
-- Steve's wife is Hakka, and apparently supports the KMT, judging from what he has said to me.
-
-Ask him.
-
-The Hakka have traditionally supported the KMT, haven't they?
-
-They have opposed Taiwanese independence movements for hundreds of years, haven't they?
-
-## Left-wing--Right-wing
-
-- [Left-wing politics - Wikipedia, the free encyclopedia ](http://en.wikipedia.org/wiki/Left-wing)
-- [Right-wing politics - Wikipedia, the free encyclopedia ](http://en.wikipedia.org/wiki/Right-wing)
-
-## Your experience
-
-Tell your group your experience of other people's political views
-
-Eg, your family, or friends, or famous figures
-
-## Politics and other topics to avoid on first meetings
-
-According to, [Mastering the Art of Small Talk ](http://www.ou.edu/class/bc2813/ConversationTips/MasteringSmallTalk.htm):
-
-When you first meet a person, avoid these unpleasant, overly
-personal, or highly controversial issues because they can quickly
-degenerate into depressing conversations or arguments:
-
-- Sex, politics, and religion.
-- Personal, health, money, or family problems.
-- Divorce or death.
-- Gory crimes and decaying moral values of Western civilization.
-- Layoffs and gloomy economic predictions.
-- Terrorism, war, pestilence, and famine.
-- Emotionally charged issues such as abortion, welfare, or capital
-punishment.
-
 # Points of view
 
 ## Abena, Christina argue about economics {.allowframebreaks}
@@ -184,6 +132,8 @@ Have a similar discussion, about:
   	- Capitalists: 1-1, 1-2, 2-1, 2-2
   	- Communists: 3-1, 3-2, 4-1, 4-2
 
+# Dr Bean and Steve's textbook publishing company
+
 ## Dr Bean and Steve's plan to publish a writing textbook (p 83)
 
 They are teachers, not businessmen. They need managers, who will make the business decisions, to run the company.
@@ -192,9 +142,50 @@ You are those managers.
 
 Make decisions about:
 
+	- The name of the publishing company
 	- Capital
 	- Location
 	- Marketing strategy
 	- Business forecast
+
+## Talk about day-to-day decisions you make at the publishing company.
+
+Use the questions from the book, eg We should try to get a loan from the bank. We have to employ sales people to visit bookstores.
+
+## Talk about factors that will determine the success of the publishing company {.allowframebreaks}
+
+- Innovation: What is special about the idea?
+  	- If there is nothing special, the company won't be able to survive.
+- Team: What is special about the team?
+  	- If there is nothing special, the company won't be able to survive. Does the team understand the market?
+- Market opportunity: Why do people want the books that the company publishes? 
+  	- Talk about the buyers of the books. If the books aren't books they want, the company won't be able to survive.
+- Money: Does the team understand money and how to use it to decide what the company should do?
+  	- If they don't and can't get investment, the company won't be able to survive.
+
+## Criticism of the textbook, Communication Strategies 2 {.allowframebreaks}
+
+Steve likes the textbook because it includes a lot of big issues: Conversation textbooks usually have very light content, about unimportant issues.
+
+Dr Bean doesn't like the textbook because:
+
+1. the language level is too high. It is difficult even for native speakers to discuss the issues in the book.
+2. There is no listening/soundfile component.
+3. The content is too abstract and the role plays/situations don't provide enough support to allow good conversation, because the students don't feel involved.
+
+What do you think about the textbook? What kind of textbook should the publishing company publish?
+
+## Textbook publishing--the economics {.allowframebreaks}
+
+Textbooks nowadays include DVDs, Internet tests, etc, which increases the cost. This is one reason textbook prices are getting a lot higher.
+
+Publishers are under pressure from students and teachers to make them cheaper. (Students don't make decisions on which textbook to buy, so it is difficult for them to put pressure on publishers.)
+
+But publishers are not making lots of money, because many teachers are using their own material or free textbooks on the Internet, and not requiring students to buy textbooks. Students are also photocopying textbooks or buying second-hand copies.
+
+What should the publishing company do about the conflict in interests it has with students and teachers.
+
+- The publishing company wants to make as much money as possible.
+- Students and teachers want to spend as little money as possible.
 
 # The end
