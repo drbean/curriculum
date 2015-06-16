@@ -748,21 +748,60 @@ The government (Dr Bean) didn't collect "taxes" from the popular concerns and pr
 
 ## Presentation on youtube of concern for final exam
 
-+--+-------------------+------------+-------------+-------------+
-|  |4-1, 4-2           |3-1, 3-2    |2-1, 2-2     |1-1, 1-2     |
-+==+===================+============+=============+=============+
-|A |May Supermart      |Joy    9,000|Owen    8,500|May     0    |
-+--+-------------------+------------+-------------+-------------+
-|B |Karsten cupcakes   |Jhaoyi 0    |Tony    7,500|Una     0    |
-+--+-------------------+------------+-------------+-------------+
-|C |                   |Sing   7,500|Winny   7,500|Karsten 9,000|
-+--+-------------------+------------+-------------+-------------+
-|A |Lucy    7,750      |Joy    9,000|Owen    8,500|May     0    |
-+--+-------------------+------------+-------------+-------------+
-|B |YanSan elder center|Jhaoyi 0    |Tony    7,500|Una     0    |
-+--+-------------------+------------+-------------+-------------+
-|C |                   |Sing   7,500|Winny   7,500|Karsten 9,000|
-+--+-------------------+------------+-------------+-------------+
++--+-------------------+---------------+----------------+-------------+
+|  |4-1, 4-2           |3-1, 3-2       |2-1, 2-2        |1-1, 1-2     |
++==+===================+===============+================+=============+
+|A |May Supermart      |Sherry f/food  |Leon novelist   |JhaoYi 家具  |
++--+-------------------+---------------+----------------+-------------+
+|B |Karsten cupcakes   |Iris clothes   |YuWen seamstress|Tony         |
++--+-------------------+---------------+----------------+-------------+
+|C |                   |Joy beautician |Lucy bookstore  |Owen   泰国菜|
++--+-------------------+---------------+----------------+-------------+
+|A |Ada                |Christy glass  |Sing music co   |Una 製藥公司 |
++--+-------------------+---------------+----------------+-------------+
+|B |YanSan elder center|Winny coffee   |Willy bakery    |Bruce AIDS   |
++--+-------------------+---------------+----------------+-------------+
+|C |                   |Darnell rentcar|Danny cellphone |Camuel 鞋店  |
++--+-------------------+---------------+----------------+-------------+
+
+
+## Flicker--cigarette lighter investment. What doesn't Bonelli do?
+
+Which of the things that Marta Rodriguez does doesn't Bonelli do?
+
+1. Greeting
+2. Thanks
+3. Name and affiliation
+4. Summary of talk
+5. Question-answering policy
+Hi. I'm Hal Bonelli. I'm Managing Director of Flicker and I'd like to tell you something about my company. As you know, we are looking for new investment to help us expand our activities, and I'm very much hoping that some of you here today will see what an exciting opportunity this is for you to invest with us.
+
+## Flicker--cigarette lighter investment. What does Bonelli do that Rodriguez didn't?
+
+Which of the things that Marta Rodriguez does doesn't Bonelli do?
+
+1. Greeting
+2. Thanks
+3. Name and affiliation
+4. Summary of talk
+5. Question-answering policy
+
+## Q & A
+
+- [Handling questions](http://www.skillsyouneed.com/present/presentation-questions.html)
+
+
+## Flicker--cigarette lighter investment. Would you invest?
+
+Leave aside ethics. Think economics.
+
+- [Marijuana investment](http://www.google.com.tw/search?q=%22marijuana+investment%22&num=100)
+
+## Flicker--cigarette lighter investment
+
+Hi. I'm Hal Bonelli. I'm Managing Director of Flicker and I'd like to tell you something about my company. As you know, we are looking for new investment to help us expand our activities, and I'm very much hoping that some of you here today will see what an exciting opportunity this is for you to invest with us.
+
+So, first I'm going to give you some general information about the company. Then, I'll go on to explain how we plan to expand in the future. And finally, I'll add in some figures so you know what youcan expect to gain from your investment. Let me start with some background.
 
 #
 # The End
