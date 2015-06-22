@@ -147,6 +147,24 @@
     The birds are sometimes hard to see, but you can use binoculars. You should learn their calls first. You can identify the species this way.
     I want to go back to Iran some day. It's beautiful and I want to explore more.
   - Iran|Iranian|Middle East|binoculars|deer|recommend|desert
+-
+  - agent
+  - "The travel agent"
+  - "topics"
+  - "all"
+  - |+
+    W: I want to go on a trip to China.
+    M: How long do you want to stay?
+    W: Four or five days.
+    M: We have a very good package tour that is for four days and three nights.
+    W: OK. What can you tell me about it?
+    M: Well, you'll fly directly to Beijing. Your tour guide will meet you at the airport and take you to your hotel. Over the four days, you will do a lot of sightseeing. You will see many famous landmarks, like the Summer Palace, the Forbidden City and the Great Wall of China.
+    W: That sounds great. What sort of transport will we use to get from one place to another?
+    M: You will take a bus with your tour group.
+    W: OK. Can I book this package tour now? There will be five of us going on this trip.
+    M: Sure!
+  - to|a trip|China|How|do you|Four or|We|package tour|is for|days and|OK. What|you|me|it|Well, you'll|to Beijing|tour guide|you at the|and|you to your|Over the|, you will|a lot of|You|many|like the|Palace|Forbidden|and the Great|of China|That|What sort of|will|use to|from|to another|take|with|tour|OK. Can I|There|be|of us|on this trip
+
 
 ---
 -
