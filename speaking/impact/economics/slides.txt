@@ -10,7 +10,7 @@ The Vocabulary, Mind Map & Points of View exercises on the first 2 pages are PRE
 
 The Discussion on the 3rd page is the REAL THING.
 
-## Warm-up questions
+## Warm-up questions {.allowframebreaks}
 
 - [The dismal science - Wikipedia, the free encyclopedia ](http://en.wikipedia.org/wiki/The_dismal_science)
 
@@ -29,6 +29,10 @@ The Discussion on the 3rd page is the REAL THING.
 		- [Capitalism](http://en.wikipedia.org/wiki/Capitalism)
 
 	- [4 Politically Controversial Issues Where All Economists Agree- The Atlantic](http://www.theatlantic.com/business/archive/2012/04/4-politically-controversial-issues-where-all-economists-agree/255600/)
+
+- How does money work?
+
+  	- Money used to be valuable in itself when it was gold, but now it is made out of a cheap piece of metal, or paper.
 
 # Economic vocabulary
 
@@ -146,18 +150,18 @@ Make decisions about:
 	- Capital
 	- Location
 	- Marketing strategy
-	- Business forecast
+	- Business forecast--What problems will it face in the 1st 1-2 years?
 
 ## Talk about day-to-day decisions you make at the publishing company.
 
 Use the questions from the book, eg We should try to get a loan from the bank. We have to employ sales people to visit bookstores.
 
-## Talk about factors that will determine the success of the publishing company {.allowframebreaks}
+## Talk about factors that will determine success in a competitive market {.allowframebreaks}
 
 - Innovation: What is special about the idea?
   	- If there is nothing special, the company won't be able to survive.
 - Team: What is special about the team?
-  	- If there is nothing special, the company won't be able to survive. Does the team understand the market?
+  	- If there is nothing special, the company won't be able to survive. Does the team understand textbooks, and textbook customers? Is the team inspiring?
 - Market opportunity: Why do people want the books that the company publishes? 
   	- Talk about the buyers of the books. If the books aren't books they want, the company won't be able to survive.
 - Money: Does the team understand money and how to use it to decide what the company should do?
