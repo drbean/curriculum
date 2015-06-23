@@ -1,0 +1,82 @@
+---
+genre: impact
+publishing:
+  jigsaw:
+    0:
+      identifier: publishing 0
+      A: You are not happy about the cost of DrBean and Steve's textbook. You will photocopy a friend's.
+      B: Dr Bean tells you Kay complains about the textbook price. You think the textbook is cheap.
+      C: You ask Kay what she thinks about the textbook. She says 400NT is too much. You tell Steve.
+      quiz:
+        - question: A
+          option: 
+           - Dr Bean
+           - Kay
+           - Steve
+          answer: Kay
+        - question: B
+          option: 
+           - Dr Bean
+           - Kay
+           - Steve
+          answer: Steve
+        - question: C
+          option: 
+           - Dr Bean
+           - Kay
+           - Steve
+          answer: Dr Bean
+        - question: Kay is willing to pay for the textbook.
+          answer: False
+        - question: Dr Bean tells Steve Kay's ideas about the book.
+          answer: True
+        - question: Dr Bean tells Kay the book is cheap.
+          answer: False
+        - question: If the book were cheaper, Kay would be happier.
+          answer: True
+        - question: Steve doesn't think 400NT is expensive.
+          answer: True
+        - question: A DVD with the textbook would decrease the cost.
+          answer: False
+        - question: Kay will buy the book.
+          answer: False
+tax:
+  jigsaw:
+    0:
+      identifier: tax 0
+      A: You are a worker by day and student by night. You pay no income tax, but have to pay sales tax when you buy things. You want lower sales tax.
+      B: You are the money people pay to the government from the money they earn. The poor student doesn't pay you. People who do make more money do pay.
+      C: You are the 5\% of the money that goes to the government when people buy things. This is how the poor student pays their tax.
+      quiz:
+        - question: A
+          option: 
+           - income tax
+           - sales tax
+           - working student
+          answer: working student
+        - question: B
+          option: 
+           - income tax
+           - sales tax
+           - working student
+          answer: income tax
+        - question: C
+          option: 
+           - income tax
+           - sales tax
+           - working student
+          answer: sales tax
+        - question: The more you earn, the higher your income tax.
+          answer: True
+        - question: The student pays some income tax.
+          answer: False
+        - question: The student pays some sales tax.
+          answer: True
+        - question: People who earn more necessarily pay more sales tax.
+          answer: False
+        - question: People who buy more will pay more sales tax.
+          answer: True
+        - question: The student is happy to pay more sales tax.
+          answer: False
+        - question: The government wants the student to pay less tax.
+          answer: False
