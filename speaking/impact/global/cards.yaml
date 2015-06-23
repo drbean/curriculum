@@ -1,0 +1,42 @@
+---
+genre: impact
+travel:
+  jigsaw:
+    0:
+      identifier: travel 0
+      A: You have never traveled but you have foreign friends, like Manosh. You are broad-minded.
+      B: You know Jin. You disagree with Chen. You don't think people need to travel to be broad-minded.
+      C: You don't know Jin. You disagree with Manosh. School helped you broaden your mind through travel.
+      quiz:
+        - question: A
+          option: 
+           - Chen
+           - Jin
+           - Manosh
+          answer: Jin
+        - question: B
+          option: 
+           - Chen
+           - Jin
+           - Manosh
+          answer: Manosh
+        - question: C
+          option: 
+           - Chen
+           - Jin
+           - Manosh
+          answer: Chen
+        - question: Probably all three are broad-minded.
+          answer: True
+        - question: All became broad-minded through travel.
+          answer: False
+        - question: Chen believes, Travel broadens the mind.
+          answer: True
+        - question: Manosh believes travel is necessary for a broad mind.
+          answer: False
+        - question: Jin became broad-minded through travel.
+          answer: False
+        - question: Chen thinks school can help you start traveling and broadening your mind.
+          answer: True
+        - question: Manosh probably believes travel stops you broadening your mind.
+          answer: False
