@@ -445,9 +445,9 @@ framework:
         answer: empathy
       - question: The stakeholders are Olivier and Todd, or someone else?
         option:
-          - principal
-          - agent
-        answer: principal
+          - principals
+          - agents
+        answer: principals
   2:
     identifier: framework 2
     A: \item [zero-sum/win-win] Mnookin asks: Can you agree on Olivier writing reports? \item [empathy/assertiveness] Mnookin says: You both spoke very strongly. Did you convince each other? \item [principal/agent] Mnookin asks Todd and Olivier: Are you arguing for your own benefit? Or the company's? 
