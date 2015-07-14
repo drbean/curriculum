@@ -89,6 +89,16 @@ For homework, look at the site and choose an activity, write the title in a post
 
 The week after, we will choose the activity which everyone will do for homework.
 
+## Homework
+
+[Dr Shia ](http://acade.must.edu.tw/03_teacher.aspx?UnitID=30502) says, besides LiveABC, and CNN in particular, there are other Internet resources at Minghsin, eg for practicing TOEIC, etc.
+
+Post a link on ec.must.edu.tw to a particular exercise on one of these sites, and post a screenshot of the question and your answer to the exercise.
+
+If someone has already done one exercise on a site, you cannot do another exercise in the same section on that site. You must choose a different section.
+
+
+
 ## Self-introductions not uploaded
 
 Dr Shia said you had some concerns. But he didn't really say what those concerns were.
@@ -211,18 +221,10 @@ Chat on freenode
 - Connect via [http://webchat.freenode.net](http://webchat.freenode.net)
 - Choose a nickname, (tell Dr Bean so he can give you a score)
 - Enter channels:
-	* \##AFB1JO-Black
-	* \##AFB1JO-Blue
-	* \##AFB1JO-Green
-	* \##AFB1JO-Charcoal
-	* \##AFB1JO-Orange
-	* \##AFB1JO-Pink
-	* \##AFB1JO-White
-	* \##AFB1JO-Yellow
+	* \##AFB1JO
 
 - Copy the letters
 - Connect
-- Join other channels by typing '/join ##AFB1J0-Yellow' etc
 - Ask questions, answer questions
 
 ## Classwork grade
@@ -254,136 +256,12 @@ Chat on freenode
 
 [Questions about self-intros again](http://sac.nuu.edu.tw/cgi-bin/bett/script/bett_cgi.pl/login?exercise=AFB1J0)
 
-## Flashcards
-
-demonstration
-Anki http://ankisrs.net
-Mnemosyne http://mnemosyne-proj.org
-
-## Anki introduction
-
-[http://ankisrs.net/docs/manual.html](http://ankisrs.net/docs/manual.html)
-[http://www.youtube.com/watch?v=QS2G-k2hQyg&feature=plcp](http://www.youtube.com/watch?v=QS2G-k2hQyg&feature=plcp)
-
-## Installing Anki
-
-[http://www.youtube.com/watch?v=4CMaoOzhehU](http://www.youtube.com/watch?v=4CMaoOzhehU)
-
-## Using Anki in a browser
-
-[http://ankiweb.net](http://ankiweb.net)
-
-## Problems with flashcards
-
-* Non-contextualized (just single words)
-* Language-focused (not communication-focused),
-	so meaningless
-* Every repetition is the same (no change in the presentation)
-	but in the real world, the presented word always changes
-
-## Problems using flashcards
-
-- How to use?
-
-- If not practiced, no use.
-
-- Many flash cards make a collection or deck. Too many cards is same problem as not using the cards.
-
-- Answer: use the cards which you didn't see recently, or forgot last time.
-
-## http://memrise.com
-
-The site uses the metaphor of growing a plant for learning a language. So 'watering the plant' means practicing vocaulary you have learned.
-
-It will send you email messages when you get an account.
-
-## Let's learn some topic on http://memrise.com
-
-Learn [Upper-intermediate English](http://www.memrise.com/course/48407/upper-intermediate-english/)
-
-Dr Bean learns [http://www.memrise.com/course/984/hsk-level-4/](http://www.memrise.com/course/984/hsk-level-4/)
-
-## Quiz
-
-Which group knows the most words
-
-One word from the first 2 levels is shown.
-Group representatives have to write down the meaning.
-
-## Homework week 10
-
-15 words (with Chinese equivalents) that you would like to learn using anki/mnemosyne for an exam in Week 13.
-On [http://ec.must.edu.tw](http://ec.must.edu.tw)
-
-## Homework week 11
-
-- Create a course on memrise.com. Post screenshot on http://ec.must.edu.tw
-- Learn 5 words from another 明新 student's course. Post other screen shot also.
-
-15 words (with Chinese equivalents) that you would like to learn using anki/mnemosyne for an exam in Week 13.
-On [http://ec.must.edu.tw](http://ec.must.edu.tw)
-
-## Vocabulary
-
-[http://en.wikipedia.org/wiki/Vocabulary](http://en.wikipedia.org/wiki/Vocabulary)
-
-## Vocabulary frequency
-
-[Rank, frequency, English[(http://www.google.com/search?q=rank%20frequency%20english&num=100)
-
-[Search for rank of word.](http://www.wordcount.org/main.php)
-
-## Rank of word "the"
-
-a) 1st
-b) 3rd
-c) 7th
-
-. . . 
-
-a) 1st
-
-## Rank of word "English"
-
-a) 93rd
-b) 390th
-c) 3009th
-
-. . .
-
-b) 390th
-
-## Rank of word "good"
-
-a) 16th
-b) 61st
-c) 116th
-
-. . .
-
-c) 116th
-
-## Rank of word "oscars"
-
-a) 2711st
-b) 27111st
-c) 2711111st
-
-. . .
-
-## Homework week 12
-
-- Another 15 words (with Chinese equivalents) that you would like to learn using anki/mnemosyne for an exam in Week 13.
-
-- Make them easy words, that are important for you to learn.
-  Make sure they are among the 5,000 most common words. You can use [http://www.wordcount.org/main.php[(http://www.wordcount.org/main.php)
-On [http://ec.must.edu.tw](http://ec.must.edu.tw)
-
 # Discussion with people outside 台灣 in English
 
 ## Penpals (via email)
 
 [Penpal sites](http://www.google.com/search?q=penpal%20sites&num=100)
+[ESL Penpal sites](http://www.google.com.tw/search?q=esl+penpal+sites&num=100)
 
 ## Web discussion forums
 
@@ -417,12 +295,14 @@ Dr Bean:
 
 [Cat discussion forums](http://www.search.ask.com/web?q=cat+Discussion&o=APN10044&gct=sb&tpr=2&ts=1400543009781)
 
-## Classwork
+## Classwork Week 15
 
 - Find some kind of way of communicating with people outside 臺灣, eg chat, email, website.
-- Send a message to 2 sites.
+- Send a message to as many sites as you can.
 
 ## Message to send
+
+Just an example. Do it the way you want.
 
 	"Hi. I am a student from Taiwan.
 
@@ -436,11 +316,14 @@ Dr Bean:
 
 	Name"
 
-## Homework Week 14
+## Homework Week 15
 
-A message to a penpal or forum, with a link, or copy posted on ec.must.edu.tw
+A reply from someone to one of your messages posted as classwork in Week 15.
 
-PLUS, a reply from someone to your message.
+With a link, or copy posted on ec.must.edu.tw. I will open the site after the clas is over.
+
+- [kiss and tell](http://www.google.com.tw/search?q=%22kiss+and+tell%22&num=100)
+
 
 ## Sit back and wait till communications roll in.
 
@@ -530,8 +413,37 @@ You have 5 minutes to post an answer on http://ec.must.edu.tw
 
 ## Why did staff want Emily to repost her message about places to go in NY?
 
-## Classwork Week 17
+## Classwork Week 16 (no class Week 17)
 
-- One 20 word message to a discussion forum (3 points)
+- Post on ec chat content
 - As many questions as possible about the questions on http://ec.must.edu.tw
+
+## Final exam--same form as Midterm about Simon and Ariel
+
+But the content will be about the chat in class on Week 16.
+
+"Does Simon's partner say that they are in Switzerland"
+
+Yes/No
+
+The questions must be grammatical.
+
+One point for a question.
+
+Two points for a grammatical question.
+
+Three points for a grammatical question with a correct answer.
+
+The person with most points get a perfect final grade. (But finals are only worth 10 percent of overall grade.)
+
+Everyone who attends gets at least 60 percent.
+
+Non-attenders get zero.
+
+## Homework Week 16
+
+Send email to drbean@freeshell.org, asking when the site is ready to start practicing for the exam
+
+I will reply with the address when there is something you can do on the site.
+
 ## The end
