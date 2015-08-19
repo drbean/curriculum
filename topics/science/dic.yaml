@@ -103,6 +103,42 @@
   - ''
   - 100
 
+-
+  - research-1
+  - Research
+  - topics
+  - all
+  - |+
+    W: What are you doing, Billy?
+    B: I'm doing research. I found a lot of great websites.
+    W: You know, I think you might want to go to the library and look at some books.
+    B: I don't want to. It takes too much time, and besides, this is fast, easy and fun. This paper will be done in no time.
+    W: The Internet is great for finding information. But it is also full of misinformation and lies. You don't really know what you are looking at unless ...
+  - Billy|websites|and|time|Internet|misinformation|Grandma|but|old-fashioned|Albert Einstein|1979|relatives|Nobel Prize|Physics|1879|general relativity|Wow|facts|life-saver
+  - 100
+-
+  - research-2
+  - Research
+  - topics
+  - all
+  - |+
+    W: But it is also full of misinformation and lies. You don't really know what you are looking at unless you are at a reliable site. It's safer to get some books first and then search for more information.
+    B: Grandma, I love you, but I think you are a little old-fashioned. Look at all this great information!  My report is on Albert Einstein. Now, according to this site, he was born in 1979, came up with the theory of relatives, and was awarded the Nobel Prize for Physics in 1922.
+  - Billy|websites|and|time|Internet|misinformation|Grandma|but|old-fashioned|Albert Einstein|1979|relatives|Nobel Prize|Physics|1879|general relativity|Wow|facts|life-saver
+  - 100
+-
+  - research-3
+  - Research
+  - topics
+  - all
+  - |+
+    B: ... he was born in 1979, came up with the theory of relatives, and was awarded the Nobel Prize for Physics in 1922.
+    W: Your information is wrong. Albert Einstein was born in 1879 and developed the theory of general relativity. He won the Nobel Prize in 1921.
+    B: Wow! This means all this stuff is inaccurate. How did you know all that?
+    W: Come with me to the library and I'll help you find the books with those facts.
+    B: Thank you, Grandma. You're a real life-saver!
+  - Billy|websites|and|time|Internet|misinformation|Grandma|but|old-fashioned|Albert Einstein|1979|relatives|Nobel Prize|Physics|1879|general relativity|Wow|facts|life-saver
+  - 100
 ---
 -
   - genre
