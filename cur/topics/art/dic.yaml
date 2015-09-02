@@ -1,0 +1,67 @@
+---
+-
+  - id
+  - description
+  - genre
+  - target
+  - content
+  - unclozeables
+  - percent
+-
+  - "greatart-0"
+  - "Great Art 0"
+  - "topics"
+  - "all"
+  - |+
+    What makes a painting a great work of art? There are many answers to that question. Some people think a painting should look pretty. Others disagree. The skill of the painter is important. The techniques used are also important. Most of all a great painting has meaning. A great painting has a special element in it.
+
+    Sometimes, a painter's special element is the way he portrays his or her feelings in a piece of art.
+  - to|of|techniques|all,|Sometimes,|portrays|An|Picasso's|Guernica|, too.|Other|or|and|For example, Leonardo da Vinci's Mona Lisa|her|one|Which|painting?
+  - 100
+-
+  - "greatart-1"
+  - "Great Art 1"
+  - "topics"
+  - "all"
+  - |+
+    An example of this is Picasso's painting, Guernica. It has strange shapes in it. It shows suffering people, too. It is not a very pretty picture. However, it makes people understand Picasso's feelings about war.
+
+    Other times, the element is a memory or feeling. This comes from inside another person. Someone may see a painting and be reminded of a beautiful memory. A painting can also remind people of a feeling.
+  - to|of|techniques|all,|Sometimes,|portrays|An|Picasso's|Guernica|, too.|Other|or|and|For example, Leonardo da Vinci's Mona Lisa|her|one|Which|painting?
+  - 100
+-
+  - "greatart-2"
+  - "Great Art 2"
+  - "topics"
+  - "all"
+  - |+
+    For example, Leonardo da Vinci's Mona Lisa is very popular. Many people like her smile. Some people say it is a mysterious smile. Others say it is a happy one. Still others make up stories about the woman in the painting.
+
+    Which element is the most important? Is it the skill of the artist or the feelings of the person looking at the painting? Whatever the case, a painting that grabs people's emotions is popular.
+  - to|of|techniques|all,|Sometimes,|portrays|An|Picasso's|Guernica|, too.|Other|or|and|For example, Leonardo da Vinci's Mona Lisa|her|one|Which|painting?
+  - 100
+-
+  - "greatart-3"
+  - "Great Art 3"
+  - "topics"
+  - "all"
+  - |+
+    
+
+  - to|of|techniques|all,|Sometimes,|portrays|An|Picasso's|Guernica|, too.|Other|or|and|For example, Leonardo da Vinci's Mona Lisa|her|one|Which|painting?
+  - 100
+---
+-
+  - genre
+  - text
+  - id
+  - target
+  - content
+  - answer
+-
+  - topics
+  - messages
+  - 1
+  - all
+  - ''
+  - False
