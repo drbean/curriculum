@@ -8,7 +8,7 @@
 
 ## The basketball courts
 
-This photo was taken at 10am on Sunday morning. In 6 hours time, the court will be completely filled with players, competing to get a ball through a hoop. What a contrast with the classrooms where students have no wish to compete to show their English speaking prowess.
+This photo was taken at 10am on Sunday morning. In 6 hours time, the court will be completely filled with players, cooperating and competing to get a ball through a hoop. What a contrast with the classrooms where students have no wish to cooperate or compete to show English speaking prowess.
 
 ![Basketball courts](/home/drbean/圖片/042.JPG)
 
