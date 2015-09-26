@@ -134,8 +134,8 @@ marriage:
     0:
       identifier: marriage 0
       A: You are a teacher. You think that Akane and Lucas should live separate lives for 2-3 years, before living together.
-      B: You are an artist from Finland. Your girlfriend, Akane doesn't want to live in Finland. You don't want to live in Japan.
-      C: You are a Japanese artist. You want to live with your boyfriend, but Gillian says, you should live separately.
+      B: You are from Finland. You want Akane to live with you in Finland. You don't want to live in Japan.
+      C: You are Japanese. You want to live with Lucas, but not in Finland. Gillian says, you should live separately.
       quiz:
         - question: A
           option: 
