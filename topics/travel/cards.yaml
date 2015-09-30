@@ -23,3 +23,28 @@ camping_trip:
 agent:
   bingo:
     -  trip_to_China  how_long stay four_or_five_days package_tour four_days_and_three_nights fly directly Beijing tour_guide airport take hotel sightseeing famous landmarks Summer_Palace Forbidden_City Great_Wall_of_China sounds_great what_sort transport tour_group book trip sure
+supplies:
+  bingo:
+    -
+      call:
+        - Tom will buy a flashlight in New York.
+        - Tom will borrow his father's sleeping bag.
+        - Tom doesn't have hiking boots.
+        - Tom has a warm hat.
+        - Tom will take his warm jacket.
+        - Tom apparently has a whistle.
+        - Tom's tennis shoes are OK.
+        - Tom is going to NY.
+        - Mark is Tom's cousin.
+        - Tom has a list of things.
+        - There is a summer camp Tom is going on.
+        - Tom is spending his vacation in the U.S.
+        - Tom gets a letter from his cousin.
+        - When will Tom arrive in the U.S?
+        - Tom's cousin think the shopping_centers are fun.
+        - Tom talks with his dad about the list.
+        - Tom's cousin is excited about the trip.
+        - Tom need to do some things before the trip.
+        - Tom will be there for more than a week.
+        - Tom replies to his cousin.
+      word: flashlight sleeping_bag hiking_boots hat jacket whistle tennis_shoes New_York Mark list summer_camp vacation letter arrive shopping_centers talks excited needs week replies
