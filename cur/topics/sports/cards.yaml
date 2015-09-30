@@ -9,3 +9,28 @@ racquetball:
 baseball:
   bingo:
     - base bat batter ball home_run diamond first second third pitcher catcher slide/slid/slid stretch/stretched/stretched hit/hit/hit catch/caught/caught run/ran/run strike out win/won/won baseball lose/lost/lost
+basketball:
+  bingo:
+    -
+      word: defense balance attack attempt athlete stance stay keep bent basketball coach offense allows direction rest seems shoulder-width spread balls heels
+      call:
+        - Timmy, Paul and David play defense very well
+        - The ballerina had perfect balance
+        - A mother bear will attack another animal
+        - I will attempt to get a perfect score
+        - An athlete is a sportsperson.
+        - The clown's stance was perfect.
+        - Stay low and get ready to jump
+        - Jackson needs to keep his body low
+        - Jackson needs to stand with knees bent
+        - Jackson plays basketball
+        - The coach calls Jackson over
+        - Jackson may play offense
+        - This way allows you to move quickly
+        - The ball went in the other direction
+        - Good players never rest on their heels
+        - It seems like I am ready to jump in the air
+        - Stand with your legs a shoulder-width apart
+        - Spread your arms out at your side
+        - Stand on the balls of your feet
+        - Don't fall back on your heels
