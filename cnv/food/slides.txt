@@ -2,10 +2,6 @@
 % by Dr Bean
 % 二  4月 29 09:14:32 CST 2014
 
-# Socializing with people in other parties
-
-Inviting people to appreciate, share the food.
-
 # Don "Moses" Lerman
 
 ## Eating contests
@@ -253,6 +249,20 @@ eating medicine.
 + 8: One form of treatment is talking to other people
 with the same problem.
 
+# Vocabulary
+
+## I don't remember ever having sat on his lap, or being loved, or told that I was beautiful.
+
+Remembering
+
+- [The semantics of remembering an experience](https://framenet2.icsi.berkeley.edu/fnReports/data/frame/Remembering_experience.xml)
+- [The grammar of "remember"](http://verbs.colorado.edu/verb-index/vn/characterize-29.2.php#characterize-29.2-1-1)
+  k
+
+## He would say, Looks to me as if you've gained some weight - tomorrow morning we'll weigh you. 
+
+## Look like/as
+
 # Joe Spano, Sr and Joe Spano, Jr
 
 # Restaurants
@@ -343,6 +353,15 @@ Spano encouraged Abilenians to go to local restaurants. "There are _____(22) of 
 [http://www.pointpleasantbeach.com/](http://www.pointpleasantbeach.com/)
 [http://en.wikipedia.org/wiki/Point_Pleasant_Beach,_New_Jersey](http://en.wikipedia.org/wiki/Point_Pleasant_Beach,_New_Jersey)
 
+# Vocabulary
+
+##  I never realized before I started working with you, you sure knew how to treat me differently as son and employee.
+
+- I never realized before I started working with you, you sure knew how to treat me differently as son and employee.
+- It wasn't until I started doing it for myself that I realized, okay, this is why they did it the way they did it.
+
+- [The grammar of realize](http://verbs.colorado.edu/verb-index/vn/discover-84.php#discover-84)
+- [The semantics of realize](https://framenet2.icsi.berkeley.edu/fnReports/data/frame/Coming_to_believe.xml)
 
 
 ## Guess the fruit
@@ -359,6 +378,8 @@ Spano encouraged Abilenians to go to local restaurants. "There are _____(22) of 
 * Texture
 
 Vocabulary: core, skin (peel), seed
+
+# Manny Diaz
 
 ## Feelings about cooking 
 
