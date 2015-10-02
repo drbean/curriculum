@@ -247,9 +247,9 @@ marriage:
           answer: True
     3:
       identifier: marriage 3
-      A: Your foreign husband, Dr Bean is in Taiwan. You don't like Taiwan. Gillian tells you to stay in Japan.
-      B: You tell Dr Bean and Yoko that it is OK for them to live separately. Dr Bean in Taiwan, Yoko in Japan.
-      C: Your wife doesn't like Taiwan, but you don't like Japan. You agree with Gillian it's OK to be apart.
+      A: Your foreign husband, Dr Bean is in Taiwan. He knows you don't like Taiwan. You agree with Gillian it's OK to be apart.
+      B: You tell Dr Bean and Yoko that it is OK for them to live separately. Dr Bean in Taiwan, Yoko in Japan. They agree.
+      C: Your wife, Yoko doesn't like Taiwan, but she knows you don't like Japan. You both agree with Gillian it's OK to be apart.
       quiz:
         - question: A
           option: 
