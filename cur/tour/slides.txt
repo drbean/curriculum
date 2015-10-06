@@ -64,7 +64,10 @@ Some of the lecture halls are still used every period some days, even after the 
 ![Lecture halls](/home/drbean/圖片/046.JPG)
 
 # Transport
+
 # Travel documents
+
+## Passports
 
 - Chinese:
 - Japanese: 旅券, パスポート
@@ -94,6 +97,46 @@ From which countries do citizens of that country not need a visa to enter the Re
 
 - [List of great travelers](http://en.wikipedia.org/wiki/List_of_travelers)
 
+## Great traveler images
+
+- [Marco Polo images](http://images.google.com/search?q=marco+polo&num=100&tbm=isch)
+- [Ibn Battuta images](http://images.google.com/search?q=ibn+battuta&num=100&tbm=isch)
+- [Laura Dekker images](http://images.google.com/search?q=laura+dekker&num=100&tbm=isch)
+- [Sarah Marquis images](http://images.google.com/search?q=sarah+marquis&num=100&tbm=isch)
+
+## Marco Polo Question
+
+1. What language did Marco Polo speak in China?
+
+a. Chinese
+b. Italian
+c. Mongolian
+
+## Ibn Battuta Question
+
+2. What reason made Ibn Battuta start traveling?
+
+a. He wanted to escape from his family.
+b. He wanted to visit Mecca.
+
+## Laura Dekker Question
+
+3. Who didn't want her to sail her boat around the world?
+
+a. Her father
+b. The government
+
+## Sarah Marquis Question
+
+4. What did she not take in a one-month trip into the wild?
+
+a. Food
+b. Shoes
+
+
+
+
+
 # Homework
 
 ## Dictation
@@ -114,23 +157,64 @@ I will probably require you to make a google map.
 
 ## The lanes and arcades of Melbourne
 
-The <a href="https://en.wikipedia.org/wiki/                                  Lanes_and_arcades_of_Melbourne">backstreets</a> in <a href="http://en.wikipedia.org/   wiki/Melbourne">http://en.wikipedia.org/wiki/Melbourne</a> are popular for shopping    and eating/drinking. Listen to <a href="http://web.nuu.edu.tw/~greg/tourism/arcade-and-laneways.mp3">the official City of Melbourne guide</a>. Download <a href="http://web.  nuu.edu.tw/~greg/tourism/Melbourne_ArcadesLanes.pdf">the official City of Melbourne    map</a>.
+The <a href="https://en.wikipedia.org/wiki/Lanes_and_arcades_of_Melbourne">backstreets</a> in <a href="http://en.wikipedia.org/wiki/Melbourne">http://en.wikipedia.org/wiki/Melbourne</a> are popular for shopping    and eating/drinking. Listen to <a href="http://web.nuu.edu.tw/~greg/tourism/arcade-and-laneways.mp3">the official City of Melbourne guide</a>. Download <a href="http://web.nuu.edu.tw/~greg/tourism/Melbourne_ArcadesLanes.pdf">the official City of Melbourne    map</a>.
   
 What question can you think of about this tourist attraction? Write down 2 possible answers, one which is right, one which is wrong.
 
+- [Degraves Street images](https://www.google.com.tw/search?q="images+degraves+street+melbourne"&num=100&source=lnms&tbm=isch&sa=X&ved=0CAgQ_AUoAWoVChMI56zW2IiIyAIVhhiUCh1j6QNX&biw=1318&bih=740&dpr=1.09)
+
+# Exam
+
+## Week 5
+
+4 tour groups of 15 tourists in Front Right, Front Left, Back Right, Back Left,
+
+Wear comfortable shoes, because you will be standing for 2 hours.
+
+One person (a tour guide) tells the others about his/her walk. The places on the walk must be connected. It must be possible to walk from one place to all the other places.
+
+He/she leaves the tour group, moves clockwise to join the next group.
+
+The others decide what grade to give her, 1, 2, 3, 4, or 5 beans. Each group has only 60 beans to award the 15 tour guides.
+
+The group will decide the grade on the basis of the interest of the talk and her/his performance as a tour guide.
+
+## Managing the beans
+
+After the tourist guide leaves, the tourists decide how much to "tip" her/him by voting for 2, 3, 4, or 5. The points with the most votes wins, ie are the points awarded. The next tour guide takes the beans and gives the beans to that tour guide when she joins him/her in the next tour group.
+
+The person who performs the vote is the person who will be the tour guide next time.
+
 ## Responsibilities
 
-+-----------+-------------+-----------+-----------+----------+----------+
-|           |Farmer income|Aged ed    |Clothes    |AIDS drug |Coffee    |
-+===========+=============+===========+===========+==========+==========+
-|Innovation |Owen  +10    |May     +5 |Lucy    +5 |Willy  -5 |Joy    -10|
-+-----------+-------------+-----------+-----------+----------+----------+
-|Team       |Tony         |Una     -10|Iris    +5 |Leon   +10|Jhaoyi -10|
-+-----------+-------------+-----------+-----------+----------+----------+
-|Opportunity|Winny        |Karsten +5 |Christy -5 |YanSan -5 |Sing   -10|
-+-----------+-------------+-----------+-----------+----------+----------+
-|Money      |Ada          |Bruce      |YuWen   -10|Danny  +10|Camuel -5 |
-+-----------+-------------+-----------+-----------+----------+----------+
+For example, in the first round in the Front Right tour group, Ivy will be the tour guide. After, she leaves for the Back Right group, and Andy carries out the vote, declares the beans to be awarded to Ivy and gives them to Louis, who is the tour guide in the second round. After Louis leaves for the Back Right group, he will give the beans to Ivy.
 
++-----------+------------+------------+------------+------------+
+|           |Front Left:4|Back Left:3 |Back Right:2|FrontRight:1|
++===========+============+============+============+============+
+|-1:A       |Tiffany     |Robert      |Joy1        |Ivy         |
+|-1:B       |Tina        |Karsten     |Megan       |Louis       |
+|-1:C       |ALin        |Allen       |Nora1       |Andy        |
++-----------+------------+------------+------------+------------+
+|-2:A       |Kiki        |Bamboo      |Jennifer    |Jason       |
+|-2:B       |Lori        |Gina        |Chuck       |Lily        |
+|-2:C       |Willy       |Joe         |Jackie      |Vicky       |
++-----------+------------+------------+------------+------------+
+|-3:A       |Sandy       |Toyz        |Josh        |Joanne      |
+|-3:B       |Toby        |Nora2       |Iris        |David       |
+|-3:C       |Amber1      |Winnie      |Kevin       |Shelli      |
++-----------+------------+------------+------------+------------+
+|-4:A       |Elena       |Johnson     |Emily       |Annie       |
+|-4:B       |Vam         |YuWen       |Mark        |Lydia       |
+|-4:C       |Ula         |Sunny       |Antonio     |Trista      |
++-----------+------------+------------+------------+------------+
+|-5:A       |Jimmy       |Joy2        |Eric        |            |
+|-5:B       |Uta         |Leon        |Sally       |            |
+|-5:C       |            |Jerry       |Amber2      |            |
++-----------+------------+------------+------------+------------+
+|-6:A       |Grace       |            |Brian       |            |
+|-6:B       |Ada         |            |David       |            |
+|-6:C       |Owen        |            |            |            |
++-----------+------------+------------+------------+------------+
 
 # The End
