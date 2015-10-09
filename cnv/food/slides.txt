@@ -417,9 +417,9 @@ up
 used 
 your 
 
-    During the _____(1), there was no surplus _____(2) program, but the army used to send in _____(3) now and then and _____(4) food on the street or on the _____(5) under the culvert. And people would come, _____(6) up apples or corn or_____(7).
+During the _____(1), there was no surplus _____(2) program, but the army used to send in _____(3) now and then and _____(4) food on the street or on the _____(5) under the culvert. And people would come, _____(6) up apples or corn or_____(7).
 
-    Everybody _____(8) to run to pick _____(9) the grapes. This was during _____(10), and we would put the grapes in the _____(11) and let it _____(12) for about a _____(13). In this _____(14) there's a kind of a mutual _____(15) society. Everybody helped _____(16) else so you just go to your _____(17) and say, Can I use _____(18) bathtub.
+Everybody _____(8) to run to pick _____(9) the grapes. This was during _____(10), and we would put the grapes in the _____(11) and let it _____(12) for about a _____(13). In this _____(14) there's a kind of a mutual _____(15) society. Everybody helped _____(16) else so you just go to your _____(17) and say, Can I use _____(18) bathtub.
 
 ## Depression eating
 
@@ -485,7 +485,7 @@ more appealing than the one with eggs and tomatoes?
 
 - What is 烤 in English?
 -
-  * I don't know what that is in English?
+  * I don't know what that is in English.
   * Can you describe the process?
   * What do you use to cook that way?
 
@@ -526,4 +526,21 @@ more appealing than the one with eggs and tomatoes?
 - [http://www.eslpartyland.com/teachers/conversation/cqfood.htm](http://www.eslpartyland.com/teachers/conversation/cqfood.htm)
 - [http://iteslj.org/questions/food.html](http://iteslj.org/questions/food.html)
 
+# Vocabulary
+
+## So we would and let the grapes sit for about a month.
+
+- [Examples of let](http://verbs.colorado.edu/html_groupings/let-v.html)
+- [Semantics of let](https://framenet2.icsi.berkeley.edu/fnReports/data/frame/Grant_permission.xml)
+
+- [Semantics of sit](https://framenet2.icsi.berkeley.edu/fnReports/data/frame/Posture.xml)
+
+## A month is what it takes for the grapes to ferment.
+
+- [Examples, semantics of taking time](https://framenet2.icsi.berkeley.edu/fnReports/data/frame/Taking_time.xml)
+
+## Exam preparation--The case of Frank, Antonio and Jackson
+
+- [The jigsaw cards](http://web.nuu.edu.tw/~greg/food/jigsaw_douglas_2.pdf)
+- [The quiz cards](http://web.nuu.edu.tw/~greg/food/quiz_douglas_2.pdf)
 
