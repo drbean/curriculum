@@ -185,9 +185,28 @@ After the tourist guide leaves, the tourists decide how much to "tip" her/him by
 
 The person who performs the vote is the person who will be the tour guide next time.
 
+## Deciding how many beans
+
+Criteria
+
+1. Could you understand what he/she said?
+2. Was what they said interesting?
+3. Were they well prepared to be a tour guide?
+4. Did they speak about 5 places connected by a walk?
+5. Did they say 3 things about each place?
+6. How long did they speak?
+7. What was the reaction of the other tourists?
+
+Try to give equal numbers of 3, 4 and 5 beans.
+
+- 2 beans if they stand up, but don't say anything.
+- 3 beans if you can't understand and it isn't interesting and they don't speak very long.
+- 4 beans if you think they did a good job and you understood what they said.
+- 5 beans if you wished you could do as well as they did, because they satisfied all the 7 criteria.
+
 ## Responsibilities
 
-For example, in the first round in the Front Right tour group, Ivy will be the tour guide. After, she leaves for the Back Right group, and Andy carries out the vote, declares the beans to be awarded to Ivy and gives them to Louis, who is the tour guide in the second round. After Louis leaves for the Back Right group, he will give the beans to Ivy.
+For example, in the first round in the Front Right tour group, Ivy will be the tour guide. After, she leaves for the Back Right group. Andy carries out the vote, declares the beans to be awarded to Ivy and gives them to Louis, who is the tour guide in the second round. After Louis leaves for the Back Right group, he will give the beans to Ivy.
 
 +-----------+------------+------------+------------+------------+
 |           |Front Left:4|Back Left:3 |Back Right:2|FrontRight:1|
@@ -201,20 +220,59 @@ For example, in the first round in the Front Right tour group, Ivy will be the t
 |-2:C       |Willy       |Joe         |Jackie      |Vicky       |
 +-----------+------------+------------+------------+------------+
 |-3:A       |Sandy       |Toyz        |Josh        |Joanne      |
-|-3:B       |Toby        |Nora2       |Iris        |David       |
+|-3:B       |Toby        |Nora2       |Iris        |David1      |
 |-3:C       |Amber1      |Winnie      |Kevin       |Shelli      |
 +-----------+------------+------------+------------+------------+
 |-4:A       |Elena       |Johnson     |Emily       |Annie       |
 |-4:B       |Vam         |YuWen       |Mark        |Lydia       |
 |-4:C       |Ula         |Sunny       |Antonio     |Trista      |
 +-----------+------------+------------+------------+------------+
-|-5:A       |Jimmy       |Joy2        |Eric        |            |
-|-5:B       |Uta         |Leon        |Sally       |            |
-|-5:C       |            |Jerry       |Amber2      |            |
+|-5:A       |Jimmy       |Joy2        |Eric        |Grace       |
+|-5:B       |Uta         |Leon        |Sally       |Ada         |
+|-5:C       |            |Wan         |Amber2      |Owen        |
 +-----------+------------+------------+------------+------------+
-|-6:A       |Grace       |            |Brian       |            |
-|-6:B       |Ada         |            |David       |            |
-|-6:C       |Owen        |            |            |            |
+|-6:A       |            |            |Brian       |            |
+|-6:B       |            |            |David2      |            |
+|-6:C       |            |            |            |            |
 +-----------+------------+------------+------------+------------+
+
+Tell me if someone is absent. We will ask Brian, David to take their places.
+
+## Rounds
+
++---+-------------+--------------+-------------+-------------+
+|   |Front Left::4|Back Left:::3 |Back Right::2|FrontRight::1|
+|   |Guide Elector|Guide Elector |Guide Elector|Guide Elector|
++===+=============+==============+=============+=============+
+|1  |Tiffan Alin  |Robert Allen  |Joy1   Nora1 |Ivy    Andy  |
+|2  |Tina   Kiki  |Karste Bamboo |Megan  Jennif|Louis  Jason |
+|3  |ALin   Lori  |Allen  Gina   |Nora1  Chuck |Andy   Lily  |
++---+-------------+--------------+-------------+-------------+
+|4  |Kiki   Willy |Bamboo Joe    |Jennif Jackie|Jason  Vicky |
+|5  |Lori   Sandy |Gina   Toyz   |Chuck  Josh  |Lily   Joanne|
+|6  |Willy  Toby  |Joe    Nora2  |Jackie Iris  |Vicky  David1|
++---+-------------+--------------+-------------+-------------+
+|7  |Sandy  Amber1|Toyz   Winnie |Josh   Kevin |Joanne Shelli|
+|8  |Toby   Elena |Nora2  Johnson|Iris   Emily |David1 Annie |
+|9  |Amber1 Vam   |Winnie YuWen  |Kevin  Antoni|Shelli Lydia |
++---+-------------+--------------+-------------+-------------+
+|10 |Elena  Ula   |Johnso Sunny  |Emily  Eric  |Annie  Trista|
+|11 |Vam    Jimmy |YuWen  Joy2   |Mark   Sally |Lydia  Tiffan|
+|12 |Ula    Uta   |Sunny  Wan    |Antoni Amber2|Trista Tina  |
++---+-------------+--------------+-------------+-------------+
+|13 |Jimmy  Robert|Joy2   Joy1   |Eric   Ivy   |Grace  ALin  |
+|14 |Uta    Karste|Leon   Megan  |Sally  Louis |Ada    Kiki  |
+|15 |             |Wan    Nora1  |Amber2 Andy  |Owen   Lori  |
++---+-------------+--------------+-------------+-------------+
+|16 |             |              |Brian        |             |
+|17 |             |              |David2       |             |
+|18 |             |              |             |             |
++---+-------------+--------------+-------------+-------------+
+
+## Bean economy
+
+Each tourist group of 15 has 60 beans, in the form of 32 one-bean notes and 14 two-bean notes, good for an average of 4 beans for each tourist guide. At the start, if you give everyone 5 beans, there will be no beans for the last tour guides. On the other hand, if you give everyone 3 beans at the start, there will be many beans left over at the end of the activity, which no one can get. (5 beans is the maximum you can get.) Try to keep a track of how many 3-, 4- and 5-bean tips you are giving. This can only be a rough estimate. Don't worry about that.
+
+Dr Bean will ask you after the -2 C tour guides and -4 C tour guides have got their tips.
 
 # The End
