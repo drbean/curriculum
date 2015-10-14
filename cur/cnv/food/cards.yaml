@@ -257,7 +257,7 @@ spano:
           answer: True
         - question: Joe, Jr is Joe Sr's boss.
           answer: False
-        - question: Joe loves it when guests eat everything.
+        - question: Joe loves it when guests like the cooking.
           answer: True
         - question: Luke liked Joe's interest in what he thought of the food.
           answer: True
