@@ -373,12 +373,24 @@ I want everyone to paste images directly in the text rather than attaching a Pow
 
 ## Lonely Planet
 
+500 titles
+
 - [Lonely Planet website](http://www.lonelyplanet.com/)
 - [Lonely Planet on Wikipedia](https://en.wikipedia.org/wiki/Lonely_planet)
 
 ## Rough Guides
 
+200 destinations
+
 - [Rough Guides website](http://www.roughguides.com/)
 - [Rough Guides on Wikipedia](https://en.wikipedia.org/wiki/Rough_Guides)
+
+## 地球の歩き方
+
+100 titles
+
+- [地球の歩き方 website](http://www.arukikata.co.jp/)
+- [地球の歩き方 on Japanese Wikipedia](https://ja.wikipedia.org/wiki/%E5%9C%B0%E7%90%83%E3%81%AE%E6%AD%A9%E3%81%8D%E6%96%B9)
+
 
 # The End
