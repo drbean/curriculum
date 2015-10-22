@@ -2,7 +2,13 @@
 % by Dr Bean (高來圭)
 % 日  5月 11 12:03:33 CST 2014
 
-## Ed Trinka--the doorman
+# Men at work
+
+## Men at work images
+
+- [What images do you expect to see of men at work?](http://www.google.com.tw/search?q=%22+men+at+work%22&num=100&gws_rd=ssl&tbm=isch&tbo=u&source=univ&sa=X)
+
+# Ed Trinka--the doorman
 
 ## The doorman job--in Chicago
 
@@ -11,6 +17,9 @@ Will White at the Hotel Intercontinental
 
 The Hotel Intercontinental in Chicago
 [https://maps.google.com/maps?q=Hotel+InterContinental+chicago&hl=zh-TW&ll=41.891863,-87.622468&spn=0.010974,0.020106&sll=40.758554,-73.989658&sspn=0.011166,0.020106&t=m&z=16&layer=c&cbll=41.891361,-87.624073&panoid=pB1kNLj0Y9OnafGXQUhAbw&cbp=12,81.8,,0,0](https://maps.google.com/maps?q=Hotel+InterContinental+chicago&hl=zh-TW&ll=41.891863,-87.622468&spn=0.010974,0.020106&sll=40.758554,-73.989658&sspn=0.011166,0.020106&t=m&z=16&layer=c&cbll=41.891361,-87.624073&panoid=pB1kNLj0Y9OnafGXQUhAbw&cbp=12,81.8,,0,0)
+
+## The doorman job--in Boston
+
 
 Steve at the Boston 4 Seasons
 [http://www.youtube.com/watch?v=yqHkEPBpRkI](http://www.youtube.com/watch?v=yqHkEPBpRkI)
@@ -39,6 +48,50 @@ weather
 work
 
 Doormen _____(1) at hotels, _____(2) buildings and office buildings, and are _____(3) for _____(4) people in and out of the _____(5), and maintaining _____(6). At _____(7), they will welcome _____(8) and help them _____(9) by opening doors, _____(10) taxicabs, _____(11) guests and carrying _____(12) bags. High school students can often work _____(13) in hotels. Residential-building _____(14) must pass security _____(15) and have a clean-cut, _____(16) appearance. Doormen are on their _____(17) all the time _____(18), even in harsh _____(19), and they work _____(20) shifts.
+
+
+##  How did you get the job as doorman at the Plaza Hotel.
+
+What was the best tip you ever got? 
+
+- [The semantics of get](https://framenet2.icsi.berkeley.edu/fnReports/data/frame/Getting.xml)
+- [The grammar of get](http://verbs.colorado.edu/verb-index/vn/get-13.5.1.php#get-13.5.1-1)
+
+## He asked me where he could get his shoes shined.
+
+- Get something done
+- Get someone to do something
+
+- [Semantics and examples of CAUSATION](https://framenet2.icsi.berkeley.edu/fnReports/data/frame/Causation.xml)
+
+
+## Talking about working--questions from http://iteslj.org/questions/jobs.html
+
+* Can you describe the people/a typical day at your current job?
+* What was your first job?
+* Do you like your boss? Why or why not?
+* Do you like your job?
+* Do you think it is more important to make a lot of money or to enjoy your job?
+* Do you think women and men should be paid the same for the same job?
+* Do you think women are good bosses?
+* Do you think your company is well run?
+* Do you work on weekends?
+* Have you ever been promoted?
+* Have you ever taken any courses that specifically help you with the job you are doing now?
+* How long do you plan to continue working where you are?
+* How long have you been working at your present job?
+* How much money do you make? (Maybe this is not a good question to ask.)
+* If you had to choose between a satisfying job and a well-paid one, which would you choose?
+* What influenced your choice of job? (Why did you choose your job?)
+* What time do your start and finish work?
+* What would be your dream job?
+* What's one job you wouldn't like to do? Why not?
+* Who among the people you know has the most interesting job? What is it?
+* Why did you leave your last job - did you resign or were you sacked?
+* Who is the breadwinner (provider) in your family?
+* Who makes the most money in your family? (This may not be a "polite" question to ask.)
+* Do you see any unfair labour practices in your country's workforce?
+
 
 # The garbage man
 
@@ -559,6 +612,31 @@ When did women first become electricians?
 
 When was the first entry of women into the job?
 
+
+# Jobs--20 questions
+
+## 20-questions-type questions from http://iteslj.org/questions/jobs.html
+
++ Did you have to go to university to get it?
++ What is the name of your job?
++ Is it a popular job?
++ Is it a job mainly for men, or for women?
++ Did you need any special training to get your job?
+     o What type of special training did you need?
+          o How long and where was the training?
++ Is it an indoor, or outdoor job?
++ Which do you think most people prefer, indoor or outdoor jobs?
++ Does your job pay a good salary?
++ What are the advantages and disadvantages to your job?
++ Which do you think are some of the more demanding jobs?
+o Which are the least demanding jobs?
++ Which jobs are badly paid?
+    o Which jobs are over-paid?
+    + Which job are more popular than others, and why?
+    + Is your job competitive?
+    + What about promotions?
+    + Is it too competitive?
+    + How is your relationship with your co-workers?
 
 ## Job interview questions
 
