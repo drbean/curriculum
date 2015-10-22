@@ -1,7 +1,7 @@
 % Speaking with Impact Issues 2 and Conversation Strategies
 % Money
-% by Dr Bean (高來圭)
-% Tue Sep 23 16:31:11 CST 2014
+% by Dr Bean (高來圭) \
+Mon 12 Oct 09:22:17 CST 2015
 
 # Textbook
 
@@ -11,6 +11,44 @@ The Vocabulary, Mind Map & Points of View exercises on the first 2 pages are PRE
 
 The Discussion on the 3rd page is the REAL THING.
 
+# Money songs
+
+## Money--That's what I want
+
+- [Lyrics](http://www.azlyrics.com/lyrics/beatles/moneythatswhatiwant.html)
+- [Beatles live](https://www.youtube.com/watch?v=_awAH-JJx1k)
+
+## Money--Can't buy me love
+
+- [Lyrics](http://www.azlyrics.com/lyrics/beatles/cantbuymelove.html)
+- [Beatles live](https://www.youtube.com/watch?v=uxha1IUsSPI)
+
+## If you've got the money, honey, I've got the time
+
+- [Lyrics](http://www.lyricsfreak.com/l/lefty+frizzell/if+youve+got+the+money+ive+got+the+time_20801224.html)
+- [Lefty Frizzell--black and white](https://www.youtube.com/watch?v=QOBgylmdz-Q)
+- [Lefty Frizzell--color](https://www.youtube.com/watch?v=gPnswWbulKQ)
+
+## Chantilly Lace
+
+- [Lyrics](http://www.lyricsmode.com/lyrics/b/bopper_big/chantilly_lace.html)
+- [Big Bopper](https://www.youtube.com/watch?v=4b-by5e4saI)
+
+## Price Tag
+
+- [Lyrics](http://www.metrolyrics.com/price-tag-lyrics-jessie-j.html)
+- [Jessie J](https://www.youtube.com/watch?v=2LCGP13tc9U)
+
+- [Cha-ching](https://en.wiktionary.org/wiki/cha-ching)
+- [Bling-bling](https://en.wikipedia.org/wiki/Bling-bling)
+
+## Money ain't a thang
+
+- [Lyrics](http://www.azlyrics.com/lyrics/jayz/moneyaintathang.html)
+- [Jay-Z and Jermaine Dupri live](https://www.youtube.com/watch?v=Lc9xZQd-iPg)
+- [Jay-Z and Jermaine Dupri music video](https://www.youtube.com/watch?v=io0OiVIV7lM)
+
+
 ## The Bourne Identity
 
 - [The movie](http://en.wikipedia.org/wiki/The_Bourne_Identity_(2002_film))
@@ -18,11 +56,28 @@ The Discussion on the 3rd page is the REAL THING.
 
 What could the situation be? Speculate, brainstorm. The right answer is the wildest, most unconventional answer.
 
-A spy who lost his memory is being chased by people who want to kill him. He gives a woman $20,000 to take him to an address he has.
+## The Bourne Identity--3 YN questions
+
+Not "Why is he giving her the money?" A WH question.
+
+But YN questions to which the answer is Yes or No.
+
+- "Is he giving her the money?"
+- "Is the money to play Monopoly?"
+- "Can they speak Chinese?"
+
+
+
+
+## The Bourne Identity--What was happening in the movie
+
+A spy who lost his memory is being chased by people who want to kill him. He gives a stranger, a woman $20,000 to take him to an address on a piece of paper he found in his pocket.
 
 ## Talking about money--Now
 
-- Show us your money.
+Mixed feelings
+
+- [Show us your money.](http://www.wordwizard.com/phpbb3/viewtopic.php?f=7&t=21006)
 - What did you buy this morning? Or what did you do that cost money?
 - What will you spend money on today?
 - Where does this money come from?
@@ -30,7 +85,7 @@ A spy who lost his memory is being chased by people who want to kill him. He giv
 
 . . .
 
-Report by 1-1/1-2, 1-1 and 3-1 and 4-1
+Report by 1-1/1-2, 2-1, 3-1, 4-1, and 5-1
 
 ## Talking about money--The future
 
@@ -43,7 +98,173 @@ In the future you may have a family, people depending on you.
 
 . . .
 
-Report by 1-2 and 3-2 and 4-2
+Report by 1-2 and 3-2 and 4-2 and 5-2
+
+# Vocabulary
+
+## greedy
+
+greedy
+
+. . .
+
+貪婪
+
+## incentive
+
+incentive
+
+. . .
+
+獎勵
+
+
+## deposit
+
+deposit
+
+. . .
+
+存款
+
+
+## capital
+
+capital
+
+. . .
+
+資本
+
+
+## interest
+
+interest
+
+. . .
+
+興趣
+
+
+## earn
+
+earn
+
+. . .
+
+賺
+
+
+## stock_market
+
+stock_market
+
+. . .
+
+股市
+
+
+## value
+
+value
+
+. . .
+
+值
+
+
+## profit
+
+profit
+
+. . .
+
+利潤
+
+
+## invest
+
+invest
+
+. . .
+
+投資
+
+
+## amount
+
+amount
+
+. . .
+
+量
+
+
+## less
+
+less
+
+. . .
+
+少
+
+## savings
+
+savings
+
+. . .
+
+儲
+
+
+## shares
+
+shares
+
+. . .
+
+股
+
+## risky
+
+risky
+
+. . .
+
+冒險的
+
+
+
+## Cloze
+
+
+capital
+deposit
+earn
+interest
+invest
+profit
+risky
+savings
+shares
+stock_market
+
+A: How should I _____(1) money. In the bank it will not _____(2) much _____(3).
+B: Study the _____(4) and buy _____(5) in a company. You might make a _____(6). But it can be _____(7).
+A: I could use my _____(8) to pay a small _____(9) on a house, or as starting _____(10) for a business.
+
+貪婪
+獎勵
+存款
+資本
+興趣
+賺
+股市
+值
+利潤
+投資
+量
+少
 
 ## Points of view--Money makes us greedy
 
@@ -65,24 +286,31 @@ We need to distinguish between escort services and prostitution, even though esc
 
 [Escort agency](http://en.wikipedia.org/wiki/Escort_agency)
 
+## 2 questions for the exam
+
+What question do you want your partner to ask you about:
+
+- money and you
+- money and society
+
+in the exam?
 
 ## Personalization
 
 One student from each group reads a sentence about themselves using the words,
 
-- It's hard ...
-- I'm supposed to ...
+- I tend to forget ...
+- When I focus on ...
 
-# Expectations of the opposite sex: An activity
+# Expectations of people with money/without money: An activity
 
-## What women expect from men
+## What do people with money expect from people without money?
 
-eg, romantic, considerate, strong, handsome, rich, hard-working, intelligent, respected in the community, likes children, gets along with his in-laws, doesn'
-t chew 槟榔, etc
+eg, obedient, helpful etc
 
-## What women expect from men
+## What do people without money think of people with money?
 
-eg sexy, attractive, good figure, good mother, good cook, good housewife, fashion sense (?), sings well (?), supportive, submissive (?), likes children, gets along with her in-laws, etc
+eg resentment, expectations of generosity, etc
 
 # Activity: What do women expect of men? What do women look for in a man?
 
