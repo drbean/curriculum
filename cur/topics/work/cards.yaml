@@ -6,6 +6,30 @@ icecream:
 job:
   bingo:
     - fire_fighter police_officer doctor nurse chef teacher waiter dentist photographer pilot musician singer dancer astronaut
+
+    -
+      - A _nurse_ helps you when you are sick.
+      - A _dentist_ fixes your teeth.
+      - A _hairstylist_ cuts your hair.
+      - A _sales assistant_ sells you things.
+      - A _teacher_ tries to make you learn.
+      - A _doctor_ fixes problems with your body.
+      - A _taxi driver_ takes you places.
+      - A _police officer_ catches bad people.
+      - A _secretary_ helps a business person.
+      - A _waiter_ works in a restaurant.
+      - I'm _inquiring_ about the job.
+      - I want you to work _four days per week_.
+      - I want to work _part-time_.
+      - Do you have any _experience_?
+      - We would have to _train_ you.
+      - Have you worked as a _hairdresser_ before?
+      - I'm applying for the _cashier_ job.
+      - It's a _full-time_ job.
+      - The other job is a different _position_.
+      - I'm _calling_ about the job.
+
+
 firefighter:
   bingo:
     -
