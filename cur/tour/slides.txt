@@ -94,7 +94,10 @@ From which countries do citizens of that country not need a visa to enter the Re
 
 ## Booking an airline ticket online
 
-Dr Bean is going to Japan at 旧正月. Watch him book a ticket at http://www.eztravel.com.tw.
+Dr Bean is going to Japan at 旧正月. Watch him book a ticket at
+
+- [http://www.eztravel.com.tw.](http://www.eztravel.com.tw)
+- [http://www.flypeach.com](http://www.flypeach.com)
 
 ## 3 questions about Dr Bean's booking a ticket.
 
@@ -482,10 +485,90 @@ I want everyone to paste images directly in the text rather than attaching a Pow
 
 - [Dr Bean's family's house](https://www.google.com/maps/@-33.8485671,151.1424439,3a,75y,90t/data=!3m6!1e1!3m4!1sqOZMPkY5Q0TGAkZnvYJiGw!2e0!7i13312!8i6656)
 
+## A trip down Memory Lane FAQ 1
+
+> Can I use photos on google map or I have to take photos in person ?
+
+You can use photos on google map. I don't know if you can post=20
+them inline on elearning, which is required.
+
+A clickable link to the picture on the Internet is OK.
+
+## A trip down Memory Lane FAQ 2
+
+> My route is start from my home and end at Yu-Ching Temple. Can I use temple as my final destination in route or it only should be a =
+school ?
+
+No, it has to be your elementary school. It's about the past, when you were an elementary school student,=20
+not the present.
+
+## A trip down Memory Lane FAQ 3
+
+> I have 5 different place but they are in the same route, can I introduce =
+each place on their own google map ?  For example, of my 5 places about childhood. It this ok ?
+
+> Or those places should in the same route ? and google map only showed one=
+ route?
+
+No. Not 5 separate google maps. One google map.
+They should be on the same route. Only one google map.
+
+## A trip down Memory Lane FAQ 4
+
+> Can the route continue on beyond the school to some other place?
+
+I want them between your home and the school.  A park, temple and train station
+BEYOND the school is not what I want.
+
+## A trip down Memory Lane FAQ 5
+
+> I use the google map but don't know how to mark these 5 places on one=
+ route.
+
+I think you can use the pin in the toolbar above and then click=20
+on the place you want to mark.
+
+## A trip down Memory Lane FAQ 6
+
+> Can I upload a powerpoint file?
+
+I want the pictures in the message itself, not in an attachment.
+
+## A trip down Memory Lane FAQ 7
+
+> I only had route without any introduction of five places, is it cor=
+ect ?
+
+I wasn't=20
+very clear, and my message  isnt' a good example of what I want.
+
+Just like the previous tourist walk, I want 5 pictures on one walk and 3 sentences about each picture on the walk.
+
+Plus, this time, the google map.
+
+## A trip down Memory Lane FAQ 8
+
+> It is  correct of  five places ?  (my home > hospital > court > post offi=
+ce > elementary school)
+
+> Or I need to put five palces from my home to elememtary school, and it wi=
+ll be seven places ?
+
+> (my home> places 1 > place2 > place3 >place4 > elementary school(=3D plac=
+e5)   )
+
+> or
+
+> That is, (my home> places 1 > place2 > place3 >place4 >place5 > elementary school )
+
+I don't want 7 places. But you don't have to include your home and school if you don't want to.
+
+I want 5 places on the way to school.
 
 # Google Maps
 
 ## Dr Bean's 竹北 walk
+
 
 # Travel podcasts
 
@@ -516,6 +599,14 @@ I want everyone to paste images directly in the text rather than attaching a Pow
 
 - [地球の歩き方 website](http://www.arukikata.co.jp/)
 - [地球の歩き方 on Japanese Wikipedia](https://ja.wikipedia.org/wiki/%E5%9C%B0%E7%90%83%E3%81%AE%E6%AD%A9%E3%81%8D%E6%96%B9)
+
+# Disney
+
+## Prices
+
+- [Frommers' view](http://www.frommers.com/community/blogs/arthur-frommer-online/_ticket-disney-world-passes-100-mark-disney-vacations-now-only-rich)
+- [Frommers' view](http://www.frommers.com/community/blogs/arthur-frommer-online/_one-percenting-of-disney-loses-wins)
+- [DISunplugged view](http://www.disunplugged.com/2012/02/10/higher-prices-help-drive-10-increase-in-theme-park-revenue/)
 
 
 # The End
