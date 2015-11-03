@@ -1,0 +1,51 @@
+---
+-
+  - id
+  - description
+  - genre
+  - target
+  - content
+  - unclozeables
+  - percent
+
+-
+  - checkup-0
+  - An ounce of prevention
+  - "topics"
+  - "all"
+  - |+
+    M: Hi, Sandy. I have a question for you.
+    W: Sure, Joe.
+    M: I need to have a physical examination, and there is a new clinic on Elm Street. Have you heard anything about it?
+    W: One of my friends went there recently. She said it was very hygienic and well-run. It is great to have a new clinic close by, since there is a shortage of doctors around here. Why are you going?
+    M: I've just joined a gym. I want to get more exercise, and they require a medica exam before I can start.
+  - Hi, Sandy|Sure, Joe|examination, and|Elm Street|well-run|there|Why|get more exercise|start|pressure|and|possible|terrific|check-up|but|I am|and I|intake|rather|medication|The|ounce|pound|Prevention|and|appointment
+  - 100
+-
+  - checkup-1
+  - An ounce of prevention
+  - "topics"
+  - "all"
+  - |+
+    W: What kind of tests do they want you to have?
+    M: They want to know my blood pressure, how much I weigh, and results from a blood test to check for any possible diseases. I feel terrific, so I'm not worried.
+    W: I had a routine check-up last month, and the doctor discovered that my blood pressure is a little high. It's not serious, but I'm glad I found out about it. I am walking every day, and I have cut down on my salt intake. I would rather not take medication if I don't have to. The change in diet has really made me feel better. You know the saying, "An ounce of prevention is worth a pound of cure."
+    M: I think you are right. Prevention is very important. I'm going to call right now and set up an appointment.
+  - Hi, Sandy|Sure, Joe|examination, and|Elm Street|well-run|there|Why|get more exercise|start|pressure|and|possible|terrific|check-up|but|I am|and I|intake|rather|medication|The|ounce|pound|Prevention|and|appointment
+  - 100
+
+---
+-
+  - genre
+  - text
+  - id
+  - target
+  - content
+  - answer
+-
+  - topics
+  - canada-1
+  - 1
+  - all
+  - ''
+  - False
