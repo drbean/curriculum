@@ -8,9 +8,9 @@
   - unclozeables
   - percent
 -
-  - "kroenke-1"
+  - "kroenke"
   - "Tuning a piano at a nursing home"
-  - "intermediate"
+  - "conversation"
   - "all"
   - |+
     "00:38 A group gathered around in chairs.
@@ -23,16 +23,8 @@
     01:06 And then the activity director comes in and says:
     01:09 OK, everybody, Miss Jennifer was here and she saw that the piano man was tuning the piano, 
     01:14 so she'll be back in January. 
-    01:18 I didn't realize they had a concert scheduled that day. "
-  - "bore|glaring|sympathetic|activity|director|Jennifer|realize|scheduled"
-
--
-  - "kroenke-2"
-  - "Mixed reactions of the audience"
-  - "intermediate"
-  - "all"
-  - |+
-    "01:22 About a third of the people looked highly disappointed. 
+    01:18 I didn't realize they had a concert scheduled that day.
+    01:22 About a third of the people looked highly disappointed. 
     01:25 and they were murmuring to each other, trying to tell each other what had happened.
     01:30 The angry lady barked at me and said, you know: \"Haven't you ever heard if isn't broke, don't fix it?\" 
     01:37 And she stormed off. 
@@ -46,7 +38,9 @@
     02:09 That was a moment where someone did just the right thing, 
     02:14 just out of the blue.
     02:17 And it did mean something to me."
-  - "disappointed|murmuring|barked|stormed|scooted|startled|sincerely|out of the blue"
+  - "bore|glaring|sympathetic|activity|director|Jennifer|realize|scheduled|disappointed|murmuring|barked|stormed|scooted|startled|sincerely|out of the blue"
+  - 25
+
 
 -
   - "white"
