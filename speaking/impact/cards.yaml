@@ -365,42 +365,81 @@ money:
           answer: True
     1:
       identifier: money 1
-      A: You are a woman. Jason wants you to go on a date with him for money. Gillian says it's OK.
-      B: You have no woman friends. You want Marie to go on a date with you. You will give her NT \$5,000.
-      C: You are Gillian. You think it is OK for Marie to go out with Jason if she is happy doing that.
+      A: You are a woman. John wants you to go on a date with him for money. Gillian says it's OK.
+      B: You have no woman friends. You want Moll to go on a date with you. You will give her NT \$5,000.
+      C: You are Gillian. You think it is OK for Moll to go out with John if she is happy doing that.
       quiz:
         - question: A
           option: 
             - Gillian
-            - Jason
-            - Marie
-          answer: Marie
+            - John
+            - Moll
+          answer: Moll
         - question: B
           option: 
             - Gillian
-            - Jason
-            - Marie
+            - John
+            - Moll
           answer: Jason
         - question: C
           option: 
             - Gillian
+            - John
+            - Moll
+          answer: Gillian
+        - question: John and Moll are friends.
+          answer: False
+        - question: John wants to take money from Moll.
+          answer: False
+        - question: John wants to date Moll.
+          answer: True
+        - question: Gillian says Moll can go if she wants.
+          answer: True
+        - question: John wants to give Moll \$5,000.
+          answer: True
+        - question: Moll would be paid to go on a date.
+          answer: False
+        - question: Gillian says Moll doesn't have to go.
+          answer: True
+    2:
+      identifier: money 2
+      A: You are \$20,000. Jason wants to give you to Marie to take him to an address he has.
+      B: You met Jason, a spy who has lost his memory. He gives you \$20,000 to help him.
+      C: You are a spy, You don't know who you are. People want to kill you. You give \$20,000 to Marie.
+      quiz:
+        - question: A
+          option: 
             - Jason
             - Marie
-          answer: Gillian
-        - question: Jason and Marie are friends.
+            - \$20,000
+          answer: \$20,000
+        - question: B
+          option: 
+            - Jason
+            - Marie
+            - \$20,000
+          answer: Marie
+        - question: C
+          option: 
+            - Jason
+            - Marie
+            - \$20,000
+          answer: Jason
+        - question: The \$20,000 belongs to Marie.
           answer: False
-        - question: Jason wants to take money from Marie.
+        - question: Jason wants to give Marie money.
+          answer: True
+        - question: Jason gives Marie the money for sex.
           answer: False
-        - question: Jason wants to date Marie.
+        - question: Jason is in danger.
           answer: True
-        - question: Gillian says Marie can go if she wants.
-          answer: True
-        - question: Jason wants to give Marie \$5,000.
-          answer: True
-        - question: Marie would be paid to go on a date.
+        - question: Marie knows Jason well.
           answer: False
-        - question: Gillian says Marie doesn't have to go.
+        - question: Jason knows who he is.
+          answer: False
+        - question: Jason wants to go to an address he has.
           answer: True
+
 health:
   jigsaw:
     0:
