@@ -233,7 +233,7 @@ marriage:
           answer: Tomoko
         - question: Justin \& Tomoko are planning to marry.
           answer: False
-        - question: Carlos: Justin \& Tomoko should marry.
+        - question: Carlos\x3A Justin \& Tomoko should marry.
           answer: True
         - question: Tomoko wants to marry Justin.
           answer: False
@@ -470,11 +470,11 @@ health:
           answer: False
         - question: Chen wants less government health care.
           answer: False
-        - question: Annan: People shouldn't have to pay.
+        - question: Annan\x3A People shouldn't have to pay.
           answer: False
-        - question: Chen: People have a right to health care.
+        - question: Chen\x3A People have a right to health care.
           answer: True
-        - question: Annan: No! to government health care.
+        - question: Annan\x3A No! to government health care.
           answer: True
         - question: Obama wants more people to have health insurance.
           answer: True
@@ -820,19 +820,19 @@ history:
            - Christina
            - Napoleon
           answer: Christina
-        - question: Napoleon: women are weak.
+        - question: Napoleon\x3A women are weak.
           answer: False
-        - question: Napoleon: women should have more power.
+        - question: Napoleon\x3A women should have more power.
           answer: False
-        - question: Christina: women could prevent war.
+        - question: Christina\x3A women could prevent war.
           answer: True
-        - question: Christina: women should have more power.
+        - question: Christina\x3A women should have more power.
           answer: True
-        - question: Annan: Napoleon was powerful, so great.
+        - question: Annan\x3A Napoleon was powerful, so great.
           answer: True
-        - question: Annan: Napoleon gave women power.
+        - question: Annan\x3A Napoleon gave women power.
           answer: False
-        - question: Napoleon: men should control women.
+        - question: Napoleon\x3A men should control women.
           answer: True
 norad:
   jigsaw:
