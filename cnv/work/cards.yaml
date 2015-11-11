@@ -1757,7 +1757,7 @@ bruno:
           answer: False
         - question: Question c. Doorman, Garbage man: Both doorman and garbage man jobs involve carrying things (if the doorman is working at a hotel.)
 kroenke:
-  class:
+  compcomp:
     identifier: Ron Kroenke tunes piano at nursing home
     White: |
       \begin{Large}Information about Ron Kroenke\end{Large}
