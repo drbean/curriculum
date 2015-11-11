@@ -1649,8 +1649,8 @@ bruno:
           anwer: True
     2:
       identifier: bruno 2
-      A: You think Angelo is a nice person. He and Eddie carry your trash from your door out to the garbage truck. You give them a Christmas present. You are a nun, but you kiss Angelo on the cheek. You are sad and cry when he retires.
-      B: You are not famous, but you are well-known in your area of New York. New Yorkers don't appear friendly and helpful. But you and Eddie do when you pick up the trash. At Christmas, people give you and Eddie money and gifts to show their thanks.
+      A: You cannot carry your trash out onto the street. Angelo and Eddie carry it from your door out to the garbage truck. You give them a Christmas present. You are a nun, but you kiss Angelo on the cheek. You are sad and cry when he retires.
+      B: You are not famous, but you are well-known in your area of New York. New Yorkers don't appear friendly and helpful. But you and Eddie do when you pick up the trash. At Christmas, Sister Angelo and other people give you and Eddie kisses, money and gifts to show their thanks.
       C: You like working with Angelo because he is a great person. He really tries to do a good job. However, often it is you who do the work, lifting the garbage into the truck. He just stands and talks to people, like Sister Helen, the nun.
       quiz:
         - question: A
@@ -1671,19 +1671,19 @@ bruno:
             - Eddie
             - Sr Helen
           answer: Eddie
-        - question: Sister Helen is a nun in New York City.
-          answer: True
         - question: Sister Helen carries her trash out for Angelo.
           answer: False
         - question: Sister Helen kissed Angelo.
           answer: True
         - question: Angelo works together with Eddie.
           answer: True
-        - question: Angelo does more work than Eddie.
+        - question: Angelo does more work and Eddie stands around.
           answer: False
-        - question: People thank Angelo at Christmas.
+        - question: People give Angelo money and gifts at Christmas.
           answer: True
-        - question: New Yorkers appear friendly.
+        - question: New Yorkers appear friendly and helpful.
+          answer: False
+        - question: Angelo acts the same way as other New Yorkers.
           answer: False
     3:
       identifier: bruno 3
