@@ -1882,3 +1882,42 @@ kroenke:
       - question: "D thought the piano needed tuning."
         answer: True
           answer: True
+  jigsaw:
+    0:
+      identifier: kroenke 0
+      A: You are normally an angry woman. Everyone at the nursing home agrees. Ron's tuning the piano means that you now cannot sing Christmas songs. You think the piano sounded OK. You tell him, "If it isn't broken, don't fix it."
+      B: You are tuning the piano at a nursing home at Christmas time before a Christmas concert where everyone will sing Christmas songs. But it takes a long time and the concert is cancelled. Hilda is ungrateful, but Rose appreciates your hard work.
+      C: You are unhappy the Christmas concert has been cancelled, but you appreciate Ron's work. You think Hilda should not have said to Ron, "If it isn't broken, don't fix it." You thank Ron. You don't want him to feel everyone is ungrateful.
+      quiz:
+        - question: A
+          option:
+            - Hilda
+            - Ron
+            - Rose
+          answer: Hilda
+        - question: B
+          option:
+            - Hilda
+            - Ron
+            - Rose
+          answer: Ron
+        - question: A
+          option:
+            - Hilda
+            - Ron
+            - Rose
+          answer: Rose
+      - question: Hilda thought the piano needed tuning.
+        answer: False
+      - question: The concert cancellation is unconnected to the piano tuning.
+        answer: False
+      - question: People were hurt, because of the piano tuning.
+        answer: True
+      - question: "If it ain't broke, don't fix it," means "Fix it quickly, before it breaks."
+        answer: False
+      - question: Ron thinks Hilda is ungrateful, which hurts.
+        answer: True
+      - question: Rose supports what Hilda said to Ron.
+        answer: False
+      - question: Rose doesn't want Ron to feel bad because of Hilda.
+        answer: True
