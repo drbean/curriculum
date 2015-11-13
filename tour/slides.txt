@@ -2,6 +2,8 @@
 % 041FLA0003	觀光英語	夜應外二甲	高來圭
 % Dr Bean Mon 14 Sep 12:45:00 CST 2015
 
+# Tourism (or travel?)
+
 ## The unexamined trip is not worth traveling--Socrates
 
 What should be your aim traveling?
@@ -407,20 +409,29 @@ Probably was Brian.
 
 # Peer evaluation in midterm exam--A trip down Memory Lane
 
-## Every student gives the tour guide a four-, six- or seven-bean note.
+## Every student gives the tour guide a four-, six- or seven-bean note of the right color. {.allowframebreaks}
 
 After the tour presentation, the tour guide "dies and goes to heaven" and leaves his/her beans 
 because [You can't take it with you](http://dictionary.reference.com/browse/you-can-t-take-it-with-you)
 
-The tour guide coming from the previous world inherits the beans left by the "dying" tour guide. This is a different sort of money to the money he/she had in the previous world.
+The tour guide coming from the previous world inherits the beans left by the "dying" tour guide. This is a different sort of money to the money he/she had in the previous world. She should use the money she inherits when she enters the new world, not the different color beans from the old country. That is her grade.
 
-There are four worlds/countries, the Blue, White, Pink and Green.
+Anyone presenting mixed-color notes as her grade loses 5 percent.
+
+There are four worlds/countries, the Blue (1-1,2,3,4), Pink (2-1,2,3,4), White (3-1,2,3,4) and Yellow (4-1,2,3,4).
 
 As the tour guide dies, the tourist line up and the tour guide goes down the line with an envelope and each of the tourists puts a note in the envelope, as
 ["spirit money"](https://en.wikipedia.org/wiki/Joss_paper).
 
 
-th
+## Procedure
+
+1. Tour guide gives up her beans, because you can't take it with you.
+2. Tour guide gives her talk.
+3. Tour guide gets spirit money/tips from every tourist.
+4. Tour guide goes to next world, inherits the different color beans from the tour guide who just died and becomes a tourist in the new country/world.
+
+
 
 ## Bean economy II {.allowframebreaks}
 
@@ -430,9 +441,11 @@ Each of the 14 tourists in the group of 15 has 81 beans, in the form of
 - 5 six-bean notes and
 - 5 seven-bean notes.
 
+Check you have all these 14 notes. {.allowframebreaks}
+
 This is good for an average of 81 beans for each tourist guide.
 
-## Possible results
+## Possible results {.allowframebreaks}
 
 If every tourist gives the tourguide 4 beans, the guide gets 56 beans, a failing grade.
 
@@ -442,7 +455,9 @@ If every tourist gives the tourguide 7 beans, the guide gets 98 beans, a very go
 
 You must give each tour guide one note, either 4, 6, or 7 beans. You have 14 notes for 14 tour guides.
 
-## Checks the tourguide is getting adequately tipped/has enough spirit money.
+Even if the last tourguide didn't do a good job, if you have only the 7-bean note left, you must give her the 7-bean note.
+
+## Checks the tourguide is getting adequately tipped/has enough spirit money. {.allowframebreaks}
 
 The tourguide will count the number of notes he/she gets.
 
@@ -454,6 +469,62 @@ Try to keep a track of how many 4-, 6- and 7-bean tips you are giving. This can 
 
 Dr Bean will ask you after the -2 C tour guides and -4 C tour guides have got their tips.
 
+## Responsibilities Chart {.allowframebreaks}
+
++-----------+------------+------------+------------+------------+
+| Tourgroups|Front Left:4|Back Left:3 |Back Right:2|FrontRight:1|
+|           |Yellow      |White       |Pink        |Blue        |     Average
++===========+============+============+============+============+
+|-1:A       |Leon     84 |Amber1   84 |Lydia    84 |Stella      |        84
++-----------+------------+------------+------------+------------+
+|-1:B       |Annie    85 |Ula      84 |Trista   78 |Ada      72 |        80
++-----------+------------+------------+------------+------------+
+|-1:C       |Megan    88 |Jackie      |Sunny    93 |Allen    75 |        85
++-----------+------------+------------+------------+------------+
+|-2:A       |Iris     69 |Sandy       |David1   69 |Amber2   74 |        71
++-----------+------------+------------+------------+------------+
+|-2:B       |Lori     81 |Nora1    80 |Shelli   72 |Jimmy    91 |        81
++-----------+------------+------------+------------+------------+
+|-2:C       |Ivy      82 |Jennifer 88 |Emily    82 |Bamboo   98 |        88
++-----------+------------+------------+------------+------------+
+|-3:A       |Toby     84 |Sally    77 |Joanne   71 |ALin     77 |        77
++-----------+------------+------------+------------+------------+
+|-3:B       |Joy1     83 |Vicky    86 |Toyz     83 |YuWen    90 |        86
++-----------+------------+------------+------------+------------+
+|-3:C       |Winnie   83 |Andy     74 |Robert   82 |Nora2    82 |        80
++-----------+------------+------------+------------+------------+
+|-4:A       |Chuck       |Kevin       |Elena    87 |Jason       |        87
++-----------+------------+------------+------------+------------+
+|-4:B       |Tiffany  91 |Antonio  72 |Tina     87 |Mark     85 |        84
++-----------+------------+------------+------------+------------+
+|-4:C       |Johnson  78 |Karsten  86 |Josh        |Louis    86 |        83
++-----------+------------+------------+------------+------------+
+|-5:A       |Willy    72 |David2   82 |Eric     83 |Joy2     95 |        83
++-----------+------------+------------+------------+------------+
+|-5:B       |Wan      72 |Gina     66 |Grace    82 |Vam      84 |        76
++-----------+------------+------------+------------+------------+
+|-5:C       |Kiki     71 |Brian    75 |Lily     82 |Uta      89 |        79
++-----------+------------+------------+------------+------------+
+
+Brian will joing the White World/Country. Joe will be my assistant. if he is a good assistant, I give him 100%. If not, a lesser score.
+
+Please try to be the tourguide in the right order.
+
+I think we will try to give each guide 2 minutes. We may have to speed up at the end. You don't have to talk for 2 minutes if you don't like. You can answer questions, if there are any.
+
+If someone is absent, tell me or Joe. I will give a responsible tourist in the tour group those beans. When it is that absent person's turn to speak, everyone in the group must give me or Joe a 4-bean note.
+
+If they are tardy, they lose 5 percent. They get back the beans that the responsible tourist hasn't used.
+
+If they arrive after it is their turn to speak they get 14 4-bean notes Joe and I collected.
+
+If you do not or cannot give your tourguide a note, tell me or Joe. We will make up the lost note, but your grade goes down 5 percent.
+That is if you lose beans, your grade goes down 5 percent.
+
+Keep the notes fastened with the paper clip. You have to give them up.
+
+Put one note into your World/Country's [collection plate](https://www.google.com/search?site=&tbm=isch&source=hp&biw=1318&bih=740&q=collection+plate&oq=collection+plate&gs_l=img.3..0i19l5j0i30i19l2j0i5i30i19l3.1225.4257.0.4702.16.16.0.0.0.0.68.566.16.16.0....0...1.1.64.img..0.16.564.YPIH0f_Pgz0#imgrc=_), actually [collection bag](https://www.google.com/search?biw=1198&bih=673&tbm=isch&sa=1&q=church+collection+bags&oq=church+collection+bag&gs_l=img.3.0.0i19j0i8i30i19.43118.45068.0.50012.7.7.0.0.0.0.43.214.7.7.0....0...1.1.64.img..3.4.131.wnvRnWLA2rs)
+ 
 
 # Walk in neighborhood homework
 
