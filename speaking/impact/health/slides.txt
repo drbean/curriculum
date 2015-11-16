@@ -29,6 +29,7 @@ Should we be paying for those people?
 ## School project health care songs
 
 - [Parodies of "Need You Now", "Dynamite" and "Bad Romance"](https://www.youtube.com/watch?v=GHRZyaEDPOg.)
+- ["Need You Now" lyrics](http://www.azlyrics.com/lyrics/ladyantebellum/needyounow.html)
 
 
 # Talking 
@@ -154,7 +155,25 @@ stiff
 治療
 僵硬
 
+## Cloze
 
+
+aches (V)
+allergies (N)
+injury(N)
+medicines(N)
+ointment(N)
+rash(N)
+side-effects(N)
+sore (A)
+stiff (A)
+swollen (A)
+
+T: I played tennis and now my legs are _____1() and _____(2). It's not a sports _____(3), but my body _____(4) all over.
+N: I have some _____(5) you can rub into your _____(6) muscles
+T: I have a lot of _____(7). If I'm not careful I could get a _____(8) all over my legs. Even common _____(9) can have serious _____(10).
+
+# Talking
 
 ## Talking about health insurance
 
@@ -186,6 +205,7 @@ Report by 4-1, 3-1 and 2-1 and 1-1
 - Who wants more government control, and equal medical treatment for the poor and rich.
 - Who thinks the economy (private companies) can do a better job than the government of providing medical care for society.
 - Whose view is closer to communism? Whose view is closer to capitalism? Obama, Chen (China) or Annan (Thailand)
+- What does, "Market forces can be very good at keeping doctors on their toes," mean?
 
 ## Health care in different countries
 
@@ -196,6 +216,7 @@ Report by 4-1, 3-1 and 2-1 and 1-1
 - [Obamacare](http://en.wikipedia.org/wiki/Patient_Protection_and_Affordable_Care_Act)
 - [Health care in China](http://en.wikipedia.org/wiki/Healthcare_reform_in_the_People%27s_Republic_of_China)
 - [Health care in Thailand](http://en.wikipedia.org/wiki/Health_in_Thailand)
+- [Health care in Taiwan](http://en.wikipedia.org/wiki/Health_in_Taiwan)
 
 
 
