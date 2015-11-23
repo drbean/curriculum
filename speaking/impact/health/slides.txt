@@ -263,4 +263,64 @@ Her grade will be how well she does her job.
 
 I will want her to check the pairs have filled out the form correctly.
 
+# Hospital roleplay
+
+## What should the hospital do with the money?
+
+X Hospital has just received a very large amount of money from 
+
+1. the government in health insurance payments for unnecessary treatments,
+2. a patient who thought the hospital saved his life, but who then died.t
+
+What should the hospital do with the money?
+
+## 1. Doctors
+
+1. Give doctors, who are overworked, a bonus.
+
+- Risk:						None
+- Return on investment ($):			None
+- Benefit to the targeted recipients:		High
+- Benefit to society:				Low
+- Benefit to the hospital's social standing:	Low
+
+## 2. Nurses
+
+2. Give nurses, who are overworked and underpaid, a bonus.
+
+- Risk:						None
+- Return on investment ($):			None
+- Benefit to the targeted recipients:		High
+- Benefit to society:				Low
+- Benefit to t
+
+## 3. New department
+
+3. The hospital founder's dream is to be the first to set up a heart surgery department in Hsinchu County.
+
+- Risk:						High
+- Return on investment ($):			High
+- Benefit to the targeted recipients:		Medium
+- Benefit to society:				Medium
+- Benefit to the hospital's social standing:	High
+
+## 4. New brain scan machine
+
+4. The hospital doesn't have a brain surgery department but it could use an expensive machine to perform tests.
+
+- Risk:						Medium
+- Return on investment ($):			Medium
+- Benefit to the targeted recipients:		Medium
+- Benefit to society:				Medium
+- Benefit to the hospital's social standing:	Medium
+
+## 5. Branch hospital in mountains for poor aboriginals without health care
+
+5. The government wants a hospital to set up a branch clinic in the mountains for a large and poor aboriginal community with many health problems.
+
+- Risk:						Low
+- Return on investment ($):			Low
+- Benefit to the targeted recipients:		High
+- Benefit to society:				Medium/High
+- Benefit to the hospital's social standing:	Medium
 
