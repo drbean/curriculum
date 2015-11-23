@@ -292,7 +292,7 @@ What should the hospital do with the money?
 - Return on investment ($):			None
 - Benefit to the targeted recipients:		High
 - Benefit to society:				Low
-- Benefit to t
+- Benefit to the hospital's social standing:	Low
 
 ## 3. New department
 
@@ -319,8 +319,13 @@ What should the hospital do with the money?
 5. The government wants a hospital to set up a branch clinic in the mountains for a large and poor aboriginal community with many health problems.
 
 - Risk:						Low
-- Return on investment ($):			Low
+- Return on investment ($):			Negative, ie, it will lose money
 - Benefit to the targeted recipients:		High
 - Benefit to society:				Medium/High
 - Benefit to the hospital's social standing:	Medium
 
+## What do you think?
+
+For each of the alternative courses of action, say what is good about it, and what is bad about it.
+
+Then say what decision the hospital should make.
