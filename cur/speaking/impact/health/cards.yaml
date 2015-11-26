@@ -78,4 +78,9 @@ health:
           answer: True
         - question: Jeff probably has health insurance.
           answer: False
+    2:
+      identifier: health 2
+      A: Dr Bean comes to your hospital to fix up his hand. You fix it and ask him to pay. But he never pays.
+      B: You injure your hand on your dad's boat. You want your dad to pay the hospital. You think it's his fault.
+      C: Your son, Dr Bean injures his hand on your boat. You think he was careless. You don't think you should pay.
 
