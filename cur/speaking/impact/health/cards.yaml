@@ -83,6 +83,7 @@ health:
       A: Your hospital fixes up Dr Bean's hand. You send him a letter 3 times, asking him to pay. But he never pays.
       B: You injure your hand on your dad's boat. You want your dad to pay the hospital. You think it's his fault.
       C: Your son, Dr Bean injures his hand on your boat. You think he was careless. You don't think you should pay.
+      quiz:
         - question: A
           option: 
             - Dr Bean
