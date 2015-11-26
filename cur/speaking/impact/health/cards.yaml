@@ -5,8 +5,8 @@ health:
     0:
       identifier: health 0
       A: You think people have a right to health care, even if they can't pay. You agree with Obama and disagree with Annan.
-      B: You are trying to increase health care benefits and the number of people who have health insurance in the US.
-      C: You disagree with Chen. You don't think government health care is a good idea. You think people have to pay.
+      B: You are US president. You are trying to increase the number of people who have health insurance in the US.
+      C: You disagree with Chen and Obama. You don't think government health care is a good idea. You think people have to pay.
       quiz:
         - question: A
           option: 
