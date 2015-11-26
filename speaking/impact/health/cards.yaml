@@ -20,7 +20,7 @@ health:
             - Chen
             - Obama
           answer: Obama
-        - question: A
+        - question: C
           option: 
             - Annan
             - Chen
@@ -58,7 +58,7 @@ health:
             - Jeff
             - Julie
           answer: Jeff
-        - question: A
+        - question: C
           option: 
             - Groucho
             - Jeff
