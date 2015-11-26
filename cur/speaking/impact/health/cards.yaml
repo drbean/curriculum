@@ -30,11 +30,11 @@ health:
           answer: False
         - question: Chen wants less government health care.
           answer: False
-        - question: Annan\x3A People shouldn't have to pay.
+        - question: "Annan: People shouldn't have to pay."
           answer: False
-        - question: Chen\x3A People have a right to health care.
+        - question: "Chen: People have a right to health care."
           answer: True
-        - question: Annan\x3A No! to government health care.
+        - question: "Annan: No! to government health care."
           answer: True
         - question: Obama wants more people to have health insurance.
           answer: True
