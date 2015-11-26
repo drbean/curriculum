@@ -80,7 +80,39 @@ health:
           answer: False
     2:
       identifier: health 2
-      A: Dr Bean comes to your hospital to fix up his hand. You fix it and ask him to pay. But he never pays.
+      A: Your hospital fixes up Dr Bean's hand. You send him a letter 3 times, asking him to pay. But he never pays.
       B: You injure your hand on your dad's boat. You want your dad to pay the hospital. You think it's his fault.
       C: Your son, Dr Bean injures his hand on your boat. You think he was careless. You don't think you should pay.
+        - question: A
+          option: 
+            - Dr Bean
+            - Dr Bean's dad
+            - Hospital
+          answer: Hospital
+        - question: B
+          option: 
+            - Dr Bean
+            - Dr Bean's dad
+            - Hospital
+          answer: Dr Bean
+        - question: C
+          option: 
+            - Dr Bean
+            - Dr Bean's dad
+            - Hospital
+          answer: Dr Bean's dad
+        - question: Dr Bean injured his father's hand.
+          answer: False
+        - question: The hand was injured on Dr Bean's dad's boat.
+          answer: True
+        - question: Dr Bean didn't need to go to the hospital.
+          answer: False
+        - question: Dr Bean's dad pays the hospital.
+          answer: False
+        - question: Dr Bean thinks his dad should pay.
+          answer: True
+        - question: Dr Bean's dad thinks Dr Bean should pay.
+          answer: True
+        - question: The hospital finally gets paid.
+          answer: False
 
