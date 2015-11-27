@@ -1,0 +1,71 @@
+---
+-
+  - id
+  - description
+  - genre
+  - target
+  - content
+  - unclozeables
+  - percent
+-
+  - times_square
+  - "Times Square and Broadway"
+  - "tourism"
+  - all
+  - |+
+    When you reach the intersection of 46th Street and Broadway, take a moment to look through the crowded streets and imagine. Instead of the sea full of taxis and other traffic, roads filled with millions of cold and drunk strangers. Can you see it? You're of course picturing New Year's Eve and this has been the place to party in the New Year for over a century. The tradition started ..
+
+    Start walking east once again and meet me up ahead at the next intersection. Along the way, we'll see where the world of literature meets the glorious wooden stage.
+
+    ".. outrageous fortune. Or to take arms against a sea of troubles, And by opposing end them. To die- to sleep- No more; and by a sleep to say we end The heartache, and the thousand natural shocks .."
+
+    Yes, the first two theaters on our tour are just ahead. The New Victory Theater is on this side of the street. And the New Amsterdam Theater, showing the Lion King ..
+  - Amsterdam
+  - 15
+                                                                      
+-
+  - central_park
+  - "Central Park"
+  - "tourism"
+  - all
+  - |+
+
+    The centerpiece of this children's district was to be the dairy. Cows, milkmaids and free milk distributed to kids. One of the biggest public health initiatives of the Victorian era was to try to get kids to drink milk. Pasteurized milk was much safer to drink than the water supply in a lot of New York City and it would wean a lot of kids off drinking beer. As last as 1900, many New York City kids drank beer, three meals a day, because brewed spirits were always safer to drink than the water.
+  - Victorian|Pasteurized|wean
+  - 17
+
+-
+  - upper_east_side
+  - "Upper East Side"
+  - "tourism"
+  - all
+  - |+
+    In 1974, Andy Warhol, who we think of as such a downtown artist, moved into this townhouse on a rather staid block of the Upper East Side. And he lived her as a virtual recluse until his death in 1987. He would go out, but no one but his mother was ever allowed inside. He kept everything he owned. He was a real hoarder. Every so often, he would box up items and send them to storage as many time capsules of his life. He also, unbeknownst to anyone aquired one of the world's largest collection of cookie jars, which were auctioned off after his death to help fund the Andy Warhol Foundation.
+  - Andy Warhol|virtual recluse|unbeknownst
+  - 17
+-
+  - wall_street
+  - "Wall Street"
+  - "tourism"
+  - all
+  - |+
+    You've already had a chance to take a good look at the New York Stock Exchange, and we've discussed some of its early history. Of course, ...
+    
+    This small patch of green, set down in the canyon of these towering buildings is New York City's oldest public park, Bowling Green. This is the one area that has remained intact since the first Dutch settlers here in the 1620's. At the time, ..
+
+    After the American Revolution, the tavern hosted the great general and future president, George Washington. During his farewell address to his military officers: 
+      
+    "With a heart full of love, and gratitude, I now take leave of you. I most devoutly wish that your latter days may be as prosperous and happy as your former ones have been glorious and honorable."
+  - devoutly|latter
+  - 15
+
+
+
+---
+-
+  - genre
+  - text
+  - id
+  - target
+  - content
+  - answer
