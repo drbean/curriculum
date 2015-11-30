@@ -3,35 +3,75 @@
   New York
 % Mon 23 Nov 09:20:05 CST 2015
 
-# Booking
-#
-## 3 questions about Dr Bean's booking a ticket.
+# New York questions
+
+## 3 questions about streets in New York.
 
 Think of 3 questions you can ask. For each question think of 3 answers, only one of which is correct.
 
-## Question 1
+## Which places did West 4th Street pass?
 
-Where is he going to transit?
+1. Which places did West 4th Street pass?
 
-- Shanghai
-- Pusan
-- Nagoya
+a. NYU
+b. Times Square
+c. Village Vanguard
 
-Where is he going to end up?
+## Which place did Prince Street pass?
 
-- Korea
-- Nagoya
-- Osaka
+2. Which place did Prince Street pass?
 
-Why is he going to Nagoya?
+a. Manhattan Prince's old home
+b. St Patrick's Cathedral
+c. St Patrick's Old Cathedral
 
-- He likes Nagoya?
-- His wife has relations in Nagoya
-- He can't get a plane to Osaka.
+## Where is Brooklyn?
+
+3. Where is Brooklyn?
+
+a. Across from Manhattan
+b. A part of Manhattan
+c. North of Manhattan
 
 ## Frommers on New York City
 
 - [http://www.frommers.com/destinations/new-york-city ](http://www.frommers.com/destinations/new-york-city)
+- [Pauline Frommer talks about NYC](http://usa.amateurtraveler.com/travel-to-new-york-city-with-pauline-frommer/)
+
+# Questions about what Frommer says
+
+## People in NYC don't have cars
+
+4. People in NYC don't have cars
+
+- True
+- False
+
+
+## There is more green space in NYC than other cities
+
+5. There is more green space in NYC than other cities
+
+- True
+- False
+
+
+## People in NYC are not friendly
+
+6. People in NYC are not friendly
+
+- True
+- False
+
+
+## people in NYC restaurants 
+
+7. Frommer says people in NYC restaurants start up conversations with people at different tables.
+
+- True
+- False
+
+
 
 ## Best walks in NYC
 
@@ -52,24 +92,52 @@ An unusual accent. Working class accent is different than middle class accent.
 
 not a questions about what you could find about the streets on the Internet!
 
-## Question 1. Are there still many Muslims in Spain now?
-
-- there are one million, mostly immigrants
-
-## Question 2. Whose side was Picasso on?
-
-- He supported neither side
-
-## Question 3. Why do 500 million people speak Spanish today?
-
-- Spain has a large population
-
 # Tourism in New York City
 
 ## Tourism in New York City
 
 - [Tourism in New York City](http://en.wikipedia.org/wiki/Tourism_in_New_York_City)
 - [New York City travel guide](https://en.wikivoyage.org/wiki/New_York_City)
+
+# New York subway
+
+## Maps
+
+- [New York subway maps](http://www.google.com.tw/search?q=%22new+york+subway+map%22&num=100&gws_rd=ssl&tbm=isch&tbo=u&source=univ&sa=X)
+
+## Transfer stations
+
+- [List of New York City Subway transfer stations - Wikipedia, the free encyclopedia](https://en.wikipedia.org/wiki/List_of_New_York_City_Subway_transfer_stations)
+
+## From Grand Central Terminal to NYU
+
+You are a new student at NYU coming into NYC by train. The train stops at Grand Central Terminal. How do you get to NYU by subway?
+
+## 8. You take the XX line
+
+8. You take the XX line
+
+a. Black
+b. Green
+c. Purple
+d. Yellow
+
+## 9. You change at 
+
+9. You change at 
+
+a. Grand Central Terminal
+b. Times Square
+c. Union Square
+
+## 10. NYU is the nth stop
+
+10. NYU is the nth stop
+
+a. 1st 
+b. 2nd
+c. 5th
+
 
 # Homework
 
@@ -96,9 +164,9 @@ You also have to make a google map.
 Wear comfortable shoes, because you will be walking around the classroom 15 times in 2 hours.
 
 - You fly to the country you are visiting.
-- a tour guide comes to meet you at the first location.
-- You follow the guide (walk) to the second, third, fourth, and fifth location, around the room.
-- You tip the guide, 4, 6 or 7 beans. The guide leaves.
+- a tour guide comes to meet you at the first location and speaks for 30 seconds to 1 minute.
+- You follow the guide (walk) to the second, third, fourth, and fifth location, around the room and listen to another 30-60 second talk.
+- You tip the guide, 4, 6 or 7 beans. The guide leaves, taking the flag.
 - You fly home.
 
 Repeat.
@@ -110,7 +178,7 @@ One person (a tour guide) from another country tells the others about his/her wa
 
 Tourguides, you do not leave your country after the tour. Tour guides do not move clockwise to join the next group. They just go back to join their fellow countrymen/women and particpate in the next tour.
 
-The others decide what grade to give her, 4, 6, or 7 beans. Each group has only 1215 beans to award the 15 tour guides.
+The others decide what grade to give her, 4, 6, or 7 beans. Each person has only 81 beans to award 14 tour guides.
 
 The group will decide the grade on the basis of the interest of the talk and her/his performance as a tour guide.
 
@@ -172,6 +240,75 @@ They will wear yellow badges. Make sure the paper clip does not tear your clothe
   , you lose 5 percent each time.
 - Keep your badge on at all times, or lose 10 percent.
 - If Dr Bean has to check you for some other reason, like in the wrong group, you lose 10 percent each time.
+
+# Quiz on tour procedure
+
+## What color money do Blue tour guides receive?
+
+11. What color money do Blue tour guides receive?
+
+a. Blue
+b. White
+c. Yellow
+
+## How many places does each tour guides introduce?
+
+12. How many places does each tour guides introduce?
+
+a. 1
+b. 2
+c. 3
+
+## What is the penalty if you are tardy?
+
+13. What is the penalty if you are tardy?
+
+a. 5
+b. 20
+c. 25
+
+
+
+## Responsibilities Chart {.allowframebreaks}
++-----------+------------+------------+------------+------------+
+| Tourgroups|Front Left:4|Back Left:3 |Back Right:2|FrontRight:1|
++===========+============+============+============+============+
+|-1:A       |Tiffany     |Robert      |Joy1        |Ivy         |
++-----------+------------+------------+------------+------------+
+|-1:B       |Tina        |Karsten     |Megan       |Louis       |
++-----------+------------+------------+------------+------------+
+|-1:C       |ALin        |Allen       |Nora1       |Andy        |
++-----------+------------+------------+------------+------------+
+|-2:A       |Kiki        |Bamboo      |Jennifer    |Jason       |
++-----------+------------+------------+------------+------------+
+|-2:B       |Lori        |Gina        |Chuck       |Lily        |
++-----------+------------+------------+------------+------------+
+|-2:C       |Willy       |Joe         |Jackie      |Vicky       |
++-----------+------------+------------+------------+------------+
+|-3:A       |Sandy       |Toyz        |Josh        |Joanne      |
++-----------+------------+------------+------------+------------+
+|-3:B       |Toby        |Nora2       |Iris        |David1      |
++-----------+------------+------------+------------+------------+
+|-3:C       |Amber1      |Winnie      |Kevin       |Shelli      |
++-----------+------------+------------+------------+------------+
+|-4:A       |Elena       |Johnson     |Emily       |Annie       |
++-----------+------------+------------+------------+------------+
+|-4:B       |Vam         |YuWen       |Mark        |Lydia       |
++-----------+------------+------------+------------+------------+
+|-4:C       |Ula         |Sunny       |Antonio     |Trista      |
++-----------+------------+------------+------------+------------+
+|-5:A       |Jimmy       |Joy2        |Eric        |Grace       |
++-----------+------------+------------+------------+------------+
+|-5:B       |Uta         |Leon        |Sally       |Ada         |
++-----------+------------+------------+------------+------------+
+|-5:C       |            |Wan         |Amber2      |Owen        |
++-----------+------------+------------+------------+------------+
+|-6:A       |            |            |Brian       |            |
++-----------+------------+------------+------------+------------+
+|-6:B       |            |            |David2      |            |
++-----------+------------+------------+------------+------------+
+|-6:C       |            |            |            |            |
++-----------+------------+------------+------------+------------+
 
 ## Responsibilities Chart {.allowframebreaks}
 +-----------+------------+------------+------------+------------+
