@@ -44,6 +44,48 @@
   - |+
     Goodall is the only person who has been an accepted member of a group of chimpanzees. She was the lowest-ranked "chimpanzee" for 22 months in a group in an African rain forest. She found that chimpanzees make tools, tearing leaves off a twig which they would push into a hole in a tree and then pull out. The twig would be covered with white ants, which they would eat. She also found that chimpanzees will kill other monkeys and then eat them. They even have wars.
   - Goodall|chimpanzees
+-
+  - "ant"
+  - "Ant"
+  - "topics"
+  - "all"
+  - |+
+    G: Hello, Mrs. Wilson. How are you?
+    W: I'm worried, Brianna. Thousands of ants are all over my patio!
+    G: That's quite a problem.
+    W: What's worse is that my daughter's birthday party is in a few days and I wanted to have it one the patio.
+    G: Why don't you call an exterminator?
+    W: I would but I don't want all those hazardous chemicals around my children. It's harmful and unhealthy. I also don't want dangerous substances to seep into the garden.
+    G: I usually don't have problems with ants, and I don't use any chemicals.
+    W: What's your secret?
+    G: Well, ants are difficult to control, so I planted a lot of mint plants near my deck. I also use cinnamon and cayenne pepper. I just sprinkle them around the places I don't want ants. Some people have tried it and said it worked. Others said they needed to try something else.
+    W: I think it's worth a try. I would rather use cinnamon and mint around my patio than some hazardous chemicals. Besides, I don't mind having the ants in the yard. I simply don't want them coming to the birthday party. Would you mind helping me?
+    G: It would be a pleasure. I have a lot of cinnamon at home and I can run to the store to get the plants for you.
+    W: Thank you, Brianna. You're such a thoughtful person.
+  - W:|G:|Mrs. Wilson|I'm|Brianna|patio|What's worse|exterminator|around|harmful|substances|problems|and|Well|so|mint|use|cayenne pepper|sprinkle|Others|else|worth|rather|Besides|pleasure|home|run
+  - Mrs. Wilson|I'm|Brianna|patio|What's worse|exterminator|around|harmful|substances|problems|and|Well|so|mint|use|cayenne pepper|sprinkle|Others|else|worth|rather|Besides|pleasure|home|run
+-
+  - "ant-0"
+  - "Ant-0"
+  - "topics"
+  - "all"
+  - |+
+    W: I'm worried, Brianna. Thousands of ants are all over my patio!
+    W: What's worse is that my daughter's birthday party is in a few days and I wanted to have it one the patio.
+    W: I would but I don't want all those hazardous chemicals around my children. It's harmful and unhealthy. I also don't want dangerous substances to seep into the garden.
+    G: Well, ants are difficult to control, so I planted a lot of mint plants near my deck. I also use cinnamon and cayenne pepper.
+  - Mrs. Wilson|I'm|Brianna|patio|What's worse|exterminator|around|harmful|substances|problems|and|Well|so|mint|use|cayenne pepper|sprinkle|Others|else|worth|rather|Besides|pleasure|home|run
+-
+  - "ant-1"
+  - "Ant-1"
+  - "topics"
+  - "all"
+  - |+
+    G: Well, ants are difficult to control, so I planted a lot of mint plants near my deck. I also use cinnamon and cayenne pepper. I just sprinkle them around the places I don't want ants. Some people have tried it and said it worked. Others said they needed to try something else.
+    W: I think it's worth a try. I would rather use cinnamon and mint around my patio than some hazardous chemicals. Besides, I don't mind having the ants in the yard. I simply don't want them coming to the birthday party. Would you mind helping me?
+    G: It would be a pleasure. I have a lot of cinnamon at home and I can run to the store to get the plants for you.
+    W: Thank you, Brianna. You're such a thoughtful person.
+  - W:|G:|Mrs. Wilson|I'm|Brianna|patio|What's worse|exterminator|around|harmful|substances|problems|and|Well|so|mint|use|cayenne pepper|sprinkle|Others|else|worth|rather|Besides|pleasure|home|run
 ---
 -
   - genre
