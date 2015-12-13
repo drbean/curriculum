@@ -16,10 +16,10 @@ Mon  7 Dec 09:00:14 CST 2015
 
 ## Your experience of school
 
-- One teacher you liked and your reason
-- One teacher you didn't like and your reason
-- One subject you liked and your reason
-- One subject you didn't like and your reason
+- One teacher you liked/didn't like and your reason
+- One subject you liked/didn't like and your reason
+- One thing that motivated/de-motivated you at school
+- One change that should be made in schools
 
 
 ## Dr Bean's experience of school
@@ -179,6 +179,30 @@ creativity
 
 創造力
 
+# Cloze
+
+## Carlos and Annan look back at high school
+
+
+bullying (N)
+co-ed (A)
+compulsory (A)
+curriculum (N)
+electives (N)
+homework (N)
+rules (N)
+self-motivation (N)
+shy (A)
+single-sex (A)
+student-centered (A)
+studying (N)
+subjects (N)
+teacher-centered (A)
+
+C: I went to _____(1) schools. So, I wasn't distracted from _____(2) by girls, but I feel _____(3) with them now. The _____(4) was also old-fashioned. All _____(5) were _____(6).
+A: At my _____(7) school, there were _____(8), but we didn't learn much. One good thing: the teaching was _____(9), so we were motivated to do _____(10).
+C. Wow. Your teachers understood _____(11). Our teaching was _____(12). We just followed _____(13). And the strictness led to a lot of _____(14).
+
 ## Points of view--Tomoko and JinSook debate the education system as students
 
 - Who's happy with the education system as it is and doesn't want change?  Who isn't happy with the education system as it is and wants it to change?
@@ -188,74 +212,63 @@ creativity
 
 # MUST project roleplay--AFLD development choices
 
-## What should the department do with the money?
+## What should the AFLD department do with the money?
 
-The department has received a 4,000,000 NT from the government. What should it do with the money.
+The department has received 4,000,000 NT from the government and an old student. What should it do with the money?
 
-1. the government in health insurance payments for unnecessary treatments,
-2. a patient who thought the hospital saved his life, but who then died.
+1. The government gave the money under the Teaching Excellence program.
+2. A student who became very successful because the school taught her/him English well gave the money.
 
-What should the hospital do with the money?
+What should the department do with the money?
 
-## 1. Doctors
+## 1. LiveABC--CSEPT
 
-1. Give doctors, who are overworked, a bonus.
+1. Buy LiveABC Internet program to prepare for CSEPT
 
-- Risk:						None
-- Return on investment ($):			None
-- Benefit to the targeted recipients:		High
-- Benefit to society:				Low
-- Benefit to the hospital's social standing:	Low
+- Risk money will be wasted:	High
+- Return on investment ($):	None
+- Student interest:		Low
+- Benefit to the school:	Medium
+- Social value:			Medium
 
-## 2. Nurses
+## 2. Exchange student
 
-2. Give nurses, who are overworked and underpaid, a bonus.
+2. Send one (1) student to the US for 6 months
 
-- Risk:						None
-- Return on investment ($):			None
-- Benefit to the targeted recipients:		High
-- Benefit to society:				Low
-- Benefit to the hospital's social standing:	Low
+- Risk money will be wasted:	Medium
+- Return on investment ($):	None
+- Student interest:		High
+- Benefit to the school:	Medium
+- Social value:			Medium
 
-## 3. New department
+## 3. New teaching machines in classrooms
 
-3. The hospital founder's dream is to be the first to set up a heart surgery department in Hsinchu County.
+3. Replace old teaching machines 
 
-- Risk:						High
-- Return on investment ($):			High
-- Benefit to the targeted recipients:		Medium
-- Benefit to society:				Medium
-- Benefit to the hospital's social standing:	High
+- Risk money will be wasted:	Medium
+- Return on investment ($):	None
+- Student interest:		Low
+- Benefit to the school:	Medium
+- Social value:			Low
 
-## 4. New brain scan machine
+## 4. Your idea
 
-4. The hospital doesn't have a brain surgery department but it could use an expensive machine to perform tests.
+4. Think of something you would like the department to do with the money
 
-- Risk:						Medium
-- Return on investment ($):			Medium
-- Benefit to the targeted recipients:		Medium
-- Benefit to society:				Medium
-- Benefit to the hospital's social standing:	Medium
-
-## 5. Branch hospital in mountains for poor aboriginals without health care
-
-5. The government wants a hospital to set up a branch clinic in the mountains for a large and poor aboriginal community with many health problems.
-
-- Risk:						Low
-- Return on investment ($):			Negative, ie, it will lose money
-- Benefit to the targeted recipients:		High
-- Benefit to society:				Medium/High
-- Benefit to the hospital's social standing:	Medium
+- Risk money will be wasted:	Is it likely the idea won't work?
+- Return on investment ($):	Will there be money coming in as a result?
+- Student interest:		Will students like, be motivated by, the idea?
+- Benefit to the school:	What will profs and the school board think?
+- Social value:			How will it make students who are good for 台灣?
 
 ## What do you think?
 
-1. Give doctors, who are overworked, a bonus.
-2. Give nurses, who are overworked and underpaid, a bonus.
-3. The hospital founder's dream is to be the first to set up a heart surgery department in Hsinchu County.
-4. The hospital doesn't have a brain surgery department but it could use an expensive machine to perform tests.
-5. The government wants a hospital to set up a branch clinic in the mountains for a large and poor aboriginal community with many health problems.
+1. Buy LiveABC Internet program to prepare for CSEPT
+2. Send one (1) student to the US for 6 months
+3. Replace old teaching machines 
+4. Think of something you would like the department to do with the money
 
 For each of the alternative courses of action, say what is good about it, and what is bad about it.
 
-Then say what decision the hospital should make.
+Then say what decision Dr 夏 should make.
 
