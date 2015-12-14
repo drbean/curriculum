@@ -1,0 +1,38 @@
+---
+-
+  - id
+  - description
+  - genre
+  - target
+  - content
+  - unclozeables
+  - percent
+-
+  - chagall
+  - "Marc Chagall: I and the village"
+  - "tourism"
+  - all
+  - |+
+    A green man is having a staring contest with a cow. A small woman is milking a small cow. In the distance, a farmer carries a tool with a curved blade for cutting grain. He meets an upside-down woman walking in front of her upside-down house. "Careful Tanya, or you'll fall." Is this a dream? Maybe. Or maybe artist Marc Chagall is mixing memories of his home in Russia with folktales he heard when he was little. He was living far from home in the big city of Paris, France when he painted this picture. Look at the big cow again. Did you notice that thin line connecting her eye to the eye of the man? Maybe Chagall connected them because he remembered how much the animals and people in his town relied on each other. Maybe all nature was important. Check out the tree the green man is holding, with clouds of seeds bursting out of it. Chagall said, Our old inner world is reality. He meant that what we see in our imaginations can be as important as what we see with our eyes. How would you paint your feelings about your hometown?
+  - Marc|Chagall|Tanya
+  - 18
+-
+  - matisse
+  - "Henri Matisse: The piano lesson"
+  - "tourism"
+  - all
+  - |+
+    [Music and piano teacher]
+    
+    Artist Henri Matisse painted this picture of his son's piano lesson. He said that Pierre looked like a captive, trapped indoors. How does he show us that? Well, look at Pierre's serious face, half-hidden by a dark shadow. On the piano sits a golden candle. It's all burnt down, as if Pierre has been practicing for hours. And Matisse uses a lot of gray, not a very fun color. Next to Pierre, there's an open window with a swirling balcony. And outside it, that big triangle of fresh green grass seems to say, Come out and play. But poor Pierre must sit at the piano and practice. Instead of listening to the birds chirping, he has to concentrate on the beat of the triangular metronome on the piano. It ticks like a clock to keep time. Just behind Pierre is a blank-faced woman sitting very straight on a high stool. Who is she? His mother? A strict piano teacher? Perhaps she is just in his imagination. Or maybe she is a painting hanging on the wall. Did you notice another figure here in the bottom corner at the left? That's probably a statue made by his father. I bet Pierre's too busy focusing on his lesson to even notice it.
+  - Music and piano teacher|Henri|Matisse|Pierre
+  - 18
+
+---
+-
+  - genre
+  - text
+  - id
+  - target
+  - content
+  - answer
