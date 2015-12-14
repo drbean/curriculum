@@ -267,179 +267,166 @@ a. 5
 b. 20
 c. 25
 
+## Names
 
+Jackie
+Toyz
+Elena
+Antonio
+Mark
+Wan
+Grace
+Jimmy
+Eric
+Jason
+Trista
+Tina
+Emily
+Sally
+Uta
 
-## Responsibilities Chart {.allowframebreaks}
-+-----------+------------+------------+------------+------------+
-| Tourgroups|Front Left:4|Back Left:3 |Back Right:2|FrontRight:1|
-+===========+============+============+============+============+
-|-1:A       |Tiffany     |Robert      |Joy1        |Ivy         |
-+-----------+------------+------------+------------+------------+
-|-1:B       |Tina        |Karsten     |Megan       |Louis       |
-+-----------+------------+------------+------------+------------+
-|-1:C       |ALin        |Allen       |Nora1       |Andy        |
-+-----------+------------+------------+------------+------------+
-|-2:A       |Kiki        |Bamboo      |Jennifer    |Jason       |
-+-----------+------------+------------+------------+------------+
-|-2:B       |Lori        |Gina        |Chuck       |Lily        |
-+-----------+------------+------------+------------+------------+
-|-2:C       |Willy       |Joe         |Jackie      |Vicky       |
-+-----------+------------+------------+------------+------------+
-|-3:A       |Sandy       |Toyz        |Josh        |Joanne      |
-+-----------+------------+------------+------------+------------+
-|-3:B       |Toby        |Nora2       |Iris        |David1      |
-+-----------+------------+------------+------------+------------+
-|-3:C       |Amber1      |Winnie      |Kevin       |Shelli      |
-+-----------+------------+------------+------------+------------+
-|-4:A       |Elena       |Johnson     |Emily       |Annie       |
-+-----------+------------+------------+------------+------------+
-|-4:B       |Vam         |YuWen       |Mark        |Lydia       |
-+-----------+------------+------------+------------+------------+
-|-4:C       |Ula         |Sunny       |Antonio     |Trista      |
-+-----------+------------+------------+------------+------------+
-|-5:A       |Jimmy       |Joy2        |Eric        |Grace       |
-+-----------+------------+------------+------------+------------+
-|-5:B       |Uta         |Leon        |Sally       |Ada         |
-+-----------+------------+------------+------------+------------+
-|-5:C       |            |Wan         |Amber2      |Owen        |
-+-----------+------------+------------+------------+------------+
-|-6:A       |            |            |Brian       |            |
-+-----------+------------+------------+------------+------------+
-|-6:B       |            |            |David2      |            |
-+-----------+------------+------------+------------+------------+
-|-6:C       |            |            |            |            |
-+-----------+------------+------------+------------+------------+
+Nora2
+David1
+Bamboo
+Johnson
+Gina
+Kiki
+ALin
+Ada
+Lydia
+Annie
+Joe
+Louis
+YuWen
+Amber1
+Ivy
 
-## Responsibilities Chart {.allowframebreaks}
-+-----------+------------+------------+------------+------------+
-| Tourgroups|Front Left:4|Back Left:3 |Back Right:2|FrontRight:1|
-+===========+============+============+============+============+
-|-1:A       |Tiffany     |Robert      |Joy1        |Ivy         |
-+-----------+------------+------------+------------+------------+
-|-1:B       |Tina        |Karsten     |Megan       |Louis       |
-+-----------+------------+------------+------------+------------+
-|-1:C       |ALin        |Allen       |Nora1       |Andy        |
-+-----------+------------+------------+------------+------------+
-|-2:A       |Kiki        |Bamboo      |Jennifer    |Jason       |
-+-----------+------------+------------+------------+------------+
-|-2:B       |Lori        |Gina        |Chuck       |Lily        |
-+-----------+------------+------------+------------+------------+
-|-2:C       |Willy       |Joe         |Jackie      |Vicky       |
-+-----------+------------+------------+------------+------------+
-|-3:A       |Sandy       |Toyz        |Josh        |Joanne      |
-+-----------+------------+------------+------------+------------+
-|-3:B       |Toby        |Nora2       |Iris        |David1      |
-+-----------+------------+------------+------------+------------+
-|-3:C       |Amber1      |Winnie      |Kevin       |Shelli      |
-+-----------+------------+------------+------------+------------+
-|-4:A       |Elena       |Johnson     |Emily       |Annie       |
-+-----------+------------+------------+------------+------------+
-|-4:B       |Vam         |YuWen       |Mark        |Lydia       |
-+-----------+------------+------------+------------+------------+
-|-4:C       |Ula         |Sunny       |Antonio     |Trista      |
-+-----------+------------+------------+------------+------------+
-|-5:A       |Jimmy       |Joy2        |Eric        |Grace       |
-+-----------+------------+------------+------------+------------+
-|-5:B       |Uta         |Leon        |Sally       |Ada         |
-+-----------+------------+------------+------------+------------+
-|-5:C       |            |Wan         |Amber2      |Owen        |
-+-----------+------------+------------+------------+------------+
-|-6:A       |            |            |Brian       |            |
-+-----------+------------+------------+------------+------------+
-|-6:B       |            |            |David2      |            |
-+-----------+------------+------------+------------+------------+
-|-6:C       |            |            |            |            |
-+-----------+------------+------------+------------+------------+
+Jennifer
+Lori
+Joy1
+Robert
+Iris
+Kevin Leon
+Sandy
+Tiffany
+Winnie
+Vicky
+Lily
+Sunny
+Andy
+Joy2
 
-Tell me if someone is absent. We will ask Brian, David to take their places.
+Josh
+Vam
+David2
+Brian
+Shelli
+Allen
+Willy
+Megan
+Nora1
+Chuck
+Karsten
+Joanne
+Toby
+Ula
+Amber2
 
-## Rounds {.allowframebreaks}
+## Tour guides Chart {.allowframebreaks}
 
-+---+-------------+--------------+-------------+-------------+
-|   |Front Left::4|Back Left:::3 |Back Right::2|FrontRight::1|
-|   |Guide Elector|Guide Elector |Guide Elector|Guide Elector|
-+===+=============+==============+=============+=============+
-|1  |Tiffan Alin  |Robert Allen  |Joy1   Nora1 |Ivy    Andy  |
-+---+-------------+--------------+-------------+-------------+
-|2  |Tina   Kiki  |Karste Bamboo |Megan  Jennif|Louis  Jason |
-+---+-------------+--------------+-------------+-------------+
-|3  |ALin   Lori  |Allen  Gina   |Nora1  Chuck |Andy   Lily  |
-+---+-------------+--------------+-------------+-------------+
-|4  |Kiki   Willy |Bamboo Joe    |Jennif Jackie|Jason  Vicky |
-+---+-------------+--------------+-------------+-------------+
-|5  |Lori   Sandy |Gina   Toyz   |Chuck  Josh  |Lily   Joanne|
-+---+-------------+--------------+-------------+-------------+
-|6  |Willy  Toby  |Joe    Nora2  |Jackie Iris  |Vicky  David1|
-+---+-------------+--------------+-------------+-------------+
-|7  |Sandy  Amber1|Toyz   Winnie |Josh   Kevin |Joanne Shelli|
-+---+-------------+--------------+-------------+-------------+
-|8  |Toby   Elena |Nora2  Johnson|Iris   Emily |David1 Annie |
-+---+-------------+--------------+-------------+-------------+
-|9  |Amber1 Vam   |Winnie YuWen  |Kevin  Antoni|Shelli Lydia |
-+---+-------------+--------------+-------------+-------------+
-|10 |Elena  Ula   |Johnso Sunny  |Emily  Eric  |Annie  Trista|
-+---+-------------+--------------+-------------+-------------+
-|11 |Vam    Jimmy |YuWen  Joy2   |Mark   Sally |Lydia  Tiffan|
-+---+-------------+--------------+-------------+-------------+
-|12 |Ula    Uta   |Sunny  Wan    |Antoni Amber2|Trista Tina  |
-+---+-------------+--------------+-------------+-------------+
-|13 |Jimmy  Robert|Joy2   Joy1   |Eric   Ivy   |Grace  ALin  |
-+---+-------------+--------------+-------------+-------------+
-|14 |Uta    Karste|Leon   Megan  |Sally  Louis |Ada    Kiki  |
-+---+-------------+--------------+-------------+-------------+
-|15 |             |Wan    Nora1  |Amber2 Andy  |Owen   Lori  |
-+---+-------------+--------------+-------------+-------------+
-|16 |             |              |Brian        |             |
-+---+-------------+--------------+-------------+-------------+
-|17 |             |              |David2       |             |
-+---+-------------+--------------+-------------+-------------+
-|18 |             |              |             |             |
-+---+-------------+--------------+-------------+-------------+
-
+Tell me if someone is absent. 
 
 Try to keep a track of how many 3-, 4- and 5-bean tips you are giving. This can only be a rough estimate. Don't worry about that.
 
-Dr Bean will ask you after the -2 C tour guides and -4 C tour guides have got their tips.
++-----+------------+------------+------------+------------+
+|Round|Front Left:4|Back Left:3 |Back Right:2|FrontRight:1|
++=====+============+============+============+============+
+|1    |Jackie      |Nora2       |Jennifer    |Josh        |
++-----+------------+------------+------------+------------+
 
-## Exam debriefing
+. . .
 
-I think it went well.
++-----+------------+------------+------------+------------+
+|2    |Toyz        |David1      |Lori        |Vam         |
++-----+------------+------------+------------+------------+
 
-I want to do something similar in Weeks 9, 13 and 18
+. . .
 
-Week 9 will probably be describing some places you walked to in your childhood. eg school, and the places you passed on the way.
++-----+------------+------------+------------+------------+
+|3    |Elena       |Bamboo      |Joy1        |David2      |
++-----+------------+------------+------------+------------+
 
-Uta gave me beans she collected from seniors and other students. She said she has 3 more beans than the total grades recorded. Please speak up if your name is not on this list and you gave her beans.
+. . .
 
-- [http://web.nuu.edu.tw/~greg/FLA0003/g1.yaml ](http://web.nuu.edu.tw/~greg/FLA0003/g1.yaml)
++-----+------------+------------+------------+------------+
+|4    |Antonio     |Johnson     |Robert      |Brian       |
++-----+------------+------------+------------+------------+
 
-Probably was Brian.
+. . .
 
-# Peer evaluation in midterm exam--A trip down Memory Lane
++-----+------------+------------+------------+------------+
+|5    |Mark        |Gina        |Iris        |Shelli      |
++-----+------------+------------+------------+------------+
 
-## Every student gives the tour guide a four-, six- or seven-bean note of the right color. {.allowframebreaks}
+. . .
 
-After the tour presentation, the tour guide "dies and goes to heaven" and leaves his/her beans 
-because [You can't take it with you](http://dictionary.reference.com/browse/you-can-t-take-it-with-you)
++-----+------------+------------+------------+------------+
+|6    |Wan         |Kiki        |Kevin       |Allen       |
++-----+------------+------------+------------+------------+
 
-The tour guide coming from the previous world inherits the beans left by the "dying" tour guide. This is a different sort of money to the money he/she had in the previous world. She should use the money she inherits when she enters the new world, not the different color beans from the old country. That is her grade.
+. . .
 
-Anyone presenting mixed-color notes as her grade loses 5 percent.
++-----+------------+------------+------------+------------+
+|7    |Grace       |ALin        |Leon        |Willy       |
++-----+------------+------------+------------+------------+
 
-There are four worlds/countries, the Blue (1-1,2,3,4), Pink (2-1,2,3,4), White (3-1,2,3,4) and Yellow (4-1,2,3,4).
+. . .
 
-As the tour guide dies, the tourist line up and the tour guide goes down the line with an envelope and each of the tourists puts a note in the envelope, as
-["spirit money"](https://en.wikipedia.org/wiki/Joss_paper).
++-----+------------+------------+------------+------------+
+|8    |Jimmy       |Ada         |Sandy       |Megan       |
++-----+------------+------------+------------+------------+
 
+. . .
 
-## Procedure
++-----+------------+------------+------------+------------+
+|9    |Eric        |Lydia       |Tiffany     |Nora1       |
++-----+------------+------------+------------+------------+
 
-1. Tour guide gives up her beans, because you can't take it with you.
-2. Tour guide gives her talk.
-3. Tour guide gets spirit money/tips from every tourist.
-4. Tour guide goes to next world, inherits the different color beans from the tour guide who just died and becomes a tourist in the new country/world.
+. . .
 
++-----+------------+------------+------------+------------+
+|10   |Jason       |Annie       |Winnie      |Chuck       |
++-----+------------+------------+------------+------------+
 
+. . .
+
++-----+------------+------------+------------+------------+
+|11   |Trista      |Joe         |Vicky       |Karsten     |
++-----+------------+------------+------------+------------+
+
+. . .
+
++-----+------------+------------+------------+------------+
+|12   |Tina        |Louis       |Lily        |Joanne      |
++-----+------------+------------+------------+------------+
+
+. . .
+
++-----+------------+------------+------------+------------+
+|13   |Emily       |YuWen       |Sunny       |Toby        |
++-----+------------+------------+------------+------------+
+
+. . .
+
++-----+------------+------------+------------+------------+
+|14   |Sally       |Amber1      |Andy        |Ula         |
++-----+------------+------------+------------+------------+
+
+. . .
+
++-----+------------+------------+------------+------------+
+|15   |Uta         |Ivy         |Joy2        |Amber2      |
++-----+------------+------------+------------+------------+
 
 ## Bean economy II {.allowframebreaks}
 
@@ -471,48 +458,11 @@ Try to keep a track of how many 4-, 6- and 7-bean tips you are giving. This can 
 
 Dr Bean will ask you after the -2 C tour guides and -4 C tour guides have got their tips.
 
-## Responsibilities Chart {.allowframebreaks}
+## Procedure
 
-+-----------+------------+------------+------------+------------+
-| Tourgroups|Front Left:4|Back Left:3 |Back Right:2|FrontRight:1|
-|           |Yellow      |White       |Pink        |Blue        |     Average
-+===========+============+============+============+============+
-|-1:A       |Leon     84 |Amber1   84 |Lydia    84 |Stella      |        84
-+-----------+------------+------------+------------+------------+
-|-1:B       |Annie    85 |Ula      84 |Trista   78 |Ada      72 |        80
-+-----------+------------+------------+------------+------------+
-|-1:C       |Megan    88 |Jackie      |Sunny    93 |Allen    75 |        85
-+-----------+------------+------------+------------+------------+
-|-2:A       |Iris     69 |Sandy       |David1   69 |Amber2   74 |        71
-+-----------+------------+------------+------------+------------+
-|-2:B       |Lori     81 |Nora1    80 |Shelli   72 |Jimmy    91 |        81
-+-----------+------------+------------+------------+------------+
-|-2:C       |Ivy      82 |Jennifer 88 |Emily    82 |Bamboo   98 |        88
-+-----------+------------+------------+------------+------------+
-|-3:A       |Toby     84 |Sally    77 |Joanne   71 |ALin     77 |        77
-+-----------+------------+------------+------------+------------+
-|-3:B       |Joy1     83 |Vicky    86 |Toyz     83 |YuWen    90 |        86
-+-----------+------------+------------+------------+------------+
-|-3:C       |Winnie   83 |Andy     74 |Robert   82 |Nora2    82 |        80
-+-----------+------------+------------+------------+------------+
-|-4:A       |Chuck       |Kevin       |Elena    87 |Jason       |        87
-+-----------+------------+------------+------------+------------+
-|-4:B       |Tiffany  91 |Antonio  72 |Tina     87 |Mark     85 |        84
-+-----------+------------+------------+------------+------------+
-|-4:C       |Johnson  78 |Karsten  86 |Josh        |Louis    86 |        83
-+-----------+------------+------------+------------+------------+
-|-5:A       |Willy    72 |David2   82 |Eric     83 |Joy2     95 |        83
-+-----------+------------+------------+------------+------------+
-|-5:B       |Wan      72 |Gina     66 |Grace    82 |Vam      84 |        76
-+-----------+------------+------------+------------+------------+
-|-5:C       |Kiki     71 |Brian    75 |Lily     82 |Uta      89 |        79
-+-----------+------------+------------+------------+------------+
+You will be the tourguide in random order.
 
-Brian will joing the White World/Country. Joe will be my assistant. if he is a good assistant, I give him 100%. If not, a lesser score.
-
-Please try to be the tourguide in the right order.
-
-I think we will try to give each guide 2 minutes. We may have to speed up at the end. You don't have to talk for 2 minutes if you don't like. You can answer questions, if there are any.
+I think we will try to give each guide 30 seconds in each location. We may have to speed up at the end. You don't have to talk for 30 seconds if you don't like. You can answer questions, if there are any.
 
 If someone is absent, tell me. I will give a responsible tourist in the tour group those beans. When it is that absent person's turn to speak, everyone in the group must give me a 4-bean note.
 
@@ -520,166 +470,13 @@ If they are tardy, they lose 20 percent. They get back the beans that the respon
 
 If they arrive after it is their turn to speak they get 14 4-bean notes I collected.
 
-If you do not or cannot give your tourguide a note, tell me or Joe. We will make up the lost note, but your grade goes down 5 percent.
+If you do not or cannot give your tourguide a note, tell me. We will make up the lost note, but your grade goes down 5 percent.
 That is if you lose beans, your grade goes down 5 percent.
 
 Keep the notes fastened with the paper clip. You have to give them up. I want the notes in the paper clip when you give them up to be counted.
 
 Put one note into your World/Country's [collection plate](https://www.google.com/search?site=&tbm=isch&source=hp&biw=1318&bih=740&q=collection+plate&oq=collection+plate&gs_l=img.3..0i19l5j0i30i19l2j0i5i30i19l3.1225.4257.0.4702.16.16.0.0.0.0.68.566.16.16.0....0...1.1.64.img..0.16.564.YPIH0f_Pgz0#imgrc=_), actually [collection bag](https://www.google.com/search?biw=1198&bih=673&tbm=isch&sa=1&q=church+collection+bags&oq=church+collection+bag&gs_l=img.3.0.0i19j0i8i30i19.43118.45068.0.50012.7.7.0.0.0.0.43.214.7.7.0....0...1.1.64.img..3.4.131.wnvRnWLA2rs)
  
-
-# Walk in neighborhood homework
-
-## The locations had to be on one walk
-
-One point if Dr Bean thought the locations did not belong on one walk. (In some cases he gave the students "the benefit of the doubt.")
-
-For example, one student had 4 slides of locations in 南苗 and then a slide of the 新東 Bridge, which is more than a kilometer away. No-one is going to walk one kilometer from 南苗 just to see the 新東 bridge.
-
-I gave that student one point.
-
-## "Every day is a fine day." Everything is interesting
-
-For the tourist, everything in a different culture is interesting. What seems uninteresting to the locals is interesting to the visitors.
-
-So, the best walks were not ones with pictures of famous, spectacular or exciting sites like 勝興車站, but ordinary ones with breakfast stores, post offices and libraries.
-
-The ideas of walking is very important for the tourist. You don't have to walk as much as Sarah Marquis, but you need to walk to be close to the place. You cannot experience a place passing by at speed on a bus, motorcyle or bicycle. You need to walk, and to stand and look and think.
-
-## Inline images
-
-Some students were able to paste images directly in the message on elearning, eg YuWen.
-
-I want everyone to paste images directly in the text rather than attaching a Powerpoint or Doc file next time.
-
-# A trip down Memory Lane
-
-## A walk that you took when you were a child.
-
-- [Dr Bean's family's house](https://www.google.com/maps/@-33.8485671,151.1424439,3a,75y,90t/data=!3m6!1e1!3m4!1sqOZMPkY5Q0TGAkZnvYJiGw!2e0!7i13312!8i6656)
-
-## A trip down Memory Lane FAQ 1
-
-> Can I use photos on google map or I have to take photos in person ?
-
-You can use photos on google map. I don't know if you can post=20
-them inline on elearning, which is required.
-
-A clickable link to the picture on the Internet is OK.
-
-## A trip down Memory Lane FAQ 2
-
-> My route is start from my home and end at Yu-Ching Temple. Can I use temple as my final destination in route or it only should be a =
-school ?
-
-No, it has to be your elementary school. It's about the past, when you were an elementary school student,=20
-not the present.
-
-## A trip down Memory Lane FAQ 3
-
-> I have 5 different place but they are in the same route, can I introduce =
-each place on their own google map ?  For example, of my 5 places about childhood. It this ok ?
-
-> Or those places should in the same route ? and google map only showed one=
- route?
-
-No. Not 5 separate google maps. One google map.
-They should be on the same route. Only one google map.
-
-## A trip down Memory Lane FAQ 4
-
-> Can the route continue on beyond the school to some other place?
-
-I want them between your home and the school.  A park, temple and train station
-BEYOND the school is not what I want.
-
-## A trip down Memory Lane FAQ 5
-
-> I use the google map but don't know how to mark these 5 places on one=
- route.
-
-I think you can use the pin in the toolbar above and then click=20
-on the place you want to mark.
-
-## A trip down Memory Lane FAQ 6
-
-> Can I upload a powerpoint file?
-
-I want the pictures in the message itself, not in an attachment.
-
-## A trip down Memory Lane FAQ 7
-
-> I only had route without any introduction of five places, is it cor=
-ect ?
-
-I wasn't=20
-very clear, and my message  isnt' a good example of what I want.
-
-Just like the previous tourist walk, I want 5 pictures on one walk and 3 sentences about each picture on the walk.
-
-Plus, this time, the google map.
-
-## A trip down Memory Lane FAQ 8
-
-> It is  correct of  five places ?  (my home > hospital > court > post offi=
-ce > elementary school)
-
-> Or I need to put five palces from my home to elememtary school, and it wi=
-ll be seven places ?
-
-> (my home> places 1 > place2 > place3 >place4 > elementary school(=3D plac=
-e5)   )
-
-> or
-
-> That is, (my home> places 1 > place2 > place3 >place4 >place5 > elementary school )
-
-I don't want 7 places. But you don't have to include your home and school if you don't want to.
-
-I want 5 places on the way to school.
-
-# Google Maps
-
-## Dr Bean's 竹北 walk
-
-
-# Travel podcasts
-
-
-## Google results
-
-- [Travel podcasts](http://www.google.com.tw/search?q=travel+podcast&num=100)
-
-# Book guides
-
-## Lonely Planet
-
-500 titles
-
-- [Lonely Planet website](http://www.lonelyplanet.com/)
-- [Lonely Planet on Wikipedia](https://en.wikipedia.org/wiki/Lonely_planet)
-
-## Rough Guides
-
-200 destinations
-
-- [Rough Guides website](http://www.roughguides.com/)
-- [Rough Guides on Wikipedia](https://en.wikipedia.org/wiki/Rough_Guides)
-
-## 地球の歩き方
-
-100 titles
-
-- [地球の歩き方 website](http://www.arukikata.co.jp/)
-- [地球の歩き方 on Japanese Wikipedia](https://ja.wikipedia.org/wiki/%E5%9C%B0%E7%90%83%E3%81%AE%E6%AD%A9%E3%81%8D%E6%96%B9)
-
-# Disney
-
-## Prices
-
-- [Frommers' view](http://www.frommers.com/community/blogs/arthur-frommer-online/_ticket-disney-world-passes-100-mark-disney-vacations-now-only-rich)
-- [Frommers' view](http://www.frommers.com/community/blogs/arthur-frommer-online/_one-percenting-of-disney-loses-wins)
-- [DISunplugged view](http://www.disunplugged.com/2012/02/10/higher-prices-help-drive-10-increase-in-theme-park-revenue/)
 
 # New York
 
