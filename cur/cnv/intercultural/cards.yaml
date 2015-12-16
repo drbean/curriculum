@@ -126,8 +126,6 @@ fernandez:
           answer  : False
         - question: Pedro explained Thanksiving to Jack.
           answer  : False
-        - question: Pedro and Jose understood American culture.
-          answer  : False
   compcomp:
     0:
       identifier: fernandez 0
