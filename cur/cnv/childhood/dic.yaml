@@ -1,0 +1,32 @@
+---
+-
+  - id
+  - description
+  - genre
+  - target
+  - content
+  - unclozeables
+  - percent
+-
+  - "kerpen"
+  - "13-year-old Miriam Kerpen gets racy magazine mailed to summer camp"
+  - "conversation"
+  - "all"
+  - |+
+    Kerpen: I was 13 at the time, so this was 1933.
+  
+    Shufro: '33.
+  
+    Kerpen: I went into Uncle Jake's room and opened up the dictionary, and in the middle of the dictionary was hidden a magazine called Spicy Stories. And Spicy Stories was pictures--I guess it qualifies as porn. I'm not sure. But it was mostly pictures of naked ladies dressed in jewelry and high heels, and it absolutely was astonishing to me, and I wrote down the name of the publisher, and I wrote to them and said, `Please, I'm going away to camp this summer, but I would appreciate a subscription, and I would appreciate it if you'd send it in plain covers.' It was a dollar for a subscription. I sent the dollar and then forgot about it. It was--you know, it was over and done, and I went to camp, and one day, I was called in front of the head counselor, who said, `This came in the mail for you,' and there was Spicy Stories.
+
+    Shufro: No plain cover.
+
+    Kerpen: No plain cover.
+  -
+-
+  - genre
+  - text
+  - id
+  - target
+  - content
+  - answer
