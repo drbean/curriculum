@@ -199,9 +199,9 @@ studying (N)
 subjects (N)
 teacher-centered (A)
 
-C: I went to _____(1) schools. So, I wasn't distracted from _____(2) by girls, but I feel _____(3) with them now. The _____(4) was also old-fashioned. All _____(5) were _____(6).
-A: At my _____(7) school, there were _____(8), but we didn't learn much. One good thing: the teaching was _____(9), so we were motivated to do _____(10).
-C. Wow. Your teachers understood _____(11). Our teaching was _____(12). We just followed _____(13). And the strictness led to a lot of _____(14).
+| C: I went to _____(1) schools. So, I wasn't distracted from _____(2) by girls, but I feel _____(3) with them now. The _____(4) was also old-fashioned. All _____(5) were _____(6).
+| A: At my _____(7) school, there were _____(8), but we didn't learn much. One good thing: the teaching was _____(9), so we were motivated to do _____(10).
+| C. Wow. Your teachers understood _____(11). Our teaching was _____(12). We just followed _____(13). And the strictness led to a lot of _____(14).
 
 ## Points of view--Tomoko and JinSook debate the education system as students
 
@@ -209,6 +209,45 @@ C. Wow. Your teachers understood _____(11). Our teaching was _____(12). We just 
 - Who probably gets higher scores in exams?
 - Who would probably be the more interesting teacher?
 - Who is teacher-centered? Who is student-centered?
+
+## Points of view--What do you think about the Tomoko and JinSook debate on the education system
+
+Dr Bean doesn't know. He likes the new way (or Western way?) better than the old way (or Eastern way?), but he is afraid the new way
+[throws the baby out with the bath water ](http://www.google.com.tw/search?q=%22throw+the+baby+out+with+the+bath+water%22&num=100&gws_rd=ssl&tbm=isch&tbo=u&source=univ&sa=X)
+
+He agrees with JinSook but is afraid Tomoko is right.
+
+# Personalization
+
+## What question about education do you want your partner to ask you in the exam?
+
+Write the question you will answer in the middle of the first piece of paper
+
+Write down the questions (the _questions_, not the _answers_) your partners ask you on the second piece of paper.
+
+## Questions for the exam
+
+In groups of 3,
+
+- B & C ask A her/his question, and A answers. B & C ask questions about what A said.
+- A & C ask B her/his question, and B answers. A & C ask questions about what B said.
+- B & A ask C her/his question, and C answers. B & A ask questions about what C said.
+
+## Questions for the exam--again
+
+In groups of 6,
+
+First,
+
+- N-1 A talks. The others ask questions about what she/he said. She/he writes the question down.
+- N-1 B talks. The others ask questions about what she/he said. She/he writes the question down.
+- N-1 C talks. The others ask questions about what she/he said. She/he writes the question down.
+
+Second
+
+- N-2 A talks. The others ask questions about what she/he said. She/he writes the question down.
+- N-2 B talks. The others ask questions about what she/he said. She/he writes the question down.
+- N-2 C talks. The others ask questions about what she/he said. She/he writes the question down.
 
 # MUST project roleplay--AFLD development choices
 
@@ -251,9 +290,25 @@ What should the department do with the money?
 - Benefit to the school:	Medium
 - Social value:			Low
 
-## 4. Your idea
+## 4. Hire more foreign teachers to improve our communication skill
 
-4. Think of something you would like the department to do with the money
+- Risk money will be wasted:  high
+- Return on investment ($):     None
+- Student interest:             High
+- Benefit to the school:        Medium
+- Social value:                 High ?
+
+## 5. Pay each student TOEIC exam fee once 
+
+- Risk money will be wasted:    High
+- Return on investment ($):    None
+- Student interest:     Hight        
+- Benefit to the school:     High
+- Social value:        High
+
+## 6. Your idea
+
+6. Think of something you would like the department to do with the money
 
 - Risk money will be wasted:	Is it likely the idea won't work?
 - Return on investment ($):	Will there be money coming in as a result?
