@@ -249,6 +249,21 @@ Second
 - N-2 B talks. The others ask questions about what she/he said. She/he writes the question down.
 - N-2 C talks. The others ask questions about what she/he said. She/he writes the question down.
 
+# Affirmative action
+
+## Points of view--Mac, Samantha and Crystal on Affirmative Action
+
+| Mac: I'm white, and white people treated black people very badly in the past. But now it's different. There are many black students on campus, so I don't think there needs to be any special treatment of them, or anyone, now. If you give them preference now, some prejudiced white people can continue to remain prejudiced. It makes race relations bad.
+| Samantha: I'm Hispanic and I got in through affirmative action. But it may not have been because of my race. In affirmative action, they also include students from poor families, students who have mental and physical handicaps, and students who have helped the community. Perhaps I got in because of that.
+| Crystal: I'm Asian-American and and I got in through affirmative action, but affirmative action hurt my chances of getting in. That's because 1 in 5 students here are Asian-American, but in the US only 1 in 20 are. The school doesn't want MORE students like me. However, I still think there are a lot of inequalities in the US. The school should let more disadvantaged students in.
+
+## Points of view--Affirmative Action questions
+
+- Who approves of affirmative action?
+- Who doesn't approve of affirmative action?
+- Who was probably not admitted through affirmative action?
+- Who is NOT a member of a minority?
+
 # MUST project roleplay--AFLD development choices
 
 ## What should the AFLD department do with the money?
@@ -264,6 +279,7 @@ What should the department do with the money?
 
 1. Buy LiveABC Internet program to prepare for CSEPT
 
+- Cost:                         Low
 - Risk money will be wasted:	High
 - Return on investment ($):	None
 - Student interest:		Low
@@ -274,6 +290,7 @@ What should the department do with the money?
 
 2. Send one (1) student to the US for 6 months
 
+- Cost:                         Medium
 - Risk money will be wasted:	Medium
 - Return on investment ($):	None
 - Student interest:		High
@@ -284,6 +301,7 @@ What should the department do with the money?
 
 3. Replace old teaching machines 
 
+- Cost:                         Low
 - Risk money will be wasted:	Medium
 - Return on investment ($):	None
 - Student interest:		Low
@@ -292,6 +310,7 @@ What should the department do with the money?
 
 ## 4. Hire more foreign teachers to improve our communication skill
 
+- Cost:                         Medium
 - Risk money will be wasted:  high
 - Return on investment ($):     None
 - Student interest:             High
@@ -300,6 +319,7 @@ What should the department do with the money?
 
 ## 5. Pay each student TOEIC exam fee once 
 
+- Cost:                         Medium
 - Risk money will be wasted:    High
 - Return on investment ($):    None
 - Student interest:     Hight        
@@ -310,6 +330,7 @@ What should the department do with the money?
 
 6. Think of something you would like the department to do with the money
 
+- Cost:                         How much will it cost?
 - Risk money will be wasted:	Is it likely the idea won't work?
 - Return on investment ($):	Will there be money coming in as a result?
 - Student interest:		Will students like, be motivated by, the idea?
