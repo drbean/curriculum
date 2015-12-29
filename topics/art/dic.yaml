@@ -56,12 +56,19 @@
   - "topics"
   - "all"
   - |+
-    B: I want to be a member of a heavy metal band. I love heavy metal drums, James.
-    M: I don't, Henry! They are too heavy, if you ask me. I prefer a more traditional style, like African barrel drums.
     B: Barrel drums? What are those?
     M: They are made with hollow logs and animal skins. First, they cut down a tree. They cut a section that's about as thick and tall as a barrel. They stretch an animal skin over the top, and tie it to the sides with wooden pegs. These pegs can be tightened to change the pitch.
-    M: In Nigeria, they have "talking" drums. They use a hollow trunk that's smaller than a barrel drum, and leave an opening at both ends. Then they fit an animal skin on each end. There's a string between each of these ends. When a player holds the drum under an armpit and squeezes it, it tightens the string and raises the pitch.
-    B: Why do they call it a "talking" drum?
+    M: In Nigeria, they have "talking" drums. They use a hollow trunk that's smaller than a barrel drum, and leave an opening at both ends. Then they fit an animal skin...
+  - James|Henry|They|and|First|that's|wooden|Hmm|Nigeria|"talking"|ends|squeezes|drummers|community|troupe|Africa
+  - 100
+-
+  - "drum-1"
+  - "Drums 1"
+  - "topics"
+  - "all"
+  - |+
+    on each end. There's a string between each of these ends. When a player holds the drum under an armpit and squeezes it, it tightens the string and raises the pitch.
+    B: Why do they call it a "talking" drum?B: Hmm.. That sounds interesting.
     M: The drummers are so skillful they can make the drums imitate human voices. They seem to cry, laugh and shout.
     B: I'd like to hear that.
     M: Why don't you come to the community college with me tomorrow? A troupe from Africa is giving a concert, and they are supposed to have the best drummers in the world.
