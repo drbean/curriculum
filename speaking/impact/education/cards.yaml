@@ -42,28 +42,28 @@ education:
           answer: True
     1:
       identifier: education 1
-      A: Tomoko \& JinSook are your students. You keep them under control, and teach them your way.
-      B: You like Paul. You disagree with Tomoko. You will become a teacher and teach like Paul.
-      C: You don't like Paul's teaching style. You disagree with JinSook. You want more freedom.
+      A: You like Paul. You disagree with Tomoko. You will become a teacher and teach like Paul.
+      B: You don't like Paul's teaching style. You disagree with JinSook. You want more freedom.
+      C: Tomoko \& JinSook are your students. You keep them under control, and teach them your way.
       quiz:
         - question: A
           option: 
            - JinSook
            - Paul
            - Tomoko
-          answer: Paul
+          answer: JinSook
         - question: B
           option: 
            - JinSook
            - Paul
            - Tomoko
-          answer: JinSook
+          answer: Tomoko
         - question: C
           option: 
            - JinSook
            - Paul
            - Tomoko
-          answer: Tomoko
+          answer: Paul
         - question: Paul gives students a lot of freedom.
           answer: False
         - question: JinSook likes Paul's teaching style.
