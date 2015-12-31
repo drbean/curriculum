@@ -78,4 +78,79 @@ education:
           answer: True
         - question: If Tomoko were a teacher, she would try to teach like Paul.
           answer: False
-
+    2:
+      identifier: education 2
+      A: Greg was your math student for 4 years. You tried to make math interesting for him. You worked harder than Mr Booth.
+      B: You taught Greg math 1 year instead of Mr Stelzer. The class was easy to teach, so you didn't prepare lessons.
+      C: You liked Mr Stelzer's classes. They were interesting. Mr Booth's math classes were not interesting.
+      quiz:
+        - question: A
+          option: 
+           - Greg
+           - Mr Booth
+           - Mr Stelzer
+          answer: Mr Stelzer
+        - question: B
+          option: 
+           - Greg
+           - Mr Booth
+           - Mr Stelzer
+          answer: Mr Booth
+        - question: C
+          option: 
+           - Greg
+           - Mr Booth
+           - Mr Stelzer
+          answer: Greg
+        - question: Mr Stelzer taught Greg math longer than Mr Booth did.
+          answer: True
+        - question: Mr Booth tried hard to teach Greg math.
+          answer: False
+        - question: Greg didn't like Mr Booth's math classes.
+          answer: True
+        - question: Mr Stelzer didn't try as hard as Mr Booth.
+          answer: False
+        - question: Greg didn't like Mr Stelzer's math classes.
+          answer: False
+        - question: Greg didn't like the teacher who worked harder.
+          answer: False
+        - question: Mr Stelzer was a better teacher than Mr Booth.
+          answer: True
+    3:
+      identifier: education 3
+      A: You are a white student and unlike Crystal and Sam, you didn't get in through affirmative action. You don't like affirmative action.
+      B: Like Crystal and unlike Mac, you got in through affirmative action, because you are Hispanic. Affirmative action lets people like you in.
+      C: Like Sam and unlike Mac, you got in through affirmative action. You like affirmative action because it lets in people who need help.
+      quiz:
+        - question: A
+          option: 
+           - Crystal
+           - Mac
+           - Sam
+          answer: Mac
+        - question: B
+          option: 
+           - Crystal
+           - Mac
+           - Sam
+          answer: Sam
+        - question: C
+          option: 
+           - Crystal
+           - Mac
+           - Sam
+          answer: Crystal
+        - question: Only Crystal and Sam got into the university.
+          answer: False
+        - question: Mac doesn't like affirmative action.
+          answer: True
+        - question: Crystal doesn't like affirmative action.
+          answer: False
+        - question: Sam got in because she is Hispanic.
+          answer: True
+        - question: Crystal got in through affirmative action.
+          answer: True
+        - question: Affirmative action is for the students with the top test scores.
+          answer: False
+        - question: Affirmative action is for white students with poor test scores.
+          answer: False
