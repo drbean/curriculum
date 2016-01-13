@@ -65,7 +65,7 @@ neal:
             - Mrs Grady
             - Olly
           answer: Olly
-        - question: Olly borrows a Frank Yerby book from the library.
+        - question: Olly checks out (ie, borrows) a Frank Yerby book from the library.
           answer  : False
         - question: He gets the book because Frank Yerby is a black writer.
           answer  : False
