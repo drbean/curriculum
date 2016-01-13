@@ -65,8 +65,20 @@ neal:
             - Mrs Grady
             - Olly
           answer: Olly
-        - question: They didn't like American culture.
+        - question: Olly borrows a Frank Yerby book from the library.
           answer  : False
+        - question: He gets the book because Frank Yerby is a black writer.
+          answer  : False
+        - question: Olly wants his friends to know he borrows books from the library.
+          answer  : False
+        - question: Mrs Grady removes Frank Yerby books to stop Olly stealing them.
+          answer  : False
+        - question: Mrs Grady buys more Frank Yerby books for Olly.
+          answer  : True
+        - question: Olly becomes a reader because of Mrs Grady \& Frank Yerby.
+          answer  : True
+        - question: Frank Yerby would be glad to know Olly became a reader.
+          answer  : True
 collins:
   jigsaw:
     0:
