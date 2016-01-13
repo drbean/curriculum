@@ -115,7 +115,7 @@ collins:
           answer  : True
         - question: Dr Lee thinks Richard's treatment is great.
           answer  : False
-        - question: "Dr Lee: Richard, tell people about your treatment."
+        - question: Dr Lee wants Richard to tell everyone about his treatment.
           answer  : False
         - question: Mrs Pepitone is OK. She's happy \& leaves hospital.
           answer  : True
