@@ -1,0 +1,117 @@
+genre: conversatioon
+kerpen:
+  jigsaw:
+    0:
+      identifier: kerpen 0
+      A: You have a girlie magazine, but you don't want Miriam and other family members to see it, so you hide it. You are very surprised when Randy, at summer camp tells your family a copy was mailed to Miriam.
+      B: You find Uncle Jake's girlie magazine and are astonished. You get a copy mailed to you at summer camp, so you can talk to the other girls about sex. But Randy at the camp finds the magazine and tells your family.
+      C: You are the leader at Miriam's summer camp. A girlie magazine arrives in the mail for Miriam. You don't know how she got it. You don't know she found a copy in Uncle Jake's dictionary. You tell her family.
+      quiz:
+        - question: A
+          option:
+            - Miriam
+            - Randy
+            - Uncle Jake
+          answer: Uncle Jake
+        - question: B
+          option:
+            - Miriam
+            - Randy
+            - Uncle Jake
+          answer: Miriam
+        - question: C
+          option:
+            - Miriam
+            - Randy
+            - Uncle Jake
+          answer: Randy
+        - question: Miriam found Uncle Jake's girlie magazine.
+          answer  : True
+        - question: Uncle Jake expected her to find it.
+          answer  : False
+        - question: Miriam is not surprised by the magazine.
+          answer  : False
+        - question: Miriam is surprised that it is mailed to her.
+          answer  : False
+        - question: Miriam wants to talk about sex with other girls.
+          answer  : True
+        - question: Randy wants nothing said about the magazine.
+          answer  : False
+        - question: Randy surprises Uncle Jake telling the family about the magazine.
+          answer  : True
+neal:
+  jigsaw:
+    0:
+      identifier: neal 0
+      A: You are a very popular writer. Olly and Mrs Grady read your books, but they don't know you are black. You don't know them, but you would be glad Mrs Grady turned Olly into a reader with your books. She bought them for him.
+      B: You are a black teacher. You see Olly steal a Frank Yerby book from the library, but you don't stop him. You know he wants to be cool and borrowing it would not be cool. You buy more Yerby books for him to steal.
+      C: You are a black teenager. You see a sexy library book. You don't want your friends to see you reading, so you steal it and you enjoy it. You then steal a 2nd \& 3rd Yerby book Mrs Grady gets. You come to like reading.
+      quiz:
+        - question: A
+          option:
+            - Frank Yerby
+            - Mrs Grady
+            - Olly
+          answer: Frank Yerby
+        - question: B
+          option:
+            - Frank Yerby
+            - Mrs Grady
+            - Olly
+          answer: Mrs Grady
+        - question: C
+          option:
+            - Frank Yerby
+            - Mrs Grady
+            - Olly
+          answer: Olly
+        - question: They didn't like American culture.
+          answer  : False
+collins:
+  jigsaw:
+    0:
+      identifier: collins 0
+      A: You are in hospital. You cannot get out of bed, because you are full of electricity. But Richard tells you to push out the electricity and you see his bowtie light up. You tell Dr Lee, Richard's supervisor the electricity has gone and you leave hospital.
+      B: You supervise Richard and other medical students in the hospital, as they think about Mrs Pepitone's case. You are very surprised and not happy when Richard tricks Mrs Pepitone into thinking she's OK. You tell him not to talk about what he did.
+      C: You have a trick bowtie that lights up. As your supervisor, Dr Lee is thinking what to do for Mrs Pepitone, you put your hand on her forehead, and tell her to push out the electricity. And your bowtie lights up. Mrs Pepitone is happy but Dr Lee isn't.
+      quiz:
+        - question: A
+          option:
+            - Dr Lee
+            - Mrs Pepitone
+            - Richard
+            - Theresa
+          answer: Theresa
+        - question: B
+          option:
+            - Giap
+            - Pam
+            - Stephanie
+            - Theresa
+          answer: Pam
+        - question: C
+          option:
+            - Giap
+            - Pam
+            - Stephanie
+            - Theresa
+          answer: Giap
+        - question: D
+          option:
+            - Giap
+            - Pam
+            - Stephanie
+            - Theresa
+          answer: Stephanie
+        - question: Theresa is Stephanie's mom.
+          answer  : True
+        - question: Two of the people are Anglo-American.
+          answer  : False
+        - question: Stephanie sleeps over at Pam's place.
+          answer  : False
+        - question: Stephanie's mom lets her do anything.
+          answer  : False
+        - question: Giap's mom is an Asian mom.
+          answer  : True
+        - question: Pam has more freedom than Stephanie.
+          answer  : True
