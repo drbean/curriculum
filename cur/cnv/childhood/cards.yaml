@@ -92,38 +92,30 @@ collins:
             - Dr Lee
             - Mrs Pepitone
             - Richard
-            - Theresa
-          answer: Theresa
+          answer: Mrs Pepitone
         - question: B
           option:
-            - Giap
-            - Pam
-            - Stephanie
-            - Theresa
-          answer: Pam
+            - Dr Lee
+            - Mrs Pepitone
+            - Richard
+          answer: Dr Lee
         - question: C
           option:
-            - Giap
-            - Pam
-            - Stephanie
-            - Theresa
-          answer: Giap
-        - question: D
-          option:
-            - Giap
-            - Pam
-            - Stephanie
-            - Theresa
-          answer: Stephanie
-        - question: Theresa is Stephanie's mom.
+            - Dr Lee
+            - Mrs Pepitone
+            - Richard
+          answer: Richard
+        - question: Mrs Pepitone needs no treatment. She is OK.
+          answer  : False
+        - question: In Richard's "treatment", Mrs Pepitone doesn't do anything.
+          answer  : False
+        - question: Mrs Pepitone doesn't know Richard is tricking her.
           answer  : True
-        - question: Two of the people are Anglo-American.
-          answer  : False
-        - question: Stephanie sleeps over at Pam's place.
-          answer  : False
-        - question: Stephanie's mom lets her do anything.
-          answer  : False
-        - question: Giap's mom is an Asian mom.
+        - question: The bowtie is supposed to be taking Mrs Pepitone's electricity.
           answer  : True
-        - question: Pam has more freedom than Stephanie.
+        - question: Dr Lee thinks Richard's treatment is great.
+          answer  : False
+        - question: "Dr Lee: Richard, tell people about your treatment."
+          answer  : False
+        - question: Mrs Pepitone is OK. She's happy \& leaves hospital.
           answer  : True
