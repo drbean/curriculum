@@ -1,0 +1,46 @@
+---
+-
+  - id
+  - description
+  - genre
+  - target
+  - content
+  - unclozeables
+  - percent
+-
+  - "amusementpark-0"
+  - "amusementpark 0"
+  - "topics"
+  - "all"
+  - |+
+    M: I love this amusement park, Fran! Thanks for suggesting it. I am having a fantastic time. There's that new ride! It's called, the Volcano, and it's supposed to be amazing.
+    W: That looks awfully high. Do you really want to try it? We've experienced the Rocket, the giant ferris wheel and those bumper boats. Don't you think that's enough? Besides, I am absolutely starving.
+    M: If you come on the Volcano with me, I'll buy you a pizza with whatever toppings you want.
+    W: Do you really mean any topping, even mushrooms, which you don't like?
+    M: Yes, I will even order a pizza with mushrooms!
+  - Fran|the Volcano, and|the Volcano|looks|the Rocket|ferris wheel|bumper|you|mushrooms|OK|Michael|sure|very|but|even|And|Sure|Skylight|eat|Oh|wow
+  - 100
+-
+  - "amusementpark-1"
+  - "amusementpark 1"
+  - "topics"
+  - "all"
+  - |+
+    W: OK, Michael. I will try this last ride.
+    M: Great, Fran! I know you will enjoy this. Did you know that when the volcano erupts, our seats shake? I heard it is quite an experience.
+    W: I am not sure that I want to get on this ride anymore.
+    M: Don't worry, Fran. Look at the people getting off the ride. They look very satisfied.
+    W: I'm sorry, but I don't think I can do this, even for pizza. How would you feel if I bought lunch instead?
+    M: I don't really want to force you to do something you really don't want to do. And I am hungry. Sure, let's get some lunch.
+    W: I want to try this new restaurant called Skylight. The top of the restaurant spins while you eat!
+    M: Oh, wow! Let's go!
+  - Fran|the Volcano, and|the Volcano|looks|the Rocket|ferris wheel|bumper|you|mushrooms|OK|Michael|sure|very|but|even|And|Sure|Skylight|eat|Oh|wow
+  - 100
+---
+-
+  - genre
+  - text
+  - id
+  - target
+  - content
+  - answer
