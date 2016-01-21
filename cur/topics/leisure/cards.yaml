@@ -9,8 +9,17 @@ game:
 likes:
   bingo:
 amusementpark:
-  bingo:
-    -
+  0:
+    flash:
+      starving:      挨餓
+      absolutely:    絕對
+      amusement park: 遊樂園
+      awfully:       非常
+      fantastic:     奇妙
+      spilling:      溢出
+      suggest:       建議
+      supposed:      假想的
+    bingo:
       - I _suggest_ you start before it is late.
       - What do you do for _amusement_ on Sunday?
       - This ice cream is _fantastic_.
