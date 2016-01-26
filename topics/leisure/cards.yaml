@@ -40,6 +40,38 @@ amusementpark:
       - Careful! You're _spilling_ milk on the floor.
       - What _grade_ did you get? A, B, C, D or F?
       - What did you _order_, or buy, at 麥當勞?
+  1:
+    flash:
+      erupt      : 爆發
+      force      : 力  
+      mushroom   : 蘑菇
+      spin       : 紡  
+      shake      : 搖  
+      quite      : 相當
+      traditional: 傳統
+      honest     : 誠實
+    bingo:
+      - Fran likes _mushrooms_. Michael doesn't.
+      - Fran _worries_ she won't enjoy the Volcano.
+      - Fran is not _sure_ she will enjoy the Volcano.
+      - When a volcano _erupts_, it's dangerous.
+      - Buildings _shake_ in an earthquake.
+      - Mike won't _force_ Fran to go on the Volcano.
+      - Fran is _sorry_ she disappoints Mike.
+      - A frisbee _spins_ when you throw it.
+      - People often use _quite_ to mean "very."
+      - If something is _traditional_, it's old.
+      - Which _ride_ doesn't Fran want to go on?
+      - People look _satisfied_ after the Volcano.
+      - Fran won't go on the Volcano, _even_ for pizza.
+      - Can you play an _instrument_, like piano?
+      - I _suggest_ you read an English book.
+      - What _grade_ did you get? A, B, C, D or F?
+      - An _assignment_ is school work you do at home.
+      - Have you _experienced_ living away from home?
+      - If you are _honest_, you don't tell lies.
+      - Don't talk. _instead_ listen to me.
+
 movie:
   bingo:
     -
