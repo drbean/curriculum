@@ -1,0 +1,30 @@
+---
+-
+  - id
+  - description
+  - genre
+  - target
+  - content
+  - unclozeables
+  - percent
+-
+  - "writing-0"
+  - "writing 0"
+  - "topics"
+  - "all"
+  - |+
+    B: This is terrible! I hate this assignment.
+    W: What's wrong, Timmy?
+    B: I am frustrated because I need to write a book report, and I can't get started.
+    W: May I see your paper? There's nothing here!
+    B: I can't think of anything to write, and it's due tomorrow. To make matters worse, we have to perform an oral presentation in front of the entire class. I don't see the purpose of writing a book report, anyway.
+    W: Writing is a necessary skill that you'll use for the rest of your life. This book report is just one way to begin learning that skill. It's another form of communication and a means of expressing your thoughts. It allows others to understand what is in your heart and mind.
+    B: I've never had to write before. Why should I start now.
+    W: Now is the best time to begin. The best writers read a lot, and practice writing. Anyone can learn to write well. I know you can do it.
+    B: OK, Mom. When you put it that way, I think I can do it.
+    W: That's the right attitude. Let's try to organize some of your thoughts by brainstorming. What can you tell me about the book?
+    B: The book? I've only watched the movie! Does that count?
+    W: Oh, goodness! What kind of child am I raising?
+    B: One that probably won't be a famous writer!
+
+
