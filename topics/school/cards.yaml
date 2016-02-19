@@ -76,6 +76,15 @@ badday:
 writing:
   0:
     flash:
+      terrible weather         : 惡劣天氣 
+      necessary                : 必要     
+      school assignment        : 作業     
+      communication            : 溝通     
+      oral presentation        : 口頭報告 
+      due tomorrow             : 由於明天 
+      to make matters worse    : 更糟     
+      skill                    : 技能     
+
     bingo:
       - An _assignment_ is work a teacher gives you.
       - 臭豆腐 tastes _terrible_.
@@ -98,4 +107,28 @@ writing:
       - _thoughts_ are in the head, words in the mouth.
       - Follow your _heart_, not your mind.
       - A _skill_ is the ability to do a difficult thing.
+  1:
+    flash:
+    bingo:
+      - You want to do well? That's the _right attitude_.
+      - Now is the _best_ time to begin.
+      - Good writers read and write a _lot_.
+      - Learning a skill, _practice_ is important.
+      - You read a book? Write a _report_.
+      - _anyone_ can learn to write well.
+      - when you _put it that way_, I see I have no choice.
+      - It's wet. to _make matters worse_, it's cold.
+      - Why _should_ I learn English?
+      - Stand up. Give us an _oral presentation_.
+      - Before you start, be sure you're _organized_.
+      - Your _thoughts_ about the book you read are?
+      - Knowing English is _necessary_ in the US, 台灣.
+      - The book? _brainstorm_ some wild, crazy ideas!
+      - Rock and jazz are different _forms_ of music.
+      - Writing is a means of _communication_.
+      - I did half the homework. Does some _count_?
+      - Talking, we are _expressing_ ourselves.
+      - Children are _raised_ by parents.
+      - Oh, _goodness_! Look at the time!
+      - Follow your _heart_, not your mind.
 
