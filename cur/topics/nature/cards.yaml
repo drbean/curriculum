@@ -29,8 +29,31 @@ sea:
   bingo:
     - octopus squid starfish crab ocean salt net fisherman boat wait deep spider bones head arms legs swim scared waves throw ride fish jump in_the_dark
 flower:
-  bingo:
-    - tulip cactus vase roots petals cost/costs bloom sharp knife money fruit scissors happy_birthday rose flower_store smell_good boring taste sweet scary pick dead rabbit eat warm sun strange enough water yard move
+  0:
+    bingo:
+      - tulip cactus vase roots petals cost/costs bloom sharp knife money fruit scissors happy_birthday rose flower_store smell_good boring taste sweet scary pick dead rabbit eat warm sun strange enough water yard move
+  1:
+    bingo:
+      - Beautiful _flowers_ are nice to look at.
+      - _tulips_ come out in spring.
+      - Be careful near the _cactus_. It will cut you.
+      - Put a beautiful plant in the _vase_ to look at.
+      - Plants send _roots_ down into the ground.
+      - _petals_ look like leaves, but aren't green.
+      - Bread _costs_ 31 NT dollars.
+      - Sakura trees _bloom_ in spring.
+      - Be careful. It's _sharp_. That broken glass.
+      - We use a _knife_ to cut things with.
+      - The name, _Bobby_ is a boy's name.
+      - I want to _buy_ a smartphone.
+      - How much _money_ do you have.
+      - _roses_ are often a red color.
+      - Did you get _gifts_ on your birthday?
+      - In spring, we see the _pink_ color.
+      - Don't _pick_ that plant. Leave it.
+      - My foot _hurts_. I cut it on broken glass.
+      - The glass I drank from had a _crack_ in it.
+      - The name, _Jane_ is a girl's name.
 antarctica:
   bingo:
     - million scientists equator tourist frozen continent pond ice dinosaurs South_Pole penguins seals coldest driest windiest bone farther_north forests summer Antarctica snow
