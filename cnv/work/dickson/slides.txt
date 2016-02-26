@@ -155,6 +155,13 @@ Either:
 
 Try again, up to a maximum six times, for a maximum 60 percent.
 
+# Gender
+
+## Gender roles on images.google.com
+
+- [gender roles - Google Search ](http://images.google.com/search?q=gender+roles&num=100&tbm=isch)
+- [Friends youtube video](http://www.youtube.com/watch?v=iGoC8FTLKSI)
+
 # Questions
 
 ## Gender and work--questions from http://www.englishwithjo.com/english-conversation-gender-roles/ {.allowframebreaks}
@@ -166,6 +173,7 @@ Try again, up to a maximum six times, for a maximum 60 percent.
 * Are there more male or female managers and executives? Can women make effective managers and bosses?
 * Are there different barriers for men and women at work?
 * Are men and women treated equally - and paid equally - at work?
+
 
 
 ## Gender and work--questions from http://teflpedia.com/Gender_conversation_questions {.allowframebreaks}
@@ -182,4 +190,20 @@ Try again, up to a maximum six times, for a maximum 60 percent.
 * In your country is it legal to advertise specifically for a man or a woman?
 * Have you ever come across the so-called "glass ceiling" (the point beyond which women don't get promoted)? Do you think it exists or is it an urban myth? Do you know of any top managers in your country that are female? What percentage of the total do you think they are?
 
+# Grammar
 
+## Finally, at the end of that week I let my dad take me to see Uncle Alf.
+
+- [The semantics of let, or Grant_permission ](https://framenet2.icsi.berkeley.edu/fnReports/data/frame/Grant_permission.xml)
+- [Examples of 'let' ](http://verbs.colorado.edu/html_groupings/let-v.html)
+
+Teacher A: Do you let your students speak Chinese?
+Teacher B: No, I make them use English.
+
+## tell, say, speak
+
+- The guy that was interviewing told me I was too little.
+- My dad said, "Well, you know, my Uncle Alf is superintendent out there."
+- several guys told me, "You need to slow down--you're making us look bad."
+
+- [say tell speak and ESL - Google search](http://www.google.com.tw/search?q=say+tell+speak+esl&num=100&gws_rd=cr&ei=ozbNVqPYM8ab0gSNvLWYCQ)
