@@ -272,6 +272,60 @@ Second
 - Who was probably not admitted through affirmative action?
 - Who is NOT a member of a minority?
 
+## Affirmative Action cloze with Mac
+
+affirmative
+allows
+badly
+black
+minorities
+now
+prejudiced
+special
+students
+white
+
+Mac: There should not be any _____(1) treatment of black people and other _____(2). White people treated _____(3) people very _____(4) in the past, but _____(5) there are many black _____(6) on campus. _____(7) action just _____(8) some prejudiced _____(9) people to remain _____(10).
+
+## Affirmative Action cloze with Samantha
+
+
+campus
+Hispanic
+increases
+let
+physically-disabled
+poor
+scores
+through
+wants
+white
+
+
+Samantha:  I'm _____(11).  And I got in _____(12) affirmative action. Affirmative action _____(13) the number of black, Hispanic, _____(14) and _____(15) students on _____(16). The school _____(17) these students, not just _____(18) students. So even if their _____(19) are lower, it will _____(20) them in.
+
+## Affirmative Action cloze with Crystal
+
+
+approve
+because
+chance
+disabled
+even
+give
+high
+inequalities
+people
+schools
+should
+society
+test
+university
+white
+
+
+Crystal: I _____(21) of affirmative action, _____(22) there are many _____(23) in US _____(24). Poor _____(25), black students, & _____(26) students don't have as good _____(27) as rich _____(28) kids. The _____(29) needs to _____(30) those students a second _____(31) It _____(32) let them in, _____(33) if their _____(34) scores aren't as _____(35).
+
 # MUST project roleplay--AFLD development choices
 
 ## What should the AFLD department do with the money?
@@ -332,6 +386,15 @@ What should the department do with the money?
 - Return on investment ($):    None
 - Student interest:     Hight        
 - Benefit to the school:     High
+- Social value:        High
+
+## 6. Open a branch AFL department in a convenient downtown Hsinchu location.
+
+- Cost:                         High
+- Risk money will be wasted:    Medium
+- Return on investment ($):    Low
+- Student interest:     High
+- Benefit to the school:     Medium
 - Social value:        High
 
 ## 6. Your idea
