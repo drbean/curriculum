@@ -20,49 +20,49 @@ The Discussion on the 3rd page is the REAL THING.
 
 ## In the ghetto--Lyrics {.allowframebreaks}
 
-As the snow flies
-On a cold and gray Chicago mornin'
-A poor little baby child is born
-In the ghetto
-(In the ghetto)
-And his mama cries
-Cause if there's one thing that she don't need
-It's another hungry mouth to feed
-In the ghetto
-(In the ghetto)
-People, don't you understand
-The child needs a helping hand
-Or he'll grow to be an angry young man some day
-Take a look at you and me,
-Are we too blind to see,
-Do we simply turn our heads
-And look the other way
-Well the world turns
-And a hungry little boy with a runny nose
-Plays in the street as the cold wind blows
-In the ghetto
-(In the ghetto)
-And his hunger burns
-So he starts to roam the streets at night
-And he learns how to steal
-And he learns how to fight
-In the ghetto
-(In the ghetto)
-Then one night in desperation
-A young man breaks away
-He buys a gun, he steals a car,
-He tries to run, but he don't get far
-And his mama cries
-As a crowd gathers 'round an angry young man
-Face down on the street with a gun in his hand
-In the ghetto
-(In the ghetto)
-As her young man dies,
-On a cold and gray Chicago mornin',
-Another little baby child is born
-In the ghetto
-(In the ghetto)
-And his mama cries
+|	As the snow flies
+|	On a cold and gray Chicago mornin'
+|	A poor little baby child is born
+|	In the ghetto
+|	(In the ghetto)
+|	And his mama cries
+|	Cause if there's one thing that she don't need
+|	It's another hungry mouth to feed
+|	In the ghetto
+|	(In the ghetto)
+|	People, don't you understand
+|	The child needs a helping hand
+|	Or he'll grow to be an angry young man some day
+|	Take a look at you and me,
+|	Are we too blind to see,
+|	Do we simply turn our heads
+|	And look the other way
+|	Well the world turns
+|	And a hungry little boy with a runny nose
+|	Plays in the street as the cold wind blows
+|	In the ghetto
+|	(In the ghetto)
+|	And his hunger burns
+|	So he starts to roam the streets at night
+|	And he learns how to steal
+|	And he learns how to fight
+|	In the ghetto
+|	(In the ghetto)
+|	Then one night in desperation
+|	A young man breaks away
+|	He buys a gun, he steals a car,
+|	He tries to run, but he don't get far
+|	And his mama cries
+|	As a crowd gathers 'round an angry young man
+|	Face down on the street with a gun in his hand
+|	In the ghetto
+|	(In the ghetto)
+|	As her young man dies,
+|	On a cold and gray Chicago mornin',
+|	Another little baby child is born
+|	In the ghetto
+|	(In the ghetto)
+|	And his mama cries
 
 # Crime movies
 
@@ -593,7 +593,7 @@ You are members of a jury in Portland, Oregon. today you will discuss the cases 
 
 ## Charles Mercer, age 80, retired. Crime: murder
 
-Case description: Mercer and his wife, Sara, had been married for 52 years. Sara got cancer in 1988 and was dying. She had been in hospital for 8 months and was kept alive by a respirator. On February 9, Mercer went to the hospital and shot his wife. He says: 'I loved her so much I couldn't watch her suffer anymore.'
+Case description: Mercer and his wife, Sara, had been married for 52 years. Sara got cancer in 1988 and was dying. She had been in hospital for 8 months and was kept alive by a life-support machine. On February 9, Mercer went to the hospital and shot his wife. He says: 'I loved her so much I couldn't watch her suffer anymore.'
 
 - Your punishment:
 - Your reason:
@@ -639,10 +639,9 @@ Case description: In the last 7 years, Mrs Smith has called the police eight tim
 
 - id: execution
 - title: The death penalty
-- blurb: |
 
-What do you think about putting criminals to death? What are the good points? +What are the bad points?
+What do you think about putting criminals to death? What are the good points? What are the bad points?
 
-comment: From  <a href="http://impactseries.com">http://impactseries.com</a>,   +listen to Richard Day discuss <a href="http://www.impactseries.com/Issues_new/         +authors_introductionmp3/tm2_u20.mp3">capital punishment, or the death penalty</a>.     +Then, listen to (or download) the video of Scott saying <a href="http://www.           +impactseries.com/Issues_new/personal_opinion/2_20.mov">the death penalty is not a good +thing</a>. (Download the video of Scott from <a href="http://web.nuu.edu.tw/~greg/     +speaking/2_20.mov">here</a>, or listen to the file on <a href="http://ec.must.edu.     +tw">http://ec.must.edu.tw</a> if that link for the video doesn't work.) Do you agree   +with Scott? Look out for the difficult vocabulary: <ul><li>Aloha (A Hawaiian greeting, +meaning Hello) <li>capital punishment, or the death penalty (meaning, putting          +criminals to death), <li>senselessly (meaning, without reason, without meaning),       +<li>murderer (meaning, someone who commits the crime of killing a person), <li>studies +have shown .. (meaning, professors did some research and they think ..), <li>short/    +long term (meaning, for a short time/after a longer time), <li>barbaric (meaning,      +cruel and uncivilized), <li>the state (meaning, the country/nation and its             +government), <li>stance (meaning, someone's point of view, or way of thinking).  </ul>
+comment: From  <a href="http://impactseries.com">http://impactseries.com</a>, listen to Richard Day discuss <a href="http://www.impactseries.com/Issues_new/authors_introductionmp3/tm2_u20.mp3">capital punishment, or the death penalty</a>. Then, listen to (or download) the video of Scott saying <a href="http://www.impactseries.com/Issues_new/personal_opinion/2_20.mov">the death penalty is not a good thing</a>. (Download the video of Scott from <a href="http://web.nuu.edu.tw/~greg/speaking/2_20.mov">here</a>, or listen to the file on <a href="http://ec.must.edu.tw">http://ec.must.edu.tw</a> if that link for the video doesn't work.) Do you agree with Scott? Look out for the difficult vocabulary: <ul><li>Aloha (A Hawaiian greeting, meaning Hello) <li>capital punishment, or the death penalty (meaning, putting criminals to death), <li>senselessly (meaning, without reason, without meaning), <li>murderer (meaning, someone who commits the crime of killing a person), <li>studies have shown .. (meaning, professors did some research and they think ..), <li>short/long term (meaning, for a short time/after a longer time), <li>barbaric (meaning, cruel and uncivilized), <li>the state (meaning, the country/nation and its government), <li>stance (meaning, someone's point of view, or way of thinking).  </ul>
 
 # The end
