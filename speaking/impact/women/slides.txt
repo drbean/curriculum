@@ -1,7 +1,7 @@
 % Speaking with Impact Issues 2 and Conversation Strategies
 % Women in society
-% by Dr Bean (高來圭)
-% Tue Sep 23 16:31:11 CST 2014
+% by Dr Bean (高來圭) \
+Mon Mar 27 09:11:42 CST 2016
 
 # Textbook
 
@@ -24,6 +24,12 @@ How did she get to the top?
 ## Erin Brockovich and Julia Roberts
 
 - [Julia Roberts as Erin Brockovich, Erin Brockovich as a waitress](https://www.youtube.com/watch?v=_68fW_hwMdc)
+
+## TED videos
+
+- [http://www.ted.com/talks/sheryl_sandberg_why_we_have_too_few_women_leaders ](http://www.ted.com/talks/sheryl_sandberg_why_we_have_too_few_women_leaders)
+- [https://www.ted.com/talks/michael_kimmel_why_gender_equality_is_good_for_everyone_men_included?language=en ](https://www.ted.com/talks/michael_kimmel_why_gender_equality_is_good_for_everyone_men_included?language=en)
+
 
   Roleplay
 
@@ -139,11 +145,39 @@ conditioned
 條件
 
 
+# Cloze
+
+## Are women discriminated against?
+
+appropriate
+careers
+discrimination
+equality
+equal opportunites
+genetically
+male-dominated
+quotas
+sexist
+sexual harassment
+social customs
+
+Woman: Society is _____(1) . People say there is _____(2) , but men have all the power. And male bosses think _____(3) of women employees and _____(4) comments are OK.
+
+Man: That's because some women want _____(5) in occupations more suited for men. We should accept we are _____(6) different. There is no _____(7) in jobs more suited for women.
+
+Woman: Even in those jobs a higher percentage of managers are men. Jobs more _____(8) for men only appear that way because of _____(9) created by men. We need _____(10) to ensure there's _____(11) for female managers.
+
+# Points of view
 
 ## Points of view--Manosh (India) and Francesca (Italy) on women in society {.allowframebreaks}
 
 
 Francesca talks about sexual equality.
+
+0. Is Francesca married?
+
+- Yes
+- No
 
 1. What does Manosh disagree with Francesca about:
 
@@ -230,6 +264,8 @@ Conversely, a study in Norway suggests that couples who share household chores a
 Sources: http://www.telegraph.co.uk/finance/newsbysector/retailandconsumer/9691280/Most-marriages-break-down-over-mundane-household-chores.html
 
 # Women in fields traditionally closed to them
+
+## Sports and work
 
 - [Ellen MacArthur on Wikipedia](http://en.wikipedia.org/wiki/Ellen_MacArthur)
 - [Ellen MacArthur at sea](http://www.youtube.com/watch?v=B31LVMmgUuo)
