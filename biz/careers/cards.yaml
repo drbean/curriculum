@@ -223,7 +223,7 @@ candidate:
           answer: Dr Bean
     5:
       identifier: candidate 1
-      A: These criteria will be used to choose the candidate: 1. best sales ability, 2. best organizational skills, 3. best academic record, 4. most knowledge of languages, 5. most energetic, confident and outgoing, 6. a natural leader.
+      A: "These criteria will be used to choose the candidate: 1. best sales ability, 2. best organizational skills, 3. best academic record, 4. most knowledge of languages, 5. most energetic, confident and outgoing, 6. a natural leader."
       B: Barbara finished high school and has worked at Fast-Track for 12 years. She had the best sales record for the last 5 years. She knows Polish and Russian, but is not very fluent in English. She is energetic, confident. But sometimes is aggressive. She may not be a good leader.
       C: Tadeusz has a university degree in engineering but has WORKED IN SALES FOR ALL HIS LIFE. He joined Fast-Track 5 years ago as sales manager for the south of Poland. He increased sales 12\% over the 5 years. He is a hard worker, but not outgoing. His team think he is a good leader.
       D: Eva has a university degree in history, and worked for 15 years in sales. She has been with Fast-Track for 1 year. She had a good sales record before, but only a satisfactory one now. She speaks German, English, Polish. She is quiet. She might be a good leader, but might be too dependent.
@@ -248,7 +248,7 @@ candidate:
           answer: False
     6:
       identifier: candidate 2
-      A: These criteria will be used to choose the candidate: 1. a natural leader,2. most energetic, confident and outgoing, 3. best sales record, 4. best organizational skills, 5. best academic record, 6. most knowledge of languages, 
+      A: "These criteria will be used to choose the candidate: 1. a natural leader,2. most energetic, confident and outgoing, 3. best sales record, 4. best organizational skills, 5. best academic record, 6. most knowledge of languages,"
       B: Barbara has a UNIVERSITY DEGREE and has worked at Fast-Track for 12 years. She had the best sales record for the last 5 years. She knows Polish and Russian, but is not very fluent in English. She is energetic, confident. But sometimes is aggressive. She may not be a good leader.
       C: Tadeusz ONLY FINISHED HIGH SCHOOL but has worked in many industries, although NONE OF THESE WAS IN SALES. He joined Fast-Track 5 years ago as sales manager for the south of Poland. He increased sales 12\% over the 5 years. He is a hard worker, but not outgoing. His team think he is a good leader.
       D: Eva has a university degree in history, and worked for 15 years in sales. She has been with Fast-Track for 1 year. She had a good sales record before, but only a satisfactory one now. She speaks German, English, Polish. She is quiet. She might be a good leader, but might be too dependent.
@@ -681,7 +681,7 @@ firsttips:
           answer: False
         - question: D thinks working with others is important.
           answer: True
-        - question: C and D agree: Be comfortable with discomfort.
+        - question: "C and D agree: Be comfortable with discomfort."
           answer: True
 tips:
   jigsaw:
@@ -776,7 +776,7 @@ tips:
           answer: False
         - question: D thinks working with others is important.
           answer: True
-        - question: C and D agree: Be comfortable with discomfort.
+        - question: "C and D agree: Be comfortable with discomfort."
           answer: True
     3:
       identifier: tips 3
@@ -1091,7 +1091,7 @@ tips:
             - 8
             - 9
             - 10
-          answer: 8
+          answer: 5
         - question: "The candidate doesn't believe in:"
           option:
             - 1
@@ -1104,7 +1104,7 @@ tips:
             - 8
             - 9
             - 10
-          answer: 9
+          answer: 8
       rubric: |+
         1. \textbf{The plan:} Have a schedule\\
         2. \textbf{Think!} Keep your mind on what you are doing.\\
