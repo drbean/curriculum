@@ -509,6 +509,8 @@ Noun phrase
 1. Determiner (a/the) + noun
 2. Proper noun
 
+# Jigsaw
+
 ## 3 kinds of jigsaw activity
 
 1. Common beliefs among Barbara, Tadeusz, and Eva
@@ -539,7 +541,7 @@ Eva believes in 1) Seek Challenges: Do things the hard way, 2) The Student:
 Learn while away from the job, and 3) Talk to the boss: Tell him/her what
 you think.
 
-## Questions
+## Questions about common beliefs
 
 All of the candidates believe in:
 
@@ -587,6 +589,12 @@ The candidate doesn't believe in:
 . . .
 
 The Student: Learn while away from the job.
+
+## 3. One card without information
+
+- [jigsaw](http://web.nuu.edu.tw/~greg/careers/jigsaw_candidate_8.pdf)
+- [quiz](http://web.nuu.edu.tw/~greg/careers/quiz_candidate_8.pdf)
+
 
 # YN-Questions about what the candidates say
 
