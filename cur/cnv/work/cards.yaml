@@ -471,41 +471,41 @@ dickson:
           answer: True
     2:
       identifier: dickson 2
-      A: You have a daughter, Dee, who needs to get a job, because she is a single parent. You ask your Uncle Jay, a top manager at the shipyard, to help her.
-      B: You apply for a job at a shipyard, but the shipyard doesn't want you, because you are a woman. You don't want your dad, Ian to speak to his uncle, Jay.
-      C: Your nephew, Ian, tells you the shipyard won't give Dee a job. You talk to some people and tell them to give Dee a job even though she is a woman.
+      A: You have a daughter, Dee, who needs to get a job, because she is a single parent. You ask your Uncle Alf, a top manager at the shipyard, to help her.
+      B: You apply for a job at a shipyard, but the shipyard doesn't want you, because you are a woman. You don't want your dad, Bruce to speak to his uncle, Alf.
+      C: Your nephew, Bruce, tells you the shipyard won't give Dee a job. You talk to some people and tell them to give Dee a job even though she is a woman.
       quiz:
         - question: A
           option: 
            - Dee
-           - Ian
-           - Jay
-          answer: Ian
+           - Bruce
+           - Alf
+          answer: Bruce
         - question: B
           option:
            - Dee
-           - Ian
-           - Jay
+           - Bruce
+           - Alf
           answer: Dee
         - question: C
           option:
            - Dee
-           - Ian
-           - Jay
-          answer: Jay
-        - question: Jay is Ian's uncle.
+           - Bruce
+           - Alf
+          answer: Alf
+        - question: Alf is Bruce's uncle.
           answer: True
-        - question: Dee is Jay's niece.
+        - question: Dee is Alf's niece.
           answer: False
         - question: Dee heads a single-parent family.
           answer: True
         - question: The shipyard wants to hire Dee.
           answer: False
-        - question: Dee wants her dad to speak to Jay.
+        - question: Dee wants her dad to speak to Alf.
           answer: False
-        - question: Ian speaks to Jay about Dee.
+        - question: Bruce speaks to Alf about Dee.
           answer: True
-        - question: Jay helps Dee with the job.
+        - question: Alf helps Dee with the job.
           answer: True
   compcomp:
     0:
