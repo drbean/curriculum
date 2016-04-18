@@ -1,0 +1,153 @@
+\documentclass[a4paper]{article}
+\usepackage{multicol}
+\usepackage[absolute]{textpos}
+% \usepackage[absolute,showboxes]{textpos}
+% \textblockorigin{0.00cm}{0.00cm} %HPDeskJet5160
+% \textblockorigin{0.00cm}{0.50cm} %HPDeskJet5160
+% \textblockorigin{0.15cm}{0.00cm} %HPDeskJet5160
+% \textblockorigin{0.20cm}{0.40cm} %HPDeskJet5160
+\textblockorigin{0.0cm}{0.00cm} %kyocera
+\pagestyle{empty}
+\setlength{\unitlength}{1cm}
+
+\newcommand{\myline}{
+	\vspace{-0.13cm}
+	\rule{9.5cm}{0.01cm}
+}
+\newcommand{\myrole}[1]{
+\large #1: \large Name \rule{2.5cm}{0.02cm} Id \rule{2.3cm}{0.02cm}\\
+	\normalsize
+	% \vspace{1.0cm}
+	% \begin{enumerate}
+	% \item \myline
+	% \item \myline
+	% \item \myline
+	% \item \myline
+	% \item \myline
+	% \item \myline
+	% \end{enumerate}
+	% \vspace{0.3cm}
+	% \begin{enumerate}
+	% \item \myline
+	% \item \myline
+	% \item \myline
+	% \item \myline
+	% \item \myline
+	% \item \myline
+	% \end{enumerate}
+	% \vspace{0.3cm}
+	% \begin{enumerate}
+	% \item \myline
+	% \item \myline
+	% \item \myline
+	% \item \myline
+	% \item \myline
+	% \item \myline
+	% \end{enumerate}
+}
+
+\newcommand{\mytitlei}[1]{%
+	\begin{textblock}{16}(#1)
+	\centering
+\mbox{Charles Mercer, age 80, retired. Crime: murder}
+	\end{textblock}
+}
+
+\newcommand{\mytitleii}[1]{%
+	\begin{textblock}{16}(#1)
+	\centering
+\mbox{Ruth Tipton, age 73, housewife, divorced (no children) Crimes: drunk driving, manslaughter}
+	\end{textblock}
+}
+
+\newcommand{\mytitleiii}[1]{%
+	\begin{textblock}{16}(#1)
+	\centering
+	\mbox{George Raveling, age 18, high school dropout Crime: Theft [ shoplifting ]}
+	\end{textblock}
+}
+
+\newcommand{\mytitleiv}[1]{%
+	\begin{textblock}{16}(#1)
+	\centering
+	\mbox{Paul Jones, age 35, unemployed, married, [ two children ] Crime: Breaking and entering; theft}
+	\end{textblock}
+}
+
+\newcommand{\mytitlev}[1]{%
+	\begin{textblock}{16}(#1)
+	\centering
+	\mbox{Jimmy Jackson, age 24, taxicab driver Crime: Assault: rape}
+	\end{textblock}
+}
+
+\newcommand{\mytitlevi}[1]{%
+	\begin{textblock}{16}(#1)
+	\centering
+	\mbox{Susan Smith, age 43, secretary, widow [ four children ] Crime: Murder}
+	\end{textblock}
+}
+
+\newcommand{\mytitlevii}[1]{%
+	\begin{textblock}{16}(#1)
+	\centering
+\mbox{Questions about treatment of women in society and at work}
+	\end{textblock}
+}
+
+\newcommand{\mycard}[3]{%
+	\begin{textblock}{16}(#1)
+	\textblocklabel{picture1}
+\begin{center}
+\Large Comprehension competition questions\hspace{2cm} Table: \rule{2cm}{0.01cm}
+\end{center}
+	\end{textblock}
+
+	\begin{textblock}{8}(#2)
+	\textblocklabel{picture1}
+	\myrole{White}
+	\end{textblock}
+
+	\begin{textblock}{8}(#3)
+	\textblocklabel{picture1}
+	\myrole{Black}
+	\end{textblock}
+}
+
+\newcommand{\myfoot}[1]{%
+	\begin{textblock}{16}(#1)
+	\textblocklabel{picture3}
+\begin{center}
+\normalsize 1 question each: 0,1 or 2 pts. 2 questions each: 1,2 or 3 pts. 3 questions each: 2,3 or 4 pts. 4 questions each: 3,4 or 5 pts.\\
+\normalsize F: Unacceptable, U: S\textbf{U}bordinate, R: Supe\textbf{R}ior, O: S\textbf{O}meone else's question
+\end{center}
+	\end{textblock}
+}
+
+\begin{document}
+
+\mycard{0,0}{0,0.6}{8,0.6}
+\mycard{0,8}{0,8.6}{8,8.6}
+
+\mytitlei  {0,0.8}
+\mytitleii {0,1.5}
+\mytitleiii{0,2.2}
+\mytitleiv{0,2.7}
+\mytitlev{0,3.4}
+\mytitlevi{0,4.1}
+\mytitlevii{0,5.0}
+
+\mytitlei  {0,8.8}
+\mytitleii {0,11.0}
+\mytitleiii{0,13.2}
+
+\myfoot{0,7.1}
+\myfoot{0,15.1}
+
+
+\myfoot{0,7.1}
+\myfoot{0,15.1}
+
+\null\newpage
+
+\end{document}
