@@ -129,17 +129,17 @@ stress:
         \item [Pressure] C feels pressure from the environment. D feels the boss is critical and won't listen. That's pressure.
         \end{description}
      quiz      :
-       - question: Question 1. A, B, C, D stress causes: A, B, C, and D all agree lack of control is causing them stress.
+       - question: "Question 1. A, B, C, D stress causes: A, B, C, and D all agree lack of control is causing them stress."
          answer  : False
-       - question: Question 2. A, B, C, D stress causes: A and D are feeling stress because of uncertainty.
+       - question: "Question 2. A, B, C, D stress causes: A and D are feeling stress because of uncertainty."
          answer  : True
-       - question: Question 3. A, B, C, D stress causes: A, B, C, and D all agree lack of support is causing them stress.
+       - question: "Question 3. A, B, C, D stress causes: A, B, C, and D all agree lack of support is causing them stress."
          answer  : False
-       - question: Question 4a. A, B, C, D stress causes: A, B, C, and D all agree they are under pressure and this is causing them stress.
+       - question: "Question 4a. A, B, C, D stress causes: A, B, C, and D all agree they are under pressure and this is causing them stress."
          answer  : True
-       - question: Question 4b. A, B, C, D stress causes: In general, Lack of control is not a big problem for A, B, C, and D.
+       - question: "Question 4b. A, B, C, D stress causes: In general, Lack of control is not a big problem for A, B, C, and D."
          answer  : True
-       - question: Question 4c. A, B, C, D stress causes: A, B, C, and D all have the same Control, Uncertainy, Support, Pressure problems.
+       - question: "Question 4c. A, B, C, D stress causes: A, B, C, and D all have the same Control, Uncertainy, Support, Pressure problems."
          answer  : False
 adventure:
  jigsaw:
@@ -254,28 +254,28 @@ adventure:
         \item [Ellen] has many problems on the boat, which she has to solve herself.
         \item [Steve] felt stress because of all these things.
     quiz:
-      - question: The students' issue:
+      - question: "The students' issue:"
         option:
           - control
           - uncertainty
           - support
           - pressure
         answer: control
-      - question: Dr Bean's issue:
+      - question: "Dr Bean's issue:"
         option:
           - control
           - uncertainty
           - support
           - pressure
         answer: uncertainty
-      - question: Ellen's issue:
+      - question: "Ellen's issue:"
         option:
           - control
           - uncertainty
           - support
           - pressure
         answer: support
-      - question: Steve's issue:
+      - question: "Steve's issue:"
         option:
           - control
           - uncertainty
@@ -305,28 +305,28 @@ adventure:
         \item [Ellen] felt stress, not knowing what was going to happen.
         \item [Steve] had some problems and he asked his team about them.
     quiz:
-      - question: The students' issue:
+      - question: "The students' issue:"
         option:
           - control
           - uncertainty
           - support
           - pressure
         answer: pressure
-      - question: Dr Bean's issue:
+      - question: "Dr Bean's issue:"
         option:
           - control
           - uncertainty
           - support
           - pressure
         answer: control
-      - question: Ellen's issue:
+      - question: "Ellen's issue:"
         option:
           - control
           - uncertainty
           - support
           - pressure
         answer: uncertainty
-      - question: Steve's issue:
+      - question: "Steve's issue:"
         option:
           - control
           - uncertainty
@@ -356,28 +356,28 @@ adventure:
         \item [Ellen] was able to sail away from danger.
         \item [Steve] felt stress. He didn't know if the weather would be good.
     quiz:
-      - question: The students' issue:
+      - question: "The students' issue:"
         option:
           - control
           - uncertainty
           - support
           - pressure
         answer: support
-      - question: Dr Bean's issue:
+      - question: "Dr Bean's issue:"
         option:
           - control
           - uncertainty
           - support
           - pressure
         answer: pressure
-      - question: Ellen's issue:
+      - question: "Ellen's issue:"
         option:
           - control
           - uncertainty
           - support
           - pressure
         answer: control
-      - question: Steve's issue:
+      - question: "Steve's issue:"
         option:
           - control
           - uncertainty
@@ -407,28 +407,28 @@ adventure:
         \item [Ellen]'s relationship with B\&Q is stressful for her.
         \item [Steve] was afraid strong winds would destroy the balloon.
     quiz:
-      - question: The students' issue:
+      - question: "The students' issue:"
         option:
           - control
           - uncertainty
           - support
           - pressure
         answer: uncertainty
-      - question: Dr Bean's issue:
+      - question: "Dr Bean's issue:"
         option:
           - control
           - uncertainty
           - support
           - pressure
         answer: support
-      - question: Ellen's issue:
+      - question: "Ellen's issue:"
         option:
           - control
           - uncertainty
           - support
           - pressure
         answer: pressure
-      - question: Steve's issue:
+      - question: "Steve's issue:"
         option:
           - control
           - uncertainty
@@ -619,17 +619,17 @@ adventure:
         \item [Uncertainty] Steve feels a lot of uncertainty. He doesn't know if he will be able to make it all the way around the world. It depends on the wind. Ellen also is afraid. She doesn't know if the boat will sink or not.
         \end{description}
      quiz      :
-       - question: Question 5. Control and uncertainty in the classroom and in sports: Of the 4 people, only Ellen feels like she has control.
+       - question: "Question 5. Control and uncertainty in the classroom and in sports: Of the 4 people, only Ellen feels like she has control."
          answer  : True
-       - question: Question 6. Control and uncertainty in the classroom and in sports: Of the 4 people, all except teachers feel a lot of uncertainty about what is happening.
+       - question: "Question 6. Control and uncertainty in the classroom and in sports: Of the 4 people, all except teachers feel a lot of uncertainty about what is happening."
          answer  : True
-       - question: Question 7. Control and uncertainty in the classroom and in sports: All of the 4 people feel a lot of stress because of uncertainty.
+       - question: "Question 7. Control and uncertainty in the classroom and in sports: All of the 4 people feel a lot of stress because of uncertainty."
          answer  : False
-       - question: Question 8a. Control and uncertainty in the classroom and in sports: All of the 4 people feel stress because of lack of control.
+       - question: "Question 8a. Control and uncertainty in the classroom and in sports: All of the 4 people feel stress because of lack of control."
          answer  : False
-       - question: Question 8b. Control and uncertainty in the classroom and in sports: All of the 4 people have different Control and Uncertainty problems.
+       - question: "Question 8b. Control and uncertainty in the classroom and in sports: All of the 4 people have different Control and Uncertainty problems."
          answer  : True
-       - question: Question 8c. Control and uncertainty in the classroom and in sports: Teachers and Ellen have the most similar Control and Uncertainty problems.
+       - question: "Question 8c. Control and uncertainty in the classroom and in sports: Teachers and Ellen have the most similar Control and Uncertainty problems."
          answer  : False
    1:
      identifier: adventure stress causes 1
@@ -665,17 +665,17 @@ adventure:
                 \end{description}
         \end{description}
      quiz      :
-       - question: Question 9. Support and pressure in the classroom and in sports: Students have support, but Steve didn't have support.
+       - question: "Question 9. Support and pressure in the classroom and in sports: Students have support, but Steve didn't have support."
          answer  : False
-       - question: Question 10. Support and pressure in the classroom and in sports: Teachers don't have pressure, but Ellen did have pressure.
+       - question: "Question 10. Support and pressure in the classroom and in sports: Teachers don't have pressure, but Ellen did have pressure."
          answer  : True
-       - question: Question 11. Support and pressure in the classroom and in sports: All of the 4 people feel a lot of stress because of pressure.
+       - question: "Question 11. Support and pressure in the classroom and in sports: All of the 4 people feel a lot of stress because of pressure."
          answer  : False
-       - question: Question 12a. Support and pressure in the classroom and in sports: One of the 4 people might feel stress because of lack of support.
+       - question: "Question 12a. Support and pressure in the classroom and in sports: One of the 4 people might feel stress because of lack of support."
          answer  : True
-       - question: Question 12b. Support and pressure in the classroom and in sports: Teachers' Support and Pressure problems are different than the other three's Support and Pressure problems.
+       - question: "Question 12b. Support and pressure in the classroom and in sports: Teachers' Support and Pressure problems are different than the other three's Support and Pressure problems."
          answer  : True
-       - question: Question 12c. Support and pressure in the classroom and in sports: All of the 4 people feel stress because of lack of support and pressure.
+       - question: "Question 12c. Support and pressure in the classroom and in sports: All of the 4 people feel stress because of lack of support and pressure."
          answer  : False
 hotspot:
  jigsaw:
@@ -738,7 +738,7 @@ hotspot:
   3:
     identifier: In Equilibrium hotspot 2
     A: You are Alan. You head a group of consultants who help companies which have problems with stress, but your group is very difficult to control. So, you put pressure on them. You tell them they must promote the CUSP framework. But you don't tell them why. They are experiencing stress.
-    B: You are Dot. Alan told you you must talk about CUSP: giving people control, removing uncertainty, giving support, and removing pressure. You like the framework, but you don't want to talk about it. You like to listen to other people's ideas. You don't like to tell them what to think. You argue with Alan.
+    B: "You are Dot. Alan told you you must talk about CUSP: giving people control, removing uncertainty, giving support, and removing pressure. You like the framework, but you don't want to talk about it. You like to listen to other people's ideas. You don't like to tell them what to think. You argue with Alan."
     C: You are Tan. You believe in Slow Living as the answer. You believe stress is caused by the fast pace of modern life. But Alan wants you to promote the CUSP framework. He doesn't think Slow Living is the answer. You are unhappy about working with the group. Only you believe in Slow Living.
     D: You are David. You are a doctor, but you are not in good health. You are feeling a lot of stress. The argument of Dot and Alan is making you feel sick. You shout at Alan and Dot, `I believe in CUSP, but I can't stand this.' Alan looks unhappy.
     quiz:
