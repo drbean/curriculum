@@ -23,6 +23,26 @@ cooking:
       - "add          _廣告_"
       - "assignment   _分配_"
       - "teaspoon     _茶匙_"
+    -
+      - Amy                _艾米_
+      - birthday           _生日_
+      - frying pan         _平底鍋_
+      - tomato sauce       _番茄醬_
+      - a can of tomatoes  _西紅柿罐頭_
+      - pour               _倒_
+      - soy sauce          _醬油_
+      - instructions       _說明_
+      - package            _包_
+      - mail               _郵件_
+      - post office        _郵局_
+      - lucky              _幸運_
+      - money              _錢_
+      - watch              _看_
+      - news report        _新聞報導_
+      - 10 o'clock         _10點_
+      - chop               _劈_
+      - repair             _修理_
+      - bicycle            _自行車_
 
 restaurant:
   bingo:
