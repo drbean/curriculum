@@ -40,6 +40,9 @@ Tue Apr 12 12:59:39 CST 2016
 - [Starshot](https://www.youtube.com/watch?v=hNnuCP-BFKY)
 - [Yuri Milner, plan to send probe to Alpha Centauri](https://www.youtube.com/watch?v=c7VPHGjT8A4)
 
+## Cosmic Call
+
+- [A message sent to aliens](http://blog.plover.com/aliens/dd/)
 
 ## Warm-up questions (from Communication Strategies)
 
@@ -283,6 +286,46 @@ N; Will people be able to travel to other _____(1) ? _____(2) , or rockets, will
 A: There have been many _____(7) of _____(8) that came from _____(9) . If _____(10) can visit us, then perhaps we can visit them one day.
 N: I read a lot of _____(11) . Perhaps we can go into a _____(12) and end up in a different place in the _____(13) in a different dimension but at the same time.
 
+## SETI--What is it?
+
+challenges
+different
+electromagnetic
+extraterrestrial
+form
+identification
+other
+scientific
+search
+term
+transmissions
+universe
+
+The _____(1) for extraterrestrial intelligence (SETI) is the _____(2) used to cover the _____(3) forms of _____(4) search for intelligent _____(5) life. A typical _____(6) is monitoring _____(7) radiation for signs of _____(8) from civilizations on _____(9) worlds.
+
+Some of the _____(10) in searching the _____(11) for signs of intelligent life include their _____(12) and interpretation. 
+
+## SETI--the early history
+
+
+airship
+all
+atmosphere
+began
+closest
+Earth
+found
+from
+introduction
+Mars
+pioneers
+radio
+United_States
+when
+
+Scientific SETI _____(13) with the _____(14) of _____(15) in the early 1900s, when radio _____(16) Tesla and Marconi said they had _____(17) signals from _____(18) . In 1924, _____(19) Mars was the _____(20) to _____(21) in 200 years, _____(22) radios in the _____(23) were turned off for 36 hours and an _____(24) was sent 3 kilometers into the _____(25) to listen to radio signals _____(26) Mars.
+
+extraterrestrial life.
 # Point of view
 
 ## Point of view--Intelligent life on other planets
@@ -290,7 +333,7 @@ N: I read a lot of _____(11) . Perhaps we can go into a _____(12) and end up in 
 - What do JinSook and Christina agree on?
 
 	- That the universe is large and the Earth a small part?
-	- Or that aliens have visited the Earth?
+	- It is possible that aliens have visited the Earth?
 
 - Who thinks there is intelligent life elsewhere in the universe and that they have visited us? Who doesn't?
 
@@ -304,13 +347,22 @@ N: I read a lot of _____(11) . Perhaps we can go into a _____(12) and end up in 
 
 # Grammar
 
+## Astronomers *have been looking for* intelligent life *for years.*
+
+Dr Bean *has been looking for ways* to make learning English interesting *for years.*
+
+## The government probably thinks *we're not ready to know what's really going on.*
+
+Dr Bean is teaching kids English, but *they're not ready* to speak English to each other.
+
+
 ## They *get into* the car, *go over/drive around* to the brother's house.
 
 On Sunday, I'm going to *get on* my bike and *go over* to 新港.
 
 ## Joe *goes back into* the house, learns it's a hoax, and *goes back out into* the yard.
 
-When I went outside, I saw it was raining, so I *went back into* the house, got my rain gear and *went back out into* the street.
+When I went outside, I saw it was raining, so I *went back into* the house, put on my rain gear and *went back out into* the street.
 
 # Follow-up questions
 
@@ -318,9 +370,16 @@ When I went outside, I saw it was raining, so I *went back into* the house, got 
 
 Example: What we eat.
 
+- work
+- school
+- family
+- society and government
+
 With the group, ask 2 follow-up questions about each question.
 
 ## Naive alien
+
+Aliens are very intelligent, but they do not understand ordinary, everyday things that we understand very well,
 
 Explain to an alien how something works
 
