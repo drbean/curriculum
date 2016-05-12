@@ -1,0 +1,44 @@
+genre: speaking
+alien:
+  bingo:
+    - UFOs universe science_fiction dimension speed_of_light astronomers solar_system flying_saucers sightings black_holes outer_space galaxies intelligent_life aliens other_planets comet space_probe advanced_technology evidence SF space_travel democratic_government conspiracy_theory
+  jigsaw:
+    0:
+      identifier: aliens 0
+      A: You are an alien from space. You come to Earth in a UFO. Christina doesn't believe in you. JinSook sees you.
+      B: You see a UFO. ALian steps out and speaks English to you. You tell Christina but she doesn't believe you.
+      C: JinSook tells you about a UFO and ALian, an alien. You don't believe her. You don't believe in UFOs and aliens.
+      quiz:
+        - question: A
+          option: 
+           - ALian
+           - Christina
+           - JinSook
+          answer: ALian
+        - question: B
+          option: 
+           - ALian
+           - Christina
+           - JinSook
+          answer: JinSook
+        - question: A
+          option: 
+           - ALian
+           - Christina
+           - JinSook
+          answer: Christina
+        - question: ALian comes to Earth in a UFO.
+          answer: True
+        - question: Christina and JinSook both see ALian.
+          answer: False
+        - question: ALian talks to JinSook.
+          answer: True
+        - question: JinSook doesn't understand ALian.
+          answer: False
+        - question: JinSook takes ALian to meet Christina.
+          answer: False
+        - question: Christina doesn't believe in ALian.
+          answer: True
+        - question: Christina sees ALian and changes her mind.
+          answer: False
+
