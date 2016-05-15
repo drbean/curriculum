@@ -5,9 +5,9 @@ alien:
   jigsaw:
     0:
       identifier: aliens 0
-      A: You are an alien from space. You come to Earth in a UFO. Christina doesn't believe in you. JinSook sees you.
-      B: You see a UFO. ALian steps out and speaks English to you. You tell Christina but she doesn't believe you.
-      C: JinSook tells you about a UFO and ALian, an alien. You don't believe her. You don't believe in UFOs and aliens.
+      A: You see a UFO. ALian steps out and speaks English to you. You tell Christina but she doesn't believe you.
+      B: JinSook tells you about a UFO and ALian, an alien. You don't believe her. You don't believe in UFOs and aliens.
+      C: You are an alien from space. You come to Earth in a UFO. Christina doesn't believe in you. JinSook sees you.
       quiz:
         - question: A
           option: 
@@ -41,4 +41,70 @@ alien:
           answer: True
         - question: Christina sees ALian and changes her mind.
           answer: False
+piggott:
+  jigsaw:
+    0:
+      identifier: piggott 0
+      A: You did not say your play about an alien attack was not real. Joe, the Doctor and many others believed it WAS real.
+      B: The Doctor often told you to be quiet when the news was on. Later, you tell him Orson's play was not news of a real attack.
+      C: You are very scared by Orson's broadcast. And you don't believe it later when Joe tells you it was just a play.
+      quiz:
+        - question: A
+          option: 
+           - Joe
+           - Orson
+           - the Doctor
+          answer: ALian
+        - question: B
+          option: 
+           - Joe
+           - Orson
+           - the Doctor
+          answer: JinSook
+        - question: A
+          option: 
+           - Joe
+           - Orson
+           - the Doctor
+          answer: Christina
+        - question: The Doctor didn't usually pay attention to the radio.
+          answer: False
+        - question: Orson's clearly said the broadcast was not real.
+          answer: False
+        - question: The Doctor didn't believe in the broadcast.
+          answer: False
+        - question: The Doctor took Joe and his family to his brother's.
+          answer: True
+        - question: the family became excited as the play continued.
+          answer: True
+        - question: Joe told the Doctor the broadcast was not real.
+          answer: True
+        - question: The Doctor realized he made a mistake.
+          answer: False
+indie:
+  jigsaw:
+    0:
+      identifier: indie 0
+      A: With Levinson, you fly inside the main alien spaceship and destroy it. Then you attack other smaller spaceships with the President.
+      B: You are saved from the White House by Levinson. Then you join Hiller and fly planes that attack small spaceships.
+      C: You save the President from the White House. Then you fly with Hiller inside the main alien spaceship and destroy it.
+      quiz:
+        - question: A
+          option: 
+           - Hiller
+           - Levinson
+           - the President
+          answer: Hiller
+        - question: B
+          option: 
+           - Hiller
+           - Levinson
+           - the President
+          answer: the President
+        - question: C
+          option: 
+           - Hiller
+           - Levinson
+           - the President
+          answer: Levinson
 
