@@ -29,6 +29,33 @@
     B: The book? I've only watched the movie!
     W: Oh, dear! What kind of child am I raising?
   - What's|Timmy|frustrated|report|here!|, and|have|oral|skill|book report|form|expressing|mind|begin|Anyone|OK, Mom|That's|some|brainstorming|tell|only|Oh,|One|raising
+-
+  - "schedule-0"
+  - "schedule-0"
+  - "topics"
+  - "all"
+  - |+
+    W: It's so difficult to choose what courses to take this semester, Henry. Have you chosen all of your courses yet?
+    M: No, Sue. I'm having a hard time making up my mind, and I still need to select two more. Do you have any ideas? Do you know anything about the professors?
+    W: I heard that the psychology professor is tough but fair. If you work hard, you can get a good grade.
+    M: Psychology sounds interesting.
+    W: How about we both sign up for psychology? Then we'd be in the same class, and we could help each other with assignments.
+    M: I remember the last class we took together. I'm not so sure that's a good idea.
+  - semester|Henry|of|No|Sue|need|tough|sounds|How|and we|so|Oh|come on|everyone|tempting|Fine
+-
+  - "schedule-1"
+  - "schedule-1"
+  - "topics"
+  - "all"
+  - |+
+    W: Oh, come on. It would be fun. I promise I'll attend the classes and not just borrow your notes this time.
+    M: Thanks!
+    W: I was thinking about taking film studies. Why don't you take that?
+    M: I like going to the movies, but I don't want to study them.
+    W: I know someone who took the course last year, and she said it's very easy. Almost everyone gets an "A" or a "B." And there is no homework.
+    M: That is tempting, but I want to learn something useful.
+    W: Fine, but don't complain to me if you get a "C."
+  - semester|Henry|of|No|Sue|need|tough|sounds|How|and we|so|Oh|come on|everyone|"A"|"B."|tempting|Fine
 
 ---
 -
