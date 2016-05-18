@@ -86,7 +86,7 @@ indie:
     0:
       identifier: indie 0
       A: With Levinson, you fly inside the main alien spaceship and destroy it. Then you attack other smaller spaceships with the President.
-      B: You are saved from the White House by Levinson. Then you join Hiller and fly planes that attack small spaceships.
+      B: You escape from the White House with Levinson as the aliens bomb it. Then you join Hiller and fly planes that attack small spaceships.
       C: You save the President from the White House. Then you fly with Hiller inside the main alien spaceship and destroy it.
       quiz:
         - question: A
@@ -107,4 +107,18 @@ indie:
            - Levinson
            - the President
           answer: Levinson
+        - question: Levinson saves the President's life.
+          answer: True
+        - question: Hiller flies with Levinson.
+          answer: True
+        - question: Levinson and Hiller fly inside the White House and destroy it.
+          answer: False
+        - question: Hiller doesn't fly with The President.
+          answer: False
+        - question: The President doesn't fly planes.
+          answer: False
+        - question: Hiller and Levinson fly inside the main alien space ship.
+          answer: True
+        - question: The President attacks small spaceships.
+          answer: True
 
