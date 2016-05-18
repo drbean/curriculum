@@ -54,33 +54,33 @@ piggott:
            - Joe
            - Orson
            - the Doctor
-          answer: ALian
+          answer: Orson
         - question: B
           option: 
            - Joe
            - Orson
            - the Doctor
-          answer: JinSook
+          answer: Joe
         - question: A
           option: 
            - Joe
            - Orson
            - the Doctor
-          answer: Christina
+          answer: the Doctor
         - question: The Doctor didn't usually pay attention to the radio.
           answer: False
-        - question: Orson's clearly said the broadcast was not real.
+        - question: Orson clearly said the broadcast was not real.
           answer: False
         - question: The Doctor didn't believe in the broadcast.
           answer: False
-        - question: The Doctor took Joe and his family to his brother's.
+        - question: The Doctor (and Joe) became excited as the play continued.
           answer: True
-        - question: the family became excited as the play continued.
-          answer: True
+        - question: The Doctor would have let Joe make the play hard to hear.
+          answer: False
         - question: Joe told the Doctor the broadcast was not real.
           answer: True
-        - question: The Doctor realized he made a mistake.
-          answer: False
+        - question: The Doctor later still believed in a real attack.
+          answer: True
 indie:
   jigsaw:
     0:
