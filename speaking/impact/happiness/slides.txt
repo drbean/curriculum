@@ -56,16 +56,16 @@ Other attempts to diagram happiness types:
 ## words
 
 calm
-mood
+complain
+fulfilling
+goal
 inhibited
 make the best of
-fulfilling
-sense of achievement
-satisfied
 make the most of
-complain
 miss out on
-goal
+mood
+satisfied
+sense of achievement
 think positively
 
 ## What makes Chen, Abena happy
@@ -195,12 +195,12 @@ The average happiness (well-being) is 5.1/10.
 
 The differences between happiness in various nations can be explained by:
 
-- GDP
-- life expectancy
-- having someone to count on
-- freedom to make life choices
-- freedom from corruption
-- generosity
+- [ GDP ](http://en.wikipedia.org/wiki/GDP): How much money the country has
+- life expectancy: How long people live in the country
+- having someone to count on: Family, friends, communities, social services
+- freedom to make life choices: Freedom to migrate, change jobs, marry, have kids, do what you want to do
+- freedom from corruption: Will companies, government officials take money to do wrong things?
+- generosity: will people in the country help you if you need help?
 
 ## International rankings--1st 20 countries {.allowframebreaks}
 
@@ -263,4 +263,14 @@ The differences between happiness in various nations can be explained by:
 Hong Kong is 64
 
 China is 84
+
+## Rankings in 2016
+
+Are people in Taiwan more happy or less happy than in 2015? 
+
+. . .
+
+Yes.
+
+Are people in Taiwan happier than people in Korea now?
 
