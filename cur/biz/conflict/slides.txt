@@ -245,5 +245,30 @@ The 2 spokespersons say:
 
 Dr Bean will listen to the spokespersons and choose the winners, the group of the spokesperson who gave the best report.
 
+# Cloze 
+
+## Mnookin
+
+
+create
+expand
+issue
+mistake
+necessity
+negotiation.
+opportunities
+opportunities
+realize
+slice
+slices.
+tension
+value,
+zero-sum
+
+The first _____(1) has to do with the substance of _____(2) And it's the tension between _____(3) to expand the pie and create _____(4) on the one hand, and the inevitable _____(5) of having to divide it up into _____(6).
+
+The most common _____(7) people make in negotiation is they have a _____(8) mindset. They think the only _____(9) is, who's getting what size _____(10) . And they fail to _____(11) that there are also _____(12) through negotiation to _____(13) value, to _____(14) the pie.
+
+
 
 ## The End
