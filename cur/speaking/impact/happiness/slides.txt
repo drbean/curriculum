@@ -1,7 +1,7 @@
 % Speaking with Impact Issues 2 and Conversation Strategies
 % Happiness and how to achieve it
 	by Dr Bean (高來圭)
-% 三  5月 20 09:03:57 CST 2015
+% Mon May 23 09:38:02 CST 2016
 
 # Textbook
 
@@ -10,6 +10,18 @@
 The Vocabulary, Mind Map & Points of View exercises on the first 2 pages are PREPARATION.
 
 The Discussion on the 3rd page is the REAL THING.
+
+# Warm up
+
+## Happy or not happy?
+
+- What are you happy about at the moment?
+- What are you not happy about?
+
+## Questions from Conversation Strategies
+
+- What makes you happy (when you do it)?
+- What makes you the happiest?
 
 # Media
 
@@ -22,19 +34,24 @@ The Discussion on the 3rd page is the REAL THING.
 
 ## Rat racer, hedonist, nihilist and happy person
 
-  +----------------+-------------+----------+
-  |                | Not happy in| Happy in |
-  |                |The future   |The future|
-  +----------------+-------------+----------+
-  |Not happy now   |             |          |
-  +----------------+-------------+----------+
-  |    Happy now   |             |          |
-  +----------------+-------------+----------+
+~~~~~~
 
++----------------+-------------+----------+
+|                | Not happy in| Happy in |
+|                |The future   |The future|
++----------------+-------------+----------+
+|Not happy now   |             |          |
++----------------+-------------+----------+
+|    Happy now   |             |          |
++----------------+-------------+----------+
+
+~~~~~~
 
 https://www.youtube.com/watch?v=ehOpirqCxJA
 
-Other attempts to diagram happiness types:
+## Other attempts to diagram happiness types:
+
+~~~~~
 
 	    The present   The future
            +-----------+-----------+
@@ -51,10 +68,13 @@ Other attempts to diagram happiness types:
  Not happy       +           +           +
    in the future +-----------+-----------+
 
+~~~~~
+
 # Happiness vocabulary
 
 ## words
 
+boring
 calm
 complain
 fulfilling
@@ -68,20 +88,34 @@ satisfied
 sense of achievement
 think positively
 
-## What makes Chen, Abena happy
+## What makes Chen, Abena happy {.allowframebreaks}
+
+boring
+calm
+complain
+fulfilling
+goal
+inhibited
+make the best of
+make the most of
+miss out on
+mood
+satisfied
+sense of achievement
+think positively
 
 Chen:
-I try 使大部分 opportunities, but I don't have a clear 目標
-in life. I'm too 抑制 so I 錯過 things.
+I try 使大部分(1) opportunities, but I don't have a clear 目標(2)
+in life. I'm too 抑制(3) so I 錯過(4) things.
 
 Abena:
-I find it easy to stay 平靜 and I'm usually in a good 情緒
-I don't have a lot to 抱怨 about.  But I don't feel deeply 滿意
-by anything. I'm looking for something 完成
+I find it easy to stay 平靜(5) and I'm usually in a good 情緒(6)
+I don't have a lot to 抱怨(7) about.  But I don't feel deeply 滿意(8)
+by anything. I'm looking for something 完成(9)
 
 Chen:
-My job's boring. I have no girlfriend and no money. But I 做最好的
-my situation and try to 積極思考
+My job's 無聊(10). I have no girlfriend and no money. But I 做最好的(11)
+my situation and try to 積極思考(12)
 
 Who is happier? Chen or Abena?
 
@@ -100,13 +134,17 @@ Who is happier? Chen or Abena?
 
 ## Analyze Tomoko, Nazim in terms of the framework window
 
-                 Not happy in  Happy in
-	         The future    The future
-                 +-----------+-----------+
- Not happy now   +           +           +
-                 +-----------+-----------+
-     Happy now   +           +           +
-                 +-----------+-----------+
+~~~~~
+
+			 Not happy in  Happy in
+			 The future    The future
+			 +-----------+-----------+
+	 Not happy now   +           +           +
+			 +-----------+-----------+
+	     Happy now   +           +           +
+			 +-----------+-----------+
+
+~~~~~
 
 # Well-being
 
@@ -118,7 +156,7 @@ Who is happier? Chen or Abena?
 - Meaning in life
 - Achievement
 
-## Well-being framework
+## Well-being framework {.allowframebreaks}
 
 - Positive emotion - Can only be assessed subjectively
 - Engagement - can only be measured through subjective means. It is presence of a flow state (a state of mind forgetting about self, concentrating on what you're doing)
@@ -181,7 +219,7 @@ Achievement
 
 # World Happiness
 
-## World Happiness Report
+## World Happiness Report {.allowframebreaks}
 
 In July 2011, the UN General Assembly passed a resolution inviting member countries to measure the happiness of their people and to use this to help guide their public policies.
 
@@ -189,7 +227,7 @@ The United Nations declared 20 March the International Day of Happiness to recog
 
 Bhutan adopted Gross National Happiness instead of Gross Domestic Product as its main development indicator.
 
-## International rankings
+## International rankings {.allowframebreaks}
 
 The average happiness (well-being) is 5.1/10.
 
@@ -270,7 +308,12 @@ Are people in Taiwan more happy or less happy than in 2015?
 
 . . .
 
-Yes.
+More happy.
 
-Are people in Taiwan happier than people in Korea now?
+## Comparisons between Taiwan, Korea and Japan in 2016
 
+Are people in Taiwan happier than people in Korea and Japan now?
+
+. . .
+
+Happier
