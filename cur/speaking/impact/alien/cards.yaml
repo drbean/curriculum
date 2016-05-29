@@ -14,19 +14,19 @@ alien:
            - ALian
            - Christina
            - JinSook
-          answer: ALian
+          answer: JinSook
         - question: B
           option: 
            - ALian
            - Christina
            - JinSook
-          answer: JinSook
+          answer: Christina
         - question: A
           option: 
            - ALian
            - Christina
            - JinSook
-          answer: Christina
+          answer: ALian
         - question: ALian comes to Earth in a UFO.
           answer: True
         - question: Christina and JinSook both see ALian.
