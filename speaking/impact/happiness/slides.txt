@@ -169,9 +169,27 @@ Who is happier? Chen or Abena?
 
 ## Positive psychology
 
-Positive psychology is the branch of psychology that looks for more effective scientific methods to achieve a more satisfactory life. The focus of positive psychology is on personal growth rather than on removing the problems that cause people to be unhappy.
 
-Positive psychology is a new field. The first conference took place in 1999. Positive psychology has found that happiness is improved in many different ways. But social ties with family, friends and other social networks are very important. People with more money are happier, but people who are very, very rich are not happier. Physical exercise, neditation and engagement with life also improve well being. 
+focus
+improved
+life
+money
+neditation
+networks
+not
+personal
+psychology
+removing
+satisfactory
+scientific
+ties
+unhappy
+ways
+well-being
+
+Positive psychology is the branch of _____(1) that looks for more effective _____(2) methods to achieve a more _____(3) life. The _____(4) of positive psychology is on _____(5) growth rather than on _____(6) the problems that cause people to be _____(7).
+
+Positive psychology has found that happiness is _____(8) in many different _____(9) . But social _____(10) with family, friends and other social _____(11) are very important. People with more _____(12) are happier, but people who are very, very rich are _____(13) happier. Physical exercise, _____(14) and engagement with _____(15) also improve _____(16) . 
 
 ## Well-being framework
 
