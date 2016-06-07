@@ -34,6 +34,26 @@ greeting:
   bingo:
     - hello goodbye before listen people say first time check pleased meet know take_care greeting correct column follow example David Susan Andrew Chen Jane Lee Sarah Martin Philip Tom Peter statement question conversation party fine complete track
     - Andy Tony_Li name Sally Anne Stephen_Chen Peter party conversation Emma Lisa thank_you how_are_you I'd_like_you_to_meet good_to_see see_you_soon what's_your_name fine check take_care greeting 
+    - 
+
+       - Thank you for coming                           _謝謝你的到來_
+       - How are you                                    _你好嗎_
+       - I'm fine thanks                                _我很好謝謝_
+       - It's good to see you again                     _很高興再次見到你_
+       - I'd like you to meet my friend, Emma.          _我想讓你見見我的朋友，艾瑪。_
+       - Nice to meet you, Emma.                        _很高興見到你，艾瑪。_
+       - Hi, Martin. it's good to see you again too.    _你好，馬丁。這是很高興再次見到你。_
+       - How have you been, Martin                      _你怎麼樣，馬丁_
+       - Fine thanks, Tom.                              _很好，謝謝，湯姆。_
+       - How are you, Tom                               _你好，湯姆_
+       - I'm very well, thanks Martin.                  _我很好，感謝馬丁。_
+       - Pleased to meet you, Lisa.                     _很高興認識你，麗莎。_
+       - What's your name                               _你叫什麼名字_
+       - I have to go now                               _我得走了_
+       - See you later                                  _回頭見_
+       - This is Tony                                   _這是托尼_
+       - I'm Stephen Hawking.                           _我是斯蒂芬·霍金。_
+
 school:
   bingo:
     - computer_lab music_room science_lab library playground staff_room auditorium main_office last_name first_name age class homeroom_teacher instructions take_your_lab_coat be_quiet wash_your_hands do_not_eat_or_drink_in_the_lab line_up_outside_the_lab
