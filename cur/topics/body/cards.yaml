@@ -22,6 +22,22 @@ hair:
       - sunburn     _曬斑_
       - grow        _增長_
 
+    -
+      - blond hair                                               _金發_
+      - hair color                                               _髮色_
+      - long and straight                                        _長而直_
+      - brown hair                                               _棕色的頭髮_
+      - short and curly                                          _短曲_
+      - Holly doesn't like her hair color.                       _霍莉不喜歡她的頭髮的顏色。_
+      - She has blond hair.                                      _她有一頭金發。_
+      - It's long and straight.                                  _這是長而直。_
+      - She changes it.                                          _她改變了它。_
+      - Now, her hair is brown.                                  _現在，她的頭髮是棕色的。_
+      - It's short and curly.                                    _它的短曲。_
+      - But she still doesn't like it.                           _但她還是不喜歡它。_
+      - She doesn't want short hair anymore.                     _她不希望短發了。_
+      - Holly will have to wait for her hair to grow long again. _霍莉將不得不等待她的頭髮長再長出來。_
+
 clothes:
   bingo:
     - blue_shorts red_T-shirt gray_pants purple_sweater orange_shoes pink_coat blue_dress blue_sandals wearing white_cap black_hat clothes rainy windy sunny cloudy snowy cold hot yellow_gloves fingers
