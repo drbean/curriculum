@@ -54,6 +54,44 @@
     M: That is tempting, but I want to learn something useful.
     W: Fine, but don't complain to me if you get a C.
   - semester|Henry|of|No|Sue|need|tough|sounds|How|and we|so|Oh|come on|everyone|tempting|Fine
+-
+  - "soccer"
+  - "soccerClub"
+  - "topics"
+  - "all"
+  - |+
+    A: I want to join the soccer club, Tom.
+    B: Me too. When does the club meet?
+    A: Every Tuesday lunchtime at half past twelve.
+    B: And where does it meet?
+    A: At the playground.
+-
+  - "english"
+  - "englishClub"
+  - "topics"
+  - "all"
+  - |+
+    A: Do you want to join the English club, Mike?
+    B: Yes, I do. How often does the club meet?
+    A: Once a week.
+    B: When does it meet?
+    A: On Wednesday, at 4 o'clock in the the afternoon.
+    B: Where does it meet?
+    A: In the library.
+-
+  - "music"
+  - "musicClub"
+  - "topics"
+  - "all"
+  - |+
+    A: When does the music club meet?
+    B: Every week on Friday afternoon.
+    A: What time in the afternoon?
+    B: From 5 o'clock until half past six.
+    A: Where does it meet?
+    B: In the music room.
+
+
 
 ---
 -
