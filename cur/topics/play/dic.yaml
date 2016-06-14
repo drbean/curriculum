@@ -1,0 +1,36 @@
+
+-
+  - id
+  - description
+  - genre
+  - target
+  - content
+  - unclozeables
+  - percent
+-
+  - "puzzle-2"
+  - "puzzle-2"
+  - "topics"
+  - "all"
+  - |+
+    Josh and Rick are working on a word puzzle. Then, Josh starts to tell some jokes. However, they are jokes about Rick. Josh is teasing Rick.
+
+    It bothers Rick. He is getting mad, but Josh doesn't stop teasing him. There are tears in Rick's eyes. Now Rick is sad.
+
+    Josh stops teasing him. He says sorry to Rick. He was just playing around.
+  - Josh|Rick
+---
+-
+  - genre
+  - text
+  - id
+  - target
+  - content
+  - answer
+-
+  - topics
+  - puzzle-2
+  - 1
+  - all
+  - ''
+  - False

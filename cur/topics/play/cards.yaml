@@ -21,6 +21,26 @@ puzzle:
       - she doesn't like it     _她不喜歡_
       - play                    _玩_
 
+    -
+      - however                                      _然而_
+      - tease                                        _逗_
+      - get mad                                      _生氣_
+      - a tear                                       _一滴淚_
+      - a joke                                       _笑話_
+      - say sorry                                    _說聲對不起_
+      - Josh and Rick are working on a word puzzle.  _Josh和里克正在就一個字謎題。_
+      - Then, Josh starts to tell some jokes.        _然後，喬什開始講一些笑話。_
+      - However, they are jokes about Rick.          _然而，他們對瑞克的笑話。_
+      - Josh is teasing Rick.                        _喬什戲弄里克。_
+      - It bothers Rick.                             _它困擾里克。_
+      - He is getting mad.                           _他惹毛了。_
+      - Josh doesn't stop teasing him.               _喬希不會停止取笑他。_
+      - There are tears in Rick's eyes.              _有淚水在里克的眼睛。_
+      - Now Rick is sad.                             _現在，里克是可悲的。_
+      - Josh stops teasing him.                      _喬希停止戲弄他。_
+      - He says sorry to Rick.                       _他說，對不起，里克。_
+      - He was just playing around.                  _他只是玩弄。_
+
 game:
   bingo:
     - chess checkers jacks marbles cards win lose cheats race play raining stay_inside piece boring rocks animal_bones throw pick_up
