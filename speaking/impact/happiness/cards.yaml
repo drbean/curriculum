@@ -76,7 +76,47 @@ wellbeing:
           answer: False
         - question: Life expectancy is the same in Taiwan and Denmark.
           answer: True
-        - question: Happiness ranking: Taiwan, India, Denmark
+        - question: Happiness ranking: 1. Taiwan, 2. India, 3. Denmark
           answer: False
-        - question: Corruption, life expectancy, generosity and GDP appear to effect happiness.
+        - question: Corruption, life expectancy, generosity and GDP appear to affect happiness.
+          answer: True
+framework:
+  jigsaw:
+    0:
+      identifier: framework 0
+      A: You say happiness is having a goal and enjoying the work you do to reach that goal. You say Nazim is happy, but Tomoko is a rat racer.
+      B: Unlike Tomoko, you are happy now, trying to make the world a better place. You hope you can succeed. Tal calls you a happy person.
+      C: Unlike Nazim, you are not happy now. But you expect you could be happy living on an island. Tal calls you a rat racer.
+      quiz:
+        - question: A
+          option: 
+            - Nazim
+            - Tal
+            - Tomoko
+          answer: Tal
+        - question: B
+          option: 
+            - Nazim
+            - Tal
+            - Tomoko
+          answer: Nazim
+        - question: C
+          option: 
+            - Nazim
+            - Tal
+            - Tomoko
+          answer: Tomoko
+        - question: Tomoko is happy with her life. She doesn't want to change it.
+          answer: False
+        - question: Nazim is unhappy with his life. He wants to change what he is doing.
+          answer: False
+        - question: Tomoko \& Nazim are both looking to the future.
+          answer: True
+        - question: Tomoko \& Nazim feel bad about the future. They don't have hope.
+          answer: False
+        - question: Tal calls Tomoko a happy person \& Nazim a rat racer.
+          answer: False
+        - question: A happy person enjoys working toward a goal he/she values.
+          answer: True
+        - question: Nazim is enjoying making the world a better place.
           answer: True
