@@ -60,9 +60,9 @@ Rat racer, hedonist, nihilist and happy person
 |                | Not happy in| Happy in |
 |                |The future   |The future|
 +----------------+-------------+----------+
-|Not happy now   |             |          |
+|Not happy now   |  Nihilist   | Rat racer|
 +----------------+-------------+----------+
-|    Happy now   |             |          |
+|    Happy now   |  Hedonist   | Happy    |
 +----------------+-------------+----------+
 
 ~~~~~~
@@ -149,7 +149,7 @@ Who is happier? Chen or Abena?
 
 ## Tomoko and Nazim discuss being happy
 
-* Tomoko would like to live forever on a tropical island, lie on the beach, eat exotic food and dance all night. Nothing would be better than being surrounded by beautiful things and having a good time.
+* Tomoko wish she could live forever on a tropical island, lie on the beach, eat exotic food and dance all night. Her idea of happiness is being surrounded by beautiful things and having a good time.
 * Nazim says he wouldn't be satisfied by that. He would feel he was wasting his life. He needs to feel he is creating or improving things.
 * Tomoko says Nazim could paint pictures, build a dream house and raise a family on a tropical island. She says you don't have to sit in an office to find a purpose in life.
 * Nazim says he respects those ways of living, but thinks they are too concerned with the immediate world around us. He wants to do something to improve society. That's what makes him happy.
@@ -261,8 +261,11 @@ Positive psychology has found that happiness is _____(8) in many different _____
 
 - Do you feel a sense of achievement? Often/sometimes/never?
 - What gives you a sense of achievement?
+- Do you have goals which you achieve or don't achieve?
+- Do things you do work out as you intend?
+- Are you successful in what you do?
 
-## Questions about well-being
+## Questions about well-being {.allowframebreaks}
 
 Positive emotion
 
