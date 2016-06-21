@@ -1,0 +1,30 @@
+---
+-
+  - id
+  - description
+  - genre
+  - target
+  - content
+  - unclozeables
+  - percent
+-
+  - "lai-0"
+  - "Andy Lai"
+  - "topics"
+  - "all"
+  - |+
+    A: Andy Lai! Welcome to Top of the Pops. How are you?
+    B: I'm great, Tanya. It's great to be here in the US.
+    A: You're a famous singer, Andy. But can I ask you something?
+    B: Of course. Ask me about what I do when I'm not singing.
+    A: OK. First, how old are you?
+    B: I will be 25 years old next month.
+    A: Do you come from Hong Kong? Do you live there?
+    B: Yes, I was born and have lived there my whole life?
+    A: Now, you are on tour in the US. Do you like traveling?
+    B: Yes, but I prefer to be at home in Hong Kong?
+    A: Why is that? Is Hong Kong exciting? 
+    B: Yes, and I have a nice view of the harbor.
+    A: What is your favorite thing to do at home?
+    B: I like to play music in the living room.
+  - Andy|Lai|Top of the Pops|Tanya|US|Hong Kong
