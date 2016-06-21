@@ -41,6 +41,19 @@ puzzle:
       - He says sorry to Rick.                       _他說，對不起，里克。_
       - He was just playing around.                  _他只是玩弄。_
 
+    -
+      - Why are you smiling?                      _你為什麼笑？_
+      - Oh, it is nothing.                        _哦，這不算什麼。_
+      - I know you are hiding something.          _我知道你有難言之隱 _
+      - Tell me what you are hiding.              _告訴我你是隱藏什麼 _
+      - OK. You're right.                         _好。 你是對的。_
+      - I'll tell you what it is.                 _我會告訴你它是什麼 _
+      - You have to sit down.                     _你必須坐下。_
+      - OK. I'm sitting down now.                 _好。現在我坐在了下 _
+      - What is behind your back?                 _什麼是你背後？_
+      - It's a feather.                           _這是一地雞毛。_
+      - I'm going to tickle you with a feather.   _我會用羽毛胳肢你。_
+
 game:
   bingo:
     - chess checkers jacks marbles cards win lose cheats race play raining stay_inside piece boring rocks animal_bones throw pick_up
