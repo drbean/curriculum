@@ -532,3 +532,53 @@ framework:
           - principal
           - agent
         answer: agent
+  6:
+    identifier: framework 6
+    A: \item [Mnookin] \item [zero-sum/win-win] Mnookin asks: What can you do to help each other? \item [empathy/assertiveness] Mnookin asks the monkeys' keeper: Can you see why the monkeys are upset?
+    B: \item [The monkeys] \item [zero-sum/win-win] The monkeys say they want the keeper to give them some other arrangement. \item [empathy/assertiveness] The monkeys thinks their keeper understands how they feel.
+    C: \item [The keeper] \item [zero-sum/win-win] The keeper says he can give the monkeys four in the morning and three in the afternoon. \item [empathy/assertiveness] The keeper says, the monkeys think they are Number One. They only think about themselves.
+    rubric: \input{/home/drbean/class/business/conflict/monkey.tex}
+    quiz :
+      - question: Talk about cutting up the pie or creating a bigger pie?
+        option:
+          - zero-sum game
+          - win-win situation
+        answer: win-win situation
+      - question: Understanding the other's position or presenting one's own?
+        option:
+          - empathy
+          - assertiveness
+        answer: empathy
+  7:
+    identifier: framework 7
+    A: \item [Mnookin] \item [zero-sum/win-win] Mnookin asks: Can you agree on the number of bananas? \item [empathy/assertiveness] Mnookin says: You both spoke very strongly. Did you convince each other?
+    B: \item [The monkeys] \item [zero-sum/win-win] The monkeys say they will not accept 3 bananas in the morning. \item [empathy/assertiveness] The monkeys persuade the keeper that some other arrangement is necessary.
+    C: \item [The keeper] \item [zero-sum/win-win] The keeper says he will not give the monkeys more than 7 bananas. \item [empathy/assertiveness] The keeper makes the monkeys happy by saying he will give them 4 in the morning and 3 in the afternoon.
+    rubric: \input{/home/drbean/class/business/conflict/monkey.tex}
+    quiz :
+      - question: Talk about cutting up the pie or creating a bigger pie?
+        option:
+          - zero-sum game
+          - win-win situation
+        answer: zero-sum game
+      - question: Understanding the other's position or presenting one's own?
+        option:
+          - empathy
+          - assertiveness
+        answer: assertiveness
+  8:
+    identifier: framework 8
+    A: \item [zero-sum/win-win] Mnookin asks: Should Olivier become assistant sales manager? \item [empathy/assertiveness] Mnookin says: You seem like you don't understand each other. \item [principal/agent] Mnookin asks Todd and Olivier: Are you thinking of your own benefit? Or the company's? 
+    B: \item [zero-sum/win-win] Olivier wants to be a manager. \item [empathy/assertiveness] But Olivier thinks Todd is frightened of him being a manager. \item [principal/agent] Talking with Todd, Olivier discusses how being manager would help everyone. The company's interests concern him.
+    C: \item [zero-sum/win-win] Todd thinks making Olivier a manager is a good idea. He would become more responsible. \item [empathy/assertiveness] But Todd thinks Olivier wants to be a salesman, not a manager. \item [principal/agent] Todd thinks making Olivier a manager would be good for the company, but not himself.
+    quiz :
+      - question: Talk about cutting up the pie or creating a bigger pie?
+        option:
+          - zero-sum game
+          - win-win situation
+        answer: win-win situation
+      - question: Understanding the other's position or presenting one's own?
+        option:
+          - empathy
+          - assertiveness
+        answer: empathy
