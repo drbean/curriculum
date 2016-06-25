@@ -568,15 +568,50 @@ framework:
         answer: assertiveness
   8:
     identifier: framework 8
-    A: \item [zero-sum/win-win] Mnookin asks: Should Olivier become assistant sales manager? \item [empathy/assertiveness] Mnookin says: You seem like you don't understand each other. \item [principal/agent] Mnookin asks Todd and Olivier: Are you thinking of your own benefit? Or the company's? 
-    B: \item [zero-sum/win-win] Olivier wants to be a manager. \item [empathy/assertiveness] But Olivier thinks Todd is frightened of him being a manager. \item [principal/agent] Talking with Todd, Olivier discusses how being manager would help everyone. The company's interests concern him.
-    C: \item [zero-sum/win-win] Todd thinks making Olivier a manager is a good idea. He would become more responsible. \item [empathy/assertiveness] But Todd thinks Olivier wants to be a salesman, not a manager. \item [principal/agent] Todd thinks making Olivier a manager would be good for the company, but not himself.
+    rubric: \input{/home/drbean/class/business/conflict/symphony.tex}
+    A: \item [Mnookin] \item [zero-sum/win-win] Mnookin asks: What other ways are there of thinking about pay? \item [empathy/assertiveness] Mnookin says: Do you understand each other's interests?
+    B: \item [The musicians] \item [zero-sum/win-win] The musicians like the idea of more money when they are 60. \item [empathy/assertiveness] The musicians say management often doesn't even listen to what we are saying.
+    C: \item [Management] \item [zero-sum/win-win] Management offers less money each month but more money on retirement. \item [empathy/assertiveness] Management says the musicians don't seem to enjoy the chance to negotiate.
     quiz :
       - question: Talk about cutting up the pie or creating a bigger pie?
         option:
           - zero-sum game
           - win-win situation
         answer: win-win situation
+      - question: Understanding the other's position or presenting one's own?
+        option:
+          - empathy
+          - assertiveness
+        answer: empathy
+  9:
+    identifier: framework 9
+    rubric: \input{/home/drbean/class/business/conflict/symphony.tex}
+    A: \item [Mnookin] \item [zero-sum/win-win] Mnookin asks: Can you agree on touring? \item [empathy/assertiveness] You both spoke very strongly about Sunday concerts. Did you convince each other?
+    B: \item [The musicians] \item [zero-sum/win-win] The musicians want the travel time on bus/plane reduced to 3 hours. \item [empathy/assertiveness] The musicians say any more Sunday concerts must be well paid.
+    C: \item [Management] \item [zero-sum/win-win] Management wants to maintain maximum travel time at 5 hours. \item [empathy/assertiveness] Management persuades the musicians that more Sunday concerts are necessary.
+    quiz :
+      - question: Talk about cutting up the pie or creating a bigger pie?
+        option:
+          - zero-sum game
+          - win-win situation
+        answer: zero-sum game
+      - question: Understanding the other's position or presenting one's own?
+        option:
+          - empathy
+          - assertiveness
+        answer: assertiveness
+  10:
+    identifier: framework 10
+    rubric: \input{/home/drbean/class/business/conflict/symphony.tex}
+    A: \item [Mnookin] \item [zero-sum/win-win] Mnookin asks: What do you think about Sunday concerts? \item [empathy/assertiveness] Mnookin says: Explain to me what the other wants.
+    B: \item [The musicians] \item [zero-sum/win-win] The musicans say they want fewer Sunday concerts. \item [empathy/assertiveness] The musicians says management wants the musicians to work harder for less money.
+    C: \item [Management] \item [zero-sum/win-win] Management says more Sunday concerts are necessary. \item [empathy/assertiveness] Management says the musicians don't think about the cost of running the orchestra.
+    quiz :
+      - question: Talk about cutting up the pie or creating a bigger pie?
+        option:
+          - zero-sum game
+          - win-win situation
+        answer: zero-sum game
       - question: Understanding the other's position or presenting one's own?
         option:
           - empathy
