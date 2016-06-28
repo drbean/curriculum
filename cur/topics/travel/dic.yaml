@@ -266,6 +266,33 @@
     B: Why do you want to do that? OK. It won't cost a lot.
     A: OK. I will buy it in New York. I can't wait to go.
     B: You don't arrive in New York until August 3.
+-
+  - flat-0
+  - "flat"
+  - "topics"
+  - "all"
+  - |+
+    When your car gets a flat tire, do not panic.
+
+    First, apply your brakes and pull over. Inside the trunk, you will find a spare tire and a toolbox.
+
+    One of the tools is a jack, which is a tool you use to raise a car. This makes the tire easy to remove. Position the jack beneath the car, behind the tire that is flat. Insert the jack handle and turn it clockwise. Continue turning the handle until the car rises high enough, so that the flat tire is well off the ground and spins freely. Make sure that the jack is securely supporting the vehicle. If the car is unsteady or the jack is unstable, lower the car. Reposition the jack and start again.
+
+    Next, use a crowbar to pry off the hubcap (the metal cover on the side of the tire).
+  - panic|find|jack|tool|This|Position|behind|handle|car|well|spins|Make sure|If|Next|pry|hubcap|side|bolts|using|L-shaped|get|It|loose|Now|it|tighten|toolbox|nearest|fixed
+-
+  - flat-1
+  - "flat"
+  - "topics"
+  - "all"
+  - |+
+    Inside the hubcap are four bolts that hold the tire in place. Loosen these, using the long L-shaped tool. Push firmly on the tool to get the bolts to turn. It may be difficult.
+
+    Once the bolts are loose, the flat tire can be pulled off easily. Now you can put on the new tire. Once it is in place, replace the four bolts and tighten them. Place the flat tire and the toolbox back in the trunk.
+
+    Finally drive to the nearest service station and get your flat tire fixed!
+  - panic|find|jack|tool|This|Position|behind|handle|car|well|spins|Make sure|If|Next|pry|hubcap|side|bolts|using|L-shaped|get|It|loose|Now|it|tighten|toolbox|nearest|fixed
+
 
 
 ---
