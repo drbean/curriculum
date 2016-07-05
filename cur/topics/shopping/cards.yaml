@@ -10,6 +10,17 @@ mall:
     - gift mall bakery roller_coaster money aquarium baseball_bat send chocolate_cake ball toy_store house game friend card Ryan ride fish school fun boring buy shopping ice_cream_cone pies bread corner
     - baseball_bat fun_ride friend birthday roller_coaster nice birthday_card gift boring ice_cream_cone bakery cakes pies bread Jane Roy Marta Bronson excited aquarium chocolate favorite
     - shopping_mall Kitty Michael Sarah Joe ice-cream_cone going_to_go computer store stained a_pair_of_jeans bookstore sunglasses \$70 \$17 \$60 \$16 \$50 \$15 buy
+    -
+      - Ryan is busy today.                               _瑞恩今天很忙。_
+      - He goes to the mall to buy a gift for his friend. _他去商場買禮物送給他的朋友。_
+      - It is his friend's birthday.                      _這是他的朋友的生日。_
+      - He is going to buy him a baseball bat.            _他打算給他買了一個棒球棍。_
+      - But, he doesn't have enough money for it.         _但是，他沒有足夠的錢。_
+      - He goes to the bakery.                            _他去麵包房。_
+      - He'll just buy his friend a cake.                 _他會只買他的朋友一個蛋糕。_
+      - But, he still doesn't have enough money.          _但是，他仍然沒有足夠的錢。_
+      - So, he just sends him a nice card.                _所以，他只是送他一張精美的卡片。_
+
 store:
   bingo:
     - plans bank money shoe_store exactly bookstore English florist excellent improve flowers department_store alarm_clock supermarket flashlight sleeping_bag hiking_boots hat jacket whistle
