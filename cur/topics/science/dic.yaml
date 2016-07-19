@@ -28,7 +28,7 @@
   - non_existent
   - 100
 -
-  - "online"
+  - "online-1"
   - "Online--An easy way to shop"
   - "topics"
   - "all"
@@ -37,7 +37,14 @@
     B: Wow! It looks cool! Where did you buy it?
     G: I bought it online at an electronics website.
     B: I'm not very good at using a computer. Is it hard to buy things online?
-    G: It's really easy. All you do is go to the website, and choose the item you want to look at. There are so many items to choose from on the website! After you choose what you want to buy, you click on the "Check Out" button.
+    G: It's really easy. All you do is go to the website, and choose the item you want to look at.
+-
+  - "online-2"
+  - "Online--An easy way to shop"
+  - "topics"
+  - "all"
+  - |+
+    G: There are so many items to choose from on the website! After you choose what you want to buy, you click on the "Check Out" button.
     B: That does seem easy!
     G: Yes, it is. It only takes about a week for your item to come. Of course, if you're in a hurry, you can pay more to get it sent faster.
     B: Do you pay for the item when it comes?
