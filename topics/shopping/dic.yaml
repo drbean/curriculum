@@ -40,6 +40,18 @@
     B: We need fresh fruit. I want to make a fruit salad.
     G: Bananas are very cheap today. Let's buy some.
     B: No, we have many bananas at home. I want to buy some peaches.
+-
+  - supermarket-6
+  - Supermarket-6
+  - "topics"
+  - "all"
+  - |+
+    A: Today many people eat tomatoes. However a long time ago, people didn't eat them.
+    B: I wonder why they didn't eat them. Did people think they were dangerous?
+    A: Yes. One day a man ate a tomato. Then he ate many of them.
+    B: What did he think of the tomatoes? Did he get sick?
+    A: They were so good! He didn't get sick.
+    B: So people started to eat them too?
 ---
 -
   - genre
