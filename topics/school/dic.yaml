@@ -8,6 +8,21 @@
   - unclozeables
   - percent
 -
+  - "report-0"
+  - "report 0"
+  - "topics"
+  - "all"
+  - |+
+    B: I finished my report on the French Revolution last night.
+    G: How did you finish it so fast? I'm still trying to find books about it.
+    B: There was something about the French Revolution on TV last week. I wrote down the names of all the people who were on the show.
+    G: What did you do next?
+    B: I went to the library and looked for their books. It was very easy, especially because I already understood what I wanted to say.
+    G: I guess I could have done that, but I missed the TV show. Why did Ms Dessard make us write about French history, anyway? She's a French language teacher, not a history teacher.
+    B: Ms Dessard said that if we wanted to understand the language, we should understand the culture. I don't know if I speak better French, but I know more about French history now. If the French Revolution had never happened, French would be a very different language.
+    G: You're right. I'm going to talk to Ms Dessard now. I'll see you later.
+  - finished|Revolution|last|How|trying|it|There|TV|week|wrote|people|show|What|do|to the|and|their|It was|already|what|wanted|guess|that|but|Why|Ms Dessard|about|anyway|She's|French|teacher|not|if|should|culture|don't|speak|If|very|You're|I'm|to|I'll
+-
   - "writing-0"
   - "writing 0"
   - "topics"
