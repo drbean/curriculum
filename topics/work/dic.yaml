@@ -99,6 +99,30 @@
     B: Why don't I attract the customers and you serve the lemonade?
     G: Sounds good to me.
   - extra|Will|Mary|money|day|a dollar-50|That|a little|But|much|By|we|with|OK|and|our|paper|sell|be|cooler|stick|You're|let's|sales|attract|serve|me
+-
+  - boss-0
+  - Boss misunderstanding
+  - "topics"
+  - "all"
+  - |+
+    A: You know, Kim. I think our new boss doesn't like me. I don't understand why.
+    B: That's not true, Trevor! Why, just this morning I heard her say you're a very good employee. She said you work very hard every day.
+    A: That's news to me. I wish she would say it to me, but she just criticizes everything I do.
+    B: I think you're being too sensitive.
+    A: Do you really think so? Maybe I just need a vacation. I haven't had one for years.
+  - You|Kim|think|doesn't|don't|why|That's|Trevor|Why|you're|morning|good|She|hard|I wish|it|but|everything|too|Do|really|Maybe|feed|I haven't|for|great|How|Are|work|I'm really|that|your|Actually|She's|trying|I didn't|Now that|much|Good|Let's
+-
+  - boss-1
+  - Boss misunderstanding
+  - "topics"
+  - "all"
+  - |+
+    B: It's not good to work so hard, Trevor. I think a vacation is a great idea.
+    A: How about you? Are you happy at work these days?
+    B: Yes, I'm really enjoying working for this new boss. That's why I'm surprised that you think she criticizes your work. Actually, I think she is helping you to improve your work. She's just trying to help.
+    A: I didn't realize that. Now that I think about it, you're right. I feel much better.
+    B: Good! Let's go for lunch.
+  - You|Kim|doesn't|don't|why|That's|Trevor|Why|you're|morning|good|She|hard|I wish|it|but|everything|too|Do|really|Maybe|feed|I haven't|for|great|How|Are|work|I'm really|that|your|Actually|She's|trying|I didn't|Now that|much|Good|Let's
 
 ---
 -
