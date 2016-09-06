@@ -231,13 +231,12 @@ bug:
 seafood:
   bingo:
     -
-Marty is a fisherman.
-Marty has a big boat.
-Marty throws his net into the ocean.
-Marty pulls the net into the boat.
-There are many fish in Marty's net.
-There is an octopus and a starfish in Marty's net, too.
-Marty says, What a lucky day!
-What does Marty throw into the ocean?
-What does Marty not catch?
-
+      - Marty is a fisherman.                                   _馬蒂是一個漁夫。_
+      - Marty has a big boat.                                   _馬蒂有一個大的船。_
+      - Marty throws his fishing net into the ocean.            _馬蒂拋出他的漁網入海洋。_
+      - Marty pulls the net into the boat.                      _馬蒂拉網了船。_
+      - There are many fish in Marty's net.                     _還有在馬蒂的淨多魚。_
+      - There is an octopus and a starfish in Marty's net, too. _有一個章魚和馬蒂的淨海星，太。_
+      - Marty says, What a lucky day!                           _馬蒂說，真是一個幸運的一天！_
+      - What does Marty throw into the ocean?                   _是什麼馬蒂扔進大海？_
+      - What does Marty not catch?                              _是什麼馬蒂抓不住？_
