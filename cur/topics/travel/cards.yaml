@@ -15,36 +15,16 @@ bicycle:
   bingo:
     - bicycle equipment road_map travel person tire learn_how_to_ride flat air tent environmentally-friendly Europe in_order_to fit_and_strong bags clothes food need planning_to_go trip
     -
-I'm planning to go on a bicycle trip around Europe.        我打算去歐洲各地的自行車之旅。
-Why do you want to go on a bicycle trip?                   你為什麼想去自行車之旅？
-It's an environmentally friendly way to travel.            這是旅遊環境友好的方式。
-What do you have to do in order to go on a bicycle trip.   你有什麼才能去一個自行車旅行的事情。
-Before the trip, I'll need to ride my bicycle a lot.       出行前，我需要騎我的自行車了很多。
-Riding a bicycle will make me fit and strong.              騎自行車都會讓我適配性強。
-I need to get some bicycle equipment.                      我需要得到一些自行車裝備。
-I need road maps of the countries I am going to visit.     我要訪問的國家的路線圖。
-I need strong bags to carry clothes and food.              我需要強大的包包隨身攜帶的衣服和食物。
-I need to carry road maps, clothes and food on my bicycle. 我需要攜帶路線圖，衣服和食物在我的自行車。
-Are you traveling with another person?                     你與其他人旅行？
-I am going with a friend of mine.                          我與我的一個朋友去。
-My friend likes bicycle trips.                             我的朋友喜歡自行車旅行。
-I wish I could go on a bicycle trip!                       我希望我能去一個自行車之旅！
-Well, don't get too many flat tires!                       好了，不要太多爆胎！
-我打算去歐洲各地的自行車之旅。
-你為什麼想去自行車之旅？
-這是旅遊環境友好的方式。
-你有什麼才能去一個自行車旅行的事情。
-出行前，我需要騎我的自行車了很多。
-騎自行車都會讓我適配性強。
-我需要得到一些自行車裝備。
-將你需要什麼樣的裝備？我需要我要訪問的國家的路線圖。
-我需要強大的包包隨身攜帶的衣服和食物。
-我需要攜帶路線圖，衣服和食物在我的自行車。
-你與其他人旅行？
-我與我的一個朋友去。
-我的朋友喜歡自行車旅行。
-我希望我能去一個自行車之旅！
-好了，不要太多爆胎！
+      - I'm planning to go on a bicycle trip around Europe.        _我打算去歐洲各地的自行車之旅。_
+      - Why do you want to go on a bicycle trip?                   _你為什麼想去自行車之旅？_
+      - Before the trip, I'll need to ride my bicycle a lot.       _出行前，我需要騎我的自行車了很多。_
+      - I need to carry road maps, clothes and food on my bicycle. _我需要攜帶路線圖，衣服和食物在我的自行車。_
+      - Are you traveling with another person?                     _你與其他人旅行？_
+      - I am going with a friend of mine.                          _我與我的一個朋友去。_
+      - My friend likes bicycle trips.                             _我的朋友喜歡自行車旅行。_
+      - I wish I could go on a bicycle trip!                       _我希望我能去一個自行車之旅！_
+      - Well, don't get too many flat tires!                       _好了，不要太多爆胎！_
+
 hiking_trip:
   bingo:
     - announcements trip cabin sign_up activity hike club swimming campfire pictures skiing drop_us_off bottom top late by_the_time_we_arrive unpack sing tell_stories dawn mountain take_seven_hours fun halfway_up go_and_see back_down have_time might_go
