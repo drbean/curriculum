@@ -31,16 +31,15 @@ hiking_trip:
 hiking:
   bingo:
     -
-The hiking club is going to Bear Mountain.
-We're going to hike until we get to a cabin halfway up the mountain.
-That sounds really great! Where can I sign up?
-It takes seven hours to hike to the cabin.
-It will be late by the time we arrive.
-After we unpack, we'll start a campfire.
-We can sing, eat and tell stories around the fire.
-The following day we'll leave at dawn and hike to the top of the mountain.
-After we take pictures, we'll hike back down.
-If we have time, we might go swimming in the lake!
+      - It takes seven hours to hike to the mountain cabin. _這需要七個小時徒步到山上的小屋。_
+      - It will be late by the time we arrive.              _這將是我們到達的時間晚了。_
+      - After we unpack, we'll start a campfire.            _我們打開包裝後，我們將開始一個篝火。_
+      - We can sing, eat and tell stories around the fire.  _我們可以唱歌，吃飯，並告訴周圍的消防故事。_
+      - The following day we'll leave at dawn.              _第二天，我們將離開在黎明。_
+      - We'll hike to the top of the mountain.              _我們將徒步到山頂。_
+      - After we take pictures, we'll hike back down.       _我們拍照後，我們會加息回落。_
+      - If we have time, we might go swimming in the lake!  _如果我們有時間，我們可以去游泳，在湖中！_
+
 camping:
   bingo:
     - family leisure activities enjoy movies museums sports together probably chance whole entertainment da_Vinci reminded smile feeling mysterious Mona_Lisa make_up stories grabs
