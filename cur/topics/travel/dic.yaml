@@ -143,11 +143,10 @@
   - "topics"
   - "all"
   - |+
-    A: Hi Anne! did you sign up for the trip on Saturday?
-    B: What trip is that? I didn't know there was a trip on Saturday.
     A: The hiking club is going to Bear Mountain. The bus drops us off at the bottom, and we're going to hike until we get to a cabin halfway up the mountain.
     B: That sounds really great! Where can I sign up?
     A: Go and see Jennifer. She'll help you sign up.
+    B: What activity will we do when we get to the cabin on the mountain?
   - Anne|trip|Saturday|What|there|The|going|Bear Mountain|drops|we're|until|That|Where|Jennifer. She'll|Well|late|unpack, we'll|campfire. Then|stories|The following|If we|Those|really|can't
 -
   - hiking-1
@@ -155,9 +154,7 @@
   - "topics"
   - "all"
   - |+
-    B: What activity will we do when we get to the cabin on the mountain?
     A: Well, it takes seven hours to hike to the cabin, so it will be late by the time we arrive. After we unpack, we'll start a campfire. Then we can sing, eat and tell stories around the fire. The following day we'll leave at dawn and hike to the top of the mountain. After we take pictures, we'll hike back down. If we have time, we might go swimming in the lake on the mountain!
-    B: Those sound like really fun activities, and I can't wait to go!
   - Anne|trip|Saturday|What|there|The|going|Bear Mountain|drops|we're|until|That|Where|Jennifer. She'll|Well|late|unpack, we'll|campfire. Then|stories|The following|If we|Those|really|can't
 -
   - iran
