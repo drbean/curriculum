@@ -137,6 +137,29 @@
     M: OK! And next week, let's come back with friends and pick up some more.
     W: Good idea!
   - W:|M:|Someone|forgot
+-
+  - "recycle-0"
+  - "recycle-0"
+  - "topics"
+  - "all"
+  - |+
+    M: Hi, Jane! Have you heard about the new laws to help people recycle?
+    W: I heard about them on the news last night. I don't think I like them.
+    M: The government wants to keep the environment clean by recycling paper, metal and glass instead of throwing these things away.
+    W: But who wants to pay an extra 50 cents each time you buy a cup of coffee? That's a lot of money.
+  - Hi, Jane|Have|about|laws|people|them|last|I don't|The|wants|the|by|metal, and|instead|these|But|an|50 cents|you|cup|coffee|That's|of|It's|5 cents|a|I thought|it's|Don't|And|get|back|Well|is|after|I'll|all|cups|from|Good|We|need|It|to|clean
+-
+  - "recycle-1"
+  - "recycle-1"
+  - "topics"
+  - "all"
+  - |+
+    M: 50 cents? It's only 5 cents extra for a paper cup.
+    W: I thought it was 50 cents!
+    M: No, it's only 50 cents. Don't worry. And you can get your money back when you return the cup.
+    W: That's fair. Well, maybe the government is right, after all. I'll return all the paper cups I use from now on.
+    M: Good! We all need to recycle. It helps to keep the environment clean.
+  - Hi, Jane|Have|about|laws|people|them|last|I don't|The|wants|the|by|metal, and|instead|these|But|an|50 cents|you|cup|coffee|That's|of|It's|5 cents|a|I thought|it's|Don't|And|get|back|Well|is|after|I'll|all|cups|from|Good|We|need|It|to|clean
 ---
 -
   - genre
