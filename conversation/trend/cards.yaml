@@ -1,0 +1,47 @@
+---
+genre: ted
+movement:
+  jigsaw:
+    0:
+      identifier: movement 0
+      quiz:
+        - question: You need GUTS to stand out and be ridiculed.
+          option: 
+           - a possibly mentally-disturbed person with unconventional views
+           - by yourself
+           - bravery
+           - made fun of, looked down on
+           - to be easily seen
+          answer: bravery
+        - question: If you are a NUT, you are not normal. You are crazy.
+          option: 
+           - a possibly mentally-disturbed person with unconventional views
+           - by yourself
+           - bravery
+           - made fun of, looked down on
+           - to be easily seen
+          answer: an idiot (colloquial)
+        - question: If you STAND OUT in a crowd, you must be doing something different, or look different.
+          option: 
+           - a possibly mentally-disturbed person with unconventional views
+           - by yourself
+           - bravery
+           - made fun of, looked down on
+           - to be easily seen
+          answer: Rat-racer
+        - question: A LONE scientist saying global warming was a myth
+          option: 
+           - a possibly mentally-disturbed person with unconventional views
+           - by yourself
+           - bravery
+           - made fun of, looked down on
+           - to be easily seen
+          answer: by yourself
+        - question: The shirtless dancer was RIDICULED, but then others joined in.
+          option: 
+           - a possibly mentally-disturbed person with unconventional views
+           - by yourself
+           - bravery
+           - made fun of, looked down on
+           - to be easily seen
+          answer: made fun of, looked down on
