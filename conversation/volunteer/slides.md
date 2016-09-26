@@ -28,6 +28,24 @@ thanks
 
 Bezos works for a _____(1) called Robin Hood, but is _____(2) the assistant _____(3) of a volunteer fire _____(4).  At one fire, he is the _____(5) volunteer on the scene. The homeowner's house is in _____(6). The captain asks the first volunteer to go _____(7) and save the homeowner's _____(8). The captain tells Bezos to go upstairs and _____(9) the homeowner a pair of shoes. The dog receives more _____(10) from the homeowner _____(11) the pair of shoes. The homeowner _____(12) the firefighters for getting _____(13) a pair of shoes.
 
+## Bezos' fire story
+
+also
+attention
+captain
+company
+dog
+flames
+get
+her
+inside
+non-profit
+second
+than
+thanks
+
+Bezos works for a non-profit called Robin Hood, but is also the assistant captain of a volunteer fire company.  At one fire, he is the second volunteer on the scene. The homeowner's house is in flames. The captain asks the first volunteer to go inside and save the homeowner's dog. The captain tells Bezos to go upstairs and get the homeowner a pair of shoes. The dog receives more attention from the homeowner than the pair of shoes. The homeowner thanks the firefighters for getting her a pair of shoes.
+
 ## Bezos reflects on volunteering
 
 
@@ -46,6 +64,26 @@ shouldn't
 witness
 
 Bezos is _____(14) to acts of generosity and _____(15) on a monumental _____(16),  but also to _____(17) of grace and courage on an _____(18) basis.  He says you _____(19) wait to make a _____(20) in other people's _____(21). He tells people to _____(22) food at a soup kitchen, or clean up a _____(23) park. He says every _____(24) offers you an _____(25) to affect other _____(26) lives."
+
+
+## Bezos reflects on volunteering
+
+
+acts
+day
+difference
+individual
+kindness
+lives
+neighborhood
+opportunity
+people's
+scale
+serve
+shouldn't
+witness
+
+Bezos is witness to acts of generosity and kindness on a monumental scale,  but also to acts of grace and courage on an individual basis.  He says you shouldn't wait to make a difference in other people's lives. He tells people to serve food at a soup kitchen, or clean up a neighborhood park. He says every day offers you an opportunity to affect other people's lives.
 
 
 # Questions
