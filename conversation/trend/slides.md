@@ -33,20 +33,72 @@ This is a topic that many books have been written about.
 
 - [Derek Sivers on wikipedia ](https://en.wikipedia.org/wiki/Derek_Sivers)
 
-## Events recognizing trends
+## Fads, fashions, trends
 
-- [International Volunteer Day - Wikipedia, the free encyclopedia](https://en.wikipedia.org/wiki/International_Volunteer_Day)
+- [Fads, fashions, trends](https://en.wikipedia.org/wiki/Fad)
 
 # Cloze
 
+## Sivers analyzes how a movement starts
+
+
+embrace
+equal
+first
+follow
+leader
+movement
+news
+nut
+nuts
+role
+second
+stand
+talks
+tipping_point
+what
+
+Sivers _____(1) about how to start a movement. First, a _____(2) needs the guts to _____(3) out and be ridiculed. But, the _____(4) follower has a crucial _____(5), showing everyone how to _____(6). The leader needs to _____(7) the first follower as an _____(8), because the first follower is _____(9) transforms a lone _____(10) into a leader. With a _____(11) follower, it isn't two _____(12) Three is a crowd and a crowd is _____(13). With five more followers, we have momentum and a _____(14). We have a _____(15).
+
+## Sivers analyzes how a movement starts
+
+Sivers talks about how to start a movement. First, a leader needs the guts to stand out and be ridiculed. But, the first follower has a crucial role, showing everyone how to follow. The leader needs to embrace the first follower as an equal, because the first follower is what transforms a lone nut into a leader. With a second follower, it isn't two nuts. Three is a crowd and a crowd is news. With five more followers, we have momentum and a tipping point. We have a movement.
+
+## Sivers analyzes how a movement develops
+
+
+because
+care
+credit
+follow
+in
+in-crowd
+leader
+ridiculed
+risky
+shirtless
+should
+stick
+those
+transforms
+
+As more people join _____(16), it's less _____(17). Those sitting on the fence now won't stand out and be _____(18), if they join. They will be part of the _____(19), if they hurry. Finally, _____(20) that prefer to _____(21) with the crowd will join in, _____(22) they will be ridiculed for NOT joining in. If you _____(23) about starting a movement, you _____(24) have the courage to _____(25) a nut. The _____(26) guy gets all the _____(27), but the first follower _____(28) the lone nut into a _____(29).
+
+## Sivers analyzes how a movement develops
+
+As more people join in, it's less risky. Those sitting on the fence now won't stand out and be ridiculed, if they join. They will be part of the in-crowd, if they hurry. Finally, those that prefer to stick with the crowd will join in, because they will be ridiculed for not joining in. If you care about starting a movement, you should have the courage to follow a nut. The shirtless guy gets all the credit, but the first follower transforms the lone nut into a leader.
 
 # Questions
 
-## Talking about trending--questions from http://iteslj.org/questions/trend.html {.allowframebreaks}
+## Talking about fashion--questions from http://iteslj.org/questions/fashion.html {.allowframebreaks}
 
-## Talking about trending--questions from http://www.esldiscussions.com/w/work.html, http://www.eslconversationquestionsonline.com/work-life/ {.allowframebreaks}
+- [fashion questions](http://iteslj.org/questions/fashion.html )
 
-## More talk about trending--questions from http://www.esldiscussions.com/w/work.html, http://www.eslconversationquestionsonline.com/work-life/ {.allowframebreaks}
+## Talking about fashion--questions from http://www.esldiscussions.com/f/fashion.html, http://www.esldiscussions.com/fashion.html {.allowframebreaks}
+
+- [fashion questions](http://www.esldiscussions.com/f/fashion.html)
+
+## More talk about trending--questions from http://www.esldiscussions.com/f/fashion.html, http://www.esldiscussions.com/fashion.html {.allowframebreaks}
 
 ## We think it might be harder being a trend in Taiwan than in the West.
 
