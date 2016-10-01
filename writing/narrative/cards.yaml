@@ -1,0 +1,42 @@
+genre: writing
+vacation:
+  jigsaw:
+    0:
+      identifier: steve vacation 0
+      quiz:
+        - question: Were they succesful in getting information for the military?
+          option:
+            - Yes
+            - No
+            - Not enough information to tell
+          answer: Yes
+        - question: Were they succesful in getting information for the bank?
+          option:
+            - Yes
+            - No
+            - Not enough information to tell
+          answer: Not enough information to tell
+        - question: Was the writer's son a freshman?
+          option:
+            - Yes
+            - No
+            - Not enough information to make a good decision
+          answer: Yes
+        - question: Had the writer studied at the same college as a student?
+          option:
+            - Yes
+            - No
+            - Not enough information to make a good decision
+          answer: No
+        - question: Did the writer's son move straight into the dormitory on campus on arrival?
+          option:
+            - Yes
+            - No
+            - Not enough information to make a good decision
+          answer: No
+        - question: Is the airport close to the college?
+          option:
+            - Very close
+            - Not close
+            - Not enough information to make a good decision
+          answer: Not close
