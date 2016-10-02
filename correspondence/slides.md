@@ -88,4 +88,30 @@ Put your hand up.
 
 Or, get a student at the front to put his/her hand up while the activity is still going on.
 
-## The End
+# The 8 characteristics of good business communication (8 C's)
+
+## Clear
+
+Means easy to understand. The reader has no doubts about what the email is trying to say, and what he/she has to do.
+
+It does not mean distinct or anything to do with seeing (in this context.)
+
+It does not mean definite or explicit (in this context,) although this may help the email be clear.
+
+It is about what is in the reader's head after reading the email.
+
+## Concise
+
+Means short.
+
+It does not mean not-complicated.
+
+## Considerate
+
+Does not mean careful, but it does mean caring for other people.
+
+Another word for considerate is thoughtful. But this doesn't mean just thinking a lot. It means thinking a lot about other people and hoping your actions can benefit them, and trying to do that. 
+
+Someone with EQ is probably considerate.
+
+# The End
