@@ -43,7 +43,7 @@ point_of_view:
            - First
            - Second
           answer: Second
-relationship with writer:
+relationship_with_writer:
   jigsaw:
     0:
       identifier: audience relationship with writer
