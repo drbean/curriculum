@@ -1,0 +1,18 @@
+genre: volunteer
+fire:
+  jigsaw:
+    0:
+      identifier: bett questions
+      quiz:
+        - question: Bett said these 3 questions are ungrammatical, but only one is ungrammatical, please submit an error message, if you think the app made a mistake.
+          option:
+            - Does captain ask Bezos to go inside the house and get the homeowner a pair of shoes?
+            - Does Bezos go upstairs and get the homeowner a pair of shoes?
+            - Who does the homeowner thank for getting her a pair of shoes?
+          answer: Does captain ask Bezos to go inside the house and get the homeowner a pair of shoes?
+        - question: Why is the ungrammatical question ungrammatical?
+          option:
+            - A problem with a noun phrase, eg no determiner, no noun, wrongly-chosen adjectives
+            - A problem with a verb phrase, eg the auxiliary verb, agreement with the noun
+            - Some other problem
+          answer: A problem with a noun phrase, eg no determiner, no noun, wrongly-chosen adjectives
