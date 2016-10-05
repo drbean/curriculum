@@ -1,0 +1,56 @@
+---
+genre: correspondence
+email_1_and_2:
+  jigsaw:
+    0:
+      identifier: 8cs emails 1, 2
+      quiz:
+        - question: |+
+            Email 1 and email 2 are about similar topics, but one is better than the other. \n
+            Which has some problems, because it doesn't show some of the 8 C's.
+          option: 
+           - First
+           - Second
+          answer: First
+        - question: |+
+            Which 2 of 8 C's are not seen in the problem email?
+          option: 
+           - Clear and Concise
+           - Concrete and Correct
+           - Coherent and Complete
+           - Courteous and Considerate
+          answer: Coherent and Complete
+email_3:
+  jigsaw:
+    0:
+      identifier: 8cs emails 3
+      quiz:
+        - question: |+
+            Email 3 is a good, informal email, and doesn't have any faults, but if you wanted to find a fault with it, which of the 8 C's could you use to do that.
+          option: 
+           - Clear
+           - Concise
+           - Concrete
+           - Correct
+           - Coherent
+           - Complete
+           - Courteous
+           - Considerate
+          answer: Concise
+email_5:
+  jigsaw:
+    0:
+      identifier: 8cs emails 5
+      quiz:
+        - question: |+
+            Email 5 has problems with grammar and format, which is a correctness problem. But what other problem does the email have that will make replying to it difficult.
+          option: 
+           - Clear
+           - Concise
+           - Concrete
+           - Correct
+           - Coherent
+           - Complete
+           - Courteous
+           - Considerate
+          answer: Complete
