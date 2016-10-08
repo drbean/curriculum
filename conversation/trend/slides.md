@@ -2,7 +2,7 @@
 % by Dr Bean (高來圭) at https://github.com/drbean/curriculum/conversation/trend
 % Thu Sep 22 12:39:38 CST 2016
 
-# Recognition of trends
+# A dance craze
 
 ## Shirtless dancing guy
 
@@ -16,26 +16,18 @@
 
 - [Sasquatch! Music Festival - Wikipedia, the free encyclopedia](https://en.wikipedia.org/wiki/Sasquatch!_Music_Festival)
 
-## Diffusion of innovation
+# Derek Sivers
 
-How new ideas/technology spread(s).
+## Derek Sivers--millionaire
 
-- [Diffusion of innovations - Wikipedia, the free encyclopedia](https://en.wikipedia.org/wiki/Diffusion_of_Innovations)
+- [CDBaby ](http://cdbaby.com)
+- [CDBaby on wikipedia](http://en.wikipedia.org/wiki/CD_Baby)
+- [Derek Sivers on wikipedia ](https://en.wikipedia.org/wiki/Derek_Sivers)
 
-
-Some new idea or product starts without anyone buying in, and gradually, quickly or never becomes adopted by everyone.
-
-This is a topic that many books have been written about.
 
 ## Derek Sivers on leadership and movements
 
 - [TED talk ](https://www.youtube.com/watch?v=V74AxCqOTvg)
-
-- [Derek Sivers on wikipedia ](https://en.wikipedia.org/wiki/Derek_Sivers)
-
-## Fads, fashions, trends
-
-- [Fads, fashions, trends](https://en.wikipedia.org/wiki/Fad)
 
 # Cloze
 
@@ -88,6 +80,23 @@ As more people join _____(16), it's less _____(17). Those sitting on the fence n
 
 As more people join in, it's less risky. Those sitting on the fence now won't stand out and be ridiculed, if they join. They will be part of the in-crowd, if they hurry. Finally, those that prefer to stick with the crowd will join in, because they will be ridiculed for not joining in. If you care about starting a movement, you should have the courage to follow a nut. The shirtless guy gets all the credit, but the first follower transforms the lone nut into a leader.
 
+# Innovation
+
+## Diffusion of innovation
+
+How new ideas/technology spread(s).
+
+- [Diffusion of innovations - Wikipedia, the free encyclopedia](https://en.wikipedia.org/wiki/Diffusion_of_Innovations)
+
+
+Some new idea or product starts without anyone buying in, and gradually, quickly or never becomes adopted by everyone.
+
+This is a topic that many books have been written about.
+
+## Fads, fashions, trends
+
+- [Fads, fashions, trends](https://en.wikipedia.org/wiki/Fad)
+
 # Questions
 
 ## Talking about fashion--questions from http://iteslj.org/questions/fashion.html {.allowframebreaks}
@@ -100,7 +109,7 @@ As more people join in, it's less risky. Those sitting on the fence now won't st
 
 ## More talk about trending--questions from http://www.esldiscussions.com/f/fashion.html, http://www.esldiscussions.com/fashion.html {.allowframebreaks}
 
-## We think it might be harder being a trend in Taiwan than in the West.
+## We think it might be harder starting a trend in Taiwan than in the West.
 
 As a Yes/No Question:
 
@@ -109,12 +118,12 @@ The question was:
 
 . . .
 
-Is it harder being a trend in Taiwan (than in the West)?
+Is it harder starting a trend in Taiwan (than in the West)?
 
 
 . . .
 
-## We think it might be easier/harder being a trend in Taiwan than in the West.
+## We think it might be easier/harder starting a trend in Taiwan than in the West.
 
 As a WH Question:
 
@@ -123,8 +132,8 @@ The question was:
 
 . . .
 
-Where is it easier to be a trend, Taiwan or the West?
+Where is it easier to start a trend, Taiwan or the West?
 
-Where is it harder to be a trend, Taiwan or the West?
+Where is it harder to start a trend, Taiwan or the West?
 
 
