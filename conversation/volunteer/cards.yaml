@@ -16,3 +16,76 @@ fire:
             - A problem with a verb phrase, eg the auxiliary verb, agreement with the noun
             - Some other problem
           answer: A problem with a noun phrase, eg no determiner, no noun, wrongly-chosen adjectives
+keynote:
+  jigsaw:
+    0:
+      identifier: keynote 1.1
+      quiz:
+        - question: 1. Bezos's lesson
+          option:
+            - a
+            - b
+            - c
+          answer: b
+        - question: 3.1
+          option:
+            - professional
+            - volunteer
+          answer: volunteer
+        - question: 3.2
+          option:
+            - first
+            - second
+          answer: second
+        - question: 3.3
+          option:
+            - another volunteer
+            - the homeowner
+          answer: the homeowner
+        - question: 3.4
+          option:
+            - day
+            - night
+          answer: night
+        - question: 4.1
+          option:
+            - bring
+            - dog
+            - homeowner
+            - jealous
+            - shoes
+          answer: dog
+        - question: 4.2
+          option:
+            - bring
+            - dog
+            - homeowner
+            - jealous
+            - shoes
+          answer: jealous
+        - question: 4.3
+          option:
+            - bring
+            - dog
+            - homeowner
+            - jealous
+            - shoes
+          answer: bring
+        - question: 4.4
+          option:
+            - bring
+            - dog
+            - homeowner
+            - jealous
+            - shoes
+          answer: homeowner
+        - question: 4.5
+          option:
+            - bring
+            - dog
+            - homeowner
+            - jealous
+            - shoes
+          answer: shoes
+
+
