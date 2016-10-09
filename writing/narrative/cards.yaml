@@ -40,3 +40,77 @@ vacation:
             - Not close
             - Not enough information to make a good decision
           answer: Not close
+weekend:
+  jigsaw:
+    0:
+      identifier: steve weekend 0
+      quiz:
+        - question: |+
+            .... I just got over a big hump with new high-intensity classes this past week.  Sunday I spoke on honoring one's parents - 5th commandment (I believe it went ok in the large congregation, though in the smaller 1:30 setting, some could have been pared) I wrote most of it Saturday late afternoon and arose Sun morning ~ 4:30 to complete. Ezra was my PPT guy, but there was some misunderstanding Saturday night, so when he got up ~6:15 everything wasn't put together right. Didn't get the review I wanted to do before leaving to print things out ! 7:30.
+            What time did the writer get up?
+          option:
+            - '1:30'
+            - '3:30'
+            - '4:30'
+            - '6:15'
+            - '7:30'
+            - '8:17'
+            - '9:15'
+            - '11:00'
+          answer: '4:30'
+        - question: |+
+            ... Sunday afternoon I decompressed and got up Mon @ 3:30 to put the grades together, as I was in pretty good shape already about the aspects for the grades.  Day grades were done by 8:17am, I and Ezra took the trash and recyclable to the morning drop off site and I breathed easily. By 9:15 I went back to complete Night grades as Ezra had spoken about the family going to see a movie around lunch time.  My grades were in by 11am.
+            What time did the writer get up?
+          option:
+            - '1:30'
+            - '3:30'
+            - '4:30'
+            - '6:15'
+            - '7:30'
+            - '8:17'
+            - '9:15'
+            - '11:00'
+          answer: '3:30'
+
+homework:
+  jigsaw:
+    0:
+      identifier: homework excuses
+      quiz:
+        - question: Intro. It is not possible to make up an excuse.
+          option:
+            - True
+            - False
+          answer: False
+        - question: Blaming technology: A good excuse
+          option:
+            - True
+            - False
+          answer: True
+        - question: Claiming the printer didn't work is the best excuse
+          option:
+            - True
+            - False
+          answer: False
+        - question: Claiming family problems is a good excuse
+          option:
+            - True
+            - False
+          answer: True
+        - question: Living in 2 different places, eg at school and home won't work.
+          option:
+            - True
+            - False
+          answer: False
+        - question: Illness will not be accepted by a teacher as an excuse.
+          option:
+            - True
+            - False
+          answer: False
+        - question: Exercising before an illness excuse is a good idea.
+          option:
+            - True
+            - False
+          answer: True
+
+
