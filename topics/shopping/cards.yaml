@@ -76,3 +76,15 @@ mall:
 store:
   bingo:
     - plans bank money shoe_store exactly bookstore English florist excellent improve flowers department_store alarm_clock supermarket flashlight sleeping_bag hiking_boots hat jacket whistle
+dishwasher:
+  bingo:
+    -
+      - I would like to buy my wife a home appliance for her birthday. _我想我的妻子買一個家電為她的生日。_
+      - What sort of appliance are you looking for, sir?               _什麼樣的家電你要買嗎，先生？_
+      - I think a dishwasher might be the perfect gift.                _我覺得洗碗機可能是完美的禮物。_
+      - Dishwashers are very useful.                                   _洗碗機是非常有用的。_
+      - This dishwasher is our most popular model.                     _這洗碗機是我們最流行的款式。_
+      - How does the dishwasher work?                                  _如何洗碗機工作？_
+      - You'll have sparkling clean dishes in 45 minutes!              _你必須在45分鐘內整潔明亮的菜！_
+      - That sounds easy to use. How much does it cost?                _這聽起來很容易上手。 它要多少錢？_
+      - It's on sale this week for \$400.                               _它本週的售價為\$400元。_

@@ -62,6 +62,31 @@
     B: No. It's a lot of fun. Try it. I'll push the cart for you.
     G: No. I don't want to.
     B: Well, push me then.
+-
+  - dishwasher-0
+  - Dishwasher-0
+  - "topics"
+  - "all"
+  - |+
+    W: Hello and welcome to Robuck's. How may I help you?
+    M: I would like to buy my wife a home appliance for her birthday.
+    W: What sort of appliance are you looking for, sir?
+    M: I think a dishwasher might be the perfect gift because it will help with the housework.
+    W: Oh yes, dishwashers are very useful.
+  - and welcome|Robuck's|may|my|home|birthday|What|of|looking|sir|I think|be|gift|because|with|Oh yes|useful|here|our|model|work|First|dirty|scrape off|leftover|can|rinse|dishes|sink|glasses|cutlery|rack|Plates|bowls|face down|Then|compartment|detergent|Next|cycle|and finally|You'll|sparkling|in 45 minutes|sounds|I think|really|does|You're|It's|sale|$400|Great|I'll
+-
+  - dishwasher-1
+  - Dishwasher-1
+  - "topics"
+  - "all"
+  - |+
+    W: This one here is our most popular model.
+    M: How does it work?
+    W: It's very simple.  You'll have sparkling clean dishes in 45 minutes!
+    M: That sounds easy to use. I think my wife will really like it. How much does it cost?
+    W: You're lucky, sir! It's on sale this week for \$400.
+    M: Great, I'll take it!
+  - and welcome|Robuck's|may|my|home|birthday|What|of|looking|sir|I think|be|gift|because|with|Oh yes|useful|here|our|model|work|First|dirty|scrape off|leftover|can|rinse|dishes|sink|glasses|cutlery|rack|Plates|bowls|face down|Then|compartment|detergent|Next|cycle|and finally|You'll|sparkling|in 45 minutes|sounds|I think|really|does|You're|It's|sale|\$400|Great|I'll
 ---
 -
   - genre
