@@ -1,16 +1,5 @@
 ---
 genre: topics
-message:
-  bingo:
-    -
-      - Haven't you ever used a smart phone?                                                   _你有沒有用過智能手機嗎？_
-      - I just use my cell phone to talk to other people.                                      _我只是用我的手機給別人交談。_
-      - You can also use a cell phone to send and receive short text messages.                 _您也可以使用手機發送和接收文本短信息。_
-      - I use the keys on the phone to type a short message and then I press the "send" button._我用手機上的按鍵輸入一個短消息，然後我按下“發送”按鈕。_
-      - Sending a message is cheaper than making a phone call.                                 _發送消息是不是打電話便宜。_
-      - That's a great idea!                                                                   _好主意啊！_
-      - All my friends usually send me text messages now.                                      _我所有的朋友現在通常給我發短信。_
-
 cell_phones:
   bingo:
     - airplane cell_phone check contact cost doughnut explain freeway message middle missing other receive short sister strawberry_jam text useful
