@@ -97,17 +97,27 @@ This is a topic that many books have been written about.
 
 - [Fads, fashions, trends](https://en.wikipedia.org/wiki/Fad)
 
+# Grammar 
+
+## embrace--The leader needs to embrace the first follower as an equal.
+
+- [Examples of embrace](https://verbs.colorado.edu/html_groupings/embrace-v.html)
+- [Meanings of embrace](https://framenet2.icsi.berkeley.edu/fnReports/data/frame/Adopt_selection.xml)
+
+
 # Questions
+
+## Talking about fads--questions from http://iteslj.org/questions/fads.html {.allowframebreaks}
+
+- [fad questions](http://iteslj.org/questions/fads.html )
 
 ## Talking about fashion--questions from http://iteslj.org/questions/fashion.html {.allowframebreaks}
 
 - [fashion questions](http://iteslj.org/questions/fashion.html )
 
-## Talking about fashion--questions from http://www.esldiscussions.com/f/fashion.html, http://www.esldiscussions.com/fashion.html {.allowframebreaks}
+## Talking about fashion--questions from http://www.esldiscussions.com/f/fashion.html {.allowframebreaks}
 
 - [fashion questions](http://www.esldiscussions.com/f/fashion.html)
-
-## More talk about trending--questions from http://www.esldiscussions.com/f/fashion.html, http://www.esldiscussions.com/fashion.html {.allowframebreaks}
 
 ## We think it might be harder starting a trend in Taiwan than in the West.
 
