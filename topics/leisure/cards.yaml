@@ -118,3 +118,16 @@ movie:
       - "theater:          _戲劇_"
       - "ticket:           _票_"
       - "relax:            _放鬆_"
+tv:
+  bingo:
+    -
+      - Did you watch the latest episode of that new TV show last night? _你昨晚看過那個新電視節目的最新一集嗎？_
+      - Which one are you talking about?                                 _你在說什麼？_
+      - I prefer to watch shows that teach me about something.           _我喜歡看表演，教我一些東西。_
+      - My favorite travel show is the one with that chef from England.  _我最喜歡的旅行節目是那位來自英國的廚師。_
+      - He really makes me laugh. He has a good sense of humor.          _他真的讓我笑了。 他有一個很好的幽默感。_
+      - Let's watch it together this week.                               _讓我們一起來看這個星期。_
+      - I have a wide-screen TV and a comfortable sofa.                  _我有一台寬屏電視和一個舒適的沙發。_
+      - OK, we'll watch it at your place then.                           _好的，我們會在你的地方看它。_
+      - I'll bring some snacks.                                          _我會帶點點心。_
+      - See you then!                                                    _回頭見！_
