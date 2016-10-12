@@ -63,4 +63,97 @@ style:
            - First
            - Second
           answer: Second
-
+student:
+  jigsaw:
+    0:
+      identifier: student questions
+      quiz:
+        - question: |+
+            Reader Purpose\n
+            Spam about women to stay slim in Korea.\n
+            An email sent by a Korea company about women how to buy a nice car by themselves.\n
+            Which email is more likely to result in action by the younger women?\n
+          option:
+           - First
+           - Second
+          answer: First
+        - question: |+
+            Reader interest\n
+            A message from the classmate about the cosmetic shop has a discount.\n
+            A message from the weather bureau about a weather forecast.\n
+            Which is more interest to Michelle?\n
+          option:
+           - First
+           - Second
+          answer: First
+        - question: |+
+            Reader Knowledge\n
+            An email to Joe from an online game information.\n
+            An email to Joe from Thailand local information.\n
+            Which do Joe know more about?\n
+          option:
+           - First
+           - Second
+          answer: First
+        - question: |+
+            Reader interest\n
+            An e-mail from pop dance club about performing activities.\n
+            An e-mail from service community about charitable activities.\n
+            Which is of more interest to enthusiastic service students?\n
+          option:
+           - First
+           - Second
+          answer: Second
+        - question: |+
+            Reader Interest\n
+            An email from a pop singer about some skills of singing\n
+            An email from National Taiwan University of Sport about recruitment of P.E. teachers\n
+            Which is of more interest to a professional singer?
+          option:
+           - First
+           - Second
+          answer: First
+        - question: |+
+            Informal/Formal style\n
+            1. Dear students,
+            The new semester is going to begin, please prepare an Engineering Calculator for class and the calculator will been used usually. If you didn’t have I suggest that you can buy it from second hand market next week at the entrance of library.\n
+            Your Accounting teacher,\n
+            Amelia\n
+            \n
+            2. Dear Colbert, \n
+            I am Evan, a Business Manager student. We are going to do research about Marketing. Can I have a talk with you on next Tuesday 4 p.m.?\n
+            \n
+            Which is more formal?\n
+          option:
+           - First
+           - Second
+          answer: First
+        - question: |+
+            Reader Views on Topic\n
+            1.Extra (口香糖) spam claiming"Fresh breath gives you great interpersonal relationships."\n
+            2.Extra spam using medical language about its efficacy.\n
+            Which email is more likely to be in agreement with people's thinking about toothpaste?\n
+          option:
+           - First
+           - Second
+          answer: First
+        - question: |+
+            Reader Relationship with Writer\n
+             \n
+            Email 1\n
+            Hi Nico,\n
+            I can’t go to course today since I’m severely sick. I got a fever last night.\n
+            Can you please inform the teacher on my behalf? By the way, please let me know if there’s any homework from course. Thank you for your help. \n
+            Best,\n
+            Rou An.\n
+             \n
+            Email 2\n
+            Dear Dr.Bean,\n
+            I am writing this letter to inform you that I have to take a sick leave from course due to the fever. Sorry for any inconvenience caused by my absence. I would review the material before next course. Thank you for your immediate attention to this matter.\n
+            Rou An\n
+            In which email is the relationship between the reader and the writer more of a problem?\n
+          option:
+           - First
+           - Second
+          answer: Second
+         
