@@ -93,6 +93,17 @@ Some new idea or product starts without anyone buying in, and gradually, quickly
 
 This is a topic that many books have been written about.
 
+## Smartphones
+
+- [The smartphone on wikipedia](http://en.wikipedia.org/wiki/Smartphone)
+- [The opposite of the early adopter has a name, and it isn’t kind](https://timeline.com/early-adopter-laggard-24d291e9f06a)
+
+## What do you think
+
+1. What did you learn from the talk?
+2. What's courageous about following?
+3. When might it be courageous not to follow?
+
 ## Fads, fashions, trends
 
 - [Fads, fashions, trends](https://en.wikipedia.org/wiki/Fad)
@@ -103,6 +114,14 @@ This is a topic that many books have been written about.
 
 - [Examples of embrace](https://verbs.colorado.edu/html_groupings/embrace-v.html)
 - [Meanings of embrace](https://framenet2.icsi.berkeley.edu/fnReports/data/frame/Adopt_selection.xml)
+
+## crucial
+
+## underestimate
+
+## sitting on the fence
+
+## nurture
 
 
 # Questions
