@@ -28,7 +28,7 @@ movement:
            - bravery
            - made fun of, looked down on
            - to be easily seen
-          answer: Rat-racer
+          answer: to be easily seen
         - question: A LONE scientist saying global warming was a myth
           option: 
            - a possibly mentally-disturbed person with unconventional views
@@ -45,3 +45,43 @@ movement:
            - made fun of, looked down on
            - to be easily seen
           answer: made fun of, looked down on
+    1:
+      identifier: grammar problem
+      quiz:
+        - question: The grammatical question. All the others have problem with noun-verb agreement or auxiliary verb use in questions:
+          option:
+            - He have courage, doesn't he?               
+            - It is not easy to be a leader, is it?      
+            - What does first follower shows everyone?   
+            - What does leader needs to stand out?       
+            - Does the first follower is a leader?       
+          answer: It is not easy to be a leader, is it?      
+    2:
+      identifier: sivers comprehension test
+      quiz:
+        - question: |+
+            What is the most important thing for a leader to do?
+          option:
+           - have a good idea
+           - treat followers as equals
+          answer: treat followers as equals
+        - question: |+
+            Who usually gets the credit for starting a movement?
+          option:
+           - the leader
+           - the first follower
+          answer: the leader
+        - question: |+
+            Who is the person who deserves to get the credit?
+          option:
+           - the leader
+           - the first follower
+          answer: the first follower
+        - question: |+
+            What should ordinary people not be afraid of?
+          option:
+           - joining a new movement
+           - starting your own movement
+          answer: joining a new movement
+        
+        
