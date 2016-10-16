@@ -83,5 +83,24 @@ movement:
            - joining a new movement
            - starting your own movement
           answer: joining a new movement
+    3:
+      identifier: sivers statements into YN questions
+      quiz:
+        - question: |+
+            A first follower needs the guts to stand out.
+          option:
+           - Does a first follower need the guts to stand out?
+          answer: Does a first follower need the guts to stand out?
+        - question: |+
+            The new follower is actually a leader.
+          option:
+           - Is the new follower actually a leader?
+          answer: Is the new follower actually a leader?
+        - question: |+
+            We have a movement.
+          option:
+           - Do we have a movement?
+          answer: Do we have a movement?
+       
         
         
