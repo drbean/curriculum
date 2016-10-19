@@ -1,0 +1,60 @@
+genre: writing
+drbean:
+  jigsaw:
+    0:
+      identifier: drbean
+      quiz:
+        - question: Dr Bean is, according to him--
+          option:
+            - Serious
+            - Friendly
+            - Giving
+          answer: Serious
+tiffany:
+  jigsaw:
+    0:
+      identifier: tiffany
+      quiz:
+        - question: |+
+            Tiffany is, according to her--
+          option:
+           - calm
+           - energetic
+          answer: calm
+katie:
+  jigsaw:
+    0:
+      identifier: katie
+      quiz:
+        - question: |+
+            Katie is, according to her--
+          option:
+           - mellow
+           - energetic
+          answer: energetic
+david:
+  jigsaw:
+    0:
+      identifier: david
+      quiz:
+        - question: |+
+            David is, according to him--
+          option:
+           - wise
+           - kind
+          answer: kind
+peggy:
+  jigsaw:
+    0:
+      identifier: peggy
+      quiz:
+        - question: |+
+            Peggy, according to her, is--
+          option:
+           - helpful
+           - a good listener
+          answer: a good listener
+        
+        
+        
+        
