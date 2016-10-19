@@ -123,6 +123,60 @@ This is a topic that many books have been written about.
 
 ## nurture
 
+# Naked cowboy
+
+## Naked cowboy on youtube
+
+- [Naked cowboy](https://www.youtube.com/watch?v=CJRL916WdAo)
+- [Naked cowboy plays naughty with women](https://www.youtube.com/watch?v=Pb_RY46vZk4)
+- [On Oprah Winfrey](https://www.youtube.com/watch?v=UW4iTex7Tf8)
+- [In sub-zero weather](https://www.youtube.com/watch?v=LITFcychdNM)
+- [Muscle Beach ](http://www.google.com.tw/search?q=%22Muscle+Beach%22&num=100&gws_rd=ssl&tbm=isch&tbo=u&source=univ&sa=X)
+
+
+## Cloze
+
+
+$100
+becoming
+body-building
+dressed
+how
+modeled
+near-naked
+no
+performed
+photographer
+underwear
+was
+without
+
+Before _____(1) the Naked Cowboy, he _____(2) involved with _____(3) and music. The first time he played _____(4) clothes was when he _____(5) for Playgirl Magazine at Muscle Beach in California for naked (or _____(6)) photographs. There, he also _____(7) in the street _____(8) as a cowboy, but made _____(9) money. The _____(10) suggested he play in the street in his _____(11), which he did, and he made _____(12). That's _____(13) he started.
+
+## Cloze 2
+
+
+animation
+arrested
+blue
+camera
+copyrights
+exhibited
+first
+it
+likeness
+M&Ms
+name
+national
+plays
+settled
+store
+sued
+
+When he _____(1) started doing _____(2), the police and _____(3) crews were called. He was _____(4) 15 times, and appeared on _____(5) TV.
+Mars, which makes _____(6), made a _____(7) of the Naked Cowboy for its _____(8) M&M character, and _____(9) it in an electronic _____(10) outside its Times Square _____(11) where the Naked Cowboy _____(12). The Naked Cowboy has _____(13) on his _____(14) and likeness and he _____(15) Mars. The case was _____(16) out of court.
+
+## Questions about Naked Cowboy
 
 # Questions
 
