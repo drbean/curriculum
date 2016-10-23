@@ -101,6 +101,156 @@ movement:
           option:
            - Do we have a movement?
           answer: Do we have a movement?
+naked_cowboy:
+  jigsaw:
+    0:
+      identifier: naked_cowboy
+      quiz:
+        - question: |+
+            Does he have followers, a team
+          option:
+           - Yes
+           - No
+          answer: Yes
+        - question: |+
+            Does he wear only underwear in winter?
+          option:
+           - Yes
+           - No
+          answer: Yes
+        - question: |+
+            Does he get stronger at Muscle Beach?
+          option:
+           - Yes
+           - No
+          answer: No
+        - question: |+
+            Is he married?
+          option:
+           - Yes
+           - No
+          answer: Yes
+        - question: |+
+            Where does he perform?
+          option:
+           - Fifth Avenue
+           - Times Square
+          answer: Times Square
+meeting:
+  jigsaw:
+    0:
+      identifier: meeting
+      A: You are at a conference with your assistant: Franco. You worked with Jim at your previous company, ADG.
+      B: You recently joined DEC. You are at a conference with Theresa, your boss.
+      C: You see Theresa at a conference. You worked with her at your company before.
+      quiz:
+        - question: |+
+            A
+          option:
+           - Franco
+           - Theresa
+           - Jim
+          answer: Theresa
+        - question: |+
+            B
+          option:
+           - Franco
+           - Theresa
+           - Jim
+          answer: Franco
+        - question: |+
+            C
+          option:
+           - Franco
+           - Theresa
+           - Jim
+          answer: Jim
+        - question: Jim works with Theresa
+          answer  : False
+        - question: Theresa is Franco's boss.
+          answer  : True
+        - question: Franco works at ADG.
+          answer  : False
+        - question: Jim knows Franco.
+          answer  : False
+        - question: Theresa knows the other two.
+          answer  : True
+        - question: Theresa's old company is ADG
+          answer  : True
+        - question: Jim works at DEC.
+          answer  : False
+first:
+  jigsaw:
+    0:
+      identifier: first meeting
+      quiz:
+        - question: |+
+            Jim and Theresa
+          option:
+           - Know each other
+           - First meeting
+          answer: Know each other
+        - question: |+
+            Jim and Franco
+          option:
+           - Know each other
+           - First meeting
+          answer: First meeting
+        - question: |+
+            Theresa and Franco
+          option:
+           - Know each other
+           - First meeting
+          answer: Know each other
+phrases:
+  jigsaw:
+    0:
+      identifier: meeting phrases
+      quiz:
+        - question: |+
+            1. Hello, Theresa.
+          option:
+           - How are you doing?
+           - How do you do?
+          answer: How are you doing?
+        - question: |+
+            2. Theresa says--
+          option:
+           - Things are going very well, thanks?
+           - Pleased to meet you.
+          answer: Things are going very well, thanks?
+        - question: |+
+            3. She continues--
+          option:
+           - May I introduce you to Franco.
+           - This is Franco.
+          answer: This is Franco.
+        - question: |+
+            4. Jim says--
+          option:
+           - First
+           - Second
+          answer: Second
+        - question: |+
+            5. Franco says--
+          option:
+           - First
+           - Second
+          answer: Second
+        - question: |+
+            6. Jim says--
+          option:
+           - First
+           - Second
+          answer: First
+        - question: |+
+            7. Theresa concludes--
+          option:
+           - First
+           - Second
+          answer: Second
+        
+
        
         
         
