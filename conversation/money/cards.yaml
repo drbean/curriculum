@@ -360,3 +360,26 @@ vanbeke:
           answer: True
         - question: Some families didn't have anywhere to live during the Depression.
           answer: True
+aid:
+  jigsaw:
+    0:
+      identifier: aid--how is it provided
+      quiz:
+        - question: |+
+            The tradition form of aid--
+          option:
+           - gives money, goods or services
+           - helps poor people better themselves
+          answer: gives money, goods or services
+        - question: |+
+            Acumen provides money to--
+          option:
+           - poor people
+           - organizations which loan money to poor people
+          answer: organizations which loan money to poor people
+        - question: |+
+            Microfinance is--
+          option:
+           - loaning money to people who banks will not loan money to
+           - loaning small amounts of money to people who have credit
+          answer: loaning money to people who banks will not loan money to
