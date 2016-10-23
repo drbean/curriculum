@@ -54,7 +54,26 @@ peggy:
            - helpful
            - a good listener
           answer: a good listener
-        
-        
-        
+katy:
+  jigsaw:
+    0:
+      identifier: katy
+      quiz:
+        - question: |+
+            Katy is--
+          option:
+           - friendly and cheerful
+           - sympathetic and caring
+          answer: friendly and cheerful
+rujing:
+  jigsaw:
+    0:
+      identifier: rujing
+      quiz:
+        - question: |+
+            RuJing is--
+          option:
+           - organized and orderly
+           - friendly but shy
+          answer: organized and orderly
         
