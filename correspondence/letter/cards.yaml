@@ -1,0 +1,382 @@
+---
+genre: correspondence
+date:
+  jigsaw:
+    0:
+      identifier: date rewriting
+      quiz:
+        - question: |+
+            Jan 16th, 2015
+          option:
+           - January 16, 2015
+          answer: January 16, 2015
+        - question: |+
+            20/11/2016
+          option:
+           - 20 November 2016
+          answer: 20 November 2016
+        - question: |+
+            04.13.2017
+          option:
+           - April 13, 2017
+          answer: April 13, 2017
+        - question: |+
+            中華民國105年5月20日
+          option:
+           - May 20, 2016
+          answer: May 20, 2016
+        - question: |+
+            106/03/19
+          option:
+           - March 19, 2017
+          answer: March 19, 2017
+letterhead:
+  jigsaw:
+    0:
+      identifier: parts of letter--letterhead
+      quiz:
+        - question: |+
+            the letterhead address indicates the company is in--
+          option:
+           - Taiwan
+           - England
+          answer: Taiwan
+        - question: |+
+            Which don't we see in the letterhead in the book?
+          option:
+           - email address
+           - website
+          answer: email address
+        - question: |+
+            What else don't we see in the book that a self-respecting company will have?
+          option:
+           - president's name
+           - logo
+          answer: logo
+inside address:
+  jigsaw:
+    0:
+      identifier: parts of letter--inside address
+      quiz:
+       - question: |+
+          What does 'goes inside the window of an envelope' mean? 
+         option:
+          - The flap on the envelope is left open, so you can take the letter out.
+          - The envelope is made so you can see inside the envelope.
+         answer: The envelope is made so you can see inside the envelope.
+layout:
+  jigsaw:
+    0:
+      identifier: layout of letter
+      quiz:
+        - question: |+
+            What does left-justified mean?
+          option:
+           - You start writing the sentence without writing a space.
+           - It's OK to leave some of the parts of the letter out.
+          answer: You start writing the sentence without writing a space.
+subject:
+  jigsaw:
+    0:
+      identifier: subject
+      quiz:
+        - question: |+
+            On the basis of the advice on p12, we can conclude the difference between Chinese subject lines and English subject lines will be--
+          option:
+           - length
+           - relevance to the main idea of the letter
+          answer: length
+    1:
+      identifier: strange subject
+      quiz:
+        - question: |+
+            The letter is strange because--
+          option:
+           - the content of the letter is about the layout of the letter
+           - the style of the letter doesn't follow the advice in the letter
+          answer: the content of the letter is about the layout of the letter
+
+        
+salutation:
+  jigsaw:
+    0:
+      identifier: salutation
+      quiz:
+        - question: |+
+            Using "Dear John" in letter to teacher.
+          option:
+           - freshman
+           - graduate student
+          answer: graduate student
+        - question: |+
+            Using "Dear Miss Jane" with a stranger. the mistake is--
+          option:
+           - Assuming the woman is unmarried
+           - Using an honorific (Miss) with a first name
+           - Both
+          answer: Both
+        - question: |+
+            Which is correct with a woman you don't know?
+          option:
+           - Dear Ms Nina Lin
+           - Dear Miss Nina
+           - Dear Miss Lin
+           - Dear Ms Nina
+           - Dear Ms Lin
+           - Dear Lin
+          answer: Dear Ms Lin
+body:
+  jigsaw:
+    0:
+      identifier: which parts mentioned in body
+      quiz:
+        - question: |+
+            Which parts are mentioned in the body of the letter?
+          option:
+           - date               letterhead
+           - inside address     date
+           - letterhead       inside address
+           - salutation         subject line
+           - body               salutation
+           - complimentary closebody
+           - signature          complimentary close
+           - letterhead                   signature
+          answer: letterhead       inside address
+close:
+  jigsaw:
+    0:
+      identifier: complimentary close
+      quiz:
+        - question: |+
+            Which close commonly goes with this salutation?
+            Dear Sir or Madam,
+          option:
+           - Yours faithfully,
+           - Yours sincerely,
+          answer: Yours faithfully
+        - question: |+
+            Which close commonly goes with this salutation?
+            Dear Mr Matheson,
+          option:
+           - Yours faithfully,
+           - Yours sincerely,
+          answer: Yours sincerely,
+    1:
+      identifier: good/bad news
+      quiz:
+        - question: |+
+            The message is goodwill message, with no specific business purpose.
+          option:
+           - Yours sincerely,
+           - Best wishes,
+          answer: Best wishes,
+        - question: |+
+            The message is bad news. Which close is not appropriate?
+          option:
+           - Yours sincerely,
+           - Best wishes,
+          answer: Best wishes,
+    2:
+      identifier: punctuation
+      quiz:
+        - question: |+
+            Is the punctuation consistent?
+            Dear Tom,
+            ...
+            Best regards
+          option:
+           - Yes
+           - No
+          answer: No
+        - question: |+
+            Is the punctuation consistent?
+            Dear Sir or Madam,
+            ...
+            Yours faithfully,
+          option:
+           - Yes
+           - No
+          answer: Yes
+    3:
+      identifier: matching salutation, close again
+      quiz:
+        - question: |+
+            Dear Alva (not a letter with a specific business purpose)
+          option:
+           - Yours sincerely
+           - Best wishes
+           - Yours faithfully
+          answer: Best wishes
+        - question: |+
+            Dear Mr Jones
+          option:
+           - Yours sincerely
+           - Best wishes
+           - Yours faithfully
+          answer: Yours sincerely
+        - question: |+
+            Dear Sir or Madam
+          option:
+           - Yours sincerely
+           - Best wishes
+           - Yours faithfully
+          answer: Yours faithfully
+        - question: |+
+            Dear Mrs Wilson
+          option:
+           - Yours sincerely
+           - Best wishes
+           - Yours faithfully
+          answer: Yours sincerely
+        - question: |+
+            Dear Ms Tang
+          option:
+           - Yours sincerely
+           - Best wishes
+           - Yours faithfully
+          answer: Yours sincerely
+punctuation:
+    jigsaw:
+      0:
+        identifier: punctuation
+        quiz:
+          - question: |+
+              A full stop/period to end a sentence
+            option:
+             - (.)
+             - (?)
+             - (!)
+             - (,)
+             - (:)
+             - (;)
+             - (')
+             - (--)
+             - (-)
+             - ("...")
+            answer: (.)
+          - question: |+
+              A question
+            option:
+             - (.)
+             - (?)
+             - (!)
+             - (,)
+             - (:)
+             - (;)
+             - (')
+             - (--)
+             - (-)
+             - ("...")
+            answer: (?)
+          - question: |+
+              An exclamation mark to show surprise, loudness
+            option:
+             - (.)
+             - (?)
+             - (!)
+             - (,)
+             - (:)
+             - (;)
+             - (')
+             - (--)
+             - (-)
+             - ("...")
+            answer: (!)
+          - question: |+
+              A comma to separate parts of one sentence or list
+            option:
+             - (.)
+             - (?)
+             - (!)
+             - (,)
+             - (:)
+             - (;)
+             - (')
+             - (--)
+             - (-)
+             - ("...")
+            answer: (,)
+          - question: |+
+              A colon to start/introduce a list
+            option:
+             - (.)
+             - (?)
+             - (!)
+             - (,)
+             - (:)
+             - (;)
+             - (')
+             - (--)
+             - (-)
+             - ("...")
+            answer: (:)
+          - question: |+
+              A semi-colon to separate long items in a list
+            option:
+             - (.)
+             - (?)
+             - (!)
+             - (,)
+             - (:)
+             - (;)
+             - (')
+             - (--)
+             - (-)
+             - ("...")
+            answer: (;)
+          - question: |+
+              An apostrophe shows ownership/relationship
+            option:
+             - (.)
+             - (?)
+             - (!)
+             - (,)
+             - (:)
+             - (;)
+             - (')
+             - (--)
+             - (-)
+             - ("...")
+            answer: (')
+          - question: |+
+              A dash to set off/separate equal parts of a sentence
+            option:
+             - (.)
+             - (?)
+             - (!)
+             - (,)
+             - (:)
+             - (;)
+             - (')
+             - (--)
+             - (-)
+             - ("...")
+            answer: (--)
+          - question: |+
+              A hyphen joins two words into one word
+            option:
+             - (.)
+             - (?)
+             - (!)
+             - (,)
+             - (:)
+             - (;)
+             - (')
+             - (--)
+             - (-)
+             - ("...")
+            answer: (-)
+          - question: |+
+              Quotation marks focus on the fact the words have been said, or written
+            option:
+             - (.)
+             - (?)
+             - (!)
+             - (,)
+             - (:)
+             - (;)
+             - (')
+             - (--)
+             - (-)
+             - ("...")
+            answer: ("...")
