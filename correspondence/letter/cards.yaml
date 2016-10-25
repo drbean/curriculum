@@ -380,3 +380,27 @@ punctuation:
              - (-)
              - ("...")
             answer: ("...")
+grammar:
+  jigsaw:
+    0:
+      identifier: please to inform
+      quiz:
+        - question: |+
+            We are please to inform that ..
+          option:
+           - We please informing that
+           - We are pleased to inform that
+           - We are pleased to inform you that
+          answer: We are pleased to inform you that
+    1:
+      identifier: grateful
+      quiz:
+        - question: |+
+            I like to invite you ..
+          option:
+           - I would like to invite you ..
+           - I like inviting you
+          answer: I would like to invite you ..
+          
+
+          
