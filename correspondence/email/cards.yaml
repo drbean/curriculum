@@ -1,0 +1,48 @@
+---
+genre: correspondence
+subject:
+  jigsaw:
+    0:
+      identifier: subject line
+      quiz:
+        - question: |+
+            Email 1
+          option:
+           - Action Re Contract
+           - Special Offer
+           - Meeting on May 14
+           - Regarding Your Order
+           - Re Your Enquiry
+           - Shipping Confirmation
+          answer: Meeting on May 14
+        - question: |+
+            Email 2
+          option:
+           - Action Re Contract
+           - Special Offer
+           - Meeting on May 14
+           - Regarding Your Order
+           - Re Your Enquiry
+           - Shipping Confirmation
+          answer: Regarding Your Order
+        - question: |+
+            Email 3
+          option:
+           - Action Re Contract
+           - Special Offer
+           - Meeting on May 14
+           - Regarding Your Order
+           - Re Your Enquiry
+           - Shipping Confirmation
+          answer: Special Offer
+        - question: |+
+            Email 4
+          option:
+           - Action Re Contract
+           - Special Offer
+           - Meeting on May 14
+           - Regarding Your Order
+           - Re Your Enquiry
+           - Shipping Confirmation
+          answer: Re Your Enquiry
+        
