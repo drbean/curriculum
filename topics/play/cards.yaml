@@ -89,6 +89,15 @@ game:
       - Today, Matt has just one piece left, and Joy takes it.        _今天，馬特只剩下一塊，而喬伊就拿了。_
       - Joy stands up and jumps up and down.                          _喬伊站起來，跳起來。_
       - Joy is so happy because she won.                              _喬伊是如此的高興，因為她贏了。_
+    -
+      - What game do you want to play?    _你想玩什麼遊戲？_
+      - Let's play cards.                 _讓我們玩撲克牌。_
+      - No, cards are boring.             _不，卡片無聊。_
+      - I don't want to play cards.       _我不想打牌。_
+      - I don't have my jacks.            _我沒有我的插孔。_
+      - My friend has my bag of marbles.  _我的朋友有我的大理石袋。_
+      - There's nothing we can do.        _沒有什麼我們能做。_
+      - I know! Let's play chess!         _我知道！ 讓我們下棋！_
 
 haunted:
   bingo:
