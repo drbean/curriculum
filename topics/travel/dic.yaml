@@ -335,6 +335,34 @@
     A: Yes, I am going with a friend of mine. He likes bicycle trips.
     B: I wish I could go on a bicycle trip, too! Well, don't get too many flat tires!
   - I'm|to go|trip|Europe|Why|want to|on a|It is|environmentally|way|What|you|to do|trip|I'll|a lot. That|make|fit and|I also|some|will you|road|of the|I am|bags to carry|I need|all these|on my|Are you|person|Yes, I|with a|of mine. He|trips|I could|on a|Well|get|many
+-
+  - car-0
+  - "car-0"
+  - "topics"
+  - "all"
+  - |+
+    B: Mom, Danielle's on my side of the car again. Tell her to move over!
+    W: Listen, both of you, I've had enough of your nonsense. Sit still, be quiet and enjoy the scenery!
+    G: Mom, is Toronto still far away?
+    W: It's going to be a long time to get there, so read your book.
+    G: I don't like to read in the car, because it gives me a headache. Can we put a CD on?
+    W: I suppose so, but it had better not be rap music. That music is awful, and I can't believe you children actually listen to it.
+    B: Oh, please, can we play some rap music? You might like it, Mom.
+    W: Well, only if you promise that there is no bad language in it.
+  - Mom|Danielle|again|Tell|move|Listen|I've|of your|Toronto|time|your|I don't|me|Can|CD|suppose|rap|That|I can't|actually|You|Well|bad|All right|I choose|Have|ever|age|People|real|too
+-
+  - car-1
+  - "car-1"
+  - "topics"
+  - "all"
+  - |+
+    B: There isn't any bad language, I promise.
+    W: All right, I'll play the CD, but it will be at the volume I choose.
+    B: Thanks, Mom.
+    W: Have I ever told you about the songs I liked at your age? People listened to real music in those days.
+    G: Oh, Mom! Rap is real music, too!
+  - Mom|Danielle|again|Tell|move|Listen|I've|of your|Toronto|time|your|I don't|me|Can|CD|suppose|rap|That|I can't|actually|You|Well|bad|All right|I choose|Have|ever|age|People|real|too
+
 
 
 
