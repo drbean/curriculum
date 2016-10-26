@@ -76,4 +76,87 @@ rujing:
            - organized and orderly
            - friendly but shy
           answer: organized and orderly
+barry:
+    jigsaw:
+      0:
+        identifier: barry: nice guy
+        quiz:
+          - question: |+
+              Barry is a nice guy
+            option:
+             - Open self
+             - Hidden self
+             - Blind self
+             - Unknown self
+            answer: Hidden self
+enchiao:
+    jigsaw:
+      0:
+        identifier: enchiao
+        quiz:
+          - question: |+
+              Enchiao may be proactive,punctual and good at socializing in the future
+            option:
+              - Open self
+              - Hidden self
+              - Blind self
+              - Unknown self
+            answer: Unknown self
+david_1:
+    jigsaw:
+      0:
+        identifier: david 1
+        quiz:
+          - question: |+
+              David may be more confident
+            option:
+              - Open self
+              - Hidden self
+              - Blind self
+              - Unknown self
+            answer: Unknown self
+kuanchung:
+    jigsaw:
+      0:
+        identifier: kuanchung
+        quiz:
+          - question: |+
+              Kuanchung is lazy
+            option:
+              - Open self
+              - Hidden self
+              - Blind self
+              - Unknown self
+            answer: Blind self
+          - question: |+
+              KuanChung is not angry, when he may appear angry
+            option:
+              - Open self
+              - Hidden self
+              - Blind self
+              - Unknown self
+            answer: Hidden self
+tiffany_1:
+    jigsaw:
+      0:
+        identifier: tiffany 1
+        quiz:
+          - question: |+
+              An absence of a smile on Tiffany's face doesn't mean she's angry. It means she's tired.
+            option:
+              - Open self
+              - Hidden self
+              - Blind self
+              - Unknown self
+            answer: Hidden self
+          - question: |+
+              Tiffany is modest
+            option:
+              - Open self
+              - Hidden self
+              - Blind self
+              - Unknown self
+            answer: Blind self
+          
+          
         
