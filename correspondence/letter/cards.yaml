@@ -153,7 +153,7 @@ close:
           option:
            - Yours faithfully,
            - Yours sincerely,
-          answer: Yours faithfully
+          answer: Yours faithfully,
         - question: |+
             Which close commonly goes with this salutation?
             Dear Mr Matheson,
