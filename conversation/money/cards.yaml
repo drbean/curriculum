@@ -368,9 +368,9 @@ aid:
         - question: |+
             The tradition form of aid--
           option:
-           - gives money, goods or services
-           - helps poor people better themselves
-          answer: gives money, goods or services
+           - gives money, goods or services that they don't have
+           - helps poor people better themselves so they can help themselves
+          answer: gives money, goods or services that they don't have
         - question: |+
             Acumen provides money to--
           option:
@@ -383,3 +383,53 @@ aid:
            - loaning money to people who banks will not loan money to
            - loaning small amounts of money to people who have credit
           answer: loaning money to people who banks will not loan money to
+transaction:
+  jigsaw:
+    0:
+      identifier: money transaction conversations
+      quiz:
+        - question: |+
+            bureau de change
+          option:
+           - Is service included?
+           - Could you lend me $10 to get some lunch?
+           - Do you have change for a $20 note?
+           - Do you charge commission?
+           - Can I have a receipt please?
+          answer: Do you charge commission?
+        - question: |+
+            taxi
+          option:
+           - Is service included?
+           - Could you lend me $10 to get some lunch?
+           - Do you have change for a $20 note?
+           - Do you charge commission?
+           - Can I have a receipt please?
+          answer: Can I have a receipt please?
+        - question: |+
+            parking lot
+          option:
+           - Is service included?
+           - Could you lend me $10 to get some lunch?
+           - Do you have change for a $20 note?
+           - Do you charge commission?
+           - Can I have a receipt please?
+          answer: Do you have change for a $20 note?
+        - question: |+
+            restaurant
+          option:
+           - Is service included?
+           - Could you lend me $10 to get some lunch?
+           - Do you have change for a $20 note?
+           - Do you charge commission?
+           - Can I have a receipt please?
+          answer: Is service included?
+        - question: |+
+            office
+          option:
+           - Is service included?
+           - Could you lend me $10 to get some lunch?
+           - Do you have change for a $20 note?
+           - Do you charge commission?
+           - Can I have a receipt please?
+          answer: Could you lend me $10 to get some lunch?
