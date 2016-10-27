@@ -401,6 +401,233 @@ grammar:
            - I would like to invite you ..
            - I like inviting you
           answer: I would like to invite you ..
-          
-
-          
+strategy:
+  jigsaw:
+    0:
+      identifier: things (strategies) to remember
+      quiz:
+        - question: |+
+            1.
+          option:
+           - reader interest
+           - reader knowledge
+           - reader purpose
+           - reader point of view
+           - reader relationship with writer
+           - reader prefered style
+          answer: reader purpose
+        - question: |+
+            2.
+          option:
+           - clear
+           - concise
+           - concrete
+           - correct
+           - coherent
+           - complete
+           - courteous
+           - considerate
+          answer: courteous
+        - question: |+
+            3.
+          option:
+           - concise
+           - concrete
+           - correct
+           - coherent
+           - complete
+           - courteous
+           - considerate
+          answer: concise
+        - question: |+
+            4.
+          option:
+           - clear
+           - concise
+           - concrete
+           - correct
+           - coherent
+           - complete
+           - considerate
+          answer: considerate
+        - question: |+
+            5.
+          option:
+           - clear
+           - correct
+           - coherent
+           - complete
+           - courteous
+           - considerate
+          answer: clear
+        - question: |+
+            6.
+          option:
+           - clear
+           - concise
+           - concrete
+           - correct
+           - coherent
+           - complete
+           - courteous
+           - considerate
+          answer: concise
+        - question: |+
+            7.
+          option:
+           - reader interest
+           - reader knowledge
+           - reader purpose
+           - reader point of view
+           - reader relationship with writer
+           - reader prefered style
+          answer: reader relationship with writer
+        - question: |+
+            8.
+          option:
+           - clear
+           - concise
+           - concrete
+           - correct
+           - coherent
+           - complete
+           - courteous
+           - considerate
+          answer: correct
+        - question: |+
+            9.
+          option:
+           - clear
+           - concise
+           - correct
+           - courteous
+           - considerate
+          answer: clear
+        - question: |+
+            10.
+          option:
+           - concise
+           - concrete
+           - correct
+           - coherent
+           - complete
+           - courteous
+           - considerate
+          answer: correct
+        - question: |+
+            11.
+          option:
+           - clear
+           - concise
+           - concrete
+           - correct
+           - coherent
+           - complete
+           - considerate
+          answer: considerate
+        - question: |+
+            12.
+          option:
+           - clear
+           - concise
+           - concrete
+           - correct
+           - coherent
+           - complete
+          answer: correct
+        - question: |+
+            13.
+          option:
+           - reader interest
+           - reader knowledge
+           - reader purpose
+           - reader point of view
+           - reader prefered style
+          answer: reader prefered style
+        - question: |+
+            14.
+          option:
+           - clear
+           - concise
+           - concrete
+           - coherent
+           - complete
+           - courteous
+          answer: courteous
+        - question: |+
+            15.
+          option:
+           - clear
+           - concise
+           - concrete
+           - correct
+           - coherent
+           - complete
+           - courteous
+           - considerate
+          answer: correct
+        - question: |+
+            16.
+          option:
+           - clear
+           - concise
+           - concrete
+           - correct
+           - coherent
+           - complete
+           - courteous
+           - considerate
+          answer: clear
+        - question: |+
+            17.
+          option:
+           - clear
+           - concise
+           - concrete
+           - correct
+           - coherent
+           - complete
+           - courteous
+           - considerate
+          answer: concise
+        - question: |+
+            18.
+          option:
+           - reader interest
+           - reader knowledge
+           - reader purpose
+           - reader point of view
+           - reader relationship with writer
+           - reader prefered style
+          answer: reader purpose
+        - question: |+
+            19.
+          option:
+           - clear
+           - concise
+           - concrete
+           - correct
+           - complete
+           - courteous
+           - considerate
+          answer: clear
+        - question: |+
+            20.
+          option:
+           - clear
+           - concise
+           - concrete
+           - correct
+           - coherent
+           - complete
+           - courteous
+           - considerate
+          answer: correct
+    
+    
+    
+    
+    
+    
+    
+    
