@@ -12,6 +12,8 @@
 
 - [Dancing guy from left and right](https://www.youtube.com/watch?v=-G-cBND9cN4)
 
+- [Dancing guy speaks](http://christophercatania.com/2010/05/10/sasquatch-festivals-dancing-guy-reveals-his-swarm-starting-secrets/)
+
 ## Sasquatch! Music Festival
 
 - [Sasquatch! Music Festival - Wikipedia, the free encyclopedia](https://en.wikipedia.org/wiki/Sasquatch!_Music_Festival)
