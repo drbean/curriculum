@@ -45,4 +45,84 @@ subject:
            - Re Your Enquiry
            - Shipping Confirmation
           answer: Re Your Enquiry
-        
+formal:
+  jigsaw:
+    0:
+      identifier: in/formal email
+      quiz:
+        - question: |+
+            Which is the more formal email?
+          option:
+           - First
+           - Second
+          answer: Second
+    1:
+      identifier: in/formal phrases
+      quiz:
+        - question: |+
+            1.
+          option:
+           - First
+           - Second
+          answer: Second
+        - question: |+
+            2.
+          option:
+           - First
+           - Second
+          answer: First
+        - question: |+
+            3.
+          option:
+           - First
+           - Second
+          answer: First
+        - question: |+
+            4.
+          option:
+           - First
+           - Second
+          answer: Second
+audience:
+  jigsaw:
+    0:
+      identifier: skimmers and skeptics
+      quiz:
+        - question: |+
+            The writer pays most attention to what data to include. This will be of most benefit to--
+          option:
+           - Skimmers
+           - Skeptics
+          answer: Skeptics
+        - question: |+
+            The writer pays most attention to presentation of the data. This will be of most benefit to--
+          option:
+           - Skimmers
+           - Skeptics
+          answer: Skimmers
+etiquette:
+  jigsaw:
+    0:
+      identifier: negotiating etiquette
+      quiz:
+        - question: It is not possible to be too concise, even if abrupt, rude. Conciseness! Conciseness! Conciseness!
+          answer: False
+        - question: Informal language is OK and indicates you care.
+          answer: False
+        - question: Don't talk about anything not connected to the business at hand.
+          answer: False
+        - question: If you have something in common, it will make the task easier.
+          answer: True
+    1:
+      identifier: negotiating etiquette
+      quiz:
+        - question: It is important to repeat any points on which you accept the other's position and on which you are flexible.
+          answer: True
+        - question: It is important to show you are in a good mood and to refer to things the reader has done that make you happy.
+          answer: True
+        - question: Emails are good, but you need another way to keep a record of the negotiation.
+          answer: False
+        - question: Make sure that everything you have written in your email is seen by your boss and everyone else.
+          answer: False
+        - question: It is best to send it as quickly as possible when you still feel what you said is right.
+          answer: False
