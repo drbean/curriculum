@@ -158,5 +158,21 @@ tiffany_1:
               - Unknown self
             answer: Blind self
           
-          
+revelation:
+  jigsaw:
+    0:
+      identifier: revelation
+      quiz:
+        - question: Who said he is looking for a girlfriend?
+          option:
+           - Nathan
+           - Ethan
+          answer: Ethan
+        - question: Who said she is interested in Korean, English and Japanese?
+          option:
+            - Milly
+            - Amber
+          answer: Milly
         
+      
+          
