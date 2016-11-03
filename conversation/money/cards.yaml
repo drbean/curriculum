@@ -433,3 +433,26 @@ transaction:
            - Do you charge commission?
            - Can I have a receipt please?
           answer: Could you lend me $10 to get some lunch?
+grammar:
+  jigsaw:
+    0:
+      identifier: grammar
+      quiz:
+        - question: The ungrammatical question?
+          option:
+            - What is Jane's first dream?   
+            - Who hears about Jamii Bora?   
+            - Where do Jane live in?        
+            - What does Jamii Bora build?
+          answer: Where do Jane live in?        
+        - question: The grammatical question?
+          option:
+           - Who repurposes gowns with frills and ribbons?
+           - Who feel blessed with everything she have?   
+           - Does Jane have child?                        
+           - Does Jane marry to a good man?               
+           - Does Jane live in poor ?                     
+           - What does she tell to AIDS patients?         
+          answer: Who repurposes gowns with frills and ribbons?
+        
+      
