@@ -253,9 +253,9 @@ sivers:
   jigsaw:
     0:
       identifier: sivers
-      A: You talk about Kevin and how Paul, his first follower bravely transforms him from a lone nut into a leader. You don't know Kevin leaves when many people start dancing with him.
+      A: You say that Paul, Kevin's first follower is brave. You say Paul transforms Kevin from a lone nut into a leader. You don't know Kevin leaves when many people join.
       B: Sivers thinks you are trying to start a movement, but you just like dancing. After Paul joins you, many others join. And you leave because you don't like crowds.
-      C: You like dancing and you admire Kevin, although Sivers and others say he is a nut. Sivers thinks you are brave for joining him. After Kevin stops dancing, you continue.
+      C: You like dancing and you admire Kevin, although Sivers say he is a nut. Sivers thinks you are brave for joining him. After Kevin stops dancing, you continue.
       quiz:
         - question: A
           option:
