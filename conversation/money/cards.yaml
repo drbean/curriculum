@@ -454,5 +454,44 @@ grammar:
            - Does Jane live in poor ?                     
            - What does she tell to AIDS patients?         
           answer: Who repurposes gowns with frills and ribbons?
+jane:
+  jigsaw:
+    0:
+      identifier: jane
+      A: You were very poor, but Ingrid's organization loaned you some money. With the money, you made dresses and did good business. You meet Jacky when she comes to see the houses built with the money she loans to Ingrid.
+      B: You were a banker and know how to raise money. You loan the money to Ingrid, who loans it to very poor people. You go from the US to Kenya to see how Jane moved into a good house with help from the money you raised.
+      C: You live in Kenya and your organization loans money to poor people, like Jane. Jacky loans you money she raises in the US, and you use it to build houses that people who have some money pay to move into.
+      quiz:
+        - question: A
+          option:
+           - Ingrid
+           - Jacky
+           - Jane
+          answer: Jane
+        - question: B
+          option:
+           - Ingrid
+           - Jacky
+           - Jane
+          answer: Jacky
+        - question: C
+          option:
+           - Ingrid
+           - Jacky
+           - Jane
+          answer: Ingrid
+        - question: Ingrid loans money to Jacky.
+          answer: False
+        - question: Money from Jacky is used to build houses.
+          answer: True
+        - question: Jane doesn't pay to move into her house.
+          answer: False
+        - question: Jacky and Ingrid live in the US.
+          answer: False
+        - question: Ingrid's organization helps Jane.
+          answer: True
+        - question: Jane did good business with dresses
+          answer: True
+        - question: Jacky goes to Kenya just to meet Jane.
+          answer: False
         
-      
