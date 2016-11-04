@@ -87,5 +87,47 @@ keynote:
             - jealous
             - shoes
           answer: shoes
-
-
+indirect:
+  jigsaw:
+    0:
+      identifier: indirect questions
+      quiz:
+        - question: What kind of work is it?
+          option:
+           - Can you tell me it is what kind of work?
+           - Can you tell me what kind of work it is?
+          answer: Can you tell me what kind of work it is?
+        - question: Where are you based?
+          option:
+           - Could you tell me where you are based?
+           - Could you tell me where are you based?
+          answer: Can you tell me where you are based?
+        - question: Is it a big company?
+          option:
+           - Can you tell me is it a big company?
+           - Can you tell me if it is a big company?
+          answer: Can you tell me if it is a big company?
+        - question: What does the work involve?
+          option:
+           - I'd like to know what the work involves.
+           - Can you tell me what involves the work?
+          answer: I'd like to know what the work involves.
+        - question: How long does the interview usuall take?
+          option:
+           - Do you know how long the interview usually takes?
+           - Do you know how long does the interview usually take?
+          answer: Do you know how long the interview usually takes?
+        - question: How often do buses go to the business park?
+          option:
+           - Can you tell me how often do buses go to the business park?
+           - Can you tell me how often buses go to the business park?
+          answer: Can you tell me how often buses go to the business park?
+       
+       
+bezos:
+  jigsaw:
+    0:
+      identifier: bezos
+      A: Your house is on fire. Lex and Mark are volunteer firefighters. They come to help the real firefighters put out the fire. Lex goes in and saves your dog. The head firefighter asks Mark to get you a pair of shoes.
+      B: You are jealous because Lex gets 
+      
