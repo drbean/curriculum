@@ -317,3 +317,15 @@ lai:
       - I haven't been to Hong Kong.                               _我沒有去過香港。_
       - I have a nice view of the harbor from my apartment.        _我有海港，從我的公寓的美景。_
       - What is your favorite thing to do when you are at home?    _什麼是你最喜歡的事情時，你在家做什麼？_
+activity:
+  0:
+    flash:
+      do homework: .
+      clean your room: .
+      water a plant: .
+      watch television: .
+      call a friend: .
+      make a snack: .
+      listen to music: .
+      ride a bicycle: .
+
