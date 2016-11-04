@@ -458,8 +458,8 @@ jane:
   jigsaw:
     0:
       identifier: jane
-      A: You were very poor, but Ingrid's organization loaned you some money. With the money, you made dresses and did good business. You meet Jacky when she comes to see the houses built with the money she loans to Ingrid.
-      B: You were a banker and know how to raise money. You loan the money to Ingrid, who loans it to very poor people. You go from the US to Kenya to see how Jane moved into a good house with help from the money you raised.
+      A: You were very poor, but Ingrid's organization loaned you some money that Jacky gave her. With the money, you made dresses and did good business. You meet Jacky when she comes to see your new house, built with her money.
+      B: You were a banker and know how to raise money. You loan the money to Ingrid, who loans it to very poor people. You go from the US to Kenya to see houses built with your money, one of which Jane pays to move into.
       C: You live in Kenya and your organization loans money to poor people, like Jane. Jacky loans you money she raises in the US, and you use it to build houses that people who have some money pay to move into.
       quiz:
         - question: A
@@ -486,7 +486,7 @@ jane:
           answer: True
         - question: Jane doesn't pay to move into her house.
           answer: False
-        - question: Jacky and Ingrid live in the US.
+        - question: Ingrid lives in the US.
           answer: False
         - question: Ingrid's organization helps Jane.
           answer: True
