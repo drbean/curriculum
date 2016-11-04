@@ -128,6 +128,42 @@ bezos:
   jigsaw:
     0:
       identifier: bezos
-      A: Your house is on fire. Lex and Mark are volunteer firefighters. They come to help the real firefighters put out the fire. Lex goes in and saves your dog. The head firefighter asks Mark to get you a pair of shoes.
-      B: You are jealous because Lex gets 
+      A: Your house is on fire. Lex and Mark, the volunteer firefighters, go into the house and Lex brings out your dog. Mark gets you a pair of shoes. You thank the firefighters for their work, Mark and he realizes even small acts are important.
+      B: You are jealous because Lex gets Holly's dog from her burning house and you only get her a pair of shoes. But she thanks the firefighters for even getting her a pair of shoes and you realize
+      C: You and Mark are volunteer firefighters. You know Mark is jealous of you, but 
+      quiz:
+        - question: A
+          option:
+           - Holly
+           - Lex
+           - Mark
+          answer: Holly
+        - question: B
+          option:
+           - Holly
+           - Lex
+           - Mark
+          answer: Mark
+        - question: C
+          option:
+           - Holly
+           - Lex
+           - Mark
+          answer: Lex
+        - question: Mark gets the dog.
+          answer: False
+        - question: Holly is happier to see the shoes.
+          answer: False
+        - question: Mark is jealous of Lex.
+          answer: True
+        - question: Holly doesn't appreciate Mark's actions.
+          answer: False
+        - question: 
+          answer: 
+        - question: 
+          answer: 
+        - question: 
+          answer: 
+        
+        
       
