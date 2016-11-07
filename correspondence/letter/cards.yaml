@@ -745,7 +745,7 @@ strategy:
            - considerate
           answer: considerate
         - question: |+
-            There are grammar differences between formal and informal English (eg, "do not" vs "don't", "much/many" vs "a lot of"), which you need to be aware of. You should choose the formal in preference to the informal.
+            There are grammar differences between formal and informal English (eg, "do not" vs "don't", "much/many" vs "a lot of"), which you need to be aware of. It is a mistake to use the second of each pair in a formal letter.
           option:
            - clear
            - concise
