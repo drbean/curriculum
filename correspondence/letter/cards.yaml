@@ -623,6 +623,219 @@ strategy:
            - courteous
            - considerate
           answer: correct
+    1:
+      identifier: things (strategies) to remember with question
+      quiz:
+        - question: |+
+            Think about what you want the reader to do after reading the letter. Make that your guide to what to include and not include.
+          option:
+           - reader interest
+           - reader knowledge
+           - reader purpose
+           - reader point of view
+           - reader relationship with writer
+           - reader prefered style
+          answer: reader purpose
+        - question: |+
+            The proper salutation shows you have respect for the reader and that you are polite.
+          option:
+           - clear
+           - concise
+           - concrete
+           - correct
+           - coherent
+           - complete
+           - courteous
+           - considerate
+          answer: courteous
+        - question: |+
+            Skimmers won't read the whole email. Say what you have to say in the first paragraph.
+          option:
+           - concise
+           - concrete
+           - correct
+           - coherent
+           - complete
+           - courteous
+           - considerate
+          answer: concise
+        - question: |+
+            Think about what the reader wants. Put yourself in his/her position.
+          option:
+           - clear
+           - concise
+           - concrete
+           - correct
+           - coherent
+           - complete
+           - considerate
+          answer: considerate
+        - question: |+
+            Speak plainly. Don't confuse the reader. Adjust the amount of material to avoid him/her ignoring what you are saying.
+          option:
+           - clear
+           - correct
+           - coherent
+           - complete
+           - courteous
+           - considerate
+          answer: clear
+        - question: |+
+            Leave out words and sentences that don't help your letter do its job.
+          option:
+           - clear
+           - concise
+           - concrete
+           - correct
+           - coherent
+           - complete
+           - courteous
+           - considerate
+          answer: concise
+        - question: |+
+            Try not to make your letter unnatural and dry. Instead make it sound like you speak, friendly and warm. Use the reader's name.
+          option:
+           - reader interest
+           - reader knowledge
+           - reader purpose
+           - reader point of view
+           - reader relationship with writer
+           - reader prefered style
+          answer: reader relationship with writer
+        - question: |+
+            Stick to British or American English spelling, dates, punctuation, etc. Don't mix them.
+          option:
+           - clear
+           - concise
+           - concrete
+           - correct
+           - coherent
+           - complete
+           - courteous
+           - considerate
+          answer: correct
+        - question: |+
+            Use grammar to show attitudes. Say, "We are unable to deliver before next week," not "Delivery will not be possible before next week." Avoiding use of "we" as the subject will be taken as an attempt to escape responsibility and will not be appreciated. Thus not, "10 workers will be laid off," but "We will lay off 10 workers."
+          option:
+           - Be natural
+           - Try to use the active voice
+           - Be aware of translation problems
+           - Be careful with informal languge
+          answer: Try to use the active voice
+        - question: |+
+            Don't rely on dictionaries or translation services for accurate translations from Chinese to English. One expression in Chinese can often have a number of related, but different, meanings which require different translations into English.
+          option:
+           - concise
+           - concrete
+           - correct
+           - coherent
+           - complete
+           - courteous
+           - considerate
+          answer: correct
+        - question: |+
+            Don't write to the other person to express negative feelings which that person may have caused you to feel. Try to handle problems in a positive way.
+          option:
+           - clear
+           - concise
+           - concrete
+           - correct
+           - coherent
+           - complete
+           - considerate
+          answer: considerate
+        - question: |+
+            There are grammar differences between formal and informal English (eg, "do not" vs "don't", "much/many" vs "a lot of"), which you need to be aware of. You should choose the formal in preference to the informal.
+          option:
+           - clear
+           - concise
+           - concrete
+           - correct
+           - coherent
+           - complete
+          answer: correct
+        - question: |+
+            Recognize how you and the writer think about each other, eg your closeness, and your power differences, when you choose how formal or informal to be with him/her.
+          option:
+           - reader interest
+           - reader knowledge
+           - reader purpose
+           - reader point of view
+           - reader relationship with writer
+          answer: reader relationship with writer
+        - question: |+
+            Be careful about claims you make about the other person's actions. If they damage the relationship with the other person, are they worth making? If not, don't make them.
+          option:
+           - clear
+           - concise
+           - concrete
+           - coherent
+           - complete
+           - courteous
+          answer: courteous
+        - question: |+
+            Don't make claims of business superiority, unless you can prove them.
+          option:
+           - clear
+           - concise
+           - concrete
+           - correct
+           - coherent
+           - complete
+           - courteous
+           - considerate
+          answer: correct
+        - question: |+
+            Use lists when you have lots of information to make it easier to understand.
+          option:
+           - clear
+           - concise
+           - concrete
+           - correct
+           - complete
+           - courteous
+           - considerate
+          answer: clear
+        - question: |+
+            Don't use two words when one word will do.
+          option:
+           - clear
+           - concise
+           - concrete
+           - correct
+           - coherent
+           - complete
+           - courteous
+           - considerate
+          answer: concise
+        - question: |+
+            End the letter in a way that makes clear to the reader what they should do after they have finished reading the email.
+          option:
+           - reader interest
+           - reader knowledge
+           - reader purpose
+           - reader point of view
+           - reader relationship with writer
+           - reader prefered style
+          answer: reader purpose
+        - question: |+
+            Try to give the letter an attractive appearance.
+          option:
+           - content of the letter
+           - design of the letter
+          answer: design of the letter
+        - question: |+
+            Make sure that your font doesn't produce the Chinese version of common punctuation symbols. "。", "、", "：", and "＇" are wrong. They should be ". ", ", ", ": ", "'".
+          option:
+           - clear
+           - concise
+           - concrete
+           - correct
+           - coherent
+           - complete
+           - courteous
+           - considerate
+          answer: correct
     
     
     
