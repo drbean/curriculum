@@ -128,9 +128,9 @@ bezos:
   jigsaw:
     0:
       identifier: bezos
-      A: Your house is on fire. Lex and Mark, the volunteer firefighters, go into the house and Lex brings out your dog. Mark gets you a pair of shoes. You thank the firefighters for their work, Mark and he realizes even small acts are important.
-      B: You are jealous because Lex gets Holly's dog from her burning house and you only get her a pair of shoes. But she thanks the firefighters for even getting her a pair of shoes and you realize
-      C: You and Mark are volunteer firefighters. You know Mark is jealous of you, but 
+      A: Your house is on fire. Lex saves your dog. Mark gets you a pair of shoes. After the fire, you thank the firefighters for their hard work. You say they even got you a pair of shoes.
+      B: You are sad you didn't play an important part in the fire in Holly's house, but when she thanks the firefighters for the shoes, you realize even small acts are important.
+      C: You save Holly's dog. You know Mark is jealous. But you think what you and he did was equally important. You think small acts are important, and make a difference.
       quiz:
         - question: A
           option:
@@ -158,12 +158,12 @@ bezos:
           answer: True
         - question: Holly doesn't appreciate Mark's actions.
           answer: False
-        - question: 
-          answer: 
-        - question: 
-          answer: 
-        - question: 
-          answer: 
+        - question: Mark thought what he did wasn't important.
+          answer: True
+        - question: Lex thinks what he did was more important.
+          answer: False
+        - question: Mark realizes small acts are important.
+          answer: True
         
         
       
