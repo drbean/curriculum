@@ -221,4 +221,10 @@ Where is it easier to start a trend, Taiwan or the West?
 
 Where is it harder to start a trend, Taiwan or the West?
 
+# Meetings
+
+## Exam practice
+
+- [http://web.nuu.edu.tw/~greg/trend/jigsaw_meeting_0.pdf ](http://web.nuu.edu.tw/~greg/trend/jigsaw_meeting_0.pdf)
+- [http://web.nuu.edu.tw/~greg/trend/quiz_meeting_0.pdf ](http://web.nuu.edu.tw/~greg/trend/quiz_meeting_0.pdf)
 
