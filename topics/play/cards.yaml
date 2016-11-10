@@ -106,6 +106,13 @@ game:
       - What did they make with the rocks and animal bones?     _They made a game._
       - How did they use the rocks and bones to play?   _They threw the rocks. Then, they picked up the bones._
       - What did this playing with the rocks and bones become?  _It became the game of jacks._
+    -
+      - I won the game of jacks.      _What? No, you didn't. You cheated._
+      - Let's play the game again. _No, thanks. Let's play a different game._
+      - How many cards are there in a deck of cards? _There are fifty-two cards._
+      - The marble you found is Billy's. He was looking for it. _OK. I will give it back to him._
+      - This game is going very slowly. _Wait. I'm thinking._
+      - How do you play jacks? _First you bounce the ball, then you pick up the jacks._
 
 haunted:
   bingo:
