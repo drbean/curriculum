@@ -1,0 +1,103 @@
+---
+genre: correspondence
+formalmemo:
+  jigsaw:
+    0:
+      identifier: formal
+      quiz:
+        - question: 3 emails' formality, p 31: Neutral
+          option:
+           - First
+           - Second
+           - Third
+          answer: First
+        - question: 3 emails' formality, p31: Formal
+          option:
+           - First
+           - Second
+           - Third
+          answer: Third
+        - question: 3 emails' formality, p31: Informal
+          option:
+           - First
+           - Second
+           - Third
+          answer: Second
+indicator:
+  jigsaw:
+    0:
+      identifier: indicator
+      quiz:
+        - question: An indicator of formality
+          option:
+           - Please
+           - Can
+           - Hi
+          answer: Please
+    1:
+      identifier: indicator 1
+      quiz:
+        - question: An indicator of informality
+          option:
+           - Pat
+           - would like
+           - as a result
+          answer: Hi
+format:
+  jigsaw:
+    0:
+      identifier: format
+      quiz:
+        - question: |+
+            The sentence, "If a memo is not written on special .. "
+            The memo,
+                TO: All Staff\n
+                \n
+                FROM: Paul Smith\n
+                \n
+                SUBJECT: Appraisals
+          option:
+            - Conforming
+            - Nonconforming
+          answer: Nonconforming
+        - question: |+
+            The sentence, "If a memo is not written on special .. "
+            The memo,
+                TO:      All Staff
+                FROM:    Paul Smith
+                SUBJECT: Appraisals
+          option:
+            - Conforming
+            - Nonconforming
+          answer: Nonconforming
+list:
+  jigsaw:
+    0:
+      identifier: list
+      quiz:
+        - question: The list at the top on page 33 doesn't follow the recommendations for lists.
+          answer: False
+        - question: The unobserved recommendation is--
+          option:
+            -   1. introductory information
+            -   2. double-spacing
+            -   3. Same indentation of list items
+            -   4. indentation of following lines
+            - 5. None of the above
+          answer: 5. None of the above
+        - question: |+
+            The problem with the following list is:
+              1. introductory information
+              2. double-spacing
+              3. Same indentation of list items
+              4. indentation of following lines
+            5. None of the above
+          option:
+            -   1. introductory information
+            -   2. double-spacing
+            -   3. Same indentation of list items
+            -   4. indentation of following lines
+            - 5. None of the above
+          answer: 3. Same indentation of list items 
+        
+        
