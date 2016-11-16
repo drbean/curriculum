@@ -40,7 +40,30 @@
     How many people live on your continent? No lives in the South Pole. Ony animals, like penguins, live there. Scientists and tourists visit there, but they don't stay long. Do you want to visit Antarctica? It is the coldest, driest place on Earth.
   - Antarctica|South Pole|also|A|the|500|It|Australia|Then|Earth|Dinosaur|found|Do|Dinosaurs|of|This|it|from|About 98\%|is|The|87\%|world's|But|that|Only|inches|each|How|live|No|in|penguins|Scientists|visit|but|long|driest
 -
-  - turtle
+  - turtle-0
+  - Save the turtle
+  - "topics"
+  - "all"
+  - |+
+    M: Have you heard about the plan to save turtles in Mexico?
+    W: No. What is the story?
+    M: Turtles are in danger of becoming extinct around the world. Every year, thousands of turtles lay eggs on the beach. After the turtles lay their eggs in the sand, people come along and take them.
+    W: I suppose the people like eating turtle eggs.
+  - Have|about|turtles|Mexico|What|Turtles|of becoming|the|thousands|eggs|the|After|in|sand|and|the|turtle|Exactly|beginning|certain|There|fewer|of|There|project|Mexico|eggs|Then|become|it's|good|Is|anything|to|I'm|the Environmental Protection|might|about|to|in Mexico|They|even|Let's|the|computer|Oh|is|The|is|www.enviro.com|There's|of|Great|do|in Mexico
+-
+  - turtle-1
+  - Save the turtle
+  - "topics"
+  - "all"
+  - |+
+    M: Exactly. Turtles are beginning to stay away from certain places now. There are fewer and fewer of them left. There is a new project in Mexico to save these eggs. Then turtles will not become extinct. I think it is a very good project.
+    W: Is there anything we can do to help?
+    M: I'm going to call the Environmental Protection hotline. They might have some information about the project to help save turtles in Mexico.
+    W: They might even have a brochure. Let's find the website on my computer. Oh, here it is. The address is www.enviro.com. There's plenty of information here.
+    M: Great. Let's see what we can do to help save turtles in Mexico.
+  - Exactly|beginning|certain|There|fewer|of|There|project|Mexico|eggs|Then|become|good|Is|anything|to|I'm|the Environmental Protection|might|about|to|in Mexico|They|even|Let's|the|computer|Oh|is|The|is|www.enviro.com|There's|of|Great|do|in Mexico|end
+-
+  - turtletext
   - Save the turtle
   - "topics"
   - "all"
