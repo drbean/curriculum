@@ -30,17 +30,17 @@
 
 ## Questions
 
-## Talking about money--questions from http://iteslj.org/questions/money.html {.allowframebreaks}
+## Talking about success--questions from http://iteslj.org/questions/success.html {.allowframebreaks}
 
-- [money questions](http://iteslj.org/questions/moneys.html )
+- [success questions](http://iteslj.org/questions/successs.html )
 
 ## Talking about poverty--questions from http://iteslj.org/questions/poverty.html {.allowframebreaks}
 
 - [poverty questions](http://iteslj.org/questions/poverty.html )
 
-## Talking about money--questions from http://www.esldiscussions.com/m/money.html {.allowframebreaks}
+## Talking about success--questions from http://www.esldiscussions.com/m/success.html {.allowframebreaks}
 
-- [money questions](http://www.esldiscussions.com/m/money.html)
+- [success questions](http://www.esldiscussions.com/m/success.html)
 
 ## Talking about banks--questions from http://www.esldiscussions.com/m/banks.html {.allowframebreaks}
 
