@@ -1,0 +1,39 @@
+genre: writing
+story:
+  jigsaw:
+    0:
+      identifier: story 0
+      quiz:
+        - question: This essay is a story about a one-time event, rather than a description of a recurring situation
+          answer: True
+      
+rationale:
+  jigsaw:
+    0:
+      identifier: rationale 0
+      quiz:
+        - question: |+
+            A. We do something but do not expect, look forward or plan any effect, eg brushing teeth.
+            B. We have good luck and something happens which we are happy about, eg finding a new food taste.
+            C. We DO plan an effect, or look forward to a certain result.
+          option:
+           - A
+           - B
+           - C
+          answer: A
+imrad:
+  jigsaw:
+    0:
+      identifier: imrad 0
+      quiz:
+        - question: |+
+            Introduction
+            Method
+            Results
+            Discussion
+          option:
+           - Introduction
+           - Method
+           - Results
+           - Discussion
+          answer: Introduction
