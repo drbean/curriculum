@@ -56,6 +56,16 @@ campingtrip:
       - My nose is itchy.                                            _我的鼻子很癢。_
       - I'm sleepy. I think I'll go to bed now.                      _我困了。 我想我現在就睡覺了。_
       - Mosquitoes always bite my legs.                              _蚊子總是咬我的腿。_
+    -
+      - Mia and Ron are camping.                                          _Mia和Ron是露營。_
+      - Mia and Ron are sitting by the fire.                              _米亞和羅恩坐在火旁。_
+      - Mia and Ron are cooking marshmallows.                             _米亞和羅恩正在烹飪棉花糖。_
+      - When the marshmallows get hot and brown, Mia and Ron can eat them._當棉花糖變得熱和棕色時，Mia和Ron可以吃它們。_
+      - Mia feels itchy.                                                  _Mia覺得癢。_
+      - Mia looks at her arm.                                             _Mia看著她的手臂。_
+      - A mosquito is biting Mia!                                         _蚊子咬了Mia！_
+      - Mia tries to hit the mosquito, but it flies away.                 _米亞試圖打蚊子，但它飛走了。_
+
   0:
     flash:
       mosquito: .
