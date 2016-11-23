@@ -30,23 +30,26 @@
 
 ## Questions
 
-## Talking about success--questions from http://iteslj.org/questions/success.html {.allowframebreaks}
+## Talking about success--questions from http://www.eslconversationquestions.com/success-and-failure/ {.allowframebreaks}
 
-- [success questions](http://iteslj.org/questions/successs.html )
+- [ESL Conversation Questions - Success and Failure](http://www.eslconversationquestions.com/success-and-failure/)
 
-## Talking about poverty--questions from http://iteslj.org/questions/poverty.html {.allowframebreaks}
 
-- [poverty questions](http://iteslj.org/questions/poverty.html )
+## Talking about goals--questions from http://iteslj.org/questions/goals.html {.allowframebreaks}
 
-## Talking about success--questions from http://www.esldiscussions.com/m/success.html {.allowframebreaks}
+- [goals questions](http://iteslj.org/questions/goals.html )
 
-- [success questions](http://www.esldiscussions.com/m/success.html)
+## Talking about success--questions from http://www.esldiscussions.com/s/success.html {.allowframebreaks}
 
-## Talking about banks--questions from http://www.esldiscussions.com/m/banks.html {.allowframebreaks}
+- [success questions](http://www.esldiscussions.com/s/success.html)
 
-- [banks questions](http://www.esldiscussions.com/b/banks.html)
+## Talking about success and failure--questions from http://www.englishwithjo.com {.allowframebreaks}
 
-## Talking about poverty--questions from http://www.esldiscussions.com/m/poverty.html {.allowframebreaks}
+- [English Conversation – Success &amp; Failure « English with Jo](http://www.englishwithjo.com/english-conversation-success-failure/)
 
-- [poverty questions](http://www.esldiscussions.com/p/poverty.html)
+
+## Talking about success--Google links {.allowframebreaks}
+
+- [esl questions success - Google  ](http://www.google.com.tw/search?q=esl+questions+success&num=100)
+
 
