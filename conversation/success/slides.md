@@ -26,6 +26,26 @@
 ## Cloze 1
 
 
+according
+asked
+discipline
+eating
+got
+grades
+had
+hadn't
+later
+marshmallow
+principle
+react
+repeated
+successful
+they
+wanted
+weren't
+
+_____(1) to de Posada, the important _____(2) for success is self-_____(3) He tells about the _____(4) experiment. Children were _____(5) to wait to eat before _____(6) a marshmallow. If _____(7) waited, they _____(8) a second marshmallow. Fifteen years _____(9), all of the children who _____(10) eaten the marshmallow were _____(11). But a lot of the kids who _____(12) eaten it _____(13). They had bad _____(14) or had dropped out of school. de Posada _____(15) to know if Hispanic kids would _____(16) the same way, so he _____(17) the experiment in Colombia.
+
 # Talking about success
 
 ## Questions
