@@ -65,6 +65,13 @@ campingtrip:
       - Mia looks at her arm.                                             _Mia看著她的手臂。_
       - A mosquito is biting Mia!                                         _蚊子咬了Mia！_
       - Mia tries to hit the mosquito, but it flies away.                 _米亞試圖打蚊子，但它飛走了。_
+    -
+      - Wake up, George.                                                        _醒來，喬治。_
+      - I'm sleepy. What time is it?                                            _我困了。 幾點了？_
+      - It's seven o'clock. Let's go hiking. It's a beautiful day to go hiking. _現在是七點。 讓我們去遠足。 這是一個美好的一天去遠足。_
+      - I just want to sleep. Can we go tomorrow?                               _我只是想睡覺。 我們明天能去嗎？_
+      - No, come on. Go wash your face. I'll make breakfast.                    _不，來吧。 去洗臉。 我會做早餐。_
+      - All right.                                                              _好吧。_
 
   0:
     flash:
