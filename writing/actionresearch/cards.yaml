@@ -1,16 +1,34 @@
 genre: writing
 story:
   jigsaw:
-    0:
-      identifier: story 0
+    true:
+      identifier: story true
       quiz:
         - question: This essay is a story about a one-time event, rather than a description of a recurring situation
           answer: True
+    false:
+      identifier: story false
+      quiz:
+        - question: This essay is a story about a one-time event, rather than a description of a recurring situation
+          answer: False
+      
+goal:
+  jigsaw:
+    true:
+      identifier: goal true
+      quiz:
+        - question: This essay has a goal. It will be easy for us to decide whether the writer was successful or not, trying to do something, after we hear what happened.
+          answer: True
+    false:
+      identifier: goal false
+      quiz:
+        - question: This essay has a goal. It will be easy for us to decide whether the writer was successful or not, trying to do something, after we hear what happened.
+          answer: False
       
 rationale:
   jigsaw:
-    0:
-      identifier: rationale 0
+    A:
+      identifier: rationale A
       quiz:
         - question: |+
             A. We do something but do not expect, look forward or plan any effect, eg brushing teeth.
@@ -21,6 +39,30 @@ rationale:
            - B
            - C
           answer: A
+    B:
+      identifier: rationale B
+      quiz:
+        - question: |+
+            A. We do something but do not expect, look forward or plan any effect, eg brushing teeth.
+            B. We have good luck and something happens which we are happy about, eg finding a new food taste.
+            C. We DO plan an effect, or look forward to a certain result.
+          option:
+           - A
+           - B
+           - C
+          answer: B
+    C:
+      identifier: rationale C
+      quiz:
+        - question: |+
+            A. We do something but do not expect, look forward or plan any effect, eg brushing teeth.
+            B. We have good luck and something happens which we are happy about, eg finding a new food taste.
+            C. We DO plan an effect, or look forward to a certain result.
+          option:
+           - A
+           - B
+           - C
+          answer: C
 imrad:
   jigsaw:
     0:
