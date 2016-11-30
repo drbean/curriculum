@@ -1,0 +1,28 @@
+---
+-
+  - id
+  - description
+  - genre
+  - target
+  - content
+  - unclozeables
+  - percent
+-
+  - "friend-0"
+  - "friendship day"
+  - "topics"
+  - "all"
+  - |+
+    Friends are an important part of our lives. They help us in many ways. Do you tell your friends that you are glad they are your friends? Everyone should tell their friends that they are special.
+    Did you know that there is now a special day just for friends? This day is called International Friendship Day. The first Sunday in August was chosen to be National Friendship Day in 1935. This holiday is not as big as Christmas or New Year's Day. However, it is still a special day.
+    People are usually too busy to visit their friends often. But this day is different.
+  - Friends|part|lives|They|many|Do|tell|that|glad|your|Everyone|that|Did|that|for|This|International Friendship Day|The|Sunday|August|National Friendship Day|1935|This|not as big|Christmas|New Year's Day|However|People|too|their|often|But|On this day|to|how much|They|or send|their friends|They|their|no matter|they|People hug|spend|with|There|to show|You|not|for|Call|right now|end
+-
+  - "friend-1"
+  - "friendship day"
+  - "topics"
+  - "all"
+  - |+
+    On this day, people take time to tell their friends how much they care. They write cards or send emails to their friends. They may also call their friends, no matter how busy they are. People hug their friends or spend time with them.
+    There are many ways to show you care. You need not wait for a special day. Call your friends right now!
+  - On this day|to|how much|They|or send|their friends|They|their|no matter|they|People hug|spend|with|There|to show|You|not|for|Call|right now|end
