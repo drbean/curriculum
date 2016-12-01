@@ -1,0 +1,248 @@
+---
+grammar:
+  jigsaw:
+    0:
+      identifier: grammar
+      quiz:
+        - question: 1. Does marshmallow attracted?
+          option:
+           - Grammatical
+           - Not grammatical
+          answer: Not grammatical
+        - question: 2. Why do people like to eat marshmallows?
+          option:
+           - Grammatical
+           - Not grammatical
+          answer: Grammatical
+    1:
+      identifier: grammar
+      quiz:
+        - question: 1. Does the child happy?
+          option:
+           - Grammatical
+           - Not grammatical
+          answer: Not grammatical
+        - question: 2. Do they not make it to college?
+          option:
+           - Grammatical
+           - Not grammatical
+          answer: Grammatical
+idiom:
+  jigsaw:
+    0:
+      identifier: idiom0
+      quiz:
+        - question: do something you haven't donefor a long time
+          option:
+            - be in a hurry
+            - have a day off
+            - have an off day
+            - be on a call
+            - be out of practice
+          answer: be out of practice
+        
+        - question: have no time to do things
+          option:
+             - be in a hurry
+             - have a day off
+             - have an off day
+             - be on a call
+             - be out of practice
+          answer: be in a hurry
+        - question: have a day when you don't perform well
+          option:
+             - be in a hurry
+             - have a day off
+             - have an off day
+             - be on a call
+             - be out of practice
+          answer: have an off day
+        - question: have a one-day break from work/school
+          option:
+             - be in a hurry
+             - have a day off
+             - have an off day
+             - be on a call
+             - be out of practice
+          answer: have a day off
+        - question: be speaking to someone on the phone
+          option:
+           - be in a hurry
+           - have a day off
+           - have an off day
+           - be on a call
+           - be out of practice
+          answer: be on a call
+office:
+  jigsaw:
+    0:
+      identifier: office task 0
+      quiz:
+        - question: ____ a letter
+          option:
+           - mail
+           - post
+          answer: mail
+        - question: booking a ____
+          option:
+           - table
+          answer: table
+        - question: writing a ____
+          option:
+           - report
+          answer: report
+        - question: ____ a letter
+          option:
+           - translate
+          answer: translate
+        - question: ordering some ____
+          option:
+           - paper
+          answer: paper
+        - question: booking some ____
+          option:
+           - plane tickets
+           - tickets
+          answer: plane tickets
+reason:
+  jigsaw:
+    0:
+      identifier: nonperformance reason
+      quiz:
+        - question: 1
+          option:
+           - Did the best job I could
+           - I didn't feel right
+           - Made an independent decision
+           - Did not know priorities
+           - Was under pressure
+           - Made a quick decision
+          answer: I didn't feel right
+        - question: 2
+          option:
+           - Did the best job I could
+           - I didn't feel right
+           - Made an independent decision
+           - Did not know priorities
+           - Was under pressure
+           - Made a quick decision
+          answer: Made an independent decision
+        - question: 3
+          option:
+           - Did the best job I could
+           - I didn't feel right
+           - Made an independent decision
+           - Did not know priorities
+           - Was under pressure
+           - Made a quick decision
+          answer: Did not know priorities
+        - question: 4
+          option:
+           - Did the best job I could
+           - I didn't feel right
+           - Made an independent decision
+           - Did not know priorities
+           - Was under pressure
+           - Made a quick decision
+          answer: Did the best job I could
+        - question: 5
+          option:
+           - Did the best job I could
+           - I didn't feel right
+           - Made an independent decision
+           - Did not know priorities
+           - Was under pressure
+           - Made a quick decision
+          answer: Made a quick decision
+        - question: 6
+          option:
+           - Did the best job I could
+           - I didn't feel right
+           - Made an independent decision
+           - Did not know priorities
+           - Was under pressure
+           - Made a quick decision
+          answer: Was under pressure
+sorry:
+  jigsaw:
+    0:
+      identifier: sorry intonation
+      quiz:
+        - question: Rising
+          option:
+           - Apologizing
+           - Clarification request
+           - Refusing
+          answer: Clarification request
+        - question: Level
+          option:
+           - Apologizing
+           - Clarification request
+           - Refusing
+          answer: Refusing
+        - question: Rising and falling
+          option:
+           - Apologizing
+           - Clarification request
+           - Refusing
+          answer: Apologizing
+message:
+  jigsaw:
+    0:
+      identifier: congratulations,sympathy,explanation
+      quiz:
+        - question: 1
+          option:
+           - congratulations
+           - sympathy
+           - explanation
+          answer: sympathy
+        - question: 2
+          option:
+           - congratulations
+           - sympathy
+           - explanation
+          answer: sympathy
+        - question: 3
+          option:
+           - congratulations
+           - sympathy
+           - explanation
+          answer: explanation
+        - question: 4
+          option:
+           - congratulations
+           - sympathy
+           - explanation
+          answer: congratulations
+        - question: 5
+          option:
+           - congratulations
+           - sympathy
+           - explanation
+          answer: congratulations
+        - question: 6
+          option:
+           - congratulations
+           - sympathy
+           - explanation
+          answer: explanation
+        - question: 7
+          option:
+           - congratulations
+           - sympathy
+           - explanation
+          answer: congratulations
+        - question: 8
+          option:
+           - congratulations
+           - sympathy
+           - explanation
+          answer: explanation
+        - question: 9
+          option:
+           - congratulations
+           - sympathy
+           - explanation
+          answer: sympathy
+        
