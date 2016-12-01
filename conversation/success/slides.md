@@ -48,6 +48,21 @@ _____(1) to de Posada, the important _____(2) for success is self-_____(3) He te
 
 # Talking about success
 
+## Idioms
+
+Ask a partner, When did you ..
+
+have a day off?
+have an off day?
+
+do something in a hurry?
+
+do something you're out of practice with?
+
+And ..
+
+Being on a call when you arrive to meet someone. Is it rude?
+
 ## Questions
 
 ## Talking about success--questions from http://www.eslconversationquestions.com/success-and-failure/ {.allowframebreaks}
