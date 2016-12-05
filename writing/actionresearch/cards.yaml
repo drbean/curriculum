@@ -17,12 +17,12 @@ goal:
     true:
       identifier: goal true
       quiz:
-        - question: This essay has a goal. It will be easy for us to decide whether the writer was successful or not, trying to do something, after we hear what happened.
+        - question: This essay has a goal. It says what the goal is. So, it will be easy for us to decide whether the writer was successful or not, trying to do something, after we hear what happened.
           answer: True
     false:
       identifier: goal false
       quiz:
-        - question: This essay has a goal. It will be easy for us to decide whether the writer was successful or not, trying to do something, after we hear what happened.
+        - question: This essay has a goal. It says what the goal is. So, it will be easy for us to decide whether the writer was successful or not, trying to do something, after we hear what happened.
           answer: False
       
 rationale:
