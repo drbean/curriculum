@@ -1,0 +1,105 @@
+---
+genre: correspondence
+inquiry:
+  scramble:
+    0:
+      identifier: inquiry
+      sentence:
+        - We are writing to inquire about your 2016 promotional campaign.
+    1:
+      identifier: inquiry1
+      sentence:
+        - I am wondering if you could send me a copy of your latest catalogue.
+attach:
+  scramble:
+    0:
+      identifier: attach0
+      sentence:
+        - Please find attached the catalogue which you requested on July 16.
+    1:
+      identifier: attach1
+      sentence:
+        - Dr Bean asked me to send you this file. Please find it attached.
+    2:
+      identifier: attach2
+      sentence:
+        - Could you confirm that you have received this file before Monday?
+    3:
+      identifier: attach3
+      sentence:
+        - I am attaching our catalog to this message.
+    4:
+      identifier: attach4
+      sentence:
+        - Please find attached our latest brochure.
+    5:
+      identifier: attach5
+      sentence:
+        - I have just received the photographs which you attached to your message.
+article:
+  jigsaw:
+    0:
+      identifier: length
+      quiz:
+        - question: Why is it so long?
+          option:
+           - Restrictions on use
+           - Copied from a magazine
+           - Business invitation
+          answer: Restrictions on use
+    
+  scramble:
+    0:
+      identifier: copyright article
+      sentence:
+        - dated attached requested issue keep_in_mind permitted confirm contact
+      
+proposal:
+  scramble:
+    0:
+      identifier: cosmetic proposal again
+      sentence:
+        - I have enclosed the proposal for "Healthy Now," the skin care product which your company plans to market in Taiwan.
+        - If you like our general approach, I would be happy to discuss the details with you at your convenience.
+        - In any case, I will give you a call within a couple of days to ensure that you have received the proposal.
+        - I look forward to cooperating with you on this project.
+      
+  jigsaw:
+    0:
+      identifier: proposal para 1
+      quiz:
+        - question: Paragraph 1, sentence 1
+          option:
+           - I have enclosed the proposal for "Healthy Now," the skin care product which your company plans to market in Taiwan.
+           - I have enclosed the proposal for "Healthy Now," which is the skin care product your company plans to market in Taiwan.
+           - I have enclosed the proposal for "Healthy Now," which is the skin care product that your company plans to market in Taiwan.
+          answer: All
+    1:
+      identifier: proposal para 2
+      quiz:
+        - question: Paragraph 2, sentence 1
+          option:
+           - If you like our general approach, I would be happy to discuss the details with you at your convenience.
+          answer: All
+    2:
+      identifier: proposal para 2
+      quiz:
+        - question: Paragraph 2, sentence 2
+          option:
+           - In any case, I will give you a call within a couple of days to ensure that you have received the proposal.
+          answer: All
+    3:
+      identifier: proposal para 3
+      quiz:
+        - question: Paragraph 3
+          option:
+           - I look forward to cooperating with you on this project.
+          answer: All
+acknowledge:
+  scramble:
+    0:
+      identifier: attachment received
+      sentence:
+        - We have received your email of December 5 with the proposal for "Healthy Now." We will read it and reply before December 12.
+        - We have received your email of December 5 about the proposal for "Healthy Now," but I'm afraid there was no attachment with the message.
+        - We have received your email of December 5 about the proposal for "Healthy Now," but I'm afraid the attachment won't open on my computer. Could you send it again in a different format?
