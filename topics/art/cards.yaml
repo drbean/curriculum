@@ -303,3 +303,11 @@ karaoke:
       - Did they have new songs and were the songs in English?                     _難道他們有新的歌曲，卻是英文的歌曲？_
       - There were new and old songs in English, and other languages.              _有英文的新老歌曲，和其他語言。_
       - I think I'll go karaoke singing next weekend!                              _我想我會去卡拉OK下週末唱歌！_
+play:
+  bingo:
+    -
+      - Are you going to the school play on Saturday night? _I didn't know there was going to be a play on Saturday night._
+      - Can you guess what it is? _Oh, come on. Tell me please!_
+      - It's the Sound of Music.  _Really? I watched the Sound of Music on TV last month!_
+      - Are you sure? _Of course I'm sure. That's what Ms Martin said._
+      - Would you like to watch the play with me on Saturday night? _That would be great!_
