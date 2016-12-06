@@ -1,0 +1,82 @@
+---
+genre: correspondence
+order:
+  jigsaw:
+    0:
+      identifier: order of transaction
+      quiz:
+        - question: products
+          option:
+           - introduce
+          answer: introduce
+        - question: inquiry/request
+          option:
+           - make
+           - send
+          answer: make
+        - question: information
+          option:
+           - send
+           - give
+          answer: send
+        - question: a quotation
+          option:
+           - request for
+          answer: request for
+        - question: the quotation
+          option:
+           - send
+          answer: send
+        - question: an order
+          option:
+           - place
+          answer: place
+        - question: the order
+          option:
+           - confirm
+          answer: confirm
+        - question: the firm order
+          option:
+           - submit
+          answer: submit
+        - question: an invoice with goods
+          option:
+           - send
+          answer: send
+        - question: the payment
+          option:
+           - make
+           - send
+          answer: make
+        - question: a complaint
+          option:
+           - make
+          answer: make
+        - question: the problem
+          option:
+           - solve
+          answer: solve
+watermelon:
+  jigsaw:
+    0:
+      identifier: watermelon
+      quiz:
+        - question: How much is the watermelon?
+          option:
+           - Inquiry
+           - Order
+           - Quotation
+          answer: Inquiry
+        - question: It's 15NT per kilogram
+          option:
+           - Inquiry
+           - Order
+           - Quotation
+          answer: Quotation
+        - question: Give me this one.
+          option:
+           - Inquiry
+           - Order
+           - Quotation
+          answer: Order
+        
