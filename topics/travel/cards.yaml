@@ -72,6 +72,13 @@ campingtrip:
       - I just want to sleep. Can we go tomorrow?                               _我只是想睡覺。 我們明天能去嗎？_
       - No, come on. Go wash your face. I'll make breakfast.                    _不，來吧。 去洗臉。 我會做早餐。_
       - All right.                                                              _好吧。_
+    -
+      - Do you know what a marshmallow is?                          _你知道棉花糖是什麼嗎？_
+      - Most people think a marshmallow is just candy.              _大多數人認為棉花糖只是糖果。_
+      - The real marshmallow is a small plant.                      _真正的棉花糖是一個小植物。_
+      - For a long time, people used the plant to help sick people. _長期以來，人們用這種植物來幫助病人。_
+      - People started using the marshmallow for food.              _人們開始使用棉花糖的食物。_
+      - The candy got its name from the plant.                      _糖果從植物得到了它的名字。_
 
   0:
     flash:
