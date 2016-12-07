@@ -146,3 +146,127 @@ schifrin:
           answer: True
         - question: Bill gave Rachel a cheap ring.
           answer: True
+keyword:
+  jigsaw:
+    0:
+      identifier: marketing keywords
+      quiz:
+        - question: 1.
+          option:
+           - being connected through many digital media
+           - for a short period of time
+           - faithful, showing support for one person or organization
+           - not closed; allowing others to see what you are doing
+           - worked with
+           - kind and giving
+           - a particular name of a company or product that is well known to customers
+          answer: worked with
+        - question: 2.
+          option:
+           - being connected through many digital media
+           - for a short period of time
+           - faithful, showing support for one person or organization
+           - not closed; allowing others to see what you are doing
+           - worked with
+           - kind and giving
+           - a particular name of a company or product that is well known to customers
+          answer: faithful, showing support for one person or organization
+        - question: 3.
+          option:
+           - being connected through many digital media
+           - for a short period of time
+           - faithful, showing support for one person or organization
+           - not closed; allowing others to see what you are doing
+           - worked with
+           - kind and giving
+           - a particular name of a company or product that is well known to customers
+          answer: kind and giving
+        - question: 4.
+          option:
+           - being connected through many digital media
+           - for a short period of time
+           - faithful, showing support for one person or organization
+           - not closed; allowing others to see what you are doing
+           - worked with
+           - kind and giving
+           - a particular name of a company or product that is well known to customers
+          answer: being connected through many digital media
+        - question: 5.
+          option:
+           - being connected through many digital media
+           - for a short period of time
+           - faithful, showing support for one person or organization
+           - not closed; allowing others to see what you are doing
+           - worked with
+           - kind and giving
+           - a particular name of a company or product that is well known to customers
+          answer: not closed; allowing others to see what you are doing
+        - question: 6.
+          option:
+           - being connected through many digital media
+           - for a short period of time
+           - faithful, showing support for one person or organization
+           - not closed; allowing others to see what you are doing
+           - worked with
+           - kind and giving
+           - a particular name of a company or product that is well known to customers
+          answer: for a short period of time
+control:
+  jigsaw:
+    0:
+      identifier: control of experience
+      quiz:
+        - question: 1.
+          option:
+           - Patagonia outdoor clothing
+           - Radiohead album
+           - Semco
+           - Anthon Berg chocolates
+           - KLM airline
+           - Nextpedition travel
+          answer: Radiohead album
+        - question: 2.
+          option:
+           - Patagonia outdoor clothing
+           - Radiohead album
+           - Semco
+           - Anthon Berg chocolates
+           - KLM airline
+           - Nextpedition travel
+          answer: Anthon Berg chocolates
+        - question: 3.
+          option:
+           - Patagonia outdoor clothing
+           - Radiohead album
+           - Semco
+           - Anthon Berg chocolates
+           - KLM airline
+           - Nextpedition travel
+          answer: Patagonia outdoor clothing
+        - question: 4.
+          option:
+           - Patagonia outdoor clothing
+           - Radiohead album
+           - Semco
+           - Anthon Berg chocolates
+           - KLM airline
+           - Nextpedition travel
+          answer: Semco
+        - question: 5.
+          option:
+           - Patagonia outdoor clothing
+           - Radiohead album
+           - Semco
+           - Anthon Berg chocolates
+           - KLM airline
+           - Nextpedition travel
+          answer: Nextpedition travel
+        - question: 6.
+          option:
+           - Patagonia outdoor clothing
+           - Radiohead album
+           - Semco
+           - Anthon Berg chocolates
+           - KLM airline
+           - Nextpedition travel
+          answer: KLM airline
