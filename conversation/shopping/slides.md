@@ -30,6 +30,9 @@
 
 - [ESL Conversation Questions - Shopping](http://www.eslconversationquestions.com/shopping/)
 
+## Talking about marketing--questions from http://www.esldiscussions.com/m/marketing.html {.allowframebreaks}
+
+- [marketing questions](http://www.esldiscussions.com/m/marketing.html)
 
 ## Talking about money and shopping--questions from http://iteslj.org/questions/money.html {.allowframebreaks}
 
