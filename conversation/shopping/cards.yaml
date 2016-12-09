@@ -270,3 +270,62 @@ control:
            - KLM airline
            - Nextpedition travel
           answer: KLM airline
+    more:
+      identifier: company control--more, less?
+      quiz:
+        - question: Listen to the description of the situation
+          option:
+           - more control
+           - less control
+          answer: more control
+    less:
+      identifier: company control--more, less?
+      quiz:
+        - question: Listen to the description of the situation
+          option:
+           - more control
+           - less control
+          answer: less control
+moreorless:
+  jigsaw:
+    0:
+      identifier: control--more, less for customers, employees?
+      quiz:
+        - question: Listen to the description of the situation
+          option:
+           - more control for customers, employees
+           - less control
+          answer: more control for customers, employees
+        - question: Listen to the description of the situation
+          option:
+           - more control for customers, employees
+           - less control for customers, employees
+          answer: more control for customers, employees
+        - question: Listen to the description of the situation
+          option:
+           - more control for customers, employees
+           - less control for customers, employees
+          answer: more control for customers, employees
+        - question: Listen to the description of the situation
+          option:
+           - more control for customers, employees
+           - less control for customers, employees
+          answer: more control for customers, employees
+        - question: Listen to the description of the situation
+          option:
+           - more control for customers, employees
+           - less control for customers, employees
+          answer: less control for customers, employees
+        - question: Listen to the description of the situation
+          option:
+           - more control for customers, employees
+           - less control for customers, employees
+          answer: less control for customers, employees
+        - question: Listen to the description of the situation
+          option:
+           - more control for customers, employees
+           - less control for customers, employees
+          answer: less control for customers, employees
+
+        
+
