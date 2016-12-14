@@ -15,6 +15,10 @@
 - [Title: Marketing - Wikipedia ](https://en.wikipedia.org/wiki/Marketing)
 
 
+## Anthon Berg's generous store
+
+- [https://www.youtube.com/watch?v=_cNfX3tJonw](https://www.youtube.com/watch?v=_cNfX3tJonw)
+
 # Cloze
 
 ## Cloze 1
@@ -30,9 +34,15 @@
 
 - [ESL Conversation Questions - Shopping](http://www.eslconversationquestions.com/shopping/)
 
+## Talking about choice--questions from http://www.eslconversationquestions.com/choices/ {.allowframebreaks}
+
+- [ESL Conversation Questions - choice](http://www.eslconversationquestions.com/choices/)
+
 ## Talking about marketing--questions from http://www.esldiscussions.com/m/marketing.html {.allowframebreaks}
 
 - [marketing questions](http://www.esldiscussions.com/m/marketing.html)
+- [marketing mcdonalds restaurant children - Google ](http://www.google.com.tw/search?q=marketing+mcdonalds+restaurant+children&num=100&gws_rd=cr&ei=otBQWJXWFYfA0gSOoqGIBQ)
+
 
 ## Talking about money and shopping--questions from http://iteslj.org/questions/money.html {.allowframebreaks}
 
@@ -42,7 +52,7 @@
 
 - [shopping questions](http://www.esldiscussions.com/s/shopping.html)
 
-## Talking about success and failure--questions from http://teflpedia.com/Shopping_conversation_questions {.allowframebreaks}
+## Talking about shopping--questions from http://teflpedia.com/Shopping_conversation_questions {.allowframebreaks}
 
 - [Shopping conversation questions - Teflpedia](http://teflpedia.com/Shopping_conversation_questions)
 
