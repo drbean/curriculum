@@ -1,6 +1,7 @@
 % Writing--Action Research!
 % Dr Bean (高來圭)
-% Wed Nov 30 09:54:01 CST 2016 at URL: https://github.com/drbean/curriculum/tree/master/writing
+- [% Wed Nov 30 09:54:01 CST 2016 at URL: ](https://github.com/drbean/curriculum/tree/master/writing)
+
 
 # Trying to do something, seeing how it goes, writing about it
 
@@ -11,11 +12,15 @@
 
 # Writing notes in preparation for food experiment.
 
+## questions
+
 On page 58, write a question that if answered, Yes, will show you are successful.
 
 Write what you will do in the Method section on page 59.
 
 # My understanding of someone else's plans to do something
+
+## Procedure
 
 First:
 
@@ -37,6 +42,8 @@ How will they decide if they are successful or not?
 It doesn't matter if you didn't understand what your first partner said. In fact, it is better if you use your imagination. GIVE the first partner some ideas, GOALS, measures of SUCCESS.
 
 # Cooking Research Exam--2 100-word essays
+
+## Rubric
 
 I WANT 
 
@@ -62,4 +69,25 @@ Look at the essay results and discussion and say what you think the answers to t
 ## Grading partner's essay
 
 1-5 rubric
+
+## Role of questions
+
+- [Narratives in science education](http://web.nuu.edu.tw/~greg/actionresearch/nature_science.doc)
+
+## fodder
+
+- [fodder pictures](http://www.google.com.tw/search?q=%22fodder%22&num=100&gws_rd=ssl&tbm=isch&tbo=u&source=univ&sa=X)
+
+Say ingredients
+
+## Planned language learning action research project Week 16-17
+
+Students wrote essays at a high, abstract level--Good
+
+Doing language learning at a low, concrete level is also good.
+
+For the project, think at a high level, act at a low level--Name the words, sentences, things you are going to learn
+
+- [KISS, Keep it simple, stupid](http://en.wikipedia.org/wiki/KISS)
+
 
