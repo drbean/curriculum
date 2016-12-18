@@ -90,4 +90,79 @@ For the project, think at a high level, act at a low level--Name the words, sent
 
 - [KISS, Keep it simple, stupid](http://en.wikipedia.org/wiki/KISS)
 
+# Opinion survey homework
 
+## Language self-teaching project 
+
+Method: As in the book
+
+I asked these questions on the day class website and 3 students chose to answer. I didn't ask anyone to answer.
+
+question: What language will you choose?
+
+answers:
+
+    a. A language you are studying at MUST
+
+    b. Korean
+
+    c. Japanese
+
+question: Is this project too difficult for the last weeks of the semester?
+
+answers:
+
+    a. Yes
+
+    b. No
+
+question: What will you teach yourself?
+
+answers:
+
+    a. Words
+
+    b. Expressions
+
+    c. Something more complicated.
+
+
+Results:
+
+The 3 students were Lulu, Ethan and Nancy Good students.
+
+Include a table like this one.
+
+     Answers|A  |B  |C  |
+Questions   |   |   |   |
+------------+---+---+---+
+1 Language  | 3 | 0 | 0 |
+------------+---+---+---+
+2 Difficulty| 0 | 3 | - |
+------------+---+---+---+
+3 Content   | 0 | 3 | 0 |
+------------+---+---+---+
+
+## Charlie Parker
+
+1. Have you heard of Charlie Parker before?
+
+a. Yes
+
+b. No
+
+2. Do you like this music?
+
+a. I love it.
+
+b. So-so
+
+c. I hate it.
+
+3. How does this music make you feel?
+
+a. Nervous
+
+b. Excited
+
+c. Depressed
