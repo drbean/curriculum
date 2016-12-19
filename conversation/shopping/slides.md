@@ -10,6 +10,10 @@
 
 # Marketing
 
+## The cynical view
+
+Marketing is the attempt to get you to buy things you don't want for prices you cannot afford.
+
 ## The marketing story
 
 - [Title: Marketing - Wikipedia ](https://en.wikipedia.org/wiki/Marketing)
@@ -18,6 +22,13 @@
 ## Anthon Berg's generous store
 
 - [https://www.youtube.com/watch?v=_cNfX3tJonw](https://www.youtube.com/watch?v=_cNfX3tJonw)
+
+Talk about:
+
+1. control
+2. Anthon Berg's aim
+3. good? bad?
+4. Leberecht's interest as a marketer
 
 # Cloze
 
@@ -63,3 +74,8 @@
 - [esl questions shopping - Google  ](http://www.google.com.tw/search?q=esl+questions+shopping&num=100)
 
 
+# Homework
+
+##
+
+See <a href="http://web.nuu.edu.tw/~greg/shopping/marketing.html">http://web.nuu.edu.tw/~greg/shopping/marketing.html</a>
