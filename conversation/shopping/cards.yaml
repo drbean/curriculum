@@ -326,6 +326,47 @@ moreorless:
            - more control for customers, employees
            - less control for customers, employees
           answer: less control for customers, employees
+opinion:
+  jigsaw:
+    0:
+      identifier: opinions
+      quiz:
+        - question: restaurant
+          option:
+           - good
+           - probably good
+           - OK
+           - no opinion
+          answer: good
+        - question: shoppin
+          option:
+           - good
+           - probably good
+           - OK
+           - no opinion
+          answer: probably good
+        - question: bike
+          option:
+           - good
+           - probably good
+           - OK
+           - no opinion
+          answer: good
+        - question: restaurant
+          option:
+           - good
+           - probably good
+           - OK
+           - no opinion
+          answer: no opinion
+        - question: movie
+          option:
+           - good
+           - probably good
+           - OK
+           - no opinion
+          answer: OK
+        
 
         
 
