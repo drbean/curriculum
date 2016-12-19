@@ -1,0 +1,63 @@
+---
+genre: correspondence
+candy:
+  match:
+    0:
+      identifier: match
+      pair:
+        - 
+          - ___ and understand you ...
+          - we have recently seen your website
+        -
+          - ___ based in Taiwan ...
+          - we are an established candy manufacturer
+        -
+          - ___ is our patented "Transparent .."
+          - a candy that we are especially proud of
+        -
+          - Moreover, ___ ISO91010 ...
+          - our manufacturing process has been awarded the ...
+        -
+          - ___ some samples of our candy ..
+          - we would be delighted to send you
+        -
+          - We are confident that ___
+          - you will be impressed with
+raspberry:
+  scramble:
+    0:
+      identifier: step 1
+      sentence:
+        - From a visit to your website last week, we understand that you are a large distributor of computers in Taiwan.
+    1:
+      identifier: step 1
+      sentence:
+        - We are very keen to have our Raspberry_Pi, an educational computing device, available in stores in Taiwan.
+    2:
+      identifier: step 2
+      sentence:
+        - Our organization, the Raspberry_Pi Foundation, has developed a series of credit-card-sized computers to promote the teaching of basic computer knowledge.
+    3:
+      identifier: step 4
+      sentence:
+        - Please do not hesitate to get in touch with us.
+        - We believe there is an excellent opportunity to have every child in Taiwan owning their own computer.
+launch:
+  scramble:
+    0:
+      identifier: launch press release, step 1
+      sentence:
+        - The Raspberry Pi Foundation is pleased to announce the launch of the Raspberry_Pi_Zero, the cheapest member of the Raspberry Pi family yet.
+    1:
+      identifier: price, step 3
+      sentence:
+        - As a special introductory offer, the price of the Raspberry_Pi_Zero will be 1,400_NT per unit.
+    2:
+      identifier: call to action, step 4
+      sentence:
+        - We look forward to your inquiries about the Raspberry_Pi_Zero.
+        - More information can be found at our website, https://www.raspberrypi.com.tw/
+        - We can be contacted via email, at service@raspberrypi.com.tw
+    
+
+    
