@@ -235,6 +235,31 @@
     B: Hey! I just got a haircut to try to look more like him!
     G: Well, that explains why I don't like your new haircut!
   - No|He|looks so|But|think he's|None of|think he is|looking|all|I used|him|ago|but|I think he's|at all|Hey|got|to try to|more|him|Well|explains|don't|your new|End
+-
+  - "craft-0"
+  - "craft"
+  - "topics"
+  - "all"
+  - |+
+    G: Hi, Mom. I'm back from arts and crafts class. Look at what I'm wearing.
+    W: Well, you're wearing a blue T-shirt and jeans.
+    G: Sure, but what else am I wearing?
+    W: Oh, those earrings are very pretty! Is that what you're learning to make this week in arts and crafts class?
+    G: Yes. We're learning to make jewelry from beads this week. The beads come in different colors and shapes. First, we decide what sort of jewelry we want to make.
+  - Hi|Mom|I'm|arts and crafts|Look at|I'm|you're|a blue T-shirt|Sure|but|am I|Oh, those|are very|Is|what you're|to|this|in|arts and crafts|Yes|We're|to make|from|this|The|come|different|and|we decide|sort|of|we|to|Then|we|the|we|and string|on|wire|That|like|of|Yeah|Tom|for|his|and I|some|what|Mom|a pair of|for|too|Oh|are very|Thank you|Next|I'm|to|END
+-
+  - "craft-1"
+  - "craft"
+  - "topics"
+  - "all"
+  - |+
+    G: Then, we choose the beads we want, and string them on transparent plastic wire.
+    W: That sounds like a lot of fun!
+    G: Yeah! Tom made a bead necklace for his sister, and I made some earrings. Guess what, Mom? I made a pair of earrings for you, too!
+    W: Oh, those are very pretty! Thank you very much.
+    G: Next week, I'm going to make a necklace.
+  - Then|we|the|we|and string|on|wire|That|like|of|Yeah|Tom|for|his|and I|some|what|Mom|a pair of|for|too|Oh|are very|Thank you|Next|I'm|to|END
+
 
 
     
