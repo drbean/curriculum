@@ -65,4 +65,30 @@ newyear:
       - Adults give packets of _money_ on that holiday.
       - What do you do in the _evening_?
       - Do have _fun_ at that time.
-
+xmas:
+  0:
+    flash:
+      mountain bike             : .
+      chemistry set             : .
+      LEGO character collection : .
+      party dress               : .
+      teddy bear                : .
+      guitar                    : .
+      roller blades             : .
+      trampoline                : .
+      drum set                  : .
+      fishing rod               : .
+      puppy dog                 : .
+      smart phone               : .
+      model airplane            : .
+      radio-controlled toy car  : .
+      video game                : .
+      toy gun                   : .
+      tent                      : .
+      paint set                 : .
+      watch                     : .
+      nail polish set           : .
+      Harry Potter books        : .
+      Harry Potter movie        : .
+      sewing machine            : .
+      jewelry making set        : .
