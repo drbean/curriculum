@@ -41,7 +41,7 @@ raspberry:
       identifier: step 4
       sentence:
         - Please do not hesitate to get in touch with us.
-        - We believe there is an excellent opportunity to have every child in Taiwan owning their own computer.
+        - We believe this is an excellent opportunity to give every child in Taiwan their own computer.
 launch:
   scramble:
     0:
@@ -56,8 +56,36 @@ launch:
       identifier: call to action, step 4
       sentence:
         - We look forward to your inquiries about the Raspberry_Pi_Zero.
-        - More information can be found at our website, https://www.raspberrypi.com.tw/
+        - More information can be found at our website, https://www.raspberrypi.com.tw/.
         - We can be contacted via email, at service@raspberrypi.com.tw
-    
+step:
+  match:
+    0:
+      identifier: first contact steps
+      pair:
+        -
+          - From a visit to your website last week, we understand that you are a large distributor of computers in Taiwan.
+          - step 1a
+        -
+          - We are very keen to have our Raspberry_Pi, an educational computing device, available in stores in Taiwan.
+          - step 1b
+        -
+          - Our organization, the Raspberry_Pi Foundation, has developed a series of credit-card-sized computers to promote the teaching of basic computer knowledge.
+          - step 2
+        -
+          - Please do not hesitate to get in touch with us.
+          - step 4
+    1:
+      identifier: launch steps
+      pair:
+        -
+          - The Raspberry Pi Foundation is pleased to announce the launch of the Raspberry_Pi_Zero, the cheapest member of the Raspberry Pi family yet.
+          - step 1
+        -
+          - As a special introductory offer, the price of the Raspberry_Pi_Zero will be 1,400_NT per unit.
+          - step 3
+        -
+          - We look forward to your inquiries about the Raspberry_Pi_Zero.
+          - step 4
 
     
