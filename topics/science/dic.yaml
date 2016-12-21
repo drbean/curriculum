@@ -224,12 +224,12 @@
   - topics
   - all
   - |+
-    M: Look at this article I am reading. It says here that Microsoft make over \$36 billion in 2004.
+    M: Look at this article I am reading. It says here that Microsoft make over 36 billion dollars in 2004.
     W: Wow!
     M: I wish I was Bill Gates, the owner of Microsoft!
     W: Is it just because of the money?
     M: Of course! You can donate a lot of money to help other people. Bill Gates donates millions to charity every year. He also employs about 55,000 people in 85 different countries.
-  - Look|I am|It|Microsoft|over|$36 billion in 2004|Wow|Bill Gates|of Microsoft|Is|just|the|Of|You|to|other|Bill Gates|to|every|He|about|55,000|in 85|countries|I heard|got|in|he was|young|That's|He|programming|he|13|Really|Then|studied|Harvard University|He|Harvard|This|how|is to|Actually, Bill Gates decided|Harvard|He|an|But|not|Why|He|He|that|be|and|in|I see|decided|his|Yes|He|decision|End
+  - Look|I am|It|Microsoft|over|36 billion dollars in 2004|Wow|Bill Gates|of Microsoft|Is|just|the|Of|You|to|other|Bill Gates|to|every|He|about|55,000|in 85|countries|I heard|got|in|he was|young|That's|He|programming|he|13|Really|Then|studied|Harvard University|He|Harvard|This|how|is to|Actually, Bill Gates decided|Harvard|He|an|But|not|Why|He|He|that|be|and|in|I see|decided|his|Yes|He|decision|End
 -
   - gates-1
   - gates 1
@@ -246,6 +246,7 @@
     M: He had a dream. He dreamed that computers would be in every home and office in the world.
     W: I see! He decided to follow his dream.
     M: Yes. He made the right decision!
+  - I heard|got|in|he was|young|That's|He|programming|he|13|Really|Then|studied|Harvard University|He|Harvard|This|how|is to|Actually, Bill Gates decided|Harvard|He|an|But|not|Why|He|He|that|be|and|in|I see|decided|his|Yes|He|decision|End
 ---
 -
   - genre
