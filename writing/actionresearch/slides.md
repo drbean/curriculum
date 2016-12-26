@@ -143,7 +143,11 @@ Questions   |   |   |   |
 3 Content   | 0 | 3 | 0 |
 ------------+---+---+---+
 
-## Charlie Parker
+## Charlie Parker opinion survey
+
+https://www.youtube.com/watch?v=NcTrx0hL1ag
+
+For what to write in the 4 sections, see the example music survey, p 44,45 of the textbook.
 
 1. Have you heard of Charlie Parker before?
 
@@ -166,3 +170,5 @@ a. Nervous
 b. Excited
 
 c. Depressed
+
+d. Bored
