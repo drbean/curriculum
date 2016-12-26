@@ -88,3 +88,12 @@ dishwasher:
       - You'll have sparkling clean dishes in 45 minutes!              _你必須在45分鐘內整潔明亮的菜！_
       - That sounds easy to use. How much does it cost?                _這聽起來很容易上手。 它要多少錢？_
       - It's on sale this week for \$400.                               _它本週的售價為\$400元。_
+sale:
+  bingo:
+    -
+      - We are having a summer sale. Everything is 50 percent off the normal price. _Really? Everything?_
+      - Everything is on sale, including sunglasses, hats and bags. _I do need some new sunglasses._
+      - What is the price of these? There is no price tag on them. _There's no price tag on them because they're mine!_
+      - Where did you get these sunglasses? _Actually, I got them for 15 dollars at Super Glasses._
+      - There is a Super Glasses store in this mall, isn't there?  _Yes, but let me show you the sunglasses we have on sale._
+      - Let me show you the sunglasses we have on sale. _No, thanks. I think I'll just go to Super Glasses!_

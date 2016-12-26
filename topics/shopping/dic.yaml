@@ -87,6 +87,31 @@
     W: You're lucky, sir! It's on sale this week for \$400.
     M: Great, I'll take it!
   - and welcome|Robuck's|may|my|home|birthday|What|of|looking|sir|I think|be|gift|because|with|Oh yes|useful|here|our|model|work|First|dirty|scrape off|leftover|can|rinse|dishes|sink|glasses|cutlery|rack|Plates|bowls|face down|Then|compartment|detergent|Next|cycle|and finally|You'll|sparkling|in 45 minutes|sounds|I think|really|does|You're|It's|sale|\$400|Great|I'll
+-
+  - sale-0
+  - sale-0
+  - "topics"
+  - "all"
+  - |+
+    W: We are having a summer sale. Everything is 50 percent off the normal price.
+    M: Really? Everything?
+    W: Yes. Everything is on sale, including sunglasses, hats and bags. All the summer clothes are on sale, too.
+    M: I do need some new sunglasses. I lost mine when I went to the beach this summer. Oh, these are really nice. What is the price of these? There is no price tag on them.
+    W: Well, sir, there's no price tag on those sunglasses because they are mine!
+  - We|having a|Everything|50 percent off|normal|Really|Yes|is on|including|hats|bags|All the|are on|too|I do|some|I lost|when I|to the|this summer|Oh|these are really nice|What is the|of these|There|no|tag|them|sir|there's|on those|because|are mine|Really|to get|of|just like|Where|you|them|Actually|for 15 dollars|Super Glasses|There|Super Glasses|in|mall|there|Yes|but|me|the|we have|No|I think I'll|to Super Glasses|The End
+-
+  - sale-1
+  - sale-1
+  - "topics"
+  - "all"
+  - |+
+    M: Really? I would like to get a pair of sunglasses just like these. Where did you get them?
+    W: Actually, I got them for 15 dollars at Super Glasses.
+    M: There is a Super Glasses store in this mall, isn't there?
+    W: Yes, but let me show you the sunglasses we have on sale.
+    M: No, thanks. I think I'll just go to Super Glasses!
+  - Really|to get|of|just like|Where|you|them|Actually|for 15 dollars|Super Glasses|There|Super Glasses|in|mall|there|Yes|but|me|the|we have|No|I think I'll|to Super Glasses|The End
+
 ---
 -
   - genre
