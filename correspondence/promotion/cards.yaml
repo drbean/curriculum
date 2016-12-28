@@ -87,5 +87,57 @@ step:
         -
           - We look forward to your inquiries about the Raspberry_Pi_Zero.
           - step 4
-
-    
+backpack:
+  match:
+    0:
+      identifier: backpack match
+      pair:
+        -
+          - I would like _____ to inform you ...
+          - take this opportunity
+        -
+          - perfect for hitting the trail, or _____ around town.
+          - commuting
+        -
+          - _____ multiple storage compartments,
+          - with
+        -
+          - I _____ a brochure
+          - have attached
+        -
+          - Please feel free to contact me _____.
+          - at your convenience
+        -
+          - I _____ let you know that ...
+          - am very pleased to
+        -
+          - I _____ your business
+          - value
+        -
+          - Please do not hesitate to ____ me.
+          - get in touch with
+keyword:
+  jigsaw:
+    0:
+      identifier: existing contact, new product
+      quiz:
+        - question: Introduction to new product, what is the keyword telling you
+          option:
+            - take this opportunity
+            - to inform you of an exciting
+          answer: to inform you of an exciting
+        - question: building confidence
+          option:
+            - attached a brochure
+            - more information
+          answer: attached a brochure
+        - question: business terms
+          option:
+            - 15 percent discount
+            - feel free to contact me
+          answer: 15 percent discount
+        - question: call to action
+          option:
+            - value your business
+            - please do not hesitate to call
+          answer: please do not hesitate to call
