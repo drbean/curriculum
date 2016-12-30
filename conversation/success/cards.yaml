@@ -1,4 +1,35 @@
 ---
+marshmallow:
+  jigsaw:
+    0:
+      identifier: marshmallow
+      A: Walter tells you if you don't eat the marshmallow, he will give you another one after 15 minutes. Ernie waits for 15 minutes, but you can't wait. 18 years later, Walter checks up on how you are going, and you have dropped out of school.
+      B: You are doing an experiment to see how long kids can be patient and wait for a marshmallow. Ernie waits 15 minutes, but Harry can't wait and eats his marshmallow. 18 years later, you see Ernie is a good student and Harry has dropped out.
+      C: Walter says he will give you a second marshmallow if you wait and only eat the first one after 15 minutes. Harry can't wait, but you do wait and get a second one. After 18 years, Walter finds you are doing well at school, but Harry has left school.
+      quiz:
+        - question: A
+          option:
+            - Ernie
+            - Harry
+            - Walter
+          answer: Harry
+        - question: B
+          option:
+            - Ernie
+            - Harry
+            - Walter
+          answer: Walter
+        - question: A
+          option:
+            - Ernie
+            - Harry
+            - Walter
+          answer: Ernie
+        - question: 
+          option:
+            - 
+          answer: 
+        
 grammar:
   jigsaw:
     0:
