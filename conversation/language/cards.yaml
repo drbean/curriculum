@@ -1,0 +1,162 @@
+genre: conversation
+keyword:
+  match:
+    0:
+      identifier: science communication
+      pair:
+        -
+          - 1. relevant
+          - connected to the topic being discussed
+        -
+          - 2. jargon
+          - expressions used by a particular professional group
+        -
+          - 3. accessible
+          - easy to understand
+        -
+          - 4. an analogy
+          - a comparison that helps people to understand something
+        -
+          - 5. nerdy
+          - very knowledgeable about a technical area and with a mind fixed only on this issue
+        -
+          - 6. tackle
+          - deal with (a problem)
+marshall:
+  jigsaw:
+    0:
+      identifier: melissa marshall
+      quiz:
+        - question: her specialism is:
+          option:
+            - science
+            - communications
+          answer: communications
+        - question: she believes scientific innovation is important to:
+          option:
+            - our future
+            - our work
+          answer: our work
+        - question: she wants to help scientists explain their
+          option:
+            - ideas
+            - jobs
+          answer: ideas
+lecture:
+  jigsaw:
+    0:
+      identifier: what she said
+      quiz:
+        - question: Penn State asked her to teach
+          option:
+            - English students
+            - engineering students
+          answer: engineering students
+        - question: At first she felt
+          option:
+            - surprised
+            - scared
+          answer: scared
+        - question: When she looked into their world, she was
+          option:
+            - amazed
+            - amused
+          answer: amazed
+        - question: She wanted others to see this
+          option:
+            - wonderland
+            - dreamland
+          answer: wonderland
+        - question: The world's biggest challenges scientists try to solve include
+          option:
+            - welfare
+            - health care
+          answer: health care
+talk:
+  match:
+    0:
+      identifier: first 4 small talk exchanges
+      pair:
+        -
+          - Do you come from Spain?
+          - Yes, I do. How did you know?
+        -
+          - Is it your first time in Vienna?
+          - Yes, it is. I really like it.
+        -
+          - Can you believe this weather we're having?
+          - I know, it's amazing. A bit hot for work, though.
+        -
+          - I love the food in this hotel.
+          - Yes, it's great.
+    1:
+      identifier: 2nd 4 small talk exchanges
+      pair:
+        -
+          - I like your jacket. It's a really nice color.
+          - Thanks. I just bought it yesterday, actually.
+        -
+          - Oh, you're reading Wonder. I really enjoyed that book.
+          - Yes, I've only just started it, but I can't put it down.
+        -
+          - I find these kinds of conferences really boring.
+          - Oh--I'm sorry to hear that.
+        -
+          - Do you know anything about the political situation here?
+          - Um, no. I'm afraid I don't.
+pronunciation:
+  jigsaw:
+    0:
+      identifier: stressed workds
+      quiz:
+        - question: 1.
+          option:
+            - actually
+            - really
+            - great
+            - do
+            - so
+          answer: actually
+        - question: 2.
+          option:
+            - actually
+            - really
+            - great
+            - do
+            - so
+          answer: great
+        - question: 3.
+          option:
+            - actually
+            - really
+            - great
+            - do
+            - so
+          answer: so
+        - question: 4.
+          option:
+            - actually
+            - really
+            - great
+            - do
+            - so
+          answer: really
+        - question: 5.
+          option:
+            - actually
+            - really
+            - great
+            - do
+            - so
+          answer: do
+communication:
+  jigsaw:
+    0:
+      identifier: communication 0
+      quiz:
+        A: Danny is trying to explain his ideas, but they are too difficult and they don't seem relevant to you. You don't understand his jargon. You ask Melissa for advice and she tells Danny to make it simple and use analogies.
+        B: You don't know why Audrey can't understand your science. You ask Melissa how you can make your ideas accessible. She tells you that you have to make the ideas relevant to Audrey's life. She says use analogies and stories.
+        C: Danny asks you for advice on explaining your ideas to Audrey. You tell him to use simple words, not jargon. You say that he can use analogies with ideas Audrey understands. Then, the ideas will be accessible if he can make them relevant to her.
+        
+        
+        
