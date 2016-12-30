@@ -97,3 +97,11 @@ marathon:
       - I tried to run a marathon once.                             _我試過一次跑馬拉松。_
       - She did quite well!                                         _她做的相當不錯！_
       - She was not the fastest runner, but she was in the top 50.  _她不是跑得最快的人，但她在排名前50位。_
+summer:
+  bingo:
+    -
+      - What have you been doing? You look tired. _I stayed up late last night to watch the Olympics._
+      - We won a gold medal for men's basketball. _That's great! What about gymnastics?_
+      - What have you been doing this summer? _I've been playing baseball and taking swimming lessons._
+      - When do you usually play? _We have a game this weekend._
+      - Why don't you come and watch us play in the park? _Sure! Just let me know what time the game starts._
