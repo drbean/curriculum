@@ -172,3 +172,48 @@ b. Excited
 c. Depressed
 
 d. Bored
+
+## Homework: IMRAD essay about language exam preparation with a study buddy (100 words)
+
+5-minute activity with a study buddy: the difference between passing and failing the exam
+
+Note: the study buddy doesn't have to be the person you chose in class. Find a convenient person.
+
+### Introduction
+
+Write about 
+
+- how languages are learned and how to teach yourself
+- the coming exam and exam preparation
+- study buddies
+- the goal of your 5-minute activity
+- 2 questions you cannot answer now, but which you hope you can answer afterwards
+
+### Method
+
+Say
+
+- who your study buddy is
+- what you are going to do (what you did) for five (5) minutes
+
+### Results
+
+Say
+
+- if you can answer your questions in your introduction
+- what happened
+- if you are better prepared for the exam as a result of the activity
+- other results
+
+### Conclusion
+
+Say
+
+- what you learned from the activity about language learning/teaching, study buddies, and exam preparation
+	- talk about goals, activities, success and failure
+- what you will do in Week 17 up until the exam in Week 18
+- what you think about yourself in your identity as a language learner
+
+### Announcement 
+
+Homework: Do the 5-minute activity with a study buddy. Write up the activity as an IMRAD essay. Check the format Dr Bean wants on the site https://sac.nuu.edu.tw/cgi-bin/moodle, Week 16, at (after logging in) https://sac.nuu.edu.tw/cgi-bin/moodle/mod/assign/view.php?id=619
