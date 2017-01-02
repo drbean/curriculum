@@ -34,6 +34,13 @@ scramble:
         - I am interested in finding out more about your university
         - I would appreciated it if I could meet_with someone for an_interview
         - could you tell me where on your_website I can a price quote with a_discount
+    2:
+      identifier: internet
+      sentence:
+        - I am writing to you in the hope of finding out more about your products.
+        - I saw your advertisement for this new device in the January 2017 issue of SmartPhone_Forecast
+        - As I'm about to buy stock for the New_Year_holidays, I would appreciate a reply by January_15.
+    
 reason:
   jigsaw:
     0:
