@@ -79,3 +79,30 @@ imrad:
            - Results
            - Discussion
           answer: Introduction
+study:
+  jigsaw:
+    0:
+      identifier: talk, or real
+      quiz:
+        - question: I choose my sister to be my study buddy .  To us, we think that learning Korean from K-pop songs is more easy and faster way to learn it.  Listening the spelling in the song ,and look at the lyrics about Chinese and Korean Results- We found some problem in our learning method. 
+          option:
+            - Reporting study last week
+            - Just talking about study, but didn't do it
+          answer: Reporting study last week
+        - question: If I have five minutes, I will go to library reacher my question, because when I don't know this question, I will search the answer. To me, that is a important things. That is about my future. Learning English is my goal, because this is my subject. So I hope I can do well. The final exam is comning, so I prepare the data and review the content. 
+          option:
+            - Reporting study last week
+            - Just talking about study, but didn't do it
+          answer: Just talking about study, but didn't do it
+        - question: we think we can review words in five minute!  I don’t know to learn Korean is best to me or not but I think if I can , just do it best! And how to prepare exam I think sometimes I don’t have enough patient in study, and want to ask myself can I do ?  In this activity I learn how to prepare the exam with my study body and understand I am not alone
+          option:
+            - Reporting study last week
+            - Just talking about study, but didn't do it
+          answer: Just talking about study, but didn't do it
+        - question: First,we chose a topic for each other to write and we can change to check the essay and discuss how to fix the problem.  Second,we write our essay again that it can make a deeper impression on grammar.  Third,we chose some news and magazine to read and speak to each other to train our accent.  Results- We fix the question as a result.
+          option:
+            - Reporting study last week
+            - Just talking about study, but didn't do it
+          answer: Reporting study last week
+       
+        
