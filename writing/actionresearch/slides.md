@@ -217,3 +217,25 @@ Say
 ### Announcement 
 
 Homework: Do the 5-minute activity with a study buddy. Write up the activity as an IMRAD essay. Check the format Dr Bean wants on the site https://sac.nuu.edu.tw/cgi-bin/moodle, Week 16, at (after logging in) https://sac.nuu.edu.tw/cgi-bin/moodle/mod/assign/view.php?id=619
+
+# Exam Prep
+
+## 5 minute teaching with study buddy
+
+- Preparation mode: 10 minutes to prepare what you are going to do
+
+	- Take notes
+	- Look at the textbook
+
+- Study mode: 5 minutes to do it
+- Reporting mode: 20 minutes to write up what you did
+
+## A study plan for Week 17
+
+What language exams are you preparing for next Monday, Tuesday, and Wednesday 8-10am?
+
+Write down a study plan.
+
+Study.
+
+Bring along your study plan in Week 18.
