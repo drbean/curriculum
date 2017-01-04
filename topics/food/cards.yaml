@@ -63,3 +63,14 @@ salad:
       onions    : .
       put       : .
       forgot    : .
+  bingo:
+    -
+      - Sam is making dinner.                                     _山姆正在做晚餐。_
+      - Sam's making a salad.                                     _Sam正在做沙拉。_
+      - First, Sam cuts two tomatoes.                             _首先，山姆切兩個西紅柿。_
+      - Next, Sam cuts two carrots.                               _接下來，山姆切兩個胡蘿蔔。_
+      - Sam puts the tomatoes, cucumbers and carrots into a bowl. _山姆把西紅柿，黃瓜和胡蘿蔔放入碗裡。_
+      - Sam pours the salad dressing on.                          _山姆倒上沙拉醬。_
+      - Now, the salad's ready.                                   _現在，沙拉準備好了。_
+      - But, wait. Something isn't right.                         _可是等等。 有些事是不對的。_
+      - Oh, no! Sam forgot the lettuce.                           _不好了！ 山姆忘了生菜。_
