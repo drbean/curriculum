@@ -141,3 +141,80 @@ keyword:
             - value your business
             - please do not hesitate to call
           answer: please do not hesitate to call
+spam:
+  jigsaw:
+    0:
+      identifier: diet drug spam
+      quiz:
+        - question: para 1
+          option:
+            - step 1a. source of email address
+            - step 1b. aim of message
+            - step 2. details
+            - step 3. price, terms
+            - step 4. call to action
+          answer: step 1b. aim of message
+        - question: para 2
+          option:
+            - step 1a. source of email address
+            - step 1b. aim of message
+            - step 2. details
+            - step 3. price, terms
+            - step 4. call to action
+          answer: step 2. details
+        - question: para 3
+          option:
+            - step 1a. source of email address
+            - step 1b. aim of message
+            - step 2. details
+            - step 3. price, terms
+            - step 4. call to action
+          answer: step 2. details
+        - question: para 4
+          option:
+            - step 1a. source of email address
+            - step 1b. aim of message
+            - step 2. details
+            - step 3. price, terms
+            - step 4. call to action
+          answer: step 4. call to action
+confusion:
+  jigsaw:
+    0:
+      identifier: inquiry, promotion?
+      quiz:
+        - question: |+
+             Girl Loves
+             511 Shinlin Road
+             Taipei  312 Taiwan R.O.C
+             Tel:886-03-737-3262
+             www.girlloves@lovesnet.com.tw
+              January 1,2017
+              Sales Manager
+              Best Loves Supplies
+              15 Eastern Boulevard
+              Apple, Minim 33302
+              Dear Sales Manager:
+              I want to buy some beautiful clothes.Could you give some good advices?
+              I look forward to hearing from you.
+              Yours faithfully,
+              Jenny Chen
+          option:
+            - promotion (introducing product)
+            - inquiry
+          answer: inquiry
+        - question: |+
+            Acme device cooperation
+            No.20, Tongren Ln., Chenggong Rd.
+            Miaoli City, Miaoli County 36047
+            Taiwan (R.O.C.)
+            2017/01/02
+            Dear Professor Tony,
+            Thank you for your company help we producting the components of cellphone . This time we want to cooperator with your company about the VR devices . May I take this opportunity to introduct our company's factor and discuss the relative cooperation detail. If you are interesting please  reply me  email. Thank you.
+            Best wishes,
+            Cheng Chou.
+          option:
+             - promotion (introducing product)
+             - inquiry
+          answer: promotion (introducing product)
+        
