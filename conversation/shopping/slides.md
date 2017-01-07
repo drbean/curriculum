@@ -21,7 +21,7 @@ Marketing is the attempt to get you to buy things you don't want for prices you 
 
 ## Anthon Berg's generous store
 
-- [https://www.youtube.com/watch?v=_cNfX3tJonw](https://www.youtube.com/watch?v=_cNfX3tJonw)
+- [https://www.youtube.com/watch?v=_cNfX3tJonw](https://www.youtube.com/watch?v=_cNfX3tJonw) _
 
 Talk about:
 
@@ -34,6 +34,24 @@ Talk about:
 
 ## Cloze 1
 
+
+control
+don't
+families
+gave
+help
+know
+letting
+making
+marketers
+more
+much
+or
+schedules
+with
+would
+
+Tim says marketers _____(1) have control over their products. Shoppers have _____(2) control. He says _____(3) can give shoppers more _____(4). Anthon Berg _____(5) chocolate to customers if they _____(6) promise to be generous to their _____(7). Companies can give _____(8) control to their employees, _____(9) them set their work _____(10). _____(11) they can give them less control, _____(12) them have conversations _____(13) older or newer employees to _____(14) them get to _____(15) each other.
 
 # Talking about shopping
 
