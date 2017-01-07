@@ -157,6 +157,26 @@ communication:
         A: Danny is trying to explain his ideas, but they are too difficult and they don't seem relevant to you. You don't understand his jargon. You ask Melissa for advice and she tells Danny to make it simple and use analogies.
         B: You don't know why Audrey can't understand your science. You ask Melissa how you can make your ideas accessible. She tells you that you have to make the ideas relevant to Audrey's life. She says use analogies and stories.
         C: Danny asks you for advice on explaining your ideas to Audrey. You tell him to use simple words, not jargon. You say that he can use analogies with ideas Audrey understands. Then, the ideas will be accessible if he can make them relevant to her.
-        
-        
-        
+role:
+  jigsaw:
+    0:
+      identifier: science communication roles
+      quiz:
+        - question: the scientist
+          option:
+            - Audrey
+            - Danny
+            - Melissa
+          answer: Danny
+        - question: the ordinary person
+          option:
+            - Audrey
+            - Danny
+            - Melissa
+          answer: Audrey
+        - question: the communication specialist
+          option:
+            - Audrey
+            - Danny
+            - Melissa
+          answer: Melissa
