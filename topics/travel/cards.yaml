@@ -94,6 +94,13 @@ campingtrip:
 agent:
   bingo:
     -  trip_to_China  how_long stay four_or_five_days package_tour four_days_and_three_nights fly directly Beijing tour_guide airport take hotel sightseeing famous landmarks Summer_Palace Forbidden_City Great_Wall_of_China sounds_great what_sort transport tour_group book trip sure
+    -
+      - I want to go on a trip to China. _We have a very good package tour to China._
+      - How long do you want to stay? _Four or five days._
+      - We have a package tour that is for four days and three nights. _OK. What can you tell me about it?_
+      - Will we do a lot of sightseeing? _You will see many famous landmarks, like the Summer Palace, the Forbidden City and the Great Wall of China. (頤和園，故宮和中國長城)_
+      - What sort of transport will we use to get from one place to another? _You will take a bus with your tour group._
+      - Can I book this package tour now? _Sure!_
 supplies:
   bingo:
     -
