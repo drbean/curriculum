@@ -366,6 +366,30 @@ opinion:
            - OK
            - no opinion
           answer: OK
+role:
+  jigsaw:
+    0:
+      identifier: shopping roles
+      quiz:
+        - question: the company giving more control
+          option:
+            - Anthon Berg
+            - Frog
+            - Tim
+          answer: Anthon Berg
+        - question: the company giving less control
+          option:
+            - Anthon Berg
+            - Frog
+            - Tim
+          answer: Frog
+        - question: the marketer
+          option:
+            - Anthon Berg
+            - Frog
+            - Tim
+          answer: Tim
+        
 marketing:
   jigsaw:
     0:
