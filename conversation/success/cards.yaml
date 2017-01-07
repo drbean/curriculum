@@ -29,7 +29,29 @@ marshmallow:
           option:
             - 
           answer: 
-        
+role:
+  jigsaw:
+    0:
+      identifier: marshmallow roles
+      quiz:
+        - question: the experimenter
+          option:
+            - Ernie
+            - Harry
+            - Walter
+          answer: Walter
+        - question: the child who ate the marshmallow
+          option:
+            - Ernie
+            - Harry
+            - Walter
+          answer: Harry
+        - question: the child who didn't eat the marshmallow
+          option:
+            - Ernie
+            - Harry
+            - Walter
+          answer: Ernie
 grammar:
   jigsaw:
     0:
