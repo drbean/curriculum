@@ -2,7 +2,7 @@ genre: writing
 implemented:
   jigsaw:
     0:
-      identifier: talk, or real
+      identifier: talk, or real, 241
       quiz:
         - question: I choose my sister to be my study buddy .  To us, we think that learning Korean from K-pop songs is more easy and faster way to learn it.  Listening the spelling in the song ,and look at the lyrics about Chinese and Korean Results- We found some problem in our learning method. 
           option:
@@ -24,5 +24,31 @@ implemented:
             - Reporting study last week
             - Just talking about study, but didn't do it
           answer: Reporting study last week
-       
-        
+    1:
+      identifier: talk or real, KB1
+      quiz:
+        - question: My study buddy is my younger brother. I choose him because he is always smart than me. Then,I want to make a learning schedule for a month. Like, reading English novels, seeing the western movies, try to write down the word when I watching the TED video, write a dairy for everyday.
+          option:
+            - Reporting study last week
+            - Just talking about study, but didn't do it
+          answer: Just talking about study, but didn't do it
+        - question: My study buddy is Sally, Our study plan is got all the key point of Japanese.  Remember these key point on the notebook.
+          option:
+             - Reporting study last week
+             - Just talking about study, but didn't do it
+          answer: Just talking about study, but didn't do it
+        - question: My study buddy is Siouwei. and we going to review the keypoint that teacher gave on class by repeat it again and again. Moreover, we need to be calm, because let you brain thinking clearly is really important.
+          option:
+             - Reporting study last week
+             - Just talking about study, but didn't do it
+          answer: Just talking about study, but didn't do it
+        - question: I will go find some videos in the Net and repeat again and again and find the classmates to practice with them and talk to them.
+          option:
+             - Reporting study last week
+             - Just talking about study, but didn't do it
+          answer: Just talking about study, but didn't do it
+        - question: My study buddy is my sister.  My sister told me about her experience in five minutes.  Let me understand where the key points of learning easy to confuse, so I can better remember.
+          option:
+             - Reporting study last week
+             - Just talking about study, but didn't do it
+          answer: Reporting study last week
