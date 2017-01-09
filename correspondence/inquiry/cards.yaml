@@ -24,8 +24,8 @@ club:
   drag:
     0:
       identifier: women's clubs
-      sentence: Dear Sir or Madam, <p> I am writing to inquire about women's golf clubs. I saw your advertisement in the January issue of Women's Golf, and am interested in the clubs you featured there. I have a number of golf stores in Taiwan, where women's golf is seeing an explosion in popularity, and am interested in stocking a number of your irons and woods, because sources for golf equipment for women are hard to find. <p> Could you please send me your catalogue, with prices and terms. I would appreciate receiving it by January 21, as my stocks are running low. <p> I look forward to hearing from you.
-      clozed: Madam|inquire|clubs|advertisement|issue|interested|featured|stores|popularity|interested|sources|please|catalogue|prices|appreciate|low|hearing
+      sentence: Dear Sir or Madam, <p> I am writing to inquire about women's golf clubs. I saw your advertisement in the January issue of Women's Golf, and am interested in the clubs you featured there. I have a number of golf stores in Taiwan, where women's golf is seeing an explosion in popularity, and I wish to stock a number of your irons and woods, because sources for golf equipment for women are hard to find. <p> Could you please send me your catalogue, with prices and terms. I would appreciate receiving it by January 21, as my stocks are running low. <p> I look forward to hearing from you.
+      clozed: Madam|inquire|clubs|advertisement|issue|interested|featured|stores|popularity|wish|sources|please|catalogue|prices|appreciate|low|hearing
   
 scramble:
   scramble:
@@ -100,4 +100,58 @@ survey:
       sentence: Dear Alumnus, <p> The College of Business is currently conducting a survey which we hope will help in increasing the quality of our courses. We hope to identify the strengths and weaknesses so we can create the best environment possible for our business students. <p> answering the enclosed survey will help us do this, by identifying the progress our graduates have made in their careers. Our students would also be_helped by having an idea of the salaries they can expect. <p> We promise that all information received will only be released in summary statistics. <p> We are eagerly awaiting your reply and would appreciate it arriving before January 31. For your convenience, we are also including a stamped/addressed envelope.
       
       clozed: Alumnus|conducting|help|increasing|best|business|answering|careers|be_helped|promise|eagerly|appreciate|convenience|stamped/addressed
-  
+step:
+  jigsaw:
+    0:
+      identifier: elaine's candy inquiry steps
+      quiz:
+        - question: |+
+           **I have recently seen your advertisement of candies for the Chinese New Year and learned that you are the largest distributor in Canada.**
+           I am a sales manager from ABC Candy Company. Our company is a retailers of candies and we are going to sell some candies around the coming Chinese New Year festival.
+           I want to inquire the price of the candies which is on your advertisement and the numbers are 27, 58, 96, 102. And how can I get discount for the price?
+           Please contact me after you read this letter. Our company looks forward to working work with you.
+          option:
+            - 1a. Where you heard about the reader's company
+            - 1b. Some information about the writer's company
+            - 2. the actual request/inquiry
+            - 3. specific/extra details
+            - 4. close expressing confidence the request will be answered.
+          answer: 1a. Where you heard about the reader's company
+        - question: |+
+           I have recently seen your advertisement of candies for the Chinese New Year and learned that you are the largest distributor in Canada.
+           **I am a sales manager from ABC Candy Company. Our company is a retailers of candies and we are going to sell some candies around the coming Chinese New Year festival.**
+           I want to inquire the price of the candies which is on your advertisement and the numbers are 27, 58, 96, 102. And how can I get discount for the price?
+           Please contact me after you read this letter. Our company looks forward to working work with you.
+          option:
+            - 1a. Where you heard about the reader's company
+            - 1b. Some information about the writer's company
+            - 2. the actual request/inquiry
+            - 3. specific/extra details
+            - 4. close expressing confidence the request will be answered.
+          answer: 1b. Some information about the writer's company
+        - question: |+
+           I have recently seen your advertisement of candies for the Chinese New Year and learned that you are the largest distributor in Canada.
+           I am a sales manager from ABC Candy Company. Our company is a retailers of candies and we are going to sell some candies around the coming Chinese New Year festival.
+           **I want to inquire the price of the candies which is on your advertisement and the numbers are 27, 58, 96, 102. And how can I get discount for the price?**
+           Please contact me after you read this letter. Our company looks forward to working work with you.
+          option:
+            - 1a. Where you heard about the reader's company
+            - 1b. Some information about the writer's company
+            - 2. the actual request/inquiry
+            - 3. specific/extra details
+            - 4. close expressing confidence the request will be answered.
+          answer: 2. the actual request/inquiry
+        - question: |+
+           I have recently seen your advertisement of candies for the Chinese New Year and learned that you are the largest distributor in Canada.
+           I am a sales manager from ABC Candy Company. Our company is a retailers of candies and we are going to sell some candies around the coming Chinese New Year festival.
+           I want to inquire the price of the candies which is on your advertisement and the numbers are 27, 58, 96, 102. And how can I get discount for the price?
+           **Please contact me after you read this letter. Our company really looks forward to working with you.**
+          option:
+            - 1a. Where you heard about the reader's company
+            - 1b. Some information about the writer's company
+            - 2. the actual request/inquiry
+            - 3. specific/extra details
+            - 4. close expressing confidence the request will be answered.
+          answer: 4. close expressing confidence the request will be answered.
+          
+
