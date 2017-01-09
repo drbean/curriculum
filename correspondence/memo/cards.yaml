@@ -23,6 +23,59 @@ formalmemo:
            - Second
            - Third
           answer: Second
+    1:
+      identifier: formality adjusted
+      quiz:
+        - question: |+
+            To: All members of staff
+            From: Arnel Ranjit
+            Date: 10 January
+            Subject: ISO visit
+            \n
+            Dear Staff,
+            \n
+            As you well know, ISO inspectors are visiting next week for the annual ISO inspection.
+            On this occasion, the company respectfully requests that all staff be as helpful as possible to ensure it maintains its ISO certification. In particular, I would like to ask you to dress appropriately in suit and tie.
+            \n
+            Yours faithfully,
+            Arnel Ranjit,
+            Quality Control Director
+          option:
+            - Informal
+            - Neutral
+            - Formal
+          answer: Formal
+        - question: |+
+            To: Elisa Johns
+            From: Paula Andrews
+            Date: 9 January 2017
+            Subject: Printing file
+            \n
+            Dear Elisa,
+            I need to make a few alterations to the designs before I send them to the printers. But the file you sent me doesn't open on my computer. Can you email it to me again.
+          option:
+            - Informal
+            - Neutral
+            - Formal
+          answer: Neutral
+        - question: |+
+            To: Jane
+            From: Jack
+            Subject: Transfer
+            \n
+            Hi Jane,
+            Can I get a transfer to the Oxford branch? My wife has gotten a new job there, and we're going to move there next month.
+            \n
+            Thanks,
+            Jack
+          option:
+            - Informal
+            - Neutral
+            - Formal
+          answer: 
+        
+        
+        
 indicator:
   jigsaw:
     0:
