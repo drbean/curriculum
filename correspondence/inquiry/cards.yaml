@@ -20,6 +20,13 @@ golfer:
         -
           - I look forward ..
           - 4
+club:
+  drag:
+    0:
+      identifier: women's clubs
+      sentence: Dear Sir or Madam, <p> I am writing to inquire about women's golf clubs. I saw your advertisement in the January issue of Women's Golf, and am interested in the clubs you featured there. I have a number of golf stores in Taiwan, where women's golf is seeing an explosion in popularity, and am interested in stocking a number of your irons and woods, because sources for golf equipment for women are hard to find. <p> Could you please send me your catalogue, with prices and terms. I would appreciate receiving it by January 21, as my stocks are running low. <p> I look forward to hearing from you.
+      clozed: Madam|inquire|clubs|advertisement|issue|interested|featured|stores|popularity|interested|sources|please|catalogue|prices|appreciate|low|hearing
+  
 scramble:
   scramble:
     0:
@@ -86,3 +93,11 @@ reason:
             - D
             - E
           answer: C
+survey:
+  drag:
+    0:
+      identifier: asu survey
+      sentence: Dear Alumnus, <p> The College of Business is currently conducting a survey which we hope will help in increasing the quality of our courses. We hope to identify the strengths and weaknesses so we can create the best environment possible for our business students. <p> answering the enclosed survey will help us do this, by identifying the progress our graduates have made in their careers. Our students would also be_helped by having an idea of the salaries they can expect. <p> We promise that all information received will only be released in summary statistics. <p> We are eagerly awaiting your reply and would appreciate it arriving before January 31. For your convenience, we are also including a stamped/addressed envelope.
+      
+      clozed: Alumnus|conducting|help|increasing|best|business|answering|careers|be_helped|promise|eagerly|appreciate|convenience|stamped/addressed
+  
