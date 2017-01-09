@@ -58,6 +58,17 @@ launch:
         - We look forward to your inquiries about the Raspberry_Pi_Zero.
         - More information can be found at our website, https://www.raspberrypi.com.tw/.
         - We can be contacted via email, at service@raspberrypi.com.tw
+kendall:
+  scramble:
+    0:
+      identifier: kendall's covent garden soup
+      sentence:
+        - We are an up-and-coming business, making fresh soups in a paper container.
+        - Our soups are stocked by major supermarkets all over Taiwan.
+        - Our selling-point is the taste, which is unrivaled by canned soups.
+        - Our range of soups is constantly changing, depending on the season and the popularity of each soup.
+
+    
 step:
   match:
     0:
@@ -87,6 +98,110 @@ step:
         -
           - We look forward to your inquiries about the Raspberry_Pi_Zero.
           - step 4
+  jigsaw:
+    0:
+      identifier: diet drink and promotion steps
+      quiz:
+        - question: |+
+            From: Health News <contact@haroldewt.date>,
+            Subject: This made me lose 140lbs last month
+            \n
+            ** Within 5 weeks - You Will Lose Fifty Pounds **
+            \n
+            You will need to purchase a whole new wardrobe. Question is--how fast will you lose the 50 lbs?
+            \n
+            These steps will literally stun you - beyond your wildest imagination.
+            \n
+            You ready to get going? Proceed Here--http://haroldewt.date/WmwZZmCGgDwvWYrx5v4Lcuna4vgbOiEthdjJDLZ7elwM
+            \n
+            Your body transformation will shock your friends and family.
+          option:
+            - step 1a. source of reader's email address
+            - step 1b. aim of message
+            - step 2. description of the diet drink company
+            - step 3. selling points of the diet drink
+            - step 4. call to action
+          answer: step 3. selling points of the diet drink
+        - question: |+
+            From: Health News <contact@haroldewt.date>,
+            Subject: This made me lose 140lbs last month
+            \n
+            Within 5 weeks - You Will Lose Fifty Pounds
+            \n
+            ** You will need to purchase a whole new wardrobe. Question is--how fast will you lose the 50 lbs? **
+            \n
+            These steps will literally stun you - beyond your wildest imagination.
+            \n
+            You ready to get going? Proceed Here--http://haroldewt.date/WmwZZmCGgDwvWYrx5v4Lcuna4vgbOiEthdjJDLZ7elwM
+            \n
+            Your body transformation will shock your friends and family.
+          option:
+            - step 1a. source of reader's email address
+            - step 1b. aim of message
+            - step 2. description of the diet drink company
+            - step 3. selling points of the diet drink
+            - step 4. call to action
+          answer: step 3. selling points of the diet drink
+        - question: |+
+            From: Health News <contact@haroldewt.date>,
+            Subject: This made me lose 140lbs last month
+            \n
+            Within 5 weeks - You Will Lose Fifty Pounds
+            \n
+            You will need to purchase a whole new wardrobe. Question is--how fast will you lose the 50 lbs?
+            \n
+            ** These steps will literally stun you - beyond your wildest imagination. **
+            \n
+            You ready to get going? Proceed Here--http://haroldewt.date/WmwZZmCGgDwvWYrx5v4Lcuna4vgbOiEthdjJDLZ7elwM
+            \n
+            Your body transformation will shock your friends and family.
+          option:
+            - step 1a. source of reader's email address
+            - step 1b. aim of message
+            - step 2. description of the diet drink company
+            - step 3. selling points of the diet drink
+            - step 4. call to action
+          answer: step 3. selling points of the diet drink
+        - question: |+
+            From: Health News <contact@haroldewt.date>,
+            Subject: This made me lose 140lbs last month
+            \n
+            Within 5 weeks - You Will Lose Fifty Pounds
+            \n
+            You will need to purchase a whole new wardrobe. Question is--how fast will you lose the 50 lbs?
+            \n
+            These steps will literally stun you - beyond your wildest imagination.
+            \n
+            ** You ready to get going? Proceed Here--http://haroldewt.date/WmwZZmCGgDwvWYrx5v4Lcuna4vgbOiEthdjJDLZ7elwM **
+            \n
+            Your body transformation will shock your friends and family.
+          option:
+            - step 1a. source of reader's email address
+            - step 1b. aim of message
+            - step 2. description of the diet drink company
+            - step 3. selling points of the diet drink
+            - step 4. call to action
+          answer: step 4. call to action
+        - question: |+
+            From: Health News <contact@haroldewt.date>,
+            Subject: This made me lose 140lbs last month
+            \n
+            Within 5 weeks - You Will Lose Fifty Pounds
+            \n
+            You will need to purchase a whole new wardrobe. Question is--how fast will you lose the 50 lbs?
+            \n
+            These steps will literally stun you - beyond your wildest imagination.
+            \n
+            You ready to get going? Proceed Here--http://haroldewt.date/WmwZZmCGgDwvWYrx5v4Lcuna4vgbOiEthdjJDLZ7elwM
+            \n
+            ** Your body transformation will shock your friends and family. **
+          option:
+            - step 1a. source of reader's email address
+            - step 1b. aim of message
+            - step 2. description of the diet drink company
+            - step 3. selling points of the diet drink
+            - step 4. call to action
+          answer: step 3. selling points of the diet drink
 backpack:
   match:
     0:
