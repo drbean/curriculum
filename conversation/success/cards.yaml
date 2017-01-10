@@ -25,10 +25,20 @@ marshmallow:
             - Harry
             - Walter
           answer: Ernie
-        - question: 
-          option:
-            - 
-          answer: 
+        - question: Walter does the experiment on Ernie and Harry.
+          answer: True
+        - question: Walter wants to see how many marshmallows Ernie and Harry can eat.
+          answer: False
+        - question: Harry eats 2 marshmallows and Ernie eats one.
+          answer: False
+        - question: 18 years later, Walter checks whether Harry still eats more.
+          answer: False
+        - question: 18 years later, Ernie is more successful than Harry.
+          answer: True
+        - question: Walter can't see why Ernie is more successful.
+          answer: False
+        - question: Harry had fun now but Ernie put off fun for later.
+          answer: True
 role:
   jigsaw:
     0:
