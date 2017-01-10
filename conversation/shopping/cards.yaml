@@ -398,6 +398,11 @@ marketing:
       B: You employ many people. Old and new employees have to meet one-on-one to get to know each other. Tim says this gives them less control, but it produces more social interaction. However, you like Anthon Berg's idea of more control for customers, too.
       C: You are a marketer interested in control. Your example of more control for customers is Anthon Berg's action giving away chocolate in return for generosity to family. Frog's making new and old employees meet is an example of less control.
       quiz:
+        - question: Tim says Anthon Berg gave more control and Frog gave less control.
+          answer: True
+        - question: Anthon Berg doesn't like Frog because it didn't allow employees a choice.
+          answer: False
+        
 
         
 
