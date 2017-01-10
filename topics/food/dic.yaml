@@ -1,0 +1,32 @@
+---
+-
+  - id
+  - description
+  - genre
+  - target
+  - content
+  - unclozeables
+  - percent
+-
+  - "salad-0"
+  - "salad"
+  - "topics"
+  - "all"
+  - |+
+    Sam is making dinner.  He's making a salad.
+    First, he cuts two tomatoes. Then, he cuts two cucumbers. Next, he cuts two carrots. He puts them into a bowl. He pours the salad dressing on. Now, it's ready.
+    But, wait. Something isn't right. What is it? Oh, no! Sam forgot the lettuce.
+  - Sam|Sam|End
+-
+  - "salad-1"
+  - "salad"
+  - "topics"
+  - "all"
+  - |+
+    B: Oh, good. You're home. Did you get carrots and onions at the store?
+    G: Yes, but I didn't get tomatoes. They didn't have any.
+    B: That's OK. What about the lettuce?
+    G: Oh, no! I forgot it!
+    B: No lettuce? Well, we can't make a salad now.
+    G: Let's make something else for dinner.
+  - End
