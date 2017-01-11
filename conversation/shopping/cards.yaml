@@ -398,6 +398,24 @@ marketing:
       B: You employ many people. Old and new employees have to meet one-on-one to get to know each other. Tim says this gives them less control, but it produces more social interaction. However, you like Anthon Berg's idea of more control for customers, too.
       C: You are interested in control. You like Anthon Berg because it gave more control for customers. It gave away chocolate in return for generosity to family. But less control is good at Frog. There, new and old employees have to meet.
       quiz:
+        - question: A
+          option:
+            - Anthon Berg
+            - Frog
+            - Tim
+          answer: Anthon Berg
+        - question: B
+          option:
+            - Anthon Berg
+            - Frog
+            - Tim
+          answer: Frog
+        - question: C
+          option:
+            - Anthon Berg
+            - Frog
+            - Tim
+          answer: Tim
         - question: Anthon Berg asked customers to pay money AND promise to be generous.
           answer: False
         - question: Frog made employees talk to people they might not have known before.
@@ -408,3 +426,8 @@ marketing:
           answer: False
         - question: Tim thinks Frog shouldn't make employees meet, if they don't want to.
           answer: False
+        - question: Frog likes Anthon Berg's idea of more control for customers.
+          answer: True
+        - question: Frog's aim was to stop employees getting to know each other.
+          answer: False
+        
