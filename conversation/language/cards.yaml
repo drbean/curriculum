@@ -153,10 +153,42 @@ communication:
   jigsaw:
     0:
       identifier: communication 0
+      A: Danny asks you for advice on explaining his ideas to Audrey. You tell him to use simple words, not jargon. You say that he can use analogies with ideas Audrey understands. Then, the ideas will be accessible if he can make them relevant to her.
+      B: You don't know why Audrey can't understand your science. You ask Melissa how you can make your ideas accessible. She tells you that you have to make the ideas relevant to Audrey's life. She says use analogies and stories.
+      C: Danny is trying to explain his ideas, but they are too difficult and they don't seem relevant to you. You don't understand his jargon. You ask Melissa for advice and she tells Danny to make it simple and use analogies.
       quiz:
-        A: Danny is trying to explain his ideas, but they are too difficult and they don't seem relevant to you. You don't understand his jargon. You ask Melissa for advice and she tells Danny to make it simple and use analogies.
-        B: You don't know why Audrey can't understand your science. You ask Melissa how you can make your ideas accessible. She tells you that you have to make the ideas relevant to Audrey's life. She says use analogies and stories.
-        C: Danny asks you for advice on explaining your ideas to Audrey. You tell him to use simple words, not jargon. You say that he can use analogies with ideas Audrey understands. Then, the ideas will be accessible if he can make them relevant to her.
+        - question: A
+          option:
+            - Audrey
+            - Danny
+            - Melissa
+          answer: Melissa
+        - question: B
+          option:
+            - Audrey
+            - Danny
+            - Melissa
+          answer: Danny
+        - question: C
+          option:
+            - Audrey
+            - Danny
+            - Melissa
+          answer: Audrey
+        - question: Danny understands why Audrey doesn't understand.
+          answer: False
+        - question: Audrey asks Danny to explain his ideas more simply.
+          answer: False
+        - question: A lack of relevance is a reason Danny's ideas are inaccessible.
+          answer: True
+        - question: Melissa advises Danny to use jargon, not simple words.
+          answer: False
+        - question: Analogies can show Danny's ideas are similar to things Audrey knows.
+          answer: True
+        - question: If the ideas are simple and relevant, they can be accessible.
+          answer: True
+        - question: Melissa says Danny shouldn't use stories.
+          answer: False
 role:
   jigsaw:
     0:
