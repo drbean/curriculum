@@ -172,3 +172,16 @@ b. Excited
 c. Depressed
 
 d. Bored
+
+## Genre opinion survey IMRAD report
+
+Choose a topic, eg food, music, language, schools, countries. Think of 3 questions (with 3 answers) about different genres that can be used to talk about that topic. Eg, if countries, not Taiwan and the US, but East Asian countries and Western countries.
+
+Write an IMRAD report about your topic. Look at Chapter 10, p 44 for an example of what to say in the 4 sections.
+
+The 3-5 people in the same row as you will answer your questionnaire. Each person has 5 questionnaires to answer, and you only have 30 minutes to use your smartphone to write questions and answer them.
+
+- YanZeng Angela Kevin Tiffany Debby EnChiao
+- Barry Peggy Michelle Katie KuanChung Sunny
+- CheYuan Eros YuChing Ethan LuLu Nancy
+- Amber David Milly Nathan Sally Winnie
