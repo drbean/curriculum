@@ -25,11 +25,11 @@ marshmallow:
             - Harry
             - Walter
           answer: Ernie
-        - question: Walter wants to see how many marshmallows Ernie and Harry can eat.
+        - question: Walter wants to see how much they can eat.
           answer: False
         - question: Harry eats 1 marshmallow and Ernie eats 2.
           answer: True
-        - question: Walter can't see why Ernie is more successful, 18 years later.
+        - question: Walter can't see why Ernie is more successful later.
           answer: False
 role:
   jigsaw:
