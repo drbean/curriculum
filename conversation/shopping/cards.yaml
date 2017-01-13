@@ -416,18 +416,9 @@ marketing:
             - Frog
             - Tim
           answer: Tim
-        - question: Anthon Berg asked customers to pay money AND promise to be generous.
+        - question: Anthon Berg asked customers to pay money.
           answer: False
-        - question: Frog made employees talk to people they might not have known before.
+        - question: Frog made employees talk to each other.
           answer: True
-        - question: Tim says Anthon Berg gave more control and Frog gave less control.
-          answer: True
-        - question: Anthon Berg doesn't like Frog because it doesn't allow employees a choice.
+        - question: Anthon Berg gave less control, Frog gave more.
           answer: False
-        - question: Tim thinks Frog shouldn't make employees meet, if they don't want to.
-          answer: False
-        - question: Frog likes Anthon Berg's idea of more control for customers.
-          answer: True
-        - question: Frog's aim was to stop employees getting to know each other.
-          answer: False
-        
