@@ -175,19 +175,11 @@ communication:
             - Danny
             - Melissa
           answer: Audrey
-        - question: Danny understands why Audrey doesn't understand.
+        - question: Danny knows why Audrey doesn't understand.
           answer: False
-        - question: Audrey asks Danny to explain his ideas more simply.
+        - question: Audrey asks Danny to explain his ideas simply.
           answer: False
-        - question: A lack of relevance is a reason Danny's ideas are inaccessible.
-          answer: True
-        - question: Melissa advises Danny to use jargon, not simple words.
-          answer: False
-        - question: Analogies can show Danny's ideas are similar to things Audrey knows.
-          answer: True
-        - question: If the ideas are simple and relevant, they can be accessible.
-          answer: True
-        - question: Melissa says Danny shouldn't use stories.
+        - question: Melissa advises Danny not to use jargon.
           answer: False
 role:
   jigsaw:
