@@ -1,0 +1,97 @@
+communication:
+  jigsaw:
+    0:
+      identifier: communication 0
+      A: Danny asks you for advice on explaining his ideas to Audrey. You tell him to use simple words, not jargon. You say that he can use analogies with ideas Audrey understands. Then, the ideas will be accessible if he can make them relevant to her.
+      B: You don't know why Audrey can't understand your science. You ask Melissa how you can make your ideas accessible. She tells you that you have to make the ideas relevant to Audrey's life. She says use analogies and stories.
+      C: Danny is trying to explain his ideas, but they are too difficult and they don't seem relevant to you. You don't understand his jargon. You ask Melissa for advice and she tells Danny to make it simple and use analogies.
+      quiz:
+        - question: A
+          option:
+            - Audrey
+            - Danny
+            - Melissa
+          answer: Melissa
+        - question: B
+          option:
+            - Audrey
+            - Danny
+            - Melissa
+          answer: Danny
+        - question: C
+          option:
+            - Audrey
+            - Danny
+            - Melissa
+          answer: Audrey
+        - question: Danny knows why Audrey doesn't understand.
+          answer: False
+        - question: Audrey asks Danny to explain his ideas simply.
+          answer: False
+        - question: Melissa advises Danny not to use jargon.
+          answer: False
+marketing:
+  jigsaw:
+    0:
+      identifier: marketing 0
+      A: You produce chocolate. Your cool idea was to give customers chocolate for free, if they promised to be generous to family and friends. Tim says you gave them more control. But you think Frog's giving employees less control was cool, too.
+      B: You employ many people. Old and new employees have to meet one-on-one to get to know each other. Tim says this gives them less control, but it produces more social interaction. However, you like Anthon Berg's idea of more control for customers, too.
+      C: You are interested in control. You like Anthon Berg because it gave more control for customers. It gave away chocolate in return for generosity to family. But less control is good at Frog. There, new and old employees have to meet.
+      quiz:
+        - question: A
+          option:
+            - Anthon Berg
+            - Frog
+            - Tim
+          answer: Anthon Berg
+        - question: B
+          option:
+            - Anthon Berg
+            - Frog
+            - Tim
+          answer: Frog
+        - question: C
+          option:
+            - Anthon Berg
+            - Frog
+            - Tim
+          answer: Tim
+        - question: Anthon Berg asked customers to pay money.
+          answer: False
+        - question: Frog made employees talk to each other.
+          answer: True
+        - question: Anthon Berg gave less control, Frog gave more.
+          answer: False
+marshmallow:
+  jigsaw:
+    0:
+      identifier: marshmallow 0
+      A: Walter tells you if you don't eat the marshmallow, he will give you another one after 15 minutes. Ernie waits for 15 minutes, but you can't wait. 18 years later, Walter checks up on how you are going, and you have dropped out of school.
+      B: You are doing an experiment to see how long kids can be patient and wait for a marshmallow. Ernie waits 15 minutes, but Harry can't wait and eats his marshmallow. 18 years later, you are not surprised Ernie is a good student and Harry has dropped out.
+      C: Walter says he will give you a second marshmallow if you wait and only eat the first one after 15 minutes. Harry can't wait, but you do wait and get a second one. After 18 years, Walter finds you are doing well at school, but Harry has left school.
+      quiz:
+        - question: A
+          option:
+            - Ernie
+            - Harry
+            - Walter
+          answer: Harry
+        - question: B
+          option:
+            - Ernie
+            - Harry
+            - Walter
+          answer: Walter
+        - question: C
+          option:
+            - Ernie
+            - Harry
+            - Walter
+          answer: Ernie
+        - question: Walter wants to see how much they can eat.
+          answer: False
+        - question: Harry eats 1 marshmallow and Ernie eats 2.
+          answer: True
+        - question: Walter can't see why Ernie is more successful later.
+          answer: False
+
