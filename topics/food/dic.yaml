@@ -30,3 +30,14 @@
     B: No lettuce? Well, we can't make a salad now.
     G: Let's make something else for dinner.
   - End
+-
+  - "salad-2"
+  - "salad"
+  - "topics"
+  - "all"
+  - |+
+    Many farmers grew big carrots. But, they didn't use most of them.
+    Some carrots started to rot. So, people didn't want to eat them or buy them.
+    Then, one farmer had an idea. He cut the carrots into small pieces. He took the bad pieces out, and he kept the good pieces.
+    He made baby carrots.
+  - End
