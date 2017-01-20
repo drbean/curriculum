@@ -90,3 +90,14 @@ salad:
       - One farmer had an idea.                               _一個農民有一個想法。_
       - The farmer cut the carrots into smaller, good pieces. _農夫把胡蘿蔔切成更小，更好的塊。_
       - The farmer made baby carrots.                         _農夫做了小胡蘿蔔。_
+name:
+  0:
+    flash:
+      pizza       :  比薩
+      hamburger   :  漢堡包
+      milk        :  牛奶
+      lemonade    :  檸檬汽水
+      french fries:  炸薯條
+      Jello       :  果凍
+      salad       :  沙拉
+      apple pie   :  蘋果派
