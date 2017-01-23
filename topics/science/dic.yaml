@@ -73,7 +73,7 @@
   - A lot|form|the|All|try to|at|The|push|out|the|and "jump"|This|what|call|water|More|water|into|More|it|the|After|every|of the|will|Try|and|end
 
 -
-  - sky
+  - sky-0
   - "The blue sky"
   - "topics"
   - "all"
@@ -84,14 +84,19 @@
     G: I'll explain it in a simple way. Light comes through the air from the sun in waves.
     B: The light is in many colors, right?
     G: Right. Blue waves are smaller than air molecules. They sometimes get absorbed by these molecules.
+  - Joe|me|about|just|But|didn't know|I'm|at|Ask|OK|Why|sky|I'll explain|simple|Light|the|the|in|The|is|many|right|Right|Blue|are|than|molecules|They|get|by|molecules|OK|What|Then|blue|scatter|directions|Your|see|from|you|after|the|molecules|So|is|makes|blue|What|to|other|They|off|that|hit|Your|shirt|our|see|red|from it|Now|why|is|End
+-
+  - sky-1
+  - "The blue sky"
+  - "topics"
+  - "all"
+  - |+
     B: OK. What happens then?
     G: Then the blue light waves scatter in many directions. Your eyes see this blue light from above you, after it leaves the air molecules.
     B: So that is what makes the sky blue! What happens to the other colors?
     G: They reflect off the things that they hit. Your shirt is red because our eyes see the red light reflected from it.
     B: Now I understand why the sky is blue!
-  # - Joe|about|didn't know|Ask|OK|Why|explain|simple|Light|The|right|Blue|than|molecules|get|scatter|directions|Your shirt|see|from it|why
-  - ''
-  - 100
+  - OK|What|Then|blue|scatter|directions|Your|see|from|you|after|the|molecules|So|is|makes|blue|What|to|other|They|off|that|hit|Your|shirt|our|see|red|from it|Now|why|is|End
 
 -
   - camera
