@@ -90,6 +90,13 @@ salad:
       - One farmer had an idea.                               _一個農民有一個想法。_
       - The farmer cut the carrots into smaller, good pieces. _農夫把胡蘿蔔切成更小，更好的塊。_
       - The farmer made baby carrots.                         _農夫做了小胡蘿蔔。_
+    -
+      - Do you like carrots or cucumbers? _I think I like carrots more than cucumbers._
+      - I don't like vegetables? _Why not? Vegetables are good for you._
+      - Who made this fruit salad? _My mother made it._
+      - Do you want any dressing on your salad? _No thanks. I don't like dressing very much._
+      - I only see fruit in the salad you're making. _It's a fruit salad._
+      - It's snowing. _Let's make a snowman! We can use a carrot for its nose._
 name:
   0:
     flash:
