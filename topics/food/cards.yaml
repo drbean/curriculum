@@ -97,6 +97,17 @@ salad:
       - Do you want any dressing on your salad? _No thanks. I don't like dressing very much._
       - I only see fruit in the salad you're making. _It's a fruit salad._
       - It's snowing. _Let's make a snowman! We can use a carrot for its nose._
+    -
+      - any _any cookies_
+      - eat _eat carrots_
+      - onions _onions on my salad_
+      - put _put my coat on_
+      - lettuce _a salad without lettuce_
+      - fruit _a fruit salad_
+      - vegetables _like vegetables_
+      - good _good for you_
+      - taste _don't like the taste_
+      - easy _easy to make_
 name:
   0:
     flash:
