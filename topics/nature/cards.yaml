@@ -289,3 +289,26 @@ photo:
       - Is there a photo exhibit somewhere?  _How did you guess? There is an outdoor exhibit going on right now._
       - There is an outdoor exhibit going on right now. _Really?_
       - Would you like to go with me? _Sure. How about Sunday morning?_
+garden:
+  bingo:
+    -
+      - I didn't eat _because_ I wasn't hungry.
+      - You didn't _water_ your flowers.
+      - The flowers are _dead_ now.
+      - There are _weeds_ growing in the garden.
+      - _potatoes_ are good to eat.
+      - You can plant _seeds_ and flowers will grow.
+      - _caterpillars_ eat the leaves of plants.
+      - A _daisy_ is a flower.
+      - You can dig in the garden with a _shovel_.
+      - A yellow fruit with black seeds--a _papaya_.
+  0:
+    flash:
+      potatoes   : 土豆
+      seeds      : 種子
+      caterpillar: 毛蟲
+      daisy      : 雛菊
+      because    : 因為
+      shovel     : 鏟
+      weeds      : 雜草
+      dead       : 死
