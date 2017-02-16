@@ -105,3 +105,12 @@ summer:
       - What have you been doing this summer? _I've been playing baseball and taking swimming lessons._
       - When do you usually play? _We have a game this weekend._
       - Why don't you come and watch us play in the park? _Sure! Just let me know what time the game starts._
+ticket:
+  bingo:
+    -
+      - 'W: I have two tickets to the baseball game next Saturday. _M: Did I hear you correctly? You have two tickets to the baseball game?_'
+      - 'M: How did you get those? I thought it was impossible to get them. _W: It was easy, actually._'
+      - 'M: Who are you going to take with you? _W: I was thinking that maybe you would like to go._'
+      - 'W: Where shall we meet on Saturday? _M: Well, the game starts at nine in the morning, right?_'
+      - 'W: Shall we meet here at 8:30 a.m. on Saturday? _M: Good idea. I cannot wait!_'
+
