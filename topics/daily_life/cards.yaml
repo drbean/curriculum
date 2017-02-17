@@ -338,4 +338,13 @@ activity:
       fruit: .
       climb: .
       bag: .
-
+housewarming:
+  bingo:
+    -
+      - "W: Thanks for coming to my housewarming party. _M: Thanks for inviting me._"
+      - "M: Your lovely new home is beautiful! _W: Thank you. I'm glad you like it._"
+      - "M: Did you decorate your house all by yourself? _W: Yes, I did. I got some furniture in Europe._"
+      - "M: Do you plan to go on a trip this summer? _W: Yes, I'm planning to visit China._"
+      - "M: How long will you be in China? _W: I will be there for a month._"
+      - "M: You should go shopping while you are in China. _W: Of course! It will be fun to go shopping there._"
+      - "W: Help yourself to the food. _M: Thanks. It looks delicious._"
