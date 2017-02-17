@@ -119,3 +119,14 @@ name:
       Jello       :  果凍
       salad       :  沙拉
       apple pie   :  蘋果派
+meal:
+  0:
+    flash:
+      set the table  :  佈置桌面
+      wash the dishes:  洗碗
+      pour the drinks:  倒飲料
+      serve the food :  服務食品
+      brownies       :  布朗尼
+      potato chips   :  土豆片
+      soda           :  蘇打
+      sausages       :  香腸
