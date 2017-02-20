@@ -20,6 +20,21 @@ golfer:
         -
           - I look forward ..
           - 4
+    1:
+      identifier: sentence-structure matching p62
+      pair:
+        -
+          - Thank you for your letter ...
+          - 1 (acknowledgement)
+        -
+          - I am pleased to enclose ..
+          - 2 (response to the request)
+        -
+          - I am also enclosing .. a 5% discount of any orders over US$5000.
+          - 2 (extra information)
+        -
+          - I hope that the information .. further assistance in the future.
+          - 3 (polite close)
 club:
   drag:
     0:
@@ -47,6 +62,13 @@ scramble:
         - I am writing to you in the hope of finding out more about your products.
         - I saw your advertisement for this new device in the January 2017 issue of SmartPhone_Forecast
         - As I'm about to buy stock for the New_Year_holidays, I would appreciate a reply by January_15.
+    3:
+      identifier: inquiry reply p63
+      sentence:
+        - We are pleased to enclose a copy of our summer catalogue.
+        - Our products are available in Sogo stores.
+        - The lenses of the C-400 underwater camera can be cleaned using warm water.
+        - You can track shipping details on our websites.
     
 reason:
   jigsaw:
@@ -153,5 +175,47 @@ step:
             - 3. specific/extra details
             - 4. close expressing confidence the request will be answered.
           answer: 4. close expressing confidence the request will be answered.
-          
+cruise:
+  scramble:
+    0:
+      identifier: p59 acknowledge
+      sentence:
+        - I have received your email dated July_31 concerning our November cruise around Taiwan.
+        - Thank you for your interest in this trip.
+        - You wrote that your partner is allergic to rice.
+        - You also_said that your partner is a vegetarian.
+        - I have contacted our catering staff about your partner's dietary requirements.
+        - They are at sea, and it may take a few days for them to reply.
+        - I should be able to tell you by August_3.
+        - If I cannot tell you by this date, I will contact you again.
+        - I will tell you what is happening.
+        - Thank you again for your inquiry about the cruise.
+  match:
+    1:
+      identifier: sentence-structure matching
+      pair:
+        -
+          - I have received your email dated July_31 concerning our November cruise around Taiwan.
+          - 1 (acknowledging arrival of email)
+        -
+          - Thank you for your interest in this trip.
+          - 1 (thanks)
+        -
+          - You wrote that your partner is allergic to rice, and a vegetarian.
+          - 1 (acknowledging content of inquiry)
+        - 
+          - I have contacted our catering staff about your partner's dietary requirements, but they are at sea.
+          - 2 (reason for delay)
+        -
+          - It may take a few days for them to reply.
+          - 3 (reason for delay, and time required for answer)
+        -
+          - I should be able to tell you by August_3.
+          - 3 (expected reply date)
+        -
+          - If I cannot tell you by this date, I will contact you again.
+          - 3 (promise of reply)
+        -
+          - Thank you again for your inquiry about the cruise.
+          - 4 (polite close)
 
