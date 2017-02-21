@@ -40,6 +40,13 @@ topic:
         comment: |
           The pope is using the media, in particular <a href="http://en.wikipedia.org/wiki/Twitter">Twitter</a>, to spread his message. Follow him at <a href="https://twitter.com/Pontifex">https://twitter.com/Pontifex</a>. According to <a href="http://twiplomacy.com">Twiplomacy</a>, more than 2/3 of the world's leaders are on Twitter.
       -
+        id: twitter
+        title: Woman gets Pope on Twitter
+        blurb: |
+          An early employee at <a href="http://twitter.com">Twitter</a>, <a href="http://clairediazortiz.com/">Claire Diaz-Ortiz</a> talks about <a href="http://startupcamp.com/podcast/girl-got-warren-buffet-pope-twitter/">getting the Pope and Warren Buffet on Twitter</a>.
+        comment: |
+          They are speaking quickly. Don't give up. Some interesting things she mentions are <a href="http://www.radiovaticana.va/">Vatican Radio</a> and <a href="http://www.google.com.tw/search?q=%22Sheryl+Sandberg%22&num=100&gws_rd=ssl&tbm=isch&tbo=u&source=univ&sa=X">Sheryl Sandberg</a>, the CEO of Facebook's book, <a href="http://www.google.com.tw/search?q=%22+Lean+In%22&num=100&gws_rd=ssl&tbm=isch&tbo=u&source=univ&sa=X">Lean In</a>.
+      -
         id: 20120224
         title: Jeremy Lin T-shirts
         blurb: |
@@ -73,12 +80,30 @@ topic:
         comment: |
           He doesn't speak clearly, so filling in the blanks will be difficult. But Dr Bean will be glad to help. Some words: <a href="http://www.urbandictionary.com/define.php?term=mojo">mojo</a>, <a href="http://en.wikipedia.org/wiki/Mobile_app">app</a> and <a href="http://en.wikipedia.org/wiki/Business_model"</a>business model</a>.
       -
-        id: blair
+        id: blair1
         title: Jayson Blair: fabricator, plagiarizer
         blurb: |
                 <a href="http://en.wikipedia.org/wiki/Jayson_Blair">Jayson Blair</a> was a reporter at the <a href="http://en.wikipedia.org/wiki/New_York_Times">New York Times</a> who was fired because of <a href="http://en.wikipedia.org/wiki/Fabrication_(science)">fabrications</a> and <a href="http://en.wikipedia.org/wiki/Plagiarism">plagiarism</a> in <a href="http://query.nytimes.com/gst/fullpage.html?res=9C03E3DE1E30F934A15750C0A9659C8B63">A nation at war: Military families; Relatives of Missing Soldiers Dread Hearing Worse News</a> and other stories. The piece was about <a href="http://en.wikipedia.org/wiki/Jessica_Lynch">Jessica Lynch</a> a woman in the American army captured in Iraq. Blair claimed, among other things, that he went to Lynch's hometown, but he did not, that tobacco fields could be seen from the Lynch home, but they could not, and that her mother had had a dream, but she had not.
         comment: |
           Listen to <a href="http://www.youtube.com/watch?v=kFePfsBlocA">a lecture<a/> he gave about his actions.
+      -
+        id: blair2
+        title: Jayson Blair explains
+        blurb: |
+                <a href="http://en.wikipedia.org/wiki/Jayson_Blair">Jayson Blair</a> was a reporter at the <a href="http://en.wikipedia.org/wiki/New_York_Times">New York Times</a> who was fired because of <a href="http://en.wikipedia.org/wiki/Fabrication_(science)">fabrications</a> and <a href="http://en.wikipedia.org/wiki/Plagiarism">plagiarism</a>.
+        comment: |
+          Listen to him on <a href="http://elearning.nuu.edu.tw">elearning.nuu.edu.tw<a/> explain how he developed his "plagarism toolset." He is not easy to understand. Listen for these words: <ul>
+            <li>in over my head
+            <li>the bar rises
+            <li>the slippery slope
+            <li>lifting quotes
+            <li>cross the line
+            <li>man-in-the-street interview
+            <li>Associated Press--a news agency which sells stories to newspapers
+            <li>toolset
+            <li>losing my mind
+            <li>cutting corners--not just what motorscooters do turning left
+            <li>falling apart
       -
         id: thanksgiving
         title: Journalistic bias reporting Thanksgiving news
@@ -149,10 +174,15 @@ topic:
           The <a href="http://www.youtube.com/watch?v=Qy-Y3HJNU_s">original video</a> of <a href="http://www.billoreilly.com/">Bill O'Reilly</a> <a href="http://content.time.com/time/specials/packages/article/0,28804,1975979_1975977_1970514,00.html">angered by the expression</a>, <a href="http://www.google.com/search?q=%22play%20us%20out%22&num=100">play us out</a> is interpreted as <a href="http://www.youtube.com/watch?v=11NrJsnmnfg">a fight with his producer</a>, which is perhaps more understandable. However, the first video is real, the second is fiction.
         comment: |
           Watch both videos and fill in the blanks. Interesting vocabulary: a <a href="http://images.google.com/images?q=teleprompter&num=100">teleprompter</a> is a device to show politicians and TV hosts what to say. A <a href="http://en.wikipedia.org/wiki/Take">take</a> is one continuous video or sound recording of a performance in a situation where a number of attempts may have to be made to get a good recording, making a number of takes necessary.
+      -
+        id: kalb
+        title: Prof Kalb talks with O'Reilly, his student
+        blurb: |
+          Influential journalism professor, Marvin Kalb <a href="https://www.youtube.com/watch?v=voSBKKwrhkg">interviews</a>. Transcript:https://research.gwu.edu/sites/research.gwu.edu/files/downloads/BillOReilly_Transcript.pdf
   -
     id: historical
     title: Old broadcasts
-    intro: Radio, TV in an earlier era
+    intro: Radio, TV and the media in an earlier era
     story:
       -
         id: quizkid
@@ -161,6 +191,12 @@ topic:
           <a href="http://en.wikipedia.org/wiki/Mike_Wallace_(journalist)">Mike Wallace</a> interviews quiz kid, Leonard Ross, in 1957. Ross committed suicide when he was 40, in 1985. <a href="http://www.hrc.utexas.edu/multimedia/video/2008/wallace/ross_leonard.html">Listen</a>. Do you think Wallace is giving Ross a hard time? Ross is only 12 years old.
         comment: |
          What do you think of the <a href="http://en.wikipedia.org/w/index.php?title=Tobacco_advertising&section=23#United_States">tobacco commercial</a>? 
+      -
+        id: norad
+        title: Continental NORAD Region Holiday Greeting
+        blurb: |
+          <a href="http://en.wikipedia.org/wiki/NORAD_Tracks_Santa">NORAD Tracks Santa</a> is in the American Christmas tradition of organizations pretending to children that Santa exists, and started 60 years ago, when children called a telephone number, expecting to talk to Santa. The number was actually that of a top-secret hotline only supposed to be used during a missile attack. Listen to members of the military air defense organization talk about Santa as if he exists on <a href="http://elearning.edu.tw">http://elearning.edu.tw</a>.
+        comment: Then listen to the children of Colonel Stroup, the air defense commander who answered the children's call 60 years ago, describe <a href="http://www.npr.org/2014/12/19/371647099/norads-santa-tracker-began-with-a-typo-and-a-good-sport">how the military tracking of Santa started</a>.
   -
     id: c-span
     title: C-SPAN
@@ -206,7 +242,7 @@ topic:
         title: World's tallest dog
         blurb: |
           The <a href="http://en.wikipedia.org/wiki/Great_dane">Great Dane</a> is a very tall dog. Listen to a Youtube <a href="http://www.youtube.com/watch?v=LOd79cpwniM">story about Zeus</a>, the world's largest dog, which just died.
-        comment: Some Youtube <a href="http://www.youtube.com/watch?v=T-GGLpEp_8g">pictures</a>. On his hind legs the dog stood at 7 feet 4 inches, or 220 cm. At his shoulders, he was 110 cm.
+        comment: Some Youtube <a href="https://www.youtube.com/watch?v=-BM5CNhF6x0">pictures</a>. On his hind legs the dog stood at 7 feet 4 inches, or 220 cm. At his shoulders, he was 110 cm.
       -
         id: kiss
         title: Singer tries to kiss reporter
