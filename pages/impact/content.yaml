@@ -10,6 +10,19 @@ blurb: |+
 
 topic:
   -
+    id: health
+    title: Health and health service/medical care issues
+    intro: Not an issue that concerns most young and healthy people but an important determiner of life expectancy and the national quality of life.
+    story:
+      -
+        id: smoking
+        title: Quitting smoking
+        blurb: |
+          Listen to 2 people discuss quitting smoking. Lisa says she is going to try <a href="http://en.wikipedia.org/wiki/hypnosis">hypnosis</a> or <a href="http://en.wikipedia.org/wiki/acupuncture">acupuncture</a>
+
+          And listen to <a href="http://en.wikipedia.org/wiki/English_as_a_Second_Language_Podcast">Jeff McQuillan</a> again explain their dialogue.
+        comment: The soundfile is at <a href="http://libsyn.com/media/eslpod/ESLPod1119.mp3">http://libsyn.com/media/eslpod/ESLPod1119.mp3</a>, or on <a href="http://ec.must.edu.tw">http://ec.must.edu.tw</a>
+  -
     id: life_goals
     title: You and your ideas about yourself
     intro: Some issues that concern us are our appearance now and what will become of us in the future.
@@ -26,8 +39,113 @@ topic:
         blurb: |
           Many people, especially women, think it is important what they wear. But also some people really <b>are</b> not well dressed, or provocatively dressed? How do you feel about what people wear?
         comment: From  <a href="http://impactseries.com">http://impactseries.com</a>, listen to (or download) the video of <a href="http://www.impactseries.com/Issues_new/personal_opinion/2_19.mov">Sara saying that she would welcome provocative dressing by her teacher.</a>. Look out for the interesting vocabulary: <ul><li>stylish (meaning, fashionable, of good style) <li>expression of who you are (meaning, what you wear tells other people what sort of person you are).</ul>
+      -
+        id: happiness
+        title: Happiness
+        blurb: |
+          The <a href="http://en.wikipedia.org/wiki/World_Happiness_Report">World_Happiness_Report</a> is a United Nations project that ranks countries on the happiness of their people. Listen to <a href="http://linkengpark.com/6-minute-english-the-secret-of-happiness/">Rob and Finn of 6-Minute English"</a> discuss it.
+        comment: |
+          Some words they use: <table border="1" style="width:100%"><tr> <td>down in the dumps<td>feeling miserable or unhappy <tr><td>happy-go-lucky<td>describes someone who doesn't worry about the future <tr><td>satisfaction<td>the good feeling you get when you get something you want <tr><td>a state of mind<td>how someone feels about their life at the present time <tr><td>content<td>feel happy or pleased with the situation <tr><td>materialistic<td>believing money and possessions are the most important things <tr><td>goals<td>things you want to achieve <tr><td>hectic<td>busy, lots of things going on <tr><td>rewarding<td>a feeling of satisfaction and pleasure <tr><td>wiser<td>gained the ability to make good judgements based on life experience <tr><td>comforting<td>making you feel less sad or worried </table>
+      -
+        id: enjoy
+        title: Enjoyment and Happiness
+        blurb: |
+          The <a href="http://en.wikipedia.org/wiki/World_Happiness_Report">World_Happiness_Report</a> is a United Nations project that ranks countries on the happiness of their people. Listen to <a href="http://www.bbc.co.uk/worldservice/learningenglish/general/sixminute/2013/08/130815_6min_happiness.shtml">Rob and Finn discuss happiness</a> on <a href="http://www.bbc.co.uk/learningenglish/english/features/6-minute-english">6-Minute English"</a>.
+        comment: |
+          Some words they use: <table border="1" style="width:100%"><tr> <td>down in the dumps<td>feeling miserable or unhappy <tr><td>happy-go-lucky<td>describes someone who doesn't worry about the future <tr><td>miserable<td>very unhappy<tr><td>unfit<td>too fat and not strong, because of lack of exercise<tr><td>put a smile on your face<td>make you feel happy<tr><td>finer things in life<td>more expensive and enjoyable things you can have or do in your life<tr><td>fine wine<td>good, expensive wine<tr><td>quality of life<td>the condition of a person, or group of people's, life, good, bad, or so-so</table>
+          <br>
+          Make a question from:
+          <ul>
+            <li> "Finn sounds down in the dumps."
+            <li> "Finn sounds miserable."
+            <li> "Finn is miserable."
+            <li> "It is raining."
+            <li> "Finn has no money."
+            <li> "And Finn feels unfit too."
+            <li> "Rob has some news that might put a smile on Finn's face."
+            <li> "The study tells us how we can make ourselves happier."
+            <li> "Rob and Finn use some words about happiness too."
+            <li> "Finn says that sounds good."
+            <li> "Finn says he feels happier already."
+            <li> "Rob asks Finn what things make him feel happy?"
+            <li> "Finn says the finer things in life, good food , fine wine and things like that make him feel happier"
+            <li> "Finn asks Rob what things make him feel happy."
+            <li> "Rob tells Finn that everything makes him feel happy."
+            <li> " Rob says that nothing worries him."
+            <li> " Rob says that he always looks for the positive things even in a bad situation."
+            <li> "Rob says that you could also say that he is happy-go-lucky."
+            <li> "Rob asks Finn which country is top of the list in happiness in the World Happiness Database"
+            <li> "Finn thinks Finland has a high quality of life but he says the happiest nation is Canada."
+          </ul>
+      -
+        id: happier
+        title: Who is happy and how to be happier
+        blurb: |
+          <a href="http://www.youtube.com/watch?v=fLhpyzVTc8A">Tal Ben-Shahar</a> gave 5 tips you can follow to be happier. In class we talked about Martin Seligman's <a href="https://en.wikipedia.org/wiki/Positive_psychology#Broad_theories">P.E.R.M.A. framework</a>, ie, positive emotion, engagement, relationships, meaning of life, and achievement.
+        comment: |
+          In preparation for the exam, ask yourself questions using the sentences below, and think of the answers you would give.
+          <br>
+          Make a question from:
+          <ul>
+            <li> "Tal Ben-Shahar asks questions about happiness."
+            <li> "Happiness is improved in many different ways."
+            <li> "Social ties with family , friends and other social networks are very important for happiness."
+            <li> "People with more money are happier, but people who are very rich aren't happier."
+            <li> "Physical exercise , meditation and an engagement with life also improve happiness."
+            <li> "One framework for thinking about well-being emphasizes positive emotion , an engagement with work , school and community , relationships with people , meaning in life and the achievement of goals."
+            <li> "Positive emotion can only be assessed subjectively."
+            <li> "Engagement can only be measured through subjective means."
+            <li> "Engagement is the presence of a flow state."
+            <li> "A flow state is a state of mind where you forget about self and concentrate on just one thing."
+            <li> "The word , relationships means the presence of friends , family , intimacy or social connection."
+            <li> "Meaning is belonging to and serving something bigger than one's self."
+            <li> "Achievement is accomplishment of goals that are pursued even when they bring no positive emotion, have no meaning, and achieve nothing in the way of positive relationships."
+            <li> "You can ask questions about positive emotion."
+          <ul>
+            <li> "You feel happy."
+            <li> "You are happy now."
+            <li> "You are happy with your life as a whole."
+          </ul>
+            <li> "You can ask questions about engagement"
+          <ul>
+            <li> "You are involved with something."
+            <li> "You participate in something."
+            <li> "You are active in your daily life at school  or work or play."
+          </ul>
+            <li> "You can ask questions about relationships"
+          <ul>
+            <li> "Your feelings about your friends , family or people you know"
+            <li> "You have lots of friends."
+          </ul>
+            <li> "You can ask questions about the meaning of life."
+          <ul>
+            <li> "You believe in a religion , a philosophy or an ideology."
+            <li> "You seek to serve your country , your community or your social group."
+          </ul>
+            <li> "You can ask questions about achievements"
+          <ul>
+            <li> "You feel a sense of achievement often , sometimes or never."
+            <li> "Something that gives you a sense of achievement"
+          </ul>
+          </ul>
+
   -
-    id: jobs
+    id: economic animal
+    title: How should we approach the problem of needing money to live?
+    intro: Work is something that is hard to avoid, but which can destroy you. How do you take control of work, and not let work take control of you?
+    story:
+      -
+        id: exchange
+        title: Exchanging money
+        blurb: |
+          Listen to 2 people discuss changing money at the airport. Gustavo says it's better to change money at a bank because the exchange rate is better and the fee is less. And listen to <a href="http://en.wikipedia.org/wiki/English_as_a_Second_Language_Podcast">Jeff McQuillan</a> explain their dialogue.
+        comment: The soundfile is at <a href="http://media.libsyn.com/media/eslpod/ESLPod191.mp3">https://www.eslpod.com/website/show_podcast.php?issue_id=2525724</a>
+      -
+        id: publishing
+        title: Managing a publishing company
+        blurb: |
+          Listen to Dr Bean <a href="http://web.nuu.edu.tw/~greg/speaking/publishing.mp3">inviting you to be a publishing company manager</a>. Think about the <a href="http://www.huffingtonpost.com/news/the-economics-of-book-publishing/">economics</a> of <a href="http://en.wikipedia.org/wiki/Textbook">textbook publishing</a>.
+        comment: I will put this soundfile on ec.must.edu.tw, if it plays too slowly from 聯合 in 苗栗.
   -
     id: ethics
     title: How should we act toward other people?
@@ -52,6 +170,14 @@ topic:
           What do you think about putting criminals to death? What are the good points? What are the bad points?
         comment: From  <a href="http://impactseries.com">http://impactseries.com</a>, listen to Richard Day discuss <a href="http://www.impactseries.com/Issues_new/authors_introductionmp3/tm2_u20.mp3">capital punishment, or the death penalty</a>. Then, listen to (or download) the video of Scott saying <a href="http://www.impactseries.com/Issues_new/personal_opinion/2_20.mov">the death penalty is not a good thing</a>. (Download the video of Scott from <a href="http://web.nuu.edu.tw/~greg/speaking/2_20.mov">here</a>, or listen to the file on <a href="http://ec.must.edu.tw">http://ec.must.edu.tw</a> if that link for the video doesn't work.) Do you agree with Scott? Look out for the difficult vocabulary: <ul><li>Aloha (A Hawaiian greeting, meaning Hello) <li>capital punishment, or the death penalty (meaning, putting criminals to death), <li>senselessly (meaning, without reason, without meaning), <li>murderer (meaning, someone who commits the crime of killing a person), <li>studies have shown .. (meaning, professors did some research and they think ..), <li>short/long term (meaning, for a short time/after a longer time), <li>barbaric (meaning, cruel and uncivilized), <li>the state (meaning, the country/nation and its government), <li>stance (meaning, someone's point of view, or way of thinking).  </ul>
       -
+        id: affirmative
+        title: Affirmative action
+        blurb: |
+          Colleges use <a href="http://en.wikipedia.org/wiki/Affirmative_action">affirmative action</a> to allow minority students to enter even though they may not have good exam scores. It is controversial in the US. 
+          Listen to college students at the University of Texas (UT) give <a href="http://www.thetakeaway.org/story/244402-affirmative-action-takeaways-ut-student-roundtable/">their views.</a>
+          Look at <a href="http://macmccanntx.com/">Mac McCann's home page</a> and Samantha Robles's page about UT's <a href="http://www.huffingtonpost.com/samantha-robles/ut-needs-holistic-review_b_1952049.html">holistic review or admission.</a>
+        comment: A white student who failed to get in to the university took it to court. The Supreme Court, or <a href="http://en.wikipedia.org/wiki/SCOTUS">SCOTUS</a> is now <a href="http://www.google.com.tw/search?q=%22supreme+court+affirmative+action+university+of+texas%22&num=100&gws_rd=ssl&tbm=isch&tbo=u&source=univ&sa=X">hearing the case for the second time.</a>
+      -
         id: money
         title: What is it OK, or not OK, to do to make money?
         blurb: |
@@ -61,12 +187,111 @@ topic:
         id: ideology
         title: The economic role of government
         blurb: |
-          Listen to 2 people discuss <a href="http://en.wikipedia.org/wiki/Unemployment">unemployment</a> and the role of government. They disagree because of their different political philosophies, <a href="http://en.wikipedia.org/wiki/Communism">communism</a>, href="http://en.wikipedia.org/wiki/Socialism">socialism</a>, and href="http://en.wikipedia.org/wiki/Capitalism">capitalism</a>. And listen to <a href="http://en.wikipedia.org/wiki/English_as_a_Second_Language_Podcast">Jeff McQuillan</a> explain their dialogue.
+          Listen to 2 people discuss <a href="http://en.wikipedia.org/wiki/Unemployment">unemployment</a> and the role of government. They disagree because of their different political philosophies, <a href="http://en.wikipedia.org/wiki/Communism">communism</a>, <a href="http://en.wikipedia.org/wiki/Socialism">socialism</a>, and <a href="http://en.wikipedia.org/wiki/Capitalism">capitalism</a>. And listen to <a href="http://en.wikipedia.org/wiki/English_as_a_Second_Language_Podcast">Jeff McQuillan</a> explain their dialogue.
         comment: The soundfile is at <a href="http://www.eslpod.com/website/show_podcast.php?issue_id=11812486">http://www.eslpod.com/website/show_podcast.php?issue_id=11812486</a>.
   -
-    id: technology
+    id: crime
+    title: You decide the penalty
+    intro: |
+      You are members of a jury in Portland, Oregon. Today you will discuss the cases of 6 criminals. All 6 of the criminals said they committed the crimes. You can punish a person with a warning, a fine, a jail term, or a combination of these.
+    story:
+      -
+        id: murder
+        title: Murder or mercy killing (euthanasia)
+        blurb: |
+           Charles Mercer, age 80. retired   Crime: Murder
+           <p> Case Description: Mercer and his wife. Sara. had been married for 52 years. Sara got cancer in 1988 and was dying. She had been in the hospital for eight months and was kept alive by a respirator. On February 3. Charles Mercer went to the hospital and shot his wife. He says: "I loved her so much I couldn't watch her suffer anymore."
+        comment: |
+          Make a question from:
+          <ul>
+             <li> "Charles is 80."
+             <li> "Charles and his wife are married."
+             <li> "Sara has cancer."
+             <li> "Sara is dying."
+             <li> "Sara is in hospital."
+             <li> "Sara is in the hospital."
+             <li> "Sara is alive."
+             <li> "Sara is kept alive by a respirator."
+             <li> "Charles goes to the hospital."
+             <li> "Charles shoots his wife."
+             <li> "Charles says he loves Sara so much."
+             <li> "Charles says he can't watch Sara suffer anymore."
+             <li> "Charles says he loves Sara so much, he can't watch her suffer anymore."
+          </ul>
+          Use words from the list.
+      -
+        id: drunk_driving
+        title: Drunk driver hits child, killing her
+        blurb: |
+          Ruth Tipton, age 73, housewife, divorced (no children) Crimes: drunk driving, manslaughter
+
+          <p>Case description: Mrs Tipton is an alcoholic. She was in the hospital a long time because of this. In the past 10 years, police arrested Mrs Tipton 4 times for drunk driving. On July 10, Mrs Tipton was driving home from an afternoon party. She was drunk. She hit a 3-year-old girl on a tricyle. The girl died. Mrs Tipton says: 'I'm sorry. I promise to pay the little girl's parents some money every month. I will never drink again.'
+        comment: |
+          Make a question from:
+          <ul>
+             <li> "Mrs Tipton is an alcoholic."
+             <li> "Mrs Tipton is in the hospital a long time."
+             <li> "Police arrest Mrs Tipton 4 times."
+             <li> "Mrs Tipton drives home from an afternoon party on July 10,"
+             <li> "Mrs Tipton is drunk."
+             <li> "Mrs Tipton hits a 3-year-old girl on a tricycle."
+             <li> "The girl dies."
+             <li> "Mrs Tipton says that she is sorry."
+             <li> "Mrs Tipton promises to play the little girl's parents some money every month."
+             <li> "Mrs Tipton promises never to drink again."
+          </ul>
+          Use words from the list.
+
   -
-    id: business
+    id: technology
+    title: Science and technology and social issues they are responsible for
+    intro: Science and technology has made life very different than what it was 100 years ago. Now our influence has extended to the universe, and perhaps alien forms of life have left THEIR footprint on Earth.
+    story:
+      -
+        id: piggott
+        title: The night Martians marched on Mississippi
+        blurb: |
+          Joe Piggott talks about <a href="http://www.npr.org/templates/story/story.php?storyId=114300264">his grandfather's reaction</a> as Martians attacked the earth. Except they really weren't attacking. The Doctor had been listening to a broadcast by Orson Welles of a <a href="https://www.youtube.com/watch?v=Xs0K4ApWl4g">dramatization of the War of the World</a>. Many other people were also fooled.
+        comment: |
+          Make a question from:
+          <ul>
+            <li> "Joe calls his step-grandfather the Doctor."
+            <li> "Joe's step-grandfather is an unusual country doctor."
+            <li> "The Doctor has no sense of humor whatsoever"
+            <li> "The Doctor's only recreation is listening to the radio."
+            <li> "When the news is on, Joe doesn't make a sound."
+            <li> "Joe has an uncle in New Jersey."
+            <li> "Joe and the Doctor think that Joe's uncle is gone."
+            <li> "The doctor tells his wife to get into the car."
+            <li> "They go over to the Doctor's brother's house so they can be together when the end comes."
+            <li> "They get into the Doctor's Chevrolet automobile."
+            <li> "They drive around to his brother's house."
+            <li> "They begin talking about the end of the world."
+            <li> "They begin confessing to each other."
+            <li> "They begin repenting their sins."
+            <li> "He tells them that it is just a big hoax."
+            <li> "They figure that the burning rubber is the scent of the Martians."
+          </ul>
+          Use words from the list.
+      -
+        id: indie
+        title: Independence Day
+        blurb: |
+          Independence Day (July 4th, American Independence Day) was a 1996 movie about an alien attack. Watch <a href="http://www.youtube.com/watch?v=Nahdy9SjbGs">the aliens obliterate a city.</a> Watch <a href="http://www.youtube.com/watch?v=7YtvsxB9xQYca">a trailer (not the real one)</a>. Read <a href="http://en.wikipedia.org/wiki/Independence_Day_(1996_film)">the Wikipedia article</a>.
+        comment: |
+          Make a question from:
+          <ul>
+          <li> "Communications systems worldwide are sent into chaos by strange atmospheric interference on July 2nd."
+          <li> "Communications systems worldwide are paralyzed by strange atmospheric interference on July 2nd."
+          <li> "The military learns that a number of enormous objects are on a collision course with the Earth."
+          <li> "The objects are revealed to be gigantic spacecraft piloted by a mysterious alien species."
+          <li> "The military reveals that the objects are gigantic spacecraft piloted by a mysterious alien species."
+          <li> "Levinson discovers that the aliens intend to attack major points around the globe."
+          <li> "The aliens obliterate New York , Los Angeles , Washington , Paris , London , Houston and Moscow on July 3rd."
+          <li> "The survivors set out in convoys toward Area 51, a strange government testing ground where it is believed the military has a captured alien spacecraft."
+          <li> "The survivors devise a plan to fight back against the enslaving aliens, and July 4th becomes the day humanity fights for its freedom."
+          <li> "July 4th is their Independence Day."
+          </ul>
   -
     id: environment
     title: The natural and man-made environment
@@ -123,7 +348,100 @@ topic:
         title: A business woman's struggles
         blurb: |
           <a href="http://www.npr.org/templates/story/story.php?storyId=87965100">Tia Smallwood talks to her daughter, Christine</a> about the difficulties of being a woman at a school and in a business world dominated by men. Studying finance at Rutgers University, she was treated meanly and unfairly by a teacher, and at her first job interview, the boss used offensive language with her. She also had to make tough decisions about her children, her marriage and her career. She wanted to give 100 percent to all three. But that was not possible.
-        comment: She says that things were not good in the 1970's when she was young. But she says men still think the same. The only difference is that they are more careful about how they express themselves, ie they are more subtle.
+        comment: |
+          She says that things were not good in the 1970's when she was young. But she says men still think the same. The only difference is that they are more careful about how they express themselves, ie they are more subtle.
+          <pre>
+          "Tia goes in for the first interview."
+          "Tia owns one dress."             
+          "Tia's dress is shades of red and pink."              
+          "Tia's dress has big block geometric squares."           
+          "Tia's dress has short sleeves."     
+          "Tia's dress is a mini-dress."      
+          "Tia has on tights and heels."
+          "Tia walks in."
+          "Mr Batchelor says that Tia needs to stand up."
+          "Mr Batchelor tells Tia to stand up."
+          "Tia stands up."
+          "Tia turns around."
+          "Tia leans over Mr Batchelor's desk."
+          "Tia says that she doesn't need the job this much."
+          "Mr Batchelor says that Tia is hired."
+          </pre>
+      - 
+        id: dickson
+        title: Woman takes man's job
+        blurb: |
+          Dee Dickson is from the South of the United States and, after the breakup of her marriage at the age of 22, was raising two children by herself. Listen to her talk about <a href="http://www.npr.org/2011/02/18/133836714/family-breadwinner-finds-her-place-with-the-men">getting a job as an electrician</a>, traditionally a male job, in a shipyard.
+        comment: |
+          She wasn't welcomed by the men at the <a href="http://en.wikipedia.org/wiki/Ingalls_Shipbuilding">Ingalls</a> shipyard. She was only able to get the job because a relative was an important person there. That sounds like Chinese guanxi (關系) to me. <br>
+          <pre>
+          - "The guy who interviews Dee says that she is too little."
+          - "The interviewer says that Dee is little."
+          - "The interviewer says that Dee cannot get along with the guys"
+          - "The guy who interviews Dee doesn't think that she needs to have the job."
+          - "Dee's father says that Uncle Alf can get her a job."
+          - "Dee lets her father take her to see Uncle Alf."
+          - "Dee goes to the shipyard the next Monday."
+          - "The interviewer says that the superintendent tells the shipyard to hire Dee."
+          - "The guy doesn't like that Dee is hired."
+          - "The guy says that Dee is hired."
+          - "Dee goes to the ship."
+          - "The guys say that the jobs are men's jobs."
+          - "The guys say that Dee takes away work from men who have families."
+          - "Dee says that she has a family."
+          - "Dee says that she has no man."
+          - "Dee says that she needs money."
+          - "Dee takes about two weeks to start proving herself."
+          - "Several guys say that Dee needs to slow down."
+          - "Several guys tell Dee to slow down."
+          - "Dee makes the guys look bad."
+          - "Dee says that she is at the shipyard to work."
+          - "The guys are mad because Dee gets a raise."
+          - "Dee has to do some things a little differently than the guys."
+          - "Dee cannot lift an 80-pound transformer. "
+          - "Dee finds a way to do the same things that the guys do."
+          </pre>
+      - 
+        id: jackson
+        title: 60-year-old woman loses job, home
+        blurb: |
+          <a href="http://www.npr.org/2011/12/16/143771611/homeless-at-60-a-bullet-i-didnt-see-coming">Queen Jackson tells Debra</a> how she lost her job and her home, but not her pride and her good humor. Her daughter wanted her to move in with her family. Instead, she asked a woman's welfare group, <a href="http://www.tgpdenver.org/">The Gathering Place</a> for help.
+        comment: |
+          It's <a href="http://www.youtube.com/watch?v=QqUkLUsCzb4">tough times</a> again in the U.S., the toughest it's been since the Depression, 70 years ago. Watch the <a href="http://www.youtube.com/watch?v=7Y4Uamddgrw&lr=1">youtube video of Ann</a>, another woman who came to The Gathering Place after she lost her job and her home and was living in a car. Read the <a href="http://www.npr.org/2011/12/16/143771611/homeless-at-60-a-bullet-i-didnt-see-coming#commentBlock">106 comments</a> from listeners to Queen's story on NPR. The story disturbed listeners, but their reactions were very different.
+          <pre>
+
+          - "Queen works for the State of Colorado." 
+          - "Queen has great ideas of retiring." 
+          - "Queen has great ideas of sitting back." 
+          - "Queen has great ideas of enjoying life." 
+          - "Queen is laid off." 
+          - "Queen thinks that she can get another job." 
+          - "One week turns into a month. " 
+          - "One week turns into five months." 
+          - "Unemployment does not cover her rent." 
+          - "Queen loses her apartment." 
+          - "Queen's daughter wants her to move in." 
+          - "Queen thinks that her daughter should not take care of her." 
+          - "Queen thinks that she should take care of her children." 
+          - "Queen doesn't have money to buy a birthday card." 
+          - "Queen goes out with a sign."
+          - "Queen looks pretty middle- class." 
+          - "A man hands Queen a 10- dollar bill." 
+          - "Queen thanks the man." 
+          - "Queen buys her daughter a card." 
+          - "Queen remembers Christmas." 
+          - "Queen is in the shelter." 
+          - "Queen remembers the smells of cooking." 
+          - "Queen remembers the joy of Christmas." 
+          - "Queen feels pretty lonely." 
+          - "The women receive a gift bag." 
+          - "Queen gets a little bottle of lotion." 
+          - "Queen opens the little bottle of lotion." 
+          - "Queen smells the lotion." 
+          - "The lotion is the most beautiful fragrance Queen has ever smelled." 
+          - "Queen cries because the lotion lifts her spirits." 
+
+          </pre>
       -
         id: marriage
         title: International marriage--a big problem
