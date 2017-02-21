@@ -185,3 +185,23 @@ The 3-5 people in the same row as you will answer your questionnaire. Each perso
 - Barry Peggy Michelle Katie KuanChung Sunny
 - CheYuan Eros YuChing Ethan LuLu Nancy
 - Amber David Milly Nathan Sally Winnie
+
+## genre questionnaires
+
+Why is K-POP more interesting than J-POP
+
+a. the singing
+b. the songs
+c. the dancing
+
+Do you have a preference for girl or boy K-POP groups?
+
+a. girl
+b. boy
+c. no preference
+
+Is K-POP getting better or worse? Are earlier groups better?
+
+a. better
+b. worse
+c. no opinion
