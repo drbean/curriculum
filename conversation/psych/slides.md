@@ -1,0 +1,74 @@
+% Psychological disability and autism!
+% by Dr Bean (高來圭) at https://github.com/drbean/curriculum/tree/master/conversation/psych
+% Wed Dec 21 12:49:49 CST 2016
+
+# Autism
+
+## What is Autism
+
+- [Autism on wikipedia]( http://en.wikipedia.org/wiki/autism)
+- [Autism on youtube](http://www.google.com.tw/search?q=%22site:youtube.com+autism%22&num=100&gws_rd=ssl&tbm=isch&tbo=u&source=univ&sa=X)
+
+	- [Autism definition](https://www.youtube.com/watch?v=lbXjW-cX9kQ)
+
+
+
+# Cloze
+
+## Cloze 1--definition
+
+
+other
+pregnancy.
+associated
+factors.
+genetic
+life.
+signs
+Parents
+repetitive
+non-verbal
+interaction,
+characterized
+children
+developmental
+
+Autism is a _____(1) disorder shown by _____(2) before the age of three. It is _____(3) by poor social _____(4), a lack of verbal and _____(5) communication, and restricted and _____(6) behavior.  _____(7) usually notice _____(8) of it in the first two years of their child's _____(9). 
+
+It is due to a combination of _____(10) and environmental _____(11). Some cases are strongly _____(12) with certain infections during _____(13).  Controversies surround _____(14) proposed environmental causes; for example, the vaccine hypotheses. There is a range of disorders included within the autism spectrum (ASDs), varying from more severe to less severe, for example, Asperger syndrome.
+
+# Talking about autism
+
+## Idioms
+
+## Questions
+
+## Talking about autism--questions from http://www.eslconversationquestions.com/autism/ {.allowframebreaks}
+
+- [ESL Conversation Questions - autism](http://www.eslconversationquestions.com/autism/)
+
+## Talking about autism--Google links {.allowframebreaks}
+
+- [esl questions autism - Google  ](http://www.google.com.tw/search?q=esl+questions+autism&num=100)
+
+## Talking about small talk--questions from http://teflpedia.com/Small_talk_conversation_question {.allowframebreaks}
+
+- [- Small talk conversation questions - Teflpedia](http://teflpedia.com/Small_talk_conversation_questions)
+
+## Talking about science--questions from http://www.eslconversationquestions.com/science/ {.allowframebreaks}
+
+- [ESL Conversation Questions - science](http://www.eslconversationquestions.com/science/)
+
+## Talking about science--questions from http://iteslj.org/questions/science.html {.allowframebreaks}
+
+- [science questions](http://iteslj.org/questions/science.html )
+
+
+# Homework
+
+##
+
+See <a href="http://web.nuu.edu.tw/~greg/language/autism.html">http://web.nuu.edu.tw/~greg/language/autism.html</a>
+
+- [See (http://web.nuu.edu.tw/~greg/language/autism.html"](http://web.nuu.edu.tw/~greg/language/autism.html)
+
