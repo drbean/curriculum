@@ -23,6 +23,12 @@ Required are:
 
 ## Homework: an inquiry letter about a Taiwan cruise.
 
+Write the email to the cruise company. Include To:, From:, Subject: and Date: (it will be July31 or another date early in August)
+
+Use the information given in the book. For the first question, you need to say what your partner's dietary requirements are (Is he/she allergic to some food (what food?). Is he/she a vegetarian? You decide.) For the second and third question, you just have to change "you" to "I/me", etc.
+
+Do it before Sunday March 6, 8pm.
+
 # Classwork
 
 ## Scrambled inquiry acknowledgement {.allowframebreaks}
