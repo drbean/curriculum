@@ -300,6 +300,11 @@ garden:
       - Lori pours water on the seeds.             _Lori把水倒在種子上。_
       - Soon, daisies are growing.                 _不久，雛菊在增長。_
       - The daisies smell so nice!                 _雛菊氣味這麼好！_
+    -
+      - "G: What are you doing? _B: I'm pulling this potato plant out of the garden._"
+      - "G: Why are you doing that? _B: Because it's dead._"
+      - "G: Why is it dead? _B: I think a caterpillar ate it._"
+      - "B: Look at the leaves. G: Oh, there are holes in the leaves._"
 
     -
       - I didn't eat _because_ I wasn't hungry.

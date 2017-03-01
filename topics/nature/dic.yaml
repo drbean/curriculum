@@ -230,6 +230,19 @@
 
     Soon, daisies are growing. They smell so nice!
   - Lori|Lori|The end
+-
+  - "garden-1"
+  - "garden-1"
+  - "topics"
+  - "all"
+  - |+
+    G: What are you doing?
+    B: I'm pulling this potato plant out of the garden.
+    G: Oh, I see. Why are you doing that?
+    B: Because it's dead.
+    G: Yes, it doesn't look good. Why is it dead?
+    B: I think a caterpillar ate it. Look. There are holes in the leaves.
+  - potato|caterpillar|End
 ---
 -
   - genre
