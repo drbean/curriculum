@@ -1,0 +1,34 @@
+---
+-
+  - id
+  - description
+  - genre
+  - target
+  - content
+  - unclozeables
+  - percent
+-
+  - "birthday-0"
+  - "birthday"
+  - "topics"
+  - "all"
+  - |+
+    B: Hi, Mom! Guess what? We got our English test back today. I got the highest score in my class!
+    W: Oh, Billy. I'm glad you did so well! You worked hard for that test.
+    B: Thanks, Mom. I'm hungry. What's for dinner?
+    W: We're going to your aunt's place for dinner tonight. It's your grandfather's birthday today, remember?
+    B: Oh no, I forgot. I haven't got a birthday gift for Grandpa!
+    W: Don't worry. I bought a gift for him.
+  - Hi, Mom|what|We|our English|back|I got|highest|in my|Oh, Billy|I'm|you|so|You|for that|Thanks, Mom|I'm|What's for|We're|to|aunt's place for|It's your|today, remember|Oh no, I|I haven't got a|for Grandpa|Don't|I bought|for|from|of us|Anyway|English|is a|for your|The whole|will be|All your aunts, uncles|cousins|I haven't|the|in a long|Well|you'll see|them|Now|up and|ready|OK|When|we|When|gets|from|End
+-
+  - "birthday-1"
+  - "birthday"
+  - "topics"
+  - "all"
+  - |+
+    W: Anyway, your English test score is a good gift for your grandfather. The whole family will be at the party tonight. All your aunts, uncles and cousins are coming.
+    B: I haven't seen the whole family in a long time.
+    W: Well, you'll see them tonight. Now, hurry up and get ready.
+    B: OK. When are we leaving?
+    W: When Dad gets home from work.
+  - Anyway|English|is a|for your|The whole|will be|All your aunts, uncles|cousins|I haven't|the|in a long|Well|you'll see|them|Now|up and|ready|OK|When|we|When|gets|from|End
