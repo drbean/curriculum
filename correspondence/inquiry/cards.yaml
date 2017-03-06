@@ -218,4 +218,115 @@ cruise:
         -
           - Thank you again for your inquiry about the cruise.
           - 4 (polite close)
-
+boiler:
+  match:
+    0:
+      identifier: boiler first half
+      pair:
+        -
+          - 1
+          - D. Dear Mrs Jones
+        -
+          - 2
+          - G. Thank your for your letter dated 1 August 2016, concerning a check of your gas boilers.
+        -
+          - 3
+          - H. We are pleased that you acknowledge the importance of checking gas appliances regularly.
+        -
+          - 4
+          - C. You were correct in the fact that the boilers were installed 6 months ago.
+        -
+          - 5
+          - L. However, under the terms of your payment plan, our first free check is after one year.
+    1:
+      identifier: boiler second half
+      pair:
+        -
+          - 1
+          - B. Therefore, we are scheduled to come and check your boilers on 1 February 2017.
+        -
+          - 2
+          - I. However we would be happy to come and check your boilers this month, and we can offer this service for 80 dollars.
+        -
+          - 3
+          - J. This is 20% less than our usual fee.
+        -
+          - 4
+          - E. Phone our service center if you would like to take advantage of this offer.
+    2:
+      identifier: boiler 3rd half
+      pair:
+        -
+          - 1
+          - A. Thank you again for contacting our company.
+        -
+          - 2
+          - F. Please call us again if you feel we can be of assistance.
+        -
+          - 3
+          - K. Yours sincerely,
+    3:
+      identifier: boiler structure
+      pair:
+        -
+          - acknowledging message
+          - boiler 1
+        -
+          - answering request
+          - boiler 2
+        -
+          - polite expression
+          - boiler 3
+book:
+  match:
+    0:
+      identifier: book inquiry reply I
+      pair:
+        -
+          - 1
+          - dated
+        -
+          - 2
+          - pleased
+        -
+          - 3
+          - alternatively
+        -
+          - 4
+          - receipt
+    1:
+      identifier: book inquiry reply II
+      pair:
+        -
+          - 5
+          - currently
+        -
+          - 6
+          - discount
+        -
+          - 7
+          - attached
+        -
+          - 8
+          - newest/latest
+        -
+          - 9
+          - contact
+    2:
+      identifier: book inquiry structure
+      pair:
+        -
+          - 1
+          - acknowledging message
+        -
+          - 2
+          - answering inquiry
+        -
+          - 3
+          - different answer to inquiry
+        -
+          - 4
+          - extra information
+        -
+          - 5
+          - polite expression
