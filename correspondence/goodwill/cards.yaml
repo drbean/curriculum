@@ -21,3 +21,21 @@ conversation:
         -
           - 3
           - repetition of thanks
+talk:
+  jigsaw:
+    0:
+      identifier: talk at school
+      quiz:
+        - question: The writer speaks Chinese as a first language
+          answer: True
+        - question: The recipient speaks Chinese as a first language
+          answer: False
+        - question: "'That was not interesting' is the correct thing to say."
+          answer: False
+        - question: The writer is a teacher or student at a school.
+          answer: True
+        - question: The recipient is a teacher or student at the school.
+          answer: False
+        - question: The recipient was a visitor.
+          answer: True
+        
