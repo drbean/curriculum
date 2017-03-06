@@ -1,0 +1,23 @@
+---
+genre: correspondence
+conversation:
+  scramble:
+    0:
+      identifier: conversation corner scramble
+      sentence:
+        - Thank you for talking with us at the Conversation_Corner on Monday afternoon, 6:20pm.
+        - We learned a lot about you, and we were able to express ourselves better.
+        - Thanks, once again for the conversation, and we look forward to seeing you next week.
+  match:
+    0:
+      identifier: conversation corner match
+      pair:
+        -
+          - 1
+          - thank you reason
+        -
+          - 2
+          - more comments
+        -
+          - 3
+          - repetition of thanks
