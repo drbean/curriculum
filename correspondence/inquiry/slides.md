@@ -40,7 +40,7 @@ Use the information given in the book.
 * For the extra information, use what is written in the book, changing "the writer" to "you".
 * For the polite close, look at the examples on previous pages.
 
-Do it before Sunday March 6, 8pm.
+Do it before Sunday March 12, 8pm.
 
 # Classwork
 
