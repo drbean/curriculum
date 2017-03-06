@@ -29,6 +29,19 @@ Use the information given in the book. For the first question, you need to say w
 
 Do it before Sunday March 6, 8pm.
 
+## Homework: reply to an inquiry letter about heaters, p 66
+
+Write the email reply to Mr Moore. Include To:, From:, Subject:
+
+Use the information given in the book.
+
+* For the acknowledgement, look at the examples on previous pages.
+* For the answer to the question, decide what Moore wants you to send him.
+* For the extra information, use what is written in the book, changing "the writer" to "you".
+* For the polite close, look at the examples on previous pages.
+
+Do it before Sunday March 6, 8pm.
+
 # Classwork
 
 ## Scrambled inquiry acknowledgement {.allowframebreaks}
