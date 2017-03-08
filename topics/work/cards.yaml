@@ -1,5 +1,13 @@
 ---
 genre: topics
+parttime:
+  bingo:
+    -
+      - "B: Do you know where I can find a part-time job? _W: Have you looked in the newspaper?_"
+      - "W: Did you search on the Internet? _B: No, I haven't looked on the Internet._"
+      - "B: I don't know what I should search for. _W: You could search for the type of job that you are interested in._"
+      - "B: OK. Thanks for telling me about the Internet. _W: I have a list of some websites you could start looking at._"
+      - "W: My list of websites might save you some time. _B: A list would be very useful. Thanks!_"
 icecream:
   bingo:
     - over fifty spicy_food ice_cream job makes old some dessert throws good bad big cold hot doctor veterinarian dentist nurse teeth teacher hospital police_officer care interesting crooked animals people
