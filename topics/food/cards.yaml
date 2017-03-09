@@ -130,3 +130,10 @@ meal:
       potato chips   :  土豆片
       soda           :  蘇打
       sausages       :  香腸
+diet:
+  bingo:
+    -
+      - "W: Do you want some of this burger? _M: No, thank you._"
+      - "W: When did you start thinking about your weight and staying in shape? _M: Last month, when my doctor told me that I should be leading a healthier lifestyle._"
+      - "W: What types of food do usually eat now? _M: I eat lots of fruit and vegetables._"
+      - "M: Take care of yourself. Eat food that is good for you. _W: You're right. I should start thinking about a healthier lifestyle, too._"

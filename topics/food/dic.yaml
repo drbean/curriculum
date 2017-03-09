@@ -41,3 +41,28 @@
     Then, one farmer had an idea. He cut the carrots into small pieces. He took the bad pieces out, and he kept the good pieces.
     He made baby carrots.
   - End
+-
+  - "diet-0"
+  - "diet-0"
+  - "topics"
+  - "all"
+  - |+
+    W: This burger is delicious. Do you want some?
+    M: No, thank you. I'm working out at the gym these days. I want to be healthy, so I've also started eating good, fresh food.
+    W: You're exercising? That's fantastic. When did you start thinking about your weight and staying in shape?
+    M: Last month I had a checkup. My doctor told me that I should be leading a much healthier lifestyle now that I'm getting older.
+  - burger|Do|want|No|I'm|at|these days|be|so I've|started|eating|fresh|food|You're|That's fantastic|you|your|and staying|shape|Last|My|that|be leading|much healthier|lifestyle|I'm|older|Now|eat|instead|or|big|What|of|do|usually|now|fruit|I try|like|and pasta|try not|sugary foods|Oh dear|foods|cakes|Well|eat|that|you|You|to|care of|You're|thinking|healthier|But|I'm|to|my burger|End
+-
+  - "diet-1"
+  - "diet-1"
+  - "topics"
+  - "all"
+  - |+
+    M: Now, I try to eat small, regular meals instead of one or two big meals a day.
+    W: I see. What types of food do usually eat now?
+    M: I eat lots of fruit and vegetables. I try to limit carbohydrates like bread, rice and pasta. I also try not to eat sugary foods.
+    W: Oh dear! I love sugary foods, especially cakes.
+    M: Well, try to eat food that is good for you. You need to take care of yourself.
+    W: You're right. I should start thinking about a healthier lifestyle. But first ..
+  - Now|eat|regular|meals|instead|or|big|meals|What|of|do|usually|now|fruit|vegetables|I try|limit|carbohydrates|like|bread|rice|and pasta|also try not to eat|sugary foods|Oh dear|foods|cakes|Well|eat|that|you|You|need|to|care of|yourself|You're|thinking|healthier|But|I'm|to|my burger|End
+
