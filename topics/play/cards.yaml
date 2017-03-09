@@ -149,3 +149,15 @@ fun:
       - Don't worry. You have time.                                  _別擔心。 你有時間。_
       - It will be fun to see Lily and fun to watch a movie together._看到百合和樂趣一起看電影將是有趣的。_
       - I told you so.                                               _我已經告訴過你了_
+
+toy:
+  0:
+    flash:
+      hoop:                       箍
+      doll:                       娃娃
+      drum:                       鼓
+      teddy bear:                 泰迪熊
+      ball:                       球
+      kite:                       風箏
+      the doll has a teddy bear:  娃娃有一個玩具熊
+      the doll has a hoop:        娃娃有一個箍
