@@ -1,6 +1,43 @@
 % 科技英文, or Technical English
 % Cooking, by Dr Bean
-% Mon Mar 16 16:54:12 CST 2015
+% Mon Feb 27 14:39:00 CST 2017
+
+# Homework
+
+## Vocabulary lists
+
+## Homework: 15 cooking words.
+
+Write 15 food and cooking words that you don't know, but would like to learn in the next 3 weeks and talk about with Dr Bean in Week 5. In Week 5, there will be a test of how many of these words you learned.
+
+No, there will be a test of different words. In Weeks 9, 13, 18 there will be tests of how many of your words you learned about motorcycles, smartphones and academics.
+
+List the 15 words like this:
+
+	barbecue
+	broil
+	carve
+	chop
+	crush
+	fry
+	gel
+	grate
+	gratin
+	grease
+	grill
+	knead
+	measure
+	melt
+	microwave
+	mince
+	parboil
+
+Make sure you have a good Subject line. Don't write your name, or copy my Subject line.
+
+See my post.
+
+Do it before Sunday March 6, 8pm.
+
 
 # Vocabulary: base, report-base, test
 
@@ -82,5 +119,143 @@ whole wheat flour
 Flour has a lot of _____(1), a type of carbohydrate. The flour used in cooking is "_____(2)" ("plain" outside America), "_____(3)" ("self-raising" outside America, which has _____(4) added), and cake flour. A high protein (mainly _____(5)) content means the flour will produce crusty or chewy breads. With less _____(6), the flour is softer, which is better for cakes.
 
 Flour usually has had the _____(7) removed to prevent the flour from going bad. If the flour has not had it and the bran removed, it is called "_____(8)."
+
+# Sugar
+
+## The science of sugar
+
+- [A Harvard lecture about cooking and sugar ](https://www.youtube.com/watch?v=DOabtB-P-lk)
+
+What questions do they ask?
+
+What questions do you have?
+
+# Science and cooking
+
+## Harvard series
+
+- [Science and cooking at Harvard](https://www.youtube.com/watch?v=ZWrSK3Pjmj4&list=PL546CD09EA2399DAB)
+
+# Chocolate
+
+## Harvard lecture
+
+- [The many faces of chocolate ](https://www.youtube.com/watch?v=HS263kcm8Jc&list=PL546CD09EA2399DAB&index=25)
+
+## Cloze--what is chocolate
+
+
+additives
+beverages
+bitter
+brownies
+cacao
+chip
+created
+flavored
+foods
+form
+including
+majority
+other
+paste
+popular
+typically
+
+Chocolate is _____(1) a sweet and brown food of roasted and ground _____(2) seeds, often _____(3) , with other _____(4) like vanilla. It is distributed in the _____(5) of a liquid, _____(6) , or in a block, or used as a flavor in _____(7) foods. Cacao comes from Mesoamerica. The _____(8) of Mesoamerican people made chocolate _____(9) , including the Maya and Aztecs, who drank it as a very _____(10) drink.
+
+Chocolate is one of the most _____(11) foods in the world, and many _____(12) with chocolate have been _____(13) , particularly desserts _____(14) cakes,
+chocolate _____(15) , and chocolate _____(16) cookies. 
+
+## How chocolate is eaten, where is it produced?
+
+Many candies have sweetened chocolate, and chocolate bars and candy bars coated in chocolate
+are eaten as snacks. Chocolate is also drunk as chocolate milk and hot chocolate.
+
+After fermentation, the beans are dried, cleaned, and roasted. The shell is removed and the cacao is ground to make cocoa, which is usually liquefied. The liquor also may be processed into two components: cocoa solids and cocoa butter. Unsweetened baking chocolate (bitter chocolate) contains primarily cocoa solids and cocoa butter in varying proportions. Most chocolate is a combination of cocoa solids, cocoa butter or other fat, and sugar.
+
+
+Although cocoa comes from the Americas, Western Africa produces almost two-thirds of the world's cocoa, with Ivory Coast growing almost half of it.
+
+# Fermentation
+
+## Harvard lecture
+
+- [The prof discusses fermentation theory at the start:](https://www.youtube.com/watch?v=H1mMg91YJHc)
+- [At 15:45, the lecturer mentions nice and, then, disgusting fermented food](https://www.youtube.com/watch?v=H1mMg91YJHc)
+
+
+## Cloze {.allowframebreaks}
+
+acid
+alchohol (x2)
+yogurt 
+bacteria
+bread
+chemical
+converted
+dioxide
+gas
+generally
+large-scale
+micro-organisms
+muscles
+occurs
+off
+preserve
+products
+sour
+started
+typical
+word
+
+Fermentation is a _____(1) process in which sugars are _____(2) to acids, gases or _____(3) . It _____(4) in yeast, in _____(5), and in the _____(6) of animals (with lactic _____(7) fermentation). But the _____(8) is also used more _____(9) to mean _____(10) growth of _____(11) on a medium to make alcohol, _____(12) , or cheese, as well as other _____(13) . However the same process occurs when food goes "_____(14)", or bad.
+
+Humans _____(15) using fermentation in the Stone Age, 10,000 years ago, to _____(16) food in _____(17) products, like pickles and _____(18), as well as make alcohol. Besides _____(19) , other _____(20) products of fermentation are lactic acid, carbon _____(21) and hydrogen _____(22).
+
+# Coffee
+
+## Coffee brewing lecture
+
+- [How coffee tastes and what effects the taste](https://www.youtube.com/watch?v=_NCPQMC2L1U)
+
+## Coffee cloze
+
+
+after
+are
+as
+beneficial
+consumption
+drunk
+dung
+harmful
+in
+product
+taken
+this
+world
+
+Coffee originated _____(1) East Africa, but the biggest exporters _____(2) now Brazil, Vietnam and Indonesia. It is the second most valuable _____(3) exported by developing countries _____(4) oil. But the _____(5)'s most expensive coffee is beans _____(6) from the _____(7) of elephants, sold at $1,000 per kilogram. One third of the water _____(8) in America and Europe is drunk _____(9) coffee. But medical research has found no _____(10) effect, and perhaps even some _____(11) effects from _____(12) amount of coffee _____(13).
+
+
+# Exam
+
+## Procedure. Week 14
+
+In the computer lab we will learn Memrise food courses, and your exam score out of 5 will be the difference between your total points to that point and the points you had in week 10.
+
+Students with no points in week 10:
+
+- V0141003: 0
+- V0141019: 0
+- V0141029: 0
+- V0141036: 0
+
+Contact me.
+
+Students with no points in week 10 will get a grade of 3.
+
+The student who has the biggest gain will get 5. The student with the 15th biggest gain will get 4.
 
 == The End
