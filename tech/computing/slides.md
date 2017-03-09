@@ -1,0 +1,401 @@
+% 科技英文, or Technical English
+% Computing, smartphones by Dr Bean
+% Mon Mar 16 16:54:12 CST 2015
+
+# Computing, mobile devices
+
+## Homework
+
+Most students are not doing homework
+
+It is likely that students will fail this class.
+
+# Smartphones
+
+## Smartphone criticism
+
+Dr Bean thinks smartphone use is dumbing down a generation. Instead of reading a book or thinking, people are reading email from their friends, looking at pictures of their pets, or watching movies. They should be reading a book, or sleeping!
+
+The only way to escape this is to stop using smartphones or to become the master of the smartphone, taking control of it by programming it. This is difficult, but it makes you smart, not dumb. So it is good for you.
+
+## Smartphones--What are they?
+
+
+3rd-party
+basic_feature
+browsing
+computing
+consumer
+currently
+devices
+digital_camera
+features
+handset
+mobile
+modern
+operating systems
+personal_digital_assistant (PDA)
+powered
+those
+touchscreen
+typically
+unit
+Wi-Fi
+
+A smartphone, or smart phone, is a _____(0) phone with more advanced _____(1) capability and connectivity than _____(2) phones.
+
+Early smartphones _____(3) combined the _____(4) of a mobile phone with _____(5) of another popular _____(6) device, such as a _____(7), a media
+player, a _____(8), or a GPS navigation _____(9). _____(10) smartphones include all of those features plus the features of a _____(11) computer, including web
+_____(12) _____(13) and _____(14) apps.
+
+_____(15), about 90% of _____(16) sales worldwide are for _____(17) _____(18) by Google's Android and Apple's iOS mobile _____(19).
+
+
+## Smartphone history {.allowframebreaks}
+
+
+appeared
+best-selling
+conceptualized
+demonstrated
+devices
+display
+Ericsson
+first
+marketed
+operating systems
+PDA
+prototype
+referred
+sale
+Simon
+"smartphone"
+telephony
+trade
+users
+
+_____(1) that combined _____(2) and computing were first _____(3) in 1973, and were offered for _____(4) beginning in 1993. The term _____(5) first _____(6) in
+1997, when _____(7) described its GS 88 as one.
+
+The _____(8) mobile phone to incorporate _____(9) features was an IBM _____(10) developed in 1992 and _____(11) that year at and industry _____(12) show. A
+refined version of the product was _____(13) to consumers in 1994 by BellSouth under the name Simon. The _____(14) was the first device that can be
+_____(15) to as a "smartphone". Simon could make and receive cellular phone calls and send and receive faxes and e-mails through a touch screen _____(16).
+
+In the late 1990s, many mobile phone _____(17) carried a separate dedicated PDA device, running early versions of _____(18) such as Palm OS, BlackBerry OS or
+Windows CE/Pocket PC. These would later evolve into mobile OSes.
+
+In 1996, Nokia released the Nokia 9000 which became their _____(19) phone of that time. It was a palmtop computer-style phone combined with a PDA from HP. In early
+prototypes, the two devices were fixed together via a hinge in what became known as a clamshell design. When opened, the display was on the inside top surface and with
+a physical QWERTY keyboard on the bottom. Email and text-based web browsing was provided by the GEOS V3.0 operating system.
+
+In June 1999, Qualcomm released a "CDMA Digital PCS Smartphone" with integrated Palm PDA and Internet connectivity, known as the "pdQ Smartphone".^[12]
+
+In early 2000, the Ericsson R380 was released by Ericsson Mobile Communications,^[13] and was the first device marketed as a "smartphone".^[14] It combined the
+functions of a mobile phone and a personal digital assistant (PDA), supported limited web browsing with a resistive touchscreen utilizing a stylus.^[15]
+
+# Android interface design
+
+## Some simple, but essential, rules about concrete items on the smartphone screen
+
+- [Core App Quality | Android Developers ](https://developer.android.com/distribute/essentials/quality/core.html)
+
+
+## Principles that app designers should understand
+
+- [http://developer.android.com/design/index.html ](http://developer.android.com/design/index.html)
+
+## Statement about importance of Android Design Principles
+
+creativity
+designers
+detailed
+developed
+interests
+principles
+purpose.
+these
+types
+user
+
+_____(1) design principles were _____(2) by and for the Android _____(3) Experience Team to keep users' best _____(4) in mind. For Android developers and _____(5), they continue to underlie the more _____(6) design guidelines for different _____(7) of devices. Consider these _____(8) as you apply your own _____(9) and design thinking. Deviate with _____(10).
+
+## Android Design Principles
+
+Developers are good at writing computer programs, but they are not good at thinking about design and the experience of the app's users. The principles were created by the Android User Experience Team to help developers make their apps useful to users like you.
+
+There a 3 major design principles:
+
+- Enchant me
+- Simplify my life
+- Make me amazing.
+
+Each principle has subprinciples. For example, Enchant me's subprinciples are
+
+- Delight me in surprising ways
+- Real objects are more fun than buttons and menus
+- Let me make it mine
+- Get to know me.
+
+## Enchant Me
+
+
+choices
+cognitive
+delight
+effects
+feeling
+get
+home
+make
+menus
+objects
+personal
+powerful
+preferences
+previous
+rather
+reach
+satisfying
+touch
+
+_____(11) me in surprising ways: Subtle _____(12) contribute to a _____(13) of effortlessness and a sense that a _____(14) force is at hand.
+
+Real _____(15) are more fun than buttons and _____(16): Allow people to directly _____(17) and manipulate objects. It reduces the _____(18) effort and makes it emotionally _____(19).
+
+Let me _____(20) it mine:  People love to add _____(21) touches because it helps them feel at _____(22) and in control.
+
+_____(23) to know me: Learn peoples' _____(24) over time. _____(25) than asking them to make the same _____(26) over and over, place _____(27) choices within easy _____(28).
+
+
+## Simplify my life's first 4 subprinciples are
+
+Simplify My Life
+
+
+asking
+attention
+brief
+decisions
+digestible
+efficient
+essential
+explain
+guess
+me
+need
+once
+overwhelmed
+sentences
+simple
+teach
+words
+wrong
+
+Keep it _____(1) Use short phrases with _____(2) words. People are likely to skip _____(3) if they're long.
+
+Pictures are faster than _____(4) Consider using pictures to _____(5) ideas. They get people's _____(6) and can be much more _____(7) than words.
+
+Decide for me but let _____(8) have the final say: Take your best _____(9) and act rather than _____(10) first. Too many choices and _____(11) make people unhappy. Just in case you get it _____(12) allow for 'undo'.
+
+Only show what I _____(13) when I need it: People get _____(14) when they see too much at _____(15). Break tasks and information into small, _____(16) chunks. Hide options that aren't _____(17) at the moment, and _____(18) people as they go.
+
+## Simplify my life's second 4 subprinciples are
+
+
+access
+act
+act
+anywhere
+confidence
+create
+distinct
+distinct
+feedback
+focused
+I
+important
+interruption
+lose
+people
+relationships
+upgrading
+
+I should always know where _____(19) am: Give people _____(20) that they know their way around. Make places in your app look _____(21) and use transitions to show _____(22) among screens. Provide _____(23) on tasks in progress.
+
+Never _____(24) my stuff: Save what people took time to _____(26) and let them _____(27) it from _____(28). Remember settings, personal touches, and creations across phones, tablets, and computers. It makes _____(29) the easiest thing in the world.
+
+If it looks the same, it should _____(30) the same: Help people discern functional differences by making them visually _____(31) rather than subtle. Avoid modes, which are places that look similar but _____(32) differently on the same input.
+
+Only interrupt me if it's _____(33): Like a good personal assistant, shield _____(34) from unimportant minutiae. People want to stay _____(35), and unless it's critical and time-sensitive, an _____(37) can be taxing and frustrating.
+
+## Simplify my life's subprinciples are
+
+Simplify My Life
+
+
+
+Keep it brief: Use short phrases with simple words. People are likely to skip sentences if they're long.
+
+Pictures are faster than words: Consider using pictures to explain ideas. They get people's attention and can be much more efficient than words.
+
+Decide for me but let me have the final say: Take your best guess and act rather than asking first. Too many choices and decisions make people unhappy. Just in case you get it wrong, allow for 'undo'.
+
+Only show what I need when I need it: People get overwhelmed when they see too much at once. Break tasks and information into small, digestible chunks. Hide options that aren't essential at the moment, and teach people as they go.
+
+## Simplify my life's subprinciples are
+
+I should always know where I am: Give people confidence that they know their way around. Make places in your app look distinct and use transitions to show relationships among screens. Provide feedback on tasks in progress.
+
+Never lose my stuff: Save what people took time to create and let them access it from anywhere. Remember settings, personal touches, and creations across phones, tablets, and computers. It makes upgrading the easiest thing in the world.
+
+If it looks the same, it should act the same: Help people discern functional differences by making them visually distinct rather than subtle. Avoid modes, which are places that look similar but act differently on the same input.
+
+Only interrupt me if it's important: Like a good personal assistant, shield people from unimportant minutiae. People want to stay focused, and unless it's critical and time-sensitive, an interruption can be taxing and frustrating.
+
+## Make me amazing
+
+
+details
+easier
+easily
+experts
+figure
+gentle
+gesture
+important
+look
+not
+smaller
+smart
+thought
+work
+wrong
+
+Give me tricks that _____(1) everywhere: People feel great when they _____(2) things out for themselves. Make your app _____(3) to learn by following the same patterns as other apps. For example, the swipe _____(4) is a good navigational shortcut.
+
+It's _____(5) my fault: Be _____(6) in how you prompt people to make corrections. They want to feel _____(7) when they use your app. If something goes _____(8), give clear recovery instructions but
+   spare them the technical _____(9).
+
+Sprinkle encouragement: Break complex tasks into _____(10) steps that can be _____(11) accomplished. Give feedback on actions, even if it's just a subtle glow.
+
+Do the heavy lifting for me: Make novices feel like _____(12) by enabling them to do things they never _____(13) they could. For example, combining multiple photo effects in just one step can make ordinary photographs _____(14) amazing.
+
+Make _____(15) things fast: Make the most important feature of your app easy to find and fast to use, like the shutter button in a camera, or the pause button in a music player.
+
+## Google maps is difficult to use
+
+Which of the design principles and subprinciples does it follow? Which doesn't it follow?
+
+# Google TV design requirements for listing on Google Play
+
+## Android TV
+
+- [Designing for Android TV | Android Developers ](https://developer.android.com/design/tv/index.html)
+
+
+# Computing exam--applying the principles we learned
+
+## Downloading and installing Anki
+
+Which groups are the fastest to download and install Anki?
+
+Talk to each other in Chinese but use no resources in Chinese, only English. Searching on google.com.tw is OK, but only links in English can be followed.
+
+- [Anki screen](http://web.nuu.edu.tw/~greg/computing/Screenshot\ from\ 2015-06-22\ 14:19:54.png)
+
+
+## Downloading and installing Mnemosyne
+
+Which groups are the fastest to download and install Mnemosyne?
+
+## Creating a Computing word course on Memrise from the words of the computing baseline at http://web.nuu.edu.tw/~greg/tech/flash/V0041046.txt
+
+Which groups are the fastest to create a course of one of the 3 students words?
+
+- [Camuel's Memrise course](http://web.nuu.edu.tw/~greg/computing/Screenshot\ from\ 2015-06-22\ 14:58:39.png)
+
+## Downloading and installing Nini, Joanne and Willy's decks.
+
+Which groups are the fastest to download and install the decks that Nini, Joanne and Willy shared on http://ankiweb.net?
+
+## Creating an Anki deck of words from the same list used to create the Memrise course and sharing them on Ankiweb
+
+Which groups are the fastest to create and share decks from words they got wrong in the computing pretest?
+
+# Jailbreaking on iOS and rooting on Android
+
+## Jailbreaking
+
+
+activity
+advanced
+allows
+Apple_store
+attempts
+download
+exploits
+Google
+operating_system
+phones
+releases
+restrictions
+users
+ways
+
+Apple puts more _____(1) on users than _____(2) does. So iPhone _____(3) may look for _____(4) to do more with their _____(5) than Apple _____(6) . this _____(7) , called jailbreaking includes _____(8) to modify the _____(9) , and to _____(10) (called sideloading) apps from other than the _____(11) . This more or less requires _____(12) computer skills. And Apple _____(13) updates to cope with  _____(14) .
+
+## Rooting
+
+
+Android
+called
+difficult
+do
+encourage
+HTC
+manufacturers
+may
+newer
+normally
+replace
+
+_____(15) users can also try to _____(16) more with their phone than _____(17) possible. This is _____(18) rooting, and _____(19) allow users to _____(20) their operating system with a _____(21) version. Some  _____(22) and carriers may try to make this _____(23) , but _____(24) , Samsung and others _____(25) it.
+
+# Final exam
+
+## Finish doing homework by 8am Tuesday morning
+
+I will close down the homework when I get to shool tomorrow
+
+## Wrong or alternative translations by 8am Tuesday morning {.allowframebreaks}
+
+
+Send me the words and the translations in the
+body of the email, not as an attachment.
+
+Put a space between the word and translation and line them up
+like:
+
+~~~~
+
+design principles            設計原則
+user experience              用戶體驗
+carefully-placed             精心放置
+well-timed                   合拍的
+subtle                       微妙
+effortlessness               毫不費力
+
+~~~~
+
+Separate the words you sent me before into 2 groups, those whose translations ar
++e
+incorrect, and those for which 2 translations are good.
+
+I will change the bad translations for the exam, and allow both
+answers for the ones with 2 possible answers.
+
+## Learning the words with anki
+
+On elearning bu Sunday morning, put a screenshot showing the anki screen with a word, and in the subject line, put the 3 numbers, new cards, cards being learned now, and cards waiting to be reviewed.
+
+## The End
