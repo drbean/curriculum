@@ -113,4 +113,11 @@ ticket:
       - 'M: Who are you going to take with you? _W: I was thinking that maybe you would like to go._'
       - 'W: Where shall we meet on Saturday? _M: Well, the game starts at nine in the morning, right?_'
       - 'W: Shall we meet here at 8:30 a.m. on Saturday? _M: Good idea. I cannot wait!_'
-
+inline:
+  bingo:
+    -
+      - "G: What did you do during the weekend? _B: I went inline skating with my friends at the park._"
+      - "G: Did you have fun? _B: Yes, I did._"
+      - "B: But it was also my first time, so it was really difficult. _G: Next time will be easier. You just need more practice._"
+      - "B: What about you? _G: Actually, I also went inline skating._"
+      - "G: I usually skate about 20 kilometers with my father. _B: Wow! How can you skate so far?_"
