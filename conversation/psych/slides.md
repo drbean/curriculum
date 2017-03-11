@@ -1,15 +1,16 @@
 % Psychological disability and autism!
 % by Dr Bean (高來圭) at https://github.com/drbean/curriculum/tree/master/conversation/psych
-% Wed Dec 21 12:49:49 CST 2016
+% Thu Feb 23 20:58:49 CST 2017
 
 # Autism
 
 ## What is Autism
 
 - [Autism on wikipedia]( http://en.wikipedia.org/wiki/autism)
-- [Autism on youtube](http://www.google.com.tw/search?q=%22site:youtube.com+autism%22&num=100&gws_rd=ssl&tbm=isch&tbo=u&source=univ&sa=X)
+- [Autism on youtube](http://www.google.com.tw/search?q=site:youtube.com+autism&num=100&gws_rd=ssl&tbm=isch&tbo=u&source=univ&sa=X)
 
 	- [Autism definition](https://www.youtube.com/watch?v=lbXjW-cX9kQ)
+	- [Autism--the wider spectrum and the changing number of cases](https://www.youtube.com/watch?v=wKlMcLTqRLs)
 
 
 
@@ -18,24 +19,37 @@
 ## Cloze 1--definition
 
 
-other
-pregnancy.
 associated
-factors.
-genetic
-life.
-signs
-Parents
-repetitive
-non-verbal
-interaction,
+autism
 characterized
 children
 developmental
+example
+factors
+genetic
+interaction
+life
+non-verbal
+other
+parents
+pregnancy
+range
+repetitive
+severe
+signs
 
 Autism is a _____(1) disorder shown by _____(2) before the age of three. It is _____(3) by poor social _____(4), a lack of verbal and _____(5) communication, and restricted and _____(6) behavior.  _____(7) usually notice _____(8) of it in the first two years of their child's _____(9). 
 
-It is due to a combination of _____(10) and environmental _____(11). Some cases are strongly _____(12) with certain infections during _____(13).  Controversies surround _____(14) proposed environmental causes; for example, the vaccine hypotheses. There is a range of disorders included within the autism spectrum (ASDs), varying from more severe to less severe, for example, Asperger syndrome.
+It is due to a combination of _____(10) and environmental _____(11). Some cases are strongly _____(12) with certain infections during _____(13).  Controversies surround _____(14) proposed environmental causes. There is a _____(15) of disorders included within the _____(16) spectrum (ASDs), for _____(17), Asperger syndrome, which is less _____(18).
+
+
+# Therapy
+
+## Practicing being social
+
+- [Helping kids with autism ](http://www.wikihow.com/Teach-Autistic-Children-to-Start-a-Conversation)
+
+
 
 # Talking about autism
 
@@ -43,13 +57,10 @@ It is due to a combination of _____(10) and environmental _____(11). Some cases 
 
 ## Questions
 
-## Talking about autism--questions from http://www.eslconversationquestions.com/autism/ {.allowframebreaks}
-
-- [ESL Conversation Questions - autism](http://www.eslconversationquestions.com/autism/)
-
 ## Talking about autism--Google links {.allowframebreaks}
 
 - [esl questions autism - Google  ](http://www.google.com.tw/search?q=esl+questions+autism&num=100)
+
 
 ## Talking about small talk--questions from http://teflpedia.com/Small_talk_conversation_question {.allowframebreaks}
 
