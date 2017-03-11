@@ -253,3 +253,60 @@ tremonte:
           answer: True
         - question: Question 16. De-institutionalization: Jim Rye, Ralph Tremonte and Donald Weiss belong to the consumer group, rather than the survivor group.
           answer: False
+jegede:
+  jigsaw:
+    0:
+      identifier: 
+      quiz:
+        - question: it affects everyone in 
+          option:
+            - similar
+            - different
+          answer: different
+        - question: It is becoming more __
+          option:
+            - common
+            - difficult to find
+          answer: common
+        - question: When Remi was born, Faith was ___
+          option:
+            - worried
+            - excited
+          answer: excited
+        - question: He stayed in his own ____
+          option:
+            - world
+            - bedroom
+          answer: world
+        - question: He had tantrums, but had a ___ nature
+          option:
+            - pure and innocent
+            - kind and gentle
+          answer: pure and innocent
+  match:
+    0:
+      identifier: vocab
+      pair:
+        -
+          - 1
+          - beauty
+        -
+          - 2
+          - wrong
+        -
+          - 3
+          - different
+        -
+          - 4
+          - extraordinary
+        -
+          - 5
+          - progress
+        -
+          - 6
+          - normal
+
+        
+        
+        
+
