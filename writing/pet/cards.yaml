@@ -1,0 +1,14 @@
+genre: writing
+topic:
+  jigsaw:
+    0:
+      identifier: famous people's pets
+      quiz:
+        - question: topic sentence?
+          option:
+            - 1
+            - 2
+            - 3
+          answer: 3
+        
+        
