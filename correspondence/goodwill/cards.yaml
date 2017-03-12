@@ -38,4 +38,76 @@ talk:
           answer: False
         - question: The recipient was a visitor.
           answer: True
-        
+congratulation:
+  scramble:
+    0:
+      identifier: graduation
+      sentence:
+          - It's great to hear you graduated.
+          - I hope it's not going to take you as long to get a job.
+          - Why don't we get together and celebrate?
+    
+  match:
+    0:
+      identifier: graduation
+      pair:
+        -
+          - Initial congratulation
+          - It's great to hear you graduated.
+        -
+          - Personal comment
+          - I hope it's not going to take you as long to get a job.
+        -
+          - A reference to the future
+          - Why don't we get together and celebrate?
+  jigsaw:
+    0:
+      identifier: graduation
+      quiz:
+        - question: The writer in the previous exercise is the recipient's boss.
+          answer: False
+        - question: The text in the previous exercise is less formal than the one in the book.
+          answer: True
+condolence:
+  scramble:
+    0:
+      identifier: gept
+      sentence:
+          - Too bad you didn't get a good GEPT score.
+          - You're going to have to take the CSEPT exam.
+          - I can lend you my CSEPT textbooks, if you want.
+    
+  match:
+    0:
+      identifier: gept
+      pair:
+        -
+          - Reason for condolences
+          - Too bad you didn't get a good GEPT score.
+        -
+          - Personal comment
+          - You're going to have to take the CSEPT exam.
+        -
+          - Offer of assistance
+          - I can lend you my CSEPT textbooks, if you want.
+invitation:
+  scramble:
+    0:
+      identifier: smokers
+      sentence:
+        - Do you want to give a speech at a conference we are organizing?
+        - The conference will take place October_20-21 in Taipei.
+        - We hope you can fit this event into your busy schedule.
+  match:
+    0:
+      identifier: smokers
+      pair:
+        -
+          - Invitation
+          - Do you want to give a speech at a conference we are organizing?
+        -
+          - Date, place, other details
+          - The conference will take place October_20-21 in Taipei.
+        -
+          - Hopeful closing sentiment
+          - We hope you can fit this event into your busy schedule.
