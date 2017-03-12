@@ -1,0 +1,42 @@
+genre: writing
+topic:
+  jigsaw:
+    0:
+      identifier: selling Taiwan
+      quiz:
+        - question: topic sentence?
+          option:
+            - 1
+            - 2
+            - 3
+            - 4
+            - 5
+          answer: 3
+conclusion:
+  jigsaw:
+    0:
+      identifier: sewing
+      quiz:
+        - question: best sentence
+          option:
+            - a
+            - b
+            - c
+            - d
+          answer: b
+        - question: best sentence
+          option:
+            - a
+            - b
+            - c
+            - d
+          answer: c
+        - question: best sentence
+          option:
+            - a
+            - b
+            - c
+            - d
+          answer: d
+        
+        
