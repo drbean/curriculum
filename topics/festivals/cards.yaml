@@ -4,6 +4,17 @@ calendar:
   bingo:
     - Mother's_Day Father's_Day Christmas Valentine's_Day Halloween Independence_Day Easter
 party:
+  0:
+    flash:
+      poster        : 海報
+      invitation    : 邀請
+      band          : 樂隊
+      decorations   : 裝飾品
+      prepare       : 準備
+      practice      : 實踐
+      design        : 設計
+      decorate      : 裝飾
+
   bingo:
     - poster invitation band prepare decorations practice design decorate making write draw color paint count measure paste cut fantastic pizza Jello hamburger
     - Sally Mark Anna birthday August CD invitation_card friend mine reply conversation building as_soon_as_possible movies information inviting questions thirteen theater apartment leave/left/left
