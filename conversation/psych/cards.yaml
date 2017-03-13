@@ -283,6 +283,49 @@ jegede:
             - pure and innocent
             - kind and gentle
           answer: pure and innocent
+    1:
+      identifier: vocab in context
+      quiz:
+        - question: 1. get this
+          option:
+            - a
+            - b
+            - c
+          answer: a
+        - question: 2. be familiar with
+          option:
+            - a
+            - b
+            - c
+          answer: c
+        - question: 3. recall
+          option:
+            - a
+            - b
+            - c
+          answer: b
+        - question: 4. staring at
+          option:
+            - a
+            - b
+            - c
+          answer: c
+        - question: 5. challenging
+          option:
+            - a
+            - b
+            - c
+          answer: b
+        - question: 6. never-ending
+          option:
+            - a
+            - b
+            - c
+          answer: b
+        
+        
+        
+        
   match:
     0:
       identifier: vocab
@@ -305,8 +348,3 @@ jegede:
         -
           - 6
           - normal
-
-        
-        
-        
-
