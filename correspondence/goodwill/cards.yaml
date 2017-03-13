@@ -58,7 +58,7 @@ congratulation:
           - Personal comment
           - I hope it's not going to take you as long to get a job.
         -
-          - A reference to the future
+          - A reference to the future interaction with the recipient
           - Why don't we get together and celebrate?
   jigsaw:
     0:
@@ -97,7 +97,7 @@ invitation:
       sentence:
         - Do you want to give a speech at a conference we are organizing?
         - The conference will take place October_20-21 in Taipei.
-        - We hope you can fit this event into your busy schedule.
+        - Having you at the conference would make our day.
   match:
     0:
       identifier: smokers
@@ -110,4 +110,88 @@ invitation:
           - The conference will take place October_20-21 in Taipei.
         -
           - Hopeful closing sentiment
-          - We hope you can fit this event into your busy schedule.
+          - Having you at the conference would make our day.
+    1:
+      identifier: book, vocab
+      pair:
+        -
+          - 1
+          - would like you to come and make
+        -
+          - 2
+          - given
+        -
+          - 3
+          - to be held
+        -
+          - 4
+          - between
+        -
+          - 5
+          - on
+        -
+          - 6
+          - would be very happy
+        -
+          - 7
+          - could you please
+        -
+          - 8
+          - by
+    2:
+      identifier: book, invitation reply
+      pair:
+        -
+          - 1
+          - thank you
+        -
+          - 2
+          - honored
+        -
+          - 3
+          - happy
+        -
+          - 4
+          - however
+        -
+          - 5
+          - decline
+        -
+          - 6
+          - suggest
+        -
+          - 7
+          - experience
+        -
+          - 8
+          - entertaining
+        -
+          - 9
+          - sincere
+        -
+          - 10
+          - apologies
+        -
+          - 11
+          - accept
+        -
+          - 12
+          - success
+        -
+          - 13
+          - informed
+        -
+          - 14
+          - news
+        
+        
+
+  jigsaw:
+    0:
+      identifier: smokers
+      quiz:
+        - question: The writer in the previous exercise knows the recipient.
+          answer: True
+        - question: The text in the previous exercise is less formal than the one in the book.
+          answer: True
+
