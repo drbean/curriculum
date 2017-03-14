@@ -243,6 +243,15 @@
     G: Yes, it doesn't look good. Why is it dead?
     B: I think a caterpillar ate it. Look. There are holes in the leaves.
   - potato|caterpillar|End
+-
+  - "garden-2"
+  - "garden-2"
+  - "topics"
+  - "all"
+  - |+
+    Most plants grow in the dirt. However, some plants don't need to grow in the dirt. They can grow in just water. Some people have gardens like this.
+    The plants grow in glass boxes and sit in the water. This is good, because bugs can't eat the plants, and the plants can grow faster.
+  - dirt|plants|grow|water|people|gardens|plants|glass boxes|bugs|faster|End
 ---
 -
   - genre

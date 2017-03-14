@@ -305,6 +305,11 @@ garden:
       - "G: Why are you doing that? _B: Because it's dead._"
       - "G: Why is it dead? _B: I think a caterpillar ate it._"
       - "B: Look at the leaves. G: Oh, there are holes in the leaves._"
+    -
+      - Most plants grow in the dirt.                              _大多數植物生長在泥土中。_
+      - Some plants can grow in just water.                        _一些植物可以在水中生長。_
+      - The plants grow in glass boxes and sit in the water.       _植物生長在玻璃箱子裡，坐在水中。_
+      - Bugs can't eat the plants, and the plants can grow faster. _蟲子不能吃植物，植物可以生長得更快。_
 
     -
       - I didn't eat _because_ I wasn't hungry.
@@ -317,6 +322,7 @@ garden:
       - A _daisy_ is a flower.
       - You can dig in the garden with a _shovel_.
       - A yellow fruit with black seeds--a _papaya_.
+
   0:
     flash:
       potatoes   : 土豆
