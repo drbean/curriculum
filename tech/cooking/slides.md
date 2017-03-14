@@ -241,21 +241,24 @@ Coffee originated _____(1) East Africa, but the biggest exporters _____(2) now B
 
 # Exam
 
-## Procedure. Week 14
+## Procedure. Week 6
 
-In the computer lab we will learn Memrise food courses, and your exam score out of 5 will be the difference between your total points to that point and the points you had in week 10.
+In the computer lab we will learn Memrise food courses, and your exam score out of 5 will be the difference between your total points to that point and the points you had in week 3.
 
-Students with no points in week 10:
+Students with no points in week 3:
 
-- V0141003: 0
-- V0141019: 0
-- V0141029: 0
-- V0141036: 0
+  V0241001: ~
+  V0241042: ~
+  V0341011: ~
+  V0341019: ~
+  V0341036: ~
+  V0341037: ~
+ 
 
 Contact me.
 
 Students with no points in week 10 will get a grade of 3.
 
-The student who has the biggest gain will get 5. The student with the 15th biggest gain will get 4.
+The student who has the biggest gain will get 5. The student with the 16th biggest gain will get 4.
 
 == The End
