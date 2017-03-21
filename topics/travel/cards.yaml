@@ -343,3 +343,11 @@ backpack:
       - A hostel is like a hotel. Hotels are not cheap. Hostels are very cheap.        _宿舍就像一家酒店。 酒店不便宜。 旅舍很便宜。_
       - Travelers often share rooms, toilets and baths at hostels.                     _旅行者經常在旅館共用客房，衛生間和浴室。_
       - Hostels are a good place to make friends with other travelers.                 _旅舍是與其他旅客交朋友的好地方。_
+train:
+  bingo:
+    -
+      - "M: I never travel because I hate flying in airplanes. _W: That doesn't matter, Dean. There are other ways to get around._"
+      - "M: I've always wanted to take a long train trip. _W: What's stopping you?_"
+      - "M: What do you think the fares are like? _W: I'm not sure what train fares are like now._"
+      - "M: Can you suggest a good person to talk to? _W: My travel agent is always very helpful._"
+      - "W: Here is my travel agent's phone number. _M: Thanks! I'll call him right now._"

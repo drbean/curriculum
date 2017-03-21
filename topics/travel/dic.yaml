@@ -403,7 +403,29 @@
     W: Have I ever told you about the songs I liked at your age? People listened to real music in those days.
     G: Oh, Mom! Rap is real music, too!
   - Mom|Danielle|again|Tell|move|Listen|I've|of your|Toronto|time|your|I don't|me|Can|CD|suppose|rap|That|I can't|actually|You|Well|bad|All right|I choose|Have|ever|age|People|real|too
-
+-
+  - train-0
+  - "train-0"
+  - "topics"
+  - "all"
+  - |+
+    M: You're so lucky, Marian. You're leaving for Hawaii in five hours! I never travel because I hate flying in airplanes. I don't like buses, either.
+    W: That doesn't matter, Dean. There are other ways to get around. You should take the train somewhere.
+    M: That's true. It's been a long time since I last traveled. I've always wanted to take a long train trip.
+    W: What's stopping you? Go to the travel agent now and ask about train trips!
+  - You're|Marian|You're|for|Hawaii|because|in airplanes|don't|either|That doesn't|Dean|There are|to get|You|take|somewhere|That's|It's|long|since I last|I've|wanted to|trip|What's|you|Go to|agent|and|about|trips|What|you|the|are like|I'm not|what|are like|it depends|your|That's|you'll|to|agent|Can you|good|to|to|My|agent|is|very|Here is his|I'll|him|right|Where's the|End
+-
+  - train-1
+  - "train-1"
+  - "topics"
+  - "all"
+  - |+
+    M: What do you think the fares are like?
+    W: I'm not sure what train fares are like now. I think it depends on your destination. That's a question you'll have to ask a travel agent.
+    M: Can you suggest a good person to talk to?
+    W: My travel agent is always very helpful. Here is his phone number.
+    M: Thanks! I'll call him right now. Where's the phone?
+  - What|you|the|are like|I'm not|what|are like|it depends|your|That's|you'll|to|agent|Can you|good|to|to|My|agent|is|very|Here is his|I'll|him|right|Where's the|End
 
 
 
