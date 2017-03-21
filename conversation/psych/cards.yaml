@@ -258,6 +258,30 @@ jegede:
     0:
       identifier: 
       quiz:
+        A : You have two brothers, Remi and Sam. 
+        - question: A
+          option:
+            - Faith
+            - Remi
+            - Sam
+          answer: Faith
+        - question: B
+          option:
+            - Faith
+            - Remi
+            - Sam
+          answer: Remi
+        - question: C
+          option:
+            - Faith
+            - Remi
+            - Sam
+          answer: Sam
+        
+        
+    1:
+      identifier: 
+      quiz:
         - question: it affects everyone in 
           option:
             - similar
@@ -283,8 +307,8 @@ jegede:
             - pure and innocent
             - kind and gentle
           answer: pure and innocent
-    1:
-      identifier: vocab in context
+    2:
+      identifier: vocab in context p77
       quiz:
         - question: 1. get this
           option:
@@ -322,9 +346,15 @@ jegede:
             - b
             - c
           answer: b
-        
-        
-        
+    3:
+      identifier: authority
+      quiz:
+        - question: Faith's authority for her statements about being not normal
+          option:
+            - first hand experience as such a person
+            - first hand experience from close contact with such a person
+            - second hand experience having heard from someone with first hand experience
+          answer: first hand experience from close contact with such a person
         
   match:
     0:
@@ -348,3 +378,26 @@ jegede:
         -
           - 6
           - normal
+    1:
+      identifier: keywords, p 75
+      pair:
+        -
+          - hyperactive
+          - d
+        -
+          - tell a lie
+          - a
+        -
+          - a tantrum
+          - f
+        -
+          - greedy
+          - b
+        -
+          - unique
+          - e
+        -
+          - a cure
+          - c
+        
+        
