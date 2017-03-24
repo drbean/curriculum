@@ -57,6 +57,21 @@ It is due to a combination of _____(10) and environmental _____(11). Some cases 
 
 ## Questions
 
+	A: Your interests?
+	B: ...
+	A: That's interesting/Me too/Really? What are your ambitions?
+	B: ....
+
+
+
+	A: Tell me about a day you remember.
+	B: .....
+	A: That's interesting.
+	What is something you're not familiar with?
+
+	Attendance: 60% classwork grade
+	Correct answers: 100% classwork grade
+
 ## Talking about autism--Google links {.allowframebreaks}
 
 - [esl questions autism - Google  ](http://www.google.com.tw/search?q=esl+questions+autism&num=100)
