@@ -39,4 +39,60 @@ conclusion:
             - d
           answer: d
         
+structure:
+  jigsaw:
+    0:
+      identifier: topic, support, conclusion
+      quiz:
+        - question: 1
+          option:
+            - topic sentence
+            - supporting sentence
+            - concluding sentence
+          answer: supporting sentence
+        - question: 2
+          option:
+            - topic sentence
+            - supporting sentence
+            - concluding sentence
+          answer: topic sentence
+        - question: 3
+          option:
+            - topic sentence
+            - supporting sentence
+            - concluding sentence
+          answer: supporting sentence
+        - question: 4
+          option:
+            - topic sentence
+            - supporting sentence
+            - concluding sentence
+          answer: concluding sentence
+        - question: 5
+          option:
+            - topic sentence
+            - supporting sentence
+            - concluding sentence
+          answer: supporting sentence
+        - question: 6
+          option:
+            - topic sentence
+            - supporting sentence
+            - concluding sentence
+          answer: supporting sentence
+okinawa:
+  match:
+    0:
+      identifier: worst trip
+      pair:
+        -
+          - first thing
+          - barely making it to the airport
+        -
+          - first thing in Japan
+          - getting through customs
+        -
+          - reason for quick return
+          - not being able to change money
+        
         
