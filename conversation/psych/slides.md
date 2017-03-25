@@ -98,3 +98,45 @@ See <a href="http://web.nuu.edu.tw/~greg/language/autism.html">http://web.nuu.ed
 
 - [See (http://web.nuu.edu.tw/~greg/language/autism.html"](http://web.nuu.edu.tw/~greg/language/autism.html)
 
+# Exam
+
+## Procedure
+
+We are doing 2 things:
+
+- 3-person jigsaw about Faith and her brothers
+- 2-person conversation with me about autism, normality, and individuality
+
+## 3-person jigsaw about Faith and her brothers
+
+In the groups in [Groups ](http://web.nuu.edu.tw/~greg/MB2f.html)
+discuss the story about Faith and her brothers. Work out who you and your partners are.
+
+Your examiners are Stan, Guan and Rain.
+
+Don't use Chinese. You're not here to study Chinese, Your partners can understand Chinese. Use English.
+
+## 2-person conversation with me about autism, normality, and individuality
+
+In pairs have individual conversations with Dr Bean about one of the following topics:
+
+1. autism
+2. normality (Exercise 4, p77)
+3. personal characteristics (Exercise 3, p82):
+
+	a. interests
+	b. ambitions
+	c. practical abilities
+	d. experience
+
+Dr Bean will decide a winner who gets 5 points and a loser, who gets 4.
+
+## 2-person conversation procedure
+
+1. get paper from Dr Bean
+1. write table number on left
+2. write White's name, ID on left and Black's on right
+3. bring a question for Dr Bean to start the conversation
+
+If you don't get a chance to have a conversation with Dr Bean because there is a long line of students ahead of you waiting to talk to him at 8pm, you only get 1.
+
