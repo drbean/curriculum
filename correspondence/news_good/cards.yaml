@@ -1,0 +1,220 @@
+---
+genre: correspondence
+repair:
+  match:
+    0:
+      identifier: car repair match
+      pair:
+        -
+          - 1
+          - overestimated
+        -
+          - 2
+          - revised
+        -
+          - 3
+          - instead of
+        -
+          - 4
+          - quoted
+        -
+          - 5
+          - tune
+        -
+          - 6
+          - emissions
+        -
+          - 7
+          - discounted
+        -
+          - 8
+          - note
+        -
+          - 9
+          - offer
+    1:
+      identifier: car repair structure
+      pair:
+        -
+          - 1
+          - good news
+        -
+          - 2
+          - details
+        -
+          - 3
+          - sales appeal
+        -
+          - 4
+          - useful information
+        -
+          - 5
+          - polite close
+prize:
+  match:
+    0:
+      identifier: car prize match
+      pair:
+        -
+          - 1
+          - sales person of the year award
+        -
+          - 2
+          - we wish to inform
+        -
+          - 3
+          - all you have to do
+        -
+          - 4
+          - need to present
+        -
+          - 5
+          - taking up
+        -
+          - 6
+          - has had experience
+        -
+          - 7
+          - most appreciated
+    1:
+      identifier: car prize structure
+      pair:
+        -
+          - 1
+          - good news
+        -
+          - 2
+          - details
+        -
+          - 3
+          - sales appeal
+        -
+          - 4
+          - polite close
+magazine:
+  match:
+    0:
+      identifier: magazine match
+      pair:
+        -
+          - 1
+          - enclosed
+        -
+          - 2
+          - offers
+        -
+          - 3
+          - a must
+        -
+          - 4
+          - sought after
+        -
+          - 5
+          - opportunity
+        -
+          - 6
+          - inform
+        -
+          - 7
+          - prompt
+        -
+          - 8
+          - monthly
+        -
+          - 9
+          - valued
+    1:
+      identifier: magazine structure
+      pair:
+        
+        -
+          - good news
+          - 1
+        -
+          - 2
+          - details
+        -
+          - 3
+          - sales appeal
+        -
+          - 4
+          - polite close
+card:
+  match:
+    0:
+      identifier: card match
+      pair:
+        -
+          - 1
+          - you will be happy
+        -
+          - 2
+          - please
+        -
+          - 3
+          - however
+        -
+          - 4
+          - made
+        -
+          - 5
+          - meanwhile
+        -
+          - 6
+          - are happy
+    1:
+      identifier: card structure
+      pair:
+        -
+          - 1
+          - good news
+        -
+          - 2
+          - details
+        -
+          - 3
+          - details
+        -
+          - 4
+          - extra information
+        -
+          - 5
+          - polite close
+        
+        
+appeal:
+  scramble:
+    0:
+      identifier: sales apppeal
+      sentence:
+        - We are pleased to announce an absolutely free, brand new special offer which you can take advantage of.
+    1:
+      identifier: lottery news
+      sentence:
+        - Congratulations on winning the Sports Lottery. You are the winner of one million dollars.
+details:
+  scramble:
+    0:
+      identifier: lottery news detail
+      sentence:
+        - All you have to do to collect your prize is come to the Sports Lottery office in Taipei with your ID card and your bankbook.
+transfer:
+  jigsaw:
+    0:
+      identifier: transfer
+      quiz:
+        - question: What news will Cheng give Keats?
+          option:
+            - Keats' mother is unable to look after herself.
+            - Keats is happy about his mother's situation.
+            - The company will transfer Keats to Taichung.
+            - The company will arrange care for Keats' mother.
+          answer: The company will transfer Keats to Taichung.
+        - question: Why is the message that Cheng will send Keats a good news message?
+          option:
+            - Keats will be able to look after his mother.
+            - Keats prefers living in Taichung, to living in Taipei.
+            - Keats' mother is unable to look after herself.
+            - Keats is unhappy about his mother.
+          answer: Keats will be able to look after his mother.
+        
