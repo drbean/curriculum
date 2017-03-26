@@ -139,7 +139,7 @@ invitation:
           - 8
           - by
     2:
-      identifier: book, invitation reply
+      identifier: smokers, invitation reply
       pair:
         -
           - 1
@@ -183,7 +183,57 @@ invitation:
         -
           - 14
           - news
-        
+    3:
+      identifier: book, dinner invitation acceptance
+      pair:
+        -
+          - 1
+          - for
+        -
+          - 2
+          - of
+        -
+          - 3
+          - to
+        -
+          - 4
+          - from
+        -
+          - 5
+          - to
+        -
+          - 6
+          - at
+        -
+          - 7
+          - to
+    4:
+      identifier: acceptance structure
+      pair:
+        -
+          - 1
+          - acknowledgement and thanks
+        -
+          - 2
+          - acceptance
+        -
+          - 3
+          - re-expresssion of thanks
+    5:
+      identifier: declining structure
+      pair:
+        -
+          - 1
+          - acknowledgement and thanks
+        -
+          - 2
+          - rejection with reason
+        -
+          - 3
+          - offer of alternative
+        -
+          - 4
+          - apology, polite expression of hope for future
         
 
   jigsaw:
