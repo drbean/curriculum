@@ -25,3 +25,27 @@ Look at the things you need to say and useful expressions on p 69.
 You can start,
 
 I am the president of the student association at NUU and I would like to invite you to a reception celebrating the 40th anniversary of the association.
+
+## Homework: Prof Chang replies to the invitation letter
+
+Now take the role of Prof Chang.
+
+Reply to the invitation last week by you, when you were the president of the NUU students' association, to a party celebrating the association's 40th anniversary.
+
+Either accept or decline/refuse/reject the invitation.
+
+Follow the examples of accepting or declining invitations on p 72.
+
+Required are:
+
+- To:
+- From:
+- Subject:
+
+lines.
+
+Look at the things you need to say and useful expressions on p 69.
+
+You can start,
+
+Thank you very much for the invitation to your reception celebrating the 40th anniversary of the NUU students' association.
