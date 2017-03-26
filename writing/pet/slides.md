@@ -4,6 +4,12 @@
 
 # Exam
 
+## exam rules
+
+- open book
+- no devices
+- it's ok to talk quietly, move around and look at others' essays
+
 ## robot pet advertisement essay
 
 A robot company has produced a robot pet to your design. The company asked you to choose characteristics of the perfect pet. Then it made a robot with those characteristics.
