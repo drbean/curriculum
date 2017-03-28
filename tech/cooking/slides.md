@@ -39,6 +39,37 @@ See my post.
 Do it before Sunday March 6, 8pm.
 
 
+## Homework: 15 words you might use in Week 6.
+
+What 15 food and cooking words are you most likely to use when you talk with Dr Bean in Week 6? Write them down with one or two word explanation, eg, translation into Chinese.
+
+List the 15 words like this:
+
+	barbecue     燒烤
+	broil        To cook by direct, radiant heat. = grill
+	carve        雕刻
+	chop         劈
+	crush        粉碎
+	fry          炒
+	gel          A semi-solid combination of a solid and a liquid, such as jelly, cheese 
+	grate        To shred things, usually foodstuffs, by rubbing across a grater.  eg "grated cheese"
+	gratin       焗
+	grease       潤滑脂
+	grill        烤架
+	knead        揉
+	measure      測量
+	melt         熔化
+	microwave    微波
+	mince        剁碎
+	parboil      胹
+
+Make sure you have a good Subject line. Don't write your name, or copy my Subject line.
+
+See my post.
+
+Do it before Monday March 27, 8am.
+
+
 # Vocabulary: base, report-base, test
 
 ## Procedure: pre-test post-test
@@ -258,8 +289,23 @@ Students with no points in week 3:
 
 Contact me.
 
-Students with no points in week 10 will get a grade of 3.
+Students with no points in week 3 will get a grade of 3.
 
 The student who has the biggest gain will get 5. The student with the 16th biggest gain will get 4.
+
+## Exam conversation, Week 6
+
+
+I will pair students (White and Black) and have conversations with each, deciding the winner, who gets 5 and the loser, who gets 4.
+
+Students will ask me a question to start the conversation.
+
+The conversation which lasts longest, is the most fluent and is the most "technical", ie, with the longest words, wins.
+
+Bring along your words.
+
+*But it's not just about how many words you know. It's about how coherently you can use those words to talk continuously about one or two topics.*
+
+From the memrise data, it looks like many people will be talking to me about coffee. I don't drink coffee, so if you want to talk about some other subject, like, how to cook some Chinese dish, I will welcome that.
 
 == The End
