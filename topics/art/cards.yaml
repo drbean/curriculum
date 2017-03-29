@@ -348,3 +348,21 @@ twain:
       - He asked, "Do you want a place in the sleeper section?"      _他問，“你想在臥舖裡一個地方嗎？_
       - Then he said. "I'm so proud to have you on the train, sir."  _然後他說。 "我很高興有你在火車上，先生。"_
       - "Oh? Who am I, I asked. General McClellan.                _哦，我是誰？ 我問。 麥克萊倫將軍。_"
+mask:
+  0:
+    flash:
+      mask     : 面具
+      square   : 正方形
+      hands    : 手
+      fold     : 折
+      scissors : 剪刀
+      shapes   : 形狀
+      sticky   : 黏
+      show     : 顯示
+  bingo:
+    -
+      - Kate's hands are sticky from eating candy. _凱特的手從吃糖中粘起來。_
+      - I'll show you my new bicycle.              _我會給你看我的新自行車。_
+      - Mike cut the paper with scissors.          _邁克用剪刀剪紙。_
+      - Circles and squares are shapes.            _圓形和正方形是形狀。_
+
