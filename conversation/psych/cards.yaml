@@ -450,4 +450,26 @@ jegede:
           - a cure
           - c
         
+grammar:
+  jigsaw:
+    0:
+      identifier: ungrammatical
+      quiz:
+        - question: The grammatical one?
+          option:
+            - Does you can be extraordinary ?
+            - What Faith realizes?
+            - What does Faith ask people?
+            - Does we are different means that one of us is wrong?
+          answer: What does Faith ask people?
+    1:
+      identifier: ungrammatical reason
+      quiz:
+        - question: What is not a problem in the 3 ungrammatical sentences?
+          option:
+            - auxiliary verb
+            - agreement between verb and subject, eg they ARE, he IS
+            - noun
+          answer: noun
+
         
