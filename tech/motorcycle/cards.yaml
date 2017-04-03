@@ -1,0 +1,22 @@
+---
+genre: tech
+wheel:
+  jigsaw:
+    0:
+      identifier: wheel
+      quiz:
+        - question: "What do you take off/apart first?"
+          option:
+            - Exhaust
+            - Wheel
+          answer: Exhaust
+        - question: "What is the easy way to remove the pin?"
+          option:
+            - "Using a hammer, or similar"
+            - Using a screwdriver
+          answer: "Using a hammer, or similar"
+        - question: "Why did she press the brake?"
+          option:
+            - "Because prevent the tire move"
+            - Prevent the scooter moving
+          answer: "Because prevent the tire move"
