@@ -1,0 +1,18 @@
+---
+genre: tech
+quality_check:
+  jigsaw:
+    0:
+      identifier: quality
+      quiz:
+        - question: "Is it OK to ask for permission to access sensitive data, when not needed?"
+          option:
+            - Yes
+            - No
+          answer: No
+        - question: "What do developers need for testing their app?"
+          option:
+            - Testing procedures
+            - Smartphones
+          answer: Testing procedures
+        
