@@ -170,6 +170,12 @@ Honda, Kawasaki and Yamaha had the _____(20) problems, with 11-14% _____(21) maj
 
 # Images
 
+# Makers and models
+
+- [Indian](http://www.google.com.tw/search?q=%22vintage+Indian+motorcycles%22&num=100&gws_rd=ssl&tbm=isch&tbo=u&source=univ&sa=X)
+- [Harley-Davidson ](http://www.google.com.tw/search?q=%22vintage+Harley-Davidson%22&num=100&gws_rd=ssl&tbm=isch&tbo=u&source=univ&sa=X)
+- [Honda Super Cub ](http://www.google.com.tw/search?q=%22Honda+Super+Cub%22&num=100&gws_rd=ssl&tbm=isch&tbo=u&source=univ&sa=X)
+
 ## Types of motorcycle
 
 - [Moped](https://en.wikipedia.org/wiki/Moped)
