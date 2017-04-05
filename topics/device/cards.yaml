@@ -25,3 +25,11 @@ tv:
       - Can I come over to your house?                           _我可以到你的房子嗎？_
       - I have to save some money to buy the TV first.           _我先節省一些錢買電視。_
       - It will be a few months before I can afford to buy it!   _這將是幾個月前我買得起買！_
+camera:
+  bingo:
+    -
+      - "M: I just bought a digital camera. _W: What is wrong with your old camera?_"
+      - "W: I like to print all my photos. That's why I like the old cameras._"
+      - "M: Oh, you can print digital photos, too._"
+      - "W: How do you store these digital pictures? _M: You can store the pictures on your computer._"
+      - "M: You can store more than seven hundred photos on one CD! _W: Great! Maybe I should get a digital camera, too._"
