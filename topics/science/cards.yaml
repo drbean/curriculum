@@ -136,3 +136,11 @@ einstein:
       - As a scientist, Einstein did important work in the field of physics.            _作為一個科學家，愛因斯坦在物理學領域做了重要的工作。_
       - Einstein received the Nobel Prize for physics in 1921.                          _愛因斯坦在1921年獲得諾貝爾物理學獎。_
       - In 1933, Einstein went to live in the United States with his wife.              _在1933年，愛因斯坦和他的妻子住在美國。_
+telescope:
+  bingo:
+    -
+      - "G: Did you know that the moon is the Earth's only natural satellite? _B: No, I didn't know that. I thought the moon was a planet._"
+      - "B: Can you see other planets with your telescope? _G: Sure, I can see two planets close to Earth really well._"
+      - "B: Which planet is closest to Earth? _G: Mars is the closest planet to Earth._"
+      - "B: What is the other planet near Earth? _G: The other planet near Earth is Venus._"
+      - "B: Do you think people will ever be able to visit Mars or Venus? _G: Maybe someday people will be able to visit Mars._"
