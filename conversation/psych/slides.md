@@ -2,6 +2,28 @@
 % by Dr Bean (高來圭) at https://github.com/drbean/curriculum/tree/master/conversation/psych
 % Thu Feb 23 20:58:49 CST 2017
 
+# Semester plan
+
+## Units
+
+- Week 7, 8: Chapter 7
+- Week 9, 10: Chapter 8
+- Week 11, 12: Chapter 9
+- Week 13, 14: Chapter 10
+- Week 15, 16: Chapter 11
+- Week 17, 18: Chapter 12
+
+## Book
+
+- First 4, last 2 pages of each unit
+- A conversation recorded in class and uploaded to moodle about a topic in the unit
+
+## Exam
+
+- Jigsaw activity in groups of 3
+- Conversation competition in pairs with Dr Bean (2 rounds for each pair)
+
+
 # Autism
 
 ## What is Autism
@@ -89,6 +111,24 @@ It is due to a combination of _____(10) and environmental _____(11). Some cases 
 
 - [science questions](http://iteslj.org/questions/science.html )
 
+
+# Classwork
+
+## present perfect
+
+Ask your partner a question using the present perfect. Write your question, his/her answer and your follow-up question like this:
+
+John: Have you ..
+Amelia: No.
+John: Why not?
+
+You can't use a verb someone has already used. If someone has already recorded, "Have you been overseas," you can't ask your partner, "Have you been to Hualian".
+
+## third-hand experience
+
+What can third-hand experience be?
+
+Say something about the authority to speak given first-, second- and third-hand experience.
 
 # Homework
 
