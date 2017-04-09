@@ -1,0 +1,76 @@
+genre: writing
+unity:
+  match:
+    0:
+      identifier: paragraphs
+      pair:
+        -
+          - 1.
+          - OK
+        -
+          - 2.
+          - OK
+        -
+          - 3.
+          - OK
+        -
+          - 4.
+          - NOK
+        -
+          - 5.
+          - OK
+        -
+          - 6.
+          - NOK
+        -
+          - 7.
+          - OK
+        -
+          - 8.
+          - OK
+        -
+          - 9.
+          - OK
+    1:
+      identifier: paragraph 2
+      pair:
+        -
+          - 1.
+          - OK
+        -
+          - 2.
+          - OK
+        -
+          - 3.
+          - NOK
+        -
+          - 4.
+          - OK
+        -
+          - 5.
+          - NOK
+        -
+          - 6.
+          - NOK
+        -
+          - 7.
+          - OK
+        -
+          - 8.
+          - OK
+cohesion:
+  match:
+    0:
+      identifier: homework
+      pair:
+        -
+          - 1.
+          - meanwhile
+        -
+          - finally
+          - 2
+        -
+          - 3
+          - after that
+        
+        
