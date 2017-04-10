@@ -154,7 +154,7 @@ Honda, Kawasaki and Yamaha had the _____(20) problems, with 11-14% _____(21) maj
 
 ## Girl replaces wheel, changes oil
 
-- [Taking wheel off at https://www.youtube.com/watch?v=rczWQ3s2E8U ](https://www.youtube.com/watch?v=rczWQ3s2E8U)
+- [Taking wheel off at https://www.youtube.com/watch?v=yNSEX7Mx9zg ](https://www.youtube.com/watch?v=yNSEX7Mx9zg)
 - [Putting wheel on at https://www.youtube.com/watch?v=rczWQ3s2E8U](https://www.youtube.com/watch?v=rczWQ2s2E8U)
 - [Changing engine oil](https://www.youtube.com/watch?v=BheIprTnUzA)
 
