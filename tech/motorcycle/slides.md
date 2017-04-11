@@ -170,7 +170,7 @@ Honda, Kawasaki and Yamaha had the _____(20) problems, with 11-14% _____(21) maj
 
 # Images
 
-# Makers and models
+## Makers and models
 
 - [Indian](http://www.google.com.tw/search?q=%22vintage+Indian+motorcycles%22&num=100&gws_rd=ssl&tbm=isch&tbo=u&source=univ&sa=X)
 - [Harley-Davidson ](http://www.google.com.tw/search?q=%22vintage+Harley-Davidson%22&num=100&gws_rd=ssl&tbm=isch&tbo=u&source=univ&sa=X)
@@ -188,6 +188,14 @@ Honda, Kawasaki and Yamaha had the _____(20) problems, with 11-14% _____(21) maj
 
 
 # Homework and exam
+
+## memrise course
+
+- Choose 10 words that you will use when you talk to me
+- Put the words with answers in English (not Chinese) on moodle (search google for the words, 'motorcycle' and 'vocabulary')
+- Create a memrise course with the words and answers in the Trivia , Miscellaneous , English category.
+- [http://feedback.memrise.com/knowledgebase/articles/524504-create-a-course-make-a-learning-list](http://feedback.memrise.com/knowledgebase/articles/524504-create-a-course-make-a-learning-list)
+
 
 ## Changing translations
 
