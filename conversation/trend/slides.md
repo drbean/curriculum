@@ -228,3 +228,24 @@ Where is it harder to start a trend, Taiwan or the West?
 - [http://web.nuu.edu.tw/~greg/trend/jigsaw_meeting_0.pdf ](http://web.nuu.edu.tw/~greg/trend/jigsaw_meeting_0.pdf)
 - [http://web.nuu.edu.tw/~greg/trend/quiz_meeting_0.pdf ](http://web.nuu.edu.tw/~greg/trend/quiz_meeting_0.pdf)
 
+# innovative vehicles
+
+# Images 
+
+## electric cars
+
+- [electric car ](http://www.google.com.tw/search?q=%22electric+car%22&num=100&gws_rd=ssl&tbm=isch&tbo=u&source=univ&sa=X)
+
+## powered scooter
+
+- [powered scooter ](http://www.google.com.tw/search?q=%22powered+scooter%22&num=100&gws_rd=ssl&tbm=isch&tbo=u&source=univ&sa=X)
+
+## powered unicycle
+
+- [powered unicycle ](http://www.google.com.tw/search?q=%22powered+unicycle%22&num=100&gws_rd=ssl&tbm=isch&tbo=u&source=univ&sa=X)
+
+## electric skateboard
+
+- [electric skateboard ](http://www.google.com.tw/search?q=%22electric+skateboard%22&num=100&gws_rd=ssl&tbm=isch&tbo=u&source=univ&sa=X)
+
+
