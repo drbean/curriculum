@@ -1,6 +1,16 @@
 ---
 genre: topics
 animals:
+  0:
+    flash:
+      owl      :  1.貓頭鷹
+      iguana   :  2。鬣蜥
+      cat      :  3。貓
+      dog      :  4。狗
+      alligator:  5。短吻鱷
+      rabbit   :  6。兔
+      giraffe  :  7。長頸鹿
+      elephant :  8。大象
   bingo: 
     - bee cats cows dogs goat goldfish horses lions monkey parrot polar_bear shark sheep tigers zebra
     - panda_bear turtle flamingo bat bamboo shell fur snail hamster pet vet/veterinarian dog cat beetle moth cricket spider butterfly ladybug ant bee chick eagle swan nest
