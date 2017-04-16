@@ -330,3 +330,86 @@ book:
         -
           - 5
           - polite expression
+heater:
+  scramble:
+    0:
+      identifier: heater scramble
+      sentence:
+        - Thank you for your letter concerning the electric heaters advertised in the South-east Trader.
+        - I'm pleased to send you the illustrated catalogue and price list. 
+        - Please find them attached to this email.
+        - Alternatively, you may be interested in our newest model, the FZ1.
+        - This model emits 15% more heat without consuming any extra fuel.
+        - Prices and terms are enclosed in the catalogue.
+        - We are offering free trials of this heater, for any time up to 30 days.
+        - Trying out this heater would allow you to see the high quality and finish of the product.
+        - We hope this information is useful to you.
+        - Please do not hesitate to contact me if I can be of further assistance.
+  match:
+    0:
+      identifier: heater ordering
+      pair:
+        -
+          - 1
+          - Thank you  ...
+        -
+          - 2
+          - I'm please ...
+        -
+          - 3
+          - Please fin ...
+        -
+          - 4
+          - Alternativ ...
+        -
+          - 5
+          - This model ...
+        -
+          - 6
+          - Prices and ...
+        -
+          - 7
+          - We are off ...
+        -
+          - 8
+          - Trying out ...
+        -
+          - 9
+          - We hope th ...
+        -
+          - 10
+            Please do  ...
+    1:
+        identifier: heater structure
+        pair:
+        -
+          - acknowledging arrival of email
+          - Thank you  ...
+        -
+          - answering request
+          - I'm please ...
+        -
+          - answering request
+          - Please fin ...
+        -
+          - extra information
+          - Alternativ ...
+        -
+          - extra information
+          - This model ...
+        -
+          - extra information
+          - Prices and ...
+        -
+          - extra information
+          - We are off ...
+        -
+          - extra information
+          - Trying out ...
+        -
+          - polite expression
+          - We hope th ...
+        -
+          - polite expression
+            Please do  ...
+          
