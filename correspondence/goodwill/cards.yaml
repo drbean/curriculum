@@ -1,5 +1,18 @@
 ---
 genre: correspondence
+thanks:
+  scramble:
+    0:
+      identifier: teacher's day
+      sentence:
+        - It's Teacher's Day, today.
+        - Thanks for teaching us.
+        - Everyone likes your lessons.
+        - We all remember when your website was down, and we had to answer questions on cards.
+        - This made us realize how much learning has changed with the Internet.
+        - Thanks, once again.
+        - We will miss you when we graduate.
+    
 conversation:
   scramble:
     0:
@@ -46,7 +59,12 @@ congratulation:
           - It's great to hear you graduated.
           - I hope it's not going to take you as long to get a job.
           - Why don't we get together and celebrate?
-    
+    1:
+      identifier: puppy
+      sentence:
+        - I hear you got a new puppy; that's great!
+        - The dog is very lucky to have you as its owner!
+        - If you have time, I would like to see it.
   match:
     0:
       identifier: graduation
@@ -60,6 +78,18 @@ congratulation:
         -
           - A reference to the future interaction with the recipient
           - Why don't we get together and celebrate?
+    1:
+      identifier: puppy
+      pair:
+        -
+          - I hear you ...
+          - Initial congratulation
+        -
+          - The dog is  ...
+          - Personal comment
+        -
+          - If you hav ...
+          - A reference to the future interaction with the recipient
   jigsaw:
     0:
       identifier: graduation
@@ -76,6 +106,12 @@ condolence:
           - Too bad you didn't get a good GEPT score.
           - You're going to have to take the CSEPT exam.
           - I can lend you my CSEPT textbooks, if you want.
+    1:
+      identifier: puppy
+      sentence:
+        - I'm sorry to hear the puppy died.
+        - Although you only had the dog for a week, your comments about it showed you loved it a lot.
+        - If you need help burying the dog, I can help you dig a hole in the ground.
     
   match:
     0:
@@ -90,6 +126,18 @@ condolence:
         -
           - Offer of assistance
           - I can lend you my CSEPT textbooks, if you want.
+    1:
+      identifier: puppy
+      pair:
+        -
+          - Reason for condolences
+          - I'm sorry  ..
+        -
+          - Personal comment
+          - Although I ..
+        -
+          - Offer of assistance
+          - If you nee ..
 invitation:
   scramble:
     0:
@@ -98,6 +146,21 @@ invitation:
         - Do you want to give a speech at a conference we are organizing?
         - The conference will take place October_20-21 in Taipei.
         - Having you at the conference would make our day.
+    1:
+      identifier: xmas
+      sentence:
+        - We're having a Christmas party at our house tomorrow.
+        - We were wondering if you would like to come.
+        - Can you send us an email tonight saying if you can come.
+    2:
+      identifier: xmas refusal
+      sentence:
+        - Thanks very much for the invitation to the Christmas party.
+        - Unfortunately, I'm going to my parents' place for Christmas.
+        - Let's get together to celebrate the New Year.
+        - Sorry, again. 
+    
+    
   match:
     0:
       identifier: smokers
@@ -234,6 +297,21 @@ invitation:
         -
           - 4
           - apology, polite expression of hope for future
+    6:
+      identifier: xmas party declining structure
+      pair:
+        -
+          - Thanks ver ..
+          - acknowledgement and thanks
+        -
+          - Unfortunat ..
+          - rejection with reason
+        -
+          - Let's get  ..
+          - offer of alternative
+        -
+          - Sorry, aga ..
+          - apology, restated
         
 
   jigsaw:
