@@ -1,0 +1,432 @@
+---
+genre: correspondence
+bob:
+  jigsaw:
+    0:
+      identifier: Bob
+      quiz:
+        - question: Which set expresses the right amount of confidence?
+          option:
+            - 1st
+            - 2nd
+          answer: 2nd
+sue:
+  jigsaw:
+    0:
+      identifier: Sue
+      quiz:
+        - question: The right tone for acceptance
+          option:
+            - 1. OK. I'll do it. When do you want me to start. 
+            - 2. I think I will accept the job.
+            - 3. I would like to accept the job, but ...
+          answer: 1. OK. I'll do it. When do you want me to start. 
+        - question: The right tone for thanking
+          option:
+            - 1. Thanks for giving me the job. 
+            - 2. I t's good that you are offering me the job.
+          answer: 1. Thanks for giving me the job. 
+        - question: the right tone for establishing goodwill
+          option:
+            - 1. I look forward to working with my co-workers.
+            - 2. I know my co-workers will think I'm the best worker.
+          answer: 1. I look forward to working with my co-workers.
+confidence:
+  jigsaw:
+    0:
+      identifier: confidence
+      quiz:
+        - question: The right level of confidence?
+          option:
+            - I wish that I were the best qualified.
+            - I am clearly the best qualified candidate.
+            - I think you will agree that I am well-qualified for this position.
+          answer: I think you will agree that I am well-qualified for this position.
+  scramble:
+    0:
+      identifier: confidence
+      sentence:
+        - I think you will agree that I am well-qualified for this position.
+        - I look forward to working with my co-workers.
+    
+smoking:
+  scramble:
+    0:
+      identifier: smoking
+      sentence:
+        - The committee on health and safety has come to the decision to ban smoking after considering evidence from researchers and doctors.
+    
+  jigsaw:
+    0:
+      identifier: emphasizing new smoking rule
+      quiz:
+        - question: Which paragraph emphasizes the new rule more?
+          option:
+            - 1st
+            - 2nd
+          answer: 1st
+    1:
+      identifier: passive new smoking rule
+      quiz:
+        - question: Which sentence in the 1st paragraph is in the passive?
+          option:
+            - 1st
+            - 2nd
+          answer: 1st
+emphasis:
+  jigsaw:
+    0:
+      identifier: paragraph structure
+      quiz:
+        - question: What does the last sentence say?
+          option:
+            - The middle sentences contain least-emphasized information
+            - The last sentence contains least-emphasized information
+          answer: The middle sentences contain least-emphasized information
+        - question: What does the 2nd sentence imply?
+          option:
+            - The middle sentences contain emphasized information
+            - The last sentence contains emphasized information
+          answer: The last sentence contains emphasized information
+        
+        - question: Does putting the information about subordination in the last sentence show that it is not important to subordinate certain information, ie, subordination isn't important. Read the paragraph carefully. What is it saying?
+          option:
+            - subordination is important
+            - subordination isn't important
+          answer: subordination is important
+    1:
+      identifier: example of advice
+      quiz:
+        - question: 3 (1) p 81. has 3 sentences advising how to use emphasis. One sentence is an EXAMPLE of that advice.
+          option:
+            - 1st
+            - 2nd
+            - 3rd
+          answer: 1st
+    2:
+      identifier: placing
+      quiz:
+        - question: Where does the most emphasized, most important information go, 3. p80?
+          option:
+            - 1st para
+            - middle paras
+            - last para
+          answer: 1st para
+    3:
+      identifier: short sentence advice
+      quiz:
+        - question: How can an idea be emphasized, made important, 3 (1) p81?
+          option:
+            - placement in a short sentence
+            - provision of explanations, examples, evidence
+          answer: placement in a short sentence
+        - question: Which is the shortest sentence?
+          option:
+            - 1st sentence
+            - 2nd sentence
+            - 3rd sentence
+          answer: 1st sentence
+        - question: What is the most important advice of 3 (1) p81?
+          option:
+            - 1st sentence
+            - 2nd sentence
+            - 3rd sentence
+          answer: 1st sentence
+    4:
+      identifier: summary
+      quiz:
+        - question: Which sentence summarizes the paragraph, best says what the paragraph says.
+          option:
+            - 1st sentence
+            - 2nd sentence
+            - 3rd sentence
+          answer: 1st sentence
+       
+passive:
+  jigsaw:
+    0:
+      identifier: not/passive
+      quiz:
+        - question: I've been sick
+          option:
+            - passive
+            - not passive
+          answer: not passive
+        - question: The quiz has been closed
+          option:
+            - passive
+            - not passive
+          answer: passive
+        
+        - question: I've been to Taitung
+          option:
+            - passive
+            - not passive
+          answer: not passive
+        - question: smoking will no longer be permitted in the building
+          option:
+            - passive
+            - not passive
+          answer: passive
+    1:
+      identifier: missing word
+      quiz:
+        - question: Her boss __ to offer her a promotion.
+          option:
+            - is expected
+          answer: is expected
+        - question: She __ a promotion
+          option:
+            - is expected to be offered
+          answer: is expected to be offered
+        - question: She __ a ride to work.
+          option:
+            - was given
+          answer: was given
+        - question: He __ a prize for his competition entry.
+          option:
+            - was awarded
+          answer: was awarded
+        - question: Will the tennis match __ ?
+          option:
+            - be played
+          answer: be played
+        - question: The house __ by the time Jean's husband arrived.
+          option:
+            - hadn't been cleaned
+          answer: hadn't been cleaned
+        - question: She __ to be the best student in the class.
+          option:
+            - is considered
+          answer: is considered
+        - question: People who tell Frank what to do __.
+          option:
+            - aren't liked
+          answer: aren't liked
+    2:
+      identifier: earthquake
+      quiz:
+        - question: Tainan __ by a big earthquake during the night.
+          option:
+            - was hit
+          answer: was hit
+        - question: The Weiguan building __ .
+          option:
+            - was demolished
+          answer: was demolished
+        - question: 114 people __ buried in the ruins.
+          option:
+            - were
+          answer: were
+        - question: Hundreds of people __ .
+          option:
+            - were hurt
+          answer: were hurt
+        - question: Help has already __ by international search and rescue corps.
+          option:
+            - been sent
+          answer: been sent
+    3:
+      identifier: olympics
+      quiz:
+        - question: Another gold medal __ by Taiwanese athlete, Sue-Ching Lin.
+          option:
+            - has been won
+          answer: has been won
+        - question: She __ the medal for breaking the weight-lifting world record.
+          option:
+            - was awarded
+          answer: was awarded
+    4:
+      identifier: queen
+      quiz:
+        - question: A new bridge __ by the Queen tomorrow.
+          option:
+            - will be opened
+          answer: will be opened
+        - question: A dinner party __ to honor the Royal party.
+          option:
+            - will be given
+          answer: will be given
+discrimination:
+  jigsaw:
+    0:
+      identifier: age, sex
+      quiz:
+        - question: "X: Who to fire? A or B. Y: Both are OK, but A is older, so A."
+          option:
+            - discriminatory
+            - non-discriminatory
+          answer: discriminatory
+        - question: "'Connie can still do the job well for her age.' Connie is:"
+          option:
+            - young
+            - old
+          answer: old
+        - question: "OK, girls. Back to work."
+          option:
+            - discriminatory
+            - non-discriminatory
+          answer: discriminatory
+        - question: "Each worker must stay in his seat until it's time to finish."
+          option:
+            - discriminatory
+            - non-discriminatory
+          answer: discriminatory
+        - question: "Each worker must stay in their seat until it's time to finish."
+          option:
+            - discriminatory
+            - non-discriminatory
+          answer: non-discriminatory
+criticism:
+  jigsaw:
+    0:
+      identifier: criticism
+      quiz:
+        - question: Your job will not allow me to use my skills.
+          option:
+            - personal
+            - non-personal
+          answer: personal
+        - question: "I have accepted another job which will allow me to use my skills."
+          option:
+            - personal
+            - non-personal
+          answer: non-personal
+        - question: You disgrace yourself with your bad language.
+          option:
+            - personal
+            - non-personal
+          answer: personal
+        - question: Bad language is a disgrace to the organization.
+          option:
+            - personal
+            - non-personal
+          answer: non-personal
+positive:
+  jigsaw:
+    0:
+      identifier: positive
+      quiz:
+       - question: This bicycle is broken.
+         option:
+           - helpful by being positive
+           - not helpful, because not positive
+         answer: not helpful, because not positive
+       - question: Use one of the other bicycles.
+         option:
+            - helpful by being positive
+            - not helpful, because not positive
+         answer: helpful by being positive
+explanation:
+  jigsaw:
+    0:
+      identifier: explanation
+      quiz:
+        - question: Our first free  check is after 6 months.
+          option:
+            - a reason lessening impact of bad news
+            - not a reason lessening impact of bad news
+          answer: a reason lessening impact of bad news
+        - question: You cannot get a free check under your policy.
+          option:
+             - a reason lessening impact of bad news
+             - not a reason lessening impact of bad news
+          answer: not a reason lessening impact of bad news
+conditional:
+  jigsaw:
+    0:
+      identifier: conditional
+      quiz:
+        - question: I want to request a transfer.
+          option:
+            - conditional
+            - non-conditional
+          answer: non-conditional
+        - question: I would like to request a transfer.
+          option:
+             - conditional
+             - non-conditional
+          answer: conditional
+    1:
+      identifier: 3 types of conditional
+      quiz:
+        - question: 1
+          option:
+            - Type 0
+            - Type 1
+            - Type 2
+            - Type 3
+          answer: Type 0
+        - question: 2
+          option:
+            - Type 0
+            - Type 1
+            - Type 2
+            - Type 3
+          answer: Type 2
+        - question: 3
+          option:
+            - Type 0
+            - Type 1
+            - Type 2
+            - Type 3
+          answer: Type 2
+        - question: 4
+          option:
+            - Type 0
+            - Type 1
+            - Type 2
+            - Type 3
+          answer: Type 3
+        - question: 5
+          option:
+            - Type 0
+            - Type 1
+            - Type 2
+            - Type 3
+          answer: Type 1
+        - question: 6
+          option:
+            - Type 0
+            - Type 1
+            - Type 2
+            - Type 3
+          answer: Type 1
+        - question: 7
+          option:
+            - Type 0
+            - Type 1
+            - Type 2
+            - Type 3
+          answer: Type 3
+        - question: 8
+          option:
+            - Type 0
+            - Type 1
+            - Type 2
+            - Type 3
+          answer: Type 2
+        
+  scramble:
+    0:
+      identifier: conditional
+      sentence:
+        - Water freezes, if the temperature falls below zero.
+        - If I won the lottery, I would travel around the world.
+    
+euphemism:
+  jigsaw:
+    0:
+      identifier: euphemism
+      quiz:
+        - question: let go
+          option:
+            - euphemistic
+            - non-euphemistic
+          answer: euphemistic
+        - question: sanitation engineer
+          option:
+            - euphemistic
+            - non-euphemistic
+          answer: euphemistic
