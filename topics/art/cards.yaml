@@ -106,6 +106,13 @@ art:
 
 music:
   bingo:
+    -
+      - People who write music are called composers.                                              _誰寫的音樂人被稱為作曲家。_
+      - Most of the time, composers writes their music down in the form of notes.                 _大多數時候，作曲家以音符的形式寫入他們的音樂了。_
+      - Those who know how to read music can understand the notes that composers write down.      _那些知道如何讀音樂可以了解注意到，作曲家寫下來。_
+      - There are many types of musical instruments. Some are the piano, the violin and the drum. _有許多類型的樂器。有些是鋼琴，小提琴和鼓。_
+      - A choir is a group of people who sing.                                                    _合唱團是一群唱歌的人。_
+      - An orchestra is a group of people who play musical instruments.                           _樂隊是一群人玩樂器_
     - practice concert violin clarinet instrument horn drum music orchestra musician play dance worried sad hole wood brother trip money nice buy guitar piano saxophone sing broken trumpet flute
     - practice concert violin clarinet instrument horn drum music orchestra musician Maria happy birthday present big beautiful loves shopping guessing playing
     - practice orchestra musician play clarinet flute tonight boy girl What_are_you_doing_today? Wow! Can_I_come_to_the_concert? Sure! That_would_be_great! Artie_Shaw Rebecca sister theater
@@ -391,3 +398,5 @@ wonderwoman:
       - Marson hoped that little boys would like Wonder Woman, too.     _马森希望小男孩也会喜欢奇迹女人。_
       - Wonder Woman was not very popular at first.                     _奇迹女人起初不是非常受欢迎。_
       - Wonder Woman became a role model for children around the world. _Wonder Woman成为世界各地儿童的榜样。_
+music:
+  bingo:
