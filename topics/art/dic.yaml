@@ -318,6 +318,19 @@
     Adam can't move his hands. Oh, no! Help!
   - Adam|Adam|End
 -
+  - "mask-2"
+  - "mask-2"
+  - "topics"
+  - "all"
+  - |+
+    G: How do you make a mask?
+    B: I'll show you. First, get some glue, paper and scissors.
+    G: OK. I have them. What's next?
+    B: Cut out some shapes with your scissors.
+    G: OK. That's easy. Then, what do I do?
+    B: Glue the shapes on the paper to make a face.
+  - scissors|next|End
+-
   - "monet-0"
   - "monet-0"
   - "topics"
