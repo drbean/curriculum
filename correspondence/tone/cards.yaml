@@ -73,6 +73,25 @@ smoking:
             - 1st
             - 2nd
           answer: 1st
+chinese:
+  jigsaw:
+    0:
+      identifier: chinese ban
+      quiz:
+        - question: Which sentence is emphasized: "Students translating the site into Chinese will lose 25 points. The aim of the exam is to test your understanding of English, not whether you can understand Chinese, which is what you do when you use a Chinese translation."
+          option:
+            - 1st
+            - 2nd
+          answer: 1st
+    1:
+      identifier: drbean ban
+      quiz:
+        - question: What is emphasized: "Dr Bean made the decision to deduct 25 points from the grades of students translating the site into Chinese after seeing Mark and another student using Google translation (?) during the exam last semester. The aim of the exam is to test your English, not whether you can understand Chinese."
+          option:
+            - loss of 25 points for using Chinese translation
+            - aim of the exam
+          answer: aim of the exam
+        
 emphasis:
   jigsaw:
     0:
@@ -248,6 +267,35 @@ passive:
           option:
             - will be given
           answer: will be given
+    5:
+      identifier:
+      quiz:
+        - question: |+
+            Neighbors put out the fire before the firefighters arrive. (Use "had")
+            The fire __ by the time the firefighters arrived.
+          option:
+            - had been put out
+          answer: had been put out
+        - question: |+
+            Thieves entered the building, because Dr Bean didn't lock the door.
+            Thieves entered the building, because the door __.
+          option:
+            - wasn't locked.
+          answer: wasn't locked.
+        - question: |+
+            TSMC saved Taiwan's export statistics with massive sales of computer chips.
+            Taiwan's export statistics __ with massive sales of computer chips.
+          option:
+            - were saved
+          answer: were saved
+        - question: |+
+            Almost everyone rides a motorcycle in Taiwan. ("ride", "rode", "ridden")
+            Motorcycles __ by almost everyone in Taiwan.
+          option:
+            - are ridden
+          answer: are ridden
+        
+        
 discrimination:
   jigsaw:
     0:
@@ -407,7 +455,37 @@ conditional:
             - Type 2
             - Type 3
           answer: Type 2
-        
+    2:
+      identifier: 3 types of conditional
+      quiz:
+        - question: You have a problem, if you do not understand what you have to do.
+          option:
+            - Type 0
+            - Type 1
+            - Type 2
+            - Type 3
+          answer: Type 0
+        - question: If I catch students using Chinese translations, I will deduct 25 points from their grade.
+          option:
+            - Type 0
+            - Type 1
+            - Type 2
+            - Type 3
+          answer: Type 1
+        - question: If every student finished the exam in an hour, I would think the exam wasn't long enough.
+          option:
+            - Type 0
+            - Type 1
+            - Type 2
+            - Type 3
+          answer: Type 2
+        - question: If I hadn't stayed up late last night, I wouldn't have been able to finish writing the exam.
+          option:
+            - Type 0
+            - Type 1
+            - Type 2
+            - Type 3
+          answer: Type 3
   scramble:
     0:
       identifier: conditional
