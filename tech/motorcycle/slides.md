@@ -181,6 +181,8 @@ Honda, Kawasaki and Yamaha had the _____(20) problems, with 11-14% _____(21) maj
 ## Types of motorcycle
 
 - [Moped](https://en.wikipedia.org/wiki/Moped)
+- [moped ](http://www.google.com.tw/search?q=%22moped%22&num=100&gws_rd=ssl&tbm=isch&tbo=u&source=univ&sa=X)
+
 - [Scooter](https://en.wikipedia.org/wiki/Scooter_(motorcycle))
 - [Sports](https://en.wikipedia.org/wiki/Sport_bike)
 - [Tourer](https://en.wikipedia.org/wiki/Touring_motorcycle)
@@ -195,7 +197,19 @@ Honda, Kawasaki and Yamaha had the _____(20) problems, with 11-14% _____(21) maj
 - Put the words with answers in English (not Chinese) on moodle (search google for the words, 'motorcycle' and 'vocabulary')
 - Create a memrise course with the words and answers in the Trivia , Miscellaneous , English category.
 - [http://feedback.memrise.com/knowledgebase/articles/524504-create-a-course-make-a-learning-list](http://feedback.memrise.com/knowledgebase/articles/524504-create-a-course-make-a-learning-list)
+- Making the course public
+- [http://feedback.memrise.com/knowledgebase/articles/525179-set-course-to-private-hide-course ](http://feedback.memrise.com/knowledgebase/articles/525179-set-course-to-private-hide-course)
+- Do it before 10am Sunday 21.
 
+## memrise grade
+
+The difference between your points in Week 10 and now.
+
+- [Ranks 1-10](Screenshot_from_2017-04-17_19-13-26.png)
+- [Ranks 11-20](Screenshot_from_2017-04-17_19-14-43.png)
+- [Ranks 20-30](Screenshot_from_2017-04-17_19-15-48.png)
+- [Ranks 21-33](Screenshot_from_2017-04-17_19-16-30.png)
+- [Ranks 21-34](Screenshot_from_2017-04-18_13-48-11.png)
 
 ## Changing translations
 
