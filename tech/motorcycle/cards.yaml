@@ -20,6 +20,25 @@ wheel:
             - "Because prevent the tire move"
             - Prevent the scooter moving
           answer: "Because prevent the tire move"
+    1:
+      identifier: wheel on
+      quiz:
+        - question: Do you need to pay attention to the direction of the wheel?
+          option:
+            - Yes
+            - No
+          answer: Yes
+        - question: Did she put the exhaust pipe on herself?
+          option:
+            - Yes
+            - No
+          answer: No
+        - question: Did she have the Vespa cotter pin?
+          option:
+            - Yes
+            - No
+          answer: No
+        
 makermodel:
   match:
     0:
