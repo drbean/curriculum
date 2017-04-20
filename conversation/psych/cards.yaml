@@ -23,15 +23,15 @@ brock:
         \item [Expectations] Most patients don't get much better. Most smoke or take drugs. Most don't lead healthy lifestyles and die earlier than normal.
         \end{description}
       quiz:
-        - question: Question 1. Schizophrenia: Drugs are used to control delusions and hallucinations in paranoid schizophrenic patients.
+        - question: "Question 1. Schizophrenia: Drugs are used to control delusions and hallucinations in paranoid schizophrenic patients."
           answer: True
-        - question: Question 2. Schizophrenia: Drugs are effective in many cases but patients still don't have good lives.
+        - question: "Question 2. Schizophrenia: Drugs are effective in many cases but patients still don't have good lives."
           answer: True
-        - question: Question 3. Schizophrenia: Most patients have to live in hospitals, even though they don't want to.
+        - question: "Question 3. Schizophrenia: Most patients have to live in hospitals, even though they don't want to."
           answer: False
-        - question: Question 4. Schizophrenia: All paranoid patients with delusions and hallucinations will show disorganized thought and behavior and a lack of emotion.
+        - question: "Question 4. Schizophrenia: All paranoid patients with delusions and hallucinations will show disorganized thought and behavior and a lack of emotion."
           answer: False
-        - question: Question 5. Schizophrenia: There are a number of different types of schizophrenia, making it difficult to decide what type you have.
+        - question: "Question 5. Schizophrenia: There are a number of different types of schizophrenia, making it difficult to decide what type you have."
           answer: True
   jigsaw:
     0:
@@ -104,15 +104,15 @@ selassie:
         \item [Prevalence] WHO estimates that 15\% of all Ethiopian adults and 11\% of all children need psychological help.
         \end{description}
       quiz:
-        - question: Question 6. Ethiopia: The aim of psychiatry is very different than the aim of exorcism and spirit possession rituals.
+        - question: "Question 6. Ethiopia: The aim of psychiatry is very different than the aim of exorcism and spirit possession rituals."
           answer: False
-        - question: Question 7. Ethiopia: One reason for the lack of psychiatrists may be a lack of psychological problems there.
+        - question: "Question 7. Ethiopia: One reason for the lack of psychiatrists may be a lack of psychological problems there."
           answer: False
-        - question: Question 8. Ethiopia: Believers in all religions believe in spirit possession there.
+        - question: "Question 8. Ethiopia: Believers in all religions believe in spirit possession there."
           answer: True
-        - question: Question 9. Ethiopia: Christian priests will exorcise spirits from people who have already looked for help from Western doctors.
+        - question: "Question 9. Ethiopia: Christian priests will exorcise spirits from people who have already looked for help from Western doctors."
           answer: True
-        - question: Question 10. Ethiopia: Assuming all people who have psychological problems are possessed by spirits, the number of women who have psychological problems is below 15 percent.
+        - question: "Question 10. Ethiopia: Assuming all people who have psychological problems are possessed by spirits, the number of women who have psychological problems is below 15 percent."
           answer: False
   jigsaw:
     0:
@@ -241,17 +241,17 @@ tremonte:
         \item [Split] This money split the movement into `consumer' groups, which took medication willingly and got more money, and `survivor' groups, which rejected psychiatry and didn't get as much money. The `survivors' are against forcing patients to take medication.
         \end{description}
       quiz:
-        - question: Question 11. De-institutionalization: De-institutionalization means the moving of patients out of long-stay psychiatric hospitals.
+        - question: "Question 11. De-institutionalization: De-institutionalization means the moving of patients out of long-stay psychiatric hospitals."
           answer: True
-        - question: Question 12. De-institutionalization: Psychiatrists did not want patients to be de-institutionalized.
+        - question: "Question 12. De-institutionalization: Psychiatrists did not want patients to be de-institutionalized."
           answer: False
-        - question: Question 13. De-institutionalization: There were a number of reasons why politicians, psychiatrists and psychiatric patients agreed about de-institutionalization.
+        - question: "Question 13. De-institutionalization: There were a number of reasons why politicians, psychiatrists and psychiatric patients agreed about de-institutionalization."
           answer: True
-        - question: Question 14. De-institutionalization: Early mental health advocated had no experience of living in psychiatric hospitals.
+        - question: "Question 14. De-institutionalization: Early mental health advocated had no experience of living in psychiatric hospitals."
           answer: False
-        - question: Question 15. De-institutionalization: If the government had not given money to advocacy groups, the movement might not have split into consumer and survivor groups.
+        - question: "Question 15. De-institutionalization: If the government had not given money to advocacy groups, the movement might not have split into consumer and survivor groups."
           answer: True
-        - question: Question 16. De-institutionalization: Jim Rye, Ralph Tremonte and Donald Weiss belong to the consumer group, rather than the survivor group.
+        - question: "Question 16. De-institutionalization: Jim Rye, Ralph Tremonte and Donald Weiss belong to the consumer group, rather than the survivor group."
           answer: False
 jegede:
   jigsaw:
