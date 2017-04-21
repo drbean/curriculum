@@ -558,20 +558,6 @@ dastoor:
             - skateboard
             - unicycle
           answer: unicycle
-        - question: A has 2 wheels
-          answer: True
-        - question: B has 2 wheels
-          answer: False
-        - question: C has 2 wheels
-          answer: False
-        - question: A is NOT in the textbook.
-          answer: True
-        - question: B is NOT in the textbook.
-          answer: False
-        - question: C is NOT in the textbook.
-          answer: True
-        - question: The powered skateboard is the oldest.
-          answer: True
     1:
       identifier: skateboard 1
       A: An electric stand-up scooter has two wheels, but you are not a stand-up scooter. You have more wheels than C. You are in the textbook. You were first sold 40 years ago.
@@ -596,20 +582,6 @@ dastoor:
             - skateboard
             - unicycle
           answer: scooter
-        - question: A has 2 wheels
-          answer: False
-        - question: B has 2 wheels
-          answer: False
-        - question: C has 2 wheels
-          answer: True
-        - question: A is in the textbook.
-          answer: True
-        - question: B is in the textbook.
-          answer: False
-        - question: C is in the textbook.
-          answer: False
-        - question: The powered unicycle is the youngest.
-          answer: True
     2:
       identifier: skateboard 2
       A: An electric skateboard has four wheels, but you are not a skateboard. You have fewer wheels than B. You are not in the textbook. You were first sold 10 years ago.
@@ -634,20 +606,6 @@ dastoor:
             - skateboard
             - unicycle
           answer: skateboard
-        - question: A has 2 wheels
-          answer: False
-        - question: B has 2 wheels
-          answer: True
-        - question: C has 2 wheels
-          answer: False
-        - question: A is in the textbook.
-          answer: False
-        - question: B is in the textbook.
-          answer: False
-        - question: C is in the textbook.
-          answer: True
-        - question: The powered skateboard is the oldest.
-          answer: True
         
         
         
