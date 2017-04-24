@@ -492,6 +492,8 @@ conditional:
       sentence:
         - Water freezes, if the temperature falls below zero.
         - If I won the lottery, I would travel around the world.
+        - If it rains, I will take the train.
+        - If it hadn't rained on Friday, I wouldn't have gotten wet.
     
 euphemism:
   jigsaw:
