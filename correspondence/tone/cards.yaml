@@ -371,12 +371,12 @@ explanation:
     0:
       identifier: explanation
       quiz:
-        - question: Our first free  check is after 6 months.
+        - question: '"Our first free  check is after 6 months." Will the reader say, "Why/why not?" or "Oh, OK."'
           option:
             - a reason lessening impact of bad news
             - not a reason lessening impact of bad news
           answer: a reason lessening impact of bad news
-        - question: You cannot get a free check under your policy.
+        - question: '"You cannot get a free check under your policy." Will the reader say, "Why/why not?" or "Oh, OK."'
           option:
              - a reason lessening impact of bad news
              - not a reason lessening impact of bad news
@@ -486,6 +486,37 @@ conditional:
             - Type 2
             - Type 3
           answer: Type 3
+    3:
+      identifier: type review
+      quiz:
+        - question: Water free ...
+          option:
+            - Type 0
+            - Type 1
+            - Type 2
+            - Type 3
+          answer: Type 0
+        - question: If I won the ... 
+          option:
+            - Type 0
+            - Type 1
+            - Type 2
+            - Type 3
+          answer: Type 2
+        - question: If it rains ...
+          option:
+            - Type 0
+            - Type 1
+            - Type 2
+            - Type 3
+          answer: Type 1
+        - question: If it hadn't ...
+          option:
+            - Type 0
+            - Type 1
+            - Type 2
+            - Type 3
+          answer: Type 3
   scramble:
     0:
       identifier: conditional
@@ -510,3 +541,57 @@ euphemism:
             - euphemistic
             - non-euphemistic
           answer: euphemistic
+confrontational:
+  jigsaw:
+    0:
+      identifier: confrontational
+      quiz:
+        - question: Don't turn the computer off by holding in the button.
+          option:
+            - confrontational
+            - diplomatic
+          answer: confrontational
+        - question: I sent you an email, but you didn't reply.
+          option:
+            - confrontational
+            - diplomatic
+          answer: confrontational
+        - question: Please return any library books that are overdue.
+          option:
+            - confrontational
+            - diplomatic
+          answer: diplomatic
+        - question: Let us help you fix the problem you're having.
+          option:
+            - confrontational
+            - diplomatic
+          answer: diplomatic
+        - question: You're not doing it the right way.
+          option:
+            - confrontational
+            - diplomatic
+          answer: confrontational
+  scramble:
+    0:
+      identifier: confrontational
+      sentence:
+        - Your policy does not include free checks of your boilers.
+        - You are eligible for a free check of your boilers after one year.
+        - The library books that you checked out on November_23 are overdue.
+email:
+  jigsaw:
+    0:
+      identifier: email
+      quiz:
+        - question: The better one?
+          option:
+            - Email A
+            - Email B
+          answer: Email B
+        - question: The reason one is better?
+          option:
+            - acknowledgement and thanks
+            - rejection with reason
+            - apology, polite expression of hope for future
+          answer: acknowledgement and thanks
+        
