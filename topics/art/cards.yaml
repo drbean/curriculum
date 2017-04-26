@@ -384,6 +384,13 @@ mask:
       - "B: First, get some glue, paper and scissors. _G: OK. I have them._"
       - "G: What do I do with the scissors? _B: Cut out some shapes with your scissors._"
       - "G: OK. Then, what do I do with the shapes? _B: Glue the shapes on the paper to make a face._"
+    -
+      - Many people like masks.                           _許多人喜歡面具。_
+      - People tell stories with masks.                   _人們用面具講故事。_
+      - Masks can be big or small.                        _面具可以大或小。_
+      - People can wear very small masks on their hands.  _人們可以在他們的手上戴上非常小的面具。_
+      - Some masks are bigger than people.                _一些面具比人大。_
+      - People can hide behind very big masks.            _人們可以躲在非常大的面具後面。_
 
 monet:
   bingo:
