@@ -1,0 +1,151 @@
+---
+genre: ted
+keyword:
+  match:
+    0:
+      identifier: keyword
+      pair:
+        -
+          - bow (n)
+          - 5
+        -
+          - knot (n)
+          - 3
+        -
+          - loop (n)
+          - 4
+        -
+          - shoe laces
+          - 1
+        -
+          - tie (v)
+          - 2
+        -
+          - to come untied
+          - 6
+    1:
+        identifier: picture keyword
+        pair:
+          -
+            - A
+            - loop (n)
+          -
+            - B
+            - bow (n)
+          -
+            - C
+            - shoe laces
+          -
+            - D
+            - knot (n)
+audience:
+  jigsaw:
+    0:
+      identifier: audience
+      quiz:
+        - question: the audience is described as (write one word he uses):
+          option:
+            - effective
+            - intelligent
+            - intellectual
+            - savvy
+            - worldly
+            - innovative
+          answer: innovative
+    1:
+      identifier: bad news
+      quiz:
+        - question: the bad news is:
+          option:
+            - they have to practice tying their shoes
+            - they are tying their shoes wrong
+            - they have to listen to an explanation of tying their shoes
+          answer: they are tying their shoes wrong
+        
+story:
+  jigsaw:
+    0:
+      identifier: story
+      quiz:
+        - question: 1
+          option:
+            - exercise
+            - expensive
+          answer: expensive
+        - question: 2
+          option:
+            - round
+            - flat
+          answer: round
+        - question: 3
+          option:
+            - tied
+            - tight
+          answer: tied
+        - question: 4
+          option:
+            - off
+            - back
+          answer: back
+        - question: 5
+          option:
+            - style
+            - shoes
+          answer: shoes
+        - question: 6
+          option:
+            - You're tying them wrong.
+            - They're too long.
+          answer: You're tying them wrong.
+        - question: 7
+          option:
+            - 40
+            - 50
+          answer: 50
+knot:
+  jigsaw:
+    0:
+      identifier: knot
+      quiz:
+        - question: 1
+          option:
+            - stronger
+          answer: stronger
+        - question: 2
+          option:
+            - untied
+          answer: untied
+        - question: 3
+          option:
+            - down
+          answer: down
+        - question: 4
+          option:
+            - looks
+          answer: looks
+language:
+  jigsaw:
+    0:
+      identifier: language
+      quiz:
+        - question: 1
+          option:
+            - 97%
+          answer: 97%
+        - question: 2
+          option:
+            - job
+          answer: job
+        - question: 3
+          option:
+            - tasks
+          answer: tasks
+        - question: 4
+          option:
+            - 2-4%
+          answer: 2-4%
+        - question: 5
+          option:
+            - attractive
+          answer: attractive
+        
