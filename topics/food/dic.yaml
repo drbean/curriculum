@@ -65,4 +65,29 @@
     M: Well, try to eat food that is good for you. You need to take care of yourself.
     W: You're right. I should start thinking about a healthier lifestyle. But first ..
   - Now|eat|regular|meals|instead|or|big|meals|What|of|do|usually|now|fruit|vegetables|I try|limit|carbohydrates|like|bread|rice|and pasta|also try not to eat|sugary foods|Oh dear|foods|cakes|Well|eat|that|you|You|need|to|care of|yourself|You're|thinking|healthier|But|I'm|to|my burger|End
-
+-
+  - "balance-0"
+  - "balance-0"
+  - "topics"
+  - "all"
+  - |+
+    W: I have lost seven pounds in one week! Skipping breakfast really works.
+    M: I don't think that's a good idea.
+    W: Why not?
+    M: People who skip breakfast eat more at the next meal. Eating breakfast is very important. Breakfast gives you energy for the day.
+    W: Well, I eat one big meal at dinnertime.
+    M: Having one meal a day is not good. You should have several small meals a day. You'll have more energy that way.
+    W: Maybe you're right. I have been feeling really tired lately.
+    M: What do you usually eat?
+    W: I only eat salads now.
+    M: Salads alone my not be nutritious enough.
+    W: So, what should I eat?
+  - pounds|Skipping|works|I don't|that's|Why|People|eat|at|Eating|very|gives|for|Well|one|dinnertime|Having|not|You|several|You'll|that|Maybe you're|really|lately|What|usually|eat|now|alone|be nutritious|So|should|you|protein|It|to|of|each|You|balanced|Make|sure|cereals|and|and|bread|You|need|and|products|meat|You'll|healthier|You'll|You'll|better|End
+-
+  - "balance-1"
+  - "balance-1"
+  - "topics"
+  - "all"
+  - |+
+    M: You need some protein and carbohydrates. It is important to eat a good variety of food at each meal. You should have balanced meals. Make sure you eat cereals, fruits and vegetables, and some bread or rice. You also need milk and dairy products, and some meat. You'll be healthier. You'll have more energy. You'll even look better.
+  - You|protein|It|to|of|each|You|balanced|Make|sure|cereals|and|and|bread|You|need|and|products|meat|You'll|healthier|You'll|You'll|better|End
