@@ -391,6 +391,11 @@ mask:
       - People can wear very small masks on their hands.  _人們可以在他們的手上戴上非常小的面具。_
       - Some masks are bigger than people.                _一些面具比人大。_
       - People can hide behind very big masks.            _人們可以躲在非常大的面具後面。_
+    -
+      - "Boy: Why are you painting just squares? _Girl: Squares are my favorite shapes._"
+      - "Boy: I made something for you. _Girl: A mask! It's so pretty. Thank you!_"
+      - "Girl: What's on the floor. It's all sticky. _Boy: It's glue. I made a mask today._"
+      - "Boy: Can you show me how to make a bird? _Girl: Sure. You just need to fold this paper._"
 
 monet:
   bingo:
