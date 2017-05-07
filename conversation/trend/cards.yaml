@@ -48,7 +48,7 @@ movement:
     1:
       identifier: grammar problem
       quiz:
-        - question: The grammatical question. All the others have problem with noun-verb agreement or auxiliary verb use in questions:
+        - question: "The grammatical question. All the others have problem with noun-verb agreement or auxiliary verb use in questions:"
           option:
             - He have courage, doesn't he?               
             - It is not easy to be a leader, is it?      
@@ -140,7 +140,7 @@ meeting:
   jigsaw:
     0:
       identifier: meeting
-      A: You are at a conference with your assistant: Franco. You worked with Jim at your previous company, ADG.
+      A: "You are at a conference with your assistant: Franco. You worked with Jim at your previous company, ADG."
       B: You recently joined DEC. You are at a conference with Theresa, your boss.
       C: You see Theresa at a conference. You worked with her at your company before.
       quiz:
@@ -281,9 +281,9 @@ sivers:
           answer: True
         - question: Sivers says Paul is a nut.
           answer: False
-        - question: Sivers: Kevin is the brave one
+        - question: "Sivers: Kevin is the brave one"
           answer: False
-        - question: Sivers: Paul makes Kevin a leader.
+        - question: "Sivers: Paul makes Kevin a leader."
           answer: True
         - question: Kevin wants to start a movement.
           answer: False
