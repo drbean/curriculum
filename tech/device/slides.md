@@ -1,6 +1,6 @@
 % 科技英文, or Technical English
 % Computing, smartphones by Dr Bean
-% Mon Mar 16 16:54:12 CST 2015
+% Mon May  1 18:28:01 CST 2017
 
 # Computing, mobile devices
 
@@ -15,6 +15,8 @@ It is likely that students will fail this class.
 ## Smartphone criticism
 
 Dr Bean thinks smartphone use is dumbing down a generation. Instead of reading a book or thinking, people are reading email from their friends, looking at pictures of their pets, or watching movies. They should be reading a book, or sleeping!
+
+The phones are smart, but the people are dumb.
 
 The only way to escape this is to stop using smartphones or to become the master of the smartphone, taking control of it by programming it. This is difficult, but it makes you smart, not dumb. So it is good for you.
 
@@ -103,6 +105,8 @@ functions of a mobile phone and a personal digital assistant (PDA), supported li
 ## Principles that app designers should understand
 
 - [http://developer.android.com/design/index.html ](http://developer.android.com/design/index.html)
+- [Android Design Principles | Android Developers](https://developer.android.com/design/get-started/principles.html)
+
 
 ## Statement about importance of Android Design Principles
 
@@ -397,5 +401,11 @@ answers for the ones with 2 possible answers.
 ## Learning the words with anki
 
 On elearning bu Sunday morning, put a screenshot showing the anki screen with a word, and in the subject line, put the 3 numbers, new cards, cards being learned now, and cards waiting to be reviewed.
+
+# Chat
+
+## webchat.freenode.net
+
+Before Sunday 7 April 8pm, a chat session with your partner about what you will say to Dr Bean in Week 13.
 
 ## The End
