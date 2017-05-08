@@ -406,6 +406,6 @@ On elearning bu Sunday morning, put a screenshot showing the anki screen with a 
 
 ## webchat.freenode.net
 
-Before Sunday 7 April 8pm, a chat session with your partner about what you will say to Dr Bean in Week 13.
+Before Sunday 7 May 8pm, a chat session with your partner about what you will say to Dr Bean in Week 13.
 
 ## The End
