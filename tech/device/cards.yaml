@@ -15,4 +15,52 @@ quality_check:
             - Testing procedures
             - Smartphones
           answer: Testing procedures
+default:
+  jigsaw:
+    0:
+      identifier: default browser
+      quiz:
+        - question: What is the purpose of the video?
+          option:
+            - To show you how to change browser
+            - To get you to change from Opera to Chrome
+          answer: To show you how to change browser
+        - question: Is it possible to change default browser
+          option:
+            - Yes
+            - No
+          answer: Yes
+        - question: Why does he prefer Chrome?
+          option:
+            - It's faster than Opera.
+            - It syncs his data across devices.
+          answer: It syncs his data across devices.
+        - question: Can people change the browser themselves?
+          option:
+            - Yes
+            - No
+          answer: Yes
+        
+        - question: How does he change from Opera to Chrome
+          option:
+            - uninstall Opera
+            - disable Opera
+          answer: disable Opera
+        - question: Does the Opera run faster than Chrome?
+          option:
+            - Yes
+            - No
+          answer: No
+        - question: Do you need to close all apps before setting the default.
+          option:
+            - Yes
+            - No
+          answer: Yes
+        - question: Does he succeed in changing the browser?
+          option:
+            - Yes
+            - No
+          answer: Yes
+
+        
         
