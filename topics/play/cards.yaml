@@ -161,3 +161,20 @@ toy:
       kite:                       風箏
       the doll has a teddy bear:  娃娃有一個玩具熊
       the doll has a hoop:        娃娃有一個箍
+activity:
+  bingo:
+    -
+      - Let's go on a vacation this summer.                        _今年夏天我們去度假吧                     _
+      - Egypt has many pyramids.                                   _埃及有許多金字塔。                       _
+      - Australia is a very big country with a lot of kangaroos.   _澳大利亞是一個非常大的國家，有很多袋鼠。 _
+      - Be careful in the jungle. There are many animals and bugs. _在叢林中小心。 有很多動物和蟲子。        _
+  0:
+    flash:
+      stuffed animal: 填充玩具動物
+      video game    : 視頻遊戲
+      break         : 打破
+      doll          : 娃娃
+      comic book    : 漫畫書
+      share         : 分享
+      important     : 重要
+      cartoon       : 動畫片
