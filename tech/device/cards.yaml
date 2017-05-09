@@ -66,13 +66,41 @@ vocabulary:
     0:
       identifier: vocabulary match
       pair:
-smartphone,mobile devices with computer-like functionality
-Wi-Fi,provides short-range wireless high-speed data connections between mobile data devices (such as laptops or phones) and nearby Wi-Fi access points 
-airplane mode,disables all radio parts of a mobile phone but leaves other functions available--including music player or everything that doesn't require the radio transmitters.
-operating system,controls all basic operations of the computer (or device).
-app,a third-party application that the OS allows the user to install and execute--adding new functionality to the device.
-Bluetooth,a wireless protocol for exchanging data over short distances from your phone to your computer.
-open source,distributing apps with the computer code used to build them and allowing users to share them freely.
-OEM (Original Equipment Manufacturer),A company manufacturing products that are branded and sold by another company. eg Foxconn--making Apple's iPhones.
-touchscreen,a display which responds to direct touch manipulation either by finger or stylus
-tablet,a mobile computer with a touchscreen display built into a single thin flat package.
+        -
+          - smartphone
+          - mobile devices with computer-like functionality
+        -
+          - Wi-Fi
+          - provides short-range wireless high-speed data connections between mobile data devices (such as laptops, PDAs or phones) and nearby Wi-Fi access points 
+        -
+          - airplane mode
+          - disables all radio parts of a mobile phone but leaves other functions available, including music player, organizer and everything that doesn't require the radio transmitters.
+        -
+          - operating system
+          - controls all basic operations of the computer (or device).
+        -
+          - app
+          - a third-party application that the OS allows the user to install and execute, adding new functionality to the device.
+        -
+          - Bluetooth
+          - a wireless protocol for exchanging data over short distances from your phone to your computer.
+        -
+          - open source
+          - distributing apps with the computer code used to build them and allowing users to share them freely.
+        -
+          - OEM (Original Equipment Manufacturer)
+          - A company manufacturing products that are branded and sold by another company. eg Foxconn, making Apple's iPhones.
+        -
+          - touchscreen
+          - a display which responds to direct touch manipulation, either by finger, stylus, or both.
+        -
+          - tablet
+          - a mobile computer with a touchscreen display, built into a single thin, flat package.
+        
+        
+        
+        
+
+        
+        
+        
