@@ -97,6 +97,10 @@ functions of a mobile phone and a personal digital assistant (PDA), supported li
 
 # Android interface design
 
+## Youtube videos introducing android design
+
+- [https://www.youtube.com/watch?v=SjeWHbsAMlU](https://www.youtube.com/watch?v=SjeWHbsAMlU)
+
 ## Some simple, but essential, rules about concrete items on the smartphone screen
 
 - [Core App Quality | Android Developers ](https://developer.android.com/distribute/essentials/quality/core.html)
@@ -407,5 +411,27 @@ On elearning bu Sunday morning, put a screenshot showing the anki screen with a 
 ## webchat.freenode.net
 
 Before Sunday 7 May 8pm, a chat session with your partner about what you will say to Dr Bean in Week 13.
+
+# Homework and exam
+
+## memrise course
+
+- Choose 10 words that you will use when you talk to me
+- Put the words with answers in English (not Chinese) on moodle (search google for the words, 'smartphone', or 'computers', 'devices', etc and 'vocabulary')
+- Create a memrise course with the words and answers in the Professional and Careers, Computers and Engineering, English category.
+- [http://feedback.memrise.com/knowledgebase/articles/524504-create-a-course-make-a-learning-list](http://feedback.memrise.com/knowledgebase/articles/524504-create-a-course-make-a-learning-list)
+- Making the course public
+- [http://feedback.memrise.com/knowledgebase/articles/525179-set-course-to-private-hide-course ](http://feedback.memrise.com/knowledgebase/articles/525179-set-course-to-private-hide-course)
+- Do it before 10am Sunday 21.
+
+## memrise grade
+
+The difference between your points in Week 13 and now.
+
+- [Ranks 1-10](Screenshot_from_2017-04-17_19-13-26.png)
+- [Ranks 11-20](Screenshot_from_2017-04-17_19-14-43.png)
+- [Ranks 20-30](Screenshot_from_2017-04-17_19-15-48.png)
+- [Ranks 21-33](Screenshot_from_2017-04-17_19-16-30.png)
+- [Ranks 21-34](Screenshot_from_2017-04-18_13-48-11.png)
 
 ## The End
