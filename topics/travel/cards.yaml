@@ -351,3 +351,10 @@ train:
       - "M: What do you think the fares are like? _W: I'm not sure what train fares are like now._"
       - "M: Can you suggest a good person to talk to? _W: My travel agent is always very helpful._"
       - "W: Here is my travel agent's phone number. _M: Thanks! I'll call him right now._"
+vacation:
+  bingo:
+    -
+      - Let's go on a vacation this summer.                        _今年夏天我們去度假吧                     _
+      - Egypt has many pyramids.                                   _埃及有許多金字塔。                       _
+      - Australia is a very big country with a lot of kangaroos.   _澳大利亞是一個非常大的國家，有很多袋鼠。 _
+      - Be careful in the jungle. There are many animals and bugs. _在叢林中小心。 有很多動物和蟲子。        _

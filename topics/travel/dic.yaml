@@ -426,6 +426,26 @@
     W: My travel agent is always very helpful. Here is his phone number.
     M: Thanks! I'll call him right now. Where's the phone?
   - What|you|the|are like|I'm not|what|are like|it depends|your|That's|you'll|to|agent|Can you|good|to|to|My|agent|is|very|Here is his|I'll|him|right|Where's the|End
+-
+  - announcement-0
+  - announcement-0
+  - "topics"
+  - "all"
+  - |+
+    Welcome on board the TGV 740. We are now leaving Paris. We will arrive in Marseilles at 3:00pm.
+    We offer free beverages in each car. Please have as much coffee, tea, or soft drinks as you wish. There is a restaurant on the train. You may purchase a meal there during the trip. The restaurant is in car 11.
+    We will make two stops on this trip.
+  - Welcome|board|TGV 740|We|Paris|We|Marseilles|3:00pm|We offer|in|car|Please|much|tea|soft|wish|There|on|You|during|The|restaurant|car 11|We|stops|We|up|Provence and Dijon|changing|can|the|for|timetable|This|you|onward|Please not|permitted|cars 15|23|Newspapers|given|Mobile|and|Internet|used|18|25|If|need|press|near|contact|cabin|Please|and|the|We|pleased|on board|We|forward|serving|in the|End
+-
+  - announcement-1
+  - announcement-1
+  - "topics"
+  - "all"
+  - |+
+    We will pick up passengers in Provence and Dijon. Passengers changing trains can ask the attendant for a free timetable. This will help you with your onward trip.
+    Please note that smoking is only permitted in cars 15 and 23. Newspapers are given to all passengers. Mobile phones and the Internet may be used in cars 18 and 25. If you need assistance, please press the button near your seat to contact a cabin attendant.
+    Please sit back, relax and enjoy the trip. We are pleased to have you on board. We look forward to serving you again in the future.
+  - We|up|Provence and Dijon|changing|can|the|for|timetable|This|you|onward|Please note|permitted|cars 15|23|Newspapers|given|Mobile|and|Internet|used|18|25|If|need|press|near|contact|cabin|Please|and|the|We|pleased|on board|We|forward|serving|in the|End
 
 
 
