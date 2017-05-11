@@ -1,5 +1,71 @@
 ---
 genre: correspondence
+shoe:
+  match:
+    0:
+      identifier: shoe
+      pair:
+        -
+          - 1.
+          - A. Dear Miss ..
+        -
+          - 2.
+          - R. I am writing about ..
+        -
+          - 3.
+          - P. Thank you for considering ..
+        -
+          - 4.
+          - T. Shack's Shoe Products has ..
+        -
+          - 5.
+          - M. However, the demand for ..
+        -
+          - 6.
+          - B. Unfortunately, the largest size we ..
+        -
+          - 7.
+          - O. We have made inquiries ..
+        -
+          - 8.
+          - H. All we would require ..
+        -
+          - 9.
+          - Q. Please come into our store ..
+        -
+          - 10.
+          - K. Thank you once again ..
+        -
+          - 11. 
+          - D. Your sincerely
+    1:
+      identifier: shoe structure
+      pair:
+        -
+          - R. I am writing about ..
+          - 1. situation
+        -
+          - T. Shack's Shoe Products has ..
+          - 1. situation
+        -
+          - M. However, the demand for ..
+          - 1. situation
+        -
+          - B. Unfortunately, the largest size we ..
+          - 2. bad news
+        -
+          - O. We have made inquiries ..
+          - 3. alternative
+        -
+          - H. All we would require ..
+          - 3. alternative
+        -
+          - Q. Please come into our store ..
+          - 3. alternative
+        -
+          - K. Thank you once again ..
+          - 4. positive close
+          
 herbal:
   match:
     0:
@@ -32,3 +98,83 @@ herbal:
         -
           - 8.
           - L
+    1:
+      identifier: structure
+      pair:
+        -
+          - F. Jenny's Herbal Foods ..
+          - 1. situation
+        -
+          - C. Over that time, ..
+          - 1. situation
+        -
+          - G. We are always ..
+          - 1. situation
+        -
+          - J. However, with the ..
+          - 1. situation
+        -
+          - E. Therefore. it is with ..
+          - 2. bad news
+        -
+          - N. My husband and I ..
+          - 3. alternative
+        -
+          - S. These last 22 years ..
+          - 4. positive close
+        
+              
+
+joke:
+  match:
+    0:
+      identifier: joke
+      pair:
+        -
+          - situation
+          - 1
+        -
+          - bad_news
+          - 2
+        -
+          - alternative
+          - 2
+        -
+          - positive close
+          - 3
+buffer:
+  jigsaw:
+    0:
+      identifier: buffer
+      quiz:
+        - question: Not a buffer
+          option:
+            - You're a nice girl, but
+            - Unfortunately
+            - Therefore
+            - However
+          answer: However
+necessity:
+  jigsaw:
+    0:
+      identifier: necessity
+      quiz:
+        - question: Words showing lack of alternative p96
+          option:
+            - in order for
+            - is necessary
+            - feel that asking
+          answer: is necessary
+scramble:
+  scramble:
+    0:
+      identifier: scramble
+      sentence:
+        - Wouldn't people find nine o'clock a little early?
+        - Actually, we were looking for something a little cheaper.
+        - The quality of the washer does not reflect the price I paid.
+        - We would appreciate it if you could return your purchase ten days earlier.
+        - Using our online service would make you eligible for a fifteen percent discount.
+        - Our company policy requires all orders be paid within thirty days of being delivered.
+        - Our company policy allows discounts on individual orders of $1000_or_more.
+    
