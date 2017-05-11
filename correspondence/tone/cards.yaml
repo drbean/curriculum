@@ -594,4 +594,30 @@ email:
             - rejection with reason
             - apology, polite expression of hope for future
           answer: acknowledgement and thanks
+improvement:
+  scramble:
+    0:
+      identifier: 
+      sentence:
+        - Mr Richards will_probably be only_able to see you after 4:00pm.
+        - We have had problems with half of the 16 computers we bought from you.
+        - To fix your motorcycle, a new clutch will have to be purchased.
+        - If this is OK with you, we will go ahead with the repair.
+        - Packages weighing up to 25kg will be accepted.
+  match:
+    0:
+      identifier: tone improvement point
+      pair:
+        -
+          - Mr Richards will_pro..
+          - 1
+        -
+          - We have had problems..
+          - 4
+        -
+          - To fix your motorcyc..
+          - 3
+        -
+          - Packages weighing up..
+          - 1
         
