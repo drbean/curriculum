@@ -165,4 +165,126 @@ back2front:
         -
           - baseball cap ..
           - back to front
+moore:
+  jigsaw:
+    0:
+      identifier: knot 0
+      A: You are the knot that Terry ties his shoes with. You are not a person. You are a thing, a knot. You have a weak form and a strong form. Nick tells Terry he is tying you with the weak form.
+      B: Your shoelaces don't stay tied. You take the shoes back to Nick, who sold you the shoes and complain. He tells you that you don't know how to tie the knot correctly. You are surprised.
+      C: You sell shoes. Terry buys a pair of shoes from you but he has problems with the shoelaces because he uses the weak form of the knot, instead of the strong form. You help him tie his shoes.
+      quiz:
+        - question: A
+          option:
+            - knot
+            - Nick
+            - Terry
+          answer: knot
+        - question: B
+          option:
+            - knot
+            - Nick
+            - Terry
+          answer: Terry
+        - question: C
+          option:
+            - knot
+            - Nick
+            - Terry
+          answer: Nick
+        - question: Terry has problems tying his shoes.
+          answer: True
+        - question: Terry knows about the two forms of the knot.
+          answer: False
+        - question: Terry is using the strong form of the knot.
+          answer: False
+        - question: Terry complains to Nick.
+          answer: True
+        - question: Nick tells Terry he is tying his shoes with the weak form of the knot.
+          answer: True
+        - question: Terry can tie his shoes correctly without Nick's help.
+          answer: False
+        - question: Nick surprises Terry with his information.
+          answer: True
         
+    1:
+      identifier: knot 1
+      A: You buy some shoes from Nick, but the shoelaces don't stay tied. You take them back to Nick and complain. He tells you about the weak form of the shoelace knot. You learn how to tie the strong form.
+      B: You sell some shoes to Terry with shoelaces that don't stay tied. You tell him about the two different ways to tie shoelaces. You help him tie his shoelaces with the strong form of the knot.
+      C: You are not a person. You are the shoelaces in the shoes that Terry buys from Nick. There is a weak form and strong form of the knot used to tie you. Nick shows Terry how to tie the strong form.
+      quiz:
+        - question: A
+          option:
+            - Nick
+            - shoelaces
+            - Terry
+          answer: Terry
+        - question: B
+          option:
+            - Nick
+            - shoelaces
+            - Terry
+          answer: Nick
+        - question: A
+          option:
+            - Nick
+            - shoelaces
+            - Terry
+          answer: shoelaces
+        - question: Terry sells some shoes to Nick.
+          answer: False
+        - question: Terry takes the shoes back and complains about the shoelaces.
+          answer: True
+        - question: The problem is not the shoelaces, but how they are tied.
+          answer: True
+        - question: Nick tells Terry that he is tying the shoelaces wrong.
+          answer: True
+        - question: Terry already knows about the weak and strong form of the knot.
+          answer: False
+        - question: Terry is tying his shoes with the strong form of the knot.
+          answer: False
+        - question: Nick shows Terry how to tie the weak form of the knot.
+          answer: False
+        
+        
+    2:
+      identifier: knot 2
+      A: Terry buys some shoes from you, but he complains about the shoelaces. You show him how to tie them correctly. You don't know Dennis. Terry tells Dennis how you helped him tie his shoelaces.
+      B: Terry asks you if you are tying your shoelaces correctly. You don't know. He tells you how he wasn't. He says Nick showed him how to tie them. You don't know Nick.
+      C: You buy some shoes from Nick, but you take them back because, although you THOUGHT you knew, you DIDN'T know how to tie the shoelaces correctly. You ask Dennis if he is tying his shoes correctly. He doesn't know.
+      quiz:
+        - question: A
+          option:
+            - Dennis
+            - Nick
+            - Terry
+          answer: Nick
+        - question: B
+          option:
+            - Dennis
+            - Nick
+            - Terry
+          answer: Dennis
+        - question: C
+          option:
+            - Dennis
+            - Nick
+            - Terry
+          answer: Terry
+        - question: Before, Terry thought he was tying his shoelaces correctly.
+          answer: True
+        - question: Before, Terry WAS tying his shoelaces correctly.
+          answer: False
+        - question: Nick shows Terry how to tie his shoelaces correctly.
+          answer: True
+        - question: Nick also shows Dennis how to tie his shoelaces correctly.
+          answer: False
+        - question: Terry asks Dennis if he is tying his shoelaces correctly.
+          answer: True
+        - question: Dennis knows he is tying his shoelaces correctly.
+          answer: False
+        - question: Terry tells Dennis that Nick showed him how to tie his shoes.
+          answer: True
+       
+
+       
+       
