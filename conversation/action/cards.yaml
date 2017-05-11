@@ -193,9 +193,9 @@ moore:
           answer: Nick
         - question: Terry has problems tying his shoes.
           answer: True
-        - question: Terry knows about the two forms of the knot.
+        - question: Terry knows about the two knot forms.
           answer: False
-        - question: Terry is using the strong form of the knot.
+        - question: Terry is using the strong form.
           answer: False
         - question: Terry complains to Nick.
           answer: True
@@ -224,7 +224,7 @@ moore:
             - shoelaces
             - Terry
           answer: Nick
-        - question: A
+        - question: C
           option:
             - Nick
             - shoelaces
@@ -240,9 +240,9 @@ moore:
           answer: True
         - question: Terry already knows about the weak and strong form of the knot.
           answer: False
-        - question: Terry is tying his shoes with the strong form of the knot.
+        - question: Terry is using the strong form.
           answer: False
-        - question: Nick shows Terry how to tie the weak form of the knot.
+        - question: Nick shows Terry the weak form.
           answer: False
         
         
@@ -274,15 +274,15 @@ moore:
           answer: True
         - question: Before, Terry WAS tying his shoelaces correctly.
           answer: False
-        - question: Nick shows Terry how to tie his shoelaces correctly.
+        - question: Nick shows Terry how to tie his shoelaces.
           answer: True
-        - question: Nick also shows Dennis how to tie his shoelaces correctly.
+        - question: Nick also shows Dennis how to tie his.
           answer: False
         - question: Terry asks Dennis if he is tying his shoelaces correctly.
           answer: True
-        - question: Dennis knows he is tying his shoelaces correctly.
+        - question: Dennis knows he is.
           answer: False
-        - question: Terry tells Dennis that Nick showed him how to tie his shoes.
+        - question: Terry tells Dennis Nick showed him.
           answer: True
        
 
