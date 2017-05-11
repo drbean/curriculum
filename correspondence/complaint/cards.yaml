@@ -1,0 +1,108 @@
+---
+genre: correspondence
+glass:
+  jigsaw:
+    0:
+      identifier: glass
+      quiz:
+        - question: Are there enough details for Seth to work with?
+          option:
+            - Yes
+            - No
+          answer: Yes
+        - question: From paragraph 1, what does Seth KNOW the problem is?
+          option:
+            - delivery
+            - broken glasses
+            - wrong product
+            - failure to deliver
+          answer: delivery
+        - question: From paragraph 2, what does Seth know the problem is?
+          option:
+            - delivery
+            - broken glasses
+            - wrong product
+            - failure to deliver
+          answer: failure to deliver
+        - question: From paragraph 2, what does Seth know the costs incurred are?
+          option:
+            - customers' firm orders
+            - damage to reputation
+            - keeping customers waiting
+          answer: damage to reputation
+        - question: Is Michael happy, expecting delivery in paragraph 3?
+          option:
+            - Yes
+            - No
+          answer: No
+        - question: Does Michael threaten Seth in paragraph 3?
+          option:
+            - Yes
+            - No
+          answer: Yes
+        - question: Does paragraph 4 show Michael expects Seth to do as he asked?
+          option:
+            - Yes
+            - No
+          answer: Yes
+drink:
+  match:
+    0:
+      identifier: drink workers
+      pair:
+        -
+          - 1
+          - number
+        -
+          - 2
+          - temporary
+        -
+          - 3
+          - demand
+        -
+          - 4
+          - satisfied
+        -
+          - 5
+          - warehouses
+        -
+          - 6
+          - definite
+        -
+          - 7
+          - impression
+    1:
+      identifier: drink workers
+      pair:
+        -
+          - 8
+          - heavy
+        -
+          - 9
+          - immediately
+        -
+          - 10
+          - detrimental
+        -
+          - 11
+          - shift
+        -
+          - 12
+          - appreciate
+        -
+          - 13
+          - required
+        -
+          - 14
+          - forced
+doll:
+  scramble:
+    0:
+      identifier: doll
+      sentence:
+        - On April 27, I ordered 25 china dolls from you (order number CD 1345).
+        - The dolls arrived yesterday, May 7 in a partly-opened package, which had not been properly taped.
+        - As a result, all the dolls were damaged, with broken faces, or torn clothing.
+        - We are extremely unhappy about this situation.
+        - We want you to send us a replacement set of dolls, at your expense.
+    
