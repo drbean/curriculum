@@ -162,6 +162,12 @@ toy:
       the doll has a teddy bear:  娃娃有一個玩具熊
       the doll has a hoop:        娃娃有一個箍
 activity:
+  bingo:
+    -
+      - It's raining. Logan can't play outside. He doesn't know what to do.  _在下雨。 洛根不能在外面玩耍 他不知道該怎麼辦_
+      - He doesn't want to watch cartoons. They're not fun.                  _他不想看漫畫。 他們沒有樂趣_
+      - He doesn't want to read a comic book. He read all of them last week. _他不想讀一本漫畫書。 他上週讀了所有這些。_
+      - What can he do? He can play a video game! That's what he'll do.      _他能做什麼？ 他可以玩視頻遊戲！ 這就是他會做的_
   0:
     flash:
       stuffed animal: 填充玩具動物
