@@ -43,7 +43,7 @@ audience:
     0:
       identifier: audience
       quiz:
-        - question: the audience is described as (write one word he uses):
+        - question: "the audience is described as (write one word he uses):"
           option:
             - effective
             - intelligent
@@ -55,7 +55,7 @@ audience:
     1:
       identifier: bad news
       quiz:
-        - question: the bad news is:
+        - question: "the bad news is:"
           option:
             - they have to practice tying their shoes
             - they are tying their shoes wrong
@@ -284,7 +284,209 @@ moore:
           answer: False
         - question: Terry tells Dennis Nick showed him.
           answer: True
-       
-
-       
-       
+food_key:
+  match:
+    0:
+      identifier: edible keywords
+      pair:
+        -
+          - herbs
+          - d
+        -
+          - resources
+          - g
+        -
+          - engage in
+          - a
+        -
+          - share
+          - b
+        -
+          - bed
+          - f
+        -
+          - prickly plant
+          - c
+        -
+          - corn
+          - e
+    1:
+        identifier: picture edible keyword
+        pair:
+          -
+            - A
+            - corn
+          -
+            - B
+            - herbs
+          -
+            - C
+            - prickly plant
+          -
+            - D
+            - bed
+todmorden:
+  jigsaw:
+    0:
+      identifier: todmorden
+      quiz:
+        - question: Warhurst's main point about Todmorden
+          option:
+            - traditional small gardening town
+            - small town transformed by gardening
+          answer: small town transformed by gardening
+story_choice:
+  jigsaw:
+    0:
+      identifier: story
+      quiz:
+        - question: a normal town of ___ people
+          option:
+            - 15,000
+            - 50,000
+          answer: 15,000
+        - question: fruit and vegetables in front of the ___ station
+          option:
+            - fire
+            - police
+          answer: police
+        - question: the town attracts ___ tourists
+          option:
+            - local
+            - vegetable
+          answer: vegetable
+        - question: Warhurst wants to start a ___
+          option:
+            - local shop
+            - revolution
+          answer: revolution
+        - question: through food, people can find a new way of ___
+          option:
+            - living
+            - doing business
+          answer: living
+vocab:
+  match:
+    0:
+      identifier: vocab
+      pair:
+        -
+          - sitting round the ___ table
+          - kitchen
+        -
+          - they didn't write a ___
+          - plan
+        -
+          - they put the idea to a ___ meeting
+          - public
+        -
+          - 1st plate
+          - community
+        -
+          - 2nd plate
+          - learning
+        -
+          - 3rd plate
+          - local businesses
+        -
+          - everywhere, people respond to the ___ of food
+          - story
+sentence:
+  match:
+    0:
+      identifier: actions
+      pair:
+        -
+          - transformed a dog toilet into
+          - a herb garden
+        -
+          - in the station parking lot, they made
+          - vegetable beds
+        -
+          - at the health center, they replaced prickly plants with
+          - fruit trees, bushes, herbs and vegetables.
+        -
+          - at the police station, they planted
+          - corn
+        -
+          - at the high school, they made an area with
+          - fish and vegetables.
+summary:
+  jigsaw:
+    0:
+      identifier: plate 3
+      quiz:
+        - question: the aim was to get people to support local food ___
+          option:
+            - producers
+            - shops
+          answer: producers
+        - question: local traders wrote products on blackboards and ___ went up.
+          option:
+            - prices
+            - sales
+          answer: sales
+        - question: farmers didn't think Warhurst was ___
+          option:
+            - serious
+            - honest
+          answer: serious
+        - question: the group made a map of where to buy fresh local ___
+          option:
+            - vegetables
+            - eggs
+          answer: eggs
+        - question: the ___ steps changed the way people think.
+          option:
+            - difficult
+            - small
+          answer: small
+        - question: the project is successful because it is for ___
+          option:
+            - everyone
+            - business too
+          answer: everyone
+ordering:
+  jigsaw:
+    0:
+      identifier: food name, description
+      quiz:
+        - question: Bigos
+          option:
+            - soup
+            - stew
+          answer: stew
+        - question:  a ___ Polish dish
+          option:
+            - local
+            - traditional
+          answer: traditional
+        - question: made with ___
+          option:
+            - chicken
+            - meat
+          answer: meat
+        - question: good if you are 
+          option:
+            - hungry
+            - in a hurry
+          answer: hungry
+    1:
+      identifier: pepper steak
+      quiz:
+        - question: comes with ___
+          option:
+            - vegetables
+            - salad
+          answer: salad
+        - question: the customer would like it ___
+          option:
+            - medium
+            - well-done
+          answer: medium
+        - question: she will drink some ___
+          option:
+            - juice
+            - water
+          answer: water
+        
