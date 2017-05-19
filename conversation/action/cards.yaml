@@ -191,19 +191,9 @@ moore:
             - Nick
             - Terry
           answer: Nick
-        - question: Terry has problems tying his shoes.
-          answer: True
-        - question: Terry knows about the two knot forms.
-          answer: False
         - question: Terry is using the strong form.
           answer: False
         - question: Terry complains to Nick.
-          answer: True
-        - question: Nick tells Terry he is tying his shoes with the weak form of the knot.
-          answer: True
-        - question: Terry can tie his shoes correctly without Nick's help.
-          answer: False
-        - question: Nick surprises Terry with his information.
           answer: True
         
     1:
@@ -230,21 +220,10 @@ moore:
             - shoelaces
             - Terry
           answer: shoelaces
-        - question: Terry sells some shoes to Nick.
+        - question: The problem isn't the way the shoelaces are tied. It's the shoelaces themselves which are the problem.
           answer: False
-        - question: Terry takes the shoes back and complains about the shoelaces.
-          answer: True
-        - question: The problem is not the shoelaces, but how they are tied.
-          answer: True
         - question: Nick tells Terry that he is tying the shoelaces wrong.
           answer: True
-        - question: Terry already knows about the weak and strong form of the knot.
-          answer: False
-        - question: Terry is using the strong form.
-          answer: False
-        - question: Nick shows Terry the weak form.
-          answer: False
-        
         
     2:
       identifier: knot 2
@@ -274,16 +253,6 @@ moore:
           answer: True
         - question: Before, Terry WAS tying his shoelaces correctly.
           answer: False
-        - question: Nick shows Terry how to tie his shoelaces.
-          answer: True
-        - question: Nick also shows Dennis how to tie his.
-          answer: False
-        - question: Terry asks Dennis if he is tying his shoelaces correctly.
-          answer: True
-        - question: Dennis knows he is.
-          answer: False
-        - question: Terry tells Dennis Nick showed him.
-          answer: True
 food_key:
   match:
     0:
