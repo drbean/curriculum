@@ -1,5 +1,30 @@
 ---
 genre: correspondence
+complaint:
+  match:
+    0:
+      identifier: structure
+      pair:
+        -
+          - 1st paragraph
+          - background
+        -
+          - 2nd paragraph
+          - complaint
+        -
+          - 2nd paragraph
+          - resulting damage
+        -
+          - 3rd paragraph
+          - request
+        -
+          - 3rd paragraph
+          - threat
+        -
+          - 4th paragraph
+          - polite close
+
+        
 glass:
   jigsaw:
     0:
@@ -95,23 +120,151 @@ drink:
         -
           - 14
           - forced
-Our company has been using TOPCAT ..
-However, over the last two months ..
-I am not sure why the situation changed ..
-If the quality of employees ..
-Thank you 
-
-1st paragraph:
-2nd paragraph:
-3rd paragraph:
-4th paragraph:
-background
-complaint
-resulting damage
-request
-threat
-polite close
-
+    2:
+      identifier: drink structure
+      pair:
+        -
+          - Our company has been using TOPCAT ..
+          - background
+        -
+          - However, over the last two months ..
+          - complaint
+        -
+          - I am not sure why the situation changed ..
+          - request
+        -
+          - If the quality of employees ..
+          - threat
+    3:
+      identifier: drink reply strucure
+      pair:
+        -
+          - Thank you for ..
+          - acknowledgement of contact
+        -
+          - We appreciate you ..
+          - appreciation of complaint action
+        -
+          - We are sorry ..
+          - acceptance of responsibility
+        -
+          - However, with the job ..
+          - reason for problem
+        -
+          - We have carefully checked ..
+          - report of efforts to prevent problems in future
+        -
+          - Thank you again ..
+          - forward-looking close
+          
+  jigsaw:
+    0:
+      identifier: reply
+      quiz:
+        - question: Thank you for ..
+          option:
+            - no error
+            - grammar error
+            - spelling error
+            - punctuation error
+            - letter rule error
+          answer: no error
+        - question: We appreciate you ..
+          option:
+            - no error
+            - grammar error
+            - spelling error
+            - punctuation error
+            - letter rule error
+          answer: no error
+        - question: We are sorry ..
+          option:
+            - no error
+            - grammar error
+            - spelling error
+            - punctuation error
+            - letter rule error
+          answer: no error
+        - question: We do thoroughly ..
+          option:
+            - no error
+            - grammar error
+            - spelling error
+            - punctuation error
+            - letter rule error
+          answer: grammar error
+        - question: However, with the job ..
+          option:
+            - no error
+            - grammar error
+            - spelling error
+            - punctuation error
+            - letter rule error
+          answer: no error
+        - question: This, I feel, is a major ..
+          option:
+            - no error
+            - grammar error
+            - spelling error
+            - punctuation error
+            - letter rule error
+          answer: grammar error
+        - question: We have carefully checked .. (ignore "customers")
+          option:
+            - no error
+            - grammar error
+            - spelling error
+            - punctuation error
+            - letter rule error
+          answer: spelling error
+        - question: .. 17 people who have been told ..
+          option:
+            - no error
+            - grammar error
+            - spelling error
+            - punctuation error
+            - letter rule error
+          answer: grammar error
+        - question: Please see the enclosed ..
+          option:
+            - no error
+            - grammar error
+            - spelling error
+            - punctuation error
+            - letter rule error
+          answer: no error
+        - question: We will be checking ..
+          option:
+            - no error
+            - grammar error
+            - spelling error
+            - punctuation error
+            - letter rule error
+          answer: no error
+        - question: Hopefully, you will be .. (ignore "performances")
+          option:
+            - no error
+            - grammar error
+            - spelling error
+            - punctuation error
+            - letter rule error
+          answer: spelling error
+        - question: Thank you again ..
+          option:
+            - no error
+            - grammar error
+            - spelling error
+            - punctuation error
+            - letter rule error
+          answer: punctuation error
+        - question: Yours ..
+          option:
+            - no error
+            - grammar error
+            - spelling error
+            - punctuation error
+            - letter rule error
+          answer: letter rule error
 doll:
   scramble:
     0:
@@ -123,64 +276,299 @@ doll:
         - We are extremely unhappy about this situation.
         - We want you to send us a replacement set of dolls, at your expense.
 credit:
-30% increase in credit card fraud
-"Reason: You, sales staff, not following procedures"
-For those who did not bother to listen to management ...
-First, make sure you witness ..
-Do not use time to file nails
-Then, check signatures ..
-This means more than glancing..
-If problems, staff should ask for ..
-I am sorry if this means extra work ..
-If further doubts, call ..
-If you know how to use the phone ..
-I suppose I will need to bribe ..
-Therefore, if there is a 19% drop in ..
-Not that you deserve it.
-
-Tone OK
-Tone weak, because of accusations without evidence
-Tone weak, because of negative judgmental attitude to reader
-Tone weak, because of suggested inappropriate staff behavior
-Tone weak, because of suggested lack of intelligence
-
+  jigsaw:
+    0:
+      identifier: credit card
+      quiz:
+        - question: 30% increase in credit card fraud
+          option:
+            - Tone OK
+            - Tone weak, because of accusations without evidence
+            - Tone weak, because of negative judgmental attitude to reader
+            - Tone weak, because of suggested inappropriate staff behavior
+            - Tone weak, because of suggested lack of intelligence
+          answer: Tone OK
+        - question: "Reason: You, sales staff, not following procedures"
+          option:
+            - Tone OK
+            - Tone weak, because of accusations without evidence
+            - Tone weak, because of negative judgmental attitude to reader
+            - Tone weak, because of suggested inappropriate staff behavior
+            - Tone weak, because of suggested lack of intelligence
+          answer: Tone weak, because of accusations without evidence
+        - question: For those who did not bother to listen to management ...
+          option:
+            - Tone OK
+            - Tone weak, because of accusations without evidence
+            - Tone weak, because of negative judgmental attitude to reader
+            - Tone weak, because of suggested inappropriate staff behavior
+            - Tone weak, because of suggested lack of intelligence
+          answer: Tone weak, because of accusations without evidence
+        - question: First, make sure you witness ..
+          option:
+            - Tone OK
+            - Tone weak, because of accusations without evidence
+            - Tone weak, because of negative judgmental attitude to reader
+            - Tone weak, because of suggested inappropriate staff behavior
+            - Tone weak, because of suggested lack of intelligence
+          answer: Tone OK
+        - question: Do not use time to file nails
+          option:
+            - Tone OK
+            - Tone weak, because of accusations without evidence
+            - Tone weak, because of negative judgmental attitude to reader
+            - Tone weak, because of suggested inappropriate staff behavior
+            - Tone weak, because of suggested lack of intelligence
+          answer: Tone weak, because of suggested inappropriate staff behavior
+        - question: Then, check signatures ..
+          option:
+            - Tone OK
+            - Tone weak, because of accusations without evidence
+            - Tone weak, because of negative judgmental attitude to reader
+            - Tone weak, because of suggested inappropriate staff behavior
+            - Tone weak, because of suggested lack of intelligence
+          answer: Tone OK
+        - question: This means more than glancing..
+          option:
+            - Tone OK
+            - Tone weak, because of accusations without evidence
+            - Tone weak, because of negative judgmental attitude to reader
+            - Tone weak, because of suggested inappropriate staff behavior
+            - Tone weak, because of suggested lack of intelligence
+          answer: Tone weak, because of suggested inappropriate staff behavior
+        - question: If problems, staff should ask for ..
+          option:
+            - Tone OK
+            - Tone weak, because of accusations without evidence
+            - Tone weak, because of negative judgmental attitude to reader
+            - Tone weak, because of suggested inappropriate staff behavior
+            - Tone weak, because of suggested lack of intelligence
+          answer: Tone OK
+        - question: I am sorry if this means extra work ..
+          option:
+            - Tone OK
+            - Tone weak, because of accusations without evidence
+            - Tone weak, because of negative judgmental attitude to reader
+            - Tone weak, because of suggested inappropriate staff behavior
+            - Tone weak, because of suggested lack of intelligence
+          answer: Tone OK
+        - question: If further doubts, call ..
+          option:
+            - Tone OK
+            - Tone weak, because of accusations without evidence
+            - Tone weak, because of negative judgmental attitude to reader
+            - Tone weak, because of suggested inappropriate staff behavior
+            - Tone weak, because of suggested lack of intelligence
+          answer: Tone OK
+        - question: If you know how to use the phone ..
+          option:
+            - Tone OK
+            - Tone weak, because of accusations without evidence
+            - Tone weak, because of negative judgmental attitude to reader
+            - Tone weak, because of suggested inappropriate staff behavior
+            - Tone weak, because of suggested lack of intelligence
+          answer: Tone weak, because of suggested lack of intelligence
+        - question: I suppose I will need to bribe ..
+          option:
+            - Tone OK
+            - Tone weak, because of accusations without evidence
+            - Tone weak, because of negative judgmental attitude to reader
+            - Tone weak, because of suggested inappropriate staff motivation
+            - Tone weak, because of suggested lack of intelligence
+          answer: Tone weak, because of suggested inappropriate staff motivation
+        - question: Therefore, if there is a 19% drop in ..
+          option:
+            - Tone OK
+            - Tone weak, because of accusations without evidence
+            - Tone weak, because of negative judgmental attitude to reader
+            - Tone weak, because of suggested inappropriate staff behavior
+            - Tone weak, because of suggested lack of intelligence
+          answer: Tone OK
+        - question: Not that you deserve it.
+          option:
+            - Tone OK
+            - Tone weak, because of accusations without evidence
+            - Tone weak, because of negative judgmental attitude to reader
+            - Tone weak, because of suggested inappropriate staff behavior
+            - Tone weak, because of suggested lack of intelligence
+          answer: Tone weak, because of negative judgmental attitude to reader
 reply:
-
-acknowledgement of contact
-appreciation of complaint action
-acceptance of responsibility
-reason for problem
-promise to make up for damage
-report of efforts to prevent problems in future
-non-acceptance of responsibility
-reason for decision
-concession to maintain goodrelationship
-forward-looking close
-
-step 1
-step 2a
-step 2b
-step 3
+  match:
+    0:
+      identifier: reply structure
+      pair:
+        -
+          - acknowledgement of contact
+          - step 1
+        -
+          - appreciation of complaint action
+          - step 1
+        -
+          - acceptance of responsibility
+          - step 2a--accepting claim
+        -
+          - reason for problem
+          - step 2a--accepting claim
+        -
+          - promise to make up for damage
+          - step 2a--accepting claim
+        -
+          - report of efforts to prevent problems in future
+          - step 2a--accepting claim
+        -
+          - non-acceptance of responsibility
+          - step 2b--rejecting claim
+        -
+          - reason for decision
+          - step 2b--rejecting claim
+        -
+          - concession to maintain good relationship
+          - step 2b--rejecting claim
+        -
+          - forward-looking close
+          - step 3
 
 bank:
-I am writing ..
-We regret to inform ..
-However, we are willing ..
-We apologize for any ..
+  match:
+    0:
+      identifier: bank
+      pair:
+        -
+          - acknowledgement of contact
+          - I am writing ..
+        -
+          - non-acceptance of responsibility
+          - We regret to inform ..
+        -
+          - reason for decision
+          - This is due to a change ..
+        -
+          - concession to maintain good relationship
+          - However, we are willing ..
+        -
+          - forward-looking close
+          - We apologize for any ..
 
 swearing:
-6. Dear Miss Liu,
-8. Thank you for your letter ..
-5. We are always happy
-13. We have spoken to the waitres ..
-14. The waitress concerned ..
-9. She has always proved to be 
-4. She vehemently denies ..
-11. Therefore, we believe that there must ..
-3. A meeting was held with all ..
-12. We hope that this situation will not ..
-10. As we take the well-being ..
-2. Please bring this letter ..
-7. Thank you once again for ..
-1. Yours sincerely 
-
+  match:
+    0:
+      identifier: swearing 0
+      pair:
+        -
+          - A.
+          - 6. Dear Miss Liu,
+        -
+          - B.
+          - 8. Thank you for your letter ..
+        -
+          - C.
+          - 5. We are always happy
+        -
+          - D.
+          - 13. We have spoken to the waitres ..
+        -
+          - E.
+          - 14. The waitress concerned ..
+        -
+          - F.
+          - 9. She has always proved to be 
+        -
+          - G.
+          - 4. She vehemently denies ..
+    1:
+      identifier: swearing 1
+      pair:
+        -
+          - H.
+          - 11. Therefore, we believe that there must ..
+        -
+          - I.
+          - 3. A meeting was held with all ..
+        -
+          - J.
+          - 12. We hope that this situation will not ..
+        -
+          - K.
+          - 10. As we take the well-being ..
+        -
+          - L.
+          - 2. Please bring this letter ..
+        -
+          - M.
+          - 7. Thank you once again for ..
+        -
+          - N.
+          - 1. Yours sincerely 
+    2:
+        identifier: swearing structure
+        pair:
+          -
+            - 8. Thank you for your letter ..
+            - acknowledgement of contact
+          -
+            - 5. We are always happy
+            - appreciation of complaint action
+          -
+            - 13. We have spoken to the waitres ..  4. She vehemently denies ..
+            - reason for decision
+          -
+            - 10. As we take the well-being .. 2. Please bring this letter ..
+            - concession to maintain good relationship
+          -
+            - 7. Thank you once again for ..
+            - forward-looking close
+letter:
+  scramble:
+    0:
+      identifier: complaint scramble
+      sentence:
+        - I wrote to you on Friday 12th, but I still have not received a reply.
+        - I cannot take action, until I know what you think.
+        - Please send me your reply again, if you already sent it.
+        - If you cannot do this, I will be forced to abandon our plan to act together.
+        - I'm looking forward to your cooperation in this matter.
+    
+pen:
+  jigsaw:
+    0:
+      identifier: pen
+      quiz:
+        - question: On 20 September, we received ..
+          option:
+            - background
+            - complaint
+            - resulting damage
+            - request
+            - threat
+            - polite close
+          answer: background
+        - question: However, between 20 September and today, we ..
+          option:
+            - background
+            - complaint
+            - resulting damage
+            - request
+            - threat
+            - polite close
+          answer: complaint
+        - question: We currently have 251 pens remaining ...
+          option:
+            - background
+            - complaint
+            - resulting damage
+            - request
+            - threat
+            - polite close
+          answer: request
+        - question: Thank you in advance ...
+          option:
+            - background
+            - complaint
+            - resulting damage
+            - request
+            - threat
+            - polite close
+          answer: polite close
+        
+        
+        
