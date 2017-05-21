@@ -25,3 +25,14 @@ It's also good to talk about your problems, because your diary can be a "shoulde
 
 - [http://www.wikihow.com/Make-Up-a-Good-Excuse-for-Your-Homework-Not-Being-Finished ](http://www.wikihow.com/Make-Up-a-Good-Excuse-for-Your-Homework-Not-Being-Finished)
 
+# dominant impression
+
+## salmon
+
+On p 67, a fisherman describes catching a salmon. The dominant impression is great joy.
+
+The salmon was less happy than the fisherman. The salmon died a painful death.
+
+Rewrite the essay. Change the dominant impression to one of sadness. You could write it from the viewpoint of the salmon, or of the fisherman's friend, who doesn't agree with the fisherman about fishing.
+
+You can use the words from the book. But change the feeling.
