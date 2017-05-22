@@ -1,0 +1,89 @@
+---
+genre: correspondence
+order:
+  match:
+    0:
+      identifier: structure
+      pair:
+        -
+          - 1st paragraph
+          - previous contact, or other connection
+        -
+          - 1st/2nd paragraph
+          - order
+        -
+          - following paragraphs
+          - deadline
+        -
+          - closing paragraph
+          - appreciation of expected result
+security:
+  match:
+    0:
+      identifier: security
+      pair:
+        -
+          - Thank you for ..
+          - previous contact
+        -
+          - After looking through it ..
+          - order
+        -
+          - This order is for an important client ..
+          - deadline
+        -
+          - Thank you for ..
+          - appreciation of expected result
+    1:
+      identifier: security cloze
+      pair:
+        -
+          - We would like to ___ the following order
+          - make
+        -
+          - the discount for security firms __ in your catalog.
+          - mentioned
+        -
+          - Therefore, we __ the total cost ..
+          - calculate
+        -
+          - make payment __ the products have been received.
+          - as soon as
+        -
+          - super-sensitive lens __ in your catalog.
+          - described
+        -
+          - impressed upon us that __ must be made
+          - delivery
+        -
+          - please __ that delivery
+          - confirm
+        -
+          - Thank you __ for your cooperation
+          - in advance
+        
+textbook:
+  scramble:
+    0:
+      identifier: textbook
+      sentence:
+        - Thank you for your order of 52 copies of "Writing for Business Practices", dated May 21.
+        - We are delighted that you will be teaching Business Correspondence with this textbook, next semester.
+        - The books are in stock and will be delivered next week.
+        - Thank you again, and feel free to email me if you have any questions.
+  match:
+    0:
+      identifier: structure
+      pair:
+        -
+          - Thank you again, 
+          - Polite close
+        -
+          - Thank you for you  
+          - Acknowledging the order
+        -
+          - The books are in 
+          - Status of order
+        -
+          - We are delighted 
+          - Appreciation of action related to order
