@@ -220,7 +220,7 @@ moore:
             - shoelaces
             - Terry
           answer: shoelaces
-        - question: The problem isn't the way the shoelaces are tied. It's the shoelaces themselves which are the problem.
+        - question: The problem is the shoelaces, NOT the way they are tied.
           answer: False
         - question: Nick tells Terry that he is tying the shoelaces wrong.
           answer: True
