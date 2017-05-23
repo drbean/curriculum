@@ -168,6 +168,11 @@ activity:
       - He doesn't want to watch cartoons. They're not fun.                  _他不想看漫畫。 他們沒有樂趣_
       - He doesn't want to read a comic book. He read all of them last week. _他不想讀一本漫畫書。 他上週讀了所有這些。_
       - What can he do? He can play a video game! That's what he'll do.      _他能做什麼？ 他可以玩視頻遊戲！ 這就是他會做的_
+    -
+      - "B: I have something to tell you. _G: What is it?_"
+      - "B: I broke your doll. I'm sorry. _G: Oh, no! My doll is very important to me._"
+      - "B: I broke your doll. I'm sorry. _G: Oh, no! My doll was very important to me._"
+      - "B: Here, I'll share my stuffed animal with you. _G: Well, OK. That's nice of you. Thanks._"
   0:
     flash:
       stuffed animal: 填充玩具動物
