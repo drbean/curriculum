@@ -1,0 +1,534 @@
+   #[1]Edit [2]Wiktionary (en) [3]copyright [4]Wiktionary Atom feed
+
+corporate
+
+   Definition from Wiktionary, the free dictionary
+   Jump to: [5]navigation, [6]search
+
+Contents
+
+     * [7]1 English
+          + [8]1.1 Etymology
+          + [9]1.2 Pronunciation
+          + [10]1.3 Adjective
+               o [11]1.3.1 Derived terms
+               o [12]1.3.2 Related terms
+               o [13]1.3.3 Translations
+          + [14]1.4 Noun
+          + [15]1.5 Verb
+          + [16]1.6 Further reading
+     * [17]2 Latin
+          + [18]2.1 Verb
+
+English[[19]edit]
+
+Etymology[[20]edit]
+
+   From [21]Latin [22]corporatus, past participle of [23]corporare (“to
+   make into a body”), which in turn was formed from [24]corpus (“body”).
+   See also [25]corpse.
+
+Pronunciation[[26]edit]
+
+     * ([27]UK) [28]IPA^([29]key): ˈkɔːp(ə)ɹət
+     * Hyphenation: cor‧por‧ate
+     *
+
+       Audio (UK)
+
+       ([30]file)
+
+Adjective[[31]edit]
+
+   corporate ([32]comparative [33]more corporate, [34]superlative [35]most
+   corporate)
+    1. Of or relating to a [36]corporation.
+          + 2006, [37]Edwin Black, chapter 1, in Internal
+            Combustion^[38][1]:
+
+                      But electric vehicles and the batteries that made
+                      them run became ensnared in corporate scandals,
+                      fraud, and monopolistic corruption that shook the
+                      confidence of the nation and inspired automotive
+                      upstarts.
+
+          + 2013 June 14, [39]Jonathan Freedland, “[40]Obama's once hip
+            brand is now tainted”, in [41]The Guardian Weekly, volume 189,
+            number 1, page 18:
+
+                      Where we once sent love letters in a sealed
+                      envelope, or stuck photographs of our children in a
+                      family album, now such private material is
+                      despatched to servers and clouds operated by people
+                      we don't know and will never meet. Perhaps we assume
+                      that our name, address and search preferences will
+                      be viewed by some unseen pair of corporate eyes,
+                      probably not human, and don't mind that much.
+
+    2. [42]Formed into a corporation; [43]incorporated.
+    3. [44]Unified into one body; [45]collective.
+          + Shakespeare
+
+                      They answer in a joint and corporate voice.
+
+Derived terms[[46]edit]
+
+   Terms derived from corporate
+     * [47]corporate anorexia
+     * [48]corporate censorship
+     * [49]corporate executive
+     * [50]corporate firewall
+     * [51]corporate image
+
+     * [52]corporate income tax
+     * [53]corporate ladder
+     * [54]corporately
+     * [55]corporate monster
+     * [56]corporate nationalism
+
+     * [57]corporate officer
+     * [58]corporate seal
+     * [59]corporate tax
+     * [60]corporate veil
+     * [61]corporate welfare bum
+
+Related terms[[62]edit]
+
+     * [63]corpse
+     * [64]corporation
+
+Translations[[65]edit]
+
+   of, or relating to a corporation
+     * Bulgarian: [66]корпоративен (korporativen)
+     * Czech: [67]korporátní, [68]podnikový, [69]firemní
+     * Dutch: [70]bedrijfs-
+     * Finnish: [71]yhtiö- [72](fi), [73]yritys- [74](fi)
+     * French: [75]corporatif [76](fr)
+     * German: [77]Firmen-, [78]Unternehmens-
+
+     * Manx: [79]cochorpagh
+     * Portuguese: [80]corporativo [81](pt)
+     * Romanian: [82]corporatist [83](ro)
+     * Russian: [84]корпорати́вный [85](ru) (korporatívnyj)
+     * Spanish: [86]corporativo
+     * Turkish: [87]kurumsal [88](tr), [89]tüzel [90](tr)
+
+   formed into a corporation; incorporated
+     * Finnish: [91]yhtiömuotoinen, [92]yhtiöitetty
+
+     * Spanish: [93]incorporado [94](es)
+
+   unified into one body; collective
+     * Bulgarian: [95]общ [96](bg) (obšt), [97]колективен [98](bg)
+       (kolektiven)
+     * Finnish: [99]yhdistetty [100](fi), [101]yhteinen [102](fi),
+       [103]yhteis-
+
+     * Russian: [104]о́бщий [105](ru) (óbščij),
+       [106]коллекти́вный [107](ru) (kollektívnyj)
+
+Noun[[108]edit]
+
+   corporate (plural [109]corporates)
+    1. (finance) A [110]bond issued by a [111]corporation.
+          + 2009, January 11, “Robert D. Hershey Jr.”, in Look Past 2008
+            Stars for Gains in Bonds:
+
+                      So-called junk corporates and emerging-market debt
+                      remain generally out of favor.
+
+    2. A short [112]film produced for internal use in a [113]business,
+       e.g. for [114]training, rather than for a general [115]audience.
+          + 2013, Simon Dunmore, Actors' Yearbook 2014
+
+                      Currently there are 19 members, who are all in
+                      Spotlight and belong to Equity. Areas of work
+                      include theatre, musicals, television, film,
+                      commercials, corporates and voiceovers.
+
+Verb[[116]edit]
+
+   corporate (third-person singular simple present [117]corporates,
+   present participle [118]corporating, simple past and past participle
+   [119]corporated)
+    1. ([120]obsolete, [121]transitive) To [122]incorporate.
+
+                (Can we [123]find and add a quotation of Stow to this
+                entry?)
+
+    2. ([124]obsolete, [125]intransitive) To become incorporated.
+
+Further reading[[126]edit]
+
+     * [127]corporate at OneLook Dictionary Search
+     __________________________________________________________________
+
+Latin[[128]edit]
+
+Verb[[129]edit]
+
+   corporāte
+    1. [130]second-person [131]plural [132]present [133]active
+       [134]imperative of [135]corporō
+
+   Retrieved from
+   "[136]https://en.wiktionary.org/w/index.php?title=corporate&oldid=42880
+   234"
+   [137]Categories:
+     * [138]English terms derived from Latin
+     * [139]English terms with IPA pronunciation
+     * [140]English terms with audio links
+     * [141]English lemmas
+     * [142]English adjectives
+     * [143]English nouns
+     * [144]English countable nouns
+     * [145]en:Finance
+     * [146]English verbs
+     * [147]English terms with obsolete senses
+     * [148]English transitive verbs
+     * [149]Requests for quotation/Stow
+     * [150]English intransitive verbs
+     * [151]Latin non-lemma forms
+     * [152]Latin verb forms
+
+   Hidden categories:
+     * [153]etyl cleanup/en
+     * [154]IPA pronunciations with invalid representation marks
+     * [155]Finnish redlinks
+     * [156]Finnish redlinks/t
+     * [157]Requests for quotations in English
+
+Navigation menu
+
+Personal tools
+
+     * Not logged in
+     * [158]Talk
+     * [159]Contributions
+     * [160]Create account
+     * [161]Log in
+
+Namespaces
+
+     * [162]Entry
+     * [163]Discussion
+
+Variants
+
+Views
+
+     * [164]Read
+     * [165]Edit
+     * [166]History
+
+More
+
+Search
+
+   [167]____________________ [168]Search [169]Go
+
+Navigation
+
+     * [170]Main Page
+     * [171]Community portal
+     * [172]Preferences
+     * [173]Requested entries
+     * [174]Recent changes
+     * [175]Random entry
+     * [176]Help
+     * [177]Donations
+     * [178]Contact us
+
+Tools
+
+     * [179]What links here
+     * [180]Related changes
+     * [181]Upload file
+     * [182]Special pages
+     * [183]Permanent link
+     * [184]Page information
+     * [185]Cite this page
+
+In other languages
+
+     * [186]العربية
+     * [187]Eesti
+     * [188]Español
+     * [189]فارسی
+     * [190]Français
+     * [191]한국어
+     * [192]Հայերեն
+     * [193]Ido
+     * [194]ಕನ್ನಡ
+     * [195]Kurdî
+     * [196]Magyar
+     * [197]Malagasy
+     * [198]മലയാളം
+     * [199]မြန်မာဘာသာ
+     * [200]Nederlands
+     * [201]日本語
+     * [202]Polski
+     * [203]Simple English
+     * [204]Suomi
+     * [205]Svenska
+     * [206]தமிழ்
+     * [207]తెలుగు
+     * [208]ᏣᎳᎩ
+     * [209]Tiếng Việt
+     * [210]中文
+
+Print/export
+
+     * [211]Create a book
+     * [212]Download as PDF
+     * [213]Printable version
+
+     * This page was last edited on 12 May 2017, at 15:54.
+     * Text is available under the [214]Creative Commons
+       Attribution-ShareAlike License; additional terms may apply. By
+       using this site, you agree to the [215]Terms of Use and
+       [216]Privacy Policy.
+
+     * [217]Privacy policy
+     * [218]About Wiktionary
+     * [219]Disclaimers
+     * [220]Developers
+     * [221]Cookie statement
+     * [222]Mobile view
+
+     * [223]Wikimedia Foundation
+     * [224]Powered by MediaWiki
+
+References
+
+   Visible links
+   1. https://en.wiktionary.org/w/index.php?title=corporate&action=edit
+   2. https://en.wiktionary.org/w/opensearch_desc.php
+   3. https://creativecommons.org/licenses/by-sa/3.0/
+   4. https://en.wiktionary.org/w/index.php?title=Special:RecentChanges&feed=atom
+   5. https://en.wiktionary.org/wiki/corporate#mw-head
+   6. https://en.wiktionary.org/wiki/corporate#p-search
+   7. https://en.wiktionary.org/wiki/corporate#English
+   8. https://en.wiktionary.org/wiki/corporate#Etymology
+   9. https://en.wiktionary.org/wiki/corporate#Pronunciation
+  10. https://en.wiktionary.org/wiki/corporate#Adjective
+  11. https://en.wiktionary.org/wiki/corporate#Derived_terms
+  12. https://en.wiktionary.org/wiki/corporate#Related_terms
+  13. https://en.wiktionary.org/wiki/corporate#Translations
+  14. https://en.wiktionary.org/wiki/corporate#Noun
+  15. https://en.wiktionary.org/wiki/corporate#Verb
+  16. https://en.wiktionary.org/wiki/corporate#Further_reading
+  17. https://en.wiktionary.org/wiki/corporate#Latin
+  18. https://en.wiktionary.org/wiki/corporate#Verb_2
+  19. https://en.wiktionary.org/w/index.php?title=corporate&action=edit&section=1
+  20. https://en.wiktionary.org/w/index.php?title=corporate&action=edit&section=2
+  21. https://en.wikipedia.org/wiki/Latin_language
+  22. https://en.wiktionary.org/wiki/corporatus#Latin
+  23. https://en.wiktionary.org/wiki/corporare#Latin
+  24. https://en.wiktionary.org/wiki/corpus#Latin
+  25. https://en.wiktionary.org/wiki/corpse
+  26. https://en.wiktionary.org/w/index.php?title=corporate&action=edit&section=3
+  27. https://en.wikipedia.org/wiki/British_English
+  28. https://en.wiktionary.org/wiki/Wiktionary:International_Phonetic_Alphabet
+  29. https://en.wiktionary.org/wiki/Appendix:English_pronunciation
+  30. https://en.wiktionary.org/wiki/File:en-uk-corporate.ogg
+  31. https://en.wiktionary.org/w/index.php?title=corporate&action=edit&section=4
+  32. https://en.wiktionary.org/wiki/Appendix:Glossary#comparable
+  33. https://en.wiktionary.org/wiki/more#English
+  34. https://en.wiktionary.org/wiki/Appendix:Glossary#comparable
+  35. https://en.wiktionary.org/wiki/most#English
+  36. https://en.wiktionary.org/wiki/corporation
+  37. https://en.wikipedia.org/wiki/Edwin_Black
+  38. http://openlibrary.org/works/OL4103950W
+  39. https://en.wikipedia.org/wiki/Jonathan_Freedland
+  40. http://www.guardian.co.uk/commentisfree/2013/jun/07/obama-apple-google-facebook-tainted-prism
+  41. https://en.wikipedia.org/wiki/The_Guardian_Weekly
+  42. https://en.wiktionary.org/wiki/formed
+  43. https://en.wiktionary.org/wiki/incorporated
+  44. https://en.wiktionary.org/wiki/unified
+  45. https://en.wiktionary.org/wiki/collective
+  46. https://en.wiktionary.org/w/index.php?title=corporate&action=edit&section=5
+  47. https://en.wiktionary.org/wiki/corporate_anorexia#English
+  48. https://en.wiktionary.org/wiki/corporate_censorship#English
+  49. https://en.wiktionary.org/wiki/corporate_executive#English
+  50. https://en.wiktionary.org/w/index.php?title=corporate_firewall&action=edit&redlink=1
+  51. https://en.wiktionary.org/w/index.php?title=corporate_image&action=edit&redlink=1
+  52. https://en.wiktionary.org/w/index.php?title=corporate_income_tax&action=edit&redlink=1
+  53. https://en.wiktionary.org/wiki/corporate_ladder#English
+  54. https://en.wiktionary.org/wiki/corporately#English
+  55. https://en.wiktionary.org/wiki/corporate_monster#English
+  56. https://en.wiktionary.org/w/index.php?title=corporate_nationalism&action=edit&redlink=1
+  57. https://en.wiktionary.org/w/index.php?title=corporate_officer&action=edit&redlink=1
+  58. https://en.wiktionary.org/wiki/corporate_seal#English
+  59. https://en.wiktionary.org/wiki/corporate_tax#English
+  60. https://en.wiktionary.org/wiki/corporate_veil#English
+  61. https://en.wiktionary.org/wiki/corporate_welfare_bum#English
+  62. https://en.wiktionary.org/w/index.php?title=corporate&action=edit&section=6
+  63. https://en.wiktionary.org/wiki/corpse#English
+  64. https://en.wiktionary.org/wiki/corporation#English
+  65. https://en.wiktionary.org/w/index.php?title=corporate&action=edit&section=7
+  66. https://en.wiktionary.org/w/index.php?title=корпоративен&action=edit&redlink=1
+  67. https://en.wiktionary.org/wiki/korporátní#Czech
+  68. https://en.wiktionary.org/wiki/podnikový#Czech
+  69. https://en.wiktionary.org/wiki/firemní#Czech
+  70. https://en.wiktionary.org/w/index.php?title=bedrijfs-&action=edit&redlink=1
+  71. https://en.wiktionary.org/wiki/yhtiö#Finnish
+  72. https://fi.wiktionary.org/wiki/yhtiö
+  73. https://en.wiktionary.org/wiki/yritys#Finnish
+  74. https://fi.wiktionary.org/wiki/yritys
+  75. https://en.wiktionary.org/wiki/corporatif#French
+  76. https://fr.wiktionary.org/wiki/corporatif
+  77. https://en.wiktionary.org/w/index.php?title=Firmen-&action=edit&redlink=1
+  78. https://en.wiktionary.org/w/index.php?title=Unternehmens-&action=edit&redlink=1
+  79. https://en.wiktionary.org/wiki/cochorpagh#Manx
+  80. https://en.wiktionary.org/wiki/corporativo#Portuguese
+  81. https://pt.wiktionary.org/wiki/corporativo
+  82. https://en.wiktionary.org/wiki/corporatist#Romanian
+  83. https://ro.wiktionary.org/wiki/corporatist
+  84. https://en.wiktionary.org/wiki/корпоративный#Russian
+  85. https://ru.wiktionary.org/wiki/корпоративный
+  86. https://en.wiktionary.org/wiki/corporativo#Spanish
+  87. https://en.wiktionary.org/w/index.php?title=kurumsal&action=edit&redlink=1
+  88. https://tr.wiktionary.org/wiki/kurumsal
+  89. https://en.wiktionary.org/wiki/tüzel#Turkish
+  90. https://tr.wiktionary.org/wiki/tüzel
+  91. https://en.wiktionary.org/w/index.php?title=yhtiömuotoinen&action=edit&redlink=1
+  92. https://en.wiktionary.org/w/index.php?title=yhtiöitetty&action=edit&redlink=1
+  93. https://en.wiktionary.org/wiki/incorporado#Spanish
+  94. https://es.wiktionary.org/wiki/incorporado
+  95. https://en.wiktionary.org/wiki/общ#Bulgarian
+  96. https://bg.wiktionary.org/wiki/общ
+  97. https://en.wiktionary.org/wiki/колективен#Bulgarian
+  98. https://bg.wiktionary.org/wiki/колективен
+  99. https://en.wiktionary.org/wiki/yhdistetty#Finnish
+ 100. https://fi.wiktionary.org/wiki/yhdistetty
+ 101. https://en.wiktionary.org/wiki/yhteinen#Finnish
+ 102. https://fi.wiktionary.org/wiki/yhteinen
+ 103. https://en.wiktionary.org/wiki/yhteis-#Finnish
+ 104. https://en.wiktionary.org/wiki/общий#Russian
+ 105. https://ru.wiktionary.org/wiki/общий
+ 106. https://en.wiktionary.org/wiki/коллективный#Russian
+ 107. https://ru.wiktionary.org/wiki/коллективный
+ 108. https://en.wiktionary.org/w/index.php?title=corporate&action=edit&section=8
+ 109. https://en.wiktionary.org/wiki/corporates#English
+ 110. https://en.wiktionary.org/wiki/bond
+ 111. https://en.wiktionary.org/wiki/corporation
+ 112. https://en.wiktionary.org/wiki/film
+ 113. https://en.wiktionary.org/wiki/business
+ 114. https://en.wiktionary.org/wiki/training
+ 115. https://en.wiktionary.org/wiki/audience
+ 116. https://en.wiktionary.org/w/index.php?title=corporate&action=edit&section=9
+ 117. https://en.wiktionary.org/wiki/corporates#English
+ 118. https://en.wiktionary.org/wiki/corporating#English
+ 119. https://en.wiktionary.org/wiki/corporated#English
+ 120. https://en.wiktionary.org/wiki/Appendix:Glossary#obsolete
+ 121. https://en.wiktionary.org/wiki/Appendix:Glossary#transitive
+ 122. https://en.wiktionary.org/wiki/incorporate
+ 123. https://en.wiktionary.org/wiki/Category:Requests_for_quotation/Stow
+ 124. https://en.wiktionary.org/wiki/Appendix:Glossary#obsolete
+ 125. https://en.wiktionary.org/wiki/Appendix:Glossary#intransitive
+ 126. https://en.wiktionary.org/w/index.php?title=corporate&action=edit&section=10
+ 127. http://www.onelook.com/?w=corporate&ls=a
+ 128. https://en.wiktionary.org/w/index.php?title=corporate&action=edit&section=11
+ 129. https://en.wiktionary.org/w/index.php?title=corporate&action=edit&section=12
+ 130. https://en.wiktionary.org/wiki/Appendix:Glossary#second_person
+ 131. https://en.wiktionary.org/wiki/Appendix:Glossary#plural_number
+ 132. https://en.wiktionary.org/wiki/Appendix:Glossary#present_tense
+ 133. https://en.wiktionary.org/wiki/Appendix:Glossary#active_voice
+ 134. https://en.wiktionary.org/wiki/Appendix:Glossary#imperative_mood
+ 135. https://en.wiktionary.org/wiki/corporo#Latin
+ 136. https://en.wiktionary.org/w/index.php?title=corporate&oldid=42880234
+ 137. https://en.wiktionary.org/wiki/Special:Categories
+ 138. https://en.wiktionary.org/wiki/Category:English_terms_derived_from_Latin
+ 139. https://en.wiktionary.org/wiki/Category:English_terms_with_IPA_pronunciation
+ 140. https://en.wiktionary.org/wiki/Category:English_terms_with_audio_links
+ 141. https://en.wiktionary.org/wiki/Category:English_lemmas
+ 142. https://en.wiktionary.org/wiki/Category:English_adjectives
+ 143. https://en.wiktionary.org/wiki/Category:English_nouns
+ 144. https://en.wiktionary.org/wiki/Category:English_countable_nouns
+ 145. https://en.wiktionary.org/wiki/Category:en:Finance
+ 146. https://en.wiktionary.org/wiki/Category:English_verbs
+ 147. https://en.wiktionary.org/wiki/Category:English_terms_with_obsolete_senses
+ 148. https://en.wiktionary.org/wiki/Category:English_transitive_verbs
+ 149. https://en.wiktionary.org/wiki/Category:Requests_for_quotation/Stow
+ 150. https://en.wiktionary.org/wiki/Category:English_intransitive_verbs
+ 151. https://en.wiktionary.org/wiki/Category:Latin_non-lemma_forms
+ 152. https://en.wiktionary.org/wiki/Category:Latin_verb_forms
+ 153. https://en.wiktionary.org/wiki/Category:etyl_cleanup/en
+ 154. https://en.wiktionary.org/wiki/Category:IPA_pronunciations_with_invalid_representation_marks
+ 155. https://en.wiktionary.org/wiki/Category:Finnish_redlinks
+ 156. https://en.wiktionary.org/wiki/Category:Finnish_redlinks/t
+ 157. https://en.wiktionary.org/wiki/Category:Requests_for_quotations_in_English
+ 158. https://en.wiktionary.org/wiki/Special:MyTalk
+ 159. https://en.wiktionary.org/wiki/Special:MyContributions
+ 160. https://en.wiktionary.org/w/index.php?title=Special:CreateAccount&returnto=corporate
+ 161. https://en.wiktionary.org/w/index.php?title=Special:UserLogin&returnto=corporate
+ 162. https://en.wiktionary.org/wiki/corporate
+ 163. https://en.wiktionary.org/w/index.php?title=Talk:corporate&action=edit&redlink=1
+ 164. https://en.wiktionary.org/wiki/corporate
+ 165. https://en.wiktionary.org/w/index.php?title=corporate&action=edit
+ 166. https://en.wiktionary.org/w/index.php?title=corporate&action=history
+ 167. form field = text entry field
+ 168. form field = submit button
+ 169. form field = submit button
+ 170. https://en.wiktionary.org/wiki/Wiktionary:Main_Page
+ 171. https://en.wiktionary.org/wiki/Wiktionary:Community_portal
+ 172. https://en.wiktionary.org/wiki/Wiktionary:Per-browser_preferences
+ 173. https://en.wiktionary.org/wiki/Wiktionary:Requested_entries
+ 174. https://en.wiktionary.org/wiki/Special:RecentChanges
+ 175. https://en.wiktionary.org/wiki/Special:Random
+ 176. https://en.wiktionary.org/wiki/Help:Contents
+ 177. https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&utm_medium=sidebar&utm_campaign=C13_en.wiktionary.org&uselang=en
+ 178. https://en.wiktionary.org/wiki/Wiktionary:Contact_us
+ 179. https://en.wiktionary.org/wiki/Special:WhatLinksHere/corporate
+ 180. https://en.wiktionary.org/wiki/Special:RecentChangesLinked/corporate
+ 181. https://commons.wikimedia.org/wiki/Special:UploadWizard?uselang=en
+ 182. https://en.wiktionary.org/wiki/Special:SpecialPages
+ 183. https://en.wiktionary.org/w/index.php?title=corporate&oldid=42880234
+ 184. https://en.wiktionary.org/w/index.php?title=corporate&action=info
+ 185. https://en.wiktionary.org/w/index.php?title=Special:CiteThisPage&page=corporate&id=42880234
+ 186. https://ar.wiktionary.org/wiki/corporate
+ 187. https://et.wiktionary.org/wiki/corporate
+ 188. https://es.wiktionary.org/wiki/corporate
+ 189. https://fa.wiktionary.org/wiki/corporate
+ 190. https://fr.wiktionary.org/wiki/corporate
+ 191. https://ko.wiktionary.org/wiki/corporate
+ 192. https://hy.wiktionary.org/wiki/corporate
+ 193. https://io.wiktionary.org/wiki/corporate
+ 194. https://kn.wiktionary.org/wiki/corporate
+ 195. https://ku.wiktionary.org/wiki/corporate
+ 196. https://hu.wiktionary.org/wiki/corporate
+ 197. https://mg.wiktionary.org/wiki/corporate
+ 198. https://ml.wiktionary.org/wiki/corporate
+ 199. https://my.wiktionary.org/wiki/corporate
+ 200. https://nl.wiktionary.org/wiki/corporate
+ 201. https://ja.wiktionary.org/wiki/corporate
+ 202. https://pl.wiktionary.org/wiki/corporate
+ 203. https://simple.wiktionary.org/wiki/corporate
+ 204. https://fi.wiktionary.org/wiki/corporate
+ 205. https://sv.wiktionary.org/wiki/corporate
+ 206. https://ta.wiktionary.org/wiki/corporate
+ 207. https://te.wiktionary.org/wiki/corporate
+ 208. https://chr.wiktionary.org/wiki/corporate
+ 209. https://vi.wiktionary.org/wiki/corporate
+ 210. https://zh.wiktionary.org/wiki/corporate
+ 211. https://en.wiktionary.org/w/index.php?title=Special:Book&bookcmd=book_creator&referer=corporate
+ 212. https://en.wiktionary.org/w/index.php?title=Special:Book&bookcmd=render_article&arttitle=corporate&returnto=corporate&oldid=42880234&writer=rdf2latex
+ 213. https://en.wiktionary.org/w/index.php?title=corporate&printable=yes
+ 214. https://creativecommons.org/licenses/by-sa/3.0/
+ 215. https://wikimediafoundation.org/wiki/Terms_of_Use
+ 216. https://wikimediafoundation.org/wiki/Privacy_policy
+ 217. https://wikimediafoundation.org/wiki/Privacy_policy
+ 218. https://en.wiktionary.org/wiki/Wiktionary:About
+ 219. https://en.wiktionary.org/wiki/Wiktionary:General_disclaimer
+ 220. https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute
+ 221. https://wikimediafoundation.org/wiki/Cookie_statement
+ 222. https://en.m.wiktionary.org/w/index.php?title=corporate&mobileaction=toggle_view_mobile
+ 223. https://wikimediafoundation.org/
+ 224. https://www.mediawiki.org/
+
+   Hidden links:
+ 226. https://en.wiktionary.org/wiki/corporate
+ 227. https://en.wiktionary.org/wiki/corporate
+ 228. https://en.wiktionary.org/wiki/Wiktionary:Main_Page

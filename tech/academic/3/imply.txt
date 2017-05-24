@@ -1,0 +1,594 @@
+   #[1]Edit [2]Wiktionary (en) [3]copyright [4]Wiktionary Atom feed
+
+imply
+
+   Definition from Wiktionary, the free dictionary
+   Jump to: [5]navigation, [6]search
+
+Contents
+
+     * [7]1 English
+          + [8]1.1 Etymology
+          + [9]1.2 Pronunciation
+          + [10]1.3 Verb
+               o [11]1.3.1 Usage notes
+               o [12]1.3.2 Synonyms
+               o [13]1.3.3 Related terms
+               o [14]1.3.4 Translations
+               o [15]1.3.5 See also
+               o [16]1.3.6 Further reading
+
+English[[17]edit]
+
+Etymology[[18]edit]
+
+   From [19]Middle English [20]implien, [21]emplien, a [22]borrowing from
+   [23]Old French [24]emplier, from [25]Latin [26]implicare (“to infold,
+   involve”), from [27]in (“in”) + [28]plicare (“to fold”). [29]Doublet of
+   [30]employ and [31]implicate.
+
+Pronunciation[[32]edit]
+
+     * ([33]General American, [34]Received Pronunciation)
+       [35]IPA^([36]key): /ɪmˈplaɪ/
+     *
+
+       Audio (US)
+
+       ([37]file)
+     * Rhymes: [38]-aɪ
+     * Hyphenation: im‧ply
+
+Verb[[39]edit]
+
+   imply (third-person singular simple present [40]implies, present
+   participle [41]implying, simple past and past participle [42]implied)
+    1. ([43]transitive, of a proposition) to have as a [44]necessary
+       [45]consequence
+
+                The proposition that "all dogs are mammals" implies that
+                my dog is a mammal
+
+    2. ([46]transitive, of a person) to [47]suggest by [48]logical
+       [49]inference
+
+                When I state that your dog is brown, I am not implying
+                that all dogs are brown
+
+    3. ([50]transitive, of a person or proposition) to [51]hint; to
+       [52]insinuate; to [53]suggest [54]tacitly and avoid a [55]direct
+       [56]statement
+
+                What do you mean "we need to be more careful with
+                hygiene"? Are you implying that I don't [57]wash my hands?
+
+    4. ([58]archaic) to [59]enfold, [60]entangle.
+          + 1590, Edmund Spenser, The Faerie Queene, I.iv:
+
+                      And in his bosome secretly there lay / An hatefull
+                      Snake, the which his taile vptyes / In many folds,
+                      and mortall sting implyes.
+
+Usage notes[[61]edit]
+
+     * This is a [62]catenative verb that takes the gerund (-ing). See
+       [63]Appendix:English catenative verbs
+
+Synonyms[[64]edit]
+
+     * (to have as a necessary consequence): [65]entail
+     * (to suggest tacitly): [66]allude, [67]hint, [68]insinuate,
+       [69]suggest
+
+Related terms[[70]edit]
+
+     * [71]implicate
+     * [72]implication
+     * [73]implicative
+     * [74]implicit
+     * [75]implicitness
+     * [76]implision
+
+Translations[[77]edit]
+
+   to have as a consequence
+     * Catalan: [78]implicar [79](ca)
+     * Chinese:
+
+                Mandarin: [80]意味着 [81](zh) (yìwèizhe)
+
+     * Czech: [82]implikovat
+     * Dutch: [83]impliceren [84](nl), [85]inhouden [86](nl)
+     * Finnish: [87]merkitä [88](fi), [89]seurata [90](fi)
+     * French: [91]impliquer [92](fr)
+     * German: [93]implizieren [94](de), [95]zur Folge haben
+     * Hungarian: [96]maga után von
+
+     * Italian: [97]implicare [98](it)
+     * Norwegian: [99]implisere, [100]medføre
+     * Polish: [101]pociągać (za sobą)
+     * Portuguese: [102]implicar [103](pt)
+     * Russian: [104]предполага́ть [105](ru) impf (predpolagátʹ)
+     * Spanish: [106]implicar [107](es)
+     * Swedish: [108]implicera [109](sv)
+     * Turkish: [110]gerektirmek [111](tr), [112]işaret etmek [113](tr)
+     * Ukrainian: [114]припускати (prypuskaty)
+
+   to suggest by a logical inference
+     * Catalan: [115]implicar [116](ca)
+     * Dutch: [117]suggereren [118](nl)
+     * Finnish: [119]tarkoittaa [120](fi), [121]väittää [122](fi)
+     * French: [123]impliquer [124](fr)
+     * German: [125]implizieren [126](de)
+
+     * Norwegian: [127]implisere
+     * Russian: [128]подразумева́ть [129](ru) impf (podrazumevátʹ)
+     * Spanish: [130]implicar [131](es)
+     * Turkish: [132]gerektirmek [133](tr)
+     * Ukrainian: [134]мати на увазі [135](uk) (maty na uvazi)
+
+   to express suggestively rather than as a direct statement
+     * Arabic: [136]اِنْطَوَى (inṭawā)
+     * Catalan: [137]insinuar [138](ca)
+     * Chinese:
+
+                Mandarin: [139]暗示 [140](zh) (ànshì), [141]暗指 [142](zh)
+                (ànzhǐ)
+
+     * Czech: [143]naznačit
+     * Finnish: [144]vihjailla [145](fi), [146]antaa ymmärtää,
+       [147]vihjata
+     * French: [148]insinuer [149](fr), [150]sous-entendre [151](fr)
+     * German: [152]bedeuten [153](de), [154]implizieren [155](de)
+     * Greek: [156]υπονοώ [157](el) (yponoó)
+     * Hungarian: [158]sugall [159](hu)
+     * Icelandic: [160]gefa í skyn, [161]benda til
+     * Japanese: [162]ほのめかす [163](ja) (honomekasu)
+
+     * Norwegian: [164]insinuere
+
+                Bokmål: [165]antyde [166](no)
+
+     * Persian: [167]به طور ضمنی اشاره کردن
+     * Polish: [168]sugerować [169](pl)
+     * Portuguese: [170]dar a entender, [171]insinuar [172](pt)
+     * Russian: [173]намека́ть [174](ru) impf (namekátʹ),
+       [175]намекну́ть [176](ru) (nameknútʹ) ([177]pf.)
+     * Scottish Gaelic: [178]ciallaich, [179]seaghaich
+     * Spanish: [180]insinuar [181](es)
+     * Swedish: [182]antyda [183](sv), [184]insinuera [185](sv)
+     * Turkish: [186]anlamına gelmek [187](tr), [188]manasına gelmek
+     * Ukrainian: [189]натякати (natjakaty)
+
+See also[[190]edit]
+
+     * [191]connotation
+     * [192]entail
+
+Further reading[[193]edit]
+
+     * [194]imply in [195]Webster’s Revised Unabridged Dictionary, G. & C.
+       Merriam, 1913
+     * [196]imply in The Century Dictionary, The Century Co., New York,
+       1911
+
+   Retrieved from
+   "[197]https://en.wiktionary.org/w/index.php?title=imply&oldid=42879784"
+   [198]Categories:
+     * [199]English terms inherited from Middle English
+     * [200]English terms derived from Middle English
+     * [201]English terms borrowed from Old French
+     * [202]English terms derived from Old French
+     * [203]English terms derived from Latin
+     * [204]English doublets
+     * [205]English 2-syllable words
+     * [206]English terms with IPA pronunciation
+     * [207]English terms with audio links
+     * [208]English lemmas
+     * [209]English verbs
+     * [210]English transitive verbs
+     * [211]English terms with archaic senses
+     * [212]en:Communication
+
+   Hidden categories:
+     * [213]bor with nocap
+     * [214]bor without notext
+
+Navigation menu
+
+Personal tools
+
+     * Not logged in
+     * [215]Talk
+     * [216]Contributions
+     * [217]Create account
+     * [218]Log in
+
+Namespaces
+
+     * [219]Entry
+     * [220]Discussion
+
+Variants
+
+Views
+
+     * [221]Read
+     * [222]Edit
+     * [223]History
+
+More
+
+Search
+
+   [224]____________________ [225]Search [226]Go
+
+Navigation
+
+     * [227]Main Page
+     * [228]Community portal
+     * [229]Preferences
+     * [230]Requested entries
+     * [231]Recent changes
+     * [232]Random entry
+     * [233]Help
+     * [234]Donations
+     * [235]Contact us
+
+Tools
+
+     * [236]What links here
+     * [237]Related changes
+     * [238]Upload file
+     * [239]Special pages
+     * [240]Permanent link
+     * [241]Page information
+     * [242]Cite this page
+
+In other languages
+
+     * [243]Català
+     * [244]Cymraeg
+     * [245]Eesti
+     * [246]Ελληνικά
+     * [247]فارسی
+     * [248]Français
+     * [249]한국어
+     * [250]Հայերեն
+     * [251]Ido
+     * [252]Italiano
+     * [253]ಕನ್ನಡ
+     * [254]ქართული
+     * [255]Kurdî
+     * [256]Limburgs
+     * [257]Magyar
+     * [258]Malagasy
+     * [259]മലയാളം
+     * [260]မြန်မာဘာသာ
+     * [261]日本語
+     * [262]Polski
+     * [263]Português
+     * [264]Simple English
+     * [265]Suomi
+     * [266]Svenska
+     * [267]தமிழ்
+     * [268]తెలుగు
+     * [269]ᏣᎳᎩ
+     * [270]Tiếng Việt
+     * [271]中文
+
+Print/export
+
+     * [272]Create a book
+     * [273]Download as PDF
+     * [274]Printable version
+
+     * This page was last edited on 12 May 2017, at 15:38.
+     * Text is available under the [275]Creative Commons
+       Attribution-ShareAlike License; additional terms may apply. By
+       using this site, you agree to the [276]Terms of Use and
+       [277]Privacy Policy.
+
+     * [278]Privacy policy
+     * [279]About Wiktionary
+     * [280]Disclaimers
+     * [281]Developers
+     * [282]Cookie statement
+     * [283]Mobile view
+
+     * [284]Wikimedia Foundation
+     * [285]Powered by MediaWiki
+
+References
+
+   Visible links
+   1. https://en.wiktionary.org/w/index.php?title=imply&action=edit
+   2. https://en.wiktionary.org/w/opensearch_desc.php
+   3. https://creativecommons.org/licenses/by-sa/3.0/
+   4. https://en.wiktionary.org/w/index.php?title=Special:RecentChanges&feed=atom
+   5. https://en.wiktionary.org/wiki/imply#mw-head
+   6. https://en.wiktionary.org/wiki/imply#p-search
+   7. https://en.wiktionary.org/wiki/imply#English
+   8. https://en.wiktionary.org/wiki/imply#Etymology
+   9. https://en.wiktionary.org/wiki/imply#Pronunciation
+  10. https://en.wiktionary.org/wiki/imply#Verb
+  11. https://en.wiktionary.org/wiki/imply#Usage_notes
+  12. https://en.wiktionary.org/wiki/imply#Synonyms
+  13. https://en.wiktionary.org/wiki/imply#Related_terms
+  14. https://en.wiktionary.org/wiki/imply#Translations
+  15. https://en.wiktionary.org/wiki/imply#See_also
+  16. https://en.wiktionary.org/wiki/imply#Further_reading
+  17. https://en.wiktionary.org/w/index.php?title=imply&action=edit&section=1
+  18. https://en.wiktionary.org/w/index.php?title=imply&action=edit&section=2
+  19. https://en.wikipedia.org/wiki/Middle_English_language
+  20. https://en.wiktionary.org/w/index.php?title=implien&action=edit&redlink=1
+  21. https://en.wiktionary.org/w/index.php?title=emplien&action=edit&redlink=1
+  22. https://en.wiktionary.org/wiki/Appendix:Glossary#loanword
+  23. https://en.wikipedia.org/wiki/Old_French_language
+  24. https://en.wiktionary.org/wiki/emplier#Old_French
+  25. https://en.wikipedia.org/wiki/Latin_language
+  26. https://en.wiktionary.org/wiki/implicare#Latin
+  27. https://en.wiktionary.org/wiki/in#Latin
+  28. https://en.wiktionary.org/wiki/plicare#Latin
+  29. https://en.wiktionary.org/wiki/doublet
+  30. https://en.wiktionary.org/wiki/employ#English
+  31. https://en.wiktionary.org/wiki/implicate#English
+  32. https://en.wiktionary.org/w/index.php?title=imply&action=edit&section=3
+  33. https://en.wikipedia.org/wiki/General_American
+  34. https://en.wikipedia.org/wiki/Received_Pronunciation
+  35. https://en.wiktionary.org/wiki/Wiktionary:International_Phonetic_Alphabet
+  36. https://en.wiktionary.org/wiki/Appendix:English_pronunciation
+  37. https://en.wiktionary.org/wiki/File:en-us-imply.ogg
+  38. https://en.wiktionary.org/wiki/Rhymes:English/aɪ
+  39. https://en.wiktionary.org/w/index.php?title=imply&action=edit&section=4
+  40. https://en.wiktionary.org/wiki/implies#English
+  41. https://en.wiktionary.org/wiki/implying#English
+  42. https://en.wiktionary.org/wiki/implied#English
+  43. https://en.wiktionary.org/wiki/Appendix:Glossary#transitive
+  44. https://en.wiktionary.org/wiki/necessary
+  45. https://en.wiktionary.org/wiki/consequence
+  46. https://en.wiktionary.org/wiki/Appendix:Glossary#transitive
+  47. https://en.wiktionary.org/wiki/suggest
+  48. https://en.wiktionary.org/wiki/logical
+  49. https://en.wiktionary.org/wiki/inference
+  50. https://en.wiktionary.org/wiki/Appendix:Glossary#transitive
+  51. https://en.wiktionary.org/wiki/hint
+  52. https://en.wiktionary.org/wiki/insinuate
+  53. https://en.wiktionary.org/wiki/suggest
+  54. https://en.wiktionary.org/wiki/tacit
+  55. https://en.wiktionary.org/wiki/direct
+  56. https://en.wiktionary.org/wiki/statement
+  57. https://en.wiktionary.org/wiki/wash
+  58. https://en.wiktionary.org/wiki/Appendix:Glossary#archaic
+  59. https://en.wiktionary.org/wiki/enfold
+  60. https://en.wiktionary.org/wiki/entangle
+  61. https://en.wiktionary.org/w/index.php?title=imply&action=edit&section=5
+  62. https://en.wiktionary.org/wiki/catenative_verb
+  63. https://en.wiktionary.org/wiki/Appendix:English_catenative_verbs
+  64. https://en.wiktionary.org/w/index.php?title=imply&action=edit&section=6
+  65. https://en.wiktionary.org/wiki/entail#English
+  66. https://en.wiktionary.org/wiki/allude#English
+  67. https://en.wiktionary.org/wiki/hint#English
+  68. https://en.wiktionary.org/wiki/insinuate#English
+  69. https://en.wiktionary.org/wiki/suggest#English
+  70. https://en.wiktionary.org/w/index.php?title=imply&action=edit&section=7
+  71. https://en.wiktionary.org/wiki/implicate#English
+  72. https://en.wiktionary.org/wiki/implication#English
+  73. https://en.wiktionary.org/wiki/implicative#English
+  74. https://en.wiktionary.org/wiki/implicit#English
+  75. https://en.wiktionary.org/wiki/implicitness#English
+  76. https://en.wiktionary.org/w/index.php?title=implision&action=edit&redlink=1
+  77. https://en.wiktionary.org/w/index.php?title=imply&action=edit&section=8
+  78. https://en.wiktionary.org/wiki/implicar#Catalan
+  79. https://ca.wiktionary.org/wiki/implicar
+  80. https://en.wiktionary.org/wiki/意味着#Mandarin
+  81. https://zh.wiktionary.org/wiki/意味着
+  82. https://en.wiktionary.org/w/index.php?title=implikovat&action=edit&redlink=1
+  83. https://en.wiktionary.org/wiki/impliceren#Dutch
+  84. https://nl.wiktionary.org/wiki/impliceren
+  85. https://en.wiktionary.org/wiki/inhouden#Dutch
+  86. https://nl.wiktionary.org/wiki/inhouden
+  87. https://en.wiktionary.org/wiki/merkitä#Finnish
+  88. https://fi.wiktionary.org/wiki/merkitä
+  89. https://en.wiktionary.org/wiki/seurata#Finnish
+  90. https://fi.wiktionary.org/wiki/seurata
+  91. https://en.wiktionary.org/wiki/impliquer#French
+  92. https://fr.wiktionary.org/wiki/impliquer
+  93. https://en.wiktionary.org/wiki/implizieren#German
+  94. https://de.wiktionary.org/wiki/implizieren
+  95. https://en.wiktionary.org/w/index.php?title=zur_Folge_haben&action=edit&redlink=1
+  96. https://en.wiktionary.org/w/index.php?title=maga_után_von&action=edit&redlink=1
+  97. https://en.wiktionary.org/wiki/implicare#Italian
+  98. https://it.wiktionary.org/wiki/implicare
+  99. https://en.wiktionary.org/wiki/implisere#Norwegian
+ 100. https://en.wiktionary.org/wiki/medføre#Norwegian
+ 101. https://en.wiktionary.org/w/index.php?title=pociągać_(za_sobą)&action=edit&redlink=1
+ 102. https://en.wiktionary.org/wiki/implicar#Portuguese
+ 103. https://pt.wiktionary.org/wiki/implicar
+ 104. https://en.wiktionary.org/wiki/предполагать#Russian
+ 105. https://ru.wiktionary.org/wiki/предполагать
+ 106. https://en.wiktionary.org/wiki/implicar#Spanish
+ 107. https://es.wiktionary.org/wiki/implicar
+ 108. https://en.wiktionary.org/wiki/implicera#Swedish
+ 109. https://sv.wiktionary.org/wiki/implicera
+ 110. https://en.wiktionary.org/w/index.php?title=gerektirmek&action=edit&redlink=1
+ 111. https://tr.wiktionary.org/wiki/gerektirmek
+ 112. https://en.wiktionary.org/w/index.php?title=işaret_etmek&action=edit&redlink=1
+ 113. https://tr.wiktionary.org/wiki/işaret_etmek
+ 114. https://en.wiktionary.org/w/index.php?title=припускати&action=edit&redlink=1
+ 115. https://en.wiktionary.org/wiki/implicar#Catalan
+ 116. https://ca.wiktionary.org/wiki/implicar
+ 117. https://en.wiktionary.org/wiki/suggereren#Dutch
+ 118. https://nl.wiktionary.org/wiki/suggereren
+ 119. https://en.wiktionary.org/wiki/tarkoittaa#Finnish
+ 120. https://fi.wiktionary.org/wiki/tarkoittaa
+ 121. https://en.wiktionary.org/wiki/väittää#Finnish
+ 122. https://fi.wiktionary.org/wiki/väittää
+ 123. https://en.wiktionary.org/wiki/impliquer#French
+ 124. https://fr.wiktionary.org/wiki/impliquer
+ 125. https://en.wiktionary.org/wiki/implizieren#German
+ 126. https://de.wiktionary.org/wiki/implizieren
+ 127. https://en.wiktionary.org/wiki/implisere#Norwegian
+ 128. https://en.wiktionary.org/wiki/подразумевать#Russian
+ 129. https://ru.wiktionary.org/wiki/подразумевать
+ 130. https://en.wiktionary.org/wiki/implicar#Spanish
+ 131. https://es.wiktionary.org/wiki/implicar
+ 132. https://en.wiktionary.org/w/index.php?title=gerektirmek&action=edit&redlink=1
+ 133. https://tr.wiktionary.org/wiki/gerektirmek
+ 134. https://en.wiktionary.org/w/index.php?title=мати_на_увазі&action=edit&redlink=1
+ 135. https://uk.wiktionary.org/wiki/мати_на_увазі
+ 136. https://en.wiktionary.org/w/index.php?title=انطوى&action=edit&redlink=1
+ 137. https://en.wiktionary.org/wiki/insinuar#Catalan
+ 138. https://ca.wiktionary.org/wiki/insinuar
+ 139. https://en.wiktionary.org/wiki/暗示#Mandarin
+ 140. https://zh.wiktionary.org/wiki/暗示
+ 141. https://en.wiktionary.org/w/index.php?title=暗指&action=edit&redlink=1
+ 142. https://zh.wiktionary.org/wiki/暗指
+ 143. https://en.wiktionary.org/wiki/naznačit#Czech
+ 144. https://en.wiktionary.org/wiki/vihjailla#Finnish
+ 145. https://fi.wiktionary.org/wiki/vihjailla
+ 146. https://en.wiktionary.org/wiki/antaa_ymmärtää#Finnish
+ 147. https://en.wiktionary.org/wiki/vihjata#Finnish
+ 148. https://en.wiktionary.org/wiki/insinuer#French
+ 149. https://fr.wiktionary.org/wiki/insinuer
+ 150. https://en.wiktionary.org/wiki/sous-entendre#French
+ 151. https://fr.wiktionary.org/wiki/sous-entendre
+ 152. https://en.wiktionary.org/wiki/bedeuten#German
+ 153. https://de.wiktionary.org/wiki/bedeuten
+ 154. https://en.wiktionary.org/wiki/implizieren#German
+ 155. https://de.wiktionary.org/wiki/implizieren
+ 156. https://en.wiktionary.org/wiki/υπονοώ#Greek
+ 157. https://el.wiktionary.org/wiki/υπονοώ
+ 158. https://en.wiktionary.org/wiki/sugall#Hungarian
+ 159. https://hu.wiktionary.org/wiki/sugall
+ 160. https://en.wiktionary.org/w/index.php?title=gefa_í_skyn&action=edit&redlink=1
+ 161. https://en.wiktionary.org/w/index.php?title=benda_til&action=edit&redlink=1
+ 162. https://en.wiktionary.org/wiki/ほのめかす#Japanese
+ 163. https://ja.wiktionary.org/wiki/ほのめかす
+ 164. https://en.wiktionary.org/wiki/insinuere#Norwegian
+ 165. https://en.wiktionary.org/wiki/antyde#Norwegian_Bokm.C3.A5l
+ 166. https://no.wiktionary.org/wiki/antyde
+ 167. https://en.wiktionary.org/w/index.php?title=به_طور_ضمنی_اشاره_کردن&action=edit&redlink=1
+ 168. https://en.wiktionary.org/w/index.php?title=sugerować&action=edit&redlink=1
+ 169. https://pl.wiktionary.org/wiki/sugerować
+ 170. https://en.wiktionary.org/wiki/dar_a_entender#Portuguese
+ 171. https://en.wiktionary.org/wiki/insinuar#Portuguese
+ 172. https://pt.wiktionary.org/wiki/insinuar
+ 173. https://en.wiktionary.org/wiki/намекать#Russian
+ 174. https://ru.wiktionary.org/wiki/намекать
+ 175. https://en.wiktionary.org/wiki/намекнуть#Russian
+ 176. https://ru.wiktionary.org/wiki/намекнуть
+ 177. https://en.wiktionary.org/wiki/pf.
+ 178. https://en.wiktionary.org/wiki/ciallaich#Scottish_Gaelic
+ 179. https://en.wiktionary.org/w/index.php?title=seaghaich&action=edit&redlink=1
+ 180. https://en.wiktionary.org/wiki/insinuar#Spanish
+ 181. https://es.wiktionary.org/wiki/insinuar
+ 182. https://en.wiktionary.org/wiki/antyda#Swedish
+ 183. https://sv.wiktionary.org/wiki/antyda
+ 184. https://en.wiktionary.org/wiki/insinuera#Swedish
+ 185. https://sv.wiktionary.org/wiki/insinuera
+ 186. https://en.wiktionary.org/w/index.php?title=anlamına_gelmek&action=edit&redlink=1
+ 187. https://tr.wiktionary.org/wiki/anlamına_gelmek
+ 188. https://en.wiktionary.org/w/index.php?title=manasına_gelmek&action=edit&redlink=1
+ 189. https://en.wiktionary.org/w/index.php?title=натякати&action=edit&redlink=1
+ 190. https://en.wiktionary.org/w/index.php?title=imply&action=edit&section=9
+ 191. https://en.wiktionary.org/wiki/connotation#English
+ 192. https://en.wiktionary.org/wiki/entail#English
+ 193. https://en.wiktionary.org/w/index.php?title=imply&action=edit&section=10
+ 194. http://www.websters1913.com/words/Imply
+ 195. https://en.wiktionary.org/wiki/Wiktionary:Webster's_Dictionary,_1913
+ 196. http://triggs.djvu.org/century-dictionary.com/nph-chw.php?query=imply&type=dicts
+ 197. https://en.wiktionary.org/w/index.php?title=imply&oldid=42879784
+ 198. https://en.wiktionary.org/wiki/Special:Categories
+ 199. https://en.wiktionary.org/wiki/Category:English_terms_inherited_from_Middle_English
+ 200. https://en.wiktionary.org/wiki/Category:English_terms_derived_from_Middle_English
+ 201. https://en.wiktionary.org/wiki/Category:English_terms_borrowed_from_Old_French
+ 202. https://en.wiktionary.org/wiki/Category:English_terms_derived_from_Old_French
+ 203. https://en.wiktionary.org/wiki/Category:English_terms_derived_from_Latin
+ 204. https://en.wiktionary.org/wiki/Category:English_doublets
+ 205. https://en.wiktionary.org/wiki/Category:English_2-syllable_words
+ 206. https://en.wiktionary.org/wiki/Category:English_terms_with_IPA_pronunciation
+ 207. https://en.wiktionary.org/wiki/Category:English_terms_with_audio_links
+ 208. https://en.wiktionary.org/wiki/Category:English_lemmas
+ 209. https://en.wiktionary.org/wiki/Category:English_verbs
+ 210. https://en.wiktionary.org/wiki/Category:English_transitive_verbs
+ 211. https://en.wiktionary.org/wiki/Category:English_terms_with_archaic_senses
+ 212. https://en.wiktionary.org/wiki/Category:en:Communication
+ 213. https://en.wiktionary.org/wiki/Category:bor_with_nocap
+ 214. https://en.wiktionary.org/wiki/Category:bor_without_notext
+ 215. https://en.wiktionary.org/wiki/Special:MyTalk
+ 216. https://en.wiktionary.org/wiki/Special:MyContributions
+ 217. https://en.wiktionary.org/w/index.php?title=Special:CreateAccount&returnto=imply
+ 218. https://en.wiktionary.org/w/index.php?title=Special:UserLogin&returnto=imply
+ 219. https://en.wiktionary.org/wiki/imply
+ 220. https://en.wiktionary.org/wiki/Talk:imply
+ 221. https://en.wiktionary.org/wiki/imply
+ 222. https://en.wiktionary.org/w/index.php?title=imply&action=edit
+ 223. https://en.wiktionary.org/w/index.php?title=imply&action=history
+ 224. form field = text entry field
+ 225. form field = submit button
+ 226. form field = submit button
+ 227. https://en.wiktionary.org/wiki/Wiktionary:Main_Page
+ 228. https://en.wiktionary.org/wiki/Wiktionary:Community_portal
+ 229. https://en.wiktionary.org/wiki/Wiktionary:Per-browser_preferences
+ 230. https://en.wiktionary.org/wiki/Wiktionary:Requested_entries
+ 231. https://en.wiktionary.org/wiki/Special:RecentChanges
+ 232. https://en.wiktionary.org/wiki/Special:Random
+ 233. https://en.wiktionary.org/wiki/Help:Contents
+ 234. https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&utm_medium=sidebar&utm_campaign=C13_en.wiktionary.org&uselang=en
+ 235. https://en.wiktionary.org/wiki/Wiktionary:Contact_us
+ 236. https://en.wiktionary.org/wiki/Special:WhatLinksHere/imply
+ 237. https://en.wiktionary.org/wiki/Special:RecentChangesLinked/imply
+ 238. https://commons.wikimedia.org/wiki/Special:UploadWizard?uselang=en
+ 239. https://en.wiktionary.org/wiki/Special:SpecialPages
+ 240. https://en.wiktionary.org/w/index.php?title=imply&oldid=42879784
+ 241. https://en.wiktionary.org/w/index.php?title=imply&action=info
+ 242. https://en.wiktionary.org/w/index.php?title=Special:CiteThisPage&page=imply&id=42879784
+ 243. https://ca.wiktionary.org/wiki/imply
+ 244. https://cy.wiktionary.org/wiki/imply
+ 245. https://et.wiktionary.org/wiki/imply
+ 246. https://el.wiktionary.org/wiki/imply
+ 247. https://fa.wiktionary.org/wiki/imply
+ 248. https://fr.wiktionary.org/wiki/imply
+ 249. https://ko.wiktionary.org/wiki/imply
+ 250. https://hy.wiktionary.org/wiki/imply
+ 251. https://io.wiktionary.org/wiki/imply
+ 252. https://it.wiktionary.org/wiki/imply
+ 253. https://kn.wiktionary.org/wiki/imply
+ 254. https://ka.wiktionary.org/wiki/imply
+ 255. https://ku.wiktionary.org/wiki/imply
+ 256. https://li.wiktionary.org/wiki/imply
+ 257. https://hu.wiktionary.org/wiki/imply
+ 258. https://mg.wiktionary.org/wiki/imply
+ 259. https://ml.wiktionary.org/wiki/imply
+ 260. https://my.wiktionary.org/wiki/imply
+ 261. https://ja.wiktionary.org/wiki/imply
+ 262. https://pl.wiktionary.org/wiki/imply
+ 263. https://pt.wiktionary.org/wiki/imply
+ 264. https://simple.wiktionary.org/wiki/imply
+ 265. https://fi.wiktionary.org/wiki/imply
+ 266. https://sv.wiktionary.org/wiki/imply
+ 267. https://ta.wiktionary.org/wiki/imply
+ 268. https://te.wiktionary.org/wiki/imply
+ 269. https://chr.wiktionary.org/wiki/imply
+ 270. https://vi.wiktionary.org/wiki/imply
+ 271. https://zh.wiktionary.org/wiki/imply
+ 272. https://en.wiktionary.org/w/index.php?title=Special:Book&bookcmd=book_creator&referer=imply
+ 273. https://en.wiktionary.org/w/index.php?title=Special:Book&bookcmd=render_article&arttitle=imply&returnto=imply&oldid=42879784&writer=rdf2latex
+ 274. https://en.wiktionary.org/w/index.php?title=imply&printable=yes
+ 275. https://creativecommons.org/licenses/by-sa/3.0/
+ 276. https://wikimediafoundation.org/wiki/Terms_of_Use
+ 277. https://wikimediafoundation.org/wiki/Privacy_policy
+ 278. https://wikimediafoundation.org/wiki/Privacy_policy
+ 279. https://en.wiktionary.org/wiki/Wiktionary:About
+ 280. https://en.wiktionary.org/wiki/Wiktionary:General_disclaimer
+ 281. https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute
+ 282. https://wikimediafoundation.org/wiki/Cookie_statement
+ 283. https://en.m.wiktionary.org/w/index.php?title=imply&mobileaction=toggle_view_mobile
+ 284. https://wikimediafoundation.org/
+ 285. https://www.mediawiki.org/
+
+   Hidden links:
+ 287. https://en.wiktionary.org/wiki/imply
+ 288. https://en.wiktionary.org/wiki/imply
+ 289. https://en.wiktionary.org/wiki/Wiktionary:Main_Page

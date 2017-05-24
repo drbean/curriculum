@@ -1,0 +1,850 @@
+   #[1]Edit [2]Wiktionary (en) [3]copyright [4]Wiktionary Atom feed
+
+layer
+
+   Definition from Wiktionary, the free dictionary
+   Jump to: [5]navigation, [6]search
+
+Contents
+
+     * [7]1 English
+          + [8]1.1 Pronunciation
+          + [9]1.2 Etymology 1
+               o [10]1.2.1 Noun
+                    # [11]1.2.1.1 Synonyms
+                    # [12]1.2.1.2 Derived terms
+                    # [13]1.2.1.3 Translations
+               o [14]1.2.2 Verb
+                    # [15]1.2.2.1 Translations
+          + [16]1.3 Etymology 2
+               o [17]1.3.1 Noun
+               o [18]1.3.2 Derived terms
+          + [19]1.4 Further reading
+          + [20]1.5 Anagrams
+
+English[[21]edit]
+
+Pronunciation[[22]edit]
+
+     * ([23]UK) [24]IPA^([25]key): /leɪə/, /lɛə/
+     * ([26]US) [27]IPA^([28]key): /ˈleɪ.ɚ/
+     *
+
+       Audio (US)
+
+       ([29]file)
+     * Rhymes: [30]-eɪə(r)
+
+Etymology 1[[31]edit]
+
+   From [32]Middle English [33]leyer, [34]leyare (“a layer of stones or
+   bricks”), equivalent to [35]lay + [36]-er.
+
+Noun[[37]edit]
+
+   layer (plural [38]layers)
+    1. A single [39]thickness of some [40]material [41]covering a
+       [42]surface.
+
+                Wrap the loaf in two layers of aluminum foil before
+                putting it in the oven.
+                After the first coat of paint dried, he applied another
+                layer.
+
+         1. An [43]item of [44]clothing [45]worn [46]under or [47]over
+            another.
+
+                      It's cold now but it will warm up this afternoon.
+                      Make sure you wear layers.
+
+    2. A (usually) [48]horizontal [49]deposit; a [50]stratum.
+
+                I find seven-layer cake a bit too rich.
+
+    3. One of the items in a [51]hierarchy.
+
+                mired in layers of deceit
+
+          + 2001, C/C++ Users Journal (volume 19, page 38)
+
+                      Right above the database access layer sits a number
+                      cruncher that performs any calculations that a
+                      particular request may require, such as computing a
+                      standard deviation. In many cases, this layer just
+                      forwards raw numbers.
+
+Synonyms[[52]edit]
+
+     * (stratum): [53]stratum
+
+Derived terms[[54]edit]
+
+     * [55]boundary layer
+     * [56]orchestration layer
+     * [57]ozone layer
+
+Translations[[58]edit]
+
+   single thickness of some material covering a surface
+     * Arabic: [59]طَبَقَة f (ṭabaqa)
+     * Armenian: [60]շերտ [61](hy) (šert)
+     * Bashkir: [62]ҡат (qat)
+     * Bengali: please add this translation if you can
+     * Bulgarian: [63]слой [64](bg) (sloj)
+     * Catalan: [65]capa [66](ca) f
+     * Chinese:
+
+                Mandarin: ^(please [67]verify) [68]层 [69](zh) (céng)
+
+     * Czech: [70]vrstva [71](cs) f
+     * Dutch: [72]laag [73](nl) f
+     * Esperanto: [74]tavolo [75](eo)
+     * Finnish: [76]kerros [77](fi)
+     * French: [78]couche [79](fr) f
+     * Georgian: [80]ფენა (pena), [81]შრე (šre)
+     * German: [82]Lage [83](de) f, [84]Schicht [85](de) f
+     * Greek: [86]στρώση [87](el) f (strósi), [88]στρώμα [89](el) n
+       (stróma), [90]στιβάδα [91](el) f (stiváda), [92]διάστρωση f
+       (diástrosi)
+     * Hungarian: [93]réteg [94](hu)
+
+     * Ido: [95]strato [96](io)
+     * Italian: [97]strato [98](it) m
+     * Japanese: [99]層 [100](ja) (そう, sō), [101]膜 [102](ja) (まく, maku)
+     * Korean: [103]층 [104](ko) (cheung)
+     * Macedonian: [105]слој m (sloj)
+     * Malay: [106]lapisan
+     * Maori: [107]apa, [108]paparanga
+     * Persian: [109]لایه [110](fa) (lâye)
+     * Polish: [111]warstwa [112](pl) f
+     * Portuguese: [113]camada [114](pt) f
+     * Romanian: [115]strat [116](ro), [117]așternut [118](ro),
+       [119]acoperământ [120](ro) n
+     * Russian: [121]слой [122](ru) m (sloj), [123]пласт [124](ru) m
+       (plast)
+     * Sanskrit: [125]धातु [126](sa) m (dhātu)
+     * Spanish: [127]capa [128](es) f
+     * Swedish: [129]lager [130](sv) n, [131]skikt [132](sv) n
+     * Telugu: [133]పొర [134](te) (pora)
+     * Turkish: [135]tabaka [136](tr)
+
+   item of clothing worn under or over another
+     * Bashkir: [137]ҡат (qat)
+     * Czech: [138]vrstva [139](cs) f
+     * Dutch: [140]laag [141](nl) f
+     * Finnish: [142]vaatekerros
+     * French: [143]couche [144](fr) f
+
+     * German: [145]Bekleidungsschicht f, [146]Lage [147](de) f,
+       [148]Schicht [149](de) f
+     * Italian: [150]strato [151](it) m
+     * Portuguese: [152]camada [153](pt) f
+     * Swedish: [154]lager [155](sv) n
+
+   deposit
+     * Catalan: [156]capa [157](ca) f
+     * Czech: [158]vrstva [159](cs) f
+     * Dutch: [160]laag [161](nl) f
+     * Esperanto: [162]tavolo [163](eo)
+     * Finnish: [164]kerros [165](fi), [166]kerrostuma [167](fi)
+     * German: [168]Schicht [169](de) f
+     * Greek: [170]στρώμα [171](el) n (stróma), [172]διάστρωση f
+       (diástrosi)
+     * Ido: [173]strato [174](io)
+
+     * Italian: [175]strato [176](it) m
+     * Japanese: [177]層 [178](ja) (そう, sō)
+     * Macedonian: [179]наслојка f (naslojka), [180]наслага f (naslaga)
+     * Portuguese: [181]camada [182](pt) f
+     * Russian: [183]слой [184](ru) m (sloj), [185]пласт [186](ru) m
+       (plast)
+     * Swedish: [187]lager [188](sv) n, [189]skikt [190](sv) n,
+       [191]varv [192](sv) n
+     * Tagalog: [193]saray
+
+   person who lays things, such as tiles
+     * Dutch: [194]legger [195](nl) m
+     * Finnish: [196]laatoittaja (layer of tiles)
+     * German: (only in combined words, such as [197]Fliesenleger m)
+       [198]-leger m
+
+     * Portuguese: [199]assentador m
+     * Russian: [200]укладчик [201](ru) m (ukladčik),
+       [202]кладчик [203](ru) m (kladčik)
+     * Swedish: [204]takläggare c, [205]golvläggare c
+
+   hen kept to lay eggs
+     * Bashkir: [206]йомортҡа (yomortqa) һалған / һалыусы [207]тауыҡ
+       (tawïq)
+     * Dutch: [208]legster f
+     * Finnish: [209]munituskana
+     * French: [210]pondeuse [211](fr) f
+     * German: [212]Legehenne [213](de) f
+     * Greek: [214]καρπερή [215](el) f (karperí)
+     * Italian: [216]ovaiola f
+     * Macedonian: [217]несилка f (nesilka)
+
+     * Norman: [218]pond'rêsse f
+     * Polish: [219]nioska [220](pl) f
+     * Portuguese: [221]botadeira f
+     * Russian: [222]несушка [223](ru) f (nesuška)
+     * Spanish: [224]gallina ponedora f, [225]ponedora [226](es) f
+     * Swedish: [227]äggläggare c, [228]värphöna c
+     * Telugu: [229]పొదుగుట (poduguṭa)
+
+   shoot of a plant
+     * French: [230]marcotte [231](fr) f
+     * German: [232]Absenker m, [233]Ableger [234](de) m, [235]Kindel n
+     * Macedonian: [236]изданок m (izdanok)
+     * Russian: [237]отводок [238](ru) m (otvodok)
+
+     * Spanish: [239]hijuelo [240](es) m
+     * Swedish: [241]stickling [242](sv) c, [243]skott [244](sv) n,
+       [245]avsugare c, [246]sugymp c
+     * Walloon: [247]marcote [248](wa) f
+
+Verb[[249]edit]
+
+   layer (third-person singular simple present [250]layers, present
+   participle [251]layering, simple past and past participle [252]layered)
+    1. ([253]transitive, [254]intransitive) to [255]cut or [256]divide
+       (something) into layers
+    2. ([257]transitive, [258]intransitive) to arrange (something) in
+       layers.
+
+                Layer the ribbons on top of one another to make an
+                attractive pattern.
+
+Translations[[259]edit]
+
+   to cut or divide into layers
+     * German: [260]trennen [261](de), [262]spalten [263](de)
+     * Greek: [264]καταβολεύω [265](el) (katavolévo)
+
+     * Macedonian: [266]раслојува (raslojuva)
+     * Russian: [267]расслаивать [268](ru) impf (rasslaivatʹ),
+       [269]расслоить [270](ru) pf (rassloitʹ)
+
+   to arrange in layers
+     * Finnish: [271]kerrostaa, [272]pinota [273](fi)
+     * German: [274]schichten [275](de), [276]übereinanderlegen
+     * Macedonian: [277]наслојува (naslojuva)
+     * Maori: [278]tāpatupatu, [279]whakamātā, [280]whakapapa
+
+     * Polish: [281]układać [282]warstwami
+     * Russian: [283]наслаивать [284](ru) impf (naslaivatʹ),
+       [285]наслоить [286](ru) pf (nasloitʹ)
+     * Turkish: ^(please [287]verify) [288]tabaka [289](tr)
+
+Etymology 2[[290]edit]
+
+   [291]lay + [292]-er
+
+Noun[[293]edit]
+
+   layer (plural [294]layers)
+    1. A person who [295]lays things, such as [296]tiles.
+    2. A [297]mature [298]female [299]bird, [300]insect, etc. that is able
+       to lay [301]eggs.
+
+                When dealing with an infestation of headlice, the first
+                step is to eliminate the layers.
+
+    3. A [302]hen kept to lay [303]eggs.
+    4. A shoot of a plant, laid underground for growth.
+
+Derived terms[[304]edit]
+
+     * [305]tracklayer
+
+Further reading[[306]edit]
+
+     * [307]layer in [308]Webster’s Revised Unabridged Dictionary, G. & C.
+       Merriam, 1913
+     * [309]layer in The Century Dictionary, The Century Co., New York,
+       1911
+
+Anagrams[[310]edit]
+
+     * [311]early
+     * [312]relay, [313]re-lay
+
+   Retrieved from
+   "[314]https://en.wiktionary.org/w/index.php?title=layer&oldid=42885560"
+   [315]Categories:
+     * [316]English 2-syllable words
+     * [317]English 1-syllable words
+     * [318]English terms with IPA pronunciation
+     * [319]English terms with audio links
+     * [320]English terms derived from the PIE root *legʰ-
+     * [321]English terms derived from Middle English
+     * [322]English words suffixed with -er
+     * [323]English lemmas
+     * [324]English nouns
+     * [325]English countable nouns
+     * [326]English verbs
+     * [327]English transitive verbs
+     * [328]English intransitive verbs
+     * [329]en:Poultry
+
+   Hidden categories:
+     * [330]etyl cleanup/en
+     * [331]Requests for translations into Bengali
+     * [332]Requests for review of Mandarin translations
+     * [333]Terms with redundant transliterations
+     * [334]Terms with redundant transliterations/sa
+     * [335]Finnish redlinks
+     * [336]Finnish redlinks/t
+     * [337]Portuguese redlinks
+     * [338]Portuguese redlinks/t
+     * [339]Russian redlinks
+     * [340]Russian redlinks/t+
+     * [341]Spanish redlinks
+     * [342]Spanish redlinks/t
+     * [343]Telugu redlinks
+     * [344]Telugu redlinks/t
+     * [345]Requests for review of Turkish translations
+
+Navigation menu
+
+Personal tools
+
+     * Not logged in
+     * [346]Talk
+     * [347]Contributions
+     * [348]Create account
+     * [349]Log in
+
+Namespaces
+
+     * [350]Entry
+     * [351]Discussion
+
+Variants
+
+Views
+
+     * [352]Read
+     * [353]Edit
+     * [354]History
+
+More
+
+Search
+
+   [355]____________________ [356]Search [357]Go
+
+Navigation
+
+     * [358]Main Page
+     * [359]Community portal
+     * [360]Preferences
+     * [361]Requested entries
+     * [362]Recent changes
+     * [363]Random entry
+     * [364]Help
+     * [365]Donations
+     * [366]Contact us
+
+Tools
+
+     * [367]What links here
+     * [368]Related changes
+     * [369]Upload file
+     * [370]Special pages
+     * [371]Permanent link
+     * [372]Page information
+     * [373]Cite this page
+
+In other languages
+
+     * [374]العربية
+     * [375]Български
+     * [376]Català
+     * [377]Čeština
+     * [378]Cymraeg
+     * [379]Deutsch
+     * [380]Eesti
+     * [381]Ελληνικά
+     * [382]فارسی
+     * [383]Français
+     * [384]한국어
+     * [385]Հայերեն
+     * [386]Ido
+     * [387]Bahasa Indonesia
+     * [388]Italiano
+     * [389]ಕನ್ನಡ
+     * [390]Қазақша
+     * [391]Kurdî
+     * [392]ລາວ
+     * [393]Magyar
+     * [394]Malagasy
+     * [395]മലയാളം
+     * [396]မြန်မာဘာသာ
+     * [397]日本語
+     * [398]Norsk bokmål
+     * [399]Polski
+     * [400]Português
+     * [401]Русский
+     * [402]Simple English
+     * [403]Suomi
+     * [404]Svenska
+     * [405]தமிழ்
+     * [406]తెలుగు
+     * [407]Türkçe
+     * [408]Tiếng Việt
+     * [409]中文
+
+Print/export
+
+     * [410]Create a book
+     * [411]Download as PDF
+     * [412]Printable version
+
+     * This page was last edited on 12 May 2017, at 23:24.
+     * Text is available under the [413]Creative Commons
+       Attribution-ShareAlike License; additional terms may apply. By
+       using this site, you agree to the [414]Terms of Use and
+       [415]Privacy Policy.
+
+     * [416]Privacy policy
+     * [417]About Wiktionary
+     * [418]Disclaimers
+     * [419]Developers
+     * [420]Cookie statement
+     * [421]Mobile view
+
+     * [422]Wikimedia Foundation
+     * [423]Powered by MediaWiki
+
+References
+
+   Visible links
+   1. https://en.wiktionary.org/w/index.php?title=layer&action=edit
+   2. https://en.wiktionary.org/w/opensearch_desc.php
+   3. https://creativecommons.org/licenses/by-sa/3.0/
+   4. https://en.wiktionary.org/w/index.php?title=Special:RecentChanges&feed=atom
+   5. https://en.wiktionary.org/wiki/layer#mw-head
+   6. https://en.wiktionary.org/wiki/layer#p-search
+   7. https://en.wiktionary.org/wiki/layer#English
+   8. https://en.wiktionary.org/wiki/layer#Pronunciation
+   9. https://en.wiktionary.org/wiki/layer#Etymology_1
+  10. https://en.wiktionary.org/wiki/layer#Noun
+  11. https://en.wiktionary.org/wiki/layer#Synonyms
+  12. https://en.wiktionary.org/wiki/layer#Derived_terms
+  13. https://en.wiktionary.org/wiki/layer#Translations
+  14. https://en.wiktionary.org/wiki/layer#Verb
+  15. https://en.wiktionary.org/wiki/layer#Translations_2
+  16. https://en.wiktionary.org/wiki/layer#Etymology_2
+  17. https://en.wiktionary.org/wiki/layer#Noun_2
+  18. https://en.wiktionary.org/wiki/layer#Derived_terms_2
+  19. https://en.wiktionary.org/wiki/layer#Further_reading
+  20. https://en.wiktionary.org/wiki/layer#Anagrams
+  21. https://en.wiktionary.org/w/index.php?title=layer&action=edit&section=1
+  22. https://en.wiktionary.org/w/index.php?title=layer&action=edit&section=2
+  23. https://en.wikipedia.org/wiki/British_English
+  24. https://en.wiktionary.org/wiki/Wiktionary:International_Phonetic_Alphabet
+  25. https://en.wiktionary.org/wiki/Appendix:English_pronunciation
+  26. https://en.wikipedia.org/wiki/American_English
+  27. https://en.wiktionary.org/wiki/Wiktionary:International_Phonetic_Alphabet
+  28. https://en.wiktionary.org/wiki/Appendix:English_pronunciation
+  29. https://en.wiktionary.org/wiki/File:en-us-layer.ogg
+  30. https://en.wiktionary.org/wiki/Rhymes:English/eɪə(r)
+  31. https://en.wiktionary.org/w/index.php?title=layer&action=edit&section=3
+  32. https://en.wikipedia.org/wiki/Middle_English_language
+  33. https://en.wiktionary.org/w/index.php?title=leyer&action=edit&redlink=1
+  34. https://en.wiktionary.org/w/index.php?title=leyare&action=edit&redlink=1
+  35. https://en.wiktionary.org/wiki/lay#English
+  36. https://en.wiktionary.org/wiki/-er#English
+  37. https://en.wiktionary.org/w/index.php?title=layer&action=edit&section=4
+  38. https://en.wiktionary.org/wiki/layers#English
+  39. https://en.wiktionary.org/wiki/thickness
+  40. https://en.wiktionary.org/wiki/material
+  41. https://en.wiktionary.org/wiki/covering
+  42. https://en.wiktionary.org/wiki/surface
+  43. https://en.wiktionary.org/wiki/item
+  44. https://en.wiktionary.org/wiki/clothing
+  45. https://en.wiktionary.org/wiki/wear
+  46. https://en.wiktionary.org/wiki/under
+  47. https://en.wiktionary.org/wiki/over
+  48. https://en.wiktionary.org/wiki/horizontal
+  49. https://en.wiktionary.org/wiki/deposit
+  50. https://en.wiktionary.org/wiki/stratum
+  51. https://en.wiktionary.org/wiki/hierarchy
+  52. https://en.wiktionary.org/w/index.php?title=layer&action=edit&section=5
+  53. https://en.wiktionary.org/wiki/stratum#English
+  54. https://en.wiktionary.org/w/index.php?title=layer&action=edit&section=6
+  55. https://en.wiktionary.org/w/index.php?title=boundary_layer&action=edit&redlink=1
+  56. https://en.wiktionary.org/w/index.php?title=orchestration_layer&action=edit&redlink=1
+  57. https://en.wiktionary.org/wiki/ozone_layer#English
+  58. https://en.wiktionary.org/w/index.php?title=layer&action=edit&section=7
+  59. https://en.wiktionary.org/w/index.php?title=طبقة&action=edit&redlink=1
+  60. https://en.wiktionary.org/wiki/շերտ#Armenian
+  61. https://hy.wiktionary.org/wiki/շերտ
+  62. https://en.wiktionary.org/wiki/ҡат#Bashkir
+  63. https://en.wiktionary.org/wiki/слой#Bulgarian
+  64. https://bg.wiktionary.org/wiki/слой
+  65. https://en.wiktionary.org/wiki/capa#Catalan
+  66. https://ca.wiktionary.org/wiki/capa
+  67. https://en.wiktionary.org/wiki/Wiktionary:Translations#Translations_to_be_checked
+  68. https://en.wiktionary.org/wiki/层#Mandarin
+  69. https://zh.wiktionary.org/wiki/层
+  70. https://en.wiktionary.org/wiki/vrstva#Czech
+  71. https://cs.wiktionary.org/wiki/vrstva
+  72. https://en.wiktionary.org/wiki/laag#Dutch
+  73. https://nl.wiktionary.org/wiki/laag
+  74. https://en.wiktionary.org/wiki/tavolo#Esperanto
+  75. https://eo.wiktionary.org/wiki/tavolo
+  76. https://en.wiktionary.org/wiki/kerros#Finnish
+  77. https://fi.wiktionary.org/wiki/kerros
+  78. https://en.wiktionary.org/wiki/couche#French
+  79. https://fr.wiktionary.org/wiki/couche
+  80. https://en.wiktionary.org/wiki/ფენა#Georgian
+  81. https://en.wiktionary.org/wiki/შრე#Georgian
+  82. https://en.wiktionary.org/wiki/Lage#German
+  83. https://de.wiktionary.org/wiki/Lage
+  84. https://en.wiktionary.org/wiki/Schicht#German
+  85. https://de.wiktionary.org/wiki/Schicht
+  86. https://en.wiktionary.org/w/index.php?title=στρώση&action=edit&redlink=1
+  87. https://el.wiktionary.org/wiki/στρώση
+  88. https://en.wiktionary.org/wiki/στρώμα#Greek
+  89. https://el.wiktionary.org/wiki/στρώμα
+  90. https://en.wiktionary.org/wiki/στιβάδα#Greek
+  91. https://el.wiktionary.org/wiki/στιβάδα
+  92. https://en.wiktionary.org/w/index.php?title=διάστρωση&action=edit&redlink=1
+  93. https://en.wiktionary.org/wiki/réteg#Hungarian
+  94. https://hu.wiktionary.org/wiki/réteg
+  95. https://en.wiktionary.org/wiki/strato#Ido
+  96. https://io.wiktionary.org/wiki/strato
+  97. https://en.wiktionary.org/wiki/strato#Italian
+  98. https://it.wiktionary.org/wiki/strato
+  99. https://en.wiktionary.org/wiki/層#Japanese
+ 100. https://ja.wiktionary.org/wiki/層
+ 101. https://en.wiktionary.org/wiki/膜#Japanese
+ 102. https://ja.wiktionary.org/wiki/膜
+ 103. https://en.wiktionary.org/wiki/층#Korean
+ 104. https://ko.wiktionary.org/wiki/층
+ 105. https://en.wiktionary.org/wiki/слој#Macedonian
+ 106. https://en.wiktionary.org/wiki/lapisan#Malay
+ 107. https://en.wiktionary.org/wiki/apa#Maori
+ 108. https://en.wiktionary.org/w/index.php?title=paparanga&action=edit&redlink=1
+ 109. https://en.wiktionary.org/wiki/لایه#Persian
+ 110. https://fa.wiktionary.org/wiki/لایه
+ 111. https://en.wiktionary.org/wiki/warstwa#Polish
+ 112. https://pl.wiktionary.org/wiki/warstwa
+ 113. https://en.wiktionary.org/wiki/camada#Portuguese
+ 114. https://pt.wiktionary.org/wiki/camada
+ 115. https://en.wiktionary.org/wiki/strat#Romanian
+ 116. https://ro.wiktionary.org/wiki/strat
+ 117. https://en.wiktionary.org/wiki/așternut#Romanian
+ 118. https://ro.wiktionary.org/wiki/așternut
+ 119. https://en.wiktionary.org/wiki/acoperământ#Romanian
+ 120. https://ro.wiktionary.org/wiki/acoperământ
+ 121. https://en.wiktionary.org/wiki/слой#Russian
+ 122. https://ru.wiktionary.org/wiki/слой
+ 123. https://en.wiktionary.org/wiki/пласт#Russian
+ 124. https://ru.wiktionary.org/wiki/пласт
+ 125. https://en.wiktionary.org/wiki/धातु#Sanskrit
+ 126. https://sa.wiktionary.org/wiki/धातु
+ 127. https://en.wiktionary.org/wiki/capa#Spanish
+ 128. https://es.wiktionary.org/wiki/capa
+ 129. https://en.wiktionary.org/wiki/lager#Swedish
+ 130. https://sv.wiktionary.org/wiki/lager
+ 131. https://en.wiktionary.org/wiki/skikt#Swedish
+ 132. https://sv.wiktionary.org/wiki/skikt
+ 133. https://en.wiktionary.org/wiki/పొర#Telugu
+ 134. https://te.wiktionary.org/wiki/పొర
+ 135. https://en.wiktionary.org/wiki/tabaka#Turkish
+ 136. https://tr.wiktionary.org/wiki/tabaka
+ 137. https://en.wiktionary.org/wiki/ҡат#Bashkir
+ 138. https://en.wiktionary.org/wiki/vrstva#Czech
+ 139. https://cs.wiktionary.org/wiki/vrstva
+ 140. https://en.wiktionary.org/wiki/laag#Dutch
+ 141. https://nl.wiktionary.org/wiki/laag
+ 142. https://en.wiktionary.org/w/index.php?title=vaatekerros&action=edit&redlink=1
+ 143. https://en.wiktionary.org/wiki/couche#French
+ 144. https://fr.wiktionary.org/wiki/couche
+ 145. https://en.wiktionary.org/w/index.php?title=Bekleidungsschicht&action=edit&redlink=1
+ 146. https://en.wiktionary.org/wiki/Lage#German
+ 147. https://de.wiktionary.org/wiki/Lage
+ 148. https://en.wiktionary.org/wiki/Schicht#German
+ 149. https://de.wiktionary.org/wiki/Schicht
+ 150. https://en.wiktionary.org/wiki/strato#Italian
+ 151. https://it.wiktionary.org/wiki/strato
+ 152. https://en.wiktionary.org/wiki/camada#Portuguese
+ 153. https://pt.wiktionary.org/wiki/camada
+ 154. https://en.wiktionary.org/wiki/lager#Swedish
+ 155. https://sv.wiktionary.org/wiki/lager
+ 156. https://en.wiktionary.org/wiki/capa#Catalan
+ 157. https://ca.wiktionary.org/wiki/capa
+ 158. https://en.wiktionary.org/wiki/vrstva#Czech
+ 159. https://cs.wiktionary.org/wiki/vrstva
+ 160. https://en.wiktionary.org/wiki/laag#Dutch
+ 161. https://nl.wiktionary.org/wiki/laag
+ 162. https://en.wiktionary.org/wiki/tavolo#Esperanto
+ 163. https://eo.wiktionary.org/wiki/tavolo
+ 164. https://en.wiktionary.org/wiki/kerros#Finnish
+ 165. https://fi.wiktionary.org/wiki/kerros
+ 166. https://en.wiktionary.org/wiki/kerrostuma#Finnish
+ 167. https://fi.wiktionary.org/wiki/kerrostuma
+ 168. https://en.wiktionary.org/wiki/Schicht#German
+ 169. https://de.wiktionary.org/wiki/Schicht
+ 170. https://en.wiktionary.org/wiki/στρώμα#Greek
+ 171. https://el.wiktionary.org/wiki/στρώμα
+ 172. https://en.wiktionary.org/w/index.php?title=διάστρωση&action=edit&redlink=1
+ 173. https://en.wiktionary.org/wiki/strato#Ido
+ 174. https://io.wiktionary.org/wiki/strato
+ 175. https://en.wiktionary.org/wiki/strato#Italian
+ 176. https://it.wiktionary.org/wiki/strato
+ 177. https://en.wiktionary.org/wiki/層#Japanese
+ 178. https://ja.wiktionary.org/wiki/層
+ 179. https://en.wiktionary.org/w/index.php?title=наслојка&action=edit&redlink=1
+ 180. https://en.wiktionary.org/wiki/наслага#Macedonian
+ 181. https://en.wiktionary.org/wiki/camada#Portuguese
+ 182. https://pt.wiktionary.org/wiki/camada
+ 183. https://en.wiktionary.org/wiki/слой#Russian
+ 184. https://ru.wiktionary.org/wiki/слой
+ 185. https://en.wiktionary.org/wiki/пласт#Russian
+ 186. https://ru.wiktionary.org/wiki/пласт
+ 187. https://en.wiktionary.org/wiki/lager#Swedish
+ 188. https://sv.wiktionary.org/wiki/lager
+ 189. https://en.wiktionary.org/wiki/skikt#Swedish
+ 190. https://sv.wiktionary.org/wiki/skikt
+ 191. https://en.wiktionary.org/wiki/varv#Swedish
+ 192. https://sv.wiktionary.org/wiki/varv
+ 193. https://en.wiktionary.org/wiki/saray#Tagalog
+ 194. https://en.wiktionary.org/wiki/legger#Dutch
+ 195. https://nl.wiktionary.org/wiki/legger
+ 196. https://en.wiktionary.org/w/index.php?title=laatoittaja&action=edit&redlink=1
+ 197. https://en.wiktionary.org/w/index.php?title=Fliesenleger&action=edit&redlink=1
+ 198. https://en.wiktionary.org/w/index.php?title=-leger&action=edit&redlink=1
+ 199. https://en.wiktionary.org/w/index.php?title=assentador&action=edit&redlink=1
+ 200. https://en.wiktionary.org/wiki/укладчик#Russian
+ 201. https://ru.wiktionary.org/wiki/укладчик
+ 202. https://en.wiktionary.org/w/index.php?title=кладчик&action=edit&redlink=1
+ 203. https://ru.wiktionary.org/wiki/кладчик
+ 204. https://en.wiktionary.org/w/index.php?title=takläggare&action=edit&redlink=1
+ 205. https://en.wiktionary.org/w/index.php?title=golvläggare&action=edit&redlink=1
+ 206. https://en.wiktionary.org/wiki/йомортҡа#Bashkir
+ 207. https://en.wiktionary.org/wiki/тауыҡ#Bashkir
+ 208. https://en.wiktionary.org/w/index.php?title=legster&action=edit&redlink=1
+ 209. https://en.wiktionary.org/wiki/munituskana#Finnish
+ 210. https://en.wiktionary.org/wiki/pondeuse#French
+ 211. https://fr.wiktionary.org/wiki/pondeuse
+ 212. https://en.wiktionary.org/w/index.php?title=Legehenne&action=edit&redlink=1
+ 213. https://de.wiktionary.org/wiki/Legehenne
+ 214. https://en.wiktionary.org/w/index.php?title=καρπερή&action=edit&redlink=1
+ 215. https://el.wiktionary.org/wiki/καρπερή
+ 216. https://en.wiktionary.org/wiki/ovaiola#Italian
+ 217. https://en.wiktionary.org/w/index.php?title=несилка&action=edit&redlink=1
+ 218. https://en.wiktionary.org/wiki/pond'rêsse#Norman
+ 219. https://en.wiktionary.org/wiki/nioska#Polish
+ 220. https://pl.wiktionary.org/wiki/nioska
+ 221. https://en.wiktionary.org/wiki/botadeira#Portuguese
+ 222. https://en.wiktionary.org/w/index.php?title=несушка&action=edit&redlink=1
+ 223. https://ru.wiktionary.org/wiki/несушка
+ 224. https://en.wiktionary.org/w/index.php?title=gallina_ponedora&action=edit&redlink=1
+ 225. https://en.wiktionary.org/wiki/ponedora#Spanish
+ 226. https://es.wiktionary.org/wiki/ponedora
+ 227. https://en.wiktionary.org/w/index.php?title=äggläggare&action=edit&redlink=1
+ 228. https://en.wiktionary.org/w/index.php?title=värphöna&action=edit&redlink=1
+ 229. https://en.wiktionary.org/w/index.php?title=పొదుగుట&action=edit&redlink=1
+ 230. https://en.wiktionary.org/wiki/marcotte#French
+ 231. https://fr.wiktionary.org/wiki/marcotte
+ 232. https://en.wiktionary.org/w/index.php?title=Absenker&action=edit&redlink=1
+ 233. https://en.wiktionary.org/wiki/Ableger#German
+ 234. https://de.wiktionary.org/wiki/Ableger
+ 235. https://en.wiktionary.org/wiki/Kindel#German
+ 236. https://en.wiktionary.org/wiki/изданок#Macedonian
+ 237. https://en.wiktionary.org/w/index.php?title=отводок&action=edit&redlink=1
+ 238. https://ru.wiktionary.org/wiki/отводок
+ 239. https://en.wiktionary.org/wiki/hijuelo#Spanish
+ 240. https://es.wiktionary.org/wiki/hijuelo
+ 241. https://en.wiktionary.org/wiki/stickling#Swedish
+ 242. https://sv.wiktionary.org/wiki/stickling
+ 243. https://en.wiktionary.org/wiki/skott#Swedish
+ 244. https://sv.wiktionary.org/wiki/skott
+ 245. https://en.wiktionary.org/w/index.php?title=avsugare&action=edit&redlink=1
+ 246. https://en.wiktionary.org/w/index.php?title=sugymp&action=edit&redlink=1
+ 247. https://en.wiktionary.org/w/index.php?title=marcote&action=edit&redlink=1
+ 248. https://wa.wiktionary.org/wiki/marcote
+ 249. https://en.wiktionary.org/w/index.php?title=layer&action=edit&section=8
+ 250. https://en.wiktionary.org/wiki/layers#English
+ 251. https://en.wiktionary.org/wiki/layering#English
+ 252. https://en.wiktionary.org/wiki/layered#English
+ 253. https://en.wiktionary.org/wiki/transitive
+ 254. https://en.wiktionary.org/wiki/intransitive
+ 255. https://en.wiktionary.org/wiki/cut
+ 256. https://en.wiktionary.org/wiki/divide
+ 257. https://en.wiktionary.org/wiki/transitive
+ 258. https://en.wiktionary.org/wiki/intransitive
+ 259. https://en.wiktionary.org/w/index.php?title=layer&action=edit&section=9
+ 260. https://en.wiktionary.org/wiki/trennen#German
+ 261. https://de.wiktionary.org/wiki/trennen
+ 262. https://en.wiktionary.org/wiki/spalten#German
+ 263. https://de.wiktionary.org/wiki/spalten
+ 264. https://en.wiktionary.org/w/index.php?title=καταβολεύω&action=edit&redlink=1
+ 265. https://el.wiktionary.org/wiki/καταβολεύω
+ 266. https://en.wiktionary.org/w/index.php?title=раслојува&action=edit&redlink=1
+ 267. https://en.wiktionary.org/w/index.php?title=расслаивать&action=edit&redlink=1
+ 268. https://ru.wiktionary.org/wiki/расслаивать
+ 269. https://en.wiktionary.org/w/index.php?title=расслоить&action=edit&redlink=1
+ 270. https://ru.wiktionary.org/wiki/расслоить
+ 271. https://en.wiktionary.org/wiki/kerrostaa#Finnish
+ 272. https://en.wiktionary.org/wiki/pinota#Finnish
+ 273. https://fi.wiktionary.org/wiki/pinota
+ 274. https://en.wiktionary.org/wiki/schichten#German
+ 275. https://de.wiktionary.org/wiki/schichten
+ 276. https://en.wiktionary.org/w/index.php?title=übereinanderlegen&action=edit&redlink=1
+ 277. https://en.wiktionary.org/w/index.php?title=наслојува&action=edit&redlink=1
+ 278. https://en.wiktionary.org/w/index.php?title=tāpatupatu&action=edit&redlink=1
+ 279. https://en.wiktionary.org/w/index.php?title=whakamātā&action=edit&redlink=1
+ 280. https://en.wiktionary.org/wiki/whakapapa#Maori
+ 281. https://en.wiktionary.org/w/index.php?title=układać&action=edit&redlink=1
+ 282. https://en.wiktionary.org/wiki/warstwa#Polish
+ 283. https://en.wiktionary.org/w/index.php?title=наслаивать&action=edit&redlink=1
+ 284. https://ru.wiktionary.org/wiki/наслаивать
+ 285. https://en.wiktionary.org/w/index.php?title=наслоить&action=edit&redlink=1
+ 286. https://ru.wiktionary.org/wiki/наслоить
+ 287. https://en.wiktionary.org/wiki/Wiktionary:Translations#Translations_to_be_checked
+ 288. https://en.wiktionary.org/wiki/tabaka#Turkish
+ 289. https://tr.wiktionary.org/wiki/tabaka
+ 290. https://en.wiktionary.org/w/index.php?title=layer&action=edit&section=10
+ 291. https://en.wiktionary.org/wiki/lay#English
+ 292. https://en.wiktionary.org/wiki/-er#English
+ 293. https://en.wiktionary.org/w/index.php?title=layer&action=edit&section=11
+ 294. https://en.wiktionary.org/wiki/layers#English
+ 295. https://en.wiktionary.org/wiki/lay
+ 296. https://en.wiktionary.org/wiki/tile
+ 297. https://en.wiktionary.org/wiki/mature
+ 298. https://en.wiktionary.org/wiki/female
+ 299. https://en.wiktionary.org/wiki/bird
+ 300. https://en.wiktionary.org/wiki/insect
+ 301. https://en.wiktionary.org/wiki/egg
+ 302. https://en.wiktionary.org/wiki/hen
+ 303. https://en.wiktionary.org/wiki/egg
+ 304. https://en.wiktionary.org/w/index.php?title=layer&action=edit&section=12
+ 305. https://en.wiktionary.org/wiki/tracklayer
+ 306. https://en.wiktionary.org/w/index.php?title=layer&action=edit&section=13
+ 307. http://www.websters1913.com/words/Layer
+ 308. https://en.wiktionary.org/wiki/Wiktionary:Webster's_Dictionary,_1913
+ 309. http://triggs.djvu.org/century-dictionary.com/nph-chw.php?query=layer&type=dicts
+ 310. https://en.wiktionary.org/w/index.php?title=layer&action=edit&section=14
+ 311. https://en.wiktionary.org/wiki/early#English
+ 312. https://en.wiktionary.org/wiki/relay#English
+ 313. https://en.wiktionary.org/wiki/re-lay#English
+ 314. https://en.wiktionary.org/w/index.php?title=layer&oldid=42885560
+ 315. https://en.wiktionary.org/wiki/Special:Categories
+ 316. https://en.wiktionary.org/wiki/Category:English_2-syllable_words
+ 317. https://en.wiktionary.org/wiki/Category:English_1-syllable_words
+ 318. https://en.wiktionary.org/wiki/Category:English_terms_with_IPA_pronunciation
+ 319. https://en.wiktionary.org/wiki/Category:English_terms_with_audio_links
+ 320. https://en.wiktionary.org/wiki/Category:English_terms_derived_from_the_PIE_root_*legʰ-
+ 321. https://en.wiktionary.org/wiki/Category:English_terms_derived_from_Middle_English
+ 322. https://en.wiktionary.org/wiki/Category:English_words_suffixed_with_-er
+ 323. https://en.wiktionary.org/wiki/Category:English_lemmas
+ 324. https://en.wiktionary.org/wiki/Category:English_nouns
+ 325. https://en.wiktionary.org/wiki/Category:English_countable_nouns
+ 326. https://en.wiktionary.org/wiki/Category:English_verbs
+ 327. https://en.wiktionary.org/wiki/Category:English_transitive_verbs
+ 328. https://en.wiktionary.org/wiki/Category:English_intransitive_verbs
+ 329. https://en.wiktionary.org/wiki/Category:en:Poultry
+ 330. https://en.wiktionary.org/wiki/Category:etyl_cleanup/en
+ 331. https://en.wiktionary.org/wiki/Category:Requests_for_translations_into_Bengali
+ 332. https://en.wiktionary.org/wiki/Category:Requests_for_review_of_Mandarin_translations
+ 333. https://en.wiktionary.org/wiki/Category:Terms_with_redundant_transliterations
+ 334. https://en.wiktionary.org/wiki/Category:Terms_with_redundant_transliterations/sa
+ 335. https://en.wiktionary.org/wiki/Category:Finnish_redlinks
+ 336. https://en.wiktionary.org/wiki/Category:Finnish_redlinks/t
+ 337. https://en.wiktionary.org/wiki/Category:Portuguese_redlinks
+ 338. https://en.wiktionary.org/wiki/Category:Portuguese_redlinks/t
+ 339. https://en.wiktionary.org/wiki/Category:Russian_redlinks
+ 340. https://en.wiktionary.org/wiki/Category:Russian_redlinks/t+
+ 341. https://en.wiktionary.org/wiki/Category:Spanish_redlinks
+ 342. https://en.wiktionary.org/wiki/Category:Spanish_redlinks/t
+ 343. https://en.wiktionary.org/wiki/Category:Telugu_redlinks
+ 344. https://en.wiktionary.org/wiki/Category:Telugu_redlinks/t
+ 345. https://en.wiktionary.org/wiki/Category:Requests_for_review_of_Turkish_translations
+ 346. https://en.wiktionary.org/wiki/Special:MyTalk
+ 347. https://en.wiktionary.org/wiki/Special:MyContributions
+ 348. https://en.wiktionary.org/w/index.php?title=Special:CreateAccount&returnto=layer
+ 349. https://en.wiktionary.org/w/index.php?title=Special:UserLogin&returnto=layer
+ 350. https://en.wiktionary.org/wiki/layer
+ 351. https://en.wiktionary.org/wiki/Talk:layer
+ 352. https://en.wiktionary.org/wiki/layer
+ 353. https://en.wiktionary.org/w/index.php?title=layer&action=edit
+ 354. https://en.wiktionary.org/w/index.php?title=layer&action=history
+ 355. form field = text entry field
+ 356. form field = submit button
+ 357. form field = submit button
+ 358. https://en.wiktionary.org/wiki/Wiktionary:Main_Page
+ 359. https://en.wiktionary.org/wiki/Wiktionary:Community_portal
+ 360. https://en.wiktionary.org/wiki/Wiktionary:Per-browser_preferences
+ 361. https://en.wiktionary.org/wiki/Wiktionary:Requested_entries
+ 362. https://en.wiktionary.org/wiki/Special:RecentChanges
+ 363. https://en.wiktionary.org/wiki/Special:Random
+ 364. https://en.wiktionary.org/wiki/Help:Contents
+ 365. https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&utm_medium=sidebar&utm_campaign=C13_en.wiktionary.org&uselang=en
+ 366. https://en.wiktionary.org/wiki/Wiktionary:Contact_us
+ 367. https://en.wiktionary.org/wiki/Special:WhatLinksHere/layer
+ 368. https://en.wiktionary.org/wiki/Special:RecentChangesLinked/layer
+ 369. https://commons.wikimedia.org/wiki/Special:UploadWizard?uselang=en
+ 370. https://en.wiktionary.org/wiki/Special:SpecialPages
+ 371. https://en.wiktionary.org/w/index.php?title=layer&oldid=42885560
+ 372. https://en.wiktionary.org/w/index.php?title=layer&action=info
+ 373. https://en.wiktionary.org/w/index.php?title=Special:CiteThisPage&page=layer&id=42885560
+ 374. https://ar.wiktionary.org/wiki/layer
+ 375. https://bg.wiktionary.org/wiki/layer
+ 376. https://ca.wiktionary.org/wiki/layer
+ 377. https://cs.wiktionary.org/wiki/layer
+ 378. https://cy.wiktionary.org/wiki/layer
+ 379. https://de.wiktionary.org/wiki/layer
+ 380. https://et.wiktionary.org/wiki/layer
+ 381. https://el.wiktionary.org/wiki/layer
+ 382. https://fa.wiktionary.org/wiki/layer
+ 383. https://fr.wiktionary.org/wiki/layer
+ 384. https://ko.wiktionary.org/wiki/layer
+ 385. https://hy.wiktionary.org/wiki/layer
+ 386. https://io.wiktionary.org/wiki/layer
+ 387. https://id.wiktionary.org/wiki/layer
+ 388. https://it.wiktionary.org/wiki/layer
+ 389. https://kn.wiktionary.org/wiki/layer
+ 390. https://kk.wiktionary.org/wiki/layer
+ 391. https://ku.wiktionary.org/wiki/layer
+ 392. https://lo.wiktionary.org/wiki/layer
+ 393. https://hu.wiktionary.org/wiki/layer
+ 394. https://mg.wiktionary.org/wiki/layer
+ 395. https://ml.wiktionary.org/wiki/layer
+ 396. https://my.wiktionary.org/wiki/layer
+ 397. https://ja.wiktionary.org/wiki/layer
+ 398. https://no.wiktionary.org/wiki/layer
+ 399. https://pl.wiktionary.org/wiki/layer
+ 400. https://pt.wiktionary.org/wiki/layer
+ 401. https://ru.wiktionary.org/wiki/layer
+ 402. https://simple.wiktionary.org/wiki/layer
+ 403. https://fi.wiktionary.org/wiki/layer
+ 404. https://sv.wiktionary.org/wiki/layer
+ 405. https://ta.wiktionary.org/wiki/layer
+ 406. https://te.wiktionary.org/wiki/layer
+ 407. https://tr.wiktionary.org/wiki/layer
+ 408. https://vi.wiktionary.org/wiki/layer
+ 409. https://zh.wiktionary.org/wiki/layer
+ 410. https://en.wiktionary.org/w/index.php?title=Special:Book&bookcmd=book_creator&referer=layer
+ 411. https://en.wiktionary.org/w/index.php?title=Special:Book&bookcmd=render_article&arttitle=layer&returnto=layer&oldid=42885560&writer=rdf2latex
+ 412. https://en.wiktionary.org/w/index.php?title=layer&printable=yes
+ 413. https://creativecommons.org/licenses/by-sa/3.0/
+ 414. https://wikimediafoundation.org/wiki/Terms_of_Use
+ 415. https://wikimediafoundation.org/wiki/Privacy_policy
+ 416. https://wikimediafoundation.org/wiki/Privacy_policy
+ 417. https://en.wiktionary.org/wiki/Wiktionary:About
+ 418. https://en.wiktionary.org/wiki/Wiktionary:General_disclaimer
+ 419. https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute
+ 420. https://wikimediafoundation.org/wiki/Cookie_statement
+ 421. https://en.m.wiktionary.org/w/index.php?title=layer&mobileaction=toggle_view_mobile
+ 422. https://wikimediafoundation.org/
+ 423. https://www.mediawiki.org/
+
+   Hidden links:
+ 425. https://en.wiktionary.org/wiki/layer
+ 426. https://en.wiktionary.org/wiki/layer
+ 427. https://en.wiktionary.org/wiki/Wiktionary:Main_Page

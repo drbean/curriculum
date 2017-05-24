@@ -1,0 +1,734 @@
+   #[1]Edit [2]Wiktionary (en) [3]copyright [4]Wiktionary Atom feed
+
+coordinate
+
+   Definition from Wiktionary, the free dictionary
+   Jump to: [5]navigation, [6]search
+   See also: [7]coördinate and [8]co-ordinate
+
+Contents
+
+     * [9]1 English
+          + [10]1.1 Alternative forms
+          + [11]1.2 Etymology
+          + [12]1.3 Pronunciation
+          + [13]1.4 Adjective
+               o [14]1.4.1 Usage notes
+          + [15]1.5 Noun
+               o [16]1.5.1 Related terms
+               o [17]1.5.2 Translations
+          + [18]1.6 Verb
+               o [19]1.6.1 Derived terms
+               o [20]1.6.2 Translations
+          + [21]1.7 See also
+          + [22]1.8 Further reading
+          + [23]1.9 Anagrams
+     * [24]2 Italian
+          + [25]2.1 Adjective
+          + [26]2.2 Noun
+          + [27]2.3 Verb
+
+English[[28]edit]
+
+   [29]Wikipedia has articles on:
+   [30]Coordinate system and [31]Coordination
+   [32]Wikipedia [33]Wikipedia
+
+Alternative forms[[34]edit]
+
+     * [35]coördinate
+     * [36]co-ordinate
+
+Etymology[[37]edit]
+
+   From [38]Medieval Latin [39]coordinatus, past participle of
+   [40]coordinare (“arrange together”), from [41]Latin [42]co-
+   (“together”) + [43]ordinare (“arrange”). See [44]ordain and
+   [45]ordinate.
+
+Pronunciation[[46]edit]
+
+     * Noun, adjective
+          + ([47]Canada) [48]IPA^([49]key): /koʊˈɔɹdənət/
+          + ([50]US) [51]IPA^([52]key): /koʊˈɔɹdənɪt/, /ˈkɔɹdənɪt/
+     *
+
+       Audio (US)
+
+       ([53]file)
+     * Verb
+          + ([54]Canada) [55]IPA^([56]key): /koʊˈɔɹdəˌneɪt/
+          + ([57]US) [58]IPA^([59]key): /koʊˈɔɹdəˌneɪt/, /ˈkɔɹdəˌneɪt/
+     *
+
+       Audio (US)
+
+       ([60]file)
+
+Adjective[[61]edit]
+
+   coordinate (not [62]comparable)
+    1. Of the same rank; [63]equal.
+          + Law
+
+                      whether there was one Supreme Governor of the world,
+                      or many co-ordinate powers presiding over each
+                      country
+
+Usage notes[[64]edit]
+
+   The usual pronunciation of ‘oo’ is /uː/ or /ʊ/. The [65]dieresis in the
+   spelling [66]coördinate emphasizes that the second o begins a separate
+   syllable. However, the dieresis is becoming increasingly rare in US
+   English typography, so the spelling coordinate predominates.
+
+Noun[[67]edit]
+
+   coordinate (plural [68]coordinates)
+    1. ([69]mathematics, cartography) A [70]number representing the
+       [71]position of a [72]point along a [73]line, [74]arc, or similar
+       one-dimensional figure.
+    2. Something that is equal to another thing.
+          + 1851, John C. Calhoun, A Discourse on the Constitution and
+            Government of the United States^[75]Wikisource:
+
+                      These are coordinates; because each, in the sphere
+                      of its powers, is equal to, and independent of the
+                      others; and because the three united make the
+                      government.
+
+    3. (humorous, in the [76]plural) Coordinated [77]clothes.
+
+Related terms[[78]edit]
+
+     * [79]axis
+
+Translations[[80]edit]
+
+   (mathematics, cartography) A number representing the position of a
+   point along a line, arc, or similar one-dimensional figure․
+     * Arabic: [81]تَنْسِيق m (tansīq)
+     * Armenian: [82]կոորդինատ [83](hy) (koordinat)
+     * Bulgarian: [84]координата f (koordináta)
+     * Chinese:
+
+                Mandarin: [85]坐標 [86](zh), [87]坐标 [88](zh) (zuòbiāo)
+
+     * Czech: [89]souřadnice f
+     * Danish: [90]koordinat [91](da) n
+     * Dutch: [92]coördinaat [93](nl) m
+     * Esperanto: [94]koordinato
+     * Finnish: [95]koordinaatti [96](fi)
+     * French: [97]coordonnée [98](fr) f
+     * Georgian: [99]კოორდინატი (ḳoordinaṭi)
+     * German: [100]Koordinate [101](de) f
+     * Greek: [102]συντεταγμένη [103](el) f (syntetagméni)
+     * Hungarian: [104]koordináta [105](hu)
+
+     * Irish: [106]comhordán
+     * Italian: [107]coordinata [108](it) f
+     * Japanese: [109]座標 [110](ja) (ざひょう, zahyō)
+     * Korean: [111]좌표 [112](ko) (jwapyo) ([113]座標 [114](ko))
+     * Polish: [115]współrzędna f
+     * Portuguese: [116]coordenada [117](pt) f
+     * Romanian: [118]coordonată [119](ro) f, [120]coordonate f pl
+     * Russian: [121]координа́та [122](ru) f (koordináta)
+     * Scottish Gaelic: [123]co-chomharra m
+     * Spanish: [124]coordenada [125](es) f
+     * Swedish: [126]koordinat [127](sv) c
+     * Tagalog: [128]katayuwat
+     * Turkish: [129]kordinat [130](tr)
+     * Vietnamese: [131]tọa độ [132](vi)
+
+   coordinated clothes
+     * French ^(please [133]verify) [134]coordonnées [135](fr) f pl
+
+     * Italian ^(please [136]verify) [137]coordinati [138](it) m pl
+
+Verb[[139]edit]
+
+   coordinate (third-person singular simple present [140]coordinates,
+   present participle [141]coordinating, simple past and past participle
+   [142]coordinated)
+    1. ([143]transitive) To [144]synchronize (activities).
+    2. ([145]transitive) To [146]match (objects, especially clothes).
+
+Derived terms[[147]edit]
+
+     * [148]coordination, [149]co-ordination
+     * [150]coordinator, [151]co-ordinator
+     * [152]coordinatize
+
+Translations[[153]edit]
+
+   to synchronize
+     * Armenian: [154]համաձայնեցնել [155](hy) (hamajaynecʿnel),
+       [156]համակարգել [157](hy) (hamakargel), [158]կոորդինացնել [159](hy)
+       (koordinacʿnel)
+     * Bulgarian: [160]съгласувам [161](bg) (sǎglasuvam),
+       [162]координирам [163](bg) (koordiniram)
+     * Czech: [164]koordinovat
+     * Danish: [165]koordinere
+     * Dutch: [166]coördineren [167](nl)
+     * Finnish: [168]koordinoida
+     * French: [169]coordonner [170](fr)
+     * Georgian: [171]კოორდინაცია (ḳoordinacia)
+     * German: [172]koordinieren [173](de)
+
+     * Italian: [174]coordinare [175](it)
+     * Korean: [176]조화시키다 (johwasikida)
+     * Persian: [177]هماهنگ کردن (hamâhang kardan)
+     * Portuguese: [178]coordenar [179](pt)
+     * Romanian: [180]coordona [181](ro)
+     * Russian: [182]координи́ровать [183](ru) impf (koordinírovatʹ)
+     * Scottish Gaelic: [184]co-òrdaich
+     * Spanish: [185]coordinar [186](es)
+     * Swedish: [187]koordinera [188](sv)
+
+   to match
+     * Armenian: [189]համաձայնեցնել [190](hy) (hamajaynecʿnel)
+     * Dutch: [191]doen bijeen passen, [192]zorgen dat het bijeenpast
+     * Finnish: [193]koordinoida, [194]sovittaa yhteen
+     * French: [195]coordonner [196](fr)
+
+     * Korean: [197]맞추다 [198](ko) (matchuda), [199]맞게 [200]하다 (matge hada)
+     * Russian: [201]согласо́вывать [202](ru) impf (soglasóvyvatʹ),
+       [203]согласова́ть [204](ru) pf (soglasovátʹ)
+     * Spanish: [205]coordinar [206](es)
+
+See also[[207]edit]
+
+     * [208]coordinately, [209]coördinately
+     * [210]coordinateness, [211]coördinateness
+     * [212]coordinative, [213]coördinative
+     * [214]uncoordinated, [215]uncoördinated
+
+Further reading[[216]edit]
+
+     * [217]coordinate in [218]Webster’s Revised Unabridged Dictionary, G.
+       & C. Merriam, 1913
+     * [219]coordinate in The Century Dictionary, The Century Co., New
+       York, 1911
+
+Anagrams[[220]edit]
+
+     * [221]carotenoid
+     * [222]decoration
+     __________________________________________________________________
+
+Italian[[223]edit]
+
+Adjective[[224]edit]
+
+   coordinate
+    1. [225]feminine [226]plural of [227]coordinato
+
+Noun[[228]edit]
+
+   coordinate f
+    1. [229]plural of [230]coordinata
+
+Verb[[231]edit]
+
+   coordinate
+    1. [232]second-person [233]plural [234]present [235]indicative of
+       [236]coordinare
+    2. [237]second-person [238]plural [239]imperative of [240]coordinare
+    3. [241]feminine [242]plural of [243]coordinato
+
+   Retrieved from
+   "[244]https://en.wiktionary.org/w/index.php?title=coordinate&oldid=4288
+   4391"
+   [245]Categories:
+     * [246]English terms derived from Medieval Latin
+     * [247]English terms derived from Latin
+     * [248]English 4-syllable words
+     * [249]English terms with IPA pronunciation
+     * [250]English 3-syllable words
+     * [251]English terms with audio links
+     * [252]English lemmas
+     * [253]English adjectives
+     * [254]English uncomparable adjectives
+     * [255]English nouns
+     * [256]English countable nouns
+     * [257]en:Mathematics
+     * [258]en:Cartography
+     * [259]English jocular terms
+     * [260]English verbs
+     * [261]English transitive verbs
+     * [262]Italian non-lemma forms
+     * [263]Italian adjective forms
+     * [264]Italian noun plural forms
+     * [265]Italian verb forms
+     * [266]Italian past participle forms
+
+   Hidden categories:
+     * [267]etyl cleanup/en
+     * [268]Terms with manual transliterations different from the
+       automated ones
+     * [269]Terms with manual transliterations different from the
+       automated ones/bg
+     * [270]Requests for review of French translations
+     * [271]Requests for review of Italian translations
+     * [272]Terms with redundant transliterations
+     * [273]Terms with redundant transliterations/ko
+     * [274]Finnish redlinks
+     * [275]Finnish redlinks/t
+
+Navigation menu
+
+Personal tools
+
+     * Not logged in
+     * [276]Talk
+     * [277]Contributions
+     * [278]Create account
+     * [279]Log in
+
+Namespaces
+
+     * [280]Entry
+     * [281]Discussion
+
+Variants
+
+Views
+
+     * [282]Read
+     * [283]Edit
+     * [284]History
+
+More
+
+Search
+
+   [285]____________________ [286]Search [287]Go
+
+Navigation
+
+     * [288]Main Page
+     * [289]Community portal
+     * [290]Preferences
+     * [291]Requested entries
+     * [292]Recent changes
+     * [293]Random entry
+     * [294]Help
+     * [295]Donations
+     * [296]Contact us
+
+Tools
+
+     * [297]What links here
+     * [298]Related changes
+     * [299]Upload file
+     * [300]Special pages
+     * [301]Permanent link
+     * [302]Page information
+     * [303]Cite this page
+
+In other languages
+
+     * [304]العربية
+     * [305]Čeština
+     * [306]Eesti
+     * [307]Ελληνικά
+     * [308]Español
+     * [309]Français
+     * [310]한국어
+     * [311]Ido
+     * [312]Italiano
+     * [313]ಕನ್ನಡ
+     * [314]Қазақша
+     * [315]Kurdî
+     * [316]Magyar
+     * [317]Malagasy
+     * [318]മലയാളം
+     * [319]မြန်မာဘာသာ
+     * [320]Nederlands
+     * [321]Norsk bokmål
+     * [322]Polski
+     * [323]Русский
+     * [324]Simple English
+     * [325]Suomi
+     * [326]Svenska
+     * [327]தமிழ்
+     * [328]ᏣᎳᎩ
+     * [329]Türkçe
+     * [330]Tiếng Việt
+     * [331]中文
+
+Print/export
+
+     * [332]Create a book
+     * [333]Download as PDF
+     * [334]Printable version
+
+     * This page was last edited on 12 May 2017, at 20:36.
+     * Text is available under the [335]Creative Commons
+       Attribution-ShareAlike License; additional terms may apply. By
+       using this site, you agree to the [336]Terms of Use and
+       [337]Privacy Policy.
+
+     * [338]Privacy policy
+     * [339]About Wiktionary
+     * [340]Disclaimers
+     * [341]Developers
+     * [342]Cookie statement
+     * [343]Mobile view
+
+     * [344]Wikimedia Foundation
+     * [345]Powered by MediaWiki
+
+References
+
+   Visible links
+   1. https://en.wiktionary.org/w/index.php?title=coordinate&action=edit
+   2. https://en.wiktionary.org/w/opensearch_desc.php
+   3. https://creativecommons.org/licenses/by-sa/3.0/
+   4. https://en.wiktionary.org/w/index.php?title=Special:RecentChanges&feed=atom
+   5. https://en.wiktionary.org/wiki/coordinate#mw-head
+   6. https://en.wiktionary.org/wiki/coordinate#p-search
+   7. https://en.wiktionary.org/wiki/coördinate
+   8. https://en.wiktionary.org/wiki/co-ordinate
+   9. https://en.wiktionary.org/wiki/coordinate#English
+  10. https://en.wiktionary.org/wiki/coordinate#Alternative_forms
+  11. https://en.wiktionary.org/wiki/coordinate#Etymology
+  12. https://en.wiktionary.org/wiki/coordinate#Pronunciation
+  13. https://en.wiktionary.org/wiki/coordinate#Adjective
+  14. https://en.wiktionary.org/wiki/coordinate#Usage_notes
+  15. https://en.wiktionary.org/wiki/coordinate#Noun
+  16. https://en.wiktionary.org/wiki/coordinate#Related_terms
+  17. https://en.wiktionary.org/wiki/coordinate#Translations
+  18. https://en.wiktionary.org/wiki/coordinate#Verb
+  19. https://en.wiktionary.org/wiki/coordinate#Derived_terms
+  20. https://en.wiktionary.org/wiki/coordinate#Translations_2
+  21. https://en.wiktionary.org/wiki/coordinate#See_also
+  22. https://en.wiktionary.org/wiki/coordinate#Further_reading
+  23. https://en.wiktionary.org/wiki/coordinate#Anagrams
+  24. https://en.wiktionary.org/wiki/coordinate#Italian
+  25. https://en.wiktionary.org/wiki/coordinate#Adjective_2
+  26. https://en.wiktionary.org/wiki/coordinate#Noun_2
+  27. https://en.wiktionary.org/wiki/coordinate#Verb_2
+  28. https://en.wiktionary.org/w/index.php?title=coordinate&action=edit&section=1
+  29. https://en.wiktionary.org/wiki/Wikipedia
+  30. https://en.wikipedia.org/wiki/Coordinate_system
+  31. https://en.wikipedia.org/wiki/Coordination
+  32. https://en.wikipedia.org/wiki/Coordinate_system
+  33. https://en.wikipedia.org/wiki/Coordination
+  34. https://en.wiktionary.org/w/index.php?title=coordinate&action=edit&section=2
+  35. https://en.wiktionary.org/wiki/coördinate#English
+  36. https://en.wiktionary.org/wiki/co-ordinate#English
+  37. https://en.wiktionary.org/w/index.php?title=coordinate&action=edit&section=3
+  38. https://en.wikipedia.org/wiki/Medieval_Latin
+  39. https://en.wiktionary.org/w/index.php?title=coordinatus&action=edit&redlink=1
+  40. https://en.wiktionary.org/wiki/coordinare#Latin
+  41. https://en.wikipedia.org/wiki/Latin_language
+  42. https://en.wiktionary.org/wiki/co-#Latin
+  43. https://en.wiktionary.org/wiki/ordinare#Latin
+  44. https://en.wiktionary.org/wiki/ordain
+  45. https://en.wiktionary.org/wiki/ordinate
+  46. https://en.wiktionary.org/w/index.php?title=coordinate&action=edit&section=4
+  47. https://en.wikipedia.org/wiki/Canadian_English
+  48. https://en.wiktionary.org/wiki/Wiktionary:International_Phonetic_Alphabet
+  49. https://en.wiktionary.org/wiki/Appendix:English_pronunciation
+  50. https://en.wikipedia.org/wiki/American_English
+  51. https://en.wiktionary.org/wiki/Wiktionary:International_Phonetic_Alphabet
+  52. https://en.wiktionary.org/wiki/Appendix:English_pronunciation
+  53. https://en.wiktionary.org/wiki/File:en-us-coordinate-noun.ogg
+  54. https://en.wikipedia.org/wiki/Canadian_English
+  55. https://en.wiktionary.org/wiki/Wiktionary:International_Phonetic_Alphabet
+  56. https://en.wiktionary.org/wiki/Appendix:English_pronunciation
+  57. https://en.wikipedia.org/wiki/American_English
+  58. https://en.wiktionary.org/wiki/Wiktionary:International_Phonetic_Alphabet
+  59. https://en.wiktionary.org/wiki/Appendix:English_pronunciation
+  60. https://en.wiktionary.org/wiki/File:en-us-coordinate.ogg
+  61. https://en.wiktionary.org/w/index.php?title=coordinate&action=edit&section=5
+  62. https://en.wiktionary.org/wiki/Appendix:Glossary#comparable
+  63. https://en.wiktionary.org/wiki/equal
+  64. https://en.wiktionary.org/w/index.php?title=coordinate&action=edit&section=6
+  65. https://en.wiktionary.org/wiki/dieresis
+  66. https://en.wiktionary.org/wiki/coördinate
+  67. https://en.wiktionary.org/w/index.php?title=coordinate&action=edit&section=7
+  68. https://en.wiktionary.org/wiki/coordinates#English
+  69. https://en.wiktionary.org/wiki/mathematics
+  70. https://en.wiktionary.org/wiki/number
+  71. https://en.wiktionary.org/wiki/position
+  72. https://en.wiktionary.org/wiki/point
+  73. https://en.wiktionary.org/wiki/line
+  74. https://en.wiktionary.org/wiki/arc
+  75. https://en.wikisource.org/wiki/A_Discourse_on_the_Constitution_and_Government_of_the_United_States
+  76. https://en.wiktionary.org/wiki/plural
+  77. https://en.wiktionary.org/wiki/clothes
+  78. https://en.wiktionary.org/w/index.php?title=coordinate&action=edit&section=8
+  79. https://en.wiktionary.org/wiki/axis#English
+  80. https://en.wiktionary.org/w/index.php?title=coordinate&action=edit&section=9
+  81. https://en.wiktionary.org/w/index.php?title=تنسيق&action=edit&redlink=1
+  82. https://en.wiktionary.org/w/index.php?title=կոորդինատ&action=edit&redlink=1
+  83. https://hy.wiktionary.org/wiki/կոորդինատ
+  84. https://en.wiktionary.org/wiki/координата#Bulgarian
+  85. https://en.wiktionary.org/wiki/坐標#Mandarin
+  86. https://zh.wiktionary.org/wiki/坐標
+  87. https://en.wiktionary.org/wiki/坐标#Mandarin
+  88. https://zh.wiktionary.org/wiki/坐标
+  89. https://en.wiktionary.org/wiki/souřadnice#Czech
+  90. https://en.wiktionary.org/wiki/koordinat#Danish
+  91. https://da.wiktionary.org/wiki/koordinat
+  92. https://en.wiktionary.org/wiki/coördinaat#Dutch
+  93. https://nl.wiktionary.org/wiki/coördinaat
+  94. https://en.wiktionary.org/wiki/koordinato#Esperanto
+  95. https://en.wiktionary.org/wiki/koordinaatti#Finnish
+  96. https://fi.wiktionary.org/wiki/koordinaatti
+  97. https://en.wiktionary.org/wiki/coordonnée#French
+  98. https://fr.wiktionary.org/wiki/coordonnée
+  99. https://en.wiktionary.org/wiki/კოორდინატი#Georgian
+ 100. https://en.wiktionary.org/wiki/Koordinate#German
+ 101. https://de.wiktionary.org/wiki/Koordinate
+ 102. https://en.wiktionary.org/wiki/συντεταγμένη#Greek
+ 103. https://el.wiktionary.org/wiki/συντεταγμένη
+ 104. https://en.wiktionary.org/wiki/koordináta#Hungarian
+ 105. https://hu.wiktionary.org/wiki/koordináta
+ 106. https://en.wiktionary.org/w/index.php?title=comhordán&action=edit&redlink=1
+ 107. https://en.wiktionary.org/wiki/coordinata#Italian
+ 108. https://it.wiktionary.org/wiki/coordinata
+ 109. https://en.wiktionary.org/wiki/座標#Japanese
+ 110. https://ja.wiktionary.org/wiki/座標
+ 111. https://en.wiktionary.org/w/index.php?title=좌표&action=edit&redlink=1
+ 112. https://ko.wiktionary.org/wiki/좌표
+ 113. https://en.wiktionary.org/wiki/座標#Korean
+ 114. https://ko.wiktionary.org/wiki/座標
+ 115. https://en.wiktionary.org/w/index.php?title=współrzędna&action=edit&redlink=1
+ 116. https://en.wiktionary.org/wiki/coordenada#Portuguese
+ 117. https://pt.wiktionary.org/wiki/coordenada
+ 118. https://en.wiktionary.org/w/index.php?title=coordonată&action=edit&redlink=1
+ 119. https://ro.wiktionary.org/wiki/coordonată
+ 120. https://en.wiktionary.org/w/index.php?title=coordonate&action=edit&redlink=1
+ 121. https://en.wiktionary.org/wiki/координата#Russian
+ 122. https://ru.wiktionary.org/wiki/координата
+ 123. https://en.wiktionary.org/wiki/co-chomharra#Scottish_Gaelic
+ 124. https://en.wiktionary.org/wiki/coordenada#Spanish
+ 125. https://es.wiktionary.org/wiki/coordenada
+ 126. https://en.wiktionary.org/wiki/koordinat#Swedish
+ 127. https://sv.wiktionary.org/wiki/koordinat
+ 128. https://en.wiktionary.org/w/index.php?title=katayuwat&action=edit&redlink=1
+ 129. https://en.wiktionary.org/w/index.php?title=kordinat&action=edit&redlink=1
+ 130. https://tr.wiktionary.org/wiki/kordinat
+ 131. https://en.wiktionary.org/w/index.php?title=tọa_độ&action=edit&redlink=1
+ 132. https://vi.wiktionary.org/wiki/tọa_độ
+ 133. https://en.wiktionary.org/wiki/Wiktionary:Translations#Translations_to_be_checked
+ 134. https://en.wiktionary.org/wiki/coordonnées#French
+ 135. https://fr.wiktionary.org/wiki/coordonnées
+ 136. https://en.wiktionary.org/wiki/Wiktionary:Translations#Translations_to_be_checked
+ 137. https://en.wiktionary.org/wiki/coordinati#Italian
+ 138. https://it.wiktionary.org/wiki/coordinati
+ 139. https://en.wiktionary.org/w/index.php?title=coordinate&action=edit&section=10
+ 140. https://en.wiktionary.org/wiki/coordinates#English
+ 141. https://en.wiktionary.org/wiki/coordinating#English
+ 142. https://en.wiktionary.org/wiki/coordinated#English
+ 143. https://en.wiktionary.org/wiki/Appendix:Glossary#transitive
+ 144. https://en.wiktionary.org/wiki/synchronize
+ 145. https://en.wiktionary.org/wiki/Appendix:Glossary#transitive
+ 146. https://en.wiktionary.org/wiki/match
+ 147. https://en.wiktionary.org/w/index.php?title=coordinate&action=edit&section=11
+ 148. https://en.wiktionary.org/wiki/coordination#English
+ 149. https://en.wiktionary.org/wiki/co-ordination#English
+ 150. https://en.wiktionary.org/wiki/coordinator#English
+ 151. https://en.wiktionary.org/wiki/co-ordinator#English
+ 152. https://en.wiktionary.org/wiki/coordinatize#English
+ 153. https://en.wiktionary.org/w/index.php?title=coordinate&action=edit&section=12
+ 154. https://en.wiktionary.org/w/index.php?title=համաձայնեցնել&action=edit&redlink=1
+ 155. https://hy.wiktionary.org/wiki/համաձայնեցնել
+ 156. https://en.wiktionary.org/wiki/համակարգել#Armenian
+ 157. https://hy.wiktionary.org/wiki/համակարգել
+ 158. https://en.wiktionary.org/w/index.php?title=կոորդինացնել&action=edit&redlink=1
+ 159. https://hy.wiktionary.org/wiki/կոորդինացնել
+ 160. https://en.wiktionary.org/w/index.php?title=съгласувам&action=edit&redlink=1
+ 161. https://bg.wiktionary.org/wiki/съгласувам
+ 162. https://en.wiktionary.org/w/index.php?title=координирам&action=edit&redlink=1
+ 163. https://bg.wiktionary.org/wiki/координирам
+ 164. https://en.wiktionary.org/wiki/koordinovat#Czech
+ 165. https://en.wiktionary.org/wiki/koordinere#Danish
+ 166. https://en.wiktionary.org/w/index.php?title=coördineren&action=edit&redlink=1
+ 167. https://nl.wiktionary.org/wiki/coördineren
+ 168. https://en.wiktionary.org/wiki/koordinoida#Finnish
+ 169. https://en.wiktionary.org/wiki/coordonner#French
+ 170. https://fr.wiktionary.org/wiki/coordonner
+ 171. https://en.wiktionary.org/wiki/კოორდინაცია#Georgian
+ 172. https://en.wiktionary.org/wiki/koordinieren#German
+ 173. https://de.wiktionary.org/wiki/koordinieren
+ 174. https://en.wiktionary.org/wiki/coordinare#Italian
+ 175. https://it.wiktionary.org/wiki/coordinare
+ 176. https://en.wiktionary.org/w/index.php?title=조화시키다&action=edit&redlink=1
+ 177. https://en.wiktionary.org/w/index.php?title=هماهنگ_کردن&action=edit&redlink=1
+ 178. https://en.wiktionary.org/wiki/coordenar#Portuguese
+ 179. https://pt.wiktionary.org/wiki/coordenar
+ 180. https://en.wiktionary.org/w/index.php?title=coordona&action=edit&redlink=1
+ 181. https://ro.wiktionary.org/wiki/coordona
+ 182. https://en.wiktionary.org/wiki/координировать#Russian
+ 183. https://ru.wiktionary.org/wiki/координировать
+ 184. https://en.wiktionary.org/wiki/co-òrdaich#Scottish_Gaelic
+ 185. https://en.wiktionary.org/wiki/coordinar#Spanish
+ 186. https://es.wiktionary.org/wiki/coordinar
+ 187. https://en.wiktionary.org/wiki/koordinera#Swedish
+ 188. https://sv.wiktionary.org/wiki/koordinera
+ 189. https://en.wiktionary.org/w/index.php?title=համաձայնեցնել&action=edit&redlink=1
+ 190. https://hy.wiktionary.org/wiki/համաձայնեցնել
+ 191. https://en.wiktionary.org/w/index.php?title=doen_bijeen_passen&action=edit&redlink=1
+ 192. https://en.wiktionary.org/w/index.php?title=zorgen_dat_het_bijeenpast&action=edit&redlink=1
+ 193. https://en.wiktionary.org/wiki/koordinoida#Finnish
+ 194. https://en.wiktionary.org/w/index.php?title=sovittaa_yhteen&action=edit&redlink=1
+ 195. https://en.wiktionary.org/wiki/coordonner#French
+ 196. https://fr.wiktionary.org/wiki/coordonner
+ 197. https://en.wiktionary.org/wiki/맞추다#Korean
+ 198. https://ko.wiktionary.org/wiki/맞추다
+ 199. https://en.wiktionary.org/w/index.php?title=맞게&action=edit&redlink=1
+ 200. https://en.wiktionary.org/wiki/하다
+ 201. https://en.wiktionary.org/wiki/согласовывать#Russian
+ 202. https://ru.wiktionary.org/wiki/согласовывать
+ 203. https://en.wiktionary.org/wiki/согласовать#Russian
+ 204. https://ru.wiktionary.org/wiki/согласовать
+ 205. https://en.wiktionary.org/wiki/coordinar#Spanish
+ 206. https://es.wiktionary.org/wiki/coordinar
+ 207. https://en.wiktionary.org/w/index.php?title=coordinate&action=edit&section=13
+ 208. https://en.wiktionary.org/wiki/coordinately#English
+ 209. https://en.wiktionary.org/wiki/coördinately#English
+ 210. https://en.wiktionary.org/wiki/coordinateness#English
+ 211. https://en.wiktionary.org/wiki/coördinateness#English
+ 212. https://en.wiktionary.org/wiki/coordinative#English
+ 213. https://en.wiktionary.org/wiki/coördinative#English
+ 214. https://en.wiktionary.org/wiki/uncoordinated#English
+ 215. https://en.wiktionary.org/wiki/uncoördinated#English
+ 216. https://en.wiktionary.org/w/index.php?title=coordinate&action=edit&section=14
+ 217. http://www.websters1913.com/words/Coordinate
+ 218. https://en.wiktionary.org/wiki/Wiktionary:Webster's_Dictionary,_1913
+ 219. http://triggs.djvu.org/century-dictionary.com/nph-chw.php?query=coordinate&type=dicts
+ 220. https://en.wiktionary.org/w/index.php?title=coordinate&action=edit&section=15
+ 221. https://en.wiktionary.org/wiki/carotenoid#English
+ 222. https://en.wiktionary.org/wiki/decoration#English
+ 223. https://en.wiktionary.org/w/index.php?title=coordinate&action=edit&section=16
+ 224. https://en.wiktionary.org/w/index.php?title=coordinate&action=edit&section=17
+ 225. https://en.wiktionary.org/wiki/Appendix:Glossary#gender
+ 226. https://en.wiktionary.org/wiki/Appendix:Glossary#plural_number
+ 227. https://en.wiktionary.org/wiki/coordinato#Italian
+ 228. https://en.wiktionary.org/w/index.php?title=coordinate&action=edit&section=18
+ 229. https://en.wiktionary.org/wiki/Appendix:Glossary#plural_number
+ 230. https://en.wiktionary.org/wiki/coordinata#Italian
+ 231. https://en.wiktionary.org/w/index.php?title=coordinate&action=edit&section=19
+ 232. https://en.wiktionary.org/wiki/Appendix:Glossary#second_person
+ 233. https://en.wiktionary.org/wiki/Appendix:Glossary#plural_number
+ 234. https://en.wiktionary.org/wiki/Appendix:Glossary#present_tense
+ 235. https://en.wiktionary.org/wiki/Appendix:Glossary#indicative_mood
+ 236. https://en.wiktionary.org/wiki/coordinare#Italian
+ 237. https://en.wiktionary.org/wiki/Appendix:Glossary#second_person
+ 238. https://en.wiktionary.org/wiki/Appendix:Glossary#plural_number
+ 239. https://en.wiktionary.org/wiki/Appendix:Glossary#imperative_mood
+ 240. https://en.wiktionary.org/wiki/coordinare#Italian
+ 241. https://en.wiktionary.org/wiki/Appendix:Glossary#gender
+ 242. https://en.wiktionary.org/wiki/Appendix:Glossary#plural_number
+ 243. https://en.wiktionary.org/wiki/coordinato#Italian
+ 244. https://en.wiktionary.org/w/index.php?title=coordinate&oldid=42884391
+ 245. https://en.wiktionary.org/wiki/Special:Categories
+ 246. https://en.wiktionary.org/wiki/Category:English_terms_derived_from_Medieval_Latin
+ 247. https://en.wiktionary.org/wiki/Category:English_terms_derived_from_Latin
+ 248. https://en.wiktionary.org/wiki/Category:English_4-syllable_words
+ 249. https://en.wiktionary.org/wiki/Category:English_terms_with_IPA_pronunciation
+ 250. https://en.wiktionary.org/wiki/Category:English_3-syllable_words
+ 251. https://en.wiktionary.org/wiki/Category:English_terms_with_audio_links
+ 252. https://en.wiktionary.org/wiki/Category:English_lemmas
+ 253. https://en.wiktionary.org/wiki/Category:English_adjectives
+ 254. https://en.wiktionary.org/wiki/Category:English_uncomparable_adjectives
+ 255. https://en.wiktionary.org/wiki/Category:English_nouns
+ 256. https://en.wiktionary.org/wiki/Category:English_countable_nouns
+ 257. https://en.wiktionary.org/wiki/Category:en:Mathematics
+ 258. https://en.wiktionary.org/wiki/Category:en:Cartography
+ 259. https://en.wiktionary.org/wiki/Category:English_jocular_terms
+ 260. https://en.wiktionary.org/wiki/Category:English_verbs
+ 261. https://en.wiktionary.org/wiki/Category:English_transitive_verbs
+ 262. https://en.wiktionary.org/wiki/Category:Italian_non-lemma_forms
+ 263. https://en.wiktionary.org/wiki/Category:Italian_adjective_forms
+ 264. https://en.wiktionary.org/wiki/Category:Italian_noun_plural_forms
+ 265. https://en.wiktionary.org/wiki/Category:Italian_verb_forms
+ 266. https://en.wiktionary.org/wiki/Category:Italian_past_participle_forms
+ 267. https://en.wiktionary.org/wiki/Category:etyl_cleanup/en
+ 268. https://en.wiktionary.org/wiki/Category:Terms_with_manual_transliterations_different_from_the_automated_ones
+ 269. https://en.wiktionary.org/wiki/Category:Terms_with_manual_transliterations_different_from_the_automated_ones/bg
+ 270. https://en.wiktionary.org/wiki/Category:Requests_for_review_of_French_translations
+ 271. https://en.wiktionary.org/wiki/Category:Requests_for_review_of_Italian_translations
+ 272. https://en.wiktionary.org/wiki/Category:Terms_with_redundant_transliterations
+ 273. https://en.wiktionary.org/wiki/Category:Terms_with_redundant_transliterations/ko
+ 274. https://en.wiktionary.org/wiki/Category:Finnish_redlinks
+ 275. https://en.wiktionary.org/wiki/Category:Finnish_redlinks/t
+ 276. https://en.wiktionary.org/wiki/Special:MyTalk
+ 277. https://en.wiktionary.org/wiki/Special:MyContributions
+ 278. https://en.wiktionary.org/w/index.php?title=Special:CreateAccount&returnto=coordinate
+ 279. https://en.wiktionary.org/w/index.php?title=Special:UserLogin&returnto=coordinate
+ 280. https://en.wiktionary.org/wiki/coordinate
+ 281. https://en.wiktionary.org/w/index.php?title=Talk:coordinate&action=edit&redlink=1
+ 282. https://en.wiktionary.org/wiki/coordinate
+ 283. https://en.wiktionary.org/w/index.php?title=coordinate&action=edit
+ 284. https://en.wiktionary.org/w/index.php?title=coordinate&action=history
+ 285. form field = text entry field
+ 286. form field = submit button
+ 287. form field = submit button
+ 288. https://en.wiktionary.org/wiki/Wiktionary:Main_Page
+ 289. https://en.wiktionary.org/wiki/Wiktionary:Community_portal
+ 290. https://en.wiktionary.org/wiki/Wiktionary:Per-browser_preferences
+ 291. https://en.wiktionary.org/wiki/Wiktionary:Requested_entries
+ 292. https://en.wiktionary.org/wiki/Special:RecentChanges
+ 293. https://en.wiktionary.org/wiki/Special:Random
+ 294. https://en.wiktionary.org/wiki/Help:Contents
+ 295. https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&utm_medium=sidebar&utm_campaign=C13_en.wiktionary.org&uselang=en
+ 296. https://en.wiktionary.org/wiki/Wiktionary:Contact_us
+ 297. https://en.wiktionary.org/wiki/Special:WhatLinksHere/coordinate
+ 298. https://en.wiktionary.org/wiki/Special:RecentChangesLinked/coordinate
+ 299. https://commons.wikimedia.org/wiki/Special:UploadWizard?uselang=en
+ 300. https://en.wiktionary.org/wiki/Special:SpecialPages
+ 301. https://en.wiktionary.org/w/index.php?title=coordinate&oldid=42884391
+ 302. https://en.wiktionary.org/w/index.php?title=coordinate&action=info
+ 303. https://en.wiktionary.org/w/index.php?title=Special:CiteThisPage&page=coordinate&id=42884391
+ 304. https://ar.wiktionary.org/wiki/coordinate
+ 305. https://cs.wiktionary.org/wiki/coordinate
+ 306. https://et.wiktionary.org/wiki/coordinate
+ 307. https://el.wiktionary.org/wiki/coordinate
+ 308. https://es.wiktionary.org/wiki/coordinate
+ 309. https://fr.wiktionary.org/wiki/coordinate
+ 310. https://ko.wiktionary.org/wiki/coordinate
+ 311. https://io.wiktionary.org/wiki/coordinate
+ 312. https://it.wiktionary.org/wiki/coordinate
+ 313. https://kn.wiktionary.org/wiki/coordinate
+ 314. https://kk.wiktionary.org/wiki/coordinate
+ 315. https://ku.wiktionary.org/wiki/coordinate
+ 316. https://hu.wiktionary.org/wiki/coordinate
+ 317. https://mg.wiktionary.org/wiki/coordinate
+ 318. https://ml.wiktionary.org/wiki/coordinate
+ 319. https://my.wiktionary.org/wiki/coordinate
+ 320. https://nl.wiktionary.org/wiki/coordinate
+ 321. https://no.wiktionary.org/wiki/coordinate
+ 322. https://pl.wiktionary.org/wiki/coordinate
+ 323. https://ru.wiktionary.org/wiki/coordinate
+ 324. https://simple.wiktionary.org/wiki/coordinate
+ 325. https://fi.wiktionary.org/wiki/coordinate
+ 326. https://sv.wiktionary.org/wiki/coordinate
+ 327. https://ta.wiktionary.org/wiki/coordinate
+ 328. https://chr.wiktionary.org/wiki/coordinate
+ 329. https://tr.wiktionary.org/wiki/coordinate
+ 330. https://vi.wiktionary.org/wiki/coordinate
+ 331. https://zh.wiktionary.org/wiki/coordinate
+ 332. https://en.wiktionary.org/w/index.php?title=Special:Book&bookcmd=book_creator&referer=coordinate
+ 333. https://en.wiktionary.org/w/index.php?title=Special:Book&bookcmd=render_article&arttitle=coordinate&returnto=coordinate&oldid=42884391&writer=rdf2latex
+ 334. https://en.wiktionary.org/w/index.php?title=coordinate&printable=yes
+ 335. https://creativecommons.org/licenses/by-sa/3.0/
+ 336. https://wikimediafoundation.org/wiki/Terms_of_Use
+ 337. https://wikimediafoundation.org/wiki/Privacy_policy
+ 338. https://wikimediafoundation.org/wiki/Privacy_policy
+ 339. https://en.wiktionary.org/wiki/Wiktionary:About
+ 340. https://en.wiktionary.org/wiki/Wiktionary:General_disclaimer
+ 341. https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute
+ 342. https://wikimediafoundation.org/wiki/Cookie_statement
+ 343. https://en.m.wiktionary.org/w/index.php?title=coordinate&mobileaction=toggle_view_mobile
+ 344. https://wikimediafoundation.org/
+ 345. https://www.mediawiki.org/
+
+   Hidden links:
+ 347. https://en.wiktionary.org/wiki/coordinate
+ 348. https://en.wiktionary.org/wiki/coordinate
+ 349. https://en.wiktionary.org/wiki/Wiktionary:Main_Page

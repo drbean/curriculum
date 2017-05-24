@@ -1,0 +1,1201 @@
+   #[1]Edit [2]Wiktionary (en) [3]copyright [4]Wiktionary Atom feed
+
+comment
+
+   Definition from Wiktionary, the free dictionary
+   Jump to: [5]navigation, [6]search
+
+Contents
+
+     * [7]1 English
+          + [8]1.1 Etymology
+          + [9]1.2 Pronunciation
+          + [10]1.3 Noun
+               o [11]1.3.1 Translations
+               o [12]1.3.2 See also
+          + [13]1.4 Verb
+               o [14]1.4.1 Derived terms
+               o [15]1.4.2 Translations
+               o [16]1.4.3 See also
+          + [17]1.5 Further reading
+     * [18]2 French
+          + [19]2.1 Etymology
+          + [20]2.2 Pronunciation
+          + [21]2.3 Adverb
+               o [22]2.3.1 Derived terms
+               o [23]2.3.2 Descendants
+          + [24]2.4 References
+          + [25]2.5 Further reading
+     * [26]3 Middle French
+          + [27]3.1 Alternative forms
+          + [28]3.2 Adverb
+     * [29]4 Old French
+          + [30]4.1 Adverb
+     * [31]5 Portuguese
+          + [32]5.1 Etymology
+          + [33]5.2 Noun
+               o [34]5.2.1 Synonyms
+
+English[[35]edit]
+
+   [36]Wikipedia has an article on:
+   [37]comment
+   [38]Wikipedia
+
+Etymology[[39]edit]
+
+   From [40]Middle English [41]coment, from [42]Old French [43]coment
+   (“commentary”), from [44]Late Latin [45]commentum, from [46]comminisci
+   (“to invent”).
+
+Pronunciation[[47]edit]
+
+     * ([48]UK) [49]IPA^([50]key): /ˈkɒmɛnt/
+     * ([51]US) [52]IPA^([53]key): /ˈkɑmɛnt/
+     *
+
+       Audio (US)
+
+       ([54]file)
+
+Noun[[55]edit]
+
+   comment (plural [56]comments)
+    1. A spoken [57]remark.
+
+                I have no comment on that.
+
+          + 1907, [58]Robert William Chambers, chapter [59]IX, in The
+            Younger Set ([60]Project Gutenberg; EBook #14852), New York,
+            N.Y.: [61]A. L. Burt Company, published 1 February 2005
+            (Project Gutenberg version), [62]OCLC [63]4241346:
+
+                      “A tight little craft,” was Austin’s invariable
+                      comment on the matron; and she looked it, always
+                      trim and trig and smooth of surface like a converted
+                      yacht cleared for action.
+
+    2. ([64]programming) A remark in [65]source code which does not affect
+       the [66]behavior of the program.
+
+Translations[[67]edit]
+
+   spoken remark
+     * Albanian: [68]koment [69](sq) m
+     * Arabic: [70]تَعْلِيق m (taʿlīq), [71]مَلْحُوظَة f (malḥūẓa)
+     * Armenian: [72]մեկնաբանություն [73](hy) (meknabanutʿyun)
+     * Azeri: [74]izah [75](az), [76]fikir [77](az), [78]şərh [79](az)
+     * Basque: please add this translation if you can
+     * Belarusian: [80]камента́р m (kamjentár)
+     * Bulgarian: [81]коментар [82](bg) (komentar), [83]бележка [84](bg) f
+       (beležka)
+     * Catalan: [85]comentari [86](ca) m
+     * Chinese:
+
+                Mandarin: [87]評論 [88](zh), [89]评论 [90](zh) (pínglùn)
+
+     * Crimean Tatar: [91]tefsir
+     * Czech: [92]komentář [93](cs) m
+     * Danish: [94]kommentar [95](da) c, [96]bemærkning c
+     * Dutch: [97]commentaar [98](nl)
+     * Esperanto: [99]komento
+     * Estonian: [100]kommentaar
+     * Finnish: [101]kommentti [102](fi), [103]huomautus [104](fi),
+       [105]välihuomautus
+     * French: [106]commentaire [107](fr) m
+     * Georgian: [108]კომენტარი (ḳomenṭari)
+     * German: [109]Kommentar [110](de) m
+     * Greek: [111]σχόλιο [112](el) n (schólio),
+       [113]παρατήρηση [114](el) f (paratírisi)
+     * Hindi: [115]टिप्पणी [116](hi) f (ṭippaṇī)
+     * Hungarian: [117]megjegyzés [118](hu), [119]hozzászólás [120](hu),
+       [121]komment
+     * Icelandic: [122]athugasemd [123](is) f
+     * Ido: [124]komenturo
+     * Indonesian: [125]komentar [126](id)
+     * Italian: [127]commento [128](it) m
+     * Japanese: [129]コメント [130](ja) (komento), [131]論評 (ろんぴょう, ronpyō)
+     * Kazakh: [132]түсіндірме (tüsindirme), [133]түсінік (tüsinik)
+     * Khmer: please add this translation if you can
+     * Korean: [134]논평 (nonpyeong), [135]코멘트 (komenteu)
+
+     * Kyrgyz: [136]түшүндүрмө [137](ky) (tüşündürmö), [138]чечмелөө
+       (çeçmelöö), [139]комментарий (kommentariy)
+     * Latvian: [140]komentārs m
+     * Lithuanian: [141]komentaras m
+     * Low German: [142]Kommentar n
+     * Macedonian: [143]коментар m (komentar)
+     * Maori: [144]huatau
+     * Mongolian: please add this translation if you can
+     * Norwegian:
+
+                Bokmål: [145]kommentar [146](no) m, [147]merknad m
+                Nynorsk: [148]kommentar m, [149]merknad m
+
+     * Persian: [150]نظر [151](fa) (nazar), [152]تفسیر [153](fa) (tafsir)
+     * Polish: [154]komentarz [155](pl) m
+     * Portuguese: [156]comentário [157](pt) m
+     * Romanian: [158]comentariu [159](ro) n
+     * Russian: [160]коммента́рий [161](ru) m (kommentárij),
+       [162]замеча́ние [163](ru) n (zamečánije), [164]ко́ммент [165](ru) m
+       (kómment) (Internet neologism)
+     * Scottish Gaelic: [166]abairt f
+     * Serbo-Croatian:
+
+                Cyrillic: [167]опаска, [168]коментар m
+                Roman: [169]opaska [170](sh) f, [171]komentar [172](sh) m
+
+     * Slovak: [173]komentár m
+     * Slovene: [174]komentar m
+     * Spanish: [175]comentario [176](es) m
+     * Swedish: [177]kommentar [178](sv) c
+     * Tajik: [179]шарҳ [180](tg) (šarh), [181]эзоҳ (ezoh),
+       [182]тафсир [183](tg) (tafsir)
+     * Telugu: [184]వ్యాఖ్య [185](te) (vyākhya)
+     * Thai: please add this translation if you can
+     * Turkish: [186]yorum [187](tr), [188]tefsir [189](tr)
+     * Turkmen: [190]düşündiriş
+     * Ukrainian: [191]комента́р m (komentár)
+     * Uzbek: [192]izoh [193](uz), [194]mulohaza [195](uz),
+       [196]fikr [197](uz)
+     * Vietnamese: [198]lời bình luận [199](vi)
+
+   programming: remark not affecting behavior
+     * Bulgarian: [200]коментар [201](bg) (komentar)
+     * Catalan: [202]comentari [203](ca) m
+     * Czech: [204]komentář [205](cs) m
+     * Danish: [206]kommentar c
+     * Dutch: [207]commentaar [208](nl)
+     * Finnish: [209]kommentti [210](fi)
+     * German: [211]Kommentar [212](de) m
+     * Greek: [213]σχόλιο [214](el) n (schólio)
+     * Hungarian: [215]megjegyzés [216](hu)
+     * Icelandic: [217]athugasemd [218](is) f
+
+     * Italian: [219]commento [220](it) m
+     * Persian: [221]کامنت (kâment)
+     * Polish: [222]komentarz [223](pl) m
+     * Portuguese: [224]comentário [225](pt) m
+     * Russian: [226]коммента́рий [227](ru) m (kommentárij)
+     * Serbo-Croatian:
+
+                Cyrillic: [228]коментар m
+                Roman: [229]komentar [230](sh) m
+
+     * Spanish: [231]comentario [232](es) m
+     * Turkish: [233]açıklama [234](tr)
+
+          The translations below need to be checked and inserted above
+          into the appropriate translation tables, removing any numbers.
+          Numbers do not necessarily match those in definitions. See
+          instructions at [235]Wiktionary:Entry layout#Translations.
+
+   Translations to be checked
+     * Arabic: ^(please [236]verify) [237]تعليق
+     * French: ^(please [238]verify) [239]commentaire [240](fr) m
+     * Hebrew: ^(please [241]verify) [242]הערה f (he'ara) (1)
+     * Hindi: ^(please [243]verify) [244]कहना [245](hi) m (kahnā) (kehna)
+
+     * Ido: ^(please [246]verify) [247]komento
+     * Romanian: ^(please [248]verify) [249]comentariu n
+     * Swedish: ^(please [250]verify) [251]kommentar [252](sv) c
+     * Urdu: ^(please [253]verify) [254]کہنا m (kehna)
+
+See also[[255]edit]
+
+     * [256]pragma
+
+Verb[[257]edit]
+
+   comment (third-person singular simple present [258]comments, present
+   participle [259]commenting, simple past and past participle
+   [260]commented)
+    1. ([261]transitive) To remark.
+          + 1908, [262]W[illiam] B[lair] M[orton] Ferguson,
+            [263]Zollenstein, New York, N.Y.: [264]D. Appleton & Company,
+            [265]OCLC [266]29686887 , chapter IV:
+
+                      “My Continental prominence is improving,” I
+                      commented dryly. ¶ Von Lindowe cut at a furze bush
+                      with his silver-mounted rattan. ¶ “Quite so,” he
+                      said as dryly, his hand at his mustache. “I may say
+                      if your intentions were known your life would not be
+                      worth a curse.”
+
+          + 1915, [267]Emerson Hough, [268]The Purchase Price,
+            [269]chapterI:
+
+                      "A fine man, that Dunwody, yonder," commented the
+                      young captain, as they parted, and as he turned to
+                      his prisoner. "We'll see him on in Washington some
+                      day. He is strengthening his forces now against Mr.
+                      Benton out there. […]."
+
+          + 2003 July 5, [270]Pierre Salinger, ABC News, “Analysis: Top
+            film choices”, in NPR_Saturday:
+
+                      I think Mamet always comments that commerce really
+                      comes down to just a confidence game
+
+          + 2009 Winter, John M. Kang, “Manliness and the Constitution”,
+            in Harvard Journal of Law & Public Policy, volume 32, number
+            1, page 261:
+
+                      As Cambridge historian Mervyn James commented,
+                      "silly quarrels escalated into battles in the
+                      streets."
+
+    2. ([271]intransitive, with "on" or "about") To make remarks or notes.
+    3. ([272]transitive, [273]obsolete) To comment or remark on.
+
+                (Can we [274]find and add a quotation of Fuller to this
+                entry?)
+
+    4. ([275]transitive, software, of code) To insert comments into
+       ([276]source code).
+
+                I wish I'd commented this complicated algorithm back when
+                I remembered how it worked.
+
+    5. ([277]transitive, software, of code) To [278]comment out (code); to
+       disable by converting into a comment.
+
+Derived terms[[279]edit]
+
+   remark
+     * [280]commentary
+     * [281]commentate
+     * [282]commentator
+
+   programming: insert comments
+     * [283]comment out
+     * [284]uncomment
+
+Translations[[285]edit]
+
+   to comment — see [286]observe
+   to remark
+     * Arabic: [287]عَلَّقَ (ʿallaqa)
+     * Armenian: [288]մեկնաբանել [289](hy) (meknabanel)
+     * Basque: please add this translation if you can
+     * Belarusian: [290]каменці́раваць impf (kamjencíravacʹ)
+     * Bulgarian: [291]коментирам [292](bg) (komentiram)
+     * Catalan: [293]comentar [294](ca)
+     * Chinese:
+
+                Mandarin: [295]評論 [296](zh), [297]评论 [298](zh) (pínglùn)
+
+     * Czech: [299]komentovat [300](cs)
+     * Danish: [301]kommentere
+     * Dutch: [302]becommentariëren
+     * Esperanto: [303]komenti
+     * Finnish: [304]kommentoida [305](fi), [306]huomauttaa [307](fi)
+     * French: [308]commenter [309](fr)
+     * Georgian: please add this translation if you can
+     * German: [310]kommentieren [311](de)
+     * Greek: [312]σχολιάζω [313](el) (scholiázo)
+
+     * Indonesian: [314]mengomentari [315](id)
+     * Japanese: [316]論評する (ろんぴょうする, ronpyō-suru)
+     * Khmer: please add this translation if you can
+     * Macedonian: [317]коментира impf (komentira)
+     * Maori: [318]huatau
+     * Mongolian: please add this translation if you can
+     * Norwegian: [319]kommentere [320](no)
+     * Polish: [321]komentować [322](pl)
+     * Portuguese: [323]comentar [324](pt), [325]mencionar [326](pt)
+     * Russian: [327]комменти́ровать [328](ru) impf (kommentírovatʹ),
+       [329]прокомменти́ровать [330](ru) pf (prokommentírovatʹ)
+     * Slovak: [331]komentovať impf
+     * Spanish: [332]comentar [333](es)
+     * Swedish: [334]kommentera [335](sv)
+     * Telugu: [336]వ్యాఖ్యానించు (vyākhyāniṃcu)
+     * Thai: please add this translation if you can
+     * Ukrainian: [337]коментува́ти impf (komentuváty)
+     * Vietnamese: please add this translation if you can
+
+   programming: to insert comments
+     * Catalan: [338]comentar [339](ca)
+     * Czech: [340]komentovat [341](cs)
+     * Danish: [342]kommentere
+     * Dutch: [343]becommentariëren
+     * Finnish: [344]kommentoida [345](fi)
+
+     * German: [346]Kommentare einfügen
+     * Greek: [347]σχολιάζω [348](el) (scholiázo)
+     * Polish: [349]komentować [350](pl), [351]zakomentować
+     * Portuguese: [352]comentar [353](pt)
+     * Russian: [354]комменти́ровать [355](ru) impf (kommentírovatʹ),
+       [356]закомменти́ровать [357](ru) pf (zakommentírovatʹ)
+
+          The translations below need to be checked and inserted above
+          into the appropriate translation tables, removing any numbers.
+          Numbers do not necessarily match those in definitions. See
+          instructions at [358]Wiktionary:Entry layout#Translations.
+
+   Translations to be checked
+     * Arabic: ^(please [359]verify) [360]علّق ب
+     * Estonian: ^(please [361]verify) [362]mainima
+     * Hebrew: ^(please [363]verify) [364]להעיר (le'ha'yr) (1)
+
+     * Spanish: ^(please [365]verify) [366]comentar [367](es)
+     * Swedish: ^(please [368]verify) [369]kommentera
+
+See also[[370]edit]
+
+     * [371]document
+
+Further reading[[372]edit]
+
+     * [373]comment in [374]Webster’s Revised Unabridged Dictionary, G. &
+       C. Merriam, 1913
+     * [375]comment in The Century Dictionary, The Century Co., New York,
+       1911
+     * [376]comment at OneLook Dictionary Search
+     __________________________________________________________________
+
+French[[377]edit]
+
+Etymology[[378]edit]
+
+   [379]comme + [380]-ment^[381][1]
+
+Pronunciation[[382]edit]
+
+     * [383]IPA^([384]key): /kɔ.mɑ̃/
+     *
+
+       Audio (France, Paris)
+
+       ([385]file)
+     * Rhymes: [386]-ɑ̃
+
+Adverb[[387]edit]
+
+   comment
+    1. [388]how
+
+                Comment te sens-tu ? ― How do you feel?
+
+Derived terms[[389]edit]
+
+     * [390]comment allez-vous, [391]comment vas-tu, [392]comment ça va
+       (“how are you”)
+
+Descendants[[393]edit]
+
+     * Louisiana Creole French: [394]konmen
+
+References[[395]edit]
+
+    1. [396]^ Picoche, Jacqueline; Jean-Claude Rolland (2009), “muid I 4”,
+       in Dictionnaire étymologique du français (in French), Paris:
+       Dictionnaires Le Robert
+
+Further reading[[397]edit]
+
+     * “[398]comment” in [399]le Trésor de la langue française informatisé
+       (The Digitized Treasury of the French Language).
+     __________________________________________________________________
+
+Middle French[[400]edit]
+
+Alternative forms[[401]edit]
+
+     * cõment
+
+Adverb[[402]edit]
+
+   comment
+    1. [403]how (in a given manner)
+    2. (interrogative) [404]how (in what manner)
+     __________________________________________________________________
+
+Old French[[405]edit]
+
+Adverb[[406]edit]
+
+   comment
+    1. Alternative form of [407]comant
+     __________________________________________________________________
+
+Portuguese[[408]edit]
+
+Etymology[[409]edit]
+
+   [410]Borrowing from [411]English [412]comment.
+
+Noun[[413]edit]
+
+   comment m (plural [414]comments)
+    1. (Internet slang) [415]comment, [416]remark
+
+Synonyms[[417]edit]
+
+     * [418]comentário
+
+   Retrieved from
+   "[419]https://en.wiktionary.org/w/index.php?title=comment&oldid=4288589
+   7"
+   [420]Categories:
+     * [421]English terms inherited from Middle English
+     * [422]English terms derived from Middle English
+     * [423]English terms derived from Old French
+     * [424]English terms derived from Late Latin
+     * [425]English 2-syllable words
+     * [426]English terms with IPA pronunciation
+     * [427]English terms with audio links
+     * [428]English lemmas
+     * [429]English nouns
+     * [430]English countable nouns
+     * [431]en:Programming
+     * [432]English verbs
+     * [433]English transitive verbs
+     * [434]English intransitive verbs
+     * [435]English terms with obsolete senses
+     * [436]Requests for quotation/Fuller
+     * [437]en:Software
+     * [438]English refractory feminine rhymes
+     * [439]English reporting verbs
+     * [440]en:Computing
+     * [441]French words suffixed with -ment
+     * [442]French 2-syllable words
+     * [443]French terms with IPA pronunciation
+     * [444]French terms with audio links
+     * [445]French lemmas
+     * [446]French adverbs
+     * [447]French interrogative adverbs
+     * [448]French basic words
+     * [449]Middle French lemmas
+     * [450]Middle French adverbs
+     * [451]Old French lemmas
+     * [452]Old French adverbs
+     * [453]Portuguese terms borrowed from English
+     * [454]Portuguese terms derived from English
+     * [455]Portuguese lemmas
+     * [456]Portuguese nouns
+     * [457]Portuguese internet slang
+
+   Hidden categories:
+     * [458]Requests for translations into Basque
+     * [459]Requests for translations into Khmer
+     * [460]Requests for translations into Mongolian
+     * [461]Russian redlinks
+     * [462]Russian redlinks/t+
+     * [463]Requests for translations into Thai
+     * [464]Requests for review of Arabic translations
+     * [465]Requests for review of French translations
+     * [466]Requests for review of Hebrew translations
+     * [467]Requests for review of Hindi translations
+     * [468]Requests for review of Ido translations
+     * [469]Requests for review of Romanian translations
+     * [470]Requests for review of Swedish translations
+     * [471]Requests for review of Urdu translations
+     * [472]Requests for quotations in English
+     * [473]Requests for translations into Georgian
+     * [474]Requests for translations into Vietnamese
+     * [475]Requests for review of Estonian translations
+     * [476]Requests for review of Spanish translations
+     * [477]bor without notext
+
+Navigation menu
+
+Personal tools
+
+     * Not logged in
+     * [478]Talk
+     * [479]Contributions
+     * [480]Create account
+     * [481]Log in
+
+Namespaces
+
+     * [482]Entry
+     * [483]Discussion
+
+Variants
+
+Views
+
+     * [484]Read
+     * [485]Edit
+     * [486]History
+
+More
+
+Search
+
+   [487]____________________ [488]Search [489]Go
+
+Navigation
+
+     * [490]Main Page
+     * [491]Community portal
+     * [492]Preferences
+     * [493]Requested entries
+     * [494]Recent changes
+     * [495]Random entry
+     * [496]Help
+     * [497]Donations
+     * [498]Contact us
+
+Tools
+
+     * [499]What links here
+     * [500]Related changes
+     * [501]Upload file
+     * [502]Special pages
+     * [503]Permanent link
+     * [504]Page information
+     * [505]Cite this page
+
+In other languages
+
+     * [506]العربية
+     * [507]Aragonés
+     * [508]Čeština
+     * [509]Corsu
+     * [510]Cymraeg
+     * [511]Dansk
+     * [512]Deutsch
+     * [513]Eesti
+     * [514]Ελληνικά
+     * [515]Español
+     * [516]فارسی
+     * [517]Français
+     * [518]한국어
+     * [519]Հայերեն
+     * [520]Hrvatski
+     * [521]Ido
+     * [522]Bahasa Indonesia
+     * [523]Italiano
+     * [524]ಕನ್ನಡ
+     * [525]Қазақша
+     * [526]Kurdî
+     * [527]ລາວ
+     * [528]Latviešu
+     * [529]Lietuvių
+     * [530]Limburgs
+     * [531]Magyar
+     * [532]Malagasy
+     * [533]മലയാളം
+     * [534]Malti
+     * [535]မြန်မာဘာသာ
+     * [536]Nederlands
+     * [537]日本語
+     * [538]Norsk bokmål
+     * [539]ភាសាខ្មែរ
+     * [540]Polski
+     * [541]Português
+     * [542]Русский
+     * [543]संस्कृतम्
+     * [544]Simple English
+     * [545]Suomi
+     * [546]Svenska
+     * [547]தமிழ்
+     * [548]తెలుగు
+     * [549]ᏣᎳᎩ
+     * [550]Türkçe
+     * [551]ئۇيغۇرچە / Uyghurche
+     * [552]Tiếng Việt
+     * [553]Walon
+     * [554]中文
+
+Print/export
+
+     * [555]Create a book
+     * [556]Download as PDF
+     * [557]Printable version
+
+     * This page was last edited on 12 May 2017, at 23:48.
+     * Text is available under the [558]Creative Commons
+       Attribution-ShareAlike License; additional terms may apply. By
+       using this site, you agree to the [559]Terms of Use and
+       [560]Privacy Policy.
+
+     * [561]Privacy policy
+     * [562]About Wiktionary
+     * [563]Disclaimers
+     * [564]Developers
+     * [565]Cookie statement
+     * [566]Mobile view
+
+     * [567]Wikimedia Foundation
+     * [568]Powered by MediaWiki
+
+References
+
+   Visible links
+   1. https://en.wiktionary.org/w/index.php?title=comment&action=edit
+   2. https://en.wiktionary.org/w/opensearch_desc.php
+   3. https://creativecommons.org/licenses/by-sa/3.0/
+   4. https://en.wiktionary.org/w/index.php?title=Special:RecentChanges&feed=atom
+   5. https://en.wiktionary.org/wiki/comment#mw-head
+   6. https://en.wiktionary.org/wiki/comment#p-search
+   7. https://en.wiktionary.org/wiki/comment#English
+   8. https://en.wiktionary.org/wiki/comment#Etymology
+   9. https://en.wiktionary.org/wiki/comment#Pronunciation
+  10. https://en.wiktionary.org/wiki/comment#Noun
+  11. https://en.wiktionary.org/wiki/comment#Translations
+  12. https://en.wiktionary.org/wiki/comment#See_also
+  13. https://en.wiktionary.org/wiki/comment#Verb
+  14. https://en.wiktionary.org/wiki/comment#Derived_terms
+  15. https://en.wiktionary.org/wiki/comment#Translations_2
+  16. https://en.wiktionary.org/wiki/comment#See_also_2
+  17. https://en.wiktionary.org/wiki/comment#Further_reading
+  18. https://en.wiktionary.org/wiki/comment#French
+  19. https://en.wiktionary.org/wiki/comment#Etymology_2
+  20. https://en.wiktionary.org/wiki/comment#Pronunciation_2
+  21. https://en.wiktionary.org/wiki/comment#Adverb
+  22. https://en.wiktionary.org/wiki/comment#Derived_terms_2
+  23. https://en.wiktionary.org/wiki/comment#Descendants
+  24. https://en.wiktionary.org/wiki/comment#References
+  25. https://en.wiktionary.org/wiki/comment#Further_reading_2
+  26. https://en.wiktionary.org/wiki/comment#Middle_French
+  27. https://en.wiktionary.org/wiki/comment#Alternative_forms
+  28. https://en.wiktionary.org/wiki/comment#Adverb_2
+  29. https://en.wiktionary.org/wiki/comment#Old_French
+  30. https://en.wiktionary.org/wiki/comment#Adverb_3
+  31. https://en.wiktionary.org/wiki/comment#Portuguese
+  32. https://en.wiktionary.org/wiki/comment#Etymology_3
+  33. https://en.wiktionary.org/wiki/comment#Noun_2
+  34. https://en.wiktionary.org/wiki/comment#Synonyms
+  35. https://en.wiktionary.org/w/index.php?title=comment&action=edit&section=1
+  36. https://en.wiktionary.org/wiki/Wikipedia
+  37. https://en.wikipedia.org/wiki/comment
+  38. https://en.wikipedia.org/wiki/comment
+  39. https://en.wiktionary.org/w/index.php?title=comment&action=edit&section=2
+  40. https://en.wikipedia.org/wiki/Middle_English_language
+  41. https://en.wiktionary.org/wiki/coment#Middle_English
+  42. https://en.wikipedia.org/wiki/Old_French_language
+  43. https://en.wiktionary.org/wiki/coment#Old_French
+  44. https://en.wikipedia.org/wiki/Late_Latin
+  45. https://en.wiktionary.org/wiki/commentum#Latin
+  46. https://en.wiktionary.org/wiki/comminisci#Latin
+  47. https://en.wiktionary.org/w/index.php?title=comment&action=edit&section=3
+  48. https://en.wikipedia.org/wiki/British_English
+  49. https://en.wiktionary.org/wiki/Wiktionary:International_Phonetic_Alphabet
+  50. https://en.wiktionary.org/wiki/Appendix:English_pronunciation
+  51. https://en.wikipedia.org/wiki/American_English
+  52. https://en.wiktionary.org/wiki/Wiktionary:International_Phonetic_Alphabet
+  53. https://en.wiktionary.org/wiki/Appendix:English_pronunciation
+  54. https://en.wiktionary.org/wiki/File:En-us-comment.ogg
+  55. https://en.wiktionary.org/w/index.php?title=comment&action=edit&section=4
+  56. https://en.wiktionary.org/wiki/comments#English
+  57. https://en.wiktionary.org/wiki/remark
+  58. https://en.wikipedia.org/wiki/Robert_W._Chambers
+  59. http://gutenberg.org/files/14852/14852-h/14852-h.htm#CHAPTER_IX
+  60. https://en.wikipedia.org/wiki/Project_Gutenberg
+  61. https://en.wikipedia.org/wiki/A._L._Burt
+  62. https://en.wikipedia.org/wiki/OCLC
+  63. http://worldcat.org/oclc/4241346
+  64. https://en.wiktionary.org/wiki/programming
+  65. https://en.wiktionary.org/wiki/source_code
+  66. https://en.wiktionary.org/wiki/behavior
+  67. https://en.wiktionary.org/w/index.php?title=comment&action=edit&section=5
+  68. https://en.wiktionary.org/w/index.php?title=koment&action=edit&redlink=1
+  69. https://sq.wiktionary.org/wiki/koment
+  70. https://en.wiktionary.org/wiki/تعليق#Arabic
+  71. https://en.wiktionary.org/w/index.php?title=ملحوظة&action=edit&redlink=1
+  72. https://en.wiktionary.org/wiki/մեկնաբանություն#Armenian
+  73. https://hy.wiktionary.org/wiki/մեկնաբանություն
+  74. https://en.wiktionary.org/w/index.php?title=izah&action=edit&redlink=1
+  75. https://az.wiktionary.org/wiki/izah
+  76. https://en.wiktionary.org/wiki/fikir#Azeri
+  77. https://az.wiktionary.org/wiki/fikir
+  78. https://en.wiktionary.org/w/index.php?title=şərh&action=edit&redlink=1
+  79. https://az.wiktionary.org/wiki/şərh
+  80. https://en.wiktionary.org/w/index.php?title=каментар&action=edit&redlink=1
+  81. https://en.wiktionary.org/wiki/коментар#Bulgarian
+  82. https://bg.wiktionary.org/wiki/коментар
+  83. https://en.wiktionary.org/w/index.php?title=бележка&action=edit&redlink=1
+  84. https://bg.wiktionary.org/wiki/бележка
+  85. https://en.wiktionary.org/wiki/comentari#Catalan
+  86. https://ca.wiktionary.org/wiki/comentari
+  87. https://en.wiktionary.org/wiki/評論#Mandarin
+  88. https://zh.wiktionary.org/wiki/評論
+  89. https://en.wiktionary.org/wiki/评论#Mandarin
+  90. https://zh.wiktionary.org/wiki/评论
+  91. https://en.wiktionary.org/w/index.php?title=tefsir&action=edit&redlink=1
+  92. https://en.wiktionary.org/wiki/komentář#Czech
+  93. https://cs.wiktionary.org/wiki/komentář
+  94. https://en.wiktionary.org/wiki/kommentar#Danish
+  95. https://da.wiktionary.org/wiki/kommentar
+  96. https://en.wiktionary.org/wiki/bemærkning#Danish
+  97. https://en.wiktionary.org/wiki/commentaar#Dutch
+  98. https://nl.wiktionary.org/wiki/commentaar
+  99. https://en.wiktionary.org/wiki/komento#Esperanto
+ 100. https://en.wiktionary.org/w/index.php?title=kommentaar&action=edit&redlink=1
+ 101. https://en.wiktionary.org/wiki/kommentti#Finnish
+ 102. https://fi.wiktionary.org/wiki/kommentti
+ 103. https://en.wiktionary.org/wiki/huomautus#Finnish
+ 104. https://fi.wiktionary.org/wiki/huomautus
+ 105. https://en.wiktionary.org/wiki/välihuomautus#Finnish
+ 106. https://en.wiktionary.org/wiki/commentaire#French
+ 107. https://fr.wiktionary.org/wiki/commentaire
+ 108. https://en.wiktionary.org/wiki/კომენტარი#Georgian
+ 109. https://en.wiktionary.org/wiki/Kommentar#German
+ 110. https://de.wiktionary.org/wiki/Kommentar
+ 111. https://en.wiktionary.org/w/index.php?title=σχόλιο&action=edit&redlink=1
+ 112. https://el.wiktionary.org/wiki/σχόλιο
+ 113. https://en.wiktionary.org/w/index.php?title=παρατήρηση&action=edit&redlink=1
+ 114. https://el.wiktionary.org/wiki/παρατήρηση
+ 115. https://en.wiktionary.org/wiki/टिप्पणी#Hindi
+ 116. https://hi.wiktionary.org/wiki/टिप्पणी
+ 117. https://en.wiktionary.org/wiki/megjegyzés#Hungarian
+ 118. https://hu.wiktionary.org/wiki/megjegyzés
+ 119. https://en.wiktionary.org/wiki/hozzászólás#Hungarian
+ 120. https://hu.wiktionary.org/wiki/hozzászólás
+ 121. https://en.wiktionary.org/w/index.php?title=komment&action=edit&redlink=1
+ 122. https://en.wiktionary.org/wiki/athugasemd#Icelandic
+ 123. https://is.wiktionary.org/wiki/athugasemd
+ 124. https://en.wiktionary.org/w/index.php?title=komenturo&action=edit&redlink=1
+ 125. https://en.wiktionary.org/wiki/komentar#Indonesian
+ 126. https://id.wiktionary.org/wiki/komentar
+ 127. https://en.wiktionary.org/wiki/commento#Italian
+ 128. https://it.wiktionary.org/wiki/commento
+ 129. https://en.wiktionary.org/wiki/コメント#Japanese
+ 130. https://ja.wiktionary.org/wiki/コメント
+ 131. https://en.wiktionary.org/wiki/論評#Japanese
+ 132. https://en.wiktionary.org/w/index.php?title=түсіндірме&action=edit&redlink=1
+ 133. https://en.wiktionary.org/w/index.php?title=түсінік&action=edit&redlink=1
+ 134. https://en.wiktionary.org/wiki/논평#Korean
+ 135. https://en.wiktionary.org/wiki/코멘트#Korean
+ 136. https://en.wiktionary.org/w/index.php?title=түшүндүрмө&action=edit&redlink=1
+ 137. https://ky.wiktionary.org/wiki/түшүндүрмө
+ 138. https://en.wiktionary.org/w/index.php?title=чечмелөө&action=edit&redlink=1
+ 139. https://en.wiktionary.org/wiki/комментарий#Kyrgyz
+ 140. https://en.wiktionary.org/w/index.php?title=komentārs&action=edit&redlink=1
+ 141. https://en.wiktionary.org/w/index.php?title=komentaras&action=edit&redlink=1
+ 142. https://en.wiktionary.org/wiki/Kommentar#Low_German
+ 143. https://en.wiktionary.org/wiki/коментар#Macedonian
+ 144. https://en.wiktionary.org/wiki/huatau#Maori
+ 145. https://en.wiktionary.org/wiki/kommentar#Norwegian_Bokm.C3.A5l
+ 146. https://no.wiktionary.org/wiki/kommentar
+ 147. https://en.wiktionary.org/wiki/merknad#Norwegian_Bokm.C3.A5l
+ 148. https://en.wiktionary.org/wiki/kommentar#Norwegian_Nynorsk
+ 149. https://en.wiktionary.org/wiki/merknad#Norwegian_Nynorsk
+ 150. https://en.wiktionary.org/wiki/نظر#Persian
+ 151. https://fa.wiktionary.org/wiki/نظر
+ 152. https://en.wiktionary.org/w/index.php?title=تفسیر&action=edit&redlink=1
+ 153. https://fa.wiktionary.org/wiki/تفسیر
+ 154. https://en.wiktionary.org/wiki/komentarz#Polish
+ 155. https://pl.wiktionary.org/wiki/komentarz
+ 156. https://en.wiktionary.org/wiki/comentário#Portuguese
+ 157. https://pt.wiktionary.org/wiki/comentário
+ 158. https://en.wiktionary.org/w/index.php?title=comentariu&action=edit&redlink=1
+ 159. https://ro.wiktionary.org/wiki/comentariu
+ 160. https://en.wiktionary.org/wiki/комментарий#Russian
+ 161. https://ru.wiktionary.org/wiki/комментарий
+ 162. https://en.wiktionary.org/wiki/замечание#Russian
+ 163. https://ru.wiktionary.org/wiki/замечание
+ 164. https://en.wiktionary.org/w/index.php?title=коммент&action=edit&redlink=1
+ 165. https://ru.wiktionary.org/wiki/коммент
+ 166. https://en.wiktionary.org/wiki/abairt#Scottish_Gaelic
+ 167. https://en.wiktionary.org/wiki/опаска#Serbo-Croatian
+ 168. https://en.wiktionary.org/wiki/коментар#Serbo-Croatian
+ 169. https://en.wiktionary.org/wiki/opaska#Serbo-Croatian
+ 170. https://sh.wiktionary.org/wiki/opaska
+ 171. https://en.wiktionary.org/wiki/komentar#Serbo-Croatian
+ 172. https://sh.wiktionary.org/wiki/komentar
+ 173. https://en.wiktionary.org/w/index.php?title=komentár&action=edit&redlink=1
+ 174. https://en.wiktionary.org/wiki/komentar#Slovene
+ 175. https://en.wiktionary.org/wiki/comentario#Spanish
+ 176. https://es.wiktionary.org/wiki/comentario
+ 177. https://en.wiktionary.org/wiki/kommentar#Swedish
+ 178. https://sv.wiktionary.org/wiki/kommentar
+ 179. https://en.wiktionary.org/w/index.php?title=шарҳ&action=edit&redlink=1
+ 180. https://tg.wiktionary.org/wiki/шарҳ
+ 181. https://en.wiktionary.org/w/index.php?title=эзоҳ&action=edit&redlink=1
+ 182. https://en.wiktionary.org/w/index.php?title=тафсир&action=edit&redlink=1
+ 183. https://tg.wiktionary.org/wiki/тафсир
+ 184. https://en.wiktionary.org/wiki/వ్యాఖ్య#Telugu
+ 185. https://te.wiktionary.org/wiki/వ్యాఖ్య
+ 186. https://en.wiktionary.org/wiki/yorum#Turkish
+ 187. https://tr.wiktionary.org/wiki/yorum
+ 188. https://en.wiktionary.org/w/index.php?title=tefsir&action=edit&redlink=1
+ 189. https://tr.wiktionary.org/wiki/tefsir
+ 190. https://en.wiktionary.org/w/index.php?title=düşündiriş&action=edit&redlink=1
+ 191. https://en.wiktionary.org/wiki/коментар#Ukrainian
+ 192. https://en.wiktionary.org/w/index.php?title=izoh&action=edit&redlink=1
+ 193. https://uz.wiktionary.org/wiki/izoh
+ 194. https://en.wiktionary.org/w/index.php?title=mulohaza&action=edit&redlink=1
+ 195. https://uz.wiktionary.org/wiki/mulohaza
+ 196. https://en.wiktionary.org/w/index.php?title=fikr&action=edit&redlink=1
+ 197. https://uz.wiktionary.org/wiki/fikr
+ 198. https://en.wiktionary.org/w/index.php?title=bình_luận&action=edit&redlink=1
+ 199. https://vi.wiktionary.org/wiki/bình_luận
+ 200. https://en.wiktionary.org/wiki/коментар#Bulgarian
+ 201. https://bg.wiktionary.org/wiki/коментар
+ 202. https://en.wiktionary.org/wiki/comentari#Catalan
+ 203. https://ca.wiktionary.org/wiki/comentari
+ 204. https://en.wiktionary.org/wiki/komentář#Czech
+ 205. https://cs.wiktionary.org/wiki/komentář
+ 206. https://en.wiktionary.org/wiki/kommentar#Danish
+ 207. https://en.wiktionary.org/wiki/commentaar#Dutch
+ 208. https://nl.wiktionary.org/wiki/commentaar
+ 209. https://en.wiktionary.org/wiki/kommentti#Finnish
+ 210. https://fi.wiktionary.org/wiki/kommentti
+ 211. https://en.wiktionary.org/wiki/Kommentar#German
+ 212. https://de.wiktionary.org/wiki/Kommentar
+ 213. https://en.wiktionary.org/w/index.php?title=σχόλιο&action=edit&redlink=1
+ 214. https://el.wiktionary.org/wiki/σχόλιο
+ 215. https://en.wiktionary.org/wiki/megjegyzés#Hungarian
+ 216. https://hu.wiktionary.org/wiki/megjegyzés
+ 217. https://en.wiktionary.org/wiki/athugasemd#Icelandic
+ 218. https://is.wiktionary.org/wiki/athugasemd
+ 219. https://en.wiktionary.org/wiki/commento#Italian
+ 220. https://it.wiktionary.org/wiki/commento
+ 221. https://en.wiktionary.org/w/index.php?title=کامنت&action=edit&redlink=1
+ 222. https://en.wiktionary.org/wiki/komentarz#Polish
+ 223. https://pl.wiktionary.org/wiki/komentarz
+ 224. https://en.wiktionary.org/wiki/comentário#Portuguese
+ 225. https://pt.wiktionary.org/wiki/comentário
+ 226. https://en.wiktionary.org/wiki/комментарий#Russian
+ 227. https://ru.wiktionary.org/wiki/комментарий
+ 228. https://en.wiktionary.org/wiki/коментар#Serbo-Croatian
+ 229. https://en.wiktionary.org/wiki/komentar#Serbo-Croatian
+ 230. https://sh.wiktionary.org/wiki/komentar
+ 231. https://en.wiktionary.org/wiki/comentario#Spanish
+ 232. https://es.wiktionary.org/wiki/comentario
+ 233. https://en.wiktionary.org/w/index.php?title=açıklama&action=edit&redlink=1
+ 234. https://tr.wiktionary.org/wiki/açıklama
+ 235. https://en.wiktionary.org/wiki/Wiktionary:Entry_layout#Translations
+ 236. https://en.wiktionary.org/wiki/Wiktionary:Translations#Translations_to_be_checked
+ 237. https://en.wiktionary.org/wiki/تعليق#Arabic
+ 238. https://en.wiktionary.org/wiki/Wiktionary:Translations#Translations_to_be_checked
+ 239. https://en.wiktionary.org/wiki/commentaire#French
+ 240. https://fr.wiktionary.org/wiki/commentaire
+ 241. https://en.wiktionary.org/wiki/Wiktionary:Translations#Translations_to_be_checked
+ 242. https://en.wiktionary.org/w/index.php?title=הערה&action=edit&redlink=1
+ 243. https://en.wiktionary.org/wiki/Wiktionary:Translations#Translations_to_be_checked
+ 244. https://en.wiktionary.org/wiki/कहना#Hindi
+ 245. https://hi.wiktionary.org/wiki/कहना
+ 246. https://en.wiktionary.org/wiki/Wiktionary:Translations#Translations_to_be_checked
+ 247. https://en.wiktionary.org/wiki/komento#Ido
+ 248. https://en.wiktionary.org/wiki/Wiktionary:Translations#Translations_to_be_checked
+ 249. https://en.wiktionary.org/w/index.php?title=comentariu&action=edit&redlink=1
+ 250. https://en.wiktionary.org/wiki/Wiktionary:Translations#Translations_to_be_checked
+ 251. https://en.wiktionary.org/wiki/kommentar#Swedish
+ 252. https://sv.wiktionary.org/wiki/kommentar
+ 253. https://en.wiktionary.org/wiki/Wiktionary:Translations#Translations_to_be_checked
+ 254. https://en.wiktionary.org/wiki/کہنا#Urdu
+ 255. https://en.wiktionary.org/w/index.php?title=comment&action=edit&section=6
+ 256. https://en.wiktionary.org/wiki/pragma#English
+ 257. https://en.wiktionary.org/w/index.php?title=comment&action=edit&section=7
+ 258. https://en.wiktionary.org/wiki/comments#English
+ 259. https://en.wiktionary.org/wiki/commenting#English
+ 260. https://en.wiktionary.org/wiki/commented#English
+ 261. https://en.wiktionary.org/wiki/Appendix:Glossary#transitive
+ 262. http://openlibrary.org/authors/OL2430852A
+ 263. http://books.google.com/books?id=NeBqnQEACAAJ
+ 264. https://en.wikipedia.org/wiki/D._Appleton_&_Company
+ 265. https://en.wikipedia.org/wiki/OCLC
+ 266. http://www.worldcat.org/oclc/29686887
+ 267. https://en.wikipedia.org/wiki/Emerson_Hough
+ 268. http://gutenberg.org/ebooks/11593
+ 269. http://gutenberg.org/cache/epub/11593/pg11593.html#id00124
+ 270. https://en.wikipedia.org/wiki/Pierre_Salinger
+ 271. https://en.wiktionary.org/wiki/Appendix:Glossary#intransitive
+ 272. https://en.wiktionary.org/wiki/Appendix:Glossary#transitive
+ 273. https://en.wiktionary.org/wiki/Appendix:Glossary#obsolete
+ 274. https://en.wiktionary.org/wiki/Category:Requests_for_quotation/Fuller
+ 275. https://en.wiktionary.org/wiki/Appendix:Glossary#transitive
+ 276. https://en.wiktionary.org/wiki/source_code
+ 277. https://en.wiktionary.org/wiki/Appendix:Glossary#transitive
+ 278. https://en.wiktionary.org/wiki/comment_out
+ 279. https://en.wiktionary.org/w/index.php?title=comment&action=edit&section=8
+ 280. https://en.wiktionary.org/wiki/commentary#English
+ 281. https://en.wiktionary.org/wiki/commentate#English
+ 282. https://en.wiktionary.org/wiki/commentator#English
+ 283. https://en.wiktionary.org/wiki/comment_out#English
+ 284. https://en.wiktionary.org/wiki/uncomment#English
+ 285. https://en.wiktionary.org/w/index.php?title=comment&action=edit&section=9
+ 286. https://en.wiktionary.org/wiki/observe#Translations-to_comment
+ 287. https://en.wiktionary.org/wiki/علق#Arabic
+ 288. https://en.wiktionary.org/w/index.php?title=մեկնաբանել&action=edit&redlink=1
+ 289. https://hy.wiktionary.org/wiki/մեկնաբանել
+ 290. https://en.wiktionary.org/w/index.php?title=каменціраваць&action=edit&redlink=1
+ 291. https://en.wiktionary.org/w/index.php?title=коментирам&action=edit&redlink=1
+ 292. https://bg.wiktionary.org/wiki/коментирам
+ 293. https://en.wiktionary.org/wiki/comentar#Catalan
+ 294. https://ca.wiktionary.org/wiki/comentar
+ 295. https://en.wiktionary.org/wiki/評論#Mandarin
+ 296. https://zh.wiktionary.org/wiki/評論
+ 297. https://en.wiktionary.org/wiki/评论#Mandarin
+ 298. https://zh.wiktionary.org/wiki/评论
+ 299. https://en.wiktionary.org/wiki/komentovat#Czech
+ 300. https://cs.wiktionary.org/wiki/komentovat
+ 301. https://en.wiktionary.org/wiki/kommentere#Danish
+ 302. https://en.wiktionary.org/w/index.php?title=becommentariëren&action=edit&redlink=1
+ 303. https://en.wiktionary.org/wiki/komenti#Esperanto
+ 304. https://en.wiktionary.org/wiki/kommentoida#Finnish
+ 305. https://fi.wiktionary.org/wiki/kommentoida
+ 306. https://en.wiktionary.org/wiki/huomauttaa#Finnish
+ 307. https://fi.wiktionary.org/wiki/huomauttaa
+ 308. https://en.wiktionary.org/wiki/commenter#French
+ 309. https://fr.wiktionary.org/wiki/commenter
+ 310. https://en.wiktionary.org/wiki/kommentieren#German
+ 311. https://de.wiktionary.org/wiki/kommentieren
+ 312. https://en.wiktionary.org/w/index.php?title=σχολιάζω&action=edit&redlink=1
+ 313. https://el.wiktionary.org/wiki/σχολιάζω
+ 314. https://en.wiktionary.org/w/index.php?title=mengomentari&action=edit&redlink=1
+ 315. https://id.wiktionary.org/wiki/mengomentari
+ 316. https://en.wiktionary.org/wiki/論評#Japanese
+ 317. https://en.wiktionary.org/wiki/коментира#Macedonian
+ 318. https://en.wiktionary.org/wiki/huatau#Maori
+ 319. https://en.wiktionary.org/wiki/kommentere#Norwegian
+ 320. https://no.wiktionary.org/wiki/kommentere
+ 321. https://en.wiktionary.org/wiki/komentować#Polish
+ 322. https://pl.wiktionary.org/wiki/komentować
+ 323. https://en.wiktionary.org/wiki/comentar#Portuguese
+ 324. https://pt.wiktionary.org/wiki/comentar
+ 325. https://en.wiktionary.org/wiki/mencionar#Portuguese
+ 326. https://pt.wiktionary.org/wiki/mencionar
+ 327. https://en.wiktionary.org/wiki/комментировать#Russian
+ 328. https://ru.wiktionary.org/wiki/комментировать
+ 329. https://en.wiktionary.org/wiki/прокомментировать#Russian
+ 330. https://ru.wiktionary.org/wiki/прокомментировать
+ 331. https://en.wiktionary.org/w/index.php?title=komentovať&action=edit&redlink=1
+ 332. https://en.wiktionary.org/wiki/comentar#Spanish
+ 333. https://es.wiktionary.org/wiki/comentar
+ 334. https://en.wiktionary.org/wiki/kommentera#Swedish
+ 335. https://sv.wiktionary.org/wiki/kommentera
+ 336. https://en.wiktionary.org/wiki/వ్యాఖ్యానించు#Telugu
+ 337. https://en.wiktionary.org/w/index.php?title=коментувати&action=edit&redlink=1
+ 338. https://en.wiktionary.org/wiki/comentar#Catalan
+ 339. https://ca.wiktionary.org/wiki/comentar
+ 340. https://en.wiktionary.org/wiki/komentovat#Czech
+ 341. https://cs.wiktionary.org/wiki/komentovat
+ 342. https://en.wiktionary.org/wiki/kommentere#Danish
+ 343. https://en.wiktionary.org/w/index.php?title=becommentariëren&action=edit&redlink=1
+ 344. https://en.wiktionary.org/wiki/kommentoida#Finnish
+ 345. https://fi.wiktionary.org/wiki/kommentoida
+ 346. https://en.wiktionary.org/w/index.php?title=Kommentare_einfügen&action=edit&redlink=1
+ 347. https://en.wiktionary.org/w/index.php?title=σχολιάζω&action=edit&redlink=1
+ 348. https://el.wiktionary.org/wiki/σχολιάζω
+ 349. https://en.wiktionary.org/wiki/komentować#Polish
+ 350. https://pl.wiktionary.org/wiki/komentować
+ 351. https://en.wiktionary.org/w/index.php?title=zakomentować&action=edit&redlink=1
+ 352. https://en.wiktionary.org/wiki/comentar#Portuguese
+ 353. https://pt.wiktionary.org/wiki/comentar
+ 354. https://en.wiktionary.org/wiki/комментировать#Russian
+ 355. https://ru.wiktionary.org/wiki/комментировать
+ 356. https://en.wiktionary.org/w/index.php?title=закомментировать&action=edit&redlink=1
+ 357. https://ru.wiktionary.org/wiki/закомментировать
+ 358. https://en.wiktionary.org/wiki/Wiktionary:Entry_layout#Translations
+ 359. https://en.wiktionary.org/wiki/Wiktionary:Translations#Translations_to_be_checked
+ 360. https://en.wiktionary.org/w/index.php?title=علق_ب&action=edit&redlink=1
+ 361. https://en.wiktionary.org/wiki/Wiktionary:Translations#Translations_to_be_checked
+ 362. https://en.wiktionary.org/w/index.php?title=mainima&action=edit&redlink=1
+ 363. https://en.wiktionary.org/wiki/Wiktionary:Translations#Translations_to_be_checked
+ 364. https://en.wiktionary.org/w/index.php?title=להעיר&action=edit&redlink=1
+ 365. https://en.wiktionary.org/wiki/Wiktionary:Translations#Translations_to_be_checked
+ 366. https://en.wiktionary.org/wiki/comentar#Spanish
+ 367. https://es.wiktionary.org/wiki/comentar
+ 368. https://en.wiktionary.org/wiki/Wiktionary:Translations#Translations_to_be_checked
+ 369. https://en.wiktionary.org/wiki/kommentera#Swedish
+ 370. https://en.wiktionary.org/w/index.php?title=comment&action=edit&section=10
+ 371. https://en.wiktionary.org/wiki/document#English
+ 372. https://en.wiktionary.org/w/index.php?title=comment&action=edit&section=11
+ 373. http://www.websters1913.com/words/Comment
+ 374. https://en.wiktionary.org/wiki/Wiktionary:Webster's_Dictionary,_1913
+ 375. http://triggs.djvu.org/century-dictionary.com/nph-chw.php?query=comment&type=dicts
+ 376. http://www.onelook.com/?w=comment&ls=a
+ 377. https://en.wiktionary.org/w/index.php?title=comment&action=edit&section=12
+ 378. https://en.wiktionary.org/w/index.php?title=comment&action=edit&section=13
+ 379. https://en.wiktionary.org/wiki/comme#French
+ 380. https://en.wiktionary.org/wiki/-ment#French
+ 381. https://en.wiktionary.org/wiki/comment#cite_note-1
+ 382. https://en.wiktionary.org/w/index.php?title=comment&action=edit&section=14
+ 383. https://en.wiktionary.org/wiki/Wiktionary:International_Phonetic_Alphabet
+ 384. https://en.wiktionary.org/wiki/Appendix:French_pronunciation
+ 385. https://en.wiktionary.org/wiki/File:Fr-comment.ogg
+ 386. https://en.wiktionary.org/wiki/Rhymes:French/ɑ̃
+ 387. https://en.wiktionary.org/w/index.php?title=comment&action=edit&section=15
+ 388. https://en.wiktionary.org/wiki/how#English
+ 389. https://en.wiktionary.org/w/index.php?title=comment&action=edit&section=16
+ 390. https://en.wiktionary.org/wiki/comment_allez-vous#French
+ 391. https://en.wiktionary.org/wiki/comment_vas-tu#French
+ 392. https://en.wiktionary.org/wiki/comment_ça_va#French
+ 393. https://en.wiktionary.org/w/index.php?title=comment&action=edit&section=17
+ 394. https://en.wiktionary.org/w/index.php?title=konmen&action=edit&redlink=1
+ 395. https://en.wiktionary.org/w/index.php?title=comment&action=edit&section=18
+ 396. https://en.wiktionary.org/wiki/comment#cite_ref-1
+ 397. https://en.wiktionary.org/w/index.php?title=comment&action=edit&section=19
+ 398. http://www.cnrtl.fr/definition/comment
+ 399. https://en.wikipedia.org/wiki/fr:Trésor_de_la_langue_française_informatisé
+ 400. https://en.wiktionary.org/w/index.php?title=comment&action=edit&section=20
+ 401. https://en.wiktionary.org/w/index.php?title=comment&action=edit&section=21
+ 402. https://en.wiktionary.org/w/index.php?title=comment&action=edit&section=22
+ 403. https://en.wiktionary.org/wiki/how
+ 404. https://en.wiktionary.org/wiki/how
+ 405. https://en.wiktionary.org/w/index.php?title=comment&action=edit&section=23
+ 406. https://en.wiktionary.org/w/index.php?title=comment&action=edit&section=24
+ 407. https://en.wiktionary.org/wiki/comant#Old_French
+ 408. https://en.wiktionary.org/w/index.php?title=comment&action=edit&section=25
+ 409. https://en.wiktionary.org/w/index.php?title=comment&action=edit&section=26
+ 410. https://en.wiktionary.org/wiki/Appendix:Glossary#loanword
+ 411. https://en.wikipedia.org/wiki/English_language
+ 412. https://en.wiktionary.org/wiki/comment#English
+ 413. https://en.wiktionary.org/w/index.php?title=comment&action=edit&section=27
+ 414. https://en.wiktionary.org/wiki/comments#Portuguese
+ 415. https://en.wiktionary.org/wiki/comment#English
+ 416. https://en.wiktionary.org/wiki/remark
+ 417. https://en.wiktionary.org/w/index.php?title=comment&action=edit&section=28
+ 418. https://en.wiktionary.org/wiki/comentário#Portuguese
+ 419. https://en.wiktionary.org/w/index.php?title=comment&oldid=42885897
+ 420. https://en.wiktionary.org/wiki/Special:Categories
+ 421. https://en.wiktionary.org/wiki/Category:English_terms_inherited_from_Middle_English
+ 422. https://en.wiktionary.org/wiki/Category:English_terms_derived_from_Middle_English
+ 423. https://en.wiktionary.org/wiki/Category:English_terms_derived_from_Old_French
+ 424. https://en.wiktionary.org/wiki/Category:English_terms_derived_from_Late_Latin
+ 425. https://en.wiktionary.org/wiki/Category:English_2-syllable_words
+ 426. https://en.wiktionary.org/wiki/Category:English_terms_with_IPA_pronunciation
+ 427. https://en.wiktionary.org/wiki/Category:English_terms_with_audio_links
+ 428. https://en.wiktionary.org/wiki/Category:English_lemmas
+ 429. https://en.wiktionary.org/wiki/Category:English_nouns
+ 430. https://en.wiktionary.org/wiki/Category:English_countable_nouns
+ 431. https://en.wiktionary.org/wiki/Category:en:Programming
+ 432. https://en.wiktionary.org/wiki/Category:English_verbs
+ 433. https://en.wiktionary.org/wiki/Category:English_transitive_verbs
+ 434. https://en.wiktionary.org/wiki/Category:English_intransitive_verbs
+ 435. https://en.wiktionary.org/wiki/Category:English_terms_with_obsolete_senses
+ 436. https://en.wiktionary.org/wiki/Category:Requests_for_quotation/Fuller
+ 437. https://en.wiktionary.org/wiki/Category:en:Software
+ 438. https://en.wiktionary.org/wiki/Category:English_refractory_feminine_rhymes
+ 439. https://en.wiktionary.org/wiki/Category:English_reporting_verbs
+ 440. https://en.wiktionary.org/wiki/Category:en:Computing
+ 441. https://en.wiktionary.org/wiki/Category:French_words_suffixed_with_-ment
+ 442. https://en.wiktionary.org/wiki/Category:French_2-syllable_words
+ 443. https://en.wiktionary.org/wiki/Category:French_terms_with_IPA_pronunciation
+ 444. https://en.wiktionary.org/wiki/Category:French_terms_with_audio_links
+ 445. https://en.wiktionary.org/wiki/Category:French_lemmas
+ 446. https://en.wiktionary.org/wiki/Category:French_adverbs
+ 447. https://en.wiktionary.org/wiki/Category:French_interrogative_adverbs
+ 448. https://en.wiktionary.org/wiki/Category:French_basic_words
+ 449. https://en.wiktionary.org/wiki/Category:Middle_French_lemmas
+ 450. https://en.wiktionary.org/wiki/Category:Middle_French_adverbs
+ 451. https://en.wiktionary.org/wiki/Category:Old_French_lemmas
+ 452. https://en.wiktionary.org/wiki/Category:Old_French_adverbs
+ 453. https://en.wiktionary.org/wiki/Category:Portuguese_terms_borrowed_from_English
+ 454. https://en.wiktionary.org/wiki/Category:Portuguese_terms_derived_from_English
+ 455. https://en.wiktionary.org/wiki/Category:Portuguese_lemmas
+ 456. https://en.wiktionary.org/wiki/Category:Portuguese_nouns
+ 457. https://en.wiktionary.org/wiki/Category:Portuguese_internet_slang
+ 458. https://en.wiktionary.org/wiki/Category:Requests_for_translations_into_Basque
+ 459. https://en.wiktionary.org/wiki/Category:Requests_for_translations_into_Khmer
+ 460. https://en.wiktionary.org/wiki/Category:Requests_for_translations_into_Mongolian
+ 461. https://en.wiktionary.org/wiki/Category:Russian_redlinks
+ 462. https://en.wiktionary.org/wiki/Category:Russian_redlinks/t+
+ 463. https://en.wiktionary.org/wiki/Category:Requests_for_translations_into_Thai
+ 464. https://en.wiktionary.org/wiki/Category:Requests_for_review_of_Arabic_translations
+ 465. https://en.wiktionary.org/wiki/Category:Requests_for_review_of_French_translations
+ 466. https://en.wiktionary.org/wiki/Category:Requests_for_review_of_Hebrew_translations
+ 467. https://en.wiktionary.org/wiki/Category:Requests_for_review_of_Hindi_translations
+ 468. https://en.wiktionary.org/wiki/Category:Requests_for_review_of_Ido_translations
+ 469. https://en.wiktionary.org/wiki/Category:Requests_for_review_of_Romanian_translations
+ 470. https://en.wiktionary.org/wiki/Category:Requests_for_review_of_Swedish_translations
+ 471. https://en.wiktionary.org/wiki/Category:Requests_for_review_of_Urdu_translations
+ 472. https://en.wiktionary.org/wiki/Category:Requests_for_quotations_in_English
+ 473. https://en.wiktionary.org/wiki/Category:Requests_for_translations_into_Georgian
+ 474. https://en.wiktionary.org/wiki/Category:Requests_for_translations_into_Vietnamese
+ 475. https://en.wiktionary.org/wiki/Category:Requests_for_review_of_Estonian_translations
+ 476. https://en.wiktionary.org/wiki/Category:Requests_for_review_of_Spanish_translations
+ 477. https://en.wiktionary.org/wiki/Category:bor_without_notext
+ 478. https://en.wiktionary.org/wiki/Special:MyTalk
+ 479. https://en.wiktionary.org/wiki/Special:MyContributions
+ 480. https://en.wiktionary.org/w/index.php?title=Special:CreateAccount&returnto=comment
+ 481. https://en.wiktionary.org/w/index.php?title=Special:UserLogin&returnto=comment
+ 482. https://en.wiktionary.org/wiki/comment
+ 483. https://en.wiktionary.org/wiki/Talk:comment
+ 484. https://en.wiktionary.org/wiki/comment
+ 485. https://en.wiktionary.org/w/index.php?title=comment&action=edit
+ 486. https://en.wiktionary.org/w/index.php?title=comment&action=history
+ 487. form field = text entry field
+ 488. form field = submit button
+ 489. form field = submit button
+ 490. https://en.wiktionary.org/wiki/Wiktionary:Main_Page
+ 491. https://en.wiktionary.org/wiki/Wiktionary:Community_portal
+ 492. https://en.wiktionary.org/wiki/Wiktionary:Per-browser_preferences
+ 493. https://en.wiktionary.org/wiki/Wiktionary:Requested_entries
+ 494. https://en.wiktionary.org/wiki/Special:RecentChanges
+ 495. https://en.wiktionary.org/wiki/Special:Random
+ 496. https://en.wiktionary.org/wiki/Help:Contents
+ 497. https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&utm_medium=sidebar&utm_campaign=C13_en.wiktionary.org&uselang=en
+ 498. https://en.wiktionary.org/wiki/Wiktionary:Contact_us
+ 499. https://en.wiktionary.org/wiki/Special:WhatLinksHere/comment
+ 500. https://en.wiktionary.org/wiki/Special:RecentChangesLinked/comment
+ 501. https://commons.wikimedia.org/wiki/Special:UploadWizard?uselang=en
+ 502. https://en.wiktionary.org/wiki/Special:SpecialPages
+ 503. https://en.wiktionary.org/w/index.php?title=comment&oldid=42885897
+ 504. https://en.wiktionary.org/w/index.php?title=comment&action=info
+ 505. https://en.wiktionary.org/w/index.php?title=Special:CiteThisPage&page=comment&id=42885897
+ 506. https://ar.wiktionary.org/wiki/comment
+ 507. https://an.wiktionary.org/wiki/comment
+ 508. https://cs.wiktionary.org/wiki/comment
+ 509. https://co.wiktionary.org/wiki/comment
+ 510. https://cy.wiktionary.org/wiki/comment
+ 511. https://da.wiktionary.org/wiki/comment
+ 512. https://de.wiktionary.org/wiki/comment
+ 513. https://et.wiktionary.org/wiki/comment
+ 514. https://el.wiktionary.org/wiki/comment
+ 515. https://es.wiktionary.org/wiki/comment
+ 516. https://fa.wiktionary.org/wiki/comment
+ 517. https://fr.wiktionary.org/wiki/comment
+ 518. https://ko.wiktionary.org/wiki/comment
+ 519. https://hy.wiktionary.org/wiki/comment
+ 520. https://hr.wiktionary.org/wiki/comment
+ 521. https://io.wiktionary.org/wiki/comment
+ 522. https://id.wiktionary.org/wiki/comment
+ 523. https://it.wiktionary.org/wiki/comment
+ 524. https://kn.wiktionary.org/wiki/comment
+ 525. https://kk.wiktionary.org/wiki/comment
+ 526. https://ku.wiktionary.org/wiki/comment
+ 527. https://lo.wiktionary.org/wiki/comment
+ 528. https://lv.wiktionary.org/wiki/comment
+ 529. https://lt.wiktionary.org/wiki/comment
+ 530. https://li.wiktionary.org/wiki/comment
+ 531. https://hu.wiktionary.org/wiki/comment
+ 532. https://mg.wiktionary.org/wiki/comment
+ 533. https://ml.wiktionary.org/wiki/comment
+ 534. https://mt.wiktionary.org/wiki/comment
+ 535. https://my.wiktionary.org/wiki/comment
+ 536. https://nl.wiktionary.org/wiki/comment
+ 537. https://ja.wiktionary.org/wiki/comment
+ 538. https://no.wiktionary.org/wiki/comment
+ 539. https://km.wiktionary.org/wiki/comment
+ 540. https://pl.wiktionary.org/wiki/comment
+ 541. https://pt.wiktionary.org/wiki/comment
+ 542. https://ru.wiktionary.org/wiki/comment
+ 543. https://sa.wiktionary.org/wiki/comment
+ 544. https://simple.wiktionary.org/wiki/comment
+ 545. https://fi.wiktionary.org/wiki/comment
+ 546. https://sv.wiktionary.org/wiki/comment
+ 547. https://ta.wiktionary.org/wiki/comment
+ 548. https://te.wiktionary.org/wiki/comment
+ 549. https://chr.wiktionary.org/wiki/comment
+ 550. https://tr.wiktionary.org/wiki/comment
+ 551. https://ug.wiktionary.org/wiki/comment
+ 552. https://vi.wiktionary.org/wiki/comment
+ 553. https://wa.wiktionary.org/wiki/comment
+ 554. https://zh.wiktionary.org/wiki/comment
+ 555. https://en.wiktionary.org/w/index.php?title=Special:Book&bookcmd=book_creator&referer=comment
+ 556. https://en.wiktionary.org/w/index.php?title=Special:Book&bookcmd=render_article&arttitle=comment&returnto=comment&oldid=42885897&writer=rdf2latex
+ 557. https://en.wiktionary.org/w/index.php?title=comment&printable=yes
+ 558. https://creativecommons.org/licenses/by-sa/3.0/
+ 559. https://wikimediafoundation.org/wiki/Terms_of_Use
+ 560. https://wikimediafoundation.org/wiki/Privacy_policy
+ 561. https://wikimediafoundation.org/wiki/Privacy_policy
+ 562. https://en.wiktionary.org/wiki/Wiktionary:About
+ 563. https://en.wiktionary.org/wiki/Wiktionary:General_disclaimer
+ 564. https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute
+ 565. https://wikimediafoundation.org/wiki/Cookie_statement
+ 566. https://en.m.wiktionary.org/w/index.php?title=comment&mobileaction=toggle_view_mobile
+ 567. https://wikimediafoundation.org/
+ 568. https://www.mediawiki.org/
+
+   Hidden links:
+ 570. https://en.wiktionary.org/wiki/comment
+ 571. https://en.wiktionary.org/wiki/comment
+ 572. https://en.wiktionary.org/wiki/Wiktionary:Main_Page

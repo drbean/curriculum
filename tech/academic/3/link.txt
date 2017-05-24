@@ -1,0 +1,2200 @@
+   #[1]Edit [2]Wiktionary (en) [3]copyright [4]Wiktionary Atom feed
+
+link
+
+   Definition from Wiktionary, the free dictionary
+   Jump to: [5]navigation, [6]search
+
+          For Wiktionary's links, see [7]Wiktionary:Links
+
+   See also: [8]Link
+
+Contents
+
+     * [9]1 English
+          + [10]1.1 Pronunciation
+          + [11]1.2 Etymology 1
+               o [12]1.2.1 Noun
+                    # [13]1.2.1.1 Holonyms
+               o [14]1.2.2 Hyponyms
+                    # [15]1.2.2.1 Derived terms
+               o [16]1.2.3 Related terms
+                    # [17]1.2.3.1 Translations
+               o [18]1.2.4 Verb
+                    # [19]1.2.4.1 Derived terms
+                    # [20]1.2.4.2 Translations
+          + [21]1.3 Etymology 2
+               o [22]1.3.1 Noun
+                    # [23]1.3.1.1 Derived terms
+                    # [24]1.3.1.2 Translations
+          + [25]1.4 Etymology 3
+               o [26]1.4.1 Verb
+                    # [27]1.4.1.1 Translations
+          + [28]1.5 References
+          + [29]1.6 Anagrams
+     * [30]2 Czech
+          + [31]2.1 Pronunciation
+          + [32]2.2 Noun
+     * [33]3 Danish
+          + [34]3.1 Etymology
+          + [35]3.2 Pronunciation
+          + [36]3.3 Noun
+               o [37]3.3.1 Synonyms
+               o [38]3.3.2 Inflection
+     * [39]4 Dutch
+          + [40]4.1 Pronunciation
+          + [41]4.2 Etymology 1
+               o [42]4.2.1 Adjective
+                    # [43]4.2.1.1 Inflection
+                    # [44]4.2.1.2 Derived terms
+          + [45]4.3 Etymology 2
+               o [46]4.3.1 Noun
+                    # [47]4.3.1.1 Synonyms
+                    # [48]4.3.1.2 Derived terms
+          + [49]4.4 References
+     * [50]5 German
+          + [51]5.1 Etymology
+          + [52]5.2 Pronunciation
+          + [53]5.3 Adjective
+          + [54]5.4 Further reading
+     * [55]6 Hungarian
+          + [56]6.1 Pronunciation
+          + [57]6.2 Etymology 1
+               o [58]6.2.1 Noun
+                    # [59]6.2.1.1 Declension
+          + [60]6.3 Etymology 2
+               o [61]6.3.1 Adjective
+                    # [62]6.3.1.1 Declension
+          + [63]6.4 References
+     * [64]7 Italian
+          + [65]7.1 Etymology
+          + [66]7.2 Noun
+               o [67]7.2.1 Synonyms
+               o [68]7.2.2 Derived terms
+     * [69]8 Lithuanian
+          + [70]8.1 Pronunciation
+          + [71]8.2 Preposition
+     * [72]9 Polish
+          + [73]9.1 Etymology
+          + [74]9.2 Pronunciation
+          + [75]9.3 Noun
+               o [76]9.3.1 Declension
+               o [77]9.3.2 Synonyms
+     * [78]10 Portuguese
+          + [79]10.1 Etymology
+          + [80]10.2 Noun
+               o [81]10.2.1 Synonyms
+     * [82]11 Spanish
+          + [83]11.1 Noun
+
+English[[84]edit]
+
+   [85]Wikipedia has an article on:
+   [86]link
+   [87]Wikipedia
+
+Pronunciation[[88]edit]
+
+     * [89]IPA^([90]key): /lɪŋk/
+     *
+
+       Audio (US)
+
+       ([91]file)
+     * Rhymes: [92]-ɪŋk
+
+Etymology 1[[93]edit]
+
+   From [94]Middle English [95]linke, [96]lenke, from a merger of [97]Old
+   English [98]hlenċe, [99]hlenċa (“ring; chainkink”) and [100]Old Norse
+   [101]*hlenkr, [102]hlekkr (“ring; chain”); both from
+   [103]Proto-Germanic [104]*hlankiz (“ring; bond; fettle; fetter”). Used
+   in English since the 14th century. Related to [105]lank.
+
+Noun[[106]edit]
+
+   link (plural [107]links)
+    1. A [108]connection between [109]places, [110]people, [111]events,
+       [112]things, or [113]ideas.
+
+                The mayor’s assistant serves as the link to the media.
+
+          + Cowper
+
+                      The link of brotherhood, by which / One common Maker
+                      bound me to the kind.
+
+          + Gascoigne
+
+                      And so by double links enchained themselves in
+                      lover's life.
+
+    2. One element of a [114]chain or other connected series.
+
+                The third link of the silver chain needs to be resoldered.
+                The weakest link.
+
+    3. Abbreviation of [115]hyperlink.
+
+                The link on the page points to the sports scores.
+
+    4. ([116]computing) The connection between [117]buses or systems.
+
+                A by-N-link is composed of N lanes.
+
+    5. ([118]mathematics) A [119]space [120]comprising one or more
+       [121]disjoint [122]knots.
+    6. ([123]Sussex) a thin wild bank of land splitting two cultivated
+       patches and often linking two hills.
+          + 2008, Richard John King, A Handbook for Travellers in Kent and
+            Sussex
+
+                      They used formerly to live in caves or huts dug into
+                      the side of a bank or "link," and lined with heath
+                      or straw.
+
+    7. ([124]figuratively) an individual person or element in a
+       [125]system
+          + 2010, James O. Young, My Sheep Know My Voice: anointed poetry,
+            AuthorHouse, [126]page 32:
+
+                      But know that God is the strongest link.
+
+          + 2010, William Lidwell, Kritina Holden, Jill Butler, Universal
+            Principles of Design, RockPort, [127]page 262:
+
+                      The fuse is the weakest link in the system. As such,
+                      the fuse is also the most valuable link in the
+                      system.
+
+          + 2010, Stephen Fairweather, The Missing Book of Genesis,
+            AuthorHouse, [128]page 219:
+
+                      […] . This is so that nobody can change the way
+                      every link must talk about the formula that I taught
+                      to make a real Chain of Universal Love and not a
+                      Chain of Love of a group or sect.”
+
+    8. Anything doubled and closed like a link of a chain.
+
+                a link of horsehair
+                (Can we [129]find and add a quotation of Mortimer to this
+                entry?)
+
+    9. A [130]sausage that is not a patty.
+   10. (kinematics) Any one of the several elementary pieces of a
+       mechanism, such as the fixed frame, or a rod, wheel, mass of
+       confined liquid, etc., by which relative motion of other parts is
+       produced and constrained.
+   11. (engineering) Any intermediate rod or piece for transmitting force
+       or motion, especially a short connecting rod with a bearing at each
+       end; specifically (in steam engines) the slotted bar, or connecting
+       piece, to the opposite ends of which the eccentric rods are
+       jointed, and by means of which the movement of the valve is varied,
+       in a link motion.
+   12. (surveying) The length of one joint of Gunter's chain, being the
+       hundredth part of it, or 7.92 inches, the chain being 66 feet in
+       length.
+   13. ([131]chemistry) A [132]bond of [133]affinity, or a [134]unit of
+       [135]valence between [136]atoms; applied to a unit of chemical
+       force or attraction.
+
+Holonyms[[137]edit]
+
+     * [138]chain
+
+Hyponyms[[139]edit]
+
+   Hyponyms of link
+     * [140]backlink
+     * [141]deep link
+
+     * [142]hyperlink
+     * [143]missing link
+
+     * [144]permalink
+     * [145]sausage link
+
+     * [146]symlink
+
+Derived terms[[147]edit]
+
+   Terms derived from link
+     * [148]chainlink
+     * [149]cufflink
+
+     * [150]linkage
+     * [151]link language
+
+     * [152]linkless
+     * [153]link-up
+
+     * [154]OpenLink
+
+Related terms[[155]edit]
+
+     * [156]link farm
+
+Translations[[157]edit]
+
+   connection
+     * Aromanian: [158]ligãturã f
+     * Catalan: [159]enllaç [160](ca) m, [161]vincle [162](ca) m
+     * Chinese:
+
+                Mandarin: [163]連結 [164](zh), [165]连结 [166](zh) (liánjié)
+
+     * Czech: [167]spojení [168](cs) n, [169]propojení n
+     * Danish: [170]forbindelse c
+     * Dutch: [171]link [172](nl) m, [173]verbinding [174](nl) f,
+       [175]relatie [176](nl) f, [177]koppeling [178](nl) f
+     * Finnish: [179]yhteys [180](fi), [181]sidos [182](fi)
+     * French: [183]lien [184](fr) m, [185]connexion [186](fr) f,
+       [187]rapport [188](fr) m
+     * Georgian: [189]კავშირი (ḳavširi)
+     * German: [190]Verbindung [191](de) f
+     * Hebrew: [192]קשר [193](he) m, [194]קישור [195](he) m
+     * Hungarian: [196]kapcsolat [197](hu), [198]kapcsolódás
+     * Ido: [199]ligilo [200](io)
+     * Indonesian: [201]pranala [202](id)
+     * Italian: [203]collegamento [204](it) m, [205]lega [206](it) f,
+       [207]legame [208](it) m, [209]connessione [210](it) f,
+       [211]rapporto [212](it) m
+
+     * Javanese: [213]pranala
+     * Korean: [214]연결 [215](ko) (yeon-gyeol)
+     * Latvian: [216]saikne f
+     * Macedonian: [217]врска f (v'rska)
+     * Malay: [218]pautan
+     * Maori: [219]hononga
+     * Norman: [220]lian m (Jersey)
+     * Persian: [221]پیوند [222](fa) (peyvand)
+     * Portuguese: [223]ligação [224](pt) f, [225]vínculo [226](pt) m
+     * Romanian: [227]legătură [228](ro) f
+     * Russian: [229]связь [230](ru) f (svjazʹ)
+     * Slovene: [231]povezava f, [232]zveza f
+     * Spanish: [233]enlace [234](es) m, [235]vínculo [236](es) m,
+       [237]lazo [238](es) m
+     * Swedish: [239]anknytning [240](sv) c, [241]länk [242](sv) c
+     * West Frisian: [243]ferbining, [244]keppeling
+
+   element of a chain
+     * Catalan: [245]baula f
+     * Chinese:
+
+                Mandarin: [246]連結 [247](zh), [248]连结 [249](zh) (liánjíe)
+
+     * Czech: [250]článek [251](cs) m
+     * Danish: [252]led [253](da)
+     * Dutch: [254]schakel [255](nl) m, [256]schalm m,
+       [257]link [258](nl) m
+     * Esperanto: [259]ĉenero
+     * Finnish: [260]linkki [261](fi)
+     * French: [262]maillon [263](fr), [264]chaînon [265](fr) m
+     * Galician: [266]elo [267](gl) m
+     * German: [268]Verknüpfung [269](de) f
+     * Hebrew: [270]חוליה f
+     * Hungarian: [271]láncszem [272](hu)
+     * Italian: [273]anello [274](it) m, [275]maglia [276](it) f
+
+     * Latgalian: [277]trūps m, [278]puosmys m
+     * Latvian: [279]posms m
+     * Macedonian: [280]а́лка f (álka)
+     * Norman: [281]lian m (Jersey)
+     * Persian: [282]حلقه [283](fa) (halghe)
+     * Polish: [284]ogniwo [285](pl) n
+     * Portuguese: [286]elo [287](pt) m
+     * Romanian: [288]verigă [289](ro) f, [290]za [291](ro) f
+     * Russian: [292]звено́ [293](ru) n (zvenó)
+     * Slovene: [294]člen m
+     * Spanish: [295]eslabón [296](es) m
+     * Swedish: [297]länk [298](sv) c
+     * West Frisian: [299]keppeling
+
+   computing: connection between busses or systems
+     * Catalan: [300]enllaç [301](ca) m, [302]link [303](ca) m
+     * Danish: [304]link [305](da), [306]forbindelse
+     * Dutch: [307]link [308](nl), [309]verbinding [310](nl) f
+     * Galician: [311]ligazón m
+     * German: [312]Verknüpfung [313](de) m
+     * Ido: [314]ligilo [315](io)
+
+     * Italian: [316]connessione [317](it) f
+     * Macedonian: [318]врска f (v'rska)
+     * Persian: [319]پیوند [320](fa) (peyvand), [321]اتصال [322](fa)
+       (ettesâl)
+     * Portuguese: [323]ligação [324](pt) f
+     * Spanish: [325]enlace [326](es) m, [327]vínculo [328](es) m
+
+   computing: hyperlink
+     * Arabic: [329]رَابِط m (rābiṭ), [330]رَوَابِط m pl, pl (rawābiṭ)
+     * Bulgarian: [331]линк m (link)
+     * Catalan: [332]enllaç [333](ca) m, [334]vincle [335](ca) m
+     * Chinese:
+
+                Mandarin: [336]連結 [337](zh), [338]连结 [339](zh) (liánjié),
+                [340]鏈接 [341](zh), [342]链接 [343](zh) (liànjiē)
+
+     * Crimean Tatar: [344]bağlantı
+     * Czech: [345]odkaz m
+     * Danish: [346]link [347](da)
+     * Dutch: [348]link [349](nl), [350]koppeling [351](nl) f,
+       [352]verwijzing [353](nl) f
+     * Esperanto: [354]ligilo
+     * Finnish: [355]linkki [356](fi)
+     * French: [357]lien [358](fr) m, lien [359]hypertexte [360](fr),
+       [361]hyperlien [362](fr) m
+     * Galician: [363]ligazón m, [364]hiperligazón m
+     * Georgian: [365]ბმული (bmuli), [366]ლინკი (linḳi)
+     * German: [367]Link [368](de) m, [369]Hyperlink [370](de) m
+     * Hebrew: [371]לינק m
+     * Hungarian: [372]hivatkozás [373](hu), [374]link [375](hu)
+     * Ido: [376]ligilo [377](io), [378]hiperligilo
+     * Indonesian: [379]pranala [380](id), [381]tautan [382](id)
+     * Irish: [383]nasc [384](ga) m
+
+     * Italian: [385]link [386](it) m, [387]collegamento [388](it) m
+     * Japanese: [389]リンク (rinku)
+     * Korean: [390]링크 [391](ko) (ringkeu)
+     * Kyrgyz: [392]шилтеме [393](ky) f (şilteme)
+     * Latvian: [394]saite
+     * Lower Sorbian: [395]link m
+     * Macedonian: [396]врска f (v'rska), [397]хиперврска [398](mk) f
+       (hiperv'rska)
+     * Malay: [399]pautan
+     * Norman: [400]lian m (Jersey)
+     * Ossetian: [401]æрвитæн (ærvitæn)
+     * Persian: [402]پیوند [403](fa) (peyvand), [404]لینک (link)
+     * Polish: [405]link [406](pl) m, [407]hiperłącze n,
+       [408]odsyłacz [409](pl) m, [410]odnośnik m, [411]łącze n
+     * Portuguese: [412]ligação [413](pt) f, [414]link [415](pt)
+     * Romanian: [416]hyperlink n, [417]legătură [418](ro) f
+     * Russian: [419]ссы́лка [420](ru) f (ssýlka),
+       [421]гиперссы́лка [422](ru) f (giperssýlka), [423]линк [424](ru) m
+       (link)
+     * Slovene: [425]povezava f
+     * Spanish: [426]enlace [427](es) m, [428]vínculo [429](es) m,
+       [430]hiperenlace [431](es) m, [432]hipervínculo [433](es) m
+     * Swedish: [434]hyperlänk [435](sv) c, [436]länk [437](sv) c
+     * Walloon: [438]hårdêye [439](wa) f, [440]loyén [441](wa) m
+
+   mathematics: a space comprising one or more disjoint knots
+   a thin wild bank of land splitting two cultivated patches
+
+          The translations below need to be checked and inserted above
+          into the appropriate translation tables, removing any numbers.
+          Numbers do not necessarily match those in definitions. See
+          instructions at [442]Wiktionary:Entry layout#Translations.
+
+   Translations to be checked
+     * Norman: ^(please [443]verify) [444]lian (Jersey)
+
+     * Romanian: ^(please [445]verify) [446]legătură [447](ro) f
+
+Verb[[448]edit]
+
+   link (third-person singular simple present [449]links, present
+   participle [450]linking, simple past and past participle [451]linked)
+    1. ([452]transitive) To [453]connect two or more things.
+          + Eustace
+
+                      All the tribes and nations that composed it [the
+                      Roman Empire] were linked together, not only by the
+                      same laws and the same government, but by all the
+                      facilities of commodious intercourse, and of
+                      frequent communication.
+
+    2. ([454]intransitive, of a Web page) To contain a [455]hyperlink to
+       another page.
+
+                My homepage links to my wife's.
+
+    3. ([456]transitive, [457]Internet) To supply (somebody) with a
+       [458]hyperlink; to [459]direct by means of a link.
+
+                Haven't you seen his Web site? I'll link you to it.
+
+    4. ([460]transitive, [461]Internet) To post a [462]hyperlink to.
+
+                Stop linking those unfunny comics all the time!
+
+    5. ([463]transitive) To demonstrate a [464]correlation between two
+       things.
+    6. (software [465]compilation) To combine [466]objects generated by a
+       [467]compiler into a single [468]executable.
+
+Derived terms[[469]edit]
+
+     * [470]link up
+
+Translations[[471]edit]
+
+   connect things
+     * Catalan: [472]lligar [473](ca), [474]enllaçar [475](ca),
+       [476]vinclar [477](ca)
+     * Danish: [478]forbinde, [479]kæde, [480]sammenkæde
+     * Dutch: [481]verbinden [482](nl), [483]linken [484](nl) (hyperlinks)
+     * Finnish: [485]yhdistää [486](fi)
+     * French: [487]relier [488](fr), [489]lier [490](fr)
+     * German: [491]verbinden [492](de), [493]verknüpfen [494](de)
+     * Hungarian: [495]összekapcsol [496](hu)
+     * Indonesian: [497]menghubungkan [498](id)
+     * Italian: [499]collegare [500](it), [501]connettere [502](it),
+       (hyperlinks) [503]linkare
+     * Khmer: [504]ជាប់ [505](km) (coap), [506]ភ្ជាប់ [507](km) (pcoap)
+     * Kyrgyz: [508]шилтөө [509](ky) (şiltöö)
+
+     * Lao: please add this translation if you can
+     * Macedonian: [510]врзува (v'rzuva), [511]поврзува (pov'rzuva),
+       [512]сврзува (sv'rzuva)
+     * Maori: [513]tūhono, [514]hono, [515]tauhere
+     * Persian: [516]پیوستن [517](fa) (peyvastan)
+     * Portuguese: [518]ligar [519](pt), [520]relacionar [521](pt)
+     * Russian: [522]свя́зывать [523](ru) (svjázyvatʹ)
+     * Slovene: [524]povezati
+     * Spanish: [525]relacionar [526](es)
+     * Swedish: [527]länka [528](sv)
+     * Thai: please add this translation if you can
+     * Vietnamese: please add this translation if you can
+
+   to contain a hyperlink to another page
+     * Catalan: [529]enllaçar [530](ca)
+     * Czech: [531]odkazovat
+     * French: ^(please [532]verify) [533]être lié (à) [534](fr) ,
+       ^(please [535]verify) [536]pointer [537](fr) (sur), ^(please
+       [538]verify) [539]contenir [540]un [541]lien ([542]vers), ^(please
+       [543]verify) [544]être hyperlié (à) [545](fr)
+     * German: [546]linken [547](de), [548]verlinken [549](de)
+
+     * Hungarian: [550]hivatkozik [551](hu)
+     * Irish: [552]nasc [553](ga)
+     * Persian: [554]پیوند [555](fa) (peyvand)
+     * Portuguese: [556]linkar [557](pt)
+
+Etymology 2[[558]edit]
+
+   Plausibly a modification of [559]Medieval Latin [560]linchinus
+   (“candle”), an alteration of [561]Latin [562]lynchinus, itself from
+   [563]Ancient Greek [564]λύχνος (lúkhnos, “lamp”).
+
+Noun[[565]edit]
+
+   link (plural [566]links)
+    1. ([567]obsolete) A [568]torch, used to light dark streets.
+          + 1854, Dickens, Hard Times, Chapter 7:
+
+                      You were coming out of the Italian Opera, ma’am, in
+                      white satin and jewels, a blaze of splendour, when I
+                      hadn’t a penny to buy a link to light you.’
+
+          + 1883, Robert Louis Stevenson, Treasure Island
+
+                      "Give me a loan of the link, Dick."
+
+                (Can we [569]find and add a quotation of Shakespeare to
+                this entry?)
+
+Derived terms[[570]edit]
+
+     * [571]linkboy
+     * [572]linkman
+
+Translations[[573]edit]
+
+   torch
+     * Catalan: [574]torxa [575](ca) f
+     * Dutch: [576]fakkel [577](nl) m, [578]flambouw [579](nl) m,
+       [580]toorts [581](nl) f
+
+     * French: [582]flambeau [583](fr) m, [584]torche [585](fr) f
+     * Latvian: [586]lāpa f
+
+Etymology 3[[587]edit]
+
+   Origin unknown.
+
+Verb[[588]edit]
+
+   link (third-person singular simple present [589]links, present
+   participle [590]linking, simple past and past participle [591]linked)
+    1. ([592]Scotland) To [593]skip or [594]trip along [595]smartly.
+
+   (Can we add an [596]example for this sense?)
+
+Translations[[597]edit]
+
+   skip along
+
+References[[598]edit]
+
+     * Webster's Seventh New Collegiate Dictionary, Springfield,
+       Massachusetts, G.&C. Merriam Co., 1967
+
+Anagrams[[599]edit]
+
+     * [600]kiln
+     __________________________________________________________________
+
+Czech[[601]edit]
+
+Pronunciation[[602]edit]
+
+     * [603]IPA^([604]key): /lɪŋk/
+     * Rhymes: [605]-ɪŋk
+
+Noun[[606]edit]
+
+   link m
+    1. [607]link, [608]hyperlink
+     __________________________________________________________________
+
+Danish[[609]edit]
+
+   Danish [610]Wikipedia has an article on:
+   [611]link
+   [612]Wikipedia ^da
+
+Etymology[[613]edit]
+
+   [614]Borrowing from [615]English [616]link (since 1995).
+
+Pronunciation[[617]edit]
+
+     * [618]IPA^([619]key): /lenɡk/, [leŋɡ̊]
+
+Noun[[620]edit]
+
+   link n (singular definite [621]linket, plural indefinite [622]link or
+   [623]links)
+    1. [624]link ([625]hyperlink)
+
+Synonyms[[626]edit]
+
+     * [627]hyperlink
+
+Inflection[[628]edit]
+
+   Declension of link
+   neuter
+   gender Singular Plural
+   indefinite definite indefinite definite
+   [629]nominative link [630]linket link
+   [631]links [632]linkene
+   [633]genitive [634]links [635]linkets [636]links
+   [637]links' [638]linkenes
+     __________________________________________________________________
+
+Dutch[[639]edit]
+
+Pronunciation[[640]edit]
+
+     * Rhymes: [641]-ɪŋk
+
+Etymology 1[[642]edit]
+
+Adjective[[643]edit]
+
+   link ([644]comparative [645]linker, [646]superlative [647]linkst)
+    1. [648]dangerous
+    2. (criminal [649]slang) [650]sly; [651]cunning
+    3. ([652]slang) [653]jolly, [654]nice
+
+Inflection[[655]edit]
+
+   Inflection of link
+   uninflected link
+   inflected [656]linke
+   comparative [657]linker
+   [658]positive [659]comparative [660]superlative
+   [661]predicative/[662]adverbial link [663]linker het [664]linkst
+   het [665]linkste
+   [666]indefinite [667]m./[668]f. [669]sing. [670]linke [671]linkere
+   [672]linkste
+   [673]n. [674]sing. link [675]linker [676]linkste
+   [677]plural [678]linke [679]linkere [680]linkste
+   [681]definite [682]linke [683]linkere [684]linkste
+   [685]partitive [686]links [687]linkers —
+
+Derived terms[[688]edit]
+
+     * [689]linkerd
+
+Etymology 2[[690]edit]
+
+   [691]Borrowing from [692]English [693]link, only since late 20th
+   century.
+
+Noun[[694]edit]
+
+   link m (plural [695]links, [696]diminutive [697]linkje n)
+    1. physical [698]connection, as in a [699]hardware cable
+    2. ([700]figuratively) logical [701]connection, as in [702]reasoning
+       about [703]causality
+    3. [704]hyperlink
+
+Synonyms[[705]edit]
+
+     * (physical connection): [706]verbinding
+     * (logical connection): [707]verband
+     * (hyperlink): [708]koppeling, [709]verwijzing
+
+Derived terms[[710]edit]
+
+     * [711]linken
+
+References[[712]edit]
+
+     * M. J. Koenen & J. Endepols, Verklarend Handwoordenboek der
+       Nederlandse Taal (tevens Vreemde-woordentolk), Groningen,
+       Wolters-Noordhoff, 1969 (26th edition) [Dutch dictionary in Dutch]
+     __________________________________________________________________
+
+German[[713]edit]
+
+Etymology[[714]edit]
+
+   From [715]Middle High German [716]linc, from [717]Old High German
+   [718]*link; compare [719]Old High German [720]linka (“the left hand”).
+
+Pronunciation[[721]edit]
+
+     * [722]IPA^([723]key): /lɪŋk/
+     *
+
+       Audio
+
+       ([724]file)
+
+Adjective[[725]edit]
+
+   link
+    1. [726]left
+    2. [727]sly; [728]cunning.
+    3. [729]dangerous.
+
+Further reading[[730]edit]
+
+     * [731]link in Duden online
+     __________________________________________________________________
+
+Hungarian[[732]edit]
+
+Pronunciation[[733]edit]
+
+     * [734]IPA^([735]key): [ˈliŋk]
+     *
+
+       Audio
+
+       ([736]file)
+
+Etymology 1[[737]edit]
+
+   [738]Borrowing from [739]English [740]link. ^[741][1]
+
+Noun[[742]edit]
+
+   link (plural [743]linkek)
+    1. [744]link, [745]hyperlink
+
+Declension[[746]edit]
+
+      Inflection (stem in -e-, front unrounded harmony)
+                   singular              plural
+    nominative   link          [747]linkek
+    accusative   [748]linket   [749]linkeket
+      dative     [750]linknek  [751]linkeknek
+   instrumental  [752]linkkel  [753]linkekkel
+   causal-final  [754]linkért  [755]linkekért
+    translative  [756]linkké   [757]linkekké
+    terminative  [758]linkig   [759]linkekig
+   essive-formal [760]linkként [761]linkekként
+   essive-modal  —             —
+     inessive    [762]linkben  [763]linkekben
+    superessive  [764]linken   [765]linkeken
+     adessive    [766]linknél  [767]linkeknél
+     illative    [768]linkbe   [769]linkekbe
+     sublative   [770]linkre   [771]linkekre
+     allative    [772]linkhez  [773]linkekhez
+      elative    [774]linkből  [775]linkekből
+     delative    [776]linkről  [777]linkekről
+     ablative    [778]linktől  [779]linkektől
+                [780]Possessive forms of link
+       possessor     single possession multiple possessions
+   1st person sing.  [781]linkem       [782]linkjeim
+   2nd person sing.  [783]linked       [784]linkjeid
+   3rd person sing.  [785]linkje       [786]linkjei
+   1st person plural [787]linkünk      [788]linkjeink
+   2nd person plural [789]linketek     [790]linkjeitek
+   3rd person plural [791]linkjük      [792]linkjeik
+
+Etymology 2[[793]edit]
+
+   [794]Borrowing from [795]Yiddish [796]לינק (link), [797]German
+   [798]link (both meaning "left, sinister").^[799][1]
+
+Adjective[[800]edit]
+
+   link (comparative [801]linkebb, superlative [802]leglinkebb)
+    1. ([803]colloquial) [804]fishy, [805]shifty (dishonest, criminal,
+       unreliable)
+
+                link alak ― crook
+
+Declension[[806]edit]
+
+   This adjective needs an [807]inflection-table template.
+
+References[[808]edit]
+
+    1. ↑ ^[809]1.0 ^[810]1.1 [811]Tótfalusi István, Idegenszó-tár: Idegen
+       szavak értelmező és etimológiai szótára. Tinta Könyvkiadó,
+       Budapest, 2005, [812]ISBN [813]963 7094 20 2
+     __________________________________________________________________
+
+Italian[[814]edit]
+
+   Italian [815]Wikipedia has an article on:
+   [816]link
+   [817]Wikipedia ^it
+
+Etymology[[818]edit]
+
+   [819]Borrowing from [820]English [821]link.
+
+Noun[[822]edit]
+
+   link m (invariable)
+    1. ([823]computing) [824]link (hyperlink)
+
+Synonyms[[825]edit]
+
+     * [826]collegamento
+
+Derived terms[[827]edit]
+
+     * [828]linkare
+     __________________________________________________________________
+
+Lithuanian[[829]edit]
+
+Pronunciation[[830]edit]
+
+     * [831]IPA^([832]key): [liŋk]
+
+Preposition[[833]edit]
+
+   lĩnk
+    1. [834]toward (used with genitive case)
+     __________________________________________________________________
+
+Polish[[835]edit]
+
+Etymology[[836]edit]
+
+   [837]Borrowing from [838]English [839]link.
+
+Pronunciation[[840]edit]
+
+     * [841]IPA^([842]key): [lʲĩŋk]
+     *
+
+       Audio
+
+       ([843]file)
+
+Noun[[844]edit]
+
+   link m inan
+    1. [845]link, [846]hyperlink
+
+Declension[[847]edit]
+
+   declension of link
+                  singular      plural
+    nominative  link         [848]linki
+     genitive   [849]linku   [850]linków
+      dative    [851]linkowi [852]linkom
+    accusative  link         [853]linki
+   instrumental [854]linkiem [855]linkami
+     locative   [856]linku   [857]linkach
+     vocative   [858]linku   [859]linki
+
+Synonyms[[860]edit]
+
+     * [861]hiperłącze
+     __________________________________________________________________
+
+Portuguese[[862]edit]
+
+Etymology[[863]edit]
+
+   [864]Borrowing from [865]English [866]link.
+
+Noun[[867]edit]
+
+   link m (plural [868]links)
+    1. ([869]computing) [870]link (text or a graphic that can be activated
+       to open another document)
+
+Synonyms[[871]edit]
+
+     * [872]linque
+     * [873]hiperligação
+     * [874]ligação
+     __________________________________________________________________
+
+Spanish[[875]edit]
+
+Noun[[876]edit]
+
+   link m (plural [877]links)
+    1. ([878]computing) [879]link
+
+   Retrieved from
+   "[880]https://en.wiktionary.org/w/index.php?title=link&oldid=42880589"
+   [881]Categories:
+     * [882]English 1-syllable words
+     * [883]English terms with IPA pronunciation
+     * [884]English terms with audio links
+     * [885]English terms inherited from Middle English
+     * [886]English terms derived from Middle English
+     * [887]English terms inherited from Old English
+     * [888]English terms derived from Old English
+     * [889]English terms derived from Old Norse
+     * [890]English terms inherited from Proto-Germanic
+     * [891]English terms derived from Proto-Germanic
+     * [892]English lemmas
+     * [893]English nouns
+     * [894]English countable nouns
+     * [895]English abbreviations
+     * [896]en:Computing
+     * [897]en:Mathematics
+     * [898]Sussex English
+     * [899]Requests for quotation/Mortimer
+     * [900]en:Engineering
+     * [901]en:Surveying
+     * [902]en:Chemistry
+     * [903]English verbs
+     * [904]English transitive verbs
+     * [905]English intransitive verbs
+     * [906]en:Internet
+     * [907]en:Compilation
+     * [908]English terms derived from Medieval Latin
+     * [909]English terms derived from Latin
+     * [910]English terms derived from Ancient Greek
+     * [911]English terms with obsolete senses
+     * [912]Requests for quotation/Shakespeare
+     * [913]Scottish English
+     * [914]Czech 1-syllable words
+     * [915]Czech terms with IPA pronunciation
+     * [916]Czech lemmas
+     * [917]Czech nouns
+     * [918]Czech masculine nouns
+     * [919]Danish terms borrowed from English
+     * [920]Danish terms derived from English
+     * [921]Danish terms with IPA pronunciation
+     * [922]Danish lemmas
+     * [923]Danish nouns
+     * [924]Dutch lemmas
+     * [925]Dutch adjectives
+     * [926]Dutch slang
+     * [927]Dutch terms borrowed from English
+     * [928]Dutch terms derived from English
+     * [929]Dutch nouns
+     * [930]Dutch nouns with plural in -s
+     * [931]German terms inherited from Middle High German
+     * [932]German terms derived from Middle High German
+     * [933]German terms inherited from Old High German
+     * [934]German terms derived from Old High German
+     * [935]German 1-syllable words
+     * [936]German terms with IPA pronunciation
+     * [937]German terms with audio links
+     * [938]German lemmas
+     * [939]German adjectives
+     * [940]Hungarian terms with IPA pronunciation
+     * [941]Hungarian terms with audio links
+     * [942]Hungarian terms borrowed from English
+     * [943]Hungarian terms derived from English
+     * [944]Hungarian lemmas
+     * [945]Hungarian nouns
+     * [946]Hungarian terms borrowed from Yiddish
+     * [947]Hungarian terms derived from Yiddish
+     * [948]Hungarian terms derived from German
+     * [949]Hungarian adjectives
+     * [950]Hungarian colloquialisms
+     * [951]hu:Computing
+     * [952]Italian terms borrowed from English
+     * [953]Italian terms derived from English
+     * [954]Italian lemmas
+     * [955]Italian nouns
+     * [956]it:Computing
+     * [957]Lithuanian terms with IPA pronunciation
+     * [958]Lithuanian lemmas
+     * [959]Lithuanian adverbs
+     * [960]Polish terms borrowed from English
+     * [961]Polish terms derived from English
+     * [962]Polish terms with IPA pronunciation
+     * [963]Polish terms with audio links
+     * [964]Polish lemmas
+     * [965]Polish nouns
+     * [966]Polish masculine nouns
+     * [967]Portuguese terms borrowed from English
+     * [968]Portuguese terms derived from English
+     * [969]Portuguese lemmas
+     * [970]Portuguese nouns
+     * [971]pt:Computing
+     * [972]Spanish lemmas
+     * [973]Spanish nouns
+     * [974]es:Computing
+
+   Hidden categories:
+     * [975]wikipedia with redundant first parameter
+     * [976]Requests for quotations in English
+     * [977]Terms with manual transliterations different from the
+       automated ones
+     * [978]Terms with manual transliterations different from the
+       automated ones/mk
+     * [979]Terms with manual transliterations different from the
+       automated ones/ky
+     * [980]Requests for review of Norman translations
+     * [981]Requests for review of Romanian translations
+     * [982]Terms with manual transliterations different from the
+       automated ones/km
+     * [983]Requests for translations into Lao
+     * [984]Requests for translations into Thai
+     * [985]Requests for translations into Vietnamese
+     * [986]Requests for review of French translations
+     * [987]Portuguese redlinks
+     * [988]Portuguese redlinks/t+
+     * [989]etyl cleanup/en
+     * [990]Requests for example sentences in English
+     * [991]bor without notext
+     * [992]etyl cleanup
+     * [993]Requests for inflections in Hungarian adjective entries
+
+Navigation menu
+
+Personal tools
+
+     * Not logged in
+     * [994]Talk
+     * [995]Contributions
+     * [996]Create account
+     * [997]Log in
+
+Namespaces
+
+     * [998]Entry
+     * [999]Discussion
+
+Variants
+
+Views
+
+     * [1000]Read
+     * [1001]Edit
+     * [1002]History
+
+More
+
+Search
+
+   [1003]____________________ [1004]Search [1005]Go
+
+Navigation
+
+     * [1006]Main Page
+     * [1007]Community portal
+     * [1008]Preferences
+     * [1009]Requested entries
+     * [1010]Recent changes
+     * [1011]Random entry
+     * [1012]Help
+     * [1013]Donations
+     * [1014]Contact us
+
+Tools
+
+     * [1015]What links here
+     * [1016]Related changes
+     * [1017]Upload file
+     * [1018]Special pages
+     * [1019]Permanent link
+     * [1020]Page information
+     * [1021]Cite this page
+
+In other languages
+
+     * [1022]Azərbaycanca
+     * [1023]Brezhoneg
+     * [1024]Català
+     * [1025]Čeština
+     * [1026]Cymraeg
+     * [1027]Dansk
+     * [1028]Deutsch
+     * [1029]Eesti
+     * [1030]Ελληνικά
+     * [1031]Español
+     * [1032]Esperanto
+     * [1033]فارسی
+     * [1034]Français
+     * [1035]한국어
+     * [1036]Հայերեն
+     * [1037]हिन्दी
+     * [1038]Ido
+     * [1039]Italiano
+     * [1040]ಕನ್ನಡ
+     * [1041]Қазақша
+     * [1042]Kurdî
+     * [1043]Кыргызча
+     * [1044]ລາວ
+     * [1045]Latviešu
+     * [1046]Limburgs
+     * [1047]Magyar
+     * [1048]Malagasy
+     * [1049]മലയാളം
+     * [1050]Монгол
+     * [1051]မြန်မာဘာသာ
+     * [1052]Nederlands
+     * [1053]日本語
+     * [1054]Norsk bokmål
+     * [1055]Oʻzbekcha/ўзбекча
+     * [1056]ភាសាខ្មែរ
+     * [1057]Polski
+     * [1058]Português
+     * [1059]Русский
+     * [1060]Simple English
+     * [1061]Slovenčina
+     * [1062]Soomaaliga
+     * [1063]Srpskohrvatski / српскохрватски
+     * [1064]Suomi
+     * [1065]Svenska
+     * [1066]Tagalog
+     * [1067]தமிழ்
+     * [1068]తెలుగు
+     * [1069]Тоҷикӣ
+     * [1070]ᏣᎳᎩ
+     * [1071]Türkçe
+     * [1072]Tiếng Việt
+     * [1073]Walon
+     * [1074]中文
+
+Print/export
+
+     * [1075]Create a book
+     * [1076]Download as PDF
+     * [1077]Printable version
+
+     * This page was last edited on 12 May 2017, at 16:44.
+     * Text is available under the [1078]Creative Commons
+       Attribution-ShareAlike License; additional terms may apply. By
+       using this site, you agree to the [1079]Terms of Use and
+       [1080]Privacy Policy.
+
+     * [1081]Privacy policy
+     * [1082]About Wiktionary
+     * [1083]Disclaimers
+     * [1084]Developers
+     * [1085]Cookie statement
+     * [1086]Mobile view
+
+     * [1087]Wikimedia Foundation
+     * [1088]Powered by MediaWiki
+
+References
+
+   Visible links
+   1. https://en.wiktionary.org/w/index.php?title=link&action=edit
+   2. https://en.wiktionary.org/w/opensearch_desc.php
+   3. https://creativecommons.org/licenses/by-sa/3.0/
+   4. https://en.wiktionary.org/w/index.php?title=Special:RecentChanges&feed=atom
+   5. https://en.wiktionary.org/wiki/link#mw-head
+   6. https://en.wiktionary.org/wiki/link#p-search
+   7. https://en.wiktionary.org/wiki/Wiktionary:Links
+   8. https://en.wiktionary.org/wiki/Link
+   9. https://en.wiktionary.org/wiki/link#English
+  10. https://en.wiktionary.org/wiki/link#Pronunciation
+  11. https://en.wiktionary.org/wiki/link#Etymology_1
+  12. https://en.wiktionary.org/wiki/link#Noun
+  13. https://en.wiktionary.org/wiki/link#Holonyms
+  14. https://en.wiktionary.org/wiki/link#Hyponyms
+  15. https://en.wiktionary.org/wiki/link#Derived_terms
+  16. https://en.wiktionary.org/wiki/link#Related_terms
+  17. https://en.wiktionary.org/wiki/link#Translations
+  18. https://en.wiktionary.org/wiki/link#Verb
+  19. https://en.wiktionary.org/wiki/link#Derived_terms_2
+  20. https://en.wiktionary.org/wiki/link#Translations_2
+  21. https://en.wiktionary.org/wiki/link#Etymology_2
+  22. https://en.wiktionary.org/wiki/link#Noun_2
+  23. https://en.wiktionary.org/wiki/link#Derived_terms_3
+  24. https://en.wiktionary.org/wiki/link#Translations_3
+  25. https://en.wiktionary.org/wiki/link#Etymology_3
+  26. https://en.wiktionary.org/wiki/link#Verb_2
+  27. https://en.wiktionary.org/wiki/link#Translations_4
+  28. https://en.wiktionary.org/wiki/link#References
+  29. https://en.wiktionary.org/wiki/link#Anagrams
+  30. https://en.wiktionary.org/wiki/link#Czech
+  31. https://en.wiktionary.org/wiki/link#Pronunciation_2
+  32. https://en.wiktionary.org/wiki/link#Noun_3
+  33. https://en.wiktionary.org/wiki/link#Danish
+  34. https://en.wiktionary.org/wiki/link#Etymology
+  35. https://en.wiktionary.org/wiki/link#Pronunciation_3
+  36. https://en.wiktionary.org/wiki/link#Noun_4
+  37. https://en.wiktionary.org/wiki/link#Synonyms
+  38. https://en.wiktionary.org/wiki/link#Inflection
+  39. https://en.wiktionary.org/wiki/link#Dutch
+  40. https://en.wiktionary.org/wiki/link#Pronunciation_4
+  41. https://en.wiktionary.org/wiki/link#Etymology_1_2
+  42. https://en.wiktionary.org/wiki/link#Adjective
+  43. https://en.wiktionary.org/wiki/link#Inflection_2
+  44. https://en.wiktionary.org/wiki/link#Derived_terms_4
+  45. https://en.wiktionary.org/wiki/link#Etymology_2_2
+  46. https://en.wiktionary.org/wiki/link#Noun_5
+  47. https://en.wiktionary.org/wiki/link#Synonyms_2
+  48. https://en.wiktionary.org/wiki/link#Derived_terms_5
+  49. https://en.wiktionary.org/wiki/link#References_2
+  50. https://en.wiktionary.org/wiki/link#German
+  51. https://en.wiktionary.org/wiki/link#Etymology_4
+  52. https://en.wiktionary.org/wiki/link#Pronunciation_5
+  53. https://en.wiktionary.org/wiki/link#Adjective_2
+  54. https://en.wiktionary.org/wiki/link#Further_reading
+  55. https://en.wiktionary.org/wiki/link#Hungarian
+  56. https://en.wiktionary.org/wiki/link#Pronunciation_6
+  57. https://en.wiktionary.org/wiki/link#Etymology_1_3
+  58. https://en.wiktionary.org/wiki/link#Noun_6
+  59. https://en.wiktionary.org/wiki/link#Declension
+  60. https://en.wiktionary.org/wiki/link#Etymology_2_3
+  61. https://en.wiktionary.org/wiki/link#Adjective_3
+  62. https://en.wiktionary.org/wiki/link#Declension_2
+  63. https://en.wiktionary.org/wiki/link#References_3
+  64. https://en.wiktionary.org/wiki/link#Italian
+  65. https://en.wiktionary.org/wiki/link#Etymology_5
+  66. https://en.wiktionary.org/wiki/link#Noun_7
+  67. https://en.wiktionary.org/wiki/link#Synonyms_3
+  68. https://en.wiktionary.org/wiki/link#Derived_terms_6
+  69. https://en.wiktionary.org/wiki/link#Lithuanian
+  70. https://en.wiktionary.org/wiki/link#Pronunciation_7
+  71. https://en.wiktionary.org/wiki/link#Preposition
+  72. https://en.wiktionary.org/wiki/link#Polish
+  73. https://en.wiktionary.org/wiki/link#Etymology_6
+  74. https://en.wiktionary.org/wiki/link#Pronunciation_8
+  75. https://en.wiktionary.org/wiki/link#Noun_8
+  76. https://en.wiktionary.org/wiki/link#Declension_3
+  77. https://en.wiktionary.org/wiki/link#Synonyms_4
+  78. https://en.wiktionary.org/wiki/link#Portuguese
+  79. https://en.wiktionary.org/wiki/link#Etymology_7
+  80. https://en.wiktionary.org/wiki/link#Noun_9
+  81. https://en.wiktionary.org/wiki/link#Synonyms_5
+  82. https://en.wiktionary.org/wiki/link#Spanish
+  83. https://en.wiktionary.org/wiki/link#Noun_10
+  84. https://en.wiktionary.org/w/index.php?title=link&action=edit&section=1
+  85. https://en.wiktionary.org/wiki/Wikipedia
+  86. https://en.wikipedia.org/wiki/link
+  87. https://en.wikipedia.org/wiki/link
+  88. https://en.wiktionary.org/w/index.php?title=link&action=edit&section=2
+  89. https://en.wiktionary.org/wiki/Wiktionary:International_Phonetic_Alphabet
+  90. https://en.wiktionary.org/wiki/Appendix:English_pronunciation
+  91. https://en.wiktionary.org/wiki/File:en-us-link.ogg
+  92. https://en.wiktionary.org/wiki/Rhymes:English/ɪŋk
+  93. https://en.wiktionary.org/w/index.php?title=link&action=edit&section=3
+  94. https://en.wikipedia.org/wiki/Middle_English_language
+  95. https://en.wiktionary.org/wiki/linke#Middle_English
+  96. https://en.wiktionary.org/wiki/lenke#Middle_English
+  97. https://en.wikipedia.org/wiki/Old_English_language
+  98. https://en.wiktionary.org/w/index.php?title=hlence&action=edit&redlink=1
+  99. https://en.wiktionary.org/w/index.php?title=hlenca&action=edit&redlink=1
+ 100. https://en.wikipedia.org/wiki/Old_Norse_language
+ 101. https://en.wiktionary.org/w/index.php?title=Reconstruction:Old_Norse/hlenkr&action=edit&redlink=1
+ 102. https://en.wiktionary.org/w/index.php?title=hlekkr&action=edit&redlink=1
+ 103. https://en.wikipedia.org/wiki/Proto-Germanic_language
+ 104. https://en.wiktionary.org/wiki/Reconstruction:Proto-Germanic/hlankiz
+ 105. https://en.wiktionary.org/wiki/lank#English
+ 106. https://en.wiktionary.org/w/index.php?title=link&action=edit&section=4
+ 107. https://en.wiktionary.org/wiki/links#English
+ 108. https://en.wiktionary.org/wiki/connection
+ 109. https://en.wiktionary.org/wiki/place
+ 110. https://en.wiktionary.org/wiki/people
+ 111. https://en.wiktionary.org/wiki/event
+ 112. https://en.wiktionary.org/wiki/thing
+ 113. https://en.wiktionary.org/wiki/idea
+ 114. https://en.wiktionary.org/wiki/chain
+ 115. https://en.wiktionary.org/wiki/hyperlink#English
+ 116. https://en.wiktionary.org/wiki/computing
+ 117. https://en.wiktionary.org/wiki/bus
+ 118. https://en.wiktionary.org/wiki/mathematics
+ 119. https://en.wiktionary.org/wiki/space
+ 120. https://en.wiktionary.org/wiki/comprise
+ 121. https://en.wiktionary.org/wiki/disjoint
+ 122. https://en.wiktionary.org/wiki/knot
+ 123. https://en.wikipedia.org/wiki/Sussex_dialect
+ 124. https://en.wiktionary.org/wiki/Appendix:Glossary#figurative
+ 125. https://en.wiktionary.org/wiki/system#English
+ 126. http://books.google.com/books?id=zfDXFn0u4E8C&pg=PA32&dq="link"#v=onepage
+ 127. http://books.google.com/books?id=3RFyaF7jCZsC&pg=PA262&dq="link"#v=onepage
+ 128. http://books.google.com/books?id=fwSV0E71YCkC&pg=PA219&dq="link"#v=onepage
+ 129. https://en.wiktionary.org/wiki/Category:Requests_for_quotation/Mortimer
+ 130. https://en.wiktionary.org/wiki/sausage
+ 131. https://en.wiktionary.org/wiki/chemistry
+ 132. https://en.wiktionary.org/wiki/bond
+ 133. https://en.wiktionary.org/wiki/affinity
+ 134. https://en.wiktionary.org/wiki/unit
+ 135. https://en.wiktionary.org/wiki/valence
+ 136. https://en.wiktionary.org/wiki/atom
+ 137. https://en.wiktionary.org/w/index.php?title=link&action=edit&section=5
+ 138. https://en.wiktionary.org/wiki/chain#English
+ 139. https://en.wiktionary.org/w/index.php?title=link&action=edit&section=6
+ 140. https://en.wiktionary.org/wiki/backlink#English
+ 141. https://en.wiktionary.org/wiki/deep_link#English
+ 142. https://en.wiktionary.org/wiki/hyperlink#English
+ 143. https://en.wiktionary.org/wiki/missing_link#English
+ 144. https://en.wiktionary.org/wiki/permalink#English
+ 145. https://en.wiktionary.org/w/index.php?title=sausage_link&action=edit&redlink=1
+ 146. https://en.wiktionary.org/wiki/symlink#English
+ 147. https://en.wiktionary.org/w/index.php?title=link&action=edit&section=7
+ 148. https://en.wiktionary.org/wiki/chainlink#English
+ 149. https://en.wiktionary.org/wiki/cufflink#English
+ 150. https://en.wiktionary.org/wiki/linkage#English
+ 151. https://en.wiktionary.org/wiki/link_language#English
+ 152. https://en.wiktionary.org/wiki/linkless#English
+ 153. https://en.wiktionary.org/w/index.php?title=link-up&action=edit&redlink=1
+ 154. https://en.wiktionary.org/w/index.php?title=OpenLink&action=edit&redlink=1
+ 155. https://en.wiktionary.org/w/index.php?title=link&action=edit&section=8
+ 156. https://en.wiktionary.org/wiki/link_farm#English
+ 157. https://en.wiktionary.org/w/index.php?title=link&action=edit&section=9
+ 158. https://en.wiktionary.org/wiki/ligãturã#Aromanian
+ 159. https://en.wiktionary.org/wiki/enllaç#Catalan
+ 160. https://ca.wiktionary.org/wiki/enllaç
+ 161. https://en.wiktionary.org/wiki/vincle#Catalan
+ 162. https://ca.wiktionary.org/wiki/vincle
+ 163. https://en.wiktionary.org/wiki/連結#Mandarin
+ 164. https://zh.wiktionary.org/wiki/連結
+ 165. https://en.wiktionary.org/wiki/连结#Mandarin
+ 166. https://zh.wiktionary.org/wiki/连结
+ 167. https://en.wiktionary.org/wiki/spojení#Czech
+ 168. https://cs.wiktionary.org/wiki/spojení
+ 169. https://en.wiktionary.org/wiki/propojení#Czech
+ 170. https://en.wiktionary.org/wiki/forbindelse#Danish
+ 171. https://en.wiktionary.org/wiki/link#Dutch
+ 172. https://nl.wiktionary.org/wiki/link
+ 173. https://en.wiktionary.org/wiki/verbinding#Dutch
+ 174. https://nl.wiktionary.org/wiki/verbinding
+ 175. https://en.wiktionary.org/wiki/relatie#Dutch
+ 176. https://nl.wiktionary.org/wiki/relatie
+ 177. https://en.wiktionary.org/wiki/koppeling#Dutch
+ 178. https://nl.wiktionary.org/wiki/koppeling
+ 179. https://en.wiktionary.org/wiki/yhteys#Finnish
+ 180. https://fi.wiktionary.org/wiki/yhteys
+ 181. https://en.wiktionary.org/wiki/sidos#Finnish
+ 182. https://fi.wiktionary.org/wiki/sidos
+ 183. https://en.wiktionary.org/wiki/lien#French
+ 184. https://fr.wiktionary.org/wiki/lien
+ 185. https://en.wiktionary.org/wiki/connexion#French
+ 186. https://fr.wiktionary.org/wiki/connexion
+ 187. https://en.wiktionary.org/wiki/rapport#French
+ 188. https://fr.wiktionary.org/wiki/rapport
+ 189. https://en.wiktionary.org/wiki/კავშირი#Georgian
+ 190. https://en.wiktionary.org/wiki/Verbindung#German
+ 191. https://de.wiktionary.org/wiki/Verbindung
+ 192. https://en.wiktionary.org/wiki/קשר#Hebrew
+ 193. https://he.wiktionary.org/wiki/קשר
+ 194. https://en.wiktionary.org/wiki/קישור#Hebrew
+ 195. https://he.wiktionary.org/wiki/קישור
+ 196. https://en.wiktionary.org/wiki/kapcsolat#Hungarian
+ 197. https://hu.wiktionary.org/wiki/kapcsolat
+ 198. https://en.wiktionary.org/w/index.php?title=kapcsolódás&action=edit&redlink=1
+ 199. https://en.wiktionary.org/wiki/ligilo#Ido
+ 200. https://io.wiktionary.org/wiki/ligilo
+ 201. https://en.wiktionary.org/wiki/pranala#Indonesian
+ 202. https://id.wiktionary.org/wiki/pranala
+ 203. https://en.wiktionary.org/wiki/collegamento#Italian
+ 204. https://it.wiktionary.org/wiki/collegamento
+ 205. https://en.wiktionary.org/wiki/lega#Italian
+ 206. https://it.wiktionary.org/wiki/lega
+ 207. https://en.wiktionary.org/wiki/legame#Italian
+ 208. https://it.wiktionary.org/wiki/legame
+ 209. https://en.wiktionary.org/wiki/connessione#Italian
+ 210. https://it.wiktionary.org/wiki/connessione
+ 211. https://en.wiktionary.org/wiki/rapporto#Italian
+ 212. https://it.wiktionary.org/wiki/rapporto
+ 213. https://en.wiktionary.org/wiki/pranala#Javanese
+ 214. https://en.wiktionary.org/wiki/연결#Korean
+ 215. https://ko.wiktionary.org/wiki/연결
+ 216. https://en.wiktionary.org/w/index.php?title=saikne&action=edit&redlink=1
+ 217. https://en.wiktionary.org/wiki/врска#Macedonian
+ 218. https://en.wiktionary.org/wiki/pautan#Malay
+ 219. https://en.wiktionary.org/w/index.php?title=hononga&action=edit&redlink=1
+ 220. https://en.wiktionary.org/wiki/lian#Norman
+ 221. https://en.wiktionary.org/wiki/پیوند#Persian
+ 222. https://fa.wiktionary.org/wiki/پیوند
+ 223. https://en.wiktionary.org/wiki/ligação#Portuguese
+ 224. https://pt.wiktionary.org/wiki/ligação
+ 225. https://en.wiktionary.org/wiki/vínculo#Portuguese
+ 226. https://pt.wiktionary.org/wiki/vínculo
+ 227. https://en.wiktionary.org/wiki/legătură#Romanian
+ 228. https://ro.wiktionary.org/wiki/legătură
+ 229. https://en.wiktionary.org/wiki/связь#Russian
+ 230. https://ru.wiktionary.org/wiki/связь
+ 231. https://en.wiktionary.org/w/index.php?title=povezava&action=edit&redlink=1
+ 232. https://en.wiktionary.org/w/index.php?title=zveza&action=edit&redlink=1
+ 233. https://en.wiktionary.org/wiki/enlace#Spanish
+ 234. https://es.wiktionary.org/wiki/enlace
+ 235. https://en.wiktionary.org/wiki/vínculo#Spanish
+ 236. https://es.wiktionary.org/wiki/vínculo
+ 237. https://en.wiktionary.org/wiki/lazo#Spanish
+ 238. https://es.wiktionary.org/wiki/lazo
+ 239. https://en.wiktionary.org/wiki/anknytning#Swedish
+ 240. https://sv.wiktionary.org/wiki/anknytning
+ 241. https://en.wiktionary.org/wiki/länk#Swedish
+ 242. https://sv.wiktionary.org/wiki/länk
+ 243. https://en.wiktionary.org/w/index.php?title=ferbining&action=edit&redlink=1
+ 244. https://en.wiktionary.org/w/index.php?title=keppeling&action=edit&redlink=1
+ 245. https://en.wiktionary.org/wiki/baula#Catalan
+ 246. https://en.wiktionary.org/wiki/連結#Mandarin
+ 247. https://zh.wiktionary.org/wiki/連結
+ 248. https://en.wiktionary.org/wiki/连结#Mandarin
+ 249. https://zh.wiktionary.org/wiki/连结
+ 250. https://en.wiktionary.org/wiki/článek#Czech
+ 251. https://cs.wiktionary.org/wiki/článek
+ 252. https://en.wiktionary.org/wiki/led#Danish
+ 253. https://da.wiktionary.org/wiki/led
+ 254. https://en.wiktionary.org/wiki/schakel#Dutch
+ 255. https://nl.wiktionary.org/wiki/schakel
+ 256. https://en.wiktionary.org/wiki/schalm#Dutch
+ 257. https://en.wiktionary.org/wiki/link#Dutch
+ 258. https://nl.wiktionary.org/wiki/link
+ 259. https://en.wiktionary.org/wiki/ĉenero#Esperanto
+ 260. https://en.wiktionary.org/wiki/linkki#Finnish
+ 261. https://fi.wiktionary.org/wiki/linkki
+ 262. https://en.wiktionary.org/wiki/maillon#French
+ 263. https://fr.wiktionary.org/wiki/maillon
+ 264. https://en.wiktionary.org/wiki/chaînon#French
+ 265. https://fr.wiktionary.org/wiki/chaînon
+ 266. https://en.wiktionary.org/wiki/elo#Galician
+ 267. https://gl.wiktionary.org/wiki/elo
+ 268. https://en.wiktionary.org/wiki/Verknüpfung#German
+ 269. https://de.wiktionary.org/wiki/Verknüpfung
+ 270. https://en.wiktionary.org/wiki/חוליה#Hebrew
+ 271. https://en.wiktionary.org/wiki/láncszem#Hungarian
+ 272. https://hu.wiktionary.org/wiki/láncszem
+ 273. https://en.wiktionary.org/wiki/anello#Italian
+ 274. https://it.wiktionary.org/wiki/anello
+ 275. https://en.wiktionary.org/wiki/maglia#Italian
+ 276. https://it.wiktionary.org/wiki/maglia
+ 277. https://en.wiktionary.org/w/index.php?title=trūps&action=edit&redlink=1
+ 278. https://en.wiktionary.org/w/index.php?title=puosmys&action=edit&redlink=1
+ 279. https://en.wiktionary.org/w/index.php?title=posms&action=edit&redlink=1
+ 280. https://en.wiktionary.org/wiki/алка#Macedonian
+ 281. https://en.wiktionary.org/wiki/lian#Norman
+ 282. https://en.wiktionary.org/wiki/حلقه#Persian
+ 283. https://fa.wiktionary.org/wiki/حلقه
+ 284. https://en.wiktionary.org/w/index.php?title=ogniwo&action=edit&redlink=1
+ 285. https://pl.wiktionary.org/wiki/ogniwo
+ 286. https://en.wiktionary.org/wiki/elo#Portuguese
+ 287. https://pt.wiktionary.org/wiki/elo
+ 288. https://en.wiktionary.org/w/index.php?title=verigă&action=edit&redlink=1
+ 289. https://ro.wiktionary.org/wiki/verigă
+ 290. https://en.wiktionary.org/wiki/za#Romanian
+ 291. https://ro.wiktionary.org/wiki/za
+ 292. https://en.wiktionary.org/wiki/звено#Russian
+ 293. https://ru.wiktionary.org/wiki/звено
+ 294. https://en.wiktionary.org/wiki/člen#Slovene
+ 295. https://en.wiktionary.org/wiki/eslabón#Spanish
+ 296. https://es.wiktionary.org/wiki/eslabón
+ 297. https://en.wiktionary.org/wiki/länk#Swedish
+ 298. https://sv.wiktionary.org/wiki/länk
+ 299. https://en.wiktionary.org/w/index.php?title=keppeling&action=edit&redlink=1
+ 300. https://en.wiktionary.org/wiki/enllaç#Catalan
+ 301. https://ca.wiktionary.org/wiki/enllaç
+ 302. https://en.wiktionary.org/wiki/link#Catalan
+ 303. https://ca.wiktionary.org/wiki/link
+ 304. https://en.wiktionary.org/wiki/link#Danish
+ 305. https://da.wiktionary.org/wiki/link
+ 306. https://en.wiktionary.org/wiki/forbindelse#Danish
+ 307. https://en.wiktionary.org/wiki/link#Dutch
+ 308. https://nl.wiktionary.org/wiki/link
+ 309. https://en.wiktionary.org/wiki/verbinding#Dutch
+ 310. https://nl.wiktionary.org/wiki/verbinding
+ 311. https://en.wiktionary.org/wiki/ligazón#Galician
+ 312. https://en.wiktionary.org/wiki/Verknüpfung#German
+ 313. https://de.wiktionary.org/wiki/Verknüpfung
+ 314. https://en.wiktionary.org/wiki/ligilo#Ido
+ 315. https://io.wiktionary.org/wiki/ligilo
+ 316. https://en.wiktionary.org/wiki/connessione#Italian
+ 317. https://it.wiktionary.org/wiki/connessione
+ 318. https://en.wiktionary.org/wiki/врска#Macedonian
+ 319. https://en.wiktionary.org/wiki/پیوند#Persian
+ 320. https://fa.wiktionary.org/wiki/پیوند
+ 321. https://en.wiktionary.org/wiki/اتصال#Persian
+ 322. https://fa.wiktionary.org/wiki/اتصال
+ 323. https://en.wiktionary.org/wiki/ligação#Portuguese
+ 324. https://pt.wiktionary.org/wiki/ligação
+ 325. https://en.wiktionary.org/wiki/enlace#Spanish
+ 326. https://es.wiktionary.org/wiki/enlace
+ 327. https://en.wiktionary.org/wiki/vínculo#Spanish
+ 328. https://es.wiktionary.org/wiki/vínculo
+ 329. https://en.wiktionary.org/wiki/رابط#Arabic
+ 330. https://en.wiktionary.org/wiki/روابط#Arabic
+ 331. https://en.wiktionary.org/wiki/линк#Bulgarian
+ 332. https://en.wiktionary.org/wiki/enllaç#Catalan
+ 333. https://ca.wiktionary.org/wiki/enllaç
+ 334. https://en.wiktionary.org/wiki/vincle#Catalan
+ 335. https://ca.wiktionary.org/wiki/vincle
+ 336. https://en.wiktionary.org/wiki/連結#Mandarin
+ 337. https://zh.wiktionary.org/wiki/連結
+ 338. https://en.wiktionary.org/wiki/连结#Mandarin
+ 339. https://zh.wiktionary.org/wiki/连结
+ 340. https://en.wiktionary.org/wiki/鏈接#Mandarin
+ 341. https://zh.wiktionary.org/wiki/鏈接
+ 342. https://en.wiktionary.org/wiki/链接#Mandarin
+ 343. https://zh.wiktionary.org/wiki/链接
+ 344. https://en.wiktionary.org/w/index.php?title=bağlantı&action=edit&redlink=1
+ 345. https://en.wiktionary.org/wiki/odkaz#Czech
+ 346. https://en.wiktionary.org/wiki/link#Danish
+ 347. https://da.wiktionary.org/wiki/link
+ 348. https://en.wiktionary.org/wiki/link#Dutch
+ 349. https://nl.wiktionary.org/wiki/link
+ 350. https://en.wiktionary.org/wiki/koppeling#Dutch
+ 351. https://nl.wiktionary.org/wiki/koppeling
+ 352. https://en.wiktionary.org/wiki/verwijzing#Dutch
+ 353. https://nl.wiktionary.org/wiki/verwijzing
+ 354. https://en.wiktionary.org/wiki/ligilo#Esperanto
+ 355. https://en.wiktionary.org/wiki/linkki#Finnish
+ 356. https://fi.wiktionary.org/wiki/linkki
+ 357. https://en.wiktionary.org/wiki/lien#French
+ 358. https://fr.wiktionary.org/wiki/lien
+ 359. https://en.wiktionary.org/wiki/hypertexte#French
+ 360. https://fr.wiktionary.org/wiki/hypertexte
+ 361. https://en.wiktionary.org/wiki/hyperlien#French
+ 362. https://fr.wiktionary.org/wiki/hyperlien
+ 363. https://en.wiktionary.org/wiki/ligazón#Galician
+ 364. https://en.wiktionary.org/wiki/hiperligazón#Galician
+ 365. https://en.wiktionary.org/wiki/ბმული#Georgian
+ 366. https://en.wiktionary.org/wiki/ლინკი#Georgian
+ 367. https://en.wiktionary.org/wiki/Link#German
+ 368. https://de.wiktionary.org/wiki/Link
+ 369. https://en.wiktionary.org/wiki/Hyperlink#German
+ 370. https://de.wiktionary.org/wiki/Hyperlink
+ 371. https://en.wiktionary.org/wiki/לינק#Hebrew
+ 372. https://en.wiktionary.org/wiki/hivatkozás#Hungarian
+ 373. https://hu.wiktionary.org/wiki/hivatkozás
+ 374. https://en.wiktionary.org/wiki/link#Hungarian
+ 375. https://hu.wiktionary.org/wiki/link
+ 376. https://en.wiktionary.org/wiki/ligilo#Ido
+ 377. https://io.wiktionary.org/wiki/ligilo
+ 378. https://en.wiktionary.org/wiki/hiperligilo#Ido
+ 379. https://en.wiktionary.org/wiki/pranala#Indonesian
+ 380. https://id.wiktionary.org/wiki/pranala
+ 381. https://en.wiktionary.org/w/index.php?title=tautan&action=edit&redlink=1
+ 382. https://id.wiktionary.org/wiki/tautan
+ 383. https://en.wiktionary.org/wiki/nasc#Irish
+ 384. https://ga.wiktionary.org/wiki/nasc
+ 385. https://en.wiktionary.org/wiki/link#Italian
+ 386. https://it.wiktionary.org/wiki/link
+ 387. https://en.wiktionary.org/wiki/collegamento#Italian
+ 388. https://it.wiktionary.org/wiki/collegamento
+ 389. https://en.wiktionary.org/wiki/リンク#Japanese
+ 390. https://en.wiktionary.org/wiki/링크#Korean
+ 391. https://ko.wiktionary.org/wiki/링크
+ 392. https://en.wiktionary.org/w/index.php?title=шилтеме&action=edit&redlink=1
+ 393. https://ky.wiktionary.org/wiki/шилтеме
+ 394. https://en.wiktionary.org/wiki/saite#Latvian
+ 395. https://en.wiktionary.org/wiki/link#Lower_Sorbian
+ 396. https://en.wiktionary.org/wiki/врска#Macedonian
+ 397. https://en.wiktionary.org/w/index.php?title=хиперврска&action=edit&redlink=1
+ 398. https://mk.wiktionary.org/wiki/хиперврска
+ 399. https://en.wiktionary.org/wiki/pautan#Malay
+ 400. https://en.wiktionary.org/wiki/lian#Norman
+ 401. https://en.wiktionary.org/w/index.php?title=æрвитæн&action=edit&redlink=1
+ 402. https://en.wiktionary.org/wiki/پیوند#Persian
+ 403. https://fa.wiktionary.org/wiki/پیوند
+ 404. https://en.wiktionary.org/wiki/لینک#Persian
+ 405. https://en.wiktionary.org/wiki/link#Polish
+ 406. https://pl.wiktionary.org/wiki/link
+ 407. https://en.wiktionary.org/w/index.php?title=hiperłącze&action=edit&redlink=1
+ 408. https://en.wiktionary.org/w/index.php?title=odsyłacz&action=edit&redlink=1
+ 409. https://pl.wiktionary.org/wiki/odsyłacz
+ 410. https://en.wiktionary.org/w/index.php?title=odnośnik&action=edit&redlink=1
+ 411. https://en.wiktionary.org/wiki/łącze#Polish
+ 412. https://en.wiktionary.org/wiki/ligação#Portuguese
+ 413. https://pt.wiktionary.org/wiki/ligação
+ 414. https://en.wiktionary.org/wiki/link#Portuguese
+ 415. https://pt.wiktionary.org/wiki/link
+ 416. https://en.wiktionary.org/wiki/hyperlink#Romanian
+ 417. https://en.wiktionary.org/wiki/legătură#Romanian
+ 418. https://ro.wiktionary.org/wiki/legătură
+ 419. https://en.wiktionary.org/wiki/ссылка#Russian
+ 420. https://ru.wiktionary.org/wiki/ссылка
+ 421. https://en.wiktionary.org/wiki/гиперссылка#Russian
+ 422. https://ru.wiktionary.org/wiki/гиперссылка
+ 423. https://en.wiktionary.org/wiki/линк#Russian
+ 424. https://ru.wiktionary.org/wiki/линк
+ 425. https://en.wiktionary.org/w/index.php?title=povezava&action=edit&redlink=1
+ 426. https://en.wiktionary.org/wiki/enlace#Spanish
+ 427. https://es.wiktionary.org/wiki/enlace
+ 428. https://en.wiktionary.org/wiki/vínculo#Spanish
+ 429. https://es.wiktionary.org/wiki/vínculo
+ 430. https://en.wiktionary.org/wiki/hiperenlace#Spanish
+ 431. https://es.wiktionary.org/wiki/hiperenlace
+ 432. https://en.wiktionary.org/wiki/hipervínculo#Spanish
+ 433. https://es.wiktionary.org/wiki/hipervínculo
+ 434. https://en.wiktionary.org/wiki/hyperlänk#Swedish
+ 435. https://sv.wiktionary.org/wiki/hyperlänk
+ 436. https://en.wiktionary.org/wiki/länk#Swedish
+ 437. https://sv.wiktionary.org/wiki/länk
+ 438. https://en.wiktionary.org/w/index.php?title=hårdêye&action=edit&redlink=1
+ 439. https://wa.wiktionary.org/wiki/hårdêye
+ 440. https://en.wiktionary.org/w/index.php?title=loyén&action=edit&redlink=1
+ 441. https://wa.wiktionary.org/wiki/loyén
+ 442. https://en.wiktionary.org/wiki/Wiktionary:Entry_layout#Translations
+ 443. https://en.wiktionary.org/wiki/Wiktionary:Translations#Translations_to_be_checked
+ 444. https://en.wiktionary.org/wiki/lian#Norman
+ 445. https://en.wiktionary.org/wiki/Wiktionary:Translations#Translations_to_be_checked
+ 446. https://en.wiktionary.org/wiki/legătură#Romanian
+ 447. https://ro.wiktionary.org/wiki/legătură
+ 448. https://en.wiktionary.org/w/index.php?title=link&action=edit&section=10
+ 449. https://en.wiktionary.org/wiki/links#English
+ 450. https://en.wiktionary.org/wiki/linking#English
+ 451. https://en.wiktionary.org/wiki/linked#English
+ 452. https://en.wiktionary.org/wiki/Appendix:Glossary#transitive
+ 453. https://en.wiktionary.org/wiki/connect
+ 454. https://en.wiktionary.org/wiki/Appendix:Glossary#intransitive
+ 455. https://en.wiktionary.org/wiki/hyperlink
+ 456. https://en.wiktionary.org/wiki/Appendix:Glossary#transitive
+ 457. https://en.wiktionary.org/wiki/Internet
+ 458. https://en.wiktionary.org/wiki/hyperlink
+ 459. https://en.wiktionary.org/wiki/direct
+ 460. https://en.wiktionary.org/wiki/Appendix:Glossary#transitive
+ 461. https://en.wiktionary.org/wiki/Internet
+ 462. https://en.wiktionary.org/wiki/hyperlink
+ 463. https://en.wiktionary.org/wiki/Appendix:Glossary#transitive
+ 464. https://en.wiktionary.org/wiki/correlation
+ 465. https://en.wiktionary.org/wiki/compilation
+ 466. https://en.wiktionary.org/wiki/object
+ 467. https://en.wiktionary.org/wiki/compiler
+ 468. https://en.wiktionary.org/wiki/executable
+ 469. https://en.wiktionary.org/w/index.php?title=link&action=edit&section=11
+ 470. https://en.wiktionary.org/wiki/link_up#English
+ 471. https://en.wiktionary.org/w/index.php?title=link&action=edit&section=12
+ 472. https://en.wiktionary.org/wiki/lligar#Catalan
+ 473. https://ca.wiktionary.org/wiki/lligar
+ 474. https://en.wiktionary.org/wiki/enllaçar#Catalan
+ 475. https://ca.wiktionary.org/wiki/enllaçar
+ 476. https://en.wiktionary.org/w/index.php?title=vinclar&action=edit&redlink=1
+ 477. https://ca.wiktionary.org/wiki/vinclar
+ 478. https://en.wiktionary.org/wiki/forbinde#Danish
+ 479. https://en.wiktionary.org/wiki/kæde#Danish
+ 480. https://en.wiktionary.org/w/index.php?title=sammenkæde&action=edit&redlink=1
+ 481. https://en.wiktionary.org/wiki/verbinden#Dutch
+ 482. https://nl.wiktionary.org/wiki/verbinden
+ 483. https://en.wiktionary.org/wiki/linken#Dutch
+ 484. https://nl.wiktionary.org/wiki/linken
+ 485. https://en.wiktionary.org/wiki/yhdistää#Finnish
+ 486. https://fi.wiktionary.org/wiki/yhdistää
+ 487. https://en.wiktionary.org/wiki/relier#French
+ 488. https://fr.wiktionary.org/wiki/relier
+ 489. https://en.wiktionary.org/wiki/lier#French
+ 490. https://fr.wiktionary.org/wiki/lier
+ 491. https://en.wiktionary.org/wiki/verbinden#German
+ 492. https://de.wiktionary.org/wiki/verbinden
+ 493. https://en.wiktionary.org/wiki/verknüpfen#German
+ 494. https://de.wiktionary.org/wiki/verknüpfen
+ 495. https://en.wiktionary.org/w/index.php?title=összekapcsol&action=edit&redlink=1
+ 496. https://hu.wiktionary.org/wiki/összekapcsol
+ 497. https://en.wiktionary.org/w/index.php?title=menghubungkan&action=edit&redlink=1
+ 498. https://id.wiktionary.org/wiki/menghubungkan
+ 499. https://en.wiktionary.org/wiki/collegare#Italian
+ 500. https://it.wiktionary.org/wiki/collegare
+ 501. https://en.wiktionary.org/wiki/connettere#Italian
+ 502. https://it.wiktionary.org/wiki/connettere
+ 503. https://en.wiktionary.org/wiki/linkare#Italian
+ 504. https://en.wiktionary.org/wiki/ជាប់#Khmer
+ 505. https://km.wiktionary.org/wiki/ជាប់
+ 506. https://en.wiktionary.org/wiki/ភ្ជាប់#Khmer
+ 507. https://km.wiktionary.org/wiki/ភ្ជាប់
+ 508. https://en.wiktionary.org/w/index.php?title=шилтөө&action=edit&redlink=1
+ 509. https://ky.wiktionary.org/wiki/шилтөө
+ 510. https://en.wiktionary.org/wiki/врзува#Macedonian
+ 511. https://en.wiktionary.org/wiki/поврзува#Macedonian
+ 512. https://en.wiktionary.org/w/index.php?title=сврзува&action=edit&redlink=1
+ 513. https://en.wiktionary.org/w/index.php?title=tūhono&action=edit&redlink=1
+ 514. https://en.wiktionary.org/wiki/hono#Maori
+ 515. https://en.wiktionary.org/w/index.php?title=tauhere&action=edit&redlink=1
+ 516. https://en.wiktionary.org/wiki/پیوستن#Persian
+ 517. https://fa.wiktionary.org/wiki/پیوستن
+ 518. https://en.wiktionary.org/wiki/ligar#Portuguese
+ 519. https://pt.wiktionary.org/wiki/ligar
+ 520. https://en.wiktionary.org/wiki/relacionar#Portuguese
+ 521. https://pt.wiktionary.org/wiki/relacionar
+ 522. https://en.wiktionary.org/wiki/связывать#Russian
+ 523. https://ru.wiktionary.org/wiki/связывать
+ 524. https://en.wiktionary.org/wiki/povezati#Slovene
+ 525. https://en.wiktionary.org/wiki/relacionar#Spanish
+ 526. https://es.wiktionary.org/wiki/relacionar
+ 527. https://en.wiktionary.org/wiki/länka#Swedish
+ 528. https://sv.wiktionary.org/wiki/länka
+ 529. https://en.wiktionary.org/wiki/enllaçar#Catalan
+ 530. https://ca.wiktionary.org/wiki/enllaçar
+ 531. https://en.wiktionary.org/wiki/odkazovat#Czech
+ 532. https://en.wiktionary.org/wiki/Wiktionary:Translations#Translations_to_be_checked
+ 533. https://en.wiktionary.org/wiki/lier#French
+ 534. https://fr.wiktionary.org/wiki/lier
+ 535. https://en.wiktionary.org/wiki/Wiktionary:Translations#Translations_to_be_checked
+ 536. https://en.wiktionary.org/wiki/pointer#French
+ 537. https://fr.wiktionary.org/wiki/pointer
+ 538. https://en.wiktionary.org/wiki/Wiktionary:Translations#Translations_to_be_checked
+ 539. https://en.wiktionary.org/wiki/contenir#French
+ 540. https://en.wiktionary.org/wiki/un#French
+ 541. https://en.wiktionary.org/wiki/lien#French
+ 542. https://en.wiktionary.org/wiki/vers#French
+ 543. https://en.wiktionary.org/wiki/Wiktionary:Translations#Translations_to_be_checked
+ 544. https://en.wiktionary.org/wiki/hyperlier#French
+ 545. https://fr.wiktionary.org/wiki/hyperlier
+ 546. https://en.wiktionary.org/wiki/linken#German
+ 547. https://de.wiktionary.org/wiki/linken
+ 548. https://en.wiktionary.org/w/index.php?title=verlinken&action=edit&redlink=1
+ 549. https://de.wiktionary.org/wiki/verlinken
+ 550. https://en.wiktionary.org/wiki/hivatkozik#Hungarian
+ 551. https://hu.wiktionary.org/wiki/hivatkozik
+ 552. https://en.wiktionary.org/wiki/nasc#Irish
+ 553. https://ga.wiktionary.org/wiki/nasc
+ 554. https://en.wiktionary.org/wiki/پیوند#Persian
+ 555. https://fa.wiktionary.org/wiki/پیوند
+ 556. https://en.wiktionary.org/w/index.php?title=linkar&action=edit&redlink=1
+ 557. https://pt.wiktionary.org/wiki/linkar
+ 558. https://en.wiktionary.org/w/index.php?title=link&action=edit&section=13
+ 559. https://en.wikipedia.org/wiki/Medieval_Latin
+ 560. https://en.wiktionary.org/w/index.php?title=linchinus&action=edit&redlink=1
+ 561. https://en.wikipedia.org/wiki/Latin_language
+ 562. https://en.wiktionary.org/w/index.php?title=lynchinus&action=edit&redlink=1
+ 563. https://en.wikipedia.org/wiki/Ancient_Greek_language
+ 564. https://en.wiktionary.org/wiki/λύχνος#Ancient_Greek
+ 565. https://en.wiktionary.org/w/index.php?title=link&action=edit&section=14
+ 566. https://en.wiktionary.org/wiki/links#English
+ 567. https://en.wiktionary.org/wiki/Appendix:Glossary#obsolete
+ 568. https://en.wiktionary.org/wiki/torch
+ 569. https://en.wiktionary.org/wiki/Category:Requests_for_quotation/Shakespeare
+ 570. https://en.wiktionary.org/w/index.php?title=link&action=edit&section=15
+ 571. https://en.wiktionary.org/wiki/linkboy#English
+ 572. https://en.wiktionary.org/wiki/linkman#English
+ 573. https://en.wiktionary.org/w/index.php?title=link&action=edit&section=16
+ 574. https://en.wiktionary.org/w/index.php?title=torxa&action=edit&redlink=1
+ 575. https://ca.wiktionary.org/wiki/torxa
+ 576. https://en.wiktionary.org/wiki/fakkel#Dutch
+ 577. https://nl.wiktionary.org/wiki/fakkel
+ 578. https://en.wiktionary.org/w/index.php?title=flambouw&action=edit&redlink=1
+ 579. https://nl.wiktionary.org/wiki/flambouw
+ 580. https://en.wiktionary.org/wiki/toorts#Dutch
+ 581. https://nl.wiktionary.org/wiki/toorts
+ 582. https://en.wiktionary.org/wiki/flambeau#French
+ 583. https://fr.wiktionary.org/wiki/flambeau
+ 584. https://en.wiktionary.org/wiki/torche#French
+ 585. https://fr.wiktionary.org/wiki/torche
+ 586. https://en.wiktionary.org/wiki/lāpa#Latvian
+ 587. https://en.wiktionary.org/w/index.php?title=link&action=edit&section=17
+ 588. https://en.wiktionary.org/w/index.php?title=link&action=edit&section=18
+ 589. https://en.wiktionary.org/wiki/links#English
+ 590. https://en.wiktionary.org/wiki/linking#English
+ 591. https://en.wiktionary.org/wiki/linked#English
+ 592. https://en.wikipedia.org/wiki/Scotland
+ 593. https://en.wiktionary.org/wiki/skip
+ 594. https://en.wiktionary.org/wiki/trip
+ 595. https://en.wiktionary.org/wiki/smart
+ 596. https://en.wiktionary.org/wiki/Wiktionary:Example_sentences
+ 597. https://en.wiktionary.org/w/index.php?title=link&action=edit&section=19
+ 598. https://en.wiktionary.org/w/index.php?title=link&action=edit&section=20
+ 599. https://en.wiktionary.org/w/index.php?title=link&action=edit&section=21
+ 600. https://en.wiktionary.org/wiki/kiln#English
+ 601. https://en.wiktionary.org/w/index.php?title=link&action=edit&section=22
+ 602. https://en.wiktionary.org/w/index.php?title=link&action=edit&section=23
+ 603. https://en.wiktionary.org/wiki/Wiktionary:International_Phonetic_Alphabet
+ 604. https://en.wikipedia.org/wiki/Czech_phonology
+ 605. https://en.wiktionary.org/wiki/Rhymes:Czech/ɪŋk
+ 606. https://en.wiktionary.org/w/index.php?title=link&action=edit&section=24
+ 607. https://en.wiktionary.org/wiki/link#English
+ 608. https://en.wiktionary.org/wiki/hyperlink
+ 609. https://en.wiktionary.org/w/index.php?title=link&action=edit&section=25
+ 610. https://en.wiktionary.org/wiki/Wikipedia
+ 611. https://en.wikipedia.org/wiki/da:link
+ 612. https://en.wikipedia.org/wiki/da:link
+ 613. https://en.wiktionary.org/w/index.php?title=link&action=edit&section=26
+ 614. https://en.wiktionary.org/wiki/Appendix:Glossary#loanword
+ 615. https://en.wikipedia.org/wiki/English_language
+ 616. https://en.wiktionary.org/wiki/link#English
+ 617. https://en.wiktionary.org/w/index.php?title=link&action=edit&section=27
+ 618. https://en.wiktionary.org/wiki/Wiktionary:International_Phonetic_Alphabet
+ 619. https://en.wikipedia.org/wiki/Danish_phonology
+ 620. https://en.wiktionary.org/w/index.php?title=link&action=edit&section=28
+ 621. https://en.wiktionary.org/wiki/linket#Danish
+ 622. https://en.wiktionary.org/wiki/link#Danish
+ 623. https://en.wiktionary.org/wiki/links#Danish
+ 624. https://en.wiktionary.org/wiki/link#English
+ 625. https://en.wiktionary.org/wiki/hyperlink
+ 626. https://en.wiktionary.org/w/index.php?title=link&action=edit&section=29
+ 627. https://en.wiktionary.org/wiki/hyperlink
+ 628. https://en.wiktionary.org/w/index.php?title=link&action=edit&section=30
+ 629. https://en.wiktionary.org/wiki/nominative_case
+ 630. https://en.wiktionary.org/wiki/linket#Danish
+ 631. https://en.wiktionary.org/wiki/links#Danish
+ 632. https://en.wiktionary.org/wiki/linkene#Danish
+ 633. https://en.wiktionary.org/wiki/genitive_case
+ 634. https://en.wiktionary.org/wiki/links#Danish
+ 635. https://en.wiktionary.org/wiki/linkets#Danish
+ 636. https://en.wiktionary.org/wiki/links#Danish
+ 637. https://en.wiktionary.org/wiki/links'#Danish
+ 638. https://en.wiktionary.org/wiki/linkenes#Danish
+ 639. https://en.wiktionary.org/w/index.php?title=link&action=edit&section=31
+ 640. https://en.wiktionary.org/w/index.php?title=link&action=edit&section=32
+ 641. https://en.wiktionary.org/wiki/Rhymes:Dutch/ɪŋk
+ 642. https://en.wiktionary.org/w/index.php?title=link&action=edit&section=33
+ 643. https://en.wiktionary.org/w/index.php?title=link&action=edit&section=34
+ 644. https://en.wiktionary.org/wiki/Appendix:Glossary#comparative
+ 645. https://en.wiktionary.org/wiki/linker#Dutch
+ 646. https://en.wiktionary.org/wiki/Appendix:Glossary#superlative
+ 647. https://en.wiktionary.org/wiki/linkst#Dutch
+ 648. https://en.wiktionary.org/wiki/dangerous
+ 649. https://en.wiktionary.org/wiki/Appendix:Glossary#slang
+ 650. https://en.wiktionary.org/wiki/sly
+ 651. https://en.wiktionary.org/wiki/cunning
+ 652. https://en.wiktionary.org/wiki/Appendix:Glossary#slang
+ 653. https://en.wiktionary.org/wiki/jolly
+ 654. https://en.wiktionary.org/wiki/nice
+ 655. https://en.wiktionary.org/w/index.php?title=link&action=edit&section=35
+ 656. https://en.wiktionary.org/wiki/linke#Dutch
+ 657. https://en.wiktionary.org/wiki/linker#Dutch
+ 658. https://en.wiktionary.org/wiki/positive_degree
+ 659. https://en.wiktionary.org/wiki/comparative_degree
+ 660. https://en.wiktionary.org/wiki/superlative_degree
+ 661. https://en.wiktionary.org/wiki/predicative
+ 662. https://en.wiktionary.org/wiki/adverbial
+ 663. https://en.wiktionary.org/wiki/linker#Dutch
+ 664. https://en.wiktionary.org/wiki/linkst#Dutch
+ 665. https://en.wiktionary.org/wiki/linkste#Dutch
+ 666. https://en.wiktionary.org/wiki/indefinite
+ 667. https://en.wiktionary.org/wiki/masculine
+ 668. https://en.wiktionary.org/wiki/feminine
+ 669. https://en.wiktionary.org/wiki/singular
+ 670. https://en.wiktionary.org/wiki/linke#Dutch
+ 671. https://en.wiktionary.org/wiki/linkere#Dutch
+ 672. https://en.wiktionary.org/wiki/linkste#Dutch
+ 673. https://en.wiktionary.org/wiki/neuter
+ 674. https://en.wiktionary.org/wiki/singular
+ 675. https://en.wiktionary.org/wiki/linker#Dutch
+ 676. https://en.wiktionary.org/wiki/linkste#Dutch
+ 677. https://en.wiktionary.org/wiki/plural
+ 678. https://en.wiktionary.org/wiki/linke#Dutch
+ 679. https://en.wiktionary.org/wiki/linkere#Dutch
+ 680. https://en.wiktionary.org/wiki/linkste#Dutch
+ 681. https://en.wiktionary.org/wiki/definite
+ 682. https://en.wiktionary.org/wiki/linke#Dutch
+ 683. https://en.wiktionary.org/wiki/linkere#Dutch
+ 684. https://en.wiktionary.org/wiki/linkste#Dutch
+ 685. https://en.wiktionary.org/wiki/partitive
+ 686. https://en.wiktionary.org/wiki/links#Dutch
+ 687. https://en.wiktionary.org/wiki/linkers#Dutch
+ 688. https://en.wiktionary.org/w/index.php?title=link&action=edit&section=36
+ 689. https://en.wiktionary.org/w/index.php?title=linkerd&action=edit&redlink=1
+ 690. https://en.wiktionary.org/w/index.php?title=link&action=edit&section=37
+ 691. https://en.wiktionary.org/wiki/Appendix:Glossary#loanword
+ 692. https://en.wikipedia.org/wiki/English_language
+ 693. https://en.wiktionary.org/wiki/link#English
+ 694. https://en.wiktionary.org/w/index.php?title=link&action=edit&section=38
+ 695. https://en.wiktionary.org/wiki/links#Dutch
+ 696. https://en.wiktionary.org/wiki/Appendix:Glossary#diminutive
+ 697. https://en.wiktionary.org/wiki/linkje#Dutch
+ 698. https://en.wiktionary.org/wiki/connection
+ 699. https://en.wiktionary.org/wiki/hardware
+ 700. https://en.wiktionary.org/wiki/Appendix:Glossary#figurative
+ 701. https://en.wiktionary.org/wiki/connection
+ 702. https://en.wiktionary.org/wiki/reason
+ 703. https://en.wiktionary.org/wiki/causality
+ 704. https://en.wiktionary.org/wiki/hyperlink
+ 705. https://en.wiktionary.org/w/index.php?title=link&action=edit&section=39
+ 706. https://en.wiktionary.org/wiki/verbinding#Dutch
+ 707. https://en.wiktionary.org/wiki/verband#Dutch
+ 708. https://en.wiktionary.org/wiki/koppeling#Dutch
+ 709. https://en.wiktionary.org/wiki/verwijzing#Dutch
+ 710. https://en.wiktionary.org/w/index.php?title=link&action=edit&section=40
+ 711. https://en.wiktionary.org/wiki/linken#Dutch
+ 712. https://en.wiktionary.org/w/index.php?title=link&action=edit&section=41
+ 713. https://en.wiktionary.org/w/index.php?title=link&action=edit&section=42
+ 714. https://en.wiktionary.org/w/index.php?title=link&action=edit&section=43
+ 715. https://en.wikipedia.org/wiki/Middle_High_German_language
+ 716. https://en.wiktionary.org/w/index.php?title=linc&action=edit&redlink=1
+ 717. https://en.wikipedia.org/wiki/Old_High_German_language
+ 718. https://en.wiktionary.org/wiki/Reconstruction:Old_High_German/link
+ 719. https://en.wikipedia.org/wiki/Old_High_German_language
+ 720. https://en.wiktionary.org/wiki/linka#Old_High_German
+ 721. https://en.wiktionary.org/w/index.php?title=link&action=edit&section=44
+ 722. https://en.wiktionary.org/wiki/Wiktionary:International_Phonetic_Alphabet
+ 723. https://en.wiktionary.org/wiki/Appendix:German_pronunciation
+ 724. https://en.wiktionary.org/wiki/File:De-link.ogg
+ 725. https://en.wiktionary.org/w/index.php?title=link&action=edit&section=45
+ 726. https://en.wiktionary.org/wiki/left
+ 727. https://en.wiktionary.org/wiki/sly
+ 728. https://en.wiktionary.org/wiki/cunning
+ 729. https://en.wiktionary.org/wiki/dangerous
+ 730. https://en.wiktionary.org/w/index.php?title=link&action=edit&section=46
+ 731. http://www.duden.de/rechtschreibung/link
+ 732. https://en.wiktionary.org/w/index.php?title=link&action=edit&section=47
+ 733. https://en.wiktionary.org/w/index.php?title=link&action=edit&section=48
+ 734. https://en.wiktionary.org/wiki/Wiktionary:International_Phonetic_Alphabet
+ 735. https://en.wiktionary.org/wiki/Appendix:Hungarian_pronunciation
+ 736. https://en.wiktionary.org/wiki/File:Hu-link.ogg
+ 737. https://en.wiktionary.org/w/index.php?title=link&action=edit&section=49
+ 738. https://en.wiktionary.org/wiki/Appendix:Glossary#loanword
+ 739. https://en.wikipedia.org/wiki/English_language
+ 740. https://en.wiktionary.org/wiki/link#English
+ 741. https://en.wiktionary.org/wiki/link#cite_note-link-hu-1
+ 742. https://en.wiktionary.org/w/index.php?title=link&action=edit&section=50
+ 743. https://en.wiktionary.org/wiki/linkek#Hungarian
+ 744. https://en.wiktionary.org/wiki/link#English
+ 745. https://en.wiktionary.org/wiki/hyperlink
+ 746. https://en.wiktionary.org/w/index.php?title=link&action=edit&section=51
+ 747. https://en.wiktionary.org/wiki/linkek#Hungarian
+ 748. https://en.wiktionary.org/wiki/linket#Hungarian
+ 749. https://en.wiktionary.org/wiki/linkeket#Hungarian
+ 750. https://en.wiktionary.org/w/index.php?title=linknek&action=edit&redlink=1
+ 751. https://en.wiktionary.org/w/index.php?title=linkeknek&action=edit&redlink=1
+ 752. https://en.wiktionary.org/w/index.php?title=linkkel&action=edit&redlink=1
+ 753. https://en.wiktionary.org/w/index.php?title=linkekkel&action=edit&redlink=1
+ 754. https://en.wiktionary.org/w/index.php?title=linkért&action=edit&redlink=1
+ 755. https://en.wiktionary.org/w/index.php?title=linkekért&action=edit&redlink=1
+ 756. https://en.wiktionary.org/w/index.php?title=linkké&action=edit&redlink=1
+ 757. https://en.wiktionary.org/w/index.php?title=linkekké&action=edit&redlink=1
+ 758. https://en.wiktionary.org/w/index.php?title=linkig&action=edit&redlink=1
+ 759. https://en.wiktionary.org/w/index.php?title=linkekig&action=edit&redlink=1
+ 760. https://en.wiktionary.org/w/index.php?title=linkként&action=edit&redlink=1
+ 761. https://en.wiktionary.org/w/index.php?title=linkekként&action=edit&redlink=1
+ 762. https://en.wiktionary.org/w/index.php?title=linkben&action=edit&redlink=1
+ 763. https://en.wiktionary.org/w/index.php?title=linkekben&action=edit&redlink=1
+ 764. https://en.wiktionary.org/wiki/linken#Hungarian
+ 765. https://en.wiktionary.org/wiki/linkeken#Hungarian
+ 766. https://en.wiktionary.org/w/index.php?title=linknél&action=edit&redlink=1
+ 767. https://en.wiktionary.org/w/index.php?title=linkeknél&action=edit&redlink=1
+ 768. https://en.wiktionary.org/w/index.php?title=linkbe&action=edit&redlink=1
+ 769. https://en.wiktionary.org/w/index.php?title=linkekbe&action=edit&redlink=1
+ 770. https://en.wiktionary.org/wiki/linkre#Hungarian
+ 771. https://en.wiktionary.org/wiki/linkekre#Hungarian
+ 772. https://en.wiktionary.org/w/index.php?title=linkhez&action=edit&redlink=1
+ 773. https://en.wiktionary.org/w/index.php?title=linkekhez&action=edit&redlink=1
+ 774. https://en.wiktionary.org/w/index.php?title=linkből&action=edit&redlink=1
+ 775. https://en.wiktionary.org/w/index.php?title=linkekből&action=edit&redlink=1
+ 776. https://en.wiktionary.org/w/index.php?title=linkről&action=edit&redlink=1
+ 777. https://en.wiktionary.org/w/index.php?title=linkekről&action=edit&redlink=1
+ 778. https://en.wiktionary.org/w/index.php?title=linktől&action=edit&redlink=1
+ 779. https://en.wiktionary.org/w/index.php?title=linkektől&action=edit&redlink=1
+ 780. https://en.wiktionary.org/wiki/Appendix:Hungarian_possessive_suffixes
+ 781. https://en.wiktionary.org/wiki/linkem#Hungarian
+ 782. https://en.wiktionary.org/w/index.php?title=linkjeim&action=edit&redlink=1
+ 783. https://en.wiktionary.org/wiki/linked#Hungarian
+ 784. https://en.wiktionary.org/w/index.php?title=linkjeid&action=edit&redlink=1
+ 785. https://en.wiktionary.org/wiki/linkje#Hungarian
+ 786. https://en.wiktionary.org/w/index.php?title=linkjei&action=edit&redlink=1
+ 787. https://en.wiktionary.org/w/index.php?title=linkünk&action=edit&redlink=1
+ 788. https://en.wiktionary.org/w/index.php?title=linkjeink&action=edit&redlink=1
+ 789. https://en.wiktionary.org/w/index.php?title=linketek&action=edit&redlink=1
+ 790. https://en.wiktionary.org/w/index.php?title=linkjeitek&action=edit&redlink=1
+ 791. https://en.wiktionary.org/w/index.php?title=linkjük&action=edit&redlink=1
+ 792. https://en.wiktionary.org/w/index.php?title=linkjeik&action=edit&redlink=1
+ 793. https://en.wiktionary.org/w/index.php?title=link&action=edit&section=52
+ 794. https://en.wiktionary.org/wiki/Appendix:Glossary#loanword
+ 795. https://en.wikipedia.org/wiki/Yiddish_language
+ 796. https://en.wiktionary.org/wiki/לינק#Yiddish
+ 797. https://en.wikipedia.org/wiki/German_language
+ 798. https://en.wiktionary.org/wiki/link#German
+ 799. https://en.wiktionary.org/wiki/link#cite_note-link-hu-1
+ 800. https://en.wiktionary.org/w/index.php?title=link&action=edit&section=53
+ 801. https://en.wiktionary.org/w/index.php?title=linkebb&action=edit&redlink=1
+ 802. https://en.wiktionary.org/w/index.php?title=leglinkebb&action=edit&redlink=1
+ 803. https://en.wiktionary.org/wiki/Appendix:Glossary#colloquial
+ 804. https://en.wiktionary.org/wiki/fishy
+ 805. https://en.wiktionary.org/wiki/shifty
+ 806. https://en.wiktionary.org/w/index.php?title=link&action=edit&section=54
+ 807. https://en.wiktionary.org/w/index.php?title=Category:Hungarian_adjective_inflection-table_templates&action=edit&redlink=1
+ 808. https://en.wiktionary.org/w/index.php?title=link&action=edit&section=55
+ 809. https://en.wiktionary.org/wiki/link#cite_ref-link-hu_1-0
+ 810. https://en.wiktionary.org/wiki/link#cite_ref-link-hu_1-1
+ 811. http://www.tankonyvtar.hu/hu/tartalom/tinta/TAMOP-4_2_5-09_Idegenszo-tar/adatok.html
+ 812. https://en.wikipedia.org/wiki/International_Standard_Book_Number
+ 813. https://en.wiktionary.org/wiki/Special:BookSources/963_7094_20_2
+ 814. https://en.wiktionary.org/w/index.php?title=link&action=edit&section=56
+ 815. https://en.wiktionary.org/wiki/Wikipedia
+ 816. https://en.wikipedia.org/wiki/it:link
+ 817. https://en.wikipedia.org/wiki/it:link
+ 818. https://en.wiktionary.org/w/index.php?title=link&action=edit&section=57
+ 819. https://en.wiktionary.org/wiki/Appendix:Glossary#loanword
+ 820. https://en.wikipedia.org/wiki/English_language
+ 821. https://en.wiktionary.org/wiki/link#English
+ 822. https://en.wiktionary.org/w/index.php?title=link&action=edit&section=58
+ 823. https://en.wiktionary.org/wiki/computing
+ 824. https://en.wiktionary.org/wiki/link#English
+ 825. https://en.wiktionary.org/w/index.php?title=link&action=edit&section=59
+ 826. https://en.wiktionary.org/wiki/collegamento#Italian
+ 827. https://en.wiktionary.org/w/index.php?title=link&action=edit&section=60
+ 828. https://en.wiktionary.org/wiki/linkare#Italian
+ 829. https://en.wiktionary.org/w/index.php?title=link&action=edit&section=61
+ 830. https://en.wiktionary.org/w/index.php?title=link&action=edit&section=62
+ 831. https://en.wiktionary.org/wiki/Wiktionary:International_Phonetic_Alphabet
+ 832. https://en.wikipedia.org/wiki/Lithuanian_phonology
+ 833. https://en.wiktionary.org/w/index.php?title=link&action=edit&section=63
+ 834. https://en.wiktionary.org/wiki/toward
+ 835. https://en.wiktionary.org/w/index.php?title=link&action=edit&section=64
+ 836. https://en.wiktionary.org/w/index.php?title=link&action=edit&section=65
+ 837. https://en.wiktionary.org/wiki/Appendix:Glossary#loanword
+ 838. https://en.wikipedia.org/wiki/English_language
+ 839. https://en.wiktionary.org/wiki/link#English
+ 840. https://en.wiktionary.org/w/index.php?title=link&action=edit&section=66
+ 841. https://en.wiktionary.org/wiki/Wiktionary:International_Phonetic_Alphabet
+ 842. https://en.wiktionary.org/wiki/Appendix:Polish_pronunciation
+ 843. https://en.wiktionary.org/wiki/File:Pl-link.ogg
+ 844. https://en.wiktionary.org/w/index.php?title=link&action=edit&section=67
+ 845. https://en.wiktionary.org/wiki/link#English
+ 846. https://en.wiktionary.org/wiki/hyperlink
+ 847. https://en.wiktionary.org/w/index.php?title=link&action=edit&section=68
+ 848. https://en.wiktionary.org/wiki/linki#Polish
+ 849. https://en.wiktionary.org/w/index.php?title=linku&action=edit&redlink=1
+ 850. https://en.wiktionary.org/w/index.php?title=linków&action=edit&redlink=1
+ 851. https://en.wiktionary.org/w/index.php?title=linkowi&action=edit&redlink=1
+ 852. https://en.wiktionary.org/w/index.php?title=linkom&action=edit&redlink=1
+ 853. https://en.wiktionary.org/wiki/linki#Polish
+ 854. https://en.wiktionary.org/w/index.php?title=linkiem&action=edit&redlink=1
+ 855. https://en.wiktionary.org/w/index.php?title=linkami&action=edit&redlink=1
+ 856. https://en.wiktionary.org/w/index.php?title=linku&action=edit&redlink=1
+ 857. https://en.wiktionary.org/w/index.php?title=linkach&action=edit&redlink=1
+ 858. https://en.wiktionary.org/w/index.php?title=linku&action=edit&redlink=1
+ 859. https://en.wiktionary.org/wiki/linki#Polish
+ 860. https://en.wiktionary.org/w/index.php?title=link&action=edit&section=69
+ 861. https://en.wiktionary.org/w/index.php?title=hiperłącze&action=edit&redlink=1
+ 862. https://en.wiktionary.org/w/index.php?title=link&action=edit&section=70
+ 863. https://en.wiktionary.org/w/index.php?title=link&action=edit&section=71
+ 864. https://en.wiktionary.org/wiki/Appendix:Glossary#loanword
+ 865. https://en.wikipedia.org/wiki/English_language
+ 866. https://en.wiktionary.org/wiki/link#English
+ 867. https://en.wiktionary.org/w/index.php?title=link&action=edit&section=72
+ 868. https://en.wiktionary.org/wiki/links#Portuguese
+ 869. https://en.wiktionary.org/wiki/computing
+ 870. https://en.wiktionary.org/wiki/link#English
+ 871. https://en.wiktionary.org/w/index.php?title=link&action=edit&section=73
+ 872. https://en.wiktionary.org/wiki/linque#Portuguese
+ 873. https://en.wiktionary.org/wiki/hiperligação#Portuguese
+ 874. https://en.wiktionary.org/wiki/ligação#Portuguese
+ 875. https://en.wiktionary.org/w/index.php?title=link&action=edit&section=74
+ 876. https://en.wiktionary.org/w/index.php?title=link&action=edit&section=75
+ 877. https://en.wiktionary.org/wiki/links#Spanish
+ 878. https://en.wiktionary.org/wiki/computing
+ 879. https://en.wiktionary.org/wiki/link#English
+ 880. https://en.wiktionary.org/w/index.php?title=link&oldid=42880589
+ 881. https://en.wiktionary.org/wiki/Special:Categories
+ 882. https://en.wiktionary.org/wiki/Category:English_1-syllable_words
+ 883. https://en.wiktionary.org/wiki/Category:English_terms_with_IPA_pronunciation
+ 884. https://en.wiktionary.org/wiki/Category:English_terms_with_audio_links
+ 885. https://en.wiktionary.org/wiki/Category:English_terms_inherited_from_Middle_English
+ 886. https://en.wiktionary.org/wiki/Category:English_terms_derived_from_Middle_English
+ 887. https://en.wiktionary.org/wiki/Category:English_terms_inherited_from_Old_English
+ 888. https://en.wiktionary.org/wiki/Category:English_terms_derived_from_Old_English
+ 889. https://en.wiktionary.org/wiki/Category:English_terms_derived_from_Old_Norse
+ 890. https://en.wiktionary.org/wiki/Category:English_terms_inherited_from_Proto-Germanic
+ 891. https://en.wiktionary.org/wiki/Category:English_terms_derived_from_Proto-Germanic
+ 892. https://en.wiktionary.org/wiki/Category:English_lemmas
+ 893. https://en.wiktionary.org/wiki/Category:English_nouns
+ 894. https://en.wiktionary.org/wiki/Category:English_countable_nouns
+ 895. https://en.wiktionary.org/wiki/Category:English_abbreviations
+ 896. https://en.wiktionary.org/wiki/Category:en:Computing
+ 897. https://en.wiktionary.org/wiki/Category:en:Mathematics
+ 898. https://en.wiktionary.org/wiki/Category:Sussex_English
+ 899. https://en.wiktionary.org/wiki/Category:Requests_for_quotation/Mortimer
+ 900. https://en.wiktionary.org/wiki/Category:en:Engineering
+ 901. https://en.wiktionary.org/wiki/Category:en:Surveying
+ 902. https://en.wiktionary.org/wiki/Category:en:Chemistry
+ 903. https://en.wiktionary.org/wiki/Category:English_verbs
+ 904. https://en.wiktionary.org/wiki/Category:English_transitive_verbs
+ 905. https://en.wiktionary.org/wiki/Category:English_intransitive_verbs
+ 906. https://en.wiktionary.org/wiki/Category:en:Internet
+ 907. https://en.wiktionary.org/wiki/Category:en:Compilation
+ 908. https://en.wiktionary.org/wiki/Category:English_terms_derived_from_Medieval_Latin
+ 909. https://en.wiktionary.org/wiki/Category:English_terms_derived_from_Latin
+ 910. https://en.wiktionary.org/wiki/Category:English_terms_derived_from_Ancient_Greek
+ 911. https://en.wiktionary.org/wiki/Category:English_terms_with_obsolete_senses
+ 912. https://en.wiktionary.org/wiki/Category:Requests_for_quotation/Shakespeare
+ 913. https://en.wiktionary.org/wiki/Category:Scottish_English
+ 914. https://en.wiktionary.org/wiki/Category:Czech_1-syllable_words
+ 915. https://en.wiktionary.org/wiki/Category:Czech_terms_with_IPA_pronunciation
+ 916. https://en.wiktionary.org/wiki/Category:Czech_lemmas
+ 917. https://en.wiktionary.org/wiki/Category:Czech_nouns
+ 918. https://en.wiktionary.org/wiki/Category:Czech_masculine_nouns
+ 919. https://en.wiktionary.org/wiki/Category:Danish_terms_borrowed_from_English
+ 920. https://en.wiktionary.org/wiki/Category:Danish_terms_derived_from_English
+ 921. https://en.wiktionary.org/wiki/Category:Danish_terms_with_IPA_pronunciation
+ 922. https://en.wiktionary.org/wiki/Category:Danish_lemmas
+ 923. https://en.wiktionary.org/wiki/Category:Danish_nouns
+ 924. https://en.wiktionary.org/wiki/Category:Dutch_lemmas
+ 925. https://en.wiktionary.org/wiki/Category:Dutch_adjectives
+ 926. https://en.wiktionary.org/wiki/Category:Dutch_slang
+ 927. https://en.wiktionary.org/wiki/Category:Dutch_terms_borrowed_from_English
+ 928. https://en.wiktionary.org/wiki/Category:Dutch_terms_derived_from_English
+ 929. https://en.wiktionary.org/wiki/Category:Dutch_nouns
+ 930. https://en.wiktionary.org/wiki/Category:Dutch_nouns_with_plural_in_-s
+ 931. https://en.wiktionary.org/wiki/Category:German_terms_inherited_from_Middle_High_German
+ 932. https://en.wiktionary.org/wiki/Category:German_terms_derived_from_Middle_High_German
+ 933. https://en.wiktionary.org/wiki/Category:German_terms_inherited_from_Old_High_German
+ 934. https://en.wiktionary.org/wiki/Category:German_terms_derived_from_Old_High_German
+ 935. https://en.wiktionary.org/wiki/Category:German_1-syllable_words
+ 936. https://en.wiktionary.org/wiki/Category:German_terms_with_IPA_pronunciation
+ 937. https://en.wiktionary.org/wiki/Category:German_terms_with_audio_links
+ 938. https://en.wiktionary.org/wiki/Category:German_lemmas
+ 939. https://en.wiktionary.org/wiki/Category:German_adjectives
+ 940. https://en.wiktionary.org/wiki/Category:Hungarian_terms_with_IPA_pronunciation
+ 941. https://en.wiktionary.org/wiki/Category:Hungarian_terms_with_audio_links
+ 942. https://en.wiktionary.org/wiki/Category:Hungarian_terms_borrowed_from_English
+ 943. https://en.wiktionary.org/wiki/Category:Hungarian_terms_derived_from_English
+ 944. https://en.wiktionary.org/wiki/Category:Hungarian_lemmas
+ 945. https://en.wiktionary.org/wiki/Category:Hungarian_nouns
+ 946. https://en.wiktionary.org/wiki/Category:Hungarian_terms_borrowed_from_Yiddish
+ 947. https://en.wiktionary.org/wiki/Category:Hungarian_terms_derived_from_Yiddish
+ 948. https://en.wiktionary.org/wiki/Category:Hungarian_terms_derived_from_German
+ 949. https://en.wiktionary.org/wiki/Category:Hungarian_adjectives
+ 950. https://en.wiktionary.org/wiki/Category:Hungarian_colloquialisms
+ 951. https://en.wiktionary.org/wiki/Category:hu:Computing
+ 952. https://en.wiktionary.org/wiki/Category:Italian_terms_borrowed_from_English
+ 953. https://en.wiktionary.org/wiki/Category:Italian_terms_derived_from_English
+ 954. https://en.wiktionary.org/wiki/Category:Italian_lemmas
+ 955. https://en.wiktionary.org/wiki/Category:Italian_nouns
+ 956. https://en.wiktionary.org/wiki/Category:it:Computing
+ 957. https://en.wiktionary.org/wiki/Category:Lithuanian_terms_with_IPA_pronunciation
+ 958. https://en.wiktionary.org/wiki/Category:Lithuanian_lemmas
+ 959. https://en.wiktionary.org/wiki/Category:Lithuanian_adverbs
+ 960. https://en.wiktionary.org/wiki/Category:Polish_terms_borrowed_from_English
+ 961. https://en.wiktionary.org/wiki/Category:Polish_terms_derived_from_English
+ 962. https://en.wiktionary.org/wiki/Category:Polish_terms_with_IPA_pronunciation
+ 963. https://en.wiktionary.org/wiki/Category:Polish_terms_with_audio_links
+ 964. https://en.wiktionary.org/wiki/Category:Polish_lemmas
+ 965. https://en.wiktionary.org/wiki/Category:Polish_nouns
+ 966. https://en.wiktionary.org/wiki/Category:Polish_masculine_nouns
+ 967. https://en.wiktionary.org/wiki/Category:Portuguese_terms_borrowed_from_English
+ 968. https://en.wiktionary.org/wiki/Category:Portuguese_terms_derived_from_English
+ 969. https://en.wiktionary.org/wiki/Category:Portuguese_lemmas
+ 970. https://en.wiktionary.org/wiki/Category:Portuguese_nouns
+ 971. https://en.wiktionary.org/wiki/Category:pt:Computing
+ 972. https://en.wiktionary.org/wiki/Category:Spanish_lemmas
+ 973. https://en.wiktionary.org/wiki/Category:Spanish_nouns
+ 974. https://en.wiktionary.org/wiki/Category:es:Computing
+ 975. https://en.wiktionary.org/wiki/Category:wikipedia_with_redundant_first_parameter
+ 976. https://en.wiktionary.org/wiki/Category:Requests_for_quotations_in_English
+ 977. https://en.wiktionary.org/wiki/Category:Terms_with_manual_transliterations_different_from_the_automated_ones
+ 978. https://en.wiktionary.org/wiki/Category:Terms_with_manual_transliterations_different_from_the_automated_ones/mk
+ 979. https://en.wiktionary.org/wiki/Category:Terms_with_manual_transliterations_different_from_the_automated_ones/ky
+ 980. https://en.wiktionary.org/wiki/Category:Requests_for_review_of_Norman_translations
+ 981. https://en.wiktionary.org/wiki/Category:Requests_for_review_of_Romanian_translations
+ 982. https://en.wiktionary.org/wiki/Category:Terms_with_manual_transliterations_different_from_the_automated_ones/km
+ 983. https://en.wiktionary.org/wiki/Category:Requests_for_translations_into_Lao
+ 984. https://en.wiktionary.org/wiki/Category:Requests_for_translations_into_Thai
+ 985. https://en.wiktionary.org/wiki/Category:Requests_for_translations_into_Vietnamese
+ 986. https://en.wiktionary.org/wiki/Category:Requests_for_review_of_French_translations
+ 987. https://en.wiktionary.org/wiki/Category:Portuguese_redlinks
+ 988. https://en.wiktionary.org/wiki/Category:Portuguese_redlinks/t+
+ 989. https://en.wiktionary.org/wiki/Category:etyl_cleanup/en
+ 990. https://en.wiktionary.org/wiki/Category:Requests_for_example_sentences_in_English
+ 991. https://en.wiktionary.org/wiki/Category:bor_without_notext
+ 992. https://en.wiktionary.org/wiki/Category:etyl_cleanup
+ 993. https://en.wiktionary.org/wiki/Category:Requests_for_inflections_in_Hungarian_adjective_entries
+ 994. https://en.wiktionary.org/wiki/Special:MyTalk
+ 995. https://en.wiktionary.org/wiki/Special:MyContributions
+ 996. https://en.wiktionary.org/w/index.php?title=Special:CreateAccount&returnto=link
+ 997. https://en.wiktionary.org/w/index.php?title=Special:UserLogin&returnto=link
+ 998. https://en.wiktionary.org/wiki/link
+ 999. https://en.wiktionary.org/wiki/Talk:link
+1000. https://en.wiktionary.org/wiki/link
+1001. https://en.wiktionary.org/w/index.php?title=link&action=edit
+1002. https://en.wiktionary.org/w/index.php?title=link&action=history
+1003. form field = text entry field
+1004. form field = submit button
+1005. form field = submit button
+1006. https://en.wiktionary.org/wiki/Wiktionary:Main_Page
+1007. https://en.wiktionary.org/wiki/Wiktionary:Community_portal
+1008. https://en.wiktionary.org/wiki/Wiktionary:Per-browser_preferences
+1009. https://en.wiktionary.org/wiki/Wiktionary:Requested_entries
+1010. https://en.wiktionary.org/wiki/Special:RecentChanges
+1011. https://en.wiktionary.org/wiki/Special:Random
+1012. https://en.wiktionary.org/wiki/Help:Contents
+1013. https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&utm_medium=sidebar&utm_campaign=C13_en.wiktionary.org&uselang=en
+1014. https://en.wiktionary.org/wiki/Wiktionary:Contact_us
+1015. https://en.wiktionary.org/wiki/Special:WhatLinksHere/link
+1016. https://en.wiktionary.org/wiki/Special:RecentChangesLinked/link
+1017. https://commons.wikimedia.org/wiki/Special:UploadWizard?uselang=en
+1018. https://en.wiktionary.org/wiki/Special:SpecialPages
+1019. https://en.wiktionary.org/w/index.php?title=link&oldid=42880589
+1020. https://en.wiktionary.org/w/index.php?title=link&action=info
+1021. https://en.wiktionary.org/w/index.php?title=Special:CiteThisPage&page=link&id=42880589
+1022. https://az.wiktionary.org/wiki/link
+1023. https://br.wiktionary.org/wiki/link
+1024. https://ca.wiktionary.org/wiki/link
+1025. https://cs.wiktionary.org/wiki/link
+1026. https://cy.wiktionary.org/wiki/link
+1027. https://da.wiktionary.org/wiki/link
+1028. https://de.wiktionary.org/wiki/link
+1029. https://et.wiktionary.org/wiki/link
+1030. https://el.wiktionary.org/wiki/link
+1031. https://es.wiktionary.org/wiki/link
+1032. https://eo.wiktionary.org/wiki/link
+1033. https://fa.wiktionary.org/wiki/link
+1034. https://fr.wiktionary.org/wiki/link
+1035. https://ko.wiktionary.org/wiki/link
+1036. https://hy.wiktionary.org/wiki/link
+1037. https://hi.wiktionary.org/wiki/link
+1038. https://io.wiktionary.org/wiki/link
+1039. https://it.wiktionary.org/wiki/link
+1040. https://kn.wiktionary.org/wiki/link
+1041. https://kk.wiktionary.org/wiki/link
+1042. https://ku.wiktionary.org/wiki/link
+1043. https://ky.wiktionary.org/wiki/link
+1044. https://lo.wiktionary.org/wiki/link
+1045. https://lv.wiktionary.org/wiki/link
+1046. https://li.wiktionary.org/wiki/link
+1047. https://hu.wiktionary.org/wiki/link
+1048. https://mg.wiktionary.org/wiki/link
+1049. https://ml.wiktionary.org/wiki/link
+1050. https://mn.wiktionary.org/wiki/link
+1051. https://my.wiktionary.org/wiki/link
+1052. https://nl.wiktionary.org/wiki/link
+1053. https://ja.wiktionary.org/wiki/link
+1054. https://no.wiktionary.org/wiki/link
+1055. https://uz.wiktionary.org/wiki/link
+1056. https://km.wiktionary.org/wiki/link
+1057. https://pl.wiktionary.org/wiki/link
+1058. https://pt.wiktionary.org/wiki/link
+1059. https://ru.wiktionary.org/wiki/link
+1060. https://simple.wiktionary.org/wiki/link
+1061. https://sk.wiktionary.org/wiki/link
+1062. https://so.wiktionary.org/wiki/link
+1063. https://sh.wiktionary.org/wiki/link
+1064. https://fi.wiktionary.org/wiki/link
+1065. https://sv.wiktionary.org/wiki/link
+1066. https://tl.wiktionary.org/wiki/link
+1067. https://ta.wiktionary.org/wiki/link
+1068. https://te.wiktionary.org/wiki/link
+1069. https://tg.wiktionary.org/wiki/link
+1070. https://chr.wiktionary.org/wiki/link
+1071. https://tr.wiktionary.org/wiki/link
+1072. https://vi.wiktionary.org/wiki/link
+1073. https://wa.wiktionary.org/wiki/link
+1074. https://zh.wiktionary.org/wiki/link
+1075. https://en.wiktionary.org/w/index.php?title=Special:Book&bookcmd=book_creator&referer=link
+1076. https://en.wiktionary.org/w/index.php?title=Special:Book&bookcmd=render_article&arttitle=link&returnto=link&oldid=42880589&writer=rdf2latex
+1077. https://en.wiktionary.org/w/index.php?title=link&printable=yes
+1078. https://creativecommons.org/licenses/by-sa/3.0/
+1079. https://wikimediafoundation.org/wiki/Terms_of_Use
+1080. https://wikimediafoundation.org/wiki/Privacy_policy
+1081. https://wikimediafoundation.org/wiki/Privacy_policy
+1082. https://en.wiktionary.org/wiki/Wiktionary:About
+1083. https://en.wiktionary.org/wiki/Wiktionary:General_disclaimer
+1084. https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute
+1085. https://wikimediafoundation.org/wiki/Cookie_statement
+1086. https://en.m.wiktionary.org/w/index.php?title=link&mobileaction=toggle_view_mobile
+1087. https://wikimediafoundation.org/
+1088. https://www.mediawiki.org/
+
+   Hidden links:
+1090. https://en.wiktionary.org/wiki/link
+1091. https://en.wiktionary.org/wiki/link
+1092. https://en.wiktionary.org/wiki/Wiktionary:Main_Page

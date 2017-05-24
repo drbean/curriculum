@@ -1,0 +1,665 @@
+   #[1]Edit [2]Wiktionary (en) [3]copyright [4]Wiktionary Atom feed
+
+compensate
+
+   Definition from Wiktionary, the free dictionary
+   Jump to: [5]navigation, [6]search
+
+Contents
+
+     * [7]1 English
+          + [8]1.1 Etymology
+          + [9]1.2 Pronunciation
+          + [10]1.3 Verb
+               o [11]1.3.1 Derived terms
+               o [12]1.3.2 Related terms
+               o [13]1.3.3 Synonyms
+               o [14]1.3.4 Translations
+               o [15]1.3.5 Further reading
+     * [16]2 Italian
+          + [17]2.1 Verb
+     * [18]3 Latin
+          + [19]3.1 Verb
+
+English[[20]edit]
+
+Etymology[[21]edit]
+
+   [22]Borrowing from [23]Latin [24]compensatus, past participle of
+   [25]compensare (“to weight together one thing against another, balance,
+   make good, later also shorten, spare”), from [26]com- (“together”) +
+   [27]pensare (“to weight”).
+
+Pronunciation[[28]edit]
+
+     * ([29]UK) [30]IPA^([31]key): /ˈkɒmpənseɪt/, /ˈkɒmpɛnseɪt/
+     *
+
+       Audio (US)
+
+       ([32]file)
+
+Verb[[33]edit]
+
+   compensate (third-person singular simple present [34]compensates,
+   present participle [35]compensating, simple past and past participle
+   [36]compensated)
+    1. To [37]do (something good) after (something bad) happens
+    2. To [38]pay or [39]reward someone in exchange for work done or some
+       other consideration.
+
+                It is hard work, but they will compensate you well for it.
+
+    3. ([40]transitive, [41]intransitive) To [42]make up for; to do
+       something in place of something else; to [43]correct, [44]satisfy;
+       to reach an agreement such that the scales are [45]literally or
+       ([46]metaphorically) [47]balanced; to [48]equalize or make
+       [49]even.
+
+                His loud voice cannot compensate for a lack of
+                personality.
+                To compensate me for his tree landing on my shed, my
+                neighbor paved my driveway.
+
+          + Francis Bacon
+
+                      The length of the night and the dews thereof do
+                      compensate the heat of the day.
+
+          + Prior
+
+                      The pleasures of life do not compensate the
+                      miseries.
+
+    4. To [50]adjust or [51]adapt to a change, often a harm or
+       deprivation.
+
+                I don't like driving that old car because it always steers
+                a little to the left so I'm forever compensating for that
+                when I drive it. Trust me, it gets annoying real fast.
+                To compensate for his broken leg, Gary uses crutches.
+
+Derived terms[[52]edit]
+
+     * [53]recompensate
+
+Related terms[[54]edit]
+
+     * [55]compensation
+     * [56]compensatory
+     * [57]compensable
+     * [58]compensably
+     * [59]recompense
+
+Synonyms[[60]edit]
+
+   1. To pay
+     * [61]guerdon
+     * [62]reimburse to pay back
+
+   2. To [63]make up for, [64]correct, [65]satisfy, or [66]equalize, to
+   [67]balance the scales, to [68]equalize or make [69]even.
+     * [70]equate
+     * [71]offset
+     * [72]redeem
+     * [73]accord
+     * [74]reconcile
+     * [75]harmonize
+     * [76]atone
+     * [77]indemnify
+     * [78]requite
+     * [79]rectify
+     * [80]level
+     * [81]resolve
+     * [82]square
+     * [83]amend
+     * [84]expiate
+     * [85]redress
+     * [86]remedy
+     * [87]remunerate
+     * [88]appease
+     * [89]restitute and [90]restitution
+
+   3. To [91]adjust to a change.
+     * [92]acclimatize and [93]acclimate
+     * [94]accommodate
+     * [95]accustom
+     * [96]adapt
+     * [97]accord
+     * [98]counterbalance
+     * [99]counteract
+     * [100]integrate
+     * [101]attune
+
+Translations[[102]edit]
+
+   To do (something good) after (something bad) happens
+     * Russian: [103]компенси́ровать [104](ru) impf pf (kompensírovatʹ),
+       [105]возмеща́ть [106](ru) impf (vozmeščátʹ),
+       [107]возмести́ть [108](ru) pf (vozmestítʹ)
+
+   to balance the scales, to equaliz, to reach equilibrium
+     * Russian: [109]скомпенси́ровать [110](ru) pf (skompensírovatʹ),
+       [111]сбалансировать [112](ru) pf (sbalansirovatʹ),
+       [113]уравновешивать [114](ru) impf (uravnovešivatʹ)
+
+   to pay someone in exchange for work done or some other consideration
+     * Bulgarian: [115]обезщетявам [116](bg) (obezštetjavam),
+       [117]компенсирам [118](bg) (kompensiram)
+     * Finnish: [119]hyvittää [120](fi), [121]korvata [122](fi)
+     * German: [123]eine [124]Kompensation [125]zahlen
+     * Hebrew: [126]לתגמל (le'tagmel)
+     * Hungarian: [127]kárpótol [128](hu), [129]kártalanít [130](hu)
+     * Japanese: [131]補填する (hoten suru)
+     * Latin: [132]tueor
+
+     * Norwegian: [133]kompensere
+     * Portuguese: [134]compensar [135](pt), [136]recompensar [137](pt),
+       [138]pagar [139](pt)
+     * Romanian: [140]compensa [141](ro)
+     * Russian: [142]заплатить [143](ru) (zaplatitʹ),
+       [144]расплачиваться [145](ru) (rasplačivatʹsja)
+     * Scottish Gaelic: [146]dìol
+     * Serbo-Croatian: [147]kompenzírati [148](sh),
+       [149]nadòknaditi [150](sh), [151]nadòmjestiti [152](sh)
+     * Turkish: [153]zararını karşılamak
+
+   to make up for; to do something in place of something else; to correct
+   or fill
+     * Dutch: [154]compenseren [155](nl)
+     * Finnish: [156]kompensoida [157](fi)
+     * French: [158]compenser [159](fr)
+     * German: [160]kompensieren [161](de)
+     * Hebrew: [162]לפצות (le'fatzot)
+     * Hungarian: [163]kompenzál [164](hu), [165]ellensúlyoz [166](hu)
+     * Japanese: [167]補填する (hoten suru)
+
+     * Norwegian: [168]kompensere
+     * Portuguese: [169]compensar [170](pt), [171]recompensar [172](pt)
+     * Russian: [173]компенси́ровать [174](ru) impf pf (kompensírovatʹ),
+       [175]возмеща́ть [176](ru) impf (vozmeščátʹ),
+       [177]возмести́ть [178](ru) pf (vozmestítʹ)
+     * Scottish Gaelic: [179]dìol
+     * Serbo-Croatian: [180]kompenzírati [181](sh),
+       [182]nadòknaditi [183](sh), [184]nadòmjestiti [185](sh)
+     * Turkish: [186]telafi etmek [187](tr)
+
+Further reading[[188]edit]
+
+     * [189]compensate in [190]Webster’s Revised Unabridged Dictionary, G.
+       & C. Merriam, 1913
+     * [191]compensate in The Century Dictionary, The Century Co., New
+       York, 1911
+     __________________________________________________________________
+
+Italian[[192]edit]
+
+Verb[[193]edit]
+
+   compensate
+    1. [194]second-person [195]plural [196]present [197]indicative of
+       [198]compensare
+    2. [199]second-person [200]plural [201]imperative of [202]compensare
+    3. [203]feminine [204]plural of [205]compensato
+     __________________________________________________________________
+
+Latin[[206]edit]
+
+Verb[[207]edit]
+
+   compensāte
+    1. [208]second-person [209]plural [210]present [211]active
+       [212]imperative of [213]compensō
+
+   Retrieved from
+   "[214]https://en.wiktionary.org/w/index.php?title=compensate&oldid=4288
+   5982"
+   [215]Categories:
+     * [216]English terms borrowed from Latin
+     * [217]English terms derived from Latin
+     * [218]English 3-syllable words
+     * [219]English terms with IPA pronunciation
+     * [220]English terms with audio links
+     * [221]English lemmas
+     * [222]English verbs
+     * [223]English transitive verbs
+     * [224]English intransitive verbs
+     * [225]Italian non-lemma forms
+     * [226]Italian verb forms
+     * [227]Italian past participle forms
+     * [228]Latin non-lemma forms
+     * [229]Latin verb forms
+
+   Hidden categories:
+     * [230]bor without notext
+     * [231]Russian redlinks
+     * [232]Russian redlinks/t+
+
+Navigation menu
+
+Personal tools
+
+     * Not logged in
+     * [233]Talk
+     * [234]Contributions
+     * [235]Create account
+     * [236]Log in
+
+Namespaces
+
+     * [237]Entry
+     * [238]Discussion
+
+Variants
+
+Views
+
+     * [239]Read
+     * [240]Edit
+     * [241]History
+
+More
+
+Search
+
+   [242]____________________ [243]Search [244]Go
+
+Navigation
+
+     * [245]Main Page
+     * [246]Community portal
+     * [247]Preferences
+     * [248]Requested entries
+     * [249]Recent changes
+     * [250]Random entry
+     * [251]Help
+     * [252]Donations
+     * [253]Contact us
+
+Tools
+
+     * [254]What links here
+     * [255]Related changes
+     * [256]Upload file
+     * [257]Special pages
+     * [258]Permanent link
+     * [259]Page information
+     * [260]Cite this page
+
+In other languages
+
+     * [261]العربية
+     * [262]Bân-lâm-gú
+     * [263]Cymraeg
+     * [264]Deutsch
+     * [265]Eesti
+     * [266]Español
+     * [267]Esperanto
+     * [268]فارسی
+     * [269]Français
+     * [270]한국어
+     * [271]Հայերեն
+     * [272]Ido
+     * [273]Italiano
+     * [274]ಕನ್ನಡ
+     * [275]Kurdî
+     * [276]Lietuvių
+     * [277]Magyar
+     * [278]Malagasy
+     * [279]മലയാളം
+     * [280]မြန်မာဘာသာ
+     * [281]日本語
+     * [282]Occitan
+     * [283]ភាសាខ្មែរ
+     * [284]Polski
+     * [285]Русский
+     * [286]संस्कृतम्
+     * [287]Simple English
+     * [288]Suomi
+     * [289]Svenska
+     * [290]தமிழ்
+     * [291]Тоҷикӣ
+     * [292]ᏣᎳᎩ
+     * [293]Türkçe
+     * [294]Tiếng Việt
+     * [295]中文
+
+Print/export
+
+     * [296]Create a book
+     * [297]Download as PDF
+     * [298]Printable version
+
+     * This page was last edited on 12 May 2017, at 23:54.
+     * Text is available under the [299]Creative Commons
+       Attribution-ShareAlike License; additional terms may apply. By
+       using this site, you agree to the [300]Terms of Use and
+       [301]Privacy Policy.
+
+     * [302]Privacy policy
+     * [303]About Wiktionary
+     * [304]Disclaimers
+     * [305]Developers
+     * [306]Cookie statement
+     * [307]Mobile view
+
+     * [308]Wikimedia Foundation
+     * [309]Powered by MediaWiki
+
+References
+
+   Visible links
+   1. https://en.wiktionary.org/w/index.php?title=compensate&action=edit
+   2. https://en.wiktionary.org/w/opensearch_desc.php
+   3. https://creativecommons.org/licenses/by-sa/3.0/
+   4. https://en.wiktionary.org/w/index.php?title=Special:RecentChanges&feed=atom
+   5. https://en.wiktionary.org/wiki/compensate#mw-head
+   6. https://en.wiktionary.org/wiki/compensate#p-search
+   7. https://en.wiktionary.org/wiki/compensate#English
+   8. https://en.wiktionary.org/wiki/compensate#Etymology
+   9. https://en.wiktionary.org/wiki/compensate#Pronunciation
+  10. https://en.wiktionary.org/wiki/compensate#Verb
+  11. https://en.wiktionary.org/wiki/compensate#Derived_terms
+  12. https://en.wiktionary.org/wiki/compensate#Related_terms
+  13. https://en.wiktionary.org/wiki/compensate#Synonyms
+  14. https://en.wiktionary.org/wiki/compensate#Translations
+  15. https://en.wiktionary.org/wiki/compensate#Further_reading
+  16. https://en.wiktionary.org/wiki/compensate#Italian
+  17. https://en.wiktionary.org/wiki/compensate#Verb_2
+  18. https://en.wiktionary.org/wiki/compensate#Latin
+  19. https://en.wiktionary.org/wiki/compensate#Verb_3
+  20. https://en.wiktionary.org/w/index.php?title=compensate&action=edit&section=1
+  21. https://en.wiktionary.org/w/index.php?title=compensate&action=edit&section=2
+  22. https://en.wiktionary.org/wiki/Appendix:Glossary#loanword
+  23. https://en.wikipedia.org/wiki/Latin_language
+  24. https://en.wiktionary.org/wiki/compensatus#Latin
+  25. https://en.wiktionary.org/wiki/compensare#Latin
+  26. https://en.wiktionary.org/wiki/com-#Latin
+  27. https://en.wiktionary.org/wiki/pensare#Latin
+  28. https://en.wiktionary.org/w/index.php?title=compensate&action=edit&section=3
+  29. https://en.wikipedia.org/wiki/British_English
+  30. https://en.wiktionary.org/wiki/Wiktionary:International_Phonetic_Alphabet
+  31. https://en.wiktionary.org/wiki/Appendix:English_pronunciation
+  32. https://en.wiktionary.org/wiki/File:en-us-compensate.ogg
+  33. https://en.wiktionary.org/w/index.php?title=compensate&action=edit&section=4
+  34. https://en.wiktionary.org/wiki/compensates#English
+  35. https://en.wiktionary.org/wiki/compensating#English
+  36. https://en.wiktionary.org/wiki/compensated#English
+  37. https://en.wiktionary.org/wiki/do
+  38. https://en.wiktionary.org/wiki/pay
+  39. https://en.wiktionary.org/wiki/reward
+  40. https://en.wiktionary.org/wiki/transitive
+  41. https://en.wiktionary.org/wiki/intransitive
+  42. https://en.wiktionary.org/wiki/make_up
+  43. https://en.wiktionary.org/wiki/correct
+  44. https://en.wiktionary.org/wiki/satisfy
+  45. https://en.wiktionary.org/wiki/literal
+  46. https://en.wiktionary.org/wiki/metaphor
+  47. https://en.wiktionary.org/wiki/balance
+  48. https://en.wiktionary.org/wiki/equalize
+  49. https://en.wiktionary.org/wiki/even
+  50. https://en.wiktionary.org/wiki/adjust
+  51. https://en.wiktionary.org/wiki/adapt
+  52. https://en.wiktionary.org/w/index.php?title=compensate&action=edit&section=5
+  53. https://en.wiktionary.org/wiki/recompensate#English
+  54. https://en.wiktionary.org/w/index.php?title=compensate&action=edit&section=6
+  55. https://en.wiktionary.org/wiki/compensation#English
+  56. https://en.wiktionary.org/wiki/compensatory#English
+  57. https://en.wiktionary.org/wiki/compensable#English
+  58. https://en.wiktionary.org/wiki/compensably#English
+  59. https://en.wiktionary.org/wiki/recompense#English
+  60. https://en.wiktionary.org/w/index.php?title=compensate&action=edit&section=7
+  61. https://en.wiktionary.org/wiki/guerdon#English
+  62. https://en.wiktionary.org/wiki/reimburse#English
+  63. https://en.wiktionary.org/wiki/make_up
+  64. https://en.wiktionary.org/wiki/correct
+  65. https://en.wiktionary.org/wiki/satisfy
+  66. https://en.wiktionary.org/wiki/equalize
+  67. https://en.wiktionary.org/wiki/balance
+  68. https://en.wiktionary.org/wiki/equalize
+  69. https://en.wiktionary.org/wiki/even
+  70. https://en.wiktionary.org/wiki/equate#English
+  71. https://en.wiktionary.org/wiki/offset#English
+  72. https://en.wiktionary.org/wiki/redeem#English
+  73. https://en.wiktionary.org/wiki/accord#English
+  74. https://en.wiktionary.org/wiki/reconcile#English
+  75. https://en.wiktionary.org/wiki/harmonize#English
+  76. https://en.wiktionary.org/wiki/atone#English
+  77. https://en.wiktionary.org/wiki/indemnify#English
+  78. https://en.wiktionary.org/wiki/requite#English
+  79. https://en.wiktionary.org/wiki/rectify#English
+  80. https://en.wiktionary.org/wiki/level#English
+  81. https://en.wiktionary.org/wiki/resolve#English
+  82. https://en.wiktionary.org/wiki/square#English
+  83. https://en.wiktionary.org/wiki/amend#English
+  84. https://en.wiktionary.org/wiki/expiate#English
+  85. https://en.wiktionary.org/wiki/redress#English
+  86. https://en.wiktionary.org/wiki/remedy#English
+  87. https://en.wiktionary.org/wiki/remunerate#English
+  88. https://en.wiktionary.org/wiki/appease#English
+  89. https://en.wiktionary.org/wiki/restitute#English
+  90. https://en.wiktionary.org/wiki/restitution
+  91. https://en.wiktionary.org/wiki/adjust
+  92. https://en.wiktionary.org/wiki/acclimatize#English
+  93. https://en.wiktionary.org/wiki/acclimate
+  94. https://en.wiktionary.org/wiki/accommodate#English
+  95. https://en.wiktionary.org/wiki/accustom#English
+  96. https://en.wiktionary.org/wiki/adapt#English
+  97. https://en.wiktionary.org/wiki/accord#English
+  98. https://en.wiktionary.org/wiki/counterbalance#English
+  99. https://en.wiktionary.org/wiki/counteract#English
+ 100. https://en.wiktionary.org/wiki/integrate#English
+ 101. https://en.wiktionary.org/wiki/attune#English
+ 102. https://en.wiktionary.org/w/index.php?title=compensate&action=edit&section=8
+ 103. https://en.wiktionary.org/wiki/компенсировать#Russian
+ 104. https://ru.wiktionary.org/wiki/компенсировать
+ 105. https://en.wiktionary.org/wiki/возмещать#Russian
+ 106. https://ru.wiktionary.org/wiki/возмещать
+ 107. https://en.wiktionary.org/wiki/возместить#Russian
+ 108. https://ru.wiktionary.org/wiki/возместить
+ 109. https://en.wiktionary.org/w/index.php?title=скомпенсировать&action=edit&redlink=1
+ 110. https://ru.wiktionary.org/wiki/скомпенсировать
+ 111. https://en.wiktionary.org/wiki/сбалансировать#Russian
+ 112. https://ru.wiktionary.org/wiki/сбалансировать
+ 113. https://en.wiktionary.org/wiki/уравновешивать#Russian
+ 114. https://ru.wiktionary.org/wiki/уравновешивать
+ 115. https://en.wiktionary.org/w/index.php?title=обезщетявам&action=edit&redlink=1
+ 116. https://bg.wiktionary.org/wiki/обезщетявам
+ 117. https://en.wiktionary.org/w/index.php?title=компенсирам&action=edit&redlink=1
+ 118. https://bg.wiktionary.org/wiki/компенсирам
+ 119. https://en.wiktionary.org/wiki/hyvittää#Finnish
+ 120. https://fi.wiktionary.org/wiki/hyvittää
+ 121. https://en.wiktionary.org/wiki/korvata#Finnish
+ 122. https://fi.wiktionary.org/wiki/korvata
+ 123. https://en.wiktionary.org/wiki/eine#German
+ 124. https://en.wiktionary.org/wiki/Kompensation#German
+ 125. https://en.wiktionary.org/wiki/zahlen#German
+ 126. https://en.wiktionary.org/w/index.php?title=לתגמל&action=edit&redlink=1
+ 127. https://en.wiktionary.org/wiki/kárpótol#Hungarian
+ 128. https://hu.wiktionary.org/wiki/kárpótol
+ 129. https://en.wiktionary.org/wiki/kártalanít#Hungarian
+ 130. https://hu.wiktionary.org/wiki/kártalanít
+ 131. https://en.wiktionary.org/wiki/補填#Japanese
+ 132. https://en.wiktionary.org/wiki/tueor#Latin
+ 133. https://en.wiktionary.org/wiki/kompensere#Norwegian
+ 134. https://en.wiktionary.org/wiki/compensar#Portuguese
+ 135. https://pt.wiktionary.org/wiki/compensar
+ 136. https://en.wiktionary.org/wiki/recompensar#Portuguese
+ 137. https://pt.wiktionary.org/wiki/recompensar
+ 138. https://en.wiktionary.org/wiki/pagar#Portuguese
+ 139. https://pt.wiktionary.org/wiki/pagar
+ 140. https://en.wiktionary.org/wiki/compensa#Romanian
+ 141. https://ro.wiktionary.org/wiki/compensa
+ 142. https://en.wiktionary.org/wiki/заплатить#Russian
+ 143. https://ru.wiktionary.org/wiki/заплатить
+ 144. https://en.wiktionary.org/wiki/расплачиваться#Russian
+ 145. https://ru.wiktionary.org/wiki/расплачиваться
+ 146. https://en.wiktionary.org/wiki/dìol#Scottish_Gaelic
+ 147. https://en.wiktionary.org/w/index.php?title=kompenzirati&action=edit&redlink=1
+ 148. https://sh.wiktionary.org/wiki/kompenzirati
+ 149. https://en.wiktionary.org/wiki/nadoknaditi#Serbo-Croatian
+ 150. https://sh.wiktionary.org/wiki/nadoknaditi
+ 151. https://en.wiktionary.org/w/index.php?title=nadomjestiti&action=edit&redlink=1
+ 152. https://sh.wiktionary.org/wiki/nadomjestiti
+ 153. https://en.wiktionary.org/w/index.php?title=zararını_karşılamak&action=edit&redlink=1
+ 154. https://en.wiktionary.org/wiki/compenseren#Dutch
+ 155. https://nl.wiktionary.org/wiki/compenseren
+ 156. https://en.wiktionary.org/wiki/kompensoida#Finnish
+ 157. https://fi.wiktionary.org/wiki/kompensoida
+ 158. https://en.wiktionary.org/wiki/compenser#French
+ 159. https://fr.wiktionary.org/wiki/compenser
+ 160. https://en.wiktionary.org/wiki/kompensieren#German
+ 161. https://de.wiktionary.org/wiki/kompensieren
+ 162. https://en.wiktionary.org/w/index.php?title=לפצות&action=edit&redlink=1
+ 163. https://en.wiktionary.org/wiki/kompenzál#Hungarian
+ 164. https://hu.wiktionary.org/wiki/kompenzál
+ 165. https://en.wiktionary.org/w/index.php?title=ellensúlyoz&action=edit&redlink=1
+ 166. https://hu.wiktionary.org/wiki/ellensúlyoz
+ 167. https://en.wiktionary.org/wiki/補填#Japanese
+ 168. https://en.wiktionary.org/wiki/kompensere#Norwegian
+ 169. https://en.wiktionary.org/wiki/compensar#Portuguese
+ 170. https://pt.wiktionary.org/wiki/compensar
+ 171. https://en.wiktionary.org/wiki/recompensar#Portuguese
+ 172. https://pt.wiktionary.org/wiki/recompensar
+ 173. https://en.wiktionary.org/wiki/компенсировать#Russian
+ 174. https://ru.wiktionary.org/wiki/компенсировать
+ 175. https://en.wiktionary.org/wiki/возмещать#Russian
+ 176. https://ru.wiktionary.org/wiki/возмещать
+ 177. https://en.wiktionary.org/wiki/возместить#Russian
+ 178. https://ru.wiktionary.org/wiki/возместить
+ 179. https://en.wiktionary.org/wiki/dìol#Scottish_Gaelic
+ 180. https://en.wiktionary.org/w/index.php?title=kompenzirati&action=edit&redlink=1
+ 181. https://sh.wiktionary.org/wiki/kompenzirati
+ 182. https://en.wiktionary.org/wiki/nadoknaditi#Serbo-Croatian
+ 183. https://sh.wiktionary.org/wiki/nadoknaditi
+ 184. https://en.wiktionary.org/w/index.php?title=nadomjestiti&action=edit&redlink=1
+ 185. https://sh.wiktionary.org/wiki/nadomjestiti
+ 186. https://en.wiktionary.org/w/index.php?title=telafi_etmek&action=edit&redlink=1
+ 187. https://tr.wiktionary.org/wiki/telafi_etmek
+ 188. https://en.wiktionary.org/w/index.php?title=compensate&action=edit&section=9
+ 189. http://www.websters1913.com/words/Compensate
+ 190. https://en.wiktionary.org/wiki/Wiktionary:Webster's_Dictionary,_1913
+ 191. http://triggs.djvu.org/century-dictionary.com/nph-chw.php?query=compensate&type=dicts
+ 192. https://en.wiktionary.org/w/index.php?title=compensate&action=edit&section=10
+ 193. https://en.wiktionary.org/w/index.php?title=compensate&action=edit&section=11
+ 194. https://en.wiktionary.org/wiki/Appendix:Glossary#second_person
+ 195. https://en.wiktionary.org/wiki/Appendix:Glossary#plural_number
+ 196. https://en.wiktionary.org/wiki/Appendix:Glossary#present_tense
+ 197. https://en.wiktionary.org/wiki/Appendix:Glossary#indicative_mood
+ 198. https://en.wiktionary.org/wiki/compensare#Italian
+ 199. https://en.wiktionary.org/wiki/Appendix:Glossary#second_person
+ 200. https://en.wiktionary.org/wiki/Appendix:Glossary#plural_number
+ 201. https://en.wiktionary.org/wiki/Appendix:Glossary#imperative_mood
+ 202. https://en.wiktionary.org/wiki/compensare#Italian
+ 203. https://en.wiktionary.org/wiki/Appendix:Glossary#gender
+ 204. https://en.wiktionary.org/wiki/Appendix:Glossary#plural_number
+ 205. https://en.wiktionary.org/wiki/compensato#Italian
+ 206. https://en.wiktionary.org/w/index.php?title=compensate&action=edit&section=12
+ 207. https://en.wiktionary.org/w/index.php?title=compensate&action=edit&section=13
+ 208. https://en.wiktionary.org/wiki/Appendix:Glossary#second_person
+ 209. https://en.wiktionary.org/wiki/Appendix:Glossary#plural_number
+ 210. https://en.wiktionary.org/wiki/Appendix:Glossary#present_tense
+ 211. https://en.wiktionary.org/wiki/Appendix:Glossary#active_voice
+ 212. https://en.wiktionary.org/wiki/Appendix:Glossary#imperative_mood
+ 213. https://en.wiktionary.org/wiki/compenso#Latin
+ 214. https://en.wiktionary.org/w/index.php?title=compensate&oldid=42885982
+ 215. https://en.wiktionary.org/wiki/Special:Categories
+ 216. https://en.wiktionary.org/wiki/Category:English_terms_borrowed_from_Latin
+ 217. https://en.wiktionary.org/wiki/Category:English_terms_derived_from_Latin
+ 218. https://en.wiktionary.org/wiki/Category:English_3-syllable_words
+ 219. https://en.wiktionary.org/wiki/Category:English_terms_with_IPA_pronunciation
+ 220. https://en.wiktionary.org/wiki/Category:English_terms_with_audio_links
+ 221. https://en.wiktionary.org/wiki/Category:English_lemmas
+ 222. https://en.wiktionary.org/wiki/Category:English_verbs
+ 223. https://en.wiktionary.org/wiki/Category:English_transitive_verbs
+ 224. https://en.wiktionary.org/wiki/Category:English_intransitive_verbs
+ 225. https://en.wiktionary.org/wiki/Category:Italian_non-lemma_forms
+ 226. https://en.wiktionary.org/wiki/Category:Italian_verb_forms
+ 227. https://en.wiktionary.org/wiki/Category:Italian_past_participle_forms
+ 228. https://en.wiktionary.org/wiki/Category:Latin_non-lemma_forms
+ 229. https://en.wiktionary.org/wiki/Category:Latin_verb_forms
+ 230. https://en.wiktionary.org/wiki/Category:bor_without_notext
+ 231. https://en.wiktionary.org/wiki/Category:Russian_redlinks
+ 232. https://en.wiktionary.org/wiki/Category:Russian_redlinks/t+
+ 233. https://en.wiktionary.org/wiki/Special:MyTalk
+ 234. https://en.wiktionary.org/wiki/Special:MyContributions
+ 235. https://en.wiktionary.org/w/index.php?title=Special:CreateAccount&returnto=compensate
+ 236. https://en.wiktionary.org/w/index.php?title=Special:UserLogin&returnto=compensate
+ 237. https://en.wiktionary.org/wiki/compensate
+ 238. https://en.wiktionary.org/w/index.php?title=Talk:compensate&action=edit&redlink=1
+ 239. https://en.wiktionary.org/wiki/compensate
+ 240. https://en.wiktionary.org/w/index.php?title=compensate&action=edit
+ 241. https://en.wiktionary.org/w/index.php?title=compensate&action=history
+ 242. form field = text entry field
+ 243. form field = submit button
+ 244. form field = submit button
+ 245. https://en.wiktionary.org/wiki/Wiktionary:Main_Page
+ 246. https://en.wiktionary.org/wiki/Wiktionary:Community_portal
+ 247. https://en.wiktionary.org/wiki/Wiktionary:Per-browser_preferences
+ 248. https://en.wiktionary.org/wiki/Wiktionary:Requested_entries
+ 249. https://en.wiktionary.org/wiki/Special:RecentChanges
+ 250. https://en.wiktionary.org/wiki/Special:Random
+ 251. https://en.wiktionary.org/wiki/Help:Contents
+ 252. https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&utm_medium=sidebar&utm_campaign=C13_en.wiktionary.org&uselang=en
+ 253. https://en.wiktionary.org/wiki/Wiktionary:Contact_us
+ 254. https://en.wiktionary.org/wiki/Special:WhatLinksHere/compensate
+ 255. https://en.wiktionary.org/wiki/Special:RecentChangesLinked/compensate
+ 256. https://commons.wikimedia.org/wiki/Special:UploadWizard?uselang=en
+ 257. https://en.wiktionary.org/wiki/Special:SpecialPages
+ 258. https://en.wiktionary.org/w/index.php?title=compensate&oldid=42885982
+ 259. https://en.wiktionary.org/w/index.php?title=compensate&action=info
+ 260. https://en.wiktionary.org/w/index.php?title=Special:CiteThisPage&page=compensate&id=42885982
+ 261. https://ar.wiktionary.org/wiki/compensate
+ 262. https://zh-min-nan.wiktionary.org/wiki/compensate
+ 263. https://cy.wiktionary.org/wiki/compensate
+ 264. https://de.wiktionary.org/wiki/compensate
+ 265. https://et.wiktionary.org/wiki/compensate
+ 266. https://es.wiktionary.org/wiki/compensate
+ 267. https://eo.wiktionary.org/wiki/compensate
+ 268. https://fa.wiktionary.org/wiki/compensate
+ 269. https://fr.wiktionary.org/wiki/compensate
+ 270. https://ko.wiktionary.org/wiki/compensate
+ 271. https://hy.wiktionary.org/wiki/compensate
+ 272. https://io.wiktionary.org/wiki/compensate
+ 273. https://it.wiktionary.org/wiki/compensate
+ 274. https://kn.wiktionary.org/wiki/compensate
+ 275. https://ku.wiktionary.org/wiki/compensate
+ 276. https://lt.wiktionary.org/wiki/compensate
+ 277. https://hu.wiktionary.org/wiki/compensate
+ 278. https://mg.wiktionary.org/wiki/compensate
+ 279. https://ml.wiktionary.org/wiki/compensate
+ 280. https://my.wiktionary.org/wiki/compensate
+ 281. https://ja.wiktionary.org/wiki/compensate
+ 282. https://oc.wiktionary.org/wiki/compensate
+ 283. https://km.wiktionary.org/wiki/compensate
+ 284. https://pl.wiktionary.org/wiki/compensate
+ 285. https://ru.wiktionary.org/wiki/compensate
+ 286. https://sa.wiktionary.org/wiki/compensate
+ 287. https://simple.wiktionary.org/wiki/compensate
+ 288. https://fi.wiktionary.org/wiki/compensate
+ 289. https://sv.wiktionary.org/wiki/compensate
+ 290. https://ta.wiktionary.org/wiki/compensate
+ 291. https://tg.wiktionary.org/wiki/compensate
+ 292. https://chr.wiktionary.org/wiki/compensate
+ 293. https://tr.wiktionary.org/wiki/compensate
+ 294. https://vi.wiktionary.org/wiki/compensate
+ 295. https://zh.wiktionary.org/wiki/compensate
+ 296. https://en.wiktionary.org/w/index.php?title=Special:Book&bookcmd=book_creator&referer=compensate
+ 297. https://en.wiktionary.org/w/index.php?title=Special:Book&bookcmd=render_article&arttitle=compensate&returnto=compensate&oldid=42885982&writer=rdf2latex
+ 298. https://en.wiktionary.org/w/index.php?title=compensate&printable=yes
+ 299. https://creativecommons.org/licenses/by-sa/3.0/
+ 300. https://wikimediafoundation.org/wiki/Terms_of_Use
+ 301. https://wikimediafoundation.org/wiki/Privacy_policy
+ 302. https://wikimediafoundation.org/wiki/Privacy_policy
+ 303. https://en.wiktionary.org/wiki/Wiktionary:About
+ 304. https://en.wiktionary.org/wiki/Wiktionary:General_disclaimer
+ 305. https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute
+ 306. https://wikimediafoundation.org/wiki/Cookie_statement
+ 307. https://en.m.wiktionary.org/w/index.php?title=compensate&mobileaction=toggle_view_mobile
+ 308. https://wikimediafoundation.org/
+ 309. https://www.mediawiki.org/
+
+   Hidden links:
+ 311. https://en.wiktionary.org/wiki/compensate
+ 312. https://en.wiktionary.org/wiki/compensate
+ 313. https://en.wiktionary.org/wiki/Wiktionary:Main_Page

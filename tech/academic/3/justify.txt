@@ -1,0 +1,639 @@
+   #[1]Edit [2]Wiktionary (en) [3]copyright [4]Wiktionary Atom feed
+
+justify
+
+   Definition from Wiktionary, the free dictionary
+   Jump to: [5]navigation, [6]search
+
+Contents
+
+     * [7]1 English
+          + [8]1.1 Alternative forms
+          + [9]1.2 Etymology
+          + [10]1.3 Pronunciation
+          + [11]1.4 Verb
+               o [12]1.4.1 Related terms
+               o [13]1.4.2 Translations
+
+English[[14]edit]
+
+Alternative forms[[15]edit]
+
+     * [16]justifie (obsolete)
+
+Etymology[[17]edit]
+
+   From [18]Middle English [19]justifien, from [20]Old French
+   [21]justifier, from [22]Latin [23]justificare (“make just”), from
+   [24]justus, [25]iustus (“just”) + [26]ficare (“make”), from [27]facere,
+   equivalent to [28]just + [29]-ify.
+
+Pronunciation[[30]edit]
+
+     * [31]IPA^([32]key): /ˈdʒʌstɪfaɪ/
+     *
+
+       Audio (US)
+
+       ([33]file)
+
+Verb[[34]edit]
+
+   justify (third-person singular simple present [35]justifies, present
+   participle [36]justifying, simple past and past participle
+   [37]justified)
+    1. ([38]transitive) To [39]provide an [40]acceptable [41]explanation
+       for.
+
+                How can you justify spending so much money on clothes?
+                Paying too much for car insurance is not justified.
+
+    2. ([42]transitive) To be a good, acceptable [43]reason for;
+       [44]warrant.
+
+                Nothing can justify your rude behaviour last night.
+
+          + E. Everett
+
+                      Unless the oppression is so extreme as to justify
+                      revolution, it would not justify the evil of
+                      breaking up a government.
+
+    3. ([45]transitive) To [46]arrange ([47]text) on a [48]page or a
+       computer [49]screen such that the left and right ends of all
+       [50]lines within [51]paragraphs are [52]aligned.
+
+                The text will look better justified.
+
+    4. ([53]transitive) To [54]absolve, and declare to be free of blame or
+       sin.
+          + Shakespeare
+
+                      I cannot justify whom the law condemns.
+
+          + Bible, Acts xiii. 39
+
+                      By him all that believe are justified from all
+                      things, from which ye could not be justified by the
+                      law of Moses.
+
+    5. To prove; to ratify; to confirm.
+
+                (Can we [55]find and add a quotation of Shakespeare to
+                this entry?)
+
+    6. (law) To show (a person) to have had a sufficient legal reason for
+       an act that has been made the subject of a charge or accusation.
+    7. (law) To [56]qualify (oneself) as a [57]surety by taking [58]oath
+       to the ownership of sufficient [59]property.
+          + Bouvier's Law Dictionary
+
+                      The production of bail in court, who there justify
+                      themselves against the exception of the plaintiff.
+
+Related terms[[60]edit]
+
+     * [61]-fy
+     * [62]just
+     * [63]justification
+     * [64]justifiable
+     * [65]justifiably
+     * [66]unjustified
+
+Translations[[67]edit]
+
+   provide an acceptable explanation
+     * Albanian: [68]arsyetoj [69](sq)
+     * Arabic: [70]بَرَّرَ [71](ar) (barrara)
+     * Catalan: [72]justificar [73](ca)
+     * Chinese:
+
+                Mandarin: [74]辯解 [75](zh), [76]辩解 [77](zh) (biànjiě),
+                [78]辯護 [79](zh), [80]辩护 [81](zh) (biànhù),
+                [82]聲辯 [83](zh), [84]声辩 [85](zh) (shēngbiàn)
+
+     * Czech: [86]obhájit, [87]ospravedlnit [88](cs)
+     * Dutch: [89]rechtvaardigen [90](nl)
+     * Finnish: [91]perustella [92](fi)
+     * French: [93]justifier [94](fr)
+     * German: [95]rechtfertigen [96](de)
+     * Greek: [97]δικαιολογώ [98](el) (dikaiologó),
+       [99]αιτιολογώ [100](el) (aitiologó)
+
+     * Hungarian: [101]indokol [102](hu), [103]igazol [104](hu)
+     * Italian: [105]giustificare [106](it)
+     * Japanese: [107]言い開く (iihiraku)
+     * Maori: [108]whakawhaihuruhuru, [109]tautoko [110](mi), [111]parahau
+     * Polish: [112]usprawiedliwiać [113](pl)
+     * Portuguese: [114]justificar [115](pt)
+     * Russian: [116]опра́вдывать [117](ru) impf (oprávdyvatʹ),
+       [118]оправда́ть [119](ru) pf (opravdátʹ),
+       [120]объясня́ть [121](ru) impf (obʺjasnjátʹ),
+       [122]объясни́ть [123](ru) pf (obʺjasnítʹ)
+     * Scots: [124]justifee
+     * Spanish: [125]legitimar [126](es), [127]justificar [128](es)
+     * Turkish: [129]haklı göstermek
+
+   give a good, acceptable reason for something
+     * Albanian: [130]shpjegoj [131](sq)
+     * Catalan: [132]justificar [133](ca)
+     * Czech: [134]ospravedlnit [135](cs)
+     * Dutch: [136]rechtvaardigen [137](nl)
+     * Finnish: [138]oikeuttaa [139](fi), [140]perustella [141](fi)
+     * French: [142]justifier [143](fr)
+     * German: [144]rechtfertigen [145](de)
+     * Greek: [146]δικαιολογώ [147](el) (dikaiologó)
+     * Hungarian: [148]indokol [149](hu)
+
+     * Italian: [150]giustificare [151](it)
+     * Maori: [152]whaihuruhuru
+     * Polish: [153]usprawiedliwiać [154](pl)
+     * Portuguese: [155]justificar [156](pt)
+     * Russian: [157]объясня́ть [158](ru) impf (obʺjasnjátʹ),
+       [159]объясни́ть [160](ru) pf (obʺjasnítʹ),
+       [161]обосно́вывать [162](ru) impf (obosnóvyvatʹ),
+       [163]обоснова́ть [164](ru) pf (obosnovátʹ)
+     * Scots: [165]justifee
+     * Spanish: [166]legitimar [167](es), [168]justificar [169](es)
+     * Turkish: [170]doğrulamak [171](tr), [172]teyyit etmek (obsolescent)
+
+   arrange lines on a page or computer screen
+     * Catalan: [173]justificar [174](ca)
+     * Czech: [175]zarovnat
+     * Dutch: [176]uitlijnen
+     * Finnish: [177]tasata [178](fi)
+     * French: [179]justifier [180](fr)
+     * German: [181]ausrichten [182](de), [183]justieren [184](de)
+     * Greek: [185]ευθυγραμμίζω [186](el) (efthygrammízo),
+       [187]στοιχίζω [188](el) (stoichízo)
+
+     * Italian: [189]giustificare [190](it)
+     * Polish: [191]wyjustować
+     * Portuguese: [192]justificar [193](pt)
+     * Russian: [194]выра́внивать [195](ru) impf (vyrávnivatʹ),
+       [196]вы́ровнять [197](ru) pf (výrovnjatʹ)
+     * Spanish: [198]justificar [199](es)
+     * Turkish: [200]ayarlamak [201](tr), [202]hizaya sokmak
+
+   to absolve, and declare to be free of blame or sin
+     * Greek: [203]δικαιώνω [204](el) (dikaióno)
+     * Portuguese: [205]absolver [206](pt)
+     * Russian: [207]отпуска́ть грехи impf (otpuskátʹ grexi),
+       [208]отпусти́ть грехи pf (otpustítʹ grexi)
+
+     * Spanish: [209]absolver [210](es)
+     * Swedish: [211]frita från skuld
+
+          The translations below need to be checked and inserted above
+          into the appropriate translation tables, removing any numbers.
+          Numbers do not necessarily match those in definitions. See
+          instructions at [212]Wiktionary:Entry layout#Translations.
+
+   Translations to be checked
+     * Afrikaans: ^(please [213]verify) [214]regverdig
+
+   Retrieved from
+   "[215]https://en.wiktionary.org/w/index.php?title=justify&oldid=4271910
+   8"
+   [216]Categories:
+     * [217]English terms derived from the PIE root *dʰeh₁-
+     * [218]English terms inherited from Middle English
+     * [219]English terms derived from Middle English
+     * [220]English terms derived from Old French
+     * [221]English terms derived from Latin
+     * [222]English words suffixed with -ify
+     * [223]English 3-syllable words
+     * [224]English terms with IPA pronunciation
+     * [225]English terms with audio links
+     * [226]English lemmas
+     * [227]English verbs
+     * [228]English transitive verbs
+     * [229]Requests for quotation/Shakespeare
+     * [230]en:Law
+
+   Hidden categories:
+     * [231]etyl cleanup/en
+     * [232]Requests for quotations in English
+     * [233]Russian redlinks
+     * [234]Russian redlinks/t
+     * [235]Requests for review of Afrikaans translations
+
+Navigation menu
+
+Personal tools
+
+     * Not logged in
+     * [236]Talk
+     * [237]Contributions
+     * [238]Create account
+     * [239]Log in
+
+Namespaces
+
+     * [240]Entry
+     * [241]Discussion
+
+Variants
+
+Views
+
+     * [242]Read
+     * [243]Edit
+     * [244]History
+
+More
+
+Search
+
+   [245]____________________ [246]Search [247]Go
+
+Navigation
+
+     * [248]Main Page
+     * [249]Community portal
+     * [250]Preferences
+     * [251]Requested entries
+     * [252]Recent changes
+     * [253]Random entry
+     * [254]Help
+     * [255]Donations
+     * [256]Contact us
+
+Tools
+
+     * [257]What links here
+     * [258]Related changes
+     * [259]Upload file
+     * [260]Special pages
+     * [261]Permanent link
+     * [262]Page information
+     * [263]Cite this page
+
+In other languages
+
+     * [264]Cymraeg
+     * [265]Dansk
+     * [266]Eesti
+     * [267]Ελληνικά
+     * [268]Español
+     * [269]فارسی
+     * [270]Français
+     * [271]한국어
+     * [272]Հայերեն
+     * [273]Ido
+     * [274]Italiano
+     * [275]ಕನ್ನಡ
+     * [276]Kurdî
+     * [277]Limburgs
+     * [278]Magyar
+     * [279]മലയാളം
+     * [280]မြန်မာဘာသာ
+     * [281]Nederlands
+     * [282]日本語
+     * [283]Polski
+     * [284]Simple English
+     * [285]Suomi
+     * [286]Svenska
+     * [287]தமிழ்
+     * [288]తెలుగు
+     * [289]ᏣᎳᎩ
+     * [290]Türkçe
+     * [291]Tiếng Việt
+     * [292]中文
+
+Print/export
+
+     * [293]Create a book
+     * [294]Download as PDF
+     * [295]Printable version
+
+     * This page was last edited on 26 April 2017, at 17:56.
+     * Text is available under the [296]Creative Commons
+       Attribution-ShareAlike License; additional terms may apply. By
+       using this site, you agree to the [297]Terms of Use and
+       [298]Privacy Policy.
+
+     * [299]Privacy policy
+     * [300]About Wiktionary
+     * [301]Disclaimers
+     * [302]Developers
+     * [303]Cookie statement
+     * [304]Mobile view
+
+     * [305]Wikimedia Foundation
+     * [306]Powered by MediaWiki
+
+References
+
+   Visible links
+   1. https://en.wiktionary.org/w/index.php?title=justify&action=edit
+   2. https://en.wiktionary.org/w/opensearch_desc.php
+   3. https://creativecommons.org/licenses/by-sa/3.0/
+   4. https://en.wiktionary.org/w/index.php?title=Special:RecentChanges&feed=atom
+   5. https://en.wiktionary.org/wiki/justify#mw-head
+   6. https://en.wiktionary.org/wiki/justify#p-search
+   7. https://en.wiktionary.org/wiki/justify#English
+   8. https://en.wiktionary.org/wiki/justify#Alternative_forms
+   9. https://en.wiktionary.org/wiki/justify#Etymology
+  10. https://en.wiktionary.org/wiki/justify#Pronunciation
+  11. https://en.wiktionary.org/wiki/justify#Verb
+  12. https://en.wiktionary.org/wiki/justify#Related_terms
+  13. https://en.wiktionary.org/wiki/justify#Translations
+  14. https://en.wiktionary.org/w/index.php?title=justify&action=edit&section=1
+  15. https://en.wiktionary.org/w/index.php?title=justify&action=edit&section=2
+  16. https://en.wiktionary.org/wiki/justifie#English
+  17. https://en.wiktionary.org/w/index.php?title=justify&action=edit&section=3
+  18. https://en.wikipedia.org/wiki/Middle_English_language
+  19. https://en.wiktionary.org/w/index.php?title=justifien&action=edit&redlink=1
+  20. https://en.wikipedia.org/wiki/Old_French_language
+  21. https://en.wiktionary.org/wiki/justifier#Old_French
+  22. https://en.wikipedia.org/wiki/Latin_language
+  23. https://en.wiktionary.org/wiki/justificare#Latin
+  24. https://en.wiktionary.org/wiki/justus#Latin
+  25. https://en.wiktionary.org/wiki/iustus#Latin
+  26. https://en.wiktionary.org/wiki/ficare#Latin
+  27. https://en.wiktionary.org/wiki/facere#Latin
+  28. https://en.wiktionary.org/wiki/just#English
+  29. https://en.wiktionary.org/wiki/-ify#English
+  30. https://en.wiktionary.org/w/index.php?title=justify&action=edit&section=4
+  31. https://en.wiktionary.org/wiki/Wiktionary:International_Phonetic_Alphabet
+  32. https://en.wiktionary.org/wiki/Appendix:English_pronunciation
+  33. https://en.wiktionary.org/wiki/File:en-us-justify.ogg
+  34. https://en.wiktionary.org/w/index.php?title=justify&action=edit&section=5
+  35. https://en.wiktionary.org/wiki/justifies#English
+  36. https://en.wiktionary.org/wiki/justifying#English
+  37. https://en.wiktionary.org/wiki/justified#English
+  38. https://en.wiktionary.org/wiki/Appendix:Glossary#transitive
+  39. https://en.wiktionary.org/wiki/provide
+  40. https://en.wiktionary.org/wiki/acceptable
+  41. https://en.wiktionary.org/wiki/explanation
+  42. https://en.wiktionary.org/wiki/Appendix:Glossary#transitive
+  43. https://en.wiktionary.org/wiki/reason
+  44. https://en.wiktionary.org/wiki/warrant
+  45. https://en.wiktionary.org/wiki/Appendix:Glossary#transitive
+  46. https://en.wiktionary.org/wiki/arrange
+  47. https://en.wiktionary.org/wiki/text
+  48. https://en.wiktionary.org/wiki/page
+  49. https://en.wiktionary.org/wiki/screen
+  50. https://en.wiktionary.org/wiki/line
+  51. https://en.wiktionary.org/wiki/paragraph
+  52. https://en.wiktionary.org/wiki/align
+  53. https://en.wiktionary.org/wiki/Appendix:Glossary#transitive
+  54. https://en.wiktionary.org/wiki/absolve
+  55. https://en.wiktionary.org/wiki/Category:Requests_for_quotation/Shakespeare
+  56. https://en.wiktionary.org/wiki/qualify
+  57. https://en.wiktionary.org/wiki/surety
+  58. https://en.wiktionary.org/wiki/oath
+  59. https://en.wiktionary.org/wiki/property
+  60. https://en.wiktionary.org/w/index.php?title=justify&action=edit&section=6
+  61. https://en.wiktionary.org/wiki/-fy#English
+  62. https://en.wiktionary.org/wiki/just#English
+  63. https://en.wiktionary.org/wiki/justification#English
+  64. https://en.wiktionary.org/wiki/justifiable#English
+  65. https://en.wiktionary.org/wiki/justifiably#English
+  66. https://en.wiktionary.org/wiki/unjustified#English
+  67. https://en.wiktionary.org/w/index.php?title=justify&action=edit&section=7
+  68. https://en.wiktionary.org/wiki/arsyetoj#Albanian
+  69. https://sq.wiktionary.org/wiki/arsyetoj
+  70. https://en.wiktionary.org/w/index.php?title=برر&action=edit&redlink=1
+  71. https://ar.wiktionary.org/wiki/برر
+  72. https://en.wiktionary.org/wiki/justificar#Catalan
+  73. https://ca.wiktionary.org/wiki/justificar
+  74. https://en.wiktionary.org/wiki/辯解#Mandarin
+  75. https://zh.wiktionary.org/wiki/辯解
+  76. https://en.wiktionary.org/wiki/辩解#Mandarin
+  77. https://zh.wiktionary.org/wiki/辩解
+  78. https://en.wiktionary.org/wiki/辯護#Mandarin
+  79. https://zh.wiktionary.org/wiki/辯護
+  80. https://en.wiktionary.org/wiki/辩护#Mandarin
+  81. https://zh.wiktionary.org/wiki/辩护
+  82. https://en.wiktionary.org/wiki/聲辯#Mandarin
+  83. https://zh.wiktionary.org/wiki/聲辯
+  84. https://en.wiktionary.org/wiki/声辩#Mandarin
+  85. https://zh.wiktionary.org/wiki/声辩
+  86. https://en.wiktionary.org/wiki/obhájit#Czech
+  87. https://en.wiktionary.org/wiki/ospravedlnit#Czech
+  88. https://cs.wiktionary.org/wiki/ospravedlnit
+  89. https://en.wiktionary.org/wiki/rechtvaardigen#Dutch
+  90. https://nl.wiktionary.org/wiki/rechtvaardigen
+  91. https://en.wiktionary.org/wiki/perustella#Finnish
+  92. https://fi.wiktionary.org/wiki/perustella
+  93. https://en.wiktionary.org/wiki/justifier#French
+  94. https://fr.wiktionary.org/wiki/justifier
+  95. https://en.wiktionary.org/wiki/rechtfertigen#German
+  96. https://de.wiktionary.org/wiki/rechtfertigen
+  97. https://en.wiktionary.org/w/index.php?title=δικαιολογώ&action=edit&redlink=1
+  98. https://el.wiktionary.org/wiki/δικαιολογώ
+  99. https://en.wiktionary.org/wiki/αιτιολογώ#Greek
+ 100. https://el.wiktionary.org/wiki/αιτιολογώ
+ 101. https://en.wiktionary.org/wiki/indokol#Hungarian
+ 102. https://hu.wiktionary.org/wiki/indokol
+ 103. https://en.wiktionary.org/wiki/igazol#Hungarian
+ 104. https://hu.wiktionary.org/wiki/igazol
+ 105. https://en.wiktionary.org/wiki/giustificare#Italian
+ 106. https://it.wiktionary.org/wiki/giustificare
+ 107. https://en.wiktionary.org/w/index.php?title=言い開く&action=edit&redlink=1
+ 108. https://en.wiktionary.org/w/index.php?title=whakawhaihuruhuru&action=edit&redlink=1
+ 109. https://en.wiktionary.org/w/index.php?title=tautoko&action=edit&redlink=1
+ 110. https://mi.wiktionary.org/wiki/tautoko
+ 111. https://en.wiktionary.org/w/index.php?title=parahau&action=edit&redlink=1
+ 112. https://en.wiktionary.org/w/index.php?title=usprawiedliwiać&action=edit&redlink=1
+ 113. https://pl.wiktionary.org/wiki/usprawiedliwiać
+ 114. https://en.wiktionary.org/wiki/justificar#Portuguese
+ 115. https://pt.wiktionary.org/wiki/justificar
+ 116. https://en.wiktionary.org/wiki/оправдывать#Russian
+ 117. https://ru.wiktionary.org/wiki/оправдывать
+ 118. https://en.wiktionary.org/wiki/оправдать#Russian
+ 119. https://ru.wiktionary.org/wiki/оправдать
+ 120. https://en.wiktionary.org/wiki/объяснять#Russian
+ 121. https://ru.wiktionary.org/wiki/объяснять
+ 122. https://en.wiktionary.org/wiki/объяснить#Russian
+ 123. https://ru.wiktionary.org/wiki/объяснить
+ 124. https://en.wiktionary.org/wiki/justifee#Scots
+ 125. https://en.wiktionary.org/wiki/legitimar#Spanish
+ 126. https://es.wiktionary.org/wiki/legitimar
+ 127. https://en.wiktionary.org/wiki/justificar#Spanish
+ 128. https://es.wiktionary.org/wiki/justificar
+ 129. https://en.wiktionary.org/w/index.php?title=haklı_göstermek&action=edit&redlink=1
+ 130. https://en.wiktionary.org/wiki/shpjegoj#Albanian
+ 131. https://sq.wiktionary.org/wiki/shpjegoj
+ 132. https://en.wiktionary.org/wiki/justificar#Catalan
+ 133. https://ca.wiktionary.org/wiki/justificar
+ 134. https://en.wiktionary.org/wiki/ospravedlnit#Czech
+ 135. https://cs.wiktionary.org/wiki/ospravedlnit
+ 136. https://en.wiktionary.org/wiki/rechtvaardigen#Dutch
+ 137. https://nl.wiktionary.org/wiki/rechtvaardigen
+ 138. https://en.wiktionary.org/wiki/oikeuttaa#Finnish
+ 139. https://fi.wiktionary.org/wiki/oikeuttaa
+ 140. https://en.wiktionary.org/wiki/perustella#Finnish
+ 141. https://fi.wiktionary.org/wiki/perustella
+ 142. https://en.wiktionary.org/wiki/justifier#French
+ 143. https://fr.wiktionary.org/wiki/justifier
+ 144. https://en.wiktionary.org/wiki/rechtfertigen#German
+ 145. https://de.wiktionary.org/wiki/rechtfertigen
+ 146. https://en.wiktionary.org/w/index.php?title=δικαιολογώ&action=edit&redlink=1
+ 147. https://el.wiktionary.org/wiki/δικαιολογώ
+ 148. https://en.wiktionary.org/wiki/indokol#Hungarian
+ 149. https://hu.wiktionary.org/wiki/indokol
+ 150. https://en.wiktionary.org/wiki/giustificare#Italian
+ 151. https://it.wiktionary.org/wiki/giustificare
+ 152. https://en.wiktionary.org/w/index.php?title=whaihuruhuru&action=edit&redlink=1
+ 153. https://en.wiktionary.org/w/index.php?title=usprawiedliwiać&action=edit&redlink=1
+ 154. https://pl.wiktionary.org/wiki/usprawiedliwiać
+ 155. https://en.wiktionary.org/wiki/justificar#Portuguese
+ 156. https://pt.wiktionary.org/wiki/justificar
+ 157. https://en.wiktionary.org/wiki/объяснять#Russian
+ 158. https://ru.wiktionary.org/wiki/объяснять
+ 159. https://en.wiktionary.org/wiki/объяснить#Russian
+ 160. https://ru.wiktionary.org/wiki/объяснить
+ 161. https://en.wiktionary.org/wiki/обосновывать#Russian
+ 162. https://ru.wiktionary.org/wiki/обосновывать
+ 163. https://en.wiktionary.org/wiki/обосновать#Russian
+ 164. https://ru.wiktionary.org/wiki/обосновать
+ 165. https://en.wiktionary.org/wiki/justifee#Scots
+ 166. https://en.wiktionary.org/wiki/legitimar#Spanish
+ 167. https://es.wiktionary.org/wiki/legitimar
+ 168. https://en.wiktionary.org/wiki/justificar#Spanish
+ 169. https://es.wiktionary.org/wiki/justificar
+ 170. https://en.wiktionary.org/wiki/doğrulamak#Turkish
+ 171. https://tr.wiktionary.org/wiki/doğrulamak
+ 172. https://en.wiktionary.org/w/index.php?title=teyyit_etmek&action=edit&redlink=1
+ 173. https://en.wiktionary.org/wiki/justificar#Catalan
+ 174. https://ca.wiktionary.org/wiki/justificar
+ 175. https://en.wiktionary.org/wiki/zarovnat#Czech
+ 176. https://en.wiktionary.org/w/index.php?title=uitlijnen&action=edit&redlink=1
+ 177. https://en.wiktionary.org/wiki/tasata#Finnish
+ 178. https://fi.wiktionary.org/wiki/tasata
+ 179. https://en.wiktionary.org/wiki/justifier#French
+ 180. https://fr.wiktionary.org/wiki/justifier
+ 181. https://en.wiktionary.org/wiki/ausrichten#German
+ 182. https://de.wiktionary.org/wiki/ausrichten
+ 183. https://en.wiktionary.org/wiki/justieren#German
+ 184. https://de.wiktionary.org/wiki/justieren
+ 185. https://en.wiktionary.org/w/index.php?title=ευθυγραμμίζω&action=edit&redlink=1
+ 186. https://el.wiktionary.org/wiki/ευθυγραμμίζω
+ 187. https://en.wiktionary.org/wiki/στοιχίζω#Greek
+ 188. https://el.wiktionary.org/wiki/στοιχίζω
+ 189. https://en.wiktionary.org/wiki/giustificare#Italian
+ 190. https://it.wiktionary.org/wiki/giustificare
+ 191. https://en.wiktionary.org/w/index.php?title=wyjustować&action=edit&redlink=1
+ 192. https://en.wiktionary.org/wiki/justificar#Portuguese
+ 193. https://pt.wiktionary.org/wiki/justificar
+ 194. https://en.wiktionary.org/wiki/выравнивать#Russian
+ 195. https://ru.wiktionary.org/wiki/выравнивать
+ 196. https://en.wiktionary.org/wiki/выровнять#Russian
+ 197. https://ru.wiktionary.org/wiki/выровнять
+ 198. https://en.wiktionary.org/wiki/justificar#Spanish
+ 199. https://es.wiktionary.org/wiki/justificar
+ 200. https://en.wiktionary.org/wiki/ayarlamak#Turkish
+ 201. https://tr.wiktionary.org/wiki/ayarlamak
+ 202. https://en.wiktionary.org/w/index.php?title=hizaya_sokmak&action=edit&redlink=1
+ 203. https://en.wiktionary.org/w/index.php?title=δικαιώνω&action=edit&redlink=1
+ 204. https://el.wiktionary.org/wiki/δικαιώνω
+ 205. https://en.wiktionary.org/wiki/absolver#Portuguese
+ 206. https://pt.wiktionary.org/wiki/absolver
+ 207. https://en.wiktionary.org/w/index.php?title=отпускать_грехи&action=edit&redlink=1
+ 208. https://en.wiktionary.org/w/index.php?title=отпустить_грехи&action=edit&redlink=1
+ 209. https://en.wiktionary.org/wiki/absolver#Spanish
+ 210. https://es.wiktionary.org/wiki/absolver
+ 211. https://en.wiktionary.org/w/index.php?title=frita_från_skuld&action=edit&redlink=1
+ 212. https://en.wiktionary.org/wiki/Wiktionary:Entry_layout#Translations
+ 213. https://en.wiktionary.org/wiki/Wiktionary:Translations#Translations_to_be_checked
+ 214. https://en.wiktionary.org/w/index.php?title=regverdig&action=edit&redlink=1
+ 215. https://en.wiktionary.org/w/index.php?title=justify&oldid=42719108
+ 216. https://en.wiktionary.org/wiki/Special:Categories
+ 217. https://en.wiktionary.org/wiki/Category:English_terms_derived_from_the_PIE_root_*dʰeh₁-
+ 218. https://en.wiktionary.org/wiki/Category:English_terms_inherited_from_Middle_English
+ 219. https://en.wiktionary.org/wiki/Category:English_terms_derived_from_Middle_English
+ 220. https://en.wiktionary.org/wiki/Category:English_terms_derived_from_Old_French
+ 221. https://en.wiktionary.org/wiki/Category:English_terms_derived_from_Latin
+ 222. https://en.wiktionary.org/wiki/Category:English_words_suffixed_with_-ify
+ 223. https://en.wiktionary.org/wiki/Category:English_3-syllable_words
+ 224. https://en.wiktionary.org/wiki/Category:English_terms_with_IPA_pronunciation
+ 225. https://en.wiktionary.org/wiki/Category:English_terms_with_audio_links
+ 226. https://en.wiktionary.org/wiki/Category:English_lemmas
+ 227. https://en.wiktionary.org/wiki/Category:English_verbs
+ 228. https://en.wiktionary.org/wiki/Category:English_transitive_verbs
+ 229. https://en.wiktionary.org/wiki/Category:Requests_for_quotation/Shakespeare
+ 230. https://en.wiktionary.org/wiki/Category:en:Law
+ 231. https://en.wiktionary.org/wiki/Category:etyl_cleanup/en
+ 232. https://en.wiktionary.org/wiki/Category:Requests_for_quotations_in_English
+ 233. https://en.wiktionary.org/wiki/Category:Russian_redlinks
+ 234. https://en.wiktionary.org/wiki/Category:Russian_redlinks/t
+ 235. https://en.wiktionary.org/wiki/Category:Requests_for_review_of_Afrikaans_translations
+ 236. https://en.wiktionary.org/wiki/Special:MyTalk
+ 237. https://en.wiktionary.org/wiki/Special:MyContributions
+ 238. https://en.wiktionary.org/w/index.php?title=Special:CreateAccount&returnto=justify
+ 239. https://en.wiktionary.org/w/index.php?title=Special:UserLogin&returnto=justify
+ 240. https://en.wiktionary.org/wiki/justify
+ 241. https://en.wiktionary.org/w/index.php?title=Talk:justify&action=edit&redlink=1
+ 242. https://en.wiktionary.org/wiki/justify
+ 243. https://en.wiktionary.org/w/index.php?title=justify&action=edit
+ 244. https://en.wiktionary.org/w/index.php?title=justify&action=history
+ 245. form field = text entry field
+ 246. form field = submit button
+ 247. form field = submit button
+ 248. https://en.wiktionary.org/wiki/Wiktionary:Main_Page
+ 249. https://en.wiktionary.org/wiki/Wiktionary:Community_portal
+ 250. https://en.wiktionary.org/wiki/Wiktionary:Per-browser_preferences
+ 251. https://en.wiktionary.org/wiki/Wiktionary:Requested_entries
+ 252. https://en.wiktionary.org/wiki/Special:RecentChanges
+ 253. https://en.wiktionary.org/wiki/Special:Random
+ 254. https://en.wiktionary.org/wiki/Help:Contents
+ 255. https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&utm_medium=sidebar&utm_campaign=C13_en.wiktionary.org&uselang=en
+ 256. https://en.wiktionary.org/wiki/Wiktionary:Contact_us
+ 257. https://en.wiktionary.org/wiki/Special:WhatLinksHere/justify
+ 258. https://en.wiktionary.org/wiki/Special:RecentChangesLinked/justify
+ 259. https://commons.wikimedia.org/wiki/Special:UploadWizard?uselang=en
+ 260. https://en.wiktionary.org/wiki/Special:SpecialPages
+ 261. https://en.wiktionary.org/w/index.php?title=justify&oldid=42719108
+ 262. https://en.wiktionary.org/w/index.php?title=justify&action=info
+ 263. https://en.wiktionary.org/w/index.php?title=Special:CiteThisPage&page=justify&id=42719108
+ 264. https://cy.wiktionary.org/wiki/justify
+ 265. https://da.wiktionary.org/wiki/justify
+ 266. https://et.wiktionary.org/wiki/justify
+ 267. https://el.wiktionary.org/wiki/justify
+ 268. https://es.wiktionary.org/wiki/justify
+ 269. https://fa.wiktionary.org/wiki/justify
+ 270. https://fr.wiktionary.org/wiki/justify
+ 271. https://ko.wiktionary.org/wiki/justify
+ 272. https://hy.wiktionary.org/wiki/justify
+ 273. https://io.wiktionary.org/wiki/justify
+ 274. https://it.wiktionary.org/wiki/justify
+ 275. https://kn.wiktionary.org/wiki/justify
+ 276. https://ku.wiktionary.org/wiki/justify
+ 277. https://li.wiktionary.org/wiki/justify
+ 278. https://hu.wiktionary.org/wiki/justify
+ 279. https://ml.wiktionary.org/wiki/justify
+ 280. https://my.wiktionary.org/wiki/justify
+ 281. https://nl.wiktionary.org/wiki/justify
+ 282. https://ja.wiktionary.org/wiki/justify
+ 283. https://pl.wiktionary.org/wiki/justify
+ 284. https://simple.wiktionary.org/wiki/justify
+ 285. https://fi.wiktionary.org/wiki/justify
+ 286. https://sv.wiktionary.org/wiki/justify
+ 287. https://ta.wiktionary.org/wiki/justify
+ 288. https://te.wiktionary.org/wiki/justify
+ 289. https://chr.wiktionary.org/wiki/justify
+ 290. https://tr.wiktionary.org/wiki/justify
+ 291. https://vi.wiktionary.org/wiki/justify
+ 292. https://zh.wiktionary.org/wiki/justify
+ 293. https://en.wiktionary.org/w/index.php?title=Special:Book&bookcmd=book_creator&referer=justify
+ 294. https://en.wiktionary.org/w/index.php?title=Special:Book&bookcmd=render_article&arttitle=justify&returnto=justify&oldid=42719108&writer=rdf2latex
+ 295. https://en.wiktionary.org/w/index.php?title=justify&printable=yes
+ 296. https://creativecommons.org/licenses/by-sa/3.0/
+ 297. https://wikimediafoundation.org/wiki/Terms_of_Use
+ 298. https://wikimediafoundation.org/wiki/Privacy_policy
+ 299. https://wikimediafoundation.org/wiki/Privacy_policy
+ 300. https://en.wiktionary.org/wiki/Wiktionary:About
+ 301. https://en.wiktionary.org/wiki/Wiktionary:General_disclaimer
+ 302. https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute
+ 303. https://wikimediafoundation.org/wiki/Cookie_statement
+ 304. https://en.m.wiktionary.org/w/index.php?title=justify&mobileaction=toggle_view_mobile
+ 305. https://wikimediafoundation.org/
+ 306. https://www.mediawiki.org/
+
+   Hidden links:
+ 308. https://en.wiktionary.org/wiki/justify
+ 309. https://en.wiktionary.org/wiki/justify
+ 310. https://en.wiktionary.org/wiki/Wiktionary:Main_Page

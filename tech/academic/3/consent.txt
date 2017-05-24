@@ -1,0 +1,806 @@
+   #[1]Edit [2]Wiktionary (en) [3]copyright [4]Wiktionary Atom feed
+
+consent
+
+   Definition from Wiktionary, the free dictionary
+   Jump to: [5]navigation, [6]search
+
+Contents
+
+     * [7]1 English
+          + [8]1.1 Etymology
+          + [9]1.2 Pronunciation
+          + [10]1.3 Verb
+               o [11]1.3.1 Usage notes
+               o [12]1.3.2 Synonyms
+               o [13]1.3.3 Antonyms
+               o [14]1.3.4 Derived terms
+               o [15]1.3.5 Translations
+          + [16]1.4 Noun
+               o [17]1.4.1 Synonyms
+               o [18]1.4.2 Antonyms
+               o [19]1.4.3 Derived terms
+               o [20]1.4.4 Translations
+          + [21]1.5 Further reading
+     * [22]2 French
+          + [23]2.1 Pronunciation
+          + [24]2.2 Verb
+
+English[[25]edit]
+
+   [26]Wikipedia-logo.png
+    [27]consent on Wikipedia
+
+Etymology[[28]edit]
+
+   Recorded in [29]Middle English since circa 1225, from [30]Old French
+   [31]consentir, from [32]Latin [33]cōnsentīre, present active infinitive
+   of [34]cōnsentiō (“to feel together”), itself from [35]com- (“with”) +
+   [36]sentiō (“to feel”)
+
+Pronunciation[[37]edit]
+
+     * [38]IPA^([39]key): /kənˈsɛnt/
+     *
+
+       Audio (US)
+
+       ([40]file)
+     * Rhymes: [41]-ɛnt
+
+Verb[[42]edit]
+
+   consent (third-person singular simple present [43]consents, present
+   participle [44]consenting, simple past and past participle
+   [45]consented) ([46]intransitive)
+    1. To express [47]willingness, to give [48]permission.
+
+                After reflecting a little bit, I've consented.
+
+          + (Can we [49]date this quote?) Shakespeare
+
+                      My poverty, but not my will, consents.
+
+    2. ([50]medicine) To cause to sign a consent form.
+          + 2002, T Usmani; KD O'Brien, HV Worthington, S Derwent, D …, “A
+            randomized clinical trial to compare the effectiveness of
+            canine lacebacks with reference to …”, in Journal of
+            Orthodontics:
+
+                      When the patient was consented to enter the study
+                      and registered, a telephone call was made to
+                      research assistant
+
+    3. ([51]obsolete) To [52]grant; to [53]allow; to [54]assent to.
+          + (Can we [55]date this quote?) Milton
+
+                      Interpreters […] will not consent it to be a true
+                      story.
+
+    4. To [56]agree in [57]opinion or [58]sentiment; to be of the same
+       [59]mind; to [60]accord; to [61]concur.
+          + (Can we [62]date this quote?) Bible, Acts viii. 1
+
+                      And Saul was consenting unto his death.
+
+          + (Can we [63]date this quote?) Fuller
+
+                      Flourishing many years before Wyclif, and much
+                      consenting with him in jugdment.
+
+Usage notes[[64]edit]
+
+     * This is a [65]catenative verb that takes the to infinitive. See
+       [66]Appendix:English catenative verbs
+
+Synonyms[[67]edit]
+
+     * (intransitive): [68]acquiesce, [69]agree, [70]approve, [71]assent,
+       [72]concur, [73]yes
+
+Antonyms[[74]edit]
+
+     * (intransitive): [75]disagree, [76]object, [77]oppose
+
+Derived terms[[78]edit]
+
+     * [79]consenting
+
+Translations[[80]edit]
+
+   to express willingness
+     * Bulgarian: [81]съгласявам се (sǎglasjavam se), [82]съгласен съм
+       (sǎglasen sǎm)
+     * Catalan: [83]consentir [84](ca)
+     * Chinese:
+
+                Mandarin: [85]承諾 [86](zh), [87]承诺 [88](zh) (chéngnuò),
+                [89]同意 [90](zh) (tóngyì)
+
+     * Czech: [91]souhlasit [92](cs)
+     * Dutch: [93]toestemmen [94](nl) (in), [95]instemmen [96](nl) (met)
+     * Esperanto: [97]konsenti [98](eo)
+     * Finnish: [99]hyväksyä [100](fi), [101]suostua [102](fi),
+       [103]myöntyä [104](fi)
+     * French: [105]consentir [106](fr), [107]approuver [108](fr),
+       [109]agréer [110](fr)
+     * Georgian: [111]თანხმობა (tanxmoba)
+     * German: [112]zustimmen [113](de), [114]einwilligen [115](de)
+     * Greek: [116]συναινώ [117](el) (synainó)
+     * Hungarian: [118]beleegyezik [119](hu), [120]hozzájárulását adja
+     * Icelandic: [121]samþykkja, [122]fallast á
+     * Indonesian: [123]setuju [124](id), [125]rela [126](id)
+
+     * Interlingua: [127]consentir
+     * Irish: [128]toiligh
+     * Italian: [129]consentire [130](it)
+     * Japanese: [131]承諾する [132](ja) (しょうだくする, shōdaku suru),
+       [133]同意する [134](ja) (どういする, dōi suru)
+     * Maori: [135]whakaae, [136]tatū
+     * Occitan: [137]consentir, [138]assentir [139](oc)
+     * Polish: [140]zgadzać się [141](pl), [142]przyzwalać
+     * Portuguese: [143]consentir [144](pt), [145]aprovar [146](pt),
+       [147]deixar [148](pt)
+     * Quechua: [149]awñiy
+     * Russian: [150]соглаша́ться [151](ru) impf (soglašátʹsja),
+       [152]согласи́ться [153](ru) pf (soglasítʹsja) (agree),
+       [154]разреша́ть [155](ru) impf (razrešátʹ),
+       [156]разреши́ть [157](ru) pf (razrešítʹ) (permit)
+     * Serbo-Croatian: [158]suglasnost [159](sh) f
+     * Spanish: [160]consentir [161](es)
+     * Swedish: [162]samtycka [163](sv), [164]ge [165]sitt [166]samtycke
+     * Yiddish: [167]באַשטיין (bashteyn)
+
+   to cause to sign a consent
+     * Finnish: [168]hankkia [169]suostumus
+
+          The translations below need to be checked and inserted above
+          into the appropriate translation tables, removing any numbers.
+          Numbers do not necessarily match those in definitions. See
+          instructions at [170]Wiktionary:Entry layout#Translations.
+
+   Translations to be checked
+     * Hebrew: ^(please [171]verify) [172]להסכים (le'haskym)
+
+Noun[[173]edit]
+
+   consent (plural [174]consents)
+    1. Voluntary [175]agreement or [176]permission.
+          + 1603, [177]John Florio, transl.; [178]Michel de Montaigne,
+            [179]Essayes, London: [180]Edward Blount, [181]OCLC
+            [182]946730821:
+            , II.6:
+
+                      All men know by experience, there be some parts of
+                      our bodies which often without any consent of ours
+                      doe stirre, stand, and lye down againe.
+
+    2. ([183]obsolete) Unity or agreement of opinion, sentiment, or
+       inclination.
+          + 1604-11, Bible ([184]King James Version), Luke: XIV:18
+
+                      And they all with one consent began to make excuse.
+
+Synonyms[[185]edit]
+
+     * (voluntary agreement): [186]agreement, [187]approval, [188]assent,
+       [189]consensualness, [190]permission, [191]willingness, [192]yes
+
+Antonyms[[193]edit]
+
+     * (voluntary agreement): [194]dissent, [195]disagreement,
+       [196]opposition, [197]refusal
+
+Derived terms[[198]edit]
+
+     * [199]consenter
+     * [200]consentaneous
+     * [201]age of consent
+
+Translations[[202]edit]
+
+   voluntary agreement
+     * Bulgarian: [203]съгласие [204](bg) n (sǎglasie),
+       [205]разрешение [206](bg) n (razrešenie)
+     * Catalan: [207]consentiment m
+     * Chinese:
+
+                Mandarin: [208]承諾 [209](zh), [210]承诺 [211](zh) (chéngnuò),
+                [212]同意 [213](zh) (tóngyì)
+
+     * Czech: [214]souhlas [215](cs) m
+     * Dutch: [216]toestemming [217](nl) f, [218]instemming [219](nl) f
+     * Esperanto: [220]konsento
+     * Finnish: [221]suostumus [222](fi)
+     * French: [223]consentement [224](fr) m,
+       [225]approbation [226](fr) f, [227]agrément [228](fr)
+     * German: [229]Zustimmung [230](de) f, [231]Konsens [232](de) m
+     * Greek: [233]συναίνεση [234](el) f (synaínesi)
+     * Hebrew: [235]הסכמה f (haskama)
+     * Hungarian: [236]beleegyezés [237](hu)
+     * Icelandic: [238]samþykki n
+     * Indonesian: [239]persetujuan [240](id)
+
+     * Interlingua: [241]consentimento
+     * Irish: [242]deoin f
+     * Italian: [243]consenso [244](it) m
+     * Japanese: [245]承諾 [246](ja) ([247]しょうだく, shōdaku),
+       [248]同意 [249](ja) ([250]どうい, dōi)
+     * Khmer: [251]ការយល់ព្រម (kaa yʊəl prɔɔm)
+     * Korean: please add this translation if you can
+     * Occitan: [252]consentiment m
+     * Persian: [253]رضایت [254](fa) (rezâyat)
+     * Polish: [255]zgoda [256](pl) f, [257]pozwolenie [258](pl) n
+     * Portuguese: [259]consentimento [260](pt) m
+     * Russian: [261]разреше́ние [262](ru) n (razrešénije) (permission),
+       [263]дозволе́ние [264](ru) n (dozvolénije) (permission),
+       [265]согла́сие [266](ru) n (soglásije) (agreement)
+     * Scottish Gaelic: [267]aonta m
+     * Spanish: [268]consentimiento [269](es) m
+     * Swedish: [270]samtycke [271](sv) n
+     * Tamil: [272]சம்மதம் [273](ta) (cammatam)
+
+Further reading[[274]edit]
+
+     * [275]consent at OneLook Dictionary Search
+     * [276]consent in The Century Dictionary, The Century Co., New York,
+       1911
+     __________________________________________________________________
+
+French[[277]edit]
+
+Pronunciation[[278]edit]
+
+     * [279]IPA^([280]key): /kɔ̃.sɑ̃/
+
+Verb[[281]edit]
+
+   consent
+    1. [282]third-person [283]singular [284]present [285]indicative of
+       [286]consentir
+
+   Retrieved from
+   "[287]https://en.wiktionary.org/w/index.php?title=consent&oldid=4344169
+   8"
+   [288]Categories:
+     * [289]English terms derived from Middle English
+     * [290]English terms derived from Old French
+     * [291]English terms derived from Latin
+     * [292]English 2-syllable words
+     * [293]English terms with IPA pronunciation
+     * [294]English terms with audio links
+     * [295]English lemmas
+     * [296]English verbs
+     * [297]English intransitive verbs
+     * [298]en:Medicine
+     * [299]English terms with obsolete senses
+     * [300]English nouns
+     * [301]English countable nouns
+     * [302]French 2-syllable words
+     * [303]French terms with IPA pronunciation
+     * [304]French non-lemma forms
+     * [305]French verb forms
+
+   Hidden categories:
+     * [306]etyl cleanup/en
+     * [307]Requests for date
+     * [308]Requests for review of Hebrew translations
+     * [309]Terms with manual transliterations different from the
+       automated ones
+     * [310]Terms with manual transliterations different from the
+       automated ones/km
+     * [311]Requests for translations into Korean
+
+Navigation menu
+
+Personal tools
+
+     * Not logged in
+     * [312]Talk
+     * [313]Contributions
+     * [314]Create account
+     * [315]Log in
+
+Namespaces
+
+     * [316]Entry
+     * [317]Discussion
+
+Variants
+
+Views
+
+     * [318]Read
+     * [319]Edit
+     * [320]History
+
+More
+
+Search
+
+   [321]____________________ [322]Search [323]Go
+
+Navigation
+
+     * [324]Main Page
+     * [325]Community portal
+     * [326]Preferences
+     * [327]Requested entries
+     * [328]Recent changes
+     * [329]Random entry
+     * [330]Help
+     * [331]Donations
+     * [332]Contact us
+
+Tools
+
+     * [333]What links here
+     * [334]Related changes
+     * [335]Upload file
+     * [336]Special pages
+     * [337]Permanent link
+     * [338]Page information
+     * [339]Cite this page
+
+In other languages
+
+     * [340]Ænglisc
+     * [341]العربية
+     * [342]Català
+     * [343]Čeština
+     * [344]Deutsch
+     * [345]Eesti
+     * [346]Ελληνικά
+     * [347]Español
+     * [348]Esperanto
+     * [349]فارسی
+     * [350]Français
+     * [351]한국어
+     * [352]Հայերեն
+     * [353]Ido
+     * [354]Bahasa Indonesia
+     * [355]Italiano
+     * [356]ಕನ್ನಡ
+     * [357]Kurdî
+     * [358]Limburgs
+     * [359]Magyar
+     * [360]Malagasy
+     * [361]മലയാളം
+     * [362]မြန်မာဘာသာ
+     * [363]Nederlands
+     * [364]日本語
+     * [365]Norsk bokmål
+     * [366]Polski
+     * [367]Português
+     * [368]Русский
+     * [369]संस्कृतम्
+     * [370]Simple English
+     * [371]Suomi
+     * [372]Svenska
+     * [373]தமிழ்
+     * [374]తెలుగు
+     * [375]ᏣᎳᎩ
+     * [376]Tiếng Việt
+     * [377]中文
+
+Print/export
+
+     * [378]Create a book
+     * [379]Download as PDF
+     * [380]Printable version
+
+     * This page was last edited on 24 May 2017, at 02:16.
+     * Text is available under the [381]Creative Commons
+       Attribution-ShareAlike License; additional terms may apply. By
+       using this site, you agree to the [382]Terms of Use and
+       [383]Privacy Policy.
+
+     * [384]Privacy policy
+     * [385]About Wiktionary
+     * [386]Disclaimers
+     * [387]Developers
+     * [388]Cookie statement
+     * [389]Mobile view
+
+     * [390]Wikimedia Foundation
+     * [391]Powered by MediaWiki
+
+References
+
+   Visible links
+   1. https://en.wiktionary.org/w/index.php?title=consent&action=edit
+   2. https://en.wiktionary.org/w/opensearch_desc.php
+   3. https://creativecommons.org/licenses/by-sa/3.0/
+   4. https://en.wiktionary.org/w/index.php?title=Special:RecentChanges&feed=atom
+   5. https://en.wiktionary.org/wiki/consent#mw-head
+   6. https://en.wiktionary.org/wiki/consent#p-search
+   7. https://en.wiktionary.org/wiki/consent#English
+   8. https://en.wiktionary.org/wiki/consent#Etymology
+   9. https://en.wiktionary.org/wiki/consent#Pronunciation
+  10. https://en.wiktionary.org/wiki/consent#Verb
+  11. https://en.wiktionary.org/wiki/consent#Usage_notes
+  12. https://en.wiktionary.org/wiki/consent#Synonyms
+  13. https://en.wiktionary.org/wiki/consent#Antonyms
+  14. https://en.wiktionary.org/wiki/consent#Derived_terms
+  15. https://en.wiktionary.org/wiki/consent#Translations
+  16. https://en.wiktionary.org/wiki/consent#Noun
+  17. https://en.wiktionary.org/wiki/consent#Synonyms_2
+  18. https://en.wiktionary.org/wiki/consent#Antonyms_2
+  19. https://en.wiktionary.org/wiki/consent#Derived_terms_2
+  20. https://en.wiktionary.org/wiki/consent#Translations_2
+  21. https://en.wiktionary.org/wiki/consent#Further_reading
+  22. https://en.wiktionary.org/wiki/consent#French
+  23. https://en.wiktionary.org/wiki/consent#Pronunciation_2
+  24. https://en.wiktionary.org/wiki/consent#Verb_2
+  25. https://en.wiktionary.org/w/index.php?title=consent&action=edit&section=1
+  26. https://en.wiktionary.org/wiki/File:Wikipedia-logo.png
+  27. https://en.wikipedia.org/wiki/consent
+  28. https://en.wiktionary.org/w/index.php?title=consent&action=edit&section=2
+  29. https://en.wikipedia.org/wiki/Middle_English_language
+  30. https://en.wikipedia.org/wiki/Old_French_language
+  31. https://en.wiktionary.org/wiki/consentir#Old_French
+  32. https://en.wikipedia.org/wiki/Latin_language
+  33. https://en.wiktionary.org/wiki/consentire#Latin
+  34. https://en.wiktionary.org/wiki/consentio#Latin
+  35. https://en.wiktionary.org/wiki/com-#Latin
+  36. https://en.wiktionary.org/wiki/sentio#Latin
+  37. https://en.wiktionary.org/w/index.php?title=consent&action=edit&section=3
+  38. https://en.wiktionary.org/wiki/Wiktionary:International_Phonetic_Alphabet
+  39. https://en.wiktionary.org/wiki/Appendix:English_pronunciation
+  40. https://en.wiktionary.org/wiki/File:en-us-consent.ogg
+  41. https://en.wiktionary.org/wiki/Rhymes:English/ɛnt
+  42. https://en.wiktionary.org/w/index.php?title=consent&action=edit&section=4
+  43. https://en.wiktionary.org/wiki/consents#English
+  44. https://en.wiktionary.org/wiki/consenting#English
+  45. https://en.wiktionary.org/wiki/consented#English
+  46. https://en.wiktionary.org/wiki/Appendix:Glossary#intransitive
+  47. https://en.wiktionary.org/wiki/willingness
+  48. https://en.wiktionary.org/wiki/permission
+  49. https://en.wiktionary.org/wiki/Category:Requests_for_date
+  50. https://en.wiktionary.org/wiki/medicine
+  51. https://en.wiktionary.org/wiki/Appendix:Glossary#obsolete
+  52. https://en.wiktionary.org/wiki/grant
+  53. https://en.wiktionary.org/wiki/allow
+  54. https://en.wiktionary.org/wiki/assent
+  55. https://en.wiktionary.org/wiki/Category:Requests_for_date
+  56. https://en.wiktionary.org/wiki/agree
+  57. https://en.wiktionary.org/wiki/opinion
+  58. https://en.wiktionary.org/wiki/sentiment
+  59. https://en.wiktionary.org/wiki/mind
+  60. https://en.wiktionary.org/wiki/accord
+  61. https://en.wiktionary.org/wiki/concur
+  62. https://en.wiktionary.org/wiki/Category:Requests_for_date
+  63. https://en.wiktionary.org/wiki/Category:Requests_for_date
+  64. https://en.wiktionary.org/w/index.php?title=consent&action=edit&section=5
+  65. https://en.wiktionary.org/wiki/catenative
+  66. https://en.wiktionary.org/wiki/Appendix:English_catenative_verbs
+  67. https://en.wiktionary.org/w/index.php?title=consent&action=edit&section=6
+  68. https://en.wiktionary.org/wiki/acquiesce#English
+  69. https://en.wiktionary.org/wiki/agree#English
+  70. https://en.wiktionary.org/wiki/approve#English
+  71. https://en.wiktionary.org/wiki/assent#English
+  72. https://en.wiktionary.org/wiki/concur#English
+  73. https://en.wiktionary.org/wiki/yes#English
+  74. https://en.wiktionary.org/w/index.php?title=consent&action=edit&section=7
+  75. https://en.wiktionary.org/wiki/disagree#English
+  76. https://en.wiktionary.org/wiki/object#English
+  77. https://en.wiktionary.org/wiki/oppose#English
+  78. https://en.wiktionary.org/w/index.php?title=consent&action=edit&section=8
+  79. https://en.wiktionary.org/wiki/consenting#English
+  80. https://en.wiktionary.org/w/index.php?title=consent&action=edit&section=9
+  81. https://en.wiktionary.org/wiki/съгласявам_се#Bulgarian
+  82. https://en.wiktionary.org/w/index.php?title=съгласен_съм&action=edit&redlink=1
+  83. https://en.wiktionary.org/wiki/consentir#Catalan
+  84. https://ca.wiktionary.org/wiki/consentir
+  85. https://en.wiktionary.org/wiki/承諾#Mandarin
+  86. https://zh.wiktionary.org/wiki/承諾
+  87. https://en.wiktionary.org/wiki/承诺#Mandarin
+  88. https://zh.wiktionary.org/wiki/承诺
+  89. https://en.wiktionary.org/wiki/同意#Mandarin
+  90. https://zh.wiktionary.org/wiki/同意
+  91. https://en.wiktionary.org/wiki/souhlasit#Czech
+  92. https://cs.wiktionary.org/wiki/souhlasit
+  93. https://en.wiktionary.org/wiki/toestemmen#Dutch
+  94. https://nl.wiktionary.org/wiki/toestemmen
+  95. https://en.wiktionary.org/wiki/instemmen#Dutch
+  96. https://nl.wiktionary.org/wiki/instemmen
+  97. https://en.wiktionary.org/wiki/konsenti#Esperanto
+  98. https://eo.wiktionary.org/wiki/konsenti
+  99. https://en.wiktionary.org/wiki/hyväksyä#Finnish
+ 100. https://fi.wiktionary.org/wiki/hyväksyä
+ 101. https://en.wiktionary.org/wiki/suostua#Finnish
+ 102. https://fi.wiktionary.org/wiki/suostua
+ 103. https://en.wiktionary.org/wiki/myöntyä#Finnish
+ 104. https://fi.wiktionary.org/wiki/myöntyä
+ 105. https://en.wiktionary.org/wiki/consentir#French
+ 106. https://fr.wiktionary.org/wiki/consentir
+ 107. https://en.wiktionary.org/wiki/approuver#French
+ 108. https://fr.wiktionary.org/wiki/approuver
+ 109. https://en.wiktionary.org/wiki/agréer#French
+ 110. https://fr.wiktionary.org/wiki/agréer
+ 111. https://en.wiktionary.org/wiki/თანხმობა#Georgian
+ 112. https://en.wiktionary.org/wiki/zustimmen#German
+ 113. https://de.wiktionary.org/wiki/zustimmen
+ 114. https://en.wiktionary.org/wiki/einwilligen#German
+ 115. https://de.wiktionary.org/wiki/einwilligen
+ 116. https://en.wiktionary.org/w/index.php?title=συναινώ&action=edit&redlink=1
+ 117. https://el.wiktionary.org/wiki/συναινώ
+ 118. https://en.wiktionary.org/w/index.php?title=beleegyezik&action=edit&redlink=1
+ 119. https://hu.wiktionary.org/wiki/beleegyezik
+ 120. https://en.wiktionary.org/w/index.php?title=hozzájárulását_adja&action=edit&redlink=1
+ 121. https://en.wiktionary.org/wiki/samþykkja#Icelandic
+ 122. https://en.wiktionary.org/w/index.php?title=fallast_á&action=edit&redlink=1
+ 123. https://en.wiktionary.org/wiki/setuju#Indonesian
+ 124. https://id.wiktionary.org/wiki/setuju
+ 125. https://en.wiktionary.org/wiki/rela#Indonesian
+ 126. https://id.wiktionary.org/wiki/rela
+ 127. https://en.wiktionary.org/wiki/consentir#Interlingua
+ 128. https://en.wiktionary.org/wiki/toiligh#Irish
+ 129. https://en.wiktionary.org/wiki/consentire#Italian
+ 130. https://it.wiktionary.org/wiki/consentire
+ 131. https://en.wiktionary.org/wiki/承諾#Japanese
+ 132. https://ja.wiktionary.org/wiki/承諾
+ 133. https://en.wiktionary.org/wiki/同意#Japanese
+ 134. https://ja.wiktionary.org/wiki/同意
+ 135. https://en.wiktionary.org/w/index.php?title=whakaae&action=edit&redlink=1
+ 136. https://en.wiktionary.org/w/index.php?title=tatū&action=edit&redlink=1
+ 137. https://en.wiktionary.org/wiki/consentir#Occitan
+ 138. https://en.wiktionary.org/wiki/assentir#Occitan
+ 139. https://oc.wiktionary.org/wiki/assentir
+ 140. https://en.wiktionary.org/w/index.php?title=zgadzać_się&action=edit&redlink=1
+ 141. https://pl.wiktionary.org/wiki/zgadzać_się
+ 142. https://en.wiktionary.org/w/index.php?title=przyzwalać&action=edit&redlink=1
+ 143. https://en.wiktionary.org/wiki/consentir#Portuguese
+ 144. https://pt.wiktionary.org/wiki/consentir
+ 145. https://en.wiktionary.org/wiki/aprovar#Portuguese
+ 146. https://pt.wiktionary.org/wiki/aprovar
+ 147. https://en.wiktionary.org/wiki/deixar#Portuguese
+ 148. https://pt.wiktionary.org/wiki/deixar
+ 149. https://en.wiktionary.org/wiki/awñiy#Quechua
+ 150. https://en.wiktionary.org/wiki/соглашаться#Russian
+ 151. https://ru.wiktionary.org/wiki/соглашаться
+ 152. https://en.wiktionary.org/wiki/согласиться#Russian
+ 153. https://ru.wiktionary.org/wiki/согласиться
+ 154. https://en.wiktionary.org/wiki/разрешать#Russian
+ 155. https://ru.wiktionary.org/wiki/разрешать
+ 156. https://en.wiktionary.org/wiki/разрешить#Russian
+ 157. https://ru.wiktionary.org/wiki/разрешить
+ 158. https://en.wiktionary.org/w/index.php?title=suglasnost&action=edit&redlink=1
+ 159. https://sh.wiktionary.org/wiki/suglasnost
+ 160. https://en.wiktionary.org/wiki/consentir#Spanish
+ 161. https://es.wiktionary.org/wiki/consentir
+ 162. https://en.wiktionary.org/w/index.php?title=samtycka&action=edit&redlink=1
+ 163. https://sv.wiktionary.org/wiki/samtycka
+ 164. https://en.wiktionary.org/wiki/ge#Swedish
+ 165. https://en.wiktionary.org/wiki/sitt#Swedish
+ 166. https://en.wiktionary.org/w/index.php?title=samtycke&action=edit&redlink=1
+ 167. https://en.wiktionary.org/wiki/באַשטיין#Yiddish
+ 168. https://en.wiktionary.org/wiki/hankkia#Finnish
+ 169. https://en.wiktionary.org/wiki/suostumus#Finnish
+ 170. https://en.wiktionary.org/wiki/Wiktionary:Entry_layout#Translations
+ 171. https://en.wiktionary.org/wiki/Wiktionary:Translations#Translations_to_be_checked
+ 172. https://en.wiktionary.org/w/index.php?title=להסכים&action=edit&redlink=1
+ 173. https://en.wiktionary.org/w/index.php?title=consent&action=edit&section=10
+ 174. https://en.wiktionary.org/wiki/consents#English
+ 175. https://en.wiktionary.org/wiki/agreement
+ 176. https://en.wiktionary.org/wiki/permission
+ 177. https://en.wikipedia.org/wiki/John_Florio
+ 178. https://en.wikipedia.org/wiki/Michel_de_Montaigne
+ 179. https://en.wikipedia.org/wiki/Essays_(Montaigne)
+ 180. https://en.wikipedia.org/wiki/Edward_Blount
+ 181. https://en.wikipedia.org/wiki/OCLC
+ 182. http://worldcat.org/oclc/946730821
+ 183. https://en.wiktionary.org/wiki/Appendix:Glossary#obsolete
+ 184. https://en.wikipedia.org/wiki/King_James_Version
+ 185. https://en.wiktionary.org/w/index.php?title=consent&action=edit&section=11
+ 186. https://en.wiktionary.org/wiki/agreement#English
+ 187. https://en.wiktionary.org/wiki/approval#English
+ 188. https://en.wiktionary.org/wiki/assent#English
+ 189. https://en.wiktionary.org/wiki/consensualness#English
+ 190. https://en.wiktionary.org/wiki/permission#English
+ 191. https://en.wiktionary.org/wiki/willingness#English
+ 192. https://en.wiktionary.org/wiki/yes#English
+ 193. https://en.wiktionary.org/w/index.php?title=consent&action=edit&section=12
+ 194. https://en.wiktionary.org/wiki/dissent#English
+ 195. https://en.wiktionary.org/wiki/disagreement#English
+ 196. https://en.wiktionary.org/wiki/opposition#English
+ 197. https://en.wiktionary.org/wiki/refusal#English
+ 198. https://en.wiktionary.org/w/index.php?title=consent&action=edit&section=13
+ 199. https://en.wiktionary.org/wiki/consenter#English
+ 200. https://en.wiktionary.org/wiki/consentaneous#English
+ 201. https://en.wiktionary.org/wiki/age_of_consent#English
+ 202. https://en.wiktionary.org/w/index.php?title=consent&action=edit&section=14
+ 203. https://en.wiktionary.org/wiki/съгласие#Bulgarian
+ 204. https://bg.wiktionary.org/wiki/съгласие
+ 205. https://en.wiktionary.org/wiki/разрешение#Bulgarian
+ 206. https://bg.wiktionary.org/wiki/разрешение
+ 207. https://en.wiktionary.org/wiki/consentiment#Catalan
+ 208. https://en.wiktionary.org/wiki/承諾#Mandarin
+ 209. https://zh.wiktionary.org/wiki/承諾
+ 210. https://en.wiktionary.org/wiki/承诺#Mandarin
+ 211. https://zh.wiktionary.org/wiki/承诺
+ 212. https://en.wiktionary.org/wiki/同意#Mandarin
+ 213. https://zh.wiktionary.org/wiki/同意
+ 214. https://en.wiktionary.org/wiki/souhlas#Czech
+ 215. https://cs.wiktionary.org/wiki/souhlas
+ 216. https://en.wiktionary.org/wiki/toestemming#Dutch
+ 217. https://nl.wiktionary.org/wiki/toestemming
+ 218. https://en.wiktionary.org/wiki/instemming#Dutch
+ 219. https://nl.wiktionary.org/wiki/instemming
+ 220. https://en.wiktionary.org/wiki/konsento#Esperanto
+ 221. https://en.wiktionary.org/wiki/suostumus#Finnish
+ 222. https://fi.wiktionary.org/wiki/suostumus
+ 223. https://en.wiktionary.org/wiki/consentement#French
+ 224. https://fr.wiktionary.org/wiki/consentement
+ 225. https://en.wiktionary.org/wiki/approbation#French
+ 226. https://fr.wiktionary.org/wiki/approbation
+ 227. https://en.wiktionary.org/wiki/agrément#French
+ 228. https://fr.wiktionary.org/wiki/agrément
+ 229. https://en.wiktionary.org/wiki/Zustimmung#German
+ 230. https://de.wiktionary.org/wiki/Zustimmung
+ 231. https://en.wiktionary.org/wiki/Konsens#German
+ 232. https://de.wiktionary.org/wiki/Konsens
+ 233. https://en.wiktionary.org/wiki/συναίνεση#Greek
+ 234. https://el.wiktionary.org/wiki/συναίνεση
+ 235. https://en.wiktionary.org/wiki/הסכמה#Hebrew
+ 236. https://en.wiktionary.org/wiki/beleegyezés#Hungarian
+ 237. https://hu.wiktionary.org/wiki/beleegyezés
+ 238. https://en.wiktionary.org/wiki/samþykki#Icelandic
+ 239. https://en.wiktionary.org/wiki/setuju#Indonesian
+ 240. https://id.wiktionary.org/wiki/setuju
+ 241. https://en.wiktionary.org/wiki/consentimento#Interlingua
+ 242. https://en.wiktionary.org/wiki/deoin#Irish
+ 243. https://en.wiktionary.org/wiki/consenso#Italian
+ 244. https://it.wiktionary.org/wiki/consenso
+ 245. https://en.wiktionary.org/wiki/承諾#Japanese
+ 246. https://ja.wiktionary.org/wiki/承諾
+ 247. https://en.wiktionary.org/wiki/しょうだく
+ 248. https://en.wiktionary.org/wiki/同意#Japanese
+ 249. https://ja.wiktionary.org/wiki/同意
+ 250. https://en.wiktionary.org/w/index.php?title=どうい&action=edit&redlink=1
+ 251. https://en.wiktionary.org/w/index.php?title=ការយល់ព្រម&action=edit&redlink=1
+ 252. https://en.wiktionary.org/wiki/consentiment#Occitan
+ 253. https://en.wiktionary.org/wiki/رضایت#Persian
+ 254. https://fa.wiktionary.org/wiki/رضایت
+ 255. https://en.wiktionary.org/wiki/zgoda#Polish
+ 256. https://pl.wiktionary.org/wiki/zgoda
+ 257. https://en.wiktionary.org/w/index.php?title=pozwolenie&action=edit&redlink=1
+ 258. https://pl.wiktionary.org/wiki/pozwolenie
+ 259. https://en.wiktionary.org/wiki/consentimento#Portuguese
+ 260. https://pt.wiktionary.org/wiki/consentimento
+ 261. https://en.wiktionary.org/wiki/разрешение#Russian
+ 262. https://ru.wiktionary.org/wiki/разрешение
+ 263. https://en.wiktionary.org/wiki/дозволение#Russian
+ 264. https://ru.wiktionary.org/wiki/дозволение
+ 265. https://en.wiktionary.org/wiki/согласие#Russian
+ 266. https://ru.wiktionary.org/wiki/согласие
+ 267. https://en.wiktionary.org/wiki/aonta#Scottish_Gaelic
+ 268. https://en.wiktionary.org/wiki/consentimiento#Spanish
+ 269. https://es.wiktionary.org/wiki/consentimiento
+ 270. https://en.wiktionary.org/w/index.php?title=samtycke&action=edit&redlink=1
+ 271. https://sv.wiktionary.org/wiki/samtycke
+ 272. https://en.wiktionary.org/w/index.php?title=சம்மதம்&action=edit&redlink=1
+ 273. https://ta.wiktionary.org/wiki/சம்மதம்
+ 274. https://en.wiktionary.org/w/index.php?title=consent&action=edit&section=15
+ 275. http://www.onelook.com/?w=consent&ls=a
+ 276. http://triggs.djvu.org/century-dictionary.com/nph-chw.php?query=consent&type=dicts
+ 277. https://en.wiktionary.org/w/index.php?title=consent&action=edit&section=16
+ 278. https://en.wiktionary.org/w/index.php?title=consent&action=edit&section=17
+ 279. https://en.wiktionary.org/wiki/Wiktionary:International_Phonetic_Alphabet
+ 280. https://en.wiktionary.org/wiki/Appendix:French_pronunciation
+ 281. https://en.wiktionary.org/w/index.php?title=consent&action=edit&section=18
+ 282. https://en.wiktionary.org/wiki/Appendix:Glossary#third_person
+ 283. https://en.wiktionary.org/wiki/Appendix:Glossary#singular_number
+ 284. https://en.wiktionary.org/wiki/Appendix:Glossary#present_tense
+ 285. https://en.wiktionary.org/wiki/Appendix:Glossary#indicative_mood
+ 286. https://en.wiktionary.org/wiki/consentir#French
+ 287. https://en.wiktionary.org/w/index.php?title=consent&oldid=43441698
+ 288. https://en.wiktionary.org/wiki/Special:Categories
+ 289. https://en.wiktionary.org/wiki/Category:English_terms_derived_from_Middle_English
+ 290. https://en.wiktionary.org/wiki/Category:English_terms_derived_from_Old_French
+ 291. https://en.wiktionary.org/wiki/Category:English_terms_derived_from_Latin
+ 292. https://en.wiktionary.org/wiki/Category:English_2-syllable_words
+ 293. https://en.wiktionary.org/wiki/Category:English_terms_with_IPA_pronunciation
+ 294. https://en.wiktionary.org/wiki/Category:English_terms_with_audio_links
+ 295. https://en.wiktionary.org/wiki/Category:English_lemmas
+ 296. https://en.wiktionary.org/wiki/Category:English_verbs
+ 297. https://en.wiktionary.org/wiki/Category:English_intransitive_verbs
+ 298. https://en.wiktionary.org/wiki/Category:en:Medicine
+ 299. https://en.wiktionary.org/wiki/Category:English_terms_with_obsolete_senses
+ 300. https://en.wiktionary.org/wiki/Category:English_nouns
+ 301. https://en.wiktionary.org/wiki/Category:English_countable_nouns
+ 302. https://en.wiktionary.org/wiki/Category:French_2-syllable_words
+ 303. https://en.wiktionary.org/wiki/Category:French_terms_with_IPA_pronunciation
+ 304. https://en.wiktionary.org/wiki/Category:French_non-lemma_forms
+ 305. https://en.wiktionary.org/wiki/Category:French_verb_forms
+ 306. https://en.wiktionary.org/wiki/Category:etyl_cleanup/en
+ 307. https://en.wiktionary.org/wiki/Category:Requests_for_date
+ 308. https://en.wiktionary.org/wiki/Category:Requests_for_review_of_Hebrew_translations
+ 309. https://en.wiktionary.org/wiki/Category:Terms_with_manual_transliterations_different_from_the_automated_ones
+ 310. https://en.wiktionary.org/wiki/Category:Terms_with_manual_transliterations_different_from_the_automated_ones/km
+ 311. https://en.wiktionary.org/wiki/Category:Requests_for_translations_into_Korean
+ 312. https://en.wiktionary.org/wiki/Special:MyTalk
+ 313. https://en.wiktionary.org/wiki/Special:MyContributions
+ 314. https://en.wiktionary.org/w/index.php?title=Special:CreateAccount&returnto=consent
+ 315. https://en.wiktionary.org/w/index.php?title=Special:UserLogin&returnto=consent
+ 316. https://en.wiktionary.org/wiki/consent
+ 317. https://en.wiktionary.org/wiki/Talk:consent
+ 318. https://en.wiktionary.org/wiki/consent
+ 319. https://en.wiktionary.org/w/index.php?title=consent&action=edit
+ 320. https://en.wiktionary.org/w/index.php?title=consent&action=history
+ 321. form field = text entry field
+ 322. form field = submit button
+ 323. form field = submit button
+ 324. https://en.wiktionary.org/wiki/Wiktionary:Main_Page
+ 325. https://en.wiktionary.org/wiki/Wiktionary:Community_portal
+ 326. https://en.wiktionary.org/wiki/Wiktionary:Per-browser_preferences
+ 327. https://en.wiktionary.org/wiki/Wiktionary:Requested_entries
+ 328. https://en.wiktionary.org/wiki/Special:RecentChanges
+ 329. https://en.wiktionary.org/wiki/Special:Random
+ 330. https://en.wiktionary.org/wiki/Help:Contents
+ 331. https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&utm_medium=sidebar&utm_campaign=C13_en.wiktionary.org&uselang=en
+ 332. https://en.wiktionary.org/wiki/Wiktionary:Contact_us
+ 333. https://en.wiktionary.org/wiki/Special:WhatLinksHere/consent
+ 334. https://en.wiktionary.org/wiki/Special:RecentChangesLinked/consent
+ 335. https://commons.wikimedia.org/wiki/Special:UploadWizard?uselang=en
+ 336. https://en.wiktionary.org/wiki/Special:SpecialPages
+ 337. https://en.wiktionary.org/w/index.php?title=consent&oldid=43441698
+ 338. https://en.wiktionary.org/w/index.php?title=consent&action=info
+ 339. https://en.wiktionary.org/w/index.php?title=Special:CiteThisPage&page=consent&id=43441698
+ 340. https://ang.wiktionary.org/wiki/consent
+ 341. https://ar.wiktionary.org/wiki/consent
+ 342. https://ca.wiktionary.org/wiki/consent
+ 343. https://cs.wiktionary.org/wiki/consent
+ 344. https://de.wiktionary.org/wiki/consent
+ 345. https://et.wiktionary.org/wiki/consent
+ 346. https://el.wiktionary.org/wiki/consent
+ 347. https://es.wiktionary.org/wiki/consent
+ 348. https://eo.wiktionary.org/wiki/consent
+ 349. https://fa.wiktionary.org/wiki/consent
+ 350. https://fr.wiktionary.org/wiki/consent
+ 351. https://ko.wiktionary.org/wiki/consent
+ 352. https://hy.wiktionary.org/wiki/consent
+ 353. https://io.wiktionary.org/wiki/consent
+ 354. https://id.wiktionary.org/wiki/consent
+ 355. https://it.wiktionary.org/wiki/consent
+ 356. https://kn.wiktionary.org/wiki/consent
+ 357. https://ku.wiktionary.org/wiki/consent
+ 358. https://li.wiktionary.org/wiki/consent
+ 359. https://hu.wiktionary.org/wiki/consent
+ 360. https://mg.wiktionary.org/wiki/consent
+ 361. https://ml.wiktionary.org/wiki/consent
+ 362. https://my.wiktionary.org/wiki/consent
+ 363. https://nl.wiktionary.org/wiki/consent
+ 364. https://ja.wiktionary.org/wiki/consent
+ 365. https://no.wiktionary.org/wiki/consent
+ 366. https://pl.wiktionary.org/wiki/consent
+ 367. https://pt.wiktionary.org/wiki/consent
+ 368. https://ru.wiktionary.org/wiki/consent
+ 369. https://sa.wiktionary.org/wiki/consent
+ 370. https://simple.wiktionary.org/wiki/consent
+ 371. https://fi.wiktionary.org/wiki/consent
+ 372. https://sv.wiktionary.org/wiki/consent
+ 373. https://ta.wiktionary.org/wiki/consent
+ 374. https://te.wiktionary.org/wiki/consent
+ 375. https://chr.wiktionary.org/wiki/consent
+ 376. https://vi.wiktionary.org/wiki/consent
+ 377. https://zh.wiktionary.org/wiki/consent
+ 378. https://en.wiktionary.org/w/index.php?title=Special:Book&bookcmd=book_creator&referer=consent
+ 379. https://en.wiktionary.org/w/index.php?title=Special:Book&bookcmd=render_article&arttitle=consent&returnto=consent&oldid=43441698&writer=rdf2latex
+ 380. https://en.wiktionary.org/w/index.php?title=consent&printable=yes
+ 381. https://creativecommons.org/licenses/by-sa/3.0/
+ 382. https://wikimediafoundation.org/wiki/Terms_of_Use
+ 383. https://wikimediafoundation.org/wiki/Privacy_policy
+ 384. https://wikimediafoundation.org/wiki/Privacy_policy
+ 385. https://en.wiktionary.org/wiki/Wiktionary:About
+ 386. https://en.wiktionary.org/wiki/Wiktionary:General_disclaimer
+ 387. https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute
+ 388. https://wikimediafoundation.org/wiki/Cookie_statement
+ 389. https://en.m.wiktionary.org/w/index.php?title=consent&mobileaction=toggle_view_mobile
+ 390. https://wikimediafoundation.org/
+ 391. https://www.mediawiki.org/
+
+   Hidden links:
+ 393. https://en.wiktionary.org/wiki/consent
+ 394. https://en.wiktionary.org/wiki/consent
+ 395. https://en.wiktionary.org/wiki/Wiktionary:Main_Page

@@ -1,0 +1,809 @@
+   #[1]Edit [2]Wiktionary (en) [3]copyright [4]Wiktionary Atom feed
+
+component
+
+   Definition from Wiktionary, the free dictionary
+   Jump to: [5]navigation, [6]search
+   See also: [7]componënt
+
+Contents
+
+     * [8]1 English
+          + [9]1.1 Etymology
+          + [10]1.2 Pronunciation
+          + [11]1.3 Noun
+               o [12]1.3.1 Derived terms
+               o [13]1.3.2 Translations
+          + [14]1.4 Adjective
+     * [15]2 Catalan
+          + [16]2.1 Verb
+     * [17]3 Dutch
+          + [18]3.1 Pronunciation
+          + [19]3.2 Etymology
+          + [20]3.3 Noun
+               o [21]3.3.1 Synonyms
+     * [22]4 Latin
+          + [23]4.1 Verb
+     * [24]5 Romanian
+          + [25]5.1 Alternative forms
+          + [26]5.2 Etymology
+          + [27]5.3 Pronunciation
+          + [28]5.4 Noun
+               o [29]5.4.1 Declension
+          + [30]5.5 Noun
+               o [31]5.5.1 Declension
+          + [32]5.6 Adjective
+               o [33]5.6.1 Declension
+
+English[[34]edit]
+
+   [35]Wikipedia has an article on:
+   [36]component
+   [37]Wikipedia
+
+Etymology[[38]edit]
+
+   From [39]Latin [40]compōnēns, present participle of [41]compōnō
+   (“assemble, put together”).
+
+Pronunciation[[42]edit]
+
+     * ([43]US) [44]IPA^([45]key): /kʌmˈpoʊnənt/
+     *
+
+       Audio (US)
+
+       ([46]file)
+
+Noun[[47]edit]
+
+   component (plural [48]components)
+    1. A smaller, self-contained [49]part of a larger entity. Often refers
+       to a manufactured object that is part of a larger [50]device.
+
+                A CPU is a component of a computer.
+
+          + 2013 September-October, [51]Katie L. Burke, “[52]In the News”,
+            in [53]American Scientist:
+
+                      Oxygen levels on Earth skyrocketed 2.4 billion years
+                      ago, when cyanobacteria evolved photosynthesis: […]
+                      . The evolutionary precursor of photosynthesis is
+                      still under debate, and a new study sheds light. The
+                      critical component of the photosynthetic system is
+                      the “water-oxidizing complex”, made up of manganese
+                      atoms and a calcium atom.
+
+Derived terms[[54]edit]
+
+     * [55]componentless
+
+Translations[[56]edit]
+
+   smaller, self-contained part of larger entity
+     * Arabic: [57]جُزْء [58](ar) m (juzʾ), [59]عَامِل m (ʿāmil),
+       [60]عُنْصُر m (ʿunṣur)
+     * Armenian: [61]տարր [62](hy) (tarr), [63]բաղադրամաս [64](hy)
+       (baładramas)
+     * Belarusian: [65]кампане́нт m (kampanjént)
+     * Bulgarian: [66]съставна част f (sǎstavna čast),
+       [67]компоне́нт [68](bg) m (komponént)
+     * Chinese:
+
+                Mandarin: [69]元件 [70](zh) (yuánjiàn), [71]部件 [72](zh)
+                (bùjiàn)
+
+     * Czech: [73]součástka [74](cs) f
+     * Danish: [75]bestanddel c, [76]komponent c
+     * Dutch: [77]onderdeel [78](nl) n, [79]component [80](nl) m, f
+     * Esperanto: [81]ero [82](eo), [83]komponanto [84](eo)
+     * Finnish: [85]komponentti [86](fi), [87]rakenneosa [88](fi),
+       [89]osatekijä
+     * French: [90]composant [91](fr) m
+     * Georgian: [92]კომპონენტი (ḳomṗonenṭi)
+     * German: [93]Komponente [94](de) f
+     * Hebrew: [95]מרכיב [96](he) m (markiv), [97]רכיב [98](he) m (rekhiv)
+     * Hindi: please add this translation if you can
+     * Hungarian: [99]rész [100](hu), [101]komponens [102](hu)
+     * Italian: [103]componente [104](it) m
+     * Japanese: [105]部分 [106](ja) (ぶぶん, bubun)
+     * Korean: [107]부분 [108](ko) (bubun) ([109]部分 [110](ko))
+     * Latin: [111]pars [112](la) f
+
+     * Malay: [113]komponen
+     * Malayalam: please add this translation if you can
+     * Manx: [114]co-olt m
+     * Norwegian:
+
+                Bokmål: [115]komponent m, [116]bestanddel [117](no) m
+                Nynorsk: [118]komponent m
+
+     * Oriya: please add this translation if you can
+     * Portuguese: [119]componente [120](pt) m
+     * Romanian: [121]componentă [122](ro) f, [123]component [124](ro) m,
+       n
+     * Russian: [125]компоне́нт [126](ru) m (komponént), [127]составна́я
+       часть [128](ru) f (sostavnája častʹ)
+     * Spanish: [129]componente [130](es) m
+     * Swedish: [131]komponent [132](sv) c
+     * Tamil: please add this translation if you can
+     * Telugu: [133]భాగం [134](te) (bhāgaṃ)
+     * Thai: please add this translation if you can
+     * Turkish: [135]parça [136](tr)
+     * Ukrainian: [137]компоне́нт [138](uk) m (komponént)
+     * Urdu: please add this translation if you can
+     * Vietnamese: [139]bộ phận [140](vi) ([141]部份)
+     * Welsh: [142]darn [143](cy) m
+     * Yiddish: [144]קאָמפּאָנענט m (komponent)
+
+Adjective[[145]edit]
+
+   component (not [146]comparable)
+    1. Making up a larger whole; as a [147]component word.
+    2. Made up of smaller complete units in combination; as a
+       [148]component stereo.
+     __________________________________________________________________
+
+Catalan[[149]edit]
+
+Verb[[150]edit]
+
+   component
+    1. present participle of [151]compondre
+     __________________________________________________________________
+
+Dutch[[152]edit]
+
+Pronunciation[[153]edit]
+
+     *
+
+       Audio
+
+       ([154]file)
+     * Hyphenation: com‧po‧nent
+     * Rhymes: [155]-ɛnt
+
+Etymology[[156]edit]
+
+   From [157]Latin [158]compōnēns, present participle of [159]compōnō
+   (“assemble, put together”).
+
+Noun[[160]edit]
+
+   component f, m (plural [161]componenten, [162]diminutive
+   [163]componentje n)
+    1. [164]component
+
+Synonyms[[165]edit]
+
+     * [166]onderdeel
+     __________________________________________________________________
+
+Latin[[167]edit]
+
+Verb[[168]edit]
+
+   component
+    1. [169]third-person [170]plural [171]future [172]active
+       [173]indicative of [174]componō
+     __________________________________________________________________
+
+Romanian[[175]edit]
+
+Alternative forms[[176]edit]
+
+     * (component): [177]componentă
+
+Etymology[[178]edit]
+
+   [179]Borrowing from [180]Italian [181]componente, [182]German
+   [183]Komponente, from [184]Latin [185]compōnēns.
+
+Pronunciation[[186]edit]
+
+     * [187]IPA^([188]key): /kom.poˈnent/
+
+Noun[[189]edit]
+
+   component n (plural [190]componente)
+    1. [191]component
+
+Declension[[192]edit]
+
+                           declension of component
+
+   singular plural
+   indefinite articulation definite articulation indefinite articulation
+   definite articulation
+   nominative/accusative (un) component [193]componentul (niște)
+   [194]componente [195]componentele
+   genitive/dative (unui) component [196]componentului (unor)
+   [197]componente [198]componentelor
+   vocative [199]componentule [200]componentelor
+
+Noun[[201]edit]
+
+   component m (plural [202]componenți, feminine equivalent
+   [203]componentă)
+    1. [204]member of a [205]team or other [206]group
+
+Declension[[207]edit]
+
+                           declension of component
+
+   singular plural
+   indefinite articulation definite articulation indefinite articulation
+   definite articulation
+   nominative/accusative (un) component [208]componentul (niște)
+   [209]componenți [210]componenții
+   genitive/dative (unui) component [211]componentului (unor)
+   [212]componenți [213]componenților
+   vocative [214]componentule [215]componenților
+
+Adjective[[216]edit]
+
+   component m, n (feminine singular [217]componentă, masculine plural
+   [218]componenți, feminine and neuter plural [219]componente)
+    1. [220]component
+
+Declension[[221]edit]
+
+                           declension of component
+
+   singular plural
+   masculine neuter feminine masculine neuter feminine
+   nominative/
+   accusative indefinite component [222]componentă [223]componenți
+   [224]componente
+   definite [225]componentul [226]componenta [227]componenții
+   [228]componentele
+   genitive/
+   dative indefinite component [229]componente [230]componenți
+   [231]componente
+   definite [232]componentului [233]componentei [234]componenților
+   [235]componentelor
+   Retrieved from
+   "[236]https://en.wiktionary.org/w/index.php?title=component&oldid=42391
+   815"
+   [237]Categories:
+     * [238]English terms derived from Latin
+     * [239]English 3-syllable words
+     * [240]English terms with IPA pronunciation
+     * [241]English terms with audio links
+     * [242]English lemmas
+     * [243]English nouns
+     * [244]English countable nouns
+     * [245]English adjectives
+     * [246]English uncomparable adjectives
+     * [247]Catalan non-lemma forms
+     * [248]Catalan verb forms
+     * [249]Catalan present participles
+     * [250]Dutch terms with audio links
+     * [251]Dutch terms derived from Latin
+     * [252]Dutch lemmas
+     * [253]Dutch nouns
+     * [254]Dutch nouns with plural in -en
+     * [255]Latin non-lemma forms
+     * [256]Latin verb forms
+     * [257]Romanian terms borrowed from Italian
+     * [258]Romanian terms derived from Italian
+     * [259]Romanian terms borrowed from German
+     * [260]Romanian terms derived from German
+     * [261]Romanian terms derived from Latin
+     * [262]Romanian terms with IPA pronunciation
+     * [263]Romanian lemmas
+     * [264]Romanian nouns
+     * [265]Romanian countable nouns
+     * [266]Romanian adjectives
+
+   Hidden categories:
+     * [267]etyl cleanup/en
+     * [268]Finnish redlinks
+     * [269]Finnish redlinks/t+
+     * [270]Requests for translations into Hindi
+     * [271]Requests for translations into Malayalam
+     * [272]Requests for translations into Oriya
+     * [273]Russian redlinks
+     * [274]Russian redlinks/t+
+     * [275]Requests for translations into Tamil
+     * [276]Requests for translations into Thai
+     * [277]Requests for translations into Urdu
+     * [278]Terms with redundant transliterations
+     * [279]Terms with redundant transliterations/yi
+     * [280]Dutch nouns with f+m gender
+     * [281]bor without notext
+     * [282]bor with notext
+     * [283]Romanian nouns with missing plurals
+
+Navigation menu
+
+Personal tools
+
+     * Not logged in
+     * [284]Talk
+     * [285]Contributions
+     * [286]Create account
+     * [287]Log in
+
+Namespaces
+
+     * [288]Entry
+     * [289]Discussion
+
+Variants
+
+Views
+
+     * [290]Read
+     * [291]Edit
+     * [292]History
+
+More
+
+Search
+
+   [293]____________________ [294]Search [295]Go
+
+Navigation
+
+     * [296]Main Page
+     * [297]Community portal
+     * [298]Preferences
+     * [299]Requested entries
+     * [300]Recent changes
+     * [301]Random entry
+     * [302]Help
+     * [303]Donations
+     * [304]Contact us
+
+Tools
+
+     * [305]What links here
+     * [306]Related changes
+     * [307]Upload file
+     * [308]Special pages
+     * [309]Permanent link
+     * [310]Page information
+     * [311]Cite this page
+
+In other languages
+
+     * [312]العربية
+     * [313]Català
+     * [314]Čeština
+     * [315]Cymraeg
+     * [316]Eesti
+     * [317]Ελληνικά
+     * [318]Español
+     * [319]Esperanto
+     * [320]فارسی
+     * [321]Français
+     * [322]한국어
+     * [323]Հայերեն
+     * [324]Ido
+     * [325]Bahasa Indonesia
+     * [326]Italiano
+     * [327]ಕನ್ನಡ
+     * [328]Қазақша
+     * [329]Kurdî
+     * [330]Latina
+     * [331]Magyar
+     * [332]Malagasy
+     * [333]മലയാളം
+     * [334]မြန်မာဘာသာ
+     * [335]Nederlands
+     * [336]日本語
+     * [337]Norsk bokmål
+     * [338]ភាសាខ្មែរ
+     * [339]Polski
+     * [340]Português
+     * [341]Română
+     * [342]Русский
+     * [343]संस्कृतम्
+     * [344]Simple English
+     * [345]Suomi
+     * [346]Svenska
+     * [347]தமிழ்
+     * [348]తెలుగు
+     * [349]ᏣᎳᎩ
+     * [350]Türkçe
+     * [351]Tiếng Việt
+     * [352]中文
+
+Print/export
+
+     * [353]Create a book
+     * [354]Download as PDF
+     * [355]Printable version
+
+     * This page was last edited on 7 March 2017, at 08:16.
+     * Text is available under the [356]Creative Commons
+       Attribution-ShareAlike License; additional terms may apply. By
+       using this site, you agree to the [357]Terms of Use and
+       [358]Privacy Policy.
+
+     * [359]Privacy policy
+     * [360]About Wiktionary
+     * [361]Disclaimers
+     * [362]Developers
+     * [363]Cookie statement
+     * [364]Mobile view
+
+     * [365]Wikimedia Foundation
+     * [366]Powered by MediaWiki
+
+References
+
+   Visible links
+   1. https://en.wiktionary.org/w/index.php?title=component&action=edit
+   2. https://en.wiktionary.org/w/opensearch_desc.php
+   3. https://creativecommons.org/licenses/by-sa/3.0/
+   4. https://en.wiktionary.org/w/index.php?title=Special:RecentChanges&feed=atom
+   5. https://en.wiktionary.org/wiki/component#mw-head
+   6. https://en.wiktionary.org/wiki/component#p-search
+   7. https://en.wiktionary.org/wiki/componënt
+   8. https://en.wiktionary.org/wiki/component#English
+   9. https://en.wiktionary.org/wiki/component#Etymology
+  10. https://en.wiktionary.org/wiki/component#Pronunciation
+  11. https://en.wiktionary.org/wiki/component#Noun
+  12. https://en.wiktionary.org/wiki/component#Derived_terms
+  13. https://en.wiktionary.org/wiki/component#Translations
+  14. https://en.wiktionary.org/wiki/component#Adjective
+  15. https://en.wiktionary.org/wiki/component#Catalan
+  16. https://en.wiktionary.org/wiki/component#Verb
+  17. https://en.wiktionary.org/wiki/component#Dutch
+  18. https://en.wiktionary.org/wiki/component#Pronunciation_2
+  19. https://en.wiktionary.org/wiki/component#Etymology_2
+  20. https://en.wiktionary.org/wiki/component#Noun_2
+  21. https://en.wiktionary.org/wiki/component#Synonyms
+  22. https://en.wiktionary.org/wiki/component#Latin
+  23. https://en.wiktionary.org/wiki/component#Verb_2
+  24. https://en.wiktionary.org/wiki/component#Romanian
+  25. https://en.wiktionary.org/wiki/component#Alternative_forms
+  26. https://en.wiktionary.org/wiki/component#Etymology_3
+  27. https://en.wiktionary.org/wiki/component#Pronunciation_3
+  28. https://en.wiktionary.org/wiki/component#Noun_3
+  29. https://en.wiktionary.org/wiki/component#Declension
+  30. https://en.wiktionary.org/wiki/component#Noun_4
+  31. https://en.wiktionary.org/wiki/component#Declension_2
+  32. https://en.wiktionary.org/wiki/component#Adjective_2
+  33. https://en.wiktionary.org/wiki/component#Declension_3
+  34. https://en.wiktionary.org/w/index.php?title=component&action=edit&section=1
+  35. https://en.wiktionary.org/wiki/Wikipedia
+  36. https://en.wikipedia.org/wiki/component
+  37. https://en.wikipedia.org/wiki/component
+  38. https://en.wiktionary.org/w/index.php?title=component&action=edit&section=2
+  39. https://en.wikipedia.org/wiki/Latin_language
+  40. https://en.wiktionary.org/wiki/componens#Latin
+  41. https://en.wiktionary.org/wiki/compono#Latin
+  42. https://en.wiktionary.org/w/index.php?title=component&action=edit&section=3
+  43. https://en.wikipedia.org/wiki/American_English
+  44. https://en.wiktionary.org/wiki/Wiktionary:International_Phonetic_Alphabet
+  45. https://en.wiktionary.org/wiki/Appendix:English_pronunciation
+  46. https://en.wiktionary.org/wiki/File:en-us-component.ogg
+  47. https://en.wiktionary.org/w/index.php?title=component&action=edit&section=4
+  48. https://en.wiktionary.org/wiki/components#English
+  49. https://en.wiktionary.org/wiki/part
+  50. https://en.wiktionary.org/wiki/device
+  51. http://www.americanscientist.org/authors/detail/katie-l-burke
+  52. http://www.americanscientist.org/issues/pub/2013/5/in-the-news-47
+  53. https://en.wikipedia.org/wiki/American_Scientist
+  54. https://en.wiktionary.org/w/index.php?title=component&action=edit&section=5
+  55. https://en.wiktionary.org/w/index.php?title=componentless&action=edit&redlink=1
+  56. https://en.wiktionary.org/w/index.php?title=component&action=edit&section=6
+  57. https://en.wiktionary.org/wiki/جزء#Arabic
+  58. https://ar.wiktionary.org/wiki/جزء
+  59. https://en.wiktionary.org/wiki/عامل#Arabic
+  60. https://en.wiktionary.org/wiki/عنصر#Arabic
+  61. https://en.wiktionary.org/wiki/տարր#Armenian
+  62. https://hy.wiktionary.org/wiki/տարր
+  63. https://en.wiktionary.org/w/index.php?title=բաղադրամաս&action=edit&redlink=1
+  64. https://hy.wiktionary.org/wiki/բաղադրամաս
+  65. https://en.wiktionary.org/w/index.php?title=кампанент&action=edit&redlink=1
+  66. https://en.wiktionary.org/w/index.php?title=съставна_част&action=edit&redlink=1
+  67. https://en.wiktionary.org/wiki/компонент#Bulgarian
+  68. https://bg.wiktionary.org/wiki/компонент
+  69. https://en.wiktionary.org/wiki/元件#Mandarin
+  70. https://zh.wiktionary.org/wiki/元件
+  71. https://en.wiktionary.org/wiki/部件#Mandarin
+  72. https://zh.wiktionary.org/wiki/部件
+  73. https://en.wiktionary.org/wiki/součástka#Czech
+  74. https://cs.wiktionary.org/wiki/součástka
+  75. https://en.wiktionary.org/wiki/bestanddel#Danish
+  76. https://en.wiktionary.org/wiki/komponent#Danish
+  77. https://en.wiktionary.org/wiki/onderdeel#Dutch
+  78. https://nl.wiktionary.org/wiki/onderdeel
+  79. https://en.wiktionary.org/wiki/component#Dutch
+  80. https://nl.wiktionary.org/wiki/component
+  81. https://en.wiktionary.org/wiki/ero#Esperanto
+  82. https://eo.wiktionary.org/wiki/ero
+  83. https://en.wiktionary.org/wiki/komponanto#Esperanto
+  84. https://eo.wiktionary.org/wiki/komponanto
+  85. https://en.wiktionary.org/wiki/komponentti#Finnish
+  86. https://fi.wiktionary.org/wiki/komponentti
+  87. https://en.wiktionary.org/w/index.php?title=rakenneosa&action=edit&redlink=1
+  88. https://fi.wiktionary.org/wiki/rakenneosa
+  89. https://en.wiktionary.org/wiki/osatekijä#Finnish
+  90. https://en.wiktionary.org/wiki/composant#French
+  91. https://fr.wiktionary.org/wiki/composant
+  92. https://en.wiktionary.org/wiki/კომპონენტი#Georgian
+  93. https://en.wiktionary.org/wiki/Komponente#German
+  94. https://de.wiktionary.org/wiki/Komponente
+  95. https://en.wiktionary.org/w/index.php?title=מרכיב&action=edit&redlink=1
+  96. https://he.wiktionary.org/wiki/מרכיב
+  97. https://en.wiktionary.org/w/index.php?title=רכיב&action=edit&redlink=1
+  98. https://he.wiktionary.org/wiki/רכיב
+  99. https://en.wiktionary.org/wiki/rész#Hungarian
+ 100. https://hu.wiktionary.org/wiki/rész
+ 101. https://en.wiktionary.org/wiki/komponens#Hungarian
+ 102. https://hu.wiktionary.org/wiki/komponens
+ 103. https://en.wiktionary.org/wiki/componente#Italian
+ 104. https://it.wiktionary.org/wiki/componente
+ 105. https://en.wiktionary.org/wiki/部分#Japanese
+ 106. https://ja.wiktionary.org/wiki/部分
+ 107. https://en.wiktionary.org/wiki/부분#Korean
+ 108. https://ko.wiktionary.org/wiki/부분
+ 109. https://en.wiktionary.org/wiki/部分#Korean
+ 110. https://ko.wiktionary.org/wiki/部分
+ 111. https://en.wiktionary.org/wiki/pars#Latin
+ 112. https://la.wiktionary.org/wiki/pars
+ 113. https://en.wiktionary.org/w/index.php?title=komponen&action=edit&redlink=1
+ 114. https://en.wiktionary.org/wiki/co-olt#Manx
+ 115. https://en.wiktionary.org/wiki/komponent#Norwegian_Bokm.C3.A5l
+ 116. https://en.wiktionary.org/wiki/bestanddel#Norwegian_Bokm.C3.A5l
+ 117. https://no.wiktionary.org/wiki/bestanddel
+ 118. https://en.wiktionary.org/wiki/komponent#Norwegian_Nynorsk
+ 119. https://en.wiktionary.org/wiki/componente#Portuguese
+ 120. https://pt.wiktionary.org/wiki/componente
+ 121. https://en.wiktionary.org/wiki/componentă#Romanian
+ 122. https://ro.wiktionary.org/wiki/componentă
+ 123. https://en.wiktionary.org/wiki/component#Romanian
+ 124. https://ro.wiktionary.org/wiki/component
+ 125. https://en.wiktionary.org/wiki/компонент#Russian
+ 126. https://ru.wiktionary.org/wiki/компонент
+ 127. https://en.wiktionary.org/w/index.php?title=составная_часть&action=edit&redlink=1
+ 128. https://ru.wiktionary.org/wiki/составная_часть
+ 129. https://en.wiktionary.org/wiki/componente#Spanish
+ 130. https://es.wiktionary.org/wiki/componente
+ 131. https://en.wiktionary.org/wiki/komponent#Swedish
+ 132. https://sv.wiktionary.org/wiki/komponent
+ 133. https://en.wiktionary.org/wiki/భాగం#Telugu
+ 134. https://te.wiktionary.org/wiki/భాగం
+ 135. https://en.wiktionary.org/wiki/parça#Turkish
+ 136. https://tr.wiktionary.org/wiki/parça
+ 137. https://en.wiktionary.org/wiki/компонент#Ukrainian
+ 138. https://uk.wiktionary.org/wiki/компонент
+ 139. https://en.wiktionary.org/w/index.php?title=bộ_phận&action=edit&redlink=1
+ 140. https://vi.wiktionary.org/wiki/bộ_phận
+ 141. https://en.wiktionary.org/wiki/部份#Vietnamese
+ 142. https://en.wiktionary.org/wiki/darn#Welsh
+ 143. https://cy.wiktionary.org/wiki/darn
+ 144. https://en.wiktionary.org/w/index.php?title=קאָמפּאָנענט&action=edit&redlink=1
+ 145. https://en.wiktionary.org/w/index.php?title=component&action=edit&section=7
+ 146. https://en.wiktionary.org/wiki/Appendix:Glossary#comparable
+ 147. https://en.wiktionary.org/w/index.php?title=component_word&action=edit&redlink=1
+ 148. https://en.wiktionary.org/w/index.php?title=component_stereo&action=edit&redlink=1
+ 149. https://en.wiktionary.org/w/index.php?title=component&action=edit&section=8
+ 150. https://en.wiktionary.org/w/index.php?title=component&action=edit&section=9
+ 151. https://en.wiktionary.org/wiki/compondre#Catalan
+ 152. https://en.wiktionary.org/w/index.php?title=component&action=edit&section=10
+ 153. https://en.wiktionary.org/w/index.php?title=component&action=edit&section=11
+ 154. https://en.wiktionary.org/wiki/File:Nl-component.ogg
+ 155. https://en.wiktionary.org/wiki/Rhymes:Dutch/ɛnt
+ 156. https://en.wiktionary.org/w/index.php?title=component&action=edit&section=12
+ 157. https://en.wikipedia.org/wiki/Latin_language
+ 158. https://en.wiktionary.org/wiki/componens#Latin
+ 159. https://en.wiktionary.org/wiki/compono#Latin
+ 160. https://en.wiktionary.org/w/index.php?title=component&action=edit&section=13
+ 161. https://en.wiktionary.org/wiki/componenten#Dutch
+ 162. https://en.wiktionary.org/wiki/Appendix:Glossary#diminutive
+ 163. https://en.wiktionary.org/wiki/componentje#Dutch
+ 164. https://en.wiktionary.org/wiki/component#English
+ 165. https://en.wiktionary.org/w/index.php?title=component&action=edit&section=14
+ 166. https://en.wiktionary.org/wiki/onderdeel#Dutch
+ 167. https://en.wiktionary.org/w/index.php?title=component&action=edit&section=15
+ 168. https://en.wiktionary.org/w/index.php?title=component&action=edit&section=16
+ 169. https://en.wiktionary.org/wiki/Appendix:Glossary#third_person
+ 170. https://en.wiktionary.org/wiki/Appendix:Glossary#plural_number
+ 171. https://en.wiktionary.org/wiki/Appendix:Glossary#future_tense
+ 172. https://en.wiktionary.org/wiki/Appendix:Glossary#active_voice
+ 173. https://en.wiktionary.org/wiki/Appendix:Glossary#indicative_mood
+ 174. https://en.wiktionary.org/wiki/compono#Latin
+ 175. https://en.wiktionary.org/w/index.php?title=component&action=edit&section=17
+ 176. https://en.wiktionary.org/w/index.php?title=component&action=edit&section=18
+ 177. https://en.wiktionary.org/wiki/componentă#Romanian
+ 178. https://en.wiktionary.org/w/index.php?title=component&action=edit&section=19
+ 179. https://en.wiktionary.org/wiki/Appendix:Glossary#loanword
+ 180. https://en.wikipedia.org/wiki/Italian_language
+ 181. https://en.wiktionary.org/wiki/componente#Italian
+ 182. https://en.wikipedia.org/wiki/German_language
+ 183. https://en.wiktionary.org/wiki/Komponente#German
+ 184. https://en.wikipedia.org/wiki/Latin_language
+ 185. https://en.wiktionary.org/wiki/componens#Latin
+ 186. https://en.wiktionary.org/w/index.php?title=component&action=edit&section=20
+ 187. https://en.wiktionary.org/wiki/Wiktionary:International_Phonetic_Alphabet
+ 188. https://en.wikipedia.org/wiki/Romanian_phonology
+ 189. https://en.wiktionary.org/w/index.php?title=component&action=edit&section=21
+ 190. https://en.wiktionary.org/wiki/componente#Romanian
+ 191. https://en.wiktionary.org/wiki/component#English
+ 192. https://en.wiktionary.org/w/index.php?title=component&action=edit&section=22
+ 193. https://en.wiktionary.org/w/index.php?title=componentul&action=edit&redlink=1
+ 194. https://en.wiktionary.org/wiki/componente#Romanian
+ 195. https://en.wiktionary.org/w/index.php?title=componentele&action=edit&redlink=1
+ 196. https://en.wiktionary.org/w/index.php?title=componentului&action=edit&redlink=1
+ 197. https://en.wiktionary.org/wiki/componente#Romanian
+ 198. https://en.wiktionary.org/w/index.php?title=componentelor&action=edit&redlink=1
+ 199. https://en.wiktionary.org/w/index.php?title=componentule&action=edit&redlink=1
+ 200. https://en.wiktionary.org/w/index.php?title=componentelor&action=edit&redlink=1
+ 201. https://en.wiktionary.org/w/index.php?title=component&action=edit&section=23
+ 202. https://en.wiktionary.org/w/index.php?title=componenți&action=edit&redlink=1
+ 203. https://en.wiktionary.org/wiki/componentă#Romanian
+ 204. https://en.wiktionary.org/wiki/member
+ 205. https://en.wiktionary.org/wiki/team
+ 206. https://en.wiktionary.org/wiki/group
+ 207. https://en.wiktionary.org/w/index.php?title=component&action=edit&section=24
+ 208. https://en.wiktionary.org/w/index.php?title=componentul&action=edit&redlink=1
+ 209. https://en.wiktionary.org/w/index.php?title=componenți&action=edit&redlink=1
+ 210. https://en.wiktionary.org/w/index.php?title=componenții&action=edit&redlink=1
+ 211. https://en.wiktionary.org/w/index.php?title=componentului&action=edit&redlink=1
+ 212. https://en.wiktionary.org/w/index.php?title=componenți&action=edit&redlink=1
+ 213. https://en.wiktionary.org/w/index.php?title=componenților&action=edit&redlink=1
+ 214. https://en.wiktionary.org/w/index.php?title=componentule&action=edit&redlink=1
+ 215. https://en.wiktionary.org/w/index.php?title=componenților&action=edit&redlink=1
+ 216. https://en.wiktionary.org/w/index.php?title=component&action=edit&section=25
+ 217. https://en.wiktionary.org/wiki/componentă#Romanian
+ 218. https://en.wiktionary.org/w/index.php?title=componenți&action=edit&redlink=1
+ 219. https://en.wiktionary.org/wiki/componente#Romanian
+ 220. https://en.wiktionary.org/wiki/component#English
+ 221. https://en.wiktionary.org/w/index.php?title=component&action=edit&section=26
+ 222. https://en.wiktionary.org/wiki/componentă#Romanian
+ 223. https://en.wiktionary.org/w/index.php?title=componenți&action=edit&redlink=1
+ 224. https://en.wiktionary.org/wiki/componente#Romanian
+ 225. https://en.wiktionary.org/w/index.php?title=componentul&action=edit&redlink=1
+ 226. https://en.wiktionary.org/w/index.php?title=componenta&action=edit&redlink=1
+ 227. https://en.wiktionary.org/w/index.php?title=componenții&action=edit&redlink=1
+ 228. https://en.wiktionary.org/w/index.php?title=componentele&action=edit&redlink=1
+ 229. https://en.wiktionary.org/wiki/componente#Romanian
+ 230. https://en.wiktionary.org/w/index.php?title=componenți&action=edit&redlink=1
+ 231. https://en.wiktionary.org/wiki/componente#Romanian
+ 232. https://en.wiktionary.org/w/index.php?title=componentului&action=edit&redlink=1
+ 233. https://en.wiktionary.org/w/index.php?title=componentei&action=edit&redlink=1
+ 234. https://en.wiktionary.org/w/index.php?title=componenților&action=edit&redlink=1
+ 235. https://en.wiktionary.org/w/index.php?title=componentelor&action=edit&redlink=1
+ 236. https://en.wiktionary.org/w/index.php?title=component&oldid=42391815
+ 237. https://en.wiktionary.org/wiki/Special:Categories
+ 238. https://en.wiktionary.org/wiki/Category:English_terms_derived_from_Latin
+ 239. https://en.wiktionary.org/wiki/Category:English_3-syllable_words
+ 240. https://en.wiktionary.org/wiki/Category:English_terms_with_IPA_pronunciation
+ 241. https://en.wiktionary.org/wiki/Category:English_terms_with_audio_links
+ 242. https://en.wiktionary.org/wiki/Category:English_lemmas
+ 243. https://en.wiktionary.org/wiki/Category:English_nouns
+ 244. https://en.wiktionary.org/wiki/Category:English_countable_nouns
+ 245. https://en.wiktionary.org/wiki/Category:English_adjectives
+ 246. https://en.wiktionary.org/wiki/Category:English_uncomparable_adjectives
+ 247. https://en.wiktionary.org/wiki/Category:Catalan_non-lemma_forms
+ 248. https://en.wiktionary.org/wiki/Category:Catalan_verb_forms
+ 249. https://en.wiktionary.org/wiki/Category:Catalan_present_participles
+ 250. https://en.wiktionary.org/wiki/Category:Dutch_terms_with_audio_links
+ 251. https://en.wiktionary.org/wiki/Category:Dutch_terms_derived_from_Latin
+ 252. https://en.wiktionary.org/wiki/Category:Dutch_lemmas
+ 253. https://en.wiktionary.org/wiki/Category:Dutch_nouns
+ 254. https://en.wiktionary.org/wiki/Category:Dutch_nouns_with_plural_in_-en
+ 255. https://en.wiktionary.org/wiki/Category:Latin_non-lemma_forms
+ 256. https://en.wiktionary.org/wiki/Category:Latin_verb_forms
+ 257. https://en.wiktionary.org/wiki/Category:Romanian_terms_borrowed_from_Italian
+ 258. https://en.wiktionary.org/wiki/Category:Romanian_terms_derived_from_Italian
+ 259. https://en.wiktionary.org/wiki/Category:Romanian_terms_borrowed_from_German
+ 260. https://en.wiktionary.org/wiki/Category:Romanian_terms_derived_from_German
+ 261. https://en.wiktionary.org/wiki/Category:Romanian_terms_derived_from_Latin
+ 262. https://en.wiktionary.org/wiki/Category:Romanian_terms_with_IPA_pronunciation
+ 263. https://en.wiktionary.org/wiki/Category:Romanian_lemmas
+ 264. https://en.wiktionary.org/wiki/Category:Romanian_nouns
+ 265. https://en.wiktionary.org/wiki/Category:Romanian_countable_nouns
+ 266. https://en.wiktionary.org/wiki/Category:Romanian_adjectives
+ 267. https://en.wiktionary.org/wiki/Category:etyl_cleanup/en
+ 268. https://en.wiktionary.org/wiki/Category:Finnish_redlinks
+ 269. https://en.wiktionary.org/wiki/Category:Finnish_redlinks/t+
+ 270. https://en.wiktionary.org/wiki/Category:Requests_for_translations_into_Hindi
+ 271. https://en.wiktionary.org/wiki/Category:Requests_for_translations_into_Malayalam
+ 272. https://en.wiktionary.org/wiki/Category:Requests_for_translations_into_Oriya
+ 273. https://en.wiktionary.org/wiki/Category:Russian_redlinks
+ 274. https://en.wiktionary.org/wiki/Category:Russian_redlinks/t+
+ 275. https://en.wiktionary.org/wiki/Category:Requests_for_translations_into_Tamil
+ 276. https://en.wiktionary.org/wiki/Category:Requests_for_translations_into_Thai
+ 277. https://en.wiktionary.org/wiki/Category:Requests_for_translations_into_Urdu
+ 278. https://en.wiktionary.org/wiki/Category:Terms_with_redundant_transliterations
+ 279. https://en.wiktionary.org/wiki/Category:Terms_with_redundant_transliterations/yi
+ 280. https://en.wiktionary.org/wiki/Category:Dutch_nouns_with_f+m_gender
+ 281. https://en.wiktionary.org/wiki/Category:bor_without_notext
+ 282. https://en.wiktionary.org/wiki/Category:bor_with_notext
+ 283. https://en.wiktionary.org/wiki/Category:Romanian_nouns_with_missing_plurals
+ 284. https://en.wiktionary.org/wiki/Special:MyTalk
+ 285. https://en.wiktionary.org/wiki/Special:MyContributions
+ 286. https://en.wiktionary.org/w/index.php?title=Special:CreateAccount&returnto=component
+ 287. https://en.wiktionary.org/w/index.php?title=Special:UserLogin&returnto=component
+ 288. https://en.wiktionary.org/wiki/component
+ 289. https://en.wiktionary.org/w/index.php?title=Talk:component&action=edit&redlink=1
+ 290. https://en.wiktionary.org/wiki/component
+ 291. https://en.wiktionary.org/w/index.php?title=component&action=edit
+ 292. https://en.wiktionary.org/w/index.php?title=component&action=history
+ 293. form field = text entry field
+ 294. form field = submit button
+ 295. form field = submit button
+ 296. https://en.wiktionary.org/wiki/Wiktionary:Main_Page
+ 297. https://en.wiktionary.org/wiki/Wiktionary:Community_portal
+ 298. https://en.wiktionary.org/wiki/Wiktionary:Per-browser_preferences
+ 299. https://en.wiktionary.org/wiki/Wiktionary:Requested_entries
+ 300. https://en.wiktionary.org/wiki/Special:RecentChanges
+ 301. https://en.wiktionary.org/wiki/Special:Random
+ 302. https://en.wiktionary.org/wiki/Help:Contents
+ 303. https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&utm_medium=sidebar&utm_campaign=C13_en.wiktionary.org&uselang=en
+ 304. https://en.wiktionary.org/wiki/Wiktionary:Contact_us
+ 305. https://en.wiktionary.org/wiki/Special:WhatLinksHere/component
+ 306. https://en.wiktionary.org/wiki/Special:RecentChangesLinked/component
+ 307. https://commons.wikimedia.org/wiki/Special:UploadWizard?uselang=en
+ 308. https://en.wiktionary.org/wiki/Special:SpecialPages
+ 309. https://en.wiktionary.org/w/index.php?title=component&oldid=42391815
+ 310. https://en.wiktionary.org/w/index.php?title=component&action=info
+ 311. https://en.wiktionary.org/w/index.php?title=Special:CiteThisPage&page=component&id=42391815
+ 312. https://ar.wiktionary.org/wiki/component
+ 313. https://ca.wiktionary.org/wiki/component
+ 314. https://cs.wiktionary.org/wiki/component
+ 315. https://cy.wiktionary.org/wiki/component
+ 316. https://et.wiktionary.org/wiki/component
+ 317. https://el.wiktionary.org/wiki/component
+ 318. https://es.wiktionary.org/wiki/component
+ 319. https://eo.wiktionary.org/wiki/component
+ 320. https://fa.wiktionary.org/wiki/component
+ 321. https://fr.wiktionary.org/wiki/component
+ 322. https://ko.wiktionary.org/wiki/component
+ 323. https://hy.wiktionary.org/wiki/component
+ 324. https://io.wiktionary.org/wiki/component
+ 325. https://id.wiktionary.org/wiki/component
+ 326. https://it.wiktionary.org/wiki/component
+ 327. https://kn.wiktionary.org/wiki/component
+ 328. https://kk.wiktionary.org/wiki/component
+ 329. https://ku.wiktionary.org/wiki/component
+ 330. https://la.wiktionary.org/wiki/component
+ 331. https://hu.wiktionary.org/wiki/component
+ 332. https://mg.wiktionary.org/wiki/component
+ 333. https://ml.wiktionary.org/wiki/component
+ 334. https://my.wiktionary.org/wiki/component
+ 335. https://nl.wiktionary.org/wiki/component
+ 336. https://ja.wiktionary.org/wiki/component
+ 337. https://no.wiktionary.org/wiki/component
+ 338. https://km.wiktionary.org/wiki/component
+ 339. https://pl.wiktionary.org/wiki/component
+ 340. https://pt.wiktionary.org/wiki/component
+ 341. https://ro.wiktionary.org/wiki/component
+ 342. https://ru.wiktionary.org/wiki/component
+ 343. https://sa.wiktionary.org/wiki/component
+ 344. https://simple.wiktionary.org/wiki/component
+ 345. https://fi.wiktionary.org/wiki/component
+ 346. https://sv.wiktionary.org/wiki/component
+ 347. https://ta.wiktionary.org/wiki/component
+ 348. https://te.wiktionary.org/wiki/component
+ 349. https://chr.wiktionary.org/wiki/component
+ 350. https://tr.wiktionary.org/wiki/component
+ 351. https://vi.wiktionary.org/wiki/component
+ 352. https://zh.wiktionary.org/wiki/component
+ 353. https://en.wiktionary.org/w/index.php?title=Special:Book&bookcmd=book_creator&referer=component
+ 354. https://en.wiktionary.org/w/index.php?title=Special:Book&bookcmd=render_article&arttitle=component&returnto=component&oldid=42391815&writer=rdf2latex
+ 355. https://en.wiktionary.org/w/index.php?title=component&printable=yes
+ 356. https://creativecommons.org/licenses/by-sa/3.0/
+ 357. https://wikimediafoundation.org/wiki/Terms_of_Use
+ 358. https://wikimediafoundation.org/wiki/Privacy_policy
+ 359. https://wikimediafoundation.org/wiki/Privacy_policy
+ 360. https://en.wiktionary.org/wiki/Wiktionary:About
+ 361. https://en.wiktionary.org/wiki/Wiktionary:General_disclaimer
+ 362. https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute
+ 363. https://wikimediafoundation.org/wiki/Cookie_statement
+ 364. https://en.m.wiktionary.org/w/index.php?title=component&mobileaction=toggle_view_mobile
+ 365. https://wikimediafoundation.org/
+ 366. https://www.mediawiki.org/
+
+   Hidden links:
+ 368. https://en.wiktionary.org/wiki/component
+ 369. https://en.wiktionary.org/wiki/component
+ 370. https://en.wiktionary.org/wiki/Wiktionary:Main_Page

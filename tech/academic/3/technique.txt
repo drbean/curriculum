@@ -1,0 +1,589 @@
+   #[1]Edit [2]Wiktionary (en) [3]copyright [4]Wiktionary Atom feed
+
+technique
+
+   Definition from Wiktionary, the free dictionary
+   Jump to: [5]navigation, [6]search
+
+Contents
+
+     * [7]1 English
+          + [8]1.1 Etymology
+          + [9]1.2 Pronunciation
+          + [10]1.3 Noun
+               o [11]1.3.1 Related terms
+               o [12]1.3.2 Translations
+               o [13]1.3.3 External links
+     * [14]2 French
+          + [15]2.1 Etymology
+          + [16]2.2 Pronunciation
+          + [17]2.3 Adjective
+          + [18]2.4 Noun
+          + [19]2.5 External links
+
+English[[20]edit]
+
+Etymology[[21]edit]
+
+   [22]Borrowing from [23]French [24]technique (“technicality; branch of
+   knowledge”), noun use of [25]technique (“technical”), from [26]Ancient
+   Greek [27]τεχνικός (tekhnikós, “of or pertaining to art, artistic,
+   skilful”), from [28]τέχνη (tékhnē, “art, handicraft”), from [29]τίκτειν
+   (tíktein, “to bring forth, produce, engender”).
+
+Pronunciation[[30]edit]
+
+     * ([31]UK, [32]US) [33]IPA^([34]key): /tɛkˈniːk/
+
+Noun[[35]edit]
+
+   technique ([36]countable and [37]uncountable, plural [38]techniques)
+    1. ([39]uncountable) The [40]practical aspects of a given art,
+       occupation etc.; [41]formal requirements. [from 19th c.]
+          + 1924, HE Wortham, A Musical Odyssey, p. 97:
+
+                      Brahms, after realizing that the technique of the
+                      piano was developing along mistaken lines, and his
+                      own danger of stereotyping his style, keeps away
+                      from it for most of his middle age [...].
+
+          + 2013 July-August, [42]Catherine Clabby, “[43]Focus on
+            Everything”, in [44]American Scientist:
+
+                      Not long ago, it was difficult to produce
+                      photographs of tiny creatures with every part in
+                      focus. That’s because the lenses that are excellent
+                      at magnifying tiny subjects produce a narrow depth
+                      of field. A photo processing technique called focus
+                      stacking has changed that.
+
+    2. ([45]uncountable) Practical [46]ability in some given [47]field or
+       [48]practice, often as opposed to [49]creativity or imaginative
+       skill. [from 19th c.]
+          + 2011, "Bhimsen Joshi", The Economist, 3 Feb 2011:
+
+                      Yet those who packed concert halls to listen to him
+                      sing, as Indians did for over six decades, rarely
+                      mentioned his technique.
+
+    3. ([50]countable) a [51]method of [52]achieving something or carrying
+       something out, especially one requiring some [53]skill or
+       [54]knowledge. [from 19th c.]
+          + 2011, Paul Lewis & Matthew Taylor, The Guardian, 16 Mar 2011:
+
+                      They said executives were warned about one technique
+                      nicknamed "carpet karaoke", which involved bending
+                      deportees over in aircraft seats to silence them.
+
+Related terms[[55]edit]
+
+     * [56]technic
+     * [57]technical
+     * [58]technician
+     * [59]techniquing
+
+Translations[[60]edit]
+
+   practical aspects of a given art
+     * Arabic: [1] [61]تِقْنِيَّة [62](ar) f (tiqniyya)
+     * Chinese:
+
+                Mandarin: [63]技術 [64](zh), [65]技术 [66](zh) (jìshù),
+                [67]技巧 [68](zh) (jìqiǎo), [69]手法 [70](zh) (shǒufǎ)
+
+     * Czech: [71]technika [72](cs) f
+     * Danish: [73]teknik c
+     * Dutch: [74]techniek [75](nl) f
+     * Finnish: [76]tekniikka [77](fi)
+     * French: [78]technique [79](fr) f
+     * German: [80]Technik [81](de) f
+     * Greek: [82]τεχνική [83](el) f (technikí)
+     * Hebrew: [84]טֶכְנִיקָה [85](he) f (tékhnika)
+     * Hungarian: [86]technika [87](hu)
+     * Icelandic: [88]tækni
+     * Ido: [89]tekniko [90](io)
+     * Indonesian: [91]teknik [92](id)
+     * Irish: [93]teicníc f, [94]teicníocht f
+     * Italian: [95]tecnica [96](it) f
+
+     * Korean: [97]기술 [98](ko) (gisul)
+     * Malay: [99]teknik
+     * Marathi: [100]तंत्र n (tantra)
+     * Norwegian:
+
+                Bokmål: [101]teknikk m
+                Nynorsk: [102]teknikk m
+
+     * Persian: [103]تکنیک [104](fa) (teknik)
+     * Polish: [105]technika [106](pl) f
+     * Portuguese: [107]técnica [108](pt) f
+     * Romanian: [109]tehnică [110](ro)
+     * Russian: [111]те́хника [112](ru) f (téxnika)
+     * Spanish: [113]técnica [114](es) f
+     * Swedish: [115]teknik [116](sv) c
+     * Tagalog: [117]aghimo
+     * Turkish: [118]teknik [119](tr)
+     * Vietnamese: [120]kỹ thuật [121](vi)
+     * Yiddish: [122]טעכניק f (tekhnik)
+
+   method of achieving something
+     * Norwegian:
+
+                Bokmål: [123]teknikk m
+                Nynorsk: [124]teknikk m
+
+External links[[125]edit]
+
+     * [126]technique in [127]Webster’s Revised Unabridged Dictionary, G.
+       & C. Merriam, 1913
+     * [128]technique in The Century Dictionary, The Century Co., New
+       York, 1911
+     * [129]technique at OneLook Dictionary Search
+     __________________________________________________________________
+
+French[[130]edit]
+
+Etymology[[131]edit]
+
+   From [132]Ancient Greek [133]τεχνικός (tekhnikós, “of or pertaining to
+   art, artistic, skilful”), from [134]τέχνη (tékhnē, “art, handicraft”),
+   from [135]τίκτειν (tíktein, “to bring forth, produce”).
+
+Pronunciation[[136]edit]
+
+     * [137]IPA^([138]key): /tɛk.nik/
+     *
+
+       audio
+
+       ([139]file)
+
+Adjective[[140]edit]
+
+   technique m, f (plural [141]techniques)
+    1. [142]technical
+
+Noun[[143]edit]
+
+   technique f (plural [144]techniques)
+    1. [145]technique, [146]technology
+
+External links[[147]edit]
+
+     * “[148]technique” in [149]le Trésor de la langue française
+       informatisé (The Digitized Treasury of the French Language).
+
+   Retrieved from
+   "[150]https://en.wiktionary.org/w/index.php?title=technique&oldid=42665
+   593"
+   [151]Categories:
+     * [152]English terms borrowed from French
+     * [153]English terms derived from French
+     * [154]English terms derived from Ancient Greek
+     * [155]English 2-syllable words
+     * [156]English terms with IPA pronunciation
+     * [157]English lemmas
+     * [158]English nouns
+     * [159]English uncountable nouns
+     * [160]English countable nouns
+     * [161]French terms derived from Ancient Greek
+     * [162]French 2-syllable words
+     * [163]French terms with IPA pronunciation
+     * [164]French terms with audio links
+     * [165]French lemmas
+     * [166]French adjectives
+     * [167]French nouns
+     * [168]French feminine nouns
+     * [169]French countable nouns
+
+   Hidden categories:
+     * [170]bor without notext
+     * [171]etyl cleanup/en
+     * [172]Ancient Greek redlinks
+     * [173]Ancient Greek redlinks/m
+     * [174]Terms with redundant transliterations
+     * [175]Terms with redundant transliterations/ko
+     * [176]Terms with redundant transliterations/mr
+     * [177]Terms with redundant transliterations/yi
+     * [178]etyl cleanup
+
+Navigation menu
+
+Personal tools
+
+     * Not logged in
+     * [179]Talk
+     * [180]Contributions
+     * [181]Create account
+     * [182]Log in
+
+Namespaces
+
+     * [183]Entry
+     * [184]Discussion
+
+Variants
+
+Views
+
+     * [185]Read
+     * [186]Edit
+     * [187]History
+
+More
+
+Search
+
+   [188]____________________ [189]Search [190]Go
+
+Navigation
+
+     * [191]Main Page
+     * [192]Community portal
+     * [193]Preferences
+     * [194]Requested entries
+     * [195]Recent changes
+     * [196]Random entry
+     * [197]Help
+     * [198]Donations
+     * [199]Contact us
+
+Tools
+
+     * [200]What links here
+     * [201]Related changes
+     * [202]Upload file
+     * [203]Special pages
+     * [204]Permanent link
+     * [205]Page information
+     * [206]Cite this page
+
+In other languages
+
+     * [207]አማርኛ
+     * [208]العربية
+     * [209]Azərbaycanca
+     * [210]Bân-lâm-gú
+     * [211]Català
+     * [212]Čeština
+     * [213]Deutsch
+     * [214]Eesti
+     * [215]Ελληνικά
+     * [216]Esperanto
+     * [217]فارسی
+     * [218]Français
+     * [219]한국어
+     * [220]Հայերեն
+     * [221]Ido
+     * [222]Italiano
+     * [223]ಕನ್ನಡ
+     * [224]Kurdî
+     * [225]Lietuvių
+     * [226]Magyar
+     * [227]Malagasy
+     * [228]മലയാളം
+     * [229]Malti
+     * [230]မြန်မာဘာသာ
+     * [231]Nederlands
+     * [232]日本語
+     * [233]Norsk bokmål
+     * [234]Polski
+     * [235]Português
+     * [236]Русский
+     * [237]Sicilianu
+     * [238]Simple English
+     * [239]Suomi
+     * [240]தமிழ்
+     * [241]ไทย
+     * [242]Türkçe
+     * [243]Tiếng Việt
+     * [244]中文
+
+Print/export
+
+     * [245]Create a book
+     * [246]Download as PDF
+     * [247]Printable version
+
+     * This page was last edited on 19 April 2017, at 20:04.
+     * Text is available under the [248]Creative Commons
+       Attribution-ShareAlike License; additional terms may apply. By
+       using this site, you agree to the [249]Terms of Use and
+       [250]Privacy Policy.
+
+     * [251]Privacy policy
+     * [252]About Wiktionary
+     * [253]Disclaimers
+     * [254]Developers
+     * [255]Cookie statement
+     * [256]Mobile view
+
+     * [257]Wikimedia Foundation
+     * [258]Powered by MediaWiki
+
+References
+
+   Visible links
+   1. https://en.wiktionary.org/w/index.php?title=technique&action=edit
+   2. https://en.wiktionary.org/w/opensearch_desc.php
+   3. https://creativecommons.org/licenses/by-sa/3.0/
+   4. https://en.wiktionary.org/w/index.php?title=Special:RecentChanges&feed=atom
+   5. https://en.wiktionary.org/wiki/technique#mw-head
+   6. https://en.wiktionary.org/wiki/technique#p-search
+   7. https://en.wiktionary.org/wiki/technique#English
+   8. https://en.wiktionary.org/wiki/technique#Etymology
+   9. https://en.wiktionary.org/wiki/technique#Pronunciation
+  10. https://en.wiktionary.org/wiki/technique#Noun
+  11. https://en.wiktionary.org/wiki/technique#Related_terms
+  12. https://en.wiktionary.org/wiki/technique#Translations
+  13. https://en.wiktionary.org/wiki/technique#External_links
+  14. https://en.wiktionary.org/wiki/technique#French
+  15. https://en.wiktionary.org/wiki/technique#Etymology_2
+  16. https://en.wiktionary.org/wiki/technique#Pronunciation_2
+  17. https://en.wiktionary.org/wiki/technique#Adjective
+  18. https://en.wiktionary.org/wiki/technique#Noun_2
+  19. https://en.wiktionary.org/wiki/technique#External_links_2
+  20. https://en.wiktionary.org/w/index.php?title=technique&action=edit&section=1
+  21. https://en.wiktionary.org/w/index.php?title=technique&action=edit&section=2
+  22. https://en.wiktionary.org/wiki/Appendix:Glossary#loanword
+  23. https://en.wikipedia.org/wiki/French_language
+  24. https://en.wiktionary.org/wiki/technique#French
+  25. https://en.wiktionary.org/wiki/technique#French
+  26. https://en.wikipedia.org/wiki/Ancient_Greek_language
+  27. https://en.wiktionary.org/wiki/τεχνικός#Ancient_Greek
+  28. https://en.wiktionary.org/wiki/τέχνη#Ancient_Greek
+  29. https://en.wiktionary.org/w/index.php?title=τίκτειν&action=edit&redlink=1
+  30. https://en.wiktionary.org/w/index.php?title=technique&action=edit&section=3
+  31. https://en.wikipedia.org/wiki/British_English
+  32. https://en.wikipedia.org/wiki/American_English
+  33. https://en.wiktionary.org/wiki/Wiktionary:International_Phonetic_Alphabet
+  34. https://en.wiktionary.org/wiki/Appendix:English_pronunciation
+  35. https://en.wiktionary.org/w/index.php?title=technique&action=edit&section=4
+  36. https://en.wiktionary.org/wiki/Appendix:Glossary#countable
+  37. https://en.wiktionary.org/wiki/Appendix:Glossary#uncountable
+  38. https://en.wiktionary.org/wiki/techniques#English
+  39. https://en.wiktionary.org/wiki/Appendix:Glossary#uncountable
+  40. https://en.wiktionary.org/wiki/practical
+  41. https://en.wiktionary.org/wiki/formal
+  42. http://www.americanscientist.org/authors/detail/catherine-clabby
+  43. http://www.americanscientist.org/issues/pub/2013/4/focus-on-everything
+  44. https://en.wikipedia.org/wiki/American_Scientist
+  45. https://en.wiktionary.org/wiki/Appendix:Glossary#uncountable
+  46. https://en.wiktionary.org/wiki/ability
+  47. https://en.wiktionary.org/wiki/field
+  48. https://en.wiktionary.org/wiki/practice
+  49. https://en.wiktionary.org/wiki/creativity
+  50. https://en.wiktionary.org/wiki/Appendix:Glossary#countable
+  51. https://en.wiktionary.org/wiki/method
+  52. https://en.wiktionary.org/wiki/achieving
+  53. https://en.wiktionary.org/wiki/skill
+  54. https://en.wiktionary.org/wiki/knowledge
+  55. https://en.wiktionary.org/w/index.php?title=technique&action=edit&section=5
+  56. https://en.wiktionary.org/wiki/technic#English
+  57. https://en.wiktionary.org/wiki/technical#English
+  58. https://en.wiktionary.org/wiki/technician#English
+  59. https://en.wiktionary.org/w/index.php?title=techniquing&action=edit&redlink=1
+  60. https://en.wiktionary.org/w/index.php?title=technique&action=edit&section=6
+  61. https://en.wiktionary.org/wiki/تقنية#Arabic
+  62. https://ar.wiktionary.org/wiki/تقنية
+  63. https://en.wiktionary.org/wiki/技術#Mandarin
+  64. https://zh.wiktionary.org/wiki/技術
+  65. https://en.wiktionary.org/wiki/技术#Mandarin
+  66. https://zh.wiktionary.org/wiki/技术
+  67. https://en.wiktionary.org/wiki/技巧#Mandarin
+  68. https://zh.wiktionary.org/wiki/技巧
+  69. https://en.wiktionary.org/wiki/手法#Mandarin
+  70. https://zh.wiktionary.org/wiki/手法
+  71. https://en.wiktionary.org/wiki/technika#Czech
+  72. https://cs.wiktionary.org/wiki/technika
+  73. https://en.wiktionary.org/wiki/teknik#Danish
+  74. https://en.wiktionary.org/wiki/techniek#Dutch
+  75. https://nl.wiktionary.org/wiki/techniek
+  76. https://en.wiktionary.org/wiki/tekniikka#Finnish
+  77. https://fi.wiktionary.org/wiki/tekniikka
+  78. https://en.wiktionary.org/wiki/technique#French
+  79. https://fr.wiktionary.org/wiki/technique
+  80. https://en.wiktionary.org/wiki/Technik#German
+  81. https://de.wiktionary.org/wiki/Technik
+  82. https://en.wiktionary.org/wiki/τεχνική#Greek
+  83. https://el.wiktionary.org/wiki/τεχνική
+  84. https://en.wiktionary.org/w/index.php?title=טכניקה&action=edit&redlink=1
+  85. https://he.wiktionary.org/wiki/טכניקה
+  86. https://en.wiktionary.org/wiki/technika#Hungarian
+  87. https://hu.wiktionary.org/wiki/technika
+  88. https://en.wiktionary.org/wiki/tækni#Icelandic
+  89. https://en.wiktionary.org/wiki/tekniko#Ido
+  90. https://io.wiktionary.org/wiki/tekniko
+  91. https://en.wiktionary.org/wiki/teknik#Indonesian
+  92. https://id.wiktionary.org/wiki/teknik
+  93. https://en.wiktionary.org/wiki/teicníc#Irish
+  94. https://en.wiktionary.org/wiki/teicníocht#Irish
+  95. https://en.wiktionary.org/wiki/tecnica#Italian
+  96. https://it.wiktionary.org/wiki/tecnica
+  97. https://en.wiktionary.org/wiki/기술#Korean
+  98. https://ko.wiktionary.org/wiki/기술
+  99. https://en.wiktionary.org/wiki/teknik#Malay
+ 100. https://en.wiktionary.org/wiki/तंत्र#Marathi
+ 101. https://en.wiktionary.org/wiki/teknikk#Norwegian_Bokm.C3.A5l
+ 102. https://en.wiktionary.org/wiki/teknikk#Norwegian_Nynorsk
+ 103. https://en.wiktionary.org/w/index.php?title=تکنیک&action=edit&redlink=1
+ 104. https://fa.wiktionary.org/wiki/تکنیک
+ 105. https://en.wiktionary.org/wiki/technika#Polish
+ 106. https://pl.wiktionary.org/wiki/technika
+ 107. https://en.wiktionary.org/wiki/técnica#Portuguese
+ 108. https://pt.wiktionary.org/wiki/técnica
+ 109. https://en.wiktionary.org/wiki/tehnică#Romanian
+ 110. https://ro.wiktionary.org/wiki/tehnică
+ 111. https://en.wiktionary.org/wiki/техника#Russian
+ 112. https://ru.wiktionary.org/wiki/техника
+ 113. https://en.wiktionary.org/wiki/técnica#Spanish
+ 114. https://es.wiktionary.org/wiki/técnica
+ 115. https://en.wiktionary.org/wiki/teknik#Swedish
+ 116. https://sv.wiktionary.org/wiki/teknik
+ 117. https://en.wiktionary.org/wiki/aghimo#Tagalog
+ 118. https://en.wiktionary.org/wiki/teknik#Turkish
+ 119. https://tr.wiktionary.org/wiki/teknik
+ 120. https://en.wiktionary.org/wiki/kỹ_thuật#Vietnamese
+ 121. https://vi.wiktionary.org/wiki/kỹ_thuật
+ 122. https://en.wiktionary.org/wiki/טעכניק#Yiddish
+ 123. https://en.wiktionary.org/wiki/teknikk#Norwegian_Bokm.C3.A5l
+ 124. https://en.wiktionary.org/wiki/teknikk#Norwegian_Nynorsk
+ 125. https://en.wiktionary.org/w/index.php?title=technique&action=edit&section=7
+ 126. http://www.websters1913.com/words/Technique
+ 127. https://en.wiktionary.org/wiki/Wiktionary:Webster's_Dictionary,_1913
+ 128. http://triggs.djvu.org/century-dictionary.com/nph-chw.php?query=technique&type=dicts
+ 129. http://www.onelook.com/?w=technique&ls=a
+ 130. https://en.wiktionary.org/w/index.php?title=technique&action=edit&section=8
+ 131. https://en.wiktionary.org/w/index.php?title=technique&action=edit&section=9
+ 132. https://en.wikipedia.org/wiki/Ancient_Greek_language
+ 133. https://en.wiktionary.org/wiki/τεχνικός#Ancient_Greek
+ 134. https://en.wiktionary.org/wiki/τέχνη#Ancient_Greek
+ 135. https://en.wiktionary.org/w/index.php?title=τίκτειν&action=edit&redlink=1
+ 136. https://en.wiktionary.org/w/index.php?title=technique&action=edit&section=10
+ 137. https://en.wiktionary.org/wiki/Wiktionary:International_Phonetic_Alphabet
+ 138. https://en.wiktionary.org/wiki/Appendix:French_pronunciation
+ 139. https://en.wiktionary.org/wiki/File:Fr-technique.ogg
+ 140. https://en.wiktionary.org/w/index.php?title=technique&action=edit&section=11
+ 141. https://en.wiktionary.org/wiki/techniques#French
+ 142. https://en.wiktionary.org/wiki/technical
+ 143. https://en.wiktionary.org/w/index.php?title=technique&action=edit&section=12
+ 144. https://en.wiktionary.org/wiki/techniques#French
+ 145. https://en.wiktionary.org/wiki/technique#English
+ 146. https://en.wiktionary.org/wiki/technology
+ 147. https://en.wiktionary.org/w/index.php?title=technique&action=edit&section=13
+ 148. http://www.cnrtl.fr/definition/technique
+ 149. https://en.wikipedia.org/wiki/fr:Trésor_de_la_langue_française_informatisé
+ 150. https://en.wiktionary.org/w/index.php?title=technique&oldid=42665593
+ 151. https://en.wiktionary.org/wiki/Special:Categories
+ 152. https://en.wiktionary.org/wiki/Category:English_terms_borrowed_from_French
+ 153. https://en.wiktionary.org/wiki/Category:English_terms_derived_from_French
+ 154. https://en.wiktionary.org/wiki/Category:English_terms_derived_from_Ancient_Greek
+ 155. https://en.wiktionary.org/wiki/Category:English_2-syllable_words
+ 156. https://en.wiktionary.org/wiki/Category:English_terms_with_IPA_pronunciation
+ 157. https://en.wiktionary.org/wiki/Category:English_lemmas
+ 158. https://en.wiktionary.org/wiki/Category:English_nouns
+ 159. https://en.wiktionary.org/wiki/Category:English_uncountable_nouns
+ 160. https://en.wiktionary.org/wiki/Category:English_countable_nouns
+ 161. https://en.wiktionary.org/wiki/Category:French_terms_derived_from_Ancient_Greek
+ 162. https://en.wiktionary.org/wiki/Category:French_2-syllable_words
+ 163. https://en.wiktionary.org/wiki/Category:French_terms_with_IPA_pronunciation
+ 164. https://en.wiktionary.org/wiki/Category:French_terms_with_audio_links
+ 165. https://en.wiktionary.org/wiki/Category:French_lemmas
+ 166. https://en.wiktionary.org/wiki/Category:French_adjectives
+ 167. https://en.wiktionary.org/wiki/Category:French_nouns
+ 168. https://en.wiktionary.org/wiki/Category:French_feminine_nouns
+ 169. https://en.wiktionary.org/wiki/Category:French_countable_nouns
+ 170. https://en.wiktionary.org/wiki/Category:bor_without_notext
+ 171. https://en.wiktionary.org/wiki/Category:etyl_cleanup/en
+ 172. https://en.wiktionary.org/wiki/Category:Ancient_Greek_redlinks
+ 173. https://en.wiktionary.org/wiki/Category:Ancient_Greek_redlinks/m
+ 174. https://en.wiktionary.org/wiki/Category:Terms_with_redundant_transliterations
+ 175. https://en.wiktionary.org/wiki/Category:Terms_with_redundant_transliterations/ko
+ 176. https://en.wiktionary.org/wiki/Category:Terms_with_redundant_transliterations/mr
+ 177. https://en.wiktionary.org/wiki/Category:Terms_with_redundant_transliterations/yi
+ 178. https://en.wiktionary.org/wiki/Category:etyl_cleanup
+ 179. https://en.wiktionary.org/wiki/Special:MyTalk
+ 180. https://en.wiktionary.org/wiki/Special:MyContributions
+ 181. https://en.wiktionary.org/w/index.php?title=Special:CreateAccount&returnto=technique
+ 182. https://en.wiktionary.org/w/index.php?title=Special:UserLogin&returnto=technique
+ 183. https://en.wiktionary.org/wiki/technique
+ 184. https://en.wiktionary.org/w/index.php?title=Talk:technique&action=edit&redlink=1
+ 185. https://en.wiktionary.org/wiki/technique
+ 186. https://en.wiktionary.org/w/index.php?title=technique&action=edit
+ 187. https://en.wiktionary.org/w/index.php?title=technique&action=history
+ 188. form field = text entry field
+ 189. form field = submit button
+ 190. form field = submit button
+ 191. https://en.wiktionary.org/wiki/Wiktionary:Main_Page
+ 192. https://en.wiktionary.org/wiki/Wiktionary:Community_portal
+ 193. https://en.wiktionary.org/wiki/Wiktionary:Per-browser_preferences
+ 194. https://en.wiktionary.org/wiki/Wiktionary:Requested_entries
+ 195. https://en.wiktionary.org/wiki/Special:RecentChanges
+ 196. https://en.wiktionary.org/wiki/Special:Random
+ 197. https://en.wiktionary.org/wiki/Help:Contents
+ 198. https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&utm_medium=sidebar&utm_campaign=C13_en.wiktionary.org&uselang=en
+ 199. https://en.wiktionary.org/wiki/Wiktionary:Contact_us
+ 200. https://en.wiktionary.org/wiki/Special:WhatLinksHere/technique
+ 201. https://en.wiktionary.org/wiki/Special:RecentChangesLinked/technique
+ 202. https://commons.wikimedia.org/wiki/Special:UploadWizard?uselang=en
+ 203. https://en.wiktionary.org/wiki/Special:SpecialPages
+ 204. https://en.wiktionary.org/w/index.php?title=technique&oldid=42665593
+ 205. https://en.wiktionary.org/w/index.php?title=technique&action=info
+ 206. https://en.wiktionary.org/w/index.php?title=Special:CiteThisPage&page=technique&id=42665593
+ 207. https://am.wiktionary.org/wiki/technique
+ 208. https://ar.wiktionary.org/wiki/technique
+ 209. https://az.wiktionary.org/wiki/technique
+ 210. https://zh-min-nan.wiktionary.org/wiki/technique
+ 211. https://ca.wiktionary.org/wiki/technique
+ 212. https://cs.wiktionary.org/wiki/technique
+ 213. https://de.wiktionary.org/wiki/technique
+ 214. https://et.wiktionary.org/wiki/technique
+ 215. https://el.wiktionary.org/wiki/technique
+ 216. https://eo.wiktionary.org/wiki/technique
+ 217. https://fa.wiktionary.org/wiki/technique
+ 218. https://fr.wiktionary.org/wiki/technique
+ 219. https://ko.wiktionary.org/wiki/technique
+ 220. https://hy.wiktionary.org/wiki/technique
+ 221. https://io.wiktionary.org/wiki/technique
+ 222. https://it.wiktionary.org/wiki/technique
+ 223. https://kn.wiktionary.org/wiki/technique
+ 224. https://ku.wiktionary.org/wiki/technique
+ 225. https://lt.wiktionary.org/wiki/technique
+ 226. https://hu.wiktionary.org/wiki/technique
+ 227. https://mg.wiktionary.org/wiki/technique
+ 228. https://ml.wiktionary.org/wiki/technique
+ 229. https://mt.wiktionary.org/wiki/technique
+ 230. https://my.wiktionary.org/wiki/technique
+ 231. https://nl.wiktionary.org/wiki/technique
+ 232. https://ja.wiktionary.org/wiki/technique
+ 233. https://no.wiktionary.org/wiki/technique
+ 234. https://pl.wiktionary.org/wiki/technique
+ 235. https://pt.wiktionary.org/wiki/technique
+ 236. https://ru.wiktionary.org/wiki/technique
+ 237. https://scn.wiktionary.org/wiki/technique
+ 238. https://simple.wiktionary.org/wiki/technique
+ 239. https://fi.wiktionary.org/wiki/technique
+ 240. https://ta.wiktionary.org/wiki/technique
+ 241. https://th.wiktionary.org/wiki/technique
+ 242. https://tr.wiktionary.org/wiki/technique
+ 243. https://vi.wiktionary.org/wiki/technique
+ 244. https://zh.wiktionary.org/wiki/technique
+ 245. https://en.wiktionary.org/w/index.php?title=Special:Book&bookcmd=book_creator&referer=technique
+ 246. https://en.wiktionary.org/w/index.php?title=Special:Book&bookcmd=render_article&arttitle=technique&returnto=technique&oldid=42665593&writer=rdf2latex
+ 247. https://en.wiktionary.org/w/index.php?title=technique&printable=yes
+ 248. https://creativecommons.org/licenses/by-sa/3.0/
+ 249. https://wikimediafoundation.org/wiki/Terms_of_Use
+ 250. https://wikimediafoundation.org/wiki/Privacy_policy
+ 251. https://wikimediafoundation.org/wiki/Privacy_policy
+ 252. https://en.wiktionary.org/wiki/Wiktionary:About
+ 253. https://en.wiktionary.org/wiki/Wiktionary:General_disclaimer
+ 254. https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute
+ 255. https://wikimediafoundation.org/wiki/Cookie_statement
+ 256. https://en.m.wiktionary.org/w/index.php?title=technique&mobileaction=toggle_view_mobile
+ 257. https://wikimediafoundation.org/
+ 258. https://www.mediawiki.org/
+
+   Hidden links:
+ 260. https://en.wiktionary.org/wiki/technique
+ 261. https://en.wiktionary.org/wiki/technique
+ 262. https://en.wiktionary.org/wiki/Wiktionary:Main_Page

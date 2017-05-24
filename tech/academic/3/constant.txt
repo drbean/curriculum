@@ -1,0 +1,1070 @@
+   #[1]Edit [2]Wiktionary (en) [3]copyright [4]Wiktionary Atom feed
+
+constant
+
+   Definition from Wiktionary, the free dictionary
+   Jump to: [5]navigation, [6]search
+   See also: [7]Constant
+
+Contents
+
+     * [8]1 English
+          + [9]1.1 Pronunciation
+          + [10]1.2 Etymology
+          + [11]1.3 Adjective
+               o [12]1.3.1 Translations
+          + [13]1.4 Noun
+               o [14]1.4.1 Translations
+          + [15]1.5 Related terms
+          + [16]1.6 See also
+     * [17]2 Catalan
+          + [18]2.1 Pronunciation
+          + [19]2.2 Adjective
+               o [20]2.2.1 Derived terms
+          + [21]2.3 Noun
+     * [22]3 French
+          + [23]3.1 Pronunciation
+          + [24]3.2 Adjective
+               o [25]3.2.1 Related terms
+          + [26]3.3 Further reading
+     * [27]4 Latin
+          + [28]4.1 Verb
+
+English[[29]edit]
+
+   [30]polynomial degrees
+   Previous: n/a
+   Next:     [31]linear
+
+Pronunciation[[32]edit]
+
+     * ([33]Received Pronunciation) [34]IPA^([35]key): /ˈkɒnstənt/
+     * ([36]US) [37]IPA^([38]key): /ˈkɑnstənt/
+     *
+
+       Audio (US)
+
+       ([39]file)
+
+Etymology[[40]edit]
+
+   From [41]Middle English [42]constant, from [43]Old French [44]constant,
+   from [45]Latin [46]constantem, accusative of [47]constans, from
+   [48]constare (“to stand firm”).
+
+Adjective[[49]edit]
+
+   constant ([50]comparative [51]more constant, [52]superlative [53]most
+   constant)
+    1. [54]Unchanged through [55]time or [56]space; [57]permanent.
+    2. [58]Consistently recurring over time; [59]persistent.
+          + 2013 November 16, Schumpeter, “[60]The mindfulness business”,
+            in [61]The Economist, volume 409, number 8862:
+
+                      The constant pinging of electronic devices is
+                      driving many people to the end of their tether.
+                      Electronic devices not only overload the senses and
+                      invade leisure time. They feed on themselves: the
+                      more people tweet the more they are rewarded with
+                      followers and retweets.
+
+    3. [62]Steady in purpose, action, feeling, etc.
+          + Sir [63]Philip Sidney (1554-1586)
+
+                      Both loving one fair maid, they yet remained
+                      constant friends.
+
+          + [64]William Shakespeare (1564-1616)
+
+                      I am constant to my purposes.
+
+          + [65]John Dryden (1631-1700)
+
+                      His gifts, his constant courtship, nothing gained.
+
+    4. Firm; [66]solid; not [67]fluid.
+          + [68]Robert Boyle (1627-1691)
+
+                      If […] you mix them, you may turn these two fluid
+                      liquors into a constant body.
+
+    5. ([69]obsolete) Consistent; logical.
+          + Shakespeare, Twelfth Night IV.ii
+
+                      I am no more mad than you are: make the trial of it
+                      with any constant question.
+
+Translations[[70]edit]
+
+   unchanged through time
+     * Arabic: [71]ثَابِت (ṯābit)
+     * Bulgarian: [72]постоянен [73](bg) (postojanen),
+       [74]неизменен [75](bg) (neizmenen)
+     * Catalan: [76]constant [77](ca)
+     * Dutch: [78]constant [79](nl)
+     * Estonian: [80]püsiv
+     * Finnish: [81]pysyvä [82](fi), [83]muuttumaton [84](fi),
+       [85]vakaa [86](fi), [87]vakio-
+     * French: [88]constant [89](fr)
+     * Galician: [90]constante m, f
+     * German: [91]beständig [92](de), [93]konstant [94](de)
+     * Greek: [95]σταθερός [96](el) m (statherós), [97]συνεχής [98](el)
+       (synechís)
+     * Hungarian: [99]állandó [100](hu), [101]változatlan [102](hu)
+     * Irish: [103]diongbháilte
+
+     * Italian: [104]costante [105](it)
+     * Maori: [106]pūmau, [107]tūmau
+     * Persian: [108]ثابت [109](fa) (sâbet)
+     * Portuguese: [110]constante [111](pt)
+     * Romanian: [112]constant [113](ro) m, n, [114]constantă [115](ro) f,
+       [116]neschimbat [117](ro) m, n
+     * Russian: [118]постоя́нный [119](ru) (postojánnyj)
+     * Scottish Gaelic: [120]seasmhach
+     * Spanish: [121]constante [122](es)
+     * Swedish: [123]konstant [124](sv)
+     * Tagalog: [125]lagian, [126]maligo
+     * Turkish: [127]kalıcı [128](tr), [129]sabit [130](tr)
+     * Vietnamese: [131]không thay đổi
+
+   consistently recurring over time
+     * Bulgarian: [132]постоянен [133](bg) (postojanen),
+       [134]непрекъснат [135](bg) (neprekǎsnat)
+     * Catalan: [136]constant [137](ca)
+     * Finnish: [138]jatkuva [139](fi), [140]tasainen [141](fi),
+       [142]vakio-
+     * French: [143]constant [144](fr)
+     * German: [145]regelmäßig [146](de), [147]ständig [148](de),
+       [149]stetig [150](de)
+     * Greek: [151]σταθερός [152](el) m (statherós),
+       [153]διαρκής [154](el) m, f (diarkís), [155]αδιάκοπος [156](el) m
+       (adiákopos)
+     * Hungarian: [157]folytonos [158](hu)
+     * Irish: [159]síoraí
+
+     * Italian: [160]costante [161](it)
+     * Maori: [162]rite tonu
+     * Portuguese: [163]constante [164](pt)
+     * Romanian: [165]constant [166](ro) m, n, [167]constantă [168](ro) f
+     * Scottish Gaelic: [169]cunbhalach
+     * Spanish: [170]constante [171](es)
+     * Swedish: [172]konstant [173](sv)
+     * Tagalog: [174]lagian, [175]maligo
+
+   steady
+     * Finnish: [176]vakaa [177](fi), [178]muuttumaton [179](fi)
+     * French: [180]constant [181](fr)
+     * German: [182]konstant [183](de), [184]fest [185](de)
+     * Greek: [186]σταθερός [187](el) m (statherós),
+       [188]συνεχής [189](el) m (synechís)
+     * Hungarian: [190]állhatatos [191](hu), [192]kitartó [193](hu)
+     * Irish: [194]diongbháilte
+
+     * Italian: [195]costante [196](it)
+     * Portuguese: [197]constante [198](pt)
+     * Romanian: [199]constant [200](ro) m, n, [201]stabil [202](ro) m
+     * Scottish Gaelic: [203]cunbhalach, [204]seasmhach
+     * Spanish: [205]constante [206](es)
+     * Swedish: [207]konstant [208](sv)
+
+          The translations below need to be checked and inserted above
+          into the appropriate translation tables, removing any numbers.
+          Numbers do not necessarily match those in definitions. See
+          instructions at [209]Wiktionary:Entry layout#Translations.
+
+   Translations to be checked
+     * Esperanto: ^(please [210]verify) [211]konstanta
+     * Hebrew: ^(please [212]verify) [213]קבוע m (qavua), ^(please
+       [214]verify) [215]קבועה f (qvu'a) (1,2); ^(please [216]verify)
+       [217]תמידי m (tmidy), ^(please [218]verify) [219]תמידית f (tmidyt)
+       (2)
+
+     * Spanish: ^(please [220]verify) [221]firme
+     * Ukrainian: ^(please [222]verify) [223]ста́лий m (stályj)
+
+Noun[[224]edit]
+
+   constant (plural [225]constants)
+    1. That which is [226]permanent or [227]invariable.
+    2. (algebra) A [228]quantity that remains at a fixed value throughout
+       a given discussion.
+    3. (sciences) Any property of an experiment, determined numerically,
+       that does not change under given circumstances.
+    4. ([229]computing) An [230]identifier that is [231]bound to an
+       [232]invariant value; a fixed value given a name to aid in
+       readability of [233]source code.
+
+Translations[[234]edit]
+
+   that which is permanent or invariable
+     * Bulgarian: [235]постоянна величина f (postojanna veličina)
+     * Catalan: [236]constant [237](ca) f
+     * Chinese:
+
+                Mandarin: [238]常數 [239](zh), [240]常数 [241](zh) (chángshù)
+
+     * Danish: [242]konstant c
+     * Finnish: [243]vakio [244](fi)
+     * German: [245]Konstante [246](de) f, [247]Fixwert m (banking)
+     * Greek: [248]σταθερά [249](el) f (statherá)
+     * Hindi: [250]स्थिरांक m (sthirāṅk)
+
+     * Hungarian: [251]állandó [252](hu), [253]konstans [254](hu)
+     * Italian: [255]costante [256](it) f
+     * Japanese: [257]定数 (ていすう, teisū)
+     * Korean: [258]변하지 않는 것 (byeonhaji anneun geot)
+     * Persian: [259]ثابت [260](fa) (sâbet), [261]ماندگار [262](fa)
+       (mândegâr)
+     * Portuguese: [263]constante [264](pt) f
+     * Russian: [265]постоя́нная [266](ru) f (postojánnaja),
+       [267]конста́нта [268](ru) f (konstánta)
+     * Spanish: [269]constante [270](es) f
+     * Swedish: [271]konstant [272](sv) c
+
+   algebra: quantity that remains fixed
+     * Bulgarian: [273]константа f (konstanta)
+     * Catalan: [274]constant [275](ca) f
+     * Chinese:
+
+                Mandarin: [276]常量 [277](zh) (chángliàng),
+                [278]常數 [279](zh), [280]常数 [281](zh) (chángshù)
+
+     * Danish: [282]konstant c
+     * Finnish: [283]vakio [284](fi)
+     * German: [285]Konstante [286](de) f
+     * Greek: [287]σταθερά [288](el) f (statherá)
+     * Hindi: [289]स्थिरांक m (sthirāṅk)
+     * Hungarian: [290]állandó [291](hu), [292]konstans [293](hu)
+     * Italian: [294]costante [295](it) f
+
+     * Japanese: [296]定数 (ていすう, teisū)
+     * Korean: [297]상수 (sangsu) (常數)
+     * Malay: [298]pemalar, [299]angkatap
+     * Persian: [300]ثابت [301](fa) (sâbet)
+     * Polish: [302]stała [303](pl) f
+     * Portuguese: [304]constante [305](pt) f
+     * Russian: [306]постоя́нная [307](ru) f (postojánnaja),
+       [308]конста́нта [309](ru) f (konstánta)
+     * Spanish: [310]constante [311](es) f
+     * Swedish: [312]konstant [313](sv) c
+     * Tagalog: [314]lagiin
+     * Vietnamese: [315]hằng số [316](vi), [317]hằng [318](vi)
+
+   science: property that does not change
+     * Danish: [319]konstant c
+     * Finnish: [320]vakio [321](fi)
+     * German: [322]Konstante [323](de) f
+     * Greek: [324]σταθερά [325](el) f (statherá)
+     * Hungarian: [326]állandó [327](hu), [328]konstans [329](hu)
+     * Italian: [330]costante [331](it) f
+     * Japanese: [332]定数 (teisū)
+     * Persian: [333]ثابت [334](fa) (sâbet)
+
+     * Polish: [335]stała [336](pl) f
+     * Portuguese: [337]constante [338](pt) f
+     * Russian: [339]постоя́нная [340](ru) f (postojánnaja)
+     * Swedish: [341]konstant [342](sv) c
+     * Tagalog: [343]lagiin
+     * Turkish: [344]sabit [345](tr)
+     * Vietnamese: [346]hằng số [347](vi)
+
+   identifier that is bound to an invariant value
+     * Czech: [348]konstanta f
+     * Finnish: [349]vakio [350](fi)
+     * French: [351]constante [352](fr) f
+     * German: [353]Konstante [354](de) f
+     * Greek: [355]σταθερά [356](el) f (statherá)
+     * Hungarian: [357]állandó [358](hu), [359]konstans [360](hu)
+     * Italian: [361]costante [362](it) f
+
+     * Persian: [363]ثابت [364](fa) (sâbet)
+     * Polish: [365]stała [366](pl)
+     * Portuguese: [367]constante [368](pt) f
+     * Serbo-Croatian: [369]konstanta [370](sh) f
+     * Swedish: [371]konstant [372](sv) c
+     * Tagalog: [373]lagiin
+
+          The translations below need to be checked and inserted above
+          into the appropriate translation tables, removing any numbers.
+          Numbers do not necessarily match those in definitions. See
+          instructions at [374]Wiktionary:Entry layout#Translations.
+
+   Translations to be checked
+     * French: ^(please [375]verify) [376]constante f
+
+     * Ukrainian: ^(please [377]verify) [378]сталина́ f (stalyná)
+
+Related terms[[379]edit]
+
+     * [380]constantly adv
+     * [381]constancy noun
+
+See also[[382]edit]
+
+     * (computing) [383]literal
+     __________________________________________________________________
+
+Catalan[[384]edit]
+
+Pronunciation[[385]edit]
+
+     * Rhymes: [386]-ant
+
+Adjective[[387]edit]
+
+   constant m, f (masculine and feminine plural [388]constants)
+    1. [389]constant
+
+Derived terms[[390]edit]
+
+     * [391]constantment
+
+Noun[[392]edit]
+
+   constant f (plural [393]constants)
+    1. [394]constant
+     __________________________________________________________________
+
+French[[395]edit]
+
+Pronunciation[[396]edit]
+
+     *
+
+       audio
+
+       ([397]file)
+     * [398]IPA^([399]key): /kɔ̃s.tɑ̃/
+     * Homophone: [400]constants
+
+Adjective[[401]edit]
+
+   constant m (feminine singular [402]constante, masculine plural
+   [403]constants, feminine plural [404]constantes)
+    1. [405]constant
+
+Related terms[[406]edit]
+
+     * [407]constamment
+
+Further reading[[408]edit]
+
+     * “[409]constant” in [410]le Trésor de la langue française
+       informatisé (The Digitized Treasury of the French Language).
+     __________________________________________________________________
+
+Latin[[411]edit]
+
+Verb[[412]edit]
+
+   cōnstant
+    1. [413]third-person [414]plural [415]present [416]active
+       [417]indicative of [418]cōnstō
+
+   Retrieved from
+   "[419]https://en.wiktionary.org/w/index.php?title=constant&oldid=428817
+   95"
+   [420]Categories:
+     * [421]English 2-syllable words
+     * [422]English terms with IPA pronunciation
+     * [423]English terms with audio links
+     * [424]English terms inherited from Middle English
+     * [425]English terms derived from Middle English
+     * [426]English terms derived from Old French
+     * [427]English terms derived from Latin
+     * [428]English lemmas
+     * [429]English adjectives
+     * [430]English terms with obsolete senses
+     * [431]English nouns
+     * [432]English countable nouns
+     * [433]en:Algebra
+     * [434]en:Sciences
+     * [435]en:Computing
+     * [436]Catalan lemmas
+     * [437]Catalan adjectives
+     * [438]Catalan epicene adjectives
+     * [439]Catalan nouns
+     * [440]Catalan feminine nouns with no feminine ending
+     * [441]French terms with audio links
+     * [442]French 2-syllable words
+     * [443]French terms with IPA pronunciation
+     * [444]French lemmas
+     * [445]French adjectives
+     * [446]Latin non-lemma forms
+     * [447]Latin verb forms
+
+   Hidden categories:
+     * [448]etyl cleanup/en
+     * [449]Finnish redlinks
+     * [450]Finnish redlinks/t+
+     * [451]Requests for review of Esperanto translations
+     * [452]Requests for review of Hebrew translations
+     * [453]Requests for review of Spanish translations
+     * [454]Requests for review of Ukrainian translations
+     * [455]Requests for review of French translations
+
+Navigation menu
+
+Personal tools
+
+     * Not logged in
+     * [456]Talk
+     * [457]Contributions
+     * [458]Create account
+     * [459]Log in
+
+Namespaces
+
+     * [460]Entry
+     * [461]Discussion
+
+Variants
+
+Views
+
+     * [462]Read
+     * [463]Edit
+     * [464]History
+
+More
+
+Search
+
+   [465]____________________ [466]Search [467]Go
+
+Navigation
+
+     * [468]Main Page
+     * [469]Community portal
+     * [470]Preferences
+     * [471]Requested entries
+     * [472]Recent changes
+     * [473]Random entry
+     * [474]Help
+     * [475]Donations
+     * [476]Contact us
+
+Tools
+
+     * [477]What links here
+     * [478]Related changes
+     * [479]Upload file
+     * [480]Special pages
+     * [481]Permanent link
+     * [482]Page information
+     * [483]Cite this page
+
+In other languages
+
+     * [484]العربية
+     * [485]Azərbaycanca
+     * [486]Català
+     * [487]Eesti
+     * [488]Ελληνικά
+     * [489]Español
+     * [490]Esperanto
+     * [491]فارسی
+     * [492]Français
+     * [493]한국어
+     * [494]Հայերեն
+     * [495]Ido
+     * [496]Bahasa Indonesia
+     * [497]Italiano
+     * [498]ಕನ್ನಡ
+     * [499]Қазақша
+     * [500]Kurdî
+     * [501]Latina
+     * [502]Limburgs
+     * [503]Magyar
+     * [504]Malagasy
+     * [505]മലയാളം
+     * [506]မြန်မာဘာသာ
+     * [507]Nederlands
+     * [508]日本語
+     * [509]ភាសាខ្មែរ
+     * [510]Polski
+     * [511]Português
+     * [512]Română
+     * [513]Русский
+     * [514]संस्कृतम्
+     * [515]Simple English
+     * [516]Suomi
+     * [517]Svenska
+     * [518]Tagalog
+     * [519]தமிழ்
+     * [520]తెలుగు
+     * [521]ไทย
+     * [522]ᏣᎳᎩ
+     * [523]Türkçe
+     * [524]Tiếng Việt
+     * [525]中文
+
+Print/export
+
+     * [526]Create a book
+     * [527]Download as PDF
+     * [528]Printable version
+
+     * This page was last edited on 12 May 2017, at 18:28.
+     * Text is available under the [529]Creative Commons
+       Attribution-ShareAlike License; additional terms may apply. By
+       using this site, you agree to the [530]Terms of Use and
+       [531]Privacy Policy.
+
+     * [532]Privacy policy
+     * [533]About Wiktionary
+     * [534]Disclaimers
+     * [535]Developers
+     * [536]Cookie statement
+     * [537]Mobile view
+
+     * [538]Wikimedia Foundation
+     * [539]Powered by MediaWiki
+
+References
+
+   Visible links
+   1. https://en.wiktionary.org/w/index.php?title=constant&action=edit
+   2. https://en.wiktionary.org/w/opensearch_desc.php
+   3. https://creativecommons.org/licenses/by-sa/3.0/
+   4. https://en.wiktionary.org/w/index.php?title=Special:RecentChanges&feed=atom
+   5. https://en.wiktionary.org/wiki/constant#mw-head
+   6. https://en.wiktionary.org/wiki/constant#p-search
+   7. https://en.wiktionary.org/wiki/Constant
+   8. https://en.wiktionary.org/wiki/constant#English
+   9. https://en.wiktionary.org/wiki/constant#Pronunciation
+  10. https://en.wiktionary.org/wiki/constant#Etymology
+  11. https://en.wiktionary.org/wiki/constant#Adjective
+  12. https://en.wiktionary.org/wiki/constant#Translations
+  13. https://en.wiktionary.org/wiki/constant#Noun
+  14. https://en.wiktionary.org/wiki/constant#Translations_2
+  15. https://en.wiktionary.org/wiki/constant#Related_terms
+  16. https://en.wiktionary.org/wiki/constant#See_also
+  17. https://en.wiktionary.org/wiki/constant#Catalan
+  18. https://en.wiktionary.org/wiki/constant#Pronunciation_2
+  19. https://en.wiktionary.org/wiki/constant#Adjective_2
+  20. https://en.wiktionary.org/wiki/constant#Derived_terms
+  21. https://en.wiktionary.org/wiki/constant#Noun_2
+  22. https://en.wiktionary.org/wiki/constant#French
+  23. https://en.wiktionary.org/wiki/constant#Pronunciation_3
+  24. https://en.wiktionary.org/wiki/constant#Adjective_3
+  25. https://en.wiktionary.org/wiki/constant#Related_terms_2
+  26. https://en.wiktionary.org/wiki/constant#Further_reading
+  27. https://en.wiktionary.org/wiki/constant#Latin
+  28. https://en.wiktionary.org/wiki/constant#Verb
+  29. https://en.wiktionary.org/w/index.php?title=constant&action=edit&section=1
+  30. https://en.wiktionary.org/wiki/Appendix:English_polynomial_degrees
+  31. https://en.wiktionary.org/wiki/linear#English
+  32. https://en.wiktionary.org/w/index.php?title=constant&action=edit&section=2
+  33. https://en.wikipedia.org/wiki/Received_Pronunciation
+  34. https://en.wiktionary.org/wiki/Wiktionary:International_Phonetic_Alphabet
+  35. https://en.wiktionary.org/wiki/Appendix:English_pronunciation
+  36. https://en.wikipedia.org/wiki/American_English
+  37. https://en.wiktionary.org/wiki/Wiktionary:International_Phonetic_Alphabet
+  38. https://en.wiktionary.org/wiki/Appendix:English_pronunciation
+  39. https://en.wiktionary.org/wiki/File:en-us-constant.ogg
+  40. https://en.wiktionary.org/w/index.php?title=constant&action=edit&section=3
+  41. https://en.wikipedia.org/wiki/Middle_English_language
+  42. https://en.wiktionary.org/wiki/constant#Middle_English
+  43. https://en.wikipedia.org/wiki/Old_French_language
+  44. https://en.wiktionary.org/wiki/constant#Old_French
+  45. https://en.wikipedia.org/wiki/Latin_language
+  46. https://en.wiktionary.org/wiki/constantem#Latin
+  47. https://en.wiktionary.org/wiki/constans#Latin
+  48. https://en.wiktionary.org/wiki/constare#Latin
+  49. https://en.wiktionary.org/w/index.php?title=constant&action=edit&section=4
+  50. https://en.wiktionary.org/wiki/Appendix:Glossary#comparable
+  51. https://en.wiktionary.org/wiki/more#English
+  52. https://en.wiktionary.org/wiki/Appendix:Glossary#comparable
+  53. https://en.wiktionary.org/wiki/most#English
+  54. https://en.wiktionary.org/wiki/unchanged
+  55. https://en.wiktionary.org/wiki/time
+  56. https://en.wiktionary.org/wiki/space
+  57. https://en.wiktionary.org/wiki/permanent
+  58. https://en.wiktionary.org/wiki/consistently
+  59. https://en.wiktionary.org/wiki/persistent
+  60. http://www.economist.com/news/business/21589841-western-capitalism-looking-inspiration-eastern-mysticism-mindfulness-business
+  61. https://en.wikipedia.org/wiki/The_Economist
+  62. https://en.wiktionary.org/wiki/steady
+  63. https://en.wikipedia.org/wiki/Philip_Sidney
+  64. https://en.wikipedia.org/wiki/William_Shakespeare
+  65. https://en.wikipedia.org/wiki/John_Dryden
+  66. https://en.wiktionary.org/wiki/solid
+  67. https://en.wiktionary.org/wiki/fluid
+  68. https://en.wikipedia.org/wiki/Robert_Boyle
+  69. https://en.wiktionary.org/wiki/Appendix:Glossary#obsolete
+  70. https://en.wiktionary.org/w/index.php?title=constant&action=edit&section=5
+  71. https://en.wiktionary.org/wiki/ثابت#Arabic
+  72. https://en.wiktionary.org/wiki/постоянен#Bulgarian
+  73. https://bg.wiktionary.org/wiki/постоянен
+  74. https://en.wiktionary.org/wiki/неизменен#Bulgarian
+  75. https://bg.wiktionary.org/wiki/неизменен
+  76. https://en.wiktionary.org/wiki/constant#Catalan
+  77. https://ca.wiktionary.org/wiki/constant
+  78. https://en.wiktionary.org/wiki/constant#Dutch
+  79. https://nl.wiktionary.org/wiki/constant
+  80. https://en.wiktionary.org/wiki/püsiv#Estonian
+  81. https://en.wiktionary.org/wiki/pysyvä#Finnish
+  82. https://fi.wiktionary.org/wiki/pysyvä
+  83. https://en.wiktionary.org/w/index.php?title=muuttumaton&action=edit&redlink=1
+  84. https://fi.wiktionary.org/wiki/muuttumaton
+  85. https://en.wiktionary.org/wiki/vakaa#Finnish
+  86. https://fi.wiktionary.org/wiki/vakaa
+  87. https://en.wiktionary.org/wiki/vakio
+  88. https://en.wiktionary.org/wiki/constant#French
+  89. https://fr.wiktionary.org/wiki/constant
+  90. https://en.wiktionary.org/wiki/constante#Galician
+  91. https://en.wiktionary.org/wiki/beständig#German
+  92. https://de.wiktionary.org/wiki/beständig
+  93. https://en.wiktionary.org/wiki/konstant#German
+  94. https://de.wiktionary.org/wiki/konstant
+  95. https://en.wiktionary.org/wiki/σταθερός#Greek
+  96. https://el.wiktionary.org/wiki/σταθερός
+  97. https://en.wiktionary.org/wiki/συνεχής#Greek
+  98. https://el.wiktionary.org/wiki/συνεχής
+  99. https://en.wiktionary.org/wiki/állandó#Hungarian
+ 100. https://hu.wiktionary.org/wiki/állandó
+ 101. https://en.wiktionary.org/wiki/változatlan#Hungarian
+ 102. https://hu.wiktionary.org/wiki/változatlan
+ 103. https://en.wiktionary.org/wiki/diongbháilte#Irish
+ 104. https://en.wiktionary.org/wiki/costante#Italian
+ 105. https://it.wiktionary.org/wiki/costante
+ 106. https://en.wiktionary.org/w/index.php?title=pūmau&action=edit&redlink=1
+ 107. https://en.wiktionary.org/w/index.php?title=tūmau&action=edit&redlink=1
+ 108. https://en.wiktionary.org/wiki/ثابت#Persian
+ 109. https://fa.wiktionary.org/wiki/ثابت
+ 110. https://en.wiktionary.org/wiki/constante#Portuguese
+ 111. https://pt.wiktionary.org/wiki/constante
+ 112. https://en.wiktionary.org/wiki/constant#Romanian
+ 113. https://ro.wiktionary.org/wiki/constant
+ 114. https://en.wiktionary.org/w/index.php?title=constantă&action=edit&redlink=1
+ 115. https://ro.wiktionary.org/wiki/constantă
+ 116. https://en.wiktionary.org/w/index.php?title=neschimbat&action=edit&redlink=1
+ 117. https://ro.wiktionary.org/wiki/neschimbat
+ 118. https://en.wiktionary.org/wiki/постоянный#Russian
+ 119. https://ru.wiktionary.org/wiki/постоянный
+ 120. https://en.wiktionary.org/wiki/seasmhach#Scottish_Gaelic
+ 121. https://en.wiktionary.org/wiki/constante#Spanish
+ 122. https://es.wiktionary.org/wiki/constante
+ 123. https://en.wiktionary.org/wiki/konstant#Swedish
+ 124. https://sv.wiktionary.org/wiki/konstant
+ 125. https://en.wiktionary.org/w/index.php?title=lagian&action=edit&redlink=1
+ 126. https://en.wiktionary.org/w/index.php?title=maligo&action=edit&redlink=1
+ 127. https://en.wiktionary.org/w/index.php?title=kalıcı&action=edit&redlink=1
+ 128. https://tr.wiktionary.org/wiki/kalıcı
+ 129. https://en.wiktionary.org/wiki/sabit#Turkish
+ 130. https://tr.wiktionary.org/wiki/sabit
+ 131. https://en.wiktionary.org/w/index.php?title=không_thay_đổi&action=edit&redlink=1
+ 132. https://en.wiktionary.org/wiki/постоянен#Bulgarian
+ 133. https://bg.wiktionary.org/wiki/постоянен
+ 134. https://en.wiktionary.org/w/index.php?title=непрекъснат&action=edit&redlink=1
+ 135. https://bg.wiktionary.org/wiki/непрекъснат
+ 136. https://en.wiktionary.org/wiki/constant#Catalan
+ 137. https://ca.wiktionary.org/wiki/constant
+ 138. https://en.wiktionary.org/wiki/jatkuva#Finnish
+ 139. https://fi.wiktionary.org/wiki/jatkuva
+ 140. https://en.wiktionary.org/wiki/tasainen#Finnish
+ 141. https://fi.wiktionary.org/wiki/tasainen
+ 142. https://en.wiktionary.org/wiki/vakio
+ 143. https://en.wiktionary.org/wiki/constant#French
+ 144. https://fr.wiktionary.org/wiki/constant
+ 145. https://en.wiktionary.org/wiki/regelmäßig#German
+ 146. https://de.wiktionary.org/wiki/regelmäßig
+ 147. https://en.wiktionary.org/wiki/ständig#German
+ 148. https://de.wiktionary.org/wiki/ständig
+ 149. https://en.wiktionary.org/wiki/stetig#German
+ 150. https://de.wiktionary.org/wiki/stetig
+ 151. https://en.wiktionary.org/wiki/σταθερός#Greek
+ 152. https://el.wiktionary.org/wiki/σταθερός
+ 153. https://en.wiktionary.org/wiki/διαρκής#Greek
+ 154. https://el.wiktionary.org/wiki/διαρκής
+ 155. https://en.wiktionary.org/wiki/αδιάκοπος#Greek
+ 156. https://el.wiktionary.org/wiki/αδιάκοπος
+ 157. https://en.wiktionary.org/wiki/folytonos#Hungarian
+ 158. https://hu.wiktionary.org/wiki/folytonos
+ 159. https://en.wiktionary.org/wiki/síoraí#Irish
+ 160. https://en.wiktionary.org/wiki/costante#Italian
+ 161. https://it.wiktionary.org/wiki/costante
+ 162. https://en.wiktionary.org/w/index.php?title=rite_tonu&action=edit&redlink=1
+ 163. https://en.wiktionary.org/wiki/constante#Portuguese
+ 164. https://pt.wiktionary.org/wiki/constante
+ 165. https://en.wiktionary.org/wiki/constant#Romanian
+ 166. https://ro.wiktionary.org/wiki/constant
+ 167. https://en.wiktionary.org/w/index.php?title=constantă&action=edit&redlink=1
+ 168. https://ro.wiktionary.org/wiki/constantă
+ 169. https://en.wiktionary.org/wiki/cunbhalach#Scottish_Gaelic
+ 170. https://en.wiktionary.org/wiki/constante#Spanish
+ 171. https://es.wiktionary.org/wiki/constante
+ 172. https://en.wiktionary.org/wiki/konstant#Swedish
+ 173. https://sv.wiktionary.org/wiki/konstant
+ 174. https://en.wiktionary.org/w/index.php?title=lagian&action=edit&redlink=1
+ 175. https://en.wiktionary.org/w/index.php?title=maligo&action=edit&redlink=1
+ 176. https://en.wiktionary.org/wiki/vakaa#Finnish
+ 177. https://fi.wiktionary.org/wiki/vakaa
+ 178. https://en.wiktionary.org/w/index.php?title=muuttumaton&action=edit&redlink=1
+ 179. https://fi.wiktionary.org/wiki/muuttumaton
+ 180. https://en.wiktionary.org/wiki/constant#French
+ 181. https://fr.wiktionary.org/wiki/constant
+ 182. https://en.wiktionary.org/wiki/konstant#German
+ 183. https://de.wiktionary.org/wiki/konstant
+ 184. https://en.wiktionary.org/wiki/fest#German
+ 185. https://de.wiktionary.org/wiki/fest
+ 186. https://en.wiktionary.org/wiki/σταθερός#Greek
+ 187. https://el.wiktionary.org/wiki/σταθερός
+ 188. https://en.wiktionary.org/wiki/συνεχής#Greek
+ 189. https://el.wiktionary.org/wiki/συνεχής
+ 190. https://en.wiktionary.org/w/index.php?title=állhatatos&action=edit&redlink=1
+ 191. https://hu.wiktionary.org/wiki/állhatatos
+ 192. https://en.wiktionary.org/wiki/kitartó#Hungarian
+ 193. https://hu.wiktionary.org/wiki/kitartó
+ 194. https://en.wiktionary.org/wiki/diongbháilte#Irish
+ 195. https://en.wiktionary.org/wiki/costante#Italian
+ 196. https://it.wiktionary.org/wiki/costante
+ 197. https://en.wiktionary.org/wiki/constante#Portuguese
+ 198. https://pt.wiktionary.org/wiki/constante
+ 199. https://en.wiktionary.org/wiki/constant#Romanian
+ 200. https://ro.wiktionary.org/wiki/constant
+ 201. https://en.wiktionary.org/wiki/stabil#Romanian
+ 202. https://ro.wiktionary.org/wiki/stabil
+ 203. https://en.wiktionary.org/wiki/cunbhalach#Scottish_Gaelic
+ 204. https://en.wiktionary.org/wiki/seasmhach#Scottish_Gaelic
+ 205. https://en.wiktionary.org/wiki/constante#Spanish
+ 206. https://es.wiktionary.org/wiki/constante
+ 207. https://en.wiktionary.org/wiki/konstant#Swedish
+ 208. https://sv.wiktionary.org/wiki/konstant
+ 209. https://en.wiktionary.org/wiki/Wiktionary:Entry_layout#Translations
+ 210. https://en.wiktionary.org/wiki/Wiktionary:Translations#Translations_to_be_checked
+ 211. https://en.wiktionary.org/wiki/konstanta#Esperanto
+ 212. https://en.wiktionary.org/wiki/Wiktionary:Translations#Translations_to_be_checked
+ 213. https://en.wiktionary.org/w/index.php?title=קבוע&action=edit&redlink=1
+ 214. https://en.wiktionary.org/wiki/Wiktionary:Translations#Translations_to_be_checked
+ 215. https://en.wiktionary.org/w/index.php?title=קבועה&action=edit&redlink=1
+ 216. https://en.wiktionary.org/wiki/Wiktionary:Translations#Translations_to_be_checked
+ 217. https://en.wiktionary.org/wiki/תמידי#Hebrew
+ 218. https://en.wiktionary.org/wiki/Wiktionary:Translations#Translations_to_be_checked
+ 219. https://en.wiktionary.org/w/index.php?title=תמידית&action=edit&redlink=1
+ 220. https://en.wiktionary.org/wiki/Wiktionary:Translations#Translations_to_be_checked
+ 221. https://en.wiktionary.org/wiki/firme#Spanish
+ 222. https://en.wiktionary.org/wiki/Wiktionary:Translations#Translations_to_be_checked
+ 223. https://en.wiktionary.org/w/index.php?title=сталий&action=edit&redlink=1
+ 224. https://en.wiktionary.org/w/index.php?title=constant&action=edit&section=6
+ 225. https://en.wiktionary.org/wiki/constants#English
+ 226. https://en.wiktionary.org/wiki/permanent
+ 227. https://en.wiktionary.org/wiki/invariable
+ 228. https://en.wiktionary.org/wiki/quantity
+ 229. https://en.wiktionary.org/wiki/computing
+ 230. https://en.wiktionary.org/wiki/identifier
+ 231. https://en.wiktionary.org/wiki/bound
+ 232. https://en.wiktionary.org/wiki/invariant
+ 233. https://en.wiktionary.org/wiki/source_code
+ 234. https://en.wiktionary.org/w/index.php?title=constant&action=edit&section=7
+ 235. https://en.wiktionary.org/w/index.php?title=постоянна_величина&action=edit&redlink=1
+ 236. https://en.wiktionary.org/wiki/constant#Catalan
+ 237. https://ca.wiktionary.org/wiki/constant
+ 238. https://en.wiktionary.org/wiki/常數#Mandarin
+ 239. https://zh.wiktionary.org/wiki/常數
+ 240. https://en.wiktionary.org/wiki/常数#Mandarin
+ 241. https://zh.wiktionary.org/wiki/常数
+ 242. https://en.wiktionary.org/wiki/konstant#Danish
+ 243. https://en.wiktionary.org/wiki/vakio#Finnish
+ 244. https://fi.wiktionary.org/wiki/vakio
+ 245. https://en.wiktionary.org/wiki/Konstante#German
+ 246. https://de.wiktionary.org/wiki/Konstante
+ 247. https://en.wiktionary.org/w/index.php?title=Fixwert&action=edit&redlink=1
+ 248. https://en.wiktionary.org/wiki/σταθερά#Greek
+ 249. https://el.wiktionary.org/wiki/σταθερά
+ 250. https://en.wiktionary.org/wiki/स्थिरांक#Hindi
+ 251. https://en.wiktionary.org/wiki/állandó#Hungarian
+ 252. https://hu.wiktionary.org/wiki/állandó
+ 253. https://en.wiktionary.org/wiki/konstans#Hungarian
+ 254. https://hu.wiktionary.org/wiki/konstans
+ 255. https://en.wiktionary.org/wiki/costante#Italian
+ 256. https://it.wiktionary.org/wiki/costante
+ 257. https://en.wiktionary.org/wiki/定数#Japanese
+ 258. https://en.wiktionary.org/w/index.php?title=변하지_않는_것&action=edit&redlink=1
+ 259. https://en.wiktionary.org/wiki/ثابت#Persian
+ 260. https://fa.wiktionary.org/wiki/ثابت
+ 261. https://en.wiktionary.org/wiki/ماندگار#Persian
+ 262. https://fa.wiktionary.org/wiki/ماندگار
+ 263. https://en.wiktionary.org/wiki/constante#Portuguese
+ 264. https://pt.wiktionary.org/wiki/constante
+ 265. https://en.wiktionary.org/wiki/постоянная#Russian
+ 266. https://ru.wiktionary.org/wiki/постоянная
+ 267. https://en.wiktionary.org/wiki/константа#Russian
+ 268. https://ru.wiktionary.org/wiki/константа
+ 269. https://en.wiktionary.org/wiki/constante#Spanish
+ 270. https://es.wiktionary.org/wiki/constante
+ 271. https://en.wiktionary.org/wiki/konstant#Swedish
+ 272. https://sv.wiktionary.org/wiki/konstant
+ 273. https://en.wiktionary.org/wiki/константа#Bulgarian
+ 274. https://en.wiktionary.org/wiki/constant#Catalan
+ 275. https://ca.wiktionary.org/wiki/constant
+ 276. https://en.wiktionary.org/wiki/常量#Mandarin
+ 277. https://zh.wiktionary.org/wiki/常量
+ 278. https://en.wiktionary.org/wiki/常數#Mandarin
+ 279. https://zh.wiktionary.org/wiki/常數
+ 280. https://en.wiktionary.org/wiki/常数#Mandarin
+ 281. https://zh.wiktionary.org/wiki/常数
+ 282. https://en.wiktionary.org/wiki/konstant#Danish
+ 283. https://en.wiktionary.org/wiki/vakio#Finnish
+ 284. https://fi.wiktionary.org/wiki/vakio
+ 285. https://en.wiktionary.org/wiki/Konstante#German
+ 286. https://de.wiktionary.org/wiki/Konstante
+ 287. https://en.wiktionary.org/wiki/σταθερά#Greek
+ 288. https://el.wiktionary.org/wiki/σταθερά
+ 289. https://en.wiktionary.org/wiki/स्थिरांक#Hindi
+ 290. https://en.wiktionary.org/wiki/állandó#Hungarian
+ 291. https://hu.wiktionary.org/wiki/állandó
+ 292. https://en.wiktionary.org/wiki/konstans#Hungarian
+ 293. https://hu.wiktionary.org/wiki/konstans
+ 294. https://en.wiktionary.org/wiki/costante#Italian
+ 295. https://it.wiktionary.org/wiki/costante
+ 296. https://en.wiktionary.org/wiki/定数#Japanese
+ 297. https://en.wiktionary.org/w/index.php?title=상수&action=edit&redlink=1
+ 298. https://en.wiktionary.org/w/index.php?title=pemalar&action=edit&redlink=1
+ 299. https://en.wiktionary.org/w/index.php?title=angkatap&action=edit&redlink=1
+ 300. https://en.wiktionary.org/wiki/ثابت#Persian
+ 301. https://fa.wiktionary.org/wiki/ثابت
+ 302. https://en.wiktionary.org/wiki/stała#Polish
+ 303. https://pl.wiktionary.org/wiki/stała
+ 304. https://en.wiktionary.org/wiki/constante#Portuguese
+ 305. https://pt.wiktionary.org/wiki/constante
+ 306. https://en.wiktionary.org/wiki/постоянная#Russian
+ 307. https://ru.wiktionary.org/wiki/постоянная
+ 308. https://en.wiktionary.org/wiki/константа#Russian
+ 309. https://ru.wiktionary.org/wiki/константа
+ 310. https://en.wiktionary.org/wiki/constante#Spanish
+ 311. https://es.wiktionary.org/wiki/constante
+ 312. https://en.wiktionary.org/wiki/konstant#Swedish
+ 313. https://sv.wiktionary.org/wiki/konstant
+ 314. https://en.wiktionary.org/w/index.php?title=lagiin&action=edit&redlink=1
+ 315. https://en.wiktionary.org/w/index.php?title=hằng_số&action=edit&redlink=1
+ 316. https://vi.wiktionary.org/wiki/hằng_số
+ 317. https://en.wiktionary.org/w/index.php?title=hằng&action=edit&redlink=1
+ 318. https://vi.wiktionary.org/wiki/hằng
+ 319. https://en.wiktionary.org/wiki/konstant#Danish
+ 320. https://en.wiktionary.org/wiki/vakio#Finnish
+ 321. https://fi.wiktionary.org/wiki/vakio
+ 322. https://en.wiktionary.org/wiki/Konstante#German
+ 323. https://de.wiktionary.org/wiki/Konstante
+ 324. https://en.wiktionary.org/wiki/σταθερά#Greek
+ 325. https://el.wiktionary.org/wiki/σταθερά
+ 326. https://en.wiktionary.org/wiki/állandó#Hungarian
+ 327. https://hu.wiktionary.org/wiki/állandó
+ 328. https://en.wiktionary.org/wiki/konstans#Hungarian
+ 329. https://hu.wiktionary.org/wiki/konstans
+ 330. https://en.wiktionary.org/wiki/costante#Italian
+ 331. https://it.wiktionary.org/wiki/costante
+ 332. https://en.wiktionary.org/wiki/定数#Japanese
+ 333. https://en.wiktionary.org/wiki/ثابت#Persian
+ 334. https://fa.wiktionary.org/wiki/ثابت
+ 335. https://en.wiktionary.org/wiki/stała#Polish
+ 336. https://pl.wiktionary.org/wiki/stała
+ 337. https://en.wiktionary.org/wiki/constante#Portuguese
+ 338. https://pt.wiktionary.org/wiki/constante
+ 339. https://en.wiktionary.org/wiki/постоянная#Russian
+ 340. https://ru.wiktionary.org/wiki/постоянная
+ 341. https://en.wiktionary.org/wiki/konstant#Swedish
+ 342. https://sv.wiktionary.org/wiki/konstant
+ 343. https://en.wiktionary.org/w/index.php?title=lagiin&action=edit&redlink=1
+ 344. https://en.wiktionary.org/wiki/sabit#Turkish
+ 345. https://tr.wiktionary.org/wiki/sabit
+ 346. https://en.wiktionary.org/w/index.php?title=hằng_số&action=edit&redlink=1
+ 347. https://vi.wiktionary.org/wiki/hằng_số
+ 348. https://en.wiktionary.org/wiki/konstanta#Czech
+ 349. https://en.wiktionary.org/wiki/vakio#Finnish
+ 350. https://fi.wiktionary.org/wiki/vakio
+ 351. https://en.wiktionary.org/wiki/constante#French
+ 352. https://fr.wiktionary.org/wiki/constante
+ 353. https://en.wiktionary.org/wiki/Konstante#German
+ 354. https://de.wiktionary.org/wiki/Konstante
+ 355. https://en.wiktionary.org/wiki/σταθερά#Greek
+ 356. https://el.wiktionary.org/wiki/σταθερά
+ 357. https://en.wiktionary.org/wiki/állandó#Hungarian
+ 358. https://hu.wiktionary.org/wiki/állandó
+ 359. https://en.wiktionary.org/wiki/konstans#Hungarian
+ 360. https://hu.wiktionary.org/wiki/konstans
+ 361. https://en.wiktionary.org/wiki/costante#Italian
+ 362. https://it.wiktionary.org/wiki/costante
+ 363. https://en.wiktionary.org/wiki/ثابت#Persian
+ 364. https://fa.wiktionary.org/wiki/ثابت
+ 365. https://en.wiktionary.org/wiki/stała#Polish
+ 366. https://pl.wiktionary.org/wiki/stała
+ 367. https://en.wiktionary.org/wiki/constante#Portuguese
+ 368. https://pt.wiktionary.org/wiki/constante
+ 369. https://en.wiktionary.org/wiki/konstanta#Serbo-Croatian
+ 370. https://sh.wiktionary.org/wiki/konstanta
+ 371. https://en.wiktionary.org/wiki/konstant#Swedish
+ 372. https://sv.wiktionary.org/wiki/konstant
+ 373. https://en.wiktionary.org/w/index.php?title=lagiin&action=edit&redlink=1
+ 374. https://en.wiktionary.org/wiki/Wiktionary:Entry_layout#Translations
+ 375. https://en.wiktionary.org/wiki/Wiktionary:Translations#Translations_to_be_checked
+ 376. https://en.wiktionary.org/wiki/constante#French
+ 377. https://en.wiktionary.org/wiki/Wiktionary:Translations#Translations_to_be_checked
+ 378. https://en.wiktionary.org/w/index.php?title=сталина&action=edit&redlink=1
+ 379. https://en.wiktionary.org/w/index.php?title=constant&action=edit&section=8
+ 380. https://en.wiktionary.org/wiki/constantly#English
+ 381. https://en.wiktionary.org/wiki/constancy#English
+ 382. https://en.wiktionary.org/w/index.php?title=constant&action=edit&section=9
+ 383. https://en.wiktionary.org/wiki/literal
+ 384. https://en.wiktionary.org/w/index.php?title=constant&action=edit&section=10
+ 385. https://en.wiktionary.org/w/index.php?title=constant&action=edit&section=11
+ 386. https://en.wiktionary.org/wiki/Rhymes:Catalan/ant
+ 387. https://en.wiktionary.org/w/index.php?title=constant&action=edit&section=12
+ 388. https://en.wiktionary.org/wiki/constants#Catalan
+ 389. https://en.wiktionary.org/wiki/constant#English
+ 390. https://en.wiktionary.org/w/index.php?title=constant&action=edit&section=13
+ 391. https://en.wiktionary.org/wiki/constantment#Catalan
+ 392. https://en.wiktionary.org/w/index.php?title=constant&action=edit&section=14
+ 393. https://en.wiktionary.org/wiki/constants#Catalan
+ 394. https://en.wiktionary.org/wiki/constant#English
+ 395. https://en.wiktionary.org/w/index.php?title=constant&action=edit&section=15
+ 396. https://en.wiktionary.org/w/index.php?title=constant&action=edit&section=16
+ 397. https://en.wiktionary.org/wiki/File:Fr-constant.ogg
+ 398. https://en.wiktionary.org/wiki/Wiktionary:International_Phonetic_Alphabet
+ 399. https://en.wiktionary.org/wiki/Appendix:French_pronunciation
+ 400. https://en.wiktionary.org/wiki/constants#French
+ 401. https://en.wiktionary.org/w/index.php?title=constant&action=edit&section=17
+ 402. https://en.wiktionary.org/wiki/constante#French
+ 403. https://en.wiktionary.org/wiki/constants#French
+ 404. https://en.wiktionary.org/wiki/constantes#French
+ 405. https://en.wiktionary.org/wiki/constant#Adjective
+ 406. https://en.wiktionary.org/w/index.php?title=constant&action=edit&section=18
+ 407. https://en.wiktionary.org/wiki/constamment#French
+ 408. https://en.wiktionary.org/w/index.php?title=constant&action=edit&section=19
+ 409. http://www.cnrtl.fr/definition/constant
+ 410. https://en.wikipedia.org/wiki/fr:Trésor_de_la_langue_française_informatisé
+ 411. https://en.wiktionary.org/w/index.php?title=constant&action=edit&section=20
+ 412. https://en.wiktionary.org/w/index.php?title=constant&action=edit&section=21
+ 413. https://en.wiktionary.org/wiki/Appendix:Glossary#third_person
+ 414. https://en.wiktionary.org/wiki/Appendix:Glossary#plural_number
+ 415. https://en.wiktionary.org/wiki/Appendix:Glossary#present_tense
+ 416. https://en.wiktionary.org/wiki/Appendix:Glossary#active_voice
+ 417. https://en.wiktionary.org/wiki/Appendix:Glossary#indicative_mood
+ 418. https://en.wiktionary.org/wiki/consto#Latin
+ 419. https://en.wiktionary.org/w/index.php?title=constant&oldid=42881795
+ 420. https://en.wiktionary.org/wiki/Special:Categories
+ 421. https://en.wiktionary.org/wiki/Category:English_2-syllable_words
+ 422. https://en.wiktionary.org/wiki/Category:English_terms_with_IPA_pronunciation
+ 423. https://en.wiktionary.org/wiki/Category:English_terms_with_audio_links
+ 424. https://en.wiktionary.org/wiki/Category:English_terms_inherited_from_Middle_English
+ 425. https://en.wiktionary.org/wiki/Category:English_terms_derived_from_Middle_English
+ 426. https://en.wiktionary.org/wiki/Category:English_terms_derived_from_Old_French
+ 427. https://en.wiktionary.org/wiki/Category:English_terms_derived_from_Latin
+ 428. https://en.wiktionary.org/wiki/Category:English_lemmas
+ 429. https://en.wiktionary.org/wiki/Category:English_adjectives
+ 430. https://en.wiktionary.org/wiki/Category:English_terms_with_obsolete_senses
+ 431. https://en.wiktionary.org/wiki/Category:English_nouns
+ 432. https://en.wiktionary.org/wiki/Category:English_countable_nouns
+ 433. https://en.wiktionary.org/wiki/Category:en:Algebra
+ 434. https://en.wiktionary.org/wiki/Category:en:Sciences
+ 435. https://en.wiktionary.org/wiki/Category:en:Computing
+ 436. https://en.wiktionary.org/wiki/Category:Catalan_lemmas
+ 437. https://en.wiktionary.org/wiki/Category:Catalan_adjectives
+ 438. https://en.wiktionary.org/wiki/Category:Catalan_epicene_adjectives
+ 439. https://en.wiktionary.org/wiki/Category:Catalan_nouns
+ 440. https://en.wiktionary.org/wiki/Category:Catalan_feminine_nouns_with_no_feminine_ending
+ 441. https://en.wiktionary.org/wiki/Category:French_terms_with_audio_links
+ 442. https://en.wiktionary.org/wiki/Category:French_2-syllable_words
+ 443. https://en.wiktionary.org/wiki/Category:French_terms_with_IPA_pronunciation
+ 444. https://en.wiktionary.org/wiki/Category:French_lemmas
+ 445. https://en.wiktionary.org/wiki/Category:French_adjectives
+ 446. https://en.wiktionary.org/wiki/Category:Latin_non-lemma_forms
+ 447. https://en.wiktionary.org/wiki/Category:Latin_verb_forms
+ 448. https://en.wiktionary.org/wiki/Category:etyl_cleanup/en
+ 449. https://en.wiktionary.org/wiki/Category:Finnish_redlinks
+ 450. https://en.wiktionary.org/wiki/Category:Finnish_redlinks/t+
+ 451. https://en.wiktionary.org/wiki/Category:Requests_for_review_of_Esperanto_translations
+ 452. https://en.wiktionary.org/wiki/Category:Requests_for_review_of_Hebrew_translations
+ 453. https://en.wiktionary.org/wiki/Category:Requests_for_review_of_Spanish_translations
+ 454. https://en.wiktionary.org/wiki/Category:Requests_for_review_of_Ukrainian_translations
+ 455. https://en.wiktionary.org/wiki/Category:Requests_for_review_of_French_translations
+ 456. https://en.wiktionary.org/wiki/Special:MyTalk
+ 457. https://en.wiktionary.org/wiki/Special:MyContributions
+ 458. https://en.wiktionary.org/w/index.php?title=Special:CreateAccount&returnto=constant
+ 459. https://en.wiktionary.org/w/index.php?title=Special:UserLogin&returnto=constant
+ 460. https://en.wiktionary.org/wiki/constant
+ 461. https://en.wiktionary.org/w/index.php?title=Talk:constant&action=edit&redlink=1
+ 462. https://en.wiktionary.org/wiki/constant
+ 463. https://en.wiktionary.org/w/index.php?title=constant&action=edit
+ 464. https://en.wiktionary.org/w/index.php?title=constant&action=history
+ 465. form field = text entry field
+ 466. form field = submit button
+ 467. form field = submit button
+ 468. https://en.wiktionary.org/wiki/Wiktionary:Main_Page
+ 469. https://en.wiktionary.org/wiki/Wiktionary:Community_portal
+ 470. https://en.wiktionary.org/wiki/Wiktionary:Per-browser_preferences
+ 471. https://en.wiktionary.org/wiki/Wiktionary:Requested_entries
+ 472. https://en.wiktionary.org/wiki/Special:RecentChanges
+ 473. https://en.wiktionary.org/wiki/Special:Random
+ 474. https://en.wiktionary.org/wiki/Help:Contents
+ 475. https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&utm_medium=sidebar&utm_campaign=C13_en.wiktionary.org&uselang=en
+ 476. https://en.wiktionary.org/wiki/Wiktionary:Contact_us
+ 477. https://en.wiktionary.org/wiki/Special:WhatLinksHere/constant
+ 478. https://en.wiktionary.org/wiki/Special:RecentChangesLinked/constant
+ 479. https://commons.wikimedia.org/wiki/Special:UploadWizard?uselang=en
+ 480. https://en.wiktionary.org/wiki/Special:SpecialPages
+ 481. https://en.wiktionary.org/w/index.php?title=constant&oldid=42881795
+ 482. https://en.wiktionary.org/w/index.php?title=constant&action=info
+ 483. https://en.wiktionary.org/w/index.php?title=Special:CiteThisPage&page=constant&id=42881795
+ 484. https://ar.wiktionary.org/wiki/constant
+ 485. https://az.wiktionary.org/wiki/constant
+ 486. https://ca.wiktionary.org/wiki/constant
+ 487. https://et.wiktionary.org/wiki/constant
+ 488. https://el.wiktionary.org/wiki/constant
+ 489. https://es.wiktionary.org/wiki/constant
+ 490. https://eo.wiktionary.org/wiki/constant
+ 491. https://fa.wiktionary.org/wiki/constant
+ 492. https://fr.wiktionary.org/wiki/constant
+ 493. https://ko.wiktionary.org/wiki/constant
+ 494. https://hy.wiktionary.org/wiki/constant
+ 495. https://io.wiktionary.org/wiki/constant
+ 496. https://id.wiktionary.org/wiki/constant
+ 497. https://it.wiktionary.org/wiki/constant
+ 498. https://kn.wiktionary.org/wiki/constant
+ 499. https://kk.wiktionary.org/wiki/constant
+ 500. https://ku.wiktionary.org/wiki/constant
+ 501. https://la.wiktionary.org/wiki/constant
+ 502. https://li.wiktionary.org/wiki/constant
+ 503. https://hu.wiktionary.org/wiki/constant
+ 504. https://mg.wiktionary.org/wiki/constant
+ 505. https://ml.wiktionary.org/wiki/constant
+ 506. https://my.wiktionary.org/wiki/constant
+ 507. https://nl.wiktionary.org/wiki/constant
+ 508. https://ja.wiktionary.org/wiki/constant
+ 509. https://km.wiktionary.org/wiki/constant
+ 510. https://pl.wiktionary.org/wiki/constant
+ 511. https://pt.wiktionary.org/wiki/constant
+ 512. https://ro.wiktionary.org/wiki/constant
+ 513. https://ru.wiktionary.org/wiki/constant
+ 514. https://sa.wiktionary.org/wiki/constant
+ 515. https://simple.wiktionary.org/wiki/constant
+ 516. https://fi.wiktionary.org/wiki/constant
+ 517. https://sv.wiktionary.org/wiki/constant
+ 518. https://tl.wiktionary.org/wiki/constant
+ 519. https://ta.wiktionary.org/wiki/constant
+ 520. https://te.wiktionary.org/wiki/constant
+ 521. https://th.wiktionary.org/wiki/constant
+ 522. https://chr.wiktionary.org/wiki/constant
+ 523. https://tr.wiktionary.org/wiki/constant
+ 524. https://vi.wiktionary.org/wiki/constant
+ 525. https://zh.wiktionary.org/wiki/constant
+ 526. https://en.wiktionary.org/w/index.php?title=Special:Book&bookcmd=book_creator&referer=constant
+ 527. https://en.wiktionary.org/w/index.php?title=Special:Book&bookcmd=render_article&arttitle=constant&returnto=constant&oldid=42881795&writer=rdf2latex
+ 528. https://en.wiktionary.org/w/index.php?title=constant&printable=yes
+ 529. https://creativecommons.org/licenses/by-sa/3.0/
+ 530. https://wikimediafoundation.org/wiki/Terms_of_Use
+ 531. https://wikimediafoundation.org/wiki/Privacy_policy
+ 532. https://wikimediafoundation.org/wiki/Privacy_policy
+ 533. https://en.wiktionary.org/wiki/Wiktionary:About
+ 534. https://en.wiktionary.org/wiki/Wiktionary:General_disclaimer
+ 535. https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute
+ 536. https://wikimediafoundation.org/wiki/Cookie_statement
+ 537. https://en.m.wiktionary.org/w/index.php?title=constant&mobileaction=toggle_view_mobile
+ 538. https://wikimediafoundation.org/
+ 539. https://www.mediawiki.org/
+
+   Hidden links:
+ 541. https://en.wiktionary.org/wiki/constant
+ 542. https://en.wiktionary.org/wiki/constant
+ 543. https://en.wiktionary.org/wiki/Wiktionary:Main_Page

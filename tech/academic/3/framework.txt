@@ -1,0 +1,609 @@
+   #[1]Edit [2]Wiktionary (en) [3]copyright [4]Wiktionary Atom feed
+
+framework
+
+   Definition from Wiktionary, the free dictionary
+   Jump to: [5]navigation, [6]search
+   See also: [7]Framework
+
+Contents
+
+     * [8]1 English
+          + [9]1.1 Etymology
+          + [10]1.2 Pronunciation
+          + [11]1.3 Noun
+               o [12]1.3.1 Derived terms
+               o [13]1.3.2 Related terms
+               o [14]1.3.3 Translations
+
+English[[15]edit]
+
+   [16]Wikipedia has an article on:
+   [17]framework
+   [18]Wikipedia
+
+Etymology[[19]edit]
+
+   [20]frame + [21]-work
+
+Pronunciation[[22]edit]
+
+     * ([23]Received Pronunciation) [24]IPA^([25]key): /ˈfɹeɪmwɜːk/
+     * ([26]US) [27]IPA^([28]key): /ˈfɹeɪmwɝk/
+
+Noun[[29]edit]
+
+   framework (plural [30]frameworks)
+    1. ([31]literally) The arrangement of [32]support [33]beams that
+       represent a building's general [34]shape and size.
+    2. ([35]figuratively) The larger branches of a [36]tree that
+       [37]determine its [38]shape.
+    3. ([39]figuratively, especially in computing) A [40]basic
+       [41]conceptual [42]structure.
+          + 2012 March-April, John T. Jost, “Social Justice: Is It in Our
+            Nature (and Our Future)?”, in [43]American Scientist^[44][1],
+            volume 100, number 2, page 162:
+
+                      He draws eclectically on studies of baboons,
+                      descriptive anthropological accounts of
+                      hunter-gatherer societies and, in a few cases, the
+                      fossil record. With this biological framework in
+                      place, Corning endeavors to show that the capitalist
+                      system as currently practiced in the United States
+                      and elsewhere is manifestly unfair.
+
+                These ‘three principles of connexion’ comprise the
+                framework of principles in Hume's account of the
+                association of ideas.
+
+    4. ([45]literally) The [46]identification and [47]categorisation of
+       [48]processes or steps that [49]constitute a [50]complex [51]task
+       or [52]mindset in order to [53]render [54]explicit the [55]tacit
+       and [56]implicit.
+
+Derived terms[[57]edit]
+
+     * [58]architectural framework
+     * [59]entity framework
+     * [60]software framework
+
+Related terms[[61]edit]
+
+     * [62]framework agreement
+
+Translations[[63]edit]
+
+   the arrangement of support beams that represent a buildings general
+   shape and size
+     * Breton: [64]frammadur m
+     * Chinese:
+
+                Mandarin: [65]骨架 [66](zh) (gǔjià), [67]框架 [68](zh)
+                (kuàngjià)
+
+     * Czech: [69]kostra [70](cs) f, [71]konstrukce [72](cs) f
+     * Dutch: [73]geraamte [74](nl) n
+     * Finnish: [75]kehikko
+     * German: [76]Rahmen [77](de) m, [78]Gerüst [79](de) n,
+       [80]Fachwerk [81](de) n
+     * Greek: [82]πλαίσιο [83](el) n (plaísio)
+     * Italian: [84]struttura [85](it) f, [86]impalcatura [87](it) f,
+       [88]intelaiatura [89](it) f
+     * Japanese: [90]骨組み (ほねぐみ, honegumi)
+     * Macedonian: [91]оплата f (óplata)
+
+     * Norwegian:
+
+                Bokmål: [92]rammeverk n
+                Nynorsk: [93]rammeverk n
+
+     * Persian: [94]آرماتور (ârmâtur)
+     * Polish: [95]szkielet [96](pl) m
+     * Portuguese: [97]vigamento m, [98]travejamento m
+     * Romanian: [99]ramă [100](ro) f, [101]structură [102](ro) m,
+       [103]schelet [104](ro) n
+     * Russian: [105]осто́в [106](ru) m (ostóv), [107]ко́рпус [108](ru) m
+       (kórpus), [109]карка́с [110](ru) m (karkás), [111]ра́ма [112](ru) f
+       (ráma)
+     * Serbo-Croatian: [113]kostur [114](sh) m,
+       [115]konstrukcija [116](sh) f
+     * Turkish: [117]çatkı [118](tr), [119]çatık [120](tr),
+       [121]iskele [122](tr), [123]karkas [124](tr), [125]yapı iskelesi,
+       [126]yapı karkası
+
+   the larger branches of a tree that determine its shape
+   a basic conceptual structure
+     * Catalan: [127]infraestructura f
+     * Chamicuro: [128]ipakolo
+     * Chinese:
+
+                Mandarin: [129]結構 [130](zh), [131]结构 [132](zh) (jiégòu),
+                [133]架構 [134](zh), [135]架构 [136](zh) (jiàgòu)
+
+     * Czech: [137]soustava [138](cs), [139]systém [140](cs),
+       [141]aplikační rámec m
+     * Dutch: [142]framework [143](nl) n, [144]kader [145](nl) n
+     * Finnish: [146]viitekehys [147](fi), [148]kehikko
+     * French: [149]structure [150](fr)
+     * German: [151]Bezugssystem n, [152]Gefüge n, (computing)
+       [153]Programmiergerüst n, [154]Rahmenkonzept n, [155]Rahmenwerk n
+     * Greek: [156]πλαίσιο [157](el) n (plaísio),
+       [158]σκελετός [159](el) m (skeletós)
+     * Italian: [160]infrastruttura [161](it) f
+     * Japanese: [162]構造 [163](ja) (こうぞう, kōzō), [164]フレームワーク [165](ja)
+       (furēmuwāku), [166]骨組み (ほねぐみ, honegumi)
+     * Latin: [167]compāgēs f
+
+     * Lithuanian: [168]infratruktūra f
+     * Macedonian: [169]рамки f pl (rámki)
+     * Maori: [170]anga
+     * Norwegian:
+
+                Bokmål: [171]rammeverk n
+                Nynorsk: [172]rammeverk n
+
+     * Portuguese: [173]infraestrutura [174](pt) f,
+       [175]arcabouço [176](pt) m
+     * Russian: [177]инфраструкту́ра [178](ru) f (infrastruktúra),
+       [179]систе́ма взгля́дов f (sistéma vzgljádov), [180]то́чка
+       отсчёта [181](ru) f (tóčka otsčóta), [182]ра́мки [183](ru) f pl
+       (rámki), [184]усло́вия [185](ru) n pl (uslóvija)
+     * Serbo-Croatian: [186]okvir [187](sh),
+       [188]infrastruktura [189](sh) f, [190]okosnica [191](sh) f
+     * Spanish: [192]infraestructura f
+     * Swedish: [193]ramverk n
+     * Turkish: [194]çerceve, (medicine) [195]iskele [196](tr),
+       [197]karkas [198](tr)
+
+   the identification and categorisation of processes or steps that
+   constitute a complex task or mindset
+
+          The translations below need to be checked and inserted above
+          into the appropriate translation tables, removing any numbers.
+          Numbers do not necessarily match those in definitions. See
+          instructions at [199]Wiktionary:Entry layout#Translations.
+
+   Translations to be checked
+     * French: ^(please [200]verify) [201]charpente, ^(please [202]verify)
+       [203]carcasse, ^(please [204]verify) [205]cadre
+
+     * Spanish: ^(please [206]verify) [207]marco
+
+   Retrieved from
+   "[208]https://en.wiktionary.org/w/index.php?title=framework&oldid=42717
+   079"
+   [209]Categories:
+     * [210]English compound words
+     * [211]English 2-syllable words
+     * [212]English terms with IPA pronunciation
+     * [213]English lemmas
+     * [214]English nouns
+     * [215]English countable nouns
+
+   Hidden categories:
+     * [216]Terms with manual transliterations different from the
+       automated ones
+     * [217]Terms with manual transliterations different from the
+       automated ones/mk
+     * [218]Russian redlinks
+     * [219]Russian redlinks/t
+     * [220]Russian redlinks/t+
+     * [221]Requests for review of French translations
+     * [222]Requests for review of Spanish translations
+
+Navigation menu
+
+Personal tools
+
+     * Not logged in
+     * [223]Talk
+     * [224]Contributions
+     * [225]Create account
+     * [226]Log in
+
+Namespaces
+
+     * [227]Entry
+     * [228]Discussion
+
+Variants
+
+Views
+
+     * [229]Read
+     * [230]Edit
+     * [231]History
+
+More
+
+Search
+
+   [232]____________________ [233]Search [234]Go
+
+Navigation
+
+     * [235]Main Page
+     * [236]Community portal
+     * [237]Preferences
+     * [238]Requested entries
+     * [239]Recent changes
+     * [240]Random entry
+     * [241]Help
+     * [242]Donations
+     * [243]Contact us
+
+Tools
+
+     * [244]What links here
+     * [245]Related changes
+     * [246]Upload file
+     * [247]Special pages
+     * [248]Permanent link
+     * [249]Page information
+     * [250]Cite this page
+
+In other languages
+
+     * [251]العربية
+     * [252]Bosanski
+     * [253]Čeština
+     * [254]Cymraeg
+     * [255]Eesti
+     * [256]Ελληνικά
+     * [257]Español
+     * [258]Esperanto
+     * [259]Français
+     * [260]Galego
+     * [261]한국어
+     * [262]Հայերեն
+     * [263]Ido
+     * [264]ಕನ್ನಡ
+     * [265]Kurdî
+     * [266]ລາວ
+     * [267]Magyar
+     * [268]Malagasy
+     * [269]മലയാളം
+     * [270]မြန်မာဘာသာ
+     * [271]Nederlands
+     * [272]Norsk bokmål
+     * [273]ភាសាខ្មែរ
+     * [274]Polski
+     * [275]Português
+     * [276]Русский
+     * [277]Simple English
+     * [278]سنڌي
+     * [279]Suomi
+     * [280]Svenska
+     * [281]தமிழ்
+     * [282]Türkçe
+     * [283]Tiếng Việt
+     * [284]中文
+
+Print/export
+
+     * [285]Create a book
+     * [286]Download as PDF
+     * [287]Printable version
+
+     * This page was last edited on 26 April 2017, at 16:20.
+     * Text is available under the [288]Creative Commons
+       Attribution-ShareAlike License; additional terms may apply. By
+       using this site, you agree to the [289]Terms of Use and
+       [290]Privacy Policy.
+
+     * [291]Privacy policy
+     * [292]About Wiktionary
+     * [293]Disclaimers
+     * [294]Developers
+     * [295]Cookie statement
+     * [296]Mobile view
+
+     * [297]Wikimedia Foundation
+     * [298]Powered by MediaWiki
+
+References
+
+   Visible links
+   1. https://en.wiktionary.org/w/index.php?title=framework&action=edit
+   2. https://en.wiktionary.org/w/opensearch_desc.php
+   3. https://creativecommons.org/licenses/by-sa/3.0/
+   4. https://en.wiktionary.org/w/index.php?title=Special:RecentChanges&feed=atom
+   5. https://en.wiktionary.org/wiki/framework#mw-head
+   6. https://en.wiktionary.org/wiki/framework#p-search
+   7. https://en.wiktionary.org/wiki/Framework
+   8. https://en.wiktionary.org/wiki/framework#English
+   9. https://en.wiktionary.org/wiki/framework#Etymology
+  10. https://en.wiktionary.org/wiki/framework#Pronunciation
+  11. https://en.wiktionary.org/wiki/framework#Noun
+  12. https://en.wiktionary.org/wiki/framework#Derived_terms
+  13. https://en.wiktionary.org/wiki/framework#Related_terms
+  14. https://en.wiktionary.org/wiki/framework#Translations
+  15. https://en.wiktionary.org/w/index.php?title=framework&action=edit&section=1
+  16. https://en.wiktionary.org/wiki/Wikipedia
+  17. https://en.wikipedia.org/wiki/framework
+  18. https://en.wikipedia.org/wiki/framework
+  19. https://en.wiktionary.org/w/index.php?title=framework&action=edit&section=2
+  20. https://en.wiktionary.org/wiki/frame#English
+  21. https://en.wiktionary.org/wiki/-work#English
+  22. https://en.wiktionary.org/w/index.php?title=framework&action=edit&section=3
+  23. https://en.wikipedia.org/wiki/Received_Pronunciation
+  24. https://en.wiktionary.org/wiki/Wiktionary:International_Phonetic_Alphabet
+  25. https://en.wiktionary.org/wiki/Appendix:English_pronunciation
+  26. https://en.wikipedia.org/wiki/American_English
+  27. https://en.wiktionary.org/wiki/Wiktionary:International_Phonetic_Alphabet
+  28. https://en.wiktionary.org/wiki/Appendix:English_pronunciation
+  29. https://en.wiktionary.org/w/index.php?title=framework&action=edit&section=4
+  30. https://en.wiktionary.org/wiki/frameworks#English
+  31. https://en.wiktionary.org/wiki/Appendix:Glossary#literally
+  32. https://en.wiktionary.org/wiki/support
+  33. https://en.wiktionary.org/wiki/beam
+  34. https://en.wiktionary.org/wiki/shape
+  35. https://en.wiktionary.org/wiki/Appendix:Glossary#figurative
+  36. https://en.wiktionary.org/wiki/tree
+  37. https://en.wiktionary.org/wiki/determine
+  38. https://en.wiktionary.org/wiki/shape
+  39. https://en.wiktionary.org/wiki/Appendix:Glossary#figurative
+  40. https://en.wiktionary.org/wiki/basic
+  41. https://en.wiktionary.org/wiki/conceptual
+  42. https://en.wiktionary.org/wiki/structure
+  43. https://en.wikipedia.org/wiki/American_Scientist
+  44. http://www.americanscientist.org/bookshelf/pub/social-justice-is-it-in-our-nature-and-our-future
+  45. https://en.wiktionary.org/wiki/Appendix:Glossary#literally
+  46. https://en.wiktionary.org/wiki/identification
+  47. https://en.wiktionary.org/wiki/categorisation
+  48. https://en.wiktionary.org/wiki/processes
+  49. https://en.wiktionary.org/wiki/constitute
+  50. https://en.wiktionary.org/wiki/complex
+  51. https://en.wiktionary.org/wiki/task
+  52. https://en.wiktionary.org/wiki/mindset
+  53. https://en.wiktionary.org/wiki/render
+  54. https://en.wiktionary.org/wiki/explicit
+  55. https://en.wiktionary.org/wiki/tacit
+  56. https://en.wiktionary.org/wiki/implicit
+  57. https://en.wiktionary.org/w/index.php?title=framework&action=edit&section=5
+  58. https://en.wiktionary.org/w/index.php?title=architectural_framework&action=edit&redlink=1
+  59. https://en.wiktionary.org/w/index.php?title=entity_framework&action=edit&redlink=1
+  60. https://en.wiktionary.org/wiki/software_framework#English
+  61. https://en.wiktionary.org/w/index.php?title=framework&action=edit&section=6
+  62. https://en.wiktionary.org/wiki/framework_agreement#English
+  63. https://en.wiktionary.org/w/index.php?title=framework&action=edit&section=7
+  64. https://en.wiktionary.org/w/index.php?title=frammadur&action=edit&redlink=1
+  65. https://en.wiktionary.org/wiki/骨架#Mandarin
+  66. https://zh.wiktionary.org/wiki/骨架
+  67. https://en.wiktionary.org/wiki/框架#Mandarin
+  68. https://zh.wiktionary.org/wiki/框架
+  69. https://en.wiktionary.org/wiki/kostra#Czech
+  70. https://cs.wiktionary.org/wiki/kostra
+  71. https://en.wiktionary.org/wiki/konstrukce#Czech
+  72. https://cs.wiktionary.org/wiki/konstrukce
+  73. https://en.wiktionary.org/wiki/geraamte#Dutch
+  74. https://nl.wiktionary.org/wiki/geraamte
+  75. https://en.wiktionary.org/wiki/kehikko#Finnish
+  76. https://en.wiktionary.org/wiki/Rahmen#German
+  77. https://de.wiktionary.org/wiki/Rahmen
+  78. https://en.wiktionary.org/wiki/Gerüst#German
+  79. https://de.wiktionary.org/wiki/Gerüst
+  80. https://en.wiktionary.org/w/index.php?title=Fachwerk&action=edit&redlink=1
+  81. https://de.wiktionary.org/wiki/Fachwerk
+  82. https://en.wiktionary.org/wiki/πλαίσιο#Greek
+  83. https://el.wiktionary.org/wiki/πλαίσιο
+  84. https://en.wiktionary.org/wiki/struttura#Italian
+  85. https://it.wiktionary.org/wiki/struttura
+  86. https://en.wiktionary.org/wiki/impalcatura#Italian
+  87. https://it.wiktionary.org/wiki/impalcatura
+  88. https://en.wiktionary.org/wiki/intelaiatura#Italian
+  89. https://it.wiktionary.org/wiki/intelaiatura
+  90. https://en.wiktionary.org/wiki/骨組み#Japanese
+  91. https://en.wiktionary.org/wiki/оплата#Macedonian
+  92. https://en.wiktionary.org/wiki/rammeverk#Norwegian_Bokm.C3.A5l
+  93. https://en.wiktionary.org/wiki/rammeverk#Norwegian_Nynorsk
+  94. https://en.wiktionary.org/w/index.php?title=آرماتور&action=edit&redlink=1
+  95. https://en.wiktionary.org/wiki/szkielet#Polish
+  96. https://pl.wiktionary.org/wiki/szkielet
+  97. https://en.wiktionary.org/wiki/vigamento#Portuguese
+  98. https://en.wiktionary.org/wiki/travejamento#Portuguese
+  99. https://en.wiktionary.org/wiki/ramă#Romanian
+ 100. https://ro.wiktionary.org/wiki/ramă
+ 101. https://en.wiktionary.org/wiki/structură#Romanian
+ 102. https://ro.wiktionary.org/wiki/structură
+ 103. https://en.wiktionary.org/w/index.php?title=schelet&action=edit&redlink=1
+ 104. https://ro.wiktionary.org/wiki/schelet
+ 105. https://en.wiktionary.org/wiki/остов#Russian
+ 106. https://ru.wiktionary.org/wiki/остов
+ 107. https://en.wiktionary.org/wiki/корпус#Russian
+ 108. https://ru.wiktionary.org/wiki/корпус
+ 109. https://en.wiktionary.org/wiki/каркас#Russian
+ 110. https://ru.wiktionary.org/wiki/каркас
+ 111. https://en.wiktionary.org/wiki/рама#Russian
+ 112. https://ru.wiktionary.org/wiki/рама
+ 113. https://en.wiktionary.org/wiki/kostur#Serbo-Croatian
+ 114. https://sh.wiktionary.org/wiki/kostur
+ 115. https://en.wiktionary.org/wiki/konstrukcija#Serbo-Croatian
+ 116. https://sh.wiktionary.org/wiki/konstrukcija
+ 117. https://en.wiktionary.org/w/index.php?title=çatkı&action=edit&redlink=1
+ 118. https://tr.wiktionary.org/wiki/çatkı
+ 119. https://en.wiktionary.org/w/index.php?title=çatık&action=edit&redlink=1
+ 120. https://tr.wiktionary.org/wiki/çatık
+ 121. https://en.wiktionary.org/wiki/iskele#Turkish
+ 122. https://tr.wiktionary.org/wiki/iskele
+ 123. https://en.wiktionary.org/wiki/karkas#Turkish
+ 124. https://tr.wiktionary.org/wiki/karkas
+ 125. https://en.wiktionary.org/w/index.php?title=yapı_iskelesi&action=edit&redlink=1
+ 126. https://en.wiktionary.org/w/index.php?title=yapı_karkası&action=edit&redlink=1
+ 127. https://en.wiktionary.org/wiki/infraestructura#Catalan
+ 128. https://en.wiktionary.org/wiki/ipakolo#Chamicuro
+ 129. https://en.wiktionary.org/wiki/結構#Mandarin
+ 130. https://zh.wiktionary.org/wiki/結構
+ 131. https://en.wiktionary.org/wiki/结构#Mandarin
+ 132. https://zh.wiktionary.org/wiki/结构
+ 133. https://en.wiktionary.org/wiki/架構#Mandarin
+ 134. https://zh.wiktionary.org/wiki/架構
+ 135. https://en.wiktionary.org/wiki/架构#Mandarin
+ 136. https://zh.wiktionary.org/wiki/架构
+ 137. https://en.wiktionary.org/wiki/soustava#Czech
+ 138. https://cs.wiktionary.org/wiki/soustava
+ 139. https://en.wiktionary.org/wiki/systém#Czech
+ 140. https://cs.wiktionary.org/wiki/systém
+ 141. https://en.wiktionary.org/wiki/aplikační_rámec#Czech
+ 142. https://en.wiktionary.org/wiki/framework#Dutch
+ 143. https://nl.wiktionary.org/wiki/framework
+ 144. https://en.wiktionary.org/wiki/kader#Dutch
+ 145. https://nl.wiktionary.org/wiki/kader
+ 146. https://en.wiktionary.org/wiki/viitekehys#Finnish
+ 147. https://fi.wiktionary.org/wiki/viitekehys
+ 148. https://en.wiktionary.org/wiki/kehikko#Finnish
+ 149. https://en.wiktionary.org/wiki/structure#French
+ 150. https://fr.wiktionary.org/wiki/structure
+ 151. https://en.wiktionary.org/w/index.php?title=Bezugssystem&action=edit&redlink=1
+ 152. https://en.wiktionary.org/wiki/Gefüge#German
+ 153. https://en.wiktionary.org/wiki/Programmiergerüst#German
+ 154. https://en.wiktionary.org/w/index.php?title=Rahmenkonzept&action=edit&redlink=1
+ 155. https://en.wiktionary.org/w/index.php?title=Rahmenwerk&action=edit&redlink=1
+ 156. https://en.wiktionary.org/wiki/πλαίσιο#Greek
+ 157. https://el.wiktionary.org/wiki/πλαίσιο
+ 158. https://en.wiktionary.org/wiki/σκελετός#Greek
+ 159. https://el.wiktionary.org/wiki/σκελετός
+ 160. https://en.wiktionary.org/wiki/infrastruttura#Italian
+ 161. https://it.wiktionary.org/wiki/infrastruttura
+ 162. https://en.wiktionary.org/wiki/構造#Japanese
+ 163. https://ja.wiktionary.org/wiki/構造
+ 164. https://en.wiktionary.org/w/index.php?title=フレームワーク&action=edit&redlink=1
+ 165. https://ja.wiktionary.org/wiki/フレームワーク
+ 166. https://en.wiktionary.org/wiki/骨組み#Japanese
+ 167. https://en.wiktionary.org/wiki/compages#Latin
+ 168. https://en.wiktionary.org/w/index.php?title=infratruktūra&action=edit&redlink=1
+ 169. https://en.wiktionary.org/wiki/рамки#Macedonian
+ 170. https://en.wiktionary.org/wiki/anga#Maori
+ 171. https://en.wiktionary.org/wiki/rammeverk#Norwegian_Bokm.C3.A5l
+ 172. https://en.wiktionary.org/wiki/rammeverk#Norwegian_Nynorsk
+ 173. https://en.wiktionary.org/wiki/infraestrutura#Portuguese
+ 174. https://pt.wiktionary.org/wiki/infraestrutura
+ 175. https://en.wiktionary.org/wiki/arcabouço#Portuguese
+ 176. https://pt.wiktionary.org/wiki/arcabouço
+ 177. https://en.wiktionary.org/wiki/инфраструктура#Russian
+ 178. https://ru.wiktionary.org/wiki/инфраструктура
+ 179. https://en.wiktionary.org/w/index.php?title=система_взглядов&action=edit&redlink=1
+ 180. https://en.wiktionary.org/w/index.php?title=точка_отсчёта&action=edit&redlink=1
+ 181. https://ru.wiktionary.org/wiki/точка_отсчёта
+ 182. https://en.wiktionary.org/wiki/рамка#Russian
+ 183. https://ru.wiktionary.org/wiki/рамка
+ 184. https://en.wiktionary.org/wiki/условие#Russian
+ 185. https://ru.wiktionary.org/wiki/условие
+ 186. https://en.wiktionary.org/wiki/okvir#Serbo-Croatian
+ 187. https://sh.wiktionary.org/wiki/okvir
+ 188. https://en.wiktionary.org/wiki/infrastruktura#Serbo-Croatian
+ 189. https://sh.wiktionary.org/wiki/infrastruktura
+ 190. https://en.wiktionary.org/w/index.php?title=okosnica&action=edit&redlink=1
+ 191. https://sh.wiktionary.org/wiki/okosnica
+ 192. https://en.wiktionary.org/wiki/infraestructura#Spanish
+ 193. https://en.wiktionary.org/w/index.php?title=ramverk&action=edit&redlink=1
+ 194. https://en.wiktionary.org/w/index.php?title=çerceve&action=edit&redlink=1
+ 195. https://en.wiktionary.org/wiki/iskele#Turkish
+ 196. https://tr.wiktionary.org/wiki/iskele
+ 197. https://en.wiktionary.org/wiki/karkas#Turkish
+ 198. https://tr.wiktionary.org/wiki/karkas
+ 199. https://en.wiktionary.org/wiki/Wiktionary:Entry_layout#Translations
+ 200. https://en.wiktionary.org/wiki/Wiktionary:Translations#Translations_to_be_checked
+ 201. https://en.wiktionary.org/wiki/charpente#French
+ 202. https://en.wiktionary.org/wiki/Wiktionary:Translations#Translations_to_be_checked
+ 203. https://en.wiktionary.org/wiki/carcasse#French
+ 204. https://en.wiktionary.org/wiki/Wiktionary:Translations#Translations_to_be_checked
+ 205. https://en.wiktionary.org/wiki/cadre#French
+ 206. https://en.wiktionary.org/wiki/Wiktionary:Translations#Translations_to_be_checked
+ 207. https://en.wiktionary.org/wiki/marco#Spanish
+ 208. https://en.wiktionary.org/w/index.php?title=framework&oldid=42717079
+ 209. https://en.wiktionary.org/wiki/Special:Categories
+ 210. https://en.wiktionary.org/wiki/Category:English_compound_words
+ 211. https://en.wiktionary.org/wiki/Category:English_2-syllable_words
+ 212. https://en.wiktionary.org/wiki/Category:English_terms_with_IPA_pronunciation
+ 213. https://en.wiktionary.org/wiki/Category:English_lemmas
+ 214. https://en.wiktionary.org/wiki/Category:English_nouns
+ 215. https://en.wiktionary.org/wiki/Category:English_countable_nouns
+ 216. https://en.wiktionary.org/wiki/Category:Terms_with_manual_transliterations_different_from_the_automated_ones
+ 217. https://en.wiktionary.org/wiki/Category:Terms_with_manual_transliterations_different_from_the_automated_ones/mk
+ 218. https://en.wiktionary.org/wiki/Category:Russian_redlinks
+ 219. https://en.wiktionary.org/wiki/Category:Russian_redlinks/t
+ 220. https://en.wiktionary.org/wiki/Category:Russian_redlinks/t+
+ 221. https://en.wiktionary.org/wiki/Category:Requests_for_review_of_French_translations
+ 222. https://en.wiktionary.org/wiki/Category:Requests_for_review_of_Spanish_translations
+ 223. https://en.wiktionary.org/wiki/Special:MyTalk
+ 224. https://en.wiktionary.org/wiki/Special:MyContributions
+ 225. https://en.wiktionary.org/w/index.php?title=Special:CreateAccount&returnto=framework
+ 226. https://en.wiktionary.org/w/index.php?title=Special:UserLogin&returnto=framework
+ 227. https://en.wiktionary.org/wiki/framework
+ 228. https://en.wiktionary.org/w/index.php?title=Talk:framework&action=edit&redlink=1
+ 229. https://en.wiktionary.org/wiki/framework
+ 230. https://en.wiktionary.org/w/index.php?title=framework&action=edit
+ 231. https://en.wiktionary.org/w/index.php?title=framework&action=history
+ 232. form field = text entry field
+ 233. form field = submit button
+ 234. form field = submit button
+ 235. https://en.wiktionary.org/wiki/Wiktionary:Main_Page
+ 236. https://en.wiktionary.org/wiki/Wiktionary:Community_portal
+ 237. https://en.wiktionary.org/wiki/Wiktionary:Per-browser_preferences
+ 238. https://en.wiktionary.org/wiki/Wiktionary:Requested_entries
+ 239. https://en.wiktionary.org/wiki/Special:RecentChanges
+ 240. https://en.wiktionary.org/wiki/Special:Random
+ 241. https://en.wiktionary.org/wiki/Help:Contents
+ 242. https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&utm_medium=sidebar&utm_campaign=C13_en.wiktionary.org&uselang=en
+ 243. https://en.wiktionary.org/wiki/Wiktionary:Contact_us
+ 244. https://en.wiktionary.org/wiki/Special:WhatLinksHere/framework
+ 245. https://en.wiktionary.org/wiki/Special:RecentChangesLinked/framework
+ 246. https://commons.wikimedia.org/wiki/Special:UploadWizard?uselang=en
+ 247. https://en.wiktionary.org/wiki/Special:SpecialPages
+ 248. https://en.wiktionary.org/w/index.php?title=framework&oldid=42717079
+ 249. https://en.wiktionary.org/w/index.php?title=framework&action=info
+ 250. https://en.wiktionary.org/w/index.php?title=Special:CiteThisPage&page=framework&id=42717079
+ 251. https://ar.wiktionary.org/wiki/framework
+ 252. https://bs.wiktionary.org/wiki/framework
+ 253. https://cs.wiktionary.org/wiki/framework
+ 254. https://cy.wiktionary.org/wiki/framework
+ 255. https://et.wiktionary.org/wiki/framework
+ 256. https://el.wiktionary.org/wiki/framework
+ 257. https://es.wiktionary.org/wiki/framework
+ 258. https://eo.wiktionary.org/wiki/framework
+ 259. https://fr.wiktionary.org/wiki/framework
+ 260. https://gl.wiktionary.org/wiki/framework
+ 261. https://ko.wiktionary.org/wiki/framework
+ 262. https://hy.wiktionary.org/wiki/framework
+ 263. https://io.wiktionary.org/wiki/framework
+ 264. https://kn.wiktionary.org/wiki/framework
+ 265. https://ku.wiktionary.org/wiki/framework
+ 266. https://lo.wiktionary.org/wiki/framework
+ 267. https://hu.wiktionary.org/wiki/framework
+ 268. https://mg.wiktionary.org/wiki/framework
+ 269. https://ml.wiktionary.org/wiki/framework
+ 270. https://my.wiktionary.org/wiki/framework
+ 271. https://nl.wiktionary.org/wiki/framework
+ 272. https://no.wiktionary.org/wiki/framework
+ 273. https://km.wiktionary.org/wiki/framework
+ 274. https://pl.wiktionary.org/wiki/framework
+ 275. https://pt.wiktionary.org/wiki/framework
+ 276. https://ru.wiktionary.org/wiki/framework
+ 277. https://simple.wiktionary.org/wiki/framework
+ 278. https://sd.wiktionary.org/wiki/framework
+ 279. https://fi.wiktionary.org/wiki/framework
+ 280. https://sv.wiktionary.org/wiki/framework
+ 281. https://ta.wiktionary.org/wiki/framework
+ 282. https://tr.wiktionary.org/wiki/framework
+ 283. https://vi.wiktionary.org/wiki/framework
+ 284. https://zh.wiktionary.org/wiki/framework
+ 285. https://en.wiktionary.org/w/index.php?title=Special:Book&bookcmd=book_creator&referer=framework
+ 286. https://en.wiktionary.org/w/index.php?title=Special:Book&bookcmd=render_article&arttitle=framework&returnto=framework&oldid=42717079&writer=rdf2latex
+ 287. https://en.wiktionary.org/w/index.php?title=framework&printable=yes
+ 288. https://creativecommons.org/licenses/by-sa/3.0/
+ 289. https://wikimediafoundation.org/wiki/Terms_of_Use
+ 290. https://wikimediafoundation.org/wiki/Privacy_policy
+ 291. https://wikimediafoundation.org/wiki/Privacy_policy
+ 292. https://en.wiktionary.org/wiki/Wiktionary:About
+ 293. https://en.wiktionary.org/wiki/Wiktionary:General_disclaimer
+ 294. https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute
+ 295. https://wikimediafoundation.org/wiki/Cookie_statement
+ 296. https://en.m.wiktionary.org/w/index.php?title=framework&mobileaction=toggle_view_mobile
+ 297. https://wikimediafoundation.org/
+ 298. https://www.mediawiki.org/
+
+   Hidden links:
+ 300. https://en.wiktionary.org/wiki/framework
+ 301. https://en.wiktionary.org/wiki/framework
+ 302. https://en.wiktionary.org/wiki/Wiktionary:Main_Page

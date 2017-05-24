@@ -1,0 +1,850 @@
+   #[1]Edit [2]Wiktionary (en) [3]copyright [4]Wiktionary Atom feed
+
+task
+
+   Definition from Wiktionary, the free dictionary
+   Jump to: [5]navigation, [6]search
+   See also: [7]Task
+
+Contents
+
+     * [8]1 English
+          + [9]1.1 Etymology
+          + [10]1.2 Pronunciation
+          + [11]1.3 Noun
+               o [12]1.3.1 Usage notes
+               o [13]1.3.2 Synonyms
+               o [14]1.3.3 Derived terms
+               o [15]1.3.4 Translations
+          + [16]1.4 Verb
+               o [17]1.4.1 Translations
+          + [18]1.5 Anagrams
+
+English[[19]edit]
+
+Etymology[[20]edit]
+
+   From [21]Middle English [22]task, [23]taske, from [24]Old Northern
+   French [25]tasque, (compare Old French variant [26]tasche), from
+   [27]Medieval Latin [28]tasca, alteration of [29]taxa, from [30]Latin
+   [31]taxāre (“censure; charge”).
+
+Pronunciation[[32]edit]
+
+     * ([33]Received Pronunciation) [34]IPA^([35]key): /tɑːsk/
+     * ([36]US) [37]IPA^([38]key): /tæsk/
+     *
+
+       Audio (US)
+
+       ([39]file)
+     * Rhymes: [40]-æsk
+
+Noun[[41]edit]
+
+   task (plural [42]tasks)
+    1. A [43]piece of [44]work done as [45]part of one’s [46]duties.
+          + 2013 August 10, “[47]A new prescription”, in [48]The
+            Economist, volume 408, number 8848:
+
+                      As the world's drug habit shows, governments are
+                      failing in their quest to monitor every London
+                      window-box and Andean hillside for banned plants.
+                      But even that Sisyphean task looks easy next to the
+                      fight against synthetic drugs. No sooner has a drug
+                      been blacklisted than chemists adjust their recipe
+                      and start churning out a subtly different one.
+
+    2. A [49]difficult or [50]tedious [51]undertaking.
+          + 2013 July 19, [52]Ian Sample, “[53]Irregular bedtimes may
+            affect children's brains”, in [54]The Guardian Weekly, volume
+            189, number 6, page 34:
+
+                      Irregular bedtimes may disrupt healthy brain
+                      development in young children, according to a study
+                      of intelligence and sleeping habits.  ¶ Going to bed
+                      at a different time each night affected girls more
+                      than boys, but both fared worse on mental tasks than
+                      children who had a set bedtime, researchers found.
+
+    3. An [55]objective.
+    4. ([56]computing) A [57]process or [58]execution of a program.
+
+                (Can we add an [59]example for this sense?)
+
+Usage notes[[60]edit]
+
+     * Adjectives often applied to "task": difficult, easy, simple, hard,
+       tough, complex, not-so-easy, challenging, complicated, tricky,
+       formidable, arduous, laborious, onerous, small, big, huge,
+       enormous, tremendous, gigantic, mammoth, colossal, gargantuan,
+       social, intellectual, theological, important, basic, trivial,
+       unpleasant, demanding, pleasant, noble, painful, grim, responsible,
+       rewarding, boring, ungrateful, delightful, glorious, agreeable.
+
+Synonyms[[61]edit]
+
+     * (piece of work): [62]chore, [63]job
+     * (difficult undertaking): [64]undertaking
+     * (objective): [65]objective, [66]goal
+     * (process): [67]process
+
+Derived terms[[68]edit]
+
+   Terms derived from task
+     * [69]multitasking
+     * [70]subtask
+     * [71]take to task
+
+     * [72]taskable
+     * [73]taskbar
+     * [74]taskbody
+
+     * [75]task force
+     * [76]tasklet
+     * [77]taskmaster
+
+Translations[[78]edit]
+
+   piece of work done as part of one’s duties
+     * Albanian: [79]detyrë [80](sq) f
+     * Arabic: [81]مُهِمَّة f (muhimma)
+     * Armenian: [82]առաջադրանք [83](hy) (aṙaǰadrankʿ)
+     * Belarusian: [84]зада́нне n (zadánnje), [85]зада́ча f (zadáča)
+     * Catalan: [86]tasca [87](ca) f
+     * Chinese:
+
+                Mandarin: [88]課題 [89](zh), [90]课题 [91](zh) (kètí),
+                [92]作業 [93](zh), [94]作业 [95](zh) (zuòyè), [96]任務 [97](zh),
+                [98]任务 [99](zh) (rènwù)
+
+     * Czech: [100]úkol [101](cs) m, [102]úloha f
+     * Danish: [103]opgave, [104]tjans c, [105]job [106](da) n
+     * Dutch: [107]taak [108](nl) c, [109]opgave [110](nl) f
+     * Esperanto: [111]tasko
+     * Finnish: [112]tehtävä [113](fi)
+     * French: [114]tâche [115](fr) f
+     * Galician: [116]tarefa [117](gl) f
+     * Georgian: please add this translation if you can
+     * German: [118]Aufgabe [119](de) f, [120]Pflicht [121](de) f
+     * Greek: [122]δουλειά [123](el) f (douleiá), [124]εργασία [125](el)
+       (ergasía)
+     * Hindi: [126]कार्य [127](hi) m (kārya)
+     * Hungarian: [128]feladat [129](hu)
+     * Italian: [130]compito [131](it) m
+     * Japanese: [132]仕事 [133](ja) (しごと, shigoto), [134]課題 [135](ja) (かだい,
+       kadai)
+
+     * Korean: [136]일 [137](ko) (il), [138]과제 [139](ko) (gwaje)
+     * Latvian: [140]uzdotais m
+     * Lithuanian: [141]užduotis f
+     * Maori: [142]taumahi
+     * Marathi: [143]कार्य (kārya)
+     * Nahuatl: [144]tequiua
+     * Norwegian:
+
+                Bokmål: [145]oppgave [146](no)
+
+     * Persian: [147]کار [148](fa) (kâr)
+     * Polish: [149]zadanie [150](pl) n
+     * Portuguese: [151]tarefa [152](pt) f, [153]incumbência [154](pt) f,
+       [155]dever [156](pt) m
+     * Russian: [157]зада́ние [158](ru) n (zadánije),
+       [159]зада́ча [160](ru) f (zadáča), [161]рабо́та [162](ru) f
+       (rabóta)
+     * Scottish Gaelic: [163]gnìomh m
+     * Slovene: [164]naloga f
+     * Spanish: [165]tarea [166](es) f, [167]quehacer [168](es) m
+     * Swedish: [169]uppgift [170](sv) c
+     * Tagalog: [171]abyad [172](tl)
+     * Ukrainian: [173]завда́ння [174](uk) n (zavdánnja), [175]зада́ча f
+       (zadáča)
+     * Uyghur: [176]تاپشۇرۇق (tapshuruq)
+     * Welsh: [177]tasg [178](cy) f
+
+   difficult or tedious undertaking
+     * Chinese:
+
+                Mandarin: [179]任務 [180](zh), [181]任务 [182](zh) (rènwù)
+
+     * Dutch: [183]opgave [184](nl) f
+     * Finnish: [185]tehtävä [186](fi)
+     * French: [187]corvée [188](fr) f, [189]tâche [190](fr) f
+     * Greek: [191]αγγαρεία [192](el) f (angareía)
+     * Italian: [193]incombenza [194](it) f
+
+     * Japanese: [195]任務 [196](ja) (にんむ, ninmu), [197]問題 [198](ja) (もんだい,
+       mondai)
+     * Korean: [199]문제 [200](ko) (munje), [201]임무 [202](ko) (immu)
+     * Portuguese: [203]incumbência [204](pt) f
+     * Russian: [205]зада́ча [206](ru) f (zadáča)
+     * Spanish: [207]incumbencia [208](es) f
+     * Vietnamese: [209]nhiệm vụ [210](vi)
+
+   objective
+     * Chinese:
+
+                Mandarin: [211]課題 [212](zh), [213]课题 [214](zh) (kètí),
+                [215]作業 [216](zh), [217]作业 [218](zh) (zuòyè)
+
+     * Danish: [219]mission c
+     * Dutch: [220]doel [221](nl) n
+     * Finnish: [222]tehtävä [223](fi)
+
+     * Japanese: [224]任務 [225](ja) (にんむ, ninmu)
+     * Nahuatl: [226]tequiua
+     * Portuguese: [227]objetivo [228](pt) m
+     * Russian: [229]зада́ние [230](ru) n (zadánije),
+       [231]зада́ча [232](ru) f (zadáča), [233]цель [234](ru) f (celʹ)
+     * Slovene: [235]naloga f, [236]cilj [237](sl) m
+
+   process or execution of a program
+     * Dutch: [238]taak [239](nl) f
+     * Finnish: [240]tehtävä [241](fi)
+     * French: [242]tâche [243](fr) f
+     * Japanese: [244]タスク [245](ja) (tasuku)
+
+     * Korean: [246]태스크 (taeseukeu)
+     * Polish: [247]zadanie [248](pl) n
+     * Portuguese: [249]tarefa [250](pt) f
+     * Russian: [251]зада́ча [252](ru) f (zadáča)
+
+          The translations below need to be checked and inserted above
+          into the appropriate translation tables, removing any numbers.
+          Numbers do not necessarily match those in definitions. See
+          instructions at [253]Wiktionary:Entry layout#Translations.
+
+   Translations to be checked
+     * Afrikaans: ^(please [254]verify) [255]taak
+     * Arabic: ^(please [256]verify) [257]مُهِمَّة f (muhimma)
+     * German: ^(please [258]verify) [259]Aufgabe f
+     * Hebrew: ^(please [260]verify) [261]משימה f (mesima)
+
+     * Korean: ^(please [262]verify) [263]일 (il)
+     * Swedish: ^(please [264]verify) [265]uppgift
+     * Welsh: ^(please [266]verify) [267]tasg f
+
+Verb[[268]edit]
+
+   task (third-person singular simple present [269]tasks, present
+   participle [270]tasking, simple past and past participle [271]tasked)
+    1. ([272]transitive) To [273]assign a task to, or [274]impose a task
+       on.
+
+                On my first day in the office, I was tasked with sorting a
+                pile of invoices.
+
+          + 1610, [275]Shakespeare, [276]The Tempest, act 1 scene 2:
+
+                      All hail, great master! grave sir, hail! I come / To
+                      answer thy best pleasure; be't to fly, / To swim, to
+                      dive into the fire, to ride / On the curl'd clouds,
+                      to thy strong bidding task / Ariel and all his
+                      quality.
+
+          + Dryden
+
+                      There task thy maids, and exercise the loom.
+
+    2. ([277]transitive) To [278]oppress with severe or excessive
+       [279]burdens; to [280]tax.
+    3. ([281]transitive) To [282]charge, as with a [283]fault.
+          + Beaumont and Fletcher
+
+                      Too impudent to task me with those errors.
+
+Translations[[284]edit]
+
+   assign a task to
+     * Dutch: [285]opdragen [286](nl), een [287]taak [288](nl)
+       [289]toekennen [290](nl)
+     * Japanese: [291]課す [292](ja) ([293]かす, kasu)
+     * Portuguese: [294]atarefar [295](pt)
+
+     * Russian: [296]поруча́ть [297](ru) (poručátʹ),
+       [298]задава́ть [299](ru) (zadavátʹ), [300]выдава́ть [301]зада́ние
+       (vydavátʹ zadánije), (colloquial) [302]озада́чивать [303](ru)
+       (ozadáčivatʹ), (official) [304]вменя́ть в обя́занность (vmenjátʹ v
+       objázannostʹ)
+     * Spanish: [305]atarear [306](es)
+
+Anagrams[[307]edit]
+
+     * [308]AKST
+     * [309]askt
+     * [310]kast
+
+   Retrieved from
+   "[311]https://en.wiktionary.org/w/index.php?title=task&oldid=42714946"
+   [312]Categories:
+     * [313]English terms inherited from Middle English
+     * [314]English terms derived from Middle English
+     * [315]English terms derived from Old Northern French
+     * [316]English terms derived from Medieval Latin
+     * [317]English terms derived from Latin
+     * [318]English 1-syllable words
+     * [319]English terms with IPA pronunciation
+     * [320]English terms with audio links
+     * [321]English lemmas
+     * [322]English nouns
+     * [323]English countable nouns
+     * [324]en:Computing
+     * [325]English verbs
+     * [326]English transitive verbs
+
+   Hidden categories:
+     * [327]Requests for example sentences in English
+     * [328]Requests for translations into Georgian
+     * [329]Requests for review of Afrikaans translations
+     * [330]Requests for review of Arabic translations
+     * [331]Requests for review of German translations
+     * [332]Requests for review of Hebrew translations
+     * [333]Requests for review of Korean translations
+     * [334]Requests for review of Swedish translations
+     * [335]Requests for review of Welsh translations
+     * [336]Russian redlinks
+     * [337]Russian redlinks/t
+
+Navigation menu
+
+Personal tools
+
+     * Not logged in
+     * [338]Talk
+     * [339]Contributions
+     * [340]Create account
+     * [341]Log in
+
+Namespaces
+
+     * [342]Entry
+     * [343]Discussion
+
+Variants
+
+Views
+
+     * [344]Read
+     * [345]Edit
+     * [346]History
+
+More
+
+Search
+
+   [347]____________________ [348]Search [349]Go
+
+Navigation
+
+     * [350]Main Page
+     * [351]Community portal
+     * [352]Preferences
+     * [353]Requested entries
+     * [354]Recent changes
+     * [355]Random entry
+     * [356]Help
+     * [357]Donations
+     * [358]Contact us
+
+Tools
+
+     * [359]What links here
+     * [360]Related changes
+     * [361]Upload file
+     * [362]Special pages
+     * [363]Permanent link
+     * [364]Page information
+     * [365]Cite this page
+
+In other languages
+
+     * [366]العربية
+     * [367]Azərbaycanca
+     * [368]Български
+     * [369]Čeština
+     * [370]Cymraeg
+     * [371]Dansk
+     * [372]Eesti
+     * [373]Ελληνικά
+     * [374]Español
+     * [375]Esperanto
+     * [376]فارسی
+     * [377]Français
+     * [378]한국어
+     * [379]Հայերեն
+     * [380]हिन्दी
+     * [381]Ido
+     * [382]Italiano
+     * [383]ಕನ್ನಡ
+     * [384]Қазақша
+     * [385]Kurdî
+     * [386]Limburgs
+     * [387]Magyar
+     * [388]മലയാളം
+     * [389]မြန်မာဘာသာ
+     * [390]Nederlands
+     * [391]日本語
+     * [392]Norsk bokmål
+     * [393]Polski
+     * [394]Português
+     * [395]Русский
+     * [396]संस्कृतम्
+     * [397]Simple English
+     * [398]Suomi
+     * [399]Svenska
+     * [400]தமிழ்
+     * [401]తెలుగు
+     * [402]ᏣᎳᎩ
+     * [403]Türkçe
+     * [404]Tiếng Việt
+     * [405]中文
+
+Print/export
+
+     * [406]Create a book
+     * [407]Download as PDF
+     * [408]Printable version
+
+     * This page was last edited on 26 April 2017, at 07:21.
+     * Text is available under the [409]Creative Commons
+       Attribution-ShareAlike License; additional terms may apply. By
+       using this site, you agree to the [410]Terms of Use and
+       [411]Privacy Policy.
+
+     * [412]Privacy policy
+     * [413]About Wiktionary
+     * [414]Disclaimers
+     * [415]Developers
+     * [416]Cookie statement
+     * [417]Mobile view
+
+     * [418]Wikimedia Foundation
+     * [419]Powered by MediaWiki
+
+References
+
+   Visible links
+   1. https://en.wiktionary.org/w/index.php?title=task&action=edit
+   2. https://en.wiktionary.org/w/opensearch_desc.php
+   3. https://creativecommons.org/licenses/by-sa/3.0/
+   4. https://en.wiktionary.org/w/index.php?title=Special:RecentChanges&feed=atom
+   5. https://en.wiktionary.org/wiki/task#mw-head
+   6. https://en.wiktionary.org/wiki/task#p-search
+   7. https://en.wiktionary.org/wiki/Task
+   8. https://en.wiktionary.org/wiki/task#English
+   9. https://en.wiktionary.org/wiki/task#Etymology
+  10. https://en.wiktionary.org/wiki/task#Pronunciation
+  11. https://en.wiktionary.org/wiki/task#Noun
+  12. https://en.wiktionary.org/wiki/task#Usage_notes
+  13. https://en.wiktionary.org/wiki/task#Synonyms
+  14. https://en.wiktionary.org/wiki/task#Derived_terms
+  15. https://en.wiktionary.org/wiki/task#Translations
+  16. https://en.wiktionary.org/wiki/task#Verb
+  17. https://en.wiktionary.org/wiki/task#Translations_2
+  18. https://en.wiktionary.org/wiki/task#Anagrams
+  19. https://en.wiktionary.org/w/index.php?title=task&action=edit&section=1
+  20. https://en.wiktionary.org/w/index.php?title=task&action=edit&section=2
+  21. https://en.wikipedia.org/wiki/Middle_English_language
+  22. https://en.wiktionary.org/wiki/task#Middle_English
+  23. https://en.wiktionary.org/wiki/taske#Middle_English
+  24. https://en.wikipedia.org/wiki/Old_Norman
+  25. https://en.wiktionary.org/wiki/tasque#Old_French
+  26. https://en.wiktionary.org/wiki/tasche#Old_French
+  27. https://en.wikipedia.org/wiki/Medieval_Latin
+  28. https://en.wiktionary.org/wiki/tasca#Latin
+  29. https://en.wiktionary.org/wiki/taxa#Latin
+  30. https://en.wikipedia.org/wiki/Latin_language
+  31. https://en.wiktionary.org/wiki/taxare#Latin
+  32. https://en.wiktionary.org/w/index.php?title=task&action=edit&section=3
+  33. https://en.wikipedia.org/wiki/Received_Pronunciation
+  34. https://en.wiktionary.org/wiki/Wiktionary:International_Phonetic_Alphabet
+  35. https://en.wiktionary.org/wiki/Appendix:English_pronunciation
+  36. https://en.wikipedia.org/wiki/American_English
+  37. https://en.wiktionary.org/wiki/Wiktionary:International_Phonetic_Alphabet
+  38. https://en.wiktionary.org/wiki/Appendix:English_pronunciation
+  39. https://en.wiktionary.org/wiki/File:en-us-task.ogg
+  40. https://en.wiktionary.org/wiki/Rhymes:English/æsk
+  41. https://en.wiktionary.org/w/index.php?title=task&action=edit&section=4
+  42. https://en.wiktionary.org/wiki/tasks#English
+  43. https://en.wiktionary.org/wiki/piece
+  44. https://en.wiktionary.org/wiki/work
+  45. https://en.wiktionary.org/wiki/part
+  46. https://en.wiktionary.org/wiki/duty
+  47. http://www.economist.com/news/leaders/21583270-new-zealands-plan-regulate-designer-drugs-better-trying-ban-them-and-failing-new
+  48. https://en.wikipedia.org/wiki/The_Economist
+  49. https://en.wiktionary.org/wiki/difficult
+  50. https://en.wiktionary.org/wiki/tedious
+  51. https://en.wiktionary.org/wiki/undertaking
+  52. http://www.theguardian.com/profile/iansample
+  53. http://www.theguardian.com/lifeandstyle/2013/jul/08/irregular-bedtimes-affect-childrens-brains
+  54. https://en.wikipedia.org/wiki/The_Guardian_Weekly
+  55. https://en.wiktionary.org/wiki/objective
+  56. https://en.wiktionary.org/wiki/computing
+  57. https://en.wiktionary.org/wiki/process
+  58. https://en.wiktionary.org/wiki/execution
+  59. https://en.wiktionary.org/wiki/Wiktionary:Example_sentences
+  60. https://en.wiktionary.org/w/index.php?title=task&action=edit&section=5
+  61. https://en.wiktionary.org/w/index.php?title=task&action=edit&section=6
+  62. https://en.wiktionary.org/wiki/chore#English
+  63. https://en.wiktionary.org/wiki/job#English
+  64. https://en.wiktionary.org/wiki/undertaking#English
+  65. https://en.wiktionary.org/wiki/objective#English
+  66. https://en.wiktionary.org/wiki/goal#English
+  67. https://en.wiktionary.org/wiki/process#English
+  68. https://en.wiktionary.org/w/index.php?title=task&action=edit&section=7
+  69. https://en.wiktionary.org/wiki/multitasking#English
+  70. https://en.wiktionary.org/wiki/subtask#English
+  71. https://en.wiktionary.org/wiki/take_to_task#English
+  72. https://en.wiktionary.org/w/index.php?title=taskable&action=edit&redlink=1
+  73. https://en.wiktionary.org/wiki/taskbar#English
+  74. https://en.wiktionary.org/w/index.php?title=taskbody&action=edit&redlink=1
+  75. https://en.wiktionary.org/wiki/task_force#English
+  76. https://en.wiktionary.org/w/index.php?title=tasklet&action=edit&redlink=1
+  77. https://en.wiktionary.org/wiki/taskmaster#English
+  78. https://en.wiktionary.org/w/index.php?title=task&action=edit&section=8
+  79. https://en.wiktionary.org/wiki/detyrë#Albanian
+  80. https://sq.wiktionary.org/wiki/detyrë
+  81. https://en.wiktionary.org/wiki/مهمة#Arabic
+  82. https://en.wiktionary.org/wiki/առաջադրանք#Armenian
+  83. https://hy.wiktionary.org/wiki/առաջադրանք
+  84. https://en.wiktionary.org/w/index.php?title=заданне&action=edit&redlink=1
+  85. https://en.wiktionary.org/wiki/задача#Belarusian
+  86. https://en.wiktionary.org/wiki/tasca#Catalan
+  87. https://ca.wiktionary.org/wiki/tasca
+  88. https://en.wiktionary.org/wiki/課題#Mandarin
+  89. https://zh.wiktionary.org/wiki/課題
+  90. https://en.wiktionary.org/wiki/课题#Mandarin
+  91. https://zh.wiktionary.org/wiki/课题
+  92. https://en.wiktionary.org/wiki/作業#Mandarin
+  93. https://zh.wiktionary.org/wiki/作業
+  94. https://en.wiktionary.org/wiki/作业#Mandarin
+  95. https://zh.wiktionary.org/wiki/作业
+  96. https://en.wiktionary.org/wiki/任務#Mandarin
+  97. https://zh.wiktionary.org/wiki/任務
+  98. https://en.wiktionary.org/wiki/任务#Mandarin
+  99. https://zh.wiktionary.org/wiki/任务
+ 100. https://en.wiktionary.org/wiki/úkol#Czech
+ 101. https://cs.wiktionary.org/wiki/úkol
+ 102. https://en.wiktionary.org/wiki/úloha#Czech
+ 103. https://en.wiktionary.org/wiki/opgave#Danish
+ 104. https://en.wiktionary.org/w/index.php?title=tjans&action=edit&redlink=1
+ 105. https://en.wiktionary.org/wiki/job#Danish
+ 106. https://da.wiktionary.org/wiki/job
+ 107. https://en.wiktionary.org/wiki/taak#Dutch
+ 108. https://nl.wiktionary.org/wiki/taak
+ 109. https://en.wiktionary.org/wiki/opgave#Dutch
+ 110. https://nl.wiktionary.org/wiki/opgave
+ 111. https://en.wiktionary.org/wiki/tasko#Esperanto
+ 112. https://en.wiktionary.org/wiki/tehtävä#Finnish
+ 113. https://fi.wiktionary.org/wiki/tehtävä
+ 114. https://en.wiktionary.org/wiki/tâche#French
+ 115. https://fr.wiktionary.org/wiki/tâche
+ 116. https://en.wiktionary.org/wiki/tarefa#Galician
+ 117. https://gl.wiktionary.org/wiki/tarefa
+ 118. https://en.wiktionary.org/wiki/Aufgabe#German
+ 119. https://de.wiktionary.org/wiki/Aufgabe
+ 120. https://en.wiktionary.org/wiki/Pflicht#German
+ 121. https://de.wiktionary.org/wiki/Pflicht
+ 122. https://en.wiktionary.org/wiki/δουλειά#Greek
+ 123. https://el.wiktionary.org/wiki/δουλειά
+ 124. https://en.wiktionary.org/wiki/εργασία#Greek
+ 125. https://el.wiktionary.org/wiki/εργασία
+ 126. https://en.wiktionary.org/wiki/कार्य#Hindi
+ 127. https://hi.wiktionary.org/wiki/कार्य
+ 128. https://en.wiktionary.org/wiki/feladat#Hungarian
+ 129. https://hu.wiktionary.org/wiki/feladat
+ 130. https://en.wiktionary.org/wiki/compito#Italian
+ 131. https://it.wiktionary.org/wiki/compito
+ 132. https://en.wiktionary.org/wiki/仕事#Japanese
+ 133. https://ja.wiktionary.org/wiki/仕事
+ 134. https://en.wiktionary.org/wiki/課題#Japanese
+ 135. https://ja.wiktionary.org/wiki/課題
+ 136. https://en.wiktionary.org/wiki/일#Korean
+ 137. https://ko.wiktionary.org/wiki/일
+ 138. https://en.wiktionary.org/wiki/과제#Korean
+ 139. https://ko.wiktionary.org/wiki/과제
+ 140. https://en.wiktionary.org/wiki/uzdotais#Latvian
+ 141. https://en.wiktionary.org/w/index.php?title=užduotis&action=edit&redlink=1
+ 142. https://en.wiktionary.org/w/index.php?title=taumahi&action=edit&redlink=1
+ 143. https://en.wiktionary.org/wiki/कार्य#Marathi
+ 144. https://en.wiktionary.org/w/index.php?title=tequiua&action=edit&redlink=1
+ 145. https://en.wiktionary.org/wiki/oppgave#Norwegian
+ 146. https://no.wiktionary.org/wiki/oppgave
+ 147. https://en.wiktionary.org/wiki/کار#Persian
+ 148. https://fa.wiktionary.org/wiki/کار
+ 149. https://en.wiktionary.org/wiki/zadanie#Polish
+ 150. https://pl.wiktionary.org/wiki/zadanie
+ 151. https://en.wiktionary.org/wiki/tarefa#Portuguese
+ 152. https://pt.wiktionary.org/wiki/tarefa
+ 153. https://en.wiktionary.org/wiki/incumbência#Portuguese
+ 154. https://pt.wiktionary.org/wiki/incumbência
+ 155. https://en.wiktionary.org/wiki/dever#Portuguese
+ 156. https://pt.wiktionary.org/wiki/dever
+ 157. https://en.wiktionary.org/wiki/задание#Russian
+ 158. https://ru.wiktionary.org/wiki/задание
+ 159. https://en.wiktionary.org/wiki/задача#Russian
+ 160. https://ru.wiktionary.org/wiki/задача
+ 161. https://en.wiktionary.org/wiki/работа#Russian
+ 162. https://ru.wiktionary.org/wiki/работа
+ 163. https://en.wiktionary.org/wiki/gnìomh#Scottish_Gaelic
+ 164. https://en.wiktionary.org/w/index.php?title=naloga&action=edit&redlink=1
+ 165. https://en.wiktionary.org/wiki/tarea#Spanish
+ 166. https://es.wiktionary.org/wiki/tarea
+ 167. https://en.wiktionary.org/wiki/quehacer#Spanish
+ 168. https://es.wiktionary.org/wiki/quehacer
+ 169. https://en.wiktionary.org/wiki/uppgift#Swedish
+ 170. https://sv.wiktionary.org/wiki/uppgift
+ 171. https://en.wiktionary.org/wiki/abyad#Tagalog
+ 172. https://tl.wiktionary.org/wiki/abyad
+ 173. https://en.wiktionary.org/wiki/завдання#Ukrainian
+ 174. https://uk.wiktionary.org/wiki/завдання
+ 175. https://en.wiktionary.org/wiki/задача#Ukrainian
+ 176. https://en.wiktionary.org/wiki/تاپشۇرۇق#Uyghur
+ 177. https://en.wiktionary.org/w/index.php?title=tasg&action=edit&redlink=1
+ 178. https://cy.wiktionary.org/wiki/tasg
+ 179. https://en.wiktionary.org/wiki/任務#Mandarin
+ 180. https://zh.wiktionary.org/wiki/任務
+ 181. https://en.wiktionary.org/wiki/任务#Mandarin
+ 182. https://zh.wiktionary.org/wiki/任务
+ 183. https://en.wiktionary.org/wiki/opgave#Dutch
+ 184. https://nl.wiktionary.org/wiki/opgave
+ 185. https://en.wiktionary.org/wiki/tehtävä#Finnish
+ 186. https://fi.wiktionary.org/wiki/tehtävä
+ 187. https://en.wiktionary.org/wiki/corvée#French
+ 188. https://fr.wiktionary.org/wiki/corvée
+ 189. https://en.wiktionary.org/wiki/tâche#French
+ 190. https://fr.wiktionary.org/wiki/tâche
+ 191. https://en.wiktionary.org/wiki/αγγαρεία#Greek
+ 192. https://el.wiktionary.org/wiki/αγγαρεία
+ 193. https://en.wiktionary.org/wiki/incombenza#Italian
+ 194. https://it.wiktionary.org/wiki/incombenza
+ 195. https://en.wiktionary.org/wiki/任務#Japanese
+ 196. https://ja.wiktionary.org/wiki/任務
+ 197. https://en.wiktionary.org/wiki/問題#Japanese
+ 198. https://ja.wiktionary.org/wiki/問題
+ 199. https://en.wiktionary.org/wiki/문제#Korean
+ 200. https://ko.wiktionary.org/wiki/문제
+ 201. https://en.wiktionary.org/w/index.php?title=임무&action=edit&redlink=1
+ 202. https://ko.wiktionary.org/wiki/임무
+ 203. https://en.wiktionary.org/wiki/incumbência#Portuguese
+ 204. https://pt.wiktionary.org/wiki/incumbência
+ 205. https://en.wiktionary.org/wiki/задача#Russian
+ 206. https://ru.wiktionary.org/wiki/задача
+ 207. https://en.wiktionary.org/wiki/incumbencia#Spanish
+ 208. https://es.wiktionary.org/wiki/incumbencia
+ 209. https://en.wiktionary.org/wiki/nhiệm_vụ#Vietnamese
+ 210. https://vi.wiktionary.org/wiki/nhiệm_vụ
+ 211. https://en.wiktionary.org/wiki/課題#Mandarin
+ 212. https://zh.wiktionary.org/wiki/課題
+ 213. https://en.wiktionary.org/wiki/课题#Mandarin
+ 214. https://zh.wiktionary.org/wiki/课题
+ 215. https://en.wiktionary.org/wiki/作業#Mandarin
+ 216. https://zh.wiktionary.org/wiki/作業
+ 217. https://en.wiktionary.org/wiki/作业#Mandarin
+ 218. https://zh.wiktionary.org/wiki/作业
+ 219. https://en.wiktionary.org/wiki/mission#Danish
+ 220. https://en.wiktionary.org/wiki/doel#Dutch
+ 221. https://nl.wiktionary.org/wiki/doel
+ 222. https://en.wiktionary.org/wiki/tehtävä#Finnish
+ 223. https://fi.wiktionary.org/wiki/tehtävä
+ 224. https://en.wiktionary.org/wiki/任務#Japanese
+ 225. https://ja.wiktionary.org/wiki/任務
+ 226. https://en.wiktionary.org/w/index.php?title=tequiua&action=edit&redlink=1
+ 227. https://en.wiktionary.org/wiki/objetivo#Portuguese
+ 228. https://pt.wiktionary.org/wiki/objetivo
+ 229. https://en.wiktionary.org/wiki/задание#Russian
+ 230. https://ru.wiktionary.org/wiki/задание
+ 231. https://en.wiktionary.org/wiki/задача#Russian
+ 232. https://ru.wiktionary.org/wiki/задача
+ 233. https://en.wiktionary.org/wiki/цель#Russian
+ 234. https://ru.wiktionary.org/wiki/цель
+ 235. https://en.wiktionary.org/w/index.php?title=naloga&action=edit&redlink=1
+ 236. https://en.wiktionary.org/wiki/cilj#Slovene
+ 237. https://sl.wiktionary.org/wiki/cilj
+ 238. https://en.wiktionary.org/wiki/taak#Dutch
+ 239. https://nl.wiktionary.org/wiki/taak
+ 240. https://en.wiktionary.org/wiki/tehtävä#Finnish
+ 241. https://fi.wiktionary.org/wiki/tehtävä
+ 242. https://en.wiktionary.org/wiki/tâche#French
+ 243. https://fr.wiktionary.org/wiki/tâche
+ 244. https://en.wiktionary.org/wiki/タスク#Japanese
+ 245. https://ja.wiktionary.org/wiki/タスク
+ 246. https://en.wiktionary.org/w/index.php?title=태스크&action=edit&redlink=1
+ 247. https://en.wiktionary.org/wiki/zadanie#Polish
+ 248. https://pl.wiktionary.org/wiki/zadanie
+ 249. https://en.wiktionary.org/wiki/tarefa#Portuguese
+ 250. https://pt.wiktionary.org/wiki/tarefa
+ 251. https://en.wiktionary.org/wiki/задача#Russian
+ 252. https://ru.wiktionary.org/wiki/задача
+ 253. https://en.wiktionary.org/wiki/Wiktionary:Entry_layout#Translations
+ 254. https://en.wiktionary.org/wiki/Wiktionary:Translations#Translations_to_be_checked
+ 255. https://en.wiktionary.org/wiki/taak#Afrikaans
+ 256. https://en.wiktionary.org/wiki/Wiktionary:Translations#Translations_to_be_checked
+ 257. https://en.wiktionary.org/wiki/مهمة#Arabic
+ 258. https://en.wiktionary.org/wiki/Wiktionary:Translations#Translations_to_be_checked
+ 259. https://en.wiktionary.org/wiki/Aufgabe#German
+ 260. https://en.wiktionary.org/wiki/Wiktionary:Translations#Translations_to_be_checked
+ 261. https://en.wiktionary.org/wiki/משימה#Hebrew
+ 262. https://en.wiktionary.org/wiki/Wiktionary:Translations#Translations_to_be_checked
+ 263. https://en.wiktionary.org/wiki/일#Korean
+ 264. https://en.wiktionary.org/wiki/Wiktionary:Translations#Translations_to_be_checked
+ 265. https://en.wiktionary.org/wiki/uppgift#Swedish
+ 266. https://en.wiktionary.org/wiki/Wiktionary:Translations#Translations_to_be_checked
+ 267. https://en.wiktionary.org/w/index.php?title=tasg&action=edit&redlink=1
+ 268. https://en.wiktionary.org/w/index.php?title=task&action=edit&section=9
+ 269. https://en.wiktionary.org/wiki/tasks#English
+ 270. https://en.wiktionary.org/wiki/tasking#English
+ 271. https://en.wiktionary.org/wiki/tasked#English
+ 272. https://en.wiktionary.org/wiki/Appendix:Glossary#transitive
+ 273. https://en.wiktionary.org/wiki/assign
+ 274. https://en.wiktionary.org/wiki/impose
+ 275. https://en.wikipedia.org/wiki/William_Shakespeare
+ 276. https://en.wikisource.org/wiki/The_Tempest
+ 277. https://en.wiktionary.org/wiki/Appendix:Glossary#transitive
+ 278. https://en.wiktionary.org/wiki/oppress
+ 279. https://en.wiktionary.org/wiki/burden
+ 280. https://en.wiktionary.org/wiki/tax
+ 281. https://en.wiktionary.org/wiki/Appendix:Glossary#transitive
+ 282. https://en.wiktionary.org/wiki/charge
+ 283. https://en.wiktionary.org/wiki/fault
+ 284. https://en.wiktionary.org/w/index.php?title=task&action=edit&section=10
+ 285. https://en.wiktionary.org/wiki/opdragen#Dutch
+ 286. https://nl.wiktionary.org/wiki/opdragen
+ 287. https://en.wiktionary.org/wiki/taak#Dutch
+ 288. https://nl.wiktionary.org/wiki/taak
+ 289. https://en.wiktionary.org/wiki/toekennen#Dutch
+ 290. https://nl.wiktionary.org/wiki/toekennen
+ 291. https://en.wiktionary.org/wiki/課す#Japanese
+ 292. https://ja.wiktionary.org/wiki/課す
+ 293. https://en.wiktionary.org/wiki/かす
+ 294. https://en.wiktionary.org/wiki/atarefar#Portuguese
+ 295. https://pt.wiktionary.org/wiki/atarefar
+ 296. https://en.wiktionary.org/wiki/поручать#Russian
+ 297. https://ru.wiktionary.org/wiki/поручать
+ 298. https://en.wiktionary.org/wiki/задавать#Russian
+ 299. https://ru.wiktionary.org/wiki/задавать
+ 300. https://en.wiktionary.org/wiki/выдавать#Russian
+ 301. https://en.wiktionary.org/wiki/задание#Russian
+ 302. https://en.wiktionary.org/wiki/озадачивать#Russian
+ 303. https://ru.wiktionary.org/wiki/озадачивать
+ 304. https://en.wiktionary.org/w/index.php?title=вменять_в_обязанность&action=edit&redlink=1
+ 305. https://en.wiktionary.org/wiki/atarear#Spanish
+ 306. https://es.wiktionary.org/wiki/atarear
+ 307. https://en.wiktionary.org/w/index.php?title=task&action=edit&section=11
+ 308. https://en.wiktionary.org/wiki/AKST#English
+ 309. https://en.wiktionary.org/wiki/askt#English
+ 310. https://en.wiktionary.org/wiki/kast#English
+ 311. https://en.wiktionary.org/w/index.php?title=task&oldid=42714946
+ 312. https://en.wiktionary.org/wiki/Special:Categories
+ 313. https://en.wiktionary.org/wiki/Category:English_terms_inherited_from_Middle_English
+ 314. https://en.wiktionary.org/wiki/Category:English_terms_derived_from_Middle_English
+ 315. https://en.wiktionary.org/wiki/Category:English_terms_derived_from_Old_Northern_French
+ 316. https://en.wiktionary.org/wiki/Category:English_terms_derived_from_Medieval_Latin
+ 317. https://en.wiktionary.org/wiki/Category:English_terms_derived_from_Latin
+ 318. https://en.wiktionary.org/wiki/Category:English_1-syllable_words
+ 319. https://en.wiktionary.org/wiki/Category:English_terms_with_IPA_pronunciation
+ 320. https://en.wiktionary.org/wiki/Category:English_terms_with_audio_links
+ 321. https://en.wiktionary.org/wiki/Category:English_lemmas
+ 322. https://en.wiktionary.org/wiki/Category:English_nouns
+ 323. https://en.wiktionary.org/wiki/Category:English_countable_nouns
+ 324. https://en.wiktionary.org/wiki/Category:en:Computing
+ 325. https://en.wiktionary.org/wiki/Category:English_verbs
+ 326. https://en.wiktionary.org/wiki/Category:English_transitive_verbs
+ 327. https://en.wiktionary.org/wiki/Category:Requests_for_example_sentences_in_English
+ 328. https://en.wiktionary.org/wiki/Category:Requests_for_translations_into_Georgian
+ 329. https://en.wiktionary.org/wiki/Category:Requests_for_review_of_Afrikaans_translations
+ 330. https://en.wiktionary.org/wiki/Category:Requests_for_review_of_Arabic_translations
+ 331. https://en.wiktionary.org/wiki/Category:Requests_for_review_of_German_translations
+ 332. https://en.wiktionary.org/wiki/Category:Requests_for_review_of_Hebrew_translations
+ 333. https://en.wiktionary.org/wiki/Category:Requests_for_review_of_Korean_translations
+ 334. https://en.wiktionary.org/wiki/Category:Requests_for_review_of_Swedish_translations
+ 335. https://en.wiktionary.org/wiki/Category:Requests_for_review_of_Welsh_translations
+ 336. https://en.wiktionary.org/wiki/Category:Russian_redlinks
+ 337. https://en.wiktionary.org/wiki/Category:Russian_redlinks/t
+ 338. https://en.wiktionary.org/wiki/Special:MyTalk
+ 339. https://en.wiktionary.org/wiki/Special:MyContributions
+ 340. https://en.wiktionary.org/w/index.php?title=Special:CreateAccount&returnto=task
+ 341. https://en.wiktionary.org/w/index.php?title=Special:UserLogin&returnto=task
+ 342. https://en.wiktionary.org/wiki/task
+ 343. https://en.wiktionary.org/wiki/Talk:task
+ 344. https://en.wiktionary.org/wiki/task
+ 345. https://en.wiktionary.org/w/index.php?title=task&action=edit
+ 346. https://en.wiktionary.org/w/index.php?title=task&action=history
+ 347. form field = text entry field
+ 348. form field = submit button
+ 349. form field = submit button
+ 350. https://en.wiktionary.org/wiki/Wiktionary:Main_Page
+ 351. https://en.wiktionary.org/wiki/Wiktionary:Community_portal
+ 352. https://en.wiktionary.org/wiki/Wiktionary:Per-browser_preferences
+ 353. https://en.wiktionary.org/wiki/Wiktionary:Requested_entries
+ 354. https://en.wiktionary.org/wiki/Special:RecentChanges
+ 355. https://en.wiktionary.org/wiki/Special:Random
+ 356. https://en.wiktionary.org/wiki/Help:Contents
+ 357. https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&utm_medium=sidebar&utm_campaign=C13_en.wiktionary.org&uselang=en
+ 358. https://en.wiktionary.org/wiki/Wiktionary:Contact_us
+ 359. https://en.wiktionary.org/wiki/Special:WhatLinksHere/task
+ 360. https://en.wiktionary.org/wiki/Special:RecentChangesLinked/task
+ 361. https://commons.wikimedia.org/wiki/Special:UploadWizard?uselang=en
+ 362. https://en.wiktionary.org/wiki/Special:SpecialPages
+ 363. https://en.wiktionary.org/w/index.php?title=task&oldid=42714946
+ 364. https://en.wiktionary.org/w/index.php?title=task&action=info
+ 365. https://en.wiktionary.org/w/index.php?title=Special:CiteThisPage&page=task&id=42714946
+ 366. https://ar.wiktionary.org/wiki/task
+ 367. https://az.wiktionary.org/wiki/task
+ 368. https://bg.wiktionary.org/wiki/task
+ 369. https://cs.wiktionary.org/wiki/task
+ 370. https://cy.wiktionary.org/wiki/task
+ 371. https://da.wiktionary.org/wiki/task
+ 372. https://et.wiktionary.org/wiki/task
+ 373. https://el.wiktionary.org/wiki/task
+ 374. https://es.wiktionary.org/wiki/task
+ 375. https://eo.wiktionary.org/wiki/task
+ 376. https://fa.wiktionary.org/wiki/task
+ 377. https://fr.wiktionary.org/wiki/task
+ 378. https://ko.wiktionary.org/wiki/task
+ 379. https://hy.wiktionary.org/wiki/task
+ 380. https://hi.wiktionary.org/wiki/task
+ 381. https://io.wiktionary.org/wiki/task
+ 382. https://it.wiktionary.org/wiki/task
+ 383. https://kn.wiktionary.org/wiki/task
+ 384. https://kk.wiktionary.org/wiki/task
+ 385. https://ku.wiktionary.org/wiki/task
+ 386. https://li.wiktionary.org/wiki/task
+ 387. https://hu.wiktionary.org/wiki/task
+ 388. https://ml.wiktionary.org/wiki/task
+ 389. https://my.wiktionary.org/wiki/task
+ 390. https://nl.wiktionary.org/wiki/task
+ 391. https://ja.wiktionary.org/wiki/task
+ 392. https://no.wiktionary.org/wiki/task
+ 393. https://pl.wiktionary.org/wiki/task
+ 394. https://pt.wiktionary.org/wiki/task
+ 395. https://ru.wiktionary.org/wiki/task
+ 396. https://sa.wiktionary.org/wiki/task
+ 397. https://simple.wiktionary.org/wiki/task
+ 398. https://fi.wiktionary.org/wiki/task
+ 399. https://sv.wiktionary.org/wiki/task
+ 400. https://ta.wiktionary.org/wiki/task
+ 401. https://te.wiktionary.org/wiki/task
+ 402. https://chr.wiktionary.org/wiki/task
+ 403. https://tr.wiktionary.org/wiki/task
+ 404. https://vi.wiktionary.org/wiki/task
+ 405. https://zh.wiktionary.org/wiki/task
+ 406. https://en.wiktionary.org/w/index.php?title=Special:Book&bookcmd=book_creator&referer=task
+ 407. https://en.wiktionary.org/w/index.php?title=Special:Book&bookcmd=render_article&arttitle=task&returnto=task&oldid=42714946&writer=rdf2latex
+ 408. https://en.wiktionary.org/w/index.php?title=task&printable=yes
+ 409. https://creativecommons.org/licenses/by-sa/3.0/
+ 410. https://wikimediafoundation.org/wiki/Terms_of_Use
+ 411. https://wikimediafoundation.org/wiki/Privacy_policy
+ 412. https://wikimediafoundation.org/wiki/Privacy_policy
+ 413. https://en.wiktionary.org/wiki/Wiktionary:About
+ 414. https://en.wiktionary.org/wiki/Wiktionary:General_disclaimer
+ 415. https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute
+ 416. https://wikimediafoundation.org/wiki/Cookie_statement
+ 417. https://en.m.wiktionary.org/w/index.php?title=task&mobileaction=toggle_view_mobile
+ 418. https://wikimediafoundation.org/
+ 419. https://www.mediawiki.org/
+
+   Hidden links:
+ 421. https://en.wiktionary.org/wiki/task
+ 422. https://en.wiktionary.org/wiki/task
+ 423. https://en.wiktionary.org/wiki/Wiktionary:Main_Page

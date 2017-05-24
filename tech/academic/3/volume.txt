@@ -1,0 +1,1330 @@
+   #[1]Edit [2]Wiktionary (en) [3]copyright [4]Wiktionary Atom feed
+
+volume
+
+   Definition from Wiktionary, the free dictionary
+   Jump to: [5]navigation, [6]search
+
+Contents
+
+     * [7]1 English
+          + [8]1.1 Alternative forms
+          + [9]1.2 Etymology
+          + [10]1.3 Pronunciation
+          + [11]1.4 Noun
+               o [12]1.4.1 See also
+               o [13]1.4.2 Derived terms
+               o [14]1.4.3 Translations
+     * [15]2 Asturian
+          + [16]2.1 Noun
+     * [17]3 Dutch
+          + [18]3.1 Pronunciation
+          + [19]3.2 Noun
+     * [20]4 French
+          + [21]4.1 Etymology
+          + [22]4.2 Pronunciation
+          + [23]4.3 Noun
+               o [24]4.3.1 Related terms
+          + [25]4.4 Further reading
+     * [26]5 Galician
+          + [27]5.1 Etymology
+          + [28]5.2 Noun
+     * [29]6 Italian
+          + [30]6.1 Noun
+               o [31]6.1.1 Related terms
+     * [32]7 Old French
+          + [33]7.1 Etymology
+          + [34]7.2 Noun
+               o [35]7.2.1 Descendants
+     * [36]8 Portuguese
+          + [37]8.1 Etymology
+          + [38]8.2 Pronunciation
+          + [39]8.3 Noun
+               o [40]8.3.1 Synonyms
+               o [41]8.3.2 Related terms
+
+English[[42]edit]
+
+   [43]Wikipedia has articles on:
+   [44]volume
+   [45]Wikipedia
+   [46]Wikipedia has an article on:
+   [47]volume
+   [48]Wikipedia
+
+Alternative forms[[49]edit]
+
+     * [50]vol. (abbreviation)
+
+Etymology[[51]edit]
+
+   From [52]Old French [53]volume, from [54]Latin [55]volūmen (“book,
+   roll”), from [56]volvō (“roll, turn about”).
+
+Pronunciation[[57]edit]
+
+     * ([58]UK) [59]IPA^([60]key): /ˈvɒl.juːm/, /ˈvɒl.jʊm/
+     * ([61]US) [62]IPA^([63]key): /ˈvɑl.jum/, /ˈvɑl.jəm/
+     *
+
+       Audio (US)
+
+       ([64]file)
+
+Noun[[65]edit]
+
+   volume ([66]countable and [67]uncountable, plural [68]volumes)
+    1. A unit of three-dimensional [69]measure of [70]space that comprises
+       a [71]length, a [72]width and a [73]height. It is measured in units
+       of cubic [74]centimeters in metric, [75]cubic inches or cubic
+       [76]feet in English measurement.
+
+                The room is 9x12x8, so its volume is 864 cubic feet.
+
+    2. Strength of [77]sound. Measured in [78]decibels.
+
+                Please turn down the volume on the [79]stereo.
+
+    3. The issues of a [80]periodical over a period of one year.
+
+                I looked at this week's copy of the magazine. It was
+                volume 23, issue 45.
+
+    4. A [81]bound book.
+          + 1898, [82]Winston Churchill, chapter 1, in [83]The Celebrity:
+
+                      However, with the dainty volume my quondam friend
+                      sprang into fame. At the same time he cast off the
+                      chrysalis of a commonplace existence.
+
+    5. A single book of a publication issued in multi-book format, such as
+       an [84]encyclopedia.
+
+                The letter "G" was found in volume 4.
+
+    6. [85]Quantity.
+
+                The volume of ticket sales decreased this week.
+
+    7. (economics) The total supply of [86]money in circulation or, less
+       frequently, total amount of [87]credit extended, within a specified
+       national market or worldwide.
+    8. ([88]computing) An accessible [89]storage area with a single
+       [90]file system, typically resident on a single [91]partition of a
+       [92]hard disk.
+
+See also[[93]edit]
+
+     * [94]book
+     * [95]tome
+
+   cubic distance
+
+     * Customary: [96]ounces, [97]pints, [98]quarts, [99]gallons, cubic
+       [100]inches ([101]in^3), cubic feet, cubic yards, cubic miles
+     * Metric: [102]mililiters, [103]liters, cubic [104]meters (m^3),
+       cubic centimeters ("[105]cc") ([106]cm^3)
+
+   sound
+
+     * Universal: [107]bels, [108]decibels
+     * Metric: [109]millipascals (mPa)
+
+Derived terms[[110]edit]
+
+     * [111]voluminous
+
+Translations[[112]edit]
+
+   unit of three dimensional measure that consists of a length, a width
+   and a height
+     * Arabic: [113]حجم
+     * Armenian: [114]ծավալ [115](hy) (caval)
+     * Asturian: [116]volume m
+     * Bulgarian: [117]обем [118](bg) m (obem)
+     * Catalan: [119]volum [120](ca) m
+     * Chinese:
+
+                Mandarin: [121]容積 [122](zh), [123]容积 [124](zh) (róngjī),
+                [125]體積 [126](zh), [127]体积 [128](zh) (tǐjī)
+
+     * Czech: [129]objem [130](cs) m
+     * Dutch: [131]volume [132](nl) n, [133]inhoud [134](nl) m
+     * Esperanto: [135]volumeno
+     * Finnish: [136]tilavuus [137](fi)
+     * French: [138]volume [139](fr) m
+     * Galician: [140]volume [141](gl) m
+     * Georgian: [142]მოცულობა (moculoba)
+     * German: [143]Volumen [144](de) n
+     * Greek: [145]όγκος [146](el) m (ógkos)
+     * Haitian Creole: [147]volim
+     * Hebrew: [148]נפח [149](he) m
+     * Hungarian: [150]térfogat [151](hu)
+     * Ido: [152]volumino [153](io)
+     * Interlingua: [154]volumine
+
+     * Italian: [155]volume [156](it) m
+     * Japanese: [157]体積 [158](ja) (たいせき, taiseki)
+     * Macedonian: [159]во́лумен m (vólumen), [160]зафа́тнина f
+       (zafátnina)
+     * Malay: [161]isipadu
+     * Maori: [162]nui [163](mi), [164]rōrahi
+     * Mongolian: [165]багтаамж [166](mn) (bagtaamž),
+       [167]эзлэхүүн [168](mn) (ezlehüün)
+     * Persian: [169]حجم [170](fa) (hajm)
+     * Polish: [171]objętość [172](pl) f
+     * Portuguese: [173]volume [174](pt) m
+     * Romanian: [175]volum [176](ro) n
+     * Russian: [177]объём [178](ru) m (obʺjóm)
+     * Serbo-Croatian:
+
+                Cyrillic: [179]обу́јам m (Croatian), [180]запремина f
+                (Serbian, Bosnian)
+                Roman: [181]obújam [182](sh) m (Croatian),
+                [183]zapremina [184](sh) m (Serbian, Bosnian)
+
+     * Slovak: [185]objem m
+     * Slovene: [186]prostornina [187](sl) f, [188]volumen m
+     * Spanish: [189]volumen [190](es) m
+     * Swedish: [191]volym [192](sv) c
+     * Tagalog: [193]buok
+     * Telugu: [194]ఘనపరిమాణం (ghanaparimāṇaṃ)
+     * Thai: [195]ปริมาตร [196](th)
+     * Turkish: [197]hacim [198](tr)
+
+   strength of sound
+     * Armenian: [199]բարձրություն [200](hy) (barjrutʿyun)
+     * Asturian: [201]volume m
+     * Bulgarian: [[сила#Bulgarian|[202]сила (на [203]звук)]] [204](bg) f
+       (sila (na zvuk))
+     * Catalan: [205]volum [206](ca) m
+     * Chinese:
+
+                Mandarin: please add this translation if you can
+
+     * Czech: [207]hlasitost f
+     * Dutch: [208]volume [209](nl) n
+     * Finnish: [210]äänenvoimakkuus [211](fi)
+     * French: [212]volume [213](fr) m
+     * Georgian: [214]ხმა (xma)
+     * German: [215]Lautstärke [216](de) f
+     * Greek: [217]ένταση [218](el) f (éntasi)
+     * Hebrew: [219]עוצמת קול f
+     * Hungarian: [220]hangerő [221](hu)
+     * Interlingua: [222]volumine
+     * Italian: [223]volume [224](it) m
+
+     * Japanese: [225]音量 [226](ja) (おんりょう, onryou), [227]声量 (せいりょう,
+       seiryou)
+     * Khmer: please add this translation if you can
+     * Macedonian: [228]ја́чина f (jáčina), [229]гла́сност f (glásnost)
+     * Malay: [230]kelantangan
+     * Mongolian: [231]дууны хүч (duuny hüč)
+     * Persian: [232]صدا [233](fa) (sedâ)
+     * Polish: [234]głośność [235](pl) f
+     * Portuguese: [236]volume [237](pt) m
+     * Romanian: [238]volum [239](ro) n
+     * Russian: [240]гро́мкость [241](ru) f (grómkostʹ)
+     * Slovak: [242]sila f
+     * Slovene: [243]glasnost f
+     * Spanish: [244]volumen [245](es) m
+     * Swedish: [246]volym [247](sv) c, [248]ljudvolym c,
+       [249]ljudstyrka c
+     * Thai: [250]ความดัง
+     * Turkish: [251]ses [252](tr)
+
+   issues of a periodical over a period of one year
+     * Armenian: [253]հատոր [254](hy) (hator)
+     * Bulgarian: [255]година f (godina)
+     * Catalan: [256]volum [257](ca) m
+     * Dutch: [258]jaargang [259](nl) m
+     * Finnish: [260]vuosikerta [261](fi)
+     * Galician: [262]volume [263](gl) m
+     * German: [264]Jahrgang [265](de) m
+     * Greek: [266]έτος [267](el) n (étos), [268]χρόνος [269](el) m
+       (chrónos)
+     * Hungarian: [270]évfolyam [271](hu)
+     * Irish: [272]imleabhar m
+     * Italian: [273]volume [274](it) m
+     * Japanese: [275]単行本 (tankōbon)
+
+     * Macedonian: [276]го́дина f (gódina)
+     * Persian: [277]دوره [278](fa) (doure)
+     * Polish: [279]rocznik [280](pl) m
+     * Portuguese: [281]volume [282](pt) m
+     * Russian: [283]том [284](ru) m (tom), [285]но́мер [286](ru) m
+       (nómer), [287]кни́га [288](ru) f (kníga)
+     * Slovak: [289]ročník m
+     * Slovene: [290]letnik m
+     * Spanish: [291]volumen [292](es) m
+     * Telugu: [293]సంపుటి [294](te) (saṃpuṭi)
+     * Thai: [295]เล่ม (lêm), [296]ฉบับ [297](th) (chà-bàp)
+
+   single book of a publication issued in multi-book format, such as an
+   encyclopedia
+     * Arabic: [298]جزء [299](ar)
+     * Armenian: [300]հատոր [301](hy) (hator)
+     * Azeri: [302]cild [303](az)
+     * Belarusian: [304]том m (tom)
+     * Bulgarian: [305]том [306](bg) m (tom)
+     * Catalan: [307]volum [308](ca) m
+     * Chinese:
+
+                Mandarin: [309]卷 [310](zh) (juàn)
+
+     * Czech: [311]svazek [312](cs) m
+     * Dutch: [313]boekdeel [314](nl) n
+     * Esperanto: [315]volumo
+     * Finnish: [316]kirja [317](fi), [318]nide [319](fi),
+       [320]volyymi [321](fi), [322]osa [323](fi)
+     * French: [324]volume [325](fr) m
+     * Galician: [326]volume [327](gl) m
+     * Georgian: [328]ტომი (ṭomi)
+     * German: [329]Band [330](de) m
+     * Greek: [331]τόμος [332](el) m (tómos)
+     * Hungarian: [333]kötet [334](hu)
+     * Ido: [335]tomo [336](io)
+     * Irish: [337]imleabhar m
+     * Italian: [338]volume [339](it) m
+     * Japanese: [340]巻 [341](ja) (かん, kan)
+
+     * Korean: [342]권 [343](ko) (gwon) ([344]卷 [345](ko))
+     * Lithuanian: [346]tomas m
+     * Macedonian: [347]том m (tom)
+     * Malay: [348]jilid
+     * Mongolian: [349]ном [350](mn) (nom), [351]боть [352](mn) (botʹ)
+     * Persian: [353]جلد [354](fa) (jeld)
+     * Polish: [355]tom [356](pl) m
+     * Portuguese: [357]volume [358](pt) m, [359]tomo [360](pt) m
+     * Russian: [361]том [362](ru) m (tom), [363]кни́га [364](ru) f
+       (kníga)
+     * Serbo-Croatian:
+
+                Cyrillic: [365]све̏зак m
+                Roman: [366]svȅzak [367](sh) m
+
+     * Slovak: [368]zväzok m
+     * Slovene: [369]zvezek [370](sl) m, [371]knjiga [372](sl) f
+     * Spanish: [373]volumen [374](es) m
+     * Swedish: [375]volym [376](sv) c, [377]band [378](sv) n
+     * Tagalog: [379]buok
+     * Thai: [380]เล่ม (lêm), [381]ฉบับ [382](th) (chà-bàp)
+     * Turkish: [383]cilt [384](tr)
+     * Welsh: [385]cyfrol f
+
+   synonym for quantity
+     * Armenian: [386]ծավալ [387](hy) (caval)
+     * Catalan: [388]volum [389](ca) m
+     * Finnish: [390]määrä [391](fi)
+     * French: [392]volume [393](fr) m
+     * Georgian: [394]მოცულობა (moculoba)
+     * Greek: [395]όγκος [396](el) m (ógkos), [397]κυβισμός [398](el) m
+       (kyvismós)
+     * Hungarian: [399]volumen [400](hu)
+
+     * Italian: [401]volume [402](it) m
+     * Macedonian: [403]о́бем m (óbem)
+     * Portuguese: [404]volume [405](pt) m
+     * Romanian: [406]volum [407](ro) n
+     * Russian: [408]объём [409](ru) (obʺjóm)
+     * Spanish: [410]volumen [411](es) m
+     * Swedish: [412]volym [413](sv) c
+
+          The translations below need to be checked and inserted above
+          into the appropriate translation tables, removing any numbers.
+          Numbers do not necessarily match those in definitions. See
+          instructions at [414]Wiktionary:Entry layout#Translations.
+
+   Translations to be checked
+     * Arabic: ^(please [415]verify) [416]الحجم
+     __________________________________________________________________
+
+Asturian[[417]edit]
+
+Noun[[418]edit]
+
+   volume m (plural [419]volumes)
+    1. [420]volume
+     __________________________________________________________________
+
+Dutch[[421]edit]
+
+   Dutch [422]Wikipedia has an article on:
+   [423]volume
+   [424]Wikipedia ^nl
+
+Pronunciation[[425]edit]
+
+     *
+
+       Audio
+
+       ([426]file)
+
+Noun[[427]edit]
+
+   volume n (plural [428]volumen or [429]volumes, [430]diminutive
+   [431]volumetje n)
+    1. [432]volume
+     __________________________________________________________________
+
+French[[433]edit]
+
+Etymology[[434]edit]
+
+   From [435]Latin [436]volūmen.
+
+Pronunciation[[437]edit]
+
+     * [438]IPA^([439]key): /vɔ.lym/
+     *
+
+       audio
+
+       ([440]file)
+
+Noun[[441]edit]
+
+   volume m (plural [442]volumes)
+    1. [443]volume (of a book, a written work)
+    2. [444]volume (sound)
+    3. [445]volume (amount of space something takes up)
+    4. [446]volume (amount; quantity)
+    5. ([447]figuratively) an overly long piece of writing
+
+Related terms[[448]edit]
+
+     * [449]volumétrique
+     * [450]volumineux
+
+Further reading[[451]edit]
+
+     * “[452]volume” in [453]le Trésor de la langue française informatisé
+       (The Digitized Treasury of the French Language).
+     __________________________________________________________________
+
+Galician[[454]edit]
+
+Etymology[[455]edit]
+
+   From [456]Latin [457]volūmen (“a book, roll”).
+
+Noun[[458]edit]
+
+   volume m (plural [459]volumes)
+    1. [460]volume (quantity of space)
+    2. [461]volume (single book of a published work)
+     __________________________________________________________________
+
+Italian[[462]edit]
+
+Noun[[463]edit]
+
+   volume m (plural [464]volumi)
+    1. [465]volume
+
+Related terms[[466]edit]
+
+     * [467]volumenometro
+     * [468]volumetria
+     * [469]volumetrico
+     * [470]voluminosità
+     * [471]voluminoso
+     __________________________________________________________________
+
+Old French[[472]edit]
+
+Etymology[[473]edit]
+
+   Borrowed from [474]Latin [475]volūmen (“a book, roll”).
+
+Noun[[476]edit]
+
+   volume m, f
+    1. [477]volume, specifically a collection of written works
+
+Descendants[[478]edit]
+
+     * English: [479]volume (borrowed)
+     * French: [480]volume
+     __________________________________________________________________
+
+Portuguese[[481]edit]
+
+Etymology[[482]edit]
+
+   From [483]Old Portuguese [484]volume, a [485]borrowing from [486]Latin
+   [487]volūmen.
+
+Pronunciation[[488]edit]
+
+     * ([489]Brazil) [490]IPA^([491]key): /vo.ˈlu.mi/
+
+Noun[[492]edit]
+
+   volume m (plural [493]volumes)
+    1. (geometry) [494]volume (unit of three-dimensional measure)
+    2. [495]volume; [496]loudness (strength of sound)
+    3. (publishing) [497]volume (issues of a periodical over a period of
+       one year)
+    4. (publishing) [498]volume (individual book of a publication issued
+       as a set of books)
+    5. (chiefly [499]historical) [500]volume (bound book)
+    6. [501]volume; [502]quantity
+
+Synonyms[[503]edit]
+
+     * (single book of a set of books): [504]tomo
+     * (quantity): [505]quantidade, [506]quantia
+
+Related terms[[507]edit]
+
+     * [508]volumoso
+
+   Retrieved from
+   "[509]https://en.wiktionary.org/w/index.php?title=volume&oldid=42880121
+   "
+   [510]Categories:
+     * [511]English terms derived from Old French
+     * [512]English terms derived from Latin
+     * [513]English 2-syllable words
+     * [514]English terms with IPA pronunciation
+     * [515]English terms with audio links
+     * [516]English lemmas
+     * [517]English nouns
+     * [518]English uncountable nouns
+     * [519]English countable nouns
+     * [520]en:Economics
+     * [521]en:Computing
+     * [522]Asturian lemmas
+     * [523]Asturian nouns
+     * [524]Dutch terms with audio links
+     * [525]Dutch lemmas
+     * [526]Dutch nouns
+     * [527]Dutch nouns with plural in -en
+     * [528]Dutch nouns with plural in -s
+     * [529]French terms derived from Latin
+     * [530]French 2-syllable words
+     * [531]French terms with IPA pronunciation
+     * [532]French terms with audio links
+     * [533]French lemmas
+     * [534]French nouns
+     * [535]French masculine nouns
+     * [536]French countable nouns
+     * [537]Galician terms derived from Latin
+     * [538]Galician lemmas
+     * [539]Galician nouns
+     * [540]gl:Geometry
+     * [541]Italian lemmas
+     * [542]Italian nouns
+     * [543]Italian countable nouns
+     * [544]Old French terms derived from Latin
+     * [545]Old French lemmas
+     * [546]Old French nouns
+     * [547]Portuguese terms inherited from Old Portuguese
+     * [548]Portuguese terms derived from Old Portuguese
+     * [549]Portuguese terms borrowed from Latin
+     * [550]Portuguese terms derived from Latin
+     * [551]Portuguese terms with IPA pronunciation
+     * [552]Portuguese lemmas
+     * [553]Portuguese nouns
+     * [554]pt:Geometry
+     * [555]pt:Publishing
+     * [556]Portuguese terms with historical senses
+
+   Hidden categories:
+     * [557]etyl cleanup/en
+     * [558]Telugu redlinks
+     * [559]Telugu redlinks/t
+     * [560]Requests for translations into Mandarin
+     * [561]Requests for translations into Khmer
+     * [562]Telugu redlinks/t+
+     * [563]Requests for review of Arabic translations
+     * [564]etyl cleanup
+     * [565]bor with nocap
+     * [566]bor without notext
+
+Navigation menu
+
+Personal tools
+
+     * Not logged in
+     * [567]Talk
+     * [568]Contributions
+     * [569]Create account
+     * [570]Log in
+
+Namespaces
+
+     * [571]Entry
+     * [572]Discussion
+
+Variants
+
+Views
+
+     * [573]Read
+     * [574]Edit
+     * [575]History
+
+More
+
+Search
+
+   [576]____________________ [577]Search [578]Go
+
+Navigation
+
+     * [579]Main Page
+     * [580]Community portal
+     * [581]Preferences
+     * [582]Requested entries
+     * [583]Recent changes
+     * [584]Random entry
+     * [585]Help
+     * [586]Donations
+     * [587]Contact us
+
+Tools
+
+     * [588]What links here
+     * [589]Related changes
+     * [590]Upload file
+     * [591]Special pages
+     * [592]Permanent link
+     * [593]Page information
+     * [594]Cite this page
+
+In other languages
+
+     * [595]العربية
+     * [596]Azərbaycanca
+     * [597]Čeština
+     * [598]Cymraeg
+     * [599]Dansk
+     * [600]Deutsch
+     * [601]Eesti
+     * [602]Ελληνικά
+     * [603]Español
+     * [604]Esperanto
+     * [605]فارسی
+     * [606]Français
+     * [607]Galego
+     * [608]한국어
+     * [609]Հայերեն
+     * [610]Ido
+     * [611]Bahasa Indonesia
+     * [612]Italiano
+     * [613]ಕನ್ನಡ
+     * [614]Қазақша
+     * [615]Kurdî
+     * [616]ລາວ
+     * [617]Limburgs
+     * [618]Magyar
+     * [619]Malagasy
+     * [620]മലയാളം
+     * [621]မြန်မာဘာသာ
+     * [622]Nederlands
+     * [623]日本語
+     * [624]Norsk bokmål
+     * [625]Oʻzbekcha/ўзбекча
+     * [626]Polski
+     * [627]Português
+     * [628]Română
+     * [629]Русский
+     * [630]Simple English
+     * [631]Slovenčina
+     * [632]Suomi
+     * [633]Svenska
+     * [634]தமிழ்
+     * [635]తెలుగు
+     * [636]Тоҷикӣ
+     * [637]ᏣᎳᎩ
+     * [638]Türkçe
+     * [639]Tiếng Việt
+     * [640]中文
+
+Print/export
+
+     * [641]Create a book
+     * [642]Download as PDF
+     * [643]Printable version
+
+     * This page was last edited on 12 May 2017, at 15:50.
+     * Text is available under the [644]Creative Commons
+       Attribution-ShareAlike License; additional terms may apply. By
+       using this site, you agree to the [645]Terms of Use and
+       [646]Privacy Policy.
+
+     * [647]Privacy policy
+     * [648]About Wiktionary
+     * [649]Disclaimers
+     * [650]Developers
+     * [651]Cookie statement
+     * [652]Mobile view
+
+     * [653]Wikimedia Foundation
+     * [654]Powered by MediaWiki
+
+References
+
+   Visible links
+   1. https://en.wiktionary.org/w/index.php?title=volume&action=edit
+   2. https://en.wiktionary.org/w/opensearch_desc.php
+   3. https://creativecommons.org/licenses/by-sa/3.0/
+   4. https://en.wiktionary.org/w/index.php?title=Special:RecentChanges&feed=atom
+   5. https://en.wiktionary.org/wiki/volume#mw-head
+   6. https://en.wiktionary.org/wiki/volume#p-search
+   7. https://en.wiktionary.org/wiki/volume#English
+   8. https://en.wiktionary.org/wiki/volume#Alternative_forms
+   9. https://en.wiktionary.org/wiki/volume#Etymology
+  10. https://en.wiktionary.org/wiki/volume#Pronunciation
+  11. https://en.wiktionary.org/wiki/volume#Noun
+  12. https://en.wiktionary.org/wiki/volume#See_also
+  13. https://en.wiktionary.org/wiki/volume#Derived_terms
+  14. https://en.wiktionary.org/wiki/volume#Translations
+  15. https://en.wiktionary.org/wiki/volume#Asturian
+  16. https://en.wiktionary.org/wiki/volume#Noun_2
+  17. https://en.wiktionary.org/wiki/volume#Dutch
+  18. https://en.wiktionary.org/wiki/volume#Pronunciation_2
+  19. https://en.wiktionary.org/wiki/volume#Noun_3
+  20. https://en.wiktionary.org/wiki/volume#French
+  21. https://en.wiktionary.org/wiki/volume#Etymology_2
+  22. https://en.wiktionary.org/wiki/volume#Pronunciation_3
+  23. https://en.wiktionary.org/wiki/volume#Noun_4
+  24. https://en.wiktionary.org/wiki/volume#Related_terms
+  25. https://en.wiktionary.org/wiki/volume#Further_reading
+  26. https://en.wiktionary.org/wiki/volume#Galician
+  27. https://en.wiktionary.org/wiki/volume#Etymology_3
+  28. https://en.wiktionary.org/wiki/volume#Noun_5
+  29. https://en.wiktionary.org/wiki/volume#Italian
+  30. https://en.wiktionary.org/wiki/volume#Noun_6
+  31. https://en.wiktionary.org/wiki/volume#Related_terms_2
+  32. https://en.wiktionary.org/wiki/volume#Old_French
+  33. https://en.wiktionary.org/wiki/volume#Etymology_4
+  34. https://en.wiktionary.org/wiki/volume#Noun_7
+  35. https://en.wiktionary.org/wiki/volume#Descendants
+  36. https://en.wiktionary.org/wiki/volume#Portuguese
+  37. https://en.wiktionary.org/wiki/volume#Etymology_5
+  38. https://en.wiktionary.org/wiki/volume#Pronunciation_4
+  39. https://en.wiktionary.org/wiki/volume#Noun_8
+  40. https://en.wiktionary.org/wiki/volume#Synonyms
+  41. https://en.wiktionary.org/wiki/volume#Related_terms_3
+  42. https://en.wiktionary.org/w/index.php?title=volume&action=edit&section=1
+  43. https://en.wiktionary.org/wiki/Wikipedia
+  44. https://en.wikipedia.org/wiki/volume_(disambiguation)
+  45. https://en.wikipedia.org/wiki/volume_(disambiguation)
+  46. https://en.wiktionary.org/wiki/Wikipedia
+  47. https://en.wikipedia.org/wiki/volume
+  48. https://en.wikipedia.org/wiki/volume
+  49. https://en.wiktionary.org/w/index.php?title=volume&action=edit&section=2
+  50. https://en.wiktionary.org/wiki/vol.#English
+  51. https://en.wiktionary.org/w/index.php?title=volume&action=edit&section=3
+  52. https://en.wikipedia.org/wiki/Old_French_language
+  53. https://en.wiktionary.org/wiki/volume#Old_French
+  54. https://en.wikipedia.org/wiki/Latin_language
+  55. https://en.wiktionary.org/wiki/volumen#Latin
+  56. https://en.wiktionary.org/wiki/volvo#Latin
+  57. https://en.wiktionary.org/w/index.php?title=volume&action=edit&section=4
+  58. https://en.wikipedia.org/wiki/British_English
+  59. https://en.wiktionary.org/wiki/Wiktionary:International_Phonetic_Alphabet
+  60. https://en.wiktionary.org/wiki/Appendix:English_pronunciation
+  61. https://en.wikipedia.org/wiki/American_English
+  62. https://en.wiktionary.org/wiki/Wiktionary:International_Phonetic_Alphabet
+  63. https://en.wiktionary.org/wiki/Appendix:English_pronunciation
+  64. https://en.wiktionary.org/wiki/File:en-us-volume.ogg
+  65. https://en.wiktionary.org/w/index.php?title=volume&action=edit&section=5
+  66. https://en.wiktionary.org/wiki/Appendix:Glossary#countable
+  67. https://en.wiktionary.org/wiki/Appendix:Glossary#uncountable
+  68. https://en.wiktionary.org/wiki/volumes#English
+  69. https://en.wiktionary.org/wiki/measure
+  70. https://en.wiktionary.org/wiki/space
+  71. https://en.wiktionary.org/wiki/length
+  72. https://en.wiktionary.org/wiki/width
+  73. https://en.wiktionary.org/wiki/height
+  74. https://en.wiktionary.org/wiki/centimeter
+  75. https://en.wiktionary.org/wiki/cubic
+  76. https://en.wiktionary.org/wiki/feet
+  77. https://en.wiktionary.org/wiki/sound
+  78. https://en.wiktionary.org/wiki/decibel
+  79. https://en.wiktionary.org/wiki/stereo#English
+  80. https://en.wiktionary.org/wiki/periodical
+  81. https://en.wiktionary.org/wiki/bind#Verb
+  82. https://en.wikipedia.org/wiki/Winston_Churchill_(novelist)
+  83. https://en.wikipedia.org/wiki/The_Celebrity
+  84. https://en.wiktionary.org/wiki/encyclopedia
+  85. https://en.wiktionary.org/wiki/quantity
+  86. https://en.wiktionary.org/wiki/money
+  87. https://en.wiktionary.org/wiki/credit
+  88. https://en.wiktionary.org/wiki/computing
+  89. https://en.wiktionary.org/wiki/storage
+  90. https://en.wiktionary.org/wiki/file_system
+  91. https://en.wiktionary.org/wiki/partition
+  92. https://en.wiktionary.org/wiki/hard_disk
+  93. https://en.wiktionary.org/w/index.php?title=volume&action=edit&section=6
+  94. https://en.wiktionary.org/wiki/book#English
+  95. https://en.wiktionary.org/wiki/tome#English
+  96. https://en.wiktionary.org/wiki/ounce
+  97. https://en.wiktionary.org/wiki/pint
+  98. https://en.wiktionary.org/wiki/quart
+  99. https://en.wiktionary.org/wiki/gallon
+ 100. https://en.wiktionary.org/wiki/inch
+ 101. https://en.wiktionary.org/wiki/in
+ 102. https://en.wiktionary.org/wiki/mililiter
+ 103. https://en.wiktionary.org/wiki/liter
+ 104. https://en.wiktionary.org/wiki/meter
+ 105. https://en.wiktionary.org/wiki/cc
+ 106. https://en.wiktionary.org/wiki/cm
+ 107. https://en.wiktionary.org/wiki/bel
+ 108. https://en.wiktionary.org/wiki/decibel
+ 109. https://en.wiktionary.org/wiki/millipascal
+ 110. https://en.wiktionary.org/w/index.php?title=volume&action=edit&section=7
+ 111. https://en.wiktionary.org/wiki/voluminous#English
+ 112. https://en.wiktionary.org/w/index.php?title=volume&action=edit&section=8
+ 113. https://en.wiktionary.org/wiki/حجم#Arabic
+ 114. https://en.wiktionary.org/wiki/ծավալ#Armenian
+ 115. https://hy.wiktionary.org/wiki/ծավալ
+ 116. https://en.wiktionary.org/wiki/volume#Asturian
+ 117. https://en.wiktionary.org/w/index.php?title=обем&action=edit&redlink=1
+ 118. https://bg.wiktionary.org/wiki/обем
+ 119. https://en.wiktionary.org/wiki/volum#Catalan
+ 120. https://ca.wiktionary.org/wiki/volum
+ 121. https://en.wiktionary.org/wiki/容積#Mandarin
+ 122. https://zh.wiktionary.org/wiki/容積
+ 123. https://en.wiktionary.org/wiki/容积#Mandarin
+ 124. https://zh.wiktionary.org/wiki/容积
+ 125. https://en.wiktionary.org/wiki/體積#Mandarin
+ 126. https://zh.wiktionary.org/wiki/體積
+ 127. https://en.wiktionary.org/wiki/体积#Mandarin
+ 128. https://zh.wiktionary.org/wiki/体积
+ 129. https://en.wiktionary.org/wiki/objem#Czech
+ 130. https://cs.wiktionary.org/wiki/objem
+ 131. https://en.wiktionary.org/wiki/volume#Dutch
+ 132. https://nl.wiktionary.org/wiki/volume
+ 133. https://en.wiktionary.org/wiki/inhoud#Dutch
+ 134. https://nl.wiktionary.org/wiki/inhoud
+ 135. https://en.wiktionary.org/wiki/volumeno#Esperanto
+ 136. https://en.wiktionary.org/wiki/tilavuus#Finnish
+ 137. https://fi.wiktionary.org/wiki/tilavuus
+ 138. https://en.wiktionary.org/wiki/volume#French
+ 139. https://fr.wiktionary.org/wiki/volume
+ 140. https://en.wiktionary.org/wiki/volume#Galician
+ 141. https://gl.wiktionary.org/wiki/volume
+ 142. https://en.wiktionary.org/wiki/მოცულობა#Georgian
+ 143. https://en.wiktionary.org/wiki/Volumen#German
+ 144. https://de.wiktionary.org/wiki/Volumen
+ 145. https://en.wiktionary.org/wiki/όγκος#Greek
+ 146. https://el.wiktionary.org/wiki/όγκος
+ 147. https://en.wiktionary.org/wiki/volim#Haitian_Creole
+ 148. https://en.wiktionary.org/wiki/נפח#Hebrew
+ 149. https://he.wiktionary.org/wiki/נפח
+ 150. https://en.wiktionary.org/wiki/térfogat#Hungarian
+ 151. https://hu.wiktionary.org/wiki/térfogat
+ 152. https://en.wiktionary.org/w/index.php?title=volumino&action=edit&redlink=1
+ 153. https://io.wiktionary.org/wiki/volumino
+ 154. https://en.wiktionary.org/wiki/volumine#Interlingua
+ 155. https://en.wiktionary.org/wiki/volume#Italian
+ 156. https://it.wiktionary.org/wiki/volume
+ 157. https://en.wiktionary.org/wiki/体積#Japanese
+ 158. https://ja.wiktionary.org/wiki/体積
+ 159. https://en.wiktionary.org/wiki/волумен#Macedonian
+ 160. https://en.wiktionary.org/w/index.php?title=зафатнина&action=edit&redlink=1
+ 161. https://en.wiktionary.org/w/index.php?title=isipadu&action=edit&redlink=1
+ 162. https://en.wiktionary.org/wiki/nui#Maori
+ 163. https://mi.wiktionary.org/wiki/nui
+ 164. https://en.wiktionary.org/w/index.php?title=rōrahi&action=edit&redlink=1
+ 165. https://en.wiktionary.org/w/index.php?title=багтаамж&action=edit&redlink=1
+ 166. https://mn.wiktionary.org/wiki/багтаамж
+ 167. https://en.wiktionary.org/w/index.php?title=эзлэхүүн&action=edit&redlink=1
+ 168. https://mn.wiktionary.org/wiki/эзлэхүүн
+ 169. https://en.wiktionary.org/wiki/حجم#Persian
+ 170. https://fa.wiktionary.org/wiki/حجم
+ 171. https://en.wiktionary.org/wiki/objętość#Polish
+ 172. https://pl.wiktionary.org/wiki/objętość
+ 173. https://en.wiktionary.org/wiki/volume#Portuguese
+ 174. https://pt.wiktionary.org/wiki/volume
+ 175. https://en.wiktionary.org/wiki/volum#Romanian
+ 176. https://ro.wiktionary.org/wiki/volum
+ 177. https://en.wiktionary.org/wiki/объём#Russian
+ 178. https://ru.wiktionary.org/wiki/объём
+ 179. https://en.wiktionary.org/wiki/обујам#Serbo-Croatian
+ 180. https://en.wiktionary.org/wiki/запремина#Serbo-Croatian
+ 181. https://en.wiktionary.org/wiki/obujam#Serbo-Croatian
+ 182. https://sh.wiktionary.org/wiki/obujam
+ 183. https://en.wiktionary.org/wiki/zapremina#Serbo-Croatian
+ 184. https://sh.wiktionary.org/wiki/zapremina
+ 185. https://en.wiktionary.org/wiki/objem#Slovak
+ 186. https://en.wiktionary.org/wiki/prostornina#Slovene
+ 187. https://sl.wiktionary.org/wiki/prostornina
+ 188. https://en.wiktionary.org/wiki/volumen#Slovene
+ 189. https://en.wiktionary.org/wiki/volumen#Spanish
+ 190. https://es.wiktionary.org/wiki/volumen
+ 191. https://en.wiktionary.org/wiki/volym#Swedish
+ 192. https://sv.wiktionary.org/wiki/volym
+ 193. https://en.wiktionary.org/wiki/buok#Tagalog
+ 194. https://en.wiktionary.org/w/index.php?title=ఘనపరిమాణం&action=edit&redlink=1
+ 195. https://en.wiktionary.org/w/index.php?title=ปริมาตร&action=edit&redlink=1
+ 196. https://th.wiktionary.org/wiki/ปริมาตร
+ 197. https://en.wiktionary.org/w/index.php?title=hacim&action=edit&redlink=1
+ 198. https://tr.wiktionary.org/wiki/hacim
+ 199. https://en.wiktionary.org/wiki/բարձրություն#Armenian
+ 200. https://hy.wiktionary.org/wiki/բարձրություն
+ 201. https://en.wiktionary.org/wiki/volume#Asturian
+ 202. https://en.wiktionary.org/wiki/сила
+ 203. https://en.wiktionary.org/wiki/звук
+ 204. https://bg.wiktionary.org/wiki/сила
+ 205. https://en.wiktionary.org/wiki/volum#Catalan
+ 206. https://ca.wiktionary.org/wiki/volum
+ 207. https://en.wiktionary.org/wiki/hlasitost#Czech
+ 208. https://en.wiktionary.org/wiki/volume#Dutch
+ 209. https://nl.wiktionary.org/wiki/volume
+ 210. https://en.wiktionary.org/wiki/äänenvoimakkuus#Finnish
+ 211. https://fi.wiktionary.org/wiki/äänenvoimakkuus
+ 212. https://en.wiktionary.org/wiki/volume#French
+ 213. https://fr.wiktionary.org/wiki/volume
+ 214. https://en.wiktionary.org/wiki/ხმა#Georgian
+ 215. https://en.wiktionary.org/wiki/Lautstärke#German
+ 216. https://de.wiktionary.org/wiki/Lautstärke
+ 217. https://en.wiktionary.org/wiki/ένταση#Greek
+ 218. https://el.wiktionary.org/wiki/ένταση
+ 219. https://en.wiktionary.org/w/index.php?title=עוצמת_קול&action=edit&redlink=1
+ 220. https://en.wiktionary.org/wiki/hangerő#Hungarian
+ 221. https://hu.wiktionary.org/wiki/hangerő
+ 222. https://en.wiktionary.org/wiki/volumine#Interlingua
+ 223. https://en.wiktionary.org/wiki/volume#Italian
+ 224. https://it.wiktionary.org/wiki/volume
+ 225. https://en.wiktionary.org/wiki/音量#Japanese
+ 226. https://ja.wiktionary.org/wiki/音量
+ 227. https://en.wiktionary.org/w/index.php?title=声量&action=edit&redlink=1
+ 228. https://en.wiktionary.org/wiki/јачина#Macedonian
+ 229. https://en.wiktionary.org/wiki/гласност#Macedonian
+ 230. https://en.wiktionary.org/w/index.php?title=kelantangan&action=edit&redlink=1
+ 231. https://en.wiktionary.org/wiki/дууны_хүч#Mongolian
+ 232. https://en.wiktionary.org/wiki/صدا#Persian
+ 233. https://fa.wiktionary.org/wiki/صدا
+ 234. https://en.wiktionary.org/wiki/głośność#Polish
+ 235. https://pl.wiktionary.org/wiki/głośność
+ 236. https://en.wiktionary.org/wiki/volume#Portuguese
+ 237. https://pt.wiktionary.org/wiki/volume
+ 238. https://en.wiktionary.org/wiki/volum#Romanian
+ 239. https://ro.wiktionary.org/wiki/volum
+ 240. https://en.wiktionary.org/wiki/громкость#Russian
+ 241. https://ru.wiktionary.org/wiki/громкость
+ 242. https://en.wiktionary.org/wiki/sila#Slovak
+ 243. https://en.wiktionary.org/wiki/glasnost#Slovene
+ 244. https://en.wiktionary.org/wiki/volumen#Spanish
+ 245. https://es.wiktionary.org/wiki/volumen
+ 246. https://en.wiktionary.org/wiki/volym#Swedish
+ 247. https://sv.wiktionary.org/wiki/volym
+ 248. https://en.wiktionary.org/w/index.php?title=ljudvolym&action=edit&redlink=1
+ 249. https://en.wiktionary.org/w/index.php?title=ljudstyrka&action=edit&redlink=1
+ 250. https://en.wiktionary.org/w/index.php?title=ความดัง&action=edit&redlink=1
+ 251. https://en.wiktionary.org/wiki/ses#Turkish
+ 252. https://tr.wiktionary.org/wiki/ses
+ 253. https://en.wiktionary.org/wiki/հատոր#Armenian
+ 254. https://hy.wiktionary.org/wiki/հատոր
+ 255. https://en.wiktionary.org/wiki/година#Bulgarian
+ 256. https://en.wiktionary.org/wiki/volum#Catalan
+ 257. https://ca.wiktionary.org/wiki/volum
+ 258. https://en.wiktionary.org/w/index.php?title=jaargang&action=edit&redlink=1
+ 259. https://nl.wiktionary.org/wiki/jaargang
+ 260. https://en.wiktionary.org/wiki/vuosikerta#Finnish
+ 261. https://fi.wiktionary.org/wiki/vuosikerta
+ 262. https://en.wiktionary.org/wiki/volume#Galician
+ 263. https://gl.wiktionary.org/wiki/volume
+ 264. https://en.wiktionary.org/wiki/Jahrgang#German
+ 265. https://de.wiktionary.org/wiki/Jahrgang
+ 266. https://en.wiktionary.org/wiki/έτος#Greek
+ 267. https://el.wiktionary.org/wiki/έτος
+ 268. https://en.wiktionary.org/wiki/χρόνος#Greek
+ 269. https://el.wiktionary.org/wiki/χρόνος
+ 270. https://en.wiktionary.org/wiki/évfolyam#Hungarian
+ 271. https://hu.wiktionary.org/wiki/évfolyam
+ 272. https://en.wiktionary.org/wiki/imleabhar#Irish
+ 273. https://en.wiktionary.org/wiki/volume#Italian
+ 274. https://it.wiktionary.org/wiki/volume
+ 275. https://en.wiktionary.org/wiki/単行本#Japanese
+ 276. https://en.wiktionary.org/wiki/година#Macedonian
+ 277. https://en.wiktionary.org/w/index.php?title=دوره&action=edit&redlink=1
+ 278. https://fa.wiktionary.org/wiki/دوره
+ 279. https://en.wiktionary.org/w/index.php?title=rocznik&action=edit&redlink=1
+ 280. https://pl.wiktionary.org/wiki/rocznik
+ 281. https://en.wiktionary.org/wiki/volume#Portuguese
+ 282. https://pt.wiktionary.org/wiki/volume
+ 283. https://en.wiktionary.org/wiki/том#Russian
+ 284. https://ru.wiktionary.org/wiki/том
+ 285. https://en.wiktionary.org/wiki/номер#Russian
+ 286. https://ru.wiktionary.org/wiki/номер
+ 287. https://en.wiktionary.org/wiki/книга#Russian
+ 288. https://ru.wiktionary.org/wiki/книга
+ 289. https://en.wiktionary.org/wiki/ročník#Slovak
+ 290. https://en.wiktionary.org/w/index.php?title=letnik&action=edit&redlink=1
+ 291. https://en.wiktionary.org/wiki/volumen#Spanish
+ 292. https://es.wiktionary.org/wiki/volumen
+ 293. https://en.wiktionary.org/w/index.php?title=సంపుటి&action=edit&redlink=1
+ 294. https://te.wiktionary.org/wiki/సంపుటి
+ 295. https://en.wiktionary.org/wiki/เล่ม#Thai
+ 296. https://en.wiktionary.org/wiki/ฉบับ#Thai
+ 297. https://th.wiktionary.org/wiki/ฉบับ
+ 298. https://en.wiktionary.org/wiki/جزء#Arabic
+ 299. https://ar.wiktionary.org/wiki/جزء
+ 300. https://en.wiktionary.org/wiki/հատոր#Armenian
+ 301. https://hy.wiktionary.org/wiki/հատոր
+ 302. https://en.wiktionary.org/wiki/cild#Azeri
+ 303. https://az.wiktionary.org/wiki/cild
+ 304. https://en.wiktionary.org/wiki/том#Belarusian
+ 305. https://en.wiktionary.org/wiki/том#Bulgarian
+ 306. https://bg.wiktionary.org/wiki/том
+ 307. https://en.wiktionary.org/wiki/volum#Catalan
+ 308. https://ca.wiktionary.org/wiki/volum
+ 309. https://en.wiktionary.org/wiki/卷#Mandarin
+ 310. https://zh.wiktionary.org/wiki/卷
+ 311. https://en.wiktionary.org/wiki/svazek#Czech
+ 312. https://cs.wiktionary.org/wiki/svazek
+ 313. https://en.wiktionary.org/w/index.php?title=boekdeel&action=edit&redlink=1
+ 314. https://nl.wiktionary.org/wiki/boekdeel
+ 315. https://en.wiktionary.org/wiki/volumo#Esperanto
+ 316. https://en.wiktionary.org/wiki/kirja#Finnish
+ 317. https://fi.wiktionary.org/wiki/kirja
+ 318. https://en.wiktionary.org/wiki/nide#Finnish
+ 319. https://fi.wiktionary.org/wiki/nide
+ 320. https://en.wiktionary.org/wiki/volyymi#Finnish
+ 321. https://fi.wiktionary.org/wiki/volyymi
+ 322. https://en.wiktionary.org/wiki/osa#Finnish
+ 323. https://fi.wiktionary.org/wiki/osa
+ 324. https://en.wiktionary.org/wiki/volume#French
+ 325. https://fr.wiktionary.org/wiki/volume
+ 326. https://en.wiktionary.org/wiki/volume#Galician
+ 327. https://gl.wiktionary.org/wiki/volume
+ 328. https://en.wiktionary.org/wiki/ტომი#Georgian
+ 329. https://en.wiktionary.org/wiki/Band#German
+ 330. https://de.wiktionary.org/wiki/Band
+ 331. https://en.wiktionary.org/wiki/τόμος#Greek
+ 332. https://el.wiktionary.org/wiki/τόμος
+ 333. https://en.wiktionary.org/wiki/kötet#Hungarian
+ 334. https://hu.wiktionary.org/wiki/kötet
+ 335. https://en.wiktionary.org/wiki/tomo#Ido
+ 336. https://io.wiktionary.org/wiki/tomo
+ 337. https://en.wiktionary.org/wiki/imleabhar#Irish
+ 338. https://en.wiktionary.org/wiki/volume#Italian
+ 339. https://it.wiktionary.org/wiki/volume
+ 340. https://en.wiktionary.org/wiki/巻#Japanese
+ 341. https://ja.wiktionary.org/wiki/巻
+ 342. https://en.wiktionary.org/wiki/권#Korean
+ 343. https://ko.wiktionary.org/wiki/권
+ 344. https://en.wiktionary.org/wiki/卷#Korean
+ 345. https://ko.wiktionary.org/wiki/卷
+ 346. https://en.wiktionary.org/wiki/tomas#Lithuanian
+ 347. https://en.wiktionary.org/wiki/том#Macedonian
+ 348. https://en.wiktionary.org/w/index.php?title=jilid&action=edit&redlink=1
+ 349. https://en.wiktionary.org/wiki/ном#Mongolian
+ 350. https://mn.wiktionary.org/wiki/ном
+ 351. https://en.wiktionary.org/wiki/боть#Mongolian
+ 352. https://mn.wiktionary.org/wiki/боть
+ 353. https://en.wiktionary.org/wiki/جلد#Persian
+ 354. https://fa.wiktionary.org/wiki/جلد
+ 355. https://en.wiktionary.org/wiki/tom#Polish
+ 356. https://pl.wiktionary.org/wiki/tom
+ 357. https://en.wiktionary.org/wiki/volume#Portuguese
+ 358. https://pt.wiktionary.org/wiki/volume
+ 359. https://en.wiktionary.org/wiki/tomo#Portuguese
+ 360. https://pt.wiktionary.org/wiki/tomo
+ 361. https://en.wiktionary.org/wiki/том#Russian
+ 362. https://ru.wiktionary.org/wiki/том
+ 363. https://en.wiktionary.org/wiki/книга#Russian
+ 364. https://ru.wiktionary.org/wiki/книга
+ 365. https://en.wiktionary.org/w/index.php?title=свезак&action=edit&redlink=1
+ 366. https://en.wiktionary.org/wiki/svezak#Serbo-Croatian
+ 367. https://sh.wiktionary.org/wiki/svezak
+ 368. https://en.wiktionary.org/w/index.php?title=zväzok&action=edit&redlink=1
+ 369. https://en.wiktionary.org/wiki/zvezek#Slovene
+ 370. https://sl.wiktionary.org/wiki/zvezek
+ 371. https://en.wiktionary.org/wiki/knjiga#Slovene
+ 372. https://sl.wiktionary.org/wiki/knjiga
+ 373. https://en.wiktionary.org/wiki/volumen#Spanish
+ 374. https://es.wiktionary.org/wiki/volumen
+ 375. https://en.wiktionary.org/wiki/volym#Swedish
+ 376. https://sv.wiktionary.org/wiki/volym
+ 377. https://en.wiktionary.org/wiki/band#Swedish
+ 378. https://sv.wiktionary.org/wiki/band
+ 379. https://en.wiktionary.org/wiki/buok#Tagalog
+ 380. https://en.wiktionary.org/wiki/เล่ม#Thai
+ 381. https://en.wiktionary.org/wiki/ฉบับ#Thai
+ 382. https://th.wiktionary.org/wiki/ฉบับ
+ 383. https://en.wiktionary.org/wiki/cilt#Turkish
+ 384. https://tr.wiktionary.org/wiki/cilt
+ 385. https://en.wiktionary.org/wiki/cyfrol#Welsh
+ 386. https://en.wiktionary.org/wiki/ծավալ#Armenian
+ 387. https://hy.wiktionary.org/wiki/ծավալ
+ 388. https://en.wiktionary.org/wiki/volum#Catalan
+ 389. https://ca.wiktionary.org/wiki/volum
+ 390. https://en.wiktionary.org/wiki/määrä#Finnish
+ 391. https://fi.wiktionary.org/wiki/määrä
+ 392. https://en.wiktionary.org/wiki/volume#French
+ 393. https://fr.wiktionary.org/wiki/volume
+ 394. https://en.wiktionary.org/wiki/მოცულობა#Georgian
+ 395. https://en.wiktionary.org/wiki/όγκος#Greek
+ 396. https://el.wiktionary.org/wiki/όγκος
+ 397. https://en.wiktionary.org/wiki/κυβισμός#Greek
+ 398. https://el.wiktionary.org/wiki/κυβισμός
+ 399. https://en.wiktionary.org/wiki/volumen#Hungarian
+ 400. https://hu.wiktionary.org/wiki/volumen
+ 401. https://en.wiktionary.org/wiki/volume#Italian
+ 402. https://it.wiktionary.org/wiki/volume
+ 403. https://en.wiktionary.org/w/index.php?title=обем&action=edit&redlink=1
+ 404. https://en.wiktionary.org/wiki/volume#Portuguese
+ 405. https://pt.wiktionary.org/wiki/volume
+ 406. https://en.wiktionary.org/wiki/volum#Romanian
+ 407. https://ro.wiktionary.org/wiki/volum
+ 408. https://en.wiktionary.org/wiki/объём#Russian
+ 409. https://ru.wiktionary.org/wiki/объём
+ 410. https://en.wiktionary.org/wiki/volumen#Spanish
+ 411. https://es.wiktionary.org/wiki/volumen
+ 412. https://en.wiktionary.org/wiki/volym#Swedish
+ 413. https://sv.wiktionary.org/wiki/volym
+ 414. https://en.wiktionary.org/wiki/Wiktionary:Entry_layout#Translations
+ 415. https://en.wiktionary.org/wiki/Wiktionary:Translations#Translations_to_be_checked
+ 416. https://en.wiktionary.org/w/index.php?title=الحجم&action=edit&redlink=1
+ 417. https://en.wiktionary.org/w/index.php?title=volume&action=edit&section=9
+ 418. https://en.wiktionary.org/w/index.php?title=volume&action=edit&section=10
+ 419. https://en.wiktionary.org/wiki/volumes#Asturian
+ 420. https://en.wiktionary.org/wiki/volume#English
+ 421. https://en.wiktionary.org/w/index.php?title=volume&action=edit&section=11
+ 422. https://en.wiktionary.org/wiki/Wikipedia
+ 423. https://en.wikipedia.org/wiki/nl:volume
+ 424. https://en.wikipedia.org/wiki/nl:volume
+ 425. https://en.wiktionary.org/w/index.php?title=volume&action=edit&section=12
+ 426. https://en.wiktionary.org/wiki/File:Nl-volume.ogg
+ 427. https://en.wiktionary.org/w/index.php?title=volume&action=edit&section=13
+ 428. https://en.wiktionary.org/wiki/volumen#Dutch
+ 429. https://en.wiktionary.org/wiki/volumes#Dutch
+ 430. https://en.wiktionary.org/wiki/Appendix:Glossary#diminutive
+ 431. https://en.wiktionary.org/wiki/volumetje#Dutch
+ 432. https://en.wiktionary.org/wiki/volume#English
+ 433. https://en.wiktionary.org/w/index.php?title=volume&action=edit&section=14
+ 434. https://en.wiktionary.org/w/index.php?title=volume&action=edit&section=15
+ 435. https://en.wikipedia.org/wiki/Latin_language
+ 436. https://en.wiktionary.org/wiki/volumen#Latin
+ 437. https://en.wiktionary.org/w/index.php?title=volume&action=edit&section=16
+ 438. https://en.wiktionary.org/wiki/Wiktionary:International_Phonetic_Alphabet
+ 439. https://en.wiktionary.org/wiki/Appendix:French_pronunciation
+ 440. https://en.wiktionary.org/wiki/File:Fr-volume.ogg
+ 441. https://en.wiktionary.org/w/index.php?title=volume&action=edit&section=17
+ 442. https://en.wiktionary.org/wiki/volumes#French
+ 443. https://en.wiktionary.org/wiki/volume#English
+ 444. https://en.wiktionary.org/wiki/volume#English
+ 445. https://en.wiktionary.org/wiki/volume#English
+ 446. https://en.wiktionary.org/wiki/volume#English
+ 447. https://en.wiktionary.org/wiki/Appendix:Glossary#figurative
+ 448. https://en.wiktionary.org/w/index.php?title=volume&action=edit&section=18
+ 449. https://en.wiktionary.org/wiki/volumétrique#French
+ 450. https://en.wiktionary.org/wiki/volumineux#French
+ 451. https://en.wiktionary.org/w/index.php?title=volume&action=edit&section=19
+ 452. http://www.cnrtl.fr/definition/volume
+ 453. https://en.wikipedia.org/wiki/fr:Trésor_de_la_langue_française_informatisé
+ 454. https://en.wiktionary.org/w/index.php?title=volume&action=edit&section=20
+ 455. https://en.wiktionary.org/w/index.php?title=volume&action=edit&section=21
+ 456. https://en.wikipedia.org/wiki/Latin_language
+ 457. https://en.wiktionary.org/wiki/volumen#Latin
+ 458. https://en.wiktionary.org/w/index.php?title=volume&action=edit&section=22
+ 459. https://en.wiktionary.org/wiki/volumes#Galician
+ 460. https://en.wiktionary.org/wiki/volume#English
+ 461. https://en.wiktionary.org/wiki/volume#English
+ 462. https://en.wiktionary.org/w/index.php?title=volume&action=edit&section=23
+ 463. https://en.wiktionary.org/w/index.php?title=volume&action=edit&section=24
+ 464. https://en.wiktionary.org/wiki/volumi#Italian
+ 465. https://en.wiktionary.org/wiki/volume#English
+ 466. https://en.wiktionary.org/w/index.php?title=volume&action=edit&section=25
+ 467. https://en.wiktionary.org/wiki/volumenometro#Italian
+ 468. https://en.wiktionary.org/wiki/volumetria#Italian
+ 469. https://en.wiktionary.org/wiki/volumetrico#Italian
+ 470. https://en.wiktionary.org/wiki/voluminosità#Italian
+ 471. https://en.wiktionary.org/wiki/voluminoso#Italian
+ 472. https://en.wiktionary.org/w/index.php?title=volume&action=edit&section=26
+ 473. https://en.wiktionary.org/w/index.php?title=volume&action=edit&section=27
+ 474. https://en.wikipedia.org/wiki/Latin_language
+ 475. https://en.wiktionary.org/wiki/volumen#Latin
+ 476. https://en.wiktionary.org/w/index.php?title=volume&action=edit&section=28
+ 477. https://en.wiktionary.org/wiki/volume#English
+ 478. https://en.wiktionary.org/w/index.php?title=volume&action=edit&section=29
+ 479. https://en.wiktionary.org/wiki/volume#English
+ 480. https://en.wiktionary.org/wiki/volume#French
+ 481. https://en.wiktionary.org/w/index.php?title=volume&action=edit&section=30
+ 482. https://en.wiktionary.org/w/index.php?title=volume&action=edit&section=31
+ 483. https://en.wikipedia.org/wiki/Galician-Portuguese
+ 484. https://en.wiktionary.org/wiki/volume#Old_Portuguese
+ 485. https://en.wiktionary.org/wiki/Appendix:Glossary#loanword
+ 486. https://en.wikipedia.org/wiki/Latin_language
+ 487. https://en.wiktionary.org/wiki/volumen#Latin
+ 488. https://en.wiktionary.org/w/index.php?title=volume&action=edit&section=32
+ 489. https://en.wikipedia.org/wiki/Brazilian_Portuguese
+ 490. https://en.wiktionary.org/wiki/Wiktionary:International_Phonetic_Alphabet
+ 491. https://en.wiktionary.org/wiki/Appendix:Portuguese_pronunciation
+ 492. https://en.wiktionary.org/w/index.php?title=volume&action=edit&section=33
+ 493. https://en.wiktionary.org/wiki/volumes#Portuguese
+ 494. https://en.wiktionary.org/wiki/volume#English
+ 495. https://en.wiktionary.org/wiki/volume#English
+ 496. https://en.wiktionary.org/wiki/loudness#English
+ 497. https://en.wiktionary.org/wiki/volume#English
+ 498. https://en.wiktionary.org/wiki/volume#English
+ 499. https://en.wiktionary.org/wiki/Appendix:Glossary#historical
+ 500. https://en.wiktionary.org/wiki/volume#English
+ 501. https://en.wiktionary.org/wiki/volume#English
+ 502. https://en.wiktionary.org/wiki/quantity#English
+ 503. https://en.wiktionary.org/w/index.php?title=volume&action=edit&section=34
+ 504. https://en.wiktionary.org/wiki/tomo#Portuguese
+ 505. https://en.wiktionary.org/wiki/quantidade#Portuguese
+ 506. https://en.wiktionary.org/wiki/quantia#Portuguese
+ 507. https://en.wiktionary.org/w/index.php?title=volume&action=edit&section=35
+ 508. https://en.wiktionary.org/wiki/volumoso#Portuguese
+ 509. https://en.wiktionary.org/w/index.php?title=volume&oldid=42880121
+ 510. https://en.wiktionary.org/wiki/Special:Categories
+ 511. https://en.wiktionary.org/wiki/Category:English_terms_derived_from_Old_French
+ 512. https://en.wiktionary.org/wiki/Category:English_terms_derived_from_Latin
+ 513. https://en.wiktionary.org/wiki/Category:English_2-syllable_words
+ 514. https://en.wiktionary.org/wiki/Category:English_terms_with_IPA_pronunciation
+ 515. https://en.wiktionary.org/wiki/Category:English_terms_with_audio_links
+ 516. https://en.wiktionary.org/wiki/Category:English_lemmas
+ 517. https://en.wiktionary.org/wiki/Category:English_nouns
+ 518. https://en.wiktionary.org/wiki/Category:English_uncountable_nouns
+ 519. https://en.wiktionary.org/wiki/Category:English_countable_nouns
+ 520. https://en.wiktionary.org/wiki/Category:en:Economics
+ 521. https://en.wiktionary.org/wiki/Category:en:Computing
+ 522. https://en.wiktionary.org/wiki/Category:Asturian_lemmas
+ 523. https://en.wiktionary.org/wiki/Category:Asturian_nouns
+ 524. https://en.wiktionary.org/wiki/Category:Dutch_terms_with_audio_links
+ 525. https://en.wiktionary.org/wiki/Category:Dutch_lemmas
+ 526. https://en.wiktionary.org/wiki/Category:Dutch_nouns
+ 527. https://en.wiktionary.org/wiki/Category:Dutch_nouns_with_plural_in_-en
+ 528. https://en.wiktionary.org/wiki/Category:Dutch_nouns_with_plural_in_-s
+ 529. https://en.wiktionary.org/wiki/Category:French_terms_derived_from_Latin
+ 530. https://en.wiktionary.org/wiki/Category:French_2-syllable_words
+ 531. https://en.wiktionary.org/wiki/Category:French_terms_with_IPA_pronunciation
+ 532. https://en.wiktionary.org/wiki/Category:French_terms_with_audio_links
+ 533. https://en.wiktionary.org/wiki/Category:French_lemmas
+ 534. https://en.wiktionary.org/wiki/Category:French_nouns
+ 535. https://en.wiktionary.org/wiki/Category:French_masculine_nouns
+ 536. https://en.wiktionary.org/wiki/Category:French_countable_nouns
+ 537. https://en.wiktionary.org/wiki/Category:Galician_terms_derived_from_Latin
+ 538. https://en.wiktionary.org/wiki/Category:Galician_lemmas
+ 539. https://en.wiktionary.org/wiki/Category:Galician_nouns
+ 540. https://en.wiktionary.org/wiki/Category:gl:Geometry
+ 541. https://en.wiktionary.org/wiki/Category:Italian_lemmas
+ 542. https://en.wiktionary.org/wiki/Category:Italian_nouns
+ 543. https://en.wiktionary.org/wiki/Category:Italian_countable_nouns
+ 544. https://en.wiktionary.org/wiki/Category:Old_French_terms_derived_from_Latin
+ 545. https://en.wiktionary.org/wiki/Category:Old_French_lemmas
+ 546. https://en.wiktionary.org/wiki/Category:Old_French_nouns
+ 547. https://en.wiktionary.org/wiki/Category:Portuguese_terms_inherited_from_Old_Portuguese
+ 548. https://en.wiktionary.org/wiki/Category:Portuguese_terms_derived_from_Old_Portuguese
+ 549. https://en.wiktionary.org/wiki/Category:Portuguese_terms_borrowed_from_Latin
+ 550. https://en.wiktionary.org/wiki/Category:Portuguese_terms_derived_from_Latin
+ 551. https://en.wiktionary.org/wiki/Category:Portuguese_terms_with_IPA_pronunciation
+ 552. https://en.wiktionary.org/wiki/Category:Portuguese_lemmas
+ 553. https://en.wiktionary.org/wiki/Category:Portuguese_nouns
+ 554. https://en.wiktionary.org/wiki/Category:pt:Geometry
+ 555. https://en.wiktionary.org/wiki/Category:pt:Publishing
+ 556. https://en.wiktionary.org/wiki/Category:Portuguese_terms_with_historical_senses
+ 557. https://en.wiktionary.org/wiki/Category:etyl_cleanup/en
+ 558. https://en.wiktionary.org/wiki/Category:Telugu_redlinks
+ 559. https://en.wiktionary.org/wiki/Category:Telugu_redlinks/t
+ 560. https://en.wiktionary.org/wiki/Category:Requests_for_translations_into_Mandarin
+ 561. https://en.wiktionary.org/wiki/Category:Requests_for_translations_into_Khmer
+ 562. https://en.wiktionary.org/wiki/Category:Telugu_redlinks/t+
+ 563. https://en.wiktionary.org/wiki/Category:Requests_for_review_of_Arabic_translations
+ 564. https://en.wiktionary.org/wiki/Category:etyl_cleanup
+ 565. https://en.wiktionary.org/wiki/Category:bor_with_nocap
+ 566. https://en.wiktionary.org/wiki/Category:bor_without_notext
+ 567. https://en.wiktionary.org/wiki/Special:MyTalk
+ 568. https://en.wiktionary.org/wiki/Special:MyContributions
+ 569. https://en.wiktionary.org/w/index.php?title=Special:CreateAccount&returnto=volume
+ 570. https://en.wiktionary.org/w/index.php?title=Special:UserLogin&returnto=volume
+ 571. https://en.wiktionary.org/wiki/volume
+ 572. https://en.wiktionary.org/w/index.php?title=Talk:volume&action=edit&redlink=1
+ 573. https://en.wiktionary.org/wiki/volume
+ 574. https://en.wiktionary.org/w/index.php?title=volume&action=edit
+ 575. https://en.wiktionary.org/w/index.php?title=volume&action=history
+ 576. form field = text entry field
+ 577. form field = submit button
+ 578. form field = submit button
+ 579. https://en.wiktionary.org/wiki/Wiktionary:Main_Page
+ 580. https://en.wiktionary.org/wiki/Wiktionary:Community_portal
+ 581. https://en.wiktionary.org/wiki/Wiktionary:Per-browser_preferences
+ 582. https://en.wiktionary.org/wiki/Wiktionary:Requested_entries
+ 583. https://en.wiktionary.org/wiki/Special:RecentChanges
+ 584. https://en.wiktionary.org/wiki/Special:Random
+ 585. https://en.wiktionary.org/wiki/Help:Contents
+ 586. https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&utm_medium=sidebar&utm_campaign=C13_en.wiktionary.org&uselang=en
+ 587. https://en.wiktionary.org/wiki/Wiktionary:Contact_us
+ 588. https://en.wiktionary.org/wiki/Special:WhatLinksHere/volume
+ 589. https://en.wiktionary.org/wiki/Special:RecentChangesLinked/volume
+ 590. https://commons.wikimedia.org/wiki/Special:UploadWizard?uselang=en
+ 591. https://en.wiktionary.org/wiki/Special:SpecialPages
+ 592. https://en.wiktionary.org/w/index.php?title=volume&oldid=42880121
+ 593. https://en.wiktionary.org/w/index.php?title=volume&action=info
+ 594. https://en.wiktionary.org/w/index.php?title=Special:CiteThisPage&page=volume&id=42880121
+ 595. https://ar.wiktionary.org/wiki/volume
+ 596. https://az.wiktionary.org/wiki/volume
+ 597. https://cs.wiktionary.org/wiki/volume
+ 598. https://cy.wiktionary.org/wiki/volume
+ 599. https://da.wiktionary.org/wiki/volume
+ 600. https://de.wiktionary.org/wiki/volume
+ 601. https://et.wiktionary.org/wiki/volume
+ 602. https://el.wiktionary.org/wiki/volume
+ 603. https://es.wiktionary.org/wiki/volume
+ 604. https://eo.wiktionary.org/wiki/volume
+ 605. https://fa.wiktionary.org/wiki/volume
+ 606. https://fr.wiktionary.org/wiki/volume
+ 607. https://gl.wiktionary.org/wiki/volume
+ 608. https://ko.wiktionary.org/wiki/volume
+ 609. https://hy.wiktionary.org/wiki/volume
+ 610. https://io.wiktionary.org/wiki/volume
+ 611. https://id.wiktionary.org/wiki/volume
+ 612. https://it.wiktionary.org/wiki/volume
+ 613. https://kn.wiktionary.org/wiki/volume
+ 614. https://kk.wiktionary.org/wiki/volume
+ 615. https://ku.wiktionary.org/wiki/volume
+ 616. https://lo.wiktionary.org/wiki/volume
+ 617. https://li.wiktionary.org/wiki/volume
+ 618. https://hu.wiktionary.org/wiki/volume
+ 619. https://mg.wiktionary.org/wiki/volume
+ 620. https://ml.wiktionary.org/wiki/volume
+ 621. https://my.wiktionary.org/wiki/volume
+ 622. https://nl.wiktionary.org/wiki/volume
+ 623. https://ja.wiktionary.org/wiki/volume
+ 624. https://no.wiktionary.org/wiki/volume
+ 625. https://uz.wiktionary.org/wiki/volume
+ 626. https://pl.wiktionary.org/wiki/volume
+ 627. https://pt.wiktionary.org/wiki/volume
+ 628. https://ro.wiktionary.org/wiki/volume
+ 629. https://ru.wiktionary.org/wiki/volume
+ 630. https://simple.wiktionary.org/wiki/volume
+ 631. https://sk.wiktionary.org/wiki/volume
+ 632. https://fi.wiktionary.org/wiki/volume
+ 633. https://sv.wiktionary.org/wiki/volume
+ 634. https://ta.wiktionary.org/wiki/volume
+ 635. https://te.wiktionary.org/wiki/volume
+ 636. https://tg.wiktionary.org/wiki/volume
+ 637. https://chr.wiktionary.org/wiki/volume
+ 638. https://tr.wiktionary.org/wiki/volume
+ 639. https://vi.wiktionary.org/wiki/volume
+ 640. https://zh.wiktionary.org/wiki/volume
+ 641. https://en.wiktionary.org/w/index.php?title=Special:Book&bookcmd=book_creator&referer=volume
+ 642. https://en.wiktionary.org/w/index.php?title=Special:Book&bookcmd=render_article&arttitle=volume&returnto=volume&oldid=42880121&writer=rdf2latex
+ 643. https://en.wiktionary.org/w/index.php?title=volume&printable=yes
+ 644. https://creativecommons.org/licenses/by-sa/3.0/
+ 645. https://wikimediafoundation.org/wiki/Terms_of_Use
+ 646. https://wikimediafoundation.org/wiki/Privacy_policy
+ 647. https://wikimediafoundation.org/wiki/Privacy_policy
+ 648. https://en.wiktionary.org/wiki/Wiktionary:About
+ 649. https://en.wiktionary.org/wiki/Wiktionary:General_disclaimer
+ 650. https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute
+ 651. https://wikimediafoundation.org/wiki/Cookie_statement
+ 652. https://en.m.wiktionary.org/w/index.php?title=volume&mobileaction=toggle_view_mobile
+ 653. https://wikimediafoundation.org/
+ 654. https://www.mediawiki.org/
+
+   Hidden links:
+ 656. https://en.wiktionary.org/wiki/volume
+ 657. https://en.wiktionary.org/wiki/volume
+ 658. https://en.wiktionary.org/wiki/Wiktionary:Main_Page

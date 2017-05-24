@@ -1,0 +1,1052 @@
+   #[1]Edit [2]Wiktionary (en) [3]copyright [4]Wiktionary Atom feed
+
+initial
+
+   Definition from Wiktionary, the free dictionary
+   Jump to: [5]navigation, [6]search
+
+Contents
+
+     * [7]1 English
+          + [8]1.1 Etymology
+          + [9]1.2 Pronunciation
+          + [10]1.3 Adjective
+               o [11]1.3.1 Synonyms
+               o [12]1.3.2 Antonyms
+               o [13]1.3.3 Derived terms
+               o [14]1.3.4 Translations
+          + [15]1.4 Noun
+               o [16]1.4.1 Synonyms
+               o [17]1.4.2 Derived terms
+               o [18]1.4.3 Translations
+          + [19]1.5 Verb
+               o [20]1.5.1 Translations
+          + [21]1.6 See also
+          + [22]1.7 Related terms
+          + [23]1.8 Further reading
+     * [24]2 French
+          + [25]2.1 Pronunciation
+          + [26]2.2 Etymology
+          + [27]2.3 Adjective
+               o [28]2.3.1 Related terms
+          + [29]2.4 Further reading
+     * [30]3 Norwegian Bokmål
+          + [31]3.1 Etymology
+          + [32]3.2 Noun
+          + [33]3.3 References
+     * [34]4 Norwegian Nynorsk
+          + [35]4.1 Etymology
+          + [36]4.2 Noun
+          + [37]4.3 References
+
+English[[38]edit]
+
+   [39]Wikipedia has an article on:
+   [40]initial
+   [41]Wikipedia
+
+Etymology[[42]edit]
+
+   From [43]French, from [44]Latin [45]initialis (“of the beginning,
+   incipient, initial”), from [46]initium (“a going in, entrance,
+   beginning”), from [47]inire (“to go in, enter upon, begin”), from
+   [48]in (“in”) + [49]ire (“to go”).
+
+Pronunciation[[50]edit]
+
+     * [51]IPA^([52]key): /ɪˈnɪʃəl/
+     *
+
+       Audio (US)
+
+       ([53]file)
+     * Rhymes: [54]-ɪʃəl
+
+Adjective[[55]edit]
+
+   initial (not [56]comparable)
+    1. Chronologically [57]first, [58]early; of or pertaining to the
+       [59]beginning, cause or origin.
+
+                Our initial admiration for their efficiency gave way to
+                disgust about their methods.
+                The initial stages of a syndrome may differ vastly from
+                the final symptoms.
+
+          + 1963, [60]Margery Allingham, chapter 19, in [61]The China
+            Governess^[62][1]:
+
+                      Meanwhile Nanny Broome was recovering from her
+                      initial panic and seemed anxious to make up for any
+                      kudos she might have lost, by exerting her
+                      personality to the utmost. She took the policeman's
+                      helmet and placed it on a chair, and unfolded his
+                      tunic to shake it and fold it up again for him.
+
+    2. Spatially first, placed at the [63]beginning, in the first
+       [64]position; especially said of the first letter of a word.
+
+                The initial letter of names is usually printed with a
+                capital letter.
+
+          + 1893, [65]Walter Besant, [66]The Ivory Gate, [67]Prologue:
+
+                      Thus, when he drew up instructions in lawyer
+                      language, he expressed the important words by an
+                      initial, a medial, or a final consonant, and made
+                      scratches for all the words between; his clerks,
+                      however, understood him very well.
+
+Synonyms[[68]edit]
+
+     * [69]incipient
+     * [70]opening
+
+Antonyms[[71]edit]
+
+     * [72]final
+
+Derived terms[[73]edit]
+
+     * [74]initially
+     * [75]initialness
+
+Translations[[76]edit]
+
+   Chronologically first, early; of or pertaining to the beginning
+     * Catalan: [77]inicial
+     * Czech: [78]počáteční, [79]výchozí
+     * Dutch: ^(please [80]verify) [81]initieel [82](nl), ^(please
+       [83]verify) [84]aanvankelijk [85](nl), ^(please [86]verify)
+       [87]begin- [88](nl), ^(please [89]verify) [90]vroeg [91](nl)
+     * Finnish: [92]alku-, [93]alkuperäinen [94](fi),
+       [95]varhainen [96](fi), [97]esi- [98](fi), [99]alustava [100](fi)
+     * French: [101]initial [102](fr)
+     * German: [103]anfänglich [104](de), [105]ursprünglich [106](de)
+     * Greek: [107]αρχικός [108](el) (archikós)
+
+     * Italian: [109]iniziale [110](it)
+     * Japanese: [111]初期の [112](ja) (shoki no), [113]始めの (hajime no)
+     * Portuguese: [114]inicial [115](pt)
+     * Russian: [116]нача́льный [117](ru) (načálʹnyj),
+       [118]исхо́дный [119](ru) (isxódnyj), [120]первонача́льный [121](ru)
+       (pervonačálʹnyj), [122]перви́чный [123](ru) (pervíčnyj),
+       [124]оригина́льный [125](ru) (originálʹnyj)
+     * Scottish Gaelic: [126]tùsail
+     * Spanish: [127]inicial [128](es)
+     * Turkish: [129]ilk [130](tr)
+
+   Spatially first, placed at the beginning, in the first position
+     * Catalan: [131]inicial
+     * Czech: [132]počáteční
+     * Dutch: ^(please [133]verify) [134]initieel [135](nl), ^(please
+       [136]verify) [137]eerste [138](nl), ^(please [139]verify)
+       [140]begin- [141](nl), ^(please [142]verify) [143]voorste [144](nl)
+     * Finnish: [145]ensimmäinen [146](fi)
+     * French: [147]initial [148](fr)
+     * German: [149]anfänglich [150](de), [151]erster [152](de)
+
+     * Italian: [153]iniziale [154](it)
+     * Japanese: [155]最初の [156](ja) (saisho no), [157]始めの (hajime no)
+     * Portuguese: [158]inicial [159](pt)
+     * Russian: [160]нача́льный [161](ru) (načálʹnyj),
+       [162]пе́рвый [163](ru) (pérvyj)
+     * Turkish: [164]ön [165](tr), [166]ilk [167](tr)
+
+          The translations below need to be checked and inserted above
+          into the appropriate translation tables, removing any numbers.
+          Numbers do not necessarily match those in definitions. See
+          instructions at [168]Wiktionary:Entry layout#Translations.
+
+   Translations to be checked
+     * Esperanto: ^(please [169]verify) [170]komenca
+     * Estonian: ^(please [171]verify) [172]esialgne
+
+     * Spanish: ^(please [173]verify) [174]inicial [175](es)
+
+Noun[[176]edit]
+
+   initial P (calligraphy)
+
+   initial (plural [177]initials)
+    1. The first [178]letter of a [179]word or a [180]name.
+    2. In plural, the first letter of each word of a [181]person's full
+       name considered as a [182]unit
+
+                You can get your initials printed at the top.
+
+    3. (typography, calligraphy) A distinguished initial letter of a
+       chapter or section of a document.
+    4. (phonology) [183]onset, part of a [184]syllable that precedes the
+       syllable nucleus in [185]phonetics and [186]phonology.
+
+Synonyms[[187]edit]
+
+     * (typography, calligraphy): [188]drop cap, [189]versal
+
+Derived terms[[190]edit]
+
+     * [191]initialism
+     * [192]initial teaching alphabet
+
+Translations[[193]edit]
+
+   first letter of a word
+     * Arabic: [194]حَرْف أَوَّلِيّ m (ḥarf ʾawwaliyy)
+     * Armenian: [195]սկզբնատառ [196](hy) (skzbnataṙ)
+     * Catalan: [197]inicial
+     * Chinese:
+
+                Mandarin: [198]頭文字 [199](zh), [200]头文字 [201](zh)
+                (tóuwénzì)
+
+     * Dutch: [202]beginletter, [203]initiaal [204](nl), (for first names
+       only) [205]voorletter [206](nl)
+     * Finnish: [207]alkukirjain [208](fi)
+     * French: [209]lettrine [210](fr) f, [211]initiale [212](fr) f,
+       [213]première lettre f
+     * German: [214]Anfangsbuchstabe [215](de) m
+     * Greek: [216]αρχικό γράμμα n (archikó grámma)
+
+     * Icelandic: [217]upphafsstafur m
+     * Irish: [218]túslitir f
+     * Japanese: [219]頭文字 (かしらもじ, kashiramoji)
+     * Korean: [220]두문자 [221](ko) (dumunja)
+     * Portuguese: [222]inicial [223](pt) f
+     * Russian: [224]нача́льная бу́ква f (načálʹnaja búkva)
+     * Serbo-Croatian:
+
+                Cyrillic: [225]иницијал m
+                Roman: [226]inicijal [227](sh) m
+
+     * Swedish: [228]initial [229](sv) c
+     * Turkish: [230]başlak [231](tr)
+
+   first letters of a person's name as a unit
+     * Catalan: [232]inicials pl
+     * Esperanto: [233]inicialo, [234]inicialoj pl
+     * Finnish: [235]nimikirjaimet pl
+     * French: [236]initiale [237](fr) f
+     * Galician: [238]iniciais f pl
+
+     * Greek: [239]αρχικό [240](el) n (archikó)
+     * Icelandic: [241]fangamark n, [242]upphafsstafir m pl
+     * Japanese: [243]イニシャル (inisharu)
+     * Russian: [244]инициа́л [245](ru) m (iniciál)
+     * Spanish: [246]iniciales [247](es) f pl
+     * Turkish: [248]başlak [249](tr), [250]başlaklar pl
+
+   calligraphy: distinguished initial letter
+     * Catalan: [251]caplletra [252](ca)
+     * Chinese:
+
+                Mandarin: [253]首字放大 (shǒuzì fàngdà)
+
+     * Finnish: [254]anfangi [255](fi)
+     * French: [256]lettrine [257](fr) f
+
+     * German: [258]Initiale [259](de) f, [260]Initial n
+     * Greek: [261]πρωτόγραμμα [262](el) n (protógramma),
+       [263]πρωτόγραμμα [264](el) n (protógramma)
+     * Japanese: [265]イニシャル (inisharu)
+     * Russian: [266]бу́квица [267](ru) f (búkvica),
+       [268]инициа́л [269](ru) m (iniciál)
+     * Turkish: [270]başlak [271](tr)
+
+   first part of a syllable (onset)
+     * Catalan: [272]obertura [273](ca)
+     * Chinese:
+
+                Mandarin: [274]聲母 [275](zh), [276]声母 [277](zh) (shēngmǔ),
+                [278]聲紐 [279](zh), [280]声纽 [281](zh) (shēngniǔ), [282]音紐,
+                [283]音纽 (yīnniǔ), [284]紐 [285](zh), [286]纽 [287](zh) (niǔ)
+
+     * French: [288]initiale [289](fr) f
+
+     * Japanese: [290]声母 (せいぼ, seibo)
+     * Korean: [291]성모 (seongmo) ([292]聲母), [293]초성 [294](ko) (choseong),
+       [295]첫소리 (cheotsori)
+     * Russian: [296]инициа́ль [297](ru) f (iniciálʹ)
+     * Vietnamese: [298]thanh mẫu ([299]聲母)
+
+Verb[[300]edit]
+
+   initial (third-person singular simple present [301]initials, present
+   participle [302]initialing or [303]initialling, simple past and past
+   participle [304]initialed or [305]initialled)
+    1. ([306]transitive) To [307]sign one's initial(s), as an abbreviated
+       [308]signature.
+
+                Please initial each page and sign the contract in full at
+                the bottom.
+
+Translations[[309]edit]
+
+   to sign one's initial(s)
+     * Chinese:
+
+                Mandarin: [310]签首字母 (qian shou-zi-mu), [311]草签 [312](zh)
+                (cao-qian)
+
+     * Dutch: [313]paraferen [314](nl)
+     * Finnish: [315]vahvistaa [316]nimikirjaimilla, [317]parafoida
+     * French: [318]parapher [319](fr)
+
+     * Greek: [320]μονογραφώ [321](el) (monografó)
+     * Portuguese: [322]rubricar
+     * Russian: [323]парафи́ровать [324](ru) (parafírovatʹ)
+     * Turkish: [325]başlak atmak, [326]başlaklamak
+
+See also[[327]edit]
+
+     * [328]middle
+
+Related terms[[329]edit]
+
+     * [330]initiate
+     * [331]initiation
+     * [332]initiative
+     * [333]initialize
+     * [334]init
+
+Further reading[[335]edit]
+
+     * [336]initial in [337]Webster’s Revised Unabridged Dictionary, G. &
+       C. Merriam, 1913
+     * [338]initial in The Century Dictionary, The Century Co., New York,
+       1911
+     * [339]initial at OneLook Dictionary Search
+     __________________________________________________________________
+
+French[[340]edit]
+
+Pronunciation[[341]edit]
+
+     * [342]IPA^([343]key): /i.ni.sjal/
+     * Rhymes: [344]-al
+
+Etymology[[345]edit]
+
+   From [346]Latin [347]initialis, from [348]initium 'beginning'
+
+Adjective[[349]edit]
+
+   initial m (feminine singular [350]initiale, masculine plural
+   [351]initiaux, feminine plural [352]initiales)
+    1. [353]initial
+
+Related terms[[354]edit]
+
+     * [355]initiale
+     * [356]initialement
+     * [357]initialiser
+
+Further reading[[358]edit]
+
+     * “[359]initial” in [360]le Trésor de la langue française informatisé
+       (The Digitized Treasury of the French Language).
+     __________________________________________________________________
+
+Norwegian Bokmål[[361]edit]
+
+   Norwegian [362]Wikipedia has an article on:
+   [363]initial
+   [364]Wikipedia ^no
+
+Etymology[[365]edit]
+
+   From [366]Latin [367]initialis
+
+Noun[[368]edit]
+
+   initial m (definite singular [369]initialen, indefinite plural
+   [370]initialer, definite plural [371]initialene)
+    1. an [372]initial (first letter of a name)
+
+References[[373]edit]
+
+     * [374]“initial” in The Bokmål Dictionary.
+     __________________________________________________________________
+
+Norwegian Nynorsk[[375]edit]
+
+Etymology[[376]edit]
+
+   From [377]Latin [378]initialis
+
+Noun[[379]edit]
+
+   initial m (definite singular [380]initialen, indefinite plural
+   [381]initialar, definite plural [382]initialane)
+    1. an [383]initial (first letter of a name)
+
+References[[384]edit]
+
+     * [385]“initial” in The Nynorsk Dictionary.
+
+   Retrieved from
+   "[386]https://en.wiktionary.org/w/index.php?title=initial&oldid=4306245
+   1"
+   [387]Categories:
+     * [388]English terms derived from the PIE root *h₁ey-
+     * [389]English terms derived from French
+     * [390]English terms derived from Latin
+     * [391]English 3-syllable words
+     * [392]English terms with IPA pronunciation
+     * [393]English terms with audio links
+     * [394]English lemmas
+     * [395]English adjectives
+     * [396]English uncomparable adjectives
+     * [397]English nouns
+     * [398]English countable nouns
+     * [399]en:Typography
+     * [400]en:Phonology
+     * [401]English verbs
+     * [402]English transitive verbs
+     * [403]French 3-syllable words
+     * [404]French terms with IPA pronunciation
+     * [405]French terms derived from Latin
+     * [406]French lemmas
+     * [407]French adjectives
+     * [408]Norwegian Bokmål terms derived from Latin
+     * [409]Norwegian Bokmål lemmas
+     * [410]Norwegian Bokmål nouns
+     * [411]Norwegian Nynorsk terms derived from Latin
+     * [412]Norwegian Nynorsk lemmas
+     * [413]Norwegian Nynorsk nouns
+
+   Hidden categories:
+     * [414]etyl cleanup/en
+     * [415]Requests for review of Dutch translations
+     * [416]Finnish redlinks
+     * [417]Finnish redlinks/t
+     * [418]Requests for review of Esperanto translations
+     * [419]Requests for review of Estonian translations
+     * [420]Requests for review of Spanish translations
+     * [421]Russian redlinks
+     * [422]Russian redlinks/t
+     * [423]Terms with redundant transliterations
+     * [424]Terms with redundant transliterations/ko
+     * [425]Russian redlinks/t+
+     * [426]etyl cleanup
+
+Navigation menu
+
+Personal tools
+
+     * Not logged in
+     * [427]Talk
+     * [428]Contributions
+     * [429]Create account
+     * [430]Log in
+
+Namespaces
+
+     * [431]Entry
+     * [432]Discussion
+
+Variants
+
+Views
+
+     * [433]Read
+     * [434]Edit
+     * [435]History
+
+More
+
+Search
+
+   [436]____________________ [437]Search [438]Go
+
+Navigation
+
+     * [439]Main Page
+     * [440]Community portal
+     * [441]Preferences
+     * [442]Requested entries
+     * [443]Recent changes
+     * [444]Random entry
+     * [445]Help
+     * [446]Donations
+     * [447]Contact us
+
+Tools
+
+     * [448]What links here
+     * [449]Related changes
+     * [450]Upload file
+     * [451]Special pages
+     * [452]Permanent link
+     * [453]Page information
+     * [454]Cite this page
+
+In other languages
+
+     * [455]Català
+     * [456]Čeština
+     * [457]Cymraeg
+     * [458]Deutsch
+     * [459]Eesti
+     * [460]Ελληνικά
+     * [461]Español
+     * [462]فارسی
+     * [463]Français
+     * [464]한국어
+     * [465]Հայերեն
+     * [466]Ido
+     * [467]Bahasa Indonesia
+     * [468]Italiano
+     * [469]ಕನ್ನಡ
+     * [470]ქართული
+     * [471]Kurdî
+     * [472]Limburgs
+     * [473]Magyar
+     * [474]Malagasy
+     * [475]മലയാളം
+     * [476]မြန်မာဘာသာ
+     * [477]日本語
+     * [478]Polski
+     * [479]Simple English
+     * [480]Suomi
+     * [481]Svenska
+     * [482]தமிழ்
+     * [483]తెలుగు
+     * [484]ᏣᎳᎩ
+     * [485]Türkçe
+     * [486]Tiếng Việt
+     * [487]中文
+
+Print/export
+
+     * [488]Create a book
+     * [489]Download as PDF
+     * [490]Printable version
+
+     * This page was last edited on 22 May 2017, at 00:40.
+     * Text is available under the [491]Creative Commons
+       Attribution-ShareAlike License; additional terms may apply. By
+       using this site, you agree to the [492]Terms of Use and
+       [493]Privacy Policy.
+
+     * [494]Privacy policy
+     * [495]About Wiktionary
+     * [496]Disclaimers
+     * [497]Developers
+     * [498]Cookie statement
+     * [499]Mobile view
+
+     * [500]Wikimedia Foundation
+     * [501]Powered by MediaWiki
+
+References
+
+   Visible links
+   1. https://en.wiktionary.org/w/index.php?title=initial&action=edit
+   2. https://en.wiktionary.org/w/opensearch_desc.php
+   3. https://creativecommons.org/licenses/by-sa/3.0/
+   4. https://en.wiktionary.org/w/index.php?title=Special:RecentChanges&feed=atom
+   5. https://en.wiktionary.org/wiki/initial#mw-head
+   6. https://en.wiktionary.org/wiki/initial#p-search
+   7. https://en.wiktionary.org/wiki/initial#English
+   8. https://en.wiktionary.org/wiki/initial#Etymology
+   9. https://en.wiktionary.org/wiki/initial#Pronunciation
+  10. https://en.wiktionary.org/wiki/initial#Adjective
+  11. https://en.wiktionary.org/wiki/initial#Synonyms
+  12. https://en.wiktionary.org/wiki/initial#Antonyms
+  13. https://en.wiktionary.org/wiki/initial#Derived_terms
+  14. https://en.wiktionary.org/wiki/initial#Translations
+  15. https://en.wiktionary.org/wiki/initial#Noun
+  16. https://en.wiktionary.org/wiki/initial#Synonyms_2
+  17. https://en.wiktionary.org/wiki/initial#Derived_terms_2
+  18. https://en.wiktionary.org/wiki/initial#Translations_2
+  19. https://en.wiktionary.org/wiki/initial#Verb
+  20. https://en.wiktionary.org/wiki/initial#Translations_3
+  21. https://en.wiktionary.org/wiki/initial#See_also
+  22. https://en.wiktionary.org/wiki/initial#Related_terms
+  23. https://en.wiktionary.org/wiki/initial#Further_reading
+  24. https://en.wiktionary.org/wiki/initial#French
+  25. https://en.wiktionary.org/wiki/initial#Pronunciation_2
+  26. https://en.wiktionary.org/wiki/initial#Etymology_2
+  27. https://en.wiktionary.org/wiki/initial#Adjective_2
+  28. https://en.wiktionary.org/wiki/initial#Related_terms_2
+  29. https://en.wiktionary.org/wiki/initial#Further_reading_2
+  30. https://en.wiktionary.org/wiki/initial#Norwegian_Bokm.C3.A5l
+  31. https://en.wiktionary.org/wiki/initial#Etymology_3
+  32. https://en.wiktionary.org/wiki/initial#Noun_2
+  33. https://en.wiktionary.org/wiki/initial#References
+  34. https://en.wiktionary.org/wiki/initial#Norwegian_Nynorsk
+  35. https://en.wiktionary.org/wiki/initial#Etymology_4
+  36. https://en.wiktionary.org/wiki/initial#Noun_3
+  37. https://en.wiktionary.org/wiki/initial#References_2
+  38. https://en.wiktionary.org/w/index.php?title=initial&action=edit&section=1
+  39. https://en.wiktionary.org/wiki/Wikipedia
+  40. https://en.wikipedia.org/wiki/initial
+  41. https://en.wikipedia.org/wiki/initial
+  42. https://en.wiktionary.org/w/index.php?title=initial&action=edit&section=2
+  43. https://en.wikipedia.org/wiki/French_language
+  44. https://en.wikipedia.org/wiki/Latin_language
+  45. https://en.wiktionary.org/wiki/initialis#Latin
+  46. https://en.wiktionary.org/wiki/initium#Latin
+  47. https://en.wiktionary.org/wiki/inire#Latin
+  48. https://en.wiktionary.org/wiki/in#Latin
+  49. https://en.wiktionary.org/wiki/ire#Latin
+  50. https://en.wiktionary.org/w/index.php?title=initial&action=edit&section=3
+  51. https://en.wiktionary.org/wiki/Wiktionary:International_Phonetic_Alphabet
+  52. https://en.wiktionary.org/wiki/Appendix:English_pronunciation
+  53. https://en.wiktionary.org/wiki/File:en-us-initial.ogg
+  54. https://en.wiktionary.org/wiki/Rhymes:English/ɪʃəl
+  55. https://en.wiktionary.org/w/index.php?title=initial&action=edit&section=4
+  56. https://en.wiktionary.org/wiki/Appendix:Glossary#comparable
+  57. https://en.wiktionary.org/wiki/first
+  58. https://en.wiktionary.org/wiki/early
+  59. https://en.wiktionary.org/wiki/beginning
+  60. https://en.wikipedia.org/wiki/Margery_Allingham
+  61. https://en.wikipedia.org/wiki/The_China_Governess
+  62. http://openlibrary.org/works/OL2004261W
+  63. https://en.wiktionary.org/wiki/beginning
+  64. https://en.wiktionary.org/wiki/position
+  65. https://en.wikipedia.org/wiki/Walter_Besant
+  66. http://gutenberg.org/ebooks/34738
+  67. http://gutenberg.org/files/34738/34738-h/34738-h.htm#PROLOGUE
+  68. https://en.wiktionary.org/w/index.php?title=initial&action=edit&section=5
+  69. https://en.wiktionary.org/wiki/incipient#English
+  70. https://en.wiktionary.org/wiki/opening#English
+  71. https://en.wiktionary.org/w/index.php?title=initial&action=edit&section=6
+  72. https://en.wiktionary.org/wiki/final#English
+  73. https://en.wiktionary.org/w/index.php?title=initial&action=edit&section=7
+  74. https://en.wiktionary.org/wiki/initially#English
+  75. https://en.wiktionary.org/wiki/initialness#English
+  76. https://en.wiktionary.org/w/index.php?title=initial&action=edit&section=8
+  77. https://en.wiktionary.org/wiki/inicial#Catalan
+  78. https://en.wiktionary.org/wiki/počáteční#Czech
+  79. https://en.wiktionary.org/wiki/výchozí#Czech
+  80. https://en.wiktionary.org/wiki/Wiktionary:Translations#Translations_to_be_checked
+  81. https://en.wiktionary.org/wiki/initieel#Dutch
+  82. https://nl.wiktionary.org/wiki/initieel
+  83. https://en.wiktionary.org/wiki/Wiktionary:Translations#Translations_to_be_checked
+  84. https://en.wiktionary.org/wiki/aanvankelijk#Dutch
+  85. https://nl.wiktionary.org/wiki/aanvankelijk
+  86. https://en.wiktionary.org/wiki/Wiktionary:Translations#Translations_to_be_checked
+  87. https://en.wiktionary.org/wiki/begin#Dutch
+  88. https://nl.wiktionary.org/wiki/begin
+  89. https://en.wiktionary.org/wiki/Wiktionary:Translations#Translations_to_be_checked
+  90. https://en.wiktionary.org/wiki/vroeg#Dutch
+  91. https://nl.wiktionary.org/wiki/vroeg
+  92. https://en.wiktionary.org/w/index.php?title=alku-&action=edit&redlink=1
+  93. https://en.wiktionary.org/wiki/alkuperäinen#Finnish
+  94. https://fi.wiktionary.org/wiki/alkuperäinen
+  95. https://en.wiktionary.org/wiki/varhainen#Finnish
+  96. https://fi.wiktionary.org/wiki/varhainen
+  97. https://en.wiktionary.org/wiki/esi-#Finnish
+  98. https://fi.wiktionary.org/wiki/esi-
+  99. https://en.wiktionary.org/wiki/alustava#Finnish
+ 100. https://fi.wiktionary.org/wiki/alustava
+ 101. https://en.wiktionary.org/wiki/initial#French
+ 102. https://fr.wiktionary.org/wiki/initial
+ 103. https://en.wiktionary.org/wiki/anfänglich#German
+ 104. https://de.wiktionary.org/wiki/anfänglich
+ 105. https://en.wiktionary.org/wiki/ursprünglich#German
+ 106. https://de.wiktionary.org/wiki/ursprünglich
+ 107. https://en.wiktionary.org/wiki/αρχικός#Greek
+ 108. https://el.wiktionary.org/wiki/αρχικός
+ 109. https://en.wiktionary.org/wiki/iniziale#Italian
+ 110. https://it.wiktionary.org/wiki/iniziale
+ 111. https://en.wiktionary.org/wiki/初期#Japanese
+ 112. https://ja.wiktionary.org/wiki/初期
+ 113. https://en.wiktionary.org/wiki/始め#Japanese
+ 114. https://en.wiktionary.org/wiki/inicial#Portuguese
+ 115. https://pt.wiktionary.org/wiki/inicial
+ 116. https://en.wiktionary.org/wiki/начальный#Russian
+ 117. https://ru.wiktionary.org/wiki/начальный
+ 118. https://en.wiktionary.org/wiki/исходный#Russian
+ 119. https://ru.wiktionary.org/wiki/исходный
+ 120. https://en.wiktionary.org/wiki/первоначальный#Russian
+ 121. https://ru.wiktionary.org/wiki/первоначальный
+ 122. https://en.wiktionary.org/wiki/первичный#Russian
+ 123. https://ru.wiktionary.org/wiki/первичный
+ 124. https://en.wiktionary.org/wiki/оригинальный#Russian
+ 125. https://ru.wiktionary.org/wiki/оригинальный
+ 126. https://en.wiktionary.org/wiki/tùsail#Scottish_Gaelic
+ 127. https://en.wiktionary.org/wiki/inicial#Spanish
+ 128. https://es.wiktionary.org/wiki/inicial
+ 129. https://en.wiktionary.org/wiki/ilk#Turkish
+ 130. https://tr.wiktionary.org/wiki/ilk
+ 131. https://en.wiktionary.org/wiki/inicial#Catalan
+ 132. https://en.wiktionary.org/wiki/počáteční#Czech
+ 133. https://en.wiktionary.org/wiki/Wiktionary:Translations#Translations_to_be_checked
+ 134. https://en.wiktionary.org/wiki/initieel#Dutch
+ 135. https://nl.wiktionary.org/wiki/initieel
+ 136. https://en.wiktionary.org/wiki/Wiktionary:Translations#Translations_to_be_checked
+ 137. https://en.wiktionary.org/wiki/eerste#Dutch
+ 138. https://nl.wiktionary.org/wiki/eerste
+ 139. https://en.wiktionary.org/wiki/Wiktionary:Translations#Translations_to_be_checked
+ 140. https://en.wiktionary.org/wiki/begin#Dutch
+ 141. https://nl.wiktionary.org/wiki/begin
+ 142. https://en.wiktionary.org/wiki/Wiktionary:Translations#Translations_to_be_checked
+ 143. https://en.wiktionary.org/w/index.php?title=voorste&action=edit&redlink=1
+ 144. https://nl.wiktionary.org/wiki/voorste
+ 145. https://en.wiktionary.org/wiki/ensimmäinen#Finnish
+ 146. https://fi.wiktionary.org/wiki/ensimmäinen
+ 147. https://en.wiktionary.org/wiki/initial#French
+ 148. https://fr.wiktionary.org/wiki/initial
+ 149. https://en.wiktionary.org/wiki/anfänglich#German
+ 150. https://de.wiktionary.org/wiki/anfänglich
+ 151. https://en.wiktionary.org/wiki/erster#German
+ 152. https://de.wiktionary.org/wiki/erster
+ 153. https://en.wiktionary.org/wiki/iniziale#Italian
+ 154. https://it.wiktionary.org/wiki/iniziale
+ 155. https://en.wiktionary.org/wiki/最初#Japanese
+ 156. https://ja.wiktionary.org/wiki/最初
+ 157. https://en.wiktionary.org/wiki/始め#Japanese
+ 158. https://en.wiktionary.org/wiki/inicial#Portuguese
+ 159. https://pt.wiktionary.org/wiki/inicial
+ 160. https://en.wiktionary.org/wiki/начальный#Russian
+ 161. https://ru.wiktionary.org/wiki/начальный
+ 162. https://en.wiktionary.org/wiki/первый#Russian
+ 163. https://ru.wiktionary.org/wiki/первый
+ 164. https://en.wiktionary.org/wiki/ön#Turkish
+ 165. https://tr.wiktionary.org/wiki/ön
+ 166. https://en.wiktionary.org/wiki/ilk#Turkish
+ 167. https://tr.wiktionary.org/wiki/ilk
+ 168. https://en.wiktionary.org/wiki/Wiktionary:Entry_layout#Translations
+ 169. https://en.wiktionary.org/wiki/Wiktionary:Translations#Translations_to_be_checked
+ 170. https://en.wiktionary.org/wiki/komenca#Esperanto
+ 171. https://en.wiktionary.org/wiki/Wiktionary:Translations#Translations_to_be_checked
+ 172. https://en.wiktionary.org/w/index.php?title=esialgne&action=edit&redlink=1
+ 173. https://en.wiktionary.org/wiki/Wiktionary:Translations#Translations_to_be_checked
+ 174. https://en.wiktionary.org/wiki/inicial#Spanish
+ 175. https://es.wiktionary.org/wiki/inicial
+ 176. https://en.wiktionary.org/w/index.php?title=initial&action=edit&section=9
+ 177. https://en.wiktionary.org/wiki/initials#English
+ 178. https://en.wiktionary.org/wiki/letter
+ 179. https://en.wiktionary.org/wiki/word
+ 180. https://en.wiktionary.org/wiki/name
+ 181. https://en.wiktionary.org/wiki/person
+ 182. https://en.wiktionary.org/wiki/unit
+ 183. https://en.wiktionary.org/wiki/onset
+ 184. https://en.wiktionary.org/wiki/syllable
+ 185. https://en.wiktionary.org/wiki/phonetics
+ 186. https://en.wiktionary.org/wiki/phonology
+ 187. https://en.wiktionary.org/w/index.php?title=initial&action=edit&section=10
+ 188. https://en.wiktionary.org/wiki/drop_cap#English
+ 189. https://en.wiktionary.org/wiki/versal#English
+ 190. https://en.wiktionary.org/w/index.php?title=initial&action=edit&section=11
+ 191. https://en.wiktionary.org/wiki/initialism#English
+ 192. https://en.wiktionary.org/w/index.php?title=initial_teaching_alphabet&action=edit&redlink=1
+ 193. https://en.wiktionary.org/w/index.php?title=initial&action=edit&section=12
+ 194. https://en.wiktionary.org/w/index.php?title=حرف_أولي&action=edit&redlink=1
+ 195. https://en.wiktionary.org/wiki/սկզբնատառ#Armenian
+ 196. https://hy.wiktionary.org/wiki/սկզբնատառ
+ 197. https://en.wiktionary.org/wiki/inicial#Catalan
+ 198. https://en.wiktionary.org/wiki/頭文字#Mandarin
+ 199. https://zh.wiktionary.org/wiki/頭文字
+ 200. https://en.wiktionary.org/wiki/头文字#Mandarin
+ 201. https://zh.wiktionary.org/wiki/头文字
+ 202. https://en.wiktionary.org/wiki/beginletter#Dutch
+ 203. https://en.wiktionary.org/wiki/initiaal#Dutch
+ 204. https://nl.wiktionary.org/wiki/initiaal
+ 205. https://en.wiktionary.org/wiki/voorletter#Dutch
+ 206. https://nl.wiktionary.org/wiki/voorletter
+ 207. https://en.wiktionary.org/wiki/alkukirjain#Finnish
+ 208. https://fi.wiktionary.org/wiki/alkukirjain
+ 209. https://en.wiktionary.org/wiki/lettrine#French
+ 210. https://fr.wiktionary.org/wiki/lettrine
+ 211. https://en.wiktionary.org/wiki/initiale#French
+ 212. https://fr.wiktionary.org/wiki/initiale
+ 213. https://en.wiktionary.org/w/index.php?title=première_lettre&action=edit&redlink=1
+ 214. https://en.wiktionary.org/wiki/Anfangsbuchstabe#German
+ 215. https://de.wiktionary.org/wiki/Anfangsbuchstabe
+ 216. https://en.wiktionary.org/w/index.php?title=αρχικό_γράμμα&action=edit&redlink=1
+ 217. https://en.wiktionary.org/w/index.php?title=upphafsstafur&action=edit&redlink=1
+ 218. https://en.wiktionary.org/wiki/túslitir#Irish
+ 219. https://en.wiktionary.org/wiki/頭文字#Japanese
+ 220. https://en.wiktionary.org/w/index.php?title=두문자&action=edit&redlink=1
+ 221. https://ko.wiktionary.org/wiki/두문자
+ 222. https://en.wiktionary.org/wiki/inicial#Portuguese
+ 223. https://pt.wiktionary.org/wiki/inicial
+ 224. https://en.wiktionary.org/w/index.php?title=начальная_буква&action=edit&redlink=1
+ 225. https://en.wiktionary.org/wiki/иницијал#Serbo-Croatian
+ 226. https://en.wiktionary.org/wiki/inicijal#Serbo-Croatian
+ 227. https://sh.wiktionary.org/wiki/inicijal
+ 228. https://en.wiktionary.org/wiki/initial#Swedish
+ 229. https://sv.wiktionary.org/wiki/initial
+ 230. https://en.wiktionary.org/w/index.php?title=başlak&action=edit&redlink=1
+ 231. https://tr.wiktionary.org/wiki/başlak
+ 232. https://en.wiktionary.org/wiki/inicials#Catalan
+ 233. https://en.wiktionary.org/w/index.php?title=inicialo&action=edit&redlink=1
+ 234. https://en.wiktionary.org/w/index.php?title=inicialoj&action=edit&redlink=1
+ 235. https://en.wiktionary.org/wiki/nimikirjaimet#Finnish
+ 236. https://en.wiktionary.org/wiki/initiale#French
+ 237. https://fr.wiktionary.org/wiki/initiale
+ 238. https://en.wiktionary.org/wiki/iniciais#Galician
+ 239. https://en.wiktionary.org/wiki/αρχικό#Greek
+ 240. https://el.wiktionary.org/wiki/αρχικό
+ 241. https://en.wiktionary.org/w/index.php?title=fangamark&action=edit&redlink=1
+ 242. https://en.wiktionary.org/w/index.php?title=upphafsstafir&action=edit&redlink=1
+ 243. https://en.wiktionary.org/w/index.php?title=イニシャル&action=edit&redlink=1
+ 244. https://en.wiktionary.org/wiki/инициал#Russian
+ 245. https://ru.wiktionary.org/wiki/инициал
+ 246. https://en.wiktionary.org/wiki/iniciales#Spanish
+ 247. https://es.wiktionary.org/wiki/iniciales
+ 248. https://en.wiktionary.org/w/index.php?title=başlak&action=edit&redlink=1
+ 249. https://tr.wiktionary.org/wiki/başlak
+ 250. https://en.wiktionary.org/w/index.php?title=başlaklar&action=edit&redlink=1
+ 251. https://en.wiktionary.org/w/index.php?title=caplletra&action=edit&redlink=1
+ 252. https://ca.wiktionary.org/wiki/caplletra
+ 253. https://en.wiktionary.org/w/index.php?title=首字放大&action=edit&redlink=1
+ 254. https://en.wiktionary.org/wiki/anfangi#Finnish
+ 255. https://fi.wiktionary.org/wiki/anfangi
+ 256. https://en.wiktionary.org/wiki/lettrine#French
+ 257. https://fr.wiktionary.org/wiki/lettrine
+ 258. https://en.wiktionary.org/wiki/Initiale#German
+ 259. https://de.wiktionary.org/wiki/Initiale
+ 260. https://en.wiktionary.org/w/index.php?title=Initial&action=edit&redlink=1
+ 261. https://en.wiktionary.org/w/index.php?title=πρωτόγραμμα&action=edit&redlink=1
+ 262. https://el.wiktionary.org/wiki/πρωτόγραμμα
+ 263. https://en.wiktionary.org/w/index.php?title=πρωτόγραμμα&action=edit&redlink=1
+ 264. https://el.wiktionary.org/wiki/πρωτόγραμμα
+ 265. https://en.wiktionary.org/w/index.php?title=イニシャル&action=edit&redlink=1
+ 266. https://en.wiktionary.org/wiki/буквица#Russian
+ 267. https://ru.wiktionary.org/wiki/буквица
+ 268. https://en.wiktionary.org/wiki/инициал#Russian
+ 269. https://ru.wiktionary.org/wiki/инициал
+ 270. https://en.wiktionary.org/w/index.php?title=başlak&action=edit&redlink=1
+ 271. https://tr.wiktionary.org/wiki/başlak
+ 272. https://en.wiktionary.org/wiki/obertura#Catalan
+ 273. https://ca.wiktionary.org/wiki/obertura
+ 274. https://en.wiktionary.org/wiki/聲母#Mandarin
+ 275. https://zh.wiktionary.org/wiki/聲母
+ 276. https://en.wiktionary.org/wiki/声母#Mandarin
+ 277. https://zh.wiktionary.org/wiki/声母
+ 278. https://en.wiktionary.org/w/index.php?title=聲紐&action=edit&redlink=1
+ 279. https://zh.wiktionary.org/wiki/聲紐
+ 280. https://en.wiktionary.org/w/index.php?title=声纽&action=edit&redlink=1
+ 281. https://zh.wiktionary.org/wiki/声纽
+ 282. https://en.wiktionary.org/w/index.php?title=音紐&action=edit&redlink=1
+ 283. https://en.wiktionary.org/w/index.php?title=音纽&action=edit&redlink=1
+ 284. https://en.wiktionary.org/wiki/紐#Mandarin
+ 285. https://zh.wiktionary.org/wiki/紐
+ 286. https://en.wiktionary.org/wiki/纽#Mandarin
+ 287. https://zh.wiktionary.org/wiki/纽
+ 288. https://en.wiktionary.org/wiki/initiale#French
+ 289. https://fr.wiktionary.org/wiki/initiale
+ 290. https://en.wiktionary.org/wiki/声母#Japanese
+ 291. https://en.wiktionary.org/w/index.php?title=성모&action=edit&redlink=1
+ 292. https://en.wiktionary.org/wiki/聲母#Korean
+ 293. https://en.wiktionary.org/wiki/초성#Korean
+ 294. https://ko.wiktionary.org/wiki/초성
+ 295. https://en.wiktionary.org/wiki/첫소리#Korean
+ 296. https://en.wiktionary.org/wiki/инициаль#Russian
+ 297. https://ru.wiktionary.org/wiki/инициаль
+ 298. https://en.wiktionary.org/w/index.php?title=thanh_mẫu&action=edit&redlink=1
+ 299. https://en.wiktionary.org/wiki/聲母#Vietnamese
+ 300. https://en.wiktionary.org/w/index.php?title=initial&action=edit&section=13
+ 301. https://en.wiktionary.org/wiki/initials#English
+ 302. https://en.wiktionary.org/wiki/initialing#English
+ 303. https://en.wiktionary.org/wiki/initialling#English
+ 304. https://en.wiktionary.org/wiki/initialed#English
+ 305. https://en.wiktionary.org/wiki/initialled#English
+ 306. https://en.wiktionary.org/wiki/Appendix:Glossary#transitive
+ 307. https://en.wiktionary.org/wiki/sign
+ 308. https://en.wiktionary.org/wiki/signature
+ 309. https://en.wiktionary.org/w/index.php?title=initial&action=edit&section=14
+ 310. https://en.wiktionary.org/w/index.php?title=签首字母&action=edit&redlink=1
+ 311. https://en.wiktionary.org/w/index.php?title=草签&action=edit&redlink=1
+ 312. https://zh.wiktionary.org/wiki/草签
+ 313. https://en.wiktionary.org/w/index.php?title=paraferen&action=edit&redlink=1
+ 314. https://nl.wiktionary.org/wiki/paraferen
+ 315. https://en.wiktionary.org/wiki/vahvistaa#Finnish
+ 316. https://en.wiktionary.org/wiki/nimikirjaimilla#Finnish
+ 317. https://en.wiktionary.org/wiki/parafoida#Finnish
+ 318. https://en.wiktionary.org/wiki/parapher#French
+ 319. https://fr.wiktionary.org/wiki/parapher
+ 320. https://en.wiktionary.org/w/index.php?title=μονογραφώ&action=edit&redlink=1
+ 321. https://el.wiktionary.org/wiki/μονογραφώ
+ 322. https://en.wiktionary.org/wiki/rubricar#Portuguese
+ 323. https://en.wiktionary.org/w/index.php?title=парафировать&action=edit&redlink=1
+ 324. https://ru.wiktionary.org/wiki/парафировать
+ 325. https://en.wiktionary.org/w/index.php?title=başlak_atmak&action=edit&redlink=1
+ 326. https://en.wiktionary.org/w/index.php?title=başlaklamak&action=edit&redlink=1
+ 327. https://en.wiktionary.org/w/index.php?title=initial&action=edit&section=15
+ 328. https://en.wiktionary.org/wiki/middle#English
+ 329. https://en.wiktionary.org/w/index.php?title=initial&action=edit&section=16
+ 330. https://en.wiktionary.org/wiki/initiate#English
+ 331. https://en.wiktionary.org/wiki/initiation#English
+ 332. https://en.wiktionary.org/wiki/initiative#English
+ 333. https://en.wiktionary.org/wiki/initialize#English
+ 334. https://en.wiktionary.org/wiki/init#English
+ 335. https://en.wiktionary.org/w/index.php?title=initial&action=edit&section=17
+ 336. http://www.websters1913.com/words/Initial
+ 337. https://en.wiktionary.org/wiki/Wiktionary:Webster's_Dictionary,_1913
+ 338. http://triggs.djvu.org/century-dictionary.com/nph-chw.php?query=initial&type=dicts
+ 339. http://www.onelook.com/?w=initial&ls=a
+ 340. https://en.wiktionary.org/w/index.php?title=initial&action=edit&section=18
+ 341. https://en.wiktionary.org/w/index.php?title=initial&action=edit&section=19
+ 342. https://en.wiktionary.org/wiki/Wiktionary:International_Phonetic_Alphabet
+ 343. https://en.wiktionary.org/wiki/Appendix:French_pronunciation
+ 344. https://en.wiktionary.org/wiki/Rhymes:French/al
+ 345. https://en.wiktionary.org/w/index.php?title=initial&action=edit&section=20
+ 346. https://en.wikipedia.org/wiki/Latin_language
+ 347. https://en.wiktionary.org/wiki/initialis
+ 348. https://en.wiktionary.org/wiki/initium
+ 349. https://en.wiktionary.org/w/index.php?title=initial&action=edit&section=21
+ 350. https://en.wiktionary.org/wiki/initiale#French
+ 351. https://en.wiktionary.org/wiki/initiaux#French
+ 352. https://en.wiktionary.org/wiki/initiales#French
+ 353. https://en.wiktionary.org/wiki/initial#Adjective
+ 354. https://en.wiktionary.org/w/index.php?title=initial&action=edit&section=22
+ 355. https://en.wiktionary.org/wiki/initiale#French
+ 356. https://en.wiktionary.org/wiki/initialement#French
+ 357. https://en.wiktionary.org/wiki/initialiser#French
+ 358. https://en.wiktionary.org/w/index.php?title=initial&action=edit&section=23
+ 359. http://www.cnrtl.fr/definition/initial
+ 360. https://en.wikipedia.org/wiki/fr:Trésor_de_la_langue_française_informatisé
+ 361. https://en.wiktionary.org/w/index.php?title=initial&action=edit&section=24
+ 362. https://en.wiktionary.org/wiki/Wikipedia
+ 363. https://en.wikipedia.org/wiki/no:initial
+ 364. https://en.wikipedia.org/wiki/no:initial
+ 365. https://en.wiktionary.org/w/index.php?title=initial&action=edit&section=25
+ 366. https://en.wikipedia.org/wiki/Latin_language
+ 367. https://en.wiktionary.org/wiki/initialis#Latin
+ 368. https://en.wiktionary.org/w/index.php?title=initial&action=edit&section=26
+ 369. https://en.wiktionary.org/wiki/initialen#Norwegian_Bokm.C3.A5l
+ 370. https://en.wiktionary.org/wiki/initialer#Norwegian_Bokm.C3.A5l
+ 371. https://en.wiktionary.org/wiki/initialene#Norwegian_Bokm.C3.A5l
+ 372. https://en.wiktionary.org/wiki/initial#English
+ 373. https://en.wiktionary.org/w/index.php?title=initial&action=edit&section=27
+ 374. http://ordbok.uib.no/perl/ordbok.cgi?OPP=initial&bokmaal=+&ordbok=bokmaal
+ 375. https://en.wiktionary.org/w/index.php?title=initial&action=edit&section=28
+ 376. https://en.wiktionary.org/w/index.php?title=initial&action=edit&section=29
+ 377. https://en.wikipedia.org/wiki/Latin_language
+ 378. https://en.wiktionary.org/wiki/initialis#Latin
+ 379. https://en.wiktionary.org/w/index.php?title=initial&action=edit&section=30
+ 380. https://en.wiktionary.org/wiki/initialen#Norwegian_Nynorsk
+ 381. https://en.wiktionary.org/wiki/initialar#Norwegian_Nynorsk
+ 382. https://en.wiktionary.org/wiki/initialane#Norwegian_Nynorsk
+ 383. https://en.wiktionary.org/wiki/initial#English
+ 384. https://en.wiktionary.org/w/index.php?title=initial&action=edit&section=31
+ 385. http://ordbok.uib.no/perl/ordbok.cgi?OPP=initial&nynorsk=+&ordbok=nynorsk
+ 386. https://en.wiktionary.org/w/index.php?title=initial&oldid=43062451
+ 387. https://en.wiktionary.org/wiki/Special:Categories
+ 388. https://en.wiktionary.org/wiki/Category:English_terms_derived_from_the_PIE_root_*h₁ey-
+ 389. https://en.wiktionary.org/wiki/Category:English_terms_derived_from_French
+ 390. https://en.wiktionary.org/wiki/Category:English_terms_derived_from_Latin
+ 391. https://en.wiktionary.org/wiki/Category:English_3-syllable_words
+ 392. https://en.wiktionary.org/wiki/Category:English_terms_with_IPA_pronunciation
+ 393. https://en.wiktionary.org/wiki/Category:English_terms_with_audio_links
+ 394. https://en.wiktionary.org/wiki/Category:English_lemmas
+ 395. https://en.wiktionary.org/wiki/Category:English_adjectives
+ 396. https://en.wiktionary.org/wiki/Category:English_uncomparable_adjectives
+ 397. https://en.wiktionary.org/wiki/Category:English_nouns
+ 398. https://en.wiktionary.org/wiki/Category:English_countable_nouns
+ 399. https://en.wiktionary.org/wiki/Category:en:Typography
+ 400. https://en.wiktionary.org/wiki/Category:en:Phonology
+ 401. https://en.wiktionary.org/wiki/Category:English_verbs
+ 402. https://en.wiktionary.org/wiki/Category:English_transitive_verbs
+ 403. https://en.wiktionary.org/wiki/Category:French_3-syllable_words
+ 404. https://en.wiktionary.org/wiki/Category:French_terms_with_IPA_pronunciation
+ 405. https://en.wiktionary.org/wiki/Category:French_terms_derived_from_Latin
+ 406. https://en.wiktionary.org/wiki/Category:French_lemmas
+ 407. https://en.wiktionary.org/wiki/Category:French_adjectives
+ 408. https://en.wiktionary.org/wiki/Category:Norwegian_Bokmål_terms_derived_from_Latin
+ 409. https://en.wiktionary.org/wiki/Category:Norwegian_Bokmål_lemmas
+ 410. https://en.wiktionary.org/wiki/Category:Norwegian_Bokmål_nouns
+ 411. https://en.wiktionary.org/wiki/Category:Norwegian_Nynorsk_terms_derived_from_Latin
+ 412. https://en.wiktionary.org/wiki/Category:Norwegian_Nynorsk_lemmas
+ 413. https://en.wiktionary.org/wiki/Category:Norwegian_Nynorsk_nouns
+ 414. https://en.wiktionary.org/wiki/Category:etyl_cleanup/en
+ 415. https://en.wiktionary.org/wiki/Category:Requests_for_review_of_Dutch_translations
+ 416. https://en.wiktionary.org/wiki/Category:Finnish_redlinks
+ 417. https://en.wiktionary.org/wiki/Category:Finnish_redlinks/t
+ 418. https://en.wiktionary.org/wiki/Category:Requests_for_review_of_Esperanto_translations
+ 419. https://en.wiktionary.org/wiki/Category:Requests_for_review_of_Estonian_translations
+ 420. https://en.wiktionary.org/wiki/Category:Requests_for_review_of_Spanish_translations
+ 421. https://en.wiktionary.org/wiki/Category:Russian_redlinks
+ 422. https://en.wiktionary.org/wiki/Category:Russian_redlinks/t
+ 423. https://en.wiktionary.org/wiki/Category:Terms_with_redundant_transliterations
+ 424. https://en.wiktionary.org/wiki/Category:Terms_with_redundant_transliterations/ko
+ 425. https://en.wiktionary.org/wiki/Category:Russian_redlinks/t+
+ 426. https://en.wiktionary.org/wiki/Category:etyl_cleanup
+ 427. https://en.wiktionary.org/wiki/Special:MyTalk
+ 428. https://en.wiktionary.org/wiki/Special:MyContributions
+ 429. https://en.wiktionary.org/w/index.php?title=Special:CreateAccount&returnto=initial
+ 430. https://en.wiktionary.org/w/index.php?title=Special:UserLogin&returnto=initial
+ 431. https://en.wiktionary.org/wiki/initial
+ 432. https://en.wiktionary.org/w/index.php?title=Talk:initial&action=edit&redlink=1
+ 433. https://en.wiktionary.org/wiki/initial
+ 434. https://en.wiktionary.org/w/index.php?title=initial&action=edit
+ 435. https://en.wiktionary.org/w/index.php?title=initial&action=history
+ 436. form field = text entry field
+ 437. form field = submit button
+ 438. form field = submit button
+ 439. https://en.wiktionary.org/wiki/Wiktionary:Main_Page
+ 440. https://en.wiktionary.org/wiki/Wiktionary:Community_portal
+ 441. https://en.wiktionary.org/wiki/Wiktionary:Per-browser_preferences
+ 442. https://en.wiktionary.org/wiki/Wiktionary:Requested_entries
+ 443. https://en.wiktionary.org/wiki/Special:RecentChanges
+ 444. https://en.wiktionary.org/wiki/Special:Random
+ 445. https://en.wiktionary.org/wiki/Help:Contents
+ 446. https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&utm_medium=sidebar&utm_campaign=C13_en.wiktionary.org&uselang=en
+ 447. https://en.wiktionary.org/wiki/Wiktionary:Contact_us
+ 448. https://en.wiktionary.org/wiki/Special:WhatLinksHere/initial
+ 449. https://en.wiktionary.org/wiki/Special:RecentChangesLinked/initial
+ 450. https://commons.wikimedia.org/wiki/Special:UploadWizard?uselang=en
+ 451. https://en.wiktionary.org/wiki/Special:SpecialPages
+ 452. https://en.wiktionary.org/w/index.php?title=initial&oldid=43062451
+ 453. https://en.wiktionary.org/w/index.php?title=initial&action=info
+ 454. https://en.wiktionary.org/w/index.php?title=Special:CiteThisPage&page=initial&id=43062451
+ 455. https://ca.wiktionary.org/wiki/initial
+ 456. https://cs.wiktionary.org/wiki/initial
+ 457. https://cy.wiktionary.org/wiki/initial
+ 458. https://de.wiktionary.org/wiki/initial
+ 459. https://et.wiktionary.org/wiki/initial
+ 460. https://el.wiktionary.org/wiki/initial
+ 461. https://es.wiktionary.org/wiki/initial
+ 462. https://fa.wiktionary.org/wiki/initial
+ 463. https://fr.wiktionary.org/wiki/initial
+ 464. https://ko.wiktionary.org/wiki/initial
+ 465. https://hy.wiktionary.org/wiki/initial
+ 466. https://io.wiktionary.org/wiki/initial
+ 467. https://id.wiktionary.org/wiki/initial
+ 468. https://it.wiktionary.org/wiki/initial
+ 469. https://kn.wiktionary.org/wiki/initial
+ 470. https://ka.wiktionary.org/wiki/initial
+ 471. https://ku.wiktionary.org/wiki/initial
+ 472. https://li.wiktionary.org/wiki/initial
+ 473. https://hu.wiktionary.org/wiki/initial
+ 474. https://mg.wiktionary.org/wiki/initial
+ 475. https://ml.wiktionary.org/wiki/initial
+ 476. https://my.wiktionary.org/wiki/initial
+ 477. https://ja.wiktionary.org/wiki/initial
+ 478. https://pl.wiktionary.org/wiki/initial
+ 479. https://simple.wiktionary.org/wiki/initial
+ 480. https://fi.wiktionary.org/wiki/initial
+ 481. https://sv.wiktionary.org/wiki/initial
+ 482. https://ta.wiktionary.org/wiki/initial
+ 483. https://te.wiktionary.org/wiki/initial
+ 484. https://chr.wiktionary.org/wiki/initial
+ 485. https://tr.wiktionary.org/wiki/initial
+ 486. https://vi.wiktionary.org/wiki/initial
+ 487. https://zh.wiktionary.org/wiki/initial
+ 488. https://en.wiktionary.org/w/index.php?title=Special:Book&bookcmd=book_creator&referer=initial
+ 489. https://en.wiktionary.org/w/index.php?title=Special:Book&bookcmd=render_article&arttitle=initial&returnto=initial&oldid=43062451&writer=rdf2latex
+ 490. https://en.wiktionary.org/w/index.php?title=initial&printable=yes
+ 491. https://creativecommons.org/licenses/by-sa/3.0/
+ 492. https://wikimediafoundation.org/wiki/Terms_of_Use
+ 493. https://wikimediafoundation.org/wiki/Privacy_policy
+ 494. https://wikimediafoundation.org/wiki/Privacy_policy
+ 495. https://en.wiktionary.org/wiki/Wiktionary:About
+ 496. https://en.wiktionary.org/wiki/Wiktionary:General_disclaimer
+ 497. https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute
+ 498. https://wikimediafoundation.org/wiki/Cookie_statement
+ 499. https://en.m.wiktionary.org/w/index.php?title=initial&mobileaction=toggle_view_mobile
+ 500. https://wikimediafoundation.org/
+ 501. https://www.mediawiki.org/
+
+   Hidden links:
+ 503. https://en.wiktionary.org/wiki/File:Vaterunser_Initial_P.jpg
+ 504. https://en.wiktionary.org/wiki/File:Vaterunser_Initial_P.jpg
+ 505. https://en.wiktionary.org/wiki/initial
+ 506. https://en.wiktionary.org/wiki/initial
+ 507. https://en.wiktionary.org/wiki/Wiktionary:Main_Page

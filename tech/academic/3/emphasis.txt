@@ -1,0 +1,608 @@
+   #[1]Edit [2]Wiktionary (en) [3]copyright [4]Wiktionary Atom feed
+
+emphasis
+
+   Definition from Wiktionary, the free dictionary
+   Jump to: [5]navigation, [6]search
+
+Contents
+
+     * [7]1 English
+          + [8]1.1 Etymology
+          + [9]1.2 Pronunciation
+          + [10]1.3 Noun
+               o [11]1.3.1 Related terms
+               o [12]1.3.2 Translations
+          + [13]1.4 Anagrams
+     * [14]2 Latin
+          + [15]2.1 Etymology
+          + [16]2.2 Pronunciation
+          + [17]2.3 Noun
+          + [18]2.4 References
+
+English[[19]edit]
+
+   [20]Wikipedia has an article on:
+   [21]emphasis
+   [22]Wikipedia
+
+Etymology[[23]edit]
+
+   From [24]Latin, from [25]Ancient Greek [26]ἔμφασις (émphasis,
+   “significance”), from [27]ἐμφαίνω (emphaínō, “I present, I indicate”),
+   from [28]ἔν (én, “in”) + [29]φαίνω (phaínō, “I show”).
+
+Pronunciation[[30]edit]
+
+     * [31]IPA^([32]key): /ˈɛmfəsɪs/
+     * [33]IPA^([34]key): [ˈɛɱfəsɪs], [ˈeɱfəsɪs], [ˈɛɱfəsəs], [ˈeɱfəsəs]
+     *
+
+       Audio (US)
+
+       ([35]file)
+
+Noun[[36]edit]
+
+   emphasis ([37]countable and [38]uncountable, plural [39]emphases)
+    1. [40]Special [41]weight or [42]forcefulness given to something
+       considered [43]important.
+
+                He paused for emphasis before saying who had won.
+
+    2. Special [44]attention or [45]prominence given to something.
+
+                Anglia TV's emphasis is on Norwich and district.
+
+    3. Prominence given to a [46]syllable or [47]words, by [48]raising the
+       [49]voice or [50]printing in [51]italic or [52]underlined [53]type.
+
+                He used a yellow highlighter to indicate where to give
+                emphasis in his speech.
+
+    4. (typography) Related to [54]bold.
+    5. (phonology) The [55]phonetic or [56]phonological [57]feature that
+       distinguishes [58]emphatic [59]consonants from other consonants
+
+Related terms[[60]edit]
+
+     * [61]emphasise, [62]emphasize
+     * [63]emphatic
+
+Translations[[64]edit]
+
+   special weight or forcefulness given to something considered important
+     * Arabic: [65]تَرْكِيز m (tarkīz)
+     * Bashkir: [66]баҫым (baθïm)
+     * Belarusian: [67]на́ціск m (nácisk)
+     * Bulgarian: [68]акцент [69](bg) m (akcent),
+       [70]подчертаване [71](bg) n (podčertavane)
+     * Catalan: [72]èmfasi f
+     * Chinese:
+
+                Mandarin: [73]強調 [74](zh), [75]强调 [76](zh) (qiángdiào)
+
+     * Dutch: [77]nadruk [78](nl) m
+     * Finnish: [79]painotus [80](fi), [81]painottaa [82](fi)
+     * French: [83]accent [84](fr) m, [85]emphase [86](fr) f
+     * Galician: [87]énfase f
+     * German: [88]Betonung [89](de) f, [90]Nachdruck [91](de) m
+
+     * Greek: [92]έμφαση [93](el) f (émfasi)
+     * Hungarian: [94]nyomaték [95](hu)
+     * Irish: [96]béim [97](ga)
+     * Japanese: [98]強調 [99](ja) (きょうちょう, kyōchō)
+     * Luxembourgish: [100]Betounung f, [101]Akzent m
+     * Portuguese: [102]ênfase [103](pt) f
+     * Romanian: [104]emfază [105](ro) f
+     * Russian: [106]подчёркивание [107](ru) n (podčórkivanije),
+       [108]ударе́ние [109](ru) n (udarénije), [110]осо́бое внима́ние n
+       (osóboje vnimánije), [111]акце́нт [112](ru) m (akcént)
+     * Scottish Gaelic: [113]cudrom m
+     * Spanish: [114]énfasis [115](es) m
+
+   special attention or prominence given to something
+     * Bashkir: [116]баҫым (baθïm)
+     * Catalan: [117]èmfasi f
+     * Dutch: [118]benadrukking
+     * German: [119]Emphase [120](de) f
+     * Greek: [121]έμφαση [122](el) f (émfasi)
+
+     * Hungarian: [123]hangsúly [124](hu)
+     * Japanese: [125]注目 [126](ja) (ちゅうもく, chūmoku), [127]重点 [128](ja)
+       (じゅうてん, jyūten)
+     * Portuguese: [129]ênfase [130](pt) f
+     * Romanian: [131]emfază [132](ro) f
+     * Spanish: [133]énfasis [134](es) m
+
+   prominence given to a syllable or words
+     * Bashkir: [135]баҫым (baθïm)
+     * Belarusian: [136]на́ціск m (nácisk)
+     * Bulgarian: [137]ударение [138](bg) n (udarenie)
+     * Catalan: [139]èmfasi f
+     * Czech: [140]důraz m
+     * Dutch: [141]klemtoon [142](nl) m, [143]beklemtoning
+     * Finnish: [144]paino [145](fi)
+     * Georgian: please add this translation if you can
+     * German: [146]Betonung [147](de) f, [148]Gewichtung f
+
+     * Greek: [149]έμφαση [150](el) f (émfasi)
+     * Hungarian: [151]hangsúly [152](hu)
+     * Japanese: [153]強調 [154](ja) (きょうちょう, kyōchō), [155]強勢 (きょうせい,
+       kyōsei)
+     * Portuguese: [156]ênfase [157](pt) f
+     * Romanian: [158]emfază [159](ro) f
+     * Russian: [160]ударе́ние [161](ru) n (udarénije)
+     * Scottish Gaelic: [162]cudrom m
+     * Spanish: [163]énfasis [164](es) m
+     * Turkish: please add this translation if you can
+
+   (typography) related to bold
+     * Catalan: [165]èmfasi f
+
+     * Japanese: [166]強調 [167](ja) (きょうちょう, kyōchō)
+
+   phonology
+
+          The translations below need to be checked and inserted above
+          into the appropriate translation tables, removing any numbers.
+          Numbers do not necessarily match those in definitions. See
+          instructions at [168]Wiktionary:Entry layout#Translations.
+
+   Translations to be checked
+     * French: [169]graisse f (4)
+
+Anagrams[[170]edit]
+
+     * [171]misshape
+     __________________________________________________________________
+
+Latin[[172]edit]
+
+Etymology[[173]edit]
+
+   From [174]Ancient Greek [175]ἔμφασις (émphasis, “significance”).
+
+Pronunciation[[176]edit]
+
+     * ([177]Classical) [178]IPA^([179]key): /ˈem.pʰa.sis/
+
+Noun[[180]edit]
+
+   emphasis f (genitive emphasis); [181]third declension
+    1. [182]emphasis
+
+References[[183]edit]
+
+     * [184]emphasis in [185]Charlton T. Lewis and Charles Short (1879)
+       [186]A Latin Dictionary, Oxford: [187]Clarendon Press
+     * “[188]emphasis” in Félix Gaffiot’s Dictionnaire Illustré
+       Latin-Français, Hachette (1934)
+
+   Retrieved from
+   "[189]https://en.wiktionary.org/w/index.php?title=emphasis&oldid=429195
+   00"
+   [190]Categories:
+     * [191]English terms derived from Latin
+     * [192]English terms derived from Ancient Greek
+     * [193]English 3-syllable words
+     * [194]English terms with IPA pronunciation
+     * [195]English terms with audio links
+     * [196]English lemmas
+     * [197]English nouns
+     * [198]English uncountable nouns
+     * [199]English countable nouns
+     * [200]en:Typography
+     * [201]en:Phonology
+     * [202]Latin terms derived from Ancient Greek
+     * [203]Latin 3-syllable words
+     * [204]Latin terms with IPA pronunciation
+     * [205]Latin lemmas
+     * [206]Latin nouns
+     * [207]Latin feminine nouns
+     * [208]Latin third declension nouns
+     * [209]Latin feminine nouns in the third declension
+
+   Hidden categories:
+     * [210]etyl cleanup/en
+     * [211]Ancient Greek redlinks
+     * [212]Ancient Greek redlinks/m
+     * [213]Russian redlinks
+     * [214]Russian redlinks/t+
+     * [215]Russian redlinks/t
+     * [216]Requests for translations into Georgian
+     * [217]Requests for translations into Turkish
+     * [218]Requests for review of French translations
+
+Navigation menu
+
+Personal tools
+
+     * Not logged in
+     * [219]Talk
+     * [220]Contributions
+     * [221]Create account
+     * [222]Log in
+
+Namespaces
+
+     * [223]Entry
+     * [224]Discussion
+
+Variants
+
+Views
+
+     * [225]Read
+     * [226]Edit
+     * [227]History
+
+More
+
+Search
+
+   [228]____________________ [229]Search [230]Go
+
+Navigation
+
+     * [231]Main Page
+     * [232]Community portal
+     * [233]Preferences
+     * [234]Requested entries
+     * [235]Recent changes
+     * [236]Random entry
+     * [237]Help
+     * [238]Donations
+     * [239]Contact us
+
+Tools
+
+     * [240]What links here
+     * [241]Related changes
+     * [242]Upload file
+     * [243]Special pages
+     * [244]Permanent link
+     * [245]Page information
+     * [246]Cite this page
+
+In other languages
+
+     * [247]Eesti
+     * [248]Esperanto
+     * [249]Français
+     * [250]Gaeilge
+     * [251]한국어
+     * [252]Ido
+     * [253]ಕನ್ನಡ
+     * [254]Kurdî
+     * [255]Magyar
+     * [256]Malagasy
+     * [257]മലയാളം
+     * [258]မြန်မာဘာသာ
+     * [259]日本語
+     * [260]Polski
+     * [261]Русский
+     * [262]संस्कृतम्
+     * [263]Simple English
+     * [264]Suomi
+     * [265]Svenska
+     * [266]தமிழ்
+     * [267]తెలుగు
+     * [268]Türkçe
+     * [269]Tiếng Việt
+     * [270]中文
+
+Print/export
+
+     * [271]Create a book
+     * [272]Download as PDF
+     * [273]Printable version
+
+     * This page was last edited on 14 May 2017, at 13:37.
+     * Text is available under the [274]Creative Commons
+       Attribution-ShareAlike License; additional terms may apply. By
+       using this site, you agree to the [275]Terms of Use and
+       [276]Privacy Policy.
+
+     * [277]Privacy policy
+     * [278]About Wiktionary
+     * [279]Disclaimers
+     * [280]Developers
+     * [281]Cookie statement
+     * [282]Mobile view
+
+     * [283]Wikimedia Foundation
+     * [284]Powered by MediaWiki
+
+References
+
+   Visible links
+   1. https://en.wiktionary.org/w/index.php?title=emphasis&action=edit
+   2. https://en.wiktionary.org/w/opensearch_desc.php
+   3. https://creativecommons.org/licenses/by-sa/3.0/
+   4. https://en.wiktionary.org/w/index.php?title=Special:RecentChanges&feed=atom
+   5. https://en.wiktionary.org/wiki/emphasis#mw-head
+   6. https://en.wiktionary.org/wiki/emphasis#p-search
+   7. https://en.wiktionary.org/wiki/emphasis#English
+   8. https://en.wiktionary.org/wiki/emphasis#Etymology
+   9. https://en.wiktionary.org/wiki/emphasis#Pronunciation
+  10. https://en.wiktionary.org/wiki/emphasis#Noun
+  11. https://en.wiktionary.org/wiki/emphasis#Related_terms
+  12. https://en.wiktionary.org/wiki/emphasis#Translations
+  13. https://en.wiktionary.org/wiki/emphasis#Anagrams
+  14. https://en.wiktionary.org/wiki/emphasis#Latin
+  15. https://en.wiktionary.org/wiki/emphasis#Etymology_2
+  16. https://en.wiktionary.org/wiki/emphasis#Pronunciation_2
+  17. https://en.wiktionary.org/wiki/emphasis#Noun_2
+  18. https://en.wiktionary.org/wiki/emphasis#References
+  19. https://en.wiktionary.org/w/index.php?title=emphasis&action=edit&section=1
+  20. https://en.wiktionary.org/wiki/Wikipedia
+  21. https://en.wikipedia.org/wiki/emphasis
+  22. https://en.wikipedia.org/wiki/emphasis
+  23. https://en.wiktionary.org/w/index.php?title=emphasis&action=edit&section=2
+  24. https://en.wikipedia.org/wiki/Latin_language
+  25. https://en.wikipedia.org/wiki/Ancient_Greek_language
+  26. https://en.wiktionary.org/wiki/ἔμφασις#Ancient_Greek
+  27. https://en.wiktionary.org/w/index.php?title=ἐμφαίνω&action=edit&redlink=1
+  28. https://en.wiktionary.org/w/index.php?title=ἔν&action=edit&redlink=1
+  29. https://en.wiktionary.org/wiki/φαίνω#Ancient_Greek
+  30. https://en.wiktionary.org/w/index.php?title=emphasis&action=edit&section=3
+  31. https://en.wiktionary.org/wiki/Wiktionary:International_Phonetic_Alphabet
+  32. https://en.wiktionary.org/wiki/Appendix:English_pronunciation
+  33. https://en.wiktionary.org/wiki/Wiktionary:International_Phonetic_Alphabet
+  34. https://en.wiktionary.org/wiki/Appendix:English_pronunciation
+  35. https://en.wiktionary.org/wiki/File:en-us-emphasis.ogg
+  36. https://en.wiktionary.org/w/index.php?title=emphasis&action=edit&section=4
+  37. https://en.wiktionary.org/wiki/Appendix:Glossary#countable
+  38. https://en.wiktionary.org/wiki/Appendix:Glossary#uncountable
+  39. https://en.wiktionary.org/wiki/emphases#English
+  40. https://en.wiktionary.org/wiki/special
+  41. https://en.wiktionary.org/wiki/weight
+  42. https://en.wiktionary.org/wiki/forcefulness
+  43. https://en.wiktionary.org/wiki/important
+  44. https://en.wiktionary.org/wiki/attention
+  45. https://en.wiktionary.org/wiki/prominence
+  46. https://en.wiktionary.org/wiki/syllable
+  47. https://en.wiktionary.org/wiki/word
+  48. https://en.wiktionary.org/wiki/raising
+  49. https://en.wiktionary.org/wiki/voice
+  50. https://en.wiktionary.org/wiki/printing
+  51. https://en.wiktionary.org/wiki/italic
+  52. https://en.wiktionary.org/wiki/underline
+  53. https://en.wiktionary.org/wiki/type
+  54. https://en.wiktionary.org/wiki/bold
+  55. https://en.wiktionary.org/wiki/phonetic
+  56. https://en.wiktionary.org/wiki/phonological
+  57. https://en.wiktionary.org/wiki/feature
+  58. https://en.wiktionary.org/wiki/emphatic
+  59. https://en.wiktionary.org/wiki/consonant
+  60. https://en.wiktionary.org/w/index.php?title=emphasis&action=edit&section=5
+  61. https://en.wiktionary.org/wiki/emphasise#English
+  62. https://en.wiktionary.org/wiki/emphasize#English
+  63. https://en.wiktionary.org/wiki/emphatic#English
+  64. https://en.wiktionary.org/w/index.php?title=emphasis&action=edit&section=6
+  65. https://en.wiktionary.org/wiki/تركيز#Arabic
+  66. https://en.wiktionary.org/wiki/баҫым#Bashkir
+  67. https://en.wiktionary.org/wiki/націск#Belarusian
+  68. https://en.wiktionary.org/wiki/акцент#Bulgarian
+  69. https://bg.wiktionary.org/wiki/акцент
+  70. https://en.wiktionary.org/wiki/подчертаване#Bulgarian
+  71. https://bg.wiktionary.org/wiki/подчертаване
+  72. https://en.wiktionary.org/wiki/èmfasi#Catalan
+  73. https://en.wiktionary.org/wiki/強調#Mandarin
+  74. https://zh.wiktionary.org/wiki/強調
+  75. https://en.wiktionary.org/wiki/强调#Mandarin
+  76. https://zh.wiktionary.org/wiki/强调
+  77. https://en.wiktionary.org/wiki/nadruk#Dutch
+  78. https://nl.wiktionary.org/wiki/nadruk
+  79. https://en.wiktionary.org/wiki/painotus#Finnish
+  80. https://fi.wiktionary.org/wiki/painotus
+  81. https://en.wiktionary.org/wiki/painottaa#Finnish
+  82. https://fi.wiktionary.org/wiki/painottaa
+  83. https://en.wiktionary.org/wiki/accent#French
+  84. https://fr.wiktionary.org/wiki/accent
+  85. https://en.wiktionary.org/wiki/emphase#French
+  86. https://fr.wiktionary.org/wiki/emphase
+  87. https://en.wiktionary.org/w/index.php?title=énfase&action=edit&redlink=1
+  88. https://en.wiktionary.org/wiki/Betonung#German
+  89. https://de.wiktionary.org/wiki/Betonung
+  90. https://en.wiktionary.org/wiki/Nachdruck#German
+  91. https://de.wiktionary.org/wiki/Nachdruck
+  92. https://en.wiktionary.org/wiki/έμφαση#Greek
+  93. https://el.wiktionary.org/wiki/έμφαση
+  94. https://en.wiktionary.org/wiki/nyomaték#Hungarian
+  95. https://hu.wiktionary.org/wiki/nyomaték
+  96. https://en.wiktionary.org/w/index.php?title=béim&action=edit&redlink=1
+  97. https://ga.wiktionary.org/wiki/béim
+  98. https://en.wiktionary.org/wiki/強調#Japanese
+  99. https://ja.wiktionary.org/wiki/強調
+ 100. https://en.wiktionary.org/wiki/Betounung#Luxembourgish
+ 101. https://en.wiktionary.org/wiki/Akzent#Luxembourgish
+ 102. https://en.wiktionary.org/wiki/ênfase#Portuguese
+ 103. https://pt.wiktionary.org/wiki/ênfase
+ 104. https://en.wiktionary.org/w/index.php?title=emfază&action=edit&redlink=1
+ 105. https://ro.wiktionary.org/wiki/emfază
+ 106. https://en.wiktionary.org/w/index.php?title=подчёркивание&action=edit&redlink=1
+ 107. https://ru.wiktionary.org/wiki/подчёркивание
+ 108. https://en.wiktionary.org/wiki/ударение#Russian
+ 109. https://ru.wiktionary.org/wiki/ударение
+ 110. https://en.wiktionary.org/w/index.php?title=особое_внимание&action=edit&redlink=1
+ 111. https://en.wiktionary.org/wiki/акцент#Russian
+ 112. https://ru.wiktionary.org/wiki/акцент
+ 113. https://en.wiktionary.org/wiki/cudrom#Scottish_Gaelic
+ 114. https://en.wiktionary.org/wiki/énfasis#Spanish
+ 115. https://es.wiktionary.org/wiki/énfasis
+ 116. https://en.wiktionary.org/wiki/баҫым#Bashkir
+ 117. https://en.wiktionary.org/wiki/èmfasi#Catalan
+ 118. https://en.wiktionary.org/w/index.php?title=benadrukking&action=edit&redlink=1
+ 119. https://en.wiktionary.org/wiki/Emphase#German
+ 120. https://de.wiktionary.org/wiki/Emphase
+ 121. https://en.wiktionary.org/wiki/έμφαση#Greek
+ 122. https://el.wiktionary.org/wiki/έμφαση
+ 123. https://en.wiktionary.org/wiki/hangsúly#Hungarian
+ 124. https://hu.wiktionary.org/wiki/hangsúly
+ 125. https://en.wiktionary.org/wiki/注目#Japanese
+ 126. https://ja.wiktionary.org/wiki/注目
+ 127. https://en.wiktionary.org/wiki/重点#Japanese
+ 128. https://ja.wiktionary.org/wiki/重点
+ 129. https://en.wiktionary.org/wiki/ênfase#Portuguese
+ 130. https://pt.wiktionary.org/wiki/ênfase
+ 131. https://en.wiktionary.org/w/index.php?title=emfază&action=edit&redlink=1
+ 132. https://ro.wiktionary.org/wiki/emfază
+ 133. https://en.wiktionary.org/wiki/énfasis#Spanish
+ 134. https://es.wiktionary.org/wiki/énfasis
+ 135. https://en.wiktionary.org/wiki/баҫым#Bashkir
+ 136. https://en.wiktionary.org/wiki/націск#Belarusian
+ 137. https://en.wiktionary.org/wiki/ударение#Bulgarian
+ 138. https://bg.wiktionary.org/wiki/ударение
+ 139. https://en.wiktionary.org/wiki/èmfasi#Catalan
+ 140. https://en.wiktionary.org/wiki/důraz#Czech
+ 141. https://en.wiktionary.org/wiki/klemtoon#Dutch
+ 142. https://nl.wiktionary.org/wiki/klemtoon
+ 143. https://en.wiktionary.org/w/index.php?title=beklemtoning&action=edit&redlink=1
+ 144. https://en.wiktionary.org/wiki/paino#Finnish
+ 145. https://fi.wiktionary.org/wiki/paino
+ 146. https://en.wiktionary.org/wiki/Betonung#German
+ 147. https://de.wiktionary.org/wiki/Betonung
+ 148. https://en.wiktionary.org/w/index.php?title=Gewichtung&action=edit&redlink=1
+ 149. https://en.wiktionary.org/wiki/έμφαση#Greek
+ 150. https://el.wiktionary.org/wiki/έμφαση
+ 151. https://en.wiktionary.org/wiki/hangsúly#Hungarian
+ 152. https://hu.wiktionary.org/wiki/hangsúly
+ 153. https://en.wiktionary.org/wiki/強調#Japanese
+ 154. https://ja.wiktionary.org/wiki/強調
+ 155. https://en.wiktionary.org/wiki/強勢#Japanese
+ 156. https://en.wiktionary.org/wiki/ênfase#Portuguese
+ 157. https://pt.wiktionary.org/wiki/ênfase
+ 158. https://en.wiktionary.org/w/index.php?title=emfază&action=edit&redlink=1
+ 159. https://ro.wiktionary.org/wiki/emfază
+ 160. https://en.wiktionary.org/wiki/ударение#Russian
+ 161. https://ru.wiktionary.org/wiki/ударение
+ 162. https://en.wiktionary.org/wiki/cudrom#Scottish_Gaelic
+ 163. https://en.wiktionary.org/wiki/énfasis#Spanish
+ 164. https://es.wiktionary.org/wiki/énfasis
+ 165. https://en.wiktionary.org/wiki/èmfasi#Catalan
+ 166. https://en.wiktionary.org/wiki/強調#Japanese
+ 167. https://ja.wiktionary.org/wiki/強調
+ 168. https://en.wiktionary.org/wiki/Wiktionary:Entry_layout#Translations
+ 169. https://en.wiktionary.org/wiki/graisse
+ 170. https://en.wiktionary.org/w/index.php?title=emphasis&action=edit&section=7
+ 171. https://en.wiktionary.org/wiki/misshape#English
+ 172. https://en.wiktionary.org/w/index.php?title=emphasis&action=edit&section=8
+ 173. https://en.wiktionary.org/w/index.php?title=emphasis&action=edit&section=9
+ 174. https://en.wikipedia.org/wiki/Ancient_Greek_language
+ 175. https://en.wiktionary.org/wiki/ἔμφασις#Ancient_Greek
+ 176. https://en.wiktionary.org/w/index.php?title=emphasis&action=edit&section=10
+ 177. https://en.wikipedia.org/wiki/Classical_Latin
+ 178. https://en.wiktionary.org/wiki/Wiktionary:International_Phonetic_Alphabet
+ 179. https://en.wiktionary.org/wiki/Appendix:Latin_pronunciation
+ 180. https://en.wiktionary.org/w/index.php?title=emphasis&action=edit&section=11
+ 181. https://en.wiktionary.org/wiki/Appendix:Latin_third_declension
+ 182. https://en.wiktionary.org/wiki/emphasis#English
+ 183. https://en.wiktionary.org/w/index.php?title=emphasis&action=edit&section=12
+ 184. http://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.04.0059:entry=emphasis
+ 185. https://en.wikipedia.org/wiki/Charlton_Thomas_Lewis
+ 186. https://en.wikipedia.org/wiki/A_Latin_Dictionary
+ 187. https://en.wikipedia.org/wiki/Oxford_University_Press
+ 188. http://micmap.org/dicfro/search/gaffiot/emphasis
+ 189. https://en.wiktionary.org/w/index.php?title=emphasis&oldid=42919500
+ 190. https://en.wiktionary.org/wiki/Special:Categories
+ 191. https://en.wiktionary.org/wiki/Category:English_terms_derived_from_Latin
+ 192. https://en.wiktionary.org/wiki/Category:English_terms_derived_from_Ancient_Greek
+ 193. https://en.wiktionary.org/wiki/Category:English_3-syllable_words
+ 194. https://en.wiktionary.org/wiki/Category:English_terms_with_IPA_pronunciation
+ 195. https://en.wiktionary.org/wiki/Category:English_terms_with_audio_links
+ 196. https://en.wiktionary.org/wiki/Category:English_lemmas
+ 197. https://en.wiktionary.org/wiki/Category:English_nouns
+ 198. https://en.wiktionary.org/wiki/Category:English_uncountable_nouns
+ 199. https://en.wiktionary.org/wiki/Category:English_countable_nouns
+ 200. https://en.wiktionary.org/wiki/Category:en:Typography
+ 201. https://en.wiktionary.org/wiki/Category:en:Phonology
+ 202. https://en.wiktionary.org/wiki/Category:Latin_terms_derived_from_Ancient_Greek
+ 203. https://en.wiktionary.org/wiki/Category:Latin_3-syllable_words
+ 204. https://en.wiktionary.org/wiki/Category:Latin_terms_with_IPA_pronunciation
+ 205. https://en.wiktionary.org/wiki/Category:Latin_lemmas
+ 206. https://en.wiktionary.org/wiki/Category:Latin_nouns
+ 207. https://en.wiktionary.org/wiki/Category:Latin_feminine_nouns
+ 208. https://en.wiktionary.org/wiki/Category:Latin_third_declension_nouns
+ 209. https://en.wiktionary.org/wiki/Category:Latin_feminine_nouns_in_the_third_declension
+ 210. https://en.wiktionary.org/wiki/Category:etyl_cleanup/en
+ 211. https://en.wiktionary.org/wiki/Category:Ancient_Greek_redlinks
+ 212. https://en.wiktionary.org/wiki/Category:Ancient_Greek_redlinks/m
+ 213. https://en.wiktionary.org/wiki/Category:Russian_redlinks
+ 214. https://en.wiktionary.org/wiki/Category:Russian_redlinks/t+
+ 215. https://en.wiktionary.org/wiki/Category:Russian_redlinks/t
+ 216. https://en.wiktionary.org/wiki/Category:Requests_for_translations_into_Georgian
+ 217. https://en.wiktionary.org/wiki/Category:Requests_for_translations_into_Turkish
+ 218. https://en.wiktionary.org/wiki/Category:Requests_for_review_of_French_translations
+ 219. https://en.wiktionary.org/wiki/Special:MyTalk
+ 220. https://en.wiktionary.org/wiki/Special:MyContributions
+ 221. https://en.wiktionary.org/w/index.php?title=Special:CreateAccount&returnto=emphasis
+ 222. https://en.wiktionary.org/w/index.php?title=Special:UserLogin&returnto=emphasis
+ 223. https://en.wiktionary.org/wiki/emphasis
+ 224. https://en.wiktionary.org/w/index.php?title=Talk:emphasis&action=edit&redlink=1
+ 225. https://en.wiktionary.org/wiki/emphasis
+ 226. https://en.wiktionary.org/w/index.php?title=emphasis&action=edit
+ 227. https://en.wiktionary.org/w/index.php?title=emphasis&action=history
+ 228. form field = text entry field
+ 229. form field = submit button
+ 230. form field = submit button
+ 231. https://en.wiktionary.org/wiki/Wiktionary:Main_Page
+ 232. https://en.wiktionary.org/wiki/Wiktionary:Community_portal
+ 233. https://en.wiktionary.org/wiki/Wiktionary:Per-browser_preferences
+ 234. https://en.wiktionary.org/wiki/Wiktionary:Requested_entries
+ 235. https://en.wiktionary.org/wiki/Special:RecentChanges
+ 236. https://en.wiktionary.org/wiki/Special:Random
+ 237. https://en.wiktionary.org/wiki/Help:Contents
+ 238. https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&utm_medium=sidebar&utm_campaign=C13_en.wiktionary.org&uselang=en
+ 239. https://en.wiktionary.org/wiki/Wiktionary:Contact_us
+ 240. https://en.wiktionary.org/wiki/Special:WhatLinksHere/emphasis
+ 241. https://en.wiktionary.org/wiki/Special:RecentChangesLinked/emphasis
+ 242. https://commons.wikimedia.org/wiki/Special:UploadWizard?uselang=en
+ 243. https://en.wiktionary.org/wiki/Special:SpecialPages
+ 244. https://en.wiktionary.org/w/index.php?title=emphasis&oldid=42919500
+ 245. https://en.wiktionary.org/w/index.php?title=emphasis&action=info
+ 246. https://en.wiktionary.org/w/index.php?title=Special:CiteThisPage&page=emphasis&id=42919500
+ 247. https://et.wiktionary.org/wiki/emphasis
+ 248. https://eo.wiktionary.org/wiki/emphasis
+ 249. https://fr.wiktionary.org/wiki/emphasis
+ 250. https://ga.wiktionary.org/wiki/emphasis
+ 251. https://ko.wiktionary.org/wiki/emphasis
+ 252. https://io.wiktionary.org/wiki/emphasis
+ 253. https://kn.wiktionary.org/wiki/emphasis
+ 254. https://ku.wiktionary.org/wiki/emphasis
+ 255. https://hu.wiktionary.org/wiki/emphasis
+ 256. https://mg.wiktionary.org/wiki/emphasis
+ 257. https://ml.wiktionary.org/wiki/emphasis
+ 258. https://my.wiktionary.org/wiki/emphasis
+ 259. https://ja.wiktionary.org/wiki/emphasis
+ 260. https://pl.wiktionary.org/wiki/emphasis
+ 261. https://ru.wiktionary.org/wiki/emphasis
+ 262. https://sa.wiktionary.org/wiki/emphasis
+ 263. https://simple.wiktionary.org/wiki/emphasis
+ 264. https://fi.wiktionary.org/wiki/emphasis
+ 265. https://sv.wiktionary.org/wiki/emphasis
+ 266. https://ta.wiktionary.org/wiki/emphasis
+ 267. https://te.wiktionary.org/wiki/emphasis
+ 268. https://tr.wiktionary.org/wiki/emphasis
+ 269. https://vi.wiktionary.org/wiki/emphasis
+ 270. https://zh.wiktionary.org/wiki/emphasis
+ 271. https://en.wiktionary.org/w/index.php?title=Special:Book&bookcmd=book_creator&referer=emphasis
+ 272. https://en.wiktionary.org/w/index.php?title=Special:Book&bookcmd=render_article&arttitle=emphasis&returnto=emphasis&oldid=42919500&writer=rdf2latex
+ 273. https://en.wiktionary.org/w/index.php?title=emphasis&printable=yes
+ 274. https://creativecommons.org/licenses/by-sa/3.0/
+ 275. https://wikimediafoundation.org/wiki/Terms_of_Use
+ 276. https://wikimediafoundation.org/wiki/Privacy_policy
+ 277. https://wikimediafoundation.org/wiki/Privacy_policy
+ 278. https://en.wiktionary.org/wiki/Wiktionary:About
+ 279. https://en.wiktionary.org/wiki/Wiktionary:General_disclaimer
+ 280. https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute
+ 281. https://wikimediafoundation.org/wiki/Cookie_statement
+ 282. https://en.m.wiktionary.org/w/index.php?title=emphasis&mobileaction=toggle_view_mobile
+ 283. https://wikimediafoundation.org/
+ 284. https://www.mediawiki.org/
+
+   Hidden links:
+ 286. https://en.wiktionary.org/wiki/emphasis
+ 287. https://en.wiktionary.org/wiki/emphasis
+ 288. https://en.wiktionary.org/wiki/Wiktionary:Main_Page
