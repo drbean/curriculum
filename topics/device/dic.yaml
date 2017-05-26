@@ -98,6 +98,32 @@
     M: You can store the pictures on your computer. But you might run out of space.I save all the pictures I like on compact discs. You can store more than seven hundred photos on one CD!
     W: Great! Maybe I should get a digital camera, too.
   - bought|What|with|old|Nothing|this|to store|on|computer|also|that are|very|don't|to|them|to||all|photos|That's|the|Oh|can|photos, too|Many|will|for|Really|You|buy|printer|it|home|That seems|How|store these|You|might|of space|all|I like on|You|store|than seven|photos|CD|Great|Maybe|get a|too
+-
+  - "online-1"
+  - "Online--An easy way to shop"
+  - "topics"
+  - "all"
+  - |+
+    G: Hey, Steve. Look at my new MP3 player.
+    B: Wow! It looks cool! Where did you buy it?
+    G: I bought it online at an electronics website.
+    B: I'm not very good at using a computer. Is it hard to buy things online?
+    G: It's really easy. All you do is go to the website, and choose the item you want to look at.
+-
+  - "online-2"
+  - "Online--An easy way to shop"
+  - "topics"
+  - "all"
+  - |+
+    G: There are so many items to choose from on the website! After you choose what you want to buy, you click on the "Check Out" button.
+    B: That does seem easy!
+    G: Yes, it is. It only takes about a week for your item to come. Of course, if you're in a hurry, you can pay more to get it sent faster.
+    B: Do you pay for the item when it comes?
+    G: No, you have to pay for it online with a credit card.
+  # - Hey|Steve|Look|MP3|player|Wow|It|Where|electronics|very|computer|things|It's|All|you want|at\.|There|After|what|click|"Check Out"|That|seem|about|for|Of course|hurry|can|Do|when|No|have|for it|with|credit
+  - non_existent
+  - 100
+
 
 ---
 -
