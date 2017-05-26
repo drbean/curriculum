@@ -464,34 +464,34 @@ warhurst:
     0:
       identifier: warhurst 0
       A: Your part of the movement is how people live their daily lives. It is quite revolutionary. Food is just a way to talk about the revolution. But the idea is people should change the way they live together. It connects to the learning part, because new skills are needed to live that way. It connects to the business part, because people should change the way they spend their money.
-      B: Your part of the movement is about learning and teaching: learning new skills that people share to help them live their lives more effectively, and teaching kids about the movement. Your part is less revolutionary than the community part, but it supports the community part. The connection with the business part is that traders can learn to do business in better ways.
+      B: "Your part of the movement is about learning and teaching: learning new skills that people share to help them live their lives more effectively, and teaching kids about the movement. Your part is less revolutionary than the community part, but it supports the community part. The connection with the business part is that traders can learn to do business in better ways."
       C: Your part of the movement is about how buyers can support local businesses and local farmers, and how this can change the way people eat. This strongly supports the community part. Local food has an important part to play in the revolution of the community part. Because farmers might not see they have an opportunity, the learning part needs to help them.
       quiz:
-        - question: A
+        - question: A part
           option:
-            - business part
-            - community part
-            - learning part
-          answer: community part
-        - question: B
+            - business
+            - community
+            - learning
+          answer: community
+        - question: B part
           option:
-            - business part
-            - community part
-            - learning part
-          answer: learning part
-        - question: C
+            - business
+            - community
+            - learning
+          answer: learning
+        - question: C part
           option:
-            - business part
-            - community part
-            - learning part
-          answer: business part
+            - business
+            - community
+            - learning
+          answer: business
         - question: The movement is revolutionary
           answer: True
         - question: Food contributes to the movement.
           answer: True
         - question: The 3 parts work together.
           answer: True
-        - question: The learning part is the least supportive part.
+        - question: The learning part is least supportive part.
           answer: False
         - question: The business part supports the learning part.
           answer: False
