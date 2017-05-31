@@ -173,6 +173,13 @@ activity:
       - "B: I broke your doll. I'm sorry. _G: Oh, no! My doll is very important to me._"
       - "B: I broke your doll. I'm sorry. _G: Oh, no! My doll was very important to me._"
       - "B: Here, I'll share my stuffed animal with you. _G: Well, OK. That's nice of you. Thanks._"
+    -
+      - Some children play with dolls.                                         _有些孩子玩玩偶。_
+      - But, children don't play with worry dolls.                             _但是，孩子們不玩擔憂的娃娃。_
+      - Some people put worry dolls under their pillows when they are worried. _有些人擔心的時候把擔心的娃娃放在枕頭下面。_
+      - The dolls worry for the people as they sleep.                          _娃娃在睡覺時擔心人們。_
+      - When the people wake up, they have no more worries.                    _當人們醒來時，他們再也不用擔心了。_
+
   0:
     flash:
       stuffed animal: 填充玩具動物
