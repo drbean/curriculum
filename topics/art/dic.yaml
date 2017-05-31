@@ -383,12 +383,9 @@
     G: I know Monet was the first Impressionist.
     B: Yes, he changed the way paintings are painted.
     G: What is Impressionism? I know it's an art movement.
-    B: They didn't want paintings to look like photos. 
+    B: They painted ordinary subjects, caring about light.
     G: Are all of his paintings paintings of gardens?
-    B: Most of them are outdoor paintings. Some are indoor ones.
-    G: When was the painting painted?
-    B: 1866. He was born in 1840 and died in 1926.
-  - Impressionist|Impressionism|indoor|1866|1840|End
+  - Impressionist|Impressionism|caring|indoor|1866|1840|End
 -
   - "wonderwoman-0"
   - "wonderwoman-0"
