@@ -1,0 +1,149 @@
+---
+genre: ted
+keyword:
+  match:
+    0:
+      identifier: keyword
+      pair:
+        -
+          - backing
+          - support, investment 
+        -
+          - launch
+          - set something going
+        -
+          - shake up
+          - change something settled
+        -
+          - PR
+          - good relationship with the public
+        -
+          - ruthless
+          - seeking a goal and hurting others in the process
+        -
+          - reputation
+          - what others think about you
+filler:
+  jigsaw:
+    0:
+      identifier: filler
+      quiz:
+        - question: What filler does Dr Bean use a lot?
+          option:
+            - I mean
+            - you know
+            - uh
+          answer: uh
+        - question: What filler does Branson use a lot?
+          option:
+            - I mean
+            - you know
+            - uh
+          answer: you know
+        - question: Where does he restart his sentence?
+          option:
+            - if I see/if I fly
+            - I'd think/maybe I can create
+          answer: if I see/if I fly
+philosophy:
+  jigsaw:
+    0:
+      identifier: philosophy
+      quiz:
+        - question: good people
+          option:
+            - True
+            - False
+          answer: True
+        - question: a lot of money
+          option:
+            - True
+            - False
+          answer: True
+        - question: have fun
+          option:
+            - True
+            - False
+          answer: True
+        - question: don't take risks
+          option:
+            - True
+            - False
+          answer: False
+        - question: be ruthless
+          option:
+            - True
+            - False
+          answer: False
+business:
+  jigsaw:
+    0:
+      identifier: business
+      quiz:
+        - question: difficult to run lots of companies?
+          option:
+            - easy if you can run one
+            - the more companies you have the more difficult it becomes
+          answer: easy if you can run one
+        - question: the key
+          option:
+            - money
+            - ideas
+            - people
+          answer: people
+        - question: why an airline
+          option:
+            - he likes to fly balloons
+            - a bad experience flying on another airline
+          answer: a bad experience flying on another airline
+story:
+  jigsaw:
+    0:
+      identifier: story
+      quiz:
+        - question: good decision
+          option:
+            - True
+            - False
+          answer: False
+        - question: company help
+          option:
+            - True
+            - False
+          answer: False
+        - question: save jobs
+          option:
+            - True
+            - False
+          answer: True
+        - question: good quality
+          option:
+            - True
+            - False
+          answer: True
+        - question: fun and different
+          option:
+            - True
+            - False
+          answer: True
+expeditions:
+  jigsaw:
+    0:
+      identifier: expeditions
+      quiz:
+        - question: his views?
+          option:
+            - weren't dangerous
+            - lucky to be alive
+          answer: lucky to be alive
+        - question: people's views
+          option:
+            - marketing
+            - reputation
+          answer: marketing
+        - question: joke
+          option:
+            - not a good advertisement
+            - no plane ticket
+          answer: not a good advertisement
+        
