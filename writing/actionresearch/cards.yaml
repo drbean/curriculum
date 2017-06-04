@@ -79,3 +79,53 @@ imrad:
            - Results
            - Discussion
           answer: Introduction
+objective-subjective:
+  jigsaw:
+    0:
+      identifier: objective-subjective
+      quiz:
+        - question: 1
+          option:
+            - objective
+            - subjective
+          answer: subjective
+        - question: 2
+          option:
+            - objective
+            - subjective
+          answer: objective
+        - question: 3
+          option:
+            - objective
+            - subjective
+          answer: objective
+        - question: 4
+          option:
+            - objective
+            - subjective
+          answer: subjective
+        - question: 5
+          option:
+            - objective
+            - subjective
+          answer: subjective
+        - question: 6
+          option:
+            - objective
+            - subjective
+          answer: objective
+        - question: 7
+          option:
+            - objective
+            - subjective
+          answer: subjective
+        - question: 8
+          option:
+            - objective
+            - subjective
+          answer: subjective
+        - question: 9
+          option:
+            - objective
+            - subjective
+          answer: objective
