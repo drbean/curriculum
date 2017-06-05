@@ -577,37 +577,58 @@ assumption:
       identifier: assumption
       quiz:
         - question: |+
-            20 May 2017
-            Dear Mr. John:
-            Subject: Replying a letter
-            I am writing to complaint about the letter that I wrote to you last month. On 10 April 2017 I want to assure the building model is right so I have to discuss the details with you.
-            However, to date, I don't receive any letter from you and any information about you. My customer and boss are angry and I break credit and damage my reputation. I don't know what happened to you.
-
-            I would appreciate your informing us when we can receive your letter by May 22. Also, if letter cannot be received by the end of this month, we will be forced to look for other designer for this building model.
-
-            Thank you in advance for your cooperation in this matter.
-
-            Yours sincerely,
-
-            Zao Wei, Weng
-
-            architect
+            <html xmlns="http://www.w3.org/1999/xhtml">
+            <head>
+              <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+              <meta http-equiv="Content-Style-Type" content="text/css" />
+              <meta name="generator" content="pandoc" />
+              <title></title>
+              <style type="text/css">code{white-space: pre;}</style>
+            </head>
+            <body>
+            <p>I am writing to complaint about the letter that I wrote to you last month. On 10 April 2017 I want to assure the building model is right so I have to discuss the details with you. However, to date, I don't receive any letter from you and any information about you. My customer and boss are angry and I break credit and damage my reputation. I don't know what happened to you.</p>
+            <p>I would appreciate your informing us when we can receive your letter by May 22. Also, if letter cannot be received by the end of this month, we will be forced to look for other designer for this building model.</p>
+            <p>Thank you in advance for your cooperation in this matter.</p>
+            <p>Yours sincerely,</p>
+            <p>Zao Wei, Weng</p>
+            <p>architect</p>
+            </body>
+            </html>
           option:
             - makes assumptions
             - doesn't make assumptions
           answer: makes assumptions
         - question: |+
-            Subject: An Application For The Job
-            I'm writing to inquire about the job application letter. On 14 May 2017, I sent an e-mail to the ministry of human resources. At that time, I received a message said that you would inform me the result about this job as soon as possible.
-                
-            However, for a whole week, I have not received any inform letter. I feel really confused how long I have to wait. I would appreciate you informing me when I can get an answer.
-              
-            Thank you in advance for your considerate reply if you have time to take.
-
-            Your sincerely,
-
-            Cheng-Yi Lin
+            <html xmlns="http://www.w3.org/1999/xhtml">
+            <head>
+              <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+              <meta http-equiv="Content-Style-Type" content="text/css" />
+              <meta name="generator" content="pandoc" />
+              <title></title>
+              <style type="text/css">code{white-space: pre;}</style>
+            </head>
+            <body>
+            <p>I'm writing to inquire about the job application letter. On 14 May 2017, I sent an e-mail to the ministry of human resources. At that time, I received a message said that you would inform me the result about this job as soon as possible.</p>
+            <p>However, for a whole week, I have not received any inform letter. I feel really confused how long I have to wait. I would appreciate you informing me when I can get an answer.</p>
+            <p>Thank you in advance for your considerate reply if you have time to take.</p>
+            <p>Your sincerely,</p>
+            <p>Cheng-Yi Lin</p>
+            </body>
+            </html>
           option:
             - makes assumptions
             - doesn't make assumptions
           answer: makes assumptions
+mango:
+  jigsaw:
+    0:
+      identifier: mango however
+      quiz:
+        - question: Dear Mr. Hiromoto, Thank you for your letter date 24 May 2017 concerning the spoiled mangoes. We appreciate you bringing this matter to our attention. We are sorry that our shipment of high quality Taiwanese mangoes was spoiled on arrival. <br> Which of the following continuations is not correct English.
+          option:
+            - However, this is not our fault. A typhoon and unseasonably high temperatures are the cause.
+            - However, the reason for this was a typhoon recently hit in Taiwan as well as unseasonably high temperatures.
+            - However, we are glad to hear 50 percent of the shipment was OK.
+          answer: 
+          
+        
