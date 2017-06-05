@@ -87,3 +87,70 @@ textbook:
         -
           - We are delighted 
           - Appreciation of action related to order
+pen:
+  scramble:
+    0:
+      identifier: textbook 1
+      sentence:
+        - We have received your order, H164203 for 100 Pentel SP-X ballpoint pens.
+        - I am afraid that we are out of stock of this pen.
+        - And Pentel is no longer producing the SP-X model.
+        - May I suggest the newer Pentel SP-Y pen?
+        - This pen is quite popular, and we have it in stock.
+        - If the SP-Y pen is satisfactory for you, we can ship it in one day.
+        - I look forward to your reply.
+        - Sorry for the inconvenience.
+sweater:
+  jigsaw:
+    0:
+      identifier: sweater
+      quiz:
+        - question: the friend of mine and one of your customers
+          answer: the/a
+        - question: impressed on your products
+          answer: on/by
+        - question: making the followed order
+          answer: followed/following
+        - question: I want the total cost to be US$146
+          answer: want/believe
+        - question: like to be given this terms also
+          answer: this/these
+        - question: like delivery on 10 October 2016
+          answer: on/by
+        - question: my shipped address is
+          answer: shipped/shipping
+        - question: I am certainly interest in making
+          answer: interest/interested
+    1:
+      identifier: sweater 1
+      quiz:
+        - question: email ___ 11 September
+          answer: dated
+        - question: ___ order numbers ...
+          answer: with
+        - question: is always ___ from new customers
+          answer: happy to hear from
+        - question: We are pleased ___ you ..
+          answer: to inform
+        - question: terms you asked about are ____
+          answer: acceptable
+        - question: SX128/F is being ___ and should be with you
+          answer: processed
+        - question: ___ should be made 
+          answer: payment
+        - question: from an ___ bank
+          answer: American
+        - question: by ___ the money
+          answer: transferring
+        - question: regretfully ___ at the moment
+          answer: out of stock
+        - question: another ___ from our factory
+          answer: batch
+        - question: a ___ delivered to you
+          answer: shipment
+        - question: ___ that this is acceptable.
+          answer: We hope
+        - question: payment period ___ from this date
+          answer: start
+        - question: we look forward to ___
+          answer: hearing from you
