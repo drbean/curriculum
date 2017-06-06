@@ -55,13 +55,28 @@ Dr Bean is an Anki expert and his explanation of how to use Anki will make it sa
 	so meaningless
 * Every repetition is the same (no change in the presentation)
 	but in the real world, the presented word always changes
-## Session 2
+
+## Session 4
 
 learning 180 most common words from Academic Word List
 
+Not memrise, a flashcard app called Anki (or Mnemosyne)
+
+# Academic English
+
+## English for Academic Purposes
+
+- [English for Academic Purposes ](http://www.google.com.tw/search?q=%22English+for+Academic+Purposes%22&num=100&gws_rd=ssl&tbm=isch&tbo=u&source=univ&sa=X)
+- [English for Specific Purposes ](http://www.google.com.tw/search?q=%22English+for+Specific+Purposes%22&num=100&gws_rd=ssl&tbm=isch&tbo=u&source=univ&sa=X)
+
+- [English for Academic/Specific Purposes ](http://www.google.com.tw/search?q=%22English+for+Specific+Purposes%22+%22English+for+Specific+Purposes%22&num=100&gws_rd=ssl&tbm=isch&tbo=u&source=univ&sa=X)
+kk
+
+
 ## Academic Word List
 
-http://www.victoria.ac.nz/lals/resources/academicwordlist/
+- [http://www.victoria.ac.nz/lals/resources/academicwordlist/ ](http://www.victoria.ac.nz/lals/resources/academicwordlist/)
+
 
 ## Words you need to know if you are going to study in the US
 
@@ -128,9 +143,62 @@ television, etc. The AWL was [17]______________ made for teachers to help
 students at college or for students working alone to learn the words they most
 needed.
 
-# IMRAD cloze with words from sublist 
+# What professors talk about
 
-## The history of IMRAD in medical journals {.allowframebreaks}
+## Professors--talking heads
+
+The point is, not to understand the world, but to change it --Karl Marx
+
+Those who can do. Those who can't teach --George Bernard Shaw
+
+[https://www.youtube.com/watch?v=Fvz9pp4mU48 ](https://www.youtube.com/watch?v=Fvz9pp4mU48)
+
+## Their interests
+
+1. Analyzing--breaking down a whole into parts and talking about the parts
+2. Determining causes for phenomena
+3. Comparing and contrasting phenomena on the basis of theories
+4. Objectivity and argument
+
+## Activity--be a professor
+
+Choose a topic you will discuss with Dr Bean in Week 18
+Write down 3 keywords, with definitions taken (perhaps) from 
+
+- [- http://simple.wiktionary.org/wiki/analyse ](http://simple.wiktionary.org/wiki/analyse)
+
+## Dr Bean's example--accidents
+
+- unpredictability --being not expectable before it has happened (sublist 4)
+- risk --the likelihood (probability) of a negative outcome (not in AWL)
+- consequences --the result of actions, especially if such a result is unwanted or unpleasant. (sublist 2)
+
+A lack of concern bout these issues
+
+# IMRAD
+
+# IMRAD: a ``scientific'' format
+
+The format for much scientific writing nowadays is IMRAD.
+
+IMRAD is
+
+1. *I*ntroduction--Why you did it or will do it.
+2. *M*ethod--What you did/will do.
+3. *R*esults--What happened when you did it.
+4. *D*iscussion--What you think about the experience.
+
+As you can see, it is similar to the process of Action Research, trying to see if what you are doing has an effect. This is why it is used in scientific writing.
+
+But also, it is similar to the process of telling a story, where there may not be an intention of the people in the story to have an effect.
+
+## Examples of IMRAD
+
+- [The dean's paper on kids writing](http://web.nuu.edu.tw/~greg/edit/nature_science.doc)
+
+# IMRAD: cloze with words from sublist 
+
+## The history of IMRAD in medical journals--introduction & method {.allowframebreaks}
 
 authored
 authors
@@ -164,6 +232,8 @@ theory
 Medical articles [1]____ from letters with a simple descriptive [2]____ 400 years ago to a standardized form now known as introduction, [3]____ , results, and discussion (IMRAD). The speed at which this [4]____ began to be used and the period it became standard in medicine is not well established. This study proposes to determine the [5]____ in time during which IMRAD [6]____ became the most common form of [7]____ scientific writing.
 
 Methods: The frequency of articles following the IMRAD [8]____ was measured from 1935 to 1985 in a [9]____ [10]____ sample of articles [11]____ in four leading [12]____ in [13]____ medicine: the British [14]____ [15]____ , JAMA, The Lancet, and the New England [16]____ of Medicine.
+
+## The history of IMRAD in medical journals--results && discussion {.allowframebreaks}
 
 authored
 authors
@@ -253,12 +323,12 @@ However, neither the rate at which the use of this [37]________ increased nor th
 
 ## Procedure: pre-test post-test
 
-Pretest: Homework Week 6 translate 180 words into Chinese
+Pretest: Homework Week 16 translate 180 words into Chinese
 
-+ Week 2, 3, 4, 5
++ Week 17, 18
 After doing pretest, learn the words with Anki or Mnemosyne
 
-+ Week 5 (Exam)
++ Week 18 (Exam)
 Again translate the same 180 words into Chinese
 
 The difference between your score on the pre-test and the post-test
@@ -270,6 +340,8 @@ Don't use a dictionary. Give your best answer for the translations
 of the 180 words.
 
 You must write something for each word.
+
+No, you can choose when to stop.
 
 ## Number of players
 
@@ -288,7 +360,7 @@ it up at lunchtime.
 | (1 row)
 
 
-## The word 'significant'
+## The word 'significant' {.allowframebreaks}
 
 | aca032=# SELECT * FROM play WHERE word='significant' ;
 |     word     | answer |  player  | league  | try | exercise
@@ -312,7 +384,7 @@ already.
 |  significant | 顯著   | N01202004 | AFN3Y0 |   1 | base
 | (6 rows)
 
-## The word 'legal'
+## The word 'legal' {.allowframebreaks}
 
 | aca032=# SELECT * FROM play WHERE word='legal' ;
 |  word  | answer |  player  | league  | try | exercise
@@ -336,7 +408,7 @@ already.
 |  legal | 合法   | N01202004 | AFN3Y0 |   1 | base
 | (7 rows)
 
-## The word 'policy'
+## The word 'policy' {.allowframebreaks}
 
 | aca032=# SELECT * FROM play WHERE word='policy' ;
 |   word  | answer |  player  | league  | try | exercise
@@ -368,7 +440,7 @@ on closer examination some words have not been entered
 
 What does derive mean?
 
-## Answer
+## Answer {.allowframebreaks}
 
 | aca022=# SELECT * FROM play WHERE word='derive' ;
 |   word  | answer |  player  | league  | try | exercise
@@ -442,7 +514,7 @@ What does derive mean?
 
 What does legislate mean?
 
-## Answer
+## Answer {.allowframebreaks}
 
 | |ca022=# SELECT * FROM play WHERE word='legislate' ;
 |    word    |  answer  |  player  | league  | try | exercise
@@ -500,7 +572,7 @@ What does legislate mean?
 
 What does constrain mean?
 
-## Answer
+## Answer {.allowframebreaks}
 
 | aca022=# SELECT * FROM play WHERE word='constrain' ;
 |    word    |  answer  |  player  | league  | try | exercise
@@ -576,7 +648,7 @@ What does constrain mean?
 | (1 row)
 | 
 
-## Problem
+## Problem {.allowframebreaks}
 
 The more correct answers you have now, the harder it is 
 to have a big increase in number of correct answers after
@@ -594,7 +666,7 @@ you will choose option 2.
 If you used the dictionary to fill in the words, you will
 choose option 1.
 
-## Advice
+## Advice {.allowframebreaks}
 
 It is OK to guess. You HAVE to guess if you don't know
 the word.
@@ -602,9 +674,9 @@ the word.
 If you cheat and look in the dictionary or ask someone,
 you hurt your grade in the midterm.
 
-## == Email sent to students
+## == Email sent to students {.allowframebreaks}
 
-1. Finish the 179 words from the exercise linked at http://web.nuu.edu.tw/~greg/DictationExercises.html
+1. Finish the 179 words from the exercise linked at http://sac.nuu.edu.tw/cgi-bin/aca/script/aca_cgi.pl/login?exercise=academic
 before Sunday lunchtime.
 
 	At the moment,
