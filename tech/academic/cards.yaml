@@ -27,10 +27,49 @@ flash:
             - Yes
             - No
           answer: No
-        - question: Creating new card packages on memrise?
+        - question: Creating new card packages on memrise is possible?
           option:
             - Yes
             - No
           answer: Yes
-        
+anki:
+  jigsaw:
+    0:
+      identifier: anki
+      quiz:
+        - question: Dr Bean is an Anki expert and explaining it will make Anki satisfying.
+          option:
+            - True
+            - False
+          answer: False
+        - question: Anki shows you the words you know more often than the words you don't know.
+          option:
+            - True
+            - False
+          answer: False
+        - question: You have to be online to use Memrise, but Anki is an offline app.
+          option:
+            - True
+            - False
+          answer: True
+        - question: Anki is probably more interesting than Memrise.
+          option:
+            - True
+            - False
+          answer: False
+        - question: Many Memrise questions are receptive, but all Anki ones are productive.
+          option:
+            - True
+            - False
+          answer: True
+imrad:
+  jigsaw:
+    0:
+      identifier: imrad
+      quiz:
+        - question: There has been significant resistance to using IMRAD to structure academic papers
+          option:
+            - True
+            - False
+          answer: False
         
