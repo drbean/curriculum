@@ -146,4 +146,45 @@ expeditions:
             - not a good advertisement
             - no plane ticket
           answer: not a good advertisement
+branson:
+  jigsaw:
+    0:
+      identifier: branson 0
+      A: Branson started you because he thought the other airlines were not doing a good job. The other airlines tried to put you out of business, so Branson sold Virgin Records to save you. Now, you are still not making much money, so perhaps Northern Rock loans you money.
+      B: Branson wanted to have a bank, so he bought you cheaply after you had lost a lot of money. Now, you are doing OK and perhaps you loan Virgin Atlantic money, because it is not doing very well. You have no connection with Virgin Records. Branson sold it.
+      C: Branson started his career very successfully with you. You had many popular musicians. He sold you because Virgin Atlantic in the airline industry needed money. If he had owned Northern Rock at that time, he could have borrowed money from it, instead.
+      quiz:
+        - question: A
+          option:
+            - Northern Rock
+            - Virgin Atlantic
+            - Virgin Records
+          answer: Virgin Atlantic
+        - question: B
+          option:
+            - Northern Rock
+            - Virgin Atlantic
+            - Virgin Records
+          answer: Northern Rock
+        - question: C
+          option:
+            - Northern Rock
+            - Virgin Atlantic
+            - Virgin Records
+          answer: Virgin Records
+        - question: Virgin Records was Branson's 1st company.
+          answer: True
+        - question: Virgin Records was very successful.
+          answer: True
+        - question: He sold Virgin Records when it became less successful.
+          answer: False
+        - question: Money from Virgin Atlantic helped Virgin Records.
+          answer: False
+        - question: Virgin Atlantic is doing very well.
+          answer: False
+        - question: Branson owns a bank, Northern Rock.
+          answer: True
+        - question: The bank loans money to Virgin Records.
+          answer: False
+        
         
