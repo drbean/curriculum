@@ -330,6 +330,13 @@ Which groups are the fastest to download and install the decks that Nini, Joanne
 
 Which groups are the fastest to create and share decks from words they got wrong in the computing pretest?
 
+# Smartphone tips
+
+## <a href="http://www.ehow.com/video_12250726_removing-apps-android-sdk-phone.html">tips  +for using your smartphone</a>
+
+- [tips for using your smartphone](http://www.ehow.com/video_12250726_removing-apps-android-sdk-phone.html)
+broken link
+
 # Jailbreaking on iOS and rooting on Android
 
 ## Jailbreaking
