@@ -90,7 +90,7 @@ textbook:
 pen:
   scramble:
     0:
-      identifier: textbook 1
+      identifier: pen 1
       sentence:
         - We have received your order, H164203 for 100 Pentel SP-X ballpoint pens.
         - I am afraid that we are out of stock of this pen.
