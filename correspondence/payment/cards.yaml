@@ -1,0 +1,149 @@
+---
+genre: correspondence
+type:
+  jigsaw:
+    0:
+      identifier: type
+      quiz:
+        - question: Please find enclosed a check for $40,000. Thanks for prompt delivery. We expect to be contacting you soon about a repeat order
+          option:
+            - Payment on time
+            - Late payment
+            - Incorrect bill, payment of amount believed correct
+            - Incorrect bill, no payment
+            - Inability to pay
+          answer: Payment on time
+        - question: We apologize for having overlooked payment for this order. Please find enclosed a check for $40,000. 
+          option:
+            - Payment on time
+            - Late payment
+            - Incorrect bill, payment of amount believed correct
+            - Incorrect bill, no payment
+            - Inability to pay
+          answer: Late payment
+        - question: We believe you have made a mistake with the amount of shipping. We are enclosing payment for the amount we believe is correct.
+          option:
+            - Payment on time
+            - Late payment
+            - Incorrect bill, payment of amount believed correct
+            - Incorrect bill, no payment
+            - Inability to pay
+          answer: Incorrect bill, payment of amount believed correct
+        - question: We have questions about the bill. Can you explain item No. 5? We don't understand what this is for. We will be happy to pay when we have your explanation.
+          option:
+             - Payment on time
+             - Late payment
+             - Incorrect bill, payment of amount believed correct
+             - Incorrect bill, no payment
+             - Inability to pay
+          answer: Incorrect bill, no payment
+        - question: We are writing in connection with the bill for Order H123. We are willing to pay the amount of $40,000. Unfortunately, ...
+          option:
+             - Payment on time
+             - Late payment
+             - Incorrect bill, payment of amount believed correct
+             - Incorrect bill, no payment
+             - Inability to pay
+          answer: Inability to pay
+demand:
+  jigsaw:
+    0:
+      identifier: payment demand
+      quiz:
+        - question: Dear customer, Please find enclosed a copy of the bill. Payment is now due
+          option:
+            - first
+            - second
+            - third
+            - fourth
+            - fifth
+            - sixth
+          answer: first
+        - question: Dear customer, Payment for Order H123. Payment for this order is now due. We await payment by banker's draft or bank transfer to our account.
+          option:
+            - first
+            - second
+            - third
+            - fourth
+            - fifth
+            - sixth
+          answer: second
+        - question: Dear Dr Bean, We are waiting for payment of Order H123, which is now 2 months overdue. If you have problems with payment, please contact us immediately to arrange alternatives.
+          option:
+            - first
+            - second
+            - third
+            - fourth
+            - fifth
+            - sixth
+          answer: fourth
+        - question: Dear Dr Bean, It appears you have forgotten to pay for Order H123, dated April 5, 2017, for 24 sweaters. Please pay by banker's draft or bank transfer to our account.
+          option:
+            - first
+            - second
+            - third
+            - fourth
+            - fifth
+            - sixth
+          answer: third
+        - question: Dear Dr Bean, We are waiting for payment of Order H123, dated April 5, 2017, for 24 sweaters. If payment by banker's draft or bank transfer to our account is not forthcoming, we will be forced to resort to other means to receive this money.
+          option:
+            - first
+            - second
+            - third
+            - fourth
+            - fifth
+            - sixth
+          answer: fifth
+        - question: Dear Dr Bean, We must demand payment of Order H123, dated April 5, 2017, for 24 sweaters. We have contacted you on five occasions but have received no response. Unless we receive payment by June 15, 2017, we will be forced to take legal action.
+          option:
+            - first
+            - second
+            - third
+            - fourth
+            - fifth
+            - sixth
+          answer: sixth
+airconditioner:
+  match:
+    0:
+      identifier: airconditioner
+      pair:
+        -
+          - 1
+          - F. I am writing ..
+        -
+          - 2
+          - J. Thank you for ..
+        -
+          - 3
+          - A. However, ..
+        -
+          - 4
+            G. We have sent you two
+        -
+          - 5
+          - D. Naturally, we are ..
+        -
+          - 6
+          - E. We must insist ..
+        
+    1:
+      identifier: airconditioner 2
+      pair:
+        -
+          - 7
+          - C. If there are problems ..
+        -
+          - 8
+          - I. We realize ..
+        -
+          - 9
+          - H. Otherwise ..
+        -
+          - 10
+          - 
+        
+        
+        
+        
