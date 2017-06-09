@@ -176,9 +176,9 @@ branson:
           answer: True
         - question: Virgin Records was very successful.
           answer: True
-        - question: He sold Virgin Records when it became less successful.
-          answer: False
-        - question: Money from Virgin Atlantic helped Virgin Records.
+        - question: He sold Virgin Records.
+          answer: True
+        - question: Money from his airline helped Virgin Records.
           answer: False
         - question: Virgin Atlantic is doing very well.
           answer: False
