@@ -21,7 +21,7 @@ type:
             - Incorrect bill, no payment
             - Inability to pay
           answer: Late payment
-        - question: We believe you have made a mistake with the amount of shipping. We are enclosing payment for the amount we believe is correct.
+        - question: We believe you have made a mistake with the amount of shipping. We are enclosing payment for the goods. We will pay for shipping when you send us the right amount.
           option:
             - Payment on time
             - Late payment
@@ -120,7 +120,7 @@ airconditioner:
           - A. However, ..
         -
           - 4
-            G. We have sent you two
+          - G. We have sent you two
         -
           - 5
           - D. Naturally, we are ..
@@ -133,17 +133,43 @@ airconditioner:
       pair:
         -
           - 7
-          - C. If there are problems ..
+          - K. As you will appreciate ..
         -
           - 8
-          - I. We realize ..
+          - C. If there are problems ..
         -
           - 9
-          - H. Otherwise ..
+          - I. We realize ..
         -
           - 10
-          - 
+          - B. Otherwise ..
+        -
+          - 11
+          - H. Please keep in ..
+sentence:
+  jigsaw:
+    0:
+      identifier: sentence
+      quiz:
+        - question: "Request for payment: 1. We ___ to"
+          answer: look forward 
+        - question: 2. receiving the ___
+          answer: final balance 
+        - question: 3. by ___ .
+          answer: the 15th of this month
+    1:
+      identifier: sentence 2
+      quiz:
+        - question: "Taking to court: 1. We will ___ to"
+          answer: be forced 
+        - question: "take ___."
+          answer: legal action
+    2:
+      identifier: sentence 6
+      quiz:
+        - question: "Giving a call: Please ___ us"
+          answer: contact
+        - question: "I am sure we can come to __."
+          answer: an amicable agreement
         
-        
-        
-        
+           
