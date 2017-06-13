@@ -146,6 +146,43 @@ airconditioner:
         -
           - 11
           - H. Please keep in ..
+    2:
+      identifier: airconditioner all
+      pair:
+        -
+          - 1
+          - F. I am writing ..
+        -
+          - 2
+          - J. Thank you for ..
+        -
+          - 3
+          - A. However, ..
+        -
+          - 4
+          - G. We have sent you two
+        -
+          - 5
+          - D. Naturally, we are ..
+        -
+          - 6
+          - E. We must insist ..
+        -
+          - 7
+          - K. As you will appreciate ..
+        -
+          - 8
+          - C. If there are problems ..
+        -
+          - 9
+          - I. We realize ..
+        -
+          - 10
+          - B. Otherwise ..
+        -
+          - 11
+          - H. Please keep in ..
+        
 sentence:
   jigsaw:
     0:
