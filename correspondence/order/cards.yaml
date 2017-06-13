@@ -154,3 +154,30 @@ sweater:
           answer: start
         - question: we look forward to ___
           answer: hearing from you
+cancel:
+  scramble:
+    0:
+      identifier: cancel cotton
+      sentence:
+        - I am writing in connection with the above order.
+        - Unfortunately, because of the recent report..
+        - I have no choice but to cancel this order.
+        - I am attaching a copy of this report for you to see.
+        - Can I ask you to confirm you have received this message?
+  match:
+    0:
+      identifier: match cotton structure
+      pair:
+        -
+          - I am writing ..
+          - initial order
+        -
+          - Unfortunately ..
+          - cancellation
+        -
+          - It is unclear ..
+          - look to future
+        -
+          - Could you please ..
+          - request confirmation
+        
