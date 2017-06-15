@@ -205,6 +205,31 @@
     W: Sure. We can see what the new gym has to offer, and get some exercise, too. It's fun to work out in a gym with other people. We might even meet new people with similar hobbies!
     M: Hold on. Let's see what the gym looks like first before we start planning anything else. Let's meet for lunch at the West End Cafe before we go. It might be the last good meal we eat!
   - Let|check|for|I'm|on Friday|go|Saturday|Sure. We|what|has|offer|and|too|It's|to work out|with|We might|people|Hold|Let's|looks|first|we|planning|Let's|lunch|West End Cafe|go|the|meal|Good|End
+-
+  - blood-0
+  - blood-0
+  - "topics"
+  - "all"
+  - |+
+    G: Thanks for meeting me today, Professor. I don't understand last week's lecture on blood types. Could you please explain it to me?
+    M: No problem, Angela. First, let's see what you do understand. Can you tell me about blood types?
+    G: There are four types of blood: A, B, AB and O.
+    M: Good! How is your blood type determined?
+    G: You get your blood type from both your parents.
+  - for|Professor|don't|week's|on|Could|it|No|Angela|First|let's|you|Can|about|There|of|A|B|AB|O|Good|is your|determined|You|your|you|Your|combination|genes|your|and|That's|Before|thought|all|same|can't|blood|In|ways|person's|is|But|very dangerous|two|types|Your|cells|to|If you|wrong|of|in a|you could die|So, that's|must|matched|And|done|before|given|End
+-
+  - blood-1
+  - blood-1
+  - "topics"
+  - "all"
+  - |+
+    G: Your blood type is a combination of genes from your father and your mother.
+    M: That's right.
+    G: Before the lecture, I always thought that all blood was the same. Why can't two different blood types mix?
+    M: In some ways, every person's blood is the same. But it is very dangerous to mix two different blood types. Your blood cells may begin to stick together. If you are given the wrong type of blood in a hospital, you could die.
+    G: I see. So, that's why blood types must be matched in the hospital. And this must be done before blood is given to anyone.
+    M: Exactly!
+  - Your|combination|genes|your|and|That's|Before|thought|all|same|can't|blood|In|ways|person's|is|But|very dangerous|two|types|Your|cells|to|If you|wrong|of|in a|you could die|So, that's|must|matched|And|done|before|given|End
 ---
 -
   - genre
