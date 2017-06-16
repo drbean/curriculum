@@ -3,6 +3,19 @@
 % by Dr Bean\
 Mon Feb 22 15:14:05 CST 2016
 
+# Exam
+
+## Speak like a professor
+
+I will ask you, or you will tell me, (That is, we will have a conversation about):
+
+1. What is your phenomenon?
+2. What is your theory?
+3. What is your analysis of the phenomenon?
+4. What are the causes and effects involved?
+5. What comparisons and contrasts can you make with other phenomena? How is it similar/dissimilar?
+6. What is your argument/your point? That is, what do you want to prove?
+
 # Learning word lists with flash cards
 
 ## Exam 1: Week 5
@@ -22,12 +35,49 @@ Assuming she/he gets 50 words right that she/he got wrong in the homework, the s
 
 4 = 3 + 2 * 25/50
 
+# Homework
+
 ## Homework: report progress learning words with Anki flashcards on device
 
 On elearning, by Sunday morning 8am
 On elearning, by Tuesday morning 8am
 On elearning, by Thursday morning 8am
 
+## Homework: 2 anki screenshots before Sunday lunchtime {.allowframebreaks}
+
+1. Download a deck of the words you got wrong, or all the words if you didn't do the homework last week, from
+
+- [http://sac.nuu.edu.tw/cgi-bin/aca/script/aca_cgi.pl/login?exercise=academic ](http://sac.nuu.edu.tw/cgi-bin/aca/script/aca_cgi.pl/login?exercise=academic)
+
+2. Install anki from
+
+- [http://ankisrs.net ](http:/ankisrs.net)
+
+3. Create a deck and import the deck from your computer
+
+You can't import the deck into your smartphone from the file you downloaded in Step 1.
+
+But after you import it into your computer, you can create an account on
+
+- [http://ankiweb.net ](http://ankiweb.net)
+
+and save the deck on your computer on ankiweb.net. Then you can download it from ankiweb.net onto your smartphone. See Dr Bean for details. 
+
+- [AnkiDroid 2.8 User Manual](https://ankidroid.org/docs/manual.html)
+
+4. Open the deck and take a screenshot of this page.
+
+- ![Deck page ](http://web.nuu.edu.tw/~greg/FLA0010/Screenshot_from_2017-06-13_13-03-56.png)
+
+See the answer for one word and take a screenshot of this page
+
+- ![Answer page ](http://web.nuu.edu.tw/~greg/FLA0010/Screenshot_from_2017-06-13_13-05-07.png)
+
+5. Post a message with the screenshots on moodle, Week 17, 2 screenshots
+
+- Make the subject of your message the word in the screenshot (important).
+- Put the 2 screenshots in the right order.
+- You can drag and drop the 2 files into the attachment box when you're editing your message.
 
 ## Flashcards
 
@@ -167,6 +217,12 @@ Write down 3 keywords, with definitions taken (perhaps) from
 
 - [- http://simple.wiktionary.org/wiki/analyse ](http://simple.wiktionary.org/wiki/analyse)
 
+## What you need in Week 18
+
+- What is your phenomenon?
+- What is your theory?
+- How do you analyze your phenomenon?
+- What is your argument/point. That is, what do you want to prove?
 ## Dr Bean's example--accidents
 
 - unpredictability --being not expectable before it has happened (sublist 4)
@@ -177,7 +233,7 @@ A lack of concern bout these issues
 
 # IMRAD
 
-# IMRAD: a ``scientific'' format
+## IMRAD: a ``scientific'' format
 
 The format for much scientific writing nowadays is IMRAD.
 
