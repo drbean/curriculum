@@ -16,6 +16,62 @@ I will ask you, or you will tell me, (That is, we will have a conversation about
 5. What comparisons and contrasts can you make with other phenomena? How is it similar/dissimilar?
 6. What is your argument/your point? That is, what do you want to prove?
 
+## IMRAD
+
+See the example IMRAD jigsaw activity at
+
+- [ jigsaw cards ](http://web.nuu.edu.tw/~greg/academic/jigsaw_imrad_1.pdf)
+- [quiz cards ](http://web.nuu.edu.tw/~greg/academic/quiz_imrad_1.pdf)
+
+Do it with your group before the exam.
+
+|    1-1:
+|      - Abby
+|      - Jason
+|      - Shelli
+|      - Jessie
+|    1-2:
+|      - Gina
+|      - Jackie
+|      - Andy2
+|      - Annie
+|    1-3:
+|      - Leon
+|      - Janice
+|      - Wan
+|      - Rita
+|    2-1:
+|      - Antonio
+|      - Lily
+|      - Kevin
+|      - Joyce
+|    2-2:
+|      - Allen
+|      - Tina1
+|      - Nina
+|      - Lori
+|    3-1:
+|      - Winnie1
+|      - Johnson
+|      - Bamboo
+|    3-2:
+|      - Sandy
+|      - Tina2
+|      - Andy1
+|      - Chuck
+|    4-1:
+|      - Joy
+|      - Karsten
+|      - Stark
+|      - Toby
+|    out:
+|      - Jessica
+|      - Eric
+  
+
+
+Do it with your group before the exam
+
 # Learning word lists with flash cards
 
 ## Exam 1: Week 5
