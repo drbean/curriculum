@@ -73,3 +73,55 @@ imrad:
             - False
           answer: False
         
+    1:
+      identifier: imrad 1
+      A: I installed Moodle on the computer in the Fall Semester and studied how to set it up. I then uploaded quizzes to the server. Students answered the quizzes by writing their answers using the Moodle website. Moodle provided many ways to set up the quizzes.
+      B: I was interested in using the computer to run quizzes. I had previously used paper cards, one card per group, but it took time to grade the quizzes. I wanted to see if I could run the quizzes the same way using the computer.
+      C: There are problems in using the computer to run group quizzes and other new teaching techniques, as my experience shows. A lot of time and computer knowledge are needed to make the computer do new things. I will continue to study Moodle to make it do group quizzes.
+      D: I could only run quizzes for individual students. I wasn't able to work out how to run group quizzes. Moodle is a very big app and I didn't understand how Moodle worked so I wasn't able to improve it to run group quizzes. 
+      quiz:
+        - question: A
+          option:
+            - Introduction
+            - Method
+            - Result
+            - Discussion
+          answer: Method
+        - question: B
+          option:
+            - Introduction
+            - Method
+            - Result
+            - Discussion
+          answer: Introduction
+        - question: C
+          option:
+            - Introduction
+            - Method
+            - Result
+            - Discussion
+          answer: Discussion
+        - question: D
+          option:
+            - Introduction
+            - Method
+            - Result
+            - Discussion
+          answer: Result
+        - question: Dr Bean didn't use to do group quizzes on paper.
+          answer: False
+        - question: Dr Bean wanted to do group quizzes with the computer.
+          answer: True
+        - question: There weren't many ways to do quizzes with Moodle.
+          answer: False
+        - question: The quizzes with Moodle were for individual students.
+          answer: True
+        - question: There were also quizzes for groups.
+          answer: False
+        - question: Dr Bean was successful doing what he wanted to do.
+          answer: False
+        - question: Dr Bean will continue to work with Moodle.
+          answer: True
+        
+        
+          
