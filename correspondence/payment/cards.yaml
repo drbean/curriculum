@@ -1,5 +1,50 @@
 ---
 genre: correspondence
+hospital:
+  jigsaw:
+    0:
+      identifier: type
+      quiz:
+        - question: Please find enclosed a check for $40,000. Thanks for the heart transplant. I feel like a new man. I will surely come to your hospital again if I am sick.
+          option:
+            - Payment on time
+            - Late payment
+            - Incorrect bill, payment of amount believed correct
+            - Incorrect bill, no payment
+            - Inability to pay
+          answer: Payment on time
+        - question: I am sorry I was not able to send the money. I have been in hospital again, and did not see my mail. Please find enclosed a check for $40,000. 
+          option:
+            - Payment on time
+            - Late payment
+            - Incorrect bill, payment of amount believed correct
+            - Incorrect bill, no payment
+            - Inability to pay
+          answer: Late payment
+        - question: I think you made a mistake with the cost of the heart transplant. I have medical insurance, so it shouldn't be so expensive. I am including a check for $10,000.
+          option:
+            - Payment on time
+            - Late payment
+            - Incorrect bill, payment of amount believed correct
+            - Incorrect bill, no payment
+            - Inability to pay
+          answer: Incorrect bill, payment of amount believed correct
+        - question: I have questions about the bill. I have medical insurance, so it shouldn't be so expensive. I don't see medical insurance on the bill. Can you explain?
+          option:
+             - Payment on time
+             - Late payment
+             - Incorrect bill, payment of amount believed correct
+             - Incorrect bill, no payment
+             - Inability to pay
+          answer: Incorrect bill, no payment
+        - question: I am writing in connection with the bill for my husband's heart transplant. I am willing to pay the amount of $40,000. Unfortunately, my husband is now dead, and I have no money.
+          option:
+             - Payment on time
+             - Late payment
+             - Incorrect bill, payment of amount believed correct
+             - Incorrect bill, no payment
+             - Inability to pay
+          answer: Inability to pay
 type:
   jigsaw:
     0:
