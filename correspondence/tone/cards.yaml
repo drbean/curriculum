@@ -620,4 +620,25 @@ improvement:
         -
           - Packages weighing up..
           - 1
+point:
+  match:
+    0:
+      identifier: good point
+      pair:
+        -
+
+          - We apologize for the misinformation given by our staff, but we cannot give you a refund.
+          - Acknowledge your own mistakes.
+        -
+          - If the self-service gas pump is not working for you, drive your car over here and we will fill it up with gas for you.
+          - Help with a problem. Don't say the reader is doing it wrong.
+        -
+          - The fire appears to have been caused by a bare electric wire, pushed into an electric socket, and left close to some paper and gasolene.
+          - Don't criticize or blame the reader. Focus on the situation, not the people.
+        -
+          - Thank you very much for trying to fix the bug in your software. Let's hope it is fixed in a future version.
+          - Be grateful attempts have been made, even if they are unsuccessful.
+        -
+          - If you wish to cancel your ticket, our policy is to keep the money you paid and allow you a large 75% discount on a future flight.
+          - Say what you can do, not what you can't do.
         
