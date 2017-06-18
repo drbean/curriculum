@@ -122,6 +122,104 @@ imrad:
           answer: False
         - question: Dr Bean will continue to work with Moodle.
           answer: True
+    2:
+      identifier: imrad 2
+      A: It appears that loud, violent music produces the most rice. We intend to study if loud noises also produces good results. However, we need to be careful about our conclusions. Perhaps the heavy metal field had the best soil, and best fertilizer.
+      B: The field that was exposed to heavy metal produced the most rice: 1 kilogram per square meter. The Mozart field produced 600 grams per square meter and the no-music field produced 400 grams per square meter.
+      C: There have been reports that playing music to plants helps them grow. The purpose of this experiment is to see if this is true and to see if different kinds of music have different results.
+      D: Three different fields of rice were exposed to three different kinds of music: no music, Mozart, and heavy metal, over loudspeakers 12 hours a day.
+      quiz:
+        - question: A
+          option:
+            - Introduction
+            - Method
+            - Result
+            - Discussion
+          answer: Discussion
+        - question: B
+          option:
+            - Introduction
+            - Method
+            - Result
+            - Discussion
+          answer: Result
+        - question: C
+          option:
+            - Introduction
+            - Method
+            - Result
+            - Discussion
+          answer: Introduction
+        - question: D
+          option:
+            - Introduction
+            - Method
+            - Result
+            - Discussion
+          answer: Method
+        - question: There were 3 different conditions in the experiment.
+          answer: True
+        - question: The 3 conditions were Mozart, heavy metal, loud noises.
+          answer: False
+        - question: Despite the reports, there were no differences in the rice produced.
+          answer: False
+        - question: A follow-up experiment of loud noises is suggested.
+          answer: True
+        - question: Heavy metal decreased the amount of rice produced.
+          answer: False
+        - question: The heavy metal field produced most rice because it had the best soil.
+          answer: False
+        - question: Differences in the soil may be responsible for the results.
+          answer: 
+    3:
+      identifier: imrad 3
+      A: The TIMSS scores of Taiwan and the United States from 2003 to 2015 were compared for math and science in 4th and 8th grades.
+      B: According to the TIMSS results, Taiwan has a better education system than the US, at least in terms of exam scores. However there are other criteria, like creativity or teamwork, in which the US may be superior. So, it is hard to say what "better" means.
+      C: Taiwan was in the top 10 in all years in both math and science and in both 4th and 8th grade. The US was only in the top 10 in some years, and never ahead of Taiwan.
+      D: People say the US education system is better than Taiwan's but the countries are very different so it is difficult to compare the 2 systems. One way is to look at scores on international tests comparing students in different countries.
+      quiz:
+        - question: A
+          option:
+            - Introduction
+            - Method
+            - Result
+            - Discussion
+          answer: Method
+        - question: B
+          option:
+            - Introduction
+            - Method
+            - Result
+            - Discussion
+          answer: Discussion
+        - question: C
+          option:
+            - Introduction
+            - Method
+            - Result
+            - Discussion
+          answer: Result
+        - question: D
+          option:
+            - Introduction
+            - Method
+            - Result
+            - Discussion
+          answer: Introduction
+        - question: Many people say the US education system is better.
+          answer: True
+        - question: In fact, Taiwan's is better.
+          answer: False
+        - question: In terms of exam scores, Taiwan's education system is better.
+          answer: True
+        - question: Taiwan has consistently scored in the top 10 in math and science.
+          answer: True
+        - question: The US is sometimes ahead of Taiwan in 4th and 8th grade.
+          answer: False
+        - question: "Better" means "has higher exam scores".
+          answer: False
+        - question: There is agreement about what "better" means.
+          answer: False
         
-        
-          
+
+
