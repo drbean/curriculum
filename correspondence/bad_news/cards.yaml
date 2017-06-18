@@ -177,4 +177,79 @@ scramble:
         - Using our online service would make you eligible for a fifteen percent discount.
         - Our company policy requires all orders be paid within thirty days of being delivered.
         - Our company policy allows discounts on individual orders of $1000_or_more.
-    
+fuxing:
+  scramble:
+    0:
+      identifier: fuxing
+      sentence:
+        - As you know, the airline industry in Taiwan has faced difficulties recently.
+        - This means that we have suffered along with other airlines, like China and Eva.
+        - However, we were under greater pressure, because of our two aircraft crashes.
+        - Therefore, we have had to make some difficult decisions.
+        - Accordingly, we have decided to suspend all operations.
+        - We will continue to provide ground_services to other airlines.
+        - We thank everyone for their continued support.
+        - We hope to return to the skies in the future.
+
+  jigsaw:
+    0:
+      identifier: fuxing
+      quiz:
+          answer: 
+        - question: We hope to return to the skies in the future.
+          option:
+            - situation
+            - bad_news
+            - alternative
+            - positive close
+          answer: positive close
+        - question: We thank everyone for their continued support.
+          option:
+            - situation
+            - bad_news
+            - alternative
+            - positive close
+          answer: positive close
+        - question: We will continue to provide ground_services to other airlines.
+          option:
+            - situation
+            - bad_news
+            - alternative
+            - positive close
+          answer: alternative
+        - question: Accordingly, we have decided to suspend all operations.
+          option:
+            - situation
+            - bad_news
+            - alternative
+            - positive close
+          answer: bad_news
+        - question: Therefore, we have had to make some difficult decisions.
+          option:
+            - situation
+            - bad_news
+            - alternative
+            - positive close
+          answer: situation
+        - question: However, we were under greater pressure, because of our two aircraft crashes.
+          option:
+            - situation
+            - bad_news
+            - alternative
+            - positive close
+          answer: situation
+        - question: This means that we have suffered along with other airlines, like China and Eva.
+          option:
+            - situation
+            - bad_news
+            - alternative
+            - positive close
+          answer: situation
+        - question: As you know, the airline industry in Taiwan has faced difficulties recently.
+          option:
+            - situation
+            - bad_news
+            - alternative
+            - positive close
+          answer: situation
+          
