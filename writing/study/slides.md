@@ -69,6 +69,32 @@ Questions   |   |   |   |
 
 # Teaching yourself--a project
 
+## Homework: essay about studying for the exam
+
+Studying: the difference between passing and failing the exams in Week 18
+
+You are doing exams from Monday to Saturday
+
+Write 100 words in 2 parts about studying (but not for Dr Bean's writing exam):
+
+### Introduction
+
+Write about 
+
+- how languages are learned and how to teach yourself
+- the coming exams and exam preparation
+- the goal of your study
+- 2 questions you cannot answer now, but which you hope you can answer after the exams
+
+### Method
+
+Say
+
+- what you are going to do between now and the exams from Monday to Saturday to prepare
+
+
+
+
 ## Homework: IMRAD essay about language exam preparation with a study buddy (100 words)
 
 5-minute activity with a study buddy: the difference between passing and failing the exam
