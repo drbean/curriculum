@@ -195,7 +195,6 @@ fuxing:
     0:
       identifier: fuxing
       quiz:
-          answer: 
         - question: We hope to return to the skies in the future.
           option:
             - situation
