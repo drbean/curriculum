@@ -75,7 +75,7 @@ Studying: the difference between passing and failing the exams in Week 18
 
 You are doing exams from Monday to Saturday
 
-Write 100 words in 2 parts about studying (but not for Dr Bean's writing exam):
+Write 100 words in 2 parts about studying (but not about studying for Dr Bean's writing exam):
 
 ### Introduction
 
