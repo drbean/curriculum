@@ -630,5 +630,46 @@ mango:
             - However, the reason for this was a typhoon recently hit in Taiwan as well as unseasonably high temperatures.
             - However, we are glad to hear 50 percent of the shipment was OK.
           answer: However, the reason for this was a typhoon recently hit in Taiwan as well as unseasonably high temperatures.
-          
-        
+
+peach:
+  scramble:
+    0:
+      identifier: peach
+      sentence:
+        - I am writing to complain about a ticket I ordered on your website on Sunday.
+        - The website said I had successfully ordered the ticket.
+        - However, I have not received an email with the e-ticket.
+        - In addition, the website closed the page which had the order number on it.
+        - Accordingly, I don't have an order number for the ticket.
+        - I would appreciate you informing me if I have the ticket or not.
+        - If the ticket cannot be sent to me by the end of this month, I will have to book a flight on a different airline.
+        - Thank you in advance for helping me with this problem.
+  match:
+    0:
+      identifier: 
+      pair:
+        -
+          - 1
+          - I am writing to com ..
+        -
+          - 2
+          - The website said I  ..
+        -
+          - 3
+          - However, I have not ..
+        -
+          - 4
+          - In addition, the we ..
+        -
+          - 5
+          - Accordingly, I don' ..
+        -
+          - 6
+          - I would appreciate  ..
+        -
+          - 7
+          - If the ticket canno ..
+        -
+          - 8
+          - Thank you in advanc ..
+      
