@@ -16,3 +16,15 @@ Write only the Subject line and the 4 paragraphs.
 
 No need for letterhead, addresses, salutation, etc
 
+# Exam
+
+## reply to a complaint
+
+Reply to Dr Bean's complaint about the non-delivery to his email address of the e-ticket he ordered on your website.
+
+Some details appear in the peach scramble and order exercises.
+
+He sent the complaint by email on Tuesday 13 June.
+
+You tell him that although the website said the ticket was successfully ordered, it was not in fact successfully ordered.
+You apologize and ask/tell him (suggest) to order again.
