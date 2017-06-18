@@ -1,0 +1,76 @@
+genre: writing
+game:
+  match:
+    0:
+      identifier: game
+      pair:
+        -
+          - 1
+          - If you are looking ..
+        -
+          - 2
+          - The 2 systems are designed to be played
+        -
+          - 3
+          - The Xbox has more games that can be played online ..
+        -
+          - 4
+          - The Nintendo is designed to be ..
+        -
+          - 5
+          - They have different games ..
+        -
+          - 6
+          - The Xbox one has more games for adults.
+        -
+          - 7
+          - However, the Nintendo Wii U has more games for kids ..
+        -
+          - 8
+          - The 2 systems also cost different amounts ..
+        -
+          - 9
+          - The Xbox costs about ..
+        -
+          - 10
+          - The Wii U costs ..
+outfit:
+  match:
+    0:
+      identifier: outfit
+      pair:
+        -
+          - 1
+          - Night markets and department stores are both ..
+        -
+          - 2
+          - The 2 places vary widely in cost.
+        -
+          - 3
+          - A new outfit in a department store may cost ..
+        -
+          - 4
+          - An outfit in the night market can cost ..
+        -
+          - 5
+          - Sometimes there is also a difference in the quality ..
+        -
+          - 6
+          - Department stores sell higher quality ...
+        -
+          - 7
+          - Night markets however sometimes sell ..
+        -
+          - 8
+          - Night markets and department stores have different hours ..
+        -
+          - 9
+          - Department stores open in the morning ..
+        -
+          - 10
+          - Night markets do not open until around six o'clock ..
+        -
+          - 11
+          - There are many important differences, so ..
+        
+        
