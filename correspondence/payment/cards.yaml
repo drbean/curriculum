@@ -253,5 +253,15 @@ sentence:
           answer: contact
         - question: "I am sure we can come to __."
           answer: an amicable agreement
-        
+payment:
+  scramble:
+    0:
+      identifier: payment scramble
+      sentence:
+        - Could you please ensure we have your payment in seven days?
+        - Unfortunately, if the remittance is not made by the end of the month, we will be forced to take legal action.
+        - Our records indicate that the account has not yet been settled.
+        - A balance of $40,000 is still owing.
+        - Could you either pay, or give us a call to discuss this matter?
+        - If making the payments is proving to be a problem, please call us and we can make alternative arrangements.
            
