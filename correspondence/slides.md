@@ -114,12 +114,22 @@ Another word for considerate is thoughtful. But this doesn't mean just thinking 
 
 Someone with EQ is probably considerate.
 
-# Fall final
+# Exam
+
+## Fall final
 
 The exam will cover pp 31-57 of the textbook: Memos, cover letters/emails, and Routine business transactions (promotion/introductions and inquiries)
 
 The format will follow that of the midterm. There will be quizzes based on textbook material, and compositions of letters/emails.
 
 Bring the textbook with you.
+
+## Open-book
+
+This is an open-book exam. You can look at your textbook, but you cannot use your smartphone or access any other web page than this page,Week 18.
+
+People caught using devices or pages other than this page will lose 40 points from their exam grade!!
+
+
 
 # The End
