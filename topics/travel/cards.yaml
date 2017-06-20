@@ -352,6 +352,16 @@ train:
       - "M: Can you suggest a good person to talk to? _W: My travel agent is always very helpful._"
       - "W: Here is my travel agent's phone number. _M: Thanks! I'll call him right now._"
 vacation:
+  0:
+    flash:
+      pyramid    : 金字塔
+      Brazil     : 巴西
+      kangaroo   : 袋鼠
+      waterfalls : 瀑布
+      jungle     : 叢林
+      Egypt      : 埃及
+      vacation   : 假期
+      Australia  : 澳大利亞
   bingo:
     -
       - Let's go on a vacation this summer.                        _今年夏天我們去度假吧                     _
