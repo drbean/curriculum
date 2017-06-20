@@ -161,10 +161,41 @@ huffington:
           answer: False
         - question: Eric thinks 8am is too early to meet for breakfast.
           answer: False
-        - question: Eric is tired later in the day.
+    1:
+      identifier: huffington
+      A: You only sleep 4 hours every night. You are proud of that. When you meet Arianna for dinner, you are tired and you are not interesting. You don't know Eric, but he tries to do a lot each morning, meeting Arianna for breakfast at 8am.
+      B: You get up early every morning. You meet Arianna at 8am to do business over breakfast. You have already played tennis and talked to 2 other people before meeting her. You are tired later in the day. You don't know Ted. He had dinner with Arianna.
+      C: You have dinner with Ted, who only had 4 hours sleep the previous night. So he is tired and the dinner is not interesting. You meet Eric for breakfast at 8am. He has already played tennis and talked to 2 other people before that time.
+      quiz:
+        - question: A
+          option:
+            - Arianna
+            - Eric
+            - Ted
+          answer: Ted
+        - question: B
+          option:
+            - Arianna
+            - Eric
+            - Ted
+          answer: Eric
+        - question: C
+          option:
+            - Arianna
+            - Eric
+            - Ted
+          answer: Arianna
+        - question: Arianna and Eric live together.
+          answer: False
+        - question: Arianna has dinner with Ted and breakfast with Eric.
           answer: True
-        
-        
-        
-        
-        
+        - question: Eric and Ted know each other.
+          answer: False
+        - question: Eric thinks 8am is too early to meet for breakfast.
+          answer: False
+        - question: At dinner, Ted is tired and not interesting.
+          answer: True
+        - question: Ted thinks he gets enough sleep.
+          answer: True
+        - question: Arianna thinks Ted gets enough sleep.
+          answer: False
