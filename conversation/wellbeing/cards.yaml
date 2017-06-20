@@ -1,0 +1,170 @@
+---
+genre: ted
+keyword:
+  match:
+    0:
+      identifier: keyword
+      pair:
+        -
+          - deprived of something
+          - being without something you need, want
+        -
+          - faint
+          - lose consciousness for a short time
+        -
+          - 24/7
+          - all the time
+        -
+          - one-upmanship
+          - competing to be the best by countering others' claims with a better claim
+        -
+          - iceberg
+          - large piece of ice in the sea
+        -
+          - hyperconnected
+          - staying in touch with people through many differenct social media
+discourse:
+  jigsaw:
+    0:
+      identifier: discourse marker
+      quiz:
+        - question: 2 and a half years ago
+          option:
+            - introduces a sad, negative fact
+            - introduces a conclusion
+            - introduces a strong example
+            - introduces a story
+            - introduces deeper information about the situation
+          answer: introduces a story
+        - question: in fact
+          option:
+            - introduces a sad, negative fact
+            - introduces a conclusion
+            - introduces a strong example
+            - introduces a story
+            - introduces deeper information about the situation
+          answer: introduces deeper information about the situation
+        - question: unfortunately
+          option:
+            - introduces a sad, negative fact
+            - introduces a conclusion
+            - introduces a strong example
+            - introduces a story
+            - introduces deeper information about the situation
+          answer: introduces a sad, negative fact
+        - question: so
+          option:
+            - introduces a sad, negative fact
+            - introduces a conclusion
+            - introduces a strong example
+            - introduces a story
+            - introduces deeper information about the situation
+          answer: introduces a conclusion
+        - question: especially
+          option:
+            - introduces a sad, negative fact
+            - introduces a conclusion
+            - introduces a strong example
+            - introduces a story
+            - introduces deeper information about the situation
+          answer: introduces a strong example
+reason:
+  jigsaw:
+    0:
+      identifier: reason
+      quiz:
+        - question: be more productive
+          option:
+            - True
+            - False
+          answer: True
+        - question: get ahead
+          option:
+            - True
+            - False
+          answer: True
+        - question: have better relationships
+          option:
+            - True
+            - False
+          answer: False
+        - question: see the big picture
+          option:
+            - True
+            - False
+          answer: True
+sentence:
+  jigsaw:
+    0:
+      identifier: sentence completion
+      quiz:
+        - question: Type-___ women
+          answer: A
+        - question: learn the ___ way
+          answer: hard
+        - question: she ___ at her desk
+          answer: fainted
+        - question: a more ___, more inspired, more ..
+          answer: productive
+society:
+  jigsaw:
+    0:
+      identifier: society
+      quiz:
+        - question: 1. woman and sleep
+          answer: False
+        - question: 2. leaders and bad decisions
+          answer: True
+        - question: 3. Lehman failure
+          answer: False
+        - question: 4. iceberg
+          answer: True
+        - question: 5. the world
+          answer: True
+huffington:
+  jigsaw:
+    0:
+      identifier: huffington
+      A: You have dinner with Ted, who only had 4 hours sleep the previous night. So he is tired and the dinner is not interesting. You meet Eric for breakfast at 8am. He has already played tennis and talked to 2 other people before that time.
+      B: You only sleep 4 hours every night. You are proud of that. When you meet Arianna for dinner, you are tired and you are not interesting. You don't know Eric, but he tries to do a lot each morning, meeting Arianna for breakfast at 8am.
+      C: You get up early every morning. You meet Arianna at 8am to do business over breakfast. You have already played tennis and talked to 2 other people before meeting her. You are tired later in the day. You don't know Ted. He had dinner with Arianna.
+      quiz:
+        - question: A
+          option:
+            - Arianna
+            - Eric
+            - Ted
+          answer: Arianna
+        - question: B
+          option:
+            - Arianna
+            - Eric
+            - Ted
+          answer: Ted
+        - question: C
+          option:
+            - Arianna
+            - Eric
+            - Ted
+          answer: Eric
+        - question: Arianna has dinner with Ted and breakfast with Eric.
+          answer: True
+        - question: Arianna and Eric live together.
+          answer: False
+        - question: Eric and Ted know each other.
+          answer: False
+        - question: At dinner, Ted is tired and not interesting.
+          answer: True
+        - question: Ted thinks he gets enough sleep.
+          answer: True
+        - question: Arianna thinks Ted gets enough sleep.
+          answer: False
+        - question: Eric thinks 8am is too early to meet for breakfast.
+          answer: False
+        - question: Eric is tired later in the day.
+          answer: True
+        
+        
+        
+        
+        
