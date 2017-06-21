@@ -186,5 +186,35 @@ branson:
           answer: True
         - question: The bank loans money to Virgin Records.
           answer: False
+    1:
+      identifier: branson 1
+      C: Branson started his career and made a lot of money with you. You had many popular musicians. He sold you because Virgin Atlantic in the airline industry needed money. He could have sold the Virgin Balloon Company, but it doesn't make so much money.
+      A: Branson started you because he thought the other airlines were not doing a good job. The other airlines tried to put you out of business, so Branson sold Virgin Records to save you. His other flying company, the Virgin Balloon company didn't have problems like that.
+      B: After starting the Virgin Atlantic airline, Branson started a balloon company, because he likes flying balloons. The company still makes money by taking people on balloon flights. But his record company, Virgin Records made a lot more money.
+      quiz:
+        - question: A
+          option:
+            - Virgin Atlantic
+            - Virgin Balloons
+            - Virgin Records
+          answer: Virgin Records
+        - question: B
+          option:
+            - Virgin Atlantic
+            - Virgin Balloons
+            - Virgin Records
+          answer: Virgin Atlantic
+        - question: C
+          option:
+            - Virgin Atlantic
+            - Virgin Balloons
+            - Virgin Records
+          answer: Virgin Balloons
+        - question: Virgin Balloons gave Branson the most trouble.
+          answer: False
+        - question: Branson made most money with Virgin Records.
+          answer: True
+        - question: Virgin Atlantic was Branson's first company.
+          answer: False
         
         
