@@ -124,6 +124,26 @@
     A: I didn't realize that. Now that I think about it, you're right. I feel much better.
     B: Good! Let's go for lunch.
   - You|Kim|doesn't|don't|why|That's|Trevor|Why|you're|morning|good|She|hard|I wish|it|but|everything|too|Do|really|Maybe|feed|I haven't|for|great|How|Are|work|I'm really|that|your|Actually|She's|trying|I didn't|Now that|much|Good|Let's
+-
+  - boss-2
+  - Boss misunderstanding
+  - "topics"
+  - "all"
+  - |+
+    Trevor thinks the new boss, a woman, doesn't like him. Kim tells him the boss thinks he's a good employee. Trevor wishes the boss would tell him he's doing good work. Instead he thinks she's always criticizing him.
+    Kim says he's being too sensitive. She says the boss is just trying to help him improve his work.
+  - Trevor|thinks|doesn't|Kim|good|Trevor|wishes|he's|she's|Kim|he's|too|work|Trevor|End
+-
+  - boss-3
+  - Boss misunderstanding
+  - "topics"
+  - "all"
+  - |+
+    Trevor says he needs a vacation. He hasn't had one for many years.
+    Kim thinks Trevor works too hard and agrees with the idea of a vacation. She says she enjoys working for the new boss, and is surprised Trevor thinks she is criticizing him.
+    Trevor says he didn't realize that. He feels better, and they go for lunch.
+  - Trevor|Kim|Trevor|works|Trevor|Trevor|didn't|that|feels better|go for lunch|End
+
 
 ---
 -
