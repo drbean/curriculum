@@ -180,9 +180,9 @@ branson:
           answer: True
     1:
       identifier: branson 1
-      C: Branson started his career and made a lot of money with you. You had many popular musicians. He sold you because Virgin Atlantic in the airline industry needed money. He could have sold the Virgin Balloon Company, but it doesn't make so much money.
-      A: Branson started you because he thought the other airlines were not doing a good job. The other airlines tried to put you out of business, so Branson sold Virgin Records to save you. His other flying company, the Virgin Balloon company didn't have problems like that.
-      B: After starting the Virgin Atlantic airline, Branson started you, a balloon company, because he likes flying balloons. The company still makes money by taking people on balloon flights. But his record company, Virgin Records made a lot more money.
+      A: Branson started his career and made a lot of money with you. You had many popular musicians. He sold you because Virgin Atlantic in the airline industry needed money. He could have sold the Virgin Balloon Company, but it doesn't make so much money.
+      B: Branson started you because he thought the other airlines were not doing a good job. The other airlines tried to put you out of business, so Branson sold Virgin Records to save you. His other flying company, the Virgin Balloon company didn't have problems like that.
+      C: After starting the Virgin Atlantic airline, Branson started you, a balloon company, because he likes flying balloons. The company still makes money by taking people on balloon flights. But his record company, Virgin Records made a lot more money.
       quiz:
         - question: A
           option:
