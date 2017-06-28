@@ -169,6 +169,13 @@ fit:
       - We should stand up and stretch our arms and legs once each hour.                        _我們應該站起來，每一個小時舒展我們的胳膊和腿一次。_
       - These are just a few ways we can stay fit.                                              _這些只是我們能保持健康的幾種方法。_
       - Do you know some other ways to stay fit?                                                _你知道一些其他的方式來保持健康？_
+    -
+    -
+      - "A: What regular exercise do you do to stay fit? _B: I study all day. I don't have time to exercise and stay in shape._"
+      - "A: You could walk more often. It's good exercise. _B: You mean, instead of riding a scooter around?_"
+      - "B: I sit in front of a computer for a long time. It's not good? _A: You should stand up and stretch your arms and legs once an hour._"
+      - "B: You stand for a long time. What should you do? _A: I should sit down and stretch my back._"
+      - "B: Are there any other ways to stay fit? A: There are many ways: running, swimming, playing sports, dancing!_"
 yawn:
   bingo:
     -
