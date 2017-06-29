@@ -159,8 +159,6 @@ imrad:
           answer: Method
         - question: There were 3 different conditions in the experiment.
           answer: True
-        - question: The 3 conditions were Mozart, heavy metal, loud noises.
-          answer: False
         - question: Despite the reports, there were no differences in the rice produced.
           answer: False
         - question: A follow-up experiment of loud noises is suggested.
@@ -170,7 +168,9 @@ imrad:
         - question: The heavy metal field produced most rice because it had the best soil.
           answer: False
         - question: Differences in the soil may be responsible for the results.
-          answer: 
+          answer: True
+        - question: The 3 conditions were Mozart, heavy metal, loud noises.
+          answer: False
     3:
       identifier: imrad 3
       A: The TIMSS scores of Taiwan and the United States from 2003 to 2015 were compared for math and science in 4th and 8th grades.
@@ -216,10 +216,54 @@ imrad:
           answer: True
         - question: The US is sometimes ahead of Taiwan in 4th and 8th grade.
           answer: False
-        - question: "Better" means "has higher exam scores".
-          answer: False
         - question: There is agreement about what "better" means.
           answer: False
-        
-
-
+        - question: '"Better" means "has higher exam scores".'
+          answer: False
+    4:
+      identifier: imrad 4
+      A: Only weak evidence of flossing effectiveness was found in the studies. The dental students and children who flossed did not have better teeth than those who did not floss.
+      B: Dental floss (thread) is used to clean the spaces between teeth, but dentists are not sure that flossing is better than just teeth brushing alone, because it takes a lot of time to do it properly. 
+      C: 12 studies of flossing were compared to see if people who floss have healthy teeth. Some studies were of dental students and children.
+      D: The ineffectiveness of flossing is surprising. Most people aren't willing to do it well. The dentist needs to consider whether a patient is willing to take the time to floss. The dentist should tell the patient about other methods to keep teeth healthy.
+      quiz:
+        - question: A
+          option:
+            - Introduction
+            - Method
+            - Result
+            - Discussion
+          answer: Result
+        - question: B
+          option:
+            - Introduction
+            - Method
+            - Result
+            - Discussion
+          answer: Introduction
+        - question: C
+          option:
+            - Introduction
+            - Method
+            - Result
+            - Discussion
+          answer: Method
+        - question: D
+          option:
+            - Introduction
+            - Method
+            - Result
+            - Discussion
+          answer: Discussion
+        - question: Flossing may not be an effective way to clean spaces between teeth.
+          answer: True
+        - question: Dentists have good evidence from 12 studies about flossing.
+          answer: False
+        - question: Dental students \& kids who floss have better teeth.
+          answer: False
+        - question: Flossing is easy to do well.
+          answer: False
+        - question: Most people don't want to floss.
+          answer: True
+        - question: Dentists need to tell patients about other methods.
+          answer: True
