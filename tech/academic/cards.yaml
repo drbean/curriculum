@@ -169,6 +169,8 @@ imrad:
           answer: False
         - question: Differences in the soil may be responsible for the results.
           answer: True
+        - question: The 3 conditions were Mozart, heavy metal, loud noises.
+          answer: False
     3:
       identifier: imrad 3
       A: The TIMSS scores of Taiwan and the United States from 2003 to 2015 were compared for math and science in 4th and 8th grades.
@@ -215,6 +217,8 @@ imrad:
         - question: The US is sometimes ahead of Taiwan in 4th and 8th grade.
           answer: False
         - question: There is agreement about what "better" means.
+          answer: False
+        - question: '"Better" means "has higher exam scores".'
           answer: False
     4:
       identifier: imrad 4
