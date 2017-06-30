@@ -15,6 +15,7 @@ I will ask you, or you will tell me, (That is, we will have a conversation about
 4. What are the causes and effects involved?
 5. What comparisons and contrasts can you make with other phenomena? How is it similar/dissimilar?
 6. What is your argument/your point? That is, what do you want to prove?
+7. What is your standpoint (viewpoint) from which you approach your thing? What college subject does it fit in?
 
 ## IMRAD
 
