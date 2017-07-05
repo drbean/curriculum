@@ -63,6 +63,11 @@ mall:
     - baseball_bat fun_ride friend birthday roller_coaster nice birthday_card gift boring ice_cream_cone bakery cakes pies bread Jane Roy Marta Bronson excited aquarium chocolate favorite
     - shopping_mall Kitty Michael Sarah Joe ice-cream_cone going_to_go computer store stained a_pair_of_jeans bookstore sunglasses \$70 \$17 \$60 \$16 \$50 \$15 buy
     -
+      - You can see many kinds of fish at the aquarium.               _你可以在水族館看_
+      - Will you send me a letter in the mail?                        _你會寄給我一封郵_
+      - I want to buy a new baseball bat, but I don't have any money. _我想買一個新的棒_
+      - I hit the ball with my baseball bat.                          _我用棒球棒打球。_
+    -
       - Ryan is busy today.                               _瑞恩今天很忙。_
       - He goes to the mall to buy a gift for his friend. _他去商場買禮物送給他的朋友。_
       - It is his friend's birthday.                      _這是他的朋友的生日。_
@@ -72,6 +77,16 @@ mall:
       - He'll just buy his friend a cake.                 _他會只買他的朋友一個蛋糕。_
       - But, he still doesn't have enough money.          _但是，他仍然沒有足夠的錢。_
       - So, he just sends him a nice card.                _所以，他只是送他一張精美的卡片。_
+  3:
+    flash:
+      gift           : 禮品
+      mall           : 購物中心
+      bakery         : 麵包店
+      roller coaster : 過山車
+      money          : 錢
+      aquarium       : 水族館
+      baseball bat   : 棒球棒
+      send           : 發送
 
 store:
   bingo:
