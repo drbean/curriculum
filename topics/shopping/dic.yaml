@@ -8,16 +8,15 @@
   - unclozeables
   - percent
 -
-  - mall-3
+  - mall-4
   - At the mall
   - "topics"
   - "all"
   - |+
-    Ryan is busy today. He goes to the mall to buy a gift for his friend. It is his friend's birthday.
-
-    He is going to buy him a baseball bat. But, he doesn't have enough money for it. He goes to the bakery. He'll just buy his friend a cake.
-
-    But, he still doesn't have enough money. So, he just sends him a nice card.
+    Ryan is busy today. He goes to the mall to buy a gift for his friend for his birthday.
+    He is going to buy him a baseball bat. But, he doesn't have enough money. He goes to the bakery. He'll just buy his friend a cake.
+    But, he still doesn't have enough money. So, he sends him a nice card.
+  - Ryan|birthday|enough|nice|End
 -
   - supermarket-4
   - Supermarket-4
