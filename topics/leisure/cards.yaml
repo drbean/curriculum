@@ -173,4 +173,12 @@ hangout:
       - Can we watch a movie tonight? _No, we're not allowed to watch movies on school nights.
       - Do you want to play paintball in the park? _No, let's not do that. Let's stay at home today._
       - Are you doing anything on Sunday? _Yes, I'm helping my mom bake a fruitcake._
-
+hobby:
+  bingo:
+    -
+      - This is a picture of friends doing their hobbies.    _這是朋友做自己愛好的照片。_
+      - There’s Katie on the bench, drawing a picture.       _板凳上有凱蒂，畫了一張照片。_
+      - Sam is catching butterflies by the fence.            _山姆正在籬笆上捉蝴蝶。_
+      - Dan is listening to music on the slide.              _丹正在幻燈片上聽音樂。_
+      - Sarah is dancing under the jungle gym.               _莎拉在叢林健身房下跳舞。_
+      - Paul is riding a bicycle out of the playground gate. _保羅騎自行車從操場門口出來。_
