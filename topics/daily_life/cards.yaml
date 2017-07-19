@@ -366,3 +366,11 @@ teamwork:
       - My parents take turns to cook.                                                _我的父母輪流做飯。_
       - We share the chores and work together.                                        _我們分擔家務，一起工作。_
       - People should work together as a team.                                        _人們應該團結合作。_
+chore:
+  bingo:
+    -
+      - "G: I do many chores in the summer. It's great! _B: I hate doing chores._"
+      - "B: Why do you think it's great. _G: It's great because my mom gives me money!_"
+      - "B: Why doesn't your mom do the chores? _G: She is very busy in the summer, and I have a lot of free time._"
+      - "B: What do you have to do? _G: I clean the house and wash clothes every day._"
+
