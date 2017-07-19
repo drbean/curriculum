@@ -18,6 +18,18 @@
     But, he still doesn't have enough money. So, he sends him a nice card.
   - Ryan|birthday|enough|nice|End
 -
+  - mall-6
+  - At the mall
+  - "topics"
+  - "all"
+  - |+
+    G: What should we do first?
+    B: Let's ride the roller coaster. It's so much fun!
+    G: The roller coaster is fun, but I want to go to the aquarium.
+    B: I have an idea. Let's ride the roller coaster first. Then we can go to the aquarium.
+    G: That's a great idea. Let's go.
+  - ride|idea|Let's|End
+-
   - supermarket-4
   - Supermarket-4
   - "topics"
