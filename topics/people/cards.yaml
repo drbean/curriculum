@@ -27,3 +27,15 @@ baby:
       - "B: The baby cries constantly. I love my baby brother, but I don't like all that noise. _G: I know! When my baby sister was born, she cried and slept all the time._"
       - "G: I had to help change diapers and feed her. _B: I hope I never have to change a diaper!_"
       - "G: What do you like most about your new brother? _B: He's really cute, and everyone says he looks like me, but with darker hair._"
+family:
+  bingo:
+    -
+      - "(B) What does your uncle look like? _(G) He is tall and handsome._"
+      - "(B) Do you look like your mother? _(G) No, I take after my father._"
+      - "(B) This is my aunt. _(G) She looks kind._"
+      - "(B) Who is the boy next to your grandmother? _(G) That is my cousin._"
+      - "(B) Does your sister look like you? _(G) No, she has brown hair and blue eyes._"
+    -
+      - "G:  Thanks for coming to the party, Carlos.  B:  You’re welcome, Maria." 
+      - "B:  Who is the girl next to your grandmother?  G:  That is my cousin, Gabby. It is her birthday."
+      - "B:  Who is the boy near Gabby? He looks cute.  G:  That is my brother, Eddie. He is 4 years old."
