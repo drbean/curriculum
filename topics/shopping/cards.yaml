@@ -89,6 +89,13 @@ mall:
       - "G: What should we do first? _B: Let's ride the roller coaster. It's so much fun!_"
       - "G: The roller coaster is fun, but I want to go to the aquarium. _B: I have an idea. Let's ride the roller coaster first. Then we can go to the aquarium._"
       - "B: I have an idea. Let's ride the roller coaster first. Then we can go to the aquarium. _G: That's a great idea. Let's go._"
+    -
+      - Do you like to go shopping?                                             _你喜歡去購物嗎？_
+      - You should visit the Mall of America.                                   _你應該去美國購物中心。_
+      - The Mall of America is the biggest mall in the US.                      _美國購物中心是美國最大的購物中心。_
+      - There are over 520 stores in the mall.                                  _商場有520多家商店。_
+      - The Mall of America has an aquarium, roller coasters and even a school. _美國購物中心有一個水族館，過山車甚至一所學校。_
+      - The Mall of America is a really fun place to visit.                     _美國購物中心是一個非常有趣的地方。_
   3:
     flash:
       gift           : 禮品
