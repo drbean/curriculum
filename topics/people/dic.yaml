@@ -74,3 +74,22 @@
   - "topics"
   - "all"
   - |+
+    "(B) What does your uncle look like? _(G) He is tall and handsome._"
+    "(B) Do you look like your mother? _(G) No, I take after my father._"
+    "(B) This is my aunt. _(G) She looks kind._"
+    "(B) Who is the boy next to your grandmother? _(G) That is my cousin._"
+    "(B) Does your sister look like you? _(G) No, she has brown hair and blue eyes._"
+-
+  - "family-0"
+  - "family-0"
+  - "topics"
+  - "all"
+  - |+
+    G:  Thanks for coming to the party, Carlos.
+    B:  You’re welcome, Maria. 
+    G:  We are getting ready to eat cake.
+    B:  Who is the girl next to your grandmother? She looks happy.
+    G:  That is my cousin, Gabby. It is her birthday.
+    B:  Who is the boy near Gabby? He looks cute.
+    G:  That is my brother, Eddie. He is 4 years old.
+
