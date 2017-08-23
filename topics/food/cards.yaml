@@ -1,6 +1,16 @@
 ---
 genre: topics
 cooking:
+  0:
+    flash:
+      toast   : 烤麵包 
+      apron   : 圍裙   
+      cupcake : 杯形餅 
+      cook    : 做飯
+      plate   : 盤子   
+      fork    : 叉子   
+      sick    : 生病   
+      hotdog  : 熱狗   
   bingo:
     - toast apron cupcake cook plate fork sick hotdog spaghetti soda soup salad breakfast lunch dinner dessert bake cookies food eat 2008 2007 2013 year 59 67 69
     - Jack cook toast cupcakes hotdogs dessert cookies sick apron lunch ready soup salad great help plates forks boy poor
