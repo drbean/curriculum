@@ -31,10 +31,16 @@ costume:
     - heads skin turn_red stay_clean bugs hair dress_up birthday purple paint blue sad Dave celebrate move_away vampire pretty Jessie Kate Sarah parrot
     - princess birthday crown king pirate glasses paint color dress_up_as gold celebrate favorite holiday sad Mary John blond long good_idea look_great
     -
-     - Let's celebrate! It's New Year's!                  _我們來慶祝吧！ 這是新年 _
-     - Today is a very special holiday.                   _今天是一個非常特別的假期_
-     - The king wears a crown on his head                 _國王在他的頭上戴著一頂皇_
-     - I want to dress up like a princess for Halloween.  _我想打扮成萬聖節的公主。_
+      - Let's celebrate! It's New Year's!                  _我們來慶祝吧！ 這是新年 _
+      - Today is a very special holiday.                   _今天是一個非常特別的假期_
+      - The king wears a crown on his head                 _國王在他的頭上戴著一頂皇_
+      - I want to dress up like a princess for Halloween.  _我想打扮成萬聖節的公主。_
+    -
+      - Danielle is going to a costume party.                    _丹尼爾將參加一個服裝派對。_
+      - First, Danielle puts on a pink dress. It is very pretty. _首先，丹尼爾穿著一件粉紅色的衣服。 這很漂亮_
+      - Then, Danielle puts on a wig. It is very long.           _然後，Danielle戴上假髮。 這是很長的_
+      - Finally, Danielle puts on a crown. It is gold.           _最後，丹尼爾戴上皇冠。 是金子_
+      - Now, Danielle is ready. She is a princess.               _現在，丹尼爾已經準備好了。 她是一個公主。_
   3:
     flash:
       costume   : 服裝

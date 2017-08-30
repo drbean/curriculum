@@ -8,6 +8,16 @@
   - unclozeables
   - percent
 -
+  - "costume-4"
+  - "costume-4"
+  - "topics"
+  - "all"
+  - |+
+    Danielle is going to a costume party. She is getting ready. First, she puts on a pink dress. It is very pretty.
+    Then, she puts on a wig. It is very long. It is blond and straight. Finally, Danielle puts on a crown.
+    It is gold, and it has many colors on it. Now, she's ready. She is a princess. She is very beautiful.
+  - Danielle|party|getting ready|puts on|pink dress|very pretty|very long|blond|straight|Finally|Danielle|gold|colors|beautiful|End
+-
   - "birthday-0"
   - "birthday"
   - "topics"
