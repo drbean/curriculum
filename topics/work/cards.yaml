@@ -1,5 +1,12 @@
 ---
 genre: topics
+sale:
+  bingo:
+    -
+      - "B: What could we do to raise some money? _G: I have a wonderful idea: a bake sale._"
+      - "G: We can sell delicious cookies. _B: There’s a problem, there. I can’t bake cookies. _"
+      - "B: There’s a problem, there. I can’t bake cookies. _G: Relax, Brandon. It’s easy._"
+      - "B: I think a lot of people will like to buy cookies for sick children. _G: Right. Everyone likes to support sick children._"
 parttime:
   bingo:
     -
