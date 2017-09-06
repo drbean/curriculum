@@ -93,7 +93,7 @@
   - You|protein|It|to|of|each|You|balanced|Make|sure|cereals|and|and|bread|You|need|and|products|meat|You'll|healthier|You'll|You'll|better|End
 -
   - "cooking-0"
-  - "balance-0"
+  - "cooking-0"
   - "topics"
   - "all"
   - |+
@@ -101,3 +101,16 @@
     For lunch, he eats three cupcakes. For dinner, he makes three hotdogs. He eats them all.
     For dessert, he bakes ten cookies, but he can't eat any more food. He feels sick. He ate too much. Poor Jack!
   - Jack|breakfast|pieces|dinner|dessert|bakes|feels|Jack|End
+-
+  - "cooking-1"
+  - "cooking-1"
+  - "topics"
+  - "all"
+  - |+
+    G: Why are you wearing an apron?
+    B: I'm making lunch for us. It's almost ready.
+    G: What are you making?
+    B: I'm making soup and salad.
+    G: That sounds great. Do you need some help?
+    B: No thanks, but I need two plates and two forks.
+  - wearing|lunch|ready|soup|salad|sounds|need|thanks|End
