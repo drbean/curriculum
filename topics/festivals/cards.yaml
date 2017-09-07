@@ -41,6 +41,11 @@ costume:
       - Then, Danielle puts on a wig. It is very long.           _然後，Danielle戴上假髮。 這是很長的_
       - Finally, Danielle puts on a crown. It is gold.           _最後，丹尼爾戴上皇冠。 是金子_
       - Now, Danielle is ready. She is a princess.               _現在，丹尼爾已經準備好了。 她是一個公主。_
+    -
+      - "B: Why are you dressed like a pirate? _G: It's Halloween. I want to celebrate it._"
+      - "B: Too bad I don't have a costume. _G: I have a dress you can wear. You can be a girl._"
+      - "G: I have a dress you can wear. You can be a girl. _B: No, thanks. I don't want to wear a dress._"
+      - "G: I have some really big glasses and a wig. You can wear those. _B: OK!_"
   3:
     flash:
       costume   : 服裝
