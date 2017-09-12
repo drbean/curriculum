@@ -1,0 +1,281 @@
+---
+genre: interchange
+pronoun:
+  jigsaw:
+    0:
+      identifier: pronoun
+      quiz:
+        - question: 1
+          option:
+            - a
+            - b
+            - c
+            - d
+            - e
+            - f
+            - g
+          answer: d
+        - question: 2
+          option:
+            - a
+            - b
+            - c
+            - d
+            - e
+            - f
+            - g
+          answer: a
+        - question: 3
+          option:
+            - a
+            - b
+            - c
+            - d
+            - e
+            - f
+            - g
+          answer: g
+        - question: 4
+          option:
+            - a
+            - b
+            - c
+            - d
+            - e
+            - f
+            - g
+          answer: f
+        - question: 5
+          option:
+            - a
+            - b
+            - c
+            - d
+            - e
+            - f
+            - g
+          answer: e
+        - question: 6
+          option:
+            - a
+            - b
+            - c
+            - d
+            - e
+            - f
+            - g
+          answer: b
+        - question: 7
+          option:
+            - a
+            - b
+            - c
+            - d
+            - e
+            - f
+            - g
+          answer: c
+optional:
+  jigsaw:
+    0:
+      identifier: optional
+      quiz:
+        - question: 1
+          option:
+            - optional
+            - required
+          answer: optional
+        - question: 2
+          option:
+            - optional
+            - required
+          answer: required
+        - question: 3
+          option:
+            - optional
+            - required
+          answer: required
+        - question: 4
+          option:
+            - optional
+            - required
+          answer: optional
+        - question: 5
+          option:
+            - optional
+            - required
+          answer: required
+        - question: 6
+          option:
+            - optional
+            - required
+          answer: optional
+        - question: 7
+          option:
+            - optional
+            - required
+          answer: required
+word:
+  jigsaw:
+    0:
+      identifier: word
+      quiz:
+        - question: 1
+          option:
+            - a
+            - b
+            - c
+            - d
+            - e
+            - f
+            - g
+            - h
+            - i
+          answer: h
+        - question: 2
+          option:
+            - a
+            - b
+            - c
+            - d
+            - e
+            - f
+            - g
+            - h
+            - i
+          answer: c
+        - question: 3
+          option:
+            - a
+            - b
+            - c
+            - d
+            - e
+            - f
+            - g
+            - h
+            - i
+          answer: a
+        - question: 4
+          option:
+            - a
+            - b
+            - c
+            - d
+            - e
+            - f
+            - g
+            - h
+            - i
+          answer: i
+        - question: 5
+          option:
+            - a
+            - b
+            - c
+            - d
+            - e
+            - f
+            - g
+            - h
+            - i
+          answer: f
+        - question: 6
+          option:
+            - a
+            - b
+            - c
+            - d
+            - e
+            - f
+            - g
+            - h
+            - i
+          answer: b
+        - question: 7
+          option:
+            - a
+            - b
+            - c
+            - d
+            - e
+            - f
+            - g
+            - h
+            - i
+          answer: d
+        - question: 8
+          option:
+            - a
+            - b
+            - c
+            - d
+            - e
+            - f
+            - g
+            - h
+            - i
+          answer: g
+        - question: 9
+          option:
+            - a
+            - b
+            - c
+            - d
+            - e
+            - f
+            - g
+            - h
+            - i
+          answer: e
+sentiment:
+  jigsaw:
+    0:
+      identifier: sentiment
+      quiz:
+        - question: 1
+          option:
+            - positive
+            - negative
+          answer: positive
+        - question: 2
+          option:
+            - positive
+            - negative
+          answer: negative
+        - question: 3
+          option:
+            - positive
+            - negative
+          answer: negative
+        - question: 4
+          option:
+            - positive
+            - negative
+          answer: positive
+        - question: 5
+          option:
+            - positive
+            - negative
+          answer: positive
+        - question: 6
+          option:
+            - positive
+            - negative
+          answer: negative
+        - question: 7
+          option:
+            - positive
+            - negative
+          answer: positive
+        - question: 8
+          option:
+            - positive
+            - negative
+          answer: negative
+        - question: 9
+          option:
+            - positive
+            - negative
+          answer: negative
+        
