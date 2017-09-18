@@ -1,0 +1,13 @@
+---
+genre: news
+thanksgiving:
+  jigsaw:
+    0:
+      identifier: thanksgiving 0
+      quiz:
+        - question: The media handle Thanksgiving dinner prices news well?
+          answer: False
+        - question: Thanksgiving dinner prices are going down.
+          answer: True
+        - question: Chittum doesn't like Thanksgiving.
+          answer: False
