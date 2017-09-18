@@ -1,0 +1,43 @@
+---
+genre: news
+paragraph:
+  jigsaw:
+    0:
+      identifier: paragraph
+      quiz:
+        - question: |+
+            1. A patient stole an ambulance from the hospital parking lot because the doctor said he could not go home.
+            2. A patient, Peter whose condition was bad and who the hospital had tried to prevent leaving, drove away in the hospital's ambulance.
+            3. An ambulance took a patient to hospital. The hospital told the patient he could not leave. He was annoyed and stole an ambulance, driving it away from the hospital.
+            4. A patient who had Alzheimer's disease wanted to escape from hospital. The patient stole an ambulance and drove it away.
+          option:
+           - 1
+           - 2
+           - 3
+           - 4
+          answer: 2
+       - question: |+
+           1. A woman threw garbage over a cliff. The cliff was 60 meters high. She fell down the cliff. She waited 3 days before she was rescued.
+           2. A woman who had fallen down a 60-meter-high cliff when throwing garbage over it waited 3 days before being rescued Monday.
+         option:
+          - 1
+          - 2
+         answer: 2
+       - question: |+
+           The polar bear can endure the cold, because it has a strong body.
+           A polar bear was discovered in a home in Alaska. It maybe was hungry.
+         option:
+          - 1
+          - 2
+         answer: 
+thanksgiving:
+  jigsaw:
+    0:
+      identifier: thanksgiving 0
+      quiz:
+        - question: The media handle Thanksgiving dinner prices news well?
+          answer: False
+        - question: Thanksgiving dinner prices are going down.
+          answer: True
+        - question: Chittum doesn't like Thanksgiving.
+          answer: False
