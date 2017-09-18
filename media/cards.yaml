@@ -262,13 +262,13 @@ limbaugh:
           answer  : False
         - question: Fluke probably supports Obama.
           answer  : True
-        - question: Fluke: "Limbaugh supports a `War on Women.'"
+        - question: Fluke\3A "Limbaugh supports a `War on Women.'"
           answer  : True
         - question: Obama supports a `War on Women.'
           answer  : False
         - question: Obama supports Fluke.
           answer  : True
-        - question: Obama: "Republicans want a 'War on Women.'"
+        - question: Obama\3A "Republicans want a 'War on Women.'"
           answer  : True
 stern:
   jigsaw:
@@ -550,6 +550,49 @@ espn:
           answer  : False
         - question: Torre asks Lin if Harden gets upset playing video games.
           answer  : True
+dinner:
+  jigsaw:
+    0:
+      identifier: dinner
+      A: You were the Democrat candidate in 1928. Before presidential elections, your family puts on a Catholic dinner attended this year by Trump and Clinton.
+      B: You hate Clinton. You tell the Catholics at the Al Smith dinner that she hates Catholics. They boo, and you ask if they are angry at you or at Clinton.
+      C: You are the Democrat candidate like Al Smith, but he died before you were born. You hate Trump. You are not Catholic. You say he went too far saying you hate Catholics.
+      quiz:
+        - question: A
+          option:
+           - Al Smith
+           - Clinton
+           - Trump
+          answer: Al Smith
+        - question: B
+          option:
+           - Al Smith
+           - Clinton
+           - Trump
+          answer: Trump
+        - question: C
+          option:
+           - Al Smith
+           - Clinton
+           - Trump
+          answer: Clinton
+        - question: All 3 of the people are at the dinner.
+          answer: False
+        - question: Al Smith and Clinton belong to the same party.
+          answer: True
+        - question: Clinton and Trump belong to the same party.
+          answer: False
+        - question: The people at the dinner are Catholics.
+          answer: True
+        - question: Clinton hates Catholics.
+          answer: False
+        - question: Clinton hates Al Smith.
+          answer: False
+        - question: Trump hates Clinton.
+          answer: True
+        
+        
+      
 blair:
   jigsaw:
     0:
@@ -622,7 +665,7 @@ blair:
           answer  : False
         - question: Raines put the story Blair wrote on the front page.
           answer  : False
-        - question: Raines knew Blair copied the story.
+        - question: Raines knew Blair copied the story from the start.
           answer  : False
         - question: Raines wrote a big front-page story about Blair.
           answer  : True
@@ -782,7 +825,7 @@ thanksgiving:
           answer  : True
         - question: Reporters put tension in the Farm Board story.
           answer  : True
-        - question: The tension is not real tension
+        - question: "Critics: The tension is not real tension."
           answer  : True
         - question: Critics think the reporters do a good job.
           answer  : False
@@ -818,7 +861,7 @@ thanksgiving:
           answer  : True
         - question: Paul makes mistakes. Prices may not be rising.
           answer  : True
-        - question: Chris: `Paul's story is not good.'
+        - question: Chris\x3A `Paul's story is not good.'
           answer  : True
         - question: Chis thinks a good Thanksgiving story is impossible.
           answer  : False
@@ -830,8 +873,8 @@ dog:
   jigsaw:
     0:
       identifier: dog 0
-      A: You owned Zeus, the world's tallest dog. You miss him very much. He was very gentle with people in hospital, like Zeke.
-      B: You are now dead. You died at the age of 5. Your owner, Kevin used to take you to hospitals to make people like Zeke feel better.
+      A: You owned Zeus, the world's tallest dog. You miss him very much. He was very gentle with Zeke and other people in hospital.
+      B: You are now dead. You died at the age of 5. Your owner, Kevin used to take you to hospitals to make Zeke and other people feel better.
       C: You met Zeus when Kevin brought him to the hospital you were in. He put his head down on your bed. It made you feel good.
       quiz:
         - question: A
@@ -858,7 +901,7 @@ dog:
           answer  : False
         - question: Kevin took Zeus to the dog hospital.
           answer  : False
-        - question: Zeke put his head near Zeke's head.
+        - question: Zeus put his head down near Zeke.
           answer  : True
         - question: Zeus made Zeke feel bad.
           answer  : False
@@ -872,7 +915,7 @@ kiss:
       identifier: kiss 0
       A: You were arrested for creating a disturbance. The police let you go, and Mario tries to interview you, but he cannot find you. You escape the cameras. 
       B: You create a disturbance by trying to kiss Mario as he is reporting the arrest of Shia for an earlier, different disturbance. You are not arrested.
-      C: You are reporting the arrest of Shia. But Erykah interrupts you by trying to kiss you. But you are able to avoid her and continue your report.
+      C: You are reporting the arrest of Shia. Erykah interrupts you by trying to kiss you. But you are able to avoid her and continue your report.
       quiz:
         - question: A
           option:
@@ -941,10 +984,152 @@ potato:
           answer  : False
         - question: He wanted the money to buy potatoes.
           answer  : True
-        - question: He wanted the money to give to the poor.
+        - question: He needed the money to give to the poor.
           answer  : False
         - question: Zack decided to throw a party for charity.
           answer  : True
         - question: He got \$55,000 dollars for potato salad.
           answer  : True
-
+ring:
+  jigsaw:
+    0:
+      identifier: ring 0
+      A: You are a ring worth \$1,800. Renee gives you away to help poor children. Gerta pays \$21,000 for you.
+      B: You give the charity \$21,000. You don't want the ring. You want the charity to return it to Renee.
+      C: Your husband died. You give his ring to charity. You want Gerta to keep the ring. You don't want it.
+      quiz:
+        - question: A
+          option:
+            - Gerta
+            - Renee
+            - the ring
+          answer: the ring
+        - question: B
+          option:
+            - Gerta
+            - Renee
+            - the ring
+          answer: Gerta
+        - question: C
+          option:
+            - Gerta
+            - Renee
+            - the ring
+          answer: Renee
+        - question: Renee sells the ring to a charity.
+          answer  : False
+        - question: Renee wants a child to wear the ring.
+          answer  : False
+        - question: Renee gives the ring to Gerta.
+          answer  : False
+        - question: Gerta will not wear the ring.
+          answer  : True
+        - question: The ring is given by mistake.
+          answer  : False
+        - question: Gerta wants the ring returned to Renee.
+          answer  : True
+        - question: Neither woman wants to keep the ring.
+          answer  : True
+norad:
+  jigsaw:
+    0:
+      identifier: norad 0
+      A: Nicky calls you on the phone, but because he has the wrong number from the advertisement, he calls the Colonel by mistake. 
+      B: A boy, Nicky calls you on your hotline, and you don't understand, because he shouldn't have the number of your hotline.
+      C: You call Santa, but the Colonel answers the phone. You don't understand why the Colonel isn't Santa. He makes you cry.
+      quiz:
+        - question: A
+          option:
+            - Nicky
+            - the Colonel
+            - Santa
+          answer: Santa
+        - question: B
+          option:
+            - Nicky
+            - the Colonel
+            - Santa
+          answer: the Colonel
+        - question: C
+          option:
+            - Nicky
+            - the Colonel
+            - Santa
+          answer: Nicky
+        - question: Nicky calls Santa.
+          answer: True
+        - question: Santa answers the phone.
+          answer: False
+        - question: Nicky has the right number.
+          answer: False
+        - question: Nicky got the number from an advertisement.
+          answer: True
+        - question: The number is for the Colonel's hotline.
+          answer: True
+        - question: The Colonel understands why Nicky calls.
+          answer: False
+        - question: The Colonel is happy to have Nicky call.
+          answer: False
+lunch:
+  jigsaw:
+    0:
+      identifier: lunch 0
+      A: You tell Dee you don't have any lunch money, but she gives you lunch anyway. Stella tells you to talk with her next time.
+      B: You are Dee's boss. Kids like Paul with no money can tell you and then pay later for lunch. You fire (and then rehire) Stella.
+      C: You serve student lunches. You give Paul a free lunch, against the rules. Stella fires you. Then she gives you your job back.
+      quiz:
+        - question: A
+          option:
+            - Dee
+            - Paul
+            - Stella
+          answer: Paul
+        - question: B
+          option:
+            - Dee
+            - Paul
+            - Stella
+          answer: Stella
+        - question: C
+          option:
+            - Dee
+            - Paul
+            - Stella
+          answer: Dee
+        - question: Paul pays for lunch.
+          answer  : False
+        - question: Stella tells Paul to tell her next time.
+          answer  : True
+        - question: Stella thinks Dee did the right thing.
+          answer  : False
+        - question: The system is for kids without money to tell Stella.
+          answer  : True
+        - question: If Paul had told Stella, he could have gotten lunch.
+          answer  : True
+        - question: Stella did not fire Dee.
+          answer  : False
+        - question: Stella will not rehire Dee.
+          answer  : False
+pumpkin:
+  jigsaw:
+    0:
+      identifier: pumpkin
+      quiz:
+        - question: The better lead paragraph, because of determiner use.
+          option:
+           - Kobe James, the owner of the world's heaviest pumpkin, says the pumpkin weighs 2500 pounds.
+           - A Kentucky man has harvested a pumpkin weighing 2500 pounds, making it the world's heaviest.
+          answer: A Kentucky man has harvested a pumpkin weighing 2500 pounds, making it the world's heaviest.
+fall:
+  jigsaw:
+    0:
+      identifier: fall
+      quiz:
+        - question: The better paragraph
+          option:
+           - A woman threw garbage over a cliff. The cliff was 60 meters high. She fell down the cliff. She waited 3 days before she was rescued.
+           - A woman who had fallen down a 60-meter-high cliff when throwing garbage over it waited 3 days before being rescued Monday.
+          answer: A woman who had fallen down a 60-meter-high cliff when throwing garbage over it waited 3 days before being rescued Monday.
+        
+        
+      
