@@ -32,21 +32,21 @@ date:
           answer: March 19, 2017
 address:
   jigsaw:
-    0:
+    1:
       identifier: address
       quiz:
         - question: 350苗栗縣竹南鎮科研路36號
           option:
-            - 36 Keyan Road, Zhunan District, Miaoli County, 350, Taiwan
-          answer: 36 Keyan Road, Zhunan District, Miaoli County, 350, Taiwan
-        - question: 台北市中正區重慶南路一段120號
+            - 36 Keyan Road//Zhunan District, Miaoli County 350//Taiwan
+          answer: 36 Keyan Road//Zhunan District, Miaoli County 350//Taiwan
+        - question: 10007台北市中正區重慶南路一段120號
           option:
-            - 120 Jingnan Road, Section 1, Zhongzheng District, Taipei City, Taiwan
-          answer: 120 Jingnan Road, Section 1, Zhongzheng District, Taipei City, Taiwan
-        - question: 高雄市左營區博愛二路168號
+            - 120 Zhongqing South Road, Section 1//Zhongzheng District, Taipei City 10007//Taiwan
+          answer: 120 Zhongqing South Road, Section 1//Zhongzheng District, Taipei City 10007//Taiwan
+        - question: 81357高雄市左營區博愛二路168號
           option:
-            - 168 Boai Road, Zuoying District, Gaoxiong City
-          answer: 168 Boai Road, Zuoying District, Gaoxiong City
+            - 168 Boai Second Road//Zuoying District, Gaoxiong City 81357//Taiwan
+          answer: 168 Boai Second Road//Zuoying District, Gaoxiong City 81357//Taiwan
         
         
         
