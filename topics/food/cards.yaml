@@ -66,6 +66,16 @@ cooking:
       - bicycle            _自行車_
 
 restaurant:
+  0:
+    flash:
+      knife      : 刀
+      chef       : 廚師
+      restaurant : 餐廳
+      napkin     : 餐巾
+      tasty      : 可口
+      burn       : 燒傷
+      crowded    : 擠
+      free       : 免費
   bingo:
     -
       - "M: Are you ready to order, Holly? _W:  No, not yet._"
