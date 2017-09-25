@@ -38,13 +38,15 @@ address:
         - question: 350苗栗縣竹南鎮科研路36號
           option:
             - |+
-              36 KeYan-Ru
-              ZhuNan-Zhen
-              MiaoLi-Xian, 350
+              36 Keyan Road
+              Zhunan District
+              Miaoli County, 350
+              Taiwan
           answer: |+
-              36 KeYan-Ru
-              ZhuNan-Zhen
-              MiaoLi-Xian, 350
+              36 Keyan Road
+              Zhunan District
+              Miaoli County, 350
+              Taiwan
 
         
 letterhead:
