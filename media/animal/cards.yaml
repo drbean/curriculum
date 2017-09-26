@@ -1,0 +1,39 @@
+genre: media
+monkey:
+  jigsaw:
+    0:
+      identifier: monkey photograph
+      quiz:
+        - question: Who took the photograph?
+          option:
+            - the monkey
+            - the photographer
+            - PETA
+          answer: the monkey
+        - question: Who thinks the monkey owns the photograph?
+          option:
+            - the monkey
+            - the photographer
+            - PETA
+          answer: PETA
+        - question: Who thinks the photographer owns the photograph?
+          option:
+            - the monkey
+            - the photographer
+            - PETA
+          answer: the photographer
+        - question: Who wanted people to pay for using the photograph?
+          option:
+            - the monkey
+            - the photographer
+            - PETA
+          answer: the photographer
+        - question: Who did not take part in the agreement settling the dispute?
+          option:
+            - the monkey
+            - the photographer
+            - PETA
+          answer: the monkey
+        
+        
+
