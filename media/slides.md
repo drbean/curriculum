@@ -1,7 +1,7 @@
 % News English! Media English!
 % Dr Bean (高來圭)
 % Spring (Fall) Semester, 2012, 2013, 2014, 2015, 2016, 2017\
-Mon Sep 18 18:23:31 CST 2017
+ Mon Sep 18 18:23:31 CST 2017
 
 # Aims, Definitions
 
@@ -72,15 +72,20 @@ An interesting question is:
 - We want the reporter to answer the question
 - a question about the facts
 
-## Week 1
+## Week 1 and 2
 
 
-- [Tallest dog dies](http://news.yahoo.com/worlds-tallest-dog-otsego-dies-age-5-235357677.html)
-- [School killer escapes](http://news.yahoo.com/police-escaped-school-shooter-captured-054551242.html)
+- [Tallest dog dies](http://www.dailymail.co.uk/news/article-2752964/Zeus-world-s-tallest-dog-dies-just-sixth-birthday.html)
+- [School killer escapes](http://edition.cnn.com/2014/09/11/justice/ohio-school-shooter-escapes/index.html)
+- [Phone company refuses to let dead woman go](http://www.onenewspage.us/video/20140911/2080769/Phone-Company-Refuses-to-Let-Deceased-Woman-Out.htm)
+- [Sleepwalker walks off cliff](http://www.reuters.com/article/us-usa-kentucky-fall/man-sleepwalks-off-kentucky-cliff-suffers-minor-injuries-idUSKBN0H52HP20140910)
+
 - [Panda plays up](http://news.yahoo.com/video/don-t-panda-cub-clings-164237788.html)
-- [Phone company refuses to let dead woman go](http://news.yahoo.com/video/phone-company-refuses-let-deceased-183032516.html)
 - [Election winner chosen by coin toss](http://news.yahoo.com/mississippi-election-winner-chosen-random-tied-race-193717700.html)
-- [Sleepwalker walks off cliff](http://news.yahoo.com/man-sleepwalks-off-kentucky-cliff-suffers-minor-injuries-224654771.html)
+- [Aurora borealis](http://www.boston.com/news/weather/weather_wisdom/2014/09/aurora_borealisnorthern_light.html?p1=trending_article_page_1)
+
+Dead links:
+
 - [Man steals same Ferrari twice](http://news.yahoo.com/man-held-allegedly-stealing-ferrari-twice-225030990.html)
 - [Sleeping burglar caught](http://news.yahoo.com/cops-photograph-alleged-sleeping-florida-burglar-110653214.html)
 - [Other burglars asleep at scene](http://news.yahoo.com/pair-found-asleep-garage-homeowner-reports-burglary-140430212.html)
@@ -88,7 +93,6 @@ An interesting question is:
 - [Wooly sheep shorn](http://news.yahoo.com/shaun-shaggy-aussie-sheep-finally-shorn-smooth-110755625.html)
 - [Another wooly sheep shorn](http://news.yahoo.com/lost-australian-sheep-yields-30-sweaters-worth-fleece-121911616.html)
 - [Blue lobster caught](http://news.yahoo.com/maine-lobsterman-catches-rare-blue-lobster-185313551.html)
-- [Aurora borealis](http://www.boston.com/news/weather/weather_wisdom/2014/09/aurora_borealisnorthern_light.html?p1=trending_article_page_1)
 
 ## Week 1 again
 
@@ -131,18 +135,23 @@ What is the answer to the question?
 - [China's Xi called President 'Eleven'](http://news.yahoo.com/india-tv-anchors-number-naming-chinas-xi-eleven-080955384.html)
 - [Dog missing on East Coast found on West Coast](http://news.yahoo.com/missing-philadelphia-dog-found-safe-oregon-3-000-212204698.html)
 - [Man builds home around cats](http://news.yahoo.com/blogs/oddnews/cat-lover-spends-15-years-customizing-house-for-feline-friends-193810357.html)
-- [Man uses banana to rob store](http://news.yahoo.com/armed-banana-man-robs-philadelphia-store-slips-away-162556572.html)
-- [Stolen car returned after 46 years](http://news.yahoo.com/46-years-later-owner-stolen-jaguar-back-053602924.html)
 - [Singer tries to kiss reporter](http://news.yahoo.com/blogs/trending-now/erykah-badu-tries-to-kiss-reporter-on-live-tv-175512955.html)
-- [Prisoners tie bedsheets to escape](https://news.yahoo.com/prisoner-uses-bed-sheets-escape-falls-knot-slips-144030271.html)
-- [PETA supports ownership by monkey of photograph](https://news.yahoo.com/peta-sues-monkey-copyright-selfie-photos-150305448.html)
-- [Woman finds winning lottery ticket in old mail](https://news.yahoo.com/1-million-lottery-ticket-found-among-womans-old-203100767.html)
-- [Women lawyers told to remove bras after setting off jail metal detector](https://news.yahoo.com/sheriff-lawyers-keep-bras-while-entering-maine-jail-141709682.html)
+- [PETA supports ownership by monkey of photograph](https://www.upi.com/Top_News/US/2017/09/12/PETA-photographer-settle-in-monkey-selfie-case/9741505224466/)
+- [CNN report of monkey photograph](https://www.youtube.com/watch?v=ddiH8u9fecI)
+- [PETA, photographer disagreement settled](https://www.youtube.com/watch?v=A0--Lh0ww34)
 - [Painted baseball](https://www.google.com/search?q=painted+baseball+guinness+indiana&num=100&tbm=isch&gws_rd=ssl)
 - [Teen shoots self while photographing self](https://news.yahoo.com/texas-teen-fatally-shoots-himself-while-taking-selfie-153229881.html#)
-- [Dog stays with partner down hole](https://news.yahoo.com/dog-stands-guard-week-protecting-trapped-friend-170458529.html)
 
+Dead links:
+
+- [Man uses banana to rob store](http://news.yahoo.com/armed-banana-man-robs-philadelphia-store-slips-away-162556572.html)
+- [Stolen car returned after 46 years](http://news.yahoo.com/46-years-later-owner-stolen-jaguar-back-053602924.html)
+- [Prisoners tie bedsheets to escape](https://news.yahoo.com/prisoner-uses-bed-sheets-escape-falls-knot-slips-144030271.html)
+- [Woman finds winning lottery ticket in old mail](https://news.yahoo.com/1-million-lottery-ticket-found-among-womans-old-203100767.html)
+- [Women lawyers told to remove bras after setting off jail metal detector](https://news.yahoo.com/sheriff-lawyers-keep-bras-while-entering-maine-jail-141709682.html)
+- [Dog stays with partner down hole](https://news.yahoo.com/dog-stands-guard-week-protecting-trapped-friend-170458529.html)
 - [Mascot dies on team's big day](https://news.yahoo.com/football-teams-mascot-sheep-dies-teams-big-day-053001859.html)
+
 
 
 ## Week 2 again
