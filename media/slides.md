@@ -136,11 +136,7 @@ What is the answer to the question?
 - [Dog missing on East Coast found on West Coast](http://news.yahoo.com/missing-philadelphia-dog-found-safe-oregon-3-000-212204698.html)
 - [Man builds home around cats](http://news.yahoo.com/blogs/oddnews/cat-lover-spends-15-years-customizing-house-for-feline-friends-193810357.html)
 - [Singer tries to kiss reporter](http://news.yahoo.com/blogs/trending-now/erykah-badu-tries-to-kiss-reporter-on-live-tv-175512955.html)
-- [PETA supports ownership by monkey of photograph](https://www.upi.com/Top_News/US/2017/09/12/PETA-photographer-settle-in-monkey-selfie-case/9741505224466/)
-- [CNN report of monkey photograph](https://www.youtube.com/watch?v=ddiH8u9fecI)
-- [PETA, photographer disagreement settled](https://www.youtube.com/watch?v=A0--Lh0ww34)
 - [Painted baseball](https://www.google.com/search?q=painted+baseball+guinness+indiana&num=100&tbm=isch&gws_rd=ssl)
-- [Teen shoots self while photographing self](https://news.yahoo.com/texas-teen-fatally-shoots-himself-while-taking-selfie-153229881.html#)
 
 Dead links:
 
@@ -152,7 +148,13 @@ Dead links:
 - [Dog stays with partner down hole](https://news.yahoo.com/dog-stands-guard-week-protecting-trapped-friend-170458529.html)
 - [Mascot dies on team's big day](https://news.yahoo.com/football-teams-mascot-sheep-dies-teams-big-day-053001859.html)
 
+## Week 2: monkey selfie, selfie death
 
+- [CNN report of monkey photograph](https://www.youtube.com/watch?v=ddiH8u9fecI)
+- [PETA supports ownership by monkey of photograph](https://www.upi.com/Top_News/US/2017/09/12/PETA-photographer-settle-in-monkey-selfie-case/9741505224466/)
+- [The photographer speaks](https://www.youtube.com/watch?v=Xymz2SfFz5o)
+- [PETA, photographer disagreement settled](https://www.youtube.com/watch?v=A0--Lh0ww34)
+- [Teen shoots self while photographing self](https://news.yahoo.com/texas-teen-fatally-shoots-himself-while-taking-selfie-153229881.html#)
 
 ## Week 2 again
 
