@@ -1,6 +1,6 @@
 ---
 genre: correspondence
-communication:
+come:
   jigsaw:
     0:
       identifier: communication 0
@@ -10,7 +10,7 @@ communication:
            - Where did you come from?
            - Where do you come from?
            - Where are you coming from?
-           - Where are you from?
+             # - Where are you from?
           answer: Where do you come from?
         - question: A: It took me 40 minutes to get here! B: ?
           option:
@@ -26,8 +26,10 @@ communication:
            - Where are you coming from?
            - Where are you from?
           answer: Where are you coming from?
-    1:
-      identifier: communication 1
+communication:
+  jigsaw:
+    0:
+      identifier: communication
       quiz:
         - question: When is the best time to let Dr Bean know there is a communication difficulty?
           option: 
@@ -36,9 +38,6 @@ communication:
             - Face-to-face after class.
             - By email after class.
           answer: While the activity is still going on.
-    2:
-      identifier: communication 2
-      quiz:
         - question: What is the best thing to do when you don't understand what Dr Bean is talking about?
           option: 
             - Ask your partner/someone on Facebook what he's talking about
@@ -46,9 +45,6 @@ communication:
             - Stop him and ask him to explain
             - Check your understanding with him during a break in the class
           answer: Stop him and ask him to explain
-    3:
-      identifier: communication 3
-      quiz:
         - question: Why is it difficult speaking up in class?
           option: 
             - Probably you are the only one who doesn't understand.
