@@ -102,4 +102,13 @@
     G:  It's great because my mom gives me money! She is very busy in the summer, and I have a lot of free time. 
     B:  What do you have to do?
     G:  I clean the house and wash clothes every day because we have such a big family.
+-
+  - "clothes-0"
+  - "clothes-0"
+  - "topics"
+  - "all"
+  - |+
+    Today, Molly is wearing her pink blouse. She is wearing her new jeans and white socks. She is wearing her favorite shoes, too.
+    But she can't find her keys! She looks in the drawer. They're not there. She looks by the door. She looks on the floor. She can't find them! She looks under the bed. There they are.
+  - Molly|drawer|under|bed|End
 
