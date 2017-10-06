@@ -54,3 +54,97 @@ email_5:
            - Courteous
            - Considerate
           answer: Complete
+problem:
+  jigsaw:
+    0:
+      identifier: problem
+      quiz:
+        - question: the writer makes grammar mistakes
+          option:
+           - Clear
+           - Concise
+           - Concrete
+           - Correct
+           - Coherent
+           - Complete
+           - Courteous
+           - Considerate
+          answer: Correct
+        - question: the writer doesn't give enough information for the reader to act on
+          option:
+           - Clear
+           - Concise
+           - Concrete
+           - Correct
+           - Coherent
+           - Complete
+           - Courteous
+           - Considerate
+          answer: Complete
+        - question: the writer is not polite, and uses strong language
+          option:
+           - Clear
+           - Concise
+           - Concrete
+           - Correct
+           - Coherent
+           - Complete
+           - Courteous
+           - Considerate
+          answer: Courteous
+        - question: the writer doesn't know what to say, and the reader is confused.
+          option:
+           - Clear
+           - Concise
+           - Concrete
+           - Correct
+           - Coherent
+           - Complete
+           - Courteous
+           - Considerate
+          answer: Clear
+        - question: the email is too long
+          option:
+           - Clear
+           - Concise
+           - Concrete
+           - Correct
+           - Coherent
+           - Complete
+           - Courteous
+           - Considerate
+          answer: Concise
+        - question: the email is just about ideas and there are no facts
+          option:
+           - Clear
+           - Concise
+           - Concrete
+           - Correct
+           - Coherent
+           - Complete
+           - Courteous
+           - Considerate
+          answer: Concrete
+        - question: there are a number of different topics in the email
+          option:
+           - Clear
+           - Concise
+           - Concrete
+           - Correct
+           - Coherent
+           - Complete
+           - Courteous
+           - Considerate
+          answer: Coherent
+        - question: the writer is thinking about the reader's position and wants to help the reader
+          option:
+           - Clear
+           - Concise
+           - Concrete
+           - Correct
+           - Coherent
+           - Complete
+           - Courteous
+           - Considerate
+          answer: Considerate
+        
