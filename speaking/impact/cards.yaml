@@ -596,6 +596,84 @@ crime:
           answer: False
         - question: Charles is happy to go to jail.
           answer: True
+    3:
+      identifier: crime 3
+      A: You disagree with the death penalty and with Mamie, who felt better after Kyle was executed. You think she will start to feel bad again.
+      B: You murdered Mamie's son and Mamie saw you executed. You don't care what Scott thinks, because now you're dead.
+      C: Your son was murdered. You saw the murderer, Kyle executed. You feel better about it. You disagree with Scott.
+      quiz:
+        - question: A
+          option: 
+           - Kyle
+           - Mamie
+           - Scott
+          answer: Scott
+        - question: B
+          option: 
+           - Kyle
+           - Mamie
+           - Scott
+          answer: Kyle
+        - question: C
+          option: 
+           - Kyle
+           - Mamie
+           - Scott
+          answer: Mamie
+        - question: Mamie's son murdered Kyle.
+          answer: False
+        - question: Mamie saw Kyle die.
+          answer: True
+        - question: Mamie didn't want Kyle executed.
+          answer: False
+        - question: Scott wanted Kyle to die.
+          answer: False
+        - question: Kyle disagrees with Scott.
+          answer: False
+        - question: Scott disagrees with Mamie.
+          answer: True
+        - question: Scott thinks Mamie will feel bad again.
+          answer: True
+
+    4:
+      identifier: crime 4
+      A: You were a 3-year-old girl on a tricyle. Mrs Tipton hit you while drunk. Police came to the accident, but you were already dead.
+      B: In the past 10 years, you arrested Mrs Tipton 4 times for drunk driving, and again when she killed Tracy.
+      C: You are an alcoholic. And you drive while drunk. You hit Tracy. Police come to the accident, but it is too late. But she is already dead.
+      quiz:
+        - question: A
+          option: 
+           - Mrs Tipton
+           - Police
+           - Tracy
+          answer: Tracy
+        - question: B
+          option: 
+           - Mrs Tipton
+           - Police
+           - Tracy
+          answer: Police
+        - question: C
+          option: 
+           - Mrs Tipton
+           - Police
+           - Tracy
+          answer: Mrs Tipton
+        - question: Mrs Tipton hit Tracy.
+          answer: True
+        - question: Tracy died.
+          answer: True
+        - question: Police came as Tracy was dying.
+          answer: False
+        - question: Police arrested Mrs Tipton.
+          answer: True
+        - question: This was Mrs Tipton's 1st arrest.
+          answer: False
+        - question: Mrs Tipton drank only sometimes.
+          answer: False
+        - question: Mrs Tipton has her drinking under control.
+          answer: False
+
 history:
   jigsaw:
     0:
