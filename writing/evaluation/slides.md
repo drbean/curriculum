@@ -28,7 +28,7 @@ If the essay is completely off topic, or some essay that the student has copied 
 
 If the writer did not understand the question, and did not answer the question, the essay will get 3. If the essay is OK but short, the essay will also get 3.
 
-If the writer answered the question and wrote a lot, but the essay is not interesting, the essay will get 4. If the essay is interesting, but is not written well, because of problems with grammar, the essay will also get 4.
+If the writer answered the question and wrote a lot, but the essay is not interesting, the essay will get 4. If the essay is interesting, but is short, or is not written well, because of problems with grammar, the essay will also get 4.
 
 If the essay answers the question fully, has a lot to say, is well-written and is interesting, the essay will get 5.
 
@@ -38,3 +38,4 @@ So evaluating the essays yourself, you need to think about:
 * interest
 * answering the question
 * being well-written
+* copied from another source
