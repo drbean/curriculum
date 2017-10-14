@@ -38,4 +38,4 @@ So evaluating the essays yourself, you need to think about:
 * interest
 * answering the question
 * being well-written
-* copied from another source
+* originality, ie not copied from another source
