@@ -36,3 +36,5 @@ The salmon was less happy than the fisherman. The salmon died a painful death.
 Rewrite the essay. Change the dominant impression to one of sadness. You could write it from the viewpoint of the salmon, or of the fisherman's friend, who doesn't agree with the fisherman about fishing.
 
 You can use the words from the book. But change the feeling.
+
+Don't change the events. It's about one person catching a salmon. The story is the same. Only the feeling is different.
