@@ -173,6 +173,43 @@ revelation:
             - Milly
             - Amber
           answer: Milly
-        
-      
-          
+johari:   
+  jigsaw:
+    0:
+      identifier: johari
+      quiz:
+        - question: Don't know me feel that I am hard to get along , i kind of is very quiet . Those are just the appearance.In fact, I was very open,
+          option:
+            - Open self
+            - Hidden self
+            - Blind self
+            - Unknown self
+          answer: Hidden self
+        - question: I always insist on 100 percent accuracy and care. I’ve been told that I’m a perfectionist, you know, people say that I’m quite strict about getting the numbers correct.
+          option:
+            - Open self
+            - Hidden self
+            - Blind self
+            - Unknown self
+          answer: Open self
+        - question: The people those who are not familiar with me will think I'm arrogant. But in fact, I'm very happy to help others and I'm also willing to listen.
+          option:
+            - Open self
+            - Hidden self
+            - Blind self
+            - Unknown self
+          answer: Hidden self
+        - question: I was surprised when my wife told me I don't stand up straight, but it is true.
+          option:
+            - Open self
+            - Hidden self
+            - Blind self
+            - Unknown self
+          answer: Blind self
+        - question: As for my father.     Many people say he looks like bad people.     In fact, he is very friendly.     He can chat with anyone.
+          option:
+            - Open self
+            - Hidden self
+            - Blind self
+            - Unknown self
+          answer: Hidden self
