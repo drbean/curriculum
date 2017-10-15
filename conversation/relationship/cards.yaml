@@ -278,4 +278,157 @@ sentiment:
             - positive
             - negative
           answer: negative
-        
+quality:
+  jigsaw:
+    0:
+      identifier: quality
+      quiz:
+        - question: Andrea
+          option:
+            - egotistical
+            - sociable
+            - temperamental
+          answer: egotistical
+        - question: James
+          option:
+            - egotistical
+            - sociable
+            - temperamental
+          answer: sociable
+        - question: Mr Johnson
+          option:
+            - egotistical
+            - sociable
+            - temperamental
+          answer: temperamental
+        - question: Andrea
+          option:
+            - stingy
+            - easygoing
+            - unreliable
+          answer: stingy
+        - question: James
+          option:
+            - stingy
+            - easygoing
+            - unreliable
+          answer: easygoing
+        - question: Mr Johnson
+          option:
+            - stingy
+            - easygoing
+            - unreliable
+          answer: unreliable
+impression:
+  jigsaw:
+    0:
+      identifier: impression
+      quiz:
+        - question: Andrea
+          option:
+            - positive
+            - negative
+          answer: negative
+        - question: James
+          option:
+            - positive
+            - negative
+          answer: positive
+        - question: Mr Johnson
+          option:
+            - positive
+            - negative
+          answer: negative
+date:
+  jigsaw:
+    0:
+      identifier: date ABC
+      A: You are a woman. You are looking for someone to go on a date. Your friend, Fred, introduces Matt to you.
+      B: You are a man. You know Fred, but you don't know his friend, a woman called Mona. Fred introduces her to you.
+      C: You have two friends, Mona, a woman, and Matt a man. You introduce the two to each other.
+      quiz:
+        - question: A
+          option:
+            - Fred
+            - Matt
+            - Mona
+          answer: Mona
+        - question: B
+          option:
+            - Fred
+            - Matt
+            - Mona
+          answer: Matt
+        - question: C
+          option:
+            - Fred
+            - Matt
+            - Mona
+          answer: Fred
+    1:
+      identifier: date ABC
+      A: You are a woman. You are looking for someone to go on a date. Your friend, Fred, introduces Matt to you.
+      B: You are a man. You know Fred, but you don't know his friend, a woman called Mona. Fred introduces her to you.
+      C: You have two friends, Mona, a woman, and Matt a man. You introduce the two to each other.
+      quiz:
+        - question: Matt is a woman.
+          answer: False
+        - question: Mona is a man.
+          answer: False
+        - question: Mona wants to go on a date with someone.
+          answer: True
+        - question: Fred is friends with Mona.
+          answer: True
+        - question: Fred is Mona's boyfriend.
+          answer: False
+        - question: Fred wants to go with Mona.
+          answer: False
+        - question: Fred has a friend, Matt.
+          answer: True
+        - question: Fred thinks Mona and Matt might want to go together.
+          answer: True
+    2:
+      identifier: date 2
+      A: You are a woman. You are looking for someone to go on a date. Your friend, Fred, introduces Matt to you.
+      B: You are a man. You know Fred, but you don't know his friend, a woman called Mona. Fred introduces her to you.
+      C: You have two friends, Mona, a woman, and Matt a man. You introduce the two to each other.
+      quiz:
+        - question: A
+          option:
+            - Fred
+            - Matt
+            - Mona
+          answer: Mona
+        - question: B
+          option:
+            - Fred
+            - Matt
+            - Mona
+          answer: Matt
+        - question: C
+          option:
+            - Fred
+            - Matt
+            - Mona
+          answer: Fred
+        - question: Matt is a woman.
+          answer: False
+        - question: Mona is a man.
+          answer: False
+        - question: Mona wants to go on a date with someone.
+          answer: True
+        - question: Fred is friends with Mona.
+          answer: True
+        - question: Fred is Mona's boyfriend.
+          answer: False
+        - question: Fred wants to go with Mona.
+          answer: False
+        - question: Fred has a friend, Matt.
+          answer: True
+        - question: Fred thinks Mona and Matt might want to go together.
+          answer: True
+     jigsaw:
+       0:
+         identifier: 
+         quiz:
+           
