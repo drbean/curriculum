@@ -8,7 +8,7 @@
 
 ## Exam 1 of 4--Conversation
 
-Remember the conversation exam on Wednesday. Don't be late! Or your score will only be 1 for talking with Dr Bean.
+Remember the conversation exam on Wednesday. Don't be more than 15 minutes late! Or your score will only be 1 for talking with Dr Bean.
 
 This is the first of 4 exams. It is equal in importance to the Mid-term and final exams.
 
