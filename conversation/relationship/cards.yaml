@@ -427,8 +427,85 @@ date:
           answer: True
         - question: Fred thinks Mona and Matt might want to go together.
           answer: True
-     jigsaw:
-       0:
-         identifier: 
-         quiz:
+    3:
+      identifier: date 3
+      A: You have 2 friends. One, Vera is a woman who is looking for a partner for a date. You introduce your other friend, John a man to her. 
+      B: Your friend David, introduces a woman called Vera to you. Vera is looking for someone to go on a date. You are willing to go with her.
+      C: You have a friend David. He is not your boyfriend. He introduces John to you. You are looking for someone to go on a date with.
+      quiz:
+        - question: A
+          option:
+            - David
+            - John
+            - Vera
+          answer: David
+        - question: B
+          option:
+            - David
+            - John
+            - Vera
+          answer: John
+        - question: C
+          option:
+            - David
+            - John
+            - Vera
+          answer: Vera
+        - question: David is a man.
+          answer: True
+        - question: Vera is David's girlfriend.
+          answer: False
+        - question: Vera is looking for a partner.
+          answer: True
+        - question: John knows Vera.
+          answer: False
+        - question: John introduces David to Vera
+          answer: False
+        - question: John doesn't want to go with Vera.
+          answer: False
+        - question: David knows both Vera and John.
+          answer: True
+    4:
+      identifier: date 4
+      A: You are a friend of Chris, but you don't know his other friend, Kim, a woman. Chris introduces you. Kim likes you.
+      B: You are a woman. You are looking for someone to go to a wedding with you. Chris introduces Bob, a friend of his, to you.
+      C: Kim is your friend, but not your girlfriend. You introduce Chris to Bob, another friend. Kim likes Bob.
+      quiz:
+        - question: A
+          option:
+            - Bob
+            - Chris
+            - Kim
+          answer: Bob
+        - question: B
+          option:
+            - Bob
+            - Chris
+            - Kim
+          answer: Kim
+        - question: C
+          option:
+            - Bob
+            - Chris
+            - Kim
+          answer: Chris
+        - question: Chris is a woman.
+          answer: False
+        - question: Kim is a man.
+          answer: False
+        - question: Bob is Chris's friend.
+          answer: True
+        - question: Kim is Bob's friend.
+          answer: False
+        - question: Kim is looking for a a partner to go to a wedding.
+          answer: True
+        - question: Chris introduces Bob to Kim.
+          answer: True
+        - question: Kim doesn't like Bob.
+          answer: False
+        
+        
+        
+        
+        
            
