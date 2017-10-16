@@ -3,13 +3,40 @@ monkey:
   jigsaw:
     0:
       identifier: monkey photograph
+      A: You set up a camera near some monkeys so that the monkeys could play with it. After one monkey took a photograph of itself, you sold the photo. You were unhappy when PETA said the photo was owned by the monkey, not you.
+      B: Your organization thinks animals have the same rights as people. You say the monkey took the photo, so the monkey owns it. The photographer disagrees. But you come to an agreement. He will pay some money to help animals.
+      C: You were interested in the camera that the photographer set up. You could see your face in the lens. You press the button that takes the photo, but you do not know about your photograph and the disagreement of the photographer and PETA.
       quiz:
+        - question: A
+          option:
+            - the monkey
+            - the photographer
+            - PETA
+          answer: the photographer
+        - question: B
+          option:
+            - the monkey
+            - the photographer
+            - PETA
+          answer: PETA
+        - question: C
+          option:
+            - the monkey
+            - the photographer
+            - PETA
+          answer: the monkey
         - question: Who took the photograph?
           option:
             - the monkey
             - the photographer
             - PETA
           answer: the monkey
+        - question: Who doesn't know about the photograph?
+          option:
+            - the monkey
+            - the photographer
+            - PETA
+          answer: PETA
         - question: Who thinks the monkey owns the photograph?
           option:
             - the monkey
@@ -28,12 +55,20 @@ monkey:
             - the photographer
             - PETA
           answer: the photographer
-        - question: Who did not take part in the agreement settling the dispute?
+        - question: Who did not take part in the agreement?
           option:
             - the monkey
             - the photographer
             - PETA
           answer: the monkey
+        - question: Who will pay money to help animals?
+          option:
+            - the monkey
+            - the photographer
+            - PETA
+          answer: the photographer
+
+        
         
         
 
