@@ -13,6 +13,14 @@ interest:
            - First
            - Second
           answer: First
+        - question: |+
+            An email from the Moodle organization about a new version of the mobile app \n
+            An email from World of Warcraft about a new version of the game \n
+            Which is of more interest to a student who plays games?
+          option: 
+           - First
+           - Second
+          answer: Second
 knowledge:
   jigsaw:
     0:
@@ -23,6 +31,11 @@ knowledge:
            - First
            - Second
           answer: First
+        - question: An email to students from an English-teaching 補習班 about courses\nAn email to programmers about using Google Analytics for marketing\n Which do web app developers know more about?
+          option: 
+           - First
+           - Second
+          answer: Second
 purpose:
   jigsaw:
     0:
@@ -33,12 +46,22 @@ purpose:
            - First
            - Second
           answer: Second
+        - question: Spam about student loan payment in the US received by a Taiwan student.\nAn email sent by a US college in response to a Taiwan student planning to study in the US requesting information about tuition costs\n Which email is more likely to be deleted quickly.
+          option: 
+           - First
+           - Second
+          answer: First
 point_of_view:
   jigsaw:
     0:
       identifier: audience point_of_view
       quiz:
         - question: Viagra spam claiming "perfect nights with your woman"\nViagra spam using graphic language about sex\n Which email is more likely to be acceptable to people not interested in buying Viagra.
+          option: 
+           - First
+           - Second
+          answer: First
+        - question: Viagra spam claiming "perfect nights with your woman"\nViagra spam using graphic language about sex\n Which email is more likely to fit in with the views of young men?
           option: 
            - First
            - Second
@@ -53,12 +76,27 @@ relationship_with_writer:
            - First
            - Second
           answer: Second
+        - question: Writer has only business relationship with reader, ie reader has no personal relationship with writer.\nWriter has had long business relationship with reader, and they have become friends.\n Which email is more likely to be less formal.
+          option: 
+           - First
+           - Second
+          answer: Second
+        - question: Writer has only business relationship with reader, ie reader has no personal relationship with writer.\nWriter has had long business relationship with reader, and they have become friends.\n Which email is more likely to be focused on the one topic of business?
+          option: 
+           - First
+           - Second
+          answer: First
 style:
   jigsaw:
     0:
       identifier: audience style
       quiz:
         - question: Older British businessman\nYounger American entrepreneur\n Who is more likely to use a formal style?
+          option: 
+           - First
+           - Second
+          answer: First
+        - question: Extraverted, lively, impolite British businessman\nShy, quiet, polite American entrepreneur\n Who is more likely to use a formal style?
           option: 
            - First
            - Second
