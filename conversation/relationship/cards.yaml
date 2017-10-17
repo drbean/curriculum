@@ -451,7 +451,7 @@ date:
       identifier: date 4
       A: You are a friend of Chris, but you don't know his other friend, Kim, a woman. Chris introduces you. Kim likes you.
       B: You are a woman. You are looking for someone to go to a wedding with you. Chris introduces Bob, a friend of his, to you.
-      C: Kim is your friend, but not your girlfriend. You introduce Chris to Bob, another friend. Kim likes Bob.
+      C: Kim is your friend, but not your girlfriend. You introduce Kim to Bob, another friend. Kim likes Bob.
       quiz:
         - question: A
           option:
