@@ -238,27 +238,32 @@ name:
             - Professional relationship
             - Personal relationship
           answer: Personal relationship
-        - question: Writer uses "Mr/Ms/Mrs" option:
+        - question: Writer uses "Mr/Ms/Mrs"
+          option:
             - Professional relationship
             - Personal relationship
           answer: Professional relationship
 contractions:
-        - question: Writer writes "I'm"
+  jigsaw:
+    0:
+      identifier: contractions
+      quiz:
+        - question: "Writer writes, I'm"
           option:
             - Professional relationship
             - Personal relationship
           answer: Personal relationship
-        - question: Writer writes "We can't"
+        - question: "Writer writes, We can't"
           option:
             - Professional relationship
             - Personal relationship
           answer: Personal relationship
-        - question: Writer writes "We cannot"
+        - question: Writer writes, We cannot
           option:
             - Professional relationship
             - Personal relationship
           answer: Professional relationship
-        - question: Writer writes "I am"
+        - question: Writer writes, I am
           option:
             - Professional relationship
             - Personal relationship
