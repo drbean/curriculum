@@ -88,23 +88,6 @@ formal:
            - First
            - Second
           answer: Second
-audience:
-  jigsaw:
-    0:
-      identifier: skimmers and skeptics
-      quiz:
-        - question: |+
-            The writer pays most attention to what data to include. This will be of most benefit to--
-          option:
-           - Skimmers
-           - Skeptics
-          answer: Skeptics
-        - question: |+
-            The writer pays most attention to presentation of the data. This will be of most benefit to--
-          option:
-           - Skimmers
-           - Skeptics
-          answer: Skimmers
 etiquette:
   jigsaw:
     0:
