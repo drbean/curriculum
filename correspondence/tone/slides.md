@@ -11,6 +11,29 @@ The way you say things
 
 culture
 
+## 2 emails
+
+### one
+
+I got the email. Send me your catalogue.
+
+Your price is too high.
+But, send me 10 boxes of LED lights, No 3425.
+
+Do it now!
+
+Don't make a mistake with the order.
+
+### two
+
+Thank you for your email. Please send me your catalog.
+
+We think your prices are rather high.
+But, could you send me 10 boxes of LED lights, No 3425.
+
+Please send it as soon as possible.
+
+
 ## emphasis
 
 An example of its own advice. It's doing what it's saying.
