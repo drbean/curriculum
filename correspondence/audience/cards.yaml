@@ -293,6 +293,27 @@ tone:
             - using formulas
             - not giving bad news
           answer: using formulas
+advice:
+  jigsaw:
+    0:
+      identifier: advice
+      quiz:
+        - question: Because you are non-native, you should do this to avoid making the reader feel bad--
+          option:
+            - Be informal
+            - Be formal
+          answer: Be formal
+        - question: When you are angry, you should--
+          option:
+            - tell the reader
+            - be polite
+          answer: be polite
+        - question: Using CAPITALS to emphasize certain POINTS, may MAKE THE READER--
+          option:
+            - unhappy
+            - interested
+          answer: unhappy
         
+         
         
         
