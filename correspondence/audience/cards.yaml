@@ -237,47 +237,62 @@ name:
           option:
             - Professional relationship
             - Personal relationship
-          answer: 
+          answer: Personal relationship
         - question: Writer uses "Mr/Ms/Mrs" option:
             - Professional relationship
             - Personal relationship
-          answer: 
+          answer: Professional relationship
 contractions:
         - question: Writer writes "I'm"
           option:
             - Professional relationship
             - Personal relationship
-          answer: 
+          answer: Personal relationship
         - question: Writer writes "We can't"
           option:
             - Professional relationship
             - Personal relationship
-          answer: 
+          answer: Personal relationship
         - question: Writer writes "We cannot"
           option:
             - Professional relationship
             - Personal relationship
-          answer: 
+          answer: Professional relationship
         - question: Writer writes "I am"
           option:
             - Professional relationship
             - Personal relationship
-          answer: 
+          answer: Professional relationship
 length:
   jigsaw:
     0:
       identifier: length
       quiz:
-        - question: Generally shorter: email, letter?
+        - question: "Generally shorter: email, letter?"
           option:
             - email
             - letter
-          answer: 
-        - question: Which is better: longer, shorter?
+          answer: email
+        - question: "Which is better: longer, shorter?"
           option:
             - Longer
             - Shorter
-          answer: 
+          answer: Shorter
+tone:
+  jigsaw:
+    0:
+      identifier: tone
+      quiz:
+        - question: Tone as perceived by the reader is the result of--
+          option:
+            - the feeling of the writer
+            - the language the writer uses
+          answer: the language the writer uses
+        - question: Positive tone is best achieved by--
+          option:
+            - using formulas
+            - not giving bad news
+          answer: using formulas
         
         
         
