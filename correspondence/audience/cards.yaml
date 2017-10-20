@@ -194,4 +194,90 @@ student:
            - First
            - Second
           answer: Second
-         
+data:
+  jigsaw:
+    0:
+      identifier: skimmers and skeptics
+      quiz:
+        - question: |+
+            The writer pays most attention to what data to include. This will be of most benefit to--
+          option:
+           - Skimmers
+           - Skeptics
+          answer: Skeptics
+        - question: |+
+            The writer doesn't include all the data that could be included. This will not worry--
+          option:
+           - Skimmers
+           - Skeptics
+          answer: Skimmers
+presentation:
+  jigsaw:
+    0:
+      identifier: skimmers and skeptics
+      quiz:
+        - question: |+
+            The writer pays most attention to presentation of the data. This will be of most benefit to--
+          option:
+           - Skimmers
+           - Skeptics
+          answer: Skimmers
+        - question: |+
+            The writer pays more attention to the data than its presentation. This will be appreciated by--
+          option:
+           - Skimmers
+           - Skeptics
+          answer: Skeptics
+name:
+  jigsaw:
+    0:
+      identifier: name
+      quiz:
+        - question: Writer uses first name
+          option:
+            - Professional relationship
+            - Personal relationship
+          answer: 
+        - question: Writer uses "Mr/Ms/Mrs" option:
+            - Professional relationship
+            - Personal relationship
+          answer: 
+contractions:
+        - question: Writer writes "I'm"
+          option:
+            - Professional relationship
+            - Personal relationship
+          answer: 
+        - question: Writer writes "We can't"
+          option:
+            - Professional relationship
+            - Personal relationship
+          answer: 
+        - question: Writer writes "We cannot"
+          option:
+            - Professional relationship
+            - Personal relationship
+          answer: 
+        - question: Writer writes "I am"
+          option:
+            - Professional relationship
+            - Personal relationship
+          answer: 
+length:
+  jigsaw:
+    0:
+      identifier: length
+      quiz:
+        - question: Generally shorter: email, letter?
+          option:
+            - email
+            - letter
+          answer: 
+        - question: Which is better: longer, shorter?
+          option:
+            - Longer
+            - Shorter
+          answer: 
+        
+        
+        
