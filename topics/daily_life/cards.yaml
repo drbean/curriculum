@@ -23,17 +23,6 @@ cleaning:
 calendar:
   bingo:
     - January February March April May June July August September October November December Monday Tuesday Wednesday Thursday Friday Saturday Sunday birthday
-thing:
-  0:
-    flash:
-      pencil case      : 鉛筆盒
-      backpack         : 背包
-      lunch box        : 便當盒
-      felt pen         : 氈筆
-      scissors         : 剪刀
-      pencil sharpener : 卷筆刀
-      box of paints    : 一盒油漆
-      glue stick       : 膠棒
 clothes:
   0:
     flash:
