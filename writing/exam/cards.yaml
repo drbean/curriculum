@@ -1,0 +1,28 @@
+genre: writing
+whiteout:
+  jigsaw:
+    0:
+      identifier: whiteout
+      quiz:
+        - question: When is it OK to use whiteout?
+          option:
+            - Under some circumstances
+            - Under no circumstances
+          answer: Under no circumstances
+        - question: What do teachers think if students use whiteout?
+          option:
+            - That the student is dishonest
+            - That the student is a messy writer
+          answer: That the student is dishonest
+        - question: Who may be more concerned about their writing and how their essays look?
+          option:
+            - Western students
+            - Chinese students
+          answer: Chinese students
+        - question: What advice does Dr Bean have for changing what has been written?
+          option:
+            - Using an eraser
+            - Double spacing the lines
+          answer: Double spacing the lines
+        
+        
