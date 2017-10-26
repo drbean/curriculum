@@ -1921,3 +1921,34 @@ kroenke:
           answer: False
         - question: Rose doesn't want Ron to feel bad because of Hilda.
           answer: True
+summer:
+  jigsaw:
+    0:
+      identifier: summer job
+      quiz:
+        - question: who has job already
+          option:
+            - Mark
+            - Tracy
+          answer: Tracy
+        - question: who has only job possibilities
+          option:
+            - Mark
+            - Tracy
+          answer: Mark
+preference:
+  jigsaw:
+    0:
+      identifier: preferred job
+      quiz:
+        - question: Tracy seems to think which job is better 
+          option:
+            - landscaping gardens
+            - record company intern
+          answer: record company intern
+        - question: Mark seems to think which job is better 
+          option:
+            - landscaping gardens
+            - record company intern
+          answer: landscaping gardens
+        
