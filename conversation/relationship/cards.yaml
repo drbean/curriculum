@@ -477,3 +477,73 @@ date:
           answer: True
         - question: Kim doesn't like Bob.
           answer: False
+friend:
+  jigsaw:
+    0:
+      identifier: friend 0
+      quiz:
+        - question: 1
+          option:
+            - True
+            - False
+            - Not said
+          answer: True
+        - question: 2
+          option:
+            - True
+            - False
+            - Not said
+          answer: False
+        - question: 3
+          option:
+            - True
+            - False
+            - Not said
+          answer: True
+        - question: 4
+          option:
+            - True
+            - False
+            - Not said
+          answer: Not said
+        - question: 5
+          option:
+            - True
+            - False
+            - Not said
+          answer: True
+        - question: 6
+          option:
+            - True
+            - False
+            - Not said
+          answer: Not said
+    1:
+      identifier: friends 0, italics
+      quiz:
+        - question: 1
+          option:
+            - know
+            - don't know
+          answer: know
+        - question: 2
+          option:
+            - friend
+            - unfriend
+          answer: unfriend
+        - question: 3
+          option:
+            - easygoing
+            - strongly
+          answer: strongly
+        - question: 4
+          option:
+            - add
+            - remove
+          answer: remove
+        - question: 5
+          option:
+            - same
+            - different
+          answer: same
+            
