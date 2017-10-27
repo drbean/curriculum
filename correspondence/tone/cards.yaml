@@ -1,15 +1,5 @@
 ---
 genre: correspondence
-courteous:
-  jigsaw:
-    0:
-      identifier: 
-      quiz:
-        - question: The email with better tone
-          option:
-            - one
-            - two
-          answer: two
 bob:
   jigsaw:
     0:
