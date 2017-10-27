@@ -409,7 +409,19 @@
     B: That's a problem. Well, he's good at magic tricks. Hey, I have a great idea! He can do magic tricks while he is singing!
     G: What an interesting idea!
   - Brett|Brett|End
-
+-
+  - "talent-2"
+  - "talent-2"
+  - "topics"
+  - "all"
+  - |+
+    B: Can you perform any special tricks?
+    G: No, but my dog can perform lots of tricks.
+    B: What can he do?
+    G: He can sit, walk on two legs, and jump really high.
+    B: Do you think you could teach him how to sing?
+    G: He is very smart, but that’s too difficult.
+  - End
 
 
 
