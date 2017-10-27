@@ -13,6 +13,8 @@ culture
 
 ## 2 emails
 
+Work is stressful. Don't put more pressure on the people you talk to. One of these 2 emails is impolite and would be stressful for the reader.
+
 ### one
 
 I got the email. Send me your catalogue.
@@ -20,7 +22,7 @@ I got the email. Send me your catalogue.
 Your price is too high.
 But, send me 10 boxes of LED lights, No 3425.
 
-Do it now!
+We expect the order to be sent today.
 
 Don't make a mistake with the order.
 
@@ -31,7 +33,7 @@ Thank you for your email. Please send me your catalog.
 We think your prices are rather high.
 But, could you send me 10 boxes of LED lights, No 3425.
 
-Please send it as soon as possible.
+We hope you can send the order as soon as possible.
 
 
 ## emphasis
