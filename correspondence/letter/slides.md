@@ -27,4 +27,26 @@
 | Miaoli 36003
 | Taiwan
 
+## The layout of a letter
+
+Make up a company, your title, an adressee. Follow the style on p10.
+
+Write the seven parts, ie all except body.
+
+Letterhead
+
+Date
+
+Inside address
+
+Subject line
+
+Salutation
+
+[No body]
+
+Complimentary close
+
+Signature
+
 ## The end
