@@ -599,12 +599,32 @@ email:
     0:
       identifier: 2_emails
       quiz:
-        - question: The better email, the more polite email, the less stressful email
+        - question: The better email
           option:
             - one
             - two
           answer: two
-        - question: The more direct email, the less welcome email, the bad email
+        - question: the more polite email
+          option:
+            - one
+            - two
+          answer: two
+        - question: the less stressful email
+          option:
+            - one
+            - two
+          answer: two
+        - question: The more direct email
+          option:
+            - one
+            - two
+          answer: one
+        - question: the less welcome email
+          option:
+            - one
+            - two
+          answer: one
+        - question: the bad email
           option:
             - one
             - two
