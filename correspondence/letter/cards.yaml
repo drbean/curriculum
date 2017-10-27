@@ -181,7 +181,7 @@ close:
            - Yours faithfully,
            - Yours sincerely,
           answer: Yours sincerely,
-    1:
+    news:
       identifier: good/bad news
       quiz:
         - question: |+
@@ -196,7 +196,7 @@ close:
            - Yours sincerely,
            - Best wishes,
           answer: Best wishes,
-    2:
+    punctuation:
       identifier: punctuation
       quiz:
         - question: |+
@@ -217,7 +217,7 @@ close:
            - Yes
            - No
           answer: Yes
-    3:
+    matching:
       identifier: matching salutation, close again
       quiz:
         - question: |+
@@ -403,7 +403,7 @@ punctuation:
 grammar:
   jigsaw:
     0:
-      identifier: please to inform
+      identifier: please to inform, like to invite you
       quiz:
         - question: |+
             We are please to inform that ..
@@ -412,9 +412,6 @@ grammar:
            - We are pleased to inform that
            - We are pleased to inform you that
           answer: We are pleased to inform you that
-    1:
-      identifier: grateful
-      quiz:
         - question: |+
             I like to invite you ..
           option:
