@@ -1,8 +1,9 @@
 % News English! Media English!\
-Session 2
+ Session 2
 % Dr Bean (高來圭)
-% Spring (Fall) Semester, 2012, 2013, 2014, 2015\
-Sun Sep 14 16:55:46 CST 2014
+% Spring (Fall) Semester, 2012, 2013, 2014, 2015, 2017\
+	Sun Oct 29 11:12:28 CST 2017
+	
 
 # Lead paragraphs
 
