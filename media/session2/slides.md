@@ -19,6 +19,12 @@ Sun Sep 14 16:55:46 CST 2014
 
 eg the Farm Board is an organization
 
+# Top newspaper websites
+
+## Accumulator
+
+- [http://www.ebizmba.com/articles/news-websites ](http://www.ebizmba.com/articles/news-websites)
+
 # Can we trust the news
 
 ## Untrustworthy media
@@ -49,7 +55,7 @@ http://images.google.com/images?q=news%20of%20the%20world&num=100
 
 [Fox News](http://www.foxnews.com)
 
-A cable and satellite TV news channel owned by Rupert Murdoch. Fox News is extremely popular with conservative Americans, and extremely unpopular with liberal leftists, the White House and other Democrats.
+A cable and satellite TV news channel owned by Rupert Murdoch. Fox News is extremely popular with conservative Americans like Trump, and extremely unpopular with liberal leftists, like Obama and other Democrats.
 
 - [Bill O'Reilly](http://en.wikipedia.org/wiki/Bill_O'Reilly_(political_commentator))
 - [Geraldo Rivera](http://en.wikipedia.org/wiki/Geraldo_Rivera)
