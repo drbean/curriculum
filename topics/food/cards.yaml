@@ -186,3 +186,14 @@ balance:
       - "Woman: I eat one big meal at dinnertime. _Man: Having one meal a day is not good._"
       - "Man: What do you usually eat? _Woman: I only eat salads now._"
       - "Woman: So, what should I eat? _Man: You need some protein and carbohydrates, some cereals, fruits and vegetables, some bread or rice, also milk and dairy products, and some meat._"
+lunch:
+  0:
+    flash:
+      cheese sandwich:  奶酪三明治
+      ham sandwich    :  火腿三明治
+      orange juice    :  橙汁
+      cupcake         :  杯形餅
+      hot dog         :  熱狗
+      yogurt          :  酸奶
+      apple           :  蘋果
+      banana          :  香蕉
