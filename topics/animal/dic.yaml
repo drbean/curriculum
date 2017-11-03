@@ -165,6 +165,19 @@
     B: That's not true! Birds are very interesting. Some birds have colorful feathers. Some birds sing beautiful songs. Some birds make special nests to lay eggs in.
     G: Really? Maybe I will go bird watching one day after all!
   - It seems|really|watching|Yes|Would|to come|me|No|watching|is|That's|true|Birds|interesting|Some|colorful|Some|sing|songs|Some|special|nests|in|End|Really|go|watching|after|End
+-
+  - "pet-0"
+  - "pet-0"
+  - "topics"
+  - "all"
+  - |+
+    G: Is your hamster easy to take care of, Andrew?
+    B: Yes, I just have to feed it and clean its cage. 
+    G: Does it get any exercise?
+    B: It runs on a toy inside its cage.
+    G: Do you let it out of the cage? 
+    B: No, but sometimes it opens its cage door and gets out.
+  - hamster|Andrew|feed|cage|End
 
 ---
 -
