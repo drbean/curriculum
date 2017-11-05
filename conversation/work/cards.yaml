@@ -2005,3 +2005,46 @@ perspective:
             - positive view of job
             - negative view of job
           answer: negative view of job
+change:
+  jigsaw:
+    0:
+      identifier: career change
+      A: You don't like your job. You want to become a vet, because you love animals. The others are happy with their jobs: TV show director, and fashion designer. 
+      B: You love your job. You love fashion and you love producing clothes that women want to wear. The TV show director also is happy with his/her job. But the flight attendant wants to change jobs.
+      C: You enjoy your job. You like working with TV talent and making interesting programs. The fashion designer also loves his/her job. But the flight attendant loves animals and wants to be a vet.
+      quiz:
+       - question: A's job
+         option:
+           - designer
+           - flight attendant
+           - TV show director
+           - vet
+         answer: flight attendant
+       - question: B's job
+         option:
+           - designer
+           - flight attendant
+           - TV show director
+           - vet
+         answer: designer
+       - question: C's job
+         option:
+           - designer
+           - flight attendant
+           - TV show director
+           - vet
+         answer: TV show director
+       - question: What does A want to become?
+         option:
+           - designer
+           - flight attendant
+           - TV show director
+           - vet
+         answer: vet
+       - question: A wants to change jobs because he/she is afraid of dog bites.
+         answer: False
+       - question: B loves it when women love to wear his/her clothes.
+         answer: True
+       - question: C prefers working in front of the camera to behind the camera.
+         answer: False
+       
