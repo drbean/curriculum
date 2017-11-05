@@ -1951,4 +1951,57 @@ preference:
             - landscaping gardens
             - record company intern
           answer: landscaping gardens
-        
+perspective:
+  jigsaw:
+    flight:
+      identifier: flight attendant
+      quiz:
+        - question: 1st
+          option:
+            - positive view of job
+            - negative view of job
+          answer: positive view of job
+        - question: 2nd
+          option:
+            - positive view of job
+            - negative view of job
+          answer: negative view of job
+    designer:
+      identifier: designer
+      quiz:
+        - question: 1st
+          option:
+            - positive view of job
+            - negative view of job
+          answer: positive view of job
+        - question: 2nd
+          option:
+            - positive view of job
+            - negative view of job
+          answer: negative view of job
+    vet:
+      identifier: vet
+      quiz:
+        - question: 1st
+          option:
+            - positive view of job
+            - negative view of job
+          answer: positive view of job
+        - question: 2nd
+          option:
+            - positive view of job
+            - negative view of job
+          answer: negative view of job
+    director:
+      identifier: director
+      quiz:
+        - question: 1st
+          option:
+            - positive view of job
+            - negative view of job
+          answer: positive view of job
+        - question: 2nd
+          option:
+            - positive view of job
+            - negative view of job
+          answer: negative view of job
