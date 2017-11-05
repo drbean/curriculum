@@ -2008,7 +2008,7 @@ perspective:
 change:
   jigsaw:
     0:
-      identifier: career change
+      identifier: career change 0
       A: You don't like your job. You want to become a vet, because you love animals. The others are happy with their jobs: TV show director, and fashion designer. 
       B: You love your job. You love fashion and you love producing clothes that women want to wear. The TV show director also is happy with his/her job. But the flight attendant wants to change jobs.
       C: You enjoy your job. You like working with TV talent and making interesting programs. The fashion designer also loves his/her job. But the flight attendant loves animals and wants to be a vet.
@@ -2046,5 +2046,119 @@ change:
        - question: B loves it when women love to wear his/her clothes.
          answer: True
        - question: C prefers working in front of the camera to behind the camera.
+         answer: False
+    1:
+      identifier: career change 1
+      A: You enjoy your job. You like working with TV talent and making interesting programs. The flight attendant also loves his/her job. But the vet wants to be a fashion designer.
+      B: You don't like your job. You want to become a fashion designer, because you love clothes and you love women wearing your clothes.  The others are happy with their jobs: TV show director, and flight attendant.
+      C: You love your job. You love flying and you love traveling to different countries. The TV show director also is happy with his/her job. But the vet wants to change jobs.
+      quiz:
+       - question: A's job
+         option:
+           - designer
+           - flight attendant
+           - TV show director
+           - vet
+         answer: TV show director
+       - question: B's job
+         option:
+           - designer
+           - flight attendant
+           - TV show director
+           - vet
+         answer: vet
+       - question: C's job
+         option:
+           - designer
+           - flight attendant
+           - TV show director
+           - vet
+         answer: flight attendant
+       - question: What does B want to become?
+         option:
+           - designer
+           - flight attendant
+           - TV show director
+           - vet
+         answer: designer
+       - question: B wants to change jobs because he/she likes clothes more than animals.
+         answer: True
+       - question: B loves it when women wear his/her clothes.
+         answer: True
+    2:
+      identifier: career change 2
+      A: You love your job. You love animals and caring for them. The flight attendant also is happy with his/her job. But the designer wants to change jobs.
+      B: You enjoy your job. You like flying and traveling to different countries. The vet also loves his/her job. But the fashion designer wants to be a TV show director.
+      C: You are tired of being a fashion designer. You like clothes, but you want to direct how TV talent acts and what they say. The others are happy with their jobs: vet, and flight attendant.
+      quiz:
+       - question: A's job
+         option:
+           - designer
+           - flight attendant
+           - TV show director
+           - vet
+         answer: vet
+       - question: B's job
+         option:
+           - designer
+           - flight attendant
+           - TV show director
+           - vet
+         answer: flight attendant
+       - question: C's job
+         option:
+           - designer
+           - flight attendant
+           - TV show director
+           - vet
+         answer: designer
+       - question: What does C want to become?
+         option:
+           - designer
+           - flight attendant
+           - TV show director
+           - vet
+         answer: TV show director
+       - question: C likes clothes but wants to direct people.
+         answer: True
+       - question: C likes being just a fashion designer.
+         answer: False
+    3:
+      identifier: career change 3
+      A: You don't like your job. You want to become a flight attendant, because you love flying. The others are happy with their jobs: vet, and fashion designer. 
+      B: You love your job. You love animals and caring for them. The fashion designer also is happy with his/her job. But the TV show director wants to be a flight attendant.
+      C: You love your job. You love fashion and you love producing clothes that women want to wear. The vet also is happy with his/her job. But the TV show director wants to change jobs.
+      quiz:
+       - question: A's job
+         option:
+           - designer
+           - flight attendant
+           - TV show director
+           - vet
+         answer: TV show director
+       - question: B's job
+         option:
+           - designer
+           - flight attendant
+           - TV show director
+           - vet
+         answer: vet
+       - question: C's job
+         option:
+           - designer
+           - flight attendant
+           - TV show director
+           - vet
+         answer: designer
+       - question: What does A want to become?
+         option:
+           - designer
+           - flight attendant
+           - TV show director
+           - vet
+         answer: flight attendant
+       - question: A likes being a TV show director more than a flight attendant.
+         answer: False
+       - question: A wants to change jobs because he/she is afraid of flying.
          answer: False
        
