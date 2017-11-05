@@ -2121,7 +2121,7 @@ change:
          answer: TV show director
        - question: C likes clothes but wants to direct people.
          answer: True
-       - question: C likes being just a fashion designer.
+       - question: C wants to change jobs because acting in front of the camera is more satisfying.
          answer: False
     3:
       identifier: career change 3
