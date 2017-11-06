@@ -403,7 +403,7 @@ punctuation:
 grammar:
   jigsaw:
     0:
-      identifier: please to inform, like to invite you
+      identifier: please to inform, like to invite you, etc
       quiz:
         - question: |+
             We are please to inform that ..
@@ -418,13 +418,27 @@ grammar:
            - I would like to invite you ..
            - I like inviting you
           answer: I would like to invite you ..
+        - question: Please let me knowing ..
+          option:
+            - We please to know
+            - Please let me know
+            - We are pleased to know
+          answer: Please let me know
+        - question: I can to estimate number
+          option:
+            - I can to estimate numbers
+            - I can estimate number
+            - I can estimating numbers
+            - I can estimate numbers
+          answer: I can estimate numbers
+        
 strategy:
   jigsaw:
     0:
       identifier: things (strategies) to remember
       quiz:
         - question: |+
-            1.
+            1. Start from the end
           option:
            - reader interest
            - reader knowledge
@@ -434,7 +448,7 @@ strategy:
            - reader prefered style
           answer: reader purpose
         - question: |+
-            2.
+            2. Use appropriate salutation
           option:
            - clear
            - concise
@@ -446,7 +460,7 @@ strategy:
            - considerate
           answer: courteous
         - question: |+
-            3.
+            3. Get to the point early
           option:
            - concise
            - concrete
@@ -457,7 +471,7 @@ strategy:
            - considerate
           answer: concise
         - question: |+
-            4.
+            4. Put yourself in the reader's place
           option:
            - clear
            - concise
@@ -468,7 +482,7 @@ strategy:
            - considerate
           answer: considerate
         - question: |+
-            5.
+            5. Say it plainly
           option:
            - clear
            - correct
@@ -478,7 +492,7 @@ strategy:
            - considerate
           answer: clear
         - question: |+
-            6.
+            6. Clear the deadwood
           option:
            - clear
            - concise
@@ -490,7 +504,7 @@ strategy:
            - considerate
           answer: concise
         - question: |+
-            7.
+            7. Be natural
           option:
            - reader interest
            - reader knowledge
@@ -500,7 +514,7 @@ strategy:
            - reader prefered style
           answer: reader relationship with writer
         - question: |+
-            8.
+            8. Be consistent (British English or American English)
           option:
            - clear
            - concise
@@ -512,7 +526,7 @@ strategy:
            - considerate
           answer: correct
         - question: |+
-            9.
+            9. Try to use active voice
           option:
            - clear
            - concise
@@ -521,7 +535,7 @@ strategy:
            - considerate
           answer: clear
         - question: |+
-            10.
+            10. Choose words carefully (eg expect vs hope), pay attention to tone
           option:
            - concise
            - concrete
@@ -532,7 +546,7 @@ strategy:
            - considerate
           answer: correct
         - question: |+
-            11.
+            11. Never write in anger
           option:
            - clear
            - concise
@@ -543,7 +557,7 @@ strategy:
            - considerate
           answer: considerate
         - question: |+
-            12.
+            12. Never use contractions (don't, etc)
           option:
            - clear
            - concise
@@ -553,7 +567,7 @@ strategy:
            - complete
           answer: correct
         - question: |+
-            13.
+            13. Don't use very informal language unless the person is a good friend
           option:
            - reader interest
            - reader knowledge
@@ -562,7 +576,7 @@ strategy:
            - reader prefered style
           answer: reader prefered style
         - question: |+
-            14.
+            14. Do not make accusations you cannot prove
           option:
            - clear
            - concise
@@ -572,7 +586,7 @@ strategy:
            - courteous
           answer: courteous
         - question: |+
-            15.
+            15. Don't claim to be the cheapest, best, etc
           option:
            - clear
            - concise
@@ -584,7 +598,7 @@ strategy:
            - considerate
           answer: correct
         - question: |+
-            16.
+            16. With a lot of details, consider using lists with numbers, bullets
           option:
            - clear
            - concise
@@ -596,7 +610,7 @@ strategy:
            - considerate
           answer: clear
         - question: |+
-            17.
+            17. Be as concise as possible
           option:
            - clear
            - concise
@@ -608,7 +622,7 @@ strategy:
            - considerate
           answer: concise
         - question: |+
-            18.
+            18. End with an action step
           option:
            - reader interest
            - reader knowledge
@@ -618,7 +632,7 @@ strategy:
            - reader prefered style
           answer: reader purpose
         - question: |+
-            19.
+            19. Lay out the letter so it looks good (presentation)
           option:
            - clear
            - concise
@@ -629,7 +643,7 @@ strategy:
            - considerate
           answer: clear
         - question: |+
-            20.
+            20. Be careful with punctuation
           option:
            - clear
            - concise
@@ -853,11 +867,466 @@ strategy:
            - courteous
            - considerate
           answer: correct
-    
-    
-    
-    
-    
-    
-    
-    
+    2:
+      identifier: 2
+      quiz:
+        - question: Think about what you want the reader to do after reading the letter. Make that your guide to what to include and not include.
+          option:
+            - 1. Start from the end
+            - 2. Use appropriate salutation
+            - 3. Get to the point early
+            - 4. Put yourself in the reader's place
+            - 5. Say it plainly
+            - 6. Clear the deadwood
+            - 7. Be natural
+            - 8. Be consistent (British English or American English)
+            - 9. Try to use active voice
+            - 10. Choose words carefully (eg expect vs hope), pay attention to tone
+            - 11. Never write in anger
+            - 12. Never use contractions (don't, etc)
+            - 13. Don't use very informal language unless the person is a good friend
+            - 14. Do not make accusations you cannot prove
+            - 15. Don't claim to be the cheapest, best, etc
+            - 16. With a lot of details, consider using lists with numbers, bullets
+            - 17. Be as concise as possible
+            - 18. End with an action step
+            - 19. Lay out the letter so it looks good (presentation)
+            - 20. Be careful with punctuation
+          answer: 1. Start from the end
+        - question: The proper salutation shows you have respect for the reader and that you are polite.
+          option:
+            - 1. Start from the end
+            - 2. Use appropriate salutation
+            - 3. Get to the point early
+            - 4. Put yourself in the reader's place
+            - 5. Say it plainly
+            - 6. Clear the deadwood
+            - 7. Be natural
+            - 8. Be consistent (British English or American English)
+            - 9. Try to use active voice
+            - 10. Choose words carefully (eg expect vs hope), pay attention to tone
+            - 11. Never write in anger
+            - 12. Never use contractions (don't, etc)
+            - 13. Don't use very informal language unless the person is a good friend
+            - 14. Do not make accusations you cannot prove
+            - 15. Don't claim to be the cheapest, best, etc
+            - 16. With a lot of details, consider using lists with numbers, bullets
+            - 17. Be as concise as possible
+            - 18. End with an action step
+            - 19. Lay out the letter so it looks good (presentation)
+            - 20. Be careful with punctuation
+          answer: 2. Use appropriate salutation
+        - question: Skimmers won't read the whole email. Say what you have to say in the first paragraph.
+          option:
+            - 1. Start from the end
+            - 2. Use appropriate salutation
+            - 3. Get to the point early
+            - 4. Put yourself in the reader's place
+            - 5. Say it plainly
+            - 6. Clear the deadwood
+            - 7. Be natural
+            - 8. Be consistent (British English or American English)
+            - 9. Try to use active voice
+            - 10. Choose words carefully (eg expect vs hope), pay attention to tone
+            - 11. Never write in anger
+            - 12. Never use contractions (don't, etc)
+            - 13. Don't use very informal language unless the person is a good friend
+            - 14. Do not make accusations you cannot prove
+            - 15. Don't claim to be the cheapest, best, etc
+            - 16. With a lot of details, consider using lists with numbers, bullets
+            - 17. Be as concise as possible
+            - 18. End with an action step
+            - 19. Lay out the letter so it looks good (presentation)
+            - 20. Be careful with punctuation
+          answer: 3. Get to the point early
+        - question: Think about what the reader wants. Put yourself in his/her position.
+          option:
+            - 1. Start from the end
+            - 2. Use appropriate salutation
+            - 3. Get to the point early
+            - 4. Put yourself in the reader's place
+            - 5. Say it plainly
+            - 6. Clear the deadwood
+            - 7. Be natural
+            - 8. Be consistent (British English or American English)
+            - 9. Try to use active voice
+            - 10. Choose words carefully (eg expect vs hope), pay attention to tone
+            - 11. Never write in anger
+            - 12. Never use contractions (don't, etc)
+            - 13. Don't use very informal language unless the person is a good friend
+            - 14. Do not make accusations you cannot prove
+            - 15. Don't claim to be the cheapest, best, etc
+            - 16. With a lot of details, consider using lists with numbers, bullets
+            - 17. Be as concise as possible
+            - 18. End with an action step
+            - 19. Lay out the letter so it looks good (presentation)
+            - 20. Be careful with punctuation
+          answer: 4. Put yourself in the reader's place
+        - question: Speak plainly. Don't confuse the reader. Adjust the amount of material to avoid him/her ignoring what you are saying.
+          option:
+            - 1. Start from the end
+            - 2. Use appropriate salutation
+            - 3. Get to the point early
+            - 4. Put yourself in the reader's place
+            - 5. Say it plainly
+            - 6. Clear the deadwood
+            - 7. Be natural
+            - 8. Be consistent (British English or American English)
+            - 9. Try to use active voice
+            - 10. Choose words carefully (eg expect vs hope), pay attention to tone
+            - 11. Never write in anger
+            - 12. Never use contractions (don't, etc)
+            - 13. Don't use very informal language unless the person is a good friend
+            - 14. Do not make accusations you cannot prove
+            - 15. Don't claim to be the cheapest, best, etc
+            - 16. With a lot of details, consider using lists with numbers, bullets
+            - 17. Be as concise as possible
+            - 18. End with an action step
+            - 19. Lay out the letter so it looks good (presentation)
+            - 20. Be careful with punctuation
+          answer: 5. Say it plainly
+        - question: Leave out words and sentences that don't help your letter do its job.
+          option:
+            - 1. Start from the end
+            - 2. Use appropriate salutation
+            - 3. Get to the point early
+            - 4. Put yourself in the reader's place
+            - 5. Say it plainly
+            - 6. Clear the deadwood
+            - 7. Be natural
+            - 8. Be consistent (British English or American English)
+            - 9. Try to use active voice
+            - 10. Choose words carefully (eg expect vs hope), pay attention to tone
+            - 11. Never write in anger
+            - 12. Never use contractions (don't, etc)
+            - 13. Don't use very informal language unless the person is a good friend
+            - 14. Do not make accusations you cannot prove
+            - 15. Don't claim to be the cheapest, best, etc
+            - 16. With a lot of details, consider using lists with numbers, bullets
+            - 17. Be as concise as possible
+            - 18. End with an action step
+            - 19. Lay out the letter so it looks good (presentation)
+            - 20. Be careful with punctuation
+          answer: 6. Clear the deadwood
+        - question: Try not to make your letter unnatural and dry. Instead make it sound like you speak, friendly and warm. Use the reader's name.
+          option:
+            - 1. Start from the end
+            - 2. Use appropriate salutation
+            - 3. Get to the point early
+            - 4. Put yourself in the reader's place
+            - 5. Say it plainly
+            - 6. Clear the deadwood
+            - 7. Be natural
+            - 8. Be consistent (British English or American English)
+            - 9. Try to use active voice
+            - 10. Choose words carefully (eg expect vs hope), pay attention to tone
+            - 11. Never write in anger
+            - 12. Never use contractions (don't, etc)
+            - 13. Don't use very informal language unless the person is a good friend
+            - 14. Do not make accusations you cannot prove
+            - 15. Don't claim to be the cheapest, best, etc
+            - 16. With a lot of details, consider using lists with numbers, bullets
+            - 17. Be as concise as possible
+            - 18. End with an action step
+            - 19. Lay out the letter so it looks good (presentation)
+            - 20. Be careful with punctuation
+          answer: 7. Be natural
+        - question: Stick to British or American English spelling, dates, punctuation, etc. Don't mix them.
+          option:
+            - 1. Start from the end
+            - 2. Use appropriate salutation
+            - 3. Get to the point early
+            - 4. Put yourself in the reader's place
+            - 5. Say it plainly
+            - 6. Clear the deadwood
+            - 7. Be natural
+            - 8. Be consistent (British English or American English)
+            - 9. Try to use active voice
+            - 10. Choose words carefully (eg expect vs hope), pay attention to tone
+            - 11. Never write in anger
+            - 12. Never use contractions (don't, etc)
+            - 13. Don't use very informal language unless the person is a good friend
+            - 14. Do not make accusations you cannot prove
+            - 15. Don't claim to be the cheapest, best, etc
+            - 16. With a lot of details, consider using lists with numbers, bullets
+            - 17. Be as concise as possible
+            - 18. End with an action step
+            - 19. Lay out the letter so it looks good (presentation)
+            - 20. Be careful with punctuation
+          answer: 8. Be consistent (British English or American English)
+        - question: Use grammar to show attitudes. Say, "We are unable to deliver before next week," not "Delivery will not be possible before next week." Avoiding use of "we" as the subject will be taken as an attempt to escape responsibility and will not be appreciated. Thus not, "10 workers will be laid off," but "We will lay off 10 workers."
+          option:
+            - 1. Start from the end
+            - 2. Use appropriate salutation
+            - 3. Get to the point early
+            - 4. Put yourself in the reader's place
+            - 5. Say it plainly
+            - 6. Clear the deadwood
+            - 7. Be natural
+            - 8. Be consistent (British English or American English)
+            - 9. Try to use active voice
+            - 10. Choose words carefully (eg expect vs hope), pay attention to tone
+            - 11. Never write in anger
+            - 12. Never use contractions (don't, etc)
+            - 13. Don't use very informal language unless the person is a good friend
+            - 14. Do not make accusations you cannot prove
+            - 15. Don't claim to be the cheapest, best, etc
+            - 16. With a lot of details, consider using lists with numbers, bullets
+            - 17. Be as concise as possible
+            - 18. End with an action step
+            - 19. Lay out the letter so it looks good (presentation)
+            - 20. Be careful with punctuation
+          answer: 9. Try to use active voice
+        - question: Don't rely on dictionaries or translation services for accurate translations from Chinese to English. One expression in Chinese can often have a number of related, but different, meanings which require different translations into English.
+          option:
+            - 1. Start from the end
+            - 2. Use appropriate salutation
+            - 3. Get to the point early
+            - 4. Put yourself in the reader's place
+            - 5. Say it plainly
+            - 6. Clear the deadwood
+            - 7. Be natural
+            - 8. Be consistent (British English or American English)
+            - 9. Try to use active voice
+            - 10. Choose words carefully (eg expect vs hope), pay attention to tone
+            - 11. Never write in anger
+            - 12. Never use contractions (don't, etc)
+            - 13. Don't use very informal language unless the person is a good friend
+            - 14. Do not make accusations you cannot prove
+            - 15. Don't claim to be the cheapest, best, etc
+            - 16. With a lot of details, consider using lists with numbers, bullets
+            - 17. Be as concise as possible
+            - 18. End with an action step
+            - 19. Lay out the letter so it looks good (presentation)
+            - 20. Be careful with punctuation
+          answer: 10. Choose words carefully (eg expect vs hope), pay attention to tone
+        - question: Don't write to the other person to express negative feelings which that person may have caused you to feel. Try to handle problems in a positive way.
+          option:
+            - 1. Start from the end
+            - 2. Use appropriate salutation
+            - 3. Get to the point early
+            - 4. Put yourself in the reader's place
+            - 5. Say it plainly
+            - 6. Clear the deadwood
+            - 7. Be natural
+            - 8. Be consistent (British English or American English)
+            - 9. Try to use active voice
+            - 10. Choose words carefully (eg expect vs hope), pay attention to tone
+            - 11. Never write in anger
+            - 12. Never use contractions (don't, etc)
+            - 13. Don't use very informal language unless the person is a good friend
+            - 14. Do not make accusations you cannot prove
+            - 15. Don't claim to be the cheapest, best, etc
+            - 16. With a lot of details, consider using lists with numbers, bullets
+            - 17. Be as concise as possible
+            - 18. End with an action step
+            - 19. Lay out the letter so it looks good (presentation)
+            - 20. Be careful with punctuation
+          answer: 11. Never write in anger
+        - question: There are grammar differences between formal and informal English (eg, "do not" vs "don't", "much/many" vs "a lot of"), which you need to be aware of. It is a mistake to use the second of each pair in a formal letter.
+          option:
+            - 1. Start from the end
+            - 2. Use appropriate salutation
+            - 3. Get to the point early
+            - 4. Put yourself in the reader's place
+            - 5. Say it plainly
+            - 6. Clear the deadwood
+            - 7. Be natural
+            - 8. Be consistent (British English or American English)
+            - 9. Try to use active voice
+            - 10. Choose words carefully (eg expect vs hope), pay attention to tone
+            - 11. Never write in anger
+            - 12. Never use contractions (don't, etc)
+            - 13. Don't use very informal language unless the person is a good friend
+            - 14. Do not make accusations you cannot prove
+            - 15. Don't claim to be the cheapest, best, etc
+            - 16. With a lot of details, consider using lists with numbers, bullets
+            - 17. Be as concise as possible
+            - 18. End with an action step
+            - 19. Lay out the letter so it looks good (presentation)
+            - 20. Be careful with punctuation
+          answer: 12. Never use contractions (don't, etc)
+        - question: Recognize how you and the writer think about each other, eg your closeness, and your power differences, when you choose how formal or informal to be with him/her.
+          option:
+            - 1. Start from the end
+            - 2. Use appropriate salutation
+            - 3. Get to the point early
+            - 4. Put yourself in the reader's place
+            - 5. Say it plainly
+            - 6. Clear the deadwood
+            - 7. Be natural
+            - 8. Be consistent (British English or American English)
+            - 9. Try to use active voice
+            - 10. Choose words carefully (eg expect vs hope), pay attention to tone
+            - 11. Never write in anger
+            - 12. Never use contractions (don't, etc)
+            - 13. Don't use very informal language unless the person is a good friend
+            - 14. Do not make accusations you cannot prove
+            - 15. Don't claim to be the cheapest, best, etc
+            - 16. With a lot of details, consider using lists with numbers, bullets
+            - 17. Be as concise as possible
+            - 18. End with an action step
+            - 19. Lay out the letter so it looks good (presentation)
+            - 20. Be careful with punctuation
+          answer: 13. Don't use very informal language unless the person is a good friend
+        - question: Be careful about claims you make about the other person's actions. If they damage the relationship with the other person, are they worth making? If not, don't make them.
+          option:
+            - 1. Start from the end
+            - 2. Use appropriate salutation
+            - 3. Get to the point early
+            - 4. Put yourself in the reader's place
+            - 5. Say it plainly
+            - 6. Clear the deadwood
+            - 7. Be natural
+            - 8. Be consistent (British English or American English)
+            - 9. Try to use active voice
+            - 10. Choose words carefully (eg expect vs hope), pay attention to tone
+            - 11. Never write in anger
+            - 12. Never use contractions (don't, etc)
+            - 13. Don't use very informal language unless the person is a good friend
+            - 14. Do not make accusations you cannot prove
+            - 15. Don't claim to be the cheapest, best, etc
+            - 16. With a lot of details, consider using lists with numbers, bullets
+            - 17. Be as concise as possible
+            - 18. End with an action step
+            - 19. Lay out the letter so it looks good (presentation)
+            - 20. Be careful with punctuation
+          answer: 14. Do not make accusations you cannot prove
+        - question: Don't make claims of business superiority, unless you can prove them.
+          option:
+            - 1. Start from the end
+            - 2. Use appropriate salutation
+            - 3. Get to the point early
+            - 4. Put yourself in the reader's place
+            - 5. Say it plainly
+            - 6. Clear the deadwood
+            - 7. Be natural
+            - 8. Be consistent (British English or American English)
+            - 9. Try to use active voice
+            - 10. Choose words carefully (eg expect vs hope), pay attention to tone
+            - 11. Never write in anger
+            - 12. Never use contractions (don't, etc)
+            - 13. Don't use very informal language unless the person is a good friend
+            - 14. Do not make accusations you cannot prove
+            - 15. Don't claim to be the cheapest, best, etc
+            - 16. With a lot of details, consider using lists with numbers, bullets
+            - 17. Be as concise as possible
+            - 18. End with an action step
+            - 19. Lay out the letter so it looks good (presentation)
+            - 20. Be careful with punctuation
+          answer: 15. Don't claim to be the cheapest, best, etc
+        - question: Use lists when you have lots of information to make it easier to understand.
+          option:
+            - 1. Start from the end
+            - 2. Use appropriate salutation
+            - 3. Get to the point early
+            - 4. Put yourself in the reader's place
+            - 5. Say it plainly
+            - 6. Clear the deadwood
+            - 7. Be natural
+            - 8. Be consistent (British English or American English)
+            - 9. Try to use active voice
+            - 10. Choose words carefully (eg expect vs hope), pay attention to tone
+            - 11. Never write in anger
+            - 12. Never use contractions (don't, etc)
+            - 13. Don't use very informal language unless the person is a good friend
+            - 14. Do not make accusations you cannot prove
+            - 15. Don't claim to be the cheapest, best, etc
+            - 16. With a lot of details, consider using lists with numbers, bullets
+            - 17. Be as concise as possible
+            - 18. End with an action step
+            - 19. Lay out the letter so it looks good (presentation)
+            - 20. Be careful with punctuation
+          answer: 16. With a lot of details, consider using lists with numbers, bullets
+        - question: Don't use two words when one word will do.
+          option:
+            - 1. Start from the end
+            - 2. Use appropriate salutation
+            - 3. Get to the point early
+            - 4. Put yourself in the reader's place
+            - 5. Say it plainly
+            - 6. Clear the deadwood
+            - 7. Be natural
+            - 8. Be consistent (British English or American English)
+            - 9. Try to use active voice
+            - 10. Choose words carefully (eg expect vs hope), pay attention to tone
+            - 11. Never write in anger
+            - 12. Never use contractions (don't, etc)
+            - 13. Don't use very informal language unless the person is a good friend
+            - 14. Do not make accusations you cannot prove
+            - 15. Don't claim to be the cheapest, best, etc
+            - 16. With a lot of details, consider using lists with numbers, bullets
+            - 17. Be as concise as possible
+            - 18. End with an action step
+            - 19. Lay out the letter so it looks good (presentation)
+            - 20. Be careful with punctuation
+          answer: 17. Be as concise as possible
+        - question: End the letter in a way that makes clear to the reader what they should do after they have finished reading the email.
+          option:
+            - 1. Start from the end
+            - 2. Use appropriate salutation
+            - 3. Get to the point early
+            - 4. Put yourself in the reader's place
+            - 5. Say it plainly
+            - 6. Clear the deadwood
+            - 7. Be natural
+            - 8. Be consistent (British English or American English)
+            - 9. Try to use active voice
+            - 10. Choose words carefully (eg expect vs hope), pay attention to tone
+            - 11. Never write in anger
+            - 12. Never use contractions (don't, etc)
+            - 13. Don't use very informal language unless the person is a good friend
+            - 14. Do not make accusations you cannot prove
+            - 15. Don't claim to be the cheapest, best, etc
+            - 16. With a lot of details, consider using lists with numbers, bullets
+            - 17. Be as concise as possible
+            - 18. End with an action step
+            - 19. Lay out the letter so it looks good (presentation)
+            - 20. Be careful with punctuation
+          answer: 18. End with an action step
+        - question: Try to give the letter an attractive appearance.
+          option:
+            - 1. Start from the end
+            - 2. Use appropriate salutation
+            - 3. Get to the point early
+            - 4. Put yourself in the reader's place
+            - 5. Say it plainly
+            - 6. Clear the deadwood
+            - 7. Be natural
+            - 8. Be consistent (British English or American English)
+            - 9. Try to use active voice
+            - 10. Choose words carefully (eg expect vs hope), pay attention to tone
+            - 11. Never write in anger
+            - 12. Never use contractions (don't, etc)
+            - 13. Don't use very informal language unless the person is a good friend
+            - 14. Do not make accusations you cannot prove
+            - 15. Don't claim to be the cheapest, best, etc
+            - 16. With a lot of details, consider using lists with numbers, bullets
+            - 17. Be as concise as possible
+            - 18. End with an action step
+            - 19. Lay out the letter so it looks good (presentation)
+            - 20. Be careful with punctuation
+          answer: 19. Lay out the letter so it looks good (presentation)
+        - question: Make sure that your font doesn't produce the Chinese version of common punctuation symbols. "。", "、", "：", and "＇" are wrong. They should be ". ", ", ", ": ", "'".
+          option:
+            - 1. Start from the end
+            - 2. Use appropriate salutation
+            - 3. Get to the point early
+            - 4. Put yourself in the reader's place
+            - 5. Say it plainly
+            - 6. Clear the deadwood
+            - 7. Be natural
+            - 8. Be consistent (British English or American English)
+            - 9. Try to use active voice
+            - 10. Choose words carefully (eg expect vs hope), pay attention to tone
+            - 11. Never write in anger
+            - 12. Never use contractions (don't, etc)
+            - 13. Don't use very informal language unless the person is a good friend
+            - 14. Do not make accusations you cannot prove
+            - 15. Don't claim to be the cheapest, best, etc
+            - 16. With a lot of details, consider using lists with numbers, bullets
+            - 17. Be as concise as possible
+            - 18. End with an action step
+            - 19. Lay out the letter so it looks good (presentation)
+            - 20. Be careful with punctuation
+          answer: 20. Be careful with punctuation
