@@ -105,6 +105,16 @@ art:
 
 
 music:
+  0:
+    flash:
+        clarinet    : 單簧管
+        instruments : 樂器
+        music       : 音樂
+        violin      : 小提琴
+        concert     : 音樂會
+        practice    : 實踐
+        musician    : 音樂家
+        orchestra   : 樂隊
   bingo:
     -
       - People who write music are called composers.                                              _誰寫的音樂人被稱為作曲家。_
