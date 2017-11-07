@@ -16,20 +16,68 @@ paragraph:
            - 3
            - 4
           answer: 2
+        - question: |+
+            1. A woman threw garbage over a cliff. The cliff was 60 meters high. She fell down the cliff. She waited 3 days before she was rescued.
+            2. A woman who had fallen down a 60-meter-high cliff when throwing garbage over it waited 3 days before being rescued Monday.
+          option:
+           - 1
+           - 2
+          answer: 2
+        - question: |+
+            The polar bear can endure the cold, because it has a strong body.
+            A polar bear was discovered in a home in Alaska. It maybe was hungry.
+          option:
+           - 1
+           - 2
+          answer: 
+    rocket:
+     identifier: rocket
+     quiz:
        - question: |+
-           1. A woman threw garbage over a cliff. The cliff was 60 meters high. She fell down the cliff. She waited 3 days before she was rescued.
-           2. A woman who had fallen down a 60-meter-high cliff when throwing garbage over it waited 3 days before being rescued Monday.
+           a. A rocket exploded in Virginia which cost 250 million dollars on take-off.
+           b. 250-million-dollar rocket made by NASA exploded in Virginia on Saturday.
          option:
-          - 1
-          - 2
-         answer: 2
+           - a
+           - b
+         answer: b
        - question: |+
-           The polar bear can endure the cold, because it has a strong body.
-           A polar bear was discovered in a home in Alaska. It maybe was hungry.
+           a. A 250-million-dollar rocket of NASA exploded as it took off in Virginia killing 250 people on Saturday.
+           b. NASA secretly launched a rocket which was manufactured for 250-million dollars in Virginia on Saturday.
          option:
-          - 1
-          - 2
-         answer: 
+           - a
+           - b
+         answer: a
+    flier:
+      identifier: flier
+      quiz:
+        - question: |+
+            - A pilot, who was preparing to land, saw a flying guy outside the window.
+            - A mystery man flying outside the cockpit scares pilots preparing to land.
+            - When a pilot prepared to land, suddenly he saw a man flying outside the window.
+          option:
+            - a
+            - b
+            - c
+          answer: b
+        - question: |+
+            - A mystery man who flew past scared the crew of an airplane landing June 13.
+            - A flier too close to an airplane, scaring the crew,  might have caused a terrible accident.
+            - A pilot who prepared to land was scared by a man flying outside June 13.
+          option:
+            - a
+            - b 
+            - c
+          answer: a
+halloween:
+  jigsaw:
+    0:
+      identifier: halloween
+      quiz:
+        - question: 
+          option:
+            - 
+          answer: 
+        
 thanksgiving:
   jigsaw:
     0:
