@@ -91,9 +91,23 @@ Is O'Reilly:
 
 ## Who is Bill O'Reilly?
 
-American Channel entertainment Fox host News political
-program reporter stations television watched
-conservative positions opposition support control
+American
+Channel
+conservative
+control
+entertainment
+Fox
+host
+News
+opposition
+political
+positions
+program
+reporter
+stations
+support
+television
+watched
 
 Bill O'Reilly is an American _____(1) host,
 author, columnist and _____(2) commentator. He is the _____(3) of
@@ -119,6 +133,7 @@ O'Reilly is a registered "Independent", and _____(19) himself as a
 Factor until early 2009.^
 
 
+# Weeks
 
 ## Week 5
 
@@ -235,7 +250,7 @@ Modify the SUBJECT with adjectives as you can.
 - [Mormons](http://www.huffingtonpost.com/2014/10/22/mormon-magic-underwear-video_n_6025828.html?ncid=txtlnkusaolp00000592)
 - [China Airlines aircraft](https://www.yahoo.com/travel/a-lounge-in-the-sky-a-look-at-china-airlines-swanky-100505657917.html)
 - [Texting](https://autos.yahoo.com/news/6-ways-cops-know-youre-texting-192300526.html)
-- [Man in sky](https://autos.yahoo.com/news/mystery-flying-man-spooks-pilots-over-uk-140014778.html)
+- [Man in sky](http://www.dailymail.co.uk/news/article-2798083/is-bird-plane-no-s-mystery-man-flying-past-airbus-passengers-flew-macclesfield.html)
 - [Dog](http://news.yahoo.com/2-accused-trying-sell-stolen-dog-dogs-owners-155650295.html)
 - [Drunk wheelchair driver](http://news.yahoo.com/man-motorized-wheelchair-given-dui-citation-122224351.html)
 - [Wingsuit formation](http://news.yahoo.com/61-wingsuit-skydivers-set-formation-record-over-california-193253078.html)
@@ -274,6 +289,19 @@ Texting
 - A pilot who prepared to land was scared by a man flying outside June 13.
 - A mystery man who flew past scared the crew of an airplane landing June 13.
 - A flier too close to an airplane, scaring the crew,  might have caused a terrible accident.
+
+# Halloween
+
+## NY Halloween Parade
+
+- [NY Halloween Parade](http://en.wikipedia.org/wiki/NY_Halloween_Parade)
+- [Google images](http://www.google.com.tw/search?q=%22NY+Halloween+parade%22&num=100&gws_rd=ssl&tbm=isch&tbo=u&source=univ&sa=X)
+- [Google search results](http://www.google.com.tw/search?q=ny+halloween+parade&num=99&gws_rd=cr&ei=0PE6VpPGG-ShmQXZ4pqoDQ)
+
+How to make this a news item when it happens every year?
+
+
+# Weeks
 
 ## Week 7
 
@@ -419,7 +447,7 @@ Police in San Antonio arrested a local man for burglary, Saturday, after a DNA s
 [Twitter](http://twitter.com)
 [According to wikipedia](http://en.wikipedia.org/wiki/Twitter)
 [The pope](http://twitter.com/Pontifex)
-[Rupert Murdoch](http://twitter.com/RupertMurdoch)
+[Donald Trump](http://twitter.com/realDonaldTrump)
 [Dr Bean](http://twitter.com/beancounterbean)
 [God](http://twitter.com/God)
 
@@ -452,29 +480,16 @@ http://www.huffingtonpost.com/2013/08/30/pope-selfie-twitter-vatican_n_3844061.h
 - [Endangered deer with fangs spotted in war-torn Afghanistan](http://news.yahoo.com/deer-vampire-fangs-spotted-1st-time-decades-141626414.html)
 - [Marijuana fully legalized in 3rd state](http://news.yahoo.com/marijuana-legalization-movement-declares-election-day-victory-061232865.html)
 - [Dead politician headed for re-election](http://news.yahoo.com/deceased-washington-state-legislator-headed-election-174611595.html)
-- [NY Halloween parade](http://news.yahoo.com/superheroes-hazmat-suits-ny-halloween-parade-004743938.html)
-- [513,614 pennies](http://news.yahoo.com/man-gets-pretty-penny-5k-cashing-coin-collection-174750781.html)
-- [Texas dog in California](http://news.yahoo.com/dog-missing-texas-since-may-floods-found-california-182328821.html)
-
-## NY Halloween parade
-
-- [Google images](http://www.google.com.tw/search?q=%22NY+Halloween+parade%22&num=100&gws_rd=ssl&tbm=isch&tbo=u&source=univ&sa=X)
-- [Google search results](http://www.google.com.tw/search?q=ny+halloween+parade&num=99&gws_rd=cr&ei=0PE6VpPGG-ShmQXZ4pqoDQ)
-
-How to make this a news item when it happens every year?
-
-## Week 9
-
-- [calf](http://news.yahoo.com/california-man-arrested-calf-found-165722021.html)
-- [dog](http://news.yahoo.com/ohio-firefighters-rescue-dog-stuck-roof-3-days-191718872.html)
-- [fake money](http://news.yahoo.com/cops-man-held-teller-wasnt-fooled-fake-20s-145630180.html)
+- [Church shooting; 26 killed](http://www.4029tv.com/article/man-who-shot-texas-church-gunman-shares-his-story/13437943)
+- [Church shooting on yahoo](https://www.yahoo.com/news/sutherland-springs-tries-sense-horrific-170447308.html)
 - [cliff](http://news.yahoo.com/boy-survives-long-fall-down-california-oceanside-cliff-195125948.html)
 - [shark](http://www.upi.com/Odd_News/2014/11/11/Fishermen-say-they-found-human-head-inside-shark/5921415722478/)
-- [100-year-old woman](http://news.yahoo.com/ny-woman-celebrates-100th-birthday-sky-dive-165715927.html)
-- [goat](http://news.yahoo.com/kid-napping-ends-baby-goat-reunited-mother-081343358.html#)
-- [bus-stealer](http://news.yahoo.com/nyc-police-notorious-subway-joy-rider-steals-nj-230122560.html)
-- [alligator](http://news.yahoo.com/800-pound-alligator-found-houston-area-shopping-center-174313396.html#)
-- [bubble gum](http://news.yahoo.com/bubble-yuck-crews-melt-chewed-gum-off-famed-191615542.html#)
-- [barber](http://news.yahoo.com/legally-blind-barber-awarded-100k-wrongful-termination-201759029.html)
 
+## Seattle gum wall
+
+- [Interview](http://www.telegraph.co.uk/news/worldnews/northamerica/usa/11987616/Seattles-famous-chewing-gum-wall-dismantled-by-cleaning-crews.html)
+- [Cleaning](https://www.usatoday.com/story/news/nation-now/2015/11/17/seattle-gum-wall-cleaned-first-time-20-years/75915168/)
+- [Gum Wall](http://en.wikipedia.org/wiki/Gum_Wall)
+
+- [bubble gum](http://news.yahoo.com/bubble-yuck-crews-melt-chewed-gum-off-famed-191615542.html#)
 
