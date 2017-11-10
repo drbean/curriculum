@@ -197,3 +197,14 @@ lunch:
       yogurt          :  酸奶
       apple           :  蘋果
       banana          :  香蕉
+candy:
+  0:
+    flash:
+      lollipop   : 棒糖
+      candy bar  : 糖果條
+      cookie     : 曲奇餅
+      jelly bean : 果凍豆
+      popsicle   : 棒冰
+      caramel    : 焦糖
+      lifesaver  : 救生圈
+      ice cream  : 冰淇淋
