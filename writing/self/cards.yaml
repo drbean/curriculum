@@ -79,7 +79,7 @@ rujing:
 barry:
     jigsaw:
       0:
-        identifier: barry: nice guy
+        identifier: "barry: nice guy"
         quiz:
           - question: |+
               Barry is a nice guy
@@ -213,3 +213,66 @@ johari:
             - Blind self
             - Unknown self
           answer: Hidden self
+    student:
+      identifier: students
+      quiz:
+        - question: "Stephen: I am a man who loves sports."
+          option:
+            - open and/or hidden self
+            - blind and/or unknown self
+          answer: open and/or hidden self
+        - question: "I am a very shy person, rarely speaking to anyone."
+          option:
+            - "open and/or hidden self"
+            - "blind and/or unknown self"
+          answer: open and/or hidden self
+        - question: "Sam: Am I calm?"
+          option:
+            - open and/or hidden self
+            - blind and/or unknown self
+          answer: blind and/or unknown self
+        - question: "Woody: Am I logical? Actually I am not sure."
+          option:
+            - open and/or hidden self
+            - blind and/or unknown self
+          answer: blind and/or unknown self
+        - question: "Peggy: I am an easy going and helpful person. I have always enjoyed working with people."
+          option:
+            - open and/or hidden self
+            - blind and/or unknown self
+          answer: open and/or hidden self
+        - question: I think I'm an optimistic and confident person Because I have a lot of difficulties at work, I deal with them one by one.
+          option:
+            - open and/or hidden self
+            - blind and/or unknown self
+          answer: open and/or hidden self
+        - question: "Yuki: I think I am a very nervous person, actually I'm not good at communication and new friends, and when I went to a new environment, I tend to feel helpless."
+          option:
+            - open and/or hidden self
+            - blind and/or unknown self
+          answer: open and/or hidden self
+        - question: "Vivi: I'm an easygoing person."
+          option:
+            - open and/or hidden self
+            - blind and/or unknown self
+          answer: open and/or hidden self
+        - question: "Dr Bean: I think I'm ... Actually I'm not sure. .. "
+          option:
+            - open and/or hidden self
+            - blind and/or unknown self
+          answer: blind and/or unknown self
+        - question: "Dr Bean: I like questioning myself. I like being not sure."
+          option:
+            - open and/or hidden self
+            - blind and/or unknown self
+          answer: open and/or hidden self
+        - question: "Shine: I think my English level is not good, so need to redouble our efforts to find time to study, in addition to the class in work or other ways to learn. Especially English, is my biggest challenge, how do I want to learn and application on the job?"
+          option:
+            - open and/or hidden self
+            - blind and/or unknown self
+          answer: open and/or hidden self
+        - question: "Margret: I think I am unconfident.  Because I can't catch teacher's point mostly in the class. And I'm fear to speak in public."
+          option:
+            - open and/or hidden self
+            - blind and/or unknown self
+          answer: open and/or hidden self
