@@ -156,7 +156,17 @@ parts:
             - complimentary close
             - signature
           answer: signature
-  
+opening:
+  scramble:
+    0:
+      identifier: opening scramble
+      sentence:
+        - Thank you for your letter of January_15 inquiring about bicycles.
+        - I have received your letter dated February_16 regarding order_number KC5241300.
+        - I would be grateful if you could send me a copy of your latest bicycle catalogue.
+        - I am writing to inquire about parts for your bicycles.
+
+
 
 address:
   jigsaw:
@@ -559,6 +569,23 @@ grammar:
             - I can estimating numbers
             - I can estimate numbers
           answer: I can estimate numbers
+    1:
+      identifier: short answer: please to inform, like to invite you, etc
+      quiz:
+        - question: |+
+            "Correct the mistake: We are please to inform that .." No contractions. Include the dots ..
+          option:
+           - We are pleased to inform you that
+          answer: We are pleased to inform you that
+        - question: |+
+            "Correct the mistake: I like to invite you .." No contractions. Include the dots ..
+          option:
+           - I would like to invite you ..
+          answer: I would like to invite you ..
+        - question: "Correct the mistake: Please let me knowing .." No contractions. Include the dots ..
+          option:
+            - Please let me know
+          answer: Please let me know
         
 strategy:
   jigsaw:
