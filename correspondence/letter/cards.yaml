@@ -30,6 +30,34 @@ date:
           option:
            - March 19, 2017
           answer: March 19, 2017
+    1:
+      identifier: date rewriting 1
+      quiz:
+        - question: |+
+            Sep 29th, 2017
+          option:
+           - September 29, 2017
+          answer: September 29, 2017
+        - question: |+
+            British date 12/7/2017, fully-written-out American style
+          option:
+           - July 12, 2017
+          answer: July 12, 2017
+        - question: |+
+            09.13.2017
+          option:
+           - September 13, 2017
+          answer: September 13, 2017
+        - question: |+
+            中華民國106年7月20日
+          option:
+           - July 20, 2017
+          answer: July 20, 2017
+        - question: |+
+            106/09/19
+          option:
+           - September 19, 2017
+          answer: September 19, 2017
 address:
   jigsaw:
     1:
