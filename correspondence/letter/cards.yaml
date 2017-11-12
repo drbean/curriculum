@@ -58,6 +58,106 @@ date:
           option:
            - September 19, 2017
           answer: September 19, 2017
+envelope:
+  jigsaw:
+    0:
+      identifier: envelope
+      quiz:
+        - question: The envelope of a letter from President Tsai, IngWen, Presidential Office Building 台灣 10048 台北市中正區重慶南路一段122號 to President Donald Trump at the White House, 1600 Pennsylvania Ave NW, Washington, DC 20500
+          option:
+            - letterhead
+          answer: letterhead
+letter:
+  jigsaw:
+    0:
+      identifier:
+      quiz:
+        - question: Using a letterhead, starting, "The Office of the President of the ROC", write a letter dated 2017-11-06 expressing condolences for a church shooting in the US to President Trump. In the body, write: "On the behalf of the people of Taiwan, I wish to express my condolences to the people of the US and to the victims of the church shooting that occurred in Sutherland Springs, Texas on the morning of November 5. I wish the injured a speedy recovery."
+
+parts:
+  jigsaw:
+    0:
+      identifier: parts
+      quiz:
+        - question: (from the letter question) The Office of the President of the ROC
+          option:
+            - letterhead
+            - date
+            - inside address
+            - salutation
+            - subject
+            - body
+            - complimentary close
+            - signature
+          answer: letterhead
+        - question: (from the letter question) President Donald Trump, the White House, 1600 Pennsylvania Ave NW, Washington, DC 20500
+          option:
+            - letterhead
+            - date
+            - inside address
+            - salutation
+            - subject
+            - body
+            - complimentary close
+            - signature
+          answer: inside address
+        - question: March 16, 2017
+          option:
+            - letterhead
+            - date
+            - inside address
+            - salutation
+            - subject
+            - body
+            - complimentary close
+            - signature
+          answer: date
+        - question: Dear President Trump,
+          option:
+            - letterhead
+            - date
+            - inside address
+            - salutation
+            - subject
+            - body
+            - complimentary close
+            - signature
+          answer: salutation
+        - question: "Re: Order #00032417"
+          option:
+            - letterhead
+            - date
+            - inside address
+            - salutation
+            - subject
+            - body
+            - complimentary close
+            - signature
+          answer: subject
+        - question: Yours sincerely,
+          option:
+            - letterhead
+            - date
+            - inside address
+            - salutation
+            - subject
+            - body
+            - complimentary close
+            - signature
+          answer: complimentary close
+        - question: (Sgd) Tsai, IngWen
+          option:
+            - letterhead
+            - date
+            - inside address
+            - salutation
+            - subject
+            - body
+            - complimentary close
+            - signature
+          answer: signature
+  
+
 address:
   jigsaw:
     1:
