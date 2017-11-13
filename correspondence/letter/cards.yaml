@@ -34,7 +34,7 @@ date:
       identifier: date rewriting 1
       quiz:
         - question: |+
-            Sep 29th, 2017
+            Sep 29th, 2017, fully-written-out American style
           option:
            - September 29, 2017
           answer: September 29, 2017
@@ -44,17 +44,17 @@ date:
            - July 12, 2017
           answer: July 12, 2017
         - question: |+
-            09.13.2017
+            09.13.2017, fully-written-out American style
           option:
            - September 13, 2017
           answer: September 13, 2017
         - question: |+
-            中華民國106年7月20日
+            中華民國106年7月20日, fully-written-out American style
           option:
            - July 20, 2017
           answer: July 20, 2017
         - question: |+
-            106/09/19
+            106/09/19, fully-written-out American style
           option:
            - September 19, 2017
           answer: September 19, 2017
@@ -72,7 +72,10 @@ letter:
     0:
       identifier:
       quiz:
-        - question: Using a letterhead, starting, "The Office of the President of the ROC", write a letter dated 2017-11-06 expressing condolences for a church shooting in the US to President Trump. In the body, write: "On the behalf of the people of Taiwan, I wish to express my condolences to the people of the US and to the victims of the church shooting that occurred in Sutherland Springs, Texas on the morning of November 5. I wish the injured a speedy recovery."
+        - question: Using a letterhead, starting, "The Office of the President of the ROC", write a letter dated 2017-11-06 expressing condolences for a church shooting in the US to President Trump. In the body, write, "On the behalf of the people of Taiwan, I wish to express my condolences to the people of the US and to the victims of the church shooting that occurred in Sutherland Springs, Texas on the morning of November 5. I wish the injured a speedy recovery."
+          option:
+            - letterhead
+          answer: letterhead
 
 parts:
   jigsaw:
@@ -570,19 +573,20 @@ grammar:
             - I can estimate numbers
           answer: I can estimate numbers
     1:
-      identifier: short answer: please to inform, like to invite you, etc
+      identifier: short answer--please to inform, like to invite you, etc
       quiz:
         - question: |+
-            "Correct the mistake: We are please to inform that .." No contractions. Include the dots ..
+            Correct the mistake-- "We are please to inform that .." No contractions. Do not include the dots ..
           option:
            - We are pleased to inform you that
           answer: We are pleased to inform you that
         - question: |+
-            "Correct the mistake: I like to invite you .." No contractions. Include the dots ..
+            Correct the mistake-- "I like to invite you .." No contractions. Do not include the dots ..
           option:
-           - I would like to invite you ..
-          answer: I would like to invite you ..
-        - question: "Correct the mistake: Please let me knowing .." No contractions. Include the dots ..
+           - I would like to invite you
+          answer: I would like to invite you
+        - question: |+
+            Correct the mistake-- "Please let me knowing .." No contractions. Do not include the dots ..
           option:
             - Please let me know
           answer: Please let me know
@@ -1462,7 +1466,8 @@ strategy:
             - 19. Lay out the letter so it looks good (presentation)
             - 20. Be careful with punctuation
           answer: 19. Lay out the letter so it looks good (presentation)
-        - question: Make sure that your font doesn't produce the Chinese version of common punctuation symbols. "。", "、", "：", and "＇" are wrong. They should be ". ", ", ", ": ", "'".
+        - question: |+
+            Make sure that your font doesn't produce the Chinese version of common punctuation symbols. "。", "、", "：", and "＇" are wrong. They should be ". ", ", ", ": ", "'".
           option:
             - 1. Start from the end
             - 2. Use appropriate salutation
@@ -1485,3 +1490,11 @@ strategy:
             - 19. Lay out the letter so it looks good (presentation)
             - 20. Be careful with punctuation
           answer: 20. Be careful with punctuation
+scramble:
+  scramble:
+    0:
+      identifier: pleased
+      sentence:
+        - We are pleased to inform you that you have won one million dollars in the last Google lottery.
+
+    
