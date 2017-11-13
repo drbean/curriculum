@@ -91,7 +91,7 @@ formal:
 etiquette:
   jigsaw:
     0:
-      identifier: negotiating etiquette
+      identifier: negotiating etiquette (p24 1-4
       quiz:
         - question: It is not possible to be too concise, even if abrupt, rude. Conciseness! Conciseness! Conciseness!
           answer: False
@@ -102,7 +102,7 @@ etiquette:
         - question: If you have something in common, it will make the task easier.
           answer: True
     1:
-      identifier: negotiating etiquette
+      identifier: negotiating etiquett (p24 5-9)
       quiz:
         - question: It is important to repeat any points on which you accept the other's position and on which you are flexible.
           answer: True
