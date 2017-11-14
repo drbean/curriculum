@@ -26,8 +26,6 @@ eg the Farm Board is an organization
 
 - [http://www.ebizmba.com/articles/news-websites ](http://www.ebizmba.com/articles/news-websites)
 
-# Can we trust the news
-
 ## Untrustworthy media
 
 [google "untrustworthy media"](http://www.google.com/search?q=media%20untrustworthy&num=100)
@@ -51,6 +49,9 @@ http://images.google.com/images?q=news%20of%20the%20world&num=100
 [Washington Post](http://www.washingtonpost.com)
 
 [The Times](http://www.thetimes.co.uk)
+
+
+# Bill O'Reilly
 
 ## Fox News show hosts battle over illegal immigration
 
@@ -79,8 +80,6 @@ Are O'Reilly and Rivera:
 
 - mad at each other
 - performing
-
-# Bill O'Reilly
 
 ## O'Reilly's freakout
 
