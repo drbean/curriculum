@@ -467,7 +467,7 @@ freakout:
         - question: Matt's insults hurt O'Reilly.
           answer  : False
         - question: John likes Matt's video.
-          answer  : False
+          answer  : True
         #- question: Matt's video isn't real.
         #  answer  : True
 pope:
