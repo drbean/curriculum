@@ -492,3 +492,29 @@ http://www.huffingtonpost.com/2013/08/30/pope-selfie-twitter-vatican_n_3844061.h
 
 - [bubble gum](http://news.yahoo.com/bubble-yuck-crews-melt-chewed-gum-off-famed-191615542.html#)
 
+# Exam
+
+## Trump, N Korea Kim Jong-un
+
+- [Trump trades 'short and fat' barb with N Korea's Kim - BBC News ](http://www.bbc.com/news/world-us-canada-41958553)
+
+
+- Who: Donald Trump, Kim Jong-un
+- What: Trade insults
+- When: Sunday
+- Where: Twitter
+- Why: Threatens hostile country
+- How: "Kim: Trump is dotard (=old, senile), Trump: Kim is short, fat"
+
+## O'Reilly, sexual harassment
+
+- [## O'Reilly pays $32 million in sexual harassment case, loses job ](https://www.nytimes.com/2017/10/21/business/media/bill-oreilly-sexual-harassment.html)
+
+- Who: Bill O'Reilly, Fox News, 6 unnamed women
+- What: Payments of $32 million, and other amounts in 5 separate cases, Firing by Fox News
+- When: Payment of $32 million in January, firing in April
+- Where: Cable TV
+- Why: Fox News: "We are serious about maintaining a culture based on trust and respect"
+- How: "O'Reilly: Untrue! No woman ever complained to Fox News."
+
+
