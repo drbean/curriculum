@@ -364,6 +364,22 @@
     G: Great, thanks! I also need old books for younger students to read. 
     B: That's a great way to reuse books. Yes, I have a few I could give you!
   - Jane|End
+-
+  - "environment-1"
+  - "environment-1"
+  - "topics"
+  - "all"
+  - |+
+    B: Do you always ride your bicycle to school?
+    G: I started yesterday. Riding my bicycle helps the earth. Last week, I saw a play called Reduce, Reuse, and Recycle! 
+    B: Really?
+    G: Some people performed it on the stage in the city museum. The actors said riding bicycles reduces dirty air.
+    B: Yes, and it's also good for your muscles. 
+    G: You should ride your bike, too. 
+    B: Why don't we ride together tomorrow?
+    G: Perfect! That sounds fun.
+  - play|museum|actors|muscles|bike|End
+
 
 
 ---
