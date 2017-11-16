@@ -1,0 +1,13 @@
+---
+genre: topics
+color:
+  0:
+    flash:
+      black  : 黑色
+      blue   : 藍色
+      green  : 綠色
+      orange : 橙子
+      pink   : 粉
+      red    : 紅
+      yellow : 黃色
+      white  : 白色
