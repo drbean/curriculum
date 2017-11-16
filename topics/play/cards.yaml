@@ -170,14 +170,14 @@ toy:
       baseball bat : 棒球棒
   1:
     flash:
-      hoop:                       箍
-      doll:                       娃娃
-      drum:                       鼓
-      teddy bear:                 泰迪熊
-      ball:                       球
-      kite:                       風箏
-      the doll has a teddy bear:  娃娃有一個玩具熊
-      the doll has a hoop:        娃娃有一個箍
+      hoop:       箍
+      doll:       娃娃
+      drum:       鼓
+      teddy bear: 泰迪熊
+      ball:       球
+      kite:       風箏
+      tricycle:   三輪車
+      bicycle:    自行車
 activity:
   bingo:
     -
