@@ -114,3 +114,72 @@ etiquette:
           answer: False
         - question: It is best to send it as quickly as possible when you still feel what you said is right.
           answer: False
+subject:
+  jigsaw:
+    appropriate:
+      identifier: subject
+      quiz:
+        - question: Complaint about customer sevice
+          option:
+            - good
+            - bad
+          answer: bad
+        - question: Customer service request
+          option:
+            - good
+            - bad
+          answer: good
+        - question: 國立清華大學於106年11月21日舉辦「2017學術暨研究倫理教育訓練系列之七：學術倫理首部曲」，請踴躍報名參加。
+          option:
+            - good
+            - bad
+          answer: bad
+        - question: 聯合大學-忘記密碼通知信
+          option:
+            - good
+            - bad
+          answer: good
+        - question: 八甲校區圖書館自修室開放時間公告
+          option:
+            - good
+            - bad
+          answer: good
+        - question: 國立聯合大學四十五周年校慶運動大會及校慶慶祝大會期間往返兩校區交通車時刻表  公告
+          option:
+            - good
+            - bad
+          answer: bad
+        - question: You ok? Might I help? Was speaking with Frank today, he said maybe you hurt your back.
+          option:
+            - good
+            - bad
+          answer: bad
+opening:
+  jigsaw:
+    0:
+      identifier: opening
+      quiz:
+        - question: I hope you have been doing well.
+          option:
+            - good
+            - bad
+          answer: bad
+        - question: Can you send me your latest catalogue?
+          option:
+            - good
+            - bad
+          answer: good
+        - question: The weather has been getting colder, so please take care.
+          option:
+            - good
+            - bad
+          answer: bad
+        - question: I am writing about order KN5490.
+          option:
+            - good
+            - bad
+          answer: good
+      
+      
+      
+        
