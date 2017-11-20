@@ -41,13 +41,13 @@ Identify yourself. Say, "I'm John."
 
 ## Uploading files
 
-Each person in your group can upload a file.
+Each person in your group can upload a file, if you can't find your partner and you do it with someone else.
 
 If you can't find your partner, do it with someone else, and upload the file. And send a message to Dr Bean.
 
 If your partner has already uploaded a file, don't overwrite his/her file. Upload your file. Send a message to Dr Bean, saying your partner has uploaded a different file. Tell him the name of your file.
 
-If your partner overwrites your file, overwrite his/her file. And send a message to Dr Bean, saying you overwrote the file.
+If your partner overwrites your file, send a message to Dr Bean, saying your partner overwrote your file.
 
 Remember to add the extension, .mp3, .m4a, etc to the end of the file you upload, so Dr Bean can listen to the file.
 
