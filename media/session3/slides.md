@@ -1,8 +1,19 @@
 % News English! Media English!\
-Session 3
+	Session 3
 % Dr Bean (高來圭)
-% Spring (Fall) Semester, 2012, 2013, 2014, 2015\
-Thu 19 Nov 14:45:44 CST 2015
+% Spring (Fall) Semester, 2012, 2013, 2014, 2015, 2016, 2017\
+	Tue Nov 21 10:08:11 CST 2017
+
+
+# Victoria's Secret
+
+# show in China
+
+- [How China made Victoria's Secret a pawn in its ruthless global game | Paul Mason | Opinion | The Guardian ](https://www.theguardian.com/commentisfree/2017/nov/20/victorias-secret-china-censorship-lingerie-gigi-hadid-gaffe-repressive-state)
+- [Kate Perry banned for supporting Taiwan independence](https://pagesix.com/2017/11/16/katy-perry-banned-from-china-as-victorias-secret-fashion-show-continues-to-crumble/)
+- [Google entertainment news](https://news.google.com/news/headlines/section/topic/ENTERTAINMENT?ned=us&hl=en&gl=US)
+
+# Weeks
 
 ## Week 10
 - [Starfish](http://www.washingtonpost.com/news/morning-mix/wp/2014/11/18/devastating-mass-killer-of-starfish-finally-identified-as-virus/?tid=hp_mm)
