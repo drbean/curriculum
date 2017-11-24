@@ -163,6 +163,11 @@ pet:
       - It runs on a toy inside its cage.                      _它運行在籠子裡的一個玩具上。_
       - Do you let it out of the cage?                         _你把它從籠子裡放出來了嗎？_
       - No, but sometimes it opens its cage door and gets out. _不，但有時會打開籠門，出門。_
+    -
+      - "B: I’m going to pick out a pet tomorrow. I don’t know what to get, Maggie. _G: I think a dog is a good pet for you, Jeffrey._"
+      - "B: Why do you say a dog is a good pet, Maggie? _G: Because dogs are always hungry. Just like you, Jeffrey. _"
+      - "B: I think you should get a cat. It’s a good pet for you, Maggie. _G: Why should I get a cat, Jeffrey? _"
+      - "G: Why should I get a cat, Jeffrey? _B: Because they sleep a lot. Like you, Maggie!_"
     - parrot friends feed cage bathe pets store goldfish dirty dog people buy things lives big glass bowl two cats three
     - Diane buy new many go pet store zoo farm big animals cages puppy sleep too_much parrot talk small quiet goldfish
     - Mary feed goldfish bathe dirty wait! why_not problem soap bad tell want hurt fish girl boy pet store buy
