@@ -186,12 +186,12 @@
   - |+
     B: I’m going to pick out a pet tomorrow. I don’t know what to get.
     G: I think a dog is a good pet for you.
-    B: Why do you say that, Maggie?
+    B: Why do you say that?
     G: Because dogs are always hungry. Just like you, Jeffrey. 
     B: I think you should get a cat. It’s a good pet for you.
     G: Why should I get a cat? 
     B: Because they sleep a lot. Like you!
-  - Maggie|Jeffrey|End
+  - Jeffrey|End
 
 ---
 -
