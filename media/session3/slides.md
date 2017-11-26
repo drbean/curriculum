@@ -7,7 +7,7 @@
 
 # Victoria's Secret
 
-# show in China
+## show in China
 
 - [How China made Victoria's Secret a pawn in its ruthless global game | Paul Mason | Opinion | The Guardian ](https://www.theguardian.com/commentisfree/2017/nov/20/victorias-secret-china-censorship-lingerie-gigi-hadid-gaffe-repressive-state)
 - [Kate Perry banned for supporting Taiwan independence](https://pagesix.com/2017/11/16/katy-perry-banned-from-china-as-victorias-secret-fashion-show-continues-to-crumble/)
@@ -35,7 +35,7 @@ Only a few students wrote stories that were not the story I gave you.
 
 But the lead sentences were not well composed.
 
-## Plagiarism
+# Plagiarism
 
 ## Students who plagiarized published news articles in the exam:
 
@@ -162,6 +162,12 @@ A ring dropped down a toilet by a 3-year-old boy 3 weeks ago was found 3 miles a
 - [Church,member,burial](http://blackamericaweb.com/2014/12/02/no-tithe-no-burial-pastor-refuses-to-bury-93-year-old-parishioner/)
 
 # Thanksgiving
+
+## Presidential turkey pardon
+
+- [The Presidential Turkey Pardon, the Most Awkward Tradition in American Politics - POLITICO Magazine ](https://www.politico.com/magazine/gallery/2015/11/presidential-turkey-pardon-photos-000558)
+- [National Thanksgiving Turkey Presentation - Wikipedia ](https://en.wikipedia.org/wiki/Presidential_turkey_pardon)
+
 
 ## The price of a turkey dinner at Thanksgiving--the investigation
 
