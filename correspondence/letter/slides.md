@@ -70,6 +70,8 @@ Salutation [Dear Sir/Madam]
 
 Complimentary close
 
-Signature [Andy Bi, see bottom of https://ws.moe.edu.tw/000/Upload/7/relfile/0/1495/3278ed48-601a-4ea8-8dac-517b1a548a49.pdf for English name, position]
+Signature [ Name: Andy Cheu-An Bi, Position: Director General ]
+
+ [If you are interested, see bottom of https://ws.moe.edu.tw/001/Upload/7/relfile/0/1495/3278ed48-601a-4ea8-8dac-517b1a548a49.pdf for English name, position]
 
 ## The end
