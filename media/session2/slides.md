@@ -50,6 +50,9 @@ http://images.google.com/images?q=news%20of%20the%20world&num=100
 
 [The Times](http://www.thetimes.co.uk)
 
+## Trump: "Fake news" 
+
+http://www.google.com.tw/search?q=%22Trump+Fake+news%22&num=100&gws_rd=ssl&tbm=isch&tbo=u&source=univ&sa=X
 
 # Bill O'Reilly
 
