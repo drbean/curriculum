@@ -179,7 +179,69 @@ opening:
             - good
             - bad
           answer: good
-      
-      
-      
-        
+closing:
+  scramble:
+    0:
+      identifier: closing scramble 0
+      sentence:
+        - Please feel free to_1 contact me, if there is anything I can do to_2 help.
+        - If I can be of any help in the future, please don't hesitate to contact me.
+        - If I can do anything to help you in the future, please let me know.
+    1:
+      identifier: closing scramble 1
+      sentence:
+        - Thank you in advance for your help.
+        - I look forward to hearing from you.
+        - I look forward to receiving your reply.
+        - Thank you in advance for your cooperation in this matter.
+    2:
+      identifier: closing scramble 2
+      sentence:
+        - If there is anything more I can do to_1 help, please don't hesitate to_2 contact me.
+        - If I can be of further assistance, please don't hesitate to contact me.
+        - If I can be of further assistance, please send me an email.
+    3:
+      identifier: closing scramble 3
+      sentence:
+        - If you have any questions about this matter, please let me know.
+        - If you have any_1 questions on this or any_2 other matter, please let me know.
+        - If you have any questions, please let me know.
+  drag:
+    0:
+      identifier: closing drag 0
+      sentence: Please feel free to_1 contact me, if there is anything I can do to_2 help.
+      clozed: Please|free|to_1|contact|if|there|is|anything|I|can|do|to_2|End
+    1:
+      identifier: closing drag 1
+      sentence: If I can be of any help in the future, please don't hesitate to contact me.
+      clozed: If|I|can|be|of|any|help|in|the|please|hesitate|to|contact|me.
+    2:
+      identifier: closing drag 2
+      sentence: If I can do anything to help you in the future, please let me know.
+      clozed: If|I|can|do|to|help|you|in|the|please|let|me|know.
+relocation:
+  match:
+    0:
+      identifier: relocation
+      pair:
+        -
+          - 1 (salutation)
+          - Dear Nina,
+        -
+          - 2 (opening)
+          - I am writing to inform you that our company will move to ..
+        -
+          - 3 (information)
+          - As the company has been developing rapidly ..
+        -
+          - 4 (information)
+          - The new office is much more spacious ..
+        -
+          - 5 (information)
+          - Though we are moving to a new site, our telephone number ..
+        -
+          - 6 (closing)
+          - We hope that we can maintain ..
+        -
+          - 7 (complimentary close)
+          - Sincerely yours,
