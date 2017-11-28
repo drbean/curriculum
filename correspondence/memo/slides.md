@@ -8,6 +8,10 @@ Translate the content and create a notice about elective courses using the Chine
 Look at how notices differ from memos at the top of page 34.
 Look at the example on page 33. Note the notice is not for staff, but students.
 
+## Elective course teacher recruitment
+
+In connection with the Language Center elective classes being taught in the 2018 Spring Semester, Hsiao-fang Cheng sends a memo on November 28, 2017 to all Language Center teachers asking them if they wish to teach those classes. Write the Date, To, From, and Subject (as above in the header/title to this explanation of the exercise) lines only.
+
 ## cover email for Kendall visit
 
 You are Tom Farrell, the chairperson of the Business Management Department. Henry Kendall, a top businessman is visiting the department. All the staff know about the visit, but they may not know much about Kendall. For their information, you send them kendall.pdf, a file with some highlights of Kendall's career.
