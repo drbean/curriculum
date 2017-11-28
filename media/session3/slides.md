@@ -95,6 +95,8 @@ They must be questions that you think of after seeing the headline, not question
 Questions which are answered in your lead sentence are probably not interesting questions.
 
 
+# Ring down toilet
+
 ## Ring down toilet story
 
 - Who: John Doe, Jr, 3 years old, Lyle Bloom (Sanitation Engineer for the Water Resources Department)
@@ -110,7 +112,7 @@ Questions which are answered in your lead sentence are probably not interesting 
 [http://bit.ly/11gofyH](http://bit.ly/11gofyH) 
 - [Newspaper account](http://www.huffingtonpost.com/2014/11/20/ring-found-in-sewer-union-city_n_6186094.html)
 - [2nd Newspaper account](http://www.mercurynews.com/2014/11/18/union-city-workers-rescue-familys-heirloom-ring-after-tots-toilet-trick/)
-
+- [Different flushed ring,sewer](https://www.cnsnews.com/news/article/heirloom-ring-flushed-sewer-workers-retrieve-it)
 
 
 ## Ring down toilet headline
@@ -137,18 +139,22 @@ A ring dropped down a toilet by a 3-year-old boy 3 weeks ago was found 3 miles a
 
 4. Crews flushed the sewer lines and discovered the ring after vacuuming up debris. Nesgis equated the discovery to finding a needle in a haystack.
 
-## Week 11 stories
+# Week 11 stories
 
-- [Old bird ](http://news.yahoo.com/oldest-known-seabird-back-midway-atoll-near-hawaii-012828760.html)
+## metal in stomach
+
+- [metal in stomach in France](https://www.livescience.com/60588-doctors-remove-100-pieces-of-metal-from-stomach.html)
+- [metal in stomach in India](https://www.livescience.com/61030-man-swallows-coins-nails.html)
+
+## old stories
+
+
+- [Old bird ](https://www.fws.gov/refuge/Midway_Atoll/wildlife_and_habitat/Wisdom_Profile.html)
 - [Brains](http://news.yahoo.com/man-pleads-guilty-stealing-human-brains-indiana-medical-232004992.html)
-- [Wedding thief](http://news.yahoo.com/woman-sought-series-california-wedding-thefts-024053639.html)
-- [Half marathon, full marathon](http://news.yahoo.com/pennsylvania-teen-misses-turn-accidently-runs-full-marathon-191911463.html)
+- [Accidental marathon]( https://www.oddee.com/item_99681.aspx)
 
-- [4-year-old,15-meter tree, rescue](http://news.yahoo.com/4-old-rescued-climbing-50-feet-tree-171025836.html)
+- [4-year-old,15-meter tree, rescue](https://www.youtube.com/watch?v=mFQ0ApcWvzs)
 - [Tractor-trailer](http://images.google.com/images?q=tractor-trailer&num=100a)
-- [Tractor-trailer, turkeys, donation](http://news.yahoo.com/25-000-pounds-frozen-turkeys-spill-highway-162632676.html)
-- [Tofu turkeys, pardon](http://news.yahoo.com/seattle-tofu-turkeys-thanksgiving-pardons-182959290.html)
-- [Flushed ring,sewer](http://news.yahoo.com/heirloom-ring-flushed-sewer-workers-retrieve-230903459.html)
 
 ## Week 12 stories
 - [Donkey](http://news.yahoo.com/oklahoma-officer-drives-miniature-donkey-safety-062049574.html)
@@ -163,11 +169,17 @@ A ring dropped down a toilet by a 3-year-old boy 3 weeks ago was found 3 miles a
 
 # Thanksgiving
 
+## Events
+
+- [Macy's Thanksgiving Parade](https://www.yahoo.com/news/91st-macy-thanksgiving-day-parade-slideshow-wp-190723523.html)
+
 ## Presidential turkey pardon
 
 - [The Presidential Turkey Pardon, the Most Awkward Tradition in American Politics - POLITICO Magazine ](https://www.politico.com/magazine/gallery/2015/11/presidential-turkey-pardon-photos-000558)
 - [National Thanksgiving Turkey Presentation - Wikipedia ](https://en.wikipedia.org/wiki/Presidential_turkey_pardon)
+- [Tofu turkeys, pardon](https://www.seattletimes.com/seattle-news/seattle-mayor-pardons-tofu-turkey-ahead-of-thanksgiving/)
 
+- [Tractor-trailer, turkeys, donation](https://www.nbcbayarea.com/news/local/Turkeys-Diesel-Spill-on-Road-in-San-Ramon-Big-Rig-Dublin-CHP-282402271.html)
 
 ## The price of a turkey dinner at Thanksgiving--the investigation
 
