@@ -379,7 +379,20 @@
     B: Why don't we ride together tomorrow?
     G: Perfect! That sounds fun.
   - play|museum|actors|muscles|bike|End
-
+-
+  - "environment-2"
+  - "environment-2"
+  - "topics"
+  - "all"
+  - |+
+    B: Hey, I’m starting an Earth Club. You should join!
+    G: Earth Club? What’s that?
+    B: We’ll do things like collecting newspapers for recycling.
+    G: I already do that. 
+    B: Well, we’re also going to raise money with yard sales. It’s a way to reuse old things. It also reduces garbage.
+    G: That sounds fun! What will we use the money for?
+    B: We’ll take trips to beaches and forests and clean them up.
+  - starting an Earth Club|collecting newspapers|raise money|yard sales|End
 
 
 ---
