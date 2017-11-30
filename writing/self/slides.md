@@ -39,6 +39,12 @@ You told some other students about their blind and unknown selves. Were you tell
 
 The blind and unknown areas of our selves are bigger than the open and hidden areas. Try to remember experiences you have had that have told you things about yourself that surprised you. Write about them. Write about characteristics you, your family and others didn't know you had. Write about the person you would like to become, using qualities you didn't know you had.
 
+### alternative prompt
+
+Remember experiences that showed qualities you didn't know you had.
+Write about qualities that you would like to develop in the future.
+Write about problems of the reports of the blind self.
+
 ## Improving my EQ and using it to do good
 
 You wrote well about your EQ and you evaluated your EQ well. 
@@ -47,6 +53,12 @@ Now try to remember experiences that increased your EQ. Write about those experi
 ### IN ADDITION:
 
 Write about how you have used your EQ to help you in your own life and to help other people. Try to remember experiences and also write about things you could do now with your higher EQ to help people in the future.
+
+### alternative prompt
+
+Remember experiences that showed you have/don't have EQ.
+Write about ways that you improved you EQ in the past & how you can improve it in the future.
+Write about ways that you have helped people in the past with your EQ and how you can help them in the future.
 
 For each topic: At the top of each page, write the titles listed "Unknown self" or "EQ".
 
