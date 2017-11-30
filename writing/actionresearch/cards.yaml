@@ -1,17 +1,85 @@
 genre: writing
 story:
   jigsaw:
-    true:
+    money:
+      identifier: money
+      quiz:
+        - question: money problem
+          option:
+            - a one-time event
+            - a recurring situation
+          answer: a recurring situation
+    accident:
+      identifier: accident
+      quiz:
+        - question: accident problem
+          option:
+            - a one-time event
+            - a recurring situation
+          answer: a one-time event
+    rain:
+      identifier: rain
+      quiz:
+        - question: rain problem
+          option:
+            - a one-time event
+            - a recurring situation
+          answer: a one-time event
+        
+        
+    0:
       identifier: story true
       quiz:
-        - question: This essay is a story about a one-time event, rather than a description of a recurring situation
-          answer: True
-    false:
-      identifier: story false
-      quiz:
-        - question: This essay is a story about a one-time event, rather than a description of a recurring situation
-          answer: False
-      
+        - question: "When I shopped.I bought a headphones.  I follow the plan to found favorite brands and price comparison.  But,I had not tried the headphones."
+          option:
+            - a one-time event
+            - a recurring situation
+          answer: a one-time event
+        - question: "Last weekend, we went to the sales center of Mazda, evaluated the two models, and I didn't buy it again. The salesperson of the car let me to consider the decision."
+          option:
+            - a one-time event
+            - a recurring situation
+          answer: a one-time event
+        - question: "I draw up a shopping plan.  When I shopping, I hope the shopping plan can give me a help.  First,I must find my favorite brand.  Then,compare commodity of price."
+          option:
+            - a one-time event
+            - a recurring situation
+          answer: a recurring situation
+        - question: "But my work is needed, so I went to many shopping malls to find my favorite computer, and ask the price. "
+          option:
+            - a one-time event
+            - a recurring situation
+          answer: a one-time event
+        - question: "I'm a very like shopping people , often have endless clothes, online shopping developed now, you go shopping didn't go out, but you can't see the actual quality,"
+          option:
+            - a one-time event
+            - a recurring situation
+          answer: a recurring situation
+        - question: "I wanted to buy a pair of shoes. I think it is a good time to buy it in 1111 Shopping Festival due to the big discount. "
+          option:
+            - a one-time event
+            - a recurring situation
+          answer: a one-time event
+        - question: "I often use online shopping when I'm too lazy to go out.  But often buy too much at once, or else the size doesn't fit."
+          option:
+            - a one-time event
+            - a recurring situation
+          answer: a recurring situation
+        - question: "About my shopping experience,because I am a very sporty person,so I bought mostly sporting goods,for example, shoes or jerseys, ball pants,"
+          option:
+            - a one-time event
+            - a recurring situation
+          answer: a recurring situation
+        - question: "sometimes I buy something to ask the staff to eat or share interesting things with them.After a long time I became good friends and good customers with them .When there is a new product, they think of me first."
+          option:
+            - a one-time event
+            - a recurring situation
+          answer: a recurring situation
+        - question: "So first of all, you need to compare each seller and and products with a wide range of price so you can find the most cost-effective one. Eventually your shopping cart will be full of products, and then you will find out there are some products aren't you really need"
+          option:
+            - a one-time event
+            - a recurring situation
+          answer: a recurring situation
 goal:
   jigsaw:
     true:
