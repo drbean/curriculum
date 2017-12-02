@@ -192,7 +192,20 @@
     G: Why should I get a cat? 
     B: Because they sleep a lot. Like you!
   - Jeffrey|End
-
+-
+  - "pet-2"
+  - "pet-2"
+  - "topics"
+  - "all"
+  - |+
+    G: Guess what! I have a pet now! I got it yesterday.
+    B: Great! Did you get a cat?
+    G: No, a parrot. Parrots are birds that can talk. Its name is Polly.
+    B: What does Polly say?
+    G: It says, “How are you?” and “Thank you.” I’m going to teach it more.
+    B: Are parrots good pets?
+    G: Yes, they’re gentle and pretty. But they make a lot of noise!
+  - Guess|parrot|Polly|Polly|pretty|But|noise|End
 ---
 -
   - genre
