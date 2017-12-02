@@ -1,6 +1,6 @@
 % Writing--Action Research!
 % Dr Bean (高來圭)
-- [% Wed Nov 30 09:54:01 CST 2016 at URL: ](https://github.com/drbean/curriculum/tree/master/writing)
+% [% Wed Nov 30 09:54:01 CST 2016 at URL: ](https://github.com/drbean/curriculum/tree/master/writing)
 
 
 # Trying to do something, seeing how it goes, writing about it
@@ -205,3 +205,17 @@ Is K-POP getting better or worse? Are earlier groups better?
 a. better
 b. worse
 c. no opinion
+
+# Homework
+
+## Trying it out--Introduction, Method, Results, Discussion
+
+You thought of some new food idea. Now try it out, see if it works, and write it up in 100 words, using the following titled sections.
+
+Introduction: The idea. Make sure you say what your goal is. Write two questions that you want the essay to answer.
+
+Method: What you did.
+
+Results: What happened. Answer your questions.
+
+Discussion: What you think.
