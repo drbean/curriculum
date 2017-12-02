@@ -82,16 +82,26 @@ story:
           answer: a recurring situation
 goal:
   jigsaw:
-    true:
-      identifier: goal true
+    0:
+      identifier: spaghetti and drink
       quiz:
-        - question: This essay has a goal. It says what the goal is. So, it will be easy for us to decide whether the writer was successful or not, trying to do something, after we hear what happened.
-          answer: True
-    false:
-      identifier: goal false
-      quiz:
-        - question: This essay has a goal. It says what the goal is. So, it will be easy for us to decide whether the writer was successful or not, trying to do something, after we hear what happened.
-          answer: False
+        - question: |+
+            Cooking spaghetti first time is so hard.first,put the nood in the water.second,you can buy the sauce in the store . However,I made the tomato sauce by myself .it really makes my kitchen in a mess .In the end,put the noodles in the paste. And pour the sauce on top of it.
+
+            Does this essay have a goal? Does it say what the goal is? Will it be easy for us to decide whether the writer was successful or not, trying to do something, after we hear what happened?
+          option:
+            - goal-oriented
+            - not goal-oriented
+          answer: not goal-oriented
+        - question: |+
+            Introduction: Wax gourd drink tastes great, but it's a bit taste too sweet. Can I mix in some kind of drink to let it not too sweet? How about mix in the milk or soybean milk?
+            Method: Two mugs of wax gourd drink. One mug mix in the milk,the other mix in the soybean milk.
+            
+            Does this essay have a goal? Does it say what the goal is? Will it be easy for us to decide whether the writer was successful or not, trying to do something, after we hear what happened?
+          option:
+            - goal-oriented
+            - not goal-oriented
+          answer: goal-oriented
       
 rationale:
   jigsaw:
@@ -107,10 +117,35 @@ rationale:
            - B
            - C
           answer: A
+    A:
+      identifier: rationale A
+      quiz:
+        - question: |+
+            I like watching movies,but I usually go with my friends or my family. One day I suddenly had a idea. I went to see the hunger game:Mockingjay ¡VPART2 alone.
+            \n
+            In fact, when I am a person standing in the crowd, I was watching what others are doing. Some are lovers, but also with friends, and between talking and laughing. At that time feeling a bit lonely, but can concentrate on the film content is also good.
+            \n
+            A person watching movies and with friends to see there is not the same feeling, a person is free and can precipitate himself. Do not need to care about other people's feelings.
+            A. We do something but do not expect, look forward or plan any effect, eg brushing teeth.
+            B. We have good luck and something happens which we are happy about, eg finding a new food taste.
+            C. We DO plan an effect, or look forward to a certain result.
+          option:
+           - A
+           - B
+           - C
+          answer: A
     B:
       identifier: rationale B
       quiz:
         - question: |+
+            One day,I take a walk with my parents besides the port at night.
+
+            Suddenly,we hear the beautiful melody and then we look for where the sound come from.We found the sound to originate an the old man play the saxophone.
+
+            We enjoyed the music that he play.There something  emotion that he want to use the music to express.And the scenery of the port with his music to make some poignant feeling.
+
+            That night was a wonderful night and it is a good experience.
+
             A. We do something but do not expect, look forward or plan any effect, eg brushing teeth.
             B. We have good luck and something happens which we are happy about, eg finding a new food taste.
             C. We DO plan an effect, or look forward to a certain result.
