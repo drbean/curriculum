@@ -208,7 +208,7 @@ indirect:
       identifier: indirect 0
       A: Jeff's friend, Fred asks you to tell Jeff, your boss, about a party.
       B: You ask Jeff's assistant, Ashley to tell your friend Jeff about a party.
-      C: Your assistant, Ashley tells you that your friend Fred wants you to know about a party.
+      C: Your assistant, Ashley tells you that your friend Fred called to tell you about a party.
       quiz:
         - question: A
           option:
@@ -258,7 +258,7 @@ indirect:
           answer: Ashley
         - question: Jeff is Molly's son
           answer: True
-        - question: Jeff is having a birthday
+        - question: Jeff is having a birthday soon.
           answer: True
     2:
       identifier: indirect 2
@@ -368,7 +368,7 @@ indirect:
             - Jeff
             - Tom
           answer: Tom
-        - question: Jeff is studying with Tom, his teacher.
+        - question: Jeff has a teacher, Tom.
           answer: True
         - question: Ashley tells Jeff that Tom wants him to come on Friday.
           answer: True
