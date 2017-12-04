@@ -1,0 +1,241 @@
+---
+genre: intermediate
+grammar:
+  jigsaw:
+    0:
+      identifier: grammar
+      quiz:
+        - question: Would you mind ..
+          option:
+            - help
+            - helped
+            - helping
+          answer: helping
+        - question: I was wondering ..
+          option:
+            - I could
+            - if I could
+            - if I would
+          answer: if I could
+        - question: Which to start? .. I use your cell phone?
+          option:
+            - Is it OK if
+            - Would
+            - Do you mind
+          answer: Is it OK if
+        - question: Would you mind if I 
+          option:
+            - use
+            - using
+            - used
+          answer: used
+        - question: Could you ..
+          option:
+            - lend
+            - lending
+            - lent
+          answer: lend
+        - question: Which starter? .. you buy me a snack?
+          option:
+            - Would you mind
+            - Can
+            - Is it OK if
+          answer: Can
+jana:
+  jigsaw:
+    0:
+      identifier: jana
+      quiz:
+        - question: What she asks Andy to loan her.
+          option:
+            - a camera
+            - a car
+            - a shirt
+          answer: a car
+        - question: Whether Andy agrees to loan her the thing she asked
+          option:
+            - Yes
+            - No
+          answer: No
+        - question: What she asks Carrie to loan her.
+          option:
+            - a camera
+            - a car
+            - a shirt
+          answer: a shirt
+        - question: Whether Carrie agrees to loan her the thing she asked
+          option:
+            - Yes
+            - No
+          answer: Yes
+people:
+  jigsaw:
+    0:
+      identifier: 3 people request
+      quiz:
+        - question: What Tina requests
+          option:
+            - loan of a bread maker
+            - loan of a camera
+            - care of a bird
+          answer: loan of a camera
+        - question: Whether Robert agrees to do the thing Tina asked
+          option:
+            - Yes
+            - No
+          answer: Yes
+        - question: What Kyle requests
+          option:
+            - loan of a bread maker
+            - loan of a camera
+            - care of a bird
+          answer: loan of a bread maker
+        - question: Whether Maggie agrees to do the thing Kyle asked
+          option:
+            - Yes
+            - No
+          answer: No
+        - question: What Paul/Phil requests
+          option:
+            - loan of a bread maker
+            - loan of a camera
+            - care of a bird
+          answer: care of a bird
+        - question: Whether Li-Ling agrees to do the thing Paul/Phil asked
+          option:
+            - Yes
+            - No
+          answer: Yes
+verb:
+  jigsaw:
+    0:
+      identifier: verb
+      quiz:
+        - question: NOT .. a gift
+          option:
+            - accept
+            - do
+            - give
+            - receive
+          answer: do
+        - question: NOT .. a phone call
+          option:
+            - do
+            - make
+            - receive
+            - return
+          answer: do
+        - question: NOT .. a favor
+          option:
+            - ask for
+            - do
+            - make
+            - return
+          answer: make
+        - question: NOT .. an invitation
+          option:
+            - accept
+            - offer
+            - receive
+            - turn down
+          answer: offer
+        - question: NOT .. a request
+          option:
+            - accept
+            - decline
+            - make
+            - offer
+          answer: offer
+        - question: NOT .. a complaint
+          option:
+            - accept
+            - do
+            - make
+            - receive
+          answer: do
+        - question: NOT .. a compliment
+          option:
+            - do
+            - give
+            - receive
+            - return
+          answer: do
+        - question: NOT .. an apology
+          option:
+            - accept
+            - do
+            - offer
+            - owe
+          answer: do
+tell:
+  jigsaw:
+    0:
+      identifier: tell/ask
+      quiz:
+        - question: 1.
+          option:
+            - ask
+            - tell
+          answer: tell
+        - question: 2.
+          option:
+            - ask
+            - tell
+          answer: ask
+        - question: 3.
+          option:
+            - ask
+            - tell
+          answer: tell
+        - question: 4.
+          option:
+            - ask
+            - tell
+          answer: tell
+        - question: 5.
+          option:
+            - ask
+            - tell
+          answer: ask
+        - question: 6.
+          option:
+            - ask
+            - tell
+          answer: ask
+indirect:
+  jigsaw:
+    0:
+      identifier: indirect
+      A: Fred asks you to tell Jeff, your boss, that Tony is having a party.
+      B: You ask Ashley to tell Jeff, your friend that Tony is having a party.
+      C: Ashley, your assistant, tells you that Fred, your friend wants you to know Tony is having a party.
+      quiz:
+        - question: A
+          option:
+            - Ashley
+            - Fred
+            - Jeff
+            - Tony
+          answer: Ashley
+        - question: B
+          option:
+            - Ashley
+            - Fred
+            - Jeff
+            - Tony
+          answer: Fred
+        - question: C
+          option:
+            - Ashley
+            - Fred
+            - Jeff
+            - Tony
+          answer: Jeff
+        - question: Fred is putting on the party
+          answer: False
+        - question: Fred is Jeff's friend
+          answer: True
+        
+        
+
+
