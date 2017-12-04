@@ -5,19 +5,19 @@ formalmemo:
     0:
       identifier: formal
       quiz:
-        - question: 3 emails' formality, p 31: Neutral
+        - question: "3 emails' formality, p 31: Neutral"
           option:
            - First
            - Second
            - Third
           answer: First
-        - question: 3 emails' formality, p31: Formal
+        - question: "3 emails' formality, p31: Formal"
           option:
            - First
            - Second
            - Third
           answer: Third
-        - question: 3 emails' formality, p31: Informal
+        - question: "3 emails' formality, p31: Informal"
           option:
            - First
            - Second
@@ -87,9 +87,6 @@ indicator:
            - Can
            - Hi
           answer: Please
-    1:
-      identifier: indicator 1
-      quiz:
         - question: An indicator of informality
           option:
            - Pat
@@ -130,7 +127,7 @@ list:
       quiz:
         - question: The list at the top on page 33 doesn't follow the recommendations for lists.
           answer: False
-        - question: The unobserved recommendation is--
+        - question: The unobserved recommendation in the list at the top on page 33 is--
           option:
             -   1. introductory information
             -   2. double-spacing
@@ -140,17 +137,28 @@ list:
           answer: 5. None of the above
         - question: |+
             The problem with the following list is:
-              1. introductory information
-              2. double-spacing
-              3. Same indentation of list items
-              4. indentation of following lines
-            5. None of the above
+            __1. introductory information
+            __2. Same indentation of list items
+            __3. indentation of following lines
+            _4. None of the above
           option:
             -   1. introductory information
-            -   2. double-spacing
-            -   3. Same indentation of list items
-            -   4. indentation of following lines
-            - 5. None of the above
-          answer: 3. Same indentation of list items 
+            -   2. Same indentation of list items
+            -   3. indentation of following lines
+            - 4. None of the above
+          answer: 2. Same indentation of list items 
+        - question: |+
+            The problem with the following list is:
+              1. introductory information
+              2. Same indentation of list items
+              3. indentation of
+            following lines
+              4. None of the above
+          option:
+            -   1. introductory information
+            -   2. Same indentation of list items
+            -   3. indentation of following lines
+            -   4. None of the above
+          answer: 3. indentation of following lines
         
         
