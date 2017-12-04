@@ -18,3 +18,12 @@ In the body only 2 sentences are necessary
 Give the attached file a name, eg 
 
 Attachment: proposal.pdf
+
+## cover email for Kendall visit
+
+You are Tom Farrell, the chairperson of the Business Management Department. Henry Kendall, a top businessman is visiting the department. All the staff know about the visit, but they may not know much about Kendall. For their information, you send them kendall.pdf, a file with some highlights of Kendall's career.
+
+Write the cover email for this file. It only needs to be one paragraph. There is no need for instructions, or to invite feedback, or questions.
+
+Write the To:, From, and Subject: lines. In the body, write one paragraph. At the end, write Attachment: and the name of the file.
+
