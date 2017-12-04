@@ -205,35 +205,172 @@ tell:
 indirect:
   jigsaw:
     0:
-      identifier: indirect
-      A: Fred asks you to tell Jeff, your boss, that Tony is having a party.
-      B: You ask Ashley to tell Jeff, your friend that Tony is having a party.
-      C: Ashley, your assistant, tells you that Fred, your friend wants you to know Tony is having a party.
+      identifier: indirect 0
+      A: Jeff's friend, Fred asks you to tell Jeff, your boss, about a party.
+      B: You ask Jeff's assistant, Ashley to tell your friend Jeff about a party.
+      C: Your assistant, Ashley tells you that your friend Fred wants you to know about a party.
       quiz:
         - question: A
           option:
             - Ashley
             - Fred
             - Jeff
-            - Tony
           answer: Ashley
         - question: B
           option:
             - Ashley
             - Fred
             - Jeff
-            - Tony
           answer: Fred
         - question: C
           option:
             - Ashley
             - Fred
             - Jeff
-            - Tony
           answer: Jeff
-        - question: Fred is putting on the party
+        - question: The party is Jeff's. He is putting on the party.
           answer: False
         - question: Fred is Jeff's friend
+          answer: True
+    1:
+      identifier: indirect 1
+      A: You ask Ashley, Jeff's assistant, to ask Jeff, your son what he wants for his birthday.
+      B: Ashley, your assistant, tells you that your mother, Molly wants to know what you want for your birthday.
+      C: Jeff's mother, Molly wants you to tell Jeff, your boss that she wants to know what he wants for his birthday.
+      quiz:
+        - question: A
+          option:
+            - Ashley
+            - Jeff
+            - Molly
+          answer: Molly
+        - question: B
+          option:
+            - Ashley
+            - Jeff
+            - Molly
+          answer: Jeff
+        - question: C
+          option:
+            - Ashley
+            - Fred
+            - Jeff
+          answer: Ashley
+        - question: Jeff is Molly's son
+          answer: True
+        - question: Jeff is having a birthday
+          answer: True
+    2:
+      identifier: indirect 2
+      A: Ashley, your assistant, tells you that your girlfriend, Gina wants to apologize for forgetting about your date.
+      B: Jeff's girlfriend, Gina wants you to apologize to Jeff, your boss, for her because she forgot about their date.
+      C: You ask Ashley, Jeff's assistant, to apologize to Jeff, your boyfriend, for you because you forgot about your date with him.
+      quiz:
+        - question: A
+          option:
+            - Ashley
+            - Gina
+            - Jeff
+          answer: Jeff
+        - question: B
+          option:
+            - Ashley
+            - Gina
+            - Jeff
+          answer: Ashley
+        - question: C
+          option:
+            - Ashley
+            - Gina
+            - Jeff
+          answer: Gina
+        - question: Jeff and Gina had planned a date.
+          answer: True
+        - question: Jeff forgot about the date.
+          answer: False
+    3:
+      identifier: indirect 3
+      A: Jeff's sister, Cindy wants you to ask Jeff, your boss, to pick her up after basketball practice.
+      B: You ask Ashley, Jeff's assistant, to ask Jeff, your brother, if he can pick you up after basketball practice.
+      C: Ashley, your assistant, tells you that your sister, Cindy wants you to pick her up after basketball practice.
+      quiz:
+        - question: A
+          option:
+            - Ashley
+            - Cindy
+            - Jeff
+          answer: Ashley
+        - question: B
+          option:
+            - Ashley
+            - Cindy
+            - Jeff
+          answer: Cindy
+        - question: C
+          option:
+            - Ashley
+            - Cindy
+            - Jeff
+          answer: Jeff
+        - question: Jeff and Ashley are brother and sister.
+          answer: False
+        - question: Jeff asks Ashley to pick Cindy up.
+          answer: False
+    4:
+      identifier: indirect 4
+      A: You ask Ashley, Jeff's assistant, to ask Jeff, who works for you, to finish his report quickly.
+      B: Ashley, your assistant, tells you that your boss, Bruce wants you to finish your report quickly.
+      C: Jeff's boss, Bruce asks you to tell your boss, Jeff to finish his report quickly.
+      quiz:
+        - question: A
+          option:
+            - Ashley
+            - Bruce
+            - Jeff
+          answer: Bruce
+        - question: B
+          option:
+            - Ashley
+            - Bruce
+            - Jeff
+          answer: Jeff
+        - question: C
+          option:
+            - Ashley
+            - Bruce
+            - Jeff
+          answer: Ashley
+        - question: Jeff wants Bruce to finish writing his report for him.
+          answer: False
+        - question: Ashley tells Jeff that Bruce wants him to finish the report.
+          answer: True
+    5:
+      identifier: indirect 5
+      A: Ashley, your assistant, tells you that your teacher, Tom wants you to come on Friday.
+      B: Jeff's teacher, Tom asks you to ask your boss, Jeff if he can come to class on Friday.
+      C: You ask Ashley, Jeff's assistant, to ask Jeff, who is your student, if he can come to class on Friday.
+      quiz:
+        - question: A
+          option:
+            - Ashley
+            - Jeff
+            - Tom
+          answer: Jeff
+        - question: B
+          option:
+            - Ashley
+            - Jeff
+            - Tom
+          answer: Ashley
+        - question: C
+          option:
+            - Ashley
+            - Jeff
+            - Tom
+          answer: Tom
+        - question: Jeff is studying with Tom, his teacher.
+          answer: True
+        - question: Ashley tells Jeff that Tom wants him to come on Friday.
           answer: True
         
         
