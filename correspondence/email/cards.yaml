@@ -204,13 +204,13 @@ closing:
       identifier: closing scramble 3
       sentence:
         - If you have any questions about this matter, please let me know.
-        - If you have any_1 questions on this or any_2 other matter, please let me know.
+        - If you have any questions on this or any other matter, please let me know.
         - If you have any questions, please let me know.
   drag:
     0:
       identifier: closing drag 0
-      sentence: Please feel free to_1 contact me, if there is anything I can do to_2 help.
-      clozed: Please|free|to_1|contact|if|there|is|anything|I|can|do|to_2|End
+      sentence: Please feel free to contact me, if there is anything I can do to help.
+      clozed: Please|free|to|contact|if|there|is|anything|I|can|do|to|End
     1:
       identifier: closing drag 1
       sentence: If I can be of any help in the future, please don't hesitate to contact me.
