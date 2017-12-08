@@ -11,31 +11,45 @@ inquiry:
       sentence:
         - I am wondering if you could send me a copy of your latest catalogue.
 attach:
-  scramble:
+  drag:
     0:
       identifier: attach0
-      sentence:
-        - Please find attached the catalogue which you requested on July 16.
+      sentence: Please find attached the catalogue which you requested on July 16.
+      clozed: Please|find|attached|the|catalogue|which|you|requested|on|July|16.
     1:
       identifier: attach1
-      sentence:
         - Dr Bean asked me to send you this file. Please find it attached.
+      sentence: Dr Bean asked me to send you this file. Please find it attached.
+      clozed: Dr|Bean|asked|me|to|send|you|this|file.|Please|find|it|attached.
     2:
       identifier: attach2
-      sentence:
-        - Could you confirm that you have received this file before Monday?
+      sentence: Could you confirm that you have received this file before Monday?
+      clozed: Could|you|confirm|that|you|have|received|this|file|before|Monday?
     3:
       identifier: attach3
-      sentence:
-        - I am attaching our catalog to this message.
+      sentence: I am attaching our catalog to this message.
+      clozed: I|am|attaching|our|catalog|to|this|message.
     4:
       identifier: attach4
-      sentence:
-        - Please find attached our latest brochure.
+      sentence: Please find attached our latest brochure.
+      clozed: Please|find|attached|our|latest|brochure.
     5:
       identifier: attach5
-      sentence:
-        - I have just received the photographs which you attached to your message.
+      sentence: I have just received the photographs which you attached to your message.
+      clozed: I|have|just|received|the|photographs|which|you|attached|to|your|message.
+    6:
+      identifier: attach6
+      sentence: I am attaching it to this message.
+      clozed: I|am|attaching|it|to|this|message.
+    7:
+      identifier: attach7
+      sentence: I am attaching it to this message.
+      clozed: I|am|attaching|it|to|this|message.
+    8:
+      identifier: attach8
+      sentence: I am attaching the file to this message.
+      clozed: I|am|attaching|the|file|to|this|message.
+
 article:
   jigsaw:
     0:
