@@ -411,3 +411,8 @@ environment:
       - Riding your bicycle is good for your muscles. _騎自行車對你的肌肉有好處。_
       - You should ride your bike, too. _你也應該騎自行車。_
       - Why don't we ride together tomorrow? _我們明天為什麼不一起騎呢？_
+    -
+      - "B: I’m starting an Earth Club. _G: Earth Club? What’s that?_"
+      - "B: We’ll do things like collecting newspapers for recycling. _G: I already collect newspapers._"
+      - "B: We’re going to raise money with yard sales. It’s a way to reuse old things. And it also reduces garbage. _G: Yard sales sounds fun!_"
+      - "G: What will we use the money for? _B: We’ll take trips to beaches and forests and clean them up._"
