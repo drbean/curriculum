@@ -117,3 +117,19 @@ acknowledge:
         - We have received your email of December 5 with the proposal for "Healthy Now." We will read it and reply before December 12.
         - We have received your email of December 5 about the proposal for "Healthy Now," but I'm afraid there was no attachment with the message.
         - We have received your email of December 5 about the proposal for "Healthy Now," but I'm afraid the attachment won't open on my computer. Could you send it again in a different format?
+problem:
+  drag:
+    0:
+      identifier: problem
+      sentences:
+        -
+          sentence: Thank you for your email of December 11, but I'm afraid there was no file attached to the email. Could you send your email again?
+          clozed: Thank|you|for|your|email|of|December|11|but|I'm|afraid|there|was|no|file|attached|to|the|email|Could|you|send|your|email|again?
+        -
+          sentence: I have received the email you sent this morning, but I can't open the attachment on my computer. Can you send it again as a PDF file?
+          clozed: I|have|received|the|email|you|sent|this|morning|but|I|open|the|attachment|on|my|computer|Can|you|send|it|again|as|a|PDF|file?
+        -
+          sentence: Sorry for the previous email. I forgot to attach the file to it. Here it is again. Can you confirm that you have received the attachment?
+          clozed: Sorry|for|the|previous|email|I|forgot|to|attach|the|file|to|Here|it|is|again|Can|you|confirm|that|you|have|received|the|attachment?
+        
+        
