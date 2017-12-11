@@ -412,3 +412,19 @@ heater:
           -
             - Please do  ...
             - polite expression
+opening:
+  drag:
+    0:
+      identifier: opening
+      sentences:
+        -
+          sentence: I am interested in your laptop Model A12+, and am wondering if you can send me a price list.
+          clozed: I|am|interested|in|your|laptop|Model|A12+|and|am|wondering|if|you|can|send|me|a|price|list.
+        -
+          sentence: I saw your advertisement in the Taipei Times on April 4 for the 2017 Food Exhibition and would like to know if you have further information.
+          clozed: I|saw|your|advertisement|in|the|Taipei|Times|on|April|4|for|the|2017|Food|Exhibition|and|would|like|to|know|if|you|have|further|information.
+        -
+          sentence: I am writing to inquire about the 2017 Book Exhibit in Taipei. I would like to know if you are organizing this event.
+          clozed: I|am|writing|to|inquire|about|the|2017|Book|Exhibit|in|Taipei|I|would|like|to|know|if|you|are|organizing|this|event.
+        
+  
