@@ -157,9 +157,10 @@ A ring dropped down a toilet by a 3-year-old boy 3 weeks ago was found 3 miles a
 - [Tractor-trailer](http://images.google.com/images?q=tractor-trailer&num=100a)
 
 ## Week 12 stories
+- [Tiger Woods, Trump golf](http://golfweek.com/2017/11/25/exclusive-brad-faxons-takeaways-from-a-round-with-tiger-woods-and-donald-trump/)
 - [Donkey](http://news.yahoo.com/oklahoma-officer-drives-miniature-donkey-safety-062049574.html)
 - [Lottery](http://news.yahoo.com/modesto-man-wins-10m-lottery-minutes-winning-1k-060137629.html)
-- [Chimney](http://news.yahoo.com/intruder-dies-california-chimney-homeowner-lights-fire-192956744.html)
+- [Chimney](https://www.reuters.com/article/us-california-chimney/intruder-dies-in-california-chimney-after-homeowner-lights-fire-idUSKBN0TI0UC20151130)
 - [Closing](http://monitor.icef.com/2015/04/taiwan-plans-to-close-up-to-a-third-of-its-universities-in-the-next-decade/)
 
 - [13-year-old dog, home, 3-year-wait](http://www.lifewithdogs.tv/2014/12/13-year-old-dog-at-shelter-for-1000-days-finally-gets-a-home/)
