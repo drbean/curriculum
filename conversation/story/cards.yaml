@@ -1,0 +1,113 @@
+---
+genre: intermediate
+past_continuous:
+  jigsaw:
+    gold:
+      identifier: past_continuous
+      quiz:
+        - question: While divers ____ off the coast of Florida, they ____ a shipwreck containing gold worth $2 million.
+          option:
+            - While divers were working off the coast of Florida, they discovered a shipwreck containing gold worth $2 million.
+          answer: While divers were working off the coast of Florida, they discovered a shipwreck containing gold worth $2 million.
+        - question: The divers ____ a show about the coral reef when they ____ the gold.
+          option:
+            - The divers were filming a show about the coral reef when they found the gold.
+          answer: The divers were filming a show about the coral reef when they found the gold.
+    hair:
+      identifier: past_continuous
+      quiz:
+        - question: One windy day, a woman ____ her pet poodle down the street.
+          option:
+            - One windy day, a woman was walking her pet poodle down the street.
+          answer: One windy day, a woman was walking her pet poodle down the street.
+        - question: A hairstylist ___ the dog through the window and ___ its crazy hair!
+          option:
+            - A hairstylist saw the dog through the window and noticed its crazy hair!
+          answer: A hairstylist saw the dog through the window and noticed its crazy hair!
+        - question: "Later while the stylist ____ a new line of hair care products for dogs and cats, he ____ up with a new slogan: Even animals have bad hair days!"
+          option:
+            - "Later while the stylist was creating a new line of hair care products for dogs and cats, he came up with a new slogan: Even animals have bad hair days!"
+          answer: "Later while the stylist was creating a new line of hair care products for dogs and cats, he came up with a new slogan: Even animals have bad hair days!"
+    ambulance:
+      identifier: past_continuous
+      quiz:
+        - question: An ambulance driver ___ breakfast in a coffee shop when a woman ___ into his ambulance and ___ away.
+          option:
+            - An ambulance driver was having breakfast in a coffee shop when a woman hopped into his ambulance and drove away.
+          answer: An ambulance driver was having breakfast in a coffee shop when a woman hopped into his ambulance and drove away.
+        - question: The driver ____ his cell phone and ____ the police.
+          option:
+            - The driver grabbed his cell phone and alerted the police.
+          answer: The driver grabbed his cell phone and alerted the police.
+        - question: The carjacker ____ over 90 miles an hour when the highway patrol finally ____ up with her.
+          option:
+            - The carjacker was going over 90 miles an hour when the highway patrol finally caught up with her.
+          answer: The carjacker was going over 90 miles an hour when the highway patrol finally caught up with her.
+    thief:
+      identifier: past_continuous
+      quiz:
+        - question: A thief ____ into our house last night while my sister and I ____ up a pizza for dinner.
+          option:
+            - A thief broke into our house last night while my sister and I were picking up a pizza for dinner.
+          answer: A thief broke into our house last night while my sister and I were picking up a pizza for dinner.
+    keys:
+      identifier: past_continuous
+      quiz:
+        - question: I ____ with some friends yesterday, and I ____ my keys.
+          option:
+            - I was shopping with some friends yesterday, and I lost my keys.
+          answer: I was shopping with some friends yesterday, and I lost my keys.
+    gas:
+      identifier: past_continuous
+      quiz:
+        - question: I ____ around with friends all day on Sunday, and I ____ out of gas on the freeway.
+          option:
+            - I was driving around with friends all day on Sunday, and I ran out of gas on the freeway.
+          answer: I was driving around with friends all day on Sunday, and I ran out of gas on the freeway.
+    elevator:
+      identifier: past_continuous
+      quiz:
+        - question: I ____ to visit my parents last night when I ____ stuck in the elevator in their apartment building.
+          option:
+            - I was trying to visit my parents last night when I got stuck in the elevator in their apartment building.
+          answer: I was trying to visit my parents last night when I got stuck in the elevator in their apartment building.
+           
+
+past_perfect:
+  jigsaw:
+    0:
+      identifier: past_perfect
+      quiz:
+        - question: Luckily, I ____ a friend a copy of them and she ____ over and ____ me into my apartment.
+          option:
+            - Luckily, I had given a friend a copy of them and she came over and let me into my apartment.
+          answer: Luckily, I had given a friend a copy of them and she came over and let me into my apartment.
+        - question: It ____ the 5th floor when it stopped. After I ____ stuck for an hour, someone ____ it again.
+          option:
+            - It had reached the 5th floor when it stopped. After I had been stuck for an hour, someone started it again.
+          answer: It had reached the 5th floor when it stopped. After I had been stuck for an hour, someone started it again.
+        - question: I guess we ____ the door unlocked, because that's how the thief ____ into the house.
+          option:
+            - I guess we had left the door unlocked, because that's how the thief got into the house.
+          answer: I guess we had left the door unlocked, because that's how the thief got into the house.
+        - question: Fortunately, I ____ my cell phone with me, so I ____ my brother for help.
+          option:
+            - Fortunately, I had brought my cell phone with me, so I called my brother for help.
+          answer: Fortunately, I had brought my cell phone with me, so I called my brother for help.
+continued:
+  match:
+    0:
+      identifier: continued
+      pair:
+        -
+          - I ____ with some friends yesterday, and I ____ my keys.\n
+          - Luckily, I ____ a friend a copy of them and she ____ over and ____ me into my apartment.
+        -
+          - A thief ____ into our house last night while my sister and I ____ up a pizza for dinner.\n
+          - I guess we ____ the door unlocked, because that's how the thief ____ into the house.
+        -
+          - I ____ around with friends all day on Sunday, and I ____ out of gas on the freeway.\n
+          - Fortunately, I ____ my cell phone with me, so I ____ my brother for help.
+        -
+          - I ____ to visit my parents last night when I ____ stuck in the elevator in their apartment building.\n
+          - It ____ the 5th floor when it stopped. After I ____ stuck for an hour, someone ____ it again.
