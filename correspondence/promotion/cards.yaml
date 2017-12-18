@@ -1,5 +1,16 @@
 ---
 genre: correspondence
+transparent:
+  jigsaw:
+    0:
+      identifier: transparent
+      quiz:
+        - question: "Transparent lollipop Looks like:"
+          option:
+            - a camera
+            - a piece of glass
+            - a light bulb/globe
+          answer: a piece of glass
 candy:
   match:
     0:
