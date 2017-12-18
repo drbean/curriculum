@@ -82,7 +82,7 @@ elective:
         - question: |+
             1. Foreign language electives ..
             2. The electives are for the Spring Semester, 2018.
-            3. "Someone announced the electives. (Hint: Use the present perfect passive)"
+            3. Someone announced the electives. (Hint: Use the present perfect passive)
           option:
             - Foreign language electives for the Spring Semester, 2018 have been announced.
           answer: Foreign language electives for the Spring Semester, 2018 have been announced.
@@ -92,22 +92,22 @@ elective:
             3. The place is in a message.
             4. The message was posted sometime.
             5. The time was November 5.
-            6. "The place of posting was the Language Center web page (Hint: Use 'on')."
+            6. The place of posting was the Language Center web page (Hint: Use 'on').
           option:
             - Details are available in a message posted November 5 on the Language Center web page.
           answer: Details are available in a message posted November 5 on the Language Center web page.
         - question: |+
             1. The courses ..
-            2. "Which courses? The ones which are to be opened (Hint: Don't use 'which', use a non-finite clause)"
+            2. Which courses? The ones which are to be opened (Hint: Don't use 'which', use a non-finite clause)
             3. BE + "as follows" + colon
           option:
             - "The courses to be opened are as follows:"
           answer: "The courses to be opened are as follows:"
         - question: |+
             1. Interested students ..
-            2. "Someone invites these students to do something (Hint: Use the present passive)"
-            3. "That something is registering somewhere. (Hint: Use 'to' + the infinite form of 'register')"
-            4. "That place is the website (Hint: Use 'on')."
+            2. Someone invites these students to do something (Hint: Use the present passive)
+            3. That something is registering somewhere. (Hint: Use 'to' + the infinite form of 'register')
+            4. That place is the website (Hint: Use 'on').
           option:
             - Interested students are invited to register on the website.
           answer: Interested students are invited to register on the website.
