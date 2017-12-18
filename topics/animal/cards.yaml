@@ -137,6 +137,17 @@ bird:
 
 
 zoo:
+  0:
+    flash:
+      shark     : 鯊魚
+      zoo       : 動物園
+      monkey    : 猴
+      zebra     : 斑馬
+      roars     : 怒吼
+      claws     : 爪
+      zookeeper : 動物園管理員
+      polar bear: 北極熊
+
   bingo:
     - shark zoo monkey zebra roars claws zookeeper polar_bear beach aquarium museum food swims afraid lion snow cool ice rain house cold home
     - make have do glass mouth teeth gone water playing cute warm feet black_and_white swing pick_bugs orange pick_bugs stripes horses feed cage hungry you're_welcome
