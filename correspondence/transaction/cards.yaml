@@ -9,26 +9,10 @@ routine:
           option:
            - introduce
           answer: introduce
-        - question: inquiry/request
-          option:
-           - make
-           - send
-          answer: make
-    1:
-      identifier: order of transaction
-      quiz:
-        - question: information
-          option:
-           - send
-           - give
-          answer: send
         - question: a quotation
           option:
            - request for
           answer: request for
-    2:
-      identifier: order of transaction
-      quiz:
         - question: the quotation
           option:
            - send
@@ -37,9 +21,6 @@ routine:
           option:
            - place
           answer: place
-    3:
-      identifier: order of transaction
-      quiz:
         - question: the order
           option:
            - confirm
@@ -48,21 +29,10 @@ routine:
           option:
            - submit
           answer: submit
-    4:
-      identifier: order of transaction
-      quiz:
         - question: an invoice with goods
           option:
            - send
           answer: send
-        - question: the payment
-          option:
-           - make
-           - send
-          answer: make
-    5:
-      identifier: order of transaction
-      quiz:
         - question: a complaint
           option:
            - make
@@ -71,6 +41,25 @@ routine:
           option:
            - solve
           answer: solve
+    1:
+      identifier: multi-answer transaction
+      quiz:
+        
+        - question: an inquiry/request
+          option:
+           - make
+           - send
+          answer: make
+        - question: information
+          option:
+           - send
+           - give
+          answer: send
+        - question: the payment
+          option:
+           - make
+           - send
+          answer: make
 watermelon:
   jigsaw:
     0:
