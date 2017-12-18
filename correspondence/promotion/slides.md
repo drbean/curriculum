@@ -1,6 +1,6 @@
-% Business Correspondence--The introduction/promotion!
-% Dr Bean (高來圭)
-% 2016年 12月 13日 火曜日 08:34:32 JST
+% Business Correspondence--The introduction/promotion letter!
+% Dr Bean (高來圭) at https://github.com/drbean/curriculum/trunk/correspondence
+% Mon Dec 18 11:08:36 CST 2017
 
 ## New contact structure
 
@@ -17,11 +17,6 @@ Looks like:
 - a camera
 - a piece of glass
 - a light bulb/globe
-
-% Business Correspondence--The promotion letter!
-% Dr Bean (高來圭) at https://github.com/drbean/curriculum/trunk/correspondence
-% Tue Jan  3 07:24:28 CST 2017
-
 
 # Spam and the 4 steps in introducing the product
 
