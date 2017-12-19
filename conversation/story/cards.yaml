@@ -111,3 +111,183 @@ continued:
         -
           - I ____ to visit my parents last night when I ____ stuck in the elevator in their apartment building.\n
           - It ____ the 5th floor when it stopped. After I ____ stuck for an hour, someone ____ it again.
+theft:
+  jigsaw:
+    0:
+      identifier: theft
+      quiz:
+        - question: What did she lose?
+          option:
+            - Her airline ticket
+            - Her carry-on bag
+            - Her passport
+            - Her purse
+          answer: Her purse
+        - question: What didn't she lose?
+          option:
+            - Her airline ticket
+            - Her credit card
+            - Her money
+            - Her purse
+            - Her wallet
+          answer: Her airline ticket
+        - question: Where did she lose it?
+          option:
+            - In the airport
+            - On a bus
+            - On the way to the airport
+          answer: On the way to the airport
+        - question: What did she do?
+          option:
+            - Called a friend
+            - Called a TV station
+            - Called the police
+          answer: Called the police
+        - question: How did it end up?
+          option:
+            - She flew home and got a new credit card
+            - She took the bus home
+            - She walked home because she had no money
+          answer: She flew home and got a new credit card
+event:
+  match:
+    0:
+      identifier: event
+      pair:
+        -
+          - a coincidence
+          - unexpected events that appear to be connected
+        -
+          - a dilemma
+          - a situation that involved a difficult choice
+        -
+          - a disaster
+          - an event that causes suffering or destruction
+        -
+          - an emergency
+          - a sudden, dangerous event that requires quick action
+        -
+          - a lucky break
+          - an unexpected event that brings good fortune
+        -
+          - misfortune
+          - an unlucky event, or bad luck
+        -
+          - a mystery
+          - something puzzling or unexplained
+        -
+          - a triumph
+          - a great success or achievement
+example:
+  match:
+    0:
+      identifier: example
+      pair:
+        -
+          - a coincidence
+          - a student sees their teacher on TV, in the street in Kaohsiung and says, "Hey, that's my teacher".
+        -
+          - a dilemma
+          - a student has to decide between playing a video game and doing homework
+        -
+          - a disaster
+          - a student is involved in a terrible traffic accident, riding their motorcycle carelessly
+        -
+          - an emergency
+          - a pregnant woman goes into labor (starts having the baby) in a train.
+        -
+          - a lucky break
+          - a poor shopper wins $10 million with a receipt from 全聯.
+        -
+          - misfortune
+          - a student fails the course with a grade of 59.
+        -
+          - a mystery
+          - a college student disappears. No-one knows what happened or where they are.
+        -
+          - a triumph
+          - the local basketball team wins the championship, the first time it has done this.
+sequence:
+  jigsaw:
+    past_perfect:
+      identifier: "sequence: past_perfect"
+      quiz:
+        - question: "'John wrote to me last year, but I didn't get the letter. I'd moved away.' John wrote:"
+          option:
+            - First
+            - Second
+            - Third
+          answer: Second
+        - question: "'John wrote to me last year, but I didn't get the letter. I'd moved away.' I didn't get the letter:"
+          option:
+            - First
+            - Second
+            - Third
+          answer: Third
+        - question: "'John wrote to me last year, but I didn't get the letter. I'd moved away.' I moved:"
+          option:
+            - First
+            - Second
+            - Third
+          answer: First
+        - question: "'I'd been very scared about the flight, so when the plane landed, I was relieved.' I was very scared:"
+          option:
+            - First
+            - Second
+            - Third
+          answer: First
+        - question: "'I'd been very scared about the flight, so when the plane landed, I was relieved.' The plane landed:"
+          option:
+            - First
+            - Second
+            - Third
+          answer: Second
+        - question: "'I'd been very scared about the flight, so when the plane landed, I was relieved.' I was relieved:"
+          option:
+            - First
+            - Second
+            - Third
+          answer: Third
+    past_continuous:
+      identifier: "sequence: past_continuous"
+      quiz:
+        - question: "'Even though she had hurt her ankle while she was running, she went to work anyway.' She started running:"
+          option:
+            - First
+            - Second
+            - Third
+          answer: First
+        - question: "'Even though she had hurt her ankle while she was running, she went to work anyway.' She hurt her ankle:"
+          option:
+            - First
+            - Second
+            - Third
+          answer: Second
+        - question: "'Even though she had hurt her ankle while she was running, she went to work anyway.' She went to work:"
+          option:
+            - First
+            - Second
+            - Third
+          answer: Third
+        - question: "'When my cousin stopped by I was watching a movie. We went out for a coffee to catch up.' My cousin stopped by:"
+          option:
+            - First
+            - Second
+            - Third
+          answer: Second
+        - question: "'When my cousin stopped by I was watching a movie. We went out for a coffee to catch up.' I started watching a movie:"
+          option:
+            - First
+            - Second
+            - Third
+          answer: First
+        - question: "'When my cousin stopped by I was watching a movie. We went out for a coffee to catch up.' We went out for a coffee:"
+          option:
+            - First
+            - Second
+            - Third
+          answer: Third
+        
+        
+        
+        
