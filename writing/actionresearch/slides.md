@@ -66,9 +66,35 @@ Think about a short, easy project to teach yourself some language. Not, "Teach m
 
 Look at the essay results and discussion and say what you think the answers to their questions are. If they haven't written the results, imagine what the answers might be. And add another question that you think the essay could answer.
 
-## Grading partner's essay
+# Grading partner's essay
 
-1-5 rubric
+## 1-5 rubric
+
+- _5_ 150+ words well-organized, grammatical and interesting, answering the question
+- _4_ 100-150 words answering the question but not well organized or not grammatical or not interesting
+- _3_ 50+ words, but doesn't answer the questions, not interesting, or not organized
+- _2_ 10-20 words connected to the topic or text plagiarized (or remembered) by the student
+- _1_ some words on the paper not connected to the topic
+- _0_ nothing on the paper
+
+# IMRAD Exam--2 150-word essays
+
+## Requirements
+
+I WANT
+
+1. THE 4 HEADINGS: Introduction, Method, Results, Discussion. YOU MUST HAVE THEM. Write them at the top and write notes for each heading. Then use the  headings AGAIN in the body of the essay.
+2. 2 Questions in the Introduction. The answers to the 2 questions will tell us whether you were successful or not. NOT: Was it successful?, but Did the milk mixed with the wax gourd drink make it taste good but less sweet?
+
+## Essay 1--Food research
+
+Write about a food experiment. Were you successful or not? Could be a restaurant you went to, or a recipe you tried to make, or a food you tried/bought. Try to remember what happened. You MUST have an Introduction (why, with 2 questions). Method (what), Results (what happened) and Discussion (what you think, learned).  Remember this is a story about one thing that happened one time, NOT, NOT a repeated experience. Talk about repeated experiences, but the focus is on the one-time event, and on success or failure.
+
+## Essay 2--Shopping survey
+
+Introduction: What do you want to find out from the people you will interview? Why is this an interesting survey to carry out. Method: 3 questions, 3 answers. Who will you ask?  Results: Imagine what the people told you in answer to each question. Imagine what else they said to you. Discussion: What do the Results of the survey mean to you? Try to generalize from your specific Results to a general statement about shopping. What do you think about people and about shopping? What questions will you ask next time?
+
+
 
 ## Role of questions
 
@@ -210,9 +236,9 @@ c. no opinion
 
 ## Trying it out--Introduction, Method, Results, Discussion
 
-You thought of some new food idea. Now try it out, see if it works, and write it up in 100 words, using the following titled sections.
+You wrote about shopping. You tried something out, saw if it worked. Now write it up in 100 words, using the following titled sections.
 
-Introduction: The idea. Make sure you say what your goal is. Write two questions that you want the essay to answer.
+Introduction: The thing. Make sure you say what your goal was. Write two questions that you wanted to answer before you started.
 
 Method: What you did.
 
