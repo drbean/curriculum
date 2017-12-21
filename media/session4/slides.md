@@ -1,8 +1,8 @@
 % News English! Media English!\
-Session 3
+	Session 4
 % Dr Bean (高來圭)
 % Spring (Fall) Semester, 2012, 2013, 2014, 2015\
-Thu 17 Dec 19:08:40 CST 2015
+	Thu 17 Dec 19:08:40 CST 2015
 
 # Week 13 Exam
 
@@ -44,6 +44,8 @@ NUU's dean of academic affairs, Yu Ruey-Fang announced on September 13 that the 
 | How: no money 
 
 ## Week 14 News
+
+- [Metal, man's arm, indicator ](http://www.google.com.tw/search?q=%22-+Metal,+man%27s+arm,+indicator%22&num=100&gws_rd=ssl&tbm=isch&tbo=u&source=univ&sa=X)
 
 - [Diamond ring, charity](http://news.yahoo.com/widow-places-diamond-ring-salvation-army-kettle-222828442.html)
 - [Charity, diamond ring](http://news.yahoo.com/salvation-army-returns-10k-ring-dropped-kettle-163434695.html)
