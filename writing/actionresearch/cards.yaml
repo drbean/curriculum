@@ -232,3 +232,40 @@ objective-subjective:
             - objective
             - subjective
           answer: objective
+survey:
+  jigsaw:
+    0:
+      identifier: jigsaw
+      quiz:
+        - question: Why Margret didn't get 5
+          option:
+            - It was about lotion for the skin
+            - It didn't have 3 questions
+            - It wasn't about shopping
+          answer: It wasn't about shopping
+        - question: Why Yuki got 4, not 3
+          option:
+            - It was not long
+            - It had 3 questions and was in IMRAD format
+            - It was about a sofa
+            - It wasn't about shopping
+          answer: It had 3 questions and was in IMRAD format
+        - question: Why Tina got 5
+          option:
+            - It was well-organized and interesting
+            - She pretended to interview her mom
+            - It was about department stores
+          answer: It was well-organized and interesting
+        - question: Why Shine got 3, not 4 or 5
+          option:
+            - It was about buying a car
+            - There were no questions to ask other people
+            - It was well-written
+          answer: There were no questions to ask other people
+        - question: Why William got 4, not 3
+          option:
+            - It had 3 questions and 3 answers
+            - It was about buying clothes in Hong Kong
+            - It didn't have Results or Discussion
+            - It was quite long
+          answer: It had 3 questions and 3 answers
