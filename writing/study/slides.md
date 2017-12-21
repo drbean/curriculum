@@ -1,8 +1,14 @@
 % Writing--Language study, or Teaching yourself some language!
 % Dr Bean (高來圭)
-- [% Wed Nov 30 09:54:01 CST 2016 at URL: ](https://github.com/drbean/curriculum/tree/master/writing)
+% [ Wed Nov 30 09:54:01 CST 2016 at URL: ](https://github.com/drbean/curriculum/tree/master/writing)
 
 # Language learning--action research
+
+## Homework: Learning a language: my experience, my hopes
+
+50 words about your experience learning English or another language you are studying at 明新 and your hopes/goals for the future learning that language.
+
+Do this homework, as it will be helpful for writing in the exam in Week 18
 
 ## Planned language learning action research project Week 16-17
 
