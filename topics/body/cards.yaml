@@ -209,3 +209,14 @@ blood:
       - "M: How is your blood type determined? _G: You get your blood type from both your parents._"
       - "G: Why can't two different blood types mix? _M: It is very dangerous to mix two different blood types. Your blood cells may begin to stick together._"
       - "M: If you are given the wrong type of blood in a hospital, you could die. _G: So, that's why blood types must be matched in the hospital._"
+feature:
+  0:
+    flash:
+      clean : 清潔 
+      dirty : 臟
+      happy : 快樂
+      sad   : 傷心
+      fat   : 脂肪
+      thin  : 瘦
+      big   : 大
+      small : 小
