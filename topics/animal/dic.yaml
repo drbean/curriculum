@@ -208,8 +208,8 @@
     B: Because they sleep a lot. Like you!
   - Jeffrey|End
 -
-  - "pet-2"
-  - "pet-2"
+  - "pet-3"
+  - "pet-3"
   - "topics"
   - "all"
   - |+
@@ -221,6 +221,19 @@
     B: Are parrots good pets?
     G: Yes, they’re gentle and pretty. But they make a lot of noise!
   - Guess|parrot|Polly|Polly|pretty|But|noise|End
+-
+  - "pet-2"
+  - "pet-2"
+  - "topics"
+  - "all"
+  - |+
+    B: Why didn’t you come to the park today, Katherine?
+    G: I had to take care of my pets. 
+    B: How many pets do you have?
+    G: I have two cats, a dog, and a hamster.
+    B: That’s a lot!
+    G: Yes. First, I fed them all. Then I walked the dog and cleaned the hamster’s cage.
+  - Katherine|hamster|End
 ---
 -
   - genre
