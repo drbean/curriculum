@@ -35,6 +35,25 @@ candy:
           - We are confident that ___
           - you will be impressed with
 raspberry:
+  drag:
+    0:
+      identifier: raspberry drag
+      sentences:
+        -
+          sentence: From a visit to your website last week, we understand that you are a large distributor of computers in Taiwan.
+          clozed: From|a|visit|to|your|website|last|week|we|understand|that|you|are|a|large|distributor|of|computers|in|Taiwan|End
+        -
+          sentence: We are very keen to have our Raspberry Pi, an educational computing device, available in stores in Taiwan.
+          clozed: We|are|very|keen|to|have|our|Raspberry|Pi|an|educational|computing|device|available|in|stores|in|Taiwan|End
+        -
+          sentence: Our organization, the Raspberry Pi Foundation, has developed a series of credit-card-sized computers to promote the teaching of basic computer knowledge.
+          clozed: Our|organization|the|Raspberry|Pi|Foundation|has|developed|a|series|of|credit-card-sized|computers|to|promote|the|teaching|of|basic|computer|knowledge|End
+        -
+          sentence: Please do not hesitate to get in touch with us.
+          clozed: Please|do|not|hesitate|to|get|in|touch|with|us|End
+        -
+          sentence: We believe this is an excellent opportunity to give every child in Taiwan their own computer.
+          clozed: We|believe|this|is|an|excellent|opportunity|to|give|every|child|in|Taiwan|their|own|computer|End
   scramble:
     0:
       identifier: step 1
