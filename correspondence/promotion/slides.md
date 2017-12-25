@@ -18,37 +18,54 @@ Looks like:
 - a piece of glass
 - a light bulb/globe
 
+# Raspberry Pi
+
+## The website
+
+- [Project website](http://raspberrypi.org)
+- [wikpedia account Raspberry_Pi](http://en.wikipedia.org/wiki/Raspberry_Pi)
+
+
+# Student conference
+
+## Humanitarian Affairs, University Scholars Leadership Symposium
+
+- [Humanitarian Affairs](http://www.humanitarianaffairs.org.uk)
+- [University Scholars Leadership Symposium](http://www.universityscholars.org.uk)
+
 # Spam and the 4 steps in introducing the product
+
+## diet drug 1
 
 How does this diet drug spam fit the 4 steps introducing new products on a first contact?
 
-Paragraph 1
+## Paragraph 1
 
-CNN > Lose 28lbs In A Week
-http://wthreeu.date/uh0YfhLHo87kmVB7IgQJTsU7cbWupq5zamQwIsvOg_TA
-Mouth Spray - US Panel Approved
+|	CNN > Lose 28lbs In A Week
+|	http://wthreeu.date/uh0YfhLHo87kmVB7IgQJTsU7cbWupq5zamQwIsvOg_TA
+|	Mouth Spray - US Panel Approved
 
-Paragraph 2
+## Paragraph 2
 
-Women are reducing their hips by up to 8 sizes and losing 6 percent of fat
-Here Is How It Works
-+ Images (5)    + Videos (2)
-Tasty drink shreds extra fat
-http://wthreeu.date/uh0YfhLHo87kmVB7IgQJTsU7cbWupq5zamQwIsvOg_TA
+|	Women are reducing their hips by up to 8 sizes and losing 6 percent of fat
+|	Here Is How It Works
+|	+ Images (5)    + Videos (2)
+|	Tasty drink shreds extra fat
+|	http://wthreeu.date/uh0YfhLHo87kmVB7IgQJTsU7cbWupq5zamQwIsvOg_TA
 
-Paragraph 3
+## Paragraph 3
 
-Product Details
-    Safe and easy to use
-    Takes seconds to work
-    You never have to work out again
-    Sleep and reduce the size of your body
-    Works on all men and women
-    Makes you lose 2lbs a day
-    Gets rid of excess blubber on your body
-    Receive It Monday
+|	Product Details
+|	    Safe and easy to use
+|	    Takes seconds to work
+|	    You never have to work out again
+|	    Sleep and reduce the size of your body
+|	    Works on all men and women
+|	    Makes you lose 2lbs a day
+|	    Gets rid of excess blubber on your body
+|	    Receive It Monday
 
-Paragraph 4
+## Paragraph 4
 
-Watch The Full Report
-http://wthreeu.date/uh0YfhLHo87kmVB7IgQJTsU7cbWupq5zamQwIsvOg_TA
+|	Watch The Full Report
+|	http://wthreeu.date/uh0YfhLHo87kmVB7IgQJTsU7cbWupq5zamQwIsvOg_TA
