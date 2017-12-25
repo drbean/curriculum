@@ -39,11 +39,11 @@ raspberry:
     0:
       identifier: step 1
       sentence:
-        - From a visit to your website last week, we understand that you are a large distributor of computers in Taiwan.
+        - From a_1 visit to your website last week, we understand that you are a_2 large distributor of computers in Taiwan.
     1:
       identifier: step 1
       sentence:
-        - We are very keen to have our Raspberry_Pi, an educational computing device, available in stores in Taiwan.
+        - We are very keen to have our Raspberry_Pi, an educational computing device, available in_1 stores in_2 Taiwan.
     2:
       identifier: step 2
       sentence:
@@ -86,17 +86,17 @@ step:
       identifier: first contact steps
       pair:
         -
-          - From a visit to your website last week, we understand that you are a large distributor of computers in Taiwan.
           - step 1a
+          - From a visit to your website last week, we understand that you are a large distributor of computers in Taiwan.
         -
-          - We are very keen to have our Raspberry_Pi, an educational computing device, available in stores in Taiwan.
           - step 1b
+          - We are very keen to have our Raspberry_Pi, an educational computing device, available in stores in Taiwan.
         -
-          - Our organization, the Raspberry_Pi Foundation, has developed a series of credit-card-sized computers to promote the teaching of basic computer knowledge.
           - step 2
+          - Our organization, the Raspberry_Pi Foundation, has developed a series of credit-card-sized computers to promote the teaching of basic computer knowledge.
         -
-          - Please do not hesitate to get in touch with us.
           - step 4
+          - Please do not hesitate to get in touch with us.
     1:
       identifier: launch steps
       pair:
