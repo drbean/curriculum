@@ -93,20 +93,17 @@ III. The same for a third story
 ## Salvation army kettle, ring stories
 
 - [Salvation Army Christmas kettle ](http://www.google.com.tw/search?q=%22Salvation+Army+Christmas+kettle%22&num=100&gws_rd=ssl&tbm=isch&tbo=u&source=univ&sa=X)
-
-- [Diamond ring, charity](http://news.yahoo.com/widow-places-diamond-ring-salvation-army-kettle-222828442.html)
-- [Charity, diamond ring](http://news.yahoo.com/salvation-army-returns-10k-ring-dropped-kettle-163434695.html)
-- [Charity rings, toys worth $21,000](http://news.yahoo.com/rings-given-salvation-army-fetch-21k-toys-173924285.html)
 - [ring donator, ring buyer, ring ](http://ca.news.yahoo.com/blogs/good-news/widows-rings-donated-to-buy-toys-for-needy-170659112.html)
 - [Salvation Army ring report, other reports on google](https://www.google.com.tw/search?q=%22salvation+army%22+kettle+ring+widow+%241,850&)
-- [Salvation Army report](http://massachusetts.salvationarmy.org/MA/Ring)
+
+Write 3,4 questions at
+[http://sac.nuu.edu.tw/cgi-bin/bett/script/bett_cgi.pl/login?exercise=ring ](http://sac.nuu.edu.tw/cgi-bin/bett/script/bett_cgi.pl/login?exercise=ring)
 
 - [Ring, Sea, 35 years](http://news.yahoo.com/san-francisco-bay-area-man-gets-ring-back-162120431.html)
 
 ## Week 15 News
 
 - [Coin](http://news.yahoo.com/error-coin-dime-struck-onto-165252745.html)
-- [Lunch lady](http://news.yahoo.com/lunch-lady-gave-hungry-kid-lunch-gets-kinds-195612725.html)
 - [Car chase](http://news.yahoo.com/13-year-old-high-speed-police-chase-dashcam-video-154128247.html)
 - [NYU](http://news.yahoo.com/nyu-spends-1-1-million-200305013.html)
 
@@ -127,10 +124,11 @@ III. The same for a third story
 
 ## NORAD tracks Santa
 
-- [NORAD tracks Santa](http://www.seattlepi.com/news/us/article/NORAD-tracks-when-Santa-Claus-is-comin-to-town-5977061.php)
+- [NORAD tracks Santa](https://www.politico.com/story/2017/12/24/norads-crazy-santa-cause-260254?lo=ap_b1)
 - [Wikipedia version](https://en.wikipedia.org/wiki/NORAD_Tracks_Santa)
 - ["Santa Colonel" family's version](http://www.npr.org/2014/12/19/371647099/norads-santa-tracker-began-with-a-typo-and-a-good-sport)
 - [Official NORAD site](http://www.noradsanta.org/)
+
 
 
 
@@ -145,10 +143,13 @@ III. The same for a third story
 
 ## Lunch lady
 
-- [Lunch lady bad yahoo link ](http://news.yahoo.com/lunch-lady-gave-hungry-kid-lunch-gets-kinds-195612725.html)
+- [Lunch lady](http://www.idahostatesman.com/news/state/idaho/article51461340.html)
 - [Lunch lady's views](http://usuncut.com/class-war/lunch-lady-darlene-bowden-fired-for-feeding-hungry-child/)
+- [TV News](http://abcnews.go.com/US/idaho-lunch-lady-fired-giving-free-meal-student/story?id=35941119)
 - [petition: Don't Fire a Kind Lunch Lady: Children Shouldn't Go Hungry!](http://www.thepetitionsite.com/393/046/931/do-not-let-a-child-suffer-need-a-hot-lunch/)
-- [School lunch lady fired for giving free meal to hungry kid is offered job back ](http://www.freerepublic.com/focus/f-news/3376436/posts)
+- [Comments on School lunch lady fired for giving free meal to hungry kid](http://www.freerepublic.com/focus/f-news/3376436/posts)
+- [What happened after](https://idahostatejournal.com/members/lunch-lady-says-life-since-firing-has-been-nightmare/article_9618fa57-031a-5553-9d4c-a719a36f4a64.html)
+
 
 ## Winter swim--polar bear plunge
 
