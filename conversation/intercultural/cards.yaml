@@ -507,27 +507,66 @@ translate:
           - worried
           - 擔心
 expectation:
-  drag:
+  match:
     0:
       identifier: expectation
+      pair:
+        -
+          - If you plan to visit someone at home, 
+          - you're supposed to call first.
+        -
+          - If you've been to a friend's home for dinner, 
+          - it's the custom to thank him or her.
+        -
+          - When you've been invited to a wedding, 
+          - you're expected to respond in writing.
+        -
+          - When you go out on a date, 
+          - it's acceptable to share the expenses.
+        -
+          - If the service in a restaurant is acceptable, 
+          - you're expected to leave a tip.
+        -
+          - When you meet someone for the first time, 
+          - you aren't supposed to kiss him or her.
+party:
+  jigsaw:
+    0:
+      identifier: party
+      quiz:
+        - question: "Bringing a gift in the US, a good idea is:"
+          option:
+            - flowers or chocolates
+            - flowers, but not red roses, chrysanthemums, carnations or lilies
+          answer: flowers or chocolates
+        - question: "Bringing a gift in Germany, a good idea is:"
+          option:
+            - flowers or chocolates
+            - flowers, but not red roses, chrysanthemums, carnations or lilies
+          answer: flowers, but not red roses, chrysanthemums, carnations or lilies
+        - question: "Punctuality: In Germany, it's important to be:"
+          option:
+            - About 15 minutes late
+            - Exactly on time
+          answer: Exactly on time
+        - question: "Bringing a friend: In the US:"
+          option:
+            - It's OK.
+            - It's not OK, unless you call first.
+          answer: It's not OK, unless you call first.
+shock:
+  drag:
+    0:
+      identifier: shock
       sentences:
         -
-          sentence: If you plan to visit someone at home, you're supposed to call first.
-          clozed: you're supposed to call first.
-        -
-          sentence: If you've been to a friend's home for dinner, it's the custom to thank him or her.
-          clozed: it's the custom to thank him or her.
-        -
-          sentence: When you've been invited to a wedding, you're expected to respond in writing.
-          clozed: you're expected to respond in writing.
-        -
-          sentence: When you go out on a date, it's acceptable to share the expenses.
-          clozed: it's acceptable to share the expenses.
-        -
-          sentence: If the service in a restaurant is acceptable, you're expected to leave a tip.
-          clozed: you're expected to leave a tip.
-        -
-          sentence: When you meet someone for the first time, you aren't supposed to kiss him or her.
-          clozed: you aren't supposed to kiss him or her.
+          sentence: "Alice: In South_Korea, noisy_soup_eating was disturbing.<p>John: In Spain, late_eating was difficult.<p>Susan: In Saudi_Arabia, wearing_clothing_covering_the_whole_body was a_nuisance."
+          clozed: South_Korea|noisy_soup_eating|disturbing|Spain|late_eating|difficult|Saudi_Arabia|wearing_clothing_covering_the_whole_body|a_nuisance|End
+        
+        
+
+        
+        
+        
         
         
