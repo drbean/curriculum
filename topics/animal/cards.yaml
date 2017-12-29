@@ -3,7 +3,7 @@ genre: topics
 animals:
   0:
     flash:
-      owl      :  1.貓頭鷹
+      owl      :  1。貓頭鷹
       iguana   :  2。鬣蜥
       cat      :  3。貓
       dog      :  4。狗
@@ -11,6 +11,16 @@ animals:
       rabbit   :  6。兔
       giraffe  :  7。長頸鹿
       elephant :  8。大象
+  1:
+    flash:
+      elephant : 象
+      tiger    : 虎
+      ostrich  : 鴕鳥
+      lion     : 獅子
+      giraffe  : 長頸鹿
+      monkey   : 猴
+      parrot   : 鸚鵡
+      octopus  : 章魚
   bingo: 
     - bee cats cows dogs goat goldfish horses lions monkey parrot polar_bear shark sheep tigers zebra
     - panda_bear turtle flamingo bat bamboo shell fur snail hamster pet vet/veterinarian dog cat beetle moth cricket spider butterfly ladybug ant bee chick eagle swan nest
@@ -147,7 +157,6 @@ zoo:
       claws     : 爪
       zookeeper : 動物園管理員
       polar bear: 北極熊
-
   bingo:
     - shark zoo monkey zebra roars claws zookeeper polar_bear beach aquarium museum food swims afraid lion snow cool ice rain house cold home
     - shark zoo monkey zebra roars claws zookeeper polar_bear
