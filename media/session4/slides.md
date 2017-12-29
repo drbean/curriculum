@@ -128,6 +128,7 @@ Write 3,4 questions at
 - [Wikipedia version](https://en.wikipedia.org/wiki/NORAD_Tracks_Santa)
 - ["Santa Colonel" family's version](http://www.npr.org/2014/12/19/371647099/norads-santa-tracker-began-with-a-typo-and-a-good-sport)
 - [Official NORAD site](http://www.noradsanta.org/)
+- [Trump takes part, talking to kid](https://www.nbcnews.com/video/trumps-participate-in-norad-santa-tracker-phone-calls-on-christmas-eve-1123529283814)
 
 
 
