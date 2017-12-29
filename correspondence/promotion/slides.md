@@ -69,3 +69,28 @@ How does this diet drug spam fit the 4 steps introducing new products on a first
 
 |	Watch The Full Report
 |	http://wthreeu.date/uh0YfhLHo87kmVB7IgQJTsU7cbWupq5zamQwIsvOg_TA
+
+# Homework
+
+## Introduction email
+
+Imagine you are involved with a company that does something interesting and wants to find customers by sending emails to other companies.
+
+Write a letter from yourself, as representative of the company you have/belong to, to a potential customer.
+
+Use the candy promotional letter as a guide, but use different facts.
+
+In paragraph 1, say:
+
+- How you found out about the other company, eg through a newspaper/magazine/Internet notice, seen at some period of time, eg last week.
+- What the purpose of your message is, eg what product/service your company is providing.
+
+In paragraph 2, give some small number of facts about your company, eg the date established, your reputation, your position in the market.
+
+In paragraph 3, give 1/2 selling points of the product you are introducing.
+
+In paragraph 4, call for action. What should the reader do after reading the email? Give a web page, or telephone number.
+
+Keep the email short. I don't want more than 50 words. There is no need for To, From, Subject, Date lines and no need for letterhead, inside address, salutation and the other elements of the business letter.
+
+
