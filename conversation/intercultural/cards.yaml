@@ -197,6 +197,32 @@ fernandez:
           question: They enjoyed eating the pie.
         - answer: False
           question: Pedro explained Thanksiving to Jack.
+    2:
+      identifier: fernandez quiz
+      quiz:
+        - answer: True
+          question: Jose has a brother and father.
+        - answer: False
+          question: Two of the people in the story are Anglo-American.
+        - answer: True
+          question: The father spoke more English than his kids.
+        - answer: True
+          question: The kids think Thanksgiving is a saint.
+        - answer: False
+          question: They enjoyed eating the frozen pie.
+        - answer: False
+          question: They didn't like American culture.
+        - answer: True
+          question: Pedro speaks more English than his son.
+        - answer: False
+          question: The father asks Jack to explain Thanksgiving to his son.
+        - answer: True
+          question: Jose think Thanksgiving is a saint.
+        - answer: False
+          question: They enjoyed eating the pie.
+        - answer: False
+          question: Pedro explained Thanksiving to Jack.
+        
 franklin:
   jigsaw:
     0:
@@ -562,9 +588,112 @@ shock:
         -
           sentence: "Alice: In South_Korea, noisy_soup_eating was disturbing.<p>John: In Spain, late_eating was difficult.<p>Susan: In Saudi_Arabia, wearing_clothing_covering_the_whole_body was a_nuisance."
           clozed: South_Korea|noisy_soup_eating|disturbing|Spain|late_eating|difficult|Saudi_Arabia|wearing_clothing_covering_the_whole_body|a_nuisance|End
+custom:
+  jigsaw:
+    0:
+      identifier: american custom
+      quiz:
+        - question: Women often kiss their friends on the cheek when they meet.
+          answer: True
+        - question: It's not acceptable to ask people how much money they earn.
+          answer: True
+        - question: People avoid asking each other about their religious beliefs.
+          answer: True
+        - question: When invited to someone's home, people usually arrive on time or a little late.
+          answer: True
+        - question: It's good to ask before bringing a friend or a family member to a party at someone's home.
+          answer: True
+        - question: When someone moves into a new house, it's the custom to give a "housewarming" gift.
+          answer: True
+        - question: People usually call first before dropping by a friend's home.
+          answer: True
+        - question: When eating in a restaurant, friends either split the cost of the meal or take turns paying.
+          answer: True
+        - question: It's OK to blow your nose quietly in public.
+          answer: True
+        - question: It's uncommon to bargain when you buy things in stores.
+          answer: True
+        - question: In an office, people usually prefer to be called by their first names.
+          answer: True
+        - question: Students remain seated when the teacher enters the classroom.
+          answer: True
+        - question: Teenagers go out on dates.
+          answer: True
+        - question: People decide for themselves who they will marry.
+          answer: True
+        - question: When a couple gets married, the bride's family usually pays for the wedding and the reception.
+          answer: True
+title:
+  jigsaw:
+    0:
+      identifier: "difference: title"
+      quiz:
+        - question: The city
+          option:
+            - Cafe etiquette
+            - Less than 24/7
+            - Just say it!
+          answer: Less than 24/7
+        - question: Class
+          option:
+            - Cafe etiquette
+            - Less than 24/7
+            - Just say it!
+          answer: Just say it!
+        - question: Talking to strangers
+          option:
+            - Cafe etiquette
+            - Less than 24/7
+            - Just say it!
+          answer: Cafe etiquette
+difference:
+  jigsaw:
+    0:
+      identifier: difference
+      quiz:
+        - question: When does the city shut down in Taipei?
+          option:
+            - early
+            - late
+            - never
+          answer: late
+        - question: When does the city shut down in Chicago?
+          option:
+            - early
+            - late
+            - never
+          answer: early
+        - question: How do students relate to the teacher in Taiwan?
+          option:
+            - non-interactive
+            - talk back
+          answer: non-interactive
+        - question: How do students relate to the teacher in the US?
+          option:
+            - non-interactive
+            - talk back
+          answer: talk back
+        - question: What do students do after class in Taiwan?
+          option:
+            - leave quickly
+            - hang around
+          answer: hang around
+        - question: What do students do after class in the US?
+          option:
+            - leave quickly
+            - hang around
+          answer: leave quickly
+        - question: How do people act toward strangers in Taiwan? Will people start talking?
+          option:
+            - Will happen
+            - Won't happen
+          answer: Won't happen
+        - question: How do people act toward strangers in the US? Will people start talking?
+          option:
+            - Will happen
+            - Won't happen
+          answer: Will happen
         
-        
-
         
         
         
