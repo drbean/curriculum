@@ -287,7 +287,76 @@ sequence:
             - Second
             - Third
           answer: Third
-        
-        
-        
-        
+gold:
+  jigsaw:
+    0:
+      identifier: gold
+      A: You are filming a show about a coral reef off the coast of Florida. You discover a shipwreck with gold worth \$2 million.
+      B: You are in a ship which sank off the coast of Florida. Divers discover you while they are filming the coral reef.
+      C: Divers off the coast of Florida are filming a show about you when they find gold. The gold is in a shipwreck near you.
+      quiz:
+        - question: A
+          option:
+            - a coral reef
+            - gold
+            - some divers
+          answer: some divers
+        - question: B
+          option:
+            - a coral reef
+            - gold
+            - some divers
+          answer: gold
+        - question: C
+          option:
+            - a coral reef
+            - gold
+            - some divers
+          answer: a coral reef
+        - question: The divers were looking for the gold.
+          answer: False
+        - question: The divers find the gold before starting to film.
+          answer: False
+        - question: The gold is at the bottom of the sea.
+          answer: True
+hair:
+  jigsaw:
+    0:
+      identifier: hair
+      A: A woman is walking you down the street. A man who cuts dogs' hair notices your crazy hair.
+      B: You just washed your dog. Its hair is crazy. You are walking it down the street when a man sees it.
+      C: You are making a new shampoo for dogs. You remember the woman's dog you saw in the street.
+      quiz:
+        - question: A
+          option:
+            - a dog
+            - a man who cuts dogs' hair
+            - a woman who owns a dog
+          answer: a dog
+        - question: B
+          option:
+            - a dog
+            - a man who cuts dogs' hair
+            - a woman who owns a dog
+          answer: a woman who owns a dog
+        - question: C
+          option:
+            - a dog
+            - a man who cuts dogs' hair
+            - a woman who owns a dog
+          answer: a man who cuts dogs' hair
+        - question: The woman has crazy hair
+          answer: False
+        - question: The man sees the dog before the woman starts walking it.
+          answer: False
+        - question: The man cuts the hair of the woman's dog.
+          answer: False
+ambulance:
+  jigsaw:
+    0:
+      identifier: ambulance
+      A: You are having breakfast when a woman drives your ambulance away. You call the police.
+      B: You take a man's ambulance but the police catch you while you are driving it at 150 kilometers per hour.
+      C: You chase and catch a woman who is driving at 150 kilometers per hour.
+      
+      quiz:
