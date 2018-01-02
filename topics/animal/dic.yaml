@@ -37,13 +37,17 @@
   - "topics"
   - "all"
   - |+
+    Many zoos have polar bears. Sometimes, zoos are too warm for polar bears.
 
-    Many zoos have polar bears. Sometimes, zoos are too warm for polar bears. Why is this? Polar bears live in cold places. They like snow and ice. There is no snow at the zoo. So, zookeepers make snow for them. Snow helps keep the bears cool.
+    Why is this? Polar bears live in cold places. They like snow and ice.
 
-  - and|at|away|be|bears|Carla|close|Don't|first|gone|has|is|It|its|Kevin|man|many|Next|of|opens|polar|screams|see|She's|so|teeth|the|they|to
+    There is no snow at the zoo. So, zookeepers make snow for them. Snow helps keep the bears cool.
+  - Sometimes|warm|places|snow|ice|helps|keep|cool|End 
 
-  - non_existent
-  - 100
+    #  - and|at|away|be|bears|Carla|close|Don't|first|gone|has|is|It|its|Kevin|man|many|Next|of|opens|polar|screams|see|She's|so|teeth|the|they|to
+
+    #- non_existent
+    #- 100
 
 -
   - "elephant-1"
