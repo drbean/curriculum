@@ -156,6 +156,8 @@ Write 3,4 questions at
 
 - [Polar bear plunge - Wikipedia](https://en.wikipedia.org/wiki/Polar_bear_plunge)
 - [Netherlands Nieuwjaarsduik](https://www.youtube.com/watch?v=HbhxcVNeufQ)
+- [yahoo report](https://www.yahoo.com/news/annual-polar-bear-plunge-coney-145812323.html)
+
 
 
 # Exam
