@@ -7,6 +7,10 @@
 
 # Victoria's Secret
 
+## targeting of teens and tweens creates backlash
+
+- [Moms complain ](http://money.cnn.com/2013/03/27/news/companies/victorias-secret-underwear-ad/index.html)
+
 ## show in China
 
 - [How China made Victoria's Secret a pawn in its ruthless global game | Paul Mason | Opinion | The Guardian ](https://www.theguardian.com/commentisfree/2017/nov/20/victorias-secret-china-censorship-lingerie-gigi-hadid-gaffe-repressive-state)
