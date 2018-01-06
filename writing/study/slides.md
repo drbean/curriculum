@@ -10,6 +10,48 @@
 
 Do this homework, as it will be helpful for writing in the exam in Week 18
 
+# Study buddy
+
+## On the internet
+
+- [study buddy ](http://www.google.com.tw/search?q=%22study+buddy%22&num=100&gws_rd=ssl&tbm=isch&tbo=u&source=univ&sa=X)
+
+## Study goals
+
+### 3 goals for studying for the exam
+
+A. Make them simple goals, because you have no time.
+
+- Don't say, Review all the material in the textbook. Say, in this writing course, for example:
+
+        - Review the definition of IMRAD, or
+        - Understand the structure of an opinion survey
+
+B. Make them clear goals. Otherwise, they will be difficult to carry out.
+
+- Don't say, Review the definition of IMRAD. Say, for example
+
+        - Review what to say in each of the Introduction, Method, Results and
+          Discussion.
+
+- Don't say, Understand the structure of an opinion survey. Say,
+
+        - Remember whether to ask a WH-question or YN-question, how many
+          questions to ask, and how many people to ask.
+
+- [From the textbook ](http://web.nuu.edu.tw/~greg/textbook.pdf)
+
+
+
+
+## Study buddy choice, plan, comments
+
+Discuss with someone who you want to be a study buddy with.
+
+Write what you could do for five minutes with the study buddy studying for one 明新 course.
+
+Comment on your study buddy's plan.
+
 ## Planned language learning action research project Week 16-17
 
 Students wrote essays at a high, abstract level--Good
@@ -144,7 +186,32 @@ Say
 
 ### Announcement 
 
-Homework: Do the 5-minute activity with a study buddy. Write up the activity as an IMRAD essay. Check the format Dr Bean wants on the site https://sac.nuu.edu.tw/cgi-bin/moodle, Week 16, at (after logging in) https://sac.nuu.edu.tw/cgi-bin/moodle/mod/assign/view.php?id=619
+Homework: Do the 5-minute activity you planned with your study buddy. Write up the activity as the
+
+- Method (What did you do?)
+- Results (What happened when you did it?)
+
+sections of an IMRAD essay.
+
+## Homework: Study buddy
+
+Homework: Do the 5-minute activity you planned with your study buddy. Write up the activity as the
+
+- Method (What did you do?)
+- Results (What happened when you did it?)
+
+sections of an IMRAD essay.
+
+## Homework: Study buddy AGAIN
+
+Homework: Do another 5-minute activity with your study buddy PREPARING FOR THE EXAM in a MUST class, not the writing class. Write up the activity as the
+
+- Method (What did you do?)
+- Results (What happened when you did it?)
+
+sections of an IMRAD essay.
+
+Try to include as much detail as possible. Mention the textbook name, the words, or expressions, or other things you studied.
 
 # Exam Prep
 
@@ -157,6 +224,9 @@ Homework: Do the 5-minute activity with a study buddy. Write up the activity as 
 
 - Study mode: 5 minutes to do it
 - Reporting mode: 20 minutes to write up what you did
+
+	- What did you do?
+	- What did you learn? Demonstrate your learning, eg, 'clarify' means 澄清.
 
 ## A study plan for Week 17
 
