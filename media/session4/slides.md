@@ -166,9 +166,9 @@ Write 3,4 questions at
 
 3-person jigsaw:
 
-- Antonin Scalia, Brian Lamb, Joe Public.
 - [ring donator, ring buyer, ring ](http://ca.news.yahoo.com/blogs/good-news/widows-rings-donated-to-buy-toys-for-needy-170659112.html)
 - Santa, the Colonel, a boy.
+- lunch lady, student, supervisor
 
 3 stories:
 
@@ -177,6 +177,17 @@ Write 3,4 questions at
 - Lead paragraph/sentence
 
 # Week 17 News
+
+## Taiwan news
+
+Each student presents some Taiwan news, eg from
+https://news.google.com/news/?ned=tw&gl=TW&hl=zh-TW or Yahoo.
+
+Each person presents a different item, with a headline as Subject line, and a lead sentence, and 3 interesting questions in the body of the message.
+Reserve a news item.
+
+Each student will introduce his/her news item, taking 30 seconds.
+
 
 ## Car part in man's arm (no video)
 
@@ -199,7 +210,7 @@ Write 3,4 questions at
 
 ## Moose buried in snow
 
-- [3 men, moose, from snow](http://news.yahoo.com/3-men-see-snout-free-moose-buried-avalanche-155903255.html)
+- [3 men, moose, from snow](https://www.youtube.com/watch?v=MJxezgURct4)
 
 . . .
 
