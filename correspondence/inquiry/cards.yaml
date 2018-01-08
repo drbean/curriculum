@@ -1,5 +1,91 @@
 ---
 genre: correspondence
+correspondence:
+  match:
+    promotion:
+      identifier: promotion-inquiry match
+      pair:
+        -
+          - "promotion: 1a. source of reader's email address"
+          - "inquiry: 1a. source of reader's email address"
+        -
+          - "promotion: 1b. purpose of email"
+          - "inquiry: 2. inquiry/request"
+        -
+          - "promotion: 2. who you are what you do"
+          - "inquiry: 1b. information about writer's company"
+        -
+          - "promotion: 3. what products/services you are offering"
+          - "inquiry: No item for products, services"
+        -
+          - "promotion: 4. how you can be contacted"
+          - "inquiry: No item for contact details"
+    inquiry:
+      identifier: inquiry-promotion match
+      pair:
+        -
+          - "inquiry: 1a. source of reader's email address"
+          - "promotion: 1a. source of reader's email address"
+        -
+          - "inquiry: 1b. information about writer's company"
+          - "promotion: 2. who you are what you do"
+        -
+          - "inquiry: 2. inquiry/request"
+          - "promotion: 1b. purpose of email"
+        -
+          - "inquiry: 2. specific details"
+          - "promotion: No item for details"
+        -
+          - "inquiry: 2. confident close"
+          - "promotion: No expression of confidence"
+        
+        
+inquiry:
+  jigsaw:
+    0:
+      identifier: inquiry structure
+      quiz:
+         - question: We have heard a lot about the Raspberry Pi
+           option:
+             - 1a. source of knowledge about company written to
+             - 1b. information about writer's company
+             - 2.  Inquiry/request
+             - 3.  Details (eg reason)
+             - 4.  Expression of confidence in satisfactory result.
+           answer:  1a. source of knowledge about company written to
+         - question: We are a large marketer of computers in Taiwan.
+           option:
+             - 1a. source of knowledge about company written to
+             - 1b. information about writer's company
+             - 2.  Inquiry/request
+             - 3.  Details (eg reason)
+             - 4.  Expression of confidence in satisfactory result.
+           answer:  1b. information about writer's company
+         - question: We understand you have no distribution arrangement in Taiwan. What conditions would you require for us to become a Raspberry Pi distributor in the Taiwanese market?
+           option:
+             - 1a. source of knowledge about company written to
+             - 1b. information about writer's company
+             - 2.  Inquiry/request
+             - 3.  Details (eg reason)
+             - 4.  Expression of confidence in satisfactory result.
+           answer:  2.  Inquiry/request
+         - question: We are interested in becoming an exclusive distributor
+           option:
+             - 1a. source of knowledge about company written to
+             - 1b. information about writer's company
+             - 2.  Inquiry/request
+             - 3.  Details (eg reason)
+             - 4.  Expression of confidence in satisfactory result.
+           answer:  3.  Details (eg reason)
+         - question: We look forward to hearing from you.
+           option:
+             - 1a. source of knowledge about company written to
+             - 1b. information about writer's company
+             - 2.  Inquiry/request
+             - 3.  Details (eg reason)
+             - 4.  Expression of confidence in satisfactory result.
+           answer:  4.  Expression of confidence in satisfactory result.
+         
 golfer:
   match:
     0:
@@ -54,8 +140,8 @@ scramble:
       identifier: p56 inquiry 4-6
       sentence:
         - I am interested in finding out more about your university
-        - I would appreciated it if I could meet_with someone for an_interview
-        - could you tell me where on your_website I can a price quote with a_discount
+        - I would appreciate it if I could meet_with someone for an_interview
+        - could you tell me where on your_website I can get a price quote with a_discount
     2:
       identifier: internet
       sentence:
@@ -69,7 +155,42 @@ scramble:
         - Our products are available in Sogo stores.
         - The lenses of the C-400 underwater camera can be cleaned using warm water.
         - You can track shipping details on our websites.
-    
+
+  drag:
+    0:
+      identifier: p56
+      sentences:
+        -
+          sentence: I was wondering if it would be possible to_arrive a_day late_for the_program
+          clozed: I|was|wondering|if|it|would|be|possible|to_arrive|a_day|late_for|the_program
+        -
+          sentence: I see from your_website that you offer summer travel-study_programs
+          clozed: I|see|from|your_website|that|you|offer|summer|travel-study_programs
+        -
+          sentence: I am writing in_response_to an_advertisement regarding job_opportunities for Japanese_speakers
+          clozed: I|am|writing|in_response_to|an_advertisement|regarding|job_opportunities|for|Japanese_speakers
+    1:
+      identifier: p56
+      sentences:
+        -
+          sentence: I am interested in finding out more about your university
+          clozed: I|am|interested|in|finding|out|more|about|your|university
+        -
+          sentence: I would appreciate it if I could meet_with someone for an_interview
+          clozed: I|would|appreciate|it|if|I|could|meet_with|someone|for|an_interview
+        -
+          sentence: could you tell me where on your_website I can get a price quote with a_discount
+          clozed: could|you|tell|me|where|on|your_website|I|can|get|a|price|quote|with|a_discount
+    2:
+      identifier: p56
+      sentences:
+        -
+          sentence: Would it be possible for you to add my name to your mailing_list
+          clozed: Would|it|be|possible|for|you|to|add|my|name|to|your|mailing_list
+        -
+          sentence: Could you send me your latest catalogue at the above address?
+          clozed: Could|you|send|me|your|latest|catalogue|at|the|above|End
+        
 reason:
   jigsaw:
     0:
