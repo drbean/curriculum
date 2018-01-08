@@ -353,7 +353,7 @@ hair:
   jigsaw:
     0:
       identifier: hair
-      A: A woman is walking you down the street. A man who cuts dogs' hair notices your crazy hair.
+      A: You are a dog. A woman is walking you. A man who cuts dogs' hair notices your crazy hair.
       B: You just washed your dog. Its hair is crazy. You are walking it down the street when a man sees it.
       C: You are making a new shampoo for dogs. You remember the woman's dog you saw in the street.
       quiz:
