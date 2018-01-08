@@ -360,20 +360,20 @@ hair:
         - question: A
           option:
             - a dog
-            - a man who cuts dogs' hair
-            - a woman who owns a dog
+            - a dogs' haircutter
+            - a dog owner
           answer: a dog
         - question: B
           option:
             - a dog
-            - a man who cuts dogs' hair
-            - a woman who owns a dog
+            - a dogs' haircutter
+            - a dog owner
           answer: a woman who owns a dog
         - question: C
           option:
             - a dog
-            - a man who cuts dogs' hair
-            - a woman who owns a dog
+            - a dogs' haircutter
+            - a dog owner
           answer: a man who cuts dogs' hair
         - question: The woman has crazy hair
           answer: False
