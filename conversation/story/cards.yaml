@@ -319,6 +319,36 @@ gold:
           answer: False
         - question: The gold is at the bottom of the sea.
           answer: True
+    1:
+      identifier: gold
+      A: While you are filming a show about a coral reef, you discover gold in a shipwreck.
+      B: You were carrying gold, but you sank near a coral reef. Divers discover you while filming the reef.
+      C: Divers are filming a show about you when they find gold in a shipwreck near you.
+      quiz:
+        - question: A
+          option:
+            - a coral reef
+            - a shipwreck
+            - some divers
+          answer: some divers
+        - question: B
+          option:
+            - a coral reef
+            - a shipwreck
+            - some divers
+          answer: a shipwreck
+        - question: C
+          option:
+            - a coral reef
+            - a shipwreck
+            - some divers
+          answer: a coral reef
+        - question: The divers were looking for the gold.
+          answer: False
+        - question: The divers find the gold before starting to film.
+          answer: False
+        - question: The gold is at the bottom of the sea.
+          answer: True
 hair:
   jigsaw:
     0:
