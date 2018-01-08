@@ -220,3 +220,13 @@ feature:
       thin  : 瘦
       big   : 大
       small : 小
+  1:
+    flash:
+      tall     : 高
+      short    : 短
+      beautiful: 美麗
+      ugly     : 醜陋
+      young    : 年輕
+      old      : 舊
+      strong   : 強大
+      weak     : 弱
