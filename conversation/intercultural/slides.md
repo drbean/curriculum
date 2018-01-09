@@ -34,3 +34,8 @@ Upload a file under your own name, if you want to be sure Dr Bean won't make a m
 
 Ask Dr Bean a question like those on p32. Prepare to answer his questions about different cultures.
 
+Write your question here. Put one keyword in the subject line.
+
+YOU MUST WRITE YOUR QUESTION BEFORE you come with your partner to talk to Dr Bean.
+
+Your question must be a different question than everyone else's question.
