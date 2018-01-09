@@ -388,5 +388,33 @@ ambulance:
       A: You are having breakfast when a woman drives your ambulance away. You call the police.
       B: You take a man's ambulance but the police catch you while you are driving it at 150 kilometers per hour.
       C: You chase and catch a woman who is driving at 150 kilometers per hour.
-      
       quiz:
+        - question: A
+          option:
+            - ambulance driver
+            - police
+            - woman
+          answer: ambulance driver
+        - question: B
+          option:
+            - ambulance driver
+            - police
+            - woman
+          answer: woman
+        - question: C
+          option:
+            - ambulance driver
+            - police
+            - woman
+          answer: police
+        - question: The man had left the ambulance when the woman got in.
+          answer: True
+        - question: The man stopped eating breakfast to call police.
+          answer: True
+        - question: The police were driving faster than 150 kph.
+          answer: True
+        - question: 
+          answer: 
+        
+        
+        
