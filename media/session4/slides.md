@@ -191,7 +191,8 @@ Each student will introduce his/her news item, taking 30 seconds.
 
 ## Car part in man's arm (no video)
 
-- [20cm car part, in/from man's arm, after 51 years](http://news.yahoo.com/51-years-wreck-7-inch-car-part-found-164436702.html)
+- [20cm car part, in/from man's arm, after 51 years](https://www.google.com.tw/search?q=51-+%2Byears-wreck-7-inch-car-part-found-&rlz=1C1GIWA_enTW643TW643&oq=51-+%2Byears-wreck-7-inch-car-part-found-&aqs=chrome..69i57.2643j0j9&sourceid=chrome&ie=UTF-8)
+- [metal part in man's arm 51 years](https://www.google.com.tw/search?q=metal+part+in+man+arm+51+years&rlz=1C1GIWA_enTW643TW643&oq=metal+part+in+man+arm+51+years&aqs=chrome..69i57.9406j0j7&sourceid=chrome&ie=UTF-8)
 
 . . .
 
