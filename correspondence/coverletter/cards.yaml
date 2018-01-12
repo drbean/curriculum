@@ -45,10 +45,25 @@ attach:
       identifier: attach7
       sentence: I am attaching it to this message.
       clozed: I|am|attaching|it|to|this|message.
-    8:
+    8a:
       identifier: attach8
       sentence: I am attaching the file to this message.
       clozed: I|am|attaching|the|file|to|this|message.
+    8:
+      identifier: attach8
+      sentences:
+      -
+        sentence: I have attached the file which Dr Bean asked me to send to you.
+        clozed: I|have|attached|the|file|which|Dr|Bean|asked me|to|send|to|you.
+      -
+        sentence: Please find attached the catalogue which you requested on 15/12.
+        clozed: Please|find|attached|the|catalogue|which|you|requested|on|15/12.
+      -
+        sentence: Sorry, I forgot to attach the file to the previous message.
+        clozed: Sorry|I|forgot|to|attach|the|file|to|the|previous|message.
+      
+      
+      
 
 article:
   jigsaw:
