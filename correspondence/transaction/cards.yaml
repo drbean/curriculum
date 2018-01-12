@@ -83,6 +83,58 @@ watermelon:
            - Order
            - Quotation
           answer: Order
+orange:
+  jigsaw:
+    0:
+      identifier: orange
+      quiz:
+        - question: How much are the oranges?
+          option:
+           - Inquiry
+           - Order
+           - Quotation
+          answer: Inquiry
+        - question: They're 15NT per kilogram
+          option:
+           - Inquiry
+           - Order
+           - Quotation
+          answer: Quotation
+        - question: (Picks 5 oranges) I want these 5.
+          option:
+           - Inquiry
+           - Order
+           - Quotation
+          answer: Order
+function:
+  jigsaw:
+    0:
+      identifier: function
+      quiz:
+        - question: "The function of promotion/product introduction is to:"
+          option:
+            - get a product/service
+            - get information
+            - give information
+          answer: give information
+        - question: "The function of the inquiry is to:"
+          option:
+            - get information
+            - get a product/service
+            - give information
+          answer: get information
+        - question: "The function of the offer/quotation is to:"
+          option:
+            - get information
+            - get a product/service
+            - give information
+          answer: give information
+        - question: "The function of the order is to:"
+          option:
+            - get information
+            - get a product/service
+            - give information
+          answer: get a product/service
 
 definition:
   jigsaw:
