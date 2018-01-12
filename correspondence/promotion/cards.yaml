@@ -54,6 +54,24 @@ raspberry:
         -
           sentence: We believe this is an excellent opportunity to give every child in Taiwan their own computer.
           clozed: We|believe|this|is|an|excellent|opportunity|to|give|every|child|in|Taiwan|their|own|computer|End
+golf:
+  drag:
+    0:
+      identifier: golf drag
+      sentences:
+        -
+          sentence: We saw your advertisement in the latest issue of Golf_World, and understand that you have a chain of golf stores in Taiwan.
+          clozed: We|saw|your|advertisement|in|the|latest|issue|of|Golf_World|and|understand|that|you|have|a|chain|of|golf|stores|in|Taiwan.
+        -
+          sentence: We are a large distributor of golf equipment in the US.
+          clozed: We|are|a|large|distributor|of|golf|equipment|in|the|US.
+        -
+          sentence: Our customers include Dick’s Sporting Goods and other large golf stores in the US.
+          clozed: Our|customers|include|Dick’s|Sporting|Goods|and|other|large|golf|stores|in|the|US.
+        
+        
+        
+
   scramble:
     0:
       identifier: step 1
