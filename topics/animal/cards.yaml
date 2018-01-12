@@ -21,6 +21,16 @@ animals:
       monkey   : 猴
       parrot   : 鸚鵡
       octopus  : 章魚
+  2:
+    flash:
+      bear         : 熊
+      camel        : 駱駝
+      flamingo     : 火烈鳥
+      hippopotamus : 河馬
+      gorilla      : 大猩猩
+      parrot       : 鸚鵡
+      snake        : 蛇
+      zebra        : 斑馬
   bingo: 
     - bee cats cows dogs goat goldfish horses lions monkey parrot polar_bear shark sheep tigers zebra
     - panda_bear turtle flamingo bat bamboo shell fur snail hamster pet vet/veterinarian dog cat beetle moth cricket spider butterfly ladybug ant bee chick eagle swan nest
