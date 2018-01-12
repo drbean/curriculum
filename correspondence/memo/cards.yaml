@@ -73,7 +73,41 @@ formalmemo:
             - Neutral
             - Formal
           answer: 
-        
+
+inspection:
+  jigsaw:
+    0:
+      identifier: inspectors
+      quiz:
+        - question: |+
+            1. Inspectors ..
+            2. The inspectors are from the ISO.
+            3. the verb is "visit" (Hint: Use the present continuous)
+            4. When? "next week"
+            5. The purpose of the visit is this year's quality inspection. (Hint: Use 'to' + the infinite form of 'perform')
+          option:
+            - Inspectors from the ISO are visiting next week to perform this year's quality inspection.
+          answer: Inspectors from the ISO are visiting next week to perform this year's quality inspection.
+move:
+  jigsaw:
+    0:
+      identifier: move
+      quiz:
+        - question: |+
+            1. A husband
+            2. Whose husband? Mine, of course. So, "My .."
+            3. the verb is "receive" (Hint: Use the present perfect with "just" between "has" and the past participle of "receive")
+            4. What? "a job offer"
+            5. Where is the job offer? "in the Oxford area"
+            6. continue with a comma, and "and"
+            7. I
+            8. the verb is "wonder" (Hint: Use the present continuous)
+            9. if I
+            10. can + "transfer" (Hint: Use the present perfect. The spelling of the past participle of "transfer" is "transferred")
+            11. Where? "to the Oxford branch."
+          option:
+            - My husband has received a job offer in the Oxford area, and I am wondering if I can be transferred to the Oxford branch.
+          answer: My husband has received a job offer in the Oxford area, and I am wondering if I can be transferred to the Oxford branch.
 elective:
   jigsaw:
     0:
