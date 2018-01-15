@@ -93,4 +93,20 @@ In paragraph 4, call for action. What should the reader do after reading the ema
 
 Keep the email short. I don't want more than 50 words. There is no need for To, From, Subject, Date lines and no need for letterhead, inside address, salutation and the other elements of the business letter.
 
+## raspberry pi promotion
+
+Write the email the Raspberry Pi Foundation sent to Best Future Company (Taiwan), a big distributor of computer equipment in Taiwan.
+
+In paragraph 1, say:
+
+- That you met a representative of Best Future at the Comtec trade show in December.
+- That the purpose of your message is to get distribution of Raspberry Pi products in Taiwan.
+
+In paragraph 2, say that the Raspberry_Pi Foundation, has developed a series of credit-card-sized computers to promote the teaching of basic computer knowledge.
+
+In paragraph 3, say the Raspberry Pi gives Best Future an excellent opportunity to put a computer in the hands of every child in Taiwan.
+
+In paragraph 4, say, Do not hesitate to contact us, if you are interested, through our web page, at http://raspberrypi.org.
+
+Do no more than this. You don't need to invent facts. Use the sentences Dr Bean is giving you here. There is no need for To, From, Subject, Date lines and no need for letterhead, inside address, salutation and the other elements of the business letter.
 
