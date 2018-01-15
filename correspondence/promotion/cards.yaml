@@ -115,6 +115,46 @@ kendall:
         - Our soups are stocked by major supermarkets all over Taiwan.
         - Our selling-point is the taste, which is unrivaled by canned soups.
         - Our range of soups is constantly changing, depending on the season and the popularity of each soup.
+  drag:
+    0:
+      identifier: 
+      sentences:
+        -
+          sentence: We are an up-and-coming business, making fresh soups in a paper container.
+          clozed: We|are|an|business|making|fresh|soups|in|a|paper|container|End
+        -
+          sentence: Our soups are sold by major supermarkets around Taiwan.
+          clozed: Our|soups|are|sold|by|major|supermarkets|around|Taiwan|End
+        -
+          sentence: Our selling-point is the taste, which is unrivaled by canned soups.
+          clozed: Our|is|the|taste|which|is|by|canned|soups|End
+        -
+          sentence: Our range of soups is constantly changing, depending on the season and the popularity of each soup.
+          clozed: Our|range|of|soups|is|changing|depending|on|the|and|the|of|each|soup|End
+  match:
+    0:
+      identifier: kendall structure match
+      pair:
+        -
+          - "Source of knowledge about reader:"
+          - "You are well-known as a leading Japanese distributor of Taiwanese food products."
+        -
+          - "Purpose of email:"
+          - "We are wondering if you would be interested in distributing our fresh soups there."
+        -
+          - "Writer's company:"
+          - "We are a new company selling fresh soup, not soup in cans or dried in packets."
+        -
+          - "Selling points:"
+          - "The range and taste of our soups is unmatched by those other forms of soup and the soups are being stocked by supermarkets all over Taiwan."
+        -
+          - "Call to action:"
+          - "Check out our website, or give us a call. We would love to send you some samples."
+        
+        
+        
+        
+        
 
     
 step:
@@ -250,6 +290,141 @@ step:
             - step 3. selling points of the diet drink
             - step 4. call to action
           answer: step 3. selling points of the diet drink
+    1:
+      identifier: diet drink and promotion steps
+      quiz:
+        - question: |+
+            From: Health News <contact@haroldewt.date>,
+            Subject: This made me lose 140lbs last month
+            \n
+            ** From your activity on the Internet, we know this is the right place to send this email **
+            \n
+            We are a legitimate, trustworthy diet drink producing company.
+            \n
+            Drink our diet soda -- You will lose 20 kilogram.
+            \n
+            You will be surprised how fast you lose weight.
+            \n
+            These steps will literally stun you - beyond your wildest imagination.
+            \n
+            You know what to do? Open this link--http://dietdrink.com
+          option:
+            - step 1a. source of reader's email address
+            - step 1b. aim of message
+            - step 2. description of the diet drink company
+            - step 3. selling points of the diet drink
+            - step 4. call to action
+          answer: step 1a. source of reader's email address
+        - question: |+
+            From: Health News <contact@haroldewt.date>,
+            Subject: This made me lose 140lbs last month
+            \n
+            From your activity on the Internet, we know this is the right place to send this email
+            \n
+            ** We are a legitimate, trustworthy diet drink producing company. **
+            \n
+            Drink our diet soda -- You will lose 20 kilogram.
+            \n
+            You will be surprised how fast you lose weight.
+            \n
+            These steps will literally stun you - beyond your wildest imagination.
+            \n
+            You know what to do? Open this link--http://dietdrink.com
+          option:
+            - step 1a. source of reader's email address
+            - step 1b. aim of message
+            - step 2. description of the diet drink company
+            - step 3. selling points of the diet drink
+            - step 4. call to action
+          answer: step 2. description of the diet drink company
+        - question: |+
+            From: Health News <contact@haroldewt.date>,
+            Subject: This made me lose 140lbs last month
+            \n
+            From your activity on the Internet, we know this is the right place to send this email
+            \n
+            We are a legitimate, trustworthy diet drink producing company.
+            \n
+            ** Drink our diet soda -- You will lose 20 kilogram. **
+            \n
+            You will be surprised how fast you lose weight.
+            \n
+            These steps will literally stun you - beyond your wildest imagination.
+            \n
+            You know what to do? Open this link--http://dietdrink.com
+          option:
+            - step 1a. source of reader's email address
+            - step 1b. aim of message
+            - step 2. description of the diet drink company
+            - step 3. selling points of the diet drink
+            - step 4. call to action
+          answer: step 1b. aim of message
+        - question: |+
+            From: Health News <contact@haroldewt.date>,
+            Subject: This made me lose 140lbs last month
+            \n
+            From your activity on the Internet, we know this is the right place to send this email
+            \n
+            We are a legitimate, trustworthy diet drink producing company.
+            \n
+            Drink our diet soda -- You will lose 20 kilogram.
+            \n
+            ** You will be surprised how fast you lose weight. **
+            \n
+            These steps will literally stun you - beyond your wildest imagination.
+            \n
+            You know what to do? Open this link--http://dietdrink.com
+          option:
+            - step 1a. source of reader's email address
+            - step 1b. aim of message
+            - step 2. description of the diet drink company
+            - step 3. selling points of the diet drink
+            - step 4. call to action
+          answer: step 3. selling points of the diet drink
+        - question: |+
+            From: Health News <contact@haroldewt.date>,
+            Subject: This made me lose 140lbs last month
+            \n
+            From your activity on the Internet, we know this is the right place to send this email
+            \n
+            We are a legitimate, trustworthy diet drink producing company.
+            \n
+            Drink our diet soda -- You will lose 20 kilogram.
+            \n
+            You will be surprised how fast you lose weight.
+            \n
+            ** These steps will literally stun you - beyond your wildest imagination. **
+            \n
+            You know what to do? Open this link--http://dietdrink.com
+          option:
+            - step 1a. source of reader's email address
+            - step 1b. aim of message
+            - step 2. description of the diet drink company
+            - step 3. selling points of the diet drink
+            - step 4. call to action
+          answer: step 3. selling points of the diet drink
+        - question: |+
+            From: Health News <contact@haroldewt.date>,
+            Subject: This made me lose 140lbs last month
+            \n
+            From your activity on the Internet, we know this is the right place to send this email
+            \n
+            We are a legitimate, trustworthy diet drink producing company.
+            \n
+            Drink our diet soda -- You will lose 20 kilogram.
+            \n
+            You will be surprised how fast you lose weight.
+            \n
+            These steps will literally stun you - beyond your wildest imagination.
+            \n
+            ** You know what to do? Open this link--http://dietdrink.com **
+          option:
+            - step 1a. source of reader's email address
+            - step 1b. aim of message
+            - step 2. description of the diet drink company
+            - step 3. selling points of the diet drink
+            - step 4. call to action
+          answer: step 4. call to action
 backpack:
   match:
     0:
