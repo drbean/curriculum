@@ -190,6 +190,25 @@ scramble:
         -
           sentence: Could you send me your latest catalogue at the above address?
           clozed: Could|you|send|me|your|latest|catalogue|at|the|above|End
+    3:
+      identifier: drag inquiry
+      sentences:
+        -
+          sentence: Would it be possible to send me a copy of your latest catalogue.
+          clozed: Would|it|be|possible|to|send|me|a|copy|of|your|latest|catalogue.
+        -
+          sentence: I have a small chain of bicycle shops in Japan.
+          clozed: I|have|a|small|chain|of|bicycle|shops|in|Japan.
+        -
+          sentence: I am especially interested in your mountain bicycles.
+          clozed: I|am|especially|interested|in|your|mountain|bicycles.
+        -
+          sentence: Your bicycles are becoming very popular in Taiwan, but there is no local distributor here.
+          clozed: Your|bicycles|are|becoming|very|popular|in|Taiwan,|but|there|is|no|local|distributor|here.
+        
+        
+        
+        
         
 reason:
   jigsaw:
@@ -243,6 +262,13 @@ survey:
       sentence: Dear Alumnus, <p> The College of Business is currently conducting a survey which we hope will help in increasing the quality of our courses. We hope to identify the strengths and weaknesses so we can create the best environment possible for our business students. <p> answering the enclosed survey will help us do this, by identifying the progress our graduates have made in their careers. Our students would also be_helped by having an idea of the salaries they can expect. <p> We promise that all information received will only be released in summary statistics. <p> We are eagerly awaiting your reply and would appreciate it arriving before January 31. For your convenience, we are also including a stamped/addressed envelope.
       
       clozed: Alumnus|conducting|help|increasing|best|business|answering|careers|be_helped|promise|eagerly|appreciate|convenience|stamped/addressed
+    1:
+      identifier: asu survey
+      sentences:
+        -
+          sentence: Dear Alumnus, <p> The School of Business is now conducting a survey which we hope will help in increasing the quality of our courses. We hope to identify the strengths and weaknesses so we can create the best environment possible for our business students. <p> Answering the enclosed survey will help us do this, by identifying the progress our graduates have made in their careers. Our students would also be_helped by having an idea of the salaries they can expect. <p> We promise that all information received will only be released in summary statistics. <p> We are looking_forward to your reply and would ask you to send it before January 31. For your convenience, we are also including a stamped/addressed envelope.
+          
+          clozed: School|now|help|increasing|courses|hope|can|best|business|Answering|identifying|careers|be_helped|promise|looking_forward|ask|convenience|stamped/addressed
 step:
   jigsaw:
     0:
@@ -250,8 +276,11 @@ step:
       quiz:
         - question: |+
            **I have recently seen your advertisement of candies for the Chinese New Year and learned that you are the largest distributor in Canada.**
+           <p>
            I am a sales manager from ABC Candy Company. Our company is a retailers of candies and we are going to sell some candies around the coming Chinese New Year festival.
+           <p>
            I want to inquire the price of the candies which is on your advertisement and the numbers are 27, 58, 96, 102. And how can I get discount for the price?
+           <p>
            Please contact me after you read this letter. Our company looks forward to working work with you.
           option:
             - 1a. Where you heard about the reader's company
@@ -262,8 +291,11 @@ step:
           answer: 1a. Where you heard about the reader's company
         - question: |+
            I have recently seen your advertisement of candies for the Chinese New Year and learned that you are the largest distributor in Canada.
+           <p>
            **I am a sales manager from ABC Candy Company. Our company is a retailers of candies and we are going to sell some candies around the coming Chinese New Year festival.**
+           <p>
            I want to inquire the price of the candies which is on your advertisement and the numbers are 27, 58, 96, 102. And how can I get discount for the price?
+           <p>
            Please contact me after you read this letter. Our company looks forward to working work with you.
           option:
             - 1a. Where you heard about the reader's company
@@ -274,8 +306,11 @@ step:
           answer: 1b. Some information about the writer's company
         - question: |+
            I have recently seen your advertisement of candies for the Chinese New Year and learned that you are the largest distributor in Canada.
+           <p>
            I am a sales manager from ABC Candy Company. Our company is a retailers of candies and we are going to sell some candies around the coming Chinese New Year festival.
+           <p>
            **I want to inquire the price of the candies which is on your advertisement and the numbers are 27, 58, 96, 102. And how can I get discount for the price?**
+           <p>
            Please contact me after you read this letter. Our company looks forward to working work with you.
           option:
             - 1a. Where you heard about the reader's company
@@ -286,8 +321,11 @@ step:
           answer: 2. the actual request/inquiry
         - question: |+
            I have recently seen your advertisement of candies for the Chinese New Year and learned that you are the largest distributor in Canada.
+           <p>
            I am a sales manager from ABC Candy Company. Our company is a retailers of candies and we are going to sell some candies around the coming Chinese New Year festival.
+           <p>
            I want to inquire the price of the candies which is on your advertisement and the numbers are 27, 58, 96, 102. And how can I get discount for the price?
+           <p>
            **Please contact me after you read this letter. Our company really looks forward to working with you.**
           option:
             - 1a. Where you heard about the reader's company
