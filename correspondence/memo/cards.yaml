@@ -73,6 +73,52 @@ formalmemo:
             - Neutral
             - Formal
           answer: 
+    2:
+      identifier: formality adjusted again
+      quiz:
+        - question: |+
+            To:      All members of staff
+            From:    Arnel Ranjit
+            Date:    10 January
+            Subject: ISO visit
+            \n
+            Hey everyone, annual ISO inspection again next week.
+            ISO inspectors are visiting from Monday to Friday.
+            Can you be as helpful as possible to them? Gotta make sure the company keeps its ISO certification. Smile.
+          option:
+            - Informal
+            - Neutral
+            - Formal
+          answer: Neutral
+        - question: |+
+            To:      Elisa Johns
+            From:    Paula Andrews
+            Date:    9 January 2017
+            Subject: Printing file
+            \n
+            Dear Ms Johns
+            I must apologize for troubling you, but a few alterations need to be made to the designs before they can be sent to the printers. However I have failed to open the file you sent me on my computer. It must be my mistake, but would it be possible for you to email it to me again in a different format.
+            Thanking you, in advance. And again, my apologies.
+            Yours sincerely,
+            Paula Andrews (Ms)
+          option:
+            - Informal
+            - Neutral
+            - Formal
+          answer: Formal
+        - question: |+
+            To:      Jane Odell, Human Resources
+            From:    Jack Johnson, Sales
+            Subject: Transfer
+            \n
+            Dear Jane,
+            My wife has received a job offer in the Oxford area, and I am wondering if I can be transferred to the Oxford branch.
+            Jack Johnson
+          option:
+            - Informal
+            - Neutral
+            - Formal
+          answer: Neutral
 
 inspection:
   jigsaw:
@@ -232,5 +278,50 @@ list:
             -   3. indentation of following lines
             -   4. None of the above
           answer: 3. indentation of following lines
+    1:
+      identifier: list
+      quiz:
+        - question: |+
+            Here is a list:
+            __1. Item 1
+            __2. Item 2
+            __3. Item 3
+            _4. Item 4
+            \n
+            The problem is:
+          option:
+            -   1. introductory information
+            -   2. Same indentation of list items
+            -   3. indentation of following lines
+            - 4. None of the above
+          answer: 2. Same indentation of list items 
+        - question: |+
+            Here is a list:
+              1. Item 1 is very llllllllllllllllllllong
+              2. Item 2 is very llllllllllllllllllllong
+              3. Item 3 is very llllllllllllllllllllong,
+            very llllllllllllllllllllong
+              4. Item 4
+            \n
+            The problem is:
+          option:
+            -   1. introductory information
+            -   2. Same indentation of list items
+            -   3. indentation of following lines
+            -   4. None of the above
+          answer: 3. indentation of following lines
+        - question: |+
+            1. Item 1
+            2. Item 2
+            3. Item 3
+            4. Item 4
+            \n
+            The problem is:
+          option:
+            -   1. introductory information
+            -   2. Same indentation of list items
+            -   3. indentation of following lines
+            -   4. None of the above
+          answer: 1. introductory information
         
         
