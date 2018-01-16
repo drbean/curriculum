@@ -368,13 +368,13 @@ hair:
             - a dog
             - a dogs' haircutter
             - a dog owner
-          answer: a woman who owns a dog
+          answer: a dogs' haircutter
         - question: C
           option:
             - a dog
             - a dogs' haircutter
             - a dog owner
-          answer: a man who cuts dogs' hair
+          answer: a dog owner
         - question: The woman has crazy hair
           answer: False
         - question: The man sees the dog before the woman starts walking it.
@@ -413,8 +413,6 @@ ambulance:
           answer: True
         - question: The police were driving faster than 150 kph.
           answer: True
-        - question: 
-          answer: 
         
         
         
