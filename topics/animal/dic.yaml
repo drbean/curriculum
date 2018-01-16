@@ -239,6 +239,24 @@
     B: That’s a lot!
     G: Yes. First, I fed them all. Then I walked the dog and cleaned the hamster’s cage.
   - Katherine|hamster|End
+-
+  - "pet-4"
+  - "pet-4"
+  - "topics"
+  - "all"
+  - |+
+    G: What pet do you want?
+    B: I’d like to get a dog, but I can't.
+    G: You live in the middle of the city.
+    B: Yes. Dogs need a lot of open space.
+    G: What other pet would you like?
+    B: Cats are good pets. They are quiet.
+    G: Yes, and they like to be alone.
+    B: But they make my mom sick.
+    G: What pet did she say you can get?
+    B: She says I can have a fish instead.
+  - dog|can't|Yes|like|alone|make|mom|End
+
 ---
 -
   - genre
