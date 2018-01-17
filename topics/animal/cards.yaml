@@ -37,6 +37,16 @@ animals:
     - squirrels flowers birds trees butterflies ladybugs people adults men women children boys girls horse duck hen cow pig sheep
     - owl dog iguana rabbit cat alligator crocodile butterfly frog giraffe lion elephant tiger ostrich monkey parrot blue pink orange red yellow green
 bird:
+  0:
+    flash:
+      nest  : 巢
+      chick : 小雞
+      swan  : 天鵝
+      north : 北
+      lake  : 湖
+      crack : 裂紋
+      south : 南
+      eagle : 鷹
   bingo:
     -
       - Do you know a good area for bird watching? _There is a quiet park with many different birds near here._
