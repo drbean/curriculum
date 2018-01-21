@@ -247,7 +247,7 @@ Bring along your study plan in Week 18.
 
 ## Studying language--the effect on exams. An IMRAD report
 
-You studied for exams (with a study buddy, or not) on Monday, Tuesday and this morning. Choose one (1) exam to write about.
+You studied for exams (with a study buddy, or not) this week. Choose one (1) exam to write about.
 
 What effect did your study have on that exam? You don't have a grade for the exam, but you have a subjective experience. Write about it and the relation between what you did before the exam.
 
@@ -268,10 +268,38 @@ What effect did your study have on that exam? You don't have a grade for the exa
 - your feelings in/after the exam
 - other results connecting the study preparing for the exam and the experience during it
 
-### Conclusion
+### Discussion
 
-- what you learned about language learning/teaching, study, and exam preparation
+- what you learned about exam preparation
 	- talk about goals, activities, success and failure
 - what you will do next semester preparing for exams
 - what you think about yourself in your identity as a language learner
 
+## Studying for language exams: an opinion survey
+
+What 3 questions would you ask other people about good ways to prepare for language exams?
+
+### Introduction
+
+- What is the purpose of studying for exams?
+- What happened to you this semester in Week 17 & 18, studying and doing language exams?
+
+	- Refer to your other essay: "In my IMRAD essay, I reported that blah blah .."
+
+- What do you plan to do different next semester?
+
+### Method
+
+Three (3) questions with three (3) answers each.
+
+### Results
+
+Don't imagine other students' answers to your three (3) questions.
+
+Instead, imagine what other students might tell you about studying (or, not studying) for exams. Write down what they might say.
+
+### Discussion
+
+- What are your answers to your three (3) questions?
+- What do you think about what you imagined that other people said?
+- What are you going to do next semester, studying for exams?
