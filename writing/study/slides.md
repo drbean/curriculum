@@ -42,6 +42,78 @@ B. Make them clear goals. Otherwise, they will be difficult to carry out.
 - [From the textbook ](http://web.nuu.edu.tw/~greg/textbook.pdf)
 
 
+### Max, Roundy's goals
+
+   Say whose activity you will choose for the Teach-yourself homework next week. Why will you choose that person's activity? Remember the
+   better activities are those with simple, clear and concrete goals.
+
+    Max's activities:
+
+   Q1.What's the skill of Japanese need to improve first?
+
+        a.Writing skills
+
+        b.Oral skills
+
+        c.Reading skills
+
+   Q2.Do you think learn by listening CD is a good idea?
+
+        a.Yes
+
+        b.No
+
+   Q3.What would you do if you get some diffcult problem on Japanese?
+
+        a.Ask for teacher
+
+        b.Search the internet
+
+        c.Give up
+
+    Roundy's activities:
+
+   Q1:What should I do to start learning English?
+
+   A.memorize vocabulary word(s)
+
+   B.Practice the phrase
+
+   C.Read the article
+
+   Q2:How to develop effective Learning project？
+
+   A.Watch English videos Subtitles are not included.
+
+   B.Practice words and phrases and then see the article and the film.
+
+   C.Listen to English songs
+
+   Q3:How to quickly strengthen the English communication skills？
+
+   Q1:What should I do to start learning English?
+
+   A.memorize vocabulary word(s)
+
+   B.Practice the phrase
+
+   C.Read the article
+
+   Q2:How to develop effective Learning project？
+
+   A.Watch English videos Subtitles are not included.
+
+   B.Practice words and phrases and then see the article and the film.
+
+   C.Listen to English songs
+
+   Q3:How to quickly strengthen the English communication skills？
+
+   A.Chat with foreigners
+
+   B.Chat with Taiwanese who not good at English
+
+   C.Study English dictation by yourself
 
 
 ## Study buddy choice, plan, comments
