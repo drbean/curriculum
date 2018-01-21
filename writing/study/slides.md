@@ -285,6 +285,12 @@ sections of an IMRAD essay.
 
 Try to include as much detail as possible. Mention the textbook name, the words, or expressions, or other things you studied.
 
+## Implemented? Real or Just talk
+
+Did they actually study or are they just imagining they studied, eg If they studied what would happen.
+
+Dr Bean's judgment, not what they really did. So don't ask them. Look at what they wrote.
+
 # Exam Prep
 
 ## 5 minute teaching with study buddy
