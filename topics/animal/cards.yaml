@@ -220,6 +220,13 @@ pet:
       - "B: What does Polly say? _G: It says, “How are you?” and “Thank you.”_"
       - "B: Are parrots good pets? _G: Yes, they’re gentle and pretty._"
     - parrot friends feed cage bathe pets store goldfish dirty dog people buy things lives big glass bowl two cats three
+    - a_new_pet the_pet_store cages a_puppy a_parrot a_small_animal a_quiet_animal a_goldfish
+    -
+      - "G: Is your hamster hard to take care of, Andrew? _B: No, I just have to feed it and clean its cage._" 
+      - "G: Does it like exercise? _B: Yes, it loves running on the toy inside its cage._"
+      - "G: Do you ever take it out of the cage? _B: No, but yesterday it opened its cage door and got out._"
+      - "G: Oh, no! Where did you find it? _B: Under my bed!_"
+
     - Diane buy new many go pet store zoo farm big animals cages puppy sleep too_much parrot talk small quiet goldfish
     - Mary feed goldfish bathe dirty wait! why_not problem soap bad tell want hurt fish girl boy pet store buy
     - dog cat parrot soap many pet people smart think some loud fun very too your friend animal goldfish speak
