@@ -88,4 +88,17 @@ Write down one or two words (or a sentence) identifying the characteristic (or a
 Do it exactly this way, naming the 8 characteristics on 8 lines, with a word, or sentence, explaining each of them, but with
 your explanations, not mine.
 
+## audience
+
+Choose 2 of the 6 important points about audience:
+  1. Reader Interest
+  2. Reader Knowledge
+  3. Reader Purpose
+  4. Reader Views on Topic
+  5. Reader Relationship with Writer
+  6. Reader Preferred Style
+For each of the 2 points:
+   o Write descriptions of 2 different emails, or 2 different people.
+   o Write a question about the difference between the 2 emails/people.
+
 ## The end
