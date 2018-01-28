@@ -49,7 +49,7 @@ Complimentary close
 
 Signature
 
-# Homework: 函 in English
+## Homework: 函 in English
 
 How would a 函 be written in English? Include:
 
@@ -73,5 +73,19 @@ Complimentary close
 Signature [ Name: Andy Cheu-An Bi, Position: Director General ]
 
  [If you are interested, see bottom of https://ws.moe.edu.tw/001/Upload/7/relfile/0/1495/3278ed48-601a-4ea8-8dac-517b1a548a49.pdf for English name, position]
+
+## 8 Cs
+
+Write down one or two words (or a sentence) identifying the characteristic (or a lack of the characteristic) this way:
+1. clear - blah, blah, blah
+2. concise - The email goes on and on
+3. concrete - something not concrete
+4. correct - hey
+5. coherent - kkk
+6. complete - 666
+7. courteous - a word meaning courteous
+8. considerate - 8888
+Do it exactly this way, naming the 8 characteristics on 8 lines, with a word, or sentence, explaining each of them, but with
+your explanations, not mine.
 
 ## The end
