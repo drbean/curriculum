@@ -265,6 +265,18 @@ Jason Blair was _____(1) at the New York Times as an intern with another _____(2
 - [Blairs' NY Times article on April 26](http://www.nytimes.com/2003/04/26/us/aftereffects-the-missing-family-waits-now-alone-for-a-missing-soldier.html)
 - [Hernandez' article in San-Antonio Reporter on April 18](http://www.jaysonblair.com/articles/san-antonio180403.html)
 
+## Blair exercise
+
+|	Find sentences and parts of sentences which show Blair copied Hernandez's article.
+|	Blair's article
+|	Hernandez' article
+|	For example,
+|	1.
+|	Hernandez:
+|	Blair:
+|	2.
+|	Hernandez:
+|	Blair:
 
 # Antonin Scalia--Supreme Court judge
 
