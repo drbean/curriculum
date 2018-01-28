@@ -1,0 +1,57 @@
+---
+genre: news
+wedge:
+  jigsaw:
+    0:
+      identifier: wedge
+      quiz:
+        - question: The car entered the walkway from the walkway entrance.
+          answer: False
+        - question: The car crashed through the barrier separating cars from bicycle riders and pedestrians.
+          answer: True
+        - question: The man has been charged with dangerous driving.
+          answer: False
+        - question: The car traveled 400 meters/yards on the walkway.
+          answer: True
+        - question: The car was stuck between the barriers.
+          answer: True
+ring:
+  jigsaw:
+    0:
+      identifier: ring
+      quiz:
+        - question: Gerta and Renee knew each other.
+          answer: False
+        - question: Gerta's husband is dead.
+          answer: True
+        - question: Renee's husband is dead.
+          answer: True
+        - question: The ring was important for Renee.
+          answer: True
+        - question: The ring was important for Gerta.
+          answer: False
+norad:
+  jigsaw:
+    0:
+      identifier: norad
+      quiz:
+        - question: NORAD says Santa is real
+          answer: True
+        - question: NORAD started to track Santa in 1965.
+          answer: False
+arm:
+  jigsaw:
+    0:
+      identifier: metal in arm
+      quiz:
+        - question: What was his arm made of?
+          option:
+            - flesh and blood 
+	    - metal and plastic indicators 
+	    - metal 
+          answer: flesh and blood 
+        
+                  
+
+
+        
