@@ -294,4 +294,13 @@ Each student will introduce his/her news item, taking 30 seconds.
 | Why: Body temperature fell to 28°, and warm clothes, drinks failed to bring temperature back up
 | How: Imitating a New Year (human) polar bear swim seen on TV, took a cold shower
 
+## shithole countries
+
+| Who: Donald Trump, US president
+| What: Calling of Haiti, El Salvador, Africa "shit-hole" countries
+| When: Last Thursday, at a meeting of 2 bill supporters and 4,5 bill opponents
+| Where: At tense meeting to discuss immigration bill that had support from both parties but not from Trump
+| Why: Bill did not satisfy Trump and other conservative opponents of immigration to the U.S.
+| How: Trump criticized the immigration bill, saying he didn't want more people from "shit-hole" countries in the U.S.
+
 # The End
