@@ -99,6 +99,10 @@ III. The same for a third story
 Write 3,4 questions at
 [http://sac.nuu.edu.tw/cgi-bin/bett/script/bett_cgi.pl/login?exercise=ring ](http://sac.nuu.edu.tw/cgi-bin/bett/script/bett_cgi.pl/login?exercise=ring)
 
+	* What are the stories about the rings?
+	* What do you think about the stories?
+	* What do you think about Xmas giving?
+
 - [Ring, Sea, 35 years](http://news.yahoo.com/san-francisco-bay-area-man-gets-ring-back-162120431.html)
 
 ## Week 15 News
