@@ -100,5 +100,6 @@ Choose 2 of the 6 important points about audience:
 For each of the 2 points:
    o Write descriptions of 2 different emails, or 2 different people.
    o Write a question about the difference between the 2 emails/people.
+   * Write the answer to the questions
 
 ## The end
