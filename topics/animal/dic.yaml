@@ -279,6 +279,20 @@
     Then she sees a parrot. "No, parrots talk too much," she says.
     She wants a small and quiet animal. She sees a goldfish. "Yes, I want a goldfish."
   - Diane|puppy|sees|talk|much|says|goldfish|End
+-
+  - "pet-6"
+  - "pet-6"
+  - "topics"
+  - "all"
+  - |+
+    B: Hi, Mary. What are you doing?
+    G: I'm feeding my goldfish. Then, I'm going to bathe him. He's dirty.
+    B: Wait. Don't do that!
+    G: Why not? What's the problem?
+    B: You can't bathe goldfish. The soap is bad for them.
+    G: Oh! Thanks for telling me. I don't want to hurt my fish.
+  - Mary|dirty|problem|telling|hurt|End
+
 
 ---
 -
