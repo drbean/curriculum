@@ -343,10 +343,16 @@ cruise:
         - Thank you for your interest in this trip.
         - You wrote that your partner is allergic to rice.
         - You also_said that your partner is a vegetarian.
+    1:
+      identifier: p59 acknowledge
+      sentence:
         - I have contacted our catering staff about your partner's dietary requirements.
         - They are at sea, and it may take a few days for them to reply.
         - I should be able to tell you by August_3.
-        - If I cannot tell you by this date, I will contact you again.
+    2:
+      identifier: p59 acknowledge
+      sentence:
+        - Even if I cannot tell you by this date, I will contact you again.
         - I will tell you what is happening.
         - Thank you again for your inquiry about the cruise.
   match:
