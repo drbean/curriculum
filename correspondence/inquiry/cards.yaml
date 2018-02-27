@@ -355,6 +355,40 @@ cruise:
         - Even if I cannot tell you by this date, I will contact you again.
         - I will tell you what is happening.
         - Thank you again for your inquiry about the cruise.
+  drag:
+    0:
+      identifier: p59 acknowledge
+      sentences:
+        -
+          sentence: I have received your email dated July_31, concerning our November cruise around Taiwan.
+          clozed: I|have|received|your|email|dated|concerning|our|November|cruise|around|End
+        -
+          sentence: Thank you for your interest in this trip.
+          clozed: Thank|you|for|your|interest|in|this|trip|End
+        -
+          sentence: You wrote that your partner is allergic to rice.
+          clozed: You|wrote|that|your|partner|is|allergic|to|End
+        -
+          sentence: You also_said that your partner is a vegetarian.
+          clozed: You|also_said|that|your|partner|is|a|vegetarian|End
+        -
+          sentence: I have contacted our catering_staff about your partner's dietary requirements.
+          clozed: I|have|contacted|our|catering_staff|about|your|partner's|dietary|End
+        -
+          sentence: They are at sea, and it may take a few days for them to reply.
+          clozed: They|are|at|and|it|may|take|a|few|days|for|them|to|End
+        -
+          sentence: I should be able to tell you by August_3.
+          clozed: I|should|be|able|to|tell|you|by|End
+        -
+          sentence: If I cannot tell you by this date, I will contact you again.
+          clozed: If|I|cannot|tell|you|by|this||will|contact|you|End
+        -
+          sentence: I will tell you what is happening.
+          clozed: I|will|tell|you|what|is|happening|End
+        -
+          sentence: Thank you again for your inquiry about the cruise.
+          clozed: Thank you again for your inquiry about the
   match:
     1:
       identifier: sentence-structure matching
