@@ -1,0 +1,317 @@
+---
+# genre: conversation: fix
+damage:
+  jigsaw:
+    0:
+      identifier: damage description
+      quiz:
+        - question: The tablecloth isn't very clean. It .. (stain)
+          option:
+            - It has a stain on it.
+          answer: It has a stain on it.
+        - question: Could we have another water pitcher? This one ..(leak)
+          option:
+            - This one has a leak in it.
+          answer: This one has a leak in it.
+        - question: The table looks pretty dirty. The wood .., too. (scratch)
+          option:
+            - The wood has a scratch on it, too.
+          answer: The wood has a scratch on it, too.
+        - question: The waiter needs a new shirt. The one he's wearing ..(tear)
+          option:
+            - The one he's wearing has a tear in it.
+          answer: The one he's wearing has a tear in it.
+        - question: Could you bring me another cup of coffee? This cup .. (chip)
+          option:
+            - This cup has a chip in it.
+          answer: This cup has a chip in it.
+        - question: The walls really need paint. And the ceiling .. (damage)
+          option:
+            - And the ceiling has some damage on it.
+          answer: And the ceiling has some damage on it.
+    1:
+      identifier: damage words
+      quiz:
+        - question: The car is .. and the paint is ..
+          option:
+            - The car is dented and the paint is scratched.
+          answer: The car is dented and the paint is scratched.
+        - question: The pitcher is .. and it is ..
+          option:
+            - The pitcher is cracked and it is leaking.
+          answer: The pitcher is cracked and it is leaking.
+        - question: The jeans are .. and ..
+          option:
+            - The jeans are torn and stained.
+          answer: The jeans are torn and stained.
+        - question: The glasses are .. and the frames are ..
+          option:
+            - The glasses are cracked and the frames are broken.
+          answer: The glasses are cracked and the frames are broken.
+return:
+  jigsaw:
+    item:
+      identifier: item
+      quiz:
+        - question: The item in no. 1?
+          option:
+            - briefcase
+            - shirt
+            - shoes
+          answer: briefcase
+        - question: The item in no. 2?
+          option:
+            - briefcase
+            - shirt
+            - shoes
+          answer: shoes
+        - question: The item in no. 3?
+          option:
+            - briefcase
+            - shirt
+            - shoes
+          answer: shirt
+    problem:
+      identifier: problem
+      quiz:
+        - question: The problem in no. 1?
+          option:
+            - the color changed
+            - the lock is jammed
+            - the stitching is coming apart
+          answer: the lock is jammed
+        - question: The problem in no. 2?
+          option:
+            - the color changed
+            - the lock is jammed
+            - the stitching is coming apart
+          answer: the stitching is coming apart
+        - question: The problem in no. 3?
+          option:
+            - the color changed
+            - the lock is jammed
+            - the stitching is coming apart
+          answer: the color changed
+    action:
+      identifier: exchange
+      quiz:
+        - question: Will the store exchange the item in no 1?
+          option:
+            - Yes
+            - No
+          answer: Yes
+        - question: Will the store exchange the item in no 2?
+          option:
+            - Yes
+            - No
+          answer: Yes
+        - question: Will the store exchange the item in no 3?
+          option:
+            - Yes
+            - No
+          answer: No
+building:
+  jigsaw:
+    item:
+      identifier: the thing
+      quiz:
+        - question: What is the thing with the problem in no. A?
+          option:
+            - a dog
+            - the electricity
+            - the kitchen window
+            - a lightbulb
+            - the oven
+          answer: the oven
+        - question: What is the thing with the problem in no. B?
+          option:
+            - a dog
+            - the electricity
+            - the kitchen window
+            - a lightbulb
+            - the oven
+          answer: the electricity
+        - question: What is the thing with the problem in no. 1?
+          option:
+            - a dog
+            - the electricity
+            - the kitchen window
+            - a lightbulb
+            - the oven
+          answer: a lightbulb
+        - question: What is the thing with the problem in no. 2?
+          option:
+            - a dog
+            - the electricity
+            - the kitchen window
+            - a lightbulb
+            - the oven
+          answer: a dog
+        - question: What is the thing with the problem in no. 3?
+          option:
+            - a dog
+            - the electricity
+            - the kitchen window
+            - a lightbulb
+            - the oven
+          answer: the kitchen window
+    problem:
+      identifier: building problem
+      quiz:
+        - question: What is the problem in no. A?
+          option:
+            - it barks and keeps the tenant up all night
+            - it keeps burning everything
+            - it keeps going on and going off
+            - it's gone out
+            - it's jammed shut
+          answer: it keeps burning everything
+        - question: What is the problem in no. B?
+          option:
+            - it barks and keeps the tenant up all night
+            - it keeps burning everything
+            - it keeps going on and going off
+            - it's gone out
+            - it's jammed shut
+          answer: it keeps going on and going off
+        - question: What is the problem in no. 1?
+          option:
+            - it barks and keeps the tenant up all night
+            - it keeps burning everything
+            - it keeps going on and going off
+            - it's gone out
+            - it's jammed shut
+          answer: it's gone out
+        - question: What is the problem in no. 2?
+          option:
+            - it barks and keeps the tenant up all night
+            - it keeps burning everything
+            - it keeps going on and going off
+            - it's gone out
+            - it's jammed shut
+          answer: it barks and keeps the tenant up all night
+        - question: What is the problem in no. 3?
+          option:
+            - it barks and keeps the tenant up all night
+            - it keeps burning everything
+            - it keeps going on and going off
+            - it's gone out
+            - it's jammed shut
+          answer: it's jammed shut
+    action:
+      identifier: action by manager
+      quiz:
+        - question: How helpful is the building manager in no. A?
+          option:
+            - Very helpul
+            - Somewhat helpful
+            - Not helpful at all
+          answer: Very helpul
+        - question: How helpful is the building manager in no. B?
+          option:
+            - Very helpul
+            - Somewhat helpful
+            - Not helpful at all
+          answer: Very helpul
+        - question: How helpful is the building manager in no. 1?
+          option:
+            - Very helpul
+            - Somewhat helpful
+            - Not helpful at all
+          answer: Somewhat helpful
+        - question: How helpful is the building manager in no. 2?
+          option:
+            - Very helpul
+            - Somewhat helpful
+            - Not helpful at all
+          answer: Somewhat helpful
+        - question: How helpful is the building manager in no. 3?
+          option:
+            - Very helpul
+            - Somewhat helpful
+            - Not helpful at all
+          answer: Not helpful at all
+repair:
+  jigsaw:
+    0:
+      identifier: room repair
+      quiz:
+        - question: The walls (painted)
+          option:
+            - The walls need to be painted.
+          answer: The walls need to be painted.
+        - question: The rug (clean)
+          option:
+            - The rug needs to be cleaned.
+          answer: The rug needs to be cleaned.
+        - question: The windows (wash)
+          option:
+            - The windows need to be washed.
+          answer: The windows need to be washed.
+        - question: The clothes (pick up)
+          option:
+            - The clothes need to be picked up.
+          answer: The clothes need to be picked up.
+        - question: The lamp shade (replace)
+          option:
+            - The lamp shade needs to replaced.
+          answer: The lamp shade needs to replaced.
+        - question: The wastebasket (empty)
+          option:
+            - The wastebasket needs to be emptied.
+          answer: The wastebasket needs to be emptied.
+        - question: The ceiling fan (adjust)
+          option:
+            - The ceiling fan needs to be adjusted.
+          answer: The ceiling fan needs to be adjusted.
+        - question: The plant (water)
+          option:
+            - The plant needs to be watered.
+          answer: The plant needs to be watered.
+electronics:
+  jigsaw:
+    0:
+      identifier: electronics problem words
+      quiz:
+        - question: The TV screen keeps ..
+          option:
+            - flickering
+            - sticking
+          answer: flickering
+        - question: The DVD player keeps ..
+          option:
+            - crashing 
+            - skipping
+          answer: skipping
+        - question: The battery keeps ..
+          option:
+            - freezing
+            - dying
+          answer: dying
+        - question: The buttons keep ..
+          option:
+            - skipping
+            - sticking
+          answer: sticking
+        - question: The computer keeps ..
+          option:
+            - jamming
+            - crashing
+          answer: crashing
+        - question: The printer keeps ..
+          option:
+            - jamming
+            - flickering
+          answer: jamming
+        - question: A computer problem. The screen keeps ..
+          option:
+            - dropping
+            - freezing
+          answer: freezing
+        - question: Calls on the phone keep ..
+          option:
+            - dying
+            - dropping
+          answer: dropping
+        
+        
