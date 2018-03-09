@@ -711,6 +711,25 @@ reply:
         -
           sentence: Please fill out the attached form and return it by 15 January, so your order can be processed without delay.
           clozed: Please|fill|out|the|attached|form|and|return|it|by|15|so|your|order|can|be|processed|without|End
+    2:
+      identifier: reply to inquiry scramble p 63
+      sentences:
+        -
+          sentence: The goods will be dispatched within five days of a firm_order.
+          clozed: The|goods|will|be|dispatched|within|five|days|of|a|firm_order|End
+        -
+          sentence: We note our records show that payment of invoice_571 is still outstanding.
+          clozed: We|note|our|records|show|that|payment|of|invoice_571|is|still|End
+    3:
+      identifier: reply to inquiry scramble p 63
+      sentences:
+        -
+          sentence: We apologize for any inconvenience which may have been caused.
+          clozed: We|apologize|for|any|inconvenience|which|may|have|been|End
+        -
+          sentence: You can track shipping details on our websites.
+          clozed: You|can|track|shipping|details|on|our|End
         
         
         
+    
