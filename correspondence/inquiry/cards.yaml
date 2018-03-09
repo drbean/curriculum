@@ -105,7 +105,7 @@ golfer:
           - 3 (deadline)
         -
           - I look forward ..
-          - 4
+          - 4 (polite close)
     1:
       identifier: sentence-structure matching p62
       pair:
@@ -121,6 +121,27 @@ golfer:
         -
           - I hope that the information .. further assistance in the future.
           - 3 (polite close)
+    2:
+      identifier: sentence-structure matching p62
+      pair:
+        -
+          - Paragraph 1
+          - (acknowledgement) and (response to the request)
+        -
+          - Paragraph 2
+          - (extra information)
+        -
+          - Paragraph 3
+          - (polite close)
+  jigsaw:
+    0:
+      identifier: reply timing
+      quiz:
+        - question: Did Best Golf Supplies reply in a timely fashion (by Lady Golfer's expectations)?
+          option:
+            - Yes
+            - No
+          answer: No
 club:
   drag:
     0:
@@ -365,32 +386,44 @@ cruise:
         -
           sentence: Thank you for your interest in this trip.
           clozed: Thank|you|for|your|interest|in|this|trip|End
+    1:
+      identifier: p59 acknowledge
+      sentences:
         -
           sentence: You wrote that your partner is allergic to rice.
           clozed: You|wrote|that|your|partner|is|allergic|to|End
         -
           sentence: You also_said that your partner is a vegetarian.
           clozed: You|also_said|that|your|partner|is|a|vegetarian|End
+    2:
+      identifier: p59 acknowledge
+      sentences:
         -
           sentence: I have contacted our catering_staff about your partner's dietary requirements.
           clozed: I|have|contacted|our|catering_staff|about|your|partner's|dietary|End
         -
           sentence: They are at sea, and it may take a few days for them to reply.
           clozed: They|are|at|and|it|may|take|a|few|days|for|them|to|End
+    3:
+      identifier: p59 acknowledge
+      sentences:
         -
           sentence: I should be able to tell you by August_3.
           clozed: I|should|be|able|to|tell|you|by|End
         -
           sentence: If I cannot tell you by this date, I will contact you again.
-          clozed: If|I|cannot|tell|you|by|this||will|contact|you|End
+          clozed: If|I|cannot|tell|you|by|this|will|contact|you|End
         -
           sentence: I will tell you what is happening.
           clozed: I|will|tell|you|what|is|happening|End
+    4:
+      identifier: p59 acknowledge
+      sentences:
         -
           sentence: Thank you again for your inquiry about the cruise.
-          clozed: Thank you again for your inquiry about the
+          clozed: Thank|you|again|for|your|inquiry|about|the|End
   match:
-    1:
+    0:
       identifier: sentence-structure matching
       pair:
         -
@@ -401,7 +434,7 @@ cruise:
           - 1 (thanks)
         -
           - You wrote that your partner is allergic to rice, and a vegetarian.
-          - 1 (acknowledging content of inquiry)
+          - 1 (restating content of inquiry)
         - 
           - I have contacted our catering staff about your partner's dietary requirements, but they are at sea.
           - 2 (reason for delay)
@@ -417,6 +450,33 @@ cruise:
         -
           - Thank you again for your inquiry about the cruise.
           - 4 (polite close)
+  jigsaw:
+    0:
+      identifier: inquiry acknowledging structure
+      quiz:
+        - question: "Which sentence is not represented in the 4-stage inquiry acknowledgement structure: 1 (acknowledging arrival of email and thanks), 2 (reason for delay), 3 (expected reply date and promise of reply), 4 (polite close)"
+          option:
+            - I have received your email dated July_31, concerning our November cruise around Taiwan.
+            - Thank you for your interest in this trip.
+            - You wrote that your partner is allergic to rice.
+            - I have contacted our catering_staff about your partner's dietary requirements, but they are at sea, and it may take a few days for them to reply.
+            - I should be able to tell you by August_3.
+            - If I cannot tell you by this date, I will contact you again.
+            - I will tell you what is happening.
+            - Thank you again for your inquiry about the cruise.
+          answer: You wrote that your partner is allergic to rice.
+        - question: "Which sentence is not represented in the 4-stage inquiry acknowledgement structure: 1 (acknowledging arrival of email and thanks), 2 (reason for delay), 3 (expected reply date and promise of reply), 4 (polite close)"
+          option:
+            - I have received your email dated July_31, concerning our November cruise around Taiwan.
+            - Thank you for your interest in this trip.
+            - You said that your partner is a vegetarian.
+            - I have contacted our catering_staff about your partner's dietary requirements, but they are at sea, and it may take a few days for them to reply.
+            - I should be able to tell you by August_3.
+            - If I cannot tell you by this date, I will contact you again.
+            - I will tell you what is happening.
+            - Thank you again for your inquiry about the cruise.
+          answer: You said that your partner is a vegetarian.
+
 boiler:
   match:
     0:
@@ -625,3 +685,32 @@ opening:
         -
           sentence: I am writing to inquire about the 2017 Book Exhibit in Taipei. I would like to know if you are organizing this event.
           clozed: I|am|writing|to|inquire|about|the|2017|Book|Exhibit|in|Taipei|I|would|like|to|know|if|you|are|organizing|this|event.
+reply:
+  drag:
+    0:
+      identifier: reply to inquiry scramble
+      sentences:
+        -
+          sentence: Our representative will call on you at midday on Saturday, January 4.
+          clozed: Our|representative|will|call|on|you|at|midday|on|January|End
+        -
+          sentence: We are pleased to enclose a copy of our summer catalogue.
+          clozed: We|are|pleased|to|enclose|a|copy|of|our|summer|catalogue|End
+        -
+          sentence: The lens of the C-400 underwater camera can be cleaned by warm water.
+          clozed: The|lens|of|the|underwater|camera|can|be|cleaned|by|warm|End
+    1:
+      identifier: reply to inquiry scramble p 63
+      sentences:
+        -
+          sentence: Our products are available in Sogo stores.
+          clozed: Our|products|are|available|in|Sogo|End
+        -
+          sentence: It is possible to extend the life of your battery by switching it off overnight.
+          clozed: It|is|possible|to|extend|the|life|of|your|battery|by|switching|it|off|End
+        -
+          sentence: Please fill out the attached form and return it by 15 January, so your order can be processed without delay.
+          clozed: Please|fill|out|the|attached|form|and|return|it|by|15|so|your|order|can|be|processed|without|End
+        
+        
+        
