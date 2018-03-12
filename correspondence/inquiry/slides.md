@@ -27,6 +27,8 @@ Write the email to the cruise company. Include To:, From:, Subject: and Date: (i
 
 Use the information given in the book. For the first question, you need to say what your partner's dietary requirements are (Is he/she allergic to some food (what food?). Is he/she a vegetarian? You decide.) For the second and third question, you just have to change "you" to "I/me", etc.
 
+Dietary requirements: For example is your partner French, and will they only eat French food? Or, does your partner only eat one meal a day, after midnight?
+
 Do it before Sunday March 6, 8pm.
 
 ## Homework: reply to an inquiry letter about heaters, p 66
