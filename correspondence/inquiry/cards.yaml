@@ -604,6 +604,52 @@ heater:
         - Trying out this heater would allow you to see the high quality and finish of the product.
         - We hope this information is useful to you.
         - Please do not hesitate to contact me if I can be of further assistance.
+  drag:
+    0:
+      identifier: heater scramble
+      sentences:
+        -
+          sentence: Thank you for your letter concerning the electric heaters advertised in the South-east Trader.
+          clozed: Thank|you|for|your|letter|concerning|the|electric|heaters|advertised|in|the|South-east|End
+        -
+          sentence: I'm pleased to send you the illustrated catalogue and price list. 
+          clozed: I'm|pleased|to|send|you|the|illustrated|catalogue|and|price|End
+    1:
+      identifier: reply to inquiry scramble p 63
+      sentences:
+        -
+          sentence: Please find them attached to this email.
+          clozed: Please|find|them|attached|to|this|End
+        -
+          sentence: Alternatively, you may be interested in our newest model, the FZ1.
+          clozed: Alternatively|you|may|be|interested|in|our|newest|the|End
+    2:
+      identifier: reply to inquiry scramble p 63
+      sentences:
+        -
+          sentence: This model emits 15% more heat without consuming any extra fuel.
+          clozed: This|model|emits|15%|more|heat|without|consuming|any|extra|End
+        -
+          sentence: Prices and terms are enclosed in the catalogue.
+          clozed: Prices|and|terms|are|enclosed|in|the|End
+    3:
+      identifier: reply to inquiry scramble p 63
+      sentences:
+        -
+          sentence: We are offering free trials of this heater, for any time up to 30 days.
+          clozed: We|are|offering|free|trials|of|this|heater,|for|any|time|up|to|30|End
+        -
+          sentence: Trying out this heater would allow you to see the high quality and finish of the product.
+          clozed: Trying|out|this|heater|would|allow|you|to|see|the|high|quality|and|finish|of|the|End
+    4:
+      identifier: reply to inquiry scramble p 63
+      sentences:
+        -
+          sentence: We hope this information is useful to you.
+          clozed: We|hope|this|information|is|useful|to|End
+        -
+          sentence: Please do not hesitate to contact me if I can be of further assistance.
+          clozed: Please|do|not|hesitate|to|contact|me|if|I|can|be|of|further|End
   match:
     0:
       identifier: heater ordering
