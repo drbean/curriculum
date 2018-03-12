@@ -35,14 +35,14 @@ Do it before Sunday March 6, 8pm.
 
 Write the email reply to Mr Moore. Include To:, From:, Subject:
 
-Use the information given in the book.
+Use the information given in the book, and the example sentences in the "heater inquiry reply" exercises in Week 3.
 
 * For the acknowledgement, look at the examples on previous pages.
 * For the answer to the question, decide what Moore wants you to send him.
-* For the extra information, use what is written in the book, changing "the writer" to "you".
+* For the extra information, use what is written in the book, changing "the writer" to "you", and "your" to "our".
 * For the polite close, look at the examples on previous pages.
 
-Do it before Sunday March 12, 8pm.
+Do it before Sunday March 18, 8pm, or Friday March 23, 7AM(!) depending on your class.
 
 # Classwork
 
