@@ -270,6 +270,20 @@
     G: I have a very bad headache.
     B: You should stay home today.
     G: OK. I guess you're right.
+-
+  - sick-1
+  - sick-1
+  - "topics"
+  - "all"
+  - |+
+    G: What’s wrong, Brandon? Why aren't you exercising with your team?
+    B: I don’t feel well today, so I want to be alone. My neck really hurts.
+    G: What happened? 
+    B: I had an accident on my bicycle. 
+    G: Did you go to the hospital after the accident?
+    B: No. I felt fine then.
+    G: You should call your mom. She will take care of you.
+  - Brandon|End
 ---
 -
   - genre
