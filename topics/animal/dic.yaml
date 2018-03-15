@@ -307,6 +307,16 @@
     B: You can't bathe goldfish. The soap is bad for them.
     G: Oh! Thanks for telling me. I don't want to hurt my fish.
   - Mary|dirty|problem|telling|hurt|End
+-
+  - "pet-7"
+  - "pet-7"
+  - "topics"
+  - "all"
+  - |+
+    Do you have a dog or a cat? What about a parrot?  Many people have pet parrots. They make good pets. They are also very smart.
+    Some people think parrots are loud, but they can be very fun, too. They can also be your friend like dogs and cats can be.
+  - make|smart|End
+
 
 
 ---

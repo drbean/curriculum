@@ -222,6 +222,7 @@ pet:
     - parrot friends feed cage bathe pets store goldfish dirty dog people buy things lives big glass bowl two cats three
     - a_new_pet the_pet_store cages a_puppy a_parrot a_small_animal a_quiet_animal a_goldfish
     - parrot friends feed cage bathe pets store goldfish
+    - parrot smart fun pets friend loud cat dog
     -
       - "G: Is your hamster hard to take care of, Andrew? _B: No, I just have to feed it and clean its cage._" 
       - "G: Does it like exercise? _B: Yes, it loves running on the toy inside its cage._"
