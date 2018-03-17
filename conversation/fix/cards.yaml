@@ -313,5 +313,13 @@ electronics:
             - dying
             - dropping
           answer: dropping
-        
+tenant:
+  jigsaw:
+    0:
+      identifier: tenant complaint
+      A: Mr Burr is unhappy about his oven. He calls me for help. I think the oven is not the problem. I think Mr Burr can't cook.
+      B: I ask the building manager for help with the oven because I can't cook anything without it burning.
+      quiz:
+        - question: The building manager thinks the oven is OK.
+          answer: True
         
