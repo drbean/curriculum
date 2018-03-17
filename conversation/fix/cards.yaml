@@ -320,7 +320,61 @@ tenant:
       A: Mr Burr is unhappy about his oven. He calls me for help. I think the oven is not the problem. I think Mr Burr can't cook.
       B: I ask the building manager for help. I think the oven needs to be fixed. I can't cook anything without it burning.
       quiz:
+        - question: A
+          option:
+            - The building manager
+            - Mr Burr
+          answer:  Mr Burr
+        - question: B
+          option:
+            - The building manager
+            - Mr Burr
+          answer:  The building manager
         - question: Mr Burr thinks the oven is OK.
           answer: False
         - question: The building manager thinks the oven is OK.
+          answer: True
+        - question: It's not clear if the oven is OK or not.
+          answer: True
+    1:
+      identifier: electricity outage
+      A: Mrs Harris has a problem with her lights. I ask her if the refrigerator is off, too.
+      B: I tell the building manager that the lights keep going on and off. I tell her that the refrigerator is OK.
+      quiz:
+        - question: A
+          option:
+            - The building manager
+            - Mr Harris
+          answer: The building manager
+        - question: B
+          option:
+            - The building manager
+            - Mr Harris
+          answer: Mr Harris
+        - question: The problem is the lights.
+          answer: True
+        - question: The building manager asks if the lights are OK.
+          answer: False
+        - question: The refrigerator is a problem, too.
+          answer: False
+    2:
+      identifier: light complaint
+      A: The building manager says he is too busy to fix the light in front of the building. I say I will fix it.
+      B: Mr Won wants me to fix the light. Then he says he will fix it. I give him a light bulb. He will stand on a chair.
+      quiz:
+        - question: A
+          option:
+            - The building manager
+            - Mr Won
+          answer:  Mr Won
+        - question: B
+          option:
+            - The building manager
+            - Mr Won
+          answer:  The building manager
+        - question: The building manager is very helpful.
+          answer: False
+        - question: The building manager gives Mr Won a ladder.
+          answer: False
+        - question: The building manager gives Mr Won a lightbulb.
           answer: True
