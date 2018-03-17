@@ -324,4 +324,3 @@ tenant:
           answer: False
         - question: The building manager thinks the oven is OK.
           answer: True
-        
