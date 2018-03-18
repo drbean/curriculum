@@ -378,3 +378,8 @@ tenant:
           answer: False
         - question: The building manager gives Mr Won a lightbulb.
           answer: True
+    3:
+      identifier: dog complaint
+      quiz:
+        A: I am a dog. I bark all night, because I am lonely. No one loves me. The next door neighbor, Mr Two
+        
