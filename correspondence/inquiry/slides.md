@@ -46,6 +46,17 @@ Do it before Sunday March 18, 8pm, or Friday March 23, 7AM(!) depending on your 
 
 # Classwork
 
+## Cruise around Taiwan
+
+- [Cruise pictures](http://www.google.com.tw/search?q=%22taiwan+cruise%22&num=100&gws_rd=ssl&tbm=isch&tbo=u&source=univ&sa=X)
+
+
+- [Cruise from Taiwan to Japan ](https://www.filmantravel.com/uploads/1/4/0/9/14097067/princess_cbs_6-7n_japan___taiwan_112216.pdf)
+
+- [Cruise activities](https://14weeksworthofsocks.com/2016/08/28/royal-caribbean-hong-kong-to-taiwan-daily-compass-day-1/)
+
+- [Romance on the high seas](https://bluewaveted.wordpress.com/2008/04/14/cruise-romance/)
+
 ## Scrambled inquiry acknowledgement {.allowframebreaks}
  
 
