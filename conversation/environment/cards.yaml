@@ -1,0 +1,24 @@
+---
+genre: conversation--environment
+passive:
+  jigsaw:
+    0:
+      identifier: environmental problem passives
+      quiz:
+        - question: Air pollution is threatening the health of people in urban areas (by)
+          answer: 
+            - The health of people in urban areas is being threatened by air pollution.
+            - The health of people is being threatened by air pollution in urban areas\.
+          incorrect:
+            -
+              error: ^(?!.*in urban areas.*)
+              feedback: Use all the words, "in urban areas."
+        - question: Livestock farms have contaminated soil and underground water. (because of)
+          answer:
+            - Soil and underground water has been contaminated because of livestock farms.
+            - Soil and underground water have been contaminated because of livestock farms.
+        - question: Acid rain has eroded statues and buildings. (as a result of)
+          answer:
+            - Statues and buildings have been eroded as a result of acid rain.
+            - '[[_[Ss]tatues_ and __[Bb]uildings__]] have been eroded as a result of acid rain\.'          
+        
