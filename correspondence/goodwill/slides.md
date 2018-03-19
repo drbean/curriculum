@@ -4,6 +4,14 @@
 
 # Homework
 
+## Homework: Thanks, congratulation or condolence
+
+Choose one of the 3 kinds of message you want to write. Imagine the content of what you want to say.
+
+Just 3 sentences about the one kind of message, following the structures in the book. No need for header, salutation, etc.
+
+Put each sentence on a new line.
+
 ## Homework: an invitation letter to a prof
 
 Imagine you are the president of the NUU students' association.
