@@ -185,31 +185,18 @@ talk:
       identifier: talk at school
       quiz:
         - question: The writer speaks Chinese as a first language
-          option:
-            - Yes
-            - No
-          answer: Yes
+          answer: True
         - question: The recipient speaks Chinese as a first language
-            - Yes
-            - No
-          answer: No
+          answer: False
         - question: |+
             "That was not interesting" is the correct thing to say.
-            - Yes
-            - No
-          answer: No
+          answer: False
         - question: The writer is a teacher or student at a school.
-            - Yes
-            - No
-          answer: Yes
+          answer: True
         - question: The recipient is a teacher or student at the school.
-            - Yes
-            - No
-          answer: No
+          answer: False
         - question: The recipient was a visitor.
-            - Yes
-            - No
-          answer: Yes
+          answer: True
 congratulation:
   scramble:
     0:
