@@ -12,7 +12,105 @@ thank:
         - This made us realize how much learning has changed with the Internet.
         - Thanks, once again.
         - We will miss you when we graduate.
-    
+  drag:
+    teacher:
+      identifier: teacher's day drag
+      sentences:
+        -
+          sentence: It's Teacher's Day, today.
+          clozed: It's|Teacher's|Day|today|End
+        -
+          sentence: Thanks for teaching us.
+          clozed: Thanks|for|teaching|us|End
+        -
+          sentence: Everyone likes your lessons.
+          clozed: Everyone|likes|your|lessons|End
+        -
+          sentence: We all remember when your website was down, and we had to answer questions on cards.
+          clozed: We|all|remember|when|your|website|was|and|we|had|to|answer|questions|on|End
+        -
+          sentence: This made us realize how much learning has changed with the Internet.
+          clozed: This|made|us|realize|how|much|learning|has|changed|with|the|End
+        -
+          sentence: Thanks, once again.
+          clozed: Thanks|once|again|End
+        -
+          sentence: We will miss you when we graduate.
+          clozed: We|will|miss|you|when|we|graduate|End
+  jigsaw:
+    teacher:
+      identifier: teacher's day structure
+      quiz:
+        - question: It's Teacher's Day, today.
+          option:
+            - motivation for making contact
+            - thanks with reason for appreciation
+            - communication of the positive emotions felt about the reader.
+            - anecdote about the relationship
+            - idea/thought connected to the anecdote
+            - repetition of thanks
+            - forward-looking close
+          answer: motivation for making contact
+        - question: Thanks for teaching us.
+          option:
+            - motivation for making contact
+            - thanks with reason for appreciation
+            - communication of the positive emotions felt about the reader.
+            - anecdote about the relationship
+            - idea/thought connected to the anecdote
+            - repetition of thanks
+            - forward-looking close
+          answer: thanks with reason for appreciation
+        - question: Everyone likes your lessons.
+          option:
+            - motivation for making contact
+            - thanks with reason for appreciation
+            - communication of the positive emotions felt about the reader.
+            - anecdote about the relationship
+            - idea/thought connected to the anecdote
+            - repetition of thanks
+            - forward-looking close
+          answer: communication of the positive emotions felt about the reader.
+        - question: We all remember when your website was down, and we had to answer questions on cards.
+          option:
+            - motivation for making contact
+            - thanks with reason for appreciation
+            - communication of the positive emotions felt about the reader.
+            - anecdote about the relationship
+            - idea/thought connected to the anecdote
+            - repetition of thanks
+            - forward-looking close
+          answer: anecdote about the relationship
+        - question: This made us realize how much learning has changed with the Internet.
+          option:
+            - motivation for making contact
+            - thanks with reason for appreciation
+            - communication of the positive emotions felt about the reader.
+            - anecdote about the relationship
+            - idea/thought connected to the anecdote
+            - repetition of thanks
+            - forward-looking close
+          answer: idea/thought connected to the anecdote
+        - question: Thanks, once again.
+          option:
+            - motivation for making contact
+            - thanks with reason for appreciation
+            - communication of the positive emotions felt about the reader.
+            - anecdote about the relationship
+            - idea/thought connected to the anecdote
+            - repetition of thanks
+            - forward-looking close
+          answer: repetition of thanks
+        - question: We will miss you when we graduate.
+          option:
+            - motivation for making contact
+            - thanks with reason for appreciation
+            - communication of the positive emotions felt about the reader.
+            - anecdote about the relationship
+            - idea/thought connected to the anecdote
+            - repetition of thanks
+            - forward-looking close
+          answer: forward-looking close
 conversation:
   scramble:
     0:
@@ -21,6 +119,53 @@ conversation:
         - Thank you for talking with us at the Conversation_Corner on Monday afternoon, 6:20pm.
         - We learned a lot about you, and we were able to express ourselves better.
         - Thanks, once again for the conversation, and we look forward to seeing you next week.
+  drag:
+    0:
+      identifier: conversation corner scramble
+      sentences:
+        -
+          sentence: Thank you for talking with us at the Conversation_Corner on Monday afternoon, 6:20pm.
+          clozed: Thank|you|for|talking|with|us|at|the|Conversation_Corner|on|Monday|afternoon|End
+        -
+          sentence: We learned a lot about you, and we were able to express ourselves better.
+          clozed: We|learned|a|lot|about|and|we|were|able|to|express|ourselves|End
+        -
+          sentence: Thanks, once again for the conversation, and we look forward to seeing you next week.
+          clozed: Thanks|once|again|for|the|and|we|look|forward|to|seeing|you|next|End
+        
+  jigsaw:
+    0:
+      identifier: conversation corner structure
+      quiz:
+        - question: 6:20pm.  afternoon, at Conversation_Corner for Thank Monday on talking the us with you
+          option:
+            - motivation for making contact
+            - thanks with reason for appreciation
+            - communication of the positive emotions felt about the reader.
+            - anecdote about the relationship
+            - idea/thought connected to the anecdote
+            - repetition of thanks
+            - forward-looking close
+          answer: thanks with reason for appreciation
+        - question: a able about and better We express learned lot ourselves to we were you
+          option:
+            - motivation for making contact
+            - thanks with reason for appreciation
+            - communication of the result the reader felt was achieved because of the relationship.
+            - anecdote about the relationship
+            - idea/thought connected to the anecdote
+            - repetition of thanks
+            - forward-looking close
+          answer: communication of the result the reader felt was achieved because of the relationship.
+        - question: again and conversation for forward Thanks look next once seeing the to we week you
+          option:
+            - motivation for making contact
+            - thanks with reason for appreciation
+            - communication of the positive emotions felt about the reader.
+            - anecdote about the relationship
+            - idea/thought connected to the anecdote
+            - repetition of thanks, forward-looking close
+          answer: repetition of thanks, forward-looking close
   match:
     0:
       identifier: conversation corner match
@@ -40,17 +185,31 @@ talk:
       identifier: talk at school
       quiz:
         - question: The writer speaks Chinese as a first language
-          answer: True
+          option:
+            - Yes
+            - No
+          answer: Yes
         - question: The recipient speaks Chinese as a first language
-          answer: False
-        - question: "'That was not interesting' is the correct thing to say."
-          answer: False
+            - Yes
+            - No
+          answer: No
+        - question: |+
+            "That was not interesting" is the correct thing to say.
+            - Yes
+            - No
+          answer: No
         - question: The writer is a teacher or student at a school.
-          answer: True
+            - Yes
+            - No
+          answer: Yes
         - question: The recipient is a teacher or student at the school.
-          answer: False
+            - Yes
+            - No
+          answer: No
         - question: The recipient was a visitor.
-          answer: True
+            - Yes
+            - No
+          answer: Yes
 congratulation:
   scramble:
     0:
@@ -65,20 +224,97 @@ congratulation:
         - I hear you got a new puppy; that's great!
         - The dog is very lucky to have you as its owner!
         - If you have time, I would like to see it.
+  drag:
+    graduation:
+      identifier: graduation
+      sentences:
+        -
+          sentence: It's great to hear you graduated.
+          clozed: It's|great|to|hear|you|graduated|End
+        -
+          sentence: I hope it's not going to take you as long to get a job.
+          clozed: I|hope|it's|not|going|to|take|you|as|long|to|get|a|job|End
+        -
+          sentence: Why don't we get together and celebrate?
+          clozed: Why|don't|we|get|together|and|celebrate|End
+    puppy:
+      identifier: puppy
+      sentences:
+        -
+          sentence: I hear you got a new puppy; that's great!
+          clozed: I|hear|you|got|a|new|that's|great|End
+        -
+          sentence: The dog is very lucky to have you as its owner!
+          clozed: The|dog|is|very|lucky|to|have|you|as|its|owner|End
+        -
+          sentence: If you have time, I would like to see it.
+          clozed: If|you|have|I|would|like|to|see|it|End
+          
+          
+  jigsaw:
+    graduation:
+      identifier: graduation
+      quiz:
+        - question: graduated great hear It's to you
+          option:
+            - congratulation
+            - a thought connected to the event
+            - a future forward-looking close
+          answer: congratulation
+        - question: a as get going hope I it's job long not take to to you
+          option:
+            - congratulation
+            - a thought connected to the event
+            - a future forward-looking close
+          answer: a thought connected to the event
+        - question: and celebrate don't get together we Why
+          option:
+            - congratulation
+            - a thought connected to the event
+            - a future forward-looking close
+          answer: a future forward-looking close
+    graduation_understanding:
+      identifier: graduation understanding
+      quiz:
+        - question: The writer in the graduation exercise is the recipient's boss.
+          answer: False
+        - question: The text in the graduation exercise is less formal than the one in the book.
+          answer: True
+    puppy:
+      identifier: puppy
+      quiz:
+        - question: a got great hear I new puppy that's you
+          option:
+            - congratulation
+            - a thought connected to the event
+            - a future forward-looking close
+          answer: congratulation
+        - question: as dog have is its lucky owner The to very you
+          option:
+            - congratulation
+            - a thought connected to the event
+            - a future forward-looking close
+          answer: a thought connected to the event
+        - question: have I If it like see time to would you
+          option:
+            - congratulation
+            - a thought connected to the event
+            - a future forward-looking close
+          answer: a future forward-looking close
   match:
-    0:
+    graduation:
       identifier: graduation
       pair:
         -
           - Initial congratulation
-          - It's great to hear you graduated.
+          - graduated great hear It's to you
         -
           - Personal comment
-          - I hope it's not going to take you as long to get a job.
+          - a as get going hope I it's job long not take to to you
         -
           - A reference to the future interaction with the recipient
-          - Why don't we get together and celebrate?
-    1:
+          - and celebrate don't get together we Why
+    puppy:
       identifier: puppy
       pair:
         -
@@ -90,14 +326,6 @@ congratulation:
         -
           - If you hav ...
           - A reference to the future interaction with the recipient
-  jigsaw:
-    0:
-      identifier: graduation
-      quiz:
-        - question: The writer in the previous exercise is the recipient's boss.
-          answer: False
-        - question: The text in the previous exercise is less formal than the one in the book.
-          answer: True
 condolence:
   scramble:
     0:
@@ -112,21 +340,90 @@ condolence:
         - I'm sorry to hear the puppy died.
         - Although you only had the dog for a week, your comments about it showed you loved it a lot.
         - If you need help burying the dog, I can help you dig a hole in the ground.
-    
+  drag:
+    gept:
+      identifier: gept
+      sentences:
+        -
+          sentence: Too bad you didn't get a good GEPT score.
+          clozed: Too|bad|you|didn't|get|a|good|GEPT|score|End
+        -
+          sentence: You're going to have to take the CSEPT exam.
+          clozed: You're|going|to|have|to|take|the|CSEPT|exam|End
+        -
+          sentence: I can lend you my CSEPT textbooks, if you want.
+          clozed: I|can|lend|you|my|CSEPT|textbooks|if|you|want|End
+    puppy:
+      identifier: puppy
+      sentences:
+        -
+          sentence: I'm sorry to hear the puppy died.
+          clozed: I'm|sorry|to|hear|the|puppy|died|End
+        -
+          sentence: Although you only had the dog for a week, your comments about it showed you loved it a lot.
+          clozed: Although|you|only|had|the|dog|for|a|your|comments|about|it|showed|you|loved|it|a|lot|End
+        -
+          sentence: If you need help burying the dog, I can help you dig a hole in the ground.
+          clozed: If|you|need|help|burying|the|I|can|help|you|dig|a|hole|in|the|ground|End
+        
+        
+  jigsaw:
+    gept:
+      identifier: gept
+      quiz:
+        - question: a bad didn't GEPT get good score Too you
+          option:
+            - condolence
+            - a thought connected to the event
+            - a future forward-looking close (eg offer of assistance)
+          answer: condolence
+        - question: CSEPT exam going have take the to to You're
+          option:
+            - condolence
+            - a thought connected to the event
+            - a future forward-looking close (eg offer of assistance)
+          answer: a thought connected to the event
+        - question: can CSEPT I if lend my textbooks, want you you
+          option:
+            - condolence
+            - a thought connected to the event
+            - a future forward-looking close (eg offer of assistance)
+          answer: a future forward-looking close (eg offer of assistance)
+    puppy:
+      identifier: puppy
+      quiz:
+        - question: died hear I'm puppy sorry the to 
+          option:
+            - condolence
+            - a thought connected to the event
+            - a future forward-looking close (eg offer of assistance)
+          answer: condolence
+        - question: a a about Although comments dog for had it it lot loved only showed the week you you your 
+          option:
+            - condolence
+            - a thought connected to the event
+            - a future forward-looking close (eg offer of assistance)
+          answer: a thought connected to the event
+        - question: a burying can dig dog ground help help hole I If in need the the you you
+          option:
+            - condolence
+            - a thought connected to the event
+            - a future forward-looking close (eg offer of assistance)
+          answer: a future forward-looking close (eg offer of assistance)
   match:
-    0:
+    gept:
       identifier: gept
       pair:
         -
           - Reason for condolences
-          - Too bad you didn't get a good GEPT score.
+          - Too bad ..
         -
           - Personal comment
-          - You're going to have to take the CSEPT exam.
+          - You're going to ..
         -
           - Offer of assistance
-          - I can lend you my CSEPT textbooks, if you want.
-    1:
+          - I can ..
+    puppy:
       identifier: puppy
       pair:
         -
@@ -159,21 +456,88 @@ invitation:
         - Unfortunately, I'm going to my parents' place for Christmas.
         - Let's get together to celebrate the New Year.
         - Sorry, again. 
-    
-    
+  drag:
+    smokers:
+      identifier: smokers
+      sentences:
+        -
+          sentence: Do you want to give a speech at a conference we are organizing?
+          clozed: Do|you|want|to|give|a|speech|at|a|conference|we|are|organizing|End
+        -
+          sentence: The conference will take place October_20-21 in Taipei.
+          clozed: The|conference|will|take|place|October_20-21|in|Taipei|End
+        -
+          sentence: Having you at the conference would make our day.
+          clozed: Having|you|at|the|conference|would|make|our|day|End
+    xmas:
+      identifier: xmas
+      sentences:
+        -
+          sentence: We're having a Christmas party at our house tomorrow.
+          clozed: We're|having|a|Christmas|party|at|our|house|End
+        -
+          sentence: Can you send us an email tonight saying if you can come.
+          clozed: Can|you|send|us|an|email|tonight|saying|if|you|can|come|End
+        -
+          sentence: We were wondering if you would like to come.
+          clozed: We|were|wondering|if|you|would|like|to|come|End
+        
+  jigsaw:
+    smokers:
+      identifier: smokers
+      quiz:
+        - question: a a are at conference Do give organizin speech to want we you 
+          option:
+            - invitation
+            - details of event (eg, place, time)
+            - request for reply (with deadline, perhaps)
+          answer: invitation
+        - question: conference in October_20-21 place Taipei take The will 
+          option:
+            - invitation
+            - details of event (eg, place, time)
+            - request for reply (with deadline, perhaps)
+          answer: details of event (eg, place, time)
+        - question: by Can if is next OK tell this us week you 
+          option:	
+            - invitation
+            - details of event (eg, place, time)
+            - request for reply (with deadline, perhaps)
+          answer: request for reply (with deadline, perhaps)
+    xmas:
+      identifier: xmas
+      quiz:
+        - question: a at Christmas having house our party tomorrow We're
+          option:
+            - invitation
+            - details of event (eg, place, time)
+            - request for reply (with deadline, perhaps)
+          answer: details of event (eg, place, time)
+        - question: come if like to We were wondering would you
+          option:
+            - invitation
+            - details of event (eg, place, time)
+            - request for reply (with deadline, perhaps)
+          answer: invitation
+        - question: an can Can come email if saying send tonight us you you
+          option:
+            - invitation
+            - details of event (eg, place, time)
+            - request for reply (with deadline, perhaps)
+          answer: request for reply (with deadline, perhaps)
   match:
-    0:
+    smokers:
       identifier: smokers
       pair:
         -
           - Invitation
-          - Do you want to give a speech at a conference we are organizing?
+          - Do you want to ... ?
         -
           - Date, place, other details
-          - The conference will take place October_20-21 in Taipei.
+          - The conference will take place ..
         -
           - Hopeful closing sentiment
-          - Having you at the conference would make our day.
+          - Having you at the conference would ..
     1:
       identifier: book, vocab
       pair:
