@@ -230,3 +230,12 @@ feature:
       old      : 舊
       strong   : 強大
       weak     : 弱
+sick:
+  bingo:
+    -
+    -
+    -
+      - "G: What’s wrong, Brandon? Why aren't you exercising with your team? _B: I don’t feel well today, so I want to be alone. My neck really hurts._"
+      - "G: What happened? _B: I had an accident on my bicycle. _"
+      - "G: Did you go to the hospital after the accident? _B: No. I felt fine then._"
+      - "G: You should call your mom. She will take care of you. _B: Yes, I think you're right. I'll call her._"
