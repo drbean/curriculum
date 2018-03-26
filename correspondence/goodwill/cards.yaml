@@ -468,12 +468,27 @@ invitation:
         -
           sentence: We were wondering if you would like to come.
           clozed: We|were|wondering|if|you|would|like|to|come|End
+    refusal:
+      identifier: refusal
+      sentences:
+        -
+          sentence: Thanks very much for the invitation to the Christmas party.
+          clozed: Thanks|very|much|for|the|invitation|to|the|Christmas|party|End
+        -
+          sentence: Unfortunately, I'm going to my parents' place for Christmas.
+          clozed: Unfortunately|I'm|going|to|my|parents'|place|for|Christmas|End
+        -
+          sentence: Let's get together to celebrate the New Year.
+          clozed: Let's|get|together|to|celebrate|the|New|Year|End
+        -
+          sentence: Sorry, again. 
+          clozed: Sorry|again|End
         
   jigsaw:
     smokers:
       identifier: smokers
       quiz:
-        - question: a a are at conference Do give organizin speech to want we you 
+        - question: a a are at conference Do give organizing speech to want we you 
           option:
             - invitation
             - details of event (eg, place, time)
@@ -512,7 +527,37 @@ invitation:
             - details of event (eg, place, time)
             - request for reply (with deadline, perhaps)
           answer: request for reply (with deadline, perhaps)
+    comprehension_questions:
+      identifier: smokers
+      quiz:
+        - question: The writer of the Smokers email knows Dr Chen.
+          answer: False
+        - question: The writer of the dinner acceptance email knows Al Jalahma.
+          answer: True
+        - question: The writer of the Xmas refusal email knows the organizers of the party.
+          answer: True
+        - question: The text in the Xmas refusal email is less formal than the dinner acceptance email.
+          answer: True
+        - question: The text in the Xmas refusal email is less formal than the Chen refusal email.
+          answer: True
+        - question: The text in the smokers invitation in the book is less formal than the text in the smokers scramble/structure on the site.
+          answer: False
   match:
+    xmas_refusal_structure:
+      identifier: xmas party declining structure
+      pair:
+        -
+          - Thanks ver ..
+          - acknowledgement and thanks
+        -
+          - Unfortunat ..
+          - rejection with reason
+        -
+          - Let's get  ..
+          - offer of alternative
+        -
+          - Sorry, aga ..
+          - apology, restated
     smokers:
       identifier: smokers
       pair:
@@ -525,7 +570,7 @@ invitation:
         -
           - Hopeful closing sentiment
           - Having you at the conference would ..
-    1:
+    smokers_book:
       identifier: book, vocab
       pair:
         -
@@ -552,7 +597,7 @@ invitation:
         -
           - 8
           - by
-    2:
+    chen_reply:
       identifier: smokers, invitation reply
       pair:
         -
@@ -597,7 +642,7 @@ invitation:
         -
           - 14
           - news
-    3:
+    dinner:
       identifier: book, dinner invitation acceptance
       pair:
         -
@@ -608,20 +653,20 @@ invitation:
           - of
         -
           - 3
-          - to
+          - to_1
         -
           - 4
           - from
         -
           - 5
-          - to
+          - to_2
         -
           - 6
           - at
         -
           - 7
-          - to
-    4:
+          - to_3
+    dinner_structure:
       identifier: acceptance structure
       pair:
         -
@@ -633,7 +678,7 @@ invitation:
         -
           - 3
           - re-expresssion of thanks
-    5:
+    chen_structure:
       identifier: declining structure
       pair:
         -
@@ -648,29 +693,4 @@ invitation:
         -
           - 4
           - apology, polite expression of hope for future
-    6:
-      identifier: xmas party declining structure
-      pair:
-        -
-          - Thanks ver ..
-          - acknowledgement and thanks
-        -
-          - Unfortunat ..
-          - rejection with reason
-        -
-          - Let's get  ..
-          - offer of alternative
-        -
-          - Sorry, aga ..
-          - apology, restated
-        
-
-  jigsaw:
-    0:
-      identifier: smokers
-      quiz:
-        - question: The writer in the previous exercise knows the recipient.
-          answer: True
-        - question: The text in the previous exercise is less formal than the one in the book.
-          answer: True
 
