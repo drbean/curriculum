@@ -7,11 +7,11 @@ picture:
       quiz:
         - question: Picture 1, row 1
           option:
-           - Air pollution is threatening the health of people in urban areas (by)
+           - Air pollution is threatening the health of people in urban areas. (by)
            - Livestock farms have contaminated soil and underground water. (because of)
-           - Acid rain has eroded statues and buildings (as a result of)
-           - Oil spills are harming birds, fish and other marine life (through)
-           - The growth of suburbs has eaten up huge amounts of farmland (due to)
+           - Acid rain has eroded statues and buildings. (as a result of)
+           - Oil spills are harming birds, fish and other marine life. (through)
+           - The growth of suburbs has eaten up huge amounts of farmland. (due to)
            - The destruction of rain forestes is accelerating the extinction of plants and wildlife. (by)
           answer: Livestock farms have contaminated soil and underground water. (because of)
         - question: Picture 2, row 1
@@ -75,11 +75,29 @@ passive:
         - question: Livestock farms have contaminated soil and underground water. (because of)
           answer:
             - Soil and underground water has been contaminated because of livestock farms.
-            - Soil and underground water have been contaminated because of livestock farms.
+            - Soil and underground water have been contaminated because of livestock farms\.
         - question: Acid rain has eroded statues and buildings. (as a result of)
           answer:
             - Statues and buildings have been eroded as a result of acid rain.
             - '[[_[Ss]tatues_ and __[Bb]uildings__]] have been eroded as a result of acid rain\.'          
+          incorrect:
+            -
+              error: ^(?!.*have been eroded.*)
+              feedback: Use the words, "have been eroded"
+        - question: Oil spills are harming birds, fish and other marine life (through)
+          answer:
+            - Birds, fish and other marine life are being harmed through oil spills.
+          incorrect:
+            -
+              error: ^(?!.*are being harmed.*)
+              feedback: Use the words, "are being harmed"
+        - question: Oil spills are harming birds, fish and other marine life (through)
+          answer:
+            - Birds, fish and other marine life are being harmed through oil spills.
+          incorrect:
+            -
+              error: ^(?!.*are being harmed.*)
+              feedback: Use the words, "are being harmed"
 problem:
   jigsaw:
     0:
@@ -101,8 +119,32 @@ problem:
            - water pollution
           answer: water pollution
 to_do:
-  jigsaw:
+  match:
     0:
       identifier: thing to do
-  
+      pair:
+        -
+          - One way to reduce famine is ..
+          - to train people in modern farming techniques.
+        -
+          - The best way to fight cancer is ..
+          - to educate people on healthy lifestyle choices.
+        -
+          - One way to stop political unrest is ..
+          - to provide ways for people to voice their concerns.
+        -
+          - One way to improve air quality is ..
+          - to to develop cleaner public transportation.
+        -
+          - The best way to reduce poverty is ..
+          - to create more jobs for the unemployed.
+        -
+          - One way to help the homeless is ..
+          - to build more public housing.
+        -
+          - One way to reduce crime is ..
+          - to have more police on the streets.
+        -
+          - One way to help people who lose their jobs is ..
+          - to start free vocational training programs.
         
