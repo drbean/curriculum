@@ -1,5 +1,64 @@
 ---
 genre: conversation--environment
+picture:
+  jigsaw:
+    0:
+      identifier: environmental problem pictures
+      quiz:
+        - question: Picture 1, row 1
+          option:
+           - Air pollution is threatening the health of people in urban areas (by)
+           - Livestock farms have contaminated soil and underground water. (because of)
+           - Acid rain has eroded statues and buildings (as a result of)
+           - Oil spills are harming birds, fish and other marine life (through)
+           - The growth of suburbs has eaten up huge amounts of farmland (due to)
+           - The destruction of rain forestes is accelerating the extinction of plants and wildlife. (by)
+          answer: Livestock farms have contaminated soil and underground water. (because of)
+        - question: Picture 2, row 1
+          option:
+           - Air pollution is threatening the health of people in urban areas (by)
+           - Livestock farms have contaminated soil and underground water. (because of)
+           - Acid rain has eroded statues and buildings (as a result of)
+           - Oil spills are harming birds, fish and other marine life (through)
+           - The growth of suburbs has eaten up huge amounts of farmland (due to)
+           - The destruction of rain forests is accelerating the extinction of plants and wildlife. (by)
+          answer: The destruction of rain forests is accelerating the extinction of plants and wildlife. (by)
+        - question: Picture 3, row 1
+          option:
+           - Air pollution is threatening the health of people in urban areas (by)
+           - Livestock farms have contaminated soil and underground water. (because of)
+           - Acid rain has eroded statues and buildings (as a result of)
+           - Oil spills are harming birds, fish and other marine life (through)
+           - The growth of suburbs has eaten up huge amounts of farmland (due to)
+           - The destruction of rain forestes is accelerating the extinction of plants and wildlife. (by)
+          answer: The growth of suburbs has eaten up huge amounts of farmland (due to)
+        - question: Picture 1, row 2
+          option:
+           - Air pollution is threatening the health of people in urban areas (by)
+           - Livestock farms have contaminated soil and underground water. (because of)
+           - Acid rain has eroded statues and buildings (as a result of)
+           - Oil spills are harming birds, fish and other marine life (through)
+           - The growth of suburbs has eaten up huge amounts of farmland (due to)
+           - The destruction of rain forestes is accelerating the extinction of plants and wildlife. (by)
+          answer: Air pollution is threatening the health of people in urban areas (by)
+        - question: Picture 2, row 2
+          option:
+           - Air pollution is threatening the health of people in urban areas (by)
+           - Livestock farms have contaminated soil and underground water. (because of)
+           - Acid rain has eroded statues and buildings (as a result of)
+           - Oil spills are harming birds, fish and other marine life (through)
+           - The growth of suburbs has eaten up huge amounts of farmland (due to)
+           - The destruction of rain forestes is accelerating the extinction of plants and wildlife. (by)
+          answer: Acid rain has eroded statues and buildings (as a result of)
+        - question: Picture 3, row 2
+          option:
+           - Air pollution is threatening the health of people in urban areas (by)
+           - Livestock farms have contaminated soil and underground water. (because of)
+           - Acid rain has eroded statues and buildings (as a result of)
+           - Oil spills are harming birds, fish and other marine life (through)
+           - The growth of suburbs has eaten up huge amounts of farmland (due to)
+           - The destruction of rain forestes is accelerating the extinction of plants and wildlife. (by)
+          answer: Oil spills are harming birds, fish and other marine life (through)
 passive:
   jigsaw:
     0:
@@ -21,4 +80,29 @@ passive:
           answer:
             - Statues and buildings have been eroded as a result of acid rain.
             - '[[_[Ss]tatues_ and __[Bb]uildings__]] have been eroded as a result of acid rain\.'          
+problem:
+  jigsaw:
+    0:
+      identifier: environmental problem
+      quiz:
+        - question: Jenny's problem
+          option:
+           - landfills
+           - poor farmland
+          answer: landfills
+        - question: Adam's problem
+          option:
+           - electricity
+           - e-waste
+          answer: e-waste
+        - question: Katy's problem
+          option:
+           - air pollution
+           - water pollution
+          answer: water pollution
+to_do:
+  jigsaw:
+    0:
+      identifier: thing to do
+  
         
