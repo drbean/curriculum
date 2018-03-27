@@ -324,12 +324,12 @@ tenant:
           option:
             - The building manager
             - Mr Burr
-          answer:  Mr Burr
+          answer: The building manager
         - question: B
           option:
             - The building manager
             - Mr Burr
-          answer:  The building manager
+          answer: Mr Burr
         - question: Mr Burr thinks the oven is OK.
           answer: False
         - question: The building manager thinks the oven is OK.
@@ -344,13 +344,13 @@ tenant:
         - question: A
           option:
             - The building manager
-            - Mr Harris
+            - Mrs Harris
           answer: The building manager
         - question: B
           option:
             - The building manager
-            - Mr Harris
-          answer: Mr Harris
+            - Mrs Harris
+          answer: Mrs Harris
         - question: The problem is the lights.
           answer: True
         - question: The building manager asks if the lights are OK.
@@ -374,12 +374,49 @@ tenant:
           answer:  The building manager
         - question: The building manager is very helpful.
           answer: False
-        - question: The building manager gives Mr Won a ladder.
-          answer: False
         - question: The building manager gives Mr Won a lightbulb.
           answer: True
+        - question: The building manager gives Mr Won a ladder.
+          answer: False
     3:
       identifier: dog complaint
+      A: I don't want to go near the dog that is keeping Mr Two awake. I tell him I will call the owner of the dog.
+      B: My neighbor's dog barks all night and I can't sleep. But the building manager is not very helpful.
       quiz:
-        A: I am a dog. I bark all night, because I am lonely. No one loves me. The next door neighbor, Mr Two
-        
+        - question: A
+          option:
+            - The building manager
+            - Mr Two
+          answer:  The building manager
+        - question: B
+          option:
+            - The building manager
+            - Mr Two
+          answer:  Mr Two
+        - question: The building manager is very helpful.
+          answer: False
+        - question: Mr Two's dog is keeping his neighbor awake.
+          answer: False
+        - question: The dog's owner wants to talk to the building manager.
+          answer: False
+    4:
+      identifier: window complaint
+      A: I want the building manager to help me open my window. It is stuck. But he won't. I will get my cousin to do it.
+      B: Mrs Taylor wants me to open the window for her. But that's not my job. I tell her to put some oil on the window.
+      quiz:
+        - question: A
+          option:
+            - The building manager
+            - Mrs Taylor
+          answer:  Mrs Taylor
+        - question: B
+          option:
+            - The building manager
+            - Mrs Taylor
+          answer:  The building manager
+        - question: The building manager isn't helpful.
+          answer: True
+        - question: The building manager thinks Mrs Taylor should do it herself.
+          answer: True
+        - question: Mrs Taylor will get her cousin to open the window.
+          answer: True
