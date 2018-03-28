@@ -34,6 +34,8 @@ You can start,
 
 I am the president of the student association at NUU and I would like to invite you to a reception celebrating the 40th anniversary of the association.
 
+You don't need to include information at the end of the exercise about what the student association plans will happen at the anniversary celebration. Just include the 3 parts on p69: the invitation, the event details, the request for a reply.
+
 ## Homework: Prof Chang replies to the invitation letter
 
 Now take the role of Prof Chang.
