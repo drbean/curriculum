@@ -284,6 +284,22 @@
     B: No. I felt fine then.
     G: You should call your mom. She will take care of you.
   - Brandon|End
+-
+  - sick-2
+  - sick-2
+  - "topics"
+  - "all"
+  - |+
+    G: Why isn’t Tracy at school today?
+    B: She is feeling under the weather, so she stayed home.
+    G: Where is Christopher?
+    B: He’s at the hospital. His brother threw a ball, and it hit Christopher in the face.  
+    G: Ouch! What an accident! I hope he feels better soon. 
+    B: Grace, you don’t look so good. Are you OK?
+    G: I’m getting a headache.
+    B: You’d better take some medicine.
+  - Tracy|Christopher|Christopher|Grace|End
+
 ---
 -
   - genre
