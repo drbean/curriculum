@@ -2,7 +2,7 @@
 genre: correspondence
 repair:
   match:
-    0:
+    cloze:
       identifier: car repair match
       pair:
         -
@@ -32,7 +32,7 @@ repair:
         -
           - 9
           - offer
-    1:
+    structure:
       identifier: car repair structure
       pair:
         -
@@ -52,7 +52,7 @@ repair:
           - polite close
 prize:
   match:
-    0:
+    cloze:
       identifier: car prize match
       pair:
         -
@@ -76,7 +76,7 @@ prize:
         -
           - 7
           - most appreciated
-    1:
+    structure:
       identifier: car prize structure
       pair:
         -
