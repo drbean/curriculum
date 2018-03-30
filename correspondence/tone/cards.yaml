@@ -78,7 +78,7 @@ chinese:
     0:
       identifier: chinese ban
       quiz:
-        - question: Which sentence is emphasized: "Students translating the site into Chinese will lose 25 points. The aim of the exam is to test your understanding of English, not whether you can understand Chinese, which is what you do when you use a Chinese translation."
+        - question: 'Which sentence is emphasized: "Students translating the site into Chinese will lose 25 points. The aim of the exam is to test your understanding of English, not whether you can understand Chinese, which is what you do when you use a Chinese translation."'
           option:
             - 1st
             - 2nd
@@ -86,7 +86,7 @@ chinese:
     1:
       identifier: drbean ban
       quiz:
-        - question: What is emphasized: "Dr Bean made the decision to deduct 25 points from the grades of students translating the site into Chinese after seeing Mark and another student using Google translation (?) during the exam last semester. The aim of the exam is to test your English, not whether you can understand Chinese."
+        - question: 'What is emphasized: "Dr Bean made the decision to deduct 25 points from the grades of students translating the site into Chinese after seeing Mark and another student using Google translation (?) during the exam last semester. The aim of the exam is to test your English, not whether you can understand Chinese."'
           option:
             - loss of 25 points for using Chinese translation
             - aim of the exam
@@ -202,7 +202,7 @@ passive:
           option:
             - was given
           answer: was given
-        - question: He __ a prize for his competition entry.
+        - quessShtion: He __ a prize for his competition entry.
           option:
             - was awarded
           answer: was awarded
@@ -223,10 +223,108 @@ passive:
             - aren't liked
           answer: aren't liked
     2:
+      identifier: passive
+      quiz:
+        - question: She/People expect(s) her boss to offer her a promotion. (Her boss ..)
+          answer:
+            - Her boss is expected to offer her a promotion.
+          incorrect:
+            -
+              error: ^(?!.*is expected to offer her.*)
+              feedback: Use the words, "is expected to offer her"
+        - question: She/People expect(s) her boss to offer her a promotion. (She is ..)
+          answer:
+            - She is expected to be offered a promotion.
+            - She is expected to be offered a promotion by her boss\.
+          incorrect:
+            -
+              error: ^(?!.*{is expected to be offered}.*)
+              feedback: Use the words, "is expected to be offered"
+        - question: Terry gave her a ride to work.
+          answer: 
+            - She was given a ride to work.
+            - She was given a ride to work by Terry\.
+          incorrect:
+            -
+              error: ^(?!.*was given a ride.*)
+              feedback: Use the words, "was given a"
+        - question: They awarded him a prize for his competition entry.
+          answer: 
+           -     He was awarded a prize for his competition entry.
+          incorrect:
+            -
+              error: ^(?!.*was awarded a.*)
+              feedback: Use the words, "was awarded a"
+        - question: Will they play the tennis match?
+          answer: 
+            - Will the tennis match be played?
+            - Will the tennis match be played by them\?
+          incorrect:
+            -
+              error: ^(?!.*be played.*)
+              feedback: Use the words, "be played"
+            -
+              error: ^(?!.*will the.*)
+              feedback: Use the words, "will the"
+        - question: Jean hadn't cleaned the house by the time her husband arrived.
+          answer: 
+            - The house hadn't been cleaned by the time Jean's husband arrived.
+          incorrect:
+            -
+              error: ^(?!.*{The house hadn't}.*)
+              feedback: Use the words, "The house hadn't"
+            -
+              error: ^(?!.*{hadn't been cleaned}.*)
+              feedback: Use the words, "hadn't been cleaned"
+            -
+              error: ^(?!.*Jean's husband.*)
+              feedback: Use the words, "Jean's husband"
+        - question: Everyone considers her to be the best student in the class.
+          answer:
+            - She is considered to be the best student in the class.
+            - She is considered by everyone to be the best student in the class\.
+            - She is considered to be the best student in the class by everyone\.
+          incorrect:
+            -
+              error: ^(?!.*She is considered.*)
+              feedback: Use the words, "She is considered"
+        - question: Frank doesn't like people telling him what to do. (Use "being told")
+          answer:
+            - Frank doesn't like being told what to do.
+            - Frank doesn't like being told by people what to do\.
+            - Frank doesn't like being told what to do by people\.
+          incorrect:
+            -
+              error: ^(?!.*Frank doesn't like.*)
+              feedback: Use the words, "Frank doesn't like"
+            -
+              error: ^(?!.*being told.*)
+              feedback: Use the words, "being told"
+
+        - question: Frank doesn't like people telling him what to do. (Use "aren't liked")
+          answer:
+            - People who tell Frank what to do aren't liked.
+            - People who tell Frank what to do aren't liked by him\.
+            - Frank doesn't like being told what to do.
+            - Frank doesn't like being told by people what to do\.
+            - Frank doesn't like being told what to do by people\.
+          incorrect:
+            -
+              error: ^(?!.*People who tell Frank what to do.*)
+              feedback: Use the words, "People who tell Frank what to do"
+            -
+              error: ^(?!.*aren't liked.*)
+              feedback: Use the words, "aren't liked"
+            
+          
+                
+
+          
+              
+    3:
       identifier: earthquake
       quiz:
         - question: Tainan __ by a big earthquake during the night.
-          option:
             - was hit
           answer: was hit
         - question: The Weiguan building __ .
@@ -245,7 +343,49 @@ passive:
           option:
             - been sent
           answer: been sent
-    3:
+    4:
+      identifier: earthquake
+      quiz:
+        - question: Tainan / hit / a big earthquake during the night.
+          answer: 
+            - Tainan was hit by a big earthquake during the night.
+          incorrect:
+            -
+              error: ^(?!.*was hit by.*)
+              feedback: Use the words, "was hit by"
+            
+        - question: The Weiguan building / demolish
+          option:
+          answer:
+            - The Weiguan building was demolished.
+          incorrect:
+            -
+              error: ^(?!.*was demolished.*)
+              feedback: Use the words, "was demolished"
+            
+        - question: 114 people / bury / in the ruins.
+          answer:
+            - 114 people were buried in the ruins.
+          incorrect:
+            -
+              error: ^(?!.*were buried.*)
+              feedback: Use the words, "were buried"
+        - question: Hundreds of people were hurt.
+          answer:
+            - Hundreds of people were hurt.
+          incorrect:
+            -
+              error: ^(?!.*were hurt.*)
+              feedback: Use the words, "were hurt"
+        - question: Help has already been sent by international search and rescue corps.
+          answer:
+            - Help has already been sent by international search and rescue corps.
+          incorrect:
+            -
+              error: ^(?!.*has already been sent.*)
+              feedback: Use the words, "has already been sent"
+            
+    5:
       identifier: olympics
       quiz:
         - question: Another gold medal __ by Taiwanese athlete, Sue-Ching Lin.
@@ -256,7 +396,7 @@ passive:
           option:
             - was awarded
           answer: was awarded
-    4:
+    6:
       identifier: queen
       quiz:
         - question: A new bridge __ by the Queen tomorrow.
@@ -267,7 +407,7 @@ passive:
           option:
             - will be given
           answer: will be given
-    5:
+    7:
       identifier:
       quiz:
         - question: |+
