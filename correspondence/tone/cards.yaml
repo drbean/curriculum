@@ -222,7 +222,7 @@ passive:
           option:
             - aren't liked
           answer: aren't liked
-    2:
+    practice:
       identifier: passive
       quiz:
         - question: She/People expect(s) her boss to offer her a promotion. (Her boss ..)
@@ -343,7 +343,7 @@ passive:
           option:
             - been sent
           answer: been sent
-    4:
+    earthquake:
       identifier: earthquake
       quiz:
         - question: Tainan / hit / a big earthquake during the night.
@@ -372,14 +372,14 @@ passive:
               feedback: Use the words, "were buried"
         - question: Hundreds of people were hurt.
           answer:
-            - Hundreds of people were hurt.
+            - Hundreds of people / hurt.
           incorrect:
             -
               error: ^(?!.*were hurt.*)
               feedback: Use the words, "were hurt"
         - question: Help has already been sent by international search and rescue corps.
           answer:
-            - Help has already been sent by international search and rescue corps.
+            - Help / already send / International Search and Rescue Corps.
           incorrect:
             -
               error: ^(?!.*has already been sent.*)
@@ -396,6 +396,23 @@ passive:
           option:
             - was awarded
           answer: was awarded
+    olympics:
+      identifier: olympics
+      quiz:
+        - question: Another gold medal / win / Taiwanese athlete, Sue-Ching Lin.
+          answer:
+            - Another gold medal has been won by Taiwanese athlete, Sue-Ching Lin.
+          incorrect:
+            -
+              error: ^(?!.*has been won.*)
+              feedback: Use the words, "has been won"
+        - question: She / award / the medal for breaking the weight-lifting world record.
+          answer:
+            - She was awarded the medal for breaking the weight-lifting world record.
+          incorrect:
+            -
+              error: ^(?!.*was awarded.*)
+              feedback: Use the words, "was awarded"
     6:
       identifier: queen
       quiz:
@@ -407,6 +424,33 @@ passive:
           option:
             - will be given
           answer: will be given
+    queen:
+      identifier: queen
+      quiz:
+        - question: Edinburgh visit / the Queen tomorrow
+          answer:
+            - Edinburgh will be visited by the Queen tomorrow
+          incorrect:
+            -
+              error: ^(?!.*will be visited.*)
+              feedback: Use the words, "will be visited"
+          
+        - question: A new bridge / open
+          answer:
+            - A new bridge will be opened.
+          incorrect:
+            -
+              error: ^(?!.*will be opened.*)
+              feedback: Use the words, "will be opened"
+        - question: A dinner party will be given to honor the Royal party.
+          option:
+            - will be given
+          answer:
+            - A dinner party will be given to honor the Royal party.
+          incorrect:
+            -
+              error: ^(?!.*will be given.*)
+              feedback: Use the words, "will be given"
     7:
       identifier:
       quiz:
