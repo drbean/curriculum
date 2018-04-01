@@ -93,7 +93,7 @@ prize:
           - polite close
 magazine:
   match:
-    0:
+    cloze:
       identifier: magazine match
       pair:
         -
@@ -123,7 +123,7 @@ magazine:
         -
           - 9
           - valued
-    1:
+    structure:
       identifier: magazine structure
       pair:
         
@@ -141,7 +141,7 @@ magazine:
           - polite close
 card:
   match:
-    0:
+    cloze:
       identifier: card match
       pair:
         -
@@ -162,7 +162,7 @@ card:
         -
           - 6
           - are happy
-    1:
+    structure:
       identifier: card structure
       pair:
         -
