@@ -526,6 +526,22 @@
     G: I prefer the train too, because I'm afraid of flying.
     B: Me, too! We're in the same boat. I never fly.
   - Natasha|Natasha|Natasha|End
+-
+  - ticket-0
+  - ticket-0
+  - "topics"
+  - "all"
+  - |+
+    A: I'm glad we arrived at the airport early.
+    B: Me, too. Now, let's make sure we have everything before we check in for our flight.
+    A: Good idea. I have our luggage here.
+    B: And I have our guidebooks and passports.
+    A: And I have our money and credit cards.
+    B: All right. That's it. We've got everything.
+    A: Um, not so fast. What about our plane tickets?
+    B: Uh-oh. You're right They're on the kitchen table.
+  - Uh-oh|End
+
 
 
 
