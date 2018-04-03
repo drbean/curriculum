@@ -1,6 +1,33 @@
 ---
 genre: correspondence
 repair:
+  jigsaw:
+    comprehension:
+      identifier: repair comprehension
+      quiz:
+        - question: Why is the message good news?
+          option:
+            - The car shop made a mistake with the cost of the starter motor.
+            - The starter motor will cost 2,000 dollars, not 4,000 dollars.
+            - The shop will fix the engine and exhaust for 1,100 dollars, not 1,500 dollars.
+            - The shop is giving the car owner a new quotation.
+          answer: The starter motor will cost 2,000 dollars, not 4,000 dollars.
+        - question: In which paragraph is the good news?
+          option:
+            - 1st
+            - 2nd
+            - 3rd
+            - 4th 
+            - 5th
+          answer: 2nd
+        - question: How does the structure of the email announcing the new quotation differ from that on p73? 
+          option:
+            - The announcement of the good news is delayed.
+            - There are not enough details.
+            - The sales appeal is in the wrong place.
+            - The sales appeal is not attractive.
+            - The close is positive.
+          answer: The announcement of the good news is delayed.
   match:
     cloze:
       identifier: car repair match
@@ -51,6 +78,31 @@ repair:
           - 5
           - polite close
 prize:
+  jigsaw:
+    comprehension:
+      identifier: prize comprehension
+      quiz:
+        - question: What benefit received by Ms Huang is the best news for her?
+          option:
+            - the award
+            - the recognition of her hard work and dedication
+            - the car
+            - the insurance
+          answer: the car
+        - question: Why is Ms Huang being recognized?
+          option:
+            - She is Chinese-British.
+            - She is hard-working and dedicated.
+            - She is getting a car.
+            - She is Salesperson of the Year.
+          answer: She is hard-working and dedicated.
+        - question: In which sentence in the first paragraph is the really good news
+          option:
+            - 1st
+            - 2nd
+            - 3rd
+            - 4th 
+          answer: 4th 
   match:
     cloze:
       identifier: car prize match
