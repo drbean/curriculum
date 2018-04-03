@@ -370,16 +370,16 @@ passive:
             -
               error: ^(?!.*were buried.*)
               feedback: Use the words, "were buried"
-        - question: Hundreds of people were hurt.
+        - question: Hundreds of people / hurt.
           answer:
-            - Hundreds of people / hurt.
+            - Hundreds of people were hurt.
           incorrect:
             -
               error: ^(?!.*were hurt.*)
               feedback: Use the words, "were hurt"
-        - question: Help has already been sent by international search and rescue corps.
+        - question: Help / already send / International Search and Rescue Corps.
           answer:
-            - Help / already send / International Search and Rescue Corps.
+            - Help has already been sent by International Search and Rescue Corps.
           incorrect:
             -
               error: ^(?!.*has already been sent.*)
@@ -427,9 +427,9 @@ passive:
     queen:
       identifier: queen
       quiz:
-        - question: Edinburgh visit / the Queen tomorrow
+        - question: Edinburgh / visit / the Queen tomorrow
           answer:
-            - Edinburgh will be visited by the Queen tomorrow
+            - Edinburgh will be visited by the Queen tomorrow.
           incorrect:
             -
               error: ^(?!.*will be visited.*)
@@ -442,9 +442,7 @@ passive:
             -
               error: ^(?!.*will be opened.*)
               feedback: Use the words, "will be opened"
-        - question: A dinner party will be given to honor the Royal party.
-          option:
-            - will be given
+        - question: A dinner party / give / to honor the Royal party.
           answer:
             - A dinner party will be given to honor the Royal party.
           incorrect:
@@ -762,12 +760,12 @@ confrontational:
         - Your policy does not include free checks of your boilers.
         - You are eligible for a free check of your boilers after one year.
         - The library books that you checked out on November_23 are overdue.
-email:
+rejection:
   jigsaw:
     0:
-      identifier: email
+      identifier: invitation rejection email
       quiz:
-        - question: The better one?
+        - question: The better invitation rejection?
           option:
             - Email A
             - Email B
@@ -781,29 +779,29 @@ email:
 2_emails:
   jigsaw:
     0:
-      identifier: 2_emails
+      identifier: 2_invitation rejection_emails
       quiz:
         - question: The better email
           option:
             - one
             - two
           answer: two
-        - question: the more polite email
+        - question: the email which is more polite to the student association
           option:
             - one
             - two
           answer: two
-        - question: the less stressful email
+        - question: the email which is less stressful to the student association
           option:
             - one
             - two
           answer: two
-        - question: The more direct email
+        - question: The email which is more direct 
           option:
             - one
             - two
           answer: one
-        - question: the less welcome email
+        - question: the email which would be less welcomed by the student association 
           option:
             - one
             - two
