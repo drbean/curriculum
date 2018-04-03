@@ -414,6 +414,28 @@
     B: Plastic is very bad for the earth. There are a lot of plastic bags and bottles on the beach. These plastic things are not good for the animals.
     G: And they smell really bad, too! People should always collect their trash before they leave the beach. Why don’t we clean up the beaches?
   - Plastic|End
+-
+  - "weather-2"
+  - "weather-2"
+  - "topics"
+  - "all"
+  - |+
+    Greg looks out the window. The weather is bad today. He looks at the sky. There are black clouds. There is lightning, too. It is also raining.
+    Greg likes it when it rains. When the rain stops, there will be a rainbow. He thinks rainbows are very pretty.
+  - Greg|window|looks|black|too|Greg|thinks|pretty|End
+-
+  - "weather-3"
+  - "weather-3"
+  - "topics"
+  - "all"
+  - |+
+    G: Why are you wearing those rubber boots?
+    B: I'm going outside.
+    G: OK, but the sun is out. You don't need to wear boots.
+    B: I know, but the forecast said it will rain today. It will be windy too.
+    G: It doesn't look like it will rain.
+    B: You'll see. There will be a big storm.
+  - End
 
 ---
 -
