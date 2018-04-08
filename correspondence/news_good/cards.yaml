@@ -143,6 +143,25 @@ prize:
         -
           - 4
           - polite close
+  drag:
+    0:
+      identifier: alternative cloze
+      sentences:
+        -
+          sentence: Congratulations! You have been chosen as "Salesperson of the Month". You were named because of your deals, which made much money for the company in February. In appreciation of your hard work, we are offering you a new iPad.
+          clozed: chosen|Month|named|because of|deals|money|February|appreciation|offering|iPad|End
+        -
+          sentence: To get this prize, come to the Human Relations department tomorrow. Mr Headingly, Vice-President for Sales wishes to meet you. There will be a photo opportunity. So we ask you to wear your best suit.
+          clozed: get|prize|come|Human Relations|tomorrow|Sales|meet|photo|wear|suit|End
+        -
+          sentence: You should think about installing the company's website as your home page on your new iPad. All deals concluded through your iPad on the company's website will allow customers a 10% discount.
+          clozed: think|installing|company|home page|deals|iPad|website|allow|customers|discount|End
+        -
+          sentence: Thanks again. We are so glad that you made so much business for us in February. We hope you can be top salesperson again in the months ahead, and even "Salesperson of the Year" in December. We look forward to many years of happy selling.
+          clozed: glad|business|February|hope|top|again|ahead|December|look forward|selling|End
+        
+        
+        
 magazine:
   match:
     cloze:
@@ -244,12 +263,47 @@ appeal:
       identifier: lottery news
       sentence:
         - Congratulations on winning the Sports Lottery. You are the winner of one million dollars.
+  drag:
+    0:
+      identifier: sales apppeal
+      sentences:
+        -
+          sentence: We are pleased to announce an absolutely free, brand new special offer which you can take advantage of.
+          clozed: We|are|pleased|to|announce|an|absolutely|brand|new|special|offer|which|you|can|take|advantage|End
+        -
+          sentence: Congratulations on winning the Sports Lottery. You are the winner of one million dollars.
+          clozed: Congratulations|on|winning|the|Sports|You|are|the|winner|of|one|million|End
+        -
+          sentence: We congratulate you on your selection as a winner in our ongoing Google promotion.
+          clozed: We|congratulate|you|on|your|selection|as|a|winner|in|our|ongoing|Google|End
+        -
+          sentence: You were selected as a Google winner due to your active use of our online services.
+          clozed: You|were|selected|as|a|Google|winner|due|to|your|active|use|of|our|online|End
 details:
   scramble:
     0:
       identifier: lottery news detail
       sentence:
         - All you have to do to collect your prize is come to the Sports Lottery office in Taipei with your ID card and your bankbook.
+  drag:
+    0:
+      identifier: lottery news detail
+      sentences:
+        -
+          sentence: All you have to do to collect your prize is come to the Sports Lottery office in Taipei with your ID card and your bankbook.
+          clozed: All|you|have|to|do|to|collect|your|prize|is|come|to|the|Sports|Lottery|office|in|Taipei|with|your|ID|card|and|your|End
+        -
+          sentence: To collect your prize, please send your bank account number and password to sundarpicha@give.me.your.money.com
+          clozed: To|collect|your|prize,|please|send|your|bank|account|number|and|password|to|End
+        -
+          sentence: To get your card, please fill out this form and send it back to us at the above address.
+          clozed: To|get|your|please|fill|out|the|form|and|send|it|back|to|us|at|the|above|End
+        -
+          sentence: If you wish to have us install this part, please call us at our office tomorrow.
+          clozed: If|you|wish|to|have|us|install|this|please|call|us|at|our|office|End
+        
+        
+        
 transfer:
   jigsaw:
     0:
