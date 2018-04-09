@@ -316,11 +316,25 @@ transfer:
             - The company will transfer Keats to Taichung.
             - The company will arrange care for Keats' mother.
           answer: The company will transfer Keats to Taichung.
-        - question: Why is the message that Cheng will send Keats a good news message?
+        - question: Why might the message that Cheng will send Keats be a good news message?
           option:
             - Keats will be able to look after his mother.
             - Keats prefers living in Taichung, to living in Taipei.
             - Keats' mother is unable to look after herself.
             - Keats is unhappy about his mother.
           answer: Keats will be able to look after his mother.
-        
+        - question: How should the message to Keats be arranged?
+          option:
+            - Consolation (ie, condolences), thoughts about mother, offer of assistance, reference to the future
+            - Good news, details, appeal, positive close
+            - Congratulations, personal comment, thoughts about the event, positive close
+          answer: Good news, details, appeal, positive close
+        - question: What kind of message is the message that Cheng will send Keats?
+          option:
+            - Goodwill message
+            - Thanks message
+            - Congratulations message
+            - Condolences message
+            - Invitation message
+            - Good news message
+          answer: Good news message
