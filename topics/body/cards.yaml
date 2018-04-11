@@ -239,3 +239,9 @@ sick:
       - "G: What happened? _B: I had an accident on my bicycle. _"
       - "G: Did you go to the hospital after the accident? _B: No. I felt fine then._"
       - "G: You should call your mom. She will take care of you. _B: Yes, I think you're right. I'll call her._"
+    -
+      - "B: What’s wrong, Greta? _G: I fell down the stairs._"
+      - "B: Oh, no! Are you OK? _G: I don’t know, but my arm hurts._"
+      - "B: Did you call your mom? _G: The school nurse is calling her for me._"
+      - "B: I hope you feel better tomorrow. _G: Thanks._"
+

@@ -299,6 +299,20 @@
     G: I’m getting a headache.
     B: You’d better take some medicine.
   - Tracy|Christopher|Christopher|Grace|End
+-
+  - sick-3
+  - sick-3
+  - "topics"
+  - "all"
+  - |+
+    B: What’s wrong, Greta?
+    G: I fell down the stairs.
+    B: Oh, no! Are you OK?
+    G: I don’t know, but my arm hurts. I have to go to the hospital.
+    B: Did you call your mom?
+    G: The school nurse is calling her for me.
+    B: I hope you feel better tomorrow.
+  - Greta|End
 
 ---
 -
