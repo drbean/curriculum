@@ -527,6 +527,18 @@
     B: Me, too! We're in the same boat. I never fly.
   - Natasha|Natasha|Natasha|End
 -
+  - transport-3
+  - transport-3
+  - "topics"
+  - "all"
+  - |+
+    B: Do you often take the bus?
+    G: Yes, I do. I prefer to take the bus. I don’t usually take the subway. I don't like the plastic seats on the subway.
+    B: We're in the same boat. I don't like the subway, either.
+    G: Yeah, and there are always too many people on the subway trains.
+  - plastic|End
+
+-
   - ticket-0
   - ticket-0
   - "topics"

@@ -16,6 +16,11 @@ transport:
       - "G: Why don't you drive to places? _B: Because we sold our car last year._"
       - "G: Why did you sell your car? Isn't it inconvenient? _B: It's good for the earth to reduce cars._"
       - "G: Wow! Do you ride bikes and walk a lot? _B: Yes. we ride our bicycles or walk near our house. We often skate, too._"
+    -
+      - "B: Do you often take the bus? _G: Yes, I do._"
+      - "G: I prefer to take the bus. I don’t usually take the subway. _B: We're in the same boat. I don't like the subway, either._"
+      - "G: I don't like the plastic seats on the subway. She also says: _G: And there are always too many people on the subway trains._"
+
 bicycle:
   bingo:
     - bicycle equipment road_map travel person tire learn_how_to_ride flat air tent environmentally-friendly Europe in_order_to fit_and_strong bags clothes food need planning_to_go trip
