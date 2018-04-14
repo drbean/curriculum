@@ -293,11 +293,11 @@ details:
           sentence: All you have to do to collect your prize is come to the Sports Lottery office in Taipei with your ID card and your bankbook.
           clozed: All|you|have|to|do|to|collect|your|prize|is|come|to|the|Sports|Lottery|office|in|Taipei|with|your|ID|card|and|your|End
         -
-          sentence: To collect your prize, please send your bank account number and password to sundarpicha@give.me.your.money.com
-          clozed: To|collect|your|prize,|please|send|your|bank|account|number|and|password|to|End
+          sentence: To collect your prize, please send your bank account number and password to sundarpicha@give.me.your.money.con
+          clozed: To|collect|your|prize|please|send|your|bank|account|number|and|password|to|End
         -
           sentence: To get your card, please fill out this form and send it back to us at the above address.
-          clozed: To|get|your|please|fill|out|the|form|and|send|it|back|to|us|at|the|above|End
+          clozed: To|get|your|please|fill|out|this|form|and|send|it|back|to|us|at|the|above|End
         -
           sentence: If you wish to have us install this part, please call us at our office tomorrow.
           clozed: If|you|wish|to|have|us|install|this|please|call|us|at|our|office|End
