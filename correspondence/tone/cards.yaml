@@ -287,7 +287,7 @@ courteous:
 chinese:
   jigsaw:
     0:
-      identifier: chinese ban
+      identifier: sentence
       quiz:
         - question: 'Which sentence is emphasized: "Students translating the site into Chinese will lose 25 points. The aim of the exam is to test your understanding of English, not whether you can understand Chinese, which is what you do when you use a Chinese translation."'
           option:
@@ -295,13 +295,26 @@ chinese:
             - 2nd
             - neither
           answer: 1st
+        - question: 'Which sentence is emphasized: "Dr Bean made the decision to deduct 25 points from the grades of students translating the site into Chinese after seeing Mark and another student using Google translation (?) during the exam last semester. The aim of the exam is to test your English, not whether you can understand Chinese."'
+          option:
+            - 1st
+            - 2nd
+            - neither
+          answer: 2nd
     1:
-      identifier: drbean ban
+      identifier: idea
       quiz:
+        - question: 'What is emphasized: "Students translating the site into Chinese will lose 25 points. The aim of the exam is to test your understanding of English, not whether you can understand Chinese, which is what you do when you use a Chinese translation."'
+          option:
+            - loss of 25 points for using Chinese translation
+            - aim of the exam
+            - students used Chinese translation in exam
+          answer: loss of 25 points for using Chinese translation
         - question: 'What is emphasized: "Dr Bean made the decision to deduct 25 points from the grades of students translating the site into Chinese after seeing Mark and another student using Google translation (?) during the exam last semester. The aim of the exam is to test your English, not whether you can understand Chinese."'
           option:
             - loss of 25 points for using Chinese translation
             - aim of the exam
+            - students used Chinese translation in exam
           answer: aim of the exam
         
 emphasis:
