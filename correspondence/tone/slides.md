@@ -44,6 +44,14 @@ An example of its own advice. It's doing what it's saying.
 	Subordinated: Middle paragraphs/sentences
 	Emphasized: last paragraph/sentence
 
+### emphasis explanation
+
+You can help your readers understand which of your ideas you consider most important by using emphasis and subordination.
+
+Ideas placed in the first paragraph of a document receive the most emphasis, followed by information placed in the last paragraph.
+
+You can subordinate an idea by placing it in middle paragraphs of your message, because these paragraphs receive the least emphasis.
+
 ## confidence
 
 	Don't be humble
