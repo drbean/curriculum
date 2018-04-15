@@ -42,21 +42,150 @@ confidence:
             - I am clearly the best qualified candidate.
             - I think you will agree that I am well-qualified for this position.
           answer: I think you will agree that I am well-qualified for this position.
+    wish:
+      identifier: wish
+      quiz:
+        - question: What does "I wish that I were the best qualified." indicate?
+          option:
+            - The candidate thinks he/she is the best qualified candidate.
+            - The candidate thinks he/she isn't the best qualified candidate.
+          answer: The candidate thinks he/she isn't the best qualified candidate.
+        - question: What does "Dr Bean wishes his students would talk more to him." indicate?
+          option:
+            - Dr Bean thinks his students will talk more with him in the future.
+            - Dr Bean thinks his students won't talk more with him in the future.
+          answer: Dr Bean thinks his students won't talk more with him in the future.
+        - question: What does "I wish the semester would hurry up and end" indicate?
+          option:
+            - The speaker thinks it is still a long time before the summer vacation starts.
+            - The speaker thinks the vacation is coming soon.
+          answer: The speaker thinks it is still a long time before the summer vacation starts.
+        - question: The probability that someone who says, "I wish I could quit my job." will quit.
+          option:
+            - Low probability
+            - Medium probability
+            - High probability
+          answer: Low probability
+        - question: Things I wish I'd known when I was starting out.
+          option:
+            - Things I didn't know then and don't know now.
+            - Things I did know then but don't know now.
+            - Things I did know then and do know now.
+            - Things I didn't know then but do know now.
+          answer: Things I didn't know then but do know now.
+        - question: Things I wish I'd known when I was starting my business.
+          option:
+            - Things which I didn't learn in the process of doing business, but which were important for doing business.
+            - Things which I learned in a natural way in the process of doing business.
+            - Things which I learned the hard way in the process of doing business, and which were important for doing business.
+            - Things which I didn't learn in the process of doing business, but which were not so important for doing business.
+          answer: Things which I learned the hard way in the process of doing business, and which were important for doing business.
+    clearly:
+      identifier: clearly
+      quiz:
+        - question: I am clearly the best qualified candidate.
+          option:
+            - unconfident
+            - appropriately confident
+            - over-confident
+          answer: over-confident
+        - question: "\"I am clearly the best qualified candidate.\" claims a relationship between the applicant's judgment and the employer's judgment."
+          option:
+            - The applicant's judgment is superior to the employer's judgment.
+            - The applicant's judgment is of equal status to the employer's judgment.
+            - The applicant's judgment is inferior to the employer's judgment.
+          answer: The applicant's judgment is superior to the employer's judgment.
+        - question: The reaction of the employer if an applicant claims a superior power of judgment to the employer's power of judgment.
+          option:
+            - dislike
+            - no concern
+            - like
+          answer: dislike
+        - question: The reaction of the employer if an applicant claims an inferior power of judgment to the employer's power of judgment.
+          option:
+            - dislike
+            - no concern
+            - like
+          answer: like
   scramble:
     0:
       identifier: confidence
       sentence:
         - I think you will agree that I am well-qualified for this position.
         - I look forward to working with my co-workers.
-    
+  drag:
+    0:
+      identifier: confidence
+      sentences:
+        -
+          sentence: I think you will agree that I am well-qualified for this position.
+          clozed: I|think|you|will|agree|that|I|am|well-qualified|for|this|position|End
+        -
+          sentence: I look forward to working with my co-workers.
+          clozed: I|look|forward|to|working|with|my|co-workers|End
+         
 smoking:
   scramble:
     0:
       identifier: smoking
       sentence:
         - The committee on health and safety has come to the decision to ban smoking after considering evidence from researchers and doctors.
-    
+  drag:
+    0:
+      identifier: smoking
+      sentences:
+        -
+          sentence: The committee on health and safety has come to the decision to ban smoking after considering evidence from researchers and doctors.
+          clozed: The|committee|on|health|and|safety|has|come|to|the|decision|to|ban|smoking|after|considering|evidence|from|researchers|and|End
+          
   jigsaw:
+    short_answer:
+      identifier: short_answer
+      quiz:
+        - question: The committee on health and safety has made the decision to ban smoking.
+          answer: 
+            - The decision to ban smoking has been made by the committee on health and safety.
+          incorrect:
+            -
+              error: ^(?!.*The decision to ban smoking.*)
+              feedback: Use the words, "The decision to ban smoking"
+            -
+              error: ^(?!.*has been made.*)
+              feedback: Use the words, "has been made"
+            -
+              error: ^(?!.*by the committee on health and safety.*)
+              feedback: Use the words, "by the committee on health and safety"
+    short_answer_reason:
+      identifier: short_answer_reason
+      quiz:
+        - question: The reason the "by the committee on health and safety" is ommitted is because the company is going to follow the decision and ban smoking at the company.
+          option:
+            - There is no other possible reason for the ommission
+            - This is a likely reason for the ommission
+            - This is a possible, but an unlikely reason for the ommission
+            - This is not a possible reason for the ommission
+          answer: This is a likely reason for the ommission
+        - question: The reason the "by the committee on health and safety" is ommitted is because workers at the company don't know about the committee on health and safety.
+          option:
+            - There is no other possible reason for the ommission
+            - This is a likely reason for the ommission
+            - This is a possible, but an unlikely reason for the ommission
+            - This is not a possible reason for the ommission
+          answer: This is a likely reason for the ommission
+        - question: The reason the "by the committee on health and safety" is ommitted is because the company wants to keep the existence of the committee on health and safety secret.
+          option:
+            - There is no other possible reason for the ommission
+            - This is a likely reason for the ommission
+            - This is a possible, but an unlikely reason for the ommission
+            - This is not a possible reason for the ommission
+          answer: This is a possible, but an unlikely reason for the ommission
+        - question: The reason the "by the committee on health and safety" is ommitted is because the company doesn't want smokers at the company to have bad feelings about the committee on health and safety.
+          option:
+            - There is no other possible reason for the ommission
+            - This is a likely reason for the ommission
+            - This is a possible, but an unlikely reason for the ommission
+            - This is not a possible reason for the ommission
+          answer: This is a possible, but an unlikely reason for the ommission
     0:
       identifier: emphasizing new smoking rule
       quiz:
@@ -82,6 +211,7 @@ chinese:
           option:
             - 1st
             - 2nd
+            - neither
           answer: 1st
     1:
       identifier: drbean ban
