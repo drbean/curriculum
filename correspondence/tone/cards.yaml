@@ -158,34 +158,34 @@ smoking:
     short_answer_reason:
       identifier: short_answer_reason
       quiz:
-        - question: The reason the "by the committee on health and safety" is ommitted is because the company is going to follow the decision and ban smoking at the company.
+        - question: The reason the "by the committee on health and safety" is omitted is because the company is going to follow the decision and ban smoking at the company.
           option:
-            - There is no other possible reason for the ommission
-            - This is a likely reason for the ommission
-            - This is a possible, but an unlikely reason for the ommission
-            - This is not a possible reason for the ommission
-          answer: This is a likely reason for the ommission
-        - question: The reason the "by the committee on health and safety" is ommitted is because workers at the company don't know about the committee on health and safety.
+            - There is no other possible reason for the omission
+            - This is a likely reason for the omission
+            - This is a possible, but an unlikely reason for the omission
+            - This is not a possible reason for the omission
+          answer: This is a likely reason for the omission
+        - question: The reason the "by the committee on health and safety" is omitted is because workers at the company don't know about the committee on health and safety.
           option:
-            - There is no other possible reason for the ommission
-            - This is a likely reason for the ommission
-            - This is a possible, but an unlikely reason for the ommission
-            - This is not a possible reason for the ommission
-          answer: This is a likely reason for the ommission
-        - question: The reason the "by the committee on health and safety" is ommitted is because the company wants to keep the existence of the committee on health and safety secret.
+            - There is no other possible reason for the omission
+            - This is a likely reason for the omission
+            - This is a possible, but an unlikely reason for the omission
+            - This is not a possible reason for the omission
+          answer: This is a likely reason for the omission
+        - question: The reason the "by the committee on health and safety" is omitted is because the company wants to keep the existence of the committee on health and safety secret.
           option:
-            - There is no other possible reason for the ommission
-            - This is a likely reason for the ommission
-            - This is a possible, but an unlikely reason for the ommission
-            - This is not a possible reason for the ommission
-          answer: This is a possible, but an unlikely reason for the ommission
-        - question: The reason the "by the committee on health and safety" is ommitted is because the company doesn't want smokers at the company to have bad feelings about the committee on health and safety.
+            - There is no other possible reason for the omission
+            - This is a likely reason for the omission
+            - This is a possible, but an unlikely reason for the omission
+            - This is not a possible reason for the omission
+          answer: This is a possible, but an unlikely reason for the omission
+        - question: The reason the "by the committee on health and safety" is omitted is because the company doesn't want smokers at the company to have bad feelings about the committee on health and safety.
           option:
-            - There is no other possible reason for the ommission
-            - This is a likely reason for the ommission
-            - This is a possible, but an unlikely reason for the ommission
-            - This is not a possible reason for the ommission
-          answer: This is a possible, but an unlikely reason for the ommission
+            - There is no other possible reason for the omission
+            - This is a likely reason for the omission
+            - This is a possible, but an unlikely reason for the omission
+            - This is not a possible reason for the omission
+          answer: This is a possible, but an unlikely reason for the omission
     0:
       identifier: emphasizing new smoking rule
       quiz:
@@ -202,6 +202,88 @@ smoking:
             - 1st
             - 2nd
           answer: 1st
+courteous:
+  drag:
+    0:
+      identifier: courteous scramble
+      sentences:
+        -
+          sentence: The system will automatically shut down, if installation errors are made.
+          clozed: The|system|will|automatically|shut|down|if|installation|errors|are|made|End
+        -
+          sentence: A lot of computer knowledge is needed to install this software successfully.
+          clozed: A|lot|of|computer|knowledge|is|needed|to|install|this|software|End
+        -
+          sentence: A mistake has been made with your payment of Invoice_AAC527 for the goods sent last week.
+          clozed: A|mistake|has|been|made|with|your|payment|of|Invoice_AAC527|for|the|goods|sent|last|End
+        -
+          sentence: A mistake was made with the price you were charged for the goods sent last week.
+          clozed: A|mistake|was|made|with|the|price|you|were|charged|for|the|goods|sent|last|End
+        
+        
+  jigsaw:
+    0:
+      identifier: courteous
+      quiz:
+        - question: You didn't read the installation instructions carefully, so your system has shut down.
+          option:
+            - courteous
+            - sincere
+            - not courteous
+            - not sincere
+          answer: not courteous
+        - question: The system may automatically shut down, if installation errors are made.
+          option:
+            - courteous
+            - sincere
+            - not courteous
+            - not sincere
+          answer: courteous
+        - question: You need a lot of computer knowledge to install this software successfully. Do you have this knowledge?
+          option:
+            - courteous
+            - sincere
+            - not courteous
+            - not sincere
+          answer: sincere
+        - question: You need a lot of computer knowledge to install this software successfully. But you're smart. We believe you will be successful.
+          option:
+            - courteous
+            - sincere
+            - not courteous
+            - not sincere
+          answer: not sincere
+    payment:
+      identifier: payment
+      quiz:
+        - question: "In letter to customer: You made a mistake with your payment of Invoice AAC527 for the goods sent last week."
+          option:
+            - active and courteous
+            - passive and courteous
+            - active and not courteous
+            - passive and not courteous
+          answer: active and not courteous
+        - question: "In letter to customer: A mistake has been made with your payment of Invoice AAC527 for the goods sent last week."
+          option:
+            - active and courteous
+            - passive and courteous
+            - active and not courteous
+            - passive and not courteous
+          answer: passive and courteous
+        - question: "In letter to customer: We made a mistake with the price we charged you for the goods we sent last week."
+          option:
+            - active and courteous
+            - passive and courteous
+            - active and not courteous
+            - passive and not courteous
+          answer: active and courteous
+        - question: "In letter to customer: A mistake was made with the price you were charged for the goods sent last week."
+          option:
+            - active and courteous
+            - passive and courteous
+            - active and not courteous
+            - passive and not courteous
+          answer: passive and not courteous
 chinese:
   jigsaw:
     0:
