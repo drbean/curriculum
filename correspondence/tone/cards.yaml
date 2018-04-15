@@ -338,8 +338,14 @@ emphasis:
             - subordination is important
             - subordination isn't important
           answer: subordination is important
+        - question: Where does the most emphasized, most important information go, 3. p80?
+          option:
+            - 1st para
+            - middle paras
+            - last para
+          answer: 1st para
     1:
-      identifier: example of advice
+      identifier: short sentence, example of advice
       quiz:
         - question: 3 (1) p 81. has 3 sentences advising how to use emphasis. One sentence is an EXAMPLE of that advice.
           option:
@@ -347,24 +353,12 @@ emphasis:
             - 2nd
             - 3rd
           answer: 1st
-    2:
-      identifier: placing
-      quiz:
-        - question: Where does the most emphasized, most important information go, 3. p80?
-          option:
-            - 1st para
-            - middle paras
-            - last para
-          answer: 1st para
-    3:
-      identifier: short sentence advice
-      quiz:
         - question: How can an idea be emphasized, made important, 3 (1) p81?
           option:
             - placement in a short sentence
             - provision of explanations, examples, evidence
           answer: placement in a short sentence
-        - question: Which is the shortest sentence?
+        - question: Which is the shortest sentence of 3 (1) p81?
           option:
             - 1st sentence
             - 2nd sentence
@@ -376,9 +370,6 @@ emphasis:
             - 2nd sentence
             - 3rd sentence
           answer: 1st sentence
-    4:
-      identifier: summary
-      quiz:
         - question: Which sentence summarizes the paragraph, best says what the paragraph says.
           option:
             - 1st sentence
