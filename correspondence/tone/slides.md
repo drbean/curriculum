@@ -46,11 +46,11 @@ An example of its own advice. It's doing what it's saying.
 
 ### emphasis explanation
 
-You can help your readers understand which of your ideas you consider most important by using emphasis and subordination.
+You can help your readers understand which of your ideas you consider most important by using emphasis and subordination (background information).
 
 Ideas placed in the first paragraph of a document receive the most emphasis, followed by information placed in the last paragraph.
 
-You can subordinate an idea by placing it in middle paragraphs of your message, because these paragraphs receive the least emphasis.
+You can subordinate an idea (put it in the background) by placing it in middle paragraphs of your message, because these paragraphs receive the least emphasis.
 
 ## confidence
 
