@@ -35,6 +35,9 @@ But, could you send me 10 boxes of LED lights, No 3425.
 
 We hope you can send the order as soon as possible.
 
+## courteous & sincere, passive
+
+Think about avoiding responsibility.
 
 ## emphasis
 
