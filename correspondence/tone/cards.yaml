@@ -410,38 +410,57 @@ passive:
     1:
       identifier: missing word
       quiz:
-        - question: Her boss __ to offer her a promotion.
-          option:
-            - is expected
-          answer: is expected
-        - question: She __ a promotion
-          option:
-            - is expected to be offered
-          answer: is expected to be offered
-        - question: She __ a ride to work.
-          option:
-            - was given
-          answer: was given
-        - quessShtion: He __ a prize for his competition entry.
-          option:
-            - was awarded
-          answer: was awarded
-        - question: Will the tennis match __ ?
-          option:
-            - be played
-          answer: be played
-        - question: The house __ by the time Jean's husband arrived.
-          option:
-            - hadn't been cleaned
-          answer: hadn't been cleaned
+        - question: Her boss __ to offer her a promotion. (Use 'expect')
+          answer:
+            - Her boss is expected to offer her a promotion.
+          incorrect:
+            -
+              error: ^(?!.*is.*)
+              feedback: Use the words, "is"
+            -
+              error: ^(?!.*expected.*)
+              feedback: Use the words, "expected"
+        - question: She __ a promotion (Use 'expect' and 2 passives)
+          answer:
+            - She is expected to be offered a promotion
+          incorrect:
+            -
+              error: ^(?!.*is.*)
+              feedback: Use the words, "is"
+            -
+              error: ^(?!.*expected.*)
+              feedback: Use the words, "expected"
+            
+        - question: She __ a ride to work. (Use 'give' in the past)
+          answer:
+            - She was given a ride to work.
+          incorrect:
+            -
+              error: ^(?!.*was.*)
+              feedback: Use the words, "was"
+            -
+              error: ^(?!.*given.*)
+              feedback: Use the words, "given"
+            
+        - question: He __ a prize for his competition entry. (Use 'award' in the past)
+          answer:
+            - He was awarded a prize for his competition entry.
+        - question: Will the tennis match __ ? (Use 'play')
+          answer:
+            - Will the tennis match be played ?
+        - question: The house __ by the time Jean's husband arrived. (Use 'clean' in the past perfect)
+          answer:
+            - The house hadn't been cleaned by the time Jean's husband arrived.
         - question: She __ to be the best student in the class.
-          option:
-            - is considered
-          answer: is considered
-        - question: People who tell Frank what to do __.
-          option:
-            - aren't liked
-          answer: aren't liked
+          answer:
+            - She is considered to be the best student in the class. (Use 'consider')
+        - question: People who tell Frank what to do __. (Use 'like')
+          answer:
+            - People who tell Frank what to do aren't liked  
+        - question: Frank doesn't like __ what to do. (Use 'tell' as a verbal noun (gerund))
+          answer: 
+            - Frank doesn't like being told what to do.
+
     practice:
       identifier: passive
       quiz:
