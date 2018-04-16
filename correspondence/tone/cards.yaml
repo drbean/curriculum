@@ -386,22 +386,26 @@ passive:
           option:
             - passive
             - not passive
+            - neither active nor passive
           answer: not passive
         - question: The quiz has been closed
           option:
             - passive
             - not passive
+            - neither active nor passive
           answer: passive
         
         - question: I've been to Taitung
           option:
             - passive
             - not passive
+            - neither active nor passive
           answer: not passive
         - question: smoking will no longer be permitted in the building
           option:
             - passive
             - not passive
+            - neither active nor passive
           answer: passive
     1:
       identifier: missing word
