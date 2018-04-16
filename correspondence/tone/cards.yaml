@@ -451,12 +451,12 @@ passive:
         - question: The house __ by the time Jean's husband arrived. (Use 'clean' in the past perfect)
           answer:
             - The house hadn't been cleaned by the time Jean's husband arrived.
-        - question: She __ to be the best student in the class.
+        - question: She __ to be the best student in the class. (Use 'consider')
           answer:
-            - She is considered to be the best student in the class. (Use 'consider')
+            - She is considered to be the best student in the class.
         - question: People who tell Frank what to do __. (Use 'like')
           answer:
-            - People who tell Frank what to do aren't liked  
+            - People who tell Frank what to do aren't liked.
         - question: Frank doesn't like __ what to do. (Use 'tell' as a verbal noun (gerund))
           answer: 
             - Frank doesn't like being told what to do.
