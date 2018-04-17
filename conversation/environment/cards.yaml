@@ -12,7 +12,7 @@ picture:
            - Acid rain has eroded statues and buildings. (as a result of)
            - Oil spills are harming birds, fish and other marine life. (through)
            - The growth of suburbs has eaten up huge amounts of farmland. (due to)
-           - The destruction of rain forestes is accelerating the extinction of plants and wildlife. (by)
+           - The destruction of rain forests is accelerating the extinction of plants and wildlife. (by)
           answer: Livestock farms have contaminated soil and underground water. (because of)
         - question: Picture 2, row 1
           option:
@@ -30,7 +30,7 @@ picture:
            - Acid rain has eroded statues and buildings (as a result of)
            - Oil spills are harming birds, fish and other marine life (through)
            - The growth of suburbs has eaten up huge amounts of farmland (due to)
-           - The destruction of rain forestes is accelerating the extinction of plants and wildlife. (by)
+           - The destruction of rain forests is accelerating the extinction of plants and wildlife. (by)
           answer: The growth of suburbs has eaten up huge amounts of farmland (due to)
         - question: Picture 1, row 2
           option:
@@ -39,7 +39,7 @@ picture:
            - Acid rain has eroded statues and buildings (as a result of)
            - Oil spills are harming birds, fish and other marine life (through)
            - The growth of suburbs has eaten up huge amounts of farmland (due to)
-           - The destruction of rain forestes is accelerating the extinction of plants and wildlife. (by)
+           - The destruction of rain forests is accelerating the extinction of plants and wildlife. (by)
           answer: Air pollution is threatening the health of people in urban areas (by)
         - question: Picture 2, row 2
           option:
@@ -48,7 +48,7 @@ picture:
            - Acid rain has eroded statues and buildings (as a result of)
            - Oil spills are harming birds, fish and other marine life (through)
            - The growth of suburbs has eaten up huge amounts of farmland (due to)
-           - The destruction of rain forestes is accelerating the extinction of plants and wildlife. (by)
+           - The destruction of rain forests is accelerating the extinction of plants and wildlife. (by)
           answer: Acid rain has eroded statues and buildings (as a result of)
         - question: Picture 3, row 2
           option:
@@ -57,7 +57,7 @@ picture:
            - Acid rain has eroded statues and buildings (as a result of)
            - Oil spills are harming birds, fish and other marine life (through)
            - The growth of suburbs has eaten up huge amounts of farmland (due to)
-           - The destruction of rain forestes is accelerating the extinction of plants and wildlife. (by)
+           - The destruction of rain forests is accelerating the extinction of plants and wildlife. (by)
           answer: Oil spills are harming birds, fish and other marine life (through)
 passive:
   jigsaw:
@@ -72,10 +72,19 @@ passive:
             -
               error: ^(?!.*in urban areas.*)
               feedback: Use all the words, "in urban areas."
+            -
+              error: ^(?!.*is being threatened.*)
+              feedback: Use the words, "is being threatened"
+                
         - question: Livestock farms have contaminated soil and underground water. (because of)
           answer:
             - Soil and underground water has been contaminated because of livestock farms.
             - Soil and underground water have been contaminated because of livestock farms\.
+          incorrect:
+            -
+              error: ^(?!.*have been contaminated.*)
+              feedback: Use the words, "have been contaminated."
+              
         - question: Acid rain has eroded statues and buildings. (as a result of)
           answer:
             - Statues and buildings have been eroded as a result of acid rain.
@@ -84,20 +93,31 @@ passive:
             -
               error: ^(?!.*have been eroded.*)
               feedback: Use the words, "have been eroded"
-        - question: Oil spills are harming birds, fish and other marine life (through)
+        - question: Oil spills are harming birds, fish and other marine life. (through)
           answer:
             - Birds, fish and other marine life are being harmed through oil spills.
           incorrect:
             -
               error: ^(?!.*are being harmed.*)
               feedback: Use the words, "are being harmed"
-        - question: Oil spills are harming birds, fish and other marine life (through)
+        - question: The growth of suburbs has eaten up huge amounts of farmland. (due to)
           answer:
-            - Birds, fish and other marine life are being harmed through oil spills.
+            - Huge amounts of farmland have been eaten up due to the growth of suburbs.
+            - Huge amounts of farmland have been eaten up due to suburb growth\.
           incorrect:
             -
-              error: ^(?!.*are being harmed.*)
-              feedback: Use the words, "are being harmed"
+              error: ^(?!.*have been eaten up.*)
+              feedback: Use the words, "have been eaten up"
+        - question: The destruction of rain forests is accelerating the extinction of plants and wildlife. (by)
+          answer:
+            - The extinction of plants and wildlife is being accelerated by the destruction of rain forests.
+            - Extinction of plants and wildlife is being accelerated by the destruction of rain forests\.
+            - Plants? and wildlife extinction is being accelerated by the destruction of rain forests\.
+            - Plants? and wildlife extinction is being accelerated by rain forests? destruction\.
+          incorrect:
+            -
+              error: ^(?!.*is being accelerated.*)
+              feedback: Use the words, "is being accelerated."
 problem:
   jigsaw:
     0:
@@ -147,4 +167,117 @@ to_do:
         -
           - One way to help people who lose their jobs is ..
           - to start free vocational training programs.
-        
+polluters:
+  jigsaw:
+    first:
+      identifier: polluters
+      quiz:
+        - question: What happened to the fish?
+          option:
+            - They're in the water.
+            - They're dead.
+            - They're coming up for air.
+          answer: They're dead.
+        - question: What is the cause of the problem?
+          option:
+            - global warming
+            - rise in sea level
+            - chemicals in the water
+          answer: chemicals in the water
+        - question: What action is causing this problem?
+          option:
+            - factory pumping chemicals into the water
+            - TV stations running stories about pollution
+            - Andy and Carla's concern about the river
+          answer: factory pumping chemicals into the water
+        - question: What will Andy and Carla do first?
+          option:
+            - Talk to company representatives
+            - Go on TV and talk to reporters
+            - Talk to Carla's uncle
+          answer: Talk to company representatives
+        - question: What will Andy and Carla do if the first plan doesn't work?
+          option:
+            - Talk to company representatives
+            - Get a TV station to report the story
+            - Talk to Carla's uncle
+          answer: Get a TV station to report the story
+        - question: Who is Carla's uncle?
+          option:
+            - a fisherman
+            - a TV reporter
+            - a company executive
+          answer: a company executive
+    second:
+      identifier: polluters
+      quiz:
+        - question: What is one thing they express concern about?
+          option:
+            - Making sure the factory will do something
+            - Making sure the condition of the river is as it appears
+            - Making sure their friends will help them
+          answer: Making sure the condition of the river is as it appears
+        - question: Are they going to talk to people straight away?
+          option:
+            - No, they decide not to do anything.
+            - No, they decide to check the river for a few weeks.
+            - Yes, they decide to talk to Carla's uncle.
+          answer: No, they decide to check the river for a few weeks.
+        - question: What will they do to check the river?
+          option:
+            - Take pictures and water samples
+            - Enter the river to see the pollution
+            - Catch fish and check they're OK
+          answer: Take pictures and water samples
+        - question: Who will help them in the next few weeks?
+          option:
+            - Friends
+            - TV station reporters
+            - Carla's uncle
+          answer: Friends
+        - question: What will they do if they find the condition of the river is NOT as bad as they thought.
+          option:
+            - Do nothing
+            - Talk to reporters
+            - Talk to Carla's uncle
+          answer: Do nothing
+        - question: What will they do if they find the condition of the river IS as bad as they thought.
+          option:
+            - Do nothing
+            - Talk to friends
+            - Talk to Carla's uncle
+          answer: Talk to Carla's uncle
+problem_solution:
+  jigsaw:
+    0:
+      identifier: problem_solution
+      quiz:
+        - question: drug trafficking
+          option:
+            - left, top-row picture
+            - middle, top-row picture
+            - right, top-row picture
+            - bottom-row picture
+          answer: left, top-row picture
+        - question: improving children's health
+          option:
+            - left, top-row picture
+            - middle, top-row picture
+            - right, top-row picture
+            - bottom-row picture
+          answer: middle, top-row picture
+        - question: keeping parks clean
+          option:
+            - left, top-row picture
+            - middle, top-row picture
+            - right, top-row picture
+            - bottom-row picture
+          answer: right, top-row picture
+        - question: reducing unemployment
+          option:
+            - left, top-row picture
+            - middle, top-row picture
+            - right, top-row picture
+            - bottom-row picture
+          answer: bottom-row picture
+          
