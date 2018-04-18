@@ -31,6 +31,16 @@ animals:
       parrot       : 鸚鵡
       snake        : 蛇
       zebra        : 斑馬
+  3:
+    flash:
+      penguin   : 企鵝
+      polar bear: 北極熊
+      dolphin   : 海豚
+      whale     : 鯨
+      fish      : 魚
+      octopus   : 章魚
+      shark     : 鯊魚
+      squid     : 烏賊
   bingo: 
     - bee cats cows dogs goat goldfish horses lions monkey parrot polar_bear shark sheep tigers zebra
     - panda_bear turtle flamingo bat bamboo shell fur snail hamster pet vet/veterinarian dog cat beetle moth cricket spider butterfly ladybug ant bee chick eagle swan nest
