@@ -244,4 +244,10 @@ sick:
       - "B: Oh, no! Are you OK? _G: I don’t know, but my arm hurts._"
       - "B: Did you call your mom? _G: The school nurse is calling her for me._"
       - "B: I hope you feel better tomorrow. _G: Thanks._"
+    -
+      - "A: What's wrong. _B: My arm hurts._"
+      - "A: How did you hurt your arm? _B: I had an accident on my bicycle._"
+      - "A: You don’t look so good. _B: Yeah. I don't feel well._"
+      - "A: You should go to the hospital. _B: OK. I guess you’re right._"
+
 

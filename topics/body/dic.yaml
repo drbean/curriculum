@@ -313,6 +313,22 @@
     G: The school nurse is calling her for me.
     B: I hope you feel better tomorrow.
   - Greta|End
+-
+  - sick-4
+  - sick-4
+  - "topics"
+  - "all"
+  - |+
+    A: What's wrong.
+    B: My arm hurts.
+    A: How did you hurt your arm?
+    B: I had an accident on my bicycle.
+    A: You don’t look so good.
+    B: Yeah. I don't feel well.
+    A: You should go to the hospital.
+    B: OK. I guess you’re right.
+
+
 
 ---
 -
