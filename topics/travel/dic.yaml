@@ -537,6 +537,23 @@
     B: We're in the same boat. I don't like the subway, either.
     G: Yeah, and there are always too many people on the subway trains.
   - plastic|End
+-
+  - transport-4
+  - transport-4
+  - "topics"
+  - "all"
+  - |+
+    A: How often do you take the bus?
+    B: I take it every week.
+    A: Do you always walk to the bus stop?
+    B: No, sometimes I ride my bike. 
+    A: Where are you going?
+    B: I’m going to a town in the mountains. 
+    A: Where do you need to change buses?
+    B: I need to change at Zhubei station.
+    A: What time will the bus arrive in the mountains?
+    B: It will get there around 4:30.
+  - Zhubei|End
 
 -
   - ticket-0
