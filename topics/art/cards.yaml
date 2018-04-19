@@ -16,6 +16,16 @@ gold:
       - Gold's value is more than \$120,000 NT per 100 grams.  _黃金的價值是每100克超過\$ 120,000新台幣。_
 
 art:
+  0:
+    flash:
+      crayons     : 蠟筆
+      markers     : 魔術筆
+      paintbrush  : 畫筆
+      pottery     : 陶器
+      clay        : 粘土
+      mistake     : 錯誤
+      ruined      : 毀了
+      messy       : 亂
   bingo:
     - picture crayons circles markers paintbrush pottery clay mistake messy plate ruin wash box colors bowl present dirty pot/pots wall paper new_clothes zoo animals gift_store bored break drip table hole thin
     -
