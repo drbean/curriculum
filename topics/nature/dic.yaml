@@ -415,8 +415,8 @@
     G: And they smell really bad, too! People should always collect their trash before they leave the beach. Why don’t we clean up the beaches?
   - Plastic|End
 -
-  - "weather-2"
-  - "weather-2"
+  - "weather-1"
+  - "weather-1"
   - "topics"
   - "all"
   - |+
@@ -424,8 +424,8 @@
     Greg likes it when it rains. When the rain stops, there will be a rainbow. He thinks rainbows are very pretty.
   - Greg|window|looks|black|too|Greg|thinks|pretty|End
 -
-  - "weather-3"
-  - "weather-3"
+  - "weather-2"
+  - "weather-2"
   - "topics"
   - "all"
   - |+
@@ -441,6 +441,15 @@
 
     B: You'll see. There will be a big storm.
   - End
+-
+  - "weather-3"
+  - "weather-3"
+  - "topics"
+  - "all"
+  - |+
+    How are rainbows made? They are made from the sun. After a storm, the sun comes out. The sunlight goes through the raindrops and the light makes the rainbow. It goes across the sky.
+    Where does the rainbow end? No one knows. Some people look for the end, but they can't find it. It is just light.
+  - rainbows|sunlight|through|rainbow|End
 
 ---
 -
