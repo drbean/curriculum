@@ -717,6 +717,92 @@ heater:
           -
             - Please do  ...
             - polite expression
+calendar:
+  jigsaw:
+    structure:
+      identifier: calendar
+      quiz:
+        - question: 2018 about calendar email for for inquiring school Thank the you your
+          option:
+            - acknowledgement
+            - restatement of the inquiry
+            - reason for delay
+            - the date when an answer to the inquiry will be possible
+            - polite close
+          answer: acknowledgement
+        - question: able calendar find not on school that the the to website were write you You
+          option:
+            - acknowledgement
+            - restatement of the inquiry
+            - reason for delay
+            - the date when an answer to the inquiry will be possible
+            - polite close
+          answer: restatement of the inquiry
+        - question: because been calendar dates decided have is not on the the This yet
+          option:
+            - acknowledgement
+            - restatement of the inquiry
+            - reason for delay
+            - the date when an answer to the inquiry will be possible
+            - polite close
+          answer: reason for delay
+        - question: be calendar is it on posted ready the the website When will
+          option:
+            - acknowledgement
+            - restatement of the inquiry
+            - reason for delay
+            - the date when an answer to the inquiry will be possible
+            - polite close
+          answer: the date when an answer to the inquiry will be possible
+        - question: at calendar for look on Please that the the time website
+          option:
+            - acknowledgement
+            - restatement of the inquiry
+            - reason for delay
+            - the date when an answer to the inquiry will be possible
+            - polite close
+          answer: polite close
+    comprehension:
+      identifier: calendar comprehension
+      quiz:
+        - question: Which of the following parts of an inquiry acknowledgement do not appear in the textbook?
+          option:
+            - acknowledgement
+            - restatement of the inquiry
+            - reason for delay
+            - the date when an answer to the inquiry will be possible
+            - polite close
+            - none of the above
+          answer: restatement of the inquiry
+        - question: Who would NOT be the person whose inquiry is being acknowledged in this email?
+          option:
+            - A high school student considering entering the school
+            - A junior/3rd year student who will be a senior/4th-year student next year
+            - A professor involved in deciding the school schedule for the next year.
+            - A parent with a child at the school considering vacation plans
+          answer: A professor involved in deciding the school schedule for the next year.
+  drag:
+    0:
+      identifier: calendar scramble
+      sentences:
+        -
+          sentence: Thank you for your email inquiring about the school calendar for 2018.
+          clozed: Thank|you|for|your|email|inquiring|about|the|school|calendar|for|End
+        -
+          sentence: You write that you were not able to find the calendar on the school website.
+          clozed: You|write|that|you|were|not|able|to|find|the|calendar|on|the|school|End
+        -
+          sentence: This is because the dates on the calendar have not yet been decided.
+          clozed: This|is|because|the|dates|on|the|calendar|have|not|yet|been|End
+        -
+          sentence: When the calendar is ready, it will be posted on the website.
+          clozed: When|the|calendar|is|it|will|be|posted|on|the|End
+        -
+          sentence: Please look for the calendar on the website at that time.
+          clozed: Please|look|for|the|calendar|on|the|website|at|that|End
+        
+        
+        
 opening:
   drag:
     0:
@@ -775,7 +861,3 @@ reply:
         -
           sentence: You can track shipping details on our websites.
           clozed: You|can|track|shipping|details|on|our|End
-        
-        
-        
-    
