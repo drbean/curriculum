@@ -730,7 +730,7 @@ calendar:
             - the date when an answer to the inquiry will be possible
             - polite close
           answer: acknowledgement
-        - question: able calendar find not on school that the the to website were write you You
+        - question: able calendar find not on school that the the to website were wrote you You
           option:
             - acknowledgement
             - restatement of the inquiry
@@ -789,8 +789,8 @@ calendar:
           sentence: Thank you for your email inquiring about the school calendar for 2018.
           clozed: Thank|you|for|your|email|inquiring|about|the|school|calendar|for|End
         -
-          sentence: You write that you were not able to find the calendar on the school website.
-          clozed: You|write|that|you|were|not|able|to|find|the|calendar|on|the|school|End
+          sentence: You wrote that you were not able to find the calendar on the school website.
+          clozed: You|wrote|that|you|were|not|able|to|find|the|calendar|on|the|school|End
         -
           sentence: This is because the dates on the calendar have not yet been decided.
           clozed: This|is|because|the|dates|on|the|calendar|have|not|yet|been|End
