@@ -859,7 +859,70 @@ textbook:
             - polite close
             - none of the above
           answer: extra information
-        
+        - question: book get I other recommend students that the the together with you 
+          option:
+            - acknowledgement
+            - appreciation of inquiry
+            - answering the inquiry
+            - extra information
+            - polite close
+            - none of the above
+          answer: extra information
+        - question: 15 a a be discount for NT$280 of percent price Then there total will 
+          option:
+            - acknowledgement
+            - appreciation of inquiry
+            - answering the inquiry
+            - extra information
+            - polite close
+            - none of the above
+          answer: extra information
+        - question: book for in interest much Thank the very you your 
+          option:
+            - acknowledgement
+            - appreciation of inquiry
+            - answering the inquiry
+            - extra information
+            - polite close
+            - none of the above
+          answer: polite close
+        - question: any contact do further have hestitate if not Please questions to us you 
+          option:
+            - acknowledgement
+            - appreciation of inquiry
+            - answering the inquiry
+            - extra information
+            - polite close
+            - none of the above
+          answer: polite close
+    comprehension:
+      identifier: textbook comprehension
+      quiz:
+        - question: Who would be the person who sent the inquiry that is being answered in this email?
+          option:
+            - Hsiao-fang Cheng
+            - Dr Bean
+            - a student
+            - AFLD office worker
+          answer: a student
+        - question: What would the purpose of the inquirer be?
+          option:
+            - to write the book
+            - to teach the book
+            - to fix the book
+            - to sell the book
+            - to buy the book
+            - to arrange distribution of the book
+          answer: to buy the book
+        - question: What advice does the writer have for the inquirer at this time?
+          option:
+            - not to write the book
+            - not to teach the book
+            - not to fix the book
+            - not to sell the book
+            - not to buy the book
+            - not to arrange distribution of the book
+          answer: not to buy the book
   drag:
     0:
       identifier: textbook scramble
@@ -877,8 +940,11 @@ textbook:
           sentence: However, if you wait until the semester starts, the whole class can get the textbook from the AFLD Office.
           clozed: However|if|you|wait|until|the|semester|the|whole|class|can|get|the|textbook|from|the|End
         -
-          sentence: If you get the book together with the other students, there will be a 15 percent discount, for a total price of NT$280.
-          clozed: If|you|get|the|book|together|with|the|other|there|will|be|a|15|percent|for|a|total|price|of|End
+          sentence: I recommend that you get the book together with the other students.
+          clozed: I|recommend|that|you|get|the|book|together|with|the|other|End
+        -
+          sentence: Then, there will be a 15 percent discount, for a total price of NT$280.
+          clozed: Then|there|will|be|a|15|percent|for|a|total|price|of|End
         -
           sentence: Thank you very much for your interest in the book.
           clozed: Thank|you|very|much|for|your|interest|in|the|End
@@ -946,13 +1012,4 @@ reply:
         -
           sentence: You can track shipping details on our websites.
           clozed: You|can|track|shipping|details|on|our|End
-
-
-
-
-
-
-
-
-
 
