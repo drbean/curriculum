@@ -197,6 +197,84 @@ talk:
           answer: False
         - question: The recipient was a visitor.
           answer: True
+award:
+  jigsaw:
+    0:
+      identifier: award
+      quiz:
+        - question: award coming Computer_History_Museum Distinguished_Fellow for our receive Thank the to to yesterday you 
+          option:
+            - thanks with reason for appreciation
+            - communication of the positive emotions felt about the reader.
+            - anecdote about the relationship and a connected thought
+            - repetition of thanks
+            - forward-looking close
+          answer: thanks with reason for appreciation
+        - question: all an comments for inspiration of us were Your 
+          option:
+            - thanks with reason for appreciation
+            - communication of the positive emotions felt about the reader.
+            - anecdote about the relationship and a connected thought
+            - repetition of thanks
+            - forward-looking close
+          answer: communication of the positive emotions felt about the reader.
+        - question: a about about being difficulties of of pioneer setting some stories taught the TSMC up us Your 
+          option:
+            - thanks with reason for appreciation
+            - communication of the positive emotions felt about the reader.
+            - anecdote about the relationship and a connected thought
+            - repetition of thanks
+            - forward-looking close
+          answer: anecdote about the relationship and a connected thought
+        - question: again coming for once Thank you 
+          option:
+            - thanks with reason for appreciation
+            - communication of the positive emotions felt about the reader.
+            - anecdote about the relationship and a connected thought
+            - repetition of thanks
+            - forward-looking close
+          answer: repetition of thanks
+        - question: again future hope in near see the to We you 
+          option:
+            - thanks with reason for appreciation
+            - communication of the positive emotions felt about the reader.
+            - anecdote about the relationship and a connected thought
+            - repetition of thanks
+            - forward-looking close
+          answer: forward-looking close
+  jigsaw:
+    0:
+      identifier: award
+      quiz:
+        - question: Who might be the person getting the award?
+          option:
+            - Dr Bean
+            - Tsai Ing-wen
+          answer: 
+
+  drag:
+    0:
+      identifier: morris chang award
+      sentences:
+        -
+          sentence: Thank you for coming to the Computer_History_Museum yesterday to receive our Distinguished_Fellow award.
+          clozed: Thank|you|for|coming|to|the|Computer_History_Museum|yesterday|to|receive|our|Distinguished_Fellow|End
+        -
+          sentence: Your comments were an inspiration for all of us.
+          clozed: Your|comments|were|an|inspiration|for|all|of|End
+        -
+          sentence: Your stories about setting up TSMC taught us about some of the difficulties of being a pioneer.
+          clozed: Your|stories|setting|up|TSMC|taught|about|some|of|the|difficulties|of|being|a|End
+        -
+          sentence: Thank you once again for coming.
+          clozed: Thank|you|once|again|for|coming|End
+        -
+          sentence: We hope to see you again in the near future.
+          clozed: We|hope|to|see|you|again|in|the|near|End
+        
+        
+        
+        
 congratulation:
   scramble:
     0:
@@ -693,4 +771,3 @@ invitation:
         -
           - 4
           - apology, polite expression of hope for future
-
