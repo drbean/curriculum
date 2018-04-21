@@ -250,6 +250,15 @@ award:
           option:
             - Dr Bean
             - Tsai Ing-wen
+            - Morris Chang
+            - Bill Gates
+            - Steve Jobs
+          answer: Morris Chang
+        - question: Why is the writer of the message thankful?
+          option:
+            - He/she was honored by an award
+            - The writer's organization was honored by an award
+            - A distinguished visitor accepted the organization's award
           answer: 
 
   drag:
