@@ -823,11 +823,42 @@ textbook:
     structure:
       identifier: textbook structure
       quiz:
-        - question: 
+        - question: about Business for for inquiry Practices textbook Thank the Writing you your
           option:
-            - 
+            - acknowledgement
+            - appreciation of inquiry
+            - answering the inquiry
+            - extra information
+            - polite close
+            - none of the above
           answer: 
-about Business for for inquiry Practices textbook Thank the Writing you your
+        - question: before get glad I'm semester starts textbook that the the to want you
+          option:
+            - acknowledgement
+            - appreciation of inquiry
+            - answering the inquiry
+            - extra information
+            - polite close
+            - none of the above
+          answer: appreciation of inquiry
+        - question: available book bookstore for in is NT$350 school the The
+          option:
+            - acknowledgement
+            - appreciation of inquiry
+            - answering the inquiry
+            - extra information
+            - polite close
+            - none of the above
+          answer: answering the inquiry
+        - question: AFLD can class from get However if Office semester starts textbook the the the the until wait whole you
+          option:
+            - acknowledgement
+            - appreciation of inquiry
+            - answering the inquiry
+            - extra information
+            - polite close
+            - none of the above
+          answer: extra information
         
   drag:
     0:
@@ -837,14 +868,14 @@ about Business for for inquiry Practices textbook Thank the Writing you your
           sentence: Thank you for your inquiry about the textbook, Writing for Business Practices.
           clozed: Thank|you|for|your|inquiry|about|the|Writing|for|Business|End
         -
-          sentence: How good that you want to get the textbook even before the semester starts.
-          clozed: How|good|that|you|want|to|get|the|textbook|even|before|the|semester|End
+          sentence: I'm glad that you want to get the textbook before the semester starts.
+          clozed: I'm|glad|that|you|want|to|get|the|textbook|before|the|semester|End
         -
           sentence: The book is available in the school bookstore for NT$350.
           clozed: The|book|is|available|in|the|school|bookstore|for|End
         -
-          sentence: Alternatively, if you wait until the semester starts, the whole class can get the textbook from the AFLD Office.
-          clozed: Alternatively|if|you|wait|until|the|semester|the|whole|class|can|get|the|textbook|from|the|End
+          sentence: However, if you wait until the semester starts, the whole class can get the textbook from the AFLD Office.
+          clozed: However|if|you|wait|until|the|semester|the|whole|class|can|get|the|textbook|from|the|End
         -
           sentence: If you get the book together with the other students, there will be a 15 percent discount, for a total price of NT$280.
           clozed: If|you|get|the|book|together|with|the|other|there|will|be|a|15|percent|for|a|total|price|of|End
@@ -915,5 +946,13 @@ reply:
         -
           sentence: You can track shipping details on our websites.
           clozed: You|can|track|shipping|details|on|our|End
+
+
+
+
+
+
+
+
 
 
