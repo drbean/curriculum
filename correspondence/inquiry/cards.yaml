@@ -781,6 +781,24 @@ calendar:
             - A professor involved in deciding the school schedule for the next year.
             - A parent with a child at the school considering vacation plans
           answer: A professor involved in deciding the school schedule for the next year.
+        - question: What action does the writer say he/she will take when the calendar becomes available?
+          option:
+            - email the inquirer
+            - put the calendar on the website
+            - no action
+          answer: no action
+        - question: What action does the writer (who is a school staff member) ask the inquirer to take when the calendar becomes available?
+          option:
+            - email the staff member
+            - check the calendar on the website
+            - no action
+          answer: check the calendar on the website
+        - question: How helpful is the writer for the inquirer?
+          option:
+            - Very helpful
+            - Not very helpful
+            - Very unhelpful
+          answer: Not very helpful
   drag:
     0:
       identifier: calendar scramble
@@ -800,6 +818,42 @@ calendar:
         -
           sentence: Please look for the calendar on the website at that time.
           clozed: Please|look|for|the|calendar|on|the|website|at|that|End
+textbook:
+  jigsaw:
+    structure:
+      identifier: textbook structure
+      quiz:
+        - question: 
+          option:
+            - 
+          answer: 
+about Business for for inquiry Practices textbook Thank the Writing you your
+        
+  drag:
+    0:
+      identifier: textbook scramble
+      sentences:
+        -
+          sentence: Thank you for your inquiry about the textbook, Writing for Business Practices.
+          clozed: Thank|you|for|your|inquiry|about|the|Writing|for|Business|End
+        -
+          sentence: How good that you want to get the textbook even before the semester starts.
+          clozed: How|good|that|you|want|to|get|the|textbook|even|before|the|semester|End
+        -
+          sentence: The book is available in the school bookstore for NT$350.
+          clozed: The|book|is|available|in|the|school|bookstore|for|End
+        -
+          sentence: Alternatively, if you wait until the semester starts, the whole class can get the textbook from the AFLD Office.
+          clozed: Alternatively|if|you|wait|until|the|semester|the|whole|class|can|get|the|textbook|from|the|End
+        -
+          sentence: If you get the book together with the other students, there will be a 15 percent discount, for a total price of NT$280.
+          clozed: If|you|get|the|book|together|with|the|other|there|will|be|a|15|percent|for|a|total|price|of|End
+        -
+          sentence: Thank you very much for your interest in the book.
+          clozed: Thank|you|very|much|for|your|interest|in|the|End
+        -
+          sentence: Please do not hestitate to contact us if you have any further questions.
+          clozed: Please|do|not|hestitate|to|contact|us|if|you|have|any|further|End
         
         
         
@@ -861,3 +915,5 @@ reply:
         -
           sentence: You can track shipping details on our websites.
           clozed: You|can|track|shipping|details|on|our|End
+
+
