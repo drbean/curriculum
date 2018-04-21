@@ -59,3 +59,22 @@ Look at the things you need to say and useful expressions on p 69.
 You can start,
 
 Thank you very much for the invitation to your reception celebrating the 40th anniversary of the NUU students' association.
+
+# Exam
+
+## Token thank you
+
+You are the top student in the graduating class. NUU gives you a book token worth NT$500.
+
+Write a thank-you note. Follow the three-paragraph structure in the book. Make some personal comments in the first and second paragraph about how enjoyable life at NUU was.
+
+There is no need for To:, From:, etc lines.
+
+## Graduate school acceptance congratulations
+
+Your friend has been accepted into graduate school at Harvard University in the US. Congratulate him/her.
+
+Write a congratulation note. Follow the three-paragraph structure in the book. Make some personal comments in the first and second paragraph about how good a student at NUU he/she was. And about how hard studying in the US will be.
+
+There is no need for To:, From:, etc lines.
+
