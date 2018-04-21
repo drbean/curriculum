@@ -199,7 +199,7 @@ talk:
           answer: True
 award:
   jigsaw:
-    0:
+    structure:
       identifier: award
       quiz:
         - question: award coming Computer_History_Museum Distinguished_Fellow for our receive Thank the to to yesterday you 
@@ -242,8 +242,7 @@ award:
             - repetition of thanks
             - forward-looking close
           answer: forward-looking close
-  jigsaw:
-    0:
+    comprehension:
       identifier: award
       quiz:
         - question: Who might be the person getting the award?
