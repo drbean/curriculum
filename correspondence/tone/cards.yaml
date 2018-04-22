@@ -42,6 +42,33 @@ confidence:
             - I am clearly the best qualified candidate.
             - I think you will agree that I am well-qualified for this position.
           answer: I think you will agree that I am well-qualified for this position.
+    level:
+      identifier: level
+      quiz:
+        - question: I am clearly the best qualified.
+          option:
+            - not confident
+            - appropriately confident
+            - overconfident
+          answer: overconfident
+        - question: I wish I were the best qualified.
+          option:
+            - not confident
+            - appropriately confident
+            - overconfident
+          answer: not confident
+        - question: I believe I am well-qualified.
+          option:
+            - not confident
+            - appropriately confident
+            - overconfident
+          answer: appropriately confident
+        - question: I am confident I am well-qualified to do this job.
+          option:
+            - not confident
+            - appropriately confident
+            - overconfident
+          answer: appropriately confident
     wish:
       identifier: wish
       quiz:
