@@ -59,9 +59,11 @@ You can subordinate an idea (put it in the background) by placing it in middle p
 
 The following 3 questions are about emphasis and subordination.
 
-In a three-paragraph essay, some ideas are going to stick in the reader's mind, and other ideas won't make much impression. Writers are aware of this and use emphasis and subordination to control what makes an impression and what doesn't leave an impression.
+Read the following essay:
 
-Ideas placed in the first paragraph are emphasized. They are remembered best. Ideas in the last paragraph are also emphasized and remembered well.
+In a three-paragraph essay, some ideas are remembered by readers, and others aren't. Writers are aware of this and use emphasis and subordination to control what makes an impression on the reader and what doesn't.
+
+Writers emphasize ideas by placing them in the first paragraph. These ideas are remembered best. They also emphasize ideas by placing them in the last paragraph. These ideas are also remembered well.
 
 Ideas placed in middle paragraphs don't make much of an impression. They are subordinated or in the background, by being placed in middle paragraphs.
 
