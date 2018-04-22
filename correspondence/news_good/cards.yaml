@@ -338,3 +338,70 @@ transfer:
             - Invitation message
             - Good news message
           answer: Good news message
+goodwill:
+  jigsaw:
+    0:
+      identifier: goodwill and good news
+      quiz:
+        - question: The email announces you are the winner of a Google lottery, but it is a scam.
+          option:
+            - goodwill message
+            - good news message
+          answer: good news message
+        - question: Your friend is the winner of one million dollars in a lottery. You send him/her an email in celebration.
+          option:
+            - goodwill message
+            - good news message
+          answer: goodwill message
+        - question: You hear a friend is getting married. You send him/her a message.
+          option:
+            - goodwill message
+            - good news message
+          answer: goodwill message
+        - question: A salesperson in another company who you do business with is getting a raise. You send him/her an email.
+          option:
+            - goodwill message
+            - good news message
+          answer: goodwill message
+        - question: Your manager tells the big boss that you made a lot of money for the company and the big boss decides to give you a raise. You write a thank-you note to your manager.
+          option:
+            - goodwill message
+            - good news message
+          answer: goodwill message
+        - question: The Human Resources Department sends you an email telling you that your salary is going to go up.
+          option:
+            - goodwill message
+            - good news message
+          answer: good news message
+        - question: You send an email to another company apologizing for a mistake you made with the price you told them. They won't have to pay as much as expected.
+          option:
+            - goodwill message
+            - good news message
+          answer: good news message
+        - question: A company sends you some money because you are a good person and have helped them in the past.
+          option:
+            - goodwill message
+            - good news message
+          answer: good news message
+raise:
+  drag:
+    0:
+      identifier: raise
+      sentences:
+        -
+          sentence: The company has decided to give you a raise of NT$10,000 per month.
+          clozed: The|company|has|decided|to|give|you|a|raise|of|per|month|End
+        -
+          sentence: This will bring your total salary to NT$45,000 per month.
+          clozed: This|will|bring|your|total|salary|to|per|month|End
+        -
+          sentence: However, this will mean you will have to pay more tax.
+          clozed: However|this|will|mean|you|will|have|to|pay|more|End
+        -
+          sentence: We once again thank you for your hard work and dedication.
+          clozed: We|again|thank|you|for|your|hard|work|and|End
+        
+        
+        
+        
+
