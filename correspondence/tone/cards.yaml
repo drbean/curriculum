@@ -394,6 +394,32 @@ emphasis:
             - middle paras
             - last para
           answer: 1st para
+    means:
+      identifier: means
+      quiz:
+        - question: The order of importance of the ideas in a 3-paragraph essay, from most emphasized to least emphasized (subordinated) is ideas in--
+          option:
+            - paragraph 1, paragraph 2, paragraph 3
+            - paragraph 1, paragraph 3, paragraph 2
+            - paragraph 2, paragraph 1, paragraph 3
+            - paragraph 3, paragraph 2, paragraph 1
+          answer: paragraph 1, paragraph 3, paragraph 2
+        - question: One way to emphasize an idea is to--
+          option:
+            - compare and contrast it with other ideas
+            - put it in a short sentence
+            - provide explanations, examples, evidence
+          answer: put it in a short sentence
+        - question: "Smoking will no longer be permitted in the building." Emphasized is--
+          option:
+            - the person/group who made the decision to ban smoking
+            - the banning of smoking
+          answer: the banning of smoking
+        - question: "The school doesn't allow smoking on campus." Emphasized is--
+          option:
+            - the person/group who made the decision to ban smoking
+            - the banning of smoking
+          answer: the person/group who made the decision to ban smoking
     1:
       identifier: short sentence, example of advice
       quiz:
