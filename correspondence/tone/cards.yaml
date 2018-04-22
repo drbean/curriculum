@@ -253,6 +253,29 @@ courteous:
             - not courteous
             - not sincere
           answer: not sincere
+    smartphone:
+      identifier: courteous/sincere
+      quiz:
+        - question: The warranty on your smartphone has been voided because the cover has been opened.
+          option:
+            - courteous
+            - not courteous
+          answer: courteous
+        - question: You voided the warranty on your smartphone by opening the cover.
+          option:
+            - courteous
+            - not courteous
+          answer: not courteous
+        - question: We recommend against trying to root your smartphone as there is a danger you will break it and it will become unrepairable.
+          option:
+            - sincere
+            - not sincere
+          answer: sincere
+        - question: Don't worry about breaking your smartphone by trying to root it. Our software is great. And you're smart. You won't have any problems. Hey, hey!
+          option:
+            - sincere
+            - not sincere
+          answer: not sincere
     payment:
       identifier: payment
       quiz:
