@@ -55,6 +55,16 @@ Ideas placed in the first paragraph of a document receive the most emphasis, fol
 
 You can subordinate an idea (put it in the background) by placing it in middle paragraphs of your message, because these paragraphs receive the least emphasis.
 
+### emphasis paragraphs
+
+The following 3 questions are about emphasis and subordination.
+
+In a three-paragraph essay, some ideas are going to stick in the reader's mind, and other ideas won't make much impression. Writers are aware of this and use emphasis and subordination to control what makes an impression and what doesn't leave an impression.
+
+Ideas placed in the first paragraph are emphasized. They are remembered best. Ideas in the last paragraph are also emphasized and remembered well.
+
+Ideas placed in middle paragraphs don't make much of an impression. They are subordinated or in the background, by being placed in middle paragraphs.
+
 ## confidence
 
 	Don't be humble
