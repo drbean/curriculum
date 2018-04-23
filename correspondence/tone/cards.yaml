@@ -404,18 +404,18 @@ emphasis:
             - paragraph 2, paragraph 1, paragraph 3
             - paragraph 3, paragraph 2, paragraph 1
           answer: paragraph 1, paragraph 3, paragraph 2
-        - question: One way to emphasize an idea is to--
+        - question: One simple way to emphasize an idea is to--
           option:
             - compare and contrast it with other ideas
             - put it in a short sentence
             - provide explanations, examples, evidence
           answer: put it in a short sentence
-        - question: "Smoking will no longer be permitted in the building." Emphasized is--
+        - question: '"Smoking will no longer be permitted in the building." Emphasized is:'
           option:
             - the person/group who made the decision to ban smoking
             - the banning of smoking
           answer: the banning of smoking
-        - question: "The school doesn't allow smoking on campus." Emphasized is--
+        - question: '"The school doesn''t allow smoking on campus." Emphasized is:'
           option:
             - the person/group who made the decision to ban smoking
             - the banning of smoking
@@ -630,16 +630,11 @@ passive:
             -
               error: ^(?!.*aren't liked.*)
               feedback: Use the words, "aren't liked"
-            
-          
-                
-
-          
-              
     3:
       identifier: earthquake
       quiz:
         - question: Tainan __ by a big earthquake during the night.
+          option:
             - was hit
           answer: was hit
         - question: The Weiguan building __ .
@@ -791,6 +786,31 @@ passive:
           option:
             - are ridden
           answer: are ridden
+  drag:
+    0:
+      identifier: practice variants
+      sentences:
+        -
+          sentence: She expects to be offered a transfer to New York.
+          clozed: She|expects|to|be|offered|a|transfer|to|New|End
+        -
+          sentence: Snow_White was given a poison_apple by the Evil_Queen.
+          clozed: Snow_White|was|given|a|poison_apple|by|the|End
+        -
+          sentence: Morris Chang was awarded the Computer_History_Museum's Fellow_Award.
+          clozed: Morris|Chang|was|awarded|the|Computer_History_Museum's|End
+        -
+          sentence: The tennis match wasn't played because it rained.
+          clozed: The|tennis|match|wasn't|played|because|it|rained|End
+        -
+          sentence: The work hadn't been finished by the end of the day.
+          clozed: The|work|hadn't|been|finished|by|the|end|of|the|End
+        -
+          sentence: She is thought to have cheated on the exam.
+          clozed: She is thought to have cheated on the exam.
+        -
+          sentence: No-one likes being told what to do.
+          clozed: No-one|likes|being|told|what|to|do|End
         
         
 discrimination:
