@@ -249,5 +249,10 @@ sick:
       - "A: How did you hurt your arm? _B: I had an accident on my bicycle._"
       - "A: You don’t look so good. _B: Yeah. I don't feel well._"
       - "A: You should go to the hospital. _B: OK. I guess you’re right._"
+    -
+      - 'A: How are you feeling? _B: Better. The nurse gave me some medicine._'
+      - "A: I fell off my bicycle and hurt my arm. _B: You should go to the hospital._"
+      - "A: I am feeling under the weather today. _B: You should get some rest._"
+
 
 

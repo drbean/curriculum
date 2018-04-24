@@ -327,6 +327,21 @@
     B: Yeah. I don't feel well.
     A: You should go to the hospital.
     B: OK. I guess you’re right.
+-
+  - sick-5
+  - sick-5
+  - "topics"
+  - "all"
+  - |+
+    A: Beth doesn't feel well because she has a headache.
+    B: Tim fell down the stairs and hurt his arm.
+    A: Gee. What's wrong with Tammy.
+    B: She has a stomachache.
+    A: My mother is a doctor at the hospital.
+    B: My father drives an ambulance there.
+    A: Jason had a big accident at school.
+    B: Serge had a big accident at home.
+  - Beth|Tim|Tammy|Jason|Serge|End
 
 
 
