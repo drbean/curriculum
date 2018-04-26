@@ -456,6 +456,20 @@
     B: Do you think you could teach him how to sing?
     G: He is very smart, but that’s too difficult.
   - End
+-
+  - "art-2"
+  - "art-2"
+  - "topics"
+  - "all"
+  - |+
+    B: What are you doing?
+    G: I'm making pottery. Do you want to make it with me? I have some clay.
+    B: OK, but I don't know what to do.
+    G: Here, I'll show you how. First, you put a hole in the clay. But don't make it too big.
+    B: OK. A big hole will ruin the pottery because the clay is too thin.
+    G: Yes, but it's OK if you make a mistake. You can just start again.
+  - First|hole|clay|too|big|End
+
 
 
 
