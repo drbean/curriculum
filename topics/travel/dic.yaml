@@ -554,6 +554,20 @@
     A: What time will the bus arrive?
     B: It will get here around 4:30.
   - Zhubei|End
+-
+  - transport-5
+  - transport-5
+  - "topics"
+  - "all"
+  - |+
+    A: She is taking the subway to the airport. Why?
+    B: They don’t have a car, so they take the subway.
+    A: I never ride in a boat on the way to school. 
+    B: I ride an airplane and I always arrive on time.
+    A: Tom and I are in the same boat! We both take the bus every day. 
+    B: You take a boat? Oh, sorry. Do you both take the bus?
+  - Tom|End
+
 
 -
   - ticket-0
