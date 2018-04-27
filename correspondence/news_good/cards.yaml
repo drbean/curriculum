@@ -383,6 +383,20 @@ goodwill:
             - goodwill message
             - good news message
           answer: good news message
+    1:
+      identifier: goodwill and good news
+      quiz:
+        - question: An NUU email announces you are the winner of a scholarship which will pay for your tuition fees.
+          option:
+            - goodwill message
+            - good news message
+          answer: good news message
+        - question: Your friend is the winner of an NUU scholarship. You send him/her an email in celebration.
+          option:
+            - goodwill message
+            - good news message
+          answer: goodwill message
+        - question: You hear a friend is getting married. You send him/her a message.
 raise:
   drag:
     0:
