@@ -35,11 +35,34 @@ But, could you send me 10 boxes of LED lights, No 3425.
 
 We hope you can send the order as soon as possible.
 
-## courteous & sincere, passive
+# Strategies for improving tone
+
+## 1. confidence
+
+	Don't be humble
+	Be confident, aggressive
+
+But don't be arrogrant, or presumptuous. That antagonizes the reader.
+
+I wish the students would ask questions.
+
+## 2. courteous & sincere, passive
 
 Think about avoiding responsibility.
 
-## emphasis
+## 3. emphasis
+
+### emphasis paragraphs
+
+The following 3 questions are about emphasis and subordination.
+
+Read the following essay:
+
+In a three-paragraph essay, some ideas are remembered by readers, and others aren't. Writers are aware of this and use emphasis and subordination to control what makes an impression on the reader and what doesn't.
+
+Writers emphasize ideas by placing them in the first paragraph. These ideas are remembered best. They also emphasize ideas by placing them in the last paragraph. These ideas are also remembered well.
+
+Ideas placed in middle paragraphs don't make much of an impression. They are subordinated or in the background, by being placed in middle paragraphs.
 
 An example of its own advice. It's doing what it's saying.
 
@@ -55,26 +78,9 @@ Ideas placed in the first paragraph of a document receive the most emphasis, fol
 
 You can subordinate an idea (put it in the background) by placing it in middle paragraphs of your message, because these paragraphs receive the least emphasis.
 
-### emphasis paragraphs
+### 3 (5) typographical emphasis
 
-The following 3 questions are about emphasis and subordination.
-
-Read the following essay:
-
-In a three-paragraph essay, some ideas are remembered by readers, and others aren't. Writers are aware of this and use emphasis and subordination to control what makes an impression on the reader and what doesn't.
-
-Writers emphasize ideas by placing them in the first paragraph. These ideas are remembered best. They also emphasize ideas by placing them in the last paragraph. These ideas are also remembered well.
-
-Ideas placed in middle paragraphs don't make much of an impression. They are subordinated or in the background, by being placed in middle paragraphs.
-
-## confidence
-
-	Don't be humble
-	Be confident, aggressive
-
-But don't be arrogrant, or presumptuous. That antagonizes the reader.
-
-I wish the students would ask questions.
+- [Trump shouting](https://www.huffingtonpost.com/entry/twitter-donald-trump-all-caps-tweet_us_5aa77d98e4b009b705d5ab08)
 
 # Homework
 
