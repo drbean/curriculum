@@ -567,6 +567,20 @@
     A: Tom and I are in the same boat! We both take the bus every day. 
     B: You take a boat? Oh, sorry. Do you both take the bus?
   - Tom|End
+-
+  - transport-6
+  - transport-6
+  - "topics"
+  - "all"
+  - |+
+    A: Where are you going?
+    B: I’m going to a small town to visit my uncle.
+    A: How are you going to get there?
+    B: I’m going by train. I need to be at the station in two hours. 
+    A: How often do you take the train?
+    B: I’ve never been on a train before. I’m excited!
+    A: What time will you arrive there?
+    B: It will be quite late—almost 11 p.m.
 
 
 -

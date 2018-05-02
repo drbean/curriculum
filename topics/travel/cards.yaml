@@ -15,6 +15,11 @@ transport:
       - "A: Do you go to the train station often? _B: No, I don’t go there very often._"
       - "A: How often do the buses arrive? _B: They come every two hours._"
       - "A: Do you always skate to the park? _B: No, sometimes I ride my bike._"
+    -
+      - My mom always takes a taxi when she’s late. _How often is she late? Once a week?_
+      - The boat is arriving at the town. _We will walk around and look at the buildings while we are there._
+      - My family never uses a car to go to the store. _It's inconvenient finding a place to park, isn't it. How do you get to the store, then? Do you walk? Or ride a _
+      - We always change subway trains at this station. _What's the name of the station? Westminster?_
 
     -
       - "G: Do you often use buses and trains? _B: My family always uses buses and trains to go to places._"
