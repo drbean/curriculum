@@ -253,6 +253,11 @@ sick:
       - 'A: How are you feeling? _B: Better. The nurse gave me some medicine._'
       - "A: I fell off my bicycle and hurt my arm. _B: You should go to the hospital._"
       - "A: I am feeling under the weather today. _B: You should get some rest._"
+    -
+      - The nurse is taking care of the sick girl. _Is the girl shaking hands with the bear?_
+      - He is taking medicine for his stomachache. _Who is giving him the medicine? His mother? A nurse?_
+      - The sick children are in the hospital. _How many days have the children been in the hospital?_
+      - He has a bad headache today. _Perhaps he needs to go home, or go to the hospital._
 
 
 
