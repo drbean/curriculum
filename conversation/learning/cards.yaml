@@ -1,0 +1,184 @@
+---
+# genre: conversation: learning
+prefer:
+  jigsaw:
+    0:
+      identifier: prefer
+      quiz:
+        - question: ___ you prefer ___ (sign up) for a course in biology or geography?
+          answer:
+            - Would you prefer to sign up for a course in biology or geography?
+          incorrect:
+            -
+              error: ^(?!.*Would.*)
+              feedback: Use the words, "Would"
+            -
+              error: ^(?!.*to sign up.*)
+              feedback: Use the words, "to sign up"
+        - question: I'm not really interested in geography, so I'd prefer ___ (take ) a biology course.
+          answer: 
+            - I'm not really interested in geography, so I'd prefer to take a biology course.
+          incorrect:
+            -
+              error: ^(?!.*I'm not really interested in geography, so I'd prefer.*)
+              feedback: Use the words, "I'm not really interested in geography, so I'd prefer"
+            -
+              error: ^(?!.*to take.*)
+              feedback: Use the words, "to take"
+        - question: ___ you rather ___ (learn) English in England or Canada?
+          answer: 
+            - Would you rather learn English in England or Canada?
+          incorrect:
+            -
+              error: ^(?!.*Would.*)
+              feedback: Use the words, "Would"
+            -
+              error: ^(?!.*rather learn.*)
+              feedback: Use the words, "rather learn"
+        - question: To tell the truth, I'd prefer ___ (not study) in either place. I'd rather ___ (go) to Australia because it's warmer there.
+          answer: 
+            - To tell the truth, I'd prefer not to study in either place. I'd rather go to Australia because it's warmer there.
+          incorrect:
+            -
+              error: ^(?!.*prefer not to.*)
+              feedback: Use the words, "prefer not to"
+            -
+              error: ^(?!.*.*)
+              feedback: Use the words, ""
+        - question: If you needed to learn a new skill, ___ you prefer ___ (attend) a class or ____ (have) a private tutor?
+          answer:
+            - If you needed to learn a new skill, would you prefer to attend a class or have a private tutor?
+            - If you needed to learn a new skill, would you prefer to attend a class or to have a private tutor\?
+          incorrect:
+            -
+              error: ^(?!.*would you.*)
+              feedback: Use the words, "would you"
+            -
+              error: ^(?!.*prefer to attend.*)
+              feedback: Use the words, "prefer to attend"
+            -
+              error: ^(?!.*or have a.*)
+              feedback: Use the words, "or have a"
+        - question: I'd rather ___ (take) a class than ___ (hire) a tutor.
+          answer:
+            - I'd rather take a class than hire a tutor.
+          incorrect:
+            -
+              error: ^(?!.*rather take.*)
+              feedback: Use the words, "rather take"
+            -
+              error: ^(?!.*than hire a.*)
+              feedback: Use the words, "than hire a"
+        - question: ___ you rather ___ (have) a job in an office or ___ (work) outdoors?
+          answer:
+            - Would you rather have a job in an office or work outdoors?
+          incorrect:
+            -
+              error: ^(?!.*Would you.*)
+              feedback: Use the words, "Would you"
+            -
+              error: ^(?!.*rather have.*)
+              feedback: Use the words, "rather have"
+            -
+              error: ^(?!.*or work.*)
+              feedback: Use the words, "or work"
+        - question: I'd definitely rather ___ (have) a job where I'm outdoors.
+          answer:
+            - I'd definitely rather have a job where I'm outdoors.
+            
+
+            
+course:
+  jigsaw:
+    0:
+      identifier: course
+      quiz:
+        - question: Linda's course?
+          option:
+            - business
+            - cooking
+            - dance
+          answer: dance
+        - question: Rich's course?
+          option:
+            - business
+            - cooking
+            - dance
+          answer: cooking
+        - question: Gwen's course?
+          option:
+            - business
+            - cooking
+            - dance
+          answer: business
+content:
+  jigsaw:
+    0:
+      identifier: content
+      quiz:
+        - question: What Linda learned
+          option:
+            - a lot of general principles and how to manage money
+            - how to be more confident and interact with others better
+            - the health values of vegetables and how to prepare them
+          answer: how to be more confident and interact with others better
+        - question: What Rich learned
+          option:
+            - a lot of general principles and how to manage money
+            - how to be more confident and interact with others better
+            - the health values of vegetables and how to prepare them
+          answer: the health values of vegetables and how to prepare them
+        - question: What Gwen learned
+          option:
+            - a lot of general principles and how to manage money
+            - how to be more confident and interact with others better
+            - the health values of vegetables and how to prepare them
+          answer: a lot of general principles and how to manage money
+vocabulary:
+  jigsaw:
+    0:
+      identifier: vocabulary
+      quiz:
+        - question: Wongyu's method of learning new words
+          option:
+            - displaying words on pieces of paper
+            - recording and reviewing vocabulary on cards
+            - recording and reviewing word lists on the computer
+          answer: displaying words on pieces of paper
+        - question: The 2nd person's method 
+          option:
+            - displaying words on pieces of paper
+            - recording and reviewing vocabulary on cards
+            - recording and reviewing word lists on the computer
+          answer: recording and reviewing vocabulary on cards
+        - question: The 3rd person's method
+          option:
+            - displaying words on pieces of paper
+            - recording and reviewing vocabulary on cards
+            - recording and reviewing word lists on the computer
+          answer: recording and reviewing word lists on the computer
+way:
+  jigsaw:
+    0:
+      identifier: way
+      quiz:
+        - question: Todd learning to play guitar
+          option:
+            - self-taught
+            - tutored
+          answer: self-taught
+        - question: Lucy learning to play piano
+          option:
+            - self-taught
+            - tutored
+          answer: tutored
+        - question: Todd becoming a good conversationalist
+          option:
+            - learning acting as a form of self-confidence
+            - talking to people about their interests
+          answer: talking to people about their interests
+        - question: Lucy becoming a good conversationalist
+          option:
+            - learning acting as a form of self-confidence
+            - talking to people about their interests
+          answer: learning acting as a form of self-confidence
