@@ -7,11 +7,13 @@
 
 ## Recording 4 of 12--Something I learned
 
+Can your partner ride a bike? Swim? Play a musical instrument? Cook?
+
 Ask your partner questions like those on p54, eg "How did you learn it?"
 
 30 seconds. Each person must ask his/her questions and answer 2 questions from their partner.
 
-This is the 12th of 12 conversations. They are worth 40 percent of your grade.
+This is the 4th of 12 conversations. They are worth 40 percent of your grade.
 
 Identify yourself clearly. Say, "I'm John."
 
