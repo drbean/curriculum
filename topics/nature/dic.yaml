@@ -463,6 +463,19 @@
     A: That's true. But you can stay inside during storms.
     B: Yeah. I still don't like lightning.
   - Mary|End
+-
+  - "weather-5"
+  - "weather-5"
+  - "topics"
+  - "all"
+  - |+
+    A: What is the weather like today?
+    B: The forecast said there will be rain.
+    A: Well, I don't see any clouds. Do you?
+    B: No, and it's not windy outside.
+    A: Maybe it will rain tonight.
+    B: I hope not. I don't like rain.
+  - End
 
 ---
 -
