@@ -247,6 +247,83 @@ polluters:
             - Talk to friends
             - Talk to Carla's uncle
           answer: Talk to Carla's uncle
+    1:
+      identifier: 1. buck_andy
+      A: Andy wants you to do something about the chemicals that your company, Avox Industries is pumping into the river. You tell him you will check the chemicals in the water.
+      B: You are meeting Buck, who is a top executive at Avox Industries. You tell him there are dead fish in the river. You are not very happy when he only says he will check. 
+      quiz:
+        - question: A
+          option:
+            - Andy
+            - Buck
+            - Carla
+          answer: Buck
+        - question: B
+          option:
+            - Andy
+            - Buck
+            - Carla
+          answer: Andy
+        - question: The Avox executive says he will check what his company is doing.
+          answer: True
+        - question: The Avox executive says his company is not pumping chemicals into the river.
+          answer: False
+        - question: Andy says there are dead fish in the river.
+          answer: True
+        - question: Andy is happy with what the Avox executive says he will do.
+          answer: False
+    2:
+      identifier: 2. andy_carla
+      A: Carla shows you the chemicals that Avox Industries is pumping into the river. You are angry. You ask Carla to go with you to tell Avox.
+      B: You help Andy check the water so you can tell Avox Industries. You find chemicals in the water Avox is pumping into the river. The chemicals are killing the fish. You are not happy. 
+      quiz:
+        - question: A
+          option:
+            - Andy
+            - Buck
+            - Carla
+          answer: Buck
+        - question: B
+          option:
+            - Andy
+            - Buck
+            - Carla
+          answer: Andy
+        - question: Carla checks the water to look for chemicals that kill fish.
+          answer: True
+        - question: Andy and Carla find chemicals in the water.
+          answer: True
+        - question: They are not disturbed by what they find.
+          answer: False
+        - question: Andy and Carla decide not to go to Avox to talk about pollution.
+          answer: False
+    3:
+      identifier: 3. carla_buck
+      A: You and your friend are meeting your uncle, Buck, who is a big boss at Avox Industries. You tell him there are dead fish in the river. He says Avox is NOT pumping chemicals into the river. You are angry.
+      B: Your niece, Carla and her friend tell you that your company, Avox Industries is pumping chemicals into the river. You are angry. You say Avox is NOT pumping chemicals into the river.
+      quiz:
+        - question: A
+          option:
+            - Andy
+            - Buck
+            - Carla
+          answer: Carla
+        - question: B
+          option:
+            - Andy
+            - Buck
+            - Carla
+          answer: Buck
+        - question: The Avox executive says he will check what his company is doing.
+          answer: False
+        - question: The Avox executive says his company is not pumping chemicals into the river.
+          answer: True
+        - question: Carla says there are dead fish in the river.
+          answer: True
+        - question: Carla is angry but Buck isn't angry.
+          answer: False
+        
+        
 problem_solution:
   jigsaw:
     0:
@@ -280,4 +357,44 @@ problem_solution:
             - right, top-row picture
             - bottom-row picture
           answer: bottom-row picture
-          
+tipping_point:
+  jigsaw:
+    0:
+      identifier: tipping_point
+      quiz:
+        - question: The immediate result of adopting new, destructive fishing methods
+          option:
+            - They caught more fish on the reef
+            - There were no more fish on the reef
+          answer: They caught more fish on the reef
+        - question: The result of continuous use of destructive fishing methods
+          option:
+            - They caught more fish on the reef
+            - There were no more fish on the reef
+          answer: There were no more fish on the reef
+        - question: The immediate result of there being no more fish on the reef
+          option:
+            - The fishermen had to go a long way out to sea to find fish
+            - The fishermen decided to ban the use of destructive fishing methods on the reef
+          answer: The fishermen had to go a long way out to sea to find fish
+        - question: The immediate result of the visit of Dr Alcala
+          option:
+            - The creation of a no-fishing zone around the entire island
+            - The creation of 10-percent of the reef as a fish sanctuary
+          answer: The creation of 10-percent of the reef as a fish sanctuary
+        - question: The immediate result of the fish sanctuary after three years
+          option:
+            - The fishermen were able to catch lots of fish near the sanctuary
+            - The banning of destructive fishing methods around the entire island
+          answer: The fishermen were able to catch lots of fish near the sanctuary
+        - question: "The impression made by the large number of fish in the sanctuary resulted in:"
+          option:
+            - The decision to ban destructive fishing methods around the entire island
+            - The decision to teach children about it in schools.
+          answer: The decision to ban destructive fishing methods around the entire island
+        - question: What is not a consequence of the success of the fish management program?
+          option:
+            - The teaching of children about fishing ecology
+            - The spread of fishing sanctuaries to other Philippine villages.
+            - The visit of Dr Alcala to talk about fishing sanctuaries.
+          answer: The visit of Dr Alcala to talk about fishing sanctuaries.
