@@ -48,6 +48,25 @@ damage:
           option:
             - The glasses are cracked and the frames are broken.
           answer: The glasses are cracked and the frames are broken.
+    2:
+      identifier: damage words
+      quiz:
+        - question: The car is .. and the paint is .. (Use "dent", "scratch")
+          option:
+            - The car is dented and the paint is scratched.
+          answer: The car is dented and the paint is scratched.
+        - question: The pitcher is .. and it is .. (Use "crack", "leak")
+          option:
+            - The pitcher is cracked and it is leaking.
+          answer: The pitcher is cracked and it is leaking.
+        - question: The jeans are .. and .. (Use "tear", "stain")
+          option:
+            - The jeans are torn and stained.
+          answer: The jeans are torn and stained.
+        - question: The glasses are .. and the frames are .. (Use "crack", "break")
+          option:
+            - The glasses are cracked and the frames are broken.
+          answer: The glasses are cracked and the frames are broken.
 return:
   jigsaw:
     item:
