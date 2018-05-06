@@ -1534,4 +1534,48 @@ guideline:
             - Help with a problem. Don't say the reader is doing it wrong.
             - Say what you can do, not what you can't do.
           answer: Be grateful attempts have been made, even if they are unsuccessful.
-        
+    1:
+      identifier: book improvements
+      quiz:
+        - question: 30-day warranty
+          option:
+            - Give clear reasons and explanations
+            - Don't criticize or blame the reader. Focus on the situation, not the people.
+            - Help with a problem. Don't say the reader is doing it wrong.
+            - Say what you can do, not what you can't do.
+          answer: Give clear reasons and explanations
+        - question: Unanswered door bell
+          option:
+            - Give clear reasons and explanations
+            - Don't criticize or blame the reader. Focus on the situation, not the people.
+            - Help with a problem. Don't say the reader is doing it wrong.
+            - Say what you can do, not what you can't do.
+          answer: Don't criticize or blame the reader. Focus on the situation, not the people.
+        - question: request for payment
+          option:
+            - Give clear reasons and explanations
+            - Be polite. Focus on the situation, not the people.
+            - Help with a problem. Don't say the reader is doing it wrong.
+            - Say what you can do, not what you can't do.
+          answer: Be polite. Focus on the situation, not the people.
+        - question: Credit card non-use
+          option:
+            - Give clear reasons and explanations
+            - Focus on the situation, not the people.
+            - Help with a problem. Don't say the reader is doing it wrong.
+            - Say what you can do, not what you can't do.
+          answer: Focus on the situation, not the people.
+        - question: Late delivery warning
+          option:
+            - Give clear reasons and explanations
+            - Be polite. Focus on the situation, not the people.
+            - Help with a problem. Don't say the reader is doing it wrong.
+            - Say what you can do, not what you can't do.
+          answer: Say what you can do, not what you can't do.
+        - question: Diesel in gasoline engine
+          option:
+            - Give clear reasons and explanations
+            - Don't criticize or blame the reader. Focus on the situation, not the people.
+            - Help with a problem. Don't say the reader is doing it wrong.
+            - Say what you can do, not what you can't do.
+          answer: Don't criticize or blame the reader. Focus on the situation, not the people.
