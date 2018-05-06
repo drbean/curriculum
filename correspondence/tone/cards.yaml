@@ -1489,7 +1489,7 @@ improvement:
         -
           - Packages weighing up..
           - 1. Choose the positive, avoid the negative (following time)
-point:
+guideline:
   jigsaw:
     0:
       identifier: good point

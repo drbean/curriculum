@@ -1,3 +1,5 @@
+% Business Correspondence--Tone!
+% Dr Bean (高來圭) at https://github.com/drbean/curriculum/trunk/correspondence
 % Mon Mar 13 09:36:25 CST 2017
 
 # Tone
@@ -11,11 +13,11 @@ The way you say things
 
 culture
 
-## 2 emails
+# 2 emails
 
 Work is stressful. Don't put more pressure on the people you talk to. One of these 2 emails is impolite and would be stressful for the reader.
 
-### one
+# one
 
 I got the email. Send me your catalogue.
 
@@ -26,7 +28,7 @@ We expect the order to be sent today.
 
 Don't make a mistake with the order.
 
-### two
+# two
 
 Thank you for your email. Please send me your catalog.
 
@@ -86,14 +88,16 @@ You can subordinate an idea (put it in the background) by placing it in middle p
 
 # Improving the tone
 
-Look at the 4 approaches on 10-2
+Rewrite the 4 sentences on p93 to make them less negative, less unwelcome, without changing the meaning.
+
+Look at the 4 approaches on 10-2, p86
 
 1. Choose the positive, avoid the negative
 2. Give clear reasons and explanations
 3. Use conditional sentences and suggest hypothetical situations
 4. Choose vocabulary with positive connotations
 
-And the 5 points of 10-3
+And the 5 points of 10-3, p90
 
 - Help with a problem. Don't say the reader is doing it wrong.
 - Say what you can do, not what you can't do.
