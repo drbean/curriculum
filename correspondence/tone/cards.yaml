@@ -812,13 +812,156 @@ passive:
           sentence: No-one likes being told what to do.
           clozed: No-one|likes|being|told|what|to|do|End
         
-        
+word:
+  jigsaw:
+    0:
+      identifier: emphasis word
+      quiz:
+        - question: "Next, A"
+          option:
+            - A is emphasized idea
+            - A is background idea
+          answer: A is emphasized idea
+        - question: "Another thing is A"
+          option:
+            - A is emphasized idea
+            - A is background idea
+          answer: A is emphasized idea
+        - question: "X, because Y"
+          option:
+            - Y is emphasized idea
+            - Y is background idea
+          answer: Y is background idea
+        - question: "Most important is Z"
+          option:
+            - Z is emphasized idea
+            - Z is background idea
+          answer: Z is emphasized idea
+        - question: "A minor point to consider is X"
+          option:
+            - X is emphasized idea
+            - X is background idea
+          answer: X is background idea
+        - question: "Least important is X"
+          option:
+            - X is emphasized idea
+            - X is background idea
+          answer: X is background idea
+        - question: "Although Y, X"
+          option:
+            - Y is emphasized idea
+            - Y is background idea
+          answer: Y is background idea
+        - question: "First, B"
+          option:
+            - B is emphasized idea
+            - B is background idea
+          answer: B is emphasized idea
+        - question: "In conclusion, C"
+          option:
+            - C is emphasized idea
+            - C is background idea
+          answer: C is emphasized idea
+        - question: "Our primary consideration must be Y"
+          option:
+            - Y is emphasized idea
+            - Y is background idea
+          answer: Y is emphasized idea
+        - question: "I don't want to spend too much time considering X"
+          option:
+            - X is emphasized idea
+            - X is background idea
+          answer: X is background idea
+        - question: "Our major consideration must be cost."
+          option:
+            - cost is emphasized idea
+            - cost is background idea
+          answer: cost is emphasized idea
+        - question: "A minor point to consider is appearance."
+          option:
+            - appearance is an emphasized idea
+            - appearance is a background idea
+          answer: appearance is a background idea
+repeat:
+  jigsaw:
+    0:
+      identifier: repeat
+      quiz:
+        - question: You need to practice, practice, practice!
+          option:
+            - good repetition
+            - repetition overused
+          answer: good repetition
+        - question: As I said, X. Blah, blah, blah, Did I say X? If I didn't, remember X.
+          option:
+            - good repetition
+            - repetition overused
+          answer: repetition overused
+        - question: Most important is innovation--innovation in product, innovation in marketing and innovation in management.
+          option:
+            - good repetition
+            - repetition overused
+          answer: good repetition
+        - question: I believe in marketing. Nothing is more important than marketing. Marketing is the most important thing. You can't beat marketing. Whatever else you do, you must market. Marketing comes before everything else. Marketing isn't everything. But it's way ahead of what comes next.
+          option:
+            - good repetition
+            - repetition overused
+          answer: repetition overused
+        - question: I believe in selling. Nothing is more important than selling. Selling is the most important thing. You can't beat selling. Whatever else you do, you must sell. Selling comes before everything else. Selling isn't everything. But it's way ahead of what comes next.
+          option:
+            - good repetition
+            - repetition overused
+          answer: repetition overused
+        - question: If you have a good product, the world will beat a path to your door. If you build a better mousetrap, the world will beat a path to your door. If something you have to sell is better than others, then people will seek you out. You don't need to advertise, because your product is your best advertisement. If you have a good product, people will go out of their way to get your product. Even if people have to look hard for the best product, they will do that. Have a good product, and people will take the trouble to find you and get that product. Most important is having a good product. Nothing is more important than having a good product.
+          option:
+            - good repetition
+            - repetition overused
+          answer: repetition overused
+trump:
+  jigsaw:
+    0:
+      identifier: ALL CAPS
+      quiz:
+        - question: Why Trump used ALL CAPS
+          option:
+            - He was shouting
+            - He wanted to bring his claim to people's attention
+            - He wanted to annoy people
+          answer: He wanted to bring his claim to people's attention
+        - question: What is ALL CAPS considered equivalent to in face-to-face communication?
+          option:
+            - Shouting
+            - Making hand gestures
+            - Speaking slowly and carefully
+          answer: Shouting
+        - question: The reaction of readers to Trump's ALL CAPS
+          option:
+            - a liking for Trump
+            - a dislike of Trump
+            - making fun of Trump
+          answer: making fun of Trump
 discrimination:
   jigsaw:
     0:
       identifier: age, sex
       quiz:
-        - question: "X: Who to fire? A or B. Y: Both are OK, but A is older, so A."
+        - question: "Who is the chairman of this committee?"
+          option:
+            - discriminatory
+            - non-discriminatory
+          answer: discriminatory
+        - question: "Who is the chairperson of this committee?"
+          option:
+            - discriminatory
+            - non-discriminatory
+          answer: non-discriminatory
+        - question: "Who is the chair of this committee?"
+          option:
+            - discriminatory
+            - non-discriminatory
+          answer: non-discriminatory
+          answer: discriminatory
+        - question: "X: We need to fire one worker. Who to fire? A or B? Y: Both are equally capable, but A is older, so let's fire A."
           option:
             - discriminatory
             - non-discriminatory
@@ -833,6 +976,26 @@ discrimination:
             - discriminatory
             - non-discriminatory
           answer: discriminatory
+        - question: "Each student must provide his own lab jacket."
+          option:
+            - discriminatory
+            - non-discriminatory
+          answer: discriminatory
+        - question: "Each student must provide his or her own lab jacket."
+          option:
+            - discriminatory
+            - non-discriminatory
+          answer: non-discriminatory
+        - question: "Student must provide their own lab jackets."
+          option:
+            - discriminatory
+            - non-discriminatory
+          answer: non-discriminatory
+        - question: "Each student must provide their own lab jacket."
+          option:
+            - discriminatory
+            - non-discriminatory
+          answer: non-discriminatory
         - question: "Each worker must stay in his seat until it's time to finish."
           option:
             - discriminatory
@@ -899,8 +1062,42 @@ explanation:
              - not a reason lessening impact of bad news
           answer: not a reason lessening impact of bad news
 conditional:
-  jigsaw:
+  drag:
     0:
+      identifier: conditional scramble
+      sentences:
+        -
+          sentence: Water freezes if the temperature drops below zero degrees centigrade.
+          clozed: Water|freezes|if|the|temperature|drops|below|zero|degrees|centigrade|End
+        -
+          sentence: He will be sent to jail unless he pays the fine.
+          clozed: He|will|be|sent|to|jail|unless|he|pays|the|fine|End
+        -
+          sentence: If I had a lot of money I would like to travel around the world.
+          clozed: If|I|had|a|lot|of|money|I|would|like|to|travel|around|the|world|End
+        -
+          sentence: If John hadn't slept in, he wouldn't have been late for class.
+          clozed: If|John|hadn't|slept|he|wouldn't|have|been|late|for|class|End
+        -
+          sentence: What will you say if the boss comes now?
+          clozed: What|will|you|say|if|the|boss|comes|now|End
+        -
+          sentence: What would you say if the boss came now?
+          clozed: What|would|you|say|if|the|boss|came|now|End
+        -
+          sentence: If you pay now you can get a 20 percent discount.
+          clozed: If|you|pay|now|you|can|get|a|20|percent|discount|End
+        -
+          sentence: If we had heard the weather report some days before, we would have changed our plans.
+          clozed: If|we|had|heard|the|weather|report|some|days|we|would|have|changed|our|plans|End
+        -
+          sentence: If I hadn't been married, I would have been attracted to you.
+          clozed: If|I|hadn't|been|married|I|would|have|been|attracted|to|you|End
+        -
+          sentence: If I wasn't married, I would be attracted to you.
+          clozed: If|I|wasn't|married|I|would|be|attracted|to|you|End
+  jigsaw:
+    want:
       identifier: conditional
       quiz:
         - question: I want to request a transfer.
@@ -913,7 +1110,7 @@ conditional:
              - conditional
              - non-conditional
           answer: conditional
-    1:
+    type:
       identifier: 3 types of conditional
       quiz:
         - question: 1
@@ -1088,6 +1285,21 @@ confrontational:
             - confrontational
             - diplomatic
           answer: confrontational
+  drag:
+    0:
+      identifier: confrontational
+      sentences:
+        -
+          sentence: Your policy does not include free checks of your boilers.
+          clozed: Your|policy|does|not|include|free|checks|of|your|boilers|End
+        -
+          sentence: You are eligible for a free check of your boilers after one year.
+          clozed: You|are|eligible|for|a|free|check|of|your|boilers|after|one|year|End
+        -
+          sentence: The library books that you checked out on November_23 are overdue.
+          clozed: The|library|books|that|you|checked|out|on|November_23|are|overdue|End
+        
+        
   scramble:
     0:
       identifier: confrontational
@@ -1113,7 +1325,7 @@ rejection:
           answer: acknowledgement and thanks
 2_emails:
   jigsaw:
-    0:
+    invitation:
       identifier: 2_invitation rejection_emails
       quiz:
         - question: The better email
@@ -1146,6 +1358,39 @@ rejection:
             - one
             - two
           answer: one
+    order:
+      identifier: 2 order emails
+      quiz:
+        - question: the more direct email
+          option:
+            - one
+            - two
+          answer: one
+        - question: the more polite email
+          option:
+            - one
+            - two
+          answer: two
+        - question: the email which is less stressful to the reader
+          option:
+            - one
+            - two
+          answer: two
+        - question: the email which would be less welcomed by the receiver
+          option:
+            - one
+            - two
+          answer: one
+        - question: the better email
+          option:
+            - one
+            - two
+          answer: two
+        - question: the bad email
+          option:
+            - one
+            - two
+          answer: one
 improvement:
   scramble:
     0:
@@ -1156,22 +1401,94 @@ improvement:
         - To fix your motorcycle, a new clutch will have to be purchased.
         - If this is OK with you, we will go ahead with the repair.
         - Packages weighing up to 25kg will be accepted.
+  drag:
+    0:
+      identifier: improvement scramble
+      sentences:
+        -
+          sentence: Mr Richards will_probably be only_able to see you after 4:00pm.
+          clozed: Mr|Richards|will_probably|be|only_able|to|see|you|after|4:00pm|End
+        -
+          sentence: We have had problems with half of the 16 computers we bought from you.
+          clozed: We|have|had|problems|with|half|of|the|16|computers|we|bought|from|you|End
+        -
+          sentence: To fix your motorcycle, a new clutch will have to be purchased.
+          clozed: To|fix|your|a|new|clutch|will|have|to|be|purchased|End
+        -
+          sentence: If this is OK with you, we will go ahead with the repair.
+          clozed: If|this|is|OK|with|we|will|go|ahead|with|the|repair|End
+        -
+          sentence: Packages weighing up to 25kg will be accepted.
+          clozed: Packages|weighing|up|to|25kg|will|be|accepted|End
+  jigsaw:
+    1:
+      identifier: availability
+      quiz:
+        - question: The person speaking for Mr Richards is probably Mr Richards'' boss (his superior).
+          answer: False
+        - question: 'Mr Richards is probably seeking help from the person being addressed ("you").'
+          answer: False
+        - question: The problem with the original expression is it is phrased negatively, rather than positively
+          answer: True
+        - question: A way to rephrase the original is to say what is possible, rather than what is unlikely or impossible
+          answer: True
+        - question: 'There is probably business value for Mr Richards in meeting with the addressee ("you").'
+          answer: True
+    2:
+      identifier: computers
+      quiz:
+        - question: The writer probably wants the supplier to fix the computers, or in some other way, compensate for the problem..
+          answer: True
+        - question: '"Proved to be faulty" means the computers are broken in some way.'
+          answer: True
+        - question: 'A way to rephrase the original is to replace "proved to be faulty" with "are no good."'
+          answer: False
+        - question: 'A way to rephrase the original is to replace "proved to be faulty" with "have problems."'
+          answer: True
+        - question: The writer probably bought the computers for his/her own use.
+          answer: False
+    3:
+      identifier: motorcycle clutch
+      quiz:
+        - question: The problem with the clutch is not the main reason the repair cannot take place.
+          answer: False
+        - question: The reader probably appreciates being warned a new clutch is necessary.
+          answer: True
+        - question: The reason the writer says he/she is unable to proceed is probably because he/she needs the go-ahead from the reader
+          answer: True
+        - question: The reason the writer says he/she is unable to proceed is probably because he/she needs the reader to buy a clutch.
+          answer: False
+        - question: The writer probably wants the reader to go and buy a new clutch.
+          answer: False
+    4:
+      identifier: package
+      quiz:
+        - question: The writer is providing a delivery service.
+          answer: True
+        - question: The problem with the original expression is it is phrased positively, rather than negatively
+          answer: False
+        - question: A way to rephrase the original is to say what is impossible, rather than what is possible
+          answer: False
+        - question: There probably would be no business value in delivering packages heavier than 25kg.
+          answer: False
+        - question: The reason for the restriction on weight is probably because of the handling problems which would result.
+          answer: True
   match:
     0:
       identifier: tone improvement point
       pair:
         -
           - Mr Richards will_pro..
-          - 1
+          - 1. Choose the positive, avoid the negative (first time)
         -
           - We have had problems..
-          - 4
+          - 4. Choose vocabulary with positive connotations
         -
           - To fix your motorcyc..
-          - 3
+          - 3. Use conditional sentences and suggest hypothetical situations
         -
           - Packages weighing up..
-          - 1
+          - 1. Choose the positive, avoid the negative (following time)
 point:
   jigsaw:
     0:
