@@ -294,3 +294,14 @@ thing:
       ruler       : 尺
       scissors    : 剪刀
       pencil case : 鉛筆盒
+subject:
+  0:
+    flash:
+      English            : 英語
+      science            : 科學
+      math               : 數學
+      physical education : 體育
+      geography          : 地理
+      art                : 藝術
+      reading            : 讀
+      history            : 歷史
