@@ -20,6 +20,11 @@ transport:
       - The boat is arriving at the town. _We will walk around and look at the buildings while we are there._
       - My family never uses a car to go to the store. _It's inconvenient finding a place to park, isn't it._
       - We always change subway trains at this station. _What's the name of the station? Westminster?_
+    -
+      - "A: Where are you going? _B: I’m going to a small town to visit my uncle._"
+      - "A: How are you going to get there? _B: I’m going by train. I need to be at the station in two hours. _"
+      - "A: How often do you take the train? _B: I’ve never been on a train before. I’m excited!_"
+      - "A: What time will you arrive there? _B: It will be quite late—almost 11 p.m._"
 
     -
       - "G: Do you often use buses and trains? _B: My family always uses buses and trains to go to places._"
