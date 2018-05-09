@@ -258,6 +258,11 @@ sick:
       - He is taking medicine for his stomachache. _Who is giving him the medicine? His mother? A nurse?_
       - The sick children are in the hospital. _How many days have the children been in the hospital?_
       - He has a bad headache today. _Perhaps he needs to go home, or go to the hospital._
+    -
+      - "A: What’s wrong? _B: I have a very bad stomachache._"
+      - "A: You don’t look so good. _B: I don’t feel so well._"
+      - "A: You should stay in bed today. _B: OK. I guess you’re right._"
+      - "A: Do you need to go to the hospital? _B: My mom is a nurse. She’ll take care of me._"
 
 
 
