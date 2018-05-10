@@ -476,6 +476,32 @@
     A: Maybe it will rain tonight.
     B: I hope not. I don't like rain.
   - End
+-
+  - "weather-6"
+  - "weather-6"
+  - "topics"
+  - "all"
+  - |+
+    A: Where are you going?
+    B: I'm going to the playground.
+    A: I heard the forecast. It said there will be a storm today.
+    B: That's OK. Rain is fun. I like to get wet.
+    A: Well, there may be lightning, too. Lightning is dangerous.
+    B: I know. I will be careful.
+  - dangerous|End
+-
+  - "weather-7"
+  - "weather-7"
+  - "topics"
+  - "all"
+  - |+
+    A: Thanks for making a picnic today.
+    B: Sure. I love picnics.
+    A: Uh oh. I just saw some lightning.
+    B: I felt a raindrop. It looks like bad weather is coming.
+    A: Let's get our things together. We don't want to get wet.
+    B: Let's go!
+  - picnic|picnic|End
 
 ---
 -
