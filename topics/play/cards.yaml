@@ -114,6 +114,20 @@ game:
       - This game is going very slowly. _Wait. I'm thinking._
       - How do you play jacks? _First you bounce the ball, then you pick up the jacks._
 
+sleep:
+  bingo:
+    - flashlight witch count ghost nightmare real believe silly
+
+  0:
+    flash:
+      flashlight : 手電筒
+      witch      : 巫婆
+      count      : 計數
+      ghost      : 鬼
+      nightmare  : 惡夢
+      real       : 真實
+      believe    : 相信
+      silly      : 愚蠢
 haunted:
   bingo:
     -
