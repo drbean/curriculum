@@ -90,6 +90,8 @@ You can subordinate an idea (put it in the background) by placing it in middle p
 
 Rewrite the 4 sentences on p93 to make them less negative, less unwelcome, without changing the meaning.
 
+Don't APOLOGIZE. Use good expressions to make a good impression.
+
 Look at the 4 approaches on 10-2, p86
 
 1. Choose the positive, avoid the negative
@@ -97,7 +99,7 @@ Look at the 4 approaches on 10-2, p86
 3. Use conditional sentences and suggest hypothetical situations
 4. Choose vocabulary with positive connotations
 
-And the 5 points of 10-3, p90
+And the 5 points (or guidelines) of 10-3, p90
 
 - Help with a problem. Don't say the reader is doing it wrong.
 - Say what you can do, not what you can't do.
