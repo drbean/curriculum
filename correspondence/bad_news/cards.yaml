@@ -1,6 +1,21 @@
 ---
 genre: correspondence
 shoe:
+  jigsaw:
+    0:
+      identifier: shoe comprehension
+      quiz:
+        - question: The situation is the demand for a size 49 shoe is very low.
+          answer: True
+        - question: The bad news is the largest size in stock is size 47.
+          answer: True
+        - question: The buffer is "unfortunately".
+          answer: True
+        - question: The alternative is the possibility of ordering size 49 shoes.
+          answer: True
+        - question: The positive close is the invitation to visit the store.
+          answer: True
+        
   match:
     0:
       identifier: shoe
@@ -42,31 +57,41 @@ shoe:
       identifier: shoe structure
       pair:
         -
+          - 1. situation
           - R. I am writing about ..
-          - 1. situation
         -
+          - 1. situation
           - T. Shack's Shoe Products has ..
-          - 1. situation
         -
+          - 1. situation
           - M. However, the demand for ..
-          - 1. situation
         -
-          - B. Unfortunately, the largest size we ..
           - 2. bad news
+          - B. Unfortunately, the largest size we ..
         -
+          - 3. alternative
           - O. We have made inquiries ..
-          - 3. alternative
         -
+          - 3. alternative
           - H. All we would require ..
-          - 3. alternative
         -
+          - 3. alternative
           - Q. Please come into our store ..
-          - 3. alternative
         -
-          - K. Thank you once again ..
           - 4. positive close
+          - K. Thank you once again ..
           
 herbal:
+  jigsaw:
+    0:
+      identifier: herbal comprehension
+      quiz:
+        - question: The bad news is the increased competition
+          answer: False
+        - question: The situation is the fact the owner will continue to live in the area.
+          answer: False
+        - question: The alternative is the happy memories the owner has.
+          answer: False
   match:
     0:
       identifier: herbal
@@ -102,30 +127,44 @@ herbal:
       identifier: structure
       pair:
         -
+          - 1. situation
           - F. Jenny's Herbal Foods ..
-          - 1. situation
         -
+          - 1. situation
           - C. Over that time, ..
-          - 1. situation
         -
+          - 1. situation
           - G. We are always ..
-          - 1. situation
         -
+          - 1. situation
           - J. However, with the ..
-          - 1. situation
         -
-          - E. Therefore. it is with ..
           - 2. bad news
+          - E. Therefore. it is with ..
         -
-          - N. My husband and I ..
           - 3. alternative
+          - N. My husband and I ..
         -
-          - S. These last 22 years ..
           - 4. positive close
+          - S. These last 22 years ..
         
               
 
 joke:
+  jigsaw:
+    0:
+      identifier: joke comprehension
+      quiz:
+        - question: The company is telling employees they are losing their jobs.
+          answer: True
+        - question: The company problems are related to the Taiwan economy.
+          answer: True
+        - question: The company is not giving employees any choice.
+          answer: False
+        - question: The company will prefer to re-employ workers who stay longest.
+          answer: True
+        - question: The positive close is about the possibility the company will recover.
+          answer: False
   match:
     0:
       identifier: joke
@@ -177,6 +216,32 @@ scramble:
         - Using our online service would make you eligible for a fifteen percent discount.
         - Our company policy requires all orders be paid within thirty days of being delivered.
         - Our company policy allows discounts on individual orders of $1000_or_more.
+  drag:
+    0:
+      identifier: bad news scramble
+      sentences:
+        -
+          sentence: Wouldn't people find nine o'clock a little early?
+          clozed: Wouldn't|people|find|nine|o'clock|a|little|early|End
+        -
+          sentence: Actually, we were looking for something a little cheaper.
+          clozed: Actually|we|were|looking|for|something|a|little|cheaper|End
+        -
+          sentence: The quality of the washer does not reflect the price I paid.
+          clozed: The|quality|of|the|washer|does|not|reflect|the|price|I|paid|End
+        -
+          sentence: We would appreciate it if you could return your purchase ten days earlier.
+          clozed: We|would|appreciate|it|if|you|could|return|your|purchase|ten|days|earlier|End
+        -
+          sentence: Using our online service would make you eligible for a fifteen percent discount.
+          clozed: Using|our|online|service|would|make|you|eligible|for|a|fifteen|percent|discount|End
+        -
+          sentence: Our company policy requires all orders be paid within thirty days of being delivered.
+          clozed: Our|company|policy|requires|all|orders|be|paid|within|thirty|days|of|being|delivered|End
+        -
+          sentence: Our company policy allows discounts on individual orders of $1000_or_more.
+          clozed: Our|company|policy|allows|discounts|on|individual|orders|of|$1000_or_more|End
+        
 fuxing:
   scramble:
     0:
@@ -251,4 +316,154 @@ fuxing:
             - alternative
             - positive close
           answer: situation
-          
+tone:
+  jigsaw:
+    0:
+      identifier: tone improvement
+      quiz:
+        - question: We are unable to deliver the goods you ordered tomorrow. ( Use "do our best", "process your order", "as quickly as possible", "expect to deliver", "the day after tomorrow" )
+          answer:
+            - We are doing our best to process your order as quickly as possible and we expect to deliver it the day after tomorrow.
+            - We are doing our best to process your order as quickly as possible and( we)? expect( (we will|to) be able)? to deliver it the day after tomorrow\.
+          incorrect:
+            -
+              error: ^(?!.*We are.*)
+              feedback: Use the words, "We are"
+            -
+              error: ^(?!.*doing our best.*)
+              feedback: Use the words, "doing our best"
+            -
+              error: ^(?!.*to.*)
+              feedback: Use the words, "to"
+            -
+              error: ^(?!.*process your order.*)
+              feedback: Use the words, "process your order"
+            -
+              error: ^(?!.*as quickly as possible.*)
+              feedback: Use the words, "as quickly as possible"
+            -
+              error: ^(?!.*and.*)
+              feedback: Use the words, "and"
+            -
+              error: ^(?!.*expect to deliver.*)
+              feedback: Use the words, "expect to deliver"
+            -
+              error: ^(?!.*it.*)
+              feedback: Use the words, "it"
+            -
+              error: ^(?!.*the day after tomorrow.*)
+              feedback: Use the words, "the day after tomorrow"
+        - question: These new shirts are too expensive. (Use "We", "enough money", "buy", "Can", "give", "discount")
+          answer: 
+            - We do not have enough money to buy these shirts. Can you give us a discount?
+          incorrect:
+            -
+              error: ^(?!.*do not .*)
+              feedback: Use the words, "do not "
+            -
+              error: ^(?!.*have.*)
+              feedback: Use the words, "have"
+            -
+              error: ^(?!.*enough money.*)
+              feedback: Use the words, "enough money"
+            -
+              error: ^(?!.*to.*)
+              feedback: Use the words, "to"
+            -
+              error: ^(?!.*buy.*)
+              feedback: Use the words, "buy"
+            -
+              error: ^(?!.*these shirts\..*)
+              feedback: Use the words, "these shirts."
+            -
+              error: ^(?!.*Can you.*)
+              feedback: Use the words, "Can you"
+            -
+              error: ^(?!.*give us.*)
+              feedback: Use the words, "give us"
+            -
+              error: ^(?!.*a discount\?.*)
+              feedback: Use the words, "a discount?"
+        - question: The quality of what we received is very low. (Use "quite different", "was shown", "us")
+          answer:  
+            - The quality of what we received is quite different to the quality of what was shown to us.
+            - The quality of what we received is quite different (to|than) the quality of what was shown to us.
+          incorrect:
+            -
+              error: ^(?!.*quality.*)
+              feedback: Use the words, "quality"
+            -
+              error: ^(?!.*of what we received.*)
+              feedback: Use the words, "of what we received"
+            -
+              error: ^(?!.*is.*)
+              feedback: Use the words, "is"
+            -
+              error: ^(?!.*quite different.*)
+              feedback: Use the words, "quite different"
+            -
+              error: ^(?!.*(to|than).*)
+              feedback: Use the words, "to" or "than"
+            -
+              error: ^(?!.*the quality.*)
+              feedback: Use the words, "the quality"
+            -
+              error: ^(?!.*of what.*)
+              feedback: Use the words, "of what"
+            -
+              error: ^(?!.*was shown.*)
+              feedback: Use the words, "was shown"
+            -
+              error: ^(?!.*to us\..*)
+              feedback: Use the words, "to us."
+        - question: We must cancel your order unless the outstanding balance of $7,000 is paid. (Use "Please", "so that", "fill your order", "delayed payment", "prevent us", "proceed")
+          answer: 
+            - Please pay the outstanding balance of $7,000, so that we can fill your order. The delayed payment is preventing us from proceeding.
+          incorrect:
+            -
+              error: ^(?!.*pay.*)
+              feedback: Use the words, "pay"
+            -
+              error: ^(?!.*the outstanding balance of \$7,000,.*)
+              feedback: Use the words, "the outstanding balance of $7,000,"
+            -
+              error: ^(?!.*so that.*)
+              feedback: Use the words, "so that"
+            -
+              error: ^(?!.*we can.*)
+              feedback: Use the words, "we can"
+            -
+              error: ^(?!.*fill your order\..*)
+              feedback: Use the words, "fill your order."
+            -
+              error: ^(?!.*The delayed payment.*)
+              feedback: Use the words, "The delayed payment"
+            -
+              error: ^(?!.*is preventing us.*)
+              feedback: Use the words, "is preventing us"
+            -
+              error: ^(?!.*from proceeding\..*)
+              feedback: Use the words, "from proceeding\."
+        - question: You have made a mistake on the invoice.
+          answer:  
+            - A mistake has been made on the invoice.
+          incorrect:
+            -
+              error: ^(?!.*mistake.*)
+              feedback: Use the words, "mistake"
+            -
+              error: ^(?!.*has.*)
+              feedback: Use the words, "has"
+            -
+              error: ^(?!.*been.*)
+              feedback: Use the words, "been"
+            -
+              error: ^(?!.*made.*)
+              feedback: Use the words, "made"
+            -
+              error: ^(?!.*on.*)
+              feedback: Use the words, "on"
+            -
+              error: ^(?!.*the invoice.*)
+              feedback: Use the words, "the invoice"
+            
