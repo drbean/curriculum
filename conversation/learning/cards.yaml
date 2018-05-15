@@ -145,13 +145,13 @@ vocabulary:
             - recording and reviewing vocabulary on cards
             - recording and reviewing word lists on the computer
           answer: displaying words on pieces of paper
-        - question: The 2nd person's method 
+        - question: The 2nd person's method (Manny)
           option:
             - displaying words on pieces of paper
             - recording and reviewing vocabulary on cards
             - recording and reviewing word lists on the computer
           answer: recording and reviewing vocabulary on cards
-        - question: The 3rd person's method
+        - question: The 3rd person's method (Wanda)
           option:
             - displaying words on pieces of paper
             - recording and reviewing vocabulary on cards
@@ -182,3 +182,72 @@ way:
             - learning acting as a form of self-confidence
             - talking to people about their interests
           answer: learning acting as a form of self-confidence
+gerund:
+  jigsaw:
+    0:
+      identifier: by gerund
+      quiz:
+        - question: You can improve your accent by ..
+          answer: 
+            - You can improve your accent by mimicking native speakers.
+            - You can improve your accent by .*ing.*$
+          incorrect:
+            -
+              error: ^(?!.*You can improve your accent by .*ing.*)
+              feedback: Use the words, "You can improve your accent by .."
+        - question: A good way to learn idioms is by ..
+          answer: 
+            - A good way to learn idioms is by watching videos online.
+            - A good way to learn idioms is by .*ing.*$
+          incorrect:
+            -
+              error: ^(?!.*- A good way to learn idioms is by .*ing.*)
+              feedback: Use the words, "- A good way to learn idioms is by .."
+        - question: Students can become better writers by ..
+          answer: 
+            - Students can become better writers by getting a private tutor.
+            - Students can become better writers by .*ing.*$
+          incorrect:
+            -
+              error: ^(?!.*Students can become better writers by .*ing.*)
+              feedback: Use the words, "Students can become better writers by .."
+        - question: A good way to learn new vocabulary is by ..
+          answer: 
+            - A good way to learn new vocabulary is by accessing a learner's dictionary.
+            - A good way to learn new vocabulary is by .*ing.*$
+          incorrect:
+            -
+              error: ^(?!.*A good way to learn new vocabulary is by .*ing.*)
+              feedback: Use the words, "A good way to learn new vocabulary is by .."
+        - question: People can become faster readers by ..
+          answer:
+            - People can become faster readers by skimming magazines in English.
+            - People can become faster readers by .*ing.*$
+          incorrect:
+            -
+              error: ^(?!.* People can become faster readers by .*ing.*)
+              feedback: Use the words, " People can become faster readers by ."
+        - question: One way of practicing conversation is ..
+          answer: 
+            -  One way of practicing conversation is by role-playing with a partner in class.
+            -  One way of practicing conversation is by .*ing.*$
+          incorrect:
+            -
+              error: ^(?!.* One way of practicing conversation is by .*ing.*)
+              feedback: Use the words, " One way of practicing conversation is by ."
+        - question: You can learn to use grammar correctly by ..
+          answer:  
+            -  You can learn to use grammar correctly by utilizing self-study materials.
+            -  You can learn to use grammar correctly by .*ing.*$
+          incorrect:
+            -
+              error: ^(?!.* You can learn to use grammar correctly by .*ing.*)
+              feedback: Use the words, " You can learn to use grammar correctly by ."
+        - question: The best way to develop self-confidence in speaking is by ..
+          answer: 
+            -  The best way to develop self-confidence in speaking is by conversing with native speakers.
+            -  The best way to develop self-confidence in speaking is by .*ing.*$
+          incorrect:
+            -
+              error: ^(?!.* The best way to develop self-confidence in speaking is by .*ing.*)
+              feedback: Use the words, " The best way to develop self-confidence in speaking is by ."
