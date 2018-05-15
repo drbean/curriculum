@@ -25,6 +25,12 @@ transport:
       - "A: How are you going to get there? _B: I’m going by train. I need to be at the station in two hours. _"
       - "A: How often do you take the train? _B: I’ve never been on a train before. I’m excited!_"
       - "A: What time will you arrive there? _B: It will be quite late—almost 11 p.m._"
+    -
+      - "A: My best friend, Natasha, is arriving soon! I'm taking the bus to the airport to pick her up. _B: Nice!_"
+      - "B: How often do you see her? _A: Every summer._"
+      - "B: Does Natasha always travel by airplane? _A: Usually, but I never do._"
+      - "A: I prefer the train because I'm afraid of flying. _B: Me, too! We're in the same boat._"
+
 
     -
       - "G: Do you often use buses and trains? _B: My family always uses buses and trains to go to places._"
