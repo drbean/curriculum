@@ -490,6 +490,24 @@
     B: I don't know which color of crayon to use first.
     A: Well, you can use them all.
     B: I'm going to start with this nice green color, first.
+-
+  - "art-5"
+  - "art-5"
+  - "topics"
+  - "all"
+  - |+
+    1.
+    A: I just got some new clay. Do you want to make pottery with me?
+    B: No thanks, Ben. I don't want to get dirty. Clay is too messy.
+    2.
+    A: What are you doing, Mary?
+    B: I'm painting colors on my flower pots.
+    A: Oh, but your not using paint. You're drawing with markers.
+    B: I know. I don't have paint. So, I'm using markers.
+    3.
+    A: What are you doing with those paints, Brian?
+    B: I'm painting a picture on the wall. How does it look?
+  - Ben|Mary|Brian
 
 
 
