@@ -1,6 +1,6 @@
 ---
 genre: correspondence
-complaint:
+paragraph:
   match:
     0:
       identifier: structure
@@ -26,6 +26,35 @@ complaint:
 
         
 glass:
+  match:
+    0:
+      identifier: structure
+      pair:
+        -
+          - "I am writing .."
+          - background
+        -
+          - "On 12 June 2015 .."
+          - background
+        -
+          - "At that time .."
+          - background
+        -
+          - "However, to date .."
+          - complaint
+        -
+          - "We have a number of .."
+          - resulting damage
+        -
+          - "We would appreciate .."
+          - request
+        -
+          - "Also, if delivery .."
+          - threat
+        -
+          - "Thank you .."
+          - polite close
+        
   jigsaw:
     0:
       identifier: glass
@@ -120,44 +149,75 @@ drink:
         -
           - 14
           - forced
-    2:
+    structure:
       identifier: drink structure
       pair:
         -
           - Our company has been using TOPCAT ..
           - background
         -
+          - Every year, we have needed ..
+          - background
+        -
+          - For the most part, we have been ..
+          - background
+        -
           - However, over the last two months ..
           - complaint
         -
+          - On 27 June, ..
+          - complaint
+        -
+          - Then on 24 July ..
+          - complaint
+        -
+          - After being told ..
+          - complaint
+        -
           - I am not sure why the situation changed ..
+          - damage
+        -
+          - We urgently need ..
           - request
         -
           - If the quality of employees ..
           - threat
-    3:
+    reply:
       identifier: drink reply strucure
       pair:
         -
-          - Thank you for ..
+          - Thank you for your letter date 14 August 2015 concerning the temporary workers you have recently received from us. 
           - acknowledgement of contact
         -
-          - We appreciate you ..
+          - We appreciate you bringing this matter to our attention.
           - appreciation of complaint action
         -
-          - We are sorry ..
+          - We are sorry that the staff sent to you over the last two months have not met your expectations.
           - acceptance of responsibility
         -
-          - However, with the job ..
+          - We do thoroughly brief all employees on what is required of them and also check references very careful. However, with the job market being very buoyant at the moment, employees have a number of options open to them.
           - reason for problem
         -
-          - We have carefully checked ..
+          - We have very carefully checked the applications of customers this weak and have selected seventeen people who have been told to arrive on your gates on 7:30 a.m. on 24 September. Please see the enclosed list of names for your reference. We will be checking on these people later this week to ensure they still intend to go to work. Hopefully you will be satisfied with there performances.
           - report of efforts to prevent problems in future
         -
-          - Thank you again ..
+          - Thank you again for contacting us and please let me know if we can help further.
           - forward-looking close
           
   jigsaw:
+    comprehension:
+      identifier: drink comprehension
+      quiz:
+        - question: The background situation is Newman Brothers wants more part-time workers.
+          answer: False
+        - question: The complaint is the part-time workers sent by TOPCAT are no good.
+          answer: True
+        - question: The resulting damage is the effect on staff
+          answer: True
+        - question: The request is for the usual workers for the day shift
+          answer: False
+        - question: The threat is workers that are not up to standard
+          answer: False
     0:
       identifier: reply
       quiz:
@@ -277,6 +337,46 @@ doll:
         - We want you to send us a replacement set of dolls, at your expense.
 credit:
   jigsaw:
+    comprehension:
+      identifier: credit comprehension
+      quiz:
+        - question: The name of the managing director suggests this is not a real complaint.
+          answer: True
+        - question: The writer sets the right tone.
+          answer: False
+        - question: The writer claims the sales staff is not responsible for the credit card fraud.
+          answer: False
+        - question: The writer claims some of the sales staff has not learned how to check credit cards.
+          answer: True
+        - question: The writer wants sales staff to take the opportunity to check their nails.
+          answer: False
+        - question: The writer wants sales staff to watch customers write their names.
+          answer: True
+        - question: The writer wants sales staff to compare signatures on the card with the ones customers write.
+          answer: True
+        - question: The writer wants sales staff to glance at the credit card and the signature.
+          answer: False
+        - question: The writer wants sales staff to ask customers what their problem is.
+          answer: False
+        - question: The writer wants sales staff to demand identification in some circumstances.
+          answer: True
+        - question: Jo King says sorry for requiring sales staff to do extra work.
+          answer: True
+        - question: Jo King feels sorry that sales staff have to do extra work.
+          answer: False
+        - question: Jo King will call the credit card hotline for sales staff if there are problems.
+          answer: False
+        - question: Jo King is providing an incentive to staff to check signatures properly.
+          answer: True
+        - question: Jo King is happy to provide an incentive to staff to check signatures properly.
+          answer: False
+        - question: Jo King will give more money to staff workers whose credit card fraud records improve more.
+          answer: False
+        - question: Jo King shows respect to the sales staff.
+          answer: False
+        - question: Jo King offers money to all staff if they do a good job.
+          answer: True
+        
     0:
       identifier: credit card
       quiz:
@@ -392,6 +492,73 @@ credit:
             - Tone weak, because of suggested inappropriate staff behavior
             - Tone weak, because of suggested lack of intelligence
           answer: Tone weak, because of negative judgmental attitude to reader
+  drag:
+    0:
+      identifier: tone improvement scramble
+      sentences:
+        -
+          sentence: One cause is mistakes by staff carrying out credit card checks.
+          clozed: One|cause|is|mistakes|by|staff|carrying|out|credit|card|checks|End
+        -
+          sentence: To refresh your memory of the procedure shown you during the training period, I will tell you what you should do.
+          clozed: To|refresh|your|memory|of|the|procedure|shown|you|during|the|training|I|will|tell|you|what|you|should|End
+        -
+          sentence: Stop what you are doing and focus on the signing of the signature by the customer.
+          clozed: Stop|what|you|are|doing|and|focus|on|the|signing|of|the|signature|by|the|customer|End
+        -
+          sentence: Take at least 15 seconds to check that the signatures are the same.
+          clozed: Take|at|least|15|seconds|to|check|that|the|signatures|are|the|same|End
+        -
+          sentence: If you have problems calling the credit card hotline, please ask your supervisor for help.
+          clozed: If|you|have|problems|calling|the|credit|card|please|ask|your|supervisor|for|help|End
+        -
+          sentence: It may be a good idea to give you a monetary motivation to follow these procedures.
+          clozed: It|may|be|a|good|idea|to|give|you|a|monetary|motivation|to|follow|these|procedures|End
+        -
+          sentence: Including staff responsible for large amounts of credit card fraud in the past.
+          clozed: Including|staff|responsible|for|large|amounts|of|credit|card|fraud|in|the|past|End
+  match:
+    0:
+      identifier: credit structure
+      pair:
+        -
+          - Over the last 6 months there has been a 30% increase in credit card fraud.
+          - background
+        -
+          - This is because you, the sales staff, are not following the procedures for customers using a credit card.
+          - complaint
+        -
+          - For those of you who did not bother to listen to the management during your training period, I will tell you what you should do.
+          - request
+        -
+          - First, make sure you witness the customers' signatures.
+          - request
+        -
+          - Do not use that time as an opportunity to file your nails.
+          - request
+        -
+          - Then, check the signature on the slip against the signature on the card.
+          - request
+        -
+          - This means more than just glancing at the two.
+          - request
+        -
+          - If there are any problems, staff should then ask for further identification.
+          - request
+        -
+          - I am sorry if this means extra work for you.
+          - request
+        -
+          - If there are any further doubts, call the credit card hotline (if you know how to use the phone, that is!)
+          - request
+        -
+          - I suppose I will need to bribe you to follow these procedures.
+          - the opposite of a threat
+        -
+          - Therefore, if there is a 19% drop in credit card fraud between now and the ..
+          - the opposite of a threat
+        
+        
 reply:
   match:
     0:
@@ -527,6 +694,75 @@ letter:
         - Please send me your reply again, if you already sent it.
         - If you cannot do this, I will be forced to abandon our plan to act together.
         - I'm looking forward to your cooperation in this matter.
+  drag:
+    0:
+      identifier: letter non-reply scramble
+      sentences:
+        -
+          sentence: I wrote to you on Friday 12th, but I still have not received a reply.
+          clozed: I|wrote|to|you|on|Friday|but|I|still|have|not|received|a|reply|End
+        -
+          sentence: I cannot take action, until I know what you think.
+          clozed: I|cannot|take|until|I|know|what|you|End
+        -
+          sentence: Please send me your reply again, if you already sent it.
+          clozed: Please|send|me|your|reply|again|if|you|already|sent|it|End
+        -
+          sentence: If you cannot do this, I will be forced to abandon our plan to act together.
+          clozed: If|you|cannot|do|I|will|be|forced|to|abandon|our|plan|to|act|End
+        -
+          sentence: I'm looking forward to your cooperation in this matter.
+          clozed: I'm|looking|forward|to|your|cooperation|in|this|matter|End
+  jigsaw:
+    0:
+      identifier: letter complaint structure
+      quiz:
+        - question: I wrote to ...
+          option:
+            - background
+            - complaint
+            - resulting damage
+            - request
+            - threat
+            - polite close
+          answer: background
+        - question: I cannot take ...
+          option:
+            - background
+            - complaint
+            - resulting damage
+            - request
+            - threat
+            - polite close
+          answer: complaint
+        - question: Please send me ...
+          option:
+            - background
+            - complaint
+            - resulting damage
+            - request
+            - threat
+            - polite close
+          answer: request
+        - question: If you cannot ...
+          option:
+            - background
+            - complaint
+            - resulting damage
+            - request
+            - threat
+            - polite close
+          answer: threat
+        - question: I'm looking ...
+          option:
+            - background
+            - complaint
+            - resulting damage
+            - request
+            - threat
+            - polite close
+          answer: polite close
+        
     
 pen:
   jigsaw:
@@ -619,6 +855,68 @@ assumption:
             - makes assumptions
             - doesn't make assumptions
           answer: makes assumptions
+    instance:
+      identifier: assumption instances
+      quiz:
+        - question: 1. You wrote a letter to the reader. He did not reply to it.
+          option:
+            - sticks to the facts
+            - makes assumptions
+          answer: makes assumptions
+        - question: 2. You ordered 25 china dolls. The box had not been taped properly and all the dolls were damaged when they arrived at your house.
+          option:
+            - sticks to the facts
+            - makes assumptions
+          answer: makes assumptions
+        - question: 3. The engineer came to fix your TV. He did not do a good job and now (4 days later) it is not working again. (It is the same problem as before.)
+          option:
+            - sticks to the facts
+            - makes assumptions
+          answer: makes assumptions
+        - question: 4. You went to a take-away restaurant, but, when you got home, the meat was badly undercooked and the vegetable overcooked.
+          option:
+            - sticks to the facts
+            - makes assumptions
+          answer: sticks to the facts
+        - question: 5. You paid top price for some printing paper. However, upon receipt, you find the paper to be of a poor quality.
+          option:
+            - sticks to the facts
+            - makes assumptions
+          answer: sticks to the facts
+    basis:
+      identifier: assumption basis
+      quiz:
+        - question: If I didn't receive a letter, it means the writer didn't send me the letter.
+          option:
+            - assumption
+            - not an assumption
+          answer: assumption
+        - question: If I didn't receive a letter, it means there is not a letter in my mail.
+          option:
+            - assumption
+            - not an assumption
+          answer: not an assumption
+        - question: If a package was partly-opened when it arrived in the email, it means it was not properly taped by the sender.
+          option:
+            - assumption
+            - not an assumption
+          answer: assumption
+        - question: If a package was partly-opened when it arrived in the email, it means there was damage to it before it arrived.
+          option:
+            - assumption
+            - not an assumption
+          answer: not an assumption
+        - question: If some machine or device breaks down a second time, it means it wasn't fixed the first time.
+          option:
+            - assumption
+            - not an assumption
+          answer: assumption
+        - question: If some machine or device is fixed but breaks down a second time, it means there is a bigger problem which is causing the first problem to re-occur.
+          option:
+            - assumption
+            - not an assumption
+          answer: not an assumption
+
 mango:
   jigsaw:
     0:
