@@ -1,5 +1,110 @@
 ---
 genre: correspondence
+sort:
+  jigsaw:
+    0:
+      identifier: herbal vs shoe
+      quiz:
+        - question: A
+          option:
+            - herbal
+            - shoe
+          answer: shoe
+        - question: B
+          option:
+            - herbal
+            - shoe
+          answer: shoe
+        - question: C
+          option:
+            - herbal
+            - shoe
+          answer: herbal
+        - question: D
+          option:
+            - herbal
+            - shoe
+          answer: shoe
+        - question: E
+          option:
+            - herbal
+            - shoe
+          answer: herbal
+        - question: F
+          option:
+            - herbal
+            - shoe
+          answer: herbal
+        - question: G
+          option:
+            - herbal
+            - shoe
+          answer: shoe
+        - question: H
+          option:
+            - herbal
+            - shoe
+          answer: shoe
+        - question: I
+          option:
+            - herbal
+            - shoe
+          answer: herbal
+        - question: J
+          option:
+            - herbal
+            - shoe
+          answer: herbal
+        - question: K
+          option:
+            - herbal
+            - shoe
+          answer: shoe
+        - question: L
+          option:
+            - herbal
+            - shoe
+          answer: herbal
+        - question: M
+          option:
+            - herbal
+            - shoe
+          answer: shoe
+        - question: N
+          option:
+            - herbal
+            - shoe
+          answer: herbal
+        - question: O
+          option:
+            - herbal
+            - shoe
+          answer: shoe
+        - question: P
+          option:
+            - herbal
+            - shoe
+          answer: shoe
+        - question: Q
+          option:
+            - herbal
+            - shoe
+          answer: shoe
+        - question: R
+          option:
+            - herbal
+            - shoe
+          answer: shoe
+        - question: S
+          option:
+            - herbal
+            - shoe
+          answer: herbal
+        - question: T
+          option:
+            - herbal
+            - shoe
+          answer: shoe
 shoe:
   jigsaw:
     0:
@@ -162,7 +267,7 @@ joke:
         - question: The company is not giving employees any choice.
           answer: False
         - question: The company will prefer to re-employ workers who stay longest.
-          answer: True
+          answer: False
         - question: The positive close is about the possibility the company will recover.
           answer: False
   match:
