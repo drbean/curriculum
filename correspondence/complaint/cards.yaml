@@ -635,11 +635,6 @@ responsibility:
             - accepting responsibility
             - rejecting claim of complainant
           answer: accepting responsibility
-
-
-
-
-
 swearing:
   match:
     0:
@@ -650,43 +645,43 @@ swearing:
           - 6. Dear Miss Liu,
         -
           - B.
-          - 8. Thank you for your letter ..
+          - 8. Thank you for your letter of 21 August 2016 concerning your visit to our restaurant.
         -
           - C.
-          - 5. We are always happy
+          - 5. We are always happy when we receive feedback from our customers.
         -
           - D.
-          - 13. We have spoken to the waitres ..
+          - 13. We have spoken to the waitress whom you mentioned in your letter.
         -
           - E.
-          - 14. The waitress concerned ..
+          - 14. The waitress concerned has been working for us since 1996 and we have never had cause to speak to her in the past.
         -
           - F.
-          - 9. She has always proved to be 
+          - 9. She has always proved to be very polite and hard working.
         -
           - G.
-          - 4. She vehemently denies ..
+          - 4. She vehemently denies swearing at you, although she does concede that you did have to wait quite a long time to be served.
     1:
       identifier: swearing 1
       pair:
         -
           - H.
-          - 11. Therefore, we believe that there must ..
+          - 11. Therefore we believe that there must have been some misunderstanding along the line.
         -
           - I.
-          - 3. A meeting was held with all ..
+          - 3. A meeting was held with all of our waiting staff though, and the importance of polite and efficient customer service was pointed out.
         -
           - J.
-          - 12. We hope that this situation will not ..
+          - 12. We hope that this situation will not deter you from honoring us with your custom again.
         -
           - K.
-          - 10. As we take the well-being ..
+          - 10. As we take the well-being of our customers as being very important, we are happy to offer you a free bottle of house wine should you come back and visit us again.
         -
           - L.
-          - 2. Please bring this letter ..
+          - 2. Please bring this letter along with you as confirmation.
         -
           - M.
-          - 7. Thank you once again for ..
+          - 7. Thank you, once again, for writing to us and expressing your feelings.
         -
           - N.
           - 1. Yours sincerely 
