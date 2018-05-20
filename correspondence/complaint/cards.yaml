@@ -601,20 +601,43 @@ bank:
       identifier: bank
       pair:
         -
+          - I am writing in connection with a change in interest rates.
           - acknowledgement of contact
-          - I am writing ..
         -
+          - We regret to inform you that we have been forced to increase interest rates on loans to 14 percent.
           - non-acceptance of responsibility
-          - We regret to inform ..
         -
-          - reason for decision
-          - This is due to a change ..
+          - This is due to a change in government regulations.
         -
+          - However, we are willing to offer you a six month extension on your repayment period to assist you.
           - concession to maintain good relationship
-          - However, we are willing ..
         -
+          - We apologize for any inconvenience this may cause you.
           - forward-looking close
-          - We apologize for any ..
+responsibility:
+  jigsaw:
+    0:
+      identifier: accepting responsibility
+      quiz:
+        - question: bank interest rate increase notice
+          option:
+            - accepting responsibility
+            - rejecting claim of complainant
+          answer: rejecting claim of complainant
+        - question: impolite waitress complaint reply
+          option:
+            - accepting responsibility
+            - rejecting claim of complainant
+          answer: rejecting claim of complainant
+        - question: drink factory temporary worker complaint reply
+          option:
+            - accepting responsibility
+            - rejecting claim of complainant
+          answer: accepting responsibility
+
+
+
+
 
 swearing:
   match:
