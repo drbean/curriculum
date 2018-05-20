@@ -686,23 +686,71 @@ swearing:
           - N.
           - 1. Yours sincerely 
     2:
-        identifier: swearing structure
-        pair:
-          -
-            - 8. Thank you for your letter ..
-            - acknowledgement of contact
-          -
-            - 5. We are always happy
-            - appreciation of complaint action
-          -
-            - 13. We have spoken to the waitres ..  4. She vehemently denies ..
-            - reason for decision
-          -
-            - 10. As we take the well-being .. 2. Please bring this letter ..
-            - concession to maintain good relationship
-          -
-            - 7. Thank you once again for ..
-            - forward-looking close
+      identifier: swearing structure
+      pair:
+        -
+          - 8. Thank you for your letter ..
+          - acknowledgement of contact
+        -
+          - 5. We are always happy
+          - appreciation of complaint action
+        -
+          - 13. We have spoken to the waitres ..  4. She vehemently denies ..
+          - reason for decision
+        -
+          - 10. As we take the well-being .. 2. Please bring this letter ..
+          - concession to maintain good relationship
+        -
+          - 7. Thank you once again for ..
+          - forward-looking close
+    3:
+      identifier: swearing structure
+      pair:
+        -
+          - 1. Yours sincerely
+          - complimentary close
+        -
+          - 2. Please bring this letter along with you as confirmation.
+          - condition on concession
+        -
+          - 3. A meeting was held with all of our waiting staff though, and the importance of polite and efficient customer service was pointed out.
+          - report of efforts to prevent problems in future
+        -
+          - 4. She vehemently denies swearing at you, although she does concede that you did have to wait quite a long time to be served.
+          - reason for decision
+        -
+          - 5. We are always happy when we receive feedback from our customers.
+          - appreciation of complaint action
+        -
+          - 6. Dear Miss Liu
+          - salutation
+        -
+          - 7. Thank you, once again, for writing to us and expressing your feelings.
+          - forward-looking close
+        -
+          - 8. Thank you for your letter of 21 August 2016 concerning your visit to our restaurant.
+          - acknowledgement of contact
+        -
+          - 9. She has always proved to be very polite and hard working.
+          - reason for decision
+        -
+          - 10. As we take the well-being of our customers as being very important, we are happy to offer you a free bottle of house wine should you come back and visit us again.
+          - concession to maintain good relationship
+        -
+          - 11. Therefore we believe that there must have been some misunderstanding along the line.
+          - non-acceptance of responsibility
+        -
+          - 12. We hope that this situation will not deter you from honoring us with your custom again.
+          - forward-looking close
+        -
+          - 13. We have spoken to the waitress whom you mentioned in your letter.
+          - attempt to understand the situation
+        -
+          - 14. The waitress concerned has been working for us since 1996 and we have never had cause to speak to her in the past.
+          - reason for decision
+        
+
+
 letter:
   scramble:
     0:
