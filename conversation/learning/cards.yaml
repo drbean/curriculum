@@ -157,6 +157,82 @@ vocabulary:
             - recording and reviewing vocabulary on cards
             - recording and reviewing word lists on the computer
           answer: recording and reviewing word lists on the computer
+    1:
+      identifier: Won-gyu, Manny
+      A: I stick words on cards and put them on things in my room. When I see something in the room, I look at the word and remember it. Manny puts words on cards, but doesn't stick them around the room.
+      B: I write words on cards and their meaning on the back. When I have free time I look at the words on the cards. Sometimes I put the words in groups. Won-gyu doesn't write the meanings and he doesn't carry the cards around with him.
+      quiz:
+        - question: A
+          option:
+            - Manny
+            - Won-gyu
+          answer: Won-gyu
+        - question: B
+          option:
+            - Manny
+            - Won-gyu
+          answer: Manny
+        - question: One difference is one person uses cards and one doesn't.
+          answer: False
+        - question: Another difference is one person writes meanings and the other doesn't.
+          answer: True
+        - question: Another difference is one person keeps the words together and one doesn't.
+          answer: True
+        - question: A similarity is that they see the word when they are doing something else.
+          answer: False
+    2:
+      identifier: Manny, Wanda
+      A: I write words and their meanings on cards which I keep in my pocket. I play with the cards. I put them into different groups. Wanda keeps her words in an app on her phone. She can't play with them.
+      B: I put new words into an app on my phone, and the app shows me only the words I don't know. It's an easy way to learn lots of new words. Manny doesn't use his phone to learn his words. They are on cards.
+      quiz:
+        - question: A
+          option:
+            - Manny
+            - Wanda
+          answer: Manny
+        - question: B
+          option:
+            - Manny
+            - Wanda
+          answer: Wanda
+        - question: One difference is one person uses cards and one doesn't.
+          answer: True
+        - question: Another difference is one person is helped to learn the difficult words and the other doesn't get that help.
+          answer: True
+        - question: A similarity is they both can freely move the words around and change which words they look at.
+          answer: False
+        - question: A similarity is that both use low-tech ways of learning.
+          answer: False
+    3:
+      identifier: Wanda, Won-gyu
+      A: I put new words into an app on my phone, and the app shows me the cards in order. It's an easy way to learn lots of new words. Won-gyu doesn't use his phone to learn his words. They are on cards.
+      B: I stick words on cards and put them on things in my room. When I see something in the room, I look at the word and remember it. Wanda doesn't use cards. She uses her phone.
+      quiz:
+        - question: A
+          option:
+            - Wanda
+            - Won-gyu
+          answer: Wanda
+        - question: B
+          option:
+            - Wanda
+            - Won-gyu
+          answer: Won-gyu
+        - question: A similarity is they can both choose the words they want to learn.
+          answer: True
+        - question: Another similarity is they both study words in order when they try to learn them.
+          answer: False
+        - question: Another similarity is they both have all the words in one place.
+          answer: False
+        - question: A difference is one person has control over how the cards are arranged, and the other person doesn't.
+          answer: True
+        
+        
+        
+        
+        
+      
+      
 way:
   jigsaw:
     0:
