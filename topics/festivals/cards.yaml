@@ -148,3 +148,11 @@ birthday:
       - I haven't got a birthday gift for Grandpa! _Don't worry. I bought a gift for him._
       - I haven't seen the whole family in a long time. _Well, you'll see them tonight._
       - When are we leaving? _When your father gets home from work._
+holiday:
+  bingo:
+    -
+      - "A: What country are you from? _B: I’m from Taiwan._"
+      - "B: Do you know anything about our customs? _A: No, not really. But I know lots of things are different in our countries._"
+      - "B: Do you celebrate Christmas in the US? _A: Yes, we do. We get presents at Christmas!_"
+      - "A: Do you get presents at Christmas? _B: No, but we get money at the New Year._"
+
