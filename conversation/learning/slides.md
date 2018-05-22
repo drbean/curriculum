@@ -40,3 +40,13 @@ Write your question here. Put one keyword in the subject line.
 YOU MUST WRITE YOUR QUESTION BEFORE you come with your partner to talk to Dr Bean.
 
 Your question must be a different question than everyone else's question.
+
+## 2-person jigsaw activity
+
+Wait until the examiner says, "Go". Then read the Vocabulary cards to each other.
+
+Talk about who is Won-gyu, Manny and Wanda in *English.*
+
+Talk about similarities and differences in their vocabulary learning methods in *English.*
+
+Wait until the examiner says, "Go". Then do the Vocabulary quiz *separately*.
