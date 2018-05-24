@@ -126,8 +126,18 @@ sea:
     - octopus squid starfish crab ocean salt net fisherman boat wait deep spider bones head arms legs swim scared waves throw ride fish jump in_the_dark
 flower:
   0:
-    bingo:
-      - tulip cactus vase roots petals cost/costs bloom sharp knife money fruit scissors happy_birthday rose flower_store smell_good boring taste sweet scary pick dead rabbit eat warm sun strange enough water yard move
+    flash: 
+      roots   : 根
+      petals  : 花瓣
+      tulips  : 鬱金香
+      cactus  : 仙人掌
+      cost    : 成本
+      bloom   : 盛開
+      sharp   : 尖銳
+      vase    : 花瓶
+  bingo:
+    - tulip cactus vase roots petals cost/costs bloom sharp knife money fruit scissors happy_birthday rose
+    - flower_store smell_good boring taste sweet scary pick dead rabbit eat warm sun strange enough water yard move
   1:
     bingo:
       - Beautiful _flowers_ are nice to look at.
