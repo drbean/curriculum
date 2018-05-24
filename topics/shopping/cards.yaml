@@ -131,3 +131,10 @@ sale:
       - Where did you get these sunglasses? _Actually, I got them for 15 dollars at Super Glasses._
       - There is a Super Glasses store in this mall, isn't there?  _Yes, but let me show you the sunglasses we have on sale._
       - Let me show you the sunglasses we have on sale. _No, thanks. I think I'll just go to Super Glasses!_
+shopping:
+  bingo:
+    -
+      - "A: Can I help you find something? _B: No, thank you. I’m just looking._"
+      - "B: Can I try on this skirt? _A: Yes. The fitting room is at the back of the store._"
+      - "B: How much is this? _A: It’s on sale today for 2 dollars 50._"
+      - "B: How does this look on me. _A: It's very nice._"
