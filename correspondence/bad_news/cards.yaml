@@ -489,7 +489,7 @@ tone:
             -
               error: ^(?!.*a discount\?.*)
               feedback: Use the words, "a discount?"
-        - question: The quality of what we received is very low. (Use "quite different", "was shown", "us")
+        - question: The quality of what we received is very low. (Use "The quality of", "quite different", "the auality of", "was shown", "us")
           answer:  
             - The quality of what we received is quite different to the quality of what was shown to us.
             - The quality of what we received is quite different (to|than) the quality of what was shown to us.
@@ -551,7 +551,7 @@ tone:
               feedback: Use the words, "from proceeding\."
         - question: You have made a mistake on the invoice.
           answer:  
-            - A mistake has been made on the invoice.
+            - A mistake has been made on the invoice. (Rewrite as the passive)
           incorrect:
             -
               error: ^(?!.*mistake.*)
