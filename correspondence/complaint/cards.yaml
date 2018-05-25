@@ -833,6 +833,98 @@ letter:
     
 pen:
   jigsaw:
+    reply:
+      identifier: pen complaint reply
+      quiz:
+        - question: acknowledgement of contact (Use "September 27, 2016", "Parker pen order, No. 3544")
+          answer: 
+            - Thank you for your email of September 27, 2016 concerning your Parker pen order, No. 3544.
+            - Thank you for your email (of|dated) September 27, 2016 (about|concerning) (the|your)? Parker pen order, No. 3544\.
+          incorrect:
+            -
+              error: ^(?!.*Thank you.*)
+              feedback: Use the words, "Thank you"
+            -
+              error: ^(?!.*for your email.*)
+              feedback: Use the words, "for your email"
+            -
+              error: ^(?!.*of.*)
+              feedback: Use the words, "of"
+            -
+              error: ^(?!.*September 27, 2016 .*)
+              feedback: Use the words, "September 27, 2016 "
+            -
+              error: ^(?!.*concerning.*)
+              feedback: Use the words, "concerning"
+            -
+              error: ^(?!.*Parker pen order, No. 3544.*)
+              feedback: Use the words, "Parker pen order, No. 3544"
+        - question: appreciation of complaint action (Use "appreciate", "bringing", "matter", "attention")
+          answer: 
+            - We appreciate you bringing this matter to our attention.
+          incorrect:
+            -
+              error: ^(?!.*We appreciate.*)
+              feedback: Use the words, "We appreciate"
+            -
+              error: ^(?!.*you bringing.*)
+              feedback: Use the words, "you bringing"
+            -
+              error: ^(?!.*this matter.*)
+              feedback: Use the words, "this matter"
+            -
+              error: ^(?!.*to our attention.*)
+              feedback: Use the words, "to our attention"
+        - question: explanation of cause of problem (Use one sentence. Use "problem", "traced", "fault", "one", "machines", "now" "fixed")
+          answer:  
+            - The problem was traced to a fault in one of our machines, which has now been fixed.
+            - The problem (was|has been) traced to a fault in one of our machines, which has now been fixed.
+          incorrect:
+            -
+              error: ^(?!.*The problem.*)
+              feedback: Use the words, "The problem"
+            -
+              error: ^(?!.*was traced.*)
+              feedback: Use the words, "was traced"
+            -
+              error: ^(?!.*to a fault.*)
+              feedback: Use the words, "to a fault"
+            -
+              error: ^(?!.*in one of.*)
+              feedback: Use the words, "in one of"
+            -
+              error: ^(?!.*our machines,.*)
+              feedback: Use the words, "our machines,"
+            -
+              error: ^(?!.*which has.*)
+              feedback: Use the words, "which has"
+            -
+              error: ^(?!.*now been fixed.*)
+              feedback: Use the words, "now been fixed"
+        - question: report of efforts to prevent problems in future (Use "We", "now", "going" "check", "each machine", "every four months", "six months", "as before")
+          answer:   
+            - We are now going to check each machine every four months instead of six as before.
+            - We are now going to check each machine every four months instead of (six|six months),? as before.
+          incorrect:
+            -
+              error: ^(?!.*We are now.*)
+              feedback: Use the words, "We are now"
+            -
+              error: ^(?!.*going to check.*)
+              feedback: Use the words, "going to check"
+            -
+              error: ^(?!.*each machine.*)
+              feedback: Use the words, "each machine"
+            -
+              error: ^(?!.*every four months.*)
+              feedback: Use the words, "every four months"
+            -
+              error: ^(?!.*every six.*)
+              feedback: Use the words, "every six"
+            -
+              error: ^(?!.*as before.*)
+              feedback: Use the words, "as before"
+            
     0:
       identifier: pen
       quiz:
