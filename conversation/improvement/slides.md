@@ -1,7 +1,28 @@
-
 % Conversation--Improvement!
 % Dr Bean (高來圭)
 % Wed May 16 09:39:57 CST 2018 [github](https://github.com/drbean/curriculum/tree/master/conversation)
+
+# Have/get something done
+
+## Have/get someone (to) do something
+
+"Get" originally means "receive", the opposite of "give".
+
+But here it means "make someone do something for me/you".
+
+- ["Get=make" at http://verbs.colorado.edu](http://verbs.colorado.edu/verb-index/vn3.3/vn/render-29.90.php#render-29.90-2)
+
+
+"Have" means "possess/own", but here it also means "make someone do something for me/you".
+
+- ["Get" at http://verbs.colorado.edu](http://verbs.colorado.edu/html_groupings/get-v.html)
+- ["Have" at http://verbs.colorado.edu](http://verbs.colorado.edu/html_groupings/have-v.html)
+
+## Have/get something done
+
+Passive form of the second verb.
+
+The "someone" who is doing something for you isn't important. It's what they did for you which is important.
 
 
 # Recording Homework
