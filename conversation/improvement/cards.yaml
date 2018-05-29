@@ -3,7 +3,7 @@
 service:
   jigsaw:
     0:
-      identifier: service: get/have done
+      identifier: "service: get/have done"
       quiz:
         - question: Luis didn't mow the lawn. He ... (have)
           answer:
@@ -12,9 +12,9 @@ service:
             -
               error: ^(?!.*had.*)
               feedback: Use the words, "had"
-          -
-            error: ^(?!.*mowed.*)
-            feedback: Use the words, "mowed"
+            -
+              error: ^(?!.*mowed.*)
+              feedback: Use the words, "mowed"
         - question: Samantha isn't cutting her own hair. She ... (get)
           answer: 
             - She is getting it cut.
@@ -45,10 +45,10 @@ service:
             -
               error: ^(?!.*They got.*)
               feedback: Use the words, "They got"
-          -
-            error: ^(?!.*it painted.*)
-            feedback: Use the words, "it painted"
-          - question: Doug isn't repairing his bike. He ... (have)
+            -
+              error: ^(?!.*it painted.*)
+              feedback: Use the words, "it painted"
+        - question: Doug isn't repairing his bike. He ... (have)
           answer: 
             - He is getting it repaired.
             - He('s| is) having it repaired\.
@@ -102,23 +102,23 @@ service:
             -
               error: ^(?!.*painted.*)
               feedback: Use the words, "painted"
-      - question: Simon (use "car", "repair")
-        answer: 
-          - Simon is getting his car repaired.
-          - Simon('s| is) (gett|hav)ing his car repaired\.
-        incorrect:
-          -
-            error: ^(?!.*Simon is.*)
-            feedback: Use the words, "Simon is"
-          -
-            error: ^(?!.*getting.*)
-            feedback: Use the words, "getting"
-          -
-            error: ^(?!.*his car.*)
-            feedback: Use the words, "his car"
-          -
-            error: ^(?!.*repaired.*)
-            feedback: Use the words, "repaired"
+        - question: Simon (use "car", "repair")
+          answer: 
+            - Simon is getting his car repaired.
+            - Simon('s| is) (gett|hav)ing his car repaired\.
+          incorrect:
+            -
+              error: ^(?!.*Simon is.*)
+              feedback: Use the words, "Simon is"
+            -
+              error: ^(?!.*getting.*)
+              feedback: Use the words, "getting"
+            -
+              error: ^(?!.*his car.*)
+              feedback: Use the words, "his car"
+            -
+              error: ^(?!.*repaired.*)
+              feedback: Use the words, "repaired"
 verb:
   match:
     0:
@@ -160,9 +160,9 @@ advice:
           answer: What about participating in more social activities?
         - question: What could help me be more happier?
           option:
-            - Maybe you try not to get annoyed about little things.
-            - One option you try not to get annoyed about little things.
-          answer: Maybe you try not to get annoyed about little things.
+            - Maybe you could try not to get annoyed about little things.
+            - One option you could try not to get annoyed about little things.
+          answer: Maybe you could try not to get annoyed about little things.
         - question: How can I get better grades?
           option:
             - Have you thought about to join a study group?
@@ -183,21 +183,21 @@ self:
     shyness:
       identifier: shyness
       quiz:
-        - question: 1st man suggests:
+        - question: "1st man suggests:"
           option:
             - reading a self-help book
             - joining a club
             - seeing a therapist
             - taking medication
           answer: seeing a therapist
-        - question: woman suggests:
+        - question: "woman suggests:"
           option:
             - reading a self-help book
             - joining a club
             - seeing a therapist
             - taking medication
           answer: reading a self-help book
-        - question: 2nd man suggests:
+        - question: "2nd man suggests:"
           option:
             - reading a self-help book
             - joining a club
@@ -207,21 +207,21 @@ self:
     fingernail:
       identifier: fingernail biting
       quiz:
-        - question: 1st man suggests:
+        - question: "1st man suggests:"
           option:
             - counting instead
             - wearing gloves
             - painting your nails
             - figuring out why you're nervous
           answer: figuring out why you're nervous
-        - question: woman suggests:
+        - question: "woman suggests:"
           option:
             - counting instead
             - wearing gloves
             - painting your nails
             - figuring out why you're nervous
           answer: painting your nails
-        - question: 2nd man suggests:
+        - question: '2nd man suggests:'
           option:
             - counting instead
             - wearing gloves
@@ -231,21 +231,21 @@ self:
     time:
       identifier: time management
       quiz:
-        - question: 1st man suggests:
+        - question: "1st man suggests:"
           option:
             - programming your phone
             - making a list of priorities
             - cancelling appointments
             - talking to a consultant
           answer: making a list of priorities
-        - question: woman suggests:
+        - question: "woman suggests:"
           option:
             - programming your phone
             - making a list of priorities
             - cancelling appointments
             - talking to a consultant
           answer: programming your phone
-        - question: 2nd man suggests:
+        - question: "2nd man suggests:"
           option:
             - programming your phone
             - making a list of priorities
@@ -255,21 +255,21 @@ self:
     out:
       identifier: non-suggestion
       quiz:
-        - question: No-one suggested this for shyness:
+        - question: "No-one suggested this for shyness:"
           option:
             - reading a self-help book
             - joining a club
             - seeing a therapist
             - taking medication
           answer: taking medication
-        - question: No-one suggested this for fingernail biting:
+        - question: "No-one suggested this for fingernail biting:"
           option:
             - counting instead
             - wearing gloves
             - painting your nails
             - figuring out why you're nervous
           answer: wearing gloves
-        - question: No-one suggested this for time management:
+        - question: "No-one suggested this for time management:"
           option:
             - programming your phone
             - making a list of priorities
