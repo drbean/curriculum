@@ -116,9 +116,13 @@ game:
 
 sleep:
   bingo:
+    -
+      - nightmare  _a bad dream_
+      - real       _not just something you think, but something you can see and touch_
+      - believe    _to think something is real, or true_
+      - silly      _childish and bad, but funny_
     - flashlight witch count ghost nightmare real believe silly
-
-  0:
+  1:
     flash:
       flashlight : 手電筒
       witch      : 巫婆
