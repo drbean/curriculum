@@ -138,3 +138,8 @@ shopping:
       - "B: Can I try on this skirt? _A: Yes. The fitting room is at the back of the store._"
       - "B: How much is this? _A: It’s on sale today for 2 dollars 50._"
       - "B: How does this look on me. _A: It's very nice._"
+    -
+      - "A: I need to return these jeans. _B: Can I see your receipt?_"
+      - "A: Here it is. _B: Thank you._"
+      - "B: Would you like to buy these pants? _A: They are very expensive._"
+      - "B: No, they're on sale. 25 percent off. _A: OK. I'll take them._"

@@ -144,6 +144,22 @@
     B: Yes. The fitting room is at the back of the store.
     A: How much is this?
     B: It’s on sale today for 2 dollars 50.
+-
+  - shopping-1
+  - shopping-1
+  - "topics"
+  - "all"
+  - |+
+    A: I need to return these jeans.
+    B: Can I see your receipt?
+    A: Here it is. I bought these yesterday.
+    B: Thank you.
+
+
+    B: Would you like to buy these pants?
+    A: They are very expensive.
+    B: No, they're on sale. 25 percent off.
+    A: OK. I'll take them.
 
 ---
 -
