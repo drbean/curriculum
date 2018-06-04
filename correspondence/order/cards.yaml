@@ -6,6 +6,9 @@ order:
       identifier: structure
       pair:
         -
+          - subject line
+          - order (reference) number
+        -
           - 1st paragraph
           - previous contact, or other connection
         -
@@ -18,10 +21,64 @@ order:
           - closing paragraph
           - appreciation of expected result
 security:
+  jigsaw:
+    0:
+      identifier: security comprehension
+      quiz:
+        - question: "The order probably follows after a/an:"
+          option:
+            - no previous contact
+            - introduction/promotion
+            - inquiry
+            - reply to an inquiry
+            - goodwill email
+            - good news email
+            - bad news email
+            - complaint
+          answer: reply to an inquiry
+        - question: "The order is for items to protect:"
+          option:
+            - the client
+            - a house
+            - a car
+            - a pet
+          answer: a house
+        - question: "The final cost to the purchaser will be:"
+          option:
+            - 5987.70 US dollars
+            - 90 percent of $5987.70
+          answer: 5987.70 US dollars
+        - question: "The cost of shipping will be paid by:"
+          option:
+            - The seller
+            - The buyer
+            - Not clear who will pay. May be determined by payment details
+          answer: Not clear who will pay. May be determined by payment details
+        - question: "The purchaser wants the items to:"
+          option:
+            - use them
+            - sell them
+            - buy them
+          answer: sell them
+        - question: "Payment will be made:"
+          option:
+            - before the items are delivered
+            - when the items are delivered
+            - after the items are delivered
+          answer: when the items are delivered
+        - question: "The deadline is:"
+          option:
+            - the start of September
+            - the middle of September
+            - the end of September
+          answer: the middle of September
   match:
     0:
       identifier: security
       pair:
+        -
+          - "Subject: An order for CHV-750 .."
+          - reference number
         -
           - Thank you for ..
           - previous contact
@@ -61,6 +118,27 @@ security:
         -
           - Thank you __ for your cooperation
           - in advance
+acknowledge:
+  match:
+    0:
+      identifier: acknowledge structure
+      pair:
+        -
+          - subject line
+          - "the same as that of the order, prefaced by Re:, etc"
+        -
+          - acknowledgment
+          - confirms the order has been received
+        -
+          - status of the order
+          - informs purchaser of progress getting the item to him/her
+        -
+          - arrival date
+          - informs purchaser when he/she can expect delivery
+        -
+          - polite close
+          - forward looking, appreciative expression without much meaning
+        
         
 textbook:
   scramble:
@@ -71,21 +149,224 @@ textbook:
         - We are delighted that you will be teaching Business Correspondence with this textbook, next semester.
         - The books are in stock and will be delivered next week.
         - Thank you again, and feel free to email me if you have any questions.
+  jigsaw:
+    0:
+      identifier: textbook order acknowledgment
+      quiz:
+        - question: Order acknowledgment ( Use "Thank you", "your order of 52 copies", "Writing for Business Practices", "May 21." )
+          answer: 
+            - Thank you for your order of 52 copies of Writing for Business Practices, dated May 21.
+            - Thank you for your order (of|for) 52 copies of Writing for Business Practices, (dated|of) May 21\.
+          incorrect:
+            -
+              error: ^(?!.*Thank you for.*)
+              feedback: Use the words, "Thank you for"
+            -
+              error: ^(?!.*your order of 52 copies of.*)
+              feedback: Use the words, "your order of 52 copies of"
+            -
+              error: ^(?!.*Writing for Business Practices,.*)
+              feedback: Use the words, "Writing for Business Practices,"
+            -
+              error: ^(?!.*(dated|of).*)
+              feedback: Use the words, "dated" or "of"
+            -
+              error: ^(?!.*May 21.*)
+              feedback: Use the words, "May 21"
+        - question: Expression of appreciation for order ( Use "delighted", or "pleased", "teach" (in future continuous tense), "Business Correspondence", a preposition, "this textbook", comma, "next semester")
+          answer:  
+            - We are delighted that you will be teaching Business Correspondence with this textbook, next semester.
+            - We are (delighted|pleased) (that )?you will be teaching Business Correspondence (with|using) this textbook, next semester\.
+          incorrect:
+            -
+              error: ^(?!.*We are delighted.*)
+              feedback: Use the words, "We are delighted"
+            -
+              error: ^(?!.*that you will be teaching.*)
+              feedback: Use the words, "that you will be teaching"
+            -
+              error: ^(?!.*Business Correspondence.*)
+              feedback: Use the words, "Business Correspondence"
+            -
+              error: ^(?!.*with this textbook,.*)
+              feedback: Use the words, "with this textbook,"
+            -
+              error: ^(?!.*next semester..*)
+              feedback: Use the words, "next semester."
+    1:
+      identifier: textbook order acknowledgment
+      quiz:
+        - question: order status (Use "The books", "in stock", "and", "deliver" (future tense, passive), "next week")
+          answer: 
+            - The books are in stock and will be delivered next week.
+          incorrect:
+            -
+              error: ^(?!.*The books.*)
+              feedback: Use the words, "The books"
+            -
+              error: ^(?!.*are.*)
+              feedback: Use the words, "are"
+            -
+              error: ^(?!.*in stock.*)
+              feedback: Use the words, "in stock"
+            -
+              error: ^(?!.*and.*)
+              feedback: Use the words, "and"
+            -
+              error: ^(?!.*will be delivered.*)
+              feedback: Use the words, "will be delivered"
+            -
+              error: ^(?!.*next week..*)
+              feedback: Use the words, "next week."
+        - question: polite close (Use "again,", "and", "feel free", "email me", "any questions")
+          answer:  
+           - Thank you again, and feel free to email me if you have any questions.
+          incorrect:
+            -
+              error: ^(?!.*Thank you.*)
+              feedback: Use the words, "Thank you"
+            -
+              error: ^(?!.*again,.*)
+              feedback: Use the words, "again,"
+            -
+              error: ^(?!.*and.*)
+              feedback: Use the words, "and"
+            -
+              error: ^(?!.*feel free.*)
+              feedback: Use the words, "feel free"
+            -
+              error: ^(?!.*to.*)
+              feedback: Use the words, "to"
+            -
+              error: ^(?!.*email me.*)
+              feedback: Use the words, "email me"
+            -
+              error: ^(?!.*if.*)
+              feedback: Use the words, "if"
+            -
+              error: ^(?!.*you have.*)
+              feedback: Use the words, "you have"
+            -
+              error: ^(?!.*any questions..*)
+              feedback: Use the words, "any questions."
+    11:
+      identifier: textbook order cancellation
+      quiz:
+        - question: Reference to order (use information in the textbook order acknowledge exercises and follow example on p114)
+          answer: 
+            - On May 21, I ordered 52 copies of Writing for Business Practices from you (order number as above).
+            - On 21 May, I ordered 52 copies of Writing for Business Practices from you (order number as above)\.
+            - On May 21, I ordered 52 copies of Writing for Business Practices from you\.
+            - On 21 May, I ordered 52 copies of Writing for Business Practices from you\.
+          incorrect:
+            -
+              error: ^(?!.*On May 21,.*)
+              feedback: Use the words, "On May 21,"
+            -
+              error: ^(?!.*I ordered.*)
+              feedback: Use the words, "I ordered"
+            -
+              error: ^(?!.*52 copies of.*)
+              feedback: Use the words, "52 copies of"
+            -
+              error: ^(?!.*Writing for Business Practices.*)
+              feedback: Use the words, "Writing for Business Practices"
+            -
+              error: ^(?!.*from you\..*)
+              feedback: Use the words, "from you."
+        - question: Cancellation of order (Use "Unfortunately," and then the cancellation reason, "the choice by other teachers of a different book,". Follow examples on p114,115)
+          answer: 
+            - Unfortunately, owing to the fact that other teachers have chosen a different book, I am forced to cancel this order.
+            - Unfortunately, (due to|because of|owing to) the choice by other teachers of a different book, (we are|I am) forced to cancel this order\.
+            - Unfortunately, (due to|because of|owing to) the choice by other teachers of a different book, it is with great regret (that )?I must cancel this order\.
+          incorrect:
+            -
+              error: ^(?!.*Unfortunately.*)
+              feedback: Use the words, "Unfortunately"
+            -
+              error: ^(?!.*owing to.*)
+              feedback: Use the words, "owing to"
+            -
+              error: ^(?!.*the choice by other teachers.*)
+              feedback: Use the words, "the choice by other teachers"
+            -
+              error: ^(?!.*of a different book.*)
+              feedback: Use the words, "of a different book"
+            -
+              error: ^(?!.*I am forced to.*)
+              feedback: Use the words, "I am forced to"
+            -
+              error: ^(?!.*cancel this order.*)
+              feedback: Use the words, "cancel this order"
+        - question: Ask for confirmation (Use the structures on p114, 115 and "Can you/Could you", "notify", "when", "get/receive", "message/letter/email?". Or "confirm", "have received")
+          answer:
+            - Can you notify me when you receive this email?
+            - (Can|Could) you (please )?notify me when you (get|receive) this (message|letter|email)\?
+            - (Can|Could) you (please )?confirm (that )?you have received this (message|letter|email)\?
+          incorrect:
+            -
+              error: ^(?!.*Could you.*)
+              feedback: Use the words, "Could you"
+            -
+              error: ^(?!.*(confirm|notify).*)
+              feedback: Use the words, "confirm" or "notify"
+            -
+              error: ^(?!.*(when|that).*)
+              feedback: Use the words, "when" or "that"
+            -
+              error: ^(?!.*(get|have received).*)
+              feedback: Use the words, "get" or "have received"
+            -
+              error: ^(?!.*this message\..*)
+              feedback: Use the words, "this message."
+        - question: Apologize (Use the words, "any inconvenience", "may cause")
+          answer: 
+            - I apologize for any inconvenience this may cause.
+            - I apologize for any inconvenience this may cause (you|your company).
+          incorrect:
+            -
+              error: ^(?!.*I apologize.*)
+              feedback: Use the words, "I apologize"
+            -
+              error: ^(?!.*for any inconvenience.*)
+              feedback: Use the words, "for any inconvenience"
+            -
+              error: ^(?!.*this may cause.*)
+              feedback: Use the words, "this may cause"
+        - question: forward-looking close (Express hope for continuation of business relationship. See p 114,115, and the "cotton cancel scramble" exercise)
+          answer: 
+            - I hope that we can do business in the future.
+            - I hope (to have the chance to do business|(that )?we will be able to place this or another order) (with (you|your company) )?in the future.
+          incorrect:
+            -
+              error: ^(?!.*I hope.*)
+              feedback: Use the words, "I hope"
+            -
+              error: ^(?!.*(to have the chance to do business|that we will be able to place this or another order).*)
+              feedback: Use the words, "to have the chance to do business" or "that we will be able to place this or another order"
+            -
+              error: ^(?!.*with your company.*)
+              feedback: Use the words, "with your company"
+            -
+              error: ^(?!.*in the future\..*)
+              feedback: Use the words, "in the future."
+            
+              
   match:
     0:
       identifier: structure
       pair:
         -
-          - Thank you again, 
+          - Thank you again, ..
           - Polite close
         -
-          - Thank you for you  
+          - Thank you for your ..
           - Acknowledging the order
         -
-          - The books are in 
+          - The books are in ..
           - Status of order
         -
-          - We are delighted 
+          - We are delighted ..
           - Appreciation of action related to order
 pen:
   scramble:
@@ -100,9 +381,124 @@ pen:
         - If the SP-Y pen is satisfactory for you, we can ship it in one day.
         - I look forward to your reply.
         - Sorry for the inconvenience.
-sweater:
-  jigsaw:
+  match:
     0:
+      identifier: pen structure
+      pair:
+        -
+          - We have rece ..
+          - acknowledgment of order
+        -
+          - I am afraid  ..
+          - status of order
+        -
+          - And Pentel i ..
+          - status of order
+        -
+          - May I sugges ..
+          - alternative
+        -
+          - This other pen is .......................................
+          - alternative
+        -
+          - If the SP-Y .............................we can ship...............
+          - arrival date
+        -
+          - I look forwa ..
+          - polite close
+        -
+          - Sorry for th ..
+          - polite close
+        
+        
+  drag:
+    0:
+      identifier: pen acknowledgment of failure
+      sentences:
+        -
+          sentence: We have received your order, H164203 for 100 Pentel SP-X ballpoint pens.
+          clozed: We|have|received|your|H164203|for|100|Pentel|SP-X|ballpoint|End
+        -
+          sentence: I am afraid that we are out of stock of this pen.
+          clozed: I|am|afraid|that|we|are|out|of|stock|of|this|End
+    1:
+      identifier: pen acknowledgment of failure
+      sentences:
+        -
+          sentence: And Pentel is no longer producing the SP-X model.
+          clozed: And|Pentel|is|no|longer|producing|the|SP-X|End
+        -
+          sentence: May I suggest the newer Pentel SP-Y pen?
+          clozed: May|I|suggest|the|newer|Pentel|SP-Y|End
+    2:
+      identifier: pen acknowledgment of failure
+      sentences:
+        -
+          sentence: This pen is quite popular, and we have it in stock.
+          clozed: This|pen|is|quite|and|we|have|it|in|End
+        -
+          sentence: If the SP-Y pen is satisfactory for you, we can ship it in one day.
+          clozed: If|the|SP-Y|pen|is|we|can|ship|it|in|one|End
+    3:
+      identifier: pen acknowledgment of failure
+      sentences:
+        -
+          sentence: I look forward to your reply.
+          clozed: I|look|forward|to|your|reply|End
+        -
+          sentence: Sorry for the inconvenience.
+          clozed: Sorry|for|the|inconvenience|End
+        
+        
+        
+        
+sweater:
+  match:
+    0:
+      identifier: correction sweater
+      pair:
+        -
+          - I am the owner of Super Sweaters and now have eight branches around Taiwan (and hopefully more in the near future). 
+          - OK
+        -
+          - Recently, the friend of mine, and one of your customers, Mr. Wang, ..
+          - NOK
+        -
+          - "After being impressed on your products, I was interested in making the followed order:"
+          - NOK
+        -
+          - The catalogue price was US$4/sweater and, according to your catalogue, an order this size to Taiwan would cost US$50. 
+          - OK
+        -
+          - Therefore, I want the total cost to be US$146. 
+          - NOK
+        -
+          - Please let me know if I have forgotten anything. 
+          - OK
+        -
+          - I also believe the usual payment terms were 30 days after receipt of order. 
+          - OK
+        -
+          - I would like to be given this terms also, if possible. Ideally, I would like delivery on 10 October 2016.
+          - NOK
+        -
+          - Ideally, I would like delivery on 10 October 2016.
+          - NOK
+        -
+          - "My shipped address is:"
+          - NOK
+        -
+          - Could you also please send me a copy of your newest catalogue and an order form, as I am certainly interest in making a larger order in the future?
+          - NOK
+        -
+          - Please also feel free to e-mail me should you have any question or when the order has been shipped.
+          - OK
+        
+        
+        
+        
+  jigsaw:
+    old:
       identifier: sweater
       quiz:
         - question: the friend of mine and one of your customers
@@ -121,40 +517,271 @@ sweater:
           answer: shipped/shipping
         - question: I am certainly interest in making
           answer: interest/interested
+    0:
+      identifier: sweater correction
+      quiz:
+        - question: the friend of mine and one of your customers
+          answer: 
+            - a friend of mine and one of your customers
+          incorrect:
+            -
+              error: ^(?!.*a.*)
+              feedback: Use the words, "a"
+        - question: impressed on your products
+          answer: 
+            - impressed by your products
+          incorrect:
+            -
+              error: ^(?!.*by.*)
+              feedback: Use the words, "by"
     1:
-      identifier: sweater 1
+      identifier: sweater correction
+      quiz:
+        - question: making the followed order
+          answer: 
+            - making the following order
+          incorrect:
+            -
+              error: ^(?!.*following.*)
+              feedback: Use the words, "following"
+        - question: I want the total cost to be US$146
+          answer: 
+            - I believe the total cost to be US$146
+          incorrect:
+            -
+              error: ^(?!.*believe.*)
+              feedback: Use the words, "believe"
+    2:
+      identifier: sweater correction
+      quiz:
+        - question: like to be given this terms also
+          answer: 
+            - like to be given these terms also
+          incorrect:
+            -
+              error: ^(?!.*these.*)
+              feedback: Use the words, "these"
+        - question: like delivery on 10 October 2016
+          answer: 
+            - like delivery by 10 October 2016
+          incorrect:
+            -
+              error: ^(?!.*by.*)
+              feedback: Use the words, "by"
+    3:
+      identifier: sweater correction
+      quiz:
+        - question: my shipped address is
+          answer: 
+            - my shipping address is
+          incorrect:
+            -
+              error: ^(?!.*shipping.*)
+              feedback: Use the words, "shipping"
+        - question: I am certainly interest in making
+          answer: 
+            - I am certainly interested in making
+          incorrect:
+            -
+              error: ^(?!.*interested.*)
+              feedback: Use the words, "interested"
+            
+    11:
+      identifier: sweater acknowledgment
       quiz:
         - question: email ___ 11 September
-          answer: dated
+          answer:
+            - dated
+            - of
+          incorrect:
+            -
+              error: ^(?!.*(dated|of).*)
+              feedback: Use the words, "dated" or "of"
         - question: ___ order numbers ...
-          answer: with
+          answer:
+            - with
+            - for
+          incorrect:
+            -
+              error: ^(?!.*(with|for).*)
+              feedback: Use the words, "with" or "for"
+            
+    12:
+      identifier: sweater acknowledgment
+      quiz:
         - question: is always ___ from new customers
-          answer: happy to hear from
+          answer:
+            - happy to hear
+            - pleased to hear
+          incorrect:
+            -
+              error: ^(?!.*(happy|pleased).*)
+              feedback: Use the words, "happy" or "pleased"
+            -
+              error: ^(?!.*to hear from.*)
+              feedback: Use the words, "to hear"
+            
         - question: We are pleased ___ you ..
-          answer: to inform
+          answer:
+            - to inform
+            - to tell
+          incorrect:
+            -
+              error: ^(?!.*to.*)
+              feedback: Use the words, "to"
+            -
+              error: ^(?!.*(inform|tell).*)
+              feedback: Use the words, "inform" or "tell"
+            
+    13:
+      identifier: sweater acknowledgment
+      quiz:
         - question: terms you asked about are ____
-          answer: acceptable
+          answer:
+            - acceptable
+            - OK
+            - correct
+            - right
+          incorrect:
+            -
+              error: ^(?!.*(right|correct|acceptable|OK).*)
+              feedback: Use the words, "right" or "correct" or "acceptable" or "OK"
+            
         - question: SX128/F is being ___ and should be with you
-          answer: processed
+          answer:
+            - processed
+          incorrect:
+            -
+              error: ^(?!.*processed.*)
+              feedback: Use the words, "processed"
+            
+    14:
+      identifier: sweater acknowledgment
+      quiz:
         - question: ___ should be made 
-          answer: payment
+          answer:
+            - payment
+          incorrect:
+            -
+              error: ^(?!.*payment.*)
+              feedback: Use the words, "payment"
+            
         - question: from an ___ bank
-          answer: American
+          answer:
+            - American
+          incorrect:
+            -
+              error: ^(?!.*American.*)
+              feedback: Use the words, "American"
+            
+    15:
+      identifier: sweater acknowledgment
+      quiz:
         - question: by ___ the money
-          answer: transferring
+          answer:
+            - transferring
+            - wiring
+          incorrect:
+            -
+              error: ^(?!.*(transferring|wiring).*)
+              feedback: Use the words, "transferring" or "wiring"
+            
+        - question: on the ___ you will receive.
+          answer: 
+            - invoice
+          incorrect:
+            -
+              error: ^(?!.*invoice.*)
+              feedback: Use the words, "invoice"
+
+    16:
+      identifier: sweater acknowledgment
+      quiz:
         - question: regretfully ___ at the moment
-          answer: out of stock
+          answer:
+            - out of stock
+          incorrect:
+            -
+              error: ^(?!.*out of stock.*)
+              feedback: Use the words, "out of stock"
+            
         - question: another ___ from our factory
-          answer: batch
+          answer:
+            - batch
+            - lot
+          incorrect:
+            -
+              error: ^(?!.*(batch|lot).*)
+              feedback: Use the words, "batch" or "lot"
+            
+    16:
+      identifier: sweater acknowledgment
+      quiz:
         - question: a ___ delivered to you
-          answer: shipment
+          answer:
+            - shipment
+          incorrect:
+            -
+              error: ^(?!.*shipment.*)
+              feedback: Use the words, "shipment"
+            
         - question: ___ that this is acceptable.
-          answer: We hope
+          answer:
+            - We hope
+          incorrect:
+            -
+              error: ^(?!.*We hope.*)
+              feedback: Use the words, "We hope"
+            
+    17:
+      identifier: sweater acknowledgment
+      quiz:
         - question: payment period ___ from this date
-          answer: start
+          answer:
+            - start
+            - commence
+            - begin
+          incorrect:
+            -
+              error: ^(?!.*(begin|commence|start).*)
+              feedback: Use the words, "begin" or "commence" or "start"
+            
         - question: we look forward to ___
-          answer: hearing from you
+          answer:
+            - hearing from you
+          incorrect:
+            -
+              error: ^(?!.*(hearing from you).*)
+              feedback: Use the words, "(hearing from you)"
+            
 cancel:
+  match:
+    0:
+      identifier: cancel structure match
+      pair:
+        -
+          - subject line
+          - reference to initial order
+        -
+          - 1st paragraph
+          - reference to initial order
+        -
+          - 1st/2nd paragraph
+          - cancellation/change of order
+        -
+          - 2nd paragraph
+          - reason for cancellation/change
+        -
+          - 2nd/3rd paragraph
+          - request for confirmation
+        -
+          - 3rd paragraph
+          - apology
+        -
+          - 3rd paragraph
+          - forward-looking close
+        
+        
   scramble:
     0:
       identifier: cancel cotton
@@ -164,6 +791,37 @@ cancel:
         - I have no choice but to cancel this order.
         - I am attaching a copy of this report for you to see.
         - Can I ask you to confirm you have received this message?
+        
+  drag:
+    0:
+      identifier: cancel cotton scramble
+      sentences:
+        -
+          sentence: I am writing in connection with the above order.
+          clozed: I|am|writing|in|connection|with|the|above|order|End
+        -
+          sentence: Unfortunately, because of the recent report
+          clozed: Unfortunately|because|of|the|recent|report|End
+    1:
+      identifier: cancel cotton scramble
+      sentences:
+        -
+          sentence: I have no choice but to cancel this order.
+          clozed: I|have|no|choice|but|to|cancel|this|order|End
+        -
+          sentence: I am attaching a copy of this report for you to see.
+          clozed: I|am|attaching|a|copy|of|this|report|for|you|to|see|End
+    2:
+      identifier: cancel cotton scramble
+      sentences:
+        -
+          sentence: Can I ask you to confirm you have received this message?
+          clozed: Can|I|ask|you|to|confirm|you|have|received|this|message|End
+        -
+          sentence: I seek your understanding in this matter and hope we can do business in the future.
+          clozed: I|seek|your|understanding|in|this|matter|and|hope|we|can|do|business|in|the|future|End
+        
+        
   match:
     0:
       identifier: match cotton structure
