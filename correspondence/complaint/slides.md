@@ -23,6 +23,24 @@ Write only the Subject line and the 4 paragraphs.
 
 No need for letterhead, addresses, salutation, etc
 
+## pen
+
+Write the email to Tracy replying to her complaint on p107.
+
+Use the information in the 2 paragraphs at the bottom of the page.
+
+Follow the structure in the book on p104.
+
+          - appreciation of complaint action
+          - acceptance of responsibility
+          - reason for problem
+          - promise to make up for damage
+          - report of efforts to prevent problems in future
+          - forward-looking close
+
+Use the sentences you wrote in Week 13,14: pen complaint reply
+
+Consult b
 # Exam
 
 ## reply to a complaint
