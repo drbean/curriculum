@@ -51,6 +51,34 @@ Remember to add the extension, .mp3, .m4a, etc to the end of the file you upload
 
 Upload a file under your own name, if you want to be sure Dr Bean won't make a mistake with your grade.
 
+## Recording 8 of 12--Something you want to improve
+
+Record a conversation about something you want to improve, and how you want people to help you.
+
+Look at p 62. Do you want someone to help you overcome shyness, stop biting your nails, or organize your life?
+
+Or perhaps you want someone to help you learn some skill.
+
+Or perhaps you want to help solve some social problem, like the environment.
+
+Ask your partner questions.
+
+30 seconds. Each person must ask his/her questions and answer 2 questions from their partner.
+
+This is the 8th of 12 conversations. They are worth 40 percent of your grade.
+
+Identify yourself clearly. Say, "I'm John."
+
+## Uploading files
+
+If you can't find your partner, do it with someone else, and upload the file. And send a message to Dr Bean. And/or add a submission comment when you upload the file.
+
+Each person in your group can upload a file, if you can't find your partner and you do it with someone else.
+
+Remember to add the extension, .mp3, .m4a, etc to the end of the file you upload, so Dr Bean can listen to the file.
+
+Upload a file under your own name, if you want to be sure Dr Bean won't make a mistake with your grade.
+
 # Exam
 
 ## Intercultural question
