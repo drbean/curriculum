@@ -276,3 +276,269 @@ self:
             - cancelling appointments
             - talking to a consultant
           answer: cancelling appointments
+personal:
+  jigsaw:
+    0:
+      identifier: personal shyness 0
+      A: If you have trouble talking to people, you feel nervous and don't enjoy it, perhaps you should get some professional help. Someone who can help you change how you are with other people.
+      B: You can read about how to feel OK talking with other people, not feeling bad about saying things to them. If you go to the library and read some things, this may help you being with others.
+      quiz:
+        - question: The problem
+          option:
+            - shyness
+            - nail biting
+            - time management
+          answer: shyness
+        - question: A's solution
+          option:
+            - reading a self-help book
+            - joining a club
+            - seeing a therapist
+            - taking medication
+          answer: seeing a therapist
+        - question: B's solution
+          option:
+            - reading a self-help book
+            - joining a club
+            - seeing a therapist
+            - taking medication
+          answer: reading a self-help book
+        - question: A's answer is about getting other people to help you with your problem.
+          answer: True
+        - question: B's answer is more about thinking through some ideas, and less about getting people to help.
+          answer: True
+    1:
+      identifier: personal shyness 1
+      A: You can read about how to feel OK talking with other people, not feeling bad about saying things to them. If you go to the library and read some things, this may help you being with others.
+      B: If you have trouble talking to people, you feel nervous and don't enjoy it, you should join a group activity, like a theater group, where you have to work with other people.
+      quiz:
+        - question: The problem
+          option:
+            - shyness
+            - nail biting
+            - time management
+          answer: shyness
+        - question: A's solution
+          option:
+            - reading a self-help book
+            - joining a club
+            - seeing a therapist
+            - taking medication
+          answer: reading a self-help book
+        - question: B's solution
+          option:
+            - reading a self-help book
+            - joining a club
+            - seeing a therapist
+            - taking medication
+          answer: joining a club
+        - question: A's answer is about getting other people to help you with your problem.
+          answer: False
+        - question: B's answer is more about thinking through some ideas, and less about getting people to help.
+          answer: False
+    2:
+      identifier: personal shyness 2
+      A: If you have trouble talking to people, you feel nervous and don't enjoy it, you should join a group activity, like a theater group, where you have to work with other people.
+      B: If you feel nervous talking to people, and don't enjoy it, perhaps you should get some professional help. Someone like a psychologist can help you change how you are with other people.
+      quiz:
+        - question: The problem
+          option:
+            - shyness
+            - nail biting
+            - time management
+          answer: shyness
+        - question: A's solution
+          option:
+            - reading a self-help book
+            - joining a club
+            - seeing a therapist
+            - taking medication
+          answer: seeing a therapist
+        - question: B's solution
+          option:
+            - reading a self-help book
+            - joining a club
+            - seeing a therapist
+            - taking medication
+          answer: reading a self-help book
+        - question: A's answer is about getting other people to help you with your problem.
+          answer: True
+        - question: B's answer is more about doing things by yourself, and less about getting people to help.
+          answer: False
+    3:
+      identifier: personal nailbiting 3
+      A: Your problem is because you are nervous, so you have to find out what's making you nervous. When you understand why you are nervous, your problem will disappear.
+      B: You can solve your problem by spending money on them to look nice and bright. If they look nice, you won't want to damage them. You can see that you have tried to solve the problem.
+      quiz:
+        - question: The problem
+          option:
+            - shyness
+            - nail biting
+            - time management
+          answer: nail biting
+        - question: A's solution
+          option:
+            - replacing with a different activity
+            - wearing gloves
+            - painting your nails
+            - figuring out why you're nervous
+          answer: figuring out why you're nervous
+        - question: B's solution
+          option:
+            - replacing with a different activity
+            - wearing gloves
+            - painting your nails
+            - figuring out why you're nervous
+          answer: painting your nails
+        - question: A thinks the way to solve the problem is looking at the cause of the problem.
+          answer: True
+        - question: B thinks the way to solve the problem is by trying to look good.
+          answer: True
+    4:
+      identifier: personal nailbiting 4
+      A: You can solve your problem by spending money on polish to make them look nice and bright. If they look nice, you won't want to damage them. You can see that you are trying to solve the problem, when they look nice.
+      B: You need to find a different thing to do when you are feeling stress. A different activity which doesn't hurt the way you look after you've finished. You could try rubbing your hands together, or tapping your foot.
+      quiz:
+        - question: The problem
+          option:
+            - shyness
+            - nail biting
+            - time management
+          answer: nail biting
+        - question: A's solution
+          option:
+            - replacing with a different activity
+            - wearing gloves
+            - painting your nails
+            - figuring out why you're nervous
+          answer: painting your nails
+        - question: B's solution
+          option:
+            - replacing with a different activity
+            - wearing gloves
+            - painting your nails
+            - figuring out why you're nervous
+          answer: painting your nails
+        - question: A thinks the way to solve the problem is looking at the cause of the problem.
+          answer: False
+        - question: B thinks the way to solve the problem is to try doing the same thing again.
+          answer: False
+    5:
+      identifier: personal nailbiting 5
+      A: You need to find a different thing to do when you are feeling stress. A different activity which doesn't hurt the way you look after you've finished. You could try rubbing your hands together, or tapping your foot.
+      B: Your problem is because you are nervous, so you have to find out what's making you nervous. When you understand why you are nervous, your problem will disappear.
+      quiz:
+        - question: The problem
+          option:
+            - shyness
+            - nail biting
+            - time management
+          answer: nail biting
+        - question: A's solution
+          option:
+            - replacing with a different activity
+            - wearing gloves
+            - painting your nails
+            - figuring out why you're nervous
+          answer: figuring out why you're nervous
+        - question: B's solution
+          option:
+            - replacing with a different activity
+            - wearing gloves
+            - painting your nails
+            - figuring out why you're nervous
+          answer: painting your nails
+        - question: A thinks the way to solve the problem is looking at the cause of the problem.
+          answer: False
+        - question: B thinks the way to solve the problem is to try doing the same thing again.
+          answer: False
+    6:
+      identifier: time management 6
+      A: You could write down the things you need to do and then decide which are the most important. You then can decide which things to do today, or tomorrow.
+      B: You could use an app to tell you when you need to do something. The app sends you a message a minute or a day before, telling you you have to do it now.
+      quiz:
+        - question: The problem
+          option:
+            - shyness
+            - nail biting
+            - time management
+          answer: time management
+        - question: A's solution
+          option:
+            - programming your phone
+            - making a list of priorities
+            - cancelling appointments
+            - talking to a consultant
+          answer: making a list of priorities
+        - question: B's solution
+          option:
+            - programming your phone
+            - making a list of priorities
+            - cancelling appointments
+            - talking to a consultant
+          answer: programming your phone
+        - question: A thinks a good way to solve the problem is a low-cost way that you can do with pencil and paper.
+          answer: True
+        - question: B thinks you can rely on technology to help you remember what to do.
+          answer: True
+        
+    7:
+      identifier: time management 7
+      A: You could use an app to tell you when you need to do something. The app sends you a message a minute or a day before, telling you you have to do it now.
+      B: You could hire someone to manage your schedule for you. You tell them what you need to do. They tell you when you should do it. It's expensive to do this.
+      quiz:
+        - question: The problem
+          option:
+            - shyness
+            - nail biting
+            - time management
+          answer: time management
+        - question: A's solution
+          option:
+            - programming your phone
+            - making a list of priorities
+            - cancelling appointments
+            - talking to a consultant
+          answer: programming your phone
+        - question: B's solution
+          option:
+            - programming your phone
+            - making a list of priorities
+            - cancelling appointments
+            - talking to a consultant
+          answer: talking to a consultant
+        - question: A thinks a good way to solve the problem is to do it yourself and use pencil and paper.
+          answer: False
+        - question: B thinks you should rely on technology to help you remember what to do.
+          answer: False
+    7:
+      identifier: time management 6
+      A: You could hire someone to manage your schedule for you. You tell them what you need to do. They tell you when you should do it. It's expensive to do this.
+      B: You could write down the things you need to do and then decide which are the most important. You then can decide which things to do today.
+      quiz:
+        - question: The problem
+          option:
+            - shyness
+            - nail biting
+            - time management
+          answer: time management
+        - question: A's solution
+          option:
+            - programming your phone
+            - making a list of priorities
+            - cancelling appointments
+            - talking to a consultant
+          answer: talking to a consultant
+        - question: B's solution
+          option:
+            - programming your phone
+            - making a list of priorities
+            - cancelling appointments
+            - talking to a consultant
+          answer: making a list of priorities
+        - question: A thinks a good way to solve the problem is to rely on other people to help you.
+          answer: True
+        - question: B thinks you should rely on technology to help you remember what to do.
+          answer: False
+
+        
