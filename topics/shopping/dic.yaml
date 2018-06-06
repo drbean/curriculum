@@ -160,6 +160,19 @@
     A: They are very expensive.
     B: No, they're on sale. 25 percent off.
     A: OK. I'll take them.
+-
+  - shopping-2
+  - shopping-2
+  - "topics"
+  - "all"
+  - |+
+    A: Excuse me. How much does this ring cost?
+    B: It's kind of cheap. It's only twenty dollars.
+    A: It's for Mother's Day. Can she return it if she doesn't like it.
+    B: I'm afraid not.
+    A: OK.
+    B: Let me put that in a bag for you. \$20.
+
 
 ---
 -

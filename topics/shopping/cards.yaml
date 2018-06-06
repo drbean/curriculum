@@ -143,3 +143,9 @@ shopping:
       - "A: Here it is. _B: Thank you._"
       - "B: Would you like to buy these pants? _A: They are very expensive._"
       - "B: No, they're on sale. 25 percent off. _A: OK. I'll take them._"
+    -
+      - "B: Excuse me. What is the price of this umbrella? _W: The umbrella’s kind of expensive. It’s \$25._"
+      - "B: It’s for my friend. Can she return it if she doesn’t like it? _W: For a friend? Sure. Let me put that in a bag for you._"
+      - "A: Excuse me. How much does this ring cost? _B: The ring's kind of cheap. It's only twenty dollars._"
+      - "A: It's for Mother's Day. Can she return it if she doesn't like it. _B: For your mother? I'm afraid not._"
+      - "A: OK. I'll take it. _B: Let me put that in a bag for you._"
