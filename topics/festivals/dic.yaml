@@ -104,3 +104,17 @@
     A: What is a holiday that you celebrate in your country?
     B: We celebrate the Lunar New Year in China. Lunar means moon. Do you know what the Lunar New Year is?
     A: It’s when the new year starts, isn’t it?
+-
+  - "holiday-2"
+  - "holiday"
+  - "topics"
+  - "all"
+  - |+
+    A: Do you know if Americans wear costumes on July 4th.
+    B: No, I think they don't wear costumes. Am I right?
+    A: Yes, that's correct.
+    B: What do they do?
+    A: They don't go to school.
+    B: And they celebrate independence?
+    A: Yes.
+  - End
