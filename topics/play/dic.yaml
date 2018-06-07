@@ -187,6 +187,18 @@
     A: No, I don't believe in them.
     B: Ghosts are real! I saw one!
     A: Stop it! You're being silly.
+-
+  - sleep-1
+  - sleep
+  - "topics"
+  - "all"
+  - |+
+    Kim can't sleep. She counts sheep. CREAK! What was that? She turns on her flashlight.
+    There is something in her closet. Could it be a ghost? She walks to her closet.
+    She opens the door. Something moves. 
+    "Aaahh!" she screams. It's not a ghost. It's just her cat.
+    Now, Kim feels silly.
+  - Kim|sheep|CREAK|turns|closet|closet|Aaahh|screams|cat|Kim|End
 
 ---
 -
