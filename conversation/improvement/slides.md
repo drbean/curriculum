@@ -81,22 +81,35 @@ Upload a file under your own name, if you want to be sure Dr Bean won't make a m
 
 # Exam
 
-## Intercultural question
-
-Ask Dr Bean a question like those on p32. Prepare to answer his questions about different cultures.
-
-Write your question here. Put one keyword in the subject line.
-
-YOU MUST WRITE YOUR QUESTION BEFORE you come with your partner to talk to Dr Bean.
-
-Your question must be a different question than everyone else's question.
-
-## 2-person jigsaw activity
-
 Wait until the examiner says, "Go". Then read the Vocabulary cards to each other.
 
-Talk about who is Won-gyu, Manny and Wanda in *English.*
+1. Talk about whether this is the shyness, nailbiting or time management problem in *English.*
 
-Talk about similarities and differences in their vocabulary learning methods in *English.*
+1. Talk about which advice this is in *English.*
+
+* shyness
+            - reading a self-help book
+            - joining a club
+            - seeing a therapist
+            - taking medication
+
+* nailbiting
+            - counting instead
+            - wearing gloves
+            - painting your nails
+            - figuring out why you're nervous
+
+* time management
+            - programming your phone
+            - making a list of priorities
+            - cancelling appointments
+            - talking to a consultant
+
+1. Talk about what kind of advice A and B give. Is it about:
+
+* working with other people or relying only on yourself
+* high-tech or low-tech
+* the cause of the problem, or what looks good in the solution of the problem
+* repeating, or trying something different
 
 Wait until the examiner says, "Go". Then do the Vocabulary quiz *separately*.
