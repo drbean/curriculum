@@ -1,0 +1,272 @@
+---
+# genre: conversation: identity
+immature:
+  jigsaw:
+    0:
+      identifier: personality as kid
+      quiz:
+        - question: What was Carol like as a kid?
+          option:
+            - responsible
+            - irresponsible
+          answer: irresponsible
+        - question: What was Alan like as a kid?
+          option:
+            - mature
+            - immature
+          answer: immature
+    1:
+      identifier: life-changing event
+      quiz:
+        - question: What life event changed Carol?
+          option:
+            - getting a job
+            - graduating from high school
+          answer: graduating from high school
+        - question: What life event changed Alan?
+          option:
+            - getting a job
+            - graduating from high school
+          answer: getting a job
+    2:
+      identifier: other turning point
+      quiz:
+        - question: turning point for Carol
+          option:
+            - getting a bicycle
+            - getting a dog
+          answer: getting a dog
+        - question: turning point for Alan
+          option:
+            - getting a bicycle
+            - getting a dog
+          answer: getting a bicycle
+    3:
+      identifier: effect
+      quiz:
+        - question: effect of turning point for Carol
+          option:
+            - feeling responsible
+            - free to go anywhere
+          answer: feeling responsible
+        - question: effect of turning point for Alan
+          option:
+            - feeling responsible
+            - free to go anywhere
+          answer: free to go anywhere
+time:
+  match:
+    0:
+      identifier: time clauses
+      pair:
+        -
+          - By the time I was 15,
+          - I had learned how to take care of myself.
+        -
+          - Until I started working part-time, 
+          - I had never saved any money.
+        -
+          - The moment I got my first paycheck, 
+          - I began to understand the value of money.
+        -
+          - As soon as I left home,
+          - I realized that I wasn't a child anymore.
+    1:
+      identifier: time clauses
+      pair:
+        -
+          - Once I started sharing an apartment,
+          - I learned how to get along better with people.
+        -
+          - After I began a relationship,
+          - I learned that love can hurt.
+        -
+          - Before I traveled abroad,
+          - I didn't appreciate my own country.
+        -
+          - Until I got really sick,
+          - I hadn't understood the importance of good health.
+event:
+  jigsaw:
+    0:
+      identifier: event
+      quiz:
+        - question: Sally's event
+          option:
+            - getting a prize at school
+            - learning languages
+            - living away from family members
+          answer: learning languages
+        - question: Henry's event
+          option:
+            - getting a prize at school
+            - learning languages
+            - living away from family members
+          answer: living away from family members
+        - question: Debbie's event
+          option:
+            - getting a prize at school
+            - learning languages
+            - living away from family members
+          answer: getting a prize at school
+effect:
+  jigsaw:
+    0:
+      identifier: effect
+      quiz:
+        - question: effect of Sally's event
+          option:
+            - discovering you can communicate with foreigners
+            - finding people will treat you differently
+            - realizing you don't need to depend on others
+          answer: discovering you can communicate with foreigners
+        - question: effect of Henry's event
+          option:
+            - discovering you can communicate with foreigners
+            - finding people will treat you differently
+            - realizing you don't need to depend on others
+          answer: realizing you don't need to depend on others
+        - question: effect of Debbie's event
+          option:
+            - discovering you can communicate with foreigners
+            - finding people will treat you differently
+            - realizing you don't need to depend on others
+          answer: finding people will treat you differently
+common:
+  jigsaw:
+    0:
+      identifier: common to 3 people
+      quiz:
+        - question: common to the 3 people
+          option:
+            - admired by others
+            - good at studying
+            - understanding themselves
+          answer: understanding themselves
+regret:
+  jigsaw:
+    nonaction:
+      identifier: people listening
+      quiz:
+        - question: Alex's regret
+          option:
+            - not continuing to be active
+            - not learning to play guitar
+            - not traveling after college
+          answer: not continuing to be active
+        - question: Yi-yun's regret
+          option:
+            - not continuing to be active
+            - not learning to play guitar
+            - not traveling after college
+          answer: not learning to play guitar
+        - question: Jacob's regret
+          option:
+            - not continuing to be active
+            - not learning to play guitar
+            - not traveling after college
+          answer: not traveling after college
+    reason:
+      identifier: regret reason
+      quiz:
+        - question: Alex's reason
+          option:
+            - cannot play for people at parties
+            - difficult to get back into shape
+            - missed an unforgettable experience
+          answer: difficult to get back into shape
+        - question: Yi-yun's reason
+          option:
+            - cannot play for people at parties
+            - difficult to get back into shape
+            - missed an unforgettable experience
+          answer: cannot play for people at parties
+        - question: Jacob's reason
+          option:
+            - cannot play for people at parties
+            - difficult to get back into shape
+            - missed an unforgettable experience
+          answer: missed an unforgettable experience
+         
+    should:
+      identifier: regret
+      quiz:
+        - question: I was very rebellious when I was younger
+          answer: 
+            - I should've been less rebellious.
+            - I should have been less rebellious.
+            - I should( not|n't) have been( as| so)? rebellious.
+          incorrect:
+            -
+              error: ^(?!.*should.*)
+              feedback: Use the words, "should"
+            -
+              error: ^(?!.*have been.*)
+              feedback: Use the words, "have been"
+        - question: I didn't pay attention to what I ate as a child.
+          answer: 
+            - I should have paid attention.
+            - I should have paid more attention.
+            - I should('ve| have) paid( more)? attention.
+          incorrect:
+            -
+              error: ^(?!.*should.*)
+              feedback: Use the words, "should"
+            -
+              error: ^(?!.*have*)
+              feedback: Use the words, "have"
+        - question: I didn't make many friends in high school.
+          answer: 
+            - I should have made more.
+            - I should've made more.
+          incorrect:
+            -
+              error: ^(?!.*should.*)
+              feedback: Use the words, "should"
+            -
+              error: ^(?!.*have*)
+              feedback: Use the words, "have"
+        - question: I was very argumentative as a teenager.
+          answer: 
+            - I should have been less argumentative.
+            - I should've been less argumentative.
+            - I should( not|n't) have been( as| so)? argumentative.
+          incorrect:
+            -
+              error: ^(?!.*should.*)
+              feedback: Use the words, "should"
+            -
+              error: ^(?!.*have*)
+              feedback: Use the words, "have"
+        - question: I was too naive when I started looking for my first job.
+          answer: 
+            - I should have been less naive.
+            - I should've been less naive.
+            - I should( not|n't) have been( as| so)? naive.
+          incorrect:
+            -
+              error: ^(?!.*should.*)
+              feedback: Use the words, "should"
+            -
+              error: ^(?!.*have*)
+              feedback: Use the words, "have"
+  match:
+    conditional:
+      identifier: conditional
+      pair:
+        -
+          - If I'd listened to my parents,
+          - I would have made more pragmatic decisions.
+        -
+          - If I'd been more active,
+          - I wouldn't have gained all this weight.
+        -
+          - If I'd been more ambitious,
+          - I could have gotten a promotion.
+        -
+          - If I'd studied harder in school,
+          - I could have learned a lot more.
+        -
+          - If I'd saved more money,
+          - I wouldn't have had to borrow as much.
+        
