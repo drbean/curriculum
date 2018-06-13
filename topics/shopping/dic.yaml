@@ -139,11 +139,11 @@
   - "all"
   - |+
     B: Can I help you find something?
-    A: No, thank you. I’m just looking.
+    A: No, thank you. I'm just looking.
     A: Can I try on this skirt?
     B: Yes. The fitting room is at the back of the store.
     A: How much is this?
-    B: It’s on sale today for 2 dollars 50.
+    B: It's on sale today for 2 dollars 50.
 -
   - shopping-1
   - shopping-1
@@ -172,8 +172,19 @@
     B: I'm afraid not.
     A: OK.
     B: Let me put that in a bag for you. \$20.
-
-
+-
+  - shopping-3
+  - shopping-3
+  - "topics"
+  - "all"
+  - |+
+    A: Everything is so cheap at the market.
+    B: Yeah, but you can't return things.
+    A: That's true. What are you looking for, Stephanie?
+    B: I want to buy a scarf for my sister. It's her birthday soon. How about you, Tom?
+    A: I am looking for a backpack. I lost my other one.
+    B: You are always losing your things.
+  - Stephanie|scarf|Tom|End
 ---
 -
   - genre

@@ -149,3 +149,8 @@ shopping:
       - "A: Excuse me. How much does this ring cost? _B: The ring's kind of cheap. It's only twenty dollars._"
       - "A: It's for Mother's Day. Can she return it if she doesn't like it. _B: For your mother? I'm afraid not._"
       - "A: OK. I'll take it. _B: Let me put that in a bag for you._"
+    -
+      - "A: Everything is so cheap at the market. _B: Yeah, but you can't return things._"
+      - "A: What are you looking for, Stephanie? _B: I want to buy a scarf for my sister. It's her birthday soon._"
+      - "B: How about you, Tom? _A: I am looking for a backpack._"
+      - "A: I lost my backpack. _B: You are always losing your things._"
