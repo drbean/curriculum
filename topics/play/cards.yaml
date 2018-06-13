@@ -123,6 +123,10 @@ sleep:
       - silly      _childish and bad, but funny_
     - counts_sheep CREAK! turns_on something closet ghost open move Aaahh! screams cat feels_silly
     - flashlight witch count ghost nightmare real believe silly
+    -
+      - "A: Aaah! _B: Annie! Wake up!_"
+      - "A: Oh! I just had a nightmare. I thought it was real. _B: Oh, no! What did you dream about?_"
+      - "A: There was a mean witch. She was in my room. _B: There is no witch. Don't be afraid._"
   1:
     flash:
       flashlight : 手電筒

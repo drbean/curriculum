@@ -199,7 +199,19 @@
     "Aaahh!" she screams. It's not a ghost. It's just her cat.
     Now, Kim feels silly.
   - Kim|sheep|CREAK|turns|closet|closet|Aaahh|screams|cat|Kim|End
-
+-
+  - sleep-2
+  - sleep
+  - "topics"
+  - "all"
+  - |+
+    A: Aaah!
+    B: Annie! Wake up!
+    A: Oh! I just had a nightmare. I thought it was real.
+    B: Oh, no! What did you dream about?
+    A: There was a mean witch. She was in my room. I really believed she was there.
+    B: Well, don't be afraid. Everything is OK. Just go back to sleep now.
+  - Annie|mean|End
 ---
 -
   - genre
