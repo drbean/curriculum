@@ -212,6 +212,15 @@
     A: There was a mean witch. She was in my room. I really believed she was there.
     B: Well, don't be afraid. Everything is OK. Just go back to sleep now.
   - Annie|mean|End
+-
+  - sleep-3
+  - sleep
+  - "topics"
+  - "all"
+  - |+
+    Many people have a hard time sleeping. So, some people count sheep. They close their eyes and think of sheep. The sheep are jumping. They count each sheep when it jumps.
+    It is boring to count sheep. But this is why it is good. Counting sheep helps people go to sleep.
+  - people|sheep|eyes|think|jumping|each|boring|helps|End
 ---
 -
   - genre
