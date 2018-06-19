@@ -52,6 +52,36 @@ Remember to add the extension, .mp3, .m4a, etc to the end of the file you upload
 
 Upload a file under your own name, if you want to be sure Dr Bean won't make a mistake with your grade.
 
+## Recording 10 of 10--A regret or something that changed your life
+
+This is the last homework. Do it!
+
+Record a conversation with your new partner about an event that happened to you and how it changed your life and made you the person you are.
+
+Or, talk about a regret. It may be about you, a family member, or a social issue.
+
+Look at p 72 and 73. Did a small event like meeting someone or getting a bicycle change your life?
+
+Or, look at p 75. Do you regret any of these same things? What do you regret?
+
+Ask your partner questions.
+
+30 seconds. Each person must ask his/her questions and answer 2 questions from their partner.
+
+This is the 10th of 10 conversations. They are worth 40 percent of your grade. Do it, if you want to pass the class.
+
+Identify yourself clearly. Say, "I'm John."
+
+## Uploading files
+
+If you can't find your partner, do it with someone else, and upload the file. And send a message to Dr Bean. And/or add a submission comment when you upload the file.
+
+Each person in your group can upload a file, if you can't find your partner and you do it with someone else.
+
+Remember to add the extension, .mp3, .m4a, etc to the end of the file you upload, so Dr Bean can listen to the file.
+
+Upload a file under your own name, if you want to be sure Dr Bean won't make a mistake with your grade.
+
 # Exam
 
 Wait until the examiner says, "Go". Then read the Vocabulary cards to each other.
