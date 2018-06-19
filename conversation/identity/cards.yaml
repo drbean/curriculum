@@ -269,4 +269,50 @@ regret:
         -
           - If I'd saved more money,
           - I wouldn't have had to borrow as much.
+younger:
+  jigsaw:
+    0:
+      identifier: youthful regret
+      quiz:
+        - question: One of the 14 things you did/didn't do and regret doing/not doing. Follow the format on p 125. "When I was younger, .."
+          answer: 
+            - When I was younger, I didn't pay attention in class. If I had paid attention in class, I would have gotten better grades. Ha, ha!
+            - When I was younger, I .*\. If I had(n't)? .*, I would(n't)? have .*\.
+          incorrect:
+            -
+              error: ^(?!.*When I was younger, I .*)
+              feedback: Use the words, "When I was younger, I "
+            -
+              error: ^(?!.*(If I had |If I hadn't ).*)
+              feedback: Use the words, "If I had " or "If I hadn't"
+            -
+              error: ^(?!.*(I would have |I wouldn't have ).*)
+              feedback: Use the words, "I would have " or "I wouldn't have "
+    1:
+      identifier: youthful reason for accomplishment
+      quiz:
+        - question: One of the 14 things you did/didn't do and was the reason for an accomplishment. Follow the format on p 125. "When I was younger, .."
+          answer: 
+            - When I was younger, I paid attention in class. If I hadn't paid attention in class, I wouldn't have been famous.
+            - When I was younger, I .*\. If I had(n't)? .*, I would(n't)? have .*\.
+          incorrect:
+            -
+              error: ^(?!.*When I was younger, I .*)
+              feedback: Use the words, "When I was younger, I "
+            -
+              error: ^(?!.*(If I had |If I hadn't ).*)
+              feedback: Use the words, "If I had " or "If I hadn't"
+            -
+              error: ^(?!.*(I would have |I wouldn't have ).*)
+              feedback: Use the words, "I would have " or "I wouldn't have "
+  match:
+    0:
+      identifier: regret/reason for accomplishment
+      pair:
+        -
+          - regret
+            - When I was younger, I didn't pay attention in class. If I had paid attention in class, I would have gotten better grades.
+          - accomplishment
+            - When I was younger, I paid attention in class. If I hadn't paid attention in class, I wouldn't have gotten a good job.
+
         
