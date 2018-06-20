@@ -131,3 +131,16 @@
     A: Yes, we're going to fly flags, have a picnic, and then watch the fireworks. 
     B: July 4th isn't a holiday in Taiwan. But the Dragon Boat Festival is around the same time. We watch the races and eat rice dumplings. 
   - Dragon Boat|dumplings|End
+-
+  - "holiday-4"
+  - "holiday"
+  - "topics"
+  - "all"
+  - |+
+    G: Trick or treat, Mr. Smith! Do you have any candy?
+    M: Yes. What great costumes! A beautiful princess, a scary lion, and a cute puppy.
+    G: Do you know who we are?
+    M: Well, that's difficult. Your costumes cover your faces. But I know that Mary is the beautiful princess. I think the lion is Greg, and the puppy is Natalie.
+    G: Yep! Thanks for the candy, and happy Halloween!
+    M: Happy Halloween! Have fun celebrating!
+  - Smith|Mary|Greg|Natalie|Halloween|End
