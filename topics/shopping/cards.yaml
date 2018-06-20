@@ -154,3 +154,8 @@ shopping:
       - "A: What are you looking for, Stephanie? _B: I want to buy a scarf for my sister. It's her birthday soon._"
       - "B: How about you, Tom? _A: I am looking for a backpack._"
       - "A: I lost my backpack. _B: You are always losing your things._"
+    -
+      - "G: Mario, do you like my new coat? _B: Cool! But it looks expensive._"
+      - "B: What was the price? _G: It was \$150, but today it was 50 percent off the old price._"
+      - "B: That was lucky! _G: Well, it wasn’t easy to find. _"
+      - "B: Did you buy anything for me? _G: You can have these glasses._"
