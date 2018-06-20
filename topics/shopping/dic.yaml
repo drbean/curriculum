@@ -185,6 +185,20 @@
     A: I am looking for a backpack. I lost my other one.
     B: You are always losing your things.
   - Stephanie|scarf|Tom|End
+-
+  - shopping-4
+  - shopping-4
+  - "topics"
+  - "all"
+  - |+
+    G: Mario, do you like my new coat?
+    B: Cool! But it looks expensive. What was the price?
+    G: It was \$150, but today it was 50 percent off the old price.
+    B: That was lucky!
+    G: Well, it wasn’t easy to find. I shopped around for several hours. 
+    B: Did you buy anything for me?
+    G: You can have these glasses. I paid just \$20 because they were \$10 off.
+  - Mario|End
 ---
 -
   - genre
