@@ -1,6 +1,28 @@
 ---
 genre: correspondence
 order:
+  jigsaw:
+    0:
+      identifier: example 
+      quiz:
+        - question: sweater email p 115
+          option:
+            - order
+            - acknowledgment of order
+            - cancellation of order
+          answer: cancellation of order
+        - question: sweater email p 116
+          option:
+            - order
+            - acknowledgment of order
+            - cancellation of order
+          answer: order
+        - question: sweater email p 117
+          option:
+            - order
+            - acknowledgment of order
+            - cancellation of order
+          answer: acknowledgment of order
   match:
     0:
       identifier: structure
@@ -278,7 +300,7 @@ textbook:
           answer: 
             - Unfortunately, owing to the fact that other teachers have chosen a different book, I am forced to cancel this order.
             - Unfortunately, (due to|because of|owing to) the choice by other teachers of a different book, (we are|I am) forced to cancel this order\.
-            - Unfortunately, (due to|because of|owing to) the choice by other teachers of a different book, it is with great regret (that )?I must cancel this order\.
+            - Unfortunately, (due to|because of|owing to) the choice by other teachers of a different book, it is with great regret (that )?((we are|I am) forced to|(I|we) must) cancel this order\.
           incorrect:
             -
               error: ^(?!.*Unfortunately.*)
@@ -350,8 +372,10 @@ textbook:
             -
               error: ^(?!.*in the future\..*)
               feedback: Use the words, "in the future."
-            
-              
+    reorder:
+      identifier: cancelling cancellation
+      quiz:
+        
   match:
     0:
       identifier: structure
@@ -453,6 +477,49 @@ pen:
         
         
 sweater:
+  description:
+    0:
+      identifier: sweater header
+      questiontext: The following questions are about the sweater order on p 115,116,117.
+    
+  drag:
+    uncancel:
+      identifier: sweater uncancel order
+      sentences:
+        -
+          sentence: Accordingly, I wish to cancel my cancellation of the order.
+          clozed: Accordingly|I|wish|to|cancel|my|cancellation|of|the|End
+        -
+          sentence: And I look forward to doing more business with you in the future.
+          clozed: And I look forward to doing more business with you in the future.
+        -
+          sentence: Could you please confirm that you have received this message when you get it.
+          clozed: Could|you|please|confirm|that|you|have|received|this|message|when|you|get|End
+        -
+          sentence: I am writing in connection with orders SX126F_and_SX128F of 24 cotton sweaters, made on 11 September.
+          clozed: I|am|writing|in|connection|with|orders|SX126F_and_SX128F|of|24|cotton|made|on|11|End
+        -
+          sentence: I apologize for the inconvenience that I have caused.
+          clozed: I|apologize|for|the|inconvenience|that|I|have|caused|End
+        -
+          sentence: I canceled this order on 16 September, owing to a report that cotton causes skin cancer.
+          clozed: I|canceled|this|order|on|16|owing|to|a|report|that|cotton|causes|skin|End
+        -
+          sentence: That is, I want you to send me the 24 cotton sweaters of SX126F_and_SX128F.
+          clozed: That|I|want|you|to|send|me|the|24|cotton|sweaters|of|End
+        -
+          sentence: Unfortunately, I misread this report, which actually showed that cotton prevents skin cancer.
+          clozed: Unfortunately|I|misread|this|which|showed|that|cotton|prevents|skin|cancer|End
+
+
+          # Accordingly, I wish to cancel my cancellation of the order.
+          # And I look forward to doing more business with you in the future.
+          # Could you please confirm that you have received this message when you get it.
+          # I am writing in connection with orders SX126F_and_SX128F of 24 cotton sweaters, made on 11 September.
+          # I apologize for the inconvenience that I have caused.
+          # I canceled this order on 16 September, owing to a report that cotton causes skin cancer.
+          # That is, I want you to send me the 24 cotton sweaters of SX126F_and_SX128F.
+          # Unfortunately, I misread this report, which actually showed that cotton prevents skin cancer.
   match:
     0:
       identifier: correction sweater
@@ -493,6 +560,70 @@ sweater:
         -
           - Please also feel free to e-mail me should you have any question or when the order has been shipped.
           - OK
+        
+    1:
+      identifier: sweater order structure
+      pair:
+        -
+          - I am the owner of Super Sweaters and now have eight branches around Taiwan (and hopefully more in the near future). 
+          - Self-introduction
+        -
+          - Recently, the friend of mine, and one of your customers, Mr. Wang, ..
+          - Source of knowledge about supplier
+        -
+          - "After being impressed on your products, I was interested in making the followed order:"
+          - Mention of order
+        -
+          - 6 large navy cotton sweaters ...
+          - Order
+        
+        -
+          - The catalogue price was US$4/sweater and, according to your catalogue, an order this size to Taiwan would cost US$50. 
+          - Pricing details
+        -
+          - Therefore, I want the total cost to be US$146. 
+          - Pricing details
+        -
+          - I also believe the usual payment terms were 30 days after receipt of order. 
+          - Pricing details
+        -
+          - I would like to be given this terms also, if possible.
+          - Pricing details
+        -
+          - Ideally, I would like delivery on 10 October 2016.
+          - Deadline
+        -
+          - "My shipped address is:"
+          - Shipping destination
+        -
+          - Could you also please send me a copy of your newest catalogue and an order form, as I am certainly interest in making a larger order in the future?
+          - Forward-looking close
+        -
+          - Please also feel free to e-mail me should you have any question or when the order has been shipped.
+          - Forward-looking close
+    2:
+      identifier: sweater order structure
+      pair:
+        -
+          - Thank you for your e-mail _________ 11 September __________ order numbers SX126/F and SX128/F.
+          - acknowledgment
+        -
+          - We are pleased ____________ you that the total price and payment terms you asked about are ______________.
+          - status of order
+        -
+          - Also, order number SX128/F is being _____________ and should be with you in the next 7 days
+          - shipping date
+        -
+          - However, order number SX126/F is regretfully _____________ at the moment.
+          - status of order
+        -
+          - We should be able to have a __________ delivered to you by 25 September.
+          - shipping date
+        -
+          - Thank you again for your message and for choosing Tina's Sweaters, and we look forward to ________________________.
+          - forward-looking close
+        
+        
         
         
         
