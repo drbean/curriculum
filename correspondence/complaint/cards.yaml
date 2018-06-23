@@ -700,6 +700,40 @@ student:
         -
           sentence: So, I'm telling you 15 percent of the class will fail this semester! (I should fail 50 percent.)
           clozed: So telling you 15 percent of the class will fail this should fail 50
+  jigsaw:
+    comprehension:
+      identifier: student comprehension
+      quiz:
+        - question: Dr Bean sets the right tone.
+          answer: False
+        - question: Dr Bean claims the the students are not responsible for the failure to do homework.
+          answer: False
+        - question: Dr Bean claims some of the the students have not learned how important homework is.
+          answer: True
+        - question: Dr Bean wants the students to take the opportunity to check their email accounts.
+          answer: False
+        - question: Dr Bean wants the students to not chat with friends.
+          answer: True
+        - question: Dr Bean wants the students to write homework.
+          answer: True
+        - question: Dr Bean wants the students to write only a few words.
+          answer: False
+        - question: Dr Bean says he is sorry for requiring the students to do extra work.
+          answer: True
+        - question: Dr Bean feels sorry that the students have to do extra work.
+          answer: False
+        - question: Dr Bean will call students to see if there are problems.
+          answer: False
+        - question: Dr Bean is providing an incentive to students to do homework.
+          answer: True
+        - question: Dr Bean thinks students will enjoy having an incentive to do homework.
+          answer: False
+        - question: Dr Bean will give money to students who do most homework.
+          answer: False
+        - question: Dr Bean shows respect to the students.
+          answer: False
+        - question: Dr Bean shows he will pass some students if they do a good job.
+          answer: True
 reply:
   match:
     0:
