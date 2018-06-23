@@ -113,6 +113,9 @@ demand:
             - fifth
             - sixth
           answer: second
+    1:
+      identifier: payment demand
+      quiz:
         - question: Dear Dr Bean, We are waiting for payment of Order H123, which is now 2 months overdue. If you have problems with payment, please contact us immediately to arrange alternatives.
           option:
             - first
@@ -131,6 +134,9 @@ demand:
             - fifth
             - sixth
           answer: third
+    2:
+      identifier: payment demand
+      quiz:
         - question: Dear Dr Bean, We are waiting for payment of Order H123, dated April 5, 2017, for 24 sweaters. If payment by banker's draft or bank transfer to our account is not forthcoming, we will be forced to resort to other means to receive this money.
           option:
             - first
@@ -149,6 +155,176 @@ demand:
             - fifth
             - sixth
           answer: sixth
+    3:
+      identifier: demand rewriting
+      quiz:
+        - question: 1. We want you to pay us in a week. (Use "make sure", or "ensure", "payment" or "remittance", "within")
+          answer: 
+            - Could you please make sure we have your remittance within seven days?
+            - Could you please (make sure|ensure) we have your (payment|remittance) within seven days\?
+          incorrect:
+            -
+              error: ^(?!.*(make sure|ensure).*)
+              feedback: Use the words, "(make sure|ensure)"
+            -
+              error: ^(?!.*(payment|remittance).*)
+              feedback: Use the words, "(payment|remittance)"
+            -
+              error: ^(?!.*within.*)
+              feedback: Use the words, "within"
+            
+        - question: 2.  We will take you to court if you do not pay. (Use "have no alternative/choice but to", or "be compelled/forced to", "legal action")
+          answer:
+            - Unfortunately, if the remittance is not made by the end of the month, we will have no choice but to take legal action.
+            - Unfortunately, if the (remittance|payment) is not made by the end of the month, we will (have no (alternative|choice) but|be (compelled|forced)) to take legal action\.
+          incorrect:
+            -
+              error: ^(?!.*(have no (alternative|choice) but|be (compelled|forced)).*)
+              feedback: Use the words, "(have no (alternative|choice) but|be (compelled|forced))"
+            -
+              error: ^(?!.*to take.*)
+              feedback: Use the words, "to take"
+            -
+              error: ^(?!.*legal action.*)
+              feedback: Use the words, "legal action"
+            
+        - question: 3.  You have not paid yet. (Use the present perfect passive form of "settle")
+          answer:
+            - Our records indicate that the account has not yet been settled.
+          incorrect:
+            -
+              error: ^(?!.*settled.*)
+              feedback: Use the words, "settled"
+            
+        - question: 4.  You still owe us US$40,000. (Use "outstanding")
+          answer: 
+            - A balance of US$40,000 is still outstanding.
+          incorrect:
+            -
+              error: ^(?!.*outstanding.*)
+              feedback: Use the words, "outstanding"
+        - question: 5.  We want you to either pay your bill or call us immediately and tell us why you  have not paid. (Use the passive form (ie, past participle) of "owe", "situation")
+          answer:
+            - Could you please either pay the amount owed by the end of the month or give us a call to discuss this situation?
+          incorrect:
+            -
+              error: ^(?!.*owed.*)
+              feedback: Use the words, "owed"
+            -
+              error: ^(?!.*situation.*)
+              feedback: Use the words, "situation"
+        - question: 6.  If you can't pay, give us a call and maybe we can help. (Use the present continuous form of "prove", "contact", "alternative arrangements")
+          answer:
+            - If making the payments is proving to be a problem, please contact us and I am sure we can make alternative arrangements.
+          incorrect:
+            -
+              error: ^(?!.*proving.*)
+              feedback: Use the words, "proving"
+            -
+              error: ^(?!.*contact.*)
+              feedback: Use the words, "contact"
+            -
+              error: ^(?!.*alternative arrangements.*)
+              feedback: Use the words, "alternative arrangements"
+    4:
+      identifier: demand sequence
+      quiz:
+        - question: 1. We want you to pay us in a week. (Use "make sure", or "ensure", "payment" or "remittance", "within")
+          option:
+            - first
+            - third
+            - fifth
+          answer: fifth
+        - question: 2.  We will take you to court if you do not pay. (Use "have no alternative/choice but to", or "be compelled/forced to", "legal action")
+          option:
+            - first
+            - second
+            - third
+            - fourth
+            - fifth
+            - sixth
+          answer: sixth
+        - question: 3.  You have not paid yet. (Use the present perfect passive form of "settle")
+          option:
+            - first
+            - third
+            - sixth
+          answer: third
+        - question: 4.  You still owe us US$40,000. (Use "outstanding")
+            - first
+            - fourth
+            - sixth
+          answer: fourth
+        - question: 5.  We want you to either pay your bill or call us immediately and tell us why you  have not paid. (Use the passive form (ie, past participle) of "owe", "situation")
+          option:
+            - first
+            - second
+            - third
+            - fourth
+            - fifth
+            - sixth
+          answer: fourth
+        - question: 6.  If you can't pay, give us a call and maybe we can help. (Use the present continuous form of "prove", "contact", "alternative arrangements")
+          option:
+            - first
+            - second
+            - third
+            - fourth
+            - fifth
+            - sixth
+          answer: fourth
+  match:
+    0:
+      identifier: summary-sequence match
+      pair:
+        -
+          - 1
+          - the bill requesting payment
+        -
+          - 2
+          - the same content as the bill, but written by a person
+        -
+          - 3
+          - polite, but refers to reader by name, assuming he/she forgot to pay
+        -
+          - 4
+          - polite, but suggests reader contact supplier if there are problems
+        -
+          - 5
+          - polite, but threatening
+        -
+          - 6
+          - strongly-worded, threatening action unless payment deadline met
+        
+  drag:
+    0:
+      identifier: payment scramble 0
+      sentences:
+        -
+          sentence: Could you please ensure we have your payment in seven days?
+          clozed: Could|you|please|ensure|we|have|your|payment|in|seven|days|End
+        -
+          sentence: Unfortunately, if the remittance is not made by the end of the month, we will be forced to take legal action.
+          clozed: Unfortunately|if|the|remittance|is|not|made|by|the|end|of|the|month|we|will|be|forced|to|take|legal|action|End
+    1:
+      identifier: payment scramble 1
+      sentences:
+        -
+          sentence: Our records indicate that the account has not yet been settled.
+          clozed: Our|records|indicate|that|the|account|has|not|yet|been|settled|End
+        -
+          sentence: A balance of $40,000 is still owing.
+          clozed: A|balance|of|is|still|owing|End
+    2:
+      identifier: payment scramble 2
+      sentences:
+        -
+          sentence: Could you either pay, or give us a call to discuss this matter?
+          clozed: Could|you|either|pay|or|give|us|a|call|to|discuss|this|matter|End
+        -
+          sentence: If making the payments is proving to be a problem, please call us and we can make alternative arrangements.
+          clozed: If|making|the|payments|is|proving|to|be|a|problem|please|call|us|and|we|can|make|alternative|arrangements|End
+            
 airconditioner:
   match:
     0:
@@ -156,112 +332,106 @@ airconditioner:
       pair:
         -
           - 1
-          - F. I am writing ..
+          - F. I am writing in reference to the purchase of three air-conditioners from our shop on 14th February this year.
         -
           - 2
-          - J. Thank you for ..
+          - J. Thank you for your initial payment of $20,000 and for the first agreed monthly installment of $30,000, which was received on 15th March.
         -
           - 3
-          - A. However, ..
+          - A. However, we are still awaiting the second installment of $30,000, which was due on 15th April.
         -
           - 4
-          - G. We have sent you two
+          - G. We have sent you two letters (16th and 30th April) reminding you of this payment, but have, so far, received no reply.
         -
           - 5
-          - D. Naturally, we are ..
+          - D. Naturally, we are most concerned about this situation, especially with the third and final payment being due on the 15th of this month.
         -
           - 6
-          - E. We must insist ..
-        
+          - E. We must insist on this overdue payment being made with the final payment later this month.
     1:
       identifier: airconditioner 2
       pair:
         -
           - 7
-          - K. As you will appreciate ..
+          - K. As you will appreciate, our agreement was made in good faith and we are surprised and disappointed with this current situation.
         -
           - 8
-          - C. If there are problems ..
+          - C. If there are any problems, which are making payment difficult, please contact us immediately.
         -
           - 9
-          - I. We realize ..
+          - I. We realize that unexpected problems do arise and would be willing to come to an amicable agreement.
         -
           - 10
-          - B. Otherwise ..
+          - B. Otherwise, we look forward to receiving the final balance by the 15th of this month.
         -
           - 11
-          - H. Please keep in ..
+          - H. Please keep in mind the benefits of a good credit rating and contact us if you have any problems.
     2:
       identifier: airconditioner all
       pair:
         -
           - 1
-          - F. I am writing ..
+          - F. I am writing in reference to the purchase of three air-conditioners from our shop on 14th February this year.
         -
           - 2
-          - J. Thank you for ..
+          - J. Thank you for your initial payment of $20,000 and for the first agreed monthly installment of $30,000, which was received on 15th March.
         -
           - 3
-          - A. However, ..
+          - A. However, we are still awaiting the second installment of $30,000, which was due on 15th April.
         -
           - 4
-          - G. We have sent you two
+          - G. We have sent you two letters (16th and 30th April) reminding you of this payment, but have, so far, received no reply.
         -
           - 5
-          - D. Naturally, we are ..
+          - D. Naturally, we are most concerned about this situation, especially with the third and final payment being due on the 15th of this month.
         -
           - 6
-          - E. We must insist ..
+          - E. We must insist on this overdue payment being made with the final payment later this month.
         -
           - 7
-          - K. As you will appreciate ..
+          - K. As you will appreciate, our agreement was made in good faith and we are surprised and disappointed with this current situation.
         -
           - 8
-          - C. If there are problems ..
+          - C. If there are any problems, which are making payment difficult, please contact us immediately.
         -
           - 9
-          - I. We realize ..
+          - I. We realize that unexpected problems do arise and would be willing to come to an amiable agreement.
         -
           - 10
-          - B. Otherwise ..
+          - B. Otherwise, we look forward to receiving the final balance by the 15th of this month.
         -
           - 11
-          - H. Please keep in ..
+          - H. Please keep in mind the benefits of a good credit rating and contact us if you have any problems.
         
 sentence:
   jigsaw:
     0:
       identifier: sentence
       quiz:
-        - question: "Request for payment: 1. We ___ to"
-          answer: look forward 
-        - question: 2. receiving the ___
-          answer: final balance 
-        - question: 3. by ___ .
-          answer: the 15th of this month
+        - question: "Request for payment: 1. We ___ to (Use 2 words)"
+          answer:
+            - look forward 
+        - question: 2. receiving the ___ (Use 2 words)
+          answer:
+            - final balance 
+        - question: 3. by ___ . (Use 5 words from the airconditioner exercise )
+          answer:
+            - the 15th of this month
     1:
       identifier: sentence 2
       quiz:
-        - question: "Taking to court: 1. We will ___ to"
-          answer: be forced 
-        - question: "take ___."
-          answer: legal action
+        - question: "Taking to court: 1. We will ___ to (Use 2 words)"
+          answer:
+            - be forced 
+        - question: "take ___. (Use 2 words)"
+          answer:
+            - legal action
     2:
       identifier: sentence 6
       quiz:
         - question: "Giving a call: Please ___ us"
-          answer: contact
-        - question: "I am sure we can come to __."
-          answer: an amicable agreement
-payment:
-  scramble:
-    0:
-      identifier: payment scramble
-      sentence:
-        - Could you please ensure we have your payment in seven days?
-        - Unfortunately, if the remittance is not made by the end of the month, we will be forced to take legal action.
-        - Our records indicate that the account has not yet been settled.
-        - A balance of $40,000 is still owing.
-        - Could you either pay, or give us a call to discuss this matter?
-        - If making the payments is proving to be a problem, please call us and we can make alternative arrangements.
-           
+          answer:
+            - contact
+        - question: "I am sure we can come to __. (Use 3 words from the airconditioner exercise)"
+          answer:
+            - an amicable agreement
