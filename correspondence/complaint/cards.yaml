@@ -734,6 +734,82 @@ student:
           answer: False
         - question: Dr Bean shows he will pass some students if they do a good job.
           answer: True
+    tone:
+      identifier: tone problem
+      quiz:
+        - question: I Last any didn't fail of semester, you.
+          option:
+            - Tone OK
+            - Tone weak, because of accusations without evidence
+            - Tone weak, because of negative judgmental attitude to students
+            - Tone weak, because of suggested inappropriate student behavior
+            - Tone weak, because of suggested lack of intelligence
+          answer: Tone OK
+        - question: 80% This a are been decrease doing. has homework in semester, the there you
+          option:
+            - Tone OK
+            - Tone weak, because of accusations without evidence
+            - Tone weak, because of negative judgmental attitude to students
+            - Tone weak, because of suggested inappropriate student behavior
+            - Tone weak, because of suggested lack of intelligence
+          answer: Tone OK
+        - question: You and are do don't have homework. lazy, the think to you
+          option:
+            - Tone OK
+            - Tone weak, because of accusations without evidence
+            - Tone weak, because of negative judgmental attitude to students
+            - Tone weak, because of suggested inappropriate student behavior
+            - Tone weak, because of suggested lack of intelligence
+          answer: Tone weak, because of negative judgmental attitude to students
+        - question: For I I again. bother did explained grading, listen me not of tell those to to when who will you you
+          option:
+            - Tone OK
+            - Tone weak, because of accusations without evidence
+            - Tone weak, because of negative judgmental attitude to students
+            - Tone weak, because of suggested inappropriate student behavior
+            - Tone weak, because of suggested lack of intelligence
+          answer: Tone weak, because of accusations without evidence
+        - question: 40 First, grade. homework is of percent the
+          option:
+            - Tone OK
+            - Tone weak, because of accusations without evidence
+            - Tone weak, because of negative judgmental attitude to students
+            - Tone weak, because of suggested inappropriate student behavior
+            - Tone weak, because of suggested lack of intelligence
+          answer: Tone OK
+        - question: 100, If any can can cannot class, count do don't homework. if pass see the to you you you you
+          option:
+            - Tone OK
+            - Tone weak, because of accusations without evidence
+            - Tone weak, because of negative judgmental attitude to students
+            - Tone weak, because of suggested inappropriate student behavior
+            - Tone weak, because of suggested lack of intelligence
+          answer: Tone weak, because of suggested lack of intelligence
+        - question: Do an as chatting for friends. have homework not opportunity the time time, to use waste with you your
+          option:
+            - Tone OK
+            - Tone weak, because of accusations without evidence
+            - Tone weak, because of negative judgmental attitude to students
+            - Tone weak, because of suggested inappropriate student behavior
+            - Tone weak, because of suggested lack of intelligence
+          answer: Tone weak, because of suggested inappropriate student behavior
+        - question: (if If a any app app!) are further how know me message moodle questions, send the the there to to use use you
+          option:
+            - Tone OK
+            - Tone weak, because of accusations without evidence
+            - Tone weak, because of negative judgmental attitude to students
+            - Tone weak, because of suggested inappropriate student behavior
+            - Tone weak, because of suggested lack of intelligence
+          answer: Tone weak, because of suggested lack of intelligence
+        - question: The is like only punishment. students thing understand you
+          option:
+            - Tone OK
+            - Tone weak, because of accusations without evidence
+            - Tone weak, because of negative judgmental attitude to students
+            - Tone weak, because of suggested inappropriate student behavior
+            - Tone weak, because of suggested lack of intelligence
+          answer: Tone weak, because of negative judgmental attitude to students
+
 reply:
   match:
     0:
