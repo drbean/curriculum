@@ -651,23 +651,55 @@ student:
     0:
       identifier: student homework
       questiontext: These next questions are about a message I intended to send to students at another school, not this school, about homework. But I wondered if I got the tone wrong. The students are adults, not children. After unscrambling the sentences, which are in their correct order, identify those where the tone is wrong, and the source of the tone problem.
-    
-Last semester, I didn't fail any of you.
-This semester, there has been a 80% decrease in the homework you are doing.
-Students are showing disrespect by not doing the homework.
-You are lazy, and think you don't have to do the homework.
-I will fail you this semester!
-For those of you who did not bother to listen to me when I explained grading, I will tell you again.
-First, homework is 40 percent of the grade.
-If you can count to 100, you can see you cannot pass the class, if you don't do any homework.
-Do not use the time you have for homework as an opportunity to waste your time, chatting with friends.
-Then, write something.
-This means more than writing one or two words.
-I am sorry if the homework means extra work for you.
-If there are any further questions, use the moodle app to send me a message (if you know how to use the app!)
-The only thing students like you understand is punishment.
-So, I'm telling you 15 percent of the class will fail this semester! (I should fail 50 percent.)
-
+  drag:
+    0:
+      identifier: student scramble
+      sentences:
+        -
+          sentence: Last semester, I didn't fail any of you.
+          clozed: Last|semester|I|didn't|fail|any|of|you|End
+        -
+          sentence: This semester, there has been a 80% decrease in the homework that you are doing.
+          clozed: This|there|has|been|a|80%|decrease|in|the|homework|that|you|are|End
+        -
+          sentence: Students are showing disrespect by not doing the homework.
+          clozed: Students|are|showing|disrespect|by|not|doing|the|homework.|End
+        -
+          sentence: You are lazy, and think you don't have to do the homework.
+          clozed: You|are|and|think|you|don't|have|to|do|the|End
+        -
+          sentence: I will fail you this semester!
+          clozed: I|will|fail|you|this|End
+        -
+          sentence: For those of you who did not bother to listen to me when I explained grading, I will tell you again.
+          clozed: For|those|of|you|who|did|not|to|listen|to|me|when|I|explained|I|will|tell|you|End
+        -
+          sentence: First, homework is 40 percent of the grade.
+          clozed: First|homework|is|40|percent|of|the|grade|End
+        -
+          sentence: If you can count to 100, you can see you cannot pass the class, if you don't do any homework.
+          clozed: If|you|can|count|to|you|can|see|you|cannot|pass|the|if|you|don't|do|any|End
+        -
+          sentence: Do not use the time you have for homework as an opportunity to waste your time, chatting with friends.
+          clozed: Do|not|use|the|time|you|have|for|as|an|opportunity|to|your|chatting|with|End
+        -
+          sentence: Then, write something.
+          clozed: Then|write|something|End
+        -
+          sentence: This means more than writing one or two words.
+          clozed: This|means|more|than|writing|one|or|two|End
+        -
+          sentence: I am sorry if the homework means extra work for you.
+          clozed: I|am|if|the|means|work|for|End
+        -
+          sentence: If there are any further questions, use the moodle app to send me a message (if you know how to use the app!)
+          clozed: If|there|are|any|further|use|the|app|to|send|me|a|message|you|know|how|to|use|the|End
+        -
+          sentence: The only thing students like you understand is punishment.
+          clozed: The|thing|students|like|you|understand|is|End
+        -
+          sentence: So, I'm telling you 15 percent of the class will fail this semester! (I should fail 50 percent.)
+          clozed: So telling you 15 percent of the class will fail this should fail 50
 reply:
   match:
     0:
