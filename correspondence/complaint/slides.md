@@ -40,7 +40,22 @@ Follow the structure in the book on p104.
 
 Use the sentences you wrote in Week 13,14: pen complaint reply
 
-Consult b
+
+## mango
+
+Write the email to Mr Hiramoto replying to his complaint on p109.
+
+Accept responsibility and apologize.
+
+Follow the structure in the book on p104.
+
+          - appreciation of complaint action
+          - acceptance of responsibility
+          - reason for problem
+          - promise to make up for damage
+          - report of efforts to prevent problems in future
+          - forward-looking close
+
 # Exam
 
 ## reply to a complaint
