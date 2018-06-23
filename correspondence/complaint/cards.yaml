@@ -326,6 +326,10 @@ drink:
             - letter rule error
           answer: letter rule error
 doll:
+  description:
+    0:
+      identifier: doll
+      questiontext: The following 15 questions are about a complaint about dolls which arrived broken.
   scramble:
     0:
       identifier: doll
@@ -335,6 +339,91 @@ doll:
         - As a result, all the dolls were damaged, with broken faces, or torn clothing.
         - We are extremely unhappy about this situation.
         - We want you to send us a replacement set of dolls, at your expense.
+  drag:
+    0:
+      identifier: doll scramble
+      sentences:
+        -
+          sentence: On April 27, I ordered 25 china dolls from you (order number CD 1345).
+          clozed: On|April|I|ordered|25|china|dolls|from|you|number|CD|End
+        -
+          sentence: The dolls arrived yesterday, May 7 in a partly-opened package, which had not been properly taped.
+          clozed: The|dolls|arrived|yesterday|May|in|a|partly-opened|which|had|not|been|properly|End
+        -
+          sentence: As a result, all the dolls were damaged, with broken faces, or torn clothing.
+          clozed: As|a|all|the|dolls|were|with|broken|or|torn|clothing|End
+        -
+          sentence: We are extremely unhappy about this situation.
+          clozed: We|are|extremely|unhappy|about|this|situation|End
+        -
+          sentence: We want you to send us a replacement set of dolls, at your expense.
+          clozed: We|want|you|to|send|us|a|set|of|at|your|End
+  jigsaw:
+    0:
+      identifier: doll structure
+      quiz:
+        - question: (order 1345). 25 27, April CD I china dolls from On number ordered you
+          option:
+            - background
+            - complaint
+            - resulting damage
+            - request
+            - threat
+            - polite close
+          answer: background
+        - question: 7 May a arrived been dolls had The in not package, partly-opened properly taped. which yesterday,
+          option:
+            - background
+            - complaint
+            - resulting problem
+            - request
+            - threat
+            - polite close
+          answer: background
+        - question: As a all broken clothing. damaged, dolls faces, or result, the torn were with
+          option:
+            - complaint
+            - request
+            - threat
+            - polite close
+          answer: complaint
+        - question: about are We extremely situation. this unhappy
+          option:
+            - background
+            - resulting problem
+            - request
+            - threat
+            - polite close
+          answer: resulting problem
+        - question: We a at dolls, expense. of replacement send set to us want you your
+          option:
+            - background
+            - complaint
+            - resulting problem
+            - request
+            - threat
+            - polite close
+          answer: request
+  match:
+    0:
+      identifier: doll match
+      pair:
+        -
+          - 1
+          - (order 1345). 25 27, April CD I On china dolls from number ordered you
+        -
+          - 2
+          - 7 May The a arrived been dolls had in not package, partly-opened properly taped. which yesterday,
+        -
+          - 3
+          - As a all broken clothing. damaged, dolls faces, or result, the torn were with
+        -
+          - 4
+          - We about are extremely situation. this unhappy
+        -
+          - 5
+          - We a at dolls, expense. of replacement send set to us want you your
+        
 credit:
   jigsaw:
     comprehension:
@@ -558,21 +647,27 @@ credit:
           - Therefore, if there is a 19% drop in credit card fraud between now and the ..
           - the opposite of a threat
 student:
-last semester, I didn't fail any students.
-This semester, there has been a 30% decrease in the homework students are doing.
+  description:
+    0:
+      identifier: student homework
+      questiontext: These next questions are about a message I intended to send to students at another school, not this school, about homework. But I wondered if I got the tone wrong. The students are adults, not children. After unscrambling the sentences, which are in their correct order, identify those where the tone is wrong, and the source of the tone problem.
+    
+Last semester, I didn't fail any of you.
+This semester, there has been a 80% decrease in the homework you are doing.
 Students are showing disrespect by not doing the homework.
-Students are lazy, and think they don't have to do the homework.
+You are lazy, and think you don't have to do the homework.
+I will fail you this semester!
 For those of you who did not bother to listen to me when I explained grading, I will tell you again.
 First, homework is 40 percent of the grade.
-If you can count, you can see you cannot pass the class, if you don't do any homework.
+If you can count to 100, you can see you cannot pass the class, if you don't do any homework.
 Do not use the time you have for homework as an opportunity to waste your time, chatting with friends.
 Then, write something.
 This means more than writing one or two words.
 I am sorry if the homework means extra work for you.
 If there are any further questions, use the moodle app to send me a message (if you know how to use the app!)
-The only thing you understand is a threat.
-So, I'm telling you 15 percent of the class will fail this semester!
-        
+The only thing students like you understand is punishment.
+So, I'm telling you 15 percent of the class will fail this semester! (I should fail 50 percent.)
+
 reply:
   match:
     0:
