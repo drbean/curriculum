@@ -298,6 +298,26 @@ buffer:
             - Therefore
             - However
           answer: However
+    1:
+      identifier: buffer
+      quiz:
+        - question: NOT a buffer used at the start of a bad-news sentence to warn that bad news is coming and lessen the shock.
+          option:
+            - We regret to inform you that ..
+            - We are sorry if ..
+            - Accordingly, ..
+            - As a result, ..
+          answer: We are sorry if ..
+    2:
+      identifier: buffer
+      quiz:
+        - question: IS a buffer used at the start of a bad-news sentence to warn that bad news is coming and lessen the shock of the bad news.
+          option:
+            - Unfortunately, ..
+            - We apologize for ..
+            - We have found that ..
+            - I am writing in connection with ..
+          answer: Unfortunately, ..
 necessity:
   jigsaw:
     0:
@@ -309,6 +329,15 @@ necessity:
             - is necessary
             - feel that asking
           answer: is necessary
+    1:
+      identifier: necessity
+      quiz:
+        - question: Sentence NOT showing some action is necessary for the writer and there is no other alternative.
+          option:
+            - We will have our staff report at your gates at 8am.
+            - We will have no choice but to pursue legal action.
+            - The situation requires us to downsize the company.
+          answer: We will have our staff report at your gates at 8am.
 scramble:
   scramble:
     0:
@@ -348,6 +377,10 @@ scramble:
           clozed: Our|company|policy|allows|discounts|on|individual|orders|of|$1000_or_more|End
         
 fuxing:
+  description:
+    0:
+      identifier: fuxing
+      questiontext: The following questions are about 復興航空 TransAsia Airways, the Taiwanese airline that closed down at the end of 2016.
   scramble:
     0:
       identifier: fuxing
@@ -358,8 +391,37 @@ fuxing:
         - Therefore, we have had to make some difficult decisions.
         - Accordingly, we have decided to suspend all operations.
         - We will continue to provide ground_services to other airlines.
+        - We will give refunds to all passengers who have tickets for future flights.
         - We thank everyone for their continued support.
         - We hope to return to the skies in the future.
+  drag:
+    0:
+      identifier: fuxing drag
+      sentences:
+        -
+          sentence: As you know, the airline industry in Taiwan has faced difficulties recently.
+          clozed: As|you|the|airline|industry|in|Taiwan|has|faced|difficulties|End
+        -
+          sentence: This means that we have suffered along with other airlines, like China_Airlines and Eva.
+          clozed: This|means|that|we|have|suffered|along|with|other|like|China_Airlines|and|End
+        -
+          sentence: However, we were under greater pressure, because of our two aircraft crashes.
+          clozed: However|we|were|under|greater|because|of|our|two|aircraft|End
+        -
+          sentence: Therefore, we have had to make some difficult decisions.
+          clozed: Therefore|we|have|had|to|make|some|difficult|decisions|End
+        -
+          sentence: Accordingly, we have decided to suspend all operations.
+          clozed: Accordingly|we|have|decided|to|suspend|all|operations|End
+        -
+          sentence: We will give refunds to all passengers who have tickets for future flights.
+          clozed: We|will|give|refunds|to|all|who|have|tickets|for|future|End
+        -
+          sentence: We thank everyone for their continued support.
+          clozed: We|thank|everyone|for|their|continued|support|End
+        -
+          sentence: We hope to return to the skies in the future.
+          clozed: We|hope|to|return|to|the|skies|in|the|future|End
 
   jigsaw:
     0:
