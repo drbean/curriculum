@@ -699,7 +699,7 @@ student:
           clozed: The|thing|students|like|you|understand|is|End
         -
           sentence: So, I'm telling you 15 percent of the class will fail this semester! (I should fail 50 percent.)
-          clozed: So telling you 15 percent of the class will fail this should fail 50
+          clozed: So|telling|you|15|percent|of|the|class|will|fail|this|should|fail|50|End
   jigsaw:
     comprehension:
       identifier: student comprehension
