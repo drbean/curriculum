@@ -555,6 +555,34 @@ sweater:
           # That is, I want you to send me the 24 cotton sweaters of SX126F_and_SX128F.
           # Unfortunately, I misread this report, which actually showed that cotton prevents skin cancer.
   match:
+    uncancel:
+      identifier: uncancel structure
+      pair:
+        -
+          - Accordingly, I cancel cancellation my of order. the to wish
+          - cancellation/change of order
+        -
+          - And I business doing forward future. in look more the to with you
+          - forward-looking close
+        -
+          - Could confirm get have it. message please received that this when you you you
+          - request for confirmation
+        -
+          - 11 24 I SX126F_and_SX128F September. am connection cotton in made of on orders sweaters, with writing
+          - reference to initial order
+        -
+          - I I apologize caused. for have inconvenience that the
+          - apology
+        -
+          - 16 I September, a canceled cancer. causes cotton on order owing report skin that this to
+          - reason for cancellation/change
+        -
+          - 24 I SX126F_and_SX128F. That cotton is, me of send sweaters the to want you
+          - cancellation/change of order
+        -
+          - I Unfortunately, actually cancer. cotton misread prevents report, showed skin that this which
+          - reason for cancellation/change
+        
     0:
       identifier: correction sweater
       pair:
