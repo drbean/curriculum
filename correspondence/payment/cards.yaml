@@ -136,6 +136,16 @@ type:
              - Inability to pay
           answer: Inability to pay
 demand:
+  essay:
+    0:
+      identifier: payment demand letter 5
+      rubric: |+
+        You represent Formosa Ell Education, the publisher of Writing for Business Practices. Dr Bean cancelled his order for 52 copies of the textbook, but afterwards he decided to use the textbook anyway, and on April 20, asked you to send him the 52 copies. You sent him the books on April 27 , but he hasn't paid for them, as of June 24.
+
+        You have sent him 4 payment demands using the formats on p 119. Now you need to send him the 5th payment demand, following the style on p 120. You need to get tough with him.
+
+        Remind him of 4 previous letters, and the purchase details, date, list of goods, method of payment (eg, deposit into your Bank of Taiwan account, 027-00124568, or a 7-11 payment perhaps)
+    
   jigsaw:
     0:
       identifier: payment demand
