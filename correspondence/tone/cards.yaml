@@ -1096,6 +1096,30 @@ conditional:
         -
           sentence: If I wasn't married, I would be attracted to you.
           clozed: If|I|wasn't|married|I|would|be|attracted|to|you|End
+    1:
+      identifier: conditional scramble 1
+      sentences:
+        -
+          sentence: If you don't have money you can't live an easy life.
+          clozed: If|you|don't|have|money|you|can't|live|an|easy|End
+        -
+          sentence: If you haven't done any homework this semester, you will fail this class.
+          clozed: If|you|haven't|done|any|homework|this|you|will|fail|this|End
+        -
+          sentence: If you did the homework this semester, you will probably pass.
+          clozed: If|you|did|the|homework|this|semester|you|will|pass|End
+        -
+          sentence: If you do well in this exam, you will probably get a good grade.
+          clozed: If|you|do|in|this|you|will|probably|get|a|good|End
+        -
+          sentence: Dr_Bean would be surprised if more than 2 or 3 students failed this course.
+          clozed: Dr_Bean|would|be|surprised|if|more|than|2|or|3|students|failed|this|End
+        -
+          sentence: "Rong Tramp next month: If I had done the homework, I wouldn't have failed the course."
+          clozed: If|I|had|done|the|I|wouldn't|have|failed|the|End
+        -
+          sentence: "Dr Bean: If you hadn't given me a ride, I would have gotten wet."
+          clozed: If|you|hadn't|given|me|a|I|would|have|gotten|End
   jigsaw:
     want:
       identifier: conditional
