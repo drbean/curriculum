@@ -301,23 +301,23 @@ buffer:
     1:
       identifier: buffer
       quiz:
-        - question: NOT a buffer used at the start of a bad-news sentence to warn that bad news is coming and lessen the shock.
-          option:
-            - We regret to inform you that ..
-            - We are sorry if ..
-            - Accordingly, ..
-            - As a result, ..
-          answer: We are sorry if ..
-    2:
-      identifier: buffer
-      quiz:
-        - question: IS a buffer used at the start of a bad-news sentence to warn that bad news is coming and lessen the shock of the bad news.
+        - question: Which word IS a buffer used at the start of a bad-news sentence to warn that bad news is coming and lessen the shock of the bad news?
           option:
             - Unfortunately, ..
             - We apologize for ..
             - We have found that ..
             - I am writing in connection with ..
           answer: Unfortunately, ..
+    2:
+      identifier: buffer
+      quiz:
+        - question: Which word is NOT a buffer used at the start of a bad-news sentence to warn that bad news is coming and lessen the shock?
+          option:
+            - We regret to inform you that ..
+            - We are sorry if ..
+            - Accordingly, ..
+            - As a result, ..
+          answer: We are sorry if ..
 necessity:
   jigsaw:
     0:
@@ -332,12 +332,29 @@ necessity:
     1:
       identifier: necessity
       quiz:
-        - question: Sentence NOT showing some action is necessary for the writer and there is no other alternative.
+        - question: Two sentences show some action is necessary for the writer and there is no other alternative. One sentence does NOT. Which sentence does not show the action is necessary for the writer?
           option:
             - We will have our staff report at your gates at 8am.
             - We will have no choice but to pursue legal action.
             - The situation requires us to downsize the company.
           answer: We will have our staff report at your gates at 8am.
+report:
+  essay:
+    0:
+      identifier: formal grade report
+      rubric: |+
+        You are a teacher at NUU. Instead of just reporting a grade below 60, the school wants you to submit a formal bad-news letter to students who fail your courses. Use the format in the book on page 94 to write a letter for bad boy, Rong Tramp.
+
+        * Situation
+        * Bad-news
+        * Alternative/solution
+        * Forward-looking close
+
+        Make up the reasons for failing the student. They could be related to homework, classroom behavior, attitude, attendance, etc.
+
+        Make up a solution/alternative for the student. They could be repeating the class next year, dropping out of school, cleaning the school, apologizing to the teacher (!), etc.
+    
+        There is no need for To:, From:, Subject:, etc lines.
 scramble:
   scramble:
     0:
@@ -427,56 +444,56 @@ fuxing:
     0:
       identifier: fuxing
       quiz:
-        - question: We hope to return to the skies in the future.
+        - question: We future. hope in return skies the the to to
           option:
             - situation
             - bad_news
             - alternative
             - positive close
           answer: positive close
-        - question: We thank everyone for their continued support.
+        - question: We continued everyone for support. thank their
           option:
             - situation
             - bad_news
             - alternative
             - positive close
           answer: positive close
-        - question: We will continue to provide ground_services to other airlines.
+        - question: We all flights. for future give have passengers refunds tickets to who will
           option:
             - situation
             - bad_news
             - alternative
             - positive close
           answer: alternative
-        - question: Accordingly, we have decided to suspend all operations.
+        - question: Accordingly, all decided have operations. suspend to we
           option:
             - situation
             - bad_news
             - alternative
             - positive close
           answer: bad_news
-        - question: Therefore, we have had to make some difficult decisions.
+        - question: Therefore, decisions. difficult had have make some to we
           option:
             - situation
             - bad_news
             - alternative
             - positive close
           answer: situation
-        - question: However, we were under greater pressure, because of our two aircraft crashes.
+        - question: However, aircraft because crashes. greater of our pressure, two under we were
           option:
             - situation
             - bad_news
             - alternative
             - positive close
           answer: situation
-        - question: This means that we have suffered along with other airlines, like China and Eva.
+        - question: China_Airlines Eva. This airlines, along and have like means other suffered that we with
           option:
             - situation
             - bad_news
             - alternative
             - positive close
           answer: situation
-        - question: As you know, the airline industry in Taiwan has faced difficulties recently.
+        - question: As Taiwan airline difficulties faced has in industry know, recently. the you
           option:
             - situation
             - bad_news
