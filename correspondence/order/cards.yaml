@@ -583,6 +583,34 @@ sweater:
           - I Unfortunately, actually cancer. cotton misread prevents report, showed skin that this which
           - reason for cancellation/change
         
+    ordering:
+      identifier: uncancel sentence order
+      pair:
+        -
+          - 1
+          - 11 24 I SX126F_and_SX128F September. am connection cotton in made of on orders sweaters, with writing
+        -
+          - 2
+          - 16 I September, a canceled cancer. causes cotton on order owing report skin that this to
+        -
+          - 3
+          - I Unfortunately, actually cancer. cotton misread prevents report, showed skin that this which
+        -
+          - 4
+          - Accordingly, I cancel cancellation my of order. the to wish
+        -
+          - 5
+          - 24 I SX126F_and_SX128F. That cotton is, me of send sweaters the to want you
+        -
+          - 6
+          - Could confirm get have it. message please received that this when you you you
+        -
+          - 7
+          - I I apologize caused. for have inconvenience that the
+        -
+          - 8
+          - And I business doing forward future. in look more the to with you
+        
     0:
       identifier: correction sweater
       pair:
