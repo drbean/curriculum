@@ -793,6 +793,22 @@ student:
             - Tone weak, because of suggested inappropriate student behavior
             - Tone weak, because of suggested lack of intelligence
           answer: Tone weak, because of suggested inappropriate student behavior
+        - question: Then, write something. This means more than writing one or two words.
+          option:
+            - Tone OK
+            - Tone weak, because of accusations without evidence
+            - Tone weak, because of negative judgmental attitude to students
+            - Tone weak, because of suggested inappropriate student behavior
+            - Tone weak, because of suggested lack of intelligence
+          answer: Tone weak, because of negative judgmental attitude to students
+        - question: I am sorry if the homework means extra work for you.
+          option:
+            - Tone OK
+            - Tone weak, because of accusations without evidence
+            - Tone weak, because of negative judgmental attitude to students
+            - Tone weak, because of suggested inappropriate student behavior
+            - Tone weak, because of suggested lack of intelligence
+          answer: Tone weak, because of negative judgmental attitude to students
         - question: (if If a any app app!) are further how know me message moodle questions, send the the there to to use use you
           option:
             - Tone OK
@@ -802,6 +818,14 @@ student:
             - Tone weak, because of suggested lack of intelligence
           answer: Tone weak, because of suggested lack of intelligence
         - question: The is like only punishment. students thing understand you
+          option:
+            - Tone OK
+            - Tone weak, because of accusations without evidence
+            - Tone weak, because of negative judgmental attitude to students
+            - Tone weak, because of suggested inappropriate student behavior
+            - Tone weak, because of suggested lack of intelligence
+          answer: Tone weak, because of negative judgmental attitude to students
+        - question: So, I'm telling you 15 percent of the class will fail this semester! (I should fail 50 percent.)
           option:
             - Tone OK
             - Tone weak, because of accusations without evidence
