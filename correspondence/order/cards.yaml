@@ -2,6 +2,40 @@
 genre: correspondence
 order:
   jigsaw:
+    context:
+      identifier: order context
+      quiz:
+        - question: "The person or company which sends the message ordering a product or service is the:"
+          option:
+            - supplier
+            - buyer
+          answer: buyer
+        - question: "If there are a number of messages between a supplier and a buyer, the last message which comes before an order is probably:"
+          option:
+            - no previous contact
+            - introduction/promotion
+            - inquiry
+            - reply to an inquiry
+            - goodwill email
+            - good news email
+            - bad news email
+            - acknowledgment of the order
+            - order cancellation
+            - complaint
+          answer: reply to an inquiry
+        - question: "If there are a number of messages between a supplier and a buyer, the next message which comes after an order is probably:"
+          option:
+            - no previous contact
+            - introduction/promotion
+            - inquiry
+            - reply to an inquiry
+            - goodwill email
+            - good news email
+            - bad news email
+            - acknowledgment of the order
+            - order cancellation
+            - complaint
+          answer: acknowledgment of the order
     0:
       identifier: example 
       quiz:
@@ -491,7 +525,7 @@ sweater:
           clozed: Accordingly|I|wish|to|cancel|my|cancellation|of|the|End
         -
           sentence: And I look forward to doing more business with you in the future.
-          clozed: And I look forward to doing more business with you in the future.
+          clozed: And|I|look|forward|to|doing|more|business|with|you|in|the|End
         -
           sentence: Could you please confirm that you have received this message when you get it.
           clozed: Could|you|please|confirm|that|you|have|received|this|message|when|you|get|End
