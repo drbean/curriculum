@@ -1,5 +1,50 @@
 ---
 genre: correspondence
+editing:
+  jigsaw:
+    0:
+      identifier: type
+      quiz:
+        - question: I am sorry I was not able to send the money. I was at a conference in Japan, and did not see your email. Please find enclosed a check for $7,000. 
+          option:
+            - Payment on time
+            - Late payment
+            - Incorrect bill, payment of amount believed correct
+            - Incorrect bill, no payment
+            - Inability to pay
+          answer: Late payment
+        - question: Please find enclosed a check for $7,000. Thanks for your work on our article.
+          option:
+            - Payment on time
+            - Late payment
+            - Incorrect bill, payment of amount believed correct
+            - Incorrect bill, no payment
+            - Inability to pay
+          answer: Payment on time
+        - question: I am writing in connection with the bill for your work on my article. I am willing to pay the amount of $7,000. Unfortunately, we have no more research funds, and the university refuses to give me any more money.
+          option:
+             - Payment on time
+             - Late payment
+             - Incorrect bill, payment of amount believed correct
+             - Incorrect bill, no payment
+             - Inability to pay
+          answer: Inability to pay
+        - question: I think you made a mistake with the cost of your work. Your rate is $10 per word and the article was 700 words, so the price should be $7000, not $17,000. Can you explain?
+          option:
+             - Payment on time
+             - Late payment
+             - Incorrect bill, payment of amount believed correct
+             - Incorrect bill, no payment
+             - Inability to pay
+          answer: Incorrect bill, no payment
+        - question: I think you made a mistake with the cost of your work. Your rate is $10 per word and the article was 700 words, so the price should be $7000. I am including a check for $7,000.
+          option:
+            - Payment on time
+            - Late payment
+            - Incorrect bill, payment of amount believed correct
+            - Incorrect bill, no payment
+            - Inability to pay
+          answer: Incorrect bill, payment of amount believed correct
 hospital:
   jigsaw:
     0:
@@ -251,6 +296,7 @@ demand:
             - sixth
           answer: third
         - question: 4.  You still owe us US$40,000. (Use "outstanding")
+          option:
             - first
             - fourth
             - sixth
