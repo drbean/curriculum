@@ -86,6 +86,33 @@ time:
         -
           - Until I got really sick,
           - I hadn't understood the importance of good health.
+    0_and_1:
+      identifier: time clauses
+      pair:
+        -
+          - By the time I was 15,
+          - I had learned how to take care of myself.
+        -
+          - Until I started working part-time, 
+          - I had never saved any money.
+        -
+          - The moment I got my first paycheck, 
+          - I began to understand the value of money.
+        -
+          - As soon as I left home,
+          - I realized that I wasn't a child anymore.
+        -
+          - Once I started sharing an apartment,
+          - I learned how to get along better with people.
+        -
+          - After I began a relationship,
+          - I learned that love can hurt.
+        -
+          - Before I traveled abroad,
+          - I didn't appreciate my own country.
+        -
+          - Until I got really sick,
+          - I hadn't understood the importance of good health.
 event:
   jigsaw:
     0:
@@ -277,7 +304,8 @@ younger:
         - question: One of the 14 things you did/didn't do and regret doing/not doing. Follow the format on p 125. "When I was younger, .."
           answer: 
             - When I was younger, I didn't pay attention in class. If I had paid attention in class, I would have gotten better grades. Ha, ha!
-            - When I was younger, I .*\. If I had(n't)? .*, I would(n't)? have .*\.
+            - When I was younger, I did pay attention in class\. If I hadn't paid attention in class, I wouldn't have gotten a good job\.
+            - When I was younger, I .* If I had(n't)? .*, I would(n't)? have .*
           incorrect:
             -
               error: ^(?!.*When I was younger, I .*)
@@ -314,5 +342,207 @@ younger:
             - When I was younger, I didn't pay attention in class. If I had paid attention in class, I would have gotten better grades.
           - accomplishment
             - When I was younger, I paid attention in class. If I hadn't paid attention in class, I wouldn't have gotten a good job.
+trigger:
+  jigsaw:
+    10-1-2:
+      identifier: identity trigger
+      A: Sally wanted to learn a foreign languages, but wasn't sure that she could learn to speak it well.
+      B: When Sally learned Spanish, she found that she was good at it. She felt proud of herself.
+      quiz:
+        - question: Sally wanted to learn a foreign language.
+          answer: True
+        - question: Sally learned Japanese.
+          answer: False
+        - question: Sally was confident that she would be able to learn it well.
+          answer: False
+        - question: Sally found learning language was more difficult than she expected.
+          answer: False
+        - question: Sally found she was good at learning language.
+          answer: True
+        - question: Learning language gave Sally confidence.
+          answer: True
+    10-1-3:
+      identifier: Henry identity trigger
+      A: Henry never had to do anything on his own, because he has a twin brother. They always did things together.
+      B: When he went to college, he didn't have his brother to depend on. He learned to cope on his own.
+      quiz:
+        - question: Henry had a twin brother who he could depend on.
+          answer: True
+        - question: When he went to college, he depended on his brother, too.
+          answer: False
+        - question: Henry's twin brother made things difficult for him.
+          answer: False
+        - question: Henry went to college with his twin brother.
+          answer: False
+        - question: At college, Henry found he could cope on his own.
+          answer: True
+        - question: Henry learned to be independent when he had no one to depend on.
+          answer: True
+    10-2-1:
+      identifier: Debbie identity trigger
+      A: Debbie was a good student, but she was shy and didn't talk much. Then she got a prize for being top student.
+      B: After, other students thought she was important. They looked up to her and she became more talkative.
+      quiz:
+        - question: Debbie was an ordinary student.
+          answer: False
+        - question: The school recognized Debbie as a top student.
+          answer: True
+        - question: Other students changed their views of her, afterwards.
+          answer: True
+        - question: Other students did not show respect to her.
+          answer: False
+        - question: Debbie became more outgoing as a result of a prize.
+          answer: True
+    10-2-2:
+      identifier: Alex regret
+      A: Alex says he should never have stopped exercising. He says he should have continued to exercise.
+      B: Alex says if he hadn't stopped exercising, he would never have gotten fat. He would have stayed thin.
+      quiz:
+        - question: Alex was fat.
+          answer: False
+        - question: Alex is now thin.
+          answer: False
+        - question: He says exercising would have kept him thin.
+          answer: True
+        - question: Alex didn't stop exercising.
+          answer: False
+        - question: Alex says exercising is a cause of staying thin.
+          answer: True
+        - question: Alex regrets what he did.
+          answer: True
+    10-2-3:
+      identifier: YiYun regret
+      A: YiYun wishes she could play the guitar. If she had had the choice, she would have learned to play it.
+      B: YiYun plays the piano but says if she had learned to play the guitar, she could take it to parties.
+      quiz:
+        - question: YiYun can play piano.
+          answer: True
+        - question: YiYun now plays guitar.
+          answer: False
+        - question: She says if she could play guitar she could play at parties.
+          answer: True
+        - question: YiYun says she wasn't given the chance to learn how to play guitar.
+          answer: True
+        - question: YiYun thinks you don't have to learn how to play guitar, you can just do it.
+          answer: False
+        - question: YiYun doesn't regret what happened.
+          answer: False
+    10-3-1:
+      identifier: Jacob regret
+      A: After college, Jacob says he should have gone to Europe with his friends. He says he shouldn't have started to look for a job.
+      B: Jacob says if he hadn't started looking for a job, he could have gone to Europe. He could have had a lot of fun.
+      quiz:
+        - question: Jacob looked for a job after graduating.
+          answer: True
+        - question: Jacob went to Europe, too.
+          answer: False
+        - question: He says going to Europe is a lot of fun for people.
+          answer: True
+        - question: Jacob says if you are looking for a job, you can still be traveling in Europe at the same time.
+          answer: False
+        - question: Jacob says looking for a job was a lot of fun.
+          answer: False
+        - question: Jacob regrets what he did not do.
+          answer: True
 
+    10-3-2:
+      identifier: identity trigger
+      A: Sally wanted to learn a foreign languages, but wasn't sure that she could learn to speak it well.
+      B: When Sally learned Spanish, she found that she was good at it. She felt proud of herself.
+      quiz:
+        - question: Sally wanted to learn a foreign language.
+          answer: True
+        - question: Sally learned Japanese.
+          answer: False
+        - question: Sally was confident that she would be able to learn it well.
+          answer: False
+        - question: Sally found learning language was more difficult than she expected.
+          answer: False
+        - question: Sally found she was good at learning language.
+          answer: True
+        - question: Learning language gave Sally confidence.
+          answer: True
+    10-3-3:
+      identifier: Henry identity trigger
+      A: Henry never had to do anything on his own, because he has a twin brother. They always did things together.
+      B: When he went to college, he didn't have his brother to depend on. He learned to cope on his own.
+      quiz:
+        - question: Henry had a twin brother who he could depend on.
+          answer: True
+        - question: When he went to college, he depended on his brother, too.
+          answer: False
+        - question: Henry's twin brother made things difficult for him.
+          answer: False
+        - question: Henry went to college with his twin brother.
+          answer: False
+        - question: At college, Henry found he could cope on his own.
+          answer: True
+        - question: Henry learned to be independent when he had no one to depend on.
+          answer: True
+    10-4-1:
+      identifier: Debbie identity trigger
+      A: Debbie was a good student, but she was shy and didn't talk much. Then she got a prize for being top student.
+      B: After, other students thought she was important. They looked up to her and she became more talkative.
+      quiz:
+        - question: Debbie was an ordinary student.
+          answer: False
+        - question: The school recognized Debbie as a top student.
+          answer: True
+        - question: Other students changed their views of her, afterwards.
+          answer: True
+        - question: Other students did not show respect to her.
+          answer: False
+        - question: Debbie became more outgoing as a result of a prize.
+          answer: True
+    10-4-2:
+      identifier: Alex regret
+      A: Alex says he should never have stopped exercising. He says he should have continued to exercise.
+      B: Alex says if he hadn't stopped exercising, he would never have gotten fat. He would have stayed thin.
+      quiz:
+        - question: Alex was fat.
+          answer: False
+        - question: Alex is now thin.
+          answer: False
+        - question: He says exercising would have kept him thin.
+          answer: True
+        - question: Alex didn't stop exercising.
+          answer: False
+        - question: Alex says exercising is a cause of staying thin.
+          answer: True
+        - question: Alex regrets what he did.
+          answer: True
+    10-4-3:
+      identifier: YiYun regret
+      A: YiYun wishes she could play the guitar. If she had had the choice, she would have learned to play it.
+      B: YiYun plays the piano but says if she had learned to play the guitar, she could take it to parties.
+      quiz:
+        - question: YiYun can play piano.
+          answer: True
+        - question: YiYun now plays guitar.
+          answer: False
+        - question: She says if she could play guitar she could play at parties.
+          answer: True
+        - question: YiYun says she wasn't given the chance to learn how to play guitar.
+          answer: True
+        - question: YiYun thinks you don't have to learn how to play guitar, you can just do it.
+          answer: False
+        - question: YiYun doesn't regret what happened.
+          answer: False
+    10-5-1:
+      identifier: Jacob regret
+      A: After college, Jacob says he should have gone to Europe with his friends. He says he shouldn't have started to look for a job.
+      B: Jacob says if he hadn't started looking for a job, he could have gone to Europe. He could have had a lot of fun.
+      quiz:
+        - question: Jacob looked for a job after graduating.
+          answer: True
+        - question: Jacob went to Europe, too.
+          answer: False
+        - question: He says going to Europe is a lot of fun for people.
+          answer: True
+        - question: Jacob says if you are looking for a job, you can still be traveling in Europe at the same time.
+          answer: False
+        - question: Jacob says looking for a job was a lot of fun.
+          answer: False
+        - question: Jacob regrets what he did not do.
+          answer: True
         
