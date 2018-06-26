@@ -339,9 +339,9 @@ younger:
       pair:
         -
           - regret
-            - When I was younger, I didn't pay attention in class. If I had paid attention in class, I would have gotten better grades.
+          - When I was younger, I didn't pay attention in class. If I had paid attention in class, I would have gotten better grades.
           - accomplishment
-            - When I was younger, I paid attention in class. If I hadn't paid attention in class, I wouldn't have gotten a good job.
+          - When I was younger, I paid attention in class. If I hadn't paid attention in class, I wouldn't have gotten a good job.
 trigger:
   jigsaw:
     1-2:
