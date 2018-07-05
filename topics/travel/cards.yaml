@@ -429,3 +429,16 @@ cruise:
       - Do you like to look at man-made wonders? Go on a cruise to the Panama Canal!                _你喜歡看人造奇觀嗎？ 去遊覽巴拿馬運河！_
       - Do you want to see icebergs, seals and whales? Go on a cruise to Alaska!                    _你想看冰山，海豹和鯨魚嗎？ 去阿拉斯加巡航！_
       - Wherever you may choose to go, a cruise is a great way to travel.                           _無論你去哪裡，遊輪都是一個很好的旅行方式。_
+travel:
+  0:
+    flash:
+      subway   : 地鐵
+      airport  : 飛機場
+      taxi     : 出租車
+      driver   : 司機
+      seat     : 座位
+      travel   : 旅行
+      slow     : 慢
+      get on   : 登上
+  bingo:
+    - subway airport taxi driver seat travel slow get_on
