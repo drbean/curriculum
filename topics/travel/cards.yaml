@@ -442,3 +442,14 @@ travel:
       get on   : 登上
   bingo:
     - subway airport taxi driver seat travel slow get_on
+means:
+  0:
+    flash:
+      train        : 火車
+      ship         : 船
+      truck        : 卡車
+      car          : 汽車
+      airplane     : 飛機
+      bicycle      : 自行車
+      motorcycle   : 摩托車
+      canoe        : 獨木舟
