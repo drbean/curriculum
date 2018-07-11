@@ -157,3 +157,16 @@ fan:
       - He hit three home runs in the first game.      _他在第一場比賽中打三場主_
       - In the second game, he didn’t hit a home run.  _在第二場比賽中，他沒有打_
       - But his team won both games!                   _但他的球隊贏了兩場比賽！_
+hero:
+  bingo:
+    - silver gym win basketball really around hero during
+  0:
+    flash:
+      silver      : 銀
+      gym         : 健身房
+      win         : 贏得
+      basketball  : 籃球
+      really      : 真
+      around      : 周圍
+      hero        : 英雄
+      during      : 中
