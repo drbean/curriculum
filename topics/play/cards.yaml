@@ -63,6 +63,19 @@ puzzle:
       - Then, more people started doing word puzzles because they were fun.             _於是，越來越多的人開始做填字遊戲，因為他們是樂趣。_
       - Now, word puzzles are in most newspapers, and a lot of people love doing them.  _現在，填字遊戲，在大多數的報紙，很多人喜歡做他們。_
 
+equipment:
+  0:
+    flash:
+      hula-hoop    : 呼啦圈
+      slide down the slide       : 滑下滑坡
+      swing        : 搖擺
+      seesaw       : 蹺蹺板
+      jump rope    : 跳繩
+      playground   : 操場
+      sand         : 砂
+      scratch      : 刮
+  bingo:
+    - hula-hoop slide swing seesaw jump_rope playground sand scratch
 game:
   bingo:
     - chess checkers jacks marbles cards win lose cheats race play raining stay_inside piece boring rocks animal_bones throw pick_up
