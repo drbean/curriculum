@@ -12,23 +12,23 @@ color:
       yellow : 黃色
       white  : 白色
 thing:
-  school:
+  0:
     flash:
       crayon : 蠟筆
       pencil : 鉛筆
-      ruler  : 統治者
-  fruit:
-    flash:
+      ruler  : 尺
       apple  : 蘋果
       banana : 香蕉
       orange : 橙子
-  animal:
-    flash:
-      hen    : 母 
+      hen    : 母雞 
       pig    : 豬 
-      sheep  : 羊 
-  vehicle:
+  1:
     flash:
+      sheep  : 羊 
+      bicycle: 自行車 
+      car    : 汽車   
+      truck  : 卡車   
+      sheep  : 羊 
       bicycle: 自行車 
       car    : 汽車   
       truck  : 卡車   
