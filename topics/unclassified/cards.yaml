@@ -28,7 +28,7 @@ thing:
       bicycle: 自行車 
       car    : 汽車   
       truck  : 卡車   
-      sheep  : 羊 
-      bicycle: 自行車 
-      car    : 汽車   
-      truck  : 卡車   
+      SHEEP  : 羊 
+      BICYCLE: 自行車 
+      CAR    : 汽車   
+      TRUCK  : 卡車   
