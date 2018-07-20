@@ -30,7 +30,7 @@ transport:
       - "B: How often do you see her? _A: Every summer._"
       - "B: Does Natasha always travel by airplane? _A: Usually, but I never do._"
       - "A: I prefer the train because I'm afraid of flying. _B: Me, too! We're in the same boat._"
-
+    - go_to airport get_a_taxi full stop_for_him rides the_city_bus slow long_lines Oh,_no! miss_his_plane
 
     -
       - "G: Do you often use buses and trains? _B: My family always uses buses and trains to go to places._"
