@@ -31,6 +31,7 @@ job:
       dentist        : 牙醫
   bingo:
     - fire_fighter police_officer doctor nurse chef teacher waiter dentist photographer pilot musician singer dancer astronaut
+    - firefighter cartoonist publisher army drummer medical soldier factory
 
     -
       - A _nurse_ helps you when you are sick.
