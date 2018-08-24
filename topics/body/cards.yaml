@@ -263,6 +263,19 @@ sick:
       - "A: You don’t look so good. _B: I don’t feel so well._"
       - "A: You should stay in bed today. _B: OK. I guess you’re right._"
       - "A: Do you need to go to the hospital? _B: My mom is a nurse. She’ll take care of me._"
+part:
+  0:
+    flash:
+      leg    : 腿     
+      arm    : 臂     
+      hand   : 手     
+      foot   : 腳丫子 
+      legs   : 一些腿 
+      arms   : 一些臂
+      hands  : 一些手     
+      feet   : 一些腳     
+  bingo:
+
 
 
 
