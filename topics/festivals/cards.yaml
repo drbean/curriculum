@@ -36,7 +36,18 @@ tomato:
     - tomato festival Spain music fireworks parade dance throw food_fight big_mess clean filled trucks each_other town world every year people starts
     - picture special line festival exciting fireworks decorate flowers beautiful colorful concert dancing parade stand moving angry mad take_too_long shapes star
 costume:
+  0:
+    flash:
+      costume   : 服裝
+      wig       : 假髮
+      glasses   : 眼鏡
+      pirate    : 海盜
+      holiday   : 假日
+      celebrate : 慶祝
+      crown     : 王冠
+      princess  : 公主
   bingo:
+    - costume wig glasses pirate holiday celebrate crown princess
     - Danielle costume_party ready pink_dress is pretty puts_on wig long blond_and_straight crown gold colors princess pirate Halloween celebrate dress glasses 
     - heads skin turn_red stay_clean bugs hair dress_up birthday purple paint blue sad Dave celebrate move_away vampire pretty Jessie Kate Sarah parrot
     - princess birthday crown king pirate glasses paint color dress_up_as gold celebrate favorite holiday sad Mary John blond long good_idea look_great
