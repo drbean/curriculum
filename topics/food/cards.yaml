@@ -12,6 +12,7 @@ cooking:
       sick    : 生病   
       hotdog  : 熱狗   
   bingo:
+    - toast apron cupcake cook plate fork sick hotdog 
     -
       - For breakfast, Jack makes five pieces of toast. He eats them all.    _對於早餐，傑克製作五塊烤麵包片。 他吃了他們_
       - For lunch, Jack eats three cupcakes.                                 _吃午飯時，傑克吃三杯蛋糕。_
