@@ -275,7 +275,14 @@ part:
       hands  : 一些手     
       feet   : 一些腳     
   bingo:
-
-
-
-
+move:
+  0:
+    flash:
+      touch  : 觸摸
+      walk   : 步行
+      jump   : 跳
+      run    : 跑
+      floor  : 地板
+      window : 窗口
+      door   : 門
+      wall   : 壁
