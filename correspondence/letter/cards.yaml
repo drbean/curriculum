@@ -188,9 +188,67 @@ address:
           option:
             - 168 Boai Second Road//Zuoying District, Gaoxiong City 81357//Taiwan
           answer: 168 Boai Second Road//Zuoying District, Gaoxiong City 81357//Taiwan
-        
-        
-        
+    president:
+      identifier: president tsai
+      quiz:
+        - question: 10048 臺北市中正區重慶南路1段122號中華民國總統府
+          answer: 
+            - |+
+              Office of the President\n
+              122 Chongqing South Road, Section 1\n
+              Zhongzheng District, Taipei City 10048
+          incorrect:
+            -
+              error: ^(?!.*Office of the President.*)
+              feedback: Use the words, "Office of the President"
+            -
+              error: ^(?!.*122 Chongqing South Road, Section 1.*)
+              feedback: Use the words, "122 Chongqing South Road, Section 1"
+            -
+              error: ^(?!.*Zhongzheng District, Taipei City 10048.*)
+              feedback: Use the words, "Zhongzheng District, Taipei City 10048"
+    nuu:
+      identifier: nuu address
+      quiz:
+        - question: 36003苗栗市恭敬里聯大1號
+          answer:
+            - 1 Lienda//Miaoli 36003//Taiwan
+          incorrect:
+            -
+              error: ^(?!.*1 .*)
+              feedback: Use the words, "1 "
+            -
+              error: ^(?!.*Lienda//.*)
+              feedback: Use the words, "Lienda//"
+            -
+              error: ^(?!.*Miaoli//.*)
+              feedback: Use the words, "Miaoli//"
+            -
+              error: ^(?!.*36003//.*)
+              feedback: Use the words, "36003//"
+    whitehouse:
+      identifier: whitehouse
+      quiz:
+        - question: 20500 美國白宮川普總統
+          answer:
+            - President Trump//The White House 20500//U.S.A.
+          incorrect:
+            -
+              error: ^(?!.*Trump//.*)
+              feedback: Use the words, "Trump//"
+            -
+              error: ^(?!.*//The White House.*)
+              feedback: Use the words, "//The White House"
+            -
+              error: ^(?!.*House .*)
+              feedback: Use the words, "House "
+            -
+              error: ^(?!.*20500//.*)
+              feedback: Use the words, "20500//"
+            -
+              error: ^(?!.*U\.S\.A\..*)
+              feedback: Use the words, "U.S.A\."
+            
 letterhead:
   jigsaw:
     0:
