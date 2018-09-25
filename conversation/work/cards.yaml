@@ -1928,14 +1928,14 @@ summer:
       quiz:
         - question: who has job already
           option:
-            - Mark
-            - Tracy
-          answer: Tracy
+            - Emma
+            - Tyler
+          answer: Tyler
         - question: who has only job possibilities
           option:
-            - Mark
-            - Tracy
-          answer: Mark
+            - Emma
+            - Tyler
+          answer: Emma
 preference:
   jigsaw:
     0:
@@ -1951,6 +1951,19 @@ preference:
             - landscaping gardens
             - record company intern
           answer: landscaping gardens
+    1:
+      identifier: preferred job 5th edition
+      quiz:
+        - question: "After Emma hears Tyler talk about the beach resort job, she:"
+          option:
+            - wants to work at the beach resort too.
+            - thinks working at a website might be a better job.
+          answer: thinks working at a website might be a better job.
+        - question: "Tyler says about his beach resort job:"
+          option:
+            - it's worth it, because of the place and the pay.
+            - he doesn't want to do it because it's too much work.
+          answer: it's worth it, because of the place and the pay.
 perspective:
   jigsaw:
     flight:
@@ -1969,16 +1982,18 @@ perspective:
     designer:
       identifier: designer
       quiz:
-        - question: 1st
+        - question: 1st person says about designers
           option:
-            - positive view of job
-            - negative view of job
-          answer: positive view of job
-        - question: 2nd
+            - a job for men, not women
+            - a job for women, not men
+            - a job for women and men
+          answer: a job for women, not men
+        - question: 2nd person says about designers
           option:
-            - positive view of job
-            - negative view of job
-          answer: negative view of job
+            - a job for men, not women
+            - a job for women, not men
+            - a job for women and men
+          answer: a job for women and men
     vet:
       identifier: vet
       quiz:
@@ -2005,6 +2020,113 @@ perspective:
             - positive view of job
             - negative view of job
           answer: negative view of job
+gerund:
+  jigsaw:
+    0:
+      identifier: gerund
+      quiz:
+        - question: Write a sentence combining one phrase each from A, B, C. Prepare to give reasons for your opinion.
+          answer:
+            - Working as an accountant would be kind of boring.
+            - (Working as an accountant|Taking care of children|Being a farmer|Designing clothes|Working on a movie set|making a living as an artist|Doing volunteer work overseas|Retiring at age 40) (seems|sounds|could be|would be|must be) (awful|stressful|fantastic|fascinating|pretty difficult|kind of boring|really rewarding|very challenging)\.
+          incorrect:
+            -
+              error: ^(?!.*[A-Z].*)
+              feedback: Use a capital letter to start the sentence.
+    1:
+      identifier: gerund
+      quiz:
+        - question: Write a 2nd sentence combining one phrase each from A, B, C. Prepare to give reasons for your opinion.
+          answer:
+            - Working as an accountant would be kind of boring.
+            - (Working as an accountant|Taking care of children|Being a farmer|Designing clothes|Working on a movie set|making a living as an artist|Doing volunteer work overseas|Retiring at age 40) (seems|sounds|could be|would be|must be) (awful|stressful|fantastic|fascinating|pretty difficult|kind of boring|really rewarding|very challenging)\.
+          incorrect:
+            -
+              error: ^(?!.*[A-Z].*)
+              feedback: Use a capital letter to start the sentence.
+    2:
+      identifier: gerund
+      quiz:
+        - question: Write a 3rd sentence combining one phrase each from A, B, C. Prepare to give reasons for your opinion.
+          answer:
+            - Working as an accountant would be kind of boring.
+            - (Working as an accountant|Taking care of children|Being a farmer|Designing clothes|Working on a movie set|making a living as an artist|Doing volunteer work overseas|Retiring at age 40) (seems|sounds|could be|would be|must be) (awful|stressful|fantastic|fascinating|pretty difficult|kind of boring|really rewarding|very challenging)\.
+          incorrect:
+            -
+              error: ^(?!.*[A-Z].*)
+              feedback: Use a capital letter to start the sentence.
+    3:
+      identifier: 5th edition
+      quiz:
+        - question: Write a sentence combining one phrase each from A, B, C. Prepare to give reasons for your opinion.
+          answer:
+            - Working from home could be very challenging.
+            - (Working from home|Doing volunteer work|Having your own business|Being a teacher|Working on a movie set|making a living as a tour guide|Taking care of sick people|Retiring at age 40) (seems|could be|would be|must be|wouldn't be|doesn't sound) (awful|stressful|fantastic|fascinating|pretty difficult|kind of boring|really rewarding|very challenging)\.
+          incorrect:
+            -
+              error: ^(?!.*[A-Z].*)
+              feedback: Use a capital letter to start the sentence.
+    4:
+      identifier: 5th edition
+      quiz:
+        - question: Write a 2nd sentence combining one phrase each from A, B, C. Prepare to give reasons for your opinion.
+          answer:
+            - Working from home could be very challenging.
+            - (Working from home|Doing volunteer work|Having your own business|Being a teacher|Working on a movie set|making a living as a tour guide|Taking care of sick people|Retiring at age 40) (seems|could be|would be|must be|wouldn't be|doesn't sound) (awful|stressful|fantastic|fascinating|pretty difficult|kind of boring|really rewarding|very challenging)\.
+          incorrect:
+            -
+              error: ^(?!.*[A-Z].*)
+              feedback: Use a capital letter to start the sentence.
+    5:
+      identifier: 5th edition
+      quiz:
+        - question: Write a 3rd sentence combining one phrase each from A, B, C. Prepare to give reasons for your opinion.
+          answer:
+            - Working from home could be very challenging.
+            - (Working from home|Doing volunteer work|Having your own business|Being a teacher|Working on a movie set|making a living as a tour guide|Taking care of sick people|Retiring at age 40) (seems|could be|would be|must be|wouldn't be|doesn't sound) (awful|stressful|fantastic|fascinating|pretty difficult|kind of boring|really rewarding|very challenging)\.
+          incorrect:
+            -
+              error: ^(?!.*[A-Z].*)
+              feedback: Use a capital letter to start the sentence.
+tester:
+  jigsaw:
+    0:
+      identifier: tester
+      quiz:
+        - question: What does Caden think about the pay?
+          option:
+            - Like
+            - Dislike
+          answer: Like
+        - question: What does Caden think about the hours?
+          option:
+            - Like
+            - Dislike
+          answer: Like
+        - question: What does Caden think about testing games?
+          option:
+            - Like
+            - Dislike
+          answer: Dislike
+        - question: What does Caden think about playing games at home?
+          option:
+            - Like
+            - Dislike
+          answer: Dislike
+        - question: What does Caden think about having new game ideas?
+          option:
+            - Like
+            - Dislike
+          answer: Like
+    1:
+      identifier: tester's decision
+      quiz:
+        - question: "Caden decides to:"
+          option:
+            - Think about becoming a game developer
+            - Quit the company
+            - Test other people's ideas about games
+          answer: Think about becoming a game developer
 change:
   jigsaw:
     0:
@@ -2196,6 +2318,94 @@ comparative:
           option:
             - A social worker isn't paid as much as a pharmacist.
           answer: A social worker isn't paid as much as a pharmacist.
+    1:
+      identifier: comparative
+      quiz:
+        - question: In my opinion, being a firefighter is ... (stressful) being a sales associate.
+          answer:
+            - In my opinion, being a firefighter is more stressful than being a sales associate.
+          incorrect:
+            -
+              error: ^(?!.*In my opinion, being a firefighter is more stressful ...*)
+              feedback: Use the words, "In my opinion, being a firefighter is more stressful .."
+            -
+              error: ^(?!.*than being a sales associate.*)
+              feedback: Use the words, "than being a sales associate"
+        - question: In addition, sales associates have ... (hours) firefighters.
+          answer: 
+            - In addition, sales associates have better hours than firefighters.
+          incorrect:
+            -
+              error: ^(?!.*In addition, sales associates have better hours.*)
+              feedback: Use the words, "In addition, sales associates have better hours"
+              error: ^(?!.*have better hours than firefighters.*)
+              feedback: Use the words, "have better hours than firefighters"
+            
+            
+        - question: In general, doctors need ... (training) nutritionists.
+          answer:
+            - In general, doctors need more training than nutritionists.
+          incorrect:
+            -
+              error: ^(?!.*In general, doctors need more training .*)
+              feedback: Use the words, "In general, doctors need more training ."
+            -
+              error: ^(?!.*than nutritionists..*)
+              feedback: Use the words, "than nutritionists."
+        - question: However, doctors usually ... (earn) nutritionists.
+          option:
+          answer:
+            - However, doctors usually earn more than nutritionists.
+          incorrect:
+            -
+              error: ^(?!.*However, doctors usually earn more .*)
+              feedback: Use the words, "However, doctors usually earn more "
+            -
+              error: ^(?!.*earn more than.*)
+              feedback: Use the words, "earn more than"
+        - question: Game testers don't need ... (experience) software developers.
+          answer:
+            - Game testers don't need as much experience as software developers.
+          incorrect:
+            -
+              error: ^(?!.*Game testers don't need as much experience.*)
+              feedback: Use the words, "Game testers don't need as much experience"
+            -
+              error: ^(?!.*as much experience as software developers.*)
+              feedback: Use the words, "as much experience as software developers"
+        - question: As a result, game testers ... (earn) software developers.
+          answer:  
+            - As a result, game testers earn less than software developers.
+            - As a result, game testers don't earn as much as software developers.
+          incorrect:
+            -
+              error: ^(?!.*As a result, game testers earn less .*)
+              feedback: Use the words, "As a result, game testers earn less"
+            -
+              error: ^(?!.*less than software developers.*)
+              feedback: Use the words, "less than software developers"
+        - question: A career in banking is often ... (demanding) a career in sales.
+          answer:
+            - A career in banking is often not as demanding as a career in sales.
+            - A career in banking is often less demanding than a career in sales.
+          incorrect:
+            -
+              error: ^(?!.*A career in banking is often not as demanding.*)
+              feedback: Use the words, "A career in banking is often not as demanding"
+            -
+              error: ^(?!.*demanding as a career in sales.*)
+              feedback: Use the words, "demanding as a career in sales"
+        - question: But a career in banking is also ... (paid).
+          answer: 
+            - But a career in banking is also not as well paid.
+            - But a career in banking is also less well paid.
+          incorrect:
+            -
+              error: ^(?!.*But a career in banking is also not as)
+              feedback: Use the words, "But a career in banking is also not as"
+            -
+              error: ^(?!.*as well paid)
+              feedback: Use the words, "as well paid"
 search:
   jigsaw:
     advice:
