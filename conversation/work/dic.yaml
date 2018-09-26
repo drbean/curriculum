@@ -524,6 +524,7 @@
     Son: I never realized before I started working with you, you sure knew how to drew the line between son and employee. And I mean I can remember when I was the first dishwasher at Spano's ..
   - Father|Son|gosh|pasta|Spano's
 -
+  
   - spano
   - Running a restaurant
   - upper
@@ -701,6 +702,37 @@
   - all
   - |+
     Ann: When I first came to the Gathering Place, I had $41 and half a tank of gas. iI'm 60 years old. I have a master's degree from DU Law School. I've always owned a home and had a job and never expected to be touched by homelessness.
+-
+  - summer-0
+  - summer jobs
+  - conversation
+  - all
+  - |+
+    A: Guess what ... I've found a summer job!
+    B: That's great! Anything interesting?
+    A: Yes, working at an amusement park.
+    B: That sounds fantastic!
+    A: So, have you found anything?
+    B: Nothing yet, but I have a couple of leads. One is working as an intern for a record company, mostly answering phones. Or I can get a landscaping job again.
+    A: Being an intern sounds more interesting than landscaping. You'd have better hours, and it's probably not as much work.
+    B: Yeah, but a landscaper earns more than an intern. And you get a great tan!
+  - Tracy|Mark|Tracy|Mark|Tracy|Mark|Tracy|Mark|End
+-
+  - summer-1
+  - summer jobs
+  - conversation
+  - all
+  - |+
+    Mark: So what will you be doing at the amusement park, exactly?
+    Tracy: Actually, I'll have two jobs. First, I'll be working at a place called Children's World. They have all kinds of interesting games and educational activities for young kids. I have to go for a training program for three days before I start.
+    Mark: Three days? Wow, the equipment must be pretty high-tech.
+    Tracy: Oh, it is--a lot of computers and interesting devices. It's just the kind of stuff that kids love.
+    Mark: Well it sounds like the perfect job for you. I know how much you love kids. So what's your other job?
+    Tracy: Well, I'll also be one of the people who walks around the park greeting people.
+    Mark: Do you mean you'll have to dress up in a costume?
+    Tracy: Yes, as a cartoon character. I know, I know. It sounds silly. And it's certainly not as rewarding as working in Children's World, but it's part of the job.
+  - Mark|Tracy|Mark|Tracy|Mark|Tracy|Mark|Tracy|End
+  - Tracy|Mark|End
 ---
 -
   - genre
