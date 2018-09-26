@@ -1,6 +1,16 @@
 ---
 genre: topics
 action:
+  0:
+    flash:
+      stand up   : 站起來
+      sit down   : 坐下
+      read       : 讀
+      open       : 打開
+      close      : 關
+      look       : 看
+      story book : 故事書
+      sentence   : 句子
   bingo:
     - stand_up sit_down read open close look Miss_Jenny story_book sentence negatives don't touch head jump chair run table walk door arms
     - close_the_window Josh look_at_Rover walk_the_dog close_the_door honey act_out_the_story please touch_the_shark polite_word run_to_the_board
