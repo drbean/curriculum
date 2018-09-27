@@ -198,19 +198,31 @@ schedule:
       - I know someone who got    A       _我知道誰得了A_
       - I don't want to study Eng         _我不想學習英語_
 club:
+  0:
+    flash:
+      science      : 科學
+      agree        : 同意
+      school club  : 學校俱樂部
+      hobby        : 愛好
+      jar          : 罐
+      choice       : 選擇
+      pizza        : 比薩
+      jam          : 果醬
+
   bingo:
-    - science agree club hobby jar choice pizza jam need want
     -
       - "A: I want to join the soccer club, Tom.  B: Me too. When does the club meet?                _A：我想加入足球俱樂部，湯姆。 B：我也是。什麼時候俱樂部見面嗎？_"
       - "B: Where does the soccer club meet?  A: At the playground.                                  _B：哪裡的足球俱樂部見面嗎？ B：在操場上。_"
       - Every Tuesday lunchtime at half past twelve.                                                _每週二中午12點半。_
       - "A: Do you want to join the English club, Mike? B: Yes, I do. How often does the club meet?  _A：你想參加英語俱樂部，邁克？ B：是的，我喜歡。多久俱樂部見面嗎？_"
       - Once a week.                                                                                _每星期一次。_
+    -
       - "B: When does the English club meet? A: On Wednesday, at 4 o'clock in the the afternoon.     _A：何時英語俱樂部舉行？ A：週三，在在下午4點鐘。_"
       - "B: Where does the English club meet?  A: In the library.                                    _B：在哪兒英語俱樂部舉行？ A：在庫。_"
       - "A: When does the music club meet?  B: Every week on Friday afternoon.                       _A：什麼時候音樂俱樂部見面嗎？ B：星期五下午每星期。_"
       - "A: What time in the afternoon?  B: From 5 o'clock until half past six.                      _A：是什麼時間在下午？ B：從5點到六點半。_"
       - "B: Where does the music club meet?  A: In the music room.                                   _B：哪裡的音樂俱樂部見面嗎？ A：在音樂室。_"
+    - science agree club hobby jar choice pizza jam need want
 report:
   bingo:
     -
