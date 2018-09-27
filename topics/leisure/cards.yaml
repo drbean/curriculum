@@ -182,3 +182,14 @@ hobby:
       - Dan is listening to music on the slide.              _丹正在幻燈片上聽音樂。_
       - Sarah is dancing under the jungle gym.               _莎拉在叢林健身房下跳舞。_
       - Paul is riding a bicycle out of the playground gate. _保羅騎自行車從操場門口出來。_
+beach:
+  0:
+    flash:
+      afraid       : 害怕
+      thirsty      : 渴
+      sunscreen    : 防曬
+      sweat        : 汗
+      sunburn      : 曬斑
+      playground   : 操場
+      beach        : 海灘
+      ocean        : 海洋
