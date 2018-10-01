@@ -1,0 +1,168 @@
+---
+genre: correspondence
+come:
+  jigsaw:
+    0:
+      identifier: communication 0
+      quiz:
+        - question: A: I study in Miaoli, but my home isn't here. B: ?
+          option: 
+           - Where did you come from?
+           - Where do you come from?
+           - Where are you coming from?
+             # - Where are you from?
+          answer: Where do you come from?
+        - question: A: It took me 40 minutes to get here! B: ?
+          option:
+           - Where did you come from?
+           - Where do you come from?
+           - Where are you coming from?
+           - Where are you from?
+          answer: Where did you come from?
+        - question: (Telephone conversation) A: I'll be there in 20 minutes. B: ?
+          option:
+           - Where did you come from?
+           - Where do you come from?
+           - Where are you coming from?
+           - Where are you from?
+          answer: Where are you coming from?
+communication:
+  jigsaw:
+    0:
+      identifier: communication
+      quiz:
+        - question: When is the best time to let Dr Bean know there is a communication difficulty?
+          option: 
+            - During a break after the activity is over.
+            - While the activity is still going on.
+            - Face-to-face after class.
+            - By email after class.
+          answer: While the activity is still going on.
+        - question: What is the best thing to do when you don't understand what Dr Bean is talking about?
+          option: 
+            - Ask your partner/someone on Facebook what he's talking about
+            - Think of something else
+            - Stop him and ask him to explain
+            - Check your understanding with him during a break in the class
+          answer: Stop him and ask him to explain
+        - question: Why is it difficult speaking up in class?
+          option: 
+            - Probably you are the only one who doesn't understand.
+            - Dr Bean doesn't want you to interrupt him.
+            - The direction of the activity will be changed if you speak up.
+            - There is an unspoken understanding that students shouldn't say anything in class.
+          answer: There is an unspoken understanding that students shouldn't say anything in class.
+8cs:
+  jigsaw:
+    0:
+      identifier: 8cs 0
+      quiz:
+        - question: 
+          option: 
+           - Clear
+           - Concise
+           - Concrete
+           - Correct
+           - Coherent
+           - Complete
+           - Courteous
+           - Considerate
+          answer: Considerate
+    1:
+      identifier: 8cs 0
+      quiz:
+        - question: 
+          option: 
+           - Clear
+           - Concise
+           - Concrete
+           - Correct
+           - Coherent
+           - Complete
+           - Courteous
+           - Considerate
+          answer: Courteous
+    2:
+      identifier: 8cs 0
+      quiz:
+        - question: 
+          option: 
+           - Clear
+           - Concise
+           - Concrete
+           - Correct
+           - Coherent
+           - Complete
+           - Courteous
+           - Considerate
+          answer: Complete
+    3:
+      identifier: 8cs 0
+      quiz:
+        - question: 
+          option: 
+           - Clear
+           - Concise
+           - Concrete
+           - Correct
+           - Coherent
+           - Complete
+           - Courteous
+           - Considerate
+          answer: Coherent
+    4:
+      identifier: 8cs 0
+      quiz:
+        - question: 
+          option: 
+           - Clear
+           - Concise
+           - Concrete
+           - Correct
+           - Coherent
+           - Complete
+           - Courteous
+           - Considerate
+          answer: Correct
+    5:
+      identifier: 8cs 0
+      quiz:
+        - question: 
+          option: 
+           - Clear
+           - Concise
+           - Concrete
+           - Correct
+           - Coherent
+           - Complete
+           - Courteous
+           - Considerate
+          answer: Concrete
+    6:
+      identifier: 8cs 0
+      quiz:
+        - question: 
+          option: 
+           - Clear
+           - Concise
+           - Concrete
+           - Correct
+           - Coherent
+           - Complete
+           - Courteous
+           - Considerate
+          answer: Concise
+    7:
+      identifier: 8cs 0
+      quiz:
+        - question: 
+          option: 
+           - Clear
+           - Concise
+           - Concrete
+           - Correct
+           - Coherent
+           - Complete
+           - Courteous
+           - Considerate
+          answer: Clear
