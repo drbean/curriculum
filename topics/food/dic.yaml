@@ -121,9 +121,9 @@
   - "all"
   - |+
     Do you like hotdogs? Some people really like hotdogs. Every year, there is a hotdog eating game.
-    In 2008, two men ate fifty-nine hotdogs. Did they get sick? No, one of them ate five more.
-    The same man ate sixty-six hotdogs in 2007. How many hotdogs can you eat?
-  - fifty-nine|sixty-six|End
+    In 2008, two men ate fifty nine hotdogs. Did they get sick? No, one of them ate five more.
+    The same man ate sixty six hotdogs in 2007. How many hotdogs can you eat?
+  - Do you like|Some people|like hotdogs|Every|there is a hotdog eating|In 2008, two men ate|hotdogs|Did they get|No, one of them ate|more|The|man ate sixty six hotdogs in|How|hotdogs|you|End
 -
   - "restaurant-2"
   - "restaurant-2"
