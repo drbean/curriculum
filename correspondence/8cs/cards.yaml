@@ -54,6 +54,39 @@ email_5:
            - Courteous
            - Considerate
           answer: Complete
+4c_match:
+  match:
+    0:
+      identifier: 4 first Cs
+      pair:
+        -
+          - clear
+          - easy to understand
+        -
+          - concise
+          - short
+        -
+          - concrete
+          - real things, not ideas
+        -
+          - correct
+          - no mistakes
+    1:
+      identifier: second 4 Cs
+      pair:
+        -
+          - coherent
+          - changes topic, writer was drinking?
+        -
+          - complete
+          - everything the reader needs is in the message
+        -
+          - courteous
+          - polite
+        -
+          - considerate
+          - thinking of the other person's needs, feelings as important
+        
 problem:
   jigsaw:
     0:
@@ -147,4 +180,118 @@ problem:
            - Courteous
            - Considerate
           answer: Considerate
-        
+listening:
+  jigsaw:
+    0:
+      identifier: listening to 8cs 0
+      quiz:
+        - question: Listen to Dr Bean read a description of one of the 8Cs. Decide which one it is.
+          option: 
+           - Clear
+           - Concise
+           - Concrete
+           - Correct
+           - Coherent
+           - Complete
+           - Courteous
+           - Considerate
+          answer: Complete
+    1:
+      identifier: 8cs 0
+      quiz:
+        - question: Listen to Dr Bean read a description of another one of the 8Cs. Decide which one it is.
+          option: 
+           - Clear
+           - Concise
+           - Concrete
+           - Correct
+           - Coherent
+           - Complete
+           - Courteous
+           - Considerate
+          answer: Considerate
+    2:
+      identifier: 8cs 0
+      quiz:
+        - question: Listen to Dr Bean read a description of another one of the 8Cs. Decide which one it is.
+          option: 
+           - Clear
+           - Concise
+           - Concrete
+           - Correct
+           - Coherent
+           - Complete
+           - Courteous
+           - Considerate
+          answer: Courteous
+    3:
+      identifier: 8cs 0
+      quiz:
+        - question: Listen to Dr Bean read a description of another one of the 8Cs. Decide which one it is.
+          option: 
+           - Clear
+           - Concise
+           - Concrete
+           - Correct
+           - Coherent
+           - Complete
+           - Courteous
+           - Considerate
+          answer: Coherent
+    4:
+      identifier: 8cs 0
+      quiz:
+        - question: Listen to Dr Bean read a description of another one of the 8Cs. Decide which one it is.
+          option: 
+           - Clear
+           - Concise
+           - Concrete
+           - Correct
+           - Coherent
+           - Complete
+           - Courteous
+           - Considerate
+          answer: Concise
+    5:
+      identifier: 8cs 0
+      quiz:
+        - question: Listen to Dr Bean read a description of another one of the 8Cs. Decide which one it is.
+          option: 
+           - Clear
+           - Concise
+           - Concrete
+           - Correct
+           - Coherent
+           - Complete
+           - Courteous
+           - Considerate
+          answer: Concrete
+    6:
+      identifier: 8cs 0
+      quiz:
+        - question: Listen to Dr Bean read a description of another one of the 8Cs. Decide which one it is.
+          option: 
+           - Clear
+           - Concise
+           - Concrete
+           - Correct
+           - Coherent
+           - Complete
+           - Courteous
+           - Considerate
+          answer: Correct
+    7:
+      identifier: 8cs 0
+      quiz:
+        - question: Listen to Dr Bean read a description of another one of the 8Cs. Decide which one it is.
+          option: 
+           - Clear
+           - Concise
+           - Concrete
+           - Correct
+           - Coherent
+           - Complete
+           - Courteous
+           - Considerate
+          answer: Clear
+
