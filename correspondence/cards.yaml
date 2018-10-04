@@ -5,21 +5,21 @@ come:
     0:
       identifier: communication 0
       quiz:
-        - question: A: I study in Miaoli, but my home isn't here. B: ?
+        - question: "A: I study in Miaoli, but my home isn't here. B: ?"
           option: 
            - Where did you come from?
            - Where do you come from?
            - Where are you coming from?
              # - Where are you from?
           answer: Where do you come from?
-        - question: A: It took me 40 minutes to get here! B: ?
+        - question: "A: It took me 40 minutes to get here! B: ?"
           option:
            - Where did you come from?
            - Where do you come from?
            - Where are you coming from?
            - Where are you from?
           answer: Where did you come from?
-        - question: (Telephone conversation) A: I'll be there in 20 minutes. B: ?
+        - question: "(Telephone conversation) A: I'll be there in 20 minutes. B: ?"
           option:
            - Where did you come from?
            - Where do you come from?
