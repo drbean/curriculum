@@ -173,6 +173,46 @@ opening:
 
 address:
   jigsaw:
+    wells:
+      identifier: wells
+      quiz:
+        - question: 15 Blooming Drive, Sunset City, Arizona 15203, USA
+          answer:
+            - 15 Blooming Drive//Sunset City, Arizona 15203//USA
+          incorrect:
+            -
+              error: ^(?!.*15 Blooming Drive//.*)
+              feedback: Use the words, "15 Blooming Drive//"
+            -
+              error: ^(?!.*Sunset City, Arizona 15203//.*)
+              feedback: Use the words "Sunset City, Arizona 15203//"
+            -
+              error: ^(?!.*USA.*)
+              feedback: Use the words, "USA"
+    tan:
+      identifier: tan
+      quiz:
+        - question: See the book for Tan's Chinese address
+          answer:
+            - Jerry Tan//Floor 10, 109 Lane 2, Alley 158//Chong-qing South Road, Zhong-zheng District//Taipei 10048//Taiwan
+          incorrect:
+            -
+              error: ^(?!.*Jerry Tan//.*)
+              feedback: Use the words, "Jerry Tan//"
+            -
+              error: ^(?!.*Floor 10, 109 Lane 2, Alley 158//.*)
+              feedback: Use the words, "Floor 10, 109 Lane 2, Alley 158//"
+            -
+              error: ^(?!.*Chong-qing South Road, Zhong-zheng District//.*)
+              feedback: Use the words, "Chong-qing South Road, Zhong-zheng District//"
+            -
+              error: ^(?!.*Taipei 10048//.*)
+              feedback: Use the words, "Taipei 10048//"
+            -
+              error: ^(?!.*Taiwan.*)
+              feedback: Use the words, "Taiwan"
+            
+            
     1:
       identifier: address
       quiz:
@@ -194,15 +234,50 @@ address:
           option:
             - 168 Boai Second Road//Zuoying District, Gaoxiong City 81357//Taiwan
           answer: 168 Boai Second Road//Zuoying District, Gaoxiong City 81357//Taiwan
+    shilin:
+      identifier: shilin
+      quiz:
+        - question: See the book for the ShiLin Chinese address
+          answer: 
+            - #40, 5th Floor Lane 12, Alley 201//ZhongShan North Road, Section 6//Shi-lin District, Taipei 11155//Taiwan
+          incorrect:
+            -
+              error: ^(?!.*#40, 5th Floor Lane 12, Alley 201//.*)
+              feedback: Use the words, "#40, 5th Floor Lane 12, Alley 201//"
+            -
+              error: ^(?!.*ZhongShan North Road, Section 6/.*)
+              feedback: Use the words, "ZhongShan North Road, Section 6/"
+            -
+              error: ^(?!.*Shi-lin District, Taipei 11155/.*)
+              feedback: Use the words, "Shi-lin District, Taipei 11155/"
+            -
+              error: ^(?!.*Taiwan.*)
+              feedback: Use the words, "Taiwan"
+            
+    zhunan:
+      identifier: zhunan
+      quiz:
+        - question: 350苗栗縣竹南鎮科研路36號
+          answer:
+            - 36 Keyan Road//Zhunan District, Miaoli County 350//Taiwan
+          incorrect:
+            -
+              error: ^(?!.*36 Keyan Road//.*)
+              feedback: Use the words, "36 Keyan Road//"
+            -
+              error: ^(?!.*Zhunan District, Miaoli County 30005//.*)
+              feedback: Use the words, "Zhunan District, Miaoli County 30005//"
+            -
+              error: ^(?!.*Taiwan.*)
+              feedback: Use the words, "Taiwan"
+
     president:
       identifier: president tsai
       quiz:
         - question: 10048 臺北市中正區重慶南路1段122號中華民國總統府
           answer: 
             - |+
-              Office of the President\n
-              122 Chongqing South Road, Section 1\n
-              Zhongzheng District, Taipei City 10048
+              Office of the President//122 Chongqing South Road, Section 1//Zhongzheng District, Taipei City 10048
           incorrect:
             -
               error: ^(?!.*Office of the President.*)
@@ -286,10 +361,10 @@ inside address:
        - question: |+
           What does 'goes inside the window of an envelope' mean? 
          option:
-          - The flap on the envelope is left open, so you can take the letter out.
-          - The envelope is made so you can see inside the envelope.
+           - The flap on the envelope is left open, so you can take the letter out.
+           - The envelope is made so you can see inside the envelope.
          answer: The envelope is made so you can see inside the envelope.
-layout:
+justify:
   jigsaw:
     0:
       identifier: layout of letter
@@ -297,9 +372,9 @@ layout:
         - question: |+
             What does left-justified mean?
           option:
-           - You start writing the sentence without writing a space.
-           - It's OK to leave some of the parts of the letter out.
-          answer: You start writing the sentence without writing a space.
+            - You start writing the words without writing a space first before the words.
+            - It's OK to leave out some of the parts of what you are writing.
+          answer: You start writing the words without writing a space first before the words.
 subject:
   jigsaw:
     0:
