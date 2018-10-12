@@ -1,5 +1,175 @@
 ---
 genre: correspondence
+identify:
+  jigsaw:
+    0:
+      identifier: identify
+      quiz:
+        - question: |+
+            I want a flat nav like\n
+            parent\n
+            - child1\n
+            - child2\n
+            But by this code I have achieved\n
+            parent\n
+            child1\n
+            child2\n
+            under boost left side flat nav. I hope this is the right forum for asking help regarding this.\n
+            Thanks and regards,\n
+            Sandipa
+          option:
+            - Clear
+            - Concise
+            - Concrete
+            - Correct
+          answer: Clear
+        - question: |+
+            Please be on time for the meeting at 4pm at which we will discuss recruitment. Don't be late for the recruitment meeting at 4pm. This is a reminder about the recruitment meeting at 4pm.
+          option:
+            - Clear
+            - Concise
+            - Concrete
+            - Correct
+          answer: Concise
+        - question: This is an invitation to invest in our project to develop a flying car. Details are still to be worked out, but we believe we will make a lot of money. Send one million dollars now to get in at the start of this project.
+          option:
+            - Clear
+            - Concise
+            - Concrete
+            - Correct
+          answer: Concrete
+        - question: Pleaze be on time for the meating at 4:69pm at wich we will discuss recrutment. 
+          option:
+            - Clear
+            - Concise
+            - Concrete
+            - Correct
+          answer: Correct
+    1:
+      identifier: identify
+      quiz:
+        - question: This is about being on time for the recruitment meeting at 4pm. By the way, have you heard the news about John. And I don't feel so good today. See you at the meeting at 4pm. Hello?
+          option:
+            - Coherent
+            - Complete
+            - Courteous
+            - Considerate
+          answer: Coherent
+        - question: This is an announcement about a meeting at 4pm. See you there. Don't forget it.
+          option:
+            - Coherent
+            - Complete
+            - Courteous
+            - Considerate
+          answer: Complete
+        - question: Hey, you! You didn't pay the rent, for chrissake! Pay up in 10 days or we will send round some thugs to beat you up!
+          option:
+            - Coherent
+            - Complete
+            - Courteous
+            - Considerate
+          answer: Courteous
+        - question: Thank you for your answer, but sorry, our demand is not negotiable. We need the money, whatever may be your problem paying the money, which is none of our concern. Thank you again.
+          option:
+            - Coherent
+            - Complete
+            - Courteous
+            - Considerate
+          answer: Considerate
+
+        
+evaluate:
+  jigsaw:
+    0:
+      identifier: evaluate
+      quiz:
+        - question: Can email 1 be faulted, by referring to one of the 8Cs?
+          option:
+            - good
+            - bad
+          answer: bad
+        - question: Can email 2 be faulted, by referring to one of the 8Cs?
+          option:
+            - good
+            - bad
+          answer: good
+        - question: Can email 3 be faulted, by referring to one of the 8Cs?
+          option:
+            - good
+            - bad
+          answer: bad
+        - question: Can email 4 be faulted, by referring to one of the 8Cs?
+          option:
+            - good
+            - bad
+          answer: bad
+        - question: Can email 5 be faulted, by referring to one of the 8Cs?
+          option:
+            - good
+            - bad
+          answer: bad
+internal:
+  jigsaw:
+    0:
+      identifier: internal
+      quiz:
+        - question: Is email 1 an inter-office or intra-office message? Or, within one commercial entity or between 2 different commercial entities?
+          option:
+            - internal
+            - external
+          answer: internal
+        - question: Is email 2 an inter-office or intra-office message? Or, within one commercial entity or between 2 different commercial entities?
+          option:
+            - internal
+            - external
+          answer: internal
+        - question: Is email 3 an inter-office or intra-office message? Or, within one commercial entity or between 2 different commercial entities?
+          option:
+            - internal
+            - external
+          answer: internal
+        - question: Is email 4 an inter-office or intra-office message? Or, within one commercial entity or between 2 different commercial entities?
+          option:
+            - internal
+            - external
+          answer: external
+        - question: Is email 5 an inter-office or intra-office message? Or, within one commercial entity or between 2 different commercial entities?
+          option:
+            - internal
+            - external
+          answer: external
+fake:
+  jigsaw:
+    0:
+      identifier: fake
+      quiz:
+        - question: Not extra information required for the shoe manufacturer to answer Ya-fei Lin's question
+          option:
+            - What online site the shoes were purchased from
+            - Why the shoes were bought
+            - Identification of the shoes which were bought
+          answer: Why the shoes were bought
+subject:
+  match:
+    0:
+      identifier: subject
+      pair:
+        -
+          - email 1
+          - report and meeting
+        -
+          - email 2
+          - student recruitment strategy meeting
+        -
+          - email 3
+          - campaign pitch direction
+        -
+          - email 4
+          - game return
+        -
+          - email 5
+          - shoe source check
+        
 email_1_and_2:
   jigsaw:
     0:
@@ -37,6 +207,20 @@ email_3:
            - Courteous
            - Considerate
           answer: Concise
+email_4:
+  jigsaw:
+    0:
+      identifier: 8cs emails 4
+      quiz:
+        - question: |+
+            Email 4 has problems with grammar and format, which is a correctness problem. What is the biggest problem the email has with these issues?
+          option: 
+            - punctuation
+            - spelling
+            - word choice
+            - part of speech confusion
+            - "'a'/'the' confusion"
+          answer: punctuation
 email_5:
   jigsaw:
     0:
