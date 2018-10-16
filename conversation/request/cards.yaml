@@ -41,6 +41,45 @@ grammar:
             - Can
             - Is it OK if
           answer: Can
+    1:
+      identifier: grammar
+      quiz:
+        - question: How to start? .. I use your cell phone?
+          option:
+            - Is it OK if
+            - Would
+            - Do you mind
+          answer: Is it OK if
+        - question: Would you mind if I ..
+          option:
+            - stay
+            - stayed
+            - staying
+          answer: stayed
+        - question: I was wondering ..
+          option:
+            - I could
+            - if I could
+            - if I would
+          answer: if I could
+        - question: Could you ..
+          option:
+            - lend
+            - lending
+            - lent
+          answer: lend
+        - question: Would you mind ..
+          option:
+            - help
+            - helping
+            - helped
+          answer: helping
+        - question: What starter? .. you feed my cats?
+          option:
+            - Would you mind
+            - Can
+            - Is it OK if
+          answer: Can
 jana:
   jigsaw:
     0:
@@ -68,6 +107,47 @@ jana:
             - Yes
             - No
           answer: Yes
+keiko:
+  jigsaw:
+    0:
+      identifier: keiko
+      quiz:
+        - question: What she asks Carlos to loan her.
+          option:
+            - a camera
+            - a car
+            - a shirt
+          answer: a car
+        - question: Whether Carlos agrees to loan her the thing she asked
+          option:
+            - Yes
+            - No
+          answer: Yes
+    1:
+      identifier: keiko
+      quiz:
+        - question: What she asks Hunter to do for her.
+          option:
+            - look after her kids
+            - look after her goldfish
+            - help her move to her new apartment
+          answer: look after her goldfish
+        - question: Whether Hunter agrees to do what she asked
+          option:
+            - Yes
+            - No
+          answer: Yes
+        - question: What she asks Claire to do for her.
+          option:
+            - help pack her stuff
+            - celebrate her mother's birthday
+            - ask her a big favor
+          answer: help pack her stuff
+        - question: Whether Claire agrees to do the thing she asked
+          option:
+            - Yes
+            - No
+          answer: No
 people:
   jigsaw:
     0:
@@ -102,6 +182,42 @@ people:
             - care of a bird
           answer: care of a bird
         - question: Whether Li-Ling agrees to do the thing Paul/Phil asked
+          option:
+            - Yes
+            - No
+          answer: Yes
+    1:
+      identifier: 3 people request
+      quiz:
+        - question: What Jesse requests
+          option:
+            - loan of a bread maker
+            - loan of a mixer
+            - care of a bird
+          answer: loan of a mixer
+        - question: Whether Maria agrees to do the thing Jesse asked
+          option:
+            - Yes
+            - No
+          answer: No
+        - question: What Liz requests
+          option:
+            - loan of a book
+            - loan of a camera
+            - care of a bird
+          answer: loan of a book
+        - question: Whether Samuel agrees to do the thing Liz asked
+          option:
+            - Yes
+            - No
+          answer: Yes
+        - question: What Silvia requests
+          option:
+            - living with her roommate
+            - care of a cat
+            - care of a bird
+          answer: care of a cat
+        - question: Whether Min-jun agrees to do the thing Silvia asked
           option:
             - Yes
             - No
@@ -197,6 +313,39 @@ tell:
             - ask
             - tell
           answer: ask
+        - question: 6.
+          option:
+            - ask
+            - tell
+          answer: ask
+    1:
+      identifier: tell/ask
+      quiz:
+        - question: 1.
+          option:
+            - ask
+            - tell
+          answer: tell
+        - question: 2.
+          option:
+            - ask
+            - tell
+          answer: ask
+        - question: 3.
+          option:
+            - ask
+            - tell
+          answer: ask
+        - question: 4.
+          option:
+            - ask
+            - tell
+          answer: tell
+        - question: 5.
+          option:
+            - ask
+            - tell
+          answer: tell
         - question: 6.
           option:
             - ask
