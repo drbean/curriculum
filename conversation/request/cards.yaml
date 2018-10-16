@@ -153,35 +153,35 @@ people:
     0:
       identifier: 3 people request
       quiz:
-        - question: What Tina requests
+        - question: What Tina requests in the 1st conversation
           option:
             - loan of a bread maker
             - loan of a camera
             - care of a bird
           answer: loan of a camera
-        - question: Whether Robert agrees to do the thing Tina asked
+        - question: Whether Robert agrees to do the thing Tina asked in the 1st conversation
           option:
             - Yes
             - No
           answer: Yes
-        - question: What Kyle requests
+        - question: What Kyle requests in the 2nd conversation
           option:
             - loan of a bread maker
             - loan of a camera
             - care of a bird
           answer: loan of a bread maker
-        - question: Whether Maggie agrees to do the thing Kyle asked
+        - question: Whether Maggie agrees to do the thing Kyle asked in the 2nd conversation
           option:
             - Yes
             - No
           answer: No
-        - question: What Paul/Phil requests
+        - question: What Paul/Phil requests in the 3rd conversation
           option:
             - loan of a bread maker
             - loan of a camera
             - care of a bird
           answer: care of a bird
-        - question: Whether Li-Ling agrees to do the thing Paul/Phil asked
+        - question: Whether Li-Ling agrees to do the thing Paul/Phil asked in the 3rd conversation
           option:
             - Yes
             - No
@@ -189,35 +189,35 @@ people:
     1:
       identifier: 3 people request
       quiz:
-        - question: What Jesse requests
+        - question: What Jesse requests in the 1st conversation
           option:
             - loan of a bread maker
             - loan of a mixer
             - care of a bird
           answer: loan of a mixer
-        - question: Whether Maria agrees to do the thing Jesse asked
+        - question: Whether Maria agrees to do the thing Jesse asked in the 1st conversation
           option:
             - Yes
             - No
           answer: No
-        - question: What Liz requests
+        - question: What Liz requests in the 2nd conversation
           option:
             - loan of a book
             - loan of a camera
             - care of a bird
           answer: loan of a book
-        - question: Whether Samuel agrees to do the thing Liz asked
+        - question: Whether Samuel agrees to do the thing Liz asked in the 2nd conversation
           option:
             - Yes
             - No
           answer: Yes
-        - question: What Silvia requests
+        - question: What Silvia requests in the 3rd conversation
           option:
             - living with her roommate
             - care of a cat
             - care of a bird
           answer: care of a cat
-        - question: Whether Min-jun agrees to do the thing Silvia asked
+        - question: Whether Min-jun agrees to do the thing Silvia asked in the 3rd conversation
           option:
             - Yes
             - No
