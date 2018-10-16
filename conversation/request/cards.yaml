@@ -351,7 +351,7 @@ tell:
             - ask
             - tell
           answer: ask
-indirect:
+messages:
   jigsaw:
     0:
       identifier: indirect 0
