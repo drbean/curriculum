@@ -1,5 +1,110 @@
 ---
 genre: correspondence
+advice:
+  jigsaw:
+    polite:
+      identifier: advice
+      quiz:
+        - question: When to use please?
+          option:
+            - acknowledgment
+            - request
+            - giving information
+          answer: request
+        - question: How often to use please
+          option:
+            - Always
+            - Sometimes
+            - Never
+          answer: Always
+        - question: When to use thank you?
+          option:
+            - acknowledgment
+            - request
+            - giving information
+          answer: acknowledgment
+        - question: How often to use thank you
+          option:
+            - Always
+            - Sometimes
+            - Never
+          answer: Always
+    blunt:
+      identifier: advice
+      quiz:
+        - question: The advice about being concise and not being blunt is confusing. Why?
+          option:
+            - Concise and blunt have similar meanings
+            - Concise and blunt have very different meanings
+          answer: Concise and blunt have similar meanings
+        - question: The first example in the bluntness section is concise.
+          option:
+            - Yes
+            - No
+          answer: Yes
+        - question: The first example in the bluntness section is not blunt.
+          option:
+            - Yes
+            - No
+          answer: Yes
+        - question: The second example in the bluntness section is blunt.
+          option:
+            - Yes
+            - No
+          answer: Yes
+    direct:
+      identifier: advice
+      quiz:
+        - question: Which is more direct?
+          option:
+            - Your prices are very high.
+            - Your prices are too high.
+          answer: Your prices are too high.
+        - question: Which is less direct?
+          option:
+            - I don't think the quality is very good.
+            - The quality is not good.
+          answer: I don't think the quality is very good.
+    order:
+      identifier: order
+      quiz:
+        - question: Which is an order?
+          option:
+            - Send me a catalog?
+            - Can you send me a catalog?
+          answer: Send me a catalog?
+        - question: Which is a request?
+          option:
+            - When will you send me the goods?
+            - Can you send the goods as soon as possible?
+          answer: Can you send the goods as soon as possible?
+    blame:
+      identifier: blame
+      quiz:
+        - question: Which is blaming the reader/listener?
+          option:
+            - We lost the order because you quoted the wrong price.
+            - We lost the order because we quoted the wrong price.
+          answer: We lost the order because you quoted the wrong price.
+        - question: Which is blaming the reader/listener?
+          option:
+            - The goods were lost in the mail.
+            - What did you do that caused the goods to be lost in the mail?
+          answer: What did you do that caused the goods to be lost in the mail?
+    softening:
+      identifier: softening
+      quiz:
+        - question: Which is softer?
+          option:
+            - small problem
+            - hidden problem
+          answer: small problem
+        - question: Which is softer?
+          option:
+            - It appears a mistake has been made.
+            - Someone has made a mistake.
+          answer: It appears a mistake has been made.
+
 bob:
   jigsaw:
     0:
