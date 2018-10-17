@@ -318,6 +318,45 @@ tell:
             - ask
             - tell
           answer: ask
+    requester:
+      identifier: person requesting something from Mary
+      quiz:
+        - question: 1.
+          option:
+            - teacher coordinator
+            - another teacher
+            - a student
+          answer: another teacher
+        - question: 2.
+          option:
+            - teacher coordinator
+            - another teacher
+            - a student
+          answer: another teacher
+        - question: 3.
+          option:
+            - teacher coordinator
+            - another teacher
+            - a student
+          answer: a student
+        - question: 4.
+          option:
+            - teacher coordinator
+            - another teacher
+            - a student
+          answer: teacher coordinator
+        - question: 5.
+          option:
+            - teacher coordinator
+            - another teacher
+            - a student
+          answer: teacher coordinator
+        - question: 6.
+          option:
+            - teacher coordinator
+            - another teacher
+            - a student
+          answer: a student
     1:
       identifier: tell/ask
       quiz:
@@ -359,7 +398,7 @@ indirect:
         - question: 1.
           answer: 
             - Can you ask Mary if she got my message about her phone?
-            - "[CW]ould you ask Mary (if|whether) she got my message about her phone\\\\?"
+            - "(Can|[CW]ould) you ask Mary (if|whether) she got my message about her phone\\\\?"
           incorrect:
             -
               error: ^(?!.*(Can|Could|Would).*)
@@ -373,7 +412,7 @@ indirect:
         - question: 2.
           answer: 
             - Can you ask Mary if she’ll give me a ride to school tomorrow?
-            - "[CW]ould you ask Mary (if|whether) she('| wi)ll give me a ride to school tomorrow\\?"
+            - "(Can|[CW]ould) you ask Mary (if|whether) she('| wi)ll give me a ride to school tomorrow\\?"
           incorrect:
             -
               error: ^(?!.*(Can|Could|Would).*)
@@ -387,7 +426,7 @@ indirect:
         - question: 3.
           answer: 
             - Can you ask Ms. Martin when our assignment is due?
-            - "[CW]ould you ask Ms. Martin when our assignment is due\\?"
+            - "(Can|[CW]ould) you ask Ms\\. Martin when our assignment is due\\?"
           incorrect:
             -
               error: ^(?!.*(Can|Could|Would).*)
@@ -398,7 +437,7 @@ indirect:
         - question: 4.
           answer: 
             - Can you ask Mary why she didn’t meet us at the cafeteria for lunch?
-            - "[CW]ould you ask Mary why she didn’t meet us at the cafeteria for lunch\\?"
+            - "(Can|[CW]ould) you ask Mary why she didn’t meet us at the cafeteria for lunch\\?"
           incorrect:
             -
               error: ^(?!.*(Can|Could|Would).*)
@@ -412,7 +451,7 @@ indirect:
         - question: 5.
           answer: 
             - Can you tell Ms. Martin that I won’t be in class tomorrow night?
-            - "[CW]ould you tell Ms\. Martin (that) I (will not|won’t) be in class tomorrow night\\?"
+            - "(Can|[CW]ould) you tell Ms\\. Martin (that) I (will not|won’t) be in class tomorrow night\\?"
           incorrect:
             -
               error: ^(?!.*(Can|Could|Would).*)
@@ -426,7 +465,7 @@ indirect:
         - question: 6.
           answer: 
             - Can you ask Mary if she’s going to the school party on Saturday?
-            - "[CW]ould you ask Mary (if|whether) she( i|’)s going to the school party on Saturday\\?"
+            - "(Can|[CW]ould) you ask Mary (if|whether) she( i|’)s going to the school party on Saturday\\?"
           incorrect:
             -
               error: ^(?!.*(Can|Could|Would).*)
@@ -440,7 +479,7 @@ indirect:
         - question: 7.
           answer: 
             - Can you ask Mary to please return my call when she gets her phone back?
-            - "[CW]ould you (tell|ask) Mary to please return my call when she gets her phone back\\?"
+            - "(Can|[CW]ould) you (tell|ask) Mary to please return my call when she gets her phone back\\?"
           incorrect:
             -
               error: ^(?!.*(Can|Could|Would).*)
@@ -454,7 +493,7 @@ indirect:
         - question: 8.
           answer: 
             - Can you ask Mary if she received my wedding invitation?
-            - "[CW]ould you ask Mary (if|whether) she('s| has)? received my wedding invitation\\?"
+            - "(Can|[CW]ould) you ask Mary (if|whether) she('s| has)? received my wedding invitation\\?"
           incorrect:
             -
               error: ^(?!.*(Can|Could|Would).*)
