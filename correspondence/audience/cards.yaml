@@ -202,15 +202,24 @@ data:
         - question: |+
             The writer pays most attention to what data to include. This will be of most benefit to--
           option:
-           - Skimmers
-           - Skeptics
+            - Skimmers
+            - Skeptics
           answer: Skeptics
+    1:
+      identifier: skimmers and skeptics
+      quiz:
         - question: |+
-            The writer doesn't include all the data that could be included. This will not worry--
+            The writer doesn't include all the data that could be included. This will NOT worry--
           option:
-           - Skimmers
-           - Skeptics
+            - Skimmers
+            - Skeptics
           answer: Skimmers
+        - question: |+
+            The writer doesn't include all the data that could be included. This WILL worry--
+          option:
+            - Skimmers
+            - Skeptics
+          answer: Skeptics
 presentation:
   jigsaw:
     0:
@@ -219,14 +228,29 @@ presentation:
         - question: |+
             The writer pays most attention to presentation of the data. This will be of most benefit to--
           option:
-           - Skimmers
-           - Skeptics
+            - Skimmers
+            - Skeptics
           answer: Skimmers
+    1:
+      identifier: skimmers and skeptics
+      quiz:
         - question: |+
             The writer pays more attention to the data than its presentation. This will be appreciated by--
           option:
-           - Skimmers
-           - Skeptics
+            - Skimmers
+            - Skeptics
+          answer: Skeptics
+        - question: |+
+            The writer pays more attention to the data than its presentation. This will NOT be appreciated by--
+          option:
+            - Skimmers
+            - Skeptics
+          answer: Skimmers
+        - question: |+
+            The writer pays LESS attention to the data than its presentation. This will NOT be appreciated by--
+          option:
+            - Skimmers
+            - Skeptics
           answer: Skeptics
 name:
   jigsaw:
