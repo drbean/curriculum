@@ -351,6 +351,120 @@ tell:
             - ask
             - tell
           answer: ask
+indirect:
+  jigsaw:
+    0:
+      identifier: indirect requests
+      quiz:
+        - question: 1.
+          answer: 
+            - Can you ask Mary if she got my message about her phone?
+            - "[CW]ould you ask Mary (if|whether) she got my message about her phone\\\\?"
+          incorrect:
+            -
+              error: ^(?!.*(Can|Could|Would).*)
+              feedback: Use the words, "(Can|Could|Would)"
+            -
+              error: ^(?!.*you ask Mary (if|whether).*)
+              feedback: Use the words, "you ask Mary (if|whether)"
+            -
+              error: ^(?!.*she got my message about her phone\?.*)
+              feedback: Use the words, "she got my message about her phone\?"
+        - question: 2.
+          answer: 
+            - Can you ask Mary if she’ll give me a ride to school tomorrow?
+            - "[CW]ould you ask Mary (if|whether) she('| wi)ll give me a ride to school tomorrow\\?"
+          incorrect:
+            -
+              error: ^(?!.*(Can|Could|Would).*)
+              feedback: Use the words, "(Can|Could|Would)"
+            -
+              error: ^(?!.*you ask Mary (if|whether).*)
+              feedback: Use the words, "you ask Mary (if|whether)"
+            -
+              error: ^(?!.*she('| wi)ll give me a ride to school tomorrow\?.*)
+              feedback: Use the words, "she('| wi)ll give me a ride to school tomorrow\?"
+        - question: 3.
+          answer: 
+            - Can you ask Ms. Martin when our assignment is due?
+            - "[CW]ould you ask Ms. Martin when our assignment is due\\?"
+          incorrect:
+            -
+              error: ^(?!.*(Can|Could|Would).*)
+              feedback: Use the words, "(Can|Could|Would)"
+            -
+              error: ^(?!.*you ask Ms\. Martin when our assignment is due\?.*)
+              feedback: Use the words, "you ask Ms. Martin when our assignment is due?"
+        - question: 4.
+          answer: 
+            - Can you ask Mary why she didn’t meet us at the cafeteria for lunch?
+            - "[CW]ould you ask Mary why she didn’t meet us at the cafeteria for lunch\\?"
+          incorrect:
+            -
+              error: ^(?!.*(Can|Could|Would).*)
+              feedback: Use the words, "(Can|Could|Would)"
+            -
+              error: ^(?!.*you ask Mary why.*)
+              feedback: Use the words, "you ask Mary why"
+            -
+              error: ^(?!.*she didn’t meet us at the cafeteria for lunch?.*)
+              feedback: Use the words, "she didn’t meet us at the cafeteria for lunch\?"
+        - question: 5.
+          answer: 
+            - Can you tell Ms. Martin that I won’t be in class tomorrow night?
+            - "[CW]ould you tell Ms\. Martin (that) I (will not|won’t) be in class tomorrow night\\?"
+          incorrect:
+            -
+              error: ^(?!.*(Can|Could|Would).*)
+              feedback: Use the words, "(Can|Could|Would)"
+            -
+              error: ^(?!.*you tell Ms\. Martin.*)
+              feedback: Use the words, "you tell Ms. Martin"
+            -
+              error: ^(?!.*(that) I won’t be in class tomorrow night\?.*)
+              feedback: Use the words, "(that) I won’t be in class tomorrow night\?"
+        - question: 6.
+          answer: 
+            - Can you ask Mary if she’s going to the school party on Saturday?
+            - "[CW]ould you ask Mary (if|whether) she( i|’)s going to the school party on Saturday\\?"
+          incorrect:
+            -
+              error: ^(?!.*(Can|Could|Would).*)
+              feedback: Use the words, "(Can|Could|Would)"
+            -
+              error: ^(?!.*you ask Mary (if|whether).*)
+              feedback: Use the words, "you ask Mary (if|whether)"
+            -
+              error: ^(?!.*she( i|’)s going to the school party on Saturday\?.*)
+              feedback: Use the words, "she( i|’)s going to the school party on Saturday?"
+        - question: 7.
+          answer: 
+            - Can you ask Mary to please return my call when she gets her phone back?
+            - "[CW]ould you (tell|ask) Mary to please return my call when she gets her phone back\\?"
+          incorrect:
+            -
+              error: ^(?!.*(Can|Could|Would).*)
+              feedback: Use the words, "(Can|Could|Would)"
+            -
+              error: ^(?!.*you (tell|ask) Mary to.*)
+              feedback: Use the words, "you tell/ask Mary to"
+            -
+              error: ^(?!.*please return my call when she gets her phone back\?.*)
+              feedback: Use the words, "please return my call when she gets her phone back?"
+        - question: 8.
+          answer: 
+            - Can you ask Mary if she received my wedding invitation?
+            - "[CW]ould you ask Mary (if|whether) she('s| has)? received my wedding invitation\\?"
+          incorrect:
+            -
+              error: ^(?!.*(Can|Could|Would).*)
+              feedback: Use the words, "(Can|Could|Would)"
+            -
+              error: ^(?!.*you ask Mary (if|whether).*)
+              feedback: Use the words, "you ask Mary (if|whether)"
+            -
+              error: ^(?!.*she('s| has)? received my wedding invitation\?.*)
+              feedback: Use the words, "she('s| has)? received my wedding invitation?"
 messages:
   jigsaw:
     0:
