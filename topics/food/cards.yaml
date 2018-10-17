@@ -79,6 +79,7 @@ restaurant:
       crowded    : 擠
       free       : 免費
   bingo:
+    - knife chef restaurant napkin tasty burn crowded free
     -
       - "M: Are you ready to order, Holly? _W:  No, not yet._"
       - "W: What are you going to have, Doug? _M: I’m going to order beef with vegetables and rice, and a soda._"
