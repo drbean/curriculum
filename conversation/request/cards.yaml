@@ -283,6 +283,65 @@ verb:
             - offer
             - owe
           answer: do
+    1:
+      identifier: verb
+      quiz:
+        - question: NOT .. a favor
+          option:
+            - ask for
+            - do
+            - make
+            - return
+          answer: make
+        - question: NOT .. an apology
+          option:
+            - accept
+            - do
+            - offer
+            - owe
+          answer: do
+        - question: NOT .. an invitation
+          option:
+            - accept
+            - offer
+            - receive
+            - turn down
+          answer: offer
+        - question: NOT .. a gift
+          option:
+            - accept
+            - do
+            - give
+            - receive
+          answer: do
+        - question: NOT .. a phone call
+          option:
+            - do
+            - make
+            - receive
+            - return
+          answer: do
+        - question: NOT .. a request
+          option:
+            - accept
+            - decline
+            - make
+            - offer
+          answer: offer
+        - question: NOT .. a compliment
+          option:
+            - do
+            - give
+            - receive
+            - return
+          answer: do
+        - question: NOT .. a complaint
+          option:
+            - accept
+            - do
+            - make
+            - receive
+          answer: do
 tell:
   jigsaw:
     0:
@@ -303,6 +362,39 @@ tell:
             - ask
             - tell
           answer: tell
+        - question: 4.
+          option:
+            - ask
+            - tell
+          answer: tell
+        - question: 5.
+          option:
+            - ask
+            - tell
+          answer: ask
+        - question: 6.
+          option:
+            - ask
+            - tell
+          answer: ask
+    1:
+      identifier: tell/ask
+      quiz:
+        - question: 1.
+          option:
+            - ask
+            - tell
+          answer: tell
+        - question: 2.
+          option:
+            - ask
+            - tell
+          answer: ask
+        - question: 3.
+          option:
+            - ask
+            - tell
+          answer: ask
         - question: 4.
           option:
             - ask
