@@ -1,0 +1,49 @@
+---
+-
+  - id
+  - description
+  - genre
+  - target
+  - content
+  - unclozeables
+  - percent
+-
+  - request-0
+  - summer jobs
+  - conversation
+  - all
+  - |+
+    A: Hello?
+    B: Hi, Maria This is Jesse.
+    A: Oh, hi. How's it going?
+    B: It's going well! Listen, I was wondering if I could borrow your electric mixer.
+    A: My mixer? Don't tell me you are going to bake!
+    B: I know. I'm having my friends from my study group over this weekend, and I want to make dessert. And I want it to be perfect! I love that chocolate cake recipe you have. So, what do you say?
+    A: Well, I have bad news. It's broken. I've been meaning to get it fixed, but I haven't gotten around to it yet. But you know, you can buy a cheap mixer at the store.
+    B: Hmm. I don't know. Maybe I'll just go to a bakery.
+
+    A: Hello?
+    B: Hi, Samuel. It's Liz.
+    A: Hi, B. What's up?
+    B: Do you remember talking about that book yesterday? The one about that man's trip through Asia?
+    A: Yeah, of course.
+    B: Would it be all right if I borrowed it? I need a good book for my vacation next week.
+    A: No problem. But you'll have to tell me what you think!
+    B: Definitely! Thanks, Samuel.
+
+    A: Hello?
+    B: Hi, Silvia. It's Min-jun.
+    A: Hey! What's up?
+    B: Not much. I was wondering if I could ask you for a favor.
+    A: Sure.
+    B: Well, I have to go out of town next week. Could you watch Daisy while I'm gone?
+    A: Who's Daisy?
+    B: You know--Daisy, my cat.
+    A: Oh. Your cat. I don't know, Min-jun. I'm not crazy about cats. Their hair gets everywhere, and . . .
+    B: Not Daisy. She's really clean . . . and loving. I bet you'll love cats after watching her.
+    A: Yeah, maybe, but I'm not sure about my roommate.
+    B: Oh, that's right. I forgot you live with someone now. Well, what if I gave you the keys to my place and you stayed here?
+    A: Well, I guess that would work. You do live close by.
+    B: Great! I really appreciate it. Why don't you come over tonight so I can show you where everything is?
+    A: OK, but you owe me one.
+
