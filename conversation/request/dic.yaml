@@ -58,7 +58,7 @@
     B: My mixer? Don't tell me you are going to bake!
     A: I know. But I want to make dessert for friends.
     B: I have bad news. It's broken. But you can buy a cheap mixer.
-    A: I don't know. Maybe I'll just go to a bakery.
+    A: I'll just go to a bakery.
   - Maria|Jesse|End
 -
   - request-2
@@ -70,8 +70,7 @@
     B: Hi, Samuel. What's up?
     A: I just finished this great book about a man's trip through Asia. He went to all 48 countries in Asia.
     B: Sounds interesting. Would it be all right if I borrowed it for my vacation next week? I need a good book to read.
-    A: No problem. But you'll have to tell me what you think!
-    B: Definitely! Thanks, Samuel.
+    A: OK. But you'll have to tell me what you think!
   - Liz|Samuel|Samuel|Samuel|End
 -
   - request-3
@@ -85,5 +84,4 @@
     B: Oh. Your cat. I don't know, MinJun. I'm not crazy about cats. And my roommate hates cats.
     A: Well, what if I gave you the keys to my place and you stayed here?
     B: Well, I guess that would work.
-    A: Great! I really appreciate it.
   - Silvia|MinJun|MinJun|MinJun|End
