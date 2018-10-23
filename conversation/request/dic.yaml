@@ -68,8 +68,8 @@
   - |+
     A: Hi, Liz. It's Samuel.
     B: Hi, Samuel. What's up?
-    A: I just finished this great book about a man's trip through Asia.
-    B: Sounds interesting. Would it be all right if I borrowed it for my vacation next week?
+    A: I just finished this great book about a man's trip through Asia. He went to all 48 countries in Asia.
+    B: Sounds interesting. Would it be all right if I borrowed it for my vacation next week? I need a good book to read.
     A: No problem. But you'll have to tell me what you think!
     B: Definitely! Thanks, Samuel.
   - Liz|Samuel|Samuel|Samuel|End
@@ -86,4 +86,4 @@
     A: Well, what if I gave you the keys to my place and you stayed here?
     B: Well, I guess that would work.
     A: Great! I really appreciate it.
-  - Silvia|MinJun|MinJun|MinUn|End
+  - Silvia|MinJun|MinJun|MinJun|End
