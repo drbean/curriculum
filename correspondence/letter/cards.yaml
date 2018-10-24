@@ -72,7 +72,7 @@ letter:
     0:
       identifier:
       quiz:
-        - question: Using a letterhead, starting, "The Office of the President of the ROC", write a letter dated 2017-11-06 expressing condolences for a church shooting in the US to President Trump. In the body, write, "On the behalf of the people of Taiwan, I wish to express my condolences to the people of the US and to the victims of the church shooting that occurred in Sutherland Springs, Texas on the morning of November 5. I wish the injured a speedy recovery."
+        - question: "Using a letterhead, which starts: \"The Office of the President of the ROC\" and includes a web site address, write a letter dated 2017-11-06 expressing condolences for a church shooting in the US to President Trump. In the body, write, \"On the behalf of the people of Taiwan, I wish to express my condolences to the people of the US and to the victims of the church shooting that occurred in Sutherland Springs, Texas on the morning of November 5. I wish the injured a speedy recovery.\" Use information you already have for the presidents' addresses."
           option:
             - letterhead
           answer: letterhead
@@ -168,6 +168,22 @@ opening:
         - I have received your letter dated February_16 regarding order_number KC5241300.
         - I would be grateful if you could send me a copy of your latest bicycle catalogue.
         - I am writing to inquire about parts for your bicycles.
+  drag:
+    0:
+      identifier: opening scramble
+      sentences:
+        -
+          sentence: Thank you for your letter of January_15 inquiring about bicycles.
+          clozed: Thank|you|for|your|letter|of|January_15|inquiring|about|End
+        -
+          sentence: I have received your letter dated February_16 regarding order_number KC5241300.
+          clozed: I|have|received|your|letter|dated|February_16|regarding|order_number|End
+        -
+          sentence: I would be grateful if you could send me a copy of your latest bicycle catalogue.
+          clozed: I|would|be|grateful|if|you|could|send|me|a|copy|of|your|latest|bicycle|End
+        -
+          sentence: I am writing to inquire about parts for your bicycles.
+          clozed: I|am|writing|to|inquire|about|parts|for|your|End
 
 
 
@@ -425,6 +441,92 @@ salutation:
            - Dear Ms Lin
            - Dear Lin
           answer: Dear Ms Lin
+honorific:
+  jigsaw:
+    preference:
+      identifier: salutation preference
+      quiz:
+        - question: Deciding which salutation to use for a friend, John Smith.
+          option:
+            - Dear John Smith
+            - Dear Mr Smith
+            - Dear John
+          answer: Dear John
+        - question: Deciding which salutation to use for a friend, Joan Sams.
+          option:
+            - Dear Joan Sams
+            - Dear Ms Sams
+            - Dear Joan
+          answer: Dear Joan
+        - question: Choosing a salutation for Jenny Smith. (She is not a friend. You don't know if she's married)
+          option:
+            - Dear Jenny
+            - Dear Ms Smith
+            - Dear Miss Smith
+            - Dear Mrs Smith
+          answer: Dear Ms Smith
+        - question: Choosing a salutation for Jane Jones. (She is not a friend. You don't know if she's married. You don't know what honorific she prefers to be addressed by)
+          option:
+            - Dear Jane
+            - Dear Ms Jones
+            - Dear Miss Jones
+            - Dear Mrs Jones
+          answer: Dear Ms Jones
+        - question: 'Choosing a salutation for Janet James. (She is not a friend. She is married. You have seen her name written as "Mrs James")'
+          option:
+            - Dear Janet
+            - Dear Ms James
+            - Dear Miss James
+            - Dear Mrs James
+          answer: Dear Mrs James
+    ms:
+      identifier: salutation facts
+      quiz:
+        - question: Why did Ms. become more common than Mrs.?
+          option:
+            - Women regretted getting married.
+            - Women didn't want to let an honorific reveal if they were not married or married.
+            - Women wanted to show they were looking for a husband.
+            - Men didn't want their wives to reveal who their husbands were.
+          answer: Women didn't want to let an honorific reveal if they were not married or married.
+        - question: Which honorific has almost disappeared?
+          option:
+            - Mr
+            - Mrs
+            - Miss
+            - Ms
+          answer: Miss
+        - question: For which gender does an honorific distinguish the marriage status of persons receiving that honorific?
+          option:
+            - Men
+            - Women
+          answer: Women
+        - question: Does the honorific, "Ms" distinguish the marriage status of persons addressed with that honorific?
+          option:
+            - Yes
+            - No
+          answer: No
+        - question: Does the honorific, "Miss" distinguish the marriage status of persons addressed with that honorific?
+          option:
+            - Yes
+            - No
+          answer: Yes
+        - question: Does the honorific, "Mrs" distinguish the marriage status of persons addressed with that honorific?
+          option:
+            - Yes
+            - No
+          answer: Yes
+        - question: Does the honorific, "Mr" distinguish the marriage status of persons addressed with that honorific?
+          option:
+            - Yes
+            - No
+          answer: No
+        - question: What might be a reason for the replacement of "Miss" and "Mrs" by "Ms"?
+          option:
+            - '"Ms" is shorter.'
+            - Honorifics distinguishing marriage status for women, but not for men, are discriminatory.
+            - Women wanted an honorific that had the same number of letters as "Mr".
+          answer: Honorifics distinguishing marriage status for women, but not for men, are discriminatory.
 body:
   jigsaw:
     0:
@@ -680,6 +782,292 @@ punctuation:
              - (-)
              - ("...")
             answer: ("...")
+      1:
+        identifier: punctuation
+        quiz:
+          - question: |+
+              Separates one sentence from the following sentence
+            option:
+             - (.)
+             - (?)
+             - (!)
+             - (,)
+             - (:)
+             - (;)
+             - (')
+             - (--)
+             - (-)
+             - ("...")
+            answer: (.)
+          - question: |+
+              Used to ask someone about something
+            option:
+             - (.)
+             - (?)
+             - (!)
+             - (,)
+             - (:)
+             - (;)
+             - (')
+             - (--)
+             - (-)
+             - ("...")
+            answer: (?)
+          - question: |+
+              Used to show what is said arouses emotions
+            option:
+             - (.)
+             - (?)
+             - (!)
+             - (,)
+             - (:)
+             - (;)
+             - (')
+             - (--)
+             - (-)
+             - ("...")
+            answer: (!)
+          - question: |+
+              Separates one noun from a following noun
+            option:
+             - (.)
+             - (?)
+             - (!)
+             - (,)
+             - (:)
+             - (;)
+             - (')
+             - (--)
+             - (-)
+             - ("...")
+            answer: (,)
+          - question: |+
+              Used to separate an expression into a topic/subject and a comment about the topic
+            option:
+             - (.)
+             - (?)
+             - (!)
+             - (,)
+             - (:)
+             - (;)
+             - (')
+             - (--)
+             - (-)
+             - ("...")
+            answer: (:)
+          - question: |+
+              Separates sub-sentences that are part of a longer sentence, but not to separate noun phrases
+            option:
+             - (.)
+             - (?)
+             - (!)
+             - (,)
+             - (:)
+             - (;)
+             - (')
+             - (--)
+             - (-)
+             - ("...")
+            answer: (;)
+          - question: |+
+              Shows that the noun before is in possession of the following noun
+            option:
+             - (.)
+             - (?)
+             - (!)
+             - (,)
+             - (:)
+             - (;)
+             - (')
+             - (--)
+             - (-)
+             - ("...")
+            answer: (')
+          - question: |+
+              Separates a part of a sentence that is included in another longer sentence, but which doesn't have a grammatical relationship with the longer sentence, because it is like an afterthought, or an interruption to the longer sentence
+            option:
+             - (.)
+             - (?)
+             - (!)
+             - (,)
+             - (:)
+             - (;)
+             - (')
+             - (--)
+             - (-)
+             - ("...")
+            answer: (--)
+          - question: |+
+              Makes a new word out of two different words placed one after the other
+            option:
+             - (.)
+             - (?)
+             - (!)
+             - (,)
+             - (:)
+             - (;)
+             - (')
+             - (--)
+             - (-)
+             - ("...")
+            answer: (-)
+          - question: |+
+              Used to show the actual words of someone else that you are repeating
+            option:
+             - (.)
+             - (?)
+             - (!)
+             - (,)
+             - (:)
+             - (;)
+             - (')
+             - (--)
+             - (-)
+             - ("...")
+            answer: ("...")
+      2:
+        identifier: punctuation
+        quiz:
+          - question: |+
+              We separate one sentence from the following sentence?? This is the following sentence
+            option:
+             - period, full stop, or occasionally, dot
+             - question mark
+             - exclamation mark
+             - comma
+             - colon
+             - semi-colon
+             - apostrophe
+             - dash
+             - hyphen
+             - quotation marks
+            answer: period, full stop, or occasionally, dot
+          - question: |+
+              Could you ask someone for me??
+            option:
+             - period, full stop, or occasionally, dot
+             - question mark
+             - exclamation mark
+             - comma
+             - colon
+             - semi-colon
+             - apostrophe
+             - dash
+             - hyphen
+             - quotation marks
+            answer: question mark
+          - question: |+
+              Quiet??
+            option:
+             - period, full stop, or occasionally, dot
+             - question mark
+             - exclamation mark
+             - comma
+             - colon
+             - semi-colon
+             - apostrophe
+             - dash
+             - hyphen
+             - quotation marks
+            answer: exclamation mark
+          - question: |+
+              Every man?? woman and child
+            option:
+             - period, full stop, or occasionally, dot
+             - question mark
+             - exclamation mark
+             - comma
+             - colon
+             - semi-colon
+             - apostrophe
+             - dash
+             - hyphen
+             - quotation marks
+            answer: comma
+          - question: |+
+              To be or not to be?? that is the question
+            option:
+             - period, full stop, or occasionally, dot
+             - question mark
+             - exclamation mark
+             - comma
+             - colon
+             - semi-colon
+             - apostrophe
+             - dash
+             - hyphen
+             - quotation marks
+            answer: colon
+          - question: |+
+              I have no feelings?? I am a machine.
+            option:
+             - period, full stop, or occasionally, dot
+             - question mark
+             - exclamation mark
+             - comma
+             - colon
+             - semi-colon
+             - apostrophe
+             - dash
+             - hyphen
+             - quotation marks
+            answer: semi-colon
+          - question: |+
+              book?? cover
+            option:
+             - period, full stop, or occasionally, dot
+             - question mark
+             - exclamation mark
+             - comma
+             - colon
+             - semi-colon
+             - apostrophe
+             - dash
+             - hyphen
+             - quotation marks
+            answer: apostrophe
+          - question: |+
+              Now what was I??Hey, you??talking about? Regard it as a matter of business??business that must be done.
+            option:
+             - period, full stop, or occasionally, dot
+             - question mark
+             - exclamation mark
+             - comma
+             - colon
+             - semi-colon
+             - apostrophe
+             - dash
+             - hyphen
+             - quotation marks
+            answer: dash
+          - question: |+
+              full??on gung??ho
+            option:
+             - period, full stop, or occasionally, dot
+             - question mark
+             - exclamation mark
+             - comma
+             - colon
+             - semi-colon
+             - apostrophe
+             - dash
+             - hyphen
+             - quotation marks
+            answer: hyphen
+          - question: |+
+              Trump said Powell ??looks like he's happy raising interest rates.??
+            option:
+             - period, full stop, or occasionally, dot
+             - question mark
+             - exclamation mark
+             - comma
+             - colon
+             - semi-colon
+             - apostrophe
+             - dash
+             - hyphen
+             - quotation marks
+            answer: quotation marks
 grammar:
   jigsaw:
     0:
@@ -1629,6 +2017,105 @@ strategy:
             - 19. Lay out the letter so it looks good (presentation)
             - 20. Be careful with punctuation
           answer: 20. Be careful with punctuation
+    3:
+      identifier: strategies, 8cs, audience
+      quiz:
+        - question: start from the end
+          option:
+            - reader purpose?
+            - concise?
+          answer: reader purpose?
+        - question: Use appropriate salutation
+          option:
+            - prefered style
+            - courteous
+          answer: courteous
+        - question: Put yourself in the reader's place
+          option:
+            - considerate
+            - clear
+          answer: considerate
+        - question: Say it plainly
+          option:
+            - clear
+            - correct
+          answer: clear
+        - question: Clear the deadwood
+          option:
+            - coherent
+            - concise
+          answer: concise
+        - question: Be natural
+          option:
+            - reader relationship with the writer
+            - correct
+          answer: reader relationship with the writer
+        - question: Be consistent (British English or American English)
+          option:
+            - coherent
+            - correct
+          answer: correct
+        - question: Try to use active voice
+          option:
+            - clear
+            - correct
+          answer: clear
+        - question: Choose words carefully (eg expect vs hope), pay attention to tone
+          option:
+            - correct
+            - courteous
+          answer: correct
+        - question: Never write in anger
+          option:
+            - correct
+            - considerate
+          answer: considerate
+        - question: Never use contractions (don't, etc)
+          option:
+            - correct
+            - concise
+          answer: correct
+        - question: Don't use very informal language unless the person is a good friend
+          option:
+            - reader relationship with writer
+            - reader purpose
+          answer: reader relationship with writer
+        - question: Do not make accusations you cannot prove
+          option:
+            - correct
+            - concrete
+          answer: correct
+        - question: Don't claim to be the cheapest, best, etc
+          option:
+            - correct
+            - clear
+          answer: correct
+        - question: With a lot of details, consider using lists with numbers, bullets
+          option:
+            - clear
+            - concise
+          answer: clear
+        - question: Be as concise as possible
+          option:
+            - clear
+            - concise
+          answer: concise
+        - question: End with an action step
+          option:
+            - reader interest
+            - reader purpose
+          answer: reader purpose
+        - question: Lay out the letter so it looks good (presentation)
+          option:
+            - clear
+            - correct
+          answer: clear
+        - question: Be careful with punctuation
+          option:
+            - clear
+            - correct
+          answer: correct
+
 scramble:
   scramble:
     0:
