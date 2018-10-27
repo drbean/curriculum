@@ -89,3 +89,8 @@ Write the topic of your story here, eg 'My story is about missing the bus'. Put 
 
 YOU MUST WRITE THE TOPIC OF YOUR STORY BEFORE you come with your partner to talk to Dr Bean.
 
+# Bull, kangaroo soccer field
+
+- [Bull invades soccer field in Australia](https://www.youtube.com/watch?v=erZSJHy2Lzk)
+- [Kangaroo invades soccer field in Australia](https://www.youtube.com/watch?v=Q7HHXE6x6AY)
+
