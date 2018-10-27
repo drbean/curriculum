@@ -1,39 +1,48 @@
 % Conversation--Exams!
 % Dr Bean (高來圭)
-% [Sat Oct 14 17:35:11 CST 2017 at github: ](https://github.com/drbean/curriculum/tree/master/conversation)
+% [Tue Oct 23 20:54:10 CST 2018 at github: ](https://github.com/drbean/curriculum/tree/master/conversation)
+
 
 
 
 # Exam
 
-## Exam 1 of 6--Conversation
+## Exam 2 of 6--Conversation
 
 Remember the conversation exam on Thursday. Don't be more than 15 minutes late! Or your score will only be 1 for talking with Dr Bean.
 
-This is the first of 6 exams. It is equal in importance to the Mid-term and final exams.
+This is the 2nd of 6 exams. It is equal in importance to the Mid-term and final exams.
 
-To prepare, do the homework before Monday 7pm. Ask a partner the question you will ask Dr Bean about work on Thursday.
+To prepare, do the homework before Tuesday 10am. Ask a partner the question you will ask Dr Bean about working together on Thursday.
 
 ## 3 simultaneous exams
 
 * talking with Dr Bean
-* writing questions about Emma and Tyler
+* writing questions about Keiko and moving
 * pair dictation
 
 ## talking with Dr Bean
 
 With an opponent,
 
-* ask Dr Bean a question about work
-* have a conversation
-* listen to your opponent's conversation
+* ask Dr Bean a question about cooperating with other people:
+
+	*asking/being asked for help,
+	*gifts,
+	* apologies,
+	* phone calls,
+	* favors,
+	* invitations,
+	* compliments
+	* or
+	* complaints
 
 Dr Bean will decide the winner, who gets 5, and the loser, who gets 4.
 
 Don't leave approaching Dr Bean to the last minute. Otherwise you both only get 3.
 There are many students and not much time. You may not have a chance to talk to him with your opponent.
 
-## writing questions about Emma and Tyler
+## writing questions about Keiko and moving
 
 On the website, write as many questions using words from the list.
 
@@ -46,7 +55,7 @@ The person who writes most (grammatical) questions gets 5.
 You and your partner you will have 2 cards like
 [http://web.nuu.edu.tw/~greg/topics/dic_diet_1.pdf ](http://web.nuu.edu.tw/~greg/topics/dic_diet_1.pdf)
 
-But they will be about 2 people, Emma and Tyler talking about summer jobs.
+But they will be about 2 people, making requests.
 
 ## pair dictation instructions
 
