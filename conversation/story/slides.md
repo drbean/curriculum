@@ -35,7 +35,7 @@ Tell your new partner the same story you told your old partner. Use at least 3 s
 
 Or tell a different story.
 
-For example, "I was cycling in heavy rain, when a car hit me from behind. Because it was very heavy rain, I cycling in the middle of the lane, and I guess the driver didn't see me. I wasn't injured and he paid for the repairs to my bicycle."
+For example, "I was cycling in heavy rain, when a car hit me from behind. Because it was very heavy rain, I was cycling in the middle of the lane, and I guess the driver didn't see me. I wasn't injured and he paid for the repairs to my bicycle."
 
 30 seconds. Each person must say tell his/her story.
 
@@ -81,7 +81,9 @@ Roleplay by 3 people of gold, hair, and ambulance stories. Who is A, B, C? Answe
 
 ## A story
 
-Tell Dr Bean something that happened to you, identifying the story as a lucky break, misfortune, coincidence, disaster, emergency, triumph, dilemma, or mystery.
+Tell Dr Bean something that happened to you, identifying the story as a
+coincidence, dilemma, disaster, emergency, lucky break, misfortune, mystery.  or
+triumph,
 
 Be ready to answer his questions about your story.
 
