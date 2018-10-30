@@ -413,6 +413,69 @@ ambulance:
           answer: True
         - question: The police were driving faster than 150 kph.
           answer: True
-        
-        
-        
+evaluation:
+  jigsaw:
+    0:
+      identifier: "student stories: Nancy, Daniel"
+      quiz:
+        - question: Nancy and Daniel
+          option:
+            - Nancy tells a story
+            - Nancy doesn't tell a story
+          answer: Nancy tells a story
+        - question: Nancy and Daniel
+          option:
+            - Daniel tells a story
+            - Daniel doesn't tell a story
+          answer: Daniel doesn't tell a story
+        - question: the questions about Nancy and Daniel together
+          option:
+            - Neither Nancy nor Daniel tell a story
+            - Nancy tells a story but Daniel doesn't tell a story
+            - Daniel tells a story but Nancy doesn't tell a story
+            - Both Nancy and Daniel tell a story
+          answer: Nancy tells a story but Daniel doesn't tell a story
+    1:
+      identifier: "student stories: York, Jeff1"
+      quiz:
+        - question: York and Jeff1
+          option:
+            - York tells a story
+            - York doesn't tell a story
+          answer: York tells a story
+        - question: York and Jeff1
+          option:
+            - Jeff1 tells a story
+            - Jeff1 doesn't tell a story
+          answer: Jeff1 doesn't tell a story
+        - question: the questions about York and Jeff1 together
+          option:
+            - Neither York nor Jeff1 tell a story
+            - York tells a story but Jeff1 doesn't tell a story
+            - Jeff1 tells a story but York doesn't tell a story
+            - Both York and Jeff1 tell a story
+          answer: York tells a story but Jeff1 doesn't tell a story
+    2:
+      identifier: necessary element
+      quiz:
+        - question: "A story:"
+          option:
+            - has to be true
+            - doesn't have to be true
+          answer: doesn't have to be true
+        - question: "A story:"
+          option:
+            - happens at a particular time, eg yesterday, or many years ago.
+            - doesn't have to happen at a particular time, eg yesterday, or many years ago.
+          answer: happens at a particular time, eg yesterday, or many years ago.
+        - question: "A story:"
+          option:
+            - has to have a beginning and a middle and perhaps an end
+            - doesn't have to have a beginning and a middle and perhaps an end
+          answer: has to have a beginning and a middle and perhaps an end
+        - question: "A story:"
+          option:
+            - is something which happened to the teller of the story
+            - is something which the teller of the story may have only heard from someone else
+          answer: is something which the teller of the story may have only heard from someone else
+
