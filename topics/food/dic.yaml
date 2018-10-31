@@ -125,8 +125,20 @@
     The same man ate sixty six hotdogs in 2007. How many hotdogs can you eat?
   - Do you like|Some people|like hotdogs|Every|there is a hotdog eating|In 2008, two men ate|hotdogs|Did they get|No, one of them ate|more|The|man ate sixty six hotdogs in|How|hotdogs|you|End
 -
-  - "restaurant-2"
-  - "restaurant-2"
+  - "restaurant-1"
+  - "restaurant-1"
+  - "topics"
+  - "all"
+  - |+
+    Fred is a chef. He works at a restaurant. It is very crowded.
+    Fred is very busy. He cooks all day. He cuts vegetables with a knife. Then he puts them in a pot.
+    He puts a little bit of salt on them. He doesn't want them to be too salty.
+    He also watches them closely. He doesn't want to burn them. Fred is a good chef.
+  - Fred is a|He|at a|It is very|Fred is very|He cooks|He cuts|with a|Then he puts them in a|He puts a|bit of|on them|He doesn't|them to be|He also|them|He doesn't want to|them. Fred is a|chef|End
+
+-
+  - "restaurant-3"
+  - "restaurant-3"
   - "topics"
   - "all"
   - |+
