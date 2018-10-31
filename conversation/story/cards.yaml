@@ -71,8 +71,90 @@ past_continuous:
           option:
             - I was trying to visit my parents last night when I got stuck in the elevator in their apartment building.
           answer: I was trying to visit my parents last night when I got stuck in the elevator in their apartment building.
-           
-
+    pants:
+      identifier: pants--bad luck, memory
+      quiz:
+        - question: 1a
+          option:
+            - was donating
+            - donated
+          answer: donated
+        - question: 1b
+          option:
+            - was walking
+            - walked
+          answer: was walking
+        - question: 1c
+          option:
+            - was remembering
+            - remembered
+          answer: remembered
+        - question: 1d
+          option:
+            - was leaving
+            - left
+          answer: left
+    puppy:
+      identifier: puppy
+      quiz:
+        - question: 2a
+          option:
+            - was walking
+            - walked
+          answer: was walking
+        - question: 2b
+          option:
+            - was seeing
+            - saw
+          answer: saw
+        - question: 2c
+          option:
+            - was stopping
+            - stopped
+          answer: stopped
+        - question: 2d
+          option:
+            - was picking
+            - picked
+          answer: was picking
+        - question: 2e
+          option:
+            - was coming
+            - came
+          answer: came
+        - question: 2f
+          option:
+            - was ending
+            - ended
+          answer: ended
+    fall:
+      identifier: fall
+      quiz:
+        - question: 3a
+          option:
+            - was driving
+            - drove
+          answer: was driving
+        - question: 3b
+          option:
+            - was having
+            - had
+          answer: had
+        - question: 3c
+          option:
+            - was sleeping
+            - slept
+          answer: was sleeping
+        - question: 3d
+          option:
+            - was collapsing
+            - collapsed
+          answer: collapsed
+        - question: 3e
+          option:
+            - was falling
+            - fell
+          answer: fell
 past_perfect:
   jigsaw:
     0:
@@ -94,6 +176,83 @@ past_perfect:
           option:
             - Fortunately, I had brought my cell phone with me, so I called my brother for help.
           answer: Fortunately, I had brought my cell phone with me, so I called my brother for help.
+    1:
+      identifier: past_perfect 5th ed 1,2
+      quiz:
+        - question: 1a
+          option:
+            - took
+            - had taken
+          answer: took
+        - question: 1b
+          option:
+            - didn't travel
+            - hadn't traveled
+          answer: hadn't traveled
+        - question: 2a
+          option:
+            - visited
+            - was visiting
+          answer: was visiting
+        - question: 2b
+          option:
+            - ran
+            - had run
+          answer: ran
+        - question: 2c
+          option:
+            - didn't see
+            - hadn't seen
+          answer: hadn't seen
+    2:
+      identifier: past_perfect 5th ed 3,4
+      quiz:
+        - question: 3a
+          option:
+            - were driving
+            - had driven
+          answer: were driving
+        - question: 3b
+          option:
+            - ran
+            - were running
+          answer: ran
+        - question: 3c
+          option:
+            - forgot
+            - had forgotten
+          answer: had forgotten
+        - question: 3d
+          option:
+            - stopped
+            - had stopped
+          answer: stopped
+        - question: 3e
+          option:
+            - was helping
+            - helped
+          answer: helped
+        - question: 4a
+          option:
+            - was going
+            - had gone
+          answer: was going
+        - question: 4b
+          option:
+            - got
+            - had gotten
+          answer: got
+        - question: 4c
+          option:
+            - was stuck
+            - had been stuck
+          answer: had been stuck
+        - question: 4d
+          option:
+            - started
+            - had started
+          answer: started
+
 continued:
   match:
     0:
@@ -111,6 +270,65 @@ continued:
         -
           - I ____ to visit my parents last night when I ____ stuck in the elevator in their apartment building.\n
           - It ____ the 5th floor when it stopped. After I ____ stuck for an hour, someone ____ it again.
+news:
+  jigsaw:
+    0:
+      identifier: "news: where, when, what"
+      quiz:
+        - question: Where did the first event happen?
+          option:
+            - in Australia
+            - in Missouri
+            - in Ontario
+          answer: in Australia
+        - question: When did the first event happen?
+          option:
+            - on Saturday
+            - on Thursday
+            - on Tuesday
+          answer: on Saturday
+        - question: What happened in the first event?
+          option:
+            - a bull charged the field
+            - a man flew 1,300 feet in the air
+            - a thief helped police chasing him
+          answer: a bull charged the field
+        - question: Where did the second event happen?
+          option:
+            - in Australia
+            - in Missouri
+            - in Ontario
+          answer: in Missouri
+        - question: When did the second event happen?
+          option:
+            - on Saturday
+            - on Thursday
+            - on Tuesday
+          answer: on Thursday
+        - question: What happened in the second event?
+          option:
+            - a bull charged the field
+            - a man flew 1,300 feet in the air
+            - a thief helped police chasing him
+          answer: a man flew 1,300 feet in the air
+        - question: Where did the third event happen?
+          option:
+            - in Australia
+            - in Missouri
+            - in Ontario
+          answer: in Ontario
+        - question: When did the third event happen?
+          option:
+            - on Saturday
+            - on Thursday
+            - on Tuesday
+          answer: on Tuesday
+        - question: What happened in the third event?
+          option:
+            - a bull charged the field
+            - a man flew 1,300 feet in the air
+            - a thief helped police chasing him
+          answer: a thief helped police chasing him
 theft:
   jigsaw:
     0:
@@ -156,10 +374,10 @@ event:
       pair:
         -
           - a coincidence
-          - unexpected events that appear to be connected
+          - a situation when two similar things happen at the same time for no reason
         -
           - a dilemma
-          - a situation that involved a difficult choice
+          - a situation that involves a difficult choice
         -
           - a disaster
           - an event that causes suffering or destruction
@@ -170,8 +388,8 @@ event:
           - a lucky break
           - an unexpected event that brings good fortune
         -
-          - misfortune
-          - an unlucky event, or bad luck
+          - mishap
+          - an accident, mistake or unlucky event
         -
           - a mystery
           - something puzzling or unexplained
@@ -475,7 +693,35 @@ evaluation:
           answer: has to have a beginning and a middle and perhaps an end
         - question: "A story:"
           option:
+            - is about individual people who have names, even if we don't know their names
+            - can be about events, and there may not be any people in the story
+          answer: is about individual people who have names, even if we don't know their names
+        - question: "A story:"
+          option:
             - is something which happened to the teller of the story
             - is something which the teller of the story may have only heard from someone else
           answer: is something which the teller of the story may have only heard from someone else
+source:
+  jigsaw:
+    0:
+      identifier: message source
+      quiz:
+        - question: app message source
+          option:
+            - co-worker
+            - friend
+            - podcast
+          answer: friend
+        - question: sleep message source
+          option:
+            - co-worker
+            - friend
+            - podcast
+          answer: podcast
+        - question: package message source
+          option:
+            - co-worker
+            - friend
+            - podcast
+          answer: co-worker
 
