@@ -135,6 +135,19 @@
     He puts a little bit of salt on them. He doesn't want them to be too salty.
     He also watches them closely. He doesn't want to burn them. Fred is a good chef.
   - Fred is a|He|at a|It is very|Fred is very|He cooks|He cuts|with a|Then he puts them in a|He puts a|bit of|on them|He doesn't|them to be|He also|them|He doesn't want to|them. Fred is a|chef|End
+-
+  - "restaurant-2"
+  - "restaurant-2"
+  - "topics"
+  - "all"
+  - |+
+    A: Did you go to that new restaurant?
+    B: Yes, I did. It wasn't good though. It was very crowded and my napkin was dirty.
+    A: That's too bad. So, what did you eat?
+    B: I ate chicken, but the chef burned it. It wasn't very tasty.
+    A: Oh, no! Did you get a free dessert?
+    B: Yes, I got some ice cream.
+  - Did you go to that|Yes|It wasn't good though. It was very|and my|was|That's|So, what|you|I ate|but the chef|it|It wasn't very|Oh, no! Did you|a free|Yes I got some|End
 
 -
   - "restaurant-3"
