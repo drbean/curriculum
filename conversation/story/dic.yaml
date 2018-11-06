@@ -1,0 +1,62 @@
+---
+-
+  - id
+  - description
+  - genre
+  - target
+  - content
+  - unclozeables
+  - percent
+-
+  - story-0
+  - bull
+  - conversation
+  - all
+  - |+
+    A: (Kicks the ball into the goal.)
+    B: Oh, no! Another goal for you!
+    A: What's the score? I've forgotten.
+    B: We have two goals. And you have three.
+    A: Hey, look. Isn't that a bull. What's it doing on the field?
+    B: It's a bull. It's coming this way. Run that way!
+    A: Kick the ball away! Perhaps the ball is making it angry.
+    A: (Runs one way.)
+    B: (Runs the other way.)
+    A: Look! It's leaving the field.
+    B: Oh, good. We can start again.
+  - End
+-
+  - story-1
+  - tornado
+  - conversation
+  - all
+  - |+
+    A: Hey, Matt. You're lucky to be alive and well.
+    B: Yes. I had the ride of my life. Never again!
+    A: What were you doing before the typhoon?
+    B: I was talking to my grandmother and watching TV.
+    A: What happened when the typhoon hit?
+    B: It ripped the walls off and sucked me into the air.
+    A: You apparently flew 1,300 feet before it dropped you.
+    B: Yes. I fell into a field. It hurt!
+    A: No broken bones or other damage?
+    B: Just some cuts and scratches.
+  - End
+-
+  - story-2
+  - rescue
+  - conversation
+  - all
+  - |+
+    A: We're taking you in! You're a car thief!
+    B: Catch me if you can! (Drives off)
+    A: Follow that car!
+    B: (Drives very quickly)
+    A: I'm losing control of the car! We're heading into the river!
+    B: Oh. The police car crashed into the river. What should I do?
+    A: Help! Hey! The car thief has come back to rescue us!
+    B: Are you OK? Let me pull you out of the river.
+    A: (Later) Thanks for rescuing us from the river!
+    B: Thanks for dropping the charges against me.
+  - End
+

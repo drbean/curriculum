@@ -724,4 +724,33 @@ source:
             - friend
             - podcast
           answer: co-worker
-
+    1:
+      identifier: media source
+      quiz:
+        - question: 1
+          option:
+            - news
+            - health
+            - trending topics
+            - arts
+            - science
+            - tech
+          answer: health
+        - question: 2
+          option:
+            - news
+            - health
+            - trending topics
+            - arts
+            - science
+            - tech
+          answer: science
+        - question: 1
+          option:
+            - news
+            - health
+            - trending topics
+            - arts
+            - science
+            - tech
+          answer: news
