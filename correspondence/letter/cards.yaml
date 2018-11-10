@@ -58,6 +58,78 @@ date:
           option:
            - September 19, 2017
           answer: September 19, 2017
+    2:
+      identifier: date rewriting 2
+      quiz:
+        - question: |+
+            Sep 19th, 2018, fully-written-out American style
+          option:
+           - September 19, 2018
+          answer: September 19, 2018
+        - question: |+
+            British date 4/7/2018, fully-written-out American style
+          option:
+           - July 4, 2018
+          answer: July 4, 2018
+        - question: |+
+            09.13.2018, fully-written-out American style
+          option:
+           - September 13, 2018
+          answer: September 13, 2018
+        - question: |+
+            中華民國107年7月20日, fully-written-out American style
+          option:
+           - July 20, 2018
+          answer: July 20, 2018
+        - question: |+
+            107/11/12, fully-written-out American style
+          option:
+           - November 12, 2018
+          answer: November 12, 2018
+    3:
+      identifier: British or American?
+      quiz:
+        - question: January 20, 2018
+          option:
+            - British style
+            - American style
+            - could be either
+          answer: American style
+        - question: 20/11/2018
+          option:
+            - British style
+            - American style
+            - could be either
+          answer: British style
+        - question: 15 June 2019
+          option:
+            - British style
+            - American style
+            - could be either
+          answer: British style
+        - question: 10/13/2018
+          option:
+            - British style
+            - American style
+            - could be either
+          answer: American style
+        - question: 5/11/2018
+          option:
+            - British style
+            - American style
+            - could be either
+          answer: could be either
+    4:
+      identifier: consistency reason
+      quiz:
+        - question: The reason for writing out the month, eg January, February, March, April, May, June, July, August, October, November, December, rather than writing 1 .. 12.
+          option:
+            - English speakers like to see the name of the month
+            - Foreigners might not know the name of the month in English
+            - It takes longer to write out the month
+            - The same expression may mean different dates to different people
+            - US dates are written with the month before the day/date
+          answer: The same expression may mean different dates to different people
 envelope:
   jigsaw:
     0:
@@ -65,8 +137,15 @@ envelope:
       quiz:
         - question: The envelope of a letter from President Tsai, IngWen, Presidential Office Building 台灣 10048 台北市中正區重慶南路一段122號 to President Donald Trump at the White House, 1600 Pennsylvania Ave NW, Washington, DC 20500
           option:
-            - letterhead
-          answer: letterhead
+            - envelope
+          answer: envelope
+    1:
+      identifier: putin to trump
+      quiz:
+        - question: In December, 2016, after Trump was elected president of the US, but before he became president, President Putin of Russia sent a personal letter to him at Trump Tower, in New York City. Trump Tower is on Fifth Avenue, and has street number 725. The zip (postal) code is 10022. In the return address, he wrote his name, Vladimir Putin and his position, President of Russia. His office is The Kremlin, and the address of the Kremlin is 23, Red Square, Moscow, 103132, Russia. You can write New York City as "New York, NY". Re-create the envelope of the letter that Putin sent to Trump.
+          option:
+            - envelope
+          answer: envelope
 letter:
   jigsaw:
     0:
@@ -76,6 +155,13 @@ letter:
           option:
             - letterhead
           answer: letterhead
+    1:
+      identifier: putin to trump
+      quiz:
+        - question: In December, 2016, after Trump was elected president of the US, but before he became president, President Putin of Russia sent a personal letter to him at Trump Tower, in New York City. Trump Tower is on Fifth Avenue, and has street number 725. The zip (postal) code is 10022. In the body of the letter on the 5th of that month, Putin wrote, "Congratulations on winning the presidential elections. Let's work together on policy while you are president." And he signed it, Vladimir Putin, President of Russia. The letterhead should start, The Kremlin, and the address of the Kremlin is 23, Red Square, Moscow, 103132, Russia. You can write New York City as "New York, NY". Re-create that letter. Include the 8 parts.
+          option:
+            - letter
+          answer: letter
 
 parts:
   jigsaw:
@@ -159,6 +245,97 @@ parts:
             - complimentary close
             - signature
           answer: signature
+    1:
+      identifier: parts
+      quiz:
+        - question: A centered address at the top of the letter, with a logo, and other contact details
+          option:
+            - letterhead
+            - date
+            - inside address
+            - salutation
+            - subject
+            - body
+            - complimentary close
+            - signature
+          answer: letterhead
+        - question: the name and address of the person to whom the letter is sent
+          option:
+            - letterhead
+            - date
+            - inside address
+            - salutation
+            - subject
+            - body
+            - complimentary close
+            - signature
+          answer: inside address
+        - question: the month, day and year the letter is sent
+          option:
+            - letterhead
+            - date
+            - inside address
+            - salutation
+            - subject
+            - body
+            - complimentary close
+            - signature
+          answer: date
+        - question: Dear [Name of person receiving the letter]
+          option:
+            - letterhead
+            - date
+            - inside address
+            - salutation
+            - subject
+            - body
+            - complimentary close
+            - signature
+          answer: salutation
+        - question: "a short summary of the letter's content, sometimes starting 'Re:'"
+          option:
+            - letterhead
+            - date
+            - inside address
+            - salutation
+            - subject
+            - body
+            - complimentary close
+            - signature
+          answer: subject
+        - question: the content of the letter that the writer wants the reader to read
+          option:
+            - letterhead
+            - date
+            - inside address
+            - salutation
+            - subject
+            - body
+            - complimentary close
+            - signature
+          answer: body
+        - question: Yours [word expressing positive feelings of the writer toward the reader]
+          option:
+            - letterhead
+            - date
+            - inside address
+            - salutation
+            - subject
+            - body
+            - complimentary close
+            - signature
+          answer: complimentary close
+        - question: The name and position of the person sending the letter, both typed and written with a pen
+          option:
+            - letterhead
+            - date
+            - inside address
+            - salutation
+            - subject
+            - body
+            - complimentary close
+            - signature
+          answer: signature
 opening:
   scramble:
     0:
@@ -184,6 +361,21 @@ opening:
         -
           sentence: I am writing to inquire about parts for your bicycles.
           clozed: I|am|writing|to|inquire|about|parts|for|your|End
+    1:
+      identifier: opening scramble
+      sentences:
+        -
+          sentence: Thank you for your letter asking about computers.
+          clozed: Thank|you|for|your|letter|asking|about|End
+        -
+          sentence: I have received your letter dated January_20 regarding order_number KN5557845.
+          clozed: I|have|received|your|letter|dated|January_20|regarding|order_number|End
+        -
+          sentence: I would be grateful if you could send me a copy of your latest bicycle catalogue.
+          clozed: I|would|be|grateful|if|you|could|send|me|a|copy|of|your|latest|bicycle|End
+        -
+          sentence: I am writing to inquire about parts for the Strawberry_Pi.
+          clozed: I|am|writing|to|inquire|about|parts|for|the|End
 
 
 
@@ -304,6 +496,28 @@ address:
             -
               error: ^(?!.*Zhongzheng District, Taipei City 10048.*)
               feedback: Use the words, "Zhongzheng District, Taipei City 10048"
+    library:
+      identifier: national library
+      quiz:
+        - question: "on one line, no commas: '100台北市' Include city with a big C"
+          option:
+            - Taipei City 100
+          answer: Taipei City 100
+        - question: "on one line, no commas: 中正(Zhongzheng)區"
+          option:
+            - Zhongzheng District
+          answer: Zhongzheng District
+        - question: "on one line, no commas: 中山(Zhongshan)南路20號"
+          option:
+            - 20 Zhongshan South Road
+          answer: 20 Zhongshan South Road
+    miaoli:
+      identifier: city office
+      quiz:
+        - question: "on one line, no slashes, no 'City', but with comma(s) in the right place: 360苗栗市府前(Fuqian)路76號"
+          option:
+            - 76 Fuqian Road, Miaoli 360
+          answer: 76 Fuqian Road, Miaoli 360
     nuu:
       identifier: nuu address
       quiz:
@@ -369,6 +583,15 @@ letterhead:
            - president's name
            - logo
           answer: logo
+    1:
+      identifier: return address
+      quiz:
+        - question: Why is the letterhead also called the return address?
+          option:
+            - Because it is where the reader sends a reply
+            - Because it is where the letter is sent to
+            - Because it is folded and turned around when put in the envelope
+          answer: Because it is where the reader sends a reply
 inside address:
   jigsaw:
     0:
@@ -380,6 +603,14 @@ inside address:
            - The flap on the envelope is left open, so you can take the letter out.
            - The envelope is made so you can see inside the envelope.
          answer: The envelope is made so you can see inside the envelope.
+    1:
+      identifier: inside address
+      quiz:
+        - question: Why is it called the inside address?
+          option:
+            - Because it goes inside the envelope but is visible outside
+            - Because is folded inside and cannot be seen from outside the envelope
+          answer: Because it goes inside the envelope but is visible outside
 justify:
   jigsaw:
     0:
@@ -441,6 +672,57 @@ salutation:
            - Dear Ms Lin
            - Dear Lin
           answer: Dear Ms Lin
+    1:
+      identifier: salutation
+      quiz:
+        - question: Which is the wrong salutation, addressing a married woman?
+          option:
+            - Dear Ms Nina Lin
+            - Dear Ms Lin
+            - Dear Mrs Lin
+            - Dear Nina
+          answer: Dear Ms Nina Lin
+        - question: Which is the wrong salutation?
+          option:
+            - Dear John Smith
+            - Dear Mr Smith
+            - Dear John
+          answer: Dear John Smith
+        - question: Which salutation is OK?
+          option:
+            - Dear Mr John Smith
+            - Dear Mr John
+            - Dear John Smith
+            - Dear Mr Smith
+          answer: Dear Mr Smith
+        - question: You want to express friendship. You say, 
+          option:
+            - Dear Mr Smith
+            - Dear John
+          answer: Dear John
+        - question: Which salutation has fallen out of use?
+          option:
+            - Miss
+            - Mrs
+            - Mr
+            - Ms
+          answer: Miss
+        - question: In which case may marital status (single/married) be marked for gender
+          option:
+            - addressing a man
+            - addressing a woman
+          answer: addressing a woman
+        - question: Does the honorific 'Ms' indicate the marital status (single/married) of a woman?
+          option:
+            - Yes
+            - No
+          answer: No
+        - question: Does the honorific 'Mrs' indicate the marital status (single/married) of a woman?
+          option:
+            - Yes
+            - No
+          answer: Yes
+        
 honorific:
   jigsaw:
     preference:
@@ -563,6 +845,29 @@ close:
            - Yours faithfully,
            - Yours sincerely,
           answer: Yours sincerely,
+    1:
+      identifier: complimentary close differences
+      quiz:
+        - question: When you use someone's name in the salutation, what is a common complimentary closing?
+          option:
+            - Yours faithfully,
+            - Yours sincerely,
+          answer: Yours sincerely,
+        - question: When you DON'T use someone's name in the salutation, what is a common complimentary closing?
+          option:
+            - Yours faithfully,
+            - Yours sincerely,
+          answer: Yours faithfully,
+        - question: "'Best wishes' and 'Best regards' should be used with:"
+          option:
+            - good news messages
+            - bad news messages
+          answer: good news messages
+        - question: Is the punctuation consistent?\n\nDear Jack,\n\n...\n\nBest regards
+          option:
+            - Yes
+            - No
+          answer: No
     news:
       identifier: good/bad news
       quiz:
@@ -1068,6 +1373,97 @@ punctuation:
              - hyphen
              - quotation marks
             answer: quotation marks
+capital:
+  jigsaw:
+    0:
+      identifier: capital rules
+      quiz:
+        - question: iPhone
+          option:
+            - obeys the rules
+            - doesn't obey the rules
+          answer: doesn't obey the rules
+        - question: Tsai Ingwen is ROC president
+          option:
+            - obeys the rules
+            - doesn't obey the rules
+          answer: obeys the rules
+        - question: president Trump
+          option:
+            - obeys the rules
+            - doesn't obey the rules
+          answer: doesn't obey the rules
+        - question: What do you do on sundays?
+          option:
+            - obeys the rules
+            - doesn't obey the rules
+          answer: doesn't obey the rules
+        - question: He speaks chinese, korean and other languages
+          option:
+            - obeys the rules
+            - doesn't obey the rules
+          answer: doesn't obey the rules
+        - question: I drive a Ford
+          option:
+            - obeys the rules
+            - doesn't obey the rules
+          answer: obeys the rules
+        - question: Planets nearest the sun are Mercury, Venus, the Earth, Mars, Jupiter
+          option:
+            - obeys the rules
+            - doesn't obey the rules
+          answer: obeys the rules
+        - question: The earth's natural resources are being depleted!
+          option:
+            - obeys the rules
+            - doesn't obey the rules
+          answer: obeys the rules
+process:
+  match:
+    0:
+      identifier: process steps
+      pair:
+        -
+          - research and brainstorm
+          - What do I need to say?
+        -
+          - first draft
+          - OK, let's write it down
+        -
+          - correct mistakes
+          - Is that right?
+        -
+          - final draft
+          - It looks good.
+    1:
+      identifier: revision steps
+      pair:
+        -
+          - Checking high level qualities.
+          - Is this polite?
+        -
+          - Checking appropriacy for the reader.
+          - How much engineering vocabulary does the buyer know?
+        -
+          - Checking if the message does what I wanted it to do.
+          - Is there anything in the message I didn't intend to write, or shouldn't have written? Wait, that wasn't what they wanted to know!
+        -
+          - Correcting grammar.
+          - Is it "meet you" or "meet with you"?
+        -
+          - Correcting spelling and pronunciation.
+          - Is it "inquire" or "enquire"?
+        -
+          - Finding awkward statements.
+          - I don't know if the reader will understand what I mean by this.
+        -
+          - Final proofread.
+          - Let's look at it one last time before sending it.
+        
+        
+        
+        
+        
 grammar:
   jigsaw:
     0:
@@ -2123,4 +2519,99 @@ scramble:
       sentence:
         - We are pleased to inform you that you have won one million dollars in the last Google lottery.
 
-    
+correction:
+  jigsaw:
+    0:
+      identifier: genetech
+      quiz:
+        - question: dear william curiel
+          option:
+            - Dear William Curiel,
+          answer: Dear William Curiel,
+        - question: i am the sales manager for genetech a small biotechnology company based in tainan 
+          option:
+            - I am the sales manager for Genetech, a small biotechnology company based in Tainan.
+          answer: I am the sales manager for Genetech, a small biotechnology company based in Tainan.
+        - question: I attended your presentation at the eurotech conference in paris in November and we met briefly afterwards
+          option:
+            - I attended your presentation at the Eurotech Conference in Paris in November and we met briefly afterwards.
+          answer: I attended your presentation at the Eurotech Conference in Paris in November and we met briefly afterwards.
+        - question: here is the information I said i would send including our latest annual report
+          option:
+            - Here is the information I said i would send, including our latest annual report.
+          answer: Here is the information I said i would send, including our latest annual report.
+        - question: I hope it is of interest
+          option:
+            - I hope it is of interest.
+          answer: I hope it is of interest.
+        - question: best regards
+          option:
+            - Best regards,
+          answer: Best regards,
+        - question: jill bretz
+          option:
+            - Jill Bretz
+          answer: Jill Bretz
+    1:
+      identifier: verhart grammar
+      quiz:
+        - question: September 10 2015 
+          option:
+            - September 10, 2015 
+          answer: September 10, 2015 
+        - question: "Dear staff:" 
+          option:
+            - "Dear Staff:" 
+          answer: "Dear Staff:" 
+        - question: You will all be aware that we been interviewing candidates for the position of marketing director
+          option:
+            - You will all be aware that we have been interviewing candidates for the position of Marketing Director.
+          answer: You will all be aware that we have been interviewing candidates for the position of Marketing Director.
+        - question: I am now please to inform that we have appointed an excellent candidate, dianna verhart.
+          option:
+            - I am now pleased to inform you that we have appointed an excellent candidate, Dianna Verhart.
+          answer: I am now pleased to inform you that we have appointed an excellent candidate, Dianna Verhart.
+        - question: diana has worked in marketing for over eighteen years and I am sure that she will be a valuable member of team
+          option:
+            - Diana has worked in marketing for over eighteen years and I am sure that she will be a valuable member of our team.
+          answer: Diana has worked in marketing for over eighteen years and I am sure that she will be a valuable member of our team.
+        - question: I like to invite you a short lunchtime reception in conference room 2 next Tuesday 5 February where you will have chance to meet dianna on an informal basis.
+          option:
+            - I would like to invite you to a short lunchtime reception in Conference Room 2 next Tuesday 5 February, where you will have a chance to meet Dianna on an informal basis.
+          answer: I would like to invite you to a short lunchtime reception in Conference Room 2 next Tuesday 5 February, where you will have a chance to meet Dianna on an informal basis.
+        - question: refreshments will be available please let me knowing if you can come so that I can to estimate number of guests
+          option:
+            - Refreshments will be available. Please let me know if you can come so that I can estimate the number of guests.
+          answer: Refreshments will be available. Please let me know if you can come so that I can estimate the number of guests.
+        - question: Sincerely yours, 
+          option:
+            - Sincerely yours, 
+          answer: Sincerely yours, 
+        - question: Tracy cheng,
+          option:
+            - Tracy Cheng,
+          answer: Tracy Cheng,
+        - question: director of Language center
+          option:
+            - Director of Language Center
+          answer: Director of Language Center
+    2:
+      identifier: relc
+      quiz:
+        - question: Dear Mr Hsiao-Fang Cheng
+          option:
+            - Dear Ms. Cheng
+          answer: Dear Ms. Cheng
+        - question: We are please to inform that the 51st RELC International Conference on Teaching Literacy will be held ...
+          option:
+            - We are pleased to inform you that the 51st RELC International Conference on Teaching Literacy will be held ..
+          answer: We are pleased to inform you that the 51st RELC International Conference on Teaching Literacy will be held ..
+        - question: It is our pleasure inviting proposals for parallel papers and workshops.
+          option:
+            - It is our pleasure to invite proposals for parallel papers and workshops. 
+          answer: It is our pleasure to invite proposals for parallel papers and workshops. 
+        - question: Please let us to know if you did not receive your User ID and Password.
+          option:
+            - Please let us know if you did not receive your User ID and Password.
+          answer: Please let us know if you did not receive your User ID and Password.
+          
