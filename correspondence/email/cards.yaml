@@ -2,49 +2,6 @@
 genre: correspondence
 subject:
   jigsaw:
-    0:
-      identifier: subject line
-      quiz:
-        - question: |+
-            Email 1
-          option:
-           - Action Re Contract
-           - Special Offer
-           - Meeting on May 14
-           - Regarding Your Order
-           - Re Your Enquiry
-           - Shipping Confirmation
-          answer: Meeting on May 14
-        - question: |+
-            Email 2
-          option:
-           - Action Re Contract
-           - Special Offer
-           - Meeting on May 14
-           - Regarding Your Order
-           - Re Your Enquiry
-           - Shipping Confirmation
-          answer: Regarding Your Order
-        - question: |+
-            Email 3
-          option:
-           - Action Re Contract
-           - Special Offer
-           - Meeting on May 14
-           - Regarding Your Order
-           - Re Your Enquiry
-           - Shipping Confirmation
-          answer: Special Offer
-        - question: |+
-            Email 4
-          option:
-           - Action Re Contract
-           - Special Offer
-           - Meeting on May 14
-           - Regarding Your Order
-           - Re Your Enquiry
-           - Shipping Confirmation
-          answer: Re Your Enquiry
 formal:
   jigsaw:
     0:
@@ -116,6 +73,72 @@ etiquette:
           answer: False
 subject:
   jigsaw:
+    0:
+      identifier: subject line
+      quiz:
+        - question: |+
+            Email 1
+          option:
+           - Action Re Contract
+           - Special Offer
+           - Meeting on May 14
+           - Regarding Your Order
+           - Re Your Enquiry
+           - Shipping Confirmation
+          answer: Meeting on May 14
+        - question: |+
+            Email 2
+          option:
+           - Action Re Contract
+           - Special Offer
+           - Meeting on May 14
+           - Regarding Your Order
+           - Re Your Enquiry
+           - Shipping Confirmation
+          answer: Regarding Your Order
+        - question: |+
+            Email 3
+          option:
+           - Action Re Contract
+           - Special Offer
+           - Meeting on May 14
+           - Regarding Your Order
+           - Re Your Enquiry
+           - Shipping Confirmation
+          answer: Special Offer
+        - question: |+
+            Email 4
+          option:
+           - Action Re Contract
+           - Special Offer
+           - Meeting on May 14
+           - Regarding Your Order
+           - Re Your Enquiry
+           - Shipping Confirmation
+          answer: Re Your Enquiry
+    1:
+      identifier: good/bad
+      quiz:
+        - question: 本校106學年度教學優良教師獲獎名單
+          option:
+            - good
+            - bad
+          answer: good
+        - question: 自明(108)年度1月1日起本校適用勞基法(校務基金人員以及計畫專任助理)人員年資採曆年制，請同仁於11月23日(星期五)前至差勤系統上確認。
+          option:
+            - good
+            - bad
+          answer: bad
+        - question: 國立清華大學研究發展處研究倫理辦公室與經濟部智慧財產局於107年11月16日(星期五)，共同舉辦「2018學術倫理教育訓練(3):專利權概述」，請踴躍報名參加。
+          option:
+            - good
+            - bad
+          answer: bad
+        - question: 「2018綠色能源研討會」報名及投稿事宜
+          option:
+            - good
+            - bad
+          answer: good
     appropriate:
       identifier: subject
       quiz:
@@ -179,6 +202,11 @@ opening:
             - good
             - bad
           answer: good
+        - question: I hope this email finds you in good health.
+          option:
+            - good
+            - bad
+          answer: bad
 closing:
   scramble:
     0:
@@ -219,6 +247,18 @@ closing:
       identifier: closing drag 2
       sentence: If I can do anything to help you in the future, please let me know.
       clozed: If|I|can|do|to|help|you|in|the|please|let|me|know.
+    3:
+      identifier: closing scrample--drag, drop
+      sentences:
+        -
+          sentence: Please feel free to_1 contact me, if there is anything I can do to_2 help.
+          clozed: Please|feel|free|to_1|contact|if|there|is|anything|I|can|do|to_2|End
+        -
+          sentence: If I can be of any help in the future, please don't hesitate to contact me.
+          clozed: If|I|can|be|of|any|help|in|the|please|don't|hesitate|to|contact|End
+        -
+          sentence: If I can do anything to help you in the future, please let me know.
+          clozed: If|I|can|do|anything|to|help|you|in|the|future|please|let|me|know|End
 relocation:
   match:
     0:
@@ -245,3 +285,109 @@ relocation:
         -
           - 7 (complimentary close)
           - Sincerely yours,
+    1:
+      identifier: relocation
+      pair:
+        -
+          - information
+          - As the company has been developing rapidly ..
+        -
+          - closing
+          - We hope that we can maintain ..
+        -
+          - opening
+          - I am writing to inform you that our company will move to ..
+        -
+          - complimentary close
+          - Sincerely yours,
+        -
+          - information
+          - The new office is much more spacious ..
+        -
+          - salutation
+          - Dear Nina,
+        -
+          - information
+          - Though we are moving to a new site, our telephone number ..
+    2:
+      identifier: relocation
+      pair:
+        -
+          - 1
+          - Dear Nina,
+        -
+          - 2
+          - I am writing to inform you that our company will move to ..
+        -
+          - 3
+          - As the company has been developing rapidly ..
+        -
+          - 4
+          - The new office is much more spacious ..
+        -
+          - 5
+          - Though we are moving to a new site, our telephone number ..
+        -
+          - 6
+          - We hope that we can maintain ..
+        -
+          - 7
+          - Sincerely yours,
+attachment:
+  jigsaw:
+    0:
+      identifier: who mentions attachment?
+      quiz:
+        - question: I am attaching our catalogue to this message.
+          option:
+            - Said by sender
+            - Said by receiver
+          answer: Said by sender
+        - question: Please find attached our latest catalogue and brochure. 
+          option:
+            - Said by sender
+            - Said by receiver
+          answer: Said by sender
+        - question: I have just received the photographs, which you have attached to this message. 
+          option:
+            - Said by sender
+            - Said by receiver
+          answer: Said by receiver
+        - question: If you have any problems opening the attachment, please feel free to let me know. 
+          option:
+            - Said by sender
+            - Said by receiver
+          answer: Said by sender
+        - question: There was no attachment with the message. Could you send it again, please?
+          option:
+            - Said by sender
+            - Said by receiver
+          answer: Said by receiver
+        - question: Unfortunately, the attachment won't open on my computer. Could you send it again in a different format? 
+          option:
+            - Said by sender
+            - Said by receiver
+          answer: Said by receiver
+        - question: Sorry! I forgot to send the attachment
+          option:
+            - Said by sender
+            - Said by receiver
+          answer: Said by sender
+  drag:
+    0:
+      identifier: attachment scramble
+      sentences:
+        -
+          sentence: Please find attached our latest catalogue.
+          clozed: Please|find|attached|our|latest|End
+        -
+          sentence: I am attaching a copy of the document that you requested.
+          clozed: I|am|attaching|a|copy|of|the|document|that|you|End
+        -
+          sentence: Can you send the file again? I can't open it on my computer.
+          clozed: Can|you|send|the|file|I|can't|open|it|on|my|End
+        -
+          sentence: I'm sending the report again. I forgot to include the attachment.
+          clozed: I'm|sending|the|report|I|forgot|to|include|the|End
+example: https://dokumen.tips/documents/e-mail-etiquette-5874e300ace34.html
+        
