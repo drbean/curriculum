@@ -361,8 +361,8 @@ opening:
           sentence: I have received your letter dated January_20 regarding order_number KN5557845.
           clozed: I|have|received|your|letter|dated|January_20|regarding|order_number|End
         -
-          sentence: I would be grateful if you could send me a copy of your latest bicycle catalogue.
-          clozed: I|would|be|grateful|if|you|could|send|me|a|copy|of|your|latest|bicycle|End
+          sentence: I would be pleased if you could send me a copy of your latest flower catalogue.
+          clozed: I|would|be|pleased|if|you|could|send|me|a|copy|of|your|latest|flower|End
         -
           sentence: I am writing to inquire about parts for the Strawberry_Pi.
           clozed: I|am|writing|to|inquire|about|parts|for|the|End
