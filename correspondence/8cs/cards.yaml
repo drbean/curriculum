@@ -76,6 +76,68 @@ identify:
             - Courteous
             - Considerate
           answer: Considerate
+    2:
+      identifier: student 8cs, 1-4
+      quiz:
+        - question: Dear Mark:\nYour book loses in my room. I will take it to you tomorrow.  Don't forget the thing in my moom again.
+          option:
+            - Not clear
+            - Not concise
+            - Not concrete
+            - Not correct
+          answer: Not correct
+        - question: Dear Manager Wang,\n  Sorry for the delay in replying. I am on vacation not in the office now. Anyway, the items you ordered are not in stock, and I am not sure when they will arrive, because I am on vacation.\n  If you need any more information,please contact me. But today I am not in the office, I will reply to you next week.\n  Sincerely\n  Irena Lin
+          option:
+            - Not clear
+            - Not concise
+            - Not concrete
+            - Not correct
+          answer: Not concise
+        - question:  This is an invitation to invest in our new project to develop a drone. We think we will make a great profit. Please send two million dollars now to our company account.
+          option:
+            - Not clear
+            - Not concise
+            - Not concrete
+            - Not correct
+          answer: Not concrete
+        - question: The subject line should be such that a secret could be used to file the memo without the message having to be read.
+          option:
+            - Not clear
+            - Not concise
+            - Not concrete
+            - Not correct
+          answer: Not clear
+    3:
+      identifier: student 8cs, 5-8
+      quiz:
+        - question: LMAO,the best part is when they call old liver lips Madonna a celebrity!Give me a break,she couldn't open for a homeless man at a bus   stop!
+          option:
+            - Not coherent
+            - Not complete
+            - Not courteous
+            - Not considerate
+          answer: Not courteous
+        - question: Jane,\n     I just want to remind you of tommorrow's date, at 10 a.m.     Please come, I will waiting for you.
+          option:
+            - Not coherent
+            - Not complete
+            - Not courteous
+            - Not considerate
+          answer: Not complete
+        - question: We should make a petition making drug use and the plant/chemical used for making medicinal drugs non punishable with no more than adoctor appointment and a ticket. Drugs are not the problem. They help people to eat food anyway
+          option:
+            - Not coherent
+            - Not complete
+            - Not courteous
+            - Not considerate
+          answer: Not coherent
+        - question: I am writing to inform you that you must hand in the homework I gave you before Sunday at 2pm. If you do not hand in the homework by that time, you will get 0 marks for this assignment.
+          option:
+            - Not coherent
+            - Not complete
+            - Not courteous
+            - Not considerate
+          answer: Not considerate
 
         
 evaluate:
