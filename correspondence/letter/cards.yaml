@@ -863,7 +863,22 @@ close:
             - good news messages
             - bad news messages
           answer: good news messages
+        - question: Is the punctuation consistent?\n\nDear Jack:\n\n...\n\nBest regards,
+          option:
+            - Yes
+            - No
+          answer: Yes
         - question: Is the punctuation consistent?\n\nDear Jack,\n\n...\n\nBest regards
+          option:
+            - Yes
+            - No
+          answer: No
+        - question: Is the punctuation consistent?\n\nDear Jack,\n\n...\n\nBest regards,
+          option:
+            - Yes
+            - No
+          answer: Yes
+        - question: Is the punctuation consistent?\n\nDear Jack\n\n...\n\nBest regards,
           option:
             - Yes
             - No
@@ -1373,6 +1388,292 @@ punctuation:
              - hyphen
              - quotation marks
             answer: quotation marks
+      3:
+        identifier: punctuation
+        quiz:
+          - question: |+
+              Separates a first sentence from a following, second sentence
+            option:
+             - (.)
+             - (?)
+             - (!)
+             - (,)
+             - (:)
+             - (;)
+             - (')
+             - (--)
+             - (-)
+             - ("...")
+            answer: (.)
+          - question: |+
+              Used when someone asks someone about something
+            option:
+             - (.)
+             - (?)
+             - (!)
+             - (,)
+             - (:)
+             - (;)
+             - (')
+             - (--)
+             - (-)
+             - ("...")
+            answer: (?)
+          - question: |+
+              Used to show what is said is surprising, or sad, or is said in a loud voice.
+            option:
+             - (.)
+             - (?)
+             - (!)
+             - (,)
+             - (:)
+             - (;)
+             - (')
+             - (--)
+             - (-)
+             - ("...")
+            answer: (!)
+          - question: |+
+              Separates a noun from the following noun in a list, or when the nouns are equal to each other, like 'Genetech' and 'a small biotech company'. Genetech is a small biotech company.
+            option:
+             - (.)
+             - (?)
+             - (!)
+             - (,)
+             - (:)
+             - (;)
+             - (')
+             - (--)
+             - (-)
+             - ("...")
+            answer: (,)
+          - question: |+
+              "Used after a topic/subject to introduce a comment about that topic, eg, Latest news: Big fire in California"
+            option:
+             - (.)
+             - (?)
+             - (!)
+             - (,)
+             - (:)
+             - (;)
+             - (')
+             - (--)
+             - (-)
+             - ("...")
+            answer: (:)
+          - question: |+
+              Separates sub-sentences that are part of a longer sentence, but it is not used to separate noun phrases
+            option:
+             - (.)
+             - (?)
+             - (!)
+             - (,)
+             - (:)
+             - (;)
+             - (')
+             - (--)
+             - (-)
+             - ("...")
+            answer: (;)
+          - question: |+
+              Shows that the noun before is in possession of the following noun, eg, the dog has a collar. The dog's collar.
+            option:
+             - (.)
+             - (?)
+             - (!)
+             - (,)
+             - (:)
+             - (;)
+             - (')
+             - (--)
+             - (-)
+             - ("...")
+            answer: (')
+          - question: |+
+              Used in pairs to separate information that is not necessary to understand the rest of the sentence, eg, 'Thousands of children--like the girl in this photograph--have been left homeless.'
+            option:
+             - (.)
+             - (?)
+             - (!)
+             - (,)
+             - (:)
+             - (;)
+             - (')
+             - (--)
+             - (-)
+             - ("...")
+            answer: (--)
+          - question: |+
+              Makes a new word out of two different words placed one after the other, without spaces. For example, it puts "high" and "tech" together, separated only by the mark.
+            option:
+             - (.)
+             - (?)
+             - (!)
+             - (,)
+             - (:)
+             - (;)
+             - (')
+             - (--)
+             - (-)
+             - ("...")
+            answer: (-)
+          - question: |+
+              Shows the actual words someone else used to say something that you are repeating
+            option:
+             - (.)
+             - (?)
+             - (!)
+             - (,)
+             - (:)
+             - (;)
+             - (')
+             - (--)
+             - (-)
+             - ("...")
+            answer: ("...")
+      4:
+        identifier: punctuation
+        quiz:
+          - question: |+
+              This is one sentence?? A second sentence follows this first sentence
+            option:
+             - period, full stop, or occasionally, dot
+             - question mark
+             - exclamation mark
+             - comma
+             - colon
+             - semi-colon
+             - apostrophe
+             - dash
+             - hyphen
+             - quotation marks
+            answer: period, full stop, or occasionally, dot
+          - question: |+
+              Who are you??
+            option:
+             - period, full stop, or occasionally, dot
+             - question mark
+             - exclamation mark
+             - comma
+             - colon
+             - semi-colon
+             - apostrophe
+             - dash
+             - hyphen
+             - quotation marks
+            answer: question mark
+          - question: |+
+              Wonderful??
+            option:
+             - period, full stop, or occasionally, dot
+             - question mark
+             - exclamation mark
+             - comma
+             - colon
+             - semi-colon
+             - apostrophe
+             - dash
+             - hyphen
+             - quotation marks
+            answer: exclamation mark
+          - question: |+
+              first?? second and third
+            option:
+             - period, full stop, or occasionally, dot
+             - question mark
+             - exclamation mark
+             - comma
+             - colon
+             - semi-colon
+             - apostrophe
+             - dash
+             - hyphen
+             - quotation marks
+            answer: comma
+          - question: |+
+              Mid-term election?? New report
+            option:
+             - period, full stop, or occasionally, dot
+             - question mark
+             - exclamation mark
+             - comma
+             - colon
+             - semi-colon
+             - apostrophe
+             - dash
+             - hyphen
+             - quotation marks
+            answer: colon
+          - question: |+
+              My wife likes tea?? I prefer coffee.
+            option:
+             - period, full stop, or occasionally, dot
+             - question mark
+             - exclamation mark
+             - comma
+             - colon
+             - semi-colon
+             - apostrophe
+             - dash
+             - hyphen
+             - quotation marks
+            answer: semi-colon
+          - question: |+
+              man?? son
+            option:
+             - period, full stop, or occasionally, dot
+             - question mark
+             - exclamation mark
+             - comma
+             - colon
+             - semi-colon
+             - apostrophe
+             - dash
+             - hyphen
+             - quotation marks
+            answer: apostrophe
+          - question: |+
+              Many people??some of them over 80??walked 10km to the event.
+            option:
+             - period, full stop, or occasionally, dot
+             - question mark
+             - exclamation mark
+             - comma
+             - colon
+             - semi-colon
+             - apostrophe
+             - dash
+             - hyphen
+             - quotation marks
+            answer: dash
+          - question: |+
+              brand??new  old??fashioned
+            option:
+             - period, full stop, or occasionally, dot
+             - question mark
+             - exclamation mark
+             - comma
+             - colon
+             - semi-colon
+             - apostrophe
+             - dash
+             - hyphen
+             - quotation marks
+            answer: hyphen
+          - question: |+
+              Trump calls reporter a ??loser??
+            option:
+             - period, full stop, or occasionally, dot
+             - question mark
+             - exclamation mark
+             - comma
+             - colon
+             - semi-colon
+             - apostrophe
+             - dash
+             - hyphen
+             - quotation marks
+            answer: quotation marks
 capital:
   jigsaw:
     0:
@@ -1418,6 +1719,39 @@ capital:
             - obeys the rules
             - doesn't obey the rules
           answer: obeys the rules
+    1:
+      identifier: capital rules
+      quiz:
+        - question: Amazon, ebay, facebook, flicker, intel, citibank, macy's, bp, vitamin water, and xerox
+          option:
+            - obeys the rules
+            - doesn't obey the rules
+          answer: doesn't obey the rules
+        - question: The president of a country is the top person in the country.
+          option:
+            - obeys the rules
+            - doesn't obey the rules
+          answer: obeys the rules
+        - question: president Tsai
+          option:
+            - obeys the rules
+            - doesn't obey the rules
+          answer: doesn't obey the rules
+        - question: are you OK?
+          option:
+            - obeys the rules
+            - doesn't obey the rules
+          answer: doesn't obey the rules
+        - question: How many days are there in november?
+          option:
+            - obeys the rules
+            - doesn't obey the rules
+          answer: doesn't obey the rules
+        - question: Do you speak english?
+          option:
+            - obeys the rules
+            - doesn't obey the rules
+          answer: doesn't obey the rules
 process:
   match:
     0:
@@ -1436,6 +1770,21 @@ process:
           - final draft
           - It looks good.
     1:
+      identifier: process steps
+      pair:
+        -
+          - research and brainstorm
+          - Think about what to say and find out facts
+        -
+          - first draft
+          - Try to put down what I think
+        -
+          - correct mistakes
+          - I wonder if I should change that?
+        -
+          - final draft
+          - Try again one last time
+    2:
       identifier: revision steps
       pair:
         -
@@ -1459,11 +1808,30 @@ process:
         -
           - Final proofread.
           - Let's look at it one last time before sending it.
-        
-        
-        
-        
-        
+    3:
+      identifier: revision steps
+      pair:
+        -
+          - Checking high level qualities.
+          - Is it concise, but complete?
+        -
+          - Checking appropriacy for the reader.
+          - How much interest will they have in this letter?
+        -
+          - Checking if the message does what I wanted it to do.
+          - Have I missed the point? Is this the wrong letter to send?
+        -
+          - Correcting grammar.
+          - Is it "It's our pleasure" or "It's a pleasure"?
+          -
+          - Correcting spelling and punctuation.
+          - Should it be "Dear Mr Smith" or "Dear Mr Smith:" or "Dear Mr. Smith,"?
+        -
+          - Finding awkward statements.
+          - I had better check on google to see if this is the way they say it in English.
+        -
+          - Final proofread.
+          - Looks OK but let's go through it one last time.
 grammar:
   jigsaw:
     0:
