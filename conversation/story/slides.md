@@ -7,15 +7,17 @@
 
 # Recording
 
-## Recording 9 of 16--Conversation
+## Recording 5 of 14--Conversation
 
-Tell your partner a story about something that happened to you. Use at least 3 sentences.
+Tell your partner the story you told Dr Bean.
 
 For example, "I can remember in kindergarten, the teachers once had the kids play music in an orchestra. I played the triangle, but after some other kids conducted the orchestra, a teacher asked me to be conductor. I can't remember, but I don't think the teachers thought I was a good conductor."
 
 30 seconds. Each person must say tell his/her story.
 
-This is the 9th of 14 conversations. They are worth 40 percent of your grade.
+Ask your partner a question about his/her story.
+
+This is the 5th of 14 conversations. They are worth 40 percent of your grade.
 
 Identify yourself clearly. Say, "I'm John."
 
@@ -53,7 +55,7 @@ Remember to add the extension, .mp3, .m4a, etc to the end of the file you upload
 
 Upload a file under your own name, if you want to be sure Dr Bean won't make a mistake with your grade.
 
-## Recording 11 of 14--Questions about stories
+## Recording 5 of 14--Questions about stories
 
 Tell your partner your story about yourself again. Ask them 2 questions about their story. Answer their questions.
 
