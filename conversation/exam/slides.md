@@ -7,13 +7,13 @@
 
 # Exam
 
-## Exam 2 of 6--Conversation
+## Exam 3 of 6--Conversation
 
 Remember the conversation exam on Thursday. Don't be more than 15 minutes late! Or your score will only be 1 for talking with Dr Bean.
 
-This is the 2nd of 6 exams. It is equal in importance to the Mid-term and final exams.
+This is the 3rd of 6 exams. It is equal in importance to the Mid-term and final exams.
 
-To prepare, do the homework before Tuesday 10am. Ask a partner the question you will ask Dr Bean about working together on Thursday.
+To prepare, there is no homework before Tuesday 10am. Ask a partner the story you will ask Dr Bean about working together on Thursday.
 
 ## 3 simultaneous exams
 
@@ -25,30 +25,29 @@ To prepare, do the homework before Tuesday 10am. Ask a partner the question you 
 
 With an opponent,
 
-* ask Dr Bean a question about cooperating with other people:
+tell Dr Bean a story. Something that happened. He will ask, is it:
 
-	*asking/being asked for help,
-	*gifts,
-	* apologies,
-	* phone calls,
-	* favors,
-	* invitations,
-	* compliments
-	* or
-	* complaints
+* a coincidence
+* a dilemma
+* a disaster
+* an emergency
+* a lucky break
+* mishap
+* a mystery
+* a triumph
 
 Dr Bean will decide the winner, who gets 5, and the loser, who gets 4.
 
 Don't leave approaching Dr Bean to the last minute. Otherwise you both only get 3.
 There are many students and not much time. You may not have a chance to talk to him with your opponent.
 
-## writing questions about Keiko and moving
+## writing questions about the bull, tornado and car thief
 
 On the website, write as many questions using words from the list.
 
-If you write one or two questions you get less than 1.
-If you write 20 or more, you get a good score.
-The person who writes most (grammatical) questions gets 5.
+	If you write one or two questions you get less than 1.
+	If you write 20 or more, you get a good score.
+	The person who writes most (grammatical) questions gets 5.
 
 ## pair dictation
 
