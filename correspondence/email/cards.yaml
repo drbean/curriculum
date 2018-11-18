@@ -139,10 +139,20 @@ subject:
             - good
             - bad
           answer: good
+        - question: American College of Physicians taking on National Rifle Association?
+          option:
+            - good
+            - bad
+          answer: good
+        - question: Did you see NPR report on ACP taking on NRA? What do you think?
+          option:
+            - good
+            - bad
+          answer: bad
     appropriate:
       identifier: subject
       quiz:
-        - question: Complaint about customer sevice
+        - question: Complaint about customer service
           option:
             - good
             - bad
@@ -259,6 +269,21 @@ closing:
         -
           sentence: If I can do anything to help you in the future, please let me know.
           clozed: If|I|can|do|anything|to|help|you|in|the|future|please|let|me|know|End
+    4:
+      identifier: closing scrample--drag, drop 4
+      sentences:
+        -
+          sentence: Thank you in advance for your cooperation.
+          clozed: Thank|you|in|advance|for|your|cooperation|End
+        -
+          sentence: I look forward to hearing from you.
+          clozed: I|look|forward|to|hearing|from|you|End
+        -
+          sentence: I appreciate the efforts that you have put into helping me.
+          clozed: I|appreciate|the|efforts|you|have|put|into|helping|End
+        -
+          sentence: If you need any further help, please let me know.
+          clozed: If|you|need|any|further|please|let|me|End
 relocation:
   match:
     0:
@@ -389,5 +414,21 @@ attachment:
         -
           sentence: I'm sending the report again. I forgot to include the attachment.
           clozed: I'm|sending|the|report|I|forgot|to|include|the|End
+    1:
+      identifier: attachment scramble again
+      sentences:
+        -
+          sentence: I am attaching a screen_grab/screen_capture to explain the problem.
+          clozed: I|am|attaching|a|to|explain|the|problem|End
+        -
+          sentence: I hope the attached file makes it clear what the problem is.
+          clozed: I|hope|the|file|makes|it|clear|the|problem|End
+        -
+          sentence: Sorry, there was no attachment with the message. Can you send it again?
+          clozed: Sorry|there|was|no|attachment|with|the|message|you|send|it|again|End
+        -
+          sentence: Please let me know if you have any problems opening the attachment.
+          clozed: Please|let|me|know|if|you|have|any|problems|opening|the|End
+        
 example: https://dokumen.tips/documents/e-mail-etiquette-5874e300ace34.html
         
