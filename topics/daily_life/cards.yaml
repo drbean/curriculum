@@ -34,6 +34,16 @@ clothes:
       jeans    : 牛仔褲
       socks    : 襪子
       blouse   : 襯衫
+  3:
+    flash:
+      rent    : 出租   
+      crowded : 擠     
+      stretch : 伸展   
+      worth   : 價值   
+      cloth   : 布     
+      fur     : 毛皮   
+      polite  : 有禮貌 
+      wallet  : 錢包   
   bingo:
     - shoes keys backpack pencil pen jeans socks blouse 
     - pink blouse wear jeans white socks keys drawer door floor bed looking_for backpack pocket pens_and_pencils color blue brown soft broken erase_mistakes dog something_in_its_mouth digging_in_the_backyard shopping school kitchen office book sister's_room
