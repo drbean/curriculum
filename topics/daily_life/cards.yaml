@@ -401,3 +401,14 @@ polite:
       - "B: You should be quiet in the theater. _G: I’ll turn it off after I talk to her. _"
       - "B: It’s not polite to use your phone during the movie. _G: It will only take a minute. _"
       - "G: It will only take a minute. _B: Then you should go outside to talk to her._"
+thing:
+  0:
+    flash:
+      puppy                : 小狗
+      veterinarian or vet  : 獸醫
+      choose               : 選擇
+      imagine              : 想像
+      feed                 : 飼料
+      treat                : 享受美食
+      pill                 : 丸
+      get a haircut        : 剪頭髮
