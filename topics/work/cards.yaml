@@ -29,6 +29,24 @@ job:
       teacher        : 老師
       waiter         : 服務員
       dentist        : 牙醫
+  2:
+    flash:
+      photographer     : 攝影師
+      pilot            : 飛行員
+      musician         : 音樂家
+      singer           : 歌手
+      dancer           : 舞蹈家
+      astronaut        : 宇航員
+      sailor           : 水手
+      business person  : 商務人士
+
+
+
+
+
+
+
+
   bingo:
     - fire_fighter police_officer doctor nurse chef teacher waiter dentist photographer pilot musician singer dancer astronaut
     - firefighter cartoonist publisher army drummer medical soldier factory
