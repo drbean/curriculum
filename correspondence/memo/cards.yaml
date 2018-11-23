@@ -2,6 +2,59 @@
 genre: correspondence
 formalmemo:
   jigsaw:
+    indicator:
+      identifier: indicator of formality level
+      quiz:
+        - question: please
+          option:
+            - formal
+            - informal
+          answer: formal
+        - question: ensure
+          option:
+            - formal
+            - informal
+          answer: formal
+        - question: Hi
+          option:
+            - formal
+            - informal
+          answer: informal
+        - question: Can you .. ?
+          option:
+            - formal
+            - informal
+          answer: informal
+        - question: Thanks
+          option:
+            - formal
+            - informal
+          answer: informal
+        - question: "[first names only, in salutations and signatures]"
+          option:
+            - formal
+            - informal
+          answer: informal
+        - question: "[salutations in emails]"
+          option:
+            - formal
+            - informal
+          answer: formal
+        - question: would like
+          option:
+            - formal
+            - informal
+          answer: formal
+        - question: "[complimentary closes in emails]"
+          option:
+            - formal
+            - informal
+          answer: formal
+        - question: as a result
+          option:
+            - formal
+            - informal
+          answer: formal
     0:
       identifier: formal
       quiz:
@@ -210,7 +263,7 @@ indicator:
            - Pat
            - would like
            - as a result
-          answer: Hi
+          answer: Pat
 format:
   jigsaw:
     0:
