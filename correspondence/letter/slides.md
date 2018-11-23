@@ -51,28 +51,46 @@ Signature
 
 ## Homework: 函 in English
 
-How would a 函 be written in English? Include:
+How would a 函 be written in English? Check the Chinese one on page 15.
 
-Letterhead
-[ MOE's Department of International and Cross-strait Education,
-no contact person]
+Include:
 
-Date
+### Letterhead
 
-Inside address [to Head, Office of Research and Development, NUU
-no enclosure, priority, confidentiality]
+	Ministry of Education
+	Department of International and Cross-strait Education,
+	(check the Taipei address at the bottom of https://english.moe.gov.tw)
+	no contact person is needed]
 
-Subject line [Communication #0990098134: University internationalization survey]
+### Date
 
-Salutation [Dear Sir/Madam]
+### Inside address
 
-[No body]
+	[to Head, Office of Research and Development, NUU
+	no enclosure, priority, confidentiality information is needed]
 
-Complimentary close
+### Subject line
 
-Signature [ Name: Andy Cheu-An Bi, Position: Director General ]
+	[Communication #0990098134: University internationalization survey]
 
- [If you are interested, see bottom of https://ws.moe.edu.tw/001/Upload/7/relfile/0/1495/3278ed48-601a-4ea8-8dac-517b1a548a49.pdf for English name, position]
+### Salutation
+
+	[Dear Sir/Madam]
+
+###
+
+	[No body]
+
+### Complimentary close
+
+### Signature
+
+	[ Name: Andy Cheu-An Bi, Position: Director General ]
+
+
+[Don't include this: If you are interested, see bottom of
+- [https://ws.moe.edu.tw/001/Upload/7/relfile/0/1495/3278ed48-601a-4ea8-8dac-517b1a548a49.pdf](https://ws.moe.edu.tw/001/Upload/7/relfile/0/1495/3278ed48-601a-4ea8-8dac-517b1a548a49.pdf)
+for English name, position]
 
 ## 8 Cs
 
