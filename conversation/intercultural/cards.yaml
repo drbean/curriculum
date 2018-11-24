@@ -631,6 +631,42 @@ shock:
           sentence: "Shauna: In South_Korea, noisy_soup_eating was disturbing.<p>Nate: In Spain, late_eating was difficult.<p>Carla: In Saudi_Arabia, wearing_clothing_covering_the_whole_body was a_nuisance."
           clozed: South_Korea|noisy_soup_eating|disturbing|Spain|late_eating|difficult|Saudi_Arabia|wearing_clothing_covering_the_whole_body|a_nuisance|End
   jigsaw:
+    exam:
+      identifier: shock exam
+      quiz:
+        - question: Where does the conversation take place?
+          option:
+            - Saudi Arabia
+            - South Korea
+            - Spain
+          answer: 
+        - question: Who is A?
+          option:
+            - a local person
+            - a foreigner, perhaps American
+          answer: 
+        - question: Who is B?
+          option:
+            - a local person
+            - a foreigner, perhaps American
+          answer: 
+        - question: What is the custom?
+          option:
+            - late eating
+            - noisy noodle eating
+            - clothing over the whole body
+          answer: 
+        - question: The foreigner says the custom is/was:
+          option:
+            - difficult
+            - disturbing
+            - a nuisance
+          answer: 
+        - question: The foreigner says his/her views about the custom have changed.
+          option:
+            - True
+            - False
+          answer: 
     0:
       identifier: shock local customs--Carla
       quiz:
