@@ -653,8 +653,8 @@ shock:
         - question: What is the custom?
           option:
             - late eating
-            - noisy noodle eating
-            - clothing over the whole body
+            - noisy eating
+            - whole-body clothing
           answer: 
         - question: The foreigner says the custom is/was:
           option:
