@@ -643,12 +643,12 @@ shock:
         - question: Who is A?
           option:
             - a local person
-            - a foreigner, perhaps American
+            - a foreigner/American
           answer: 
         - question: Who is B?
           option:
             - a local person
-            - a foreigner, perhaps American
+            - a foreigner/American
           answer: 
         - question: What is the custom?
           option:
