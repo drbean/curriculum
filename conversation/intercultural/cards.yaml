@@ -532,6 +532,48 @@ translate:
         -
           - worried
           - 擔心
+grammar:
+  jigsaw:
+    0:
+      identifier: relative clauses--highs and lows of the other culture
+      quiz:
+        - question: ... is something I would be very enthusiastic about.
+          answer: 
+            - Trying new foods is something I would be very enthusiastic about.
+            - (Making new friends|speaking a foreign language|learning about a different culture) is something I would be very enthusiastic about\.
+          incorrect:
+            -
+              error: ^(?!.*(Making new friends|speaking a foreign language|learning about a different culture).*)
+              feedback: Use the words, "(Making new friends|speaking a foreign language|learning about a different culture)"
+            -
+              error: ^(?!.*is something I would be very enthusiastic about\..*)
+              feedback: Use the words, "is something I would be very enthusiastic about."
+            
+        - question: Something I would get depressed about is ...
+          answer:
+            - Something I would get depressed about is feeling like an outsider.
+            - Something I would get depressed about is (feeling like an outsider|not understanding people)\.
+          incorrect:
+            -
+              error: ^(?!.*Something I would get depressed about is (.*)
+              feedback: Use the words, "Something I would get depressed about is "
+            -
+              error: ^(?!.*"(feeling like an outsider|not understanding people)".*)
+              feedback: Use the words, ""(feeling like an outsider|not understanding people)""
+        - question: One thing I would feel insecure about is ...
+          answer:
+            - One thing I would feel insecure about is getting lost in a new city.
+            - One thing I would feel insecure about is (speaking a foreign language|not understanding people|getting sick)\.
+          incorrect:
+            -
+              error: ^(?!.*One thing I would feel insecure about is .*)
+              feedback: Use the words, "One thing I would feel insecure about is "
+            -
+              error: ^(?!.*(speaking a foreign language|not understanding people|getting sick).*)
+              feedback: Use the words, "(speaking a foreign language|not understanding people|getting sick)"
+            
+            
+
 expectation:
   match:
     0:
@@ -586,14 +628,78 @@ shock:
       identifier: shock
       sentences:
         -
-          sentence: "Alice: In South_Korea, noisy_soup_eating was disturbing.<p>John: In Spain, late_eating was difficult.<p>Susan: In Saudi_Arabia, wearing_clothing_covering_the_whole_body was a_nuisance."
+          sentence: "Shauna: In South_Korea, noisy_soup_eating was disturbing.<p>Nate: In Spain, late_eating was difficult.<p>Carla: In Saudi_Arabia, wearing_clothing_covering_the_whole_body was a_nuisance."
           clozed: South_Korea|noisy_soup_eating|disturbing|Spain|late_eating|difficult|Saudi_Arabia|wearing_clothing_covering_the_whole_body|a_nuisance|End
+  jigsaw:
+    0:
+      identifier: shock local customs--Carla
+      quiz:
+        - question: Where was Carla?
+          option:
+            - Saudi Arabia
+            - South Korea
+            - Spain
+          answer: Saudi Arabia
+        - question: What custom disturbed Carla?
+          option:
+            - late eating
+            - noisy soup eating
+            - wearing clothing covering the whole body
+          answer: wearing clothing covering the whole body
+        - question: How did Carla react?
+          option:
+            - Carla felt uncomfortable and she found it a real nuisance, but later got to like it.
+            - It bothered Carla at first, but then she got used to it.
+            - It surprised Carla at first and she found it difficult. Carla doesn't know how people could handle work doing that.
+          answer: Carla felt uncomfortable and she found it a real nuisance, but later got to like it.
+    1:
+      identifier: shock local customs, Nate
+      quiz:
+        - question: Where was Nate?
+          option:
+            - Saudi Arabia
+            - South Korea
+            - Spain
+          answer: Spain
+        - question: What custom disturbed Nate?
+          option:
+            - late eating
+            - noisy soup eating
+            - wearing clothing covering the whole body
+          answer: late eating
+        - question: How did Nate react?
+          option:
+            - Nate felt uncomfortable and he found it a real nuisance, but later got to like it.
+            - It bothered Nate at first, but then he got used to it.
+            - It surprised Nate at first and he found it difficult. Nate doesn't know how people could handle work doing that.
+          answer: It surprised Nate at first and he found it difficult. Nate doesn't know how people could handle work doing that.
+    2:
+      identifier: shock local customs--Shauna
+      quiz:
+        - question: Where was Shauna?
+          option:
+            - Saudi Arabia
+            - South Korea
+            - Spain
+          answer: South Korea
+        - question: What custom disturbed Shauna?
+          option:
+            - late eating
+            - noisy soup eating
+            - wearing clothing covering the whole body
+          answer: noisy soup eating
+        - question: How did Shauna react?
+          option:
+            - Shauna felt uncomfortable and she found it a real nuisance, but later got to like it.
+            - It bothered Shauna at first, but then she got used to it.
+            - It surprised Shauna at first and she found it difficult. Shauna doesn't know how people could handle work doing that.
+          answer: It bothered Shauna at first, but then she got used to it.
 custom:
   jigsaw:
     0:
       identifier: american custom
       quiz:
-        - question: Women often kiss their friends on the cheek when they meet.
+        - question: Women sometimes kiss their friends on the cheek when they meet.
           answer: True
         - question: It's not acceptable to ask people how much money they earn.
           answer: True
@@ -623,7 +729,43 @@ custom:
           answer: True
         - question: When a couple gets married, the bride's family usually pays for the wedding and the reception.
           answer: True
-title:
+    1:
+      identifier: american custom, 5th edition
+      quiz:
+        - question: It's OK to start a conversation with a stranger when waiting in line.
+          answer: True
+        - question: People aren't supposed to stand too close to other people when talking.
+          answer: True
+        - question: In general people wear outdoor shoes inside their homes.
+          answer: True
+        - question: Women often hug their female friends when they meet.
+          answer: True
+        - question: It's not acceptable to ask people how much money they earn, or how much they paid for things.
+          answer: True
+        - question: People are expected to call or text first before dropping by a friend's house.
+          answer: True
+        - question: When invited to someone's home for dinner, people usually arrive on time.
+          answer: True
+        - question: Gifts are normally opened when received.
+          answer: True
+        - question: It's acceptable to eat while walking outside.
+          answer: True
+        - question: Eating is not allowed while shopping in most stores.
+          answer: True
+        - question: When eating in a restaurant, friends either split the cost of the meal or take turns paying.
+          answer: True
+        - question: It's the custom to leave a 15-20 percent tip for the server at a restaurant.
+          answer: True
+        - question: It's uncommon to bargain when you buy things in stores.
+          answer: True
+        - question: In an office, people usually prefer to be called by their first names.
+          answer: True
+        - question: Students remain seated when the teacher enters the classroom.
+          answer: True
+        - question: It's acceptable for most teenagers to go out on dates.
+          answer: True
+        - question: People decide for themselves who they will marry.
+          answer: True
   jigsaw:
     0:
       identifier: "difference: title"
@@ -646,6 +788,27 @@ title:
             - Less than 24/7
             - Just say it!
           answer: Cafe etiquette
+    1:
+      identifier: "difference: title for Spain"
+      quiz:
+        - question: The city
+          option:
+            - Meeting and greeting
+            - Where's the party?
+            - Class contrasts
+          answer: Where's the party?
+        - question: Class
+          option:
+            - Meeting and greeting
+            - Where's the party?
+            - Class contrasts
+          answer: Class contrasts
+        - question: Air-kissing
+          option:
+            - Meeting and greeting
+            - Where's the party?
+            - Class contrasts
+          answer: Meeting and greeting
 difference:
   jigsaw:
     0:
@@ -693,6 +856,46 @@ difference:
             - Will happen
             - Won't happen
           answer: Will happen
+    1:
+      identifier: Spain-US differences
+      quiz:
+        - question: What did the Spanish woman expect to see on Seattle streets?
+          option:
+            - guns
+            - crowds
+            - eye-openers
+          answer: crowds
+        - question: What did the Spanish woman NOT see on Seattle streets?
+          option:
+            - guns
+            - crowds
+            - eye-openers
+          answer: crowds
+        - question: Who often stay in class to ask questions?
+          option:
+            - Spanish students
+            - American students
+          answer: Spanish students
+        - question: Who are already focused on the next lesson after class?
+          option:
+            - Spanish students
+            - American students
+          answer: American students
+        - question: What is the usual form of greeting in Spain?
+          option:
+            - hugging
+            - kissing
+          answer: kissing
+        - question: What is the usual form of greeting in US for women?
+          option:
+            - hugging
+            - kissing
+          answer: hugging
+        - question: How does the woman plan to greet American friends?
+          option:
+            - Kiss them
+            - Hug them
+          answer: Hug them
         
         
         
