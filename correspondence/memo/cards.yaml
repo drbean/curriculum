@@ -388,5 +388,24 @@ list:
             -   3. indentation of following lines
             -   4. None of the above
           answer: 1. introductory information
-        
-        
+bold:
+  jigsaw
+    0:
+      identifier: bold
+      quiz:
+        - question: The bolding (heavy typeface) on T.Cruise's name means T.Cruise:
+          option:
+            - Is expected to come at 8:30, June 21
+            - Faces an important decision at the meeting
+            - Is the recipient of the memo
+            - Is the first in line at 8:30
+            - Will have a knock-on effect if he is tardy
+          answer: Is the recipient of the memo
+        - question: The problem with bolding names is
+          option:
+            - it has a better effect on the reader
+            - it isn't worth considering
+            - it means the memo will only go to T.Cruise
+            - it takes time to do this for each recipient
+            - None of the above
+          answer: it takes time to do this for each recipient
