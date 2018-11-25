@@ -1,5 +1,5 @@
 ---
-genre: correspondence
+course: correspondence
 formalmemo:
   jigsaw:
     indicator:
@@ -409,3 +409,14 @@ bold:
             - it takes time to do this for each recipient
             - None of the above
           answer: it takes time to do this for each recipient
+genre:
+  jigsaw
+    0:
+      identifier: genre
+      quiz:
+        - question: Informality is associated with--
+          option:
+            - notices
+            - memos
+            - notes
+          answer: notes
