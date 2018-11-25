@@ -202,7 +202,7 @@ move:
             7. I
             8. the verb is "wonder" (Hint: Use the present continuous)
             9. if I
-            10. can + "transfer" (Hint: Use the present perfect. The spelling of the past participle of "transfer" is "transferred")
+            10. can + "transfer" (Hint: Use the passive. The spelling of the past participle of "transfer" is "transferred")
             11. Where? "to the Oxford branch."
           option:
             - My husband has received a job offer in the Oxford area, and I am wondering if I can be transferred to the Oxford branch.
@@ -389,7 +389,7 @@ list:
             -   4. None of the above
           answer: 1. introductory information
 bold:
-  jigsaw
+  jigsaw:
     0:
       identifier: bold
       quiz:
@@ -410,11 +410,38 @@ bold:
             - None of the above
           answer: it takes time to do this for each recipient
 genre:
-  jigsaw
-    0:
-      identifier: genre
+  jigsaw:
+    informality:
+      identifier: informality
       quiz:
         - question: Informality is associated with--
+          option:
+            - notices
+            - memos
+            - notes
+          answer: notes
+        - question: Formality is NOT associated with--
+          option:
+            - notices
+            - memos
+            - notes
+          answer: notes
+    addressee:
+      identifier: addressee
+      quiz:
+        - question: The addressee includes everyone
+          option:
+            - notices
+            - memos
+            - notes
+          answer: notices
+        - question: Addressees are limited to a specific group, or perhaps, persons
+          option:
+            - notices
+            - memos
+            - notes
+          answer: memos
+        - question: The addressee is one person
           option:
             - notices
             - memos
