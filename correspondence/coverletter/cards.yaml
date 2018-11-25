@@ -14,8 +14,18 @@ structure:
         -
           - The information you need is at the end.
           - instructions
-        
-              
+    1:
+      identifier: cover letter order
+      pair:
+        -
+          - 1
+          - Here is the file which you requested.
+        -
+          - 2
+          - The information you need is at the end.
+        -
+          - 3
+          - Please contact me, if you are interested in further data.
 inquiry:
   scramble:
     0:
@@ -31,56 +41,69 @@ attach:
     0:
       identifier: attach0
       sentence: Please find attached the catalogue which you requested on July 16.
-      clozed: Please|find|attached|the|catalogue|which|you|requested|on|July|16.
+      clozed: Please|find|attached|the|catalogue|which|you|requested|on|July|16|End
     1:
       identifier: attach1
       sentence: Dr Bean asked me to send you this file. Please find it attached.
-      clozed: Dr|Bean|asked|me|to|send|you|this|file.|Please|find|it|attached.
+      clozed: Dr|Bean|asked|me|to|send|you|this|Please|find|it|attached|End
     2:
       identifier: attach2
       sentence: Could you confirm that you have received this file before Monday?
-      clozed: Could|you|confirm|that|you|have|received|this|file|before|Monday?
+      clozed: Could|you|confirm|that|you|have|received|this|file|before|Monday|End
     3:
       identifier: attach3
       sentence: I am attaching our catalog to this message.
-      clozed: I|am|attaching|our|catalog|to|this|message.
+      clozed: I|am|attaching|our|catalog|to|this|message|End
     4:
       identifier: attach4
       sentence: Please find attached our latest brochure.
-      clozed: Please|find|attached|our|latest|brochure.
+      clozed: Please|find|attached|our|latest|brochure|End
     5:
       identifier: attach5
       sentence: I have just received the photographs which you attached to your message.
-      clozed: I|have|just|received|the|photographs|which|you|attached|to|your|message.
+      clozed: I|have|just|received|the|photographs|which|you|attached|to|your|message|End
     6:
       identifier: attach6
       sentence: I am attaching it to this message.
-      clozed: I|am|attaching|it|to|this|message.
+      clozed: I|am|attaching|it|to|this|message|End
     7:
       identifier: attach7
       sentence: I am attaching it to this message.
-      clozed: I|am|attaching|it|to|this|message.
-    8a:
-      identifier: attach8
-      sentence: I am attaching the file to this message.
-      clozed: I|am|attaching|the|file|to|this|message.
+      clozed: I|am|attaching|it|to|this|message|End
     8:
       identifier: attach8
-      sentences:
-      -
-        sentence: I have attached the file which Dr Bean asked me to send to you.
-        clozed: I|have|attached|the|file|which|Dr|Bean|asked me|to|send|to|you.
-      -
-        sentence: Please find attached the catalogue which you requested on 15/12.
-        clozed: Please|find|attached|the|catalogue|which|you|requested|on|15/12.
-      -
-        sentence: Sorry, I forgot to attach the file to the previous message.
-        clozed: Sorry|I|forgot|to|attach|the|file|to|the|previous|message.
+      sentence: I am attaching the file to this message.
+      clozed: I|am|attaching|the|file|to|this|message|End
+    9:
+      identifier: attach9
+      sentence: I have attached the file which Dr Bean asked me to send to you.
+      clozed: I|have|attached|the|file|which|Dr|Bean|asked me|to|send|to|you|End
+    10:
+      identifier: attach10
+      sentence: Please find attached the catalogue which you requested on 15/12.
+      clozed: Please|find|attached|the|catalogue|which|you|requested|on|15/12|End
+    11:
+      identifier: attach11
+      sentence: Sorry, I forgot to attach the file to the previous message.
+      clozed: Sorry|I|forgot|to|attach|the|file|to|the|previous|message|End
       
       
       
 
 article:
+  match:
+    0:
+      identifier: article structure
+      pair:
+        -
+          - Paragraph 1
+          - purpose of email/letter
+        -
+          - Paragraph 2
+          - instructions
+        -
+          - Paragraph 3
+          - invitation of feedback
   jigsaw:
     0:
       identifier: length
@@ -92,11 +115,13 @@ article:
            - Business invitation
           answer: Restrictions on use
     
-  scramble:
+  drag:
     0:
       identifier: copyright article
-      sentence:
-        - dated attached requested issue keep_in_mind permitted confirm contact
+      sentences:
+        -
+          sentence: Thank you for your email dated June 6. I have attached a copy of “Doing Business in Vietnam”, the article you requested from us. The article first appeared in Taiwan’s “Business Investment Today” in the April issue.<p><p> Please keep_in_mind that it is a copyrighted article, and in accordance with the licensing agreement between our companies, you are permitted to circulate it only within your own company.<p><p> Could you please confirm receipt of this attachment by Nov. 13? Also, if you have any questions, please do not hesitate to contact me. I hope you and your colleagues find the article useful and interesting.
+          clozed: dated|attached|requested|issue|keep_in_mind|permitted|confirm|contact|interesting|End
       
 proposal:
   scramble:
