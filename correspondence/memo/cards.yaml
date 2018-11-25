@@ -393,7 +393,7 @@ bold:
     0:
       identifier: bold
       quiz:
-        - question: The bolding (heavy typeface) on T.Cruise's name means T.Cruise:
+        - question: "The bolding (heavy typeface) on T.Cruise's name means T.Cruise:"
           option:
             - Is expected to come at 8:30, June 21
             - Faces an important decision at the meeting
@@ -411,7 +411,7 @@ bold:
           answer: it takes time to do this for each recipient
 genre:
   jigsaw:
-    informality:
+    formality:
       identifier: informality
       quiz:
         - question: Informality is associated with--
