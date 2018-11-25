@@ -447,3 +447,82 @@ genre:
             - memos
             - notes
           answer: notes
+    omission:
+      identifier: omission
+      quiz:
+        - question: Can't find
+          option:
+            - subject omitted
+            - auxiliary verb(s) omitted
+          answer: subject omitted
+        - question: Patent pending
+          option:
+            - subject omitted
+            - auxiliary verb(s) omitted
+          answer: auxiliary verb(s) omitted
+    difference:
+      identifier: difference between genres
+      quiz:
+        - question: Difference between a notice and memo
+          option:
+            - language
+            - addressees
+            - both of the above
+          answer: addressees
+        - question: Difference seen between every memo and note
+          option:
+            - language
+            - addressees
+            - both of the above
+          answer: language
+        - question: Difference between a notice and note
+          option:
+            - language
+            - addressees
+            - both of the above
+          answer: both of the above
+    example:
+      identifier: genre examples
+      quiz:
+        - question: First email, p31
+          option:
+            - notice
+            - memo
+            - note
+          answer: memo
+        - question: Second email, p31
+          option:
+            - notice
+            - memo
+            - note
+          answer: note
+        - question: Third email, p31
+          option:
+            - notice
+            - memo
+            - note
+          answer: memo
+        - question: Document, p33
+          option:
+            - notice
+            - memo
+            - note
+          answer: memo
+        - question: Document, p34
+          option:
+            - notice
+            - memo
+            - note
+          answer: notice
+        - question: Document, p35
+          option:
+            - notice
+            - memo
+            - note
+          answer: memo
+        - question: Document, p33
+          option:
+            - notice
+            - memo
+            - note
+          answer: memo
