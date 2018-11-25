@@ -450,7 +450,7 @@ genre:
     omission:
       identifier: omission
       quiz:
-        - question: Can't find
+        - question: Can't find the file
           option:
             - subject omitted
             - auxiliary verb(s) omitted
@@ -460,6 +460,43 @@ genre:
             - subject omitted
             - auxiliary verb(s) omitted
           answer: auxiliary verb(s) omitted
+        - question: You OK?
+          option:
+            - subject omitted
+            - auxiliary verb(s) omitted
+          answer: auxiliary verb(s) omitted
+        - question: Will contact you tomorrow
+          option:
+            - subject omitted
+            - auxiliary verb(s) omitted
+          answer: subject omitted
+    contraction:
+      identifier: contraction meaning
+      quiz:
+        - question: "I'd like means:"
+          option:
+            - I had like
+            - I would like
+            - I did like
+          answer: I would like
+        - question: "I'd see means:"
+          option:
+            - I had see
+            - I would see
+            - I did see
+          answer: I would see
+        - question: "I'd been means:"
+          option:
+            - I had been
+            - I would been
+            - I did been
+          answer: I had been
+        - question: "you've means:"
+          option:
+            - you have
+            - you would have
+            - you of
+          answer: you have
     difference:
       identifier: difference between genres
       quiz:
