@@ -1,5 +1,21 @@
 ---
 genre: correspondence
+structure:
+  match:
+    0:
+      identifier: cover letter structure
+      pair:
+        -
+          - Please contact me, if you are interested in further data.
+          - invitation of feedback
+        -
+          - Here is the file which you requested.
+          - purpose of email/letter
+        -
+          - The information you need is at the end.
+          - instructions
+        
+              
 inquiry:
   scramble:
     0:
@@ -18,7 +34,6 @@ attach:
       clozed: Please|find|attached|the|catalogue|which|you|requested|on|July|16.
     1:
       identifier: attach1
-        - Dr Bean asked me to send you this file. Please find it attached.
       sentence: Dr Bean asked me to send you this file. Please find it attached.
       clozed: Dr|Bean|asked|me|to|send|you|this|file.|Please|find|it|attached.
     2:
