@@ -270,7 +270,19 @@ format:
       identifier: format
       quiz:
         - question: |+
-            The sentence, "If a memo is not written on special .. "
+            The sentence on p32, "If a memo is not written on special .. "
+            The memo,
+                TO:      All Staff\n
+                \n
+                FROM:    Paul Smith\n
+                \n
+                SUBJECT: Appraisals
+          option:
+            - Conforming
+            - Nonconforming
+          answer: Conforming
+        - question: |+
+            The sentence on p32, "If a memo is not written on special .. "
             The memo,
                 TO: All Staff\n
                 \n
@@ -282,7 +294,7 @@ format:
             - Nonconforming
           answer: Nonconforming
         - question: |+
-            The sentence, "If a memo is not written on special .. "
+            The sentence on p32, "If a memo is not written on special .. "
             The memo,
                 TO:      All Staff
                 FROM:    Paul Smith
