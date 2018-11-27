@@ -18,6 +18,18 @@
 
 # Recording
 
+## Recording 1 of 12--conversation about complaint
+
+Homework: conversation about complaint
+
+In preparation for talking to Dr Bean.
+
+What was the thing, the problem, the fixer, (person at fault), the action you wanted that person to take?
+
+Have a conversation with your partner. Ask him/her questions.
+
+30 seconds.
+
 ## Recording 2 of 12--Feelings about the environment
 
 Ask your partner questions about issues like those on p 44, 46, eg "What environmental issues do you feel strongly about?"
