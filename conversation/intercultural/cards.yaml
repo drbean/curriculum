@@ -656,7 +656,7 @@ shock:
             - noisy eating
             - clothing head-to-toe
           answer: 
-        - question: The foreigner says the custom is/was:
+        - question: "The foreigner says the custom is/was:"
           option:
             - difficult
             - disturbing
@@ -668,6 +668,114 @@ shock:
             - False
           answer: 
     0:
+      identifier: shock exam 0
+      quiz:
+        - question: Where does the conversation take place?
+          option:
+            - Saudi Arabia
+            - South Korea
+            - Spain
+          answer: South Korea
+        - question: Who is A?
+          option:
+            - a local person
+            - a foreigner/American
+          answer: a foreigner/American
+        - question: Who is B?
+          option:
+            - a local person
+            - a foreigner/American
+          answer: a local person
+        - question: What is the custom?
+          option:
+            - late eating
+            - noisy eating
+            - clothing head-to-toe
+          answer: noisy eating
+        - question: "The foreigner says the custom is/was:"
+          option:
+            - difficult
+            - disturbing
+            - a nuisance
+          answer: disturbing
+        - question: The foreigner says his/her views about the custom have changed.
+          option:
+            - True
+            - False
+          answer: True
+    1:
+      identifier: shock exam 1
+      quiz:
+        - question: Where does the conversation take place?
+          option:
+            - Saudi Arabia
+            - South Korea
+            - Spain
+          answer: Spain
+        - question: Who is A?
+          option:
+            - a local person
+            - a foreigner/American
+          answer: a local person
+        - question: Who is B?
+          option:
+            - a local person
+            - a foreigner/American
+          answer: a foreigner/American
+        - question: What is the custom?
+          option:
+            - late eating
+            - noisy eating
+            - clothing head-to-toe
+          answer: late eating
+        - question: "The foreigner says the custom is/was:"
+          option:
+            - difficult
+            - disturbing
+            - a nuisance
+          answer: difficult
+        - question: The foreigner says his/her views about the custom have changed.
+          option:
+            - True
+            - False
+          answer: False
+    2:
+      identifier: shock exam 2
+      quiz:
+        - question: Where does the conversation take place?
+          option:
+            - Saudi Arabia
+            - South Korea
+            - Spain
+          answer: Saudi Arabia
+        - question: Who is A?
+          option:
+            - a local person
+            - a foreigner/American
+          answer: a local person
+        - question: Who is B?
+          option:
+            - a local person
+            - a foreigner/American
+          answer: a foreigner/American
+        - question: What is the custom?
+          option:
+            - late eating
+            - noisy eating
+            - clothing head-to-toe
+          answer: clothing head-to-toe
+        - question: "The foreigner says the custom is/was:"
+          option:
+            - difficult
+            - disturbing
+            - a nuisance
+          answer: a nuisance
+        - question: The foreigner says his/her views about the custom have changed.
+          option:
+            - True
+            - False
+          answer: True
+    carla:
       identifier: shock local customs--Carla
       quiz:
         - question: Where was Carla?
@@ -688,7 +796,7 @@ shock:
             - It bothered Carla at first, but then she got used to it.
             - It surprised Carla at first and she found it difficult. Carla doesn't know how people could handle work doing that.
           answer: Carla felt uncomfortable and she found it a real nuisance, but later got to like it.
-    1:
+    nate:
       identifier: shock local customs, Nate
       quiz:
         - question: Where was Nate?
@@ -709,7 +817,7 @@ shock:
             - It bothered Nate at first, but then he got used to it.
             - It surprised Nate at first and he found it difficult. Nate doesn't know how people could handle work doing that.
           answer: It surprised Nate at first and he found it difficult. Nate doesn't know how people could handle work doing that.
-    2:
+    shauna:
       identifier: shock local customs--Shauna
       quiz:
         - question: Where was Shauna?
