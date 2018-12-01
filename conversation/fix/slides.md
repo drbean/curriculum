@@ -18,17 +18,35 @@
 
 # Recording
 
-## Recording 1 of 12--conversation about complaint
+## Recording 6 of 12--conversation about complaint
 
 Homework: conversation about complaint
 
-In preparation for talking to Dr Bean.
+Have you ever had something that was broken? What did you do about it?
 
-What was the thing, the problem, the fixer, (person at fault), the action you wanted that person to take?
+Look at Unit 6: That needs fixing
+
+Think of something that you had a problem with.
+
+What was the thing, the problem, the fixer (the person at fault), the action you wanted that person to take?
 
 Have a conversation with your partner. Ask him/her questions.
 
 30 seconds.
+
+This is the 7th of 12 conversations. They are worth 40 percent of your grade.
+
+Identify yourself clearly. Say, "I'm John."
+
+## Uploading files
+
+If you can't find your partner, do it with someone else, and upload the file. And send a message to Dr Bean. And/or add a submission comment when you upload the file.
+
+Each person in your group can upload a file, if you can't find your partner and you do it with someone else.
+
+Remember to add the extension, .mp3, .m4a, etc to the end of the file you upload, so Dr Bean can listen to the file.
+
+Upload a file under your own name, if you want to be sure Dr Bean won't make a mistake with your grade.
 
 ## Recording 2 of 12--Feelings about the environment
 
