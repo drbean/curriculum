@@ -421,21 +421,21 @@ tenant:
     4:
       identifier: window complaint
       A: I want the building manager to help me open my window. It is stuck. But he won't. I will get my cousin to do it.
-      B: Mrs Taylor wants me to open the window for her. But that's not my job. I tell her to put some oil on the window.
+      B: Mrs Threet wants me to open the window for her. But that's not my job. I tell her to put some oil on the window.
       quiz:
         - question: A
           option:
             - The building manager
-            - Mrs Taylor
-          answer:  Mrs Taylor
+            - Mrs Threet
+          answer:  Mrs Threet
         - question: B
           option:
             - The building manager
-            - Mrs Taylor
+            - Mrs Threet
           answer:  The building manager
         - question: The building manager isn't helpful.
           answer: True
-        - question: The building manager thinks Mrs Taylor should do it herself.
+        - question: The building manager thinks Mrs Threet should do it herself.
           answer: True
-        - question: Mrs Taylor will get her cousin to open the window.
+        - question: Mrs Threet will get her cousin to open the window.
           answer: True
