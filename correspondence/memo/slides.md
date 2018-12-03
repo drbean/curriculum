@@ -13,9 +13,15 @@ Write the To:, From, and Subject: lines. In the body, write one sentence about t
 
 ## Elective course notice
 
-Translate the content and create a notice about elective courses using the Chinese notice on page 34.
+Create a notice about elective courses using the Chinese notice on page 34.
 Look at how notices differ from memos at the top of page 34.
 Look at the example on page 33. Note the notice is not for staff, but students.
+
+Write just the To, From and Subject lines.
+
+The From line should be "Language Center".
+
+You don't need to translate the body of the notice.
 
 ## Elective course teacher recruitment
 
