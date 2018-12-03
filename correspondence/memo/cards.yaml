@@ -470,6 +470,15 @@ genre:
             - subject omitted
             - auxiliary verb(s) omitted
           answer: subject omitted
+    abbreviation:
+      identifier: abbreviation
+      quiz:
+        - question: tel no? What does it mean?
+          option:
+            - Be silent
+            - a contact number
+            - No television
+          answer: a contact number
     contraction:
       identifier: contraction meaning
       quiz:
@@ -491,6 +500,12 @@ genre:
             - I would been
             - I did been
           answer: I had been
+        - question: "It's been means:"
+          option:
+            - It is been
+            - It has been
+            - It was been
+          answer: It has been
         - question: "you've means:"
           option:
             - you have
