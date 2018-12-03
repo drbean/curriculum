@@ -226,11 +226,38 @@ scramble:
         -
           sentence: Your bicycles are becoming very popular in Taiwan, but there is no local distributor here.
           clozed: Your|bicycles|are|becoming|very|popular|in|Taiwan,|but|there|is|no|local|distributor|here.
-        
-        
-        
-        
-        
+combining:
+  jigsaw:
+    0:
+      identifier: combining inquiry openers p38
+      quiz:
+        - question: |+
+            1. I am interested in the laptop.
+            2. The laptop is the Model A12+ laptop.
+            3. I want you to send me something (Use "and I am wondering if you could ..")
+            4. The thing I want you to send is a price list.
+            5. The price list is for this model.
+          option:
+            - I am interested in the Model A12+ laptop and I am wondering you could send me a price list for this model.
+          answer: I am interested in the Model A12+ laptop and I am wondering you could send me a price list for this model.
+        - question: |+
+            1. I saw an advertisement.
+            2. The advertisement was your advertisement.
+            3. I saw it in the Taipei Times.
+            4. I saw it on April 4.
+            5. The advertisement was for the 2017 Asian Food Exhibition.
+            6. I want something from you. (Use "and I am wondering if you could ..")
+            7. The thing I want is for you to send any further information.
+            8. The information is information you may have (Don't use "that").
+          option:
+            - I saw your advertisement in the Taipei Times on April 4 for the 2017 Asian Food Exhibition and I am wondering if you could send me any further information you may have.
+          answer: I saw your advertisement in the Taipei Times on April 4 for the 2017 Asian Food Exhibition and I am wondering if you could send me any further information you may have.
+        - question: |+
+            1. "I am writing to inquire .."
+            2. What you want to know is if they are organizing the 2017 International Book Exhibit in Taipei. (Use "if you are organizing ..")
+          option:
+            - I am writing to inquire if you are organizing the 2017 International Book Exhibit in Taipei.
+          answer: I am writing to inquire if you are organizing the 2017 International Book Exhibit in Taipei.
 reason:
   jigsaw:
     0:
