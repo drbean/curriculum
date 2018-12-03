@@ -40,52 +40,52 @@ attach:
   drag:
     0:
       identifier: attach0
-      sentence: Please find attached the catalogue which you requested on July 16.
-      clozed: Please|find|attached|the|catalogue|which|you|requested|on|July|16|End
+      sentences:
+        -
+          sentence: Please find attached the catalogue which you requested on July 16.
+          clozed: Please|find|attached|the|catalogue|which|you|requested|on|July|16|End
+        -
+          sentence: Dr Bean asked me to send you this file. Please find it attached.
+          clozed: Dr|Bean|asked|me|to|send|you|this|Please|find|it|attached|End
+        -
+          sentence: Could you confirm that you have received this file before Monday?
+          clozed: Could|you|confirm|that|you|have|received|this|file|before|Monday|End
     1:
       identifier: attach1
-      sentence: Dr Bean asked me to send you this file. Please find it attached.
-      clozed: Dr|Bean|asked|me|to|send|you|this|Please|find|it|attached|End
+      sentences:
+        -
+          sentence: I am attaching our catalog to this message.
+          clozed: I|am|attaching|our|catalog|to|this|message|End
+        -
+          sentence: Please find attached our latest brochure.
+          clozed: Please|find|attached|our|latest|brochure|End
+        -
+          sentence: I have just received the photographs which you attached to your message.
+          clozed: I|have|just|received|the|photographs|which|you|attached|to|your|message|End
     2:
       identifier: attach2
-      sentence: Could you confirm that you have received this file before Monday?
-      clozed: Could|you|confirm|that|you|have|received|this|file|before|Monday|End
+      sentences:
+        -
+          sentence: I am attaching it to this message.
+          clozed: I|am|attaching|it|to|this|message|End
+        -
+          sentence: I am attaching it to this message.
+          clozed: I|am|attaching|it|to|this|message|End
+        -
+          sentence: I am attaching the file to this message.
+          clozed: I|am|attaching|the|file|to|this|message|End
     3:
       identifier: attach3
-      sentence: I am attaching our catalog to this message.
-      clozed: I|am|attaching|our|catalog|to|this|message|End
-    4:
-      identifier: attach4
-      sentence: Please find attached our latest brochure.
-      clozed: Please|find|attached|our|latest|brochure|End
-    5:
-      identifier: attach5
-      sentence: I have just received the photographs which you attached to your message.
-      clozed: I|have|just|received|the|photographs|which|you|attached|to|your|message|End
-    6:
-      identifier: attach6
-      sentence: I am attaching it to this message.
-      clozed: I|am|attaching|it|to|this|message|End
-    7:
-      identifier: attach7
-      sentence: I am attaching it to this message.
-      clozed: I|am|attaching|it|to|this|message|End
-    8:
-      identifier: attach8
-      sentence: I am attaching the file to this message.
-      clozed: I|am|attaching|the|file|to|this|message|End
-    9:
-      identifier: attach9
-      sentence: I have attached the file which Dr Bean asked me to send to you.
-      clozed: I|have|attached|the|file|which|Dr|Bean|asked me|to|send|to|you|End
-    10:
-      identifier: attach10
-      sentence: Please find attached the catalogue which you requested on 15/12.
-      clozed: Please|find|attached|the|catalogue|which|you|requested|on|15/12|End
-    11:
-      identifier: attach11
-      sentence: Sorry, I forgot to attach the file to the previous message.
-      clozed: Sorry|I|forgot|to|attach|the|file|to|the|previous|message|End
+      sentences:
+        -
+          sentence: I have attached the file which Dr Bean asked me to send to you.
+          clozed: I|have|attached|the|file|which|Dr|Bean|asked me|to|send|to|you|End
+        -
+          sentence: Please find attached the catalogue which you requested on 15/12.
+          clozed: Please|find|attached|the|catalogue|which|you|requested|on|15/12|End
+        -
+          sentence: Sorry, I forgot to attach the file to the previous message.
+          clozed: Sorry|I|forgot|to|attach|the|file|to|the|previous|message|End
       
       
       
@@ -114,7 +114,124 @@ article:
            - Copied from a magazine
            - Business invitation
           answer: Restrictions on use
-    
+    comprehension:
+      identifier: comprehension questions
+      quiz:
+        - question: Who wants to read the article?
+          option:
+            - John Roberts
+            - Sally Davidson
+          answer: Sally Davidson
+        - question: Who published the article?
+          option:
+            - John Roberts
+            - Sally Davidson
+          answer: John Roberts
+        - question: Who is setting restrictions on the article?
+          option:
+            - John Roberts
+            - Sally Davidson
+          answer: John Roberts
+        - question: Who might want to share the article with others for free?
+          option:
+            - John Roberts
+            - Sally Davidson
+          answer: Sally Davidson
+        - question: Who might want to share the article with co-workers for free?
+          option:
+            - John Roberts
+            - Sally Davidson
+          answer: Sally Davidson
+        - question: Who might want to share the article with people outside his/her company for free?
+          option:
+            - John Roberts
+            - Sally Davidson
+          answer: Sally Davidson
+        - question: Who is not allowed to share the article with certain people?
+          option:
+            - John Roberts
+            - Sally Davidson
+          answer: Sally Davidson
+        - question: Who is setting restrictions on sharing the article with others?
+          option:
+            - John Roberts
+            - Sally Davidson
+          answer: John Roberts
+        - question: Who is sending the article?
+          option:
+            - John Roberts
+            - Sally Davidson
+          answer: John Roberts
+        - question: Who will receive the article?
+          option:
+            - John Roberts
+            - Sally Davidson
+          answer: Sally Davidson
+        - question: Who will presumably read the article?
+          option:
+            - John Roberts
+            - Sally Davidson
+          answer: Sally Davidson
+        - question: Who at this point is most interested in Vietnam?
+          option:
+            - John Roberts
+            - Sally Davidson
+          answer: Sally Davidson
+        - question: Who asks the other to confirm receiving the article?
+          option:
+            - John Roberts
+            - Sally Davidson
+          answer: John Roberts
+        - question: Who will confirm receiving the article?
+          option:
+            - John Roberts
+            - Sally Davidson
+          answer: Sally Davidson
+        - question: Who will attach the article to the email?
+          option:
+            - John Roberts
+            - Sally Davidson
+          answer: John Roberts
+        - question: Who wrote the email to which this email is replying?
+          option:
+            - John Roberts
+            - Sally Davidson
+          answer: Sally Davidson
+        - question: Who on reading the email to which this email is replying wrote this email?
+          option:
+            - John Roberts
+            - Sally Davidson
+          answer: John Roberts
+        - question: Who is an editor?
+          option:
+            - John Roberts
+            - Sally Davidson
+          answer: John Roberts
+        - question: Who works for Megastar?
+          option:
+            - John Roberts
+            - Sally Davidson
+          answer: John Roberts
+        - question: Who works for Bizcom?
+          option:
+            - John Roberts
+            - Sally Davidson
+          answer: Sally Davidson
+        - question: Who works at a magazine?
+          option:
+            - John Roberts
+            - Sally Davidson
+          answer: John Roberts
+        - question: Who is a woman?
+          option:
+            - John Roberts
+            - Sally Davidson
+          answer: Sally Davidson
+        - question: Who is a man?
+          option:
+            - John Roberts
+            - Sally Davidson
+          answer: John Roberts
   drag:
     0:
       identifier: copyright article
@@ -124,6 +241,22 @@ article:
           clozed: dated|attached|requested|issue|keep_in_mind|permitted|confirm|contact|interesting|End
       
 proposal:
+  match:
+    0:
+      identifier: proposal structure
+      pair:
+        -
+          - I have enclosed something ..
+          - purpose of email/letter
+        -
+          - If you like our ..
+          - invitation of feedback
+        -
+          - I will give you a call
+          - planned actions
+        -
+          - I look forward ..
+          - positive close
   scramble:
     0:
       identifier: cosmetic proposal again
@@ -139,31 +272,197 @@ proposal:
       quiz:
         - question: Paragraph 1, sentence 1
           option:
-           - I have enclosed the proposal for "Healthy Now," the skin care product which your company plans to market in Taiwan.
-           - I have enclosed the proposal for "Healthy Now," which is the skin care product your company plans to market in Taiwan.
-           - I have enclosed the proposal for "Healthy Now," which is the skin care product that your company plans to market in Taiwan.
-          answer: All
+            - I have enclosed the proposal for "Healthy Now," the skin care product which your company plans to market in Taiwan.
+             # - I have enclosed the proposal for "Healthy Now," which is the skin care product your company plans to market in Taiwan.
+             # - I have enclosed the proposal for "Healthy Now," which is the skin care product that your company plans to market in Taiwan.
+          answer: I have enclosed the proposal for "Healthy Now," the skin care product which your company plans to market in Taiwan.
     1:
       identifier: proposal para 2
       quiz:
         - question: Paragraph 2, sentence 1
           option:
            - If you like our general approach, I would be happy to discuss the details with you at your convenience.
-          answer: All
+          answer: If you like our general approach, I would be happy to discuss the details with you at your convenience.
     2:
       identifier: proposal para 2
       quiz:
         - question: Paragraph 2, sentence 2
           option:
            - In any case, I will give you a call within a couple of days to ensure that you have received the proposal.
-          answer: All
+          answer: In any case, I will give you a call within a couple of days to ensure that you have received the proposal.
     3:
       identifier: proposal para 3
       quiz:
         - question: Paragraph 3
           option:
            - I look forward to cooperating with you on this project.
-          answer: All
+          answer: I look forward to cooperating with you on this project.
+    relationship:
+      identifier: 2 companies' relationship
+      quiz:
+        - question: The company in Taiwan
+          option:
+            - Jones Cosmed
+            - Smart
+          answer: Smart
+        - question: The overseas company
+          option:
+            - Jones Cosmed
+            - Smart
+          answer: Jones Cosmed
+        - question: The company with the product
+          option:
+            - Jones Cosmed
+            - Smart
+          answer: Jones Cosmed
+        - question: The company which will market the product
+          option:
+            - Jones Cosmed
+            - Smart
+          answer: Smart
+        - question: The company which approaches the other company about the product
+          option:
+            - Jones Cosmed
+            - Smart
+          answer: Jones Cosmed
+        - question: The company which wants the other company to develop a proposal for the product
+          option:
+            - Jones Cosmed
+            - Smart
+          answer: Jones Cosmed
+        - question: The company which is developing the proposal for the product
+          option:
+            - Jones Cosmed
+            - Smart
+          answer: Smart
+        - question: The company which is helping the other company achieve an objective for the product
+          option:
+            - Jones Cosmed
+            - Smart
+          answer: Smart
+        - question: The company with the proposal
+          option:
+            - Jones Cosmed
+            - Smart
+          answer: Smart
+        - question: The company sending the cover letter
+          option:
+            - Jones Cosmed
+            - Smart
+          answer: Smart
+        - question: The company receiving the cover letter
+          option:
+            - Jones Cosmed
+            - Smart
+          answer: Jones Cosmed
+        - question: The company submitting the proposal
+          option:
+            - Jones Cosmed
+            - Smart
+          answer: Smart
+        - question: The company receiving the proposal
+          option:
+            - Jones Cosmed
+            - Smart
+          answer: Jones Cosmed
+        - question: The company which will evaluate the proposal
+          option:
+            - Jones Cosmed
+            - Smart
+          answer: Jones Cosmed
+        - question: The company which will make contact with the other company in a few days
+          option:
+            - Jones Cosmed
+            - Smart
+          answer: Smart
+        - question: The company which after the sending of the proposal is in the postion to take the next step
+          option:
+            - Jones Cosmed
+            - Smart
+          answer: Jones Cosmed
+        - question: The company which has done the most work visible to us to this point
+          option:
+            - Jones Cosmed
+            - Smart
+          answer: Smart
+combining:
+  jigsaw:
+    0:
+      identifier: combining coverletter sentences
+      quiz:
+        - question: |+
+            1. I have finished something.
+            2. It is the work.
+            3. You requested the work. (Use 'which')
+            4. I am attaching something. (Use 'and')
+            5. It is the file
+            6. Which file? The file has the report. (Use 'with')
+            7. 
+          option:
+            - I have finished the work which you requested and I am attaching the file with the report.
+          answer: I have finished the work which you requested and I am attaching the file with the report.
+        - question: |+
+            1. Could you please confirm something.
+            2. The thing I want you to confirm is that you can open the file. (Use 'that')
+            3. When? After you receive this email.
+          option:
+            - Could you please confirm that you can open the file after you receive this email.
+          answer: Could you please confirm that you can open the file after you receive this email.
+        - question: |+
+            1. I hope something.
+            2. I hope something about the work
+            3. The work is the work I have done. (No "that")
+            4. The thing I hope about the work is that it will be satisfactory. (Use 'the work ... will be ..')
+          option:
+            - I hope the work I have done will be satisfactory.
+          answer: I hope the work I have done will be satisfactory.
+        - question: |+
+            1. Please feel free to do something.
+            2. The thing to feel free doing is to contact me.
+            3. Under what circumstances should you feel free to do this? If you have any questions.
+          option:
+            - Please feel free to contact me if you have any questions.
+          answer: Please feel free to contact me if you have any questions.
+grammar:
+  jigsaw:
+    0:
+      identifier: sentence structure grammar
+      quiz:
+        - question: "*We* will send the report to you once it has been completed."
+          option:
+            - adverbial
+            - object
+            - subject
+            - verb
+          answer: subject
+        - question: We *will send* the report to you once it has been completed.
+          option:
+            - adverbial
+            - object
+            - subject
+            - verb
+          answer: verb
+        - question: We will send *the report* to you once it has been completed.
+          option:
+            - adverbial
+            - object
+            - subject
+            - verb
+          answer: object
+        - question: We will send the report *to you* once it has been completed.
+          option:
+            - adverbial
+            - object
+            - subject
+            - verb
+          answer: object
+        - question: We will send the report to you *once it has been completed.*
+          option:
+            - adverbial
+            - object
+            - subject
+            - verb
+          answer: adverbial
 acknowledge:
   scramble:
     0:
