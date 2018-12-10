@@ -464,11 +464,46 @@ grammar:
             - verb
           answer: adverbial
 acknowledge:
-  scramble:
+  match:
+    0:
+      identifier: acknowledgement structure
+      pair:
+        -
+          - Thank you again. Looking forward to your reply.
+          - polite close
+        -
+          - Thank you for the file which I requested.
+          - purpose of email/letter
+        -
+          - Unfortunately it doesn't open on my computer. Can you send it again in another format?
+          - problem
+    1:
+      identifier: acknowledgement structure
+      pair:
+        -
+          - Sorry to put you to this trouble.
+          - polite close
+        -
+          - Thank you for the file which I requested.
+          - purpose of email/letter
+        -
+          - However there was no attachment when I opened the message. Perhaps you forgot to attach it.
+          - problem
+  drag:
     0:
       identifier: attachment received
+      sentences:
+        -
+          sentence: We have received your email of December 5 with the proposal for "Healthy Now." We will read it and reply before December 12.
+          clozed: We|have|received|your|email|of|December|5|with|the|proposal|for|"Healthy|We|will|read|it|and|reply|before|December|End
+        -
+          sentence: We have received your email of December 5 about the proposal for "Healthy Now," but I'm afraid there was no attachment with the message.
+          clozed: We|have|received|your|email|of|December|5|about|the|proposal|for|"Healthy|but|I'm|afraid|there|was|no|attachment|with|the|End
+  scramble:
+    0:
+      identifier: 
       sentence:
-        - We have received your email of December 5 with the proposal for "Healthy Now." We will read it and reply before December 12.
+
         - We have received your email of December 5 about the proposal for "Healthy Now," but I'm afraid there was no attachment with the message.
         - We have received your email of December 5 about the proposal for "Healthy Now," but I'm afraid the attachment won't open on my computer. Could you send it again in a different format?
 problem:
@@ -485,3 +520,139 @@ problem:
         -
           sentence: Sorry for the previous email. I forgot to attach the file to it. Here it is again. Can you confirm that you have received the attachment?
           clozed: Sorry|for|the|previous|email|I|forgot|to|attach|the|file|to|Here|it|is|again|Can|you|confirm|that|you|have|received|the|attachment?
+flowerdew:
+  jigsaw:
+    0:
+      identifier: flowerdew cover email
+      quiz:
+        - question: Who is the top linguist?
+          option:
+            - Hsiao-fang (Tracy) Cheng
+            - John Flowerdew
+            - Jennifer Ward
+            - you
+          answer: John Flowerdew
+        - question: Who is the head of the department?
+          option:
+            - Hsiao-fang (Tracy) Cheng
+            - John Flowerdew
+            - Jennifer Ward
+            - you
+          answer: Hsiao-fang (Tracy) Cheng
+        - question: Who is the new teacher?
+          option:
+            - Hsiao-fang (Tracy) Cheng
+            - John Flowerdew
+            - Jennifer Ward
+            - you
+          answer: Jennifer Ward
+        - question: Who is visiting the school?
+          option:
+            - Hsiao-fang (Tracy) Cheng
+            - John Flowerdew
+            - Jennifer Ward
+            - you
+          answer: John Flowerdew
+        - question: Who will give a speech?
+          option:
+            - Hsiao-fang (Tracy) Cheng
+            - John Flowerdew
+            - Jennifer Ward
+            - you
+          answer: John Flowerdew
+        - question: Who will email Jennifer?
+          option:
+            - Hsiao-fang (Tracy) Cheng
+            - John Flowerdew
+            - Jennifer Ward
+            - you
+          answer: you
+        - question: Who will you email?
+          option:
+            - Hsiao-fang (Tracy) Cheng
+            - John Flowerdew
+            - Jennifer Ward
+            - you
+          answer: Jennifer Ward
+        - question: Who will send the email?
+          option:
+            - Hsiao-fang (Tracy) Cheng
+            - John Flowerdew
+            - Jennifer Ward
+            - you
+          answer: you
+        - question: Who will show Flowerdew around?
+          option:
+            - Hsiao-fang (Tracy) Cheng
+            - John Flowerdew
+            - Jennifer Ward
+            - you
+          answer: you
+        - question: Who will receive the email?
+          option:
+            - Hsiao-fang (Tracy) Cheng
+            - John Flowerdew
+            - Jennifer Ward
+            - you
+          answer: Jennifer Ward
+        - question: Who will attach something to the email?
+          option:
+            - Hsiao-fang (Tracy) Cheng
+            - John Flowerdew
+            - Jennifer Ward
+            - you
+          answer: you
+        - question: Who will the attachment in the email be about?
+          option:
+            - Hsiao-fang (Tracy) Cheng
+            - John Flowerdew
+            - Jennifer Ward
+            - you
+          answer: John Flowerdew
+        - question: Who did Ms Cheng send a document to?
+          option:
+            - Hsiao-fang (Tracy) Cheng
+            - John Flowerdew
+            - Jennifer Ward
+            - you
+          answer: you
+        - question: Who sent you the attachment to the email?
+          option:
+            - Hsiao-fang (Tracy) Cheng
+            - John Flowerdew
+            - Jennifer Ward
+            - you
+          answer: Hsiao-fang (Tracy) Cheng
+        - question: Who may or may not Flowerdew speak to?
+          option:
+            - Hsiao-fang (Tracy) Cheng
+            - John Flowerdew
+            - Jennifer Ward
+            - you
+          answer: Jennifer Ward
+        - question: Who will the email help Jennifer know more about?
+          option:
+            - Hsiao-fang (Tracy) Cheng
+            - John Flowerdew
+            - Jennifer Ward
+            - you
+          answer: John Flowerdew
+        - question: Whose idea was it to send the email to Jennifer Ward?
+          option:
+            - Hsiao-fang (Tracy) Cheng
+            - John Flowerdew
+            - Jennifer Ward
+            - you
+          answer: you
+kendall:
+  drag:
+    0:
+      identifier: kendall scramble
+      sentences:
+        -
+          sentence: Henry Kendall, the top businessman visiting the department is well-known, but some teachers may not know details of his career.
+          clozed: Henry|Kendall|the|top|businessman|visiting|the|department|is|but|some|teachers|may|not|know|details|of|his|End
+        -
+          sentence: Tom Farrell wants teachers to read kendall.pdf, the PDF file attached to the email sent to all staff.
+          clozed: Tom|Farrell|wants|teachers|to|read|the|PDF|file|attached|to|the|email|sent|to|all|End
+        
