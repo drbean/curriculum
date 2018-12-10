@@ -494,14 +494,11 @@ acknowledge:
       identifier: attachment received
       sentences:
         -
+          sentence: We have received your email of December 5 with the proposal for "Healthy Now." We will read it and reply before December 12.
+          clozed: We|have|received|your|email|of|December|5|with|the|proposal|for|"Healthy|We|will|read|it|and|reply|before|December|End
+        -
           sentence: We have received your email of December 5 about the proposal for "Healthy Now," but I'm afraid there was no attachment with the message.
           clozed: We|have|received|your|email|of|December|5|about|the|proposal|for|"Healthy|but|I'm|afraid|there|was|no|attachment|with|the|End
-    1:
-      identifier: attachment received
-      sentences:
-        -
-          sentence: We have received your email of December 5 with the proposal for "Healthy Now." We will read it and reply before December 12.
-          clozed: We|have|received|your|email|of|with|the|proposal|for|"Healthy|We|will|read|it|and|reply|before|End
   scramble:
     0:
       identifier: 
