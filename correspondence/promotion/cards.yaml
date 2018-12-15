@@ -12,6 +12,80 @@ transparent:
             - a light bulb/globe
           answer: a piece of glass
 candy:
+  jigsaw:
+    relationship:
+      identifier: candy company relationship
+      quiz:
+        - question: The company in Taiwan
+          option:
+            - Jones' company
+            - Dream Candy
+          answer: Dream Candy
+        - question: The overseas company
+          option:
+            - Jones' company
+            - Dream Candy
+          answer: Jones' company
+        - question: The company with the product
+          option:
+            - Jones' company
+            - Dream Candy
+          answer: Dream Candy
+        - question: The company Which will represent the other company
+          option:
+            - Jones' company
+            - Dream Candy
+          answer: Jones' company
+        - question: The company Which will be represented by the other company
+          option:
+            - Jones' company
+            - Dream Candy
+          answer: Dream Candy
+        - question: The company which will market the product for the other company
+          option:
+            - Jones' company
+            - Dream Candy
+          answer: Jones' company
+        - question: The company which approaches the other company about the product
+          option:
+            - Jones' company
+            - Dream Candy
+          answer: Dream Candy
+        - question: The company which asks the other company if it wants to develop a relationship
+          option:
+            - Jones' company
+            - Dream Candy
+          answer: Dream Candy
+        - question: The company promoting its products
+          option:
+            - Jones' company
+            - Dream Candy
+          answer: Dream Candy
+        - question: The company receiving the proposal of a relationship
+          option:
+            - Jones' company
+            - Dream Candy
+          answer: Jones' company
+        - question: The company which will evaluate the proposal of a relationship
+          option:
+            - Jones' company
+            - Dream Candy
+          answer: Jones' company
+        - question: The company which may make contact with the other company if it is interested in a relationship
+          option:
+            - Jones' company
+            - Dream Candy
+          answer: Jones' company
+        - question: The company which after receiving the proposal is in the postion to take the next step
+          option:
+            - Jones' company
+            - Dream Candy
+          answer: Jones' company
+        - question: The company which has done the most work visible to us to this point
+          option:
+            - Jones' company
+            - Dream Candy
+          answer: Dream Candy
   match:
     0:
       identifier: match
