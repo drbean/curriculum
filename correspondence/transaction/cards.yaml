@@ -137,6 +137,75 @@ function:
           answer: get a product/service
 
 definition:
+  match:
+    0:
+      identifier: first 10 definition matches
+      pair:
+        -
+          - a complaint
+          - something you say or write when you are not satisfied
+        -
+          - a catalog(ue)
+          - a complete list of items, which are in some kind of systematic order and which often have a description
+        -
+          - a quotation
+          - an amount stated as the current price of stocks or commodities 
+        -
+          - an inquiry
+          - a request for general information
+        -
+          - a discount
+          - a deduction from a bill or amount due
+        -
+          - specifications
+          - a detailed description of the construction workmanship, materials, etc, of work done or to be done
+        -
+          - delivery
+          - the act of sending goods to the designated person
+        -
+          - payment
+          - the amount of money you have to pay for something
+        -
+          - estimate
+          - an appropriate judgment, especially of cost, value, size, etc
+        -
+          - a firm order
+          - a definite request for something
+    1:
+      identifier: 
+      pair:
+        -
+          - value for money
+          - a good relationship between quality and price
+        -
+          - a good buy
+          - something worth the money you pay for it
+        -
+          - state of the art
+          - the best available product which has been made using the most modern methods or techniques
+        -
+          - statement
+          - a printed record of money paid, received, owed, etc
+        -
+          - a brochure
+          - a pamphlet or leaflet, especially one giving descriptive information
+        -
+          - accessories
+          - additional or extra things
+        -
+          - distributor
+          - a person or thing that distributes
+        -
+          - advertisement
+          - a public notice or announcement, especially one giving information about goods or services
+        -
+          - tender
+          - an offer, usually in writing, to execute work or supply goods, at a fixed price
+        -
+          - acknowledgement
+          - the act of confirming the receipt of goods
+        
+        
   jigsaw:
     0:
       identifier: first 10
