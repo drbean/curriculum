@@ -153,6 +153,59 @@ candy:
           - Paragraph 6
           - Step 4
 humanitarian:
+  jigsaw:
+    0:
+      identifier: conference participants, who
+      quiz:
+        - question: Tracy Cheng may nominate who?
+          option:
+            - participants
+            - renowned scholars
+            - professors
+          answer: participants
+        - question: Nominees will learn to
+          option:
+            - solve world problems
+            - develop leadership skills
+            - speak at the conference
+          answer: develop leadership skills
+        - question: The number of nominated delegates from each school is 
+          option:
+            - limited
+            - unlimited
+          answer: limited
+        - question: The number of participants from each school is 
+          option:
+            - limited
+            - unlimited
+          answer: unlimited
+        - question: Nominated delegates have to pay
+          option:
+            - 800 dollars
+            - 830 dollars
+            - 850 dollars
+          answer: 800 dollars
+        - question: Other participants have to pay
+          option:
+            - 800 dollars
+            - 830 dollars
+            - 850 dollars
+          answer: 850 dollars
+        - question: The conference will take place
+          option:
+            - at the UN
+            - in Taiwan
+            - in Vietnam
+            - in Hong Kong
+            - in 45 different countries
+          answer: in Hong Kong
+        - question: The organizer is a 
+          option:
+            - US organization
+            - UK organization
+            - international organization
+            - Hong Kong organization
+          answer: UK organization
   drag:
     0:
       identifier: humanitarian conference
@@ -216,6 +269,28 @@ conference:
         
         
 raspberry:
+  jigsaw:
+    0:
+      identifier: raspberry pi questions
+      quiz:
+        - question: When you have your raspberry pi, you have to
+          option:
+            - learn how to use it
+            - give it to someone
+            - buy software
+          answer: learn how to use it
+        - question: Unless you buy a kit, you will need to get
+          option:
+            - hard disk
+            - USB ports
+            - RAM
+          answer: hard disk
+        - question: The purpose of the raspberry pi is to allow kids and others to learn 
+          option:
+            - how to put together software to make things work
+            - how to put together hardware to make things work
+            - how to put together software and hardware to make things work
+          answer: how to put together software and hardware to make things work
   drag:
     0:
       identifier: raspberry drag
@@ -607,6 +682,82 @@ step:
             - step 4. call to action
           answer: step 4. call to action
 backpack:
+  jigsaw:
+    0:
+      identifier: backpack developer, marketer relationship
+      quiz:
+        - question: An important customer
+          option:
+            - Ms Chen
+            - Mr Wang
+          answer: Mr Wang
+        - question: Introducing the backpack
+          option:
+            - Ms Chen
+            - Mr Wang
+          answer: Ms Chen
+        - question: Backpack developers' company
+          option:
+            - Ms Chen
+            - Mr Wang
+          answer: Ms Chen
+        - question: Australian market participant
+          option:
+            - Ms Chen
+            - Mr Wang
+          answer: Mr Wang
+        - question: Brochure provider
+          option:
+            - Ms Chen
+            - Mr Wang
+          answer: Ms Chen
+        - question: Who has Mr Wang done business with?
+          option:
+            - Ms Chen
+            - Mr Wang
+          answer: Ms Chen
+        - question: Who may have doubts about the new product?
+          option:
+            - Ms Chen
+            - Mr Wang
+          answer: Mr Wang
+        - question: Who does the other party seek to persuade?
+          option:
+            - Ms Chen
+            - Mr Wang
+          answer: Mr Wang
+        - question: Who builds up confidence of the other party?
+          option:
+            - Ms Chen
+            - Mr Wang
+          answer: Ms Chen
+        - question: Who is presented with a price range?
+          option:
+            - Ms Chen
+            - Mr Wang
+          answer: Mr Wang
+        - question: Who discusses business terms with the other party?
+          option:
+            - Ms Chen
+            - Mr Wang
+          answer: Ms Chen
+        - question: Who is asked to do something on finishing reading the email?
+          option:
+            - Ms Chen
+            - Mr Wang
+          answer: Mr Wang
+        - question: Who issues a call to action to the other party?
+          option:
+            - Ms Chen
+            - Mr Wang
+          answer: Ms Chen
+  drag:
+    0:
+      identifier: backpack match drag
+      sentences:
+        -
+          sentence: <p>Dear Mr. Wang,</p><p></p><p>As an important customer, I would like to take this opportunity to inform you of an exciting backpack we have developed for the Australian market, the Room Daypack. Lightweight and low profile, the Room Daypack is perfect for hitting the trail or commuting around town. With multiple storage compartments and contoured shoulder straps, this pack is convenient and comfortable for any occasion.</p><p></p>          <p>I have attached a brochure which will provide you with more information about the Room Daypack. </p><p></p><p> If you would like further detail, please feel free to contact me at your convenience. Also, I am very pleased to let you know that we are offering a special introductory 15% discount on orders of 200 units and above.</p><p></p><p>I value your business and look forward to continuing to serve you in the future. Please do not hesitate to get in touch with me regarding questions you may have.</p>
+          clozed: take this opportunity|commuting|With|have attached|at your convenience|am very pleased to|value|End
   match:
     0:
       identifier: backpack match
