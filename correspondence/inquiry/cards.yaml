@@ -238,8 +238,8 @@ combining:
             4. The thing I want you to send is a price list.
             5. The price list is for this model.
           option:
-            - I am interested in the Model A12+ laptop and I am wondering you could send me a price list for this model.
-          answer: I am interested in the Model A12+ laptop and I am wondering you could send me a price list for this model.
+            - I am interested in the Model A12+ laptop and I am wondering if you could send me a price list for this model.
+          answer: I am interested in the Model A12+ laptop and I am wondering if you could send me a price list for this model.
         - question: |+
             1. I saw an advertisement.
             2. The advertisement was your advertisement.
