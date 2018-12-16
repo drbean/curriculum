@@ -131,6 +131,36 @@ candy:
         -
           - We are confident that ___
           - you will be impressed with
+    structure:
+      identifier: candy structure
+      pair:
+        -
+          - Paragraph 1
+          - Step 1
+        -
+          - Paragraph 2
+          - Step 2
+        -
+          - Paragraph 3
+          - Step 3
+        -
+          - Paragraph 4
+          - Step 3
+        -
+          - Paragraph 5
+          - Step 3 or 4
+        -
+          - Paragraph 6
+          - Step 4
+humanitarian:
+  drag:
+    0:
+      identifier: humanitarian conference
+      sentences:
+        -
+          sentence: "<p>Dear Professor Cheng,</p><p> Thank you for your time on the phone today. It was a pleasure speaking with you. We would be grateful if you could look through this conference opportunity for your students.</p><p> Humanitarian Affairs is a UK-based non-profit organization, and we provide youth with opportunities to engage in humanitarian work as well as to develop and empower them through leadership programs. The annual University Scholars Leadership (USL) Symposium is one of the major events by which we do this. This year, the 6th USL Symposium will be_held in Hong Kong, and we would like to have your promising students join us at this event.</p><p>I would ask if you can nominate three students to represent the school at this international leadership conference. They will get to learn from renowned speakers and humanitarians about leadership, personal development, and using their skills to help others. It is also a great platform for global networking with the other delegates from 45 different countries. The symposium will be a valuable and enriching experience for them personally and also for their future careers.</p><p> As your university is on our invitation list, the registration fee for nominated students will be US$800 each, and the fee for any other individual applicants will be US$830 each (actual fee: US$850). This fee includes conference access, 6-night hotel accommodation, transport, and meals (excluding dinner).</p><p>I have attached the full program schedule and Delegate Application form for students. The deadline for registration is 8 July 2017. More information can be found at our website http://www.universityscholars.org.uk/ and students can contact me directly at michelle.choo@humanitarianaffairs.org for more details.</p><p>Thank you for posting this information out to your students.</p>"
+          clozed: "grateful|engage|through|events|be_held|promising|nominate|renowned|networking|enriching|on|registration|applicants|accommodation|attached|deadline|End"
+        
 raspberry:
   drag:
     0:
@@ -652,29 +682,6 @@ confusion:
              - promotion (introducing product)
              - inquiry
           answer: promotion (introducing product)
-structure:
-  match:
-    0:
-      identifier: candy structure
-      pair:
-        -
-          - Paragraph 1
-          - Step 1
-        -
-          - Paragraph 2
-          - Step 2
-        -
-          - Paragraph 3
-          - Step 3
-        -
-          - Paragraph 4
-          - Step 3
-        -
-          - Paragraph 5
-          - Step 3 or 4
-        -
-          - Paragraph 6
-          - Step 4
 conference:
   match:
     0:
