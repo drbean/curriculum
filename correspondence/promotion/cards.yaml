@@ -1,16 +1,29 @@
 ---
 genre: correspondence
-transparent:
+lollipop:
   jigsaw:
     0:
       identifier: transparent
       quiz:
-        - question: "Transparent lollipop Looks like:"
+        - question: "Transparent lollipop looks like:"
           option:
             - a camera
             - a piece of glass
             - a light bulb/globe
           answer: a piece of glass
+        - question: lollipop shape
+          option:
+            - a ball
+            - a circle
+            - long and thin
+          answer: a circle
+        - question: Transparent lollipop has what kind of material sealed inside
+          option:
+            - candy material
+            - non-candy material
+            - photographic material
+          answer: candy material
+
 candy:
   jigsaw:
     relationship:
@@ -86,6 +99,16 @@ candy:
             - Jones' company
             - Dream Candy
           answer: Dream Candy
+        - question: The candy manufacturer
+          option:
+            - Jones' company
+            - Dream Candy
+          answer: Dream Candy
+        - question: The candy distributor
+          option:
+            - Jones' company
+            - Dream Candy
+          answer: Jones' company
   match:
     0:
       identifier: match
