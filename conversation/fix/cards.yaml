@@ -1,5 +1,50 @@
 ---
 # genre: conversation: fix
+things:
+  jigsaw:
+    0:
+      identifier: things breaking down
+      quiz:
+        - question: 1.
+          option:
+            - a coffee mug 
+            - a suitcase 
+            - camera
+            - ski pants 
+            - washing machine
+          answer: a suitcase 
+        - question: 2.
+          option:
+            - a coffee mug 
+            - a suitcase 
+            - camera
+            - ski pants 
+            - washing machine
+          answer: a coffee mug 
+        - question: 3.
+          option:
+            - a coffee mug 
+            - a suitcase 
+            - camera
+            - ski pants 
+            - washing machine
+          answer: ski pants 
+        - question: 4.
+          option:
+            - a coffee mug 
+            - a suitcase 
+            - camera
+            - ski pants 
+            - washing machine
+          answer: camera
+        - question: 5.
+          option:
+            - a coffee mug 
+            - a suitcase 
+            - camera
+            - ski pants 
+            - washing machine
+          answer: washing machine
 damage:
   jigsaw:
     0:
@@ -129,6 +174,61 @@ return:
             - Yes
             - No
           answer: No
+leroy:
+  jigsaw:
+    item:
+      identifier: the thing
+      quiz:
+        - question: What is the thing with the problem in no. A?
+          option:
+            - a dog
+            - the electricity
+            - the kitchen window
+            - a lightbulb
+            - the oven
+          answer: the oven
+        - question: What is the thing with the problem in no. B?
+          option:
+            - a dog
+            - the electricity
+            - the kitchen window
+            - a lightbulb
+            - the oven
+          answer: the electricity
+    problem:
+      identifier: building problem
+      quiz:
+        - question: What is the problem in no. A?
+          option:
+            - it barks and keeps the tenant up all night
+            - it keeps burning everything
+            - it keeps going on and going off
+            - it's gone out
+            - it's jammed shut
+          answer: it keeps burning everything
+        - question: What is the problem in no. B?
+          option:
+            - it barks and keeps the tenant up all night
+            - it keeps burning everything
+            - it keeps going on and going off
+            - it's gone out
+            - it's jammed shut
+          answer: it keeps going on and going off
+    action:
+      identifier: action by manager
+      quiz:
+        - question: How helpful is the building manager in no. A?
+          option:
+            - Very helpul
+            - Somewhat helpful
+            - Not helpful at all
+          answer: Very helpul
+        - question: How helpful is the building manager in no. B?
+          option:
+            - Very helpul
+            - Somewhat helpful
+            - Not helpful at all
+          answer: Very helpul
 building:
   jigsaw:
     item:
@@ -334,7 +434,7 @@ electronics:
           answer: dropping
 tenant:
   jigsaw:
-    0:
+    A:
       identifier: tenant complaint
       A: Mr Burr is unhappy about his oven. He calls me for help. I think the oven is not the problem. I think Mr Burr can't cook.
       B: I ask the building manager for help. I think the oven needs to be fixed. I can't cook anything without it burning.
@@ -355,7 +455,7 @@ tenant:
           answer: True
         - question: It's not clear if the oven is OK or not.
           answer: True
-    1:
+    B:
       identifier: electricity outage
       A: Mrs Harris has a problem with her lights. I ask her if the refrigerator is off, too.
       B: I tell the building manager that the lights keep going on and off. I tell her that the refrigerator is OK.
@@ -376,28 +476,31 @@ tenant:
           answer: False
         - question: The refrigerator is a problem, too.
           answer: False
-    2:
+    0:
       identifier: light complaint
       A: The building manager says he is too busy to fix the light in front of the building. I say I will fix it.
-      B: Mr Won wants me to fix the light. Then he says he will fix it. I give him a light bulb. He will stand on a chair.
+      B: Mrs Won wants me to fix the light. Then she says she will fix it. I give her a light bulb. Her son will stand on a chair.
       quiz:
         - question: A
           option:
             - The building manager
-            - Mr Won
-          answer:  Mr Won
+            - Mrs Won
+          answer: Mrs Won
         - question: B
           option:
             - The building manager
-            - Mr Won
-          answer:  The building manager
+            - Mrs Won
+          answer: The building manager
         - question: The building manager is very helpful.
           answer: False
-        - question: The building manager gives Mr Won a lightbulb.
+        - question: The building manager gives Mrs Won a lightbulb.
           answer: True
-        - question: The building manager gives Mr Won a ladder.
+        - question: The building manager gives Mrs Won a ladder.
           answer: False
-    3:
+        - question: Mrs Won's son will stand on a chair.
+          answer: True
+        
+    1:
       identifier: dog complaint
       A: I don't want to go near the dog that is keeping Mr Two awake. I tell him I will call the owner of the dog.
       B: My neighbor's dog barks all night and I can't sleep. But the building manager is not very helpful.
@@ -406,19 +509,21 @@ tenant:
           option:
             - The building manager
             - Mr Two
-          answer:  The building manager
+          answer: Mr Two
         - question: B
           option:
             - The building manager
             - Mr Two
-          answer:  Mr Two
+          answer: The building manager
         - question: The building manager is very helpful.
           answer: False
         - question: Mr Two's dog is keeping his neighbor awake.
           answer: False
         - question: The dog's owner wants to talk to the building manager.
           answer: False
-    4:
+        - question: The building manager will talk to the dog's owner.
+          answer: True
+    2:
       identifier: window complaint
       A: I want the building manager to help me open my window. It is stuck. But he won't. I will get my cousin to do it.
       B: Mrs Threet wants me to open the window for her. But that's not my job. I tell her to put some oil on the window.
@@ -435,6 +540,8 @@ tenant:
           answer:  The building manager
         - question: The building manager isn't helpful.
           answer: True
+        - question: The building manager thinks he wouldn't be able to open the window.
+          answer: False
         - question: The building manager thinks Mrs Threet should do it herself.
           answer: True
         - question: Mrs Threet will get her cousin to open the window.
