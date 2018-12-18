@@ -1,0 +1,106 @@
+---
+-
+  - id
+  - description
+  - genre
+  - target
+  - content
+  - unclozeables
+  - percent
+-
+  - tenant-0
+  - tenant-0
+  - conversation
+  - all
+  - |+
+    A: Hello. I was wondering if you could change the lightbulb out front. It keeps flickering, and it’s going to go out.
+
+
+    B: I’ll take care of it later, Mrs Won. I’m really busy right now, and besides, it’s still light outside.
+
+
+    A: But it’ll be dark when I get home tonight.
+
+
+    B: I’d love to help, but somebody borrowed my ladder, Mrs Won.
+
+
+    A: Well, you know, I have a chair! And if you give me a lightbulb, I can ask my son to change it. OK?
+
+
+    B: Oh! OK. Here . . . take a lightbulb from one of my lamps so you know it works.
+
+
+    A: Thank you! 
+-
+  - tenant-1
+  - tenant-1
+  - conversation
+  - all
+  - |+
+    A: Uh, excuse me.
+
+
+    B: Yeah?
+    
+
+    A: Uh, I was wondering if you could do something about my next-door neighbor’s dog? It’s been barking and keeping me up all night.
+
+
+    B: Mr Two, dogs bark. That’s what they do.
+
+
+    A: Yes, but they don’t have to bark all night. This is three nights in a row.
+
+
+    B: Have you seen the size of that dog, Mr Two? You want me to go up there? That dog could hurt me!
+
+
+    A: Well, I need my sleep!
+
+
+    B: Look, look. I tell you what. I’ll call your neighbor and ask if he can keep his dog quiet
+
+
+    A: OK. Thank you!
+
+-
+  - tenant-2
+  - tenant-2
+  - conversation
+  - all
+  - |+
+    A: Hello.
+
+
+    B: Hello, Mrs Threet.
+
+
+    A: I have a problem.
+
+
+    B: What is it now, Mrs Threet?
+
+
+    A: It’s my kitchen window. It’s jammed shut. I can’t open it anymore.
+
+
+    B: I’m not sure how I can help you.
+
+
+    A: Well, it needs to be opened. Can you try?
+
+
+    B: That’s not really part of my job, Mrs Threet. Maybe you could try putting some vegetable oil on it.
+
+
+    A: I don’t think so. I’ll call my cousin George to come over to take a look at it. He’s a weightlifter.
+
+---
+-
+  - genre
+  - text
+  - id
+  - target
+  - content
+  - answer
