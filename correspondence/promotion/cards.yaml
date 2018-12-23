@@ -153,6 +153,28 @@ candy:
           - Paragraph 6
           - Step 4
 humanitarian:
+  match:
+    structure:
+      identifier: humanitarian conference structure
+      pair:
+        -
+          - Paragraph 1
+          - Step 1
+        -
+          - Paragraph 2
+          - Step 2, 3
+        -
+          - Paragraph 3
+          - Step 3, 4
+        -
+          - Paragraph 4
+          - Step 3
+        -
+          - Paragraph 5
+          - Step 4
+        -
+          - Paragraph 6
+          - Polite close
   jigsaw:
     0:
       identifier: conference participants, who
@@ -310,6 +332,29 @@ raspberry:
         -
           sentence: We believe this is an excellent opportunity to give every child in Taiwan their own computer.
           clozed: We|believe|this|is|an|excellent|opportunity|to|give|every|child|in|Taiwan|their|own|computer|End
+  match:
+    0:
+      identifier: raspberry structure
+      pair:
+        -
+          - a a are computers distributor From in large last of Taiwan that to understand visit we website week you your
+          - "knowledge about reader:"
+        -
+          - an are available computing device, educational have in in keen our Pi, Raspberry stores Taiwan.  to very We
+          - "Purpose of email:"
+        -
+          - a basic computer computers credit-card-sized developed Foundation, has knowledge.  of of organization, Pi promote Raspberry series teaching the the to
+          - "Writer's company:"
+        -
+          - do get hesitate in not Please to touch us.  with
+          - "Call to action:"
+        -
+          - We an believe child computer.  every excellent give in is opportunity own Taiwan their this to
+          - "Selling points:"
+          - 
+        
+        
+        
 golf:
   drag:
     0:
@@ -681,6 +726,42 @@ step:
             - step 3. selling points of the diet drink
             - step 4. call to action
           answer: step 4. call to action
+difference:
+  jigsaw:
+    0:
+      identifier: difference in structure
+      quiz:
+        - question: Why does the backpack promotion not introduce Ms Chen's company
+          option:
+            - Mr Wang knows the company
+            - Ms Chen forgot to tell about the company
+            - The company is secretive about its activities
+            - The company is well-known by everyone in the industry
+          answer: Mr Wang knows the company
+        - question: Why does the candy promotion introduce DreamCandy
+          option:
+            - DreamCandy always promotes itself
+            - Mr Jones may not know about the company
+            - The company is secretive about its activities
+            - The company is well-known by everyone in the industry
+          answer: Mr Jones may not know about the company
+        - question: In the case of the candy promotion, probably
+          option:
+            - Mr Jones has done business with the company before
+            - Mr Jones has not done business with the company before
+          answer: Mr Jones has not done business with the company before
+        - question: In the case of the backpack promotion,
+          option:
+            - Mr Wang has done business with the company before
+            - Mr Wang has not done business with the company before
+          answer: Mr Wang has done business with the company before
+        - question: The effect of the existence of previous contacts
+          option:
+            - Introduction of the company
+            - Introduction of the product
+            - Introduction of the reader's identity
+            - None
+          answer: Introduction of the company
 backpack:
   jigsaw:
     0:
@@ -756,9 +837,25 @@ backpack:
       identifier: backpack match drag
       sentences:
         -
-          sentence: <p>Dear Mr. Wang,</p><p></p><p>As an important customer, I would like to take this opportunity to inform you of an exciting backpack we have developed for the Australian market, the Room Daypack. Lightweight and low profile, the Room Daypack is perfect for hitting the trail or commuting around town. With multiple storage compartments and contoured shoulder straps, this pack is convenient and comfortable for any occasion.</p><p></p>          <p>I have attached a brochure which will provide you with more information about the Room Daypack. </p><p></p><p> If you would like further detail, please feel free to contact me at your convenience. Also, I am very pleased to let you know that we are offering a special introductory 15% discount on orders of 200 units and above.</p><p></p><p>I value your business and look forward to continuing to serve you in the future. Please do not hesitate to get in touch with me regarding questions you may have.</p>
-          clozed: take this opportunity|commuting|With|have attached|at your convenience|am very pleased to|value|End
+          sentence: "<p>Dear Mr. Wang,</p><p>As an important customer, I would like to take_this_opportunity to inform you of an exciting backpack we have developed for the Australian market, the Room Daypack. Lightweight and low profile, the Room Daypack is perfect for hitting the trail or commuting around town. With multiple storage compartments and contoured shoulder straps, this pack is convenient and comfortable for any occasion.</p><p>I have_attached a brochure which will provide you with more information about the Room Daypack. </p><p> If you would like further detail, please feel free to contact me at_your_convenience. Also, I am_very_pleased_to let you know that we are offering a special introductory 15% discount on orders of 200 units and above.</p><p>I value your business and look forward to continuing to serve you in the future. Please do not hesitate to get in touch with me regarding questions you may have.</p>"
+          clozed: "take_this_opportunity|commuting|With|have_attached|at_your_convenience|am_very_pleased_to|value|End"
   match:
+    structure:
+      identifier: backpack structure
+      pair:
+        -
+          - Paragraph 1
+          - new product introduction
+        -
+          - Paragraph 2
+          - building confidence
+        -
+          - Paragraph 3
+          - call to action & prices, terms
+        -
+          - Paragraph 4
+          - Polite close
+        
     0:
       identifier: backpack match
       pair:
