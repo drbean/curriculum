@@ -492,24 +492,12 @@ tenant:
             - Mrs Won
           answer: The building manager
         - question: The building manager is very helpful.
-          option:
-            - True
-            - False
           answer: False
         - question: The building manager gives Mrs Won a lightbulb.
-          option:
-            - True
-            - False
           answer: True
         - question: The building manager gives Mrs Won a ladder.
-          option:
-            - True
-            - False
           answer: False
         - question: Mrs Won's son will stand on a chair.
-          option:
-            - True
-            - False
           answer: True
         
     1:
@@ -528,24 +516,12 @@ tenant:
             - Mr Two
           answer: The building manager
         - question: The building manager is very helpful.
-          option:
-            - True
-            - False
           answer: False
         - question: Mr Two's dog is keeping his neighbor awake.
-          option:
-            - True
-            - False
           answer: False
         - question: The dog's owner wants to talk to the building manager.
-          option:
-            - True
-            - False
           answer: False
         - question: The building manager will talk to the dog's owner.
-          option:
-            - True
-            - False
           answer: True
     2:
       identifier: window complaint
@@ -563,22 +539,10 @@ tenant:
             - Mrs Threet
           answer:  The building manager
         - question: The building manager isn't helpful.
-          option:
-            - True
-            - False
           answer: True
         - question: The building manager thinks he wouldn't be able to open the window.
-          option:
-            - True
-            - False
           answer: False
         - question: The building manager thinks Mrs Threet should do it herself.
-          option:
-            - True
-            - False
           answer: True
         - question: Mrs Threet will get her cousin to open the window.
-          option:
-            - True
-            - False
           answer: True
