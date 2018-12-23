@@ -146,8 +146,10 @@ club:
   drag:
     0:
       identifier: women's clubs
-      sentence: Dear Sir or Madam, <p> I am writing to inquire about women's golf clubs. I saw your advertisement in the January issue of Women's Golf, and am interested in the clubs you featured there. I have a number of golf stores in Taiwan, where women's golf is seeing an explosion in popularity, and I wish to stock a number of your irons and woods, because sources for golf equipment for women are hard to find. <p> Could you please send me your catalogue, with prices and terms. I would appreciate receiving it by January 21, as my stocks are running low. <p> I look forward to hearing from you.
-      clozed: Madam|inquire|clubs|advertisement|issue|interested|featured|stores|popularity|wish|sources|please|catalogue|prices|appreciate|low|hearing
+      sentences:
+        -
+          sentence: Dear Sir or Madam, <p> I am writing to inquire about women's golf clubs. I saw your advertisement in the January issue of Women's Golf, and am interested in the clubs you featured there. I have a number of golf stores in Taiwan, where women's golf is seeing an explosion in popularity, and I wish to stock a number of your irons and woods, because sources for golf equipment for women are hard to find. <p> Could you please send me your catalogue, with prices and terms. I would appreciate receiving it by January 21, as my stocks are running low. <p> I look forward to hearing from you.
+          clozed: Madam|inquire|clubs|advertisement|issue|interested|featured|stores|popularity|wish|sources|please|catalogue|prices|appreciate|low|hearing|End
   
 scramble:
   scramble:
