@@ -59,6 +59,63 @@ picture:
            - The growth of suburbs has eaten up huge amounts of farmland (due to)
            - The destruction of rain forests is accelerating the extinction of plants and wildlife. (by)
           answer: Oil spills are harming birds, fish and other marine life (through)
+    1:
+      identifier: environmental problem pictures
+      quiz:
+        - question: Picture 1, row 1
+          option:
+           - High emissions of carbon dioxide are causing climate changes. (by)
+           - Rapid urbanization is depleting our natural resources. (through)
+           - Water pollution has threatened the health of people all over the world. (due to)
+           - Livestock farms have contaminated soil and underground water. (because of)
+           - The destruction of rain forests is accelerating the extinction of plants and wildlife. (by)
+           - Oil spills are harming birds, fish and other marine life. (through)
+          answer: Livestock farms have contaminated soil and underground water. (because of)
+        - question: Picture 2, row 1
+          option:
+           - Air pollution is threatening the health of people in urban areas (by)
+           - Livestock farms have contaminated soil and underground water. (because of)
+           - Acid rain has eroded statues and buildings (as a result of)
+           - Oil spills are harming birds, fish and other marine life (through)
+           - The growth of suburbs has eaten up huge amounts of farmland (due to)
+           - The destruction of rain forests is accelerating the extinction of plants and wildlife. (by)
+          answer: The destruction of rain forests is accelerating the extinction of plants and wildlife. (by)
+        - question: Picture 3, row 1
+          option:
+           - Air pollution is threatening the health of people in urban areas (by)
+           - Livestock farms have contaminated soil and underground water. (because of)
+           - Acid rain has eroded statues and buildings (as a result of)
+           - Oil spills are harming birds, fish and other marine life (through)
+           - The growth of suburbs has eaten up huge amounts of farmland (due to)
+           - The destruction of rain forests is accelerating the extinction of plants and wildlife. (by)
+          answer: The growth of suburbs has eaten up huge amounts of farmland (due to)
+        - question: Picture 1, row 2
+          option:
+           - Air pollution is threatening the health of people in urban areas (by)
+           - Livestock farms have contaminated soil and underground water. (because of)
+           - Acid rain has eroded statues and buildings (as a result of)
+           - Oil spills are harming birds, fish and other marine life (through)
+           - The growth of suburbs has eaten up huge amounts of farmland (due to)
+           - The destruction of rain forests is accelerating the extinction of plants and wildlife. (by)
+          answer: Air pollution is threatening the health of people in urban areas (by)
+        - question: Picture 2, row 2
+          option:
+           - Air pollution is threatening the health of people in urban areas (by)
+           - Livestock farms have contaminated soil and underground water. (because of)
+           - Acid rain has eroded statues and buildings (as a result of)
+           - Oil spills are harming birds, fish and other marine life (through)
+           - The growth of suburbs has eaten up huge amounts of farmland (due to)
+           - The destruction of rain forests is accelerating the extinction of plants and wildlife. (by)
+          answer: Acid rain has eroded statues and buildings (as a result of)
+        - question: Picture 3, row 2
+          option:
+           - Air pollution is threatening the health of people in urban areas (by)
+           - Livestock farms have contaminated soil and underground water. (because of)
+           - Acid rain has eroded statues and buildings (as a result of)
+           - Oil spills are harming birds, fish and other marine life (through)
+           - The growth of suburbs has eaten up huge amounts of farmland (due to)
+           - The destruction of rain forests is accelerating the extinction of plants and wildlife. (by)
+          answer: Oil spills are harming birds, fish and other marine life (through)
 passive:
   jigsaw:
     0:
