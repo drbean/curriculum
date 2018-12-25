@@ -289,6 +289,24 @@ problem:
            - air pollution
            - water pollution
           answer: water pollution
+    1:
+      identifier: environmental problem
+      quiz:
+        - question: Morgan's problem
+          option:
+           - landfills
+           - poor farmland
+          answer: landfills
+        - question: Dalton's problem
+          option:
+           - electricity
+           - e-waste
+          answer: e-waste
+        - question: Kendall's problem
+          option:
+           - air pollution
+           - water pollution
+          answer: water pollution
 to_do:
   match:
     0:
