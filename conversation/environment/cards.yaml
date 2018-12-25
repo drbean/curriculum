@@ -116,6 +116,28 @@ picture:
             - The destruction of rain forests is accelerating the extinction of plants and wildlife. (by)
             - Oil spills are harming birds, fish and other marine life. (through)
           answer: Livestock farms have contaminated soil and underground water. (because of)
+  match:
+    0:
+      identifier: picture match
+      pair:
+        -
+          - Picture 1, row 1
+          - Water pollution has threatened the health of people all over the world. (due to)
+        -
+          - Picture 2, row 1
+          - Oil spills are harming birds, fish and other marine life. (through)
+        -
+          - Picture 3, row 1
+          - The destruction of rain forests is accelerating the extinction of plants and wildlife. (by)
+        -
+          - Picture 1, row 2
+          - High emissions of carbon dioxide are causing climate changes. (by)
+        -
+          - Picture 2, row 2
+          - Rapid urbanization is depleting our natural resources. (through)
+        -
+          - Picture 3, row 2
+          - Livestock farms have contaminated soil and underground water. (because of)
 passive:
   jigsaw:
     0:
