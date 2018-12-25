@@ -192,6 +192,18 @@ scramble:
         -
           sentence: I am writing in_response_to an_advertisement regarding job_opportunities for Japanese_speakers
           clozed: I|am|writing|in_response_to|an_advertisement|regarding|job_opportunities|for|Japanese_speakers
+    "00":
+      identifier: p56 similar
+      sentences:
+        -
+          sentence: Would it be all right for participants to start one day late on the program.
+          clozed: Would|it|be|all|right|for|participants|to|start|day|late|on|the|End
+        -
+          sentence: According to your website, you offer programs for overseas students.
+          clozed: According|to|your|you|offer|programs|for|overseas|End
+        -
+          sentence: I wish to apply for the job advertised on page 3 of the Taipei Times on Wednesday.
+          clozed: I|wish|to|apply|for|the|job|advertised|on|page|of|the|Taipei|Times|on|End
     1:
       identifier: p56
       sentences:
@@ -204,6 +216,18 @@ scramble:
         -
           sentence: could you tell me where on your_website I can get a price quote with a_discount
           clozed: could|you|tell|me|where|on|your_website|I|can|get|a|price|quote|with|a_discount
+    11:
+      identifier: p56 similar
+      sentences:
+        -
+          sentence: I am interested in finding out how you were able to succeed at such a competitive school.
+          clozed: I|am|interested|in|finding|out|how|you|were|able|to|succeed|at|such|a|competitive|End
+        -
+          sentence: I would appreciate it if you could send me a copy of your latest catalog.
+          clozed: I|would|appreciate|it|if|could|send|me|a|copy|of|your|latest|End
+        -
+          sentence: Could you tell me where on your_website I can find details about prices and delivery.
+          clozed: Could|you|tell|me|where|on|your_website|I|can|find|details|about|prices|and|End
     2:
       identifier: p56
       sentences:
@@ -213,6 +237,18 @@ scramble:
         -
           sentence: Could you send me your latest catalogue at the above address?
           clozed: Could|you|send|me|your|latest|catalogue|at|the|above|End
+    22:
+      identifier: p56 similar
+      sentences:
+        -
+          sentence: Would it be possible for you to include me in your list of sponsors.
+          clozed: Would|it|be|possible|for|you|to|include|me|in|your|list|of|End
+        -
+          sentence: Could you send your latest price list to me at my new address.
+          clozed: Could|you|send|your|latest|price|list|to|at|my|new|End
+        -
+          sentence: I would appreciate if you could send more information about the mountain bicycles you advertised in the latest issue of Cycle_Magazine.
+          clozed: I|would|appreciate|if|you|could|send|more|information|about|the|mountain|you|advertised|in|the|latest|issue|of|End
     3:
       identifier: drag inquiry
       sentences:
@@ -406,6 +442,46 @@ cruise:
         - I will tell you what is happening.
         - Thank you again for your inquiry about the cruise.
   drag:
+    inquiry_0:
+      identifier: cruise inquiry 0
+      sentences:
+        -
+          sentence: I saw your advertisement for a 4-day cruise in the 31_July edition of the Taipei Times.
+          clozed: I|saw|your|advertisement|for|a|cruise|in|the|edition|of|the|Taipei|End
+        -
+          sentence: I and my partner are very interested in going on this cruise.
+          clozed: I|and|my|partner|are|very|interested|in|going|on|this|End
+        -
+          sentence: However my partner has very strict dietary requirements and cannot eat rice, fish and meat.
+          clozed: However|my|partner|has|very|strict|dietary|requirements|and|cannot|eat|fish|and|End
+    inquiry_1:
+      identifier: cruise inquiry 1
+      sentences:
+        -
+          sentence: I am worried the food will not be suitable.
+          clozed: I|am|worried|the|food|will|not|be|End
+        -
+          sentence: I am wondering if any special arrangements can be made for Chris.
+          clozed: I|am|wondering|if|any|special|arrangements|can|be|made|for|End
+    inquiry_2:
+      identifier: cruise inquiry 1
+      sentences:
+        -
+          sentence: My friends, although interested in this cruise, are unable to go in November, so I would be grateful if this cruise could be repeated.
+          clozed: My|although|interested|in|this|are|unable|to|go|in|so|I|would|be|grateful|if|this|cruise|could|be|End
+        -
+          sentence: My friends are also interested in this cruise, but are unable to go on the dates in the advertisement, so I'm wondering if this cruise will be repeated.
+          clozed: My|friends|are|also|interested|in|this|but|are|unable|to|go|on|the|dates|in|the|so|I'm|wondering|if|this|cruise|will|be|End
+    inquiry_3:
+      identifier: cruise inquiry 1
+      sentences:
+        -
+          sentence: My partner and I are expectantly waiting for you reply, and would appreciate receiving it before August 15, so we can start making plans for the cruise.
+          clozed: My|partner|and|I|are|expectantly|waiting|for|you|and|would|appreciate|receiving|it|before|August|so|we|can|start|making|plans|for|the|End
+        -
+          sentence: As we are now planning our winter activities, I would be grateful if I could receive your reply before August 15.
+          clozed: As|we|are|now|planning|our|winter|I|would|be|grateful|if|I|could|receive|your|reply|before|August|End
+    
     0:
       identifier: p59 acknowledge
       sentences:
