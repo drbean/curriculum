@@ -437,6 +437,84 @@ polluters:
             - Talk to friends
             - Talk to Carla's uncle
           answer: Talk to Carla's uncle
+    first_5th:
+      identifier: polluters
+      quiz:
+        - question: What happened to the fish?
+          option:
+            - They're in the water.
+            - They're dead.
+            - They're coming up for air.
+          answer: They're dead.
+        - question: What is the cause of the problem?
+          option:
+            - global warming
+            - rise in sea level
+            - chemicals in the water
+          answer: chemicals in the water
+        - question: What action is causing this problem?
+          option:
+            - factory pumping chemicals into the water
+            - TV stations running stories about pollution
+            - Andy and Carla's concern about the river
+          answer: factory pumping chemicals into the water
+        - question: What will Andy and Carla do first?
+          option:
+            - Talk to company representatives
+            - Go on TV and talk to reporters
+            - Talk to Carla's uncle
+          answer: Talk to company representatives
+        - question: What will Andy and Carla do if the first plan doesn't work?
+          option:
+            - Talk to company representatives
+            - Get a TV station to report the story
+            - Talk to Carla's uncle
+          answer: Get a TV station to report the story
+        - question: Who is Carla's uncle?
+          option:
+            - a fisherman
+            - a TV reporter
+            - a company executive
+          answer: a company executive
+    second_5th:
+      identifier: polluters
+      quiz:
+        - question: What is one thing they express concern about?
+          option:
+            - Making sure the factory will do something
+            - Making sure the condition of the river is as it appears
+            - Making sure their friends will help them
+          answer: Making sure the condition of the river is as it appears
+        - question: Are they going to talk to people straight away?
+          option:
+            - No, they decide not to do anything.
+            - No, they decide to check the river for a few weeks.
+            - Yes, they decide to talk to Carla's uncle.
+          answer: No, they decide to check the river for a few weeks.
+        - question: What will they do to check the river?
+          option:
+            - Take pictures and water samples
+            - Enter the river to see the pollution
+            - Catch fish and check they're OK
+          answer: Take pictures and water samples
+        - question: Who will help them in the next few weeks?
+          option:
+            - Friends
+            - TV station reporters
+            - Carla's uncle
+          answer: Friends
+        - question: What will they do if they find the condition of the river is NOT as bad as they thought.
+          option:
+            - Do nothing
+            - Talk to reporters
+            - Talk to Carla's uncle
+          answer: Do nothing
+        - question: What will they do if they find the condition of the river IS as bad as they thought.
+          option:
+            - Do nothing
+            - Talk to friends
+            - Talk to Carla's uncle
+          answer: Talk to Carla's uncle
     1:
       identifier: 1. buck_andy
       A: Andy wants you to do something about the chemicals that your company, Avox Industries is pumping into the river. You tell him you will check the chemicals in the water.
