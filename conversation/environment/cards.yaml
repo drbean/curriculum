@@ -318,6 +318,27 @@ to_do:
         -
           - One way to help people who lose their jobs is ..
           - to start free vocational training programs.
+    1:
+      identifier: thing to do
+      pair:
+        -
+          - The best way to fight poverty is ..
+          - to create more jobs for poor people.
+        -
+          - One way to reduce government corruption is ..
+          - to make politicians accountable for decisions.
+        -
+          - One way to reduce unemployment is ..
+          - to start free vocational re-training programs.
+        -
+          - The best way to stop global warming is ..
+          - to increase the use of cleaner energy.
+        -
+          - One way to help the homeless is ..
+          - to build more public shelters.
+        -
+          - One way to improve air quality is ..
+          - to increase the use of electric vehicles on roads.
 polluters:
   jigsaw:
     first:
