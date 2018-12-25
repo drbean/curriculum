@@ -163,7 +163,7 @@ passive:
             -
               error: ^(?!.*have been contaminated.*)
               feedback: Use the words, "have been contaminated."
-              
+
         - question: Acid rain has eroded statues and buildings. (as a result of)
           answer:
             - Statues and buildings have been eroded as a result of acid rain.
@@ -197,6 +197,78 @@ passive:
             -
               error: ^(?!.*is being accelerated.*)
               feedback: Use the words, "is being accelerated."
+    1:
+      identifier: environmental problem passives
+      quiz:
+        - question: High emissions of carbon dioxide are causing climate changes. (by)
+          answer: 
+            - Climate changes are being caused by high emissions of carbon dioxide.
+          incorrect:
+            -
+              error: ^(?!.*Climate changes.*)
+              feedback: Use all the words, "Climate changes"
+            -
+              error: ^(?!.*are being caused by.*)
+              feedback: Use the words, "are being caused by"
+                
+        - question: Livestock farms have contaminated soil and underground water. (because of)
+          answer:
+            - The soil and underground water has been contaminated because of livestock farms.
+            - The soil and underground water have been contaminated because of livestock farms\.
+          incorrect:
+            -
+              error: ^(?!.*The soil and underground water.*)
+              feedback: Use the words, "The soil and underground water"
+            
+            -
+              error: ^(?!.*have been contaminated because of.*)
+              feedback: Use the words, "have been contaminated because of"
+              
+        - question: Water pollution has threatened the health of people all over the world. (due to)
+          answer:
+            - The health of people all over the world has been threatened due to water pollution.
+          incorrect:
+            -
+              error: ^(?!.*The health of people all over the world.*)
+              feedback: Use the words, "The health of people all over the world"
+            -
+              error: ^(?!.*has been threatened due to .*)
+              feedback: Use the words, "has been threatened due to "
+        - question: Oil spills are harming birds, fish and other marine life. (through)
+          answer:
+            - Birds, fish and other marine life are being harmed through oil spills.
+          incorrect:
+            -
+              error: ^(?!.*Birds, fish and other marine life.*)
+              feedback: Use the words, "Birds, fish and other marine life"
+            -
+              error: ^(?!.*are being harmed through.*)
+              feedback: Use the words, "are being harmed through"
+        - question: Rapid urbanization is depleting our natural resources. (through)
+          answer:
+            - Our natural resources are being depleted through rapid urbanization.
+          incorrect:
+            -
+              error: ^(?!.*Our natural resources.*)
+              feedback: Use the words, "Our natural resources"
+            -
+              error: ^(?!.*are being depleted through.*)
+              feedback: Use the words, "are being depleted through"
+            
+        - question: The destruction of rain forests is accelerating the extinction of plants and wildlife. (as a result of)
+          answer:
+            - The extinction of plants and wildlife is being accelerated as a result of the destruction of rain forests.
+            - Extinction of plants and wildlife is being accelerated as a result of the destruction of rain forests\.
+            - Plants? and wildlife extinction is being accelerated as a result of the destruction of rain forests\.
+            - Plants? and wildlife extinction is being accelerated as a result of rain forests? destruction\.
+          incorrect:
+            -
+              error: ^(?!.*The extinction of plants and wildlife.*)
+              feedback: Use the words, "The extinction of plants and wildlife"
+            
+            -
+              error: ^(?!.*is being accelerated as a result of.*)
+              feedback: Use the words, "is being accelerated as a result of"
 problem:
   jigsaw:
     0:
