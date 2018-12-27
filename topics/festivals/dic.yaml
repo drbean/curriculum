@@ -81,6 +81,19 @@
   - "topics"
   - "all"
   - |+
+    A: Hi, Larry. What are you doing?
+    B: I'm standing in line.
+    A: I see. Wow, this line is really long. When did you get here?
+    B: A long time ago. It was in the morning.
+    A: It's six o'clock now. You're not even at the front yet. What are you waiting for?
+    B: I want to buy tickets to the music festival.
+  - Hi, Larry. What|you|I'm|in|I see. Wow, this|is really|When|you|here|A long time|It was in the|It's|now|You're not|at the|yet|What are you|I want to buy|to the|End
+-
+  - "tomato-3"
+  - "tomato"
+  - "topics"
+  - "all"
+  - |+
     Every year, there is a tomato festival in Spain. It starts with music. People dance. There are also fireworks and parades. Then, many trucks come that are filled with tomatoes. People take the tomatoes and throw them at each other. It is the world's biggest food fight. It is a big mess. After the festival, people clean the town.
   - tomato|Spain|dance|parades|trucks|filled|tomatoes|tomatoes|throw|fight|mess|clean|End
 -
