@@ -452,6 +452,31 @@ scramble:
         -
           sentence: Your bicycles are becoming very popular in Taiwan, but there is no local distributor here.
           clozed: Your|bicycles|are|becoming|very|popular|in|Taiwan,|but|there|is|no|local|distributor|here.
+acknowledge:
+  drag:
+    0:
+      identifier: thanking
+      sentences:
+        -
+          sentence: Thank you for your letter dated January 12, 2019 regarding the mountain bicycles we advertised in Cycle_Magazine.
+          clozed: Thank|you|for|your|letter|dated|January|2019|regarding|the|mountain|bicycles|we|advertised|in|End
+        -
+          sentence: I was very pleased to receive your inquiry of December 29, 2018 about our candy.
+          clozed: I|was|very|pleased|to|receive|your|inquiry|of|December|2018|about|our|End
+        -
+          sentence: I have received your inquiry dated July 31 regarding our November cruise around Taiwan.
+          clozed: I|have|received|your|inquiry|dated|July|regarding|our|November|cruise|around|End
+    1:
+      identifier: delay
+      sentences:
+        -
+          sentence: Unfortunately, we have already sold all the mountain bicyles we advertised, and are waiting for further supplies.
+          clozed: we|have|already|sold|all|the|mountain|bicyles|we|and|are|waiting|for|further|End
+        -
+          sentence: Unfortunately, we have already distributed all the catalogues we printed, and are waiting for more copies from the printer.
+          clozed: we|have|already|distributed|all|the|catalogues|we|and|are|waiting|for|more|copies|from|the|End
+
+        
 combining:
   jigsaw:
     0:
