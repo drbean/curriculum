@@ -541,10 +541,69 @@ survey:
       sentences:
         -
           sentence: Dear Alumnus, <p> The School of Business is now conducting a survey which we hope will help in increasing the quality of our courses. We hope to identify the strengths and weaknesses so we can create the best environment possible for our business students. <p> Answering the enclosed survey will help us do this, by identifying the progress our graduates have made in their careers. Our students would also be_helped by having an idea of the salaries they can expect. <p> We promise that all information received will only be released in summary statistics. <p> We are looking_forward to your reply and would ask you to send it before January 31. For your convenience, we are also including a stamped/addressed envelope.
-          
-          clozed: School|now|help|increasing|courses|hope|can|best|business|Answering|identifying|careers|be_helped|promise|looking_forward|ask|convenience|stamped/addressed
+          clozed: School|now|help|increasing|courses|hope|can|best|business|Answering|identifying|careers|be_helped|promise|looking_forward|ask|convenience|stamped/addressed|End
 step:
   jigsaw:
+    comprehension:
+      identifier: comprehension questions
+      quiz:
+        - question: The kind of letter
+          option:
+            - promotion/introduction
+            - inquiry
+            - acknowledgement of inquiry
+            - reply to inquiry
+          answer: inquiry
+        - question: Writer of the letter
+          option:
+            - ABC Candy Company
+            - Canadian candy distributor
+          answer: 
+        - question: Receiver of the letter
+          option:
+            - ABC Candy Company
+            - Canadian candy distributor
+          answer: 
+        - question: Supplier of candy to the other company
+          option:
+            - ABC Candy Company
+            - Canadian candy distributor
+          answer: 
+        - question: Candy advertiser
+          option:
+            - ABC Candy Company
+            - Canadian candy distributor
+          answer: 
+        - question: The company which will receive candy from the other company.
+          option:
+            - ABC Candy Company
+            - Canadian candy distributor
+          answer: 
+        - question: The company which is telling the reader about its New Year plans.
+          option:
+            - ABC Candy Company
+            - Canadian candy distributor
+          answer: 
+        - question: The company which knows something about the other company.
+          option:
+            - ABC Candy Company
+            - Canadian candy distributor
+          answer: 
+        - question: The company which may or may not know anything about the other company.
+          option:
+            - ABC Candy Company
+            - Canadian candy distributor
+          answer: 
+        - question: The company which has some requirements for the inquiry.
+          option:
+            - ABC Candy Company
+            - Canadian candy distributor
+          answer: 
+        - question: The company which expects good results from the inquiry.
+          option:
+            - ABC Candy Company
+            - Canadian candy distributor
+          answer: 
     0:
       identifier: elaine's candy inquiry steps
       quiz:
