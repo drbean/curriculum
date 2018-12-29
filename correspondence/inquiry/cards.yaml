@@ -470,13 +470,41 @@ acknowledge:
       identifier: delay
       sentences:
         -
-          sentence: Unfortunately, we have already sold all the mountain bicyles we advertised, and are waiting for further supplies.
-          clozed: we|have|already|sold|all|the|mountain|bicyles|we|and|are|waiting|for|further|End
+          sentence: I am sorry to tell you we have already sold all the mountain bicyles we advertised, and are waiting for further supplies.
+          clozed: I|am|to|you|we|have|already|sold|all|the|mountain|bicyles|we|and|are|waiting|for|further|End
         -
           sentence: Unfortunately, we have already distributed all the catalogues we printed, and are waiting for more copies from the printer.
           clozed: we|have|already|distributed|all|the|catalogues|we|and|are|waiting|for|more|copies|from|the|End
+        -
+          sentence: I have contacted our cooking staff about your partner's food requirements, but it may take them a few days to reply.
+          clozed: I|have|contacted|our|cooking|about|your|partner's|food|but|it|may|take|them|a|few|days|to|End
+    2:
+      identifier: expected date of reply
+      sentences:
+        -
+          sentence: We expect to get more mountain bicycles next week, and we will email you when they arrive.
+          clozed: We|expect|to|get|more|mountain|bicycles|next|and|we|will|email|you|when|they|End
+        -
+          sentence: The catalogue should arrive on Monday. We will send you a copy when it arrives.
+          clozed: The|catalogue|should|arrive|on|We|will|send|a|copy|when|it|End
+        -
+          sentence: I should be able to tell you by August 3. I will contact you on that date and tell you what is happening.
+          clozed: I|should|be|able|to|tell|you|by|August|I|will|contact|you|on|that|date|tell|you|what|is|End
+    3:
+      identifier: polite close
+      sentences:
+        -
+          sentence: We apologize for not having the bicycles in stock, and we hope that this does not cause you too much inconvenience.
+          clozed: We|for|not|having|the|bicycles|in|and|we|hope|that|this|does|not|cause|you|too|much|End
+        -
+          sentence: Please look forward to receiving the catalogue some time next week.
+          clozed: Please|look|forward|to|receiving|the|catalogue|some|time|next|End
+        -
+          sentence: Thank you for your interest in the cruise and please wait for the information from our cooking staff.
+          clozed: Thank|you|for|your|interest|in|the|cruise|please|wait|for|the|information|from|our|cooking|End
 
-        
+
+
 combining:
   jigsaw:
     0:
