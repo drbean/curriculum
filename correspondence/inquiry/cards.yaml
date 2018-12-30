@@ -274,62 +274,62 @@ golfer:
           option:
             - Lady Golfer
             - Best Golf Supplies
-          answer: 
+          answer: Lady Golfer
         - question: The company replying to the inquiry
           option:
             - Lady Golfer
             - Best Golf Supplies
-          answer: 
+          answer: Best Golf Supplies
         - question: The company which acknowledges the inquiry
           option:
             - Lady Golfer
             - Best Golf Supplies
-          answer: 
+          answer: Best Golf Supplies
         - question: The company which thanks the other company
           option:
             - Lady Golfer
             - Best Golf Supplies
-          answer: 
+          answer: Best Golf Supplies
         - question: The company which does what the other company asked
           option:
             - Lady Golfer
             - Best Golf Supplies
-          answer: 
+          answer: Best Golf Supplies
         - question: The company which provides extra information
           option:
             - Lady Golfer
             - Best Golf Supplies
-          answer: 
+          answer: Best Golf Supplies
         - question: The company which wrote the reply
           option:
             - Lady Golfer
             - Best Golf Supplies
-          answer: 
+          answer: Best Golf Supplies
         - question: The company which will receive the reply
           option:
             - Lady Golfer
             - Best Golf Supplies
-          answer: 
+          answer: Lady Golfer
         - question: The company that expresses hope
           option:
             - Lady Golfer
             - Best Golf Supplies
-          answer: 
+          answer: Best Golf Supplies
         - question: The company that hopes the reply will satisfy the other company
           option:
             - Lady Golfer
             - Best Golf Supplies
-          answer: 
+          answer: Best Golf Supplies
         - question: The company whose response will show that the reply was satisfactory or not
           option:
             - Lady Golfer
             - Best Golf Supplies
-          answer: 
+          answer: Lady Golfer
         - question: The company which after receiving the reply is in the position to take the next step
           option:
             - Lady Golfer
             - Best Golf Supplies
-          answer: 
+          answer: Lady Golfer
 club:
   drag:
     0:
