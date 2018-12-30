@@ -583,6 +583,51 @@ reason:
             - E
           answer: C
 survey:
+  jigsaw:
+    0:
+      identifier: survey comprehension questions
+      quiz:
+        - question: The survey is being carried out to get--
+          option:
+            - graduates to identify the strengths and weaknesses of programs
+            - ideas from graduates to improve programs
+            - information from graduates on how they are doing
+          answer: information from graduates on how they are doing
+        - question: The relationship of the recipients of the survey to Prof Bentley is--
+          option:
+            - businessperson to business expert
+            - ex-student to teacher
+            - no relationship
+          answer: ex-student to teacher
+        - question: The reason that the college doesn't describe itself is this is--
+          option:
+            - a new contact
+            - an existing contact
+          answer: an existing contact
+        - question: The reason that the college doesn't say how it got the reader's address is this is--
+          option:
+            - a new contact
+            - an existing contact
+          answer: an existing contact
+        - question: The reason for Prof Bentley's making this request to the reader to do something for him is to--
+          option:
+            - complete a survey
+            - improve academic programs
+            - send an answer before September 1
+          answer: improve academic programs
+        - question: Additional details Prof Bentley wants are about--
+          option:
+            - recipients' career progress
+            - recipients' involvement in activities
+            - recipients' property
+            - recipients' salaries
+          answer: recipients' salaries
+        - question: The action for which there is a deadline is--
+          option:
+            - sending the survey back
+            - awaiting recipients' replies
+            - enclosing a pre-paid envelope
+          answer: sending the survey back
   drag:
     0:
       identifier: asu survey
@@ -764,7 +809,7 @@ cruise:
           sentence: I am wondering if any special arrangements can be made for Chris.
           clozed: I|am|wondering|if|any|special|arrangements|can|be|made|for|End
     inquiry_2:
-      identifier: cruise inquiry 1
+      identifier: cruise inquiry 2
       sentences:
         -
           sentence: My friends, although interested in this cruise, are unable to go in November, so I would be grateful if this cruise could be repeated.
@@ -773,11 +818,11 @@ cruise:
           sentence: My friends are also interested in this cruise, but are unable to go on the dates in the advertisement, so I'm wondering if this cruise will be repeated.
           clozed: My|friends|are|also|interested|in|this|but|are|unable|to|go|on|the|dates|in|the|so|I'm|wondering|if|this|cruise|will|be|End
     inquiry_3:
-      identifier: cruise inquiry 1
+      identifier: cruise inquiry 3
       sentences:
         -
-          sentence: My partner and I are expectantly waiting for you reply, and would appreciate receiving it before August 15, so we can start making plans for the cruise.
-          clozed: My|partner|and|I|are|expectantly|waiting|for|you|and|would|appreciate|receiving|it|before|August|so|we|can|start|making|plans|for|the|End
+          sentence: My partner and I are expectantly waiting for your reply, and would appreciate receiving it before August 15, so we can start making plans for the cruise.
+          clozed: My|partner|and|I|are|expectantly|waiting|for|your|and|would|appreciate|receiving|it|before|August|so|we|can|start|making|plans|for|the|End
         -
           sentence: As we are now planning our winter activities, I would be grateful if I could receive your reply before August 15.
           clozed: As|we|are|now|planning|our|winter|I|would|be|grateful|if|I|could|receive|your|reply|before|August|End
