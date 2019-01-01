@@ -349,32 +349,32 @@ pollution:
           option:
             - Dalton
             - not Dalton
-          answer: 
+          answer: not Dalton
         - question: B
           option:
             - Dalton
             - not Dalton
-          answer: 
+          answer: Dalton
         - question: the person with the old phone
           option:
             - Dalton
             - not Dalton
-          answer: 
+          answer: Dalton
         - question: the person with the new laptop
           option:
             - Dalton
             - not Dalton
-          answer: 
+          answer: Dalton
         - question: the problem
           option:
             - electricity
             - old devices/appliances
-          answer:
+          answer: old devices/appliances
         - question: the difference of opinion of the 2 people
           option:
             - small
             - large
-          answer: 
+          answer: small
     2:
       identifier: Kendall on water pollution
       quiz:
