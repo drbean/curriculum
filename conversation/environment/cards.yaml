@@ -456,21 +456,21 @@ polluters:
           option:
             - factory pumping chemicals into the water
             - TV stations running stories about pollution
-            - Andy and Carla's concern about the river
+            - Cindy and Otis's concern about the river
           answer: factory pumping chemicals into the water
-        - question: What will Andy and Carla do first?
+        - question: What will Cindy and Otis do first?
           option:
             - Talk to company representatives
             - Go on TV and talk to reporters
-            - Talk to Carla's uncle
+            - Talk to Otis's uncle
           answer: Talk to company representatives
-        - question: What will Andy and Carla do if the first plan doesn't work?
+        - question: What will Cindy and Otis do if the first plan doesn't work?
           option:
             - Talk to company representatives
             - Get a TV station to report the story
-            - Talk to Carla's uncle
+            - Talk to Otis's uncle
           answer: Get a TV station to report the story
-        - question: Who is Carla's uncle?
+        - question: Who is Otis's uncle?
           option:
             - a fisherman
             - a TV reporter
@@ -489,7 +489,7 @@ polluters:
           option:
             - No, they decide not to do anything.
             - No, they decide to check the river for a few weeks.
-            - Yes, they decide to talk to Carla's uncle.
+            - Yes, they decide to talk to Otis's uncle.
           answer: No, they decide to check the river for a few weeks.
         - question: What will they do to check the river?
           option:
@@ -501,20 +501,20 @@ polluters:
           option:
             - Friends
             - TV station reporters
-            - Carla's uncle
+            - Otis's uncle
           answer: Friends
         - question: What will they do if they find the condition of the river is NOT as bad as they thought.
           option:
             - Do nothing
             - Talk to reporters
-            - Talk to Carla's uncle
+            - Talk to Otis's uncle
           answer: Do nothing
         - question: What will they do if they find the condition of the river IS as bad as they thought.
           option:
             - Do nothing
             - Talk to friends
-            - Talk to Carla's uncle
-          answer: Talk to Carla's uncle
+            - Talk to Otis's uncle
+          answer: Talk to Otis's uncle
     1:
       identifier: 1. buck_andy
       A: Andy wants you to do something about the chemicals that your company, Avox Industries is pumping into the river. You tell him you will check the chemicals in the water.
@@ -625,6 +625,37 @@ problem_solution:
             - right, top-row picture
             - bottom-row picture
           answer: bottom-row picture
+    1:
+      identifier: problem_solution
+      quiz:
+        - question: reducing crime
+          option:
+            - left, top-row picture
+            - right, top-row picture
+            - left, bottom-row picture
+            - right bottom-row picture
+          answer: left, top-row picture
+        - question: keeping water supplies safe
+          option:
+            - left, top-row picture
+            - right, top-row picture
+            - left, bottom-row picture
+            - right bottom-row picture
+          answer: right, top-row picture
+        - question: improving children's health
+          option:
+            - left, top-row picture
+            - right, top-row picture
+            - left, bottom-row picture
+            - right bottom-row picture
+          answer: left, bottom-row picture
+        - question: improving traffic and mobility
+          option:
+            - left, top-row picture
+            - right, top-row picture
+            - left, bottom-row picture
+            - right bottom-row picture
+          answer: right bottom-row picture
 tipping_point:
   jigsaw:
     0:
