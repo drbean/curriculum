@@ -316,32 +316,32 @@ pollution:
           option:
             - Morgan
             - not Morgan
-          answer: 
+          answer: Morgan
         - question: B
           option:
             - Morgan
             - not Morgan
-          answer: 
+          answer: not Morgan
         - question: the person with trash
           option:
             - Morgan
             - not Morgan
-          answer: 
-        - question: the person who wants the trash to be sorted and recycled.
+          answer: not Morgan
+        - question: the person who wants the trash to be sorted/recycled.
           option:
             - Morgan
             - not Morgan
-          answer: 
+          answer: Morgan
         - question: the problem
           option:
             - landfills
             - poor farmland
-          answer:
+          answer: landfills
         - question: the difference of opinion of the 2 people
           option:
             - small
             - large
-          answer: 
+          answer: large
     1:
       identifier: Dalton on e-waste
       quiz:
