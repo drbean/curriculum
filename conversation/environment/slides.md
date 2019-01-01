@@ -45,13 +45,13 @@ Remember to add the extension, .mp3, .m4a, etc to the end of the file you upload
 
 Upload a file under your own name, if you want to be sure Dr Bean won't make a mistake with your grade.
 
-## Recording 3 of 12--problem/solution
+## Recording 9th of 9--social problem, solution
 
-Ask your partner questions about the issues on p 48. Drug trafficking, improving children's health, keeping parks clean, and reducing unemployment
+Ask your partner questions about the issues on p 48. Or drug trafficking, improving children's health, keeping parks clean, and reducing unemployment
 
 30 seconds. Each person must ask his/her questions and answer 2 questions from their partner.
 
-This is the 3rd of 12 conversations. They are worth 40 percent of your grade.
+This is the last of 9 conversations. They are worth 40 percent of your grade.
 
 Identify yourself clearly. Say, "I'm John."
 
