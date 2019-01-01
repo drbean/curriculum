@@ -382,32 +382,32 @@ pollution:
           option:
             - Kendall
             - not Kendall
-          answer: 
+          answer: Kendall
         - question: B
           option:
             - Kendall
             - not Kendall
-          answer: 
+          answer: not Kendall
         - question: the person with most concern about water pollution
           option:
             - Kendall
             - not Kendall
-          answer: 
-        - question: the person with most questions about water pollution
+          answer: Kendall
+        - question: the person with questions about water pollution
           option:
             - Kendall
             - not Kendall
-          answer: 
+          answer: not Kendall
         - question: the problem
           option:
-            - ocean pollution
             - drinking water
-          answer:
+            - plastics in the sea
+          answer: drinking water
         - question: the difference of opinion of the 2 people
           option:
             - small
             - large
-          answer: 
+          answer: small
 to_do:
   match:
     0:
