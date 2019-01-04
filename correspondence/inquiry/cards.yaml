@@ -924,6 +924,11 @@ cruise:
             - potential cruise participant and/or partner
             - Luxury Cruises
           answer: 
+        - question: Who put the advertisement in the Taipei Times?
+          option:
+            - potential cruise participant and/or partner
+            - Luxury Cruises
+          answer: 
         - question: Who was interested by the Taipei Times advertisement?
           option:
             - potential cruise participant and/or partner
@@ -969,7 +974,17 @@ cruise:
             - potential cruise participant and/or partner
             - Luxury Cruises
           answer: 
-        qo
+        - question: Who knows the details about the cruise?
+          option:
+            - potential cruise participant and/or partner
+            - Luxury Cruises
+          answer: 
+        - question: Who will be expected to answer before the deadline?
+          option:
+            - potential cruise participant and/or partner
+            - Luxury Cruises
+          answer: 
+
     1:
       identifier: inquiry acknowledging structure
       quiz:
