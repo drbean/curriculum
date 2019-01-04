@@ -908,83 +908,82 @@ cruise:
           option:
             - potential cruise participant and/or partner
             - Luxury Cruises
-          answer: 
+          answer: potential cruise participant and/or partner
         - question: Who is organizing a cruise around Taiwan?
           option:
             - potential cruise participant and/or partner
             - Luxury Cruises
-          answer: 
+          answer: Luxury Cruises
         - question: Who is making the inquiry?
           option:
             - potential cruise participant and/or partner
             - Luxury Cruises
-          answer: 
+          answer: potential cruise participant and/or partner
         - question: Who will receive the inquiry?
           option:
             - potential cruise participant and/or partner
             - Luxury Cruises
-          answer: 
+          answer: Luxury Cruises
         - question: Who put the advertisement in the Taipei Times?
           option:
             - potential cruise participant and/or partner
             - Luxury Cruises
-          answer: 
+          answer: Luxury Cruises
         - question: Who was interested by the Taipei Times advertisement?
           option:
             - potential cruise participant and/or partner
             - Luxury Cruises
-          answer: 
+          answer: potential cruise participant and/or partner
         - question: Who will answer the inquiry?
           option:
             - potential cruise participant and/or partner
             - Luxury Cruises
-          answer: 
+          answer: Luxury Cruises
         - question: Who will be waiting for a response to the inquiry?
           option:
             - potential cruise participant and/or partner
             - Luxury Cruises
-          answer: 
+          answer: potential cruise participant and/or partner
         - question: Who will know whether the cruise will be repeated or not?
           option:
             - potential cruise participant and/or partner
             - Luxury Cruises
-          answer: 
+          answer: Luxury Cruises
         - question: Whose friends want to go on a cruise?
           option:
             - potential cruise participant and/or partner
             - Luxury Cruises
-          answer: 
+          answer: potential cruise participant and/or partner
         - question: Who will mention seeing the advertisement in the inquiry?
           option:
             - potential cruise participant and/or partner
             - Luxury Cruises
-          answer: 
+          answer: potential cruise participant and/or partner
         - question: Who will set a deadline in the inquiry?
           option:
             - potential cruise participant and/or partner
             - Luxury Cruises
-          answer: 
-        - question: Who will express confidence in the inquiry?
+          answer: potential cruise participant and/or partner
+        - question: Who will express confidence in the inquiry being answered?
           option:
             - potential cruise participant and/or partner
             - Luxury Cruises
-          answer: 
+          answer: potential cruise participant and/or partner
         - question: Who wants details about the cruise?
           option:
             - potential cruise participant and/or partner
             - Luxury Cruises
-          answer: 
+          answer: potential cruise participant and/or partner
         - question: Who knows the details about the cruise?
           option:
             - potential cruise participant and/or partner
             - Luxury Cruises
-          answer: 
+          answer: Luxury Cruises
         - question: Who will be expected to answer before the deadline?
           option:
             - potential cruise participant and/or partner
             - Luxury Cruises
-          answer: 
-
+          answer: Luxury Cruises
     1:
       identifier: inquiry acknowledging structure
       quiz:
