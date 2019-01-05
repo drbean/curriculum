@@ -53,7 +53,7 @@ raspberry:
              - Inquiry/request
              - source of knowledge about company written to
            answer: information about writer's company
-         - question: We are interested in becoming an exclusive distributor
+         - question: If we became a distributor, would you be willing for us to be an exclusive distributor?
            option:
              - Details (eg reason)
              - Expression of confidence in satisfactory result.
@@ -77,7 +77,7 @@ raspberry:
              - Inquiry/request
              - source of knowledge about company written to
            answer: Expression of confidence in satisfactory result.
-         - question: We understand you have no distribution arrangement in Taiwan. What conditions would you require for us to become a Raspberry Pi distributor in the Taiwanese market?
+         - question: We understand you have no distribution arrangement in Taiwan. We are interested in becoming a Raspberry Pi distributor in the Taiwanese market? Is this possible?
            option:
              - Details (eg reason)
              - Expression of confidence in satisfactory result.
