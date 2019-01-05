@@ -145,22 +145,22 @@ definition:
           option:
             - The writer asks the reader their opinion about the writer's product/service to get evaluations that can be shown to other customers.
             - The writer tells the reader about the writer's product/service in the hope the reader will be interested in it and want to use it or know more.
-          answer: 
+          answer: The writer tells the reader about the writer's product/service in the hope the reader will be interested in it and want to use it or know more.
         - question: inquiry
           option:
             - The writer asks the reader something about the product/service which the reader has.
             - The writer asks the reader to send the product/service which the writer is interested in.
-          answer: 
+          answer: The writer asks the reader something about the product/service which the reader has.
         - question: offer/quotation
           option:
-            - The writer tells the reader that a product/service is being sent to the reader.
             - The writer asks if the reader wants a product/service for a price set by the writer.
-          answer: 
+            - The writer tells the reader that a product/service is being sent to the reader.
+          answer: The writer asks if the reader wants a product/service for a price set by the writer.
         - question: order
           option:
-            - The writer tells the reader that payment has been sent for a product/service which the writer has bought from the reader.
             - The writer asks the reader to give the writer a product/service which belongs to the reader and for which payment will be made.
-          answer: 
+            - The writer tells the reader that payment has been sent for a product/service which the writer has bought from the reader.
+          answer: The writer asks the reader to give the writer a product/service which belongs to the reader and for which payment will be made.
   match:
     0:
       identifier: first 10 definition matches
