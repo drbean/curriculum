@@ -31,7 +31,7 @@ Write the To:, From, and Subject: lines. In the body, write one paragraph. At th
 
 In Week 12, you wrote the cover email Tom Farrell, the chairperson of the Business Management Department sent to teachers in the department about Henry Kendall, a top businessman who was visiting the department. All the staff knew about the visit, but they may not have known much about Kendall. For their information, you sent them kendall.pdf, a file with some highlights of Kendall's career.
 
-Now, look at p 42. The situation on p 42 is different. It is confusing. IGNORE IT. You are going to write a cover letter for a simpler situation, just like the one you did for homework.
+Now, look at p 42. The situation on p 42 is different. It is confusing. IGNORE IT. You are going to write a cover letter for a simpler situation in the Language Center in which the chairperson sends teachers a file, a situation just like the one you did for homework.
 
 You are going to substitute Tracy Cheng for Tom Farrell. Substitute the Language Center for the Business Management Department. Substitute John Flowerdew, a top linguist for Henry Kendall, a top businessman. Substitute flowerdew.pdf for kendall.pdf.
 
