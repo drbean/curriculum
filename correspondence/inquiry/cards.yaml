@@ -45,46 +45,46 @@ raspberry:
     0:
       identifier: raspberry inquiry structure
       quiz:
-         - question: We have heard a lot about the Raspberry Pi
-           option:
-             - 1a. source of knowledge about company written to
-             - 1b. information about writer's company
-             - 2.  Inquiry/request
-             - 3.  Details (eg reason)
-             - 4.  Expression of confidence in satisfactory result.
-           answer:  1a. source of knowledge about company written to
          - question: We are a large marketer of computers in Taiwan.
            option:
-             - 1a. source of knowledge about company written to
-             - 1b. information about writer's company
-             - 2.  Inquiry/request
-             - 3.  Details (eg reason)
-             - 4.  Expression of confidence in satisfactory result.
-           answer:  1b. information about writer's company
-         - question: We understand you have no distribution arrangement in Taiwan. What conditions would you require for us to become a Raspberry Pi distributor in the Taiwanese market?
-           option:
-             - 1a. source of knowledge about company written to
-             - 1b. information about writer's company
-             - 2.  Inquiry/request
-             - 3.  Details (eg reason)
-             - 4.  Expression of confidence in satisfactory result.
-           answer:  2.  Inquiry/request
+             - Details (eg reason)
+             - Expression of confidence in satisfactory result.
+             - information about writer's company
+             - Inquiry/request
+             - source of knowledge about company written to
+           answer: information about writer's company
          - question: We are interested in becoming an exclusive distributor
            option:
-             - 1a. source of knowledge about company written to
-             - 1b. information about writer's company
-             - 2.  Inquiry/request
-             - 3.  Details (eg reason)
-             - 4.  Expression of confidence in satisfactory result.
-           answer:  3.  Details (eg reason)
+             - Details (eg reason)
+             - Expression of confidence in satisfactory result.
+             - information about writer's company
+             - Inquiry/request
+             - source of knowledge about company written to
+           answer: Details (eg reason)
+         - question: We have heard a lot about the Raspberry Pi
+           option:
+             - Details (eg reason)
+             - Expression of confidence in satisfactory result.
+             - information about writer's company
+             - Inquiry/request
+             - source of knowledge about company written to
+           answer: source of knowledge about company written to
          - question: We look forward to hearing from you.
            option:
-             - 1a. source of knowledge about company written to
-             - 1b. information about writer's company
-             - 2.  Inquiry/request
-             - 3.  Details (eg reason)
-             - 4.  Expression of confidence in satisfactory result.
-           answer:  4.  Expression of confidence in satisfactory result.
+             - Details (eg reason)
+             - Expression of confidence in satisfactory result.
+             - information about writer's company
+             - Inquiry/request
+             - source of knowledge about company written to
+           answer: Expression of confidence in satisfactory result.
+         - question: We understand you have no distribution arrangement in Taiwan. What conditions would you require for us to become a Raspberry Pi distributor in the Taiwanese market?
+           option:
+             - Details (eg reason)
+             - Expression of confidence in satisfactory result.
+             - information about writer's company
+             - Inquiry/request
+             - source of knowledge about company written to
+           answer: Inquiry/request
          
 golfer:
   match:
