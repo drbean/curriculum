@@ -149,6 +149,29 @@ subject:
             - good
             - bad
           answer: bad
+    2:
+      identifier: good/bad lines
+      quiz:
+        - question: "Subject: How about we meet you @ Miaoli Immigration Office @ 11am?? Our phone is always 037-674516"
+          option:
+            - good subject line
+            - bad subject line
+          answer: bad subject line
+        - question: "Subject: 為利各機構瞭解科技部補助「領袖學者助攻方案－沙克爾頓計畫」相關內容，於108年1月9日及16日特舉辦說明會。"
+          option:
+            - good subject line
+            - bad subject line
+          answer: bad subject line
+        - question: "Subject: 攔截的郵件明細"
+          option:
+            - good subject line
+            - bad subject line
+          answer: good subject line
+        - question: "Subject: 70-year-old limit on employment"
+          option:
+            - good subject line
+            - bad subject line
+          answer: good subject line
     appropriate:
       identifier: subject
       quiz:
