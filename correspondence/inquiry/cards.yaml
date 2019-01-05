@@ -40,10 +40,10 @@ correspondence:
           - "promotion: No expression of confidence"
         
         
-inquiry:
+raspberry:
   jigsaw:
     0:
-      identifier: inquiry structure
+      identifier: raspberry inquiry structure
       quiz:
          - question: We have heard a lot about the Raspberry Pi
            option:
