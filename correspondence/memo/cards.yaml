@@ -624,3 +624,24 @@ genre:
             - memo
             - note
           answer: memo
+    described:
+      identifier: described, abstract examples
+      quiz:
+        - question: A communication from the school telling students about arrangements for the substitute holiday, December 31
+          option:
+            - notice
+            - memo
+            - note
+          answer: notice
+        - question: A communication from Hsiao-Fang Cheng telling Language Center teachers about the arrangements they should make for the substitute holiday, December 31
+          option:
+            - notice
+            - memo
+            - note
+          answer: memo
+        - question: A communication from Dr Bean telling the assistant in the Language Center teachers about the arrangements he has made for the substitute holiday, December 31
+          option:
+            - notice
+            - memo
+            - note
+          answer: note
