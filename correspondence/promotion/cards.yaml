@@ -451,13 +451,45 @@ kendall:
         -
           - "Call to action:"
           - "Check out our website, or give us a call. We would love to send you some samples."
-        
-        
-        
-        
-        
-
-    
+  jigsaw:
+    0:
+      identifier: selling points, genre of soup email
+      quiz:
+        - question: What is the genre of the previous email about the Taiwanese soup manufacturer?
+          option:
+            - promotion/introduction with new contact
+            - promotion/introduction with existing contact
+            - inquiry
+            - acknowledgment of inquiry
+            - reply to inquiry
+          answer: promotion/introduction with new contact
+        - question: The writer?
+          option:
+            - a soup eater in Japan
+            - an importer of Taiwanese food in Japan
+            - a Taiwanese food exporter 
+            - a Taiwanese food manufacturer
+          answer: a Taiwanese food manufacturer
+        - question: The reader?
+          option:
+            - a soup eater in Japan
+            - an importer of Taiwanese food in Japan
+            - a Taiwanese food exporter 
+            - a Taiwanese food manufacturer
+          answer: an importer of Taiwanese food in Japan
+        - question: What is special about the soup?
+          option:
+            - It has different tastes
+            - It's fresh
+            - It's in a can
+          answer: It's fresh
+        - question: What is the purpose of the email?
+          option:
+            - to advertise the soup to Japanese consumers 
+            - to get distribution in Japan
+            - to get Japanese food people to check the website
+            - to give samples to lovers of the soup
+          answer: to get distribution in Japan
 step:
   match:
     0:
