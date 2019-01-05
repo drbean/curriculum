@@ -388,6 +388,52 @@ list:
             -   3. indentation of following lines
             -   4. None of the above
           answer: 1. introductory information
+    2:
+      identifier: list
+      quiz:
+        - question: |+
+            Here is a memo:
+            \n
+            To: All staff
+            From: Paul Smith
+            Subject: Inspection
+            \n
+            The problem is:
+          option:
+            -   1. introductory information
+            -   2. Same indentation of list items
+            -   3. indentation of following lines
+            - 4. None of the above
+          answer: 2. Same indentation of list items 
+        - question: |+
+            Here is a list:
+              1. The list at the top on page 33 doesn't follow
+              the recommendations for lists.
+              2. The unobserved recommendation in the list at
+              the top on page 33 is
+              3. Item 3 is not long
+              4. Item 4 is short
+            \n
+            The problem is:
+          option:
+            -   1. introductory information
+            -   2. Same indentation of list items
+            -   3. indentation of following lines
+            -   4. None of the above
+          answer: 3. indentation of following lines
+        - question: |+
+            1. Item 1
+            2. Item 2
+            3. Item 3
+            4. Item 4
+            \n
+            The problem is:
+          option:
+            -   1. introductory information
+            -   2. Same indentation of list items
+            -   3. indentation of following lines
+            -   4. None of the above
+          answer: 1. introductory information
 bold:
   jigsaw:
     0:
