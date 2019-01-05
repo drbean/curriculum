@@ -27,3 +27,15 @@ Write the cover email for this file. It only needs to be two sentences in one pa
 
 Write the To:, From, and Subject: lines. In the body, write one paragraph. At the end, write Attachment: and the name of the file.
 
+## cover email for Flowerdew visit
+
+In Week 12, you wrote the cover email Tom Farrell, the chairperson of the Business Management Department sent to teachers in the department about Henry Kendall, a top businessman who was visiting the department. All the staff knew about the visit, but they may not have known much about Kendall. For their information, you sent them kendall.pdf, a file with some highlights of Kendall's career.
+
+Now, look at p 42. The situation on p 42 is different. It is confusing. IGNORE IT. You are going to write a cover letter for a simpler situation, just like the one you did for homework.
+
+You are going to substitute Tracy Cheng for Tom Farrell. Substitute the Language Center for the Business Management Department. Substitute John Flowerdew, a top linguist for Henry Kendall, a top businessman. Substitute flowerdew.pdf for kendall.pdf.
+
+Write the cover email for this file, flowerdew.pdf. It only needs to be two sentences in one paragraph, the first saying Flowerdew is visiting and the second saying what you are attaching. There is no need for instructions, or to invite feedback, or questions.
+
+Write the To:, From, and Subject: lines. In the body, write one paragraph. At the end, write Attachment: and the name of the file.
+
