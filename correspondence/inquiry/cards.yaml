@@ -1011,6 +1011,105 @@ cruise:
           answer: You said that your partner is a vegetarian.
 
 boiler:
+  jigsaw:
+    0:
+      identifier: boiler comprehension questions
+      quiz:
+        - question: What kind of message came before this one?
+          option:
+            - inquiry
+            - reply to inquiry
+          answer: inquiry
+        - question: What kind of message might come after this one?
+          option:
+            - inquiry
+            - reply to inquiry
+          answer: inquiry
+        - question: What kind of message is this?
+          option:
+            - inquiry
+            - reply to inquiry
+          answer: reply to inquiry
+        - question: Who is making/who made the inquiry?
+          option:
+            - boiler company
+            - Mr Jones
+          answer: Mr Jones
+        - question: Who is replying/who will reply to the inquiry?
+          option:
+            - boiler company
+            - Mr Jones
+          answer: boiler company
+        - question: Who wants the boilers to be checked?
+          option:
+            - boiler company
+            - Mr Jones
+          answer: Mr Jones
+        - question: Who wrote the letter dated August 2?
+          option:
+            - boiler company
+            - Mr Jones
+          answer: Mr Jones
+        - question: Who installed the boilers?
+          option:
+            - boiler company
+            - Mr Jones
+          answer: boiler company
+        - question: Who confirms the boilers were installed 6 months ago?
+          option:
+            - boiler company
+            - Mr Jones
+          answer: boiler company
+        - question: Who is writing this letter?
+          option:
+            - boiler company
+            - Mr Jones
+          answer: boiler company
+        - question: Who believes the boilers should be checked now?
+          option:
+            - boiler company
+            - Mr Jones
+          answer: Mr Jones
+        - question: Who first said it is important that gas appliances be checked?
+          option:
+            - boiler company
+            - Mr Jones
+          answer: Mr Jones
+        - question: Who is happy about the acknowledgment that gas appliances need to be checked?
+          option:
+            - boiler company
+            - Mr Jones
+          answer: boiler company
+        - question: Who says that the boilers should be checked after one year?
+          option:
+            - boiler company
+            - Mr Jones
+          answer: boiler company
+        - question: Who is willing for a check of the boilers to be done on February 2?
+          option:
+            - boiler company
+            - Mr Jones
+          answer: boiler company
+        - question: Who is willing for a check of the boilers to be done for less than the usual fee?
+          option:
+            - boiler company
+            - Mr Jones
+          answer: boiler company
+        - question: Who asks the other party to call?
+          option:
+            - boiler company
+            - Mr Jones
+          answer: boiler company
+        - question: Who has an offer for the other party?
+          option:
+            - boiler company
+            - Mr Jones
+          answer: boiler company
+        - question: Who may not be happy receiving this letter?
+          option:
+            - boiler company
+            - Mr Jones
+          answer: Mr Jones
   match:
     0:
       identifier: boiler first half
@@ -1122,6 +1221,111 @@ book:
         -
           - 5
           - polite expression
+  jigsaw:
+    0:
+      identifier: book inquiry reply questions
+      quiz:
+        - question: What kind of message came before this one?
+          option:
+            - inquiry
+            - reply to inquiry
+          answer: inquiry
+        - question: What kind of message might come after this one?
+          option:
+            - inquiry
+            - reply to inquiry
+          answer: inquiry
+        - question: What kind of message is this?
+          option:
+            - inquiry
+            - reply to inquiry
+          answer: reply to inquiry
+        - question: Who is making/who made the inquiry?
+          option:
+            - book buyer
+            - book publisher
+          answer: book buyer
+        - question: Who is replying/who will reply to the inquiry?
+          option:
+            - book buyer
+            - book publisher
+          answer: book publisher
+        - question: Who is looking for a bookstore?
+          option:
+            - book buyer
+            - book publisher
+          answer: book buyer
+        - question: Who wrote the letter dated November 1?
+          option:
+            - book buyer
+            - book publisher
+          answer: book buyer
+        - question: Who has the book?
+          option:
+            - book buyer
+            - book publisher
+          answer: book publisher
+        - question: Who tells the other party where the book is available?
+          option:
+            - book buyer
+            - book publisher
+          answer: book publisher
+        - question: Who is writing this letter?
+          option:
+            - book buyer
+            - book publisher
+          answer: book publisher
+        - question: Who is acknowledging the other party's message?
+          option:
+            - book buyer
+            - book publisher
+          answer: book publisher
+        - question: Who has a different answer?
+          option:
+            - book buyer
+            - book publisher
+          answer: book publisher
+        - question: Who has extra information?
+          option:
+            - book buyer
+            - book publisher
+          answer: book publisher
+        - question: Who is given a choice in where to get the book?
+          option:
+            - book buyer
+            - book publisher
+          answer: book buyer
+        - question: Who is the promotion in the message directed at?
+          option:
+            - book buyer
+            - book publisher
+          answer: book buyer
+        - question: Who wants to read about Asian restaurants?
+          option:
+            - book buyer
+            - book publisher
+          answer: book buyer
+        - question: Who asks the other party to contact them?
+          option:
+            - book buyer
+            - book publisher
+          answer: book publisher
+        - question: Who has an offer for the other party?
+          option:
+            - book buyer
+            - book publisher
+          answer: book publisher
+        - question: Who will send this letter?
+          option:
+            - book buyer
+            - book publisher
+          answer: book publisher
+        - question: Who will receive this letter?
+          option:
+            - book buyer
+            - book publisher
+          answer: book buyer
+        
 heater:
   scramble:
     0:
