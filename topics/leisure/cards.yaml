@@ -193,3 +193,14 @@ beach:
       playground   : 操場
       beach        : 海灘
       ocean        : 海洋
+activity:
+  0:
+    flash:
+      lake            : 湖    
+      pool            : 游泳池
+      tent            : 帳篷  
+      camp            : 營    
+      hike            : 遠足  
+      movie theater   : 電影院
+      hotel           : 旅館  
+      kid             : 孩子  
