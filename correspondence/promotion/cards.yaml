@@ -490,6 +490,30 @@ kendall:
             - to get Japanese food people to check the website
             - to give samples to lovers of the soup
           answer: to get distribution in Japan
+    1:
+      identifier: exam-prep kendall soup comprehension questions
+      quiz:
+        - question: The packaging of the soup
+          option:
+            - a can
+            - a paper carton
+            - dry, in a plastic packet
+          answer: a paper carton
+        - question: unique feature of the soup
+          option:
+            - Changes depending on season, popularity
+            - Fresh
+            - No additives
+            - Wide variety of tastes
+          answer: Fresh
+        - question: NOT an advertised feature of the soup
+          option:
+            - Changes depending on season, popularity
+            - Fresh
+            - No additives
+            - Wide variety of tastes
+          answer: No additives
+
 step:
   match:
     0:
