@@ -1327,6 +1327,110 @@ book:
           answer: book buyer
         
 heater:
+  jigsaw:
+    0:
+      identifier: heater inquiry comprehension questions
+      quiz:
+        - question: What kind of message will come after this letter in the textbook?
+          option:
+            - inquiry
+            - reply to inquiry
+          answer: reply to inquiry
+        - question: What kind of message might come after this letter in the textbook?
+          option:
+            - inquiry
+            - reply to inquiry
+          answer: reply to inquiry
+        - question: What kind of message is this letter in the textbook?
+          option:
+            - inquiry
+            - reply to inquiry
+          answer: inquiry
+        - question: Who is making/who made the inquiry?
+          option:
+            - hardware store proprietor
+            - heater manufacturer/distributor
+          answer: hardware store proprietor
+        - question: Who is replying/who will reply to the inquiry?
+          option:
+            - hardware store proprietor
+            - heater manufacturer/distributor
+          answer: heater manufacturer/distributor
+        - question: Who is looking for heaters?
+          option:
+            - hardware store proprietor
+            - heater manufacturer/distributor
+          answer: hardware store proprietor
+        - question: Who wrote the letter in the textbook?
+          option:
+            - hardware store proprietor
+            - heater manufacturer/distributor
+          answer: hardware store proprietor
+        - question: Who read the letter in the textbook?
+          option:
+            - hardware store proprietor
+            - heater manufacturer/distributor
+          answer: heater manufacturer/distributor
+        - question: Who has the heaters?
+          option:
+            - hardware store proprietor
+            - heater manufacturer/distributor
+          answer: heater manufacturer/distributor
+        - question: Who will give the other party extra information?
+          option:
+            - hardware store proprietor
+            - heater manufacturer/distributor
+          answer: heater manufacturer/distributor
+        - question: Who will write the next letter?
+          option:
+            - hardware store proprietor
+            - heater manufacturer/distributor
+          answer: heater manufacturer/distributor
+        - question: Who will acknowledge the other party's message?
+          option:
+            - hardware store proprietor
+            - heater manufacturer/distributor
+          answer: heater manufacturer/distributor
+        - question: Who will have extra information?
+          option:
+            - hardware store proprietor
+            - heater manufacturer/distributor
+          answer: heater manufacturer/distributor
+        - question: Who will be given a choice in heaters?
+          option:
+            - hardware store proprietor
+            - heater manufacturer/distributor
+          answer: hardware store proprietor
+        - question: Who will the promotion in a following message be directed at?
+          option:
+            - hardware store proprietor
+            - heater manufacturer/distributor
+          answer: hardware store proprietor
+        - question: Who wants to read information about heaters?
+          option:
+            - hardware store proprietor
+            - heater manufacturer/distributor
+          answer: hardware store proprietor
+        - question: In the letter in the textbook, who asks the other party to contact them?
+          option:
+            - hardware store proprietor
+            - heater manufacturer/distributor
+          answer: hardware store proprietor
+        - question: Who will have an offer for the other party?
+          option:
+            - hardware store proprietor
+            - heater manufacturer/distributor
+          answer: heater manufacturer/distributor
+        - question: Who will send a following letter?
+          option:
+            - hardware store proprietor
+            - heater manufacturer/distributor
+          answer: heater manufacturer/distributor
+        - question: Who will receive a following letter?
+          option:
+            - hardware store proprietor
+            - heater manufacturer/distributor
+          answer: hardware store proprietor
   scramble:
     0:
       identifier: heater scramble
@@ -1352,7 +1456,7 @@ heater:
           sentence: I'm pleased to send you the illustrated catalogue and price list. 
           clozed: I'm|pleased|to|send|you|the|illustrated|catalogue|and|price|End
     1:
-      identifier: reply to inquiry scramble p 63
+      identifier: reply to heater inquiry scramble p 66
       sentences:
         -
           sentence: Please find them attached to this email.
@@ -1361,7 +1465,7 @@ heater:
           sentence: Alternatively, you may be interested in our newest model, the FZ1.
           clozed: Alternatively|you|may|be|interested|in|our|newest|the|End
     2:
-      identifier: reply to inquiry scramble p 63
+      identifier: reply to heater inquiry scramble p 66
       sentences:
         -
           sentence: This model emits 15% more heat without consuming any extra fuel.
@@ -1370,7 +1474,7 @@ heater:
           sentence: Prices and terms are enclosed in the catalogue.
           clozed: Prices|and|terms|are|enclosed|in|the|End
     3:
-      identifier: reply to inquiry scramble p 63
+      identifier: reply to heater inquiry scramble p 66
       sentences:
         -
           sentence: We are offering free trials of this heater, for any time up to 30 days.
@@ -1379,7 +1483,7 @@ heater:
           sentence: Trying out this heater would allow you to see the high quality and finish of the product.
           clozed: Trying|out|this|heater|would|allow|you|to|see|the|high|quality|and|finish|of|the|End
     4:
-      identifier: reply to inquiry scramble p 63
+      identifier: reply to heater inquiry scramble p 66
       sentences:
         -
           sentence: We hope this information is useful to you.
