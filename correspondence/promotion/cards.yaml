@@ -437,19 +437,37 @@ kendall:
       identifier: kendall structure match
       pair:
         -
-          - "Source of knowledge about reader:"
-          - "You are well-known as a leading Japanese distributor of Taiwanese food products."
+          - "Call to action:"
+          - "Check out our website, or give us a call. We would love to send you some samples."
         -
           - "Purpose of email:"
           - "We are wondering if you would be interested in distributing our fresh soups there."
         -
-          - "Writer's company:"
-          - "We are a new company selling fresh soup, not soup in cans or dried in packets."
-        -
           - "Selling points:"
           - "The range and taste of our soups is unmatched by those other forms of soup and the soups are being stocked by supermarkets all over Taiwan."
         -
-          - "Call to action:"
+          - "Source of knowledge about reader:"
+          - "You are well-known as a leading Japanese distributor of Taiwanese food products."
+        -
+          - "Writer's company:"
+          - "We are a new company selling fresh soup, not soup in cans or dried in packets."
+    1:
+      identifier: kendall structure match shuffled
+      pair:
+        -
+          - 1
+          - "You are well-known as a leading Japanese distributor of Taiwanese food products."
+        -
+          - 2
+          - "We are wondering if you would be interested in distributing our fresh soups there."
+        -
+          - 3
+          - "We are a new company selling fresh soup, not soup in cans or dried in packets."
+        -
+          - 4
+          - "The range and taste of our soups is unmatched by those other forms of soup and the soups are being stocked by supermarkets all over Taiwan."
+        -
+          - 5
           - "Check out our website, or give us a call. We would love to send you some samples."
   jigsaw:
     0:
