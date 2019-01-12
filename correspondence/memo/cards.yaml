@@ -125,7 +125,7 @@ formalmemo:
             - Informal
             - Neutral
             - Formal
-          answer: 
+          answer: Informal
     2:
       identifier: formality adjusted again
       quiz:
@@ -142,7 +142,7 @@ formalmemo:
             - Informal
             - Neutral
             - Formal
-          answer: Neutral
+          answer: Informal
         - question: |+
             To:      Elisa Johns
             From:    Paula Andrews
@@ -264,6 +264,21 @@ indicator:
            - would like
            - as a result
           answer: Pat
+    1:
+      identifier: indicator 1
+      quiz:
+        - question: An indicator of formality
+          option:
+            - Can
+            - Hey
+            - Would
+          answer: Would
+        - question: An indicator of informality
+          option:
+            - accordingly
+            - be obliged
+            - thanks
+          answer: thanks
 format:
   jigsaw:
     0:
@@ -455,6 +470,25 @@ bold:
             - it takes time to do this for each recipient
             - None of the above
           answer: it takes time to do this for each recipient
+    1:
+      identifier: bold
+      quiz:
+        - question: "On p.33, the bolding (heavy typeface) on T.Cruise's name means T.Cruise:"
+          option:
+            - Is scheduled to meet Dr Smith at 8:30, June 21
+            - Will get special attention at the meeting
+            - Will get this copy of the memo
+            - Will have the first interview on June 21
+            - Will make other people have to wait if he is tardy
+          answer: Will get this copy of the memo
+        - question: The problem with bolding names is
+          option:
+            - it has a better effect on the reader
+            - it is worth considering
+            - it means only T.Cruise will get the memo
+            - the writer has to do this 15 times, once for each recipient
+            - None of the above
+          answer: the writer has to do this 15 times, once for each recipient
 genre:
   jigsaw:
     formality:
@@ -639,7 +673,7 @@ genre:
             - memo
             - note
           answer: memo
-        - question: A communication from Dr Bean telling the assistant in the Language Center teachers about the arrangements he has made for the substitute holiday, December 31
+        - question: A communication from Dr Bean telling Crystal, the assistant in the Language Center about the arrangements he has made for the substitute holiday, December 31
           option:
             - notice
             - memo
