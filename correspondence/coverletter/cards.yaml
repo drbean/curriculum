@@ -26,6 +26,30 @@ structure:
         -
           - 3
           - Please contact me, if you are interested in further data.
+    2:
+      identifier: cover letter structure--test
+      pair:
+        -
+          - Do not hesitate to contact me if I can be of further assistance.
+          - invitation of feedback
+        -
+          - Please find attached the catalogue which you requested on June 21.
+          - purpose of email/letter
+        -
+          - Please share it with anyone else interested in mountain bicycles.
+          - instructions
+    3:
+      identifier: cover letter order--test
+      pair:
+        -
+          - 1
+          - Please find attached the catalogue which you requested on June 21.
+        -
+          - 2
+          - Please share it with anyone else interested in mountain bicycles.
+        -
+          - 3
+          - Do not hesitate to contact me if I can be of further assistance.
 inquiry:
   scramble:
     0:
@@ -239,7 +263,12 @@ article:
         -
           sentence: Thank you for your email dated June 6. I have attached a copy of “Doing Business in Vietnam”, the article you requested from us. The article first appeared in Taiwan’s “Business Investment Today” in the April issue.<p><p> Please keep_in_mind that it is a copyrighted article, and in accordance with the licensing agreement between our companies, you are permitted to circulate it only within your own company.<p><p> Could you please confirm receipt of this attachment by Nov. 13? Also, if you have any questions, please do not hesitate to contact me. I hope you and your colleagues find the article useful and interesting.
           clozed: dated|attached|requested|issue|keep_in_mind|permitted|confirm|contact|interesting|End
-      
+    1:
+      identifier: copyright article
+      sentences:
+        -
+          sentence: Thank you for your interest in our project. I encourage you to install the software and try it out. You can download the source files from http://screen.fsf.org, but for your convenience I have attached a copy to this email.<p><p>You will need to compile it to install it. Alternatively, your distribution may provide a version for your computer which you don't need to compile.<p><p>Thank you again and feel free to contact me if you have any questions.
+          clozed: interest|encourage|try|download|convenience|attached|need|Alternatively|provide|don't|again|feel free|any|End
 proposal:
   match:
     0:
@@ -644,6 +673,23 @@ flowerdew:
             - Jennifer Ward
             - you
           answer: you
+  essay:
+    0:
+      identifier: flowerdew essay
+      rubric: |+
+        ## cover email for Flowerdew visit
+
+        In Week 12, you wrote the cover email Tom Farrell, the chairperson of the Business Management Department sent to teachers in the department about Henry Kendall, a top businessman who was visiting the department. All the staff knew about the visit, but they may not have known much about Kendall. For their information, you sent them kendall.pdf, a file with some highlights of Kendall's career.
+
+        Now, look at p 42. The situation on p 42 is different. It is confusing. IGNORE IT. You are going to write a cover letter for a simpler situation in the Language Center in which the chairperson sends teachers a file, a situation just like the one you did for homework.
+
+        You are going to substitute Tracy Cheng for Tom Farrell. Substitute the Language Center for the Business Management Department. Substitute John Flowerdew, a top linguist for Henry Kendall, a top businessman. Substitute flowerdew.pdf for kendall.pdf.
+
+        Write the cover email for this file, flowerdew.pdf. It only needs to be two sentences in one paragraph, the first saying Flowerdew is visiting and the second saying what you are attaching. There is no need for instructions, or to invite feedback, or questions.
+
+        Write the To:, From, and Subject: lines. In the body, write one paragraph. At the end, write Attachment: and the name of the file.
+
+
 kendall:
   drag:
     0:
@@ -655,4 +701,3 @@ kendall:
         -
           sentence: Tom Farrell wants teachers to read kendall.pdf, the PDF file attached to the email sent to all staff.
           clozed: Tom|Farrell|wants|teachers|to|read|the|PDF|file|attached|to|the|email|sent|to|all|End
-        
