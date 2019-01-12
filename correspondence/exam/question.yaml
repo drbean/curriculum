@@ -1,0 +1,50 @@
+---
+genre: correspondence
+071:
+  midterm:
+  final:
+    -
+      topic: email
+      story: subject
+      type : jigsaw
+      form : 2
+    -
+      topic: memo
+      story: formalmemo
+      type : jigsaw
+      form : 1
+    -
+      topic: memo
+      story: formalmemo
+      type : jigsaw
+      form : 2
+    -
+      topic: memo
+      story: indicator
+      type : jigsaw
+      form : 1
+    -
+      topic: memo
+      story: list
+      type : jigsaw
+      form : 2
+    -
+      topic: memo
+      story: bold
+      type : jigsaw
+      form : 1
+    -
+      topic: memo
+      story: genre
+      type : jigsaw
+      form : described
+    -
+      topic: coverletter
+      story: flowerdew
+      type : essay
+      form : 0
+    
+    
+    
+    
+    
