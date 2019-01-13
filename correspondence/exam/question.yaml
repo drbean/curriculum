@@ -50,6 +50,11 @@ genre: correspondence
       form : described
     -
       topic: coverletter
+      story: coverletter
+      type : description
+      form : 0
+    -
+      topic: coverletter
       story: flowerdew
       type : essay
       form : 0
@@ -90,6 +95,11 @@ genre: correspondence
       form : 4
     -
       topic: transaction
+      story: transaction
+      type : description
+      form : 0
+    -
+      topic: transaction
       story: definition
       type : jigsaw
       form : 0
@@ -102,6 +112,11 @@ genre: correspondence
       topic: transaction
       story: college
       type : match
+      form : 0
+    -
+      topic: promotion
+      story: promotion
+      type : description
       form : 0
     -
       topic: promotion
@@ -143,4 +158,16 @@ genre: correspondence
       story: spam
       type : jigsaw
       form : 1
+    -
+      topic: inquiry
+      story: inquiry
+      type : description
+      form : 0
+    -
+      topic: inquiry
+      story: raspberry
+      type : match
+      form : 0
+    
+    
     
