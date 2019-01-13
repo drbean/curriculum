@@ -418,7 +418,7 @@ kendall:
         - Our range of soups is constantly changing, depending on the season and the popularity of each soup.
   drag:
     0:
-      identifier: 
+      identifier: soup scramble
       sentences:
         -
           sentence: We are an up-and-coming business, making fresh soups in a paper container.
@@ -452,7 +452,7 @@ kendall:
           - "Writer's company:"
           - "We are a new company selling fresh soup, not soup in cans or dried in packets."
     1:
-      identifier: kendall structure match shuffled
+      identifier: kendall order match shuffled
       pair:
         -
           - 1
