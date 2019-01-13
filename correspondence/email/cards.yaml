@@ -1,5 +1,10 @@
 ---
 genre: correspondence
+email:
+  description:
+    0:
+      identifier: email question header
+      questiontext: The following questions are about email
 formal:
   jigsaw:
     0:
