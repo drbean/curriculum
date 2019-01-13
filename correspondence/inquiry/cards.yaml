@@ -91,7 +91,29 @@ raspberry:
              - Inquiry/request
              - source of knowledge about company written to
            answer: Inquiry/request
-         
+  match:
+    0:
+      identifier: raspberry pi inquiry ordering
+      pair:
+        -
+          - 1
+          - We are a large marketer of computers in Taiwan.
+        -
+          - 2
+          - And we are keen on making the Raspberry Pi available in stores for people to see before buying, not just available online.
+        -
+          - 3
+          - We understand you have no distribution arrangement in Taiwan. We are interested in becoming a Raspberry Pi distributor in the Taiwanese market? Is this possible?
+        -
+          - 4
+          - If we became a distributor, would you be willing for us to be an exclusive distributor?
+        -
+          - 5
+          - We look forward to hearing from you.
+        
+        
+        
+        
 golfer:
   match:
     0:
