@@ -355,24 +355,6 @@ raspberry:
         
         
         
-golf:
-  drag:
-    0:
-      identifier: golf drag
-      sentences:
-        -
-          sentence: We saw your advertisement in the latest issue of Golf_World, and understand that you have a chain of golf stores in Taiwan.
-          clozed: We|saw|your|advertisement|in|the|latest|issue|of|Golf_World|and|understand|that|you|have|a|chain|of|golf|stores|in|Taiwan.
-        -
-          sentence: We are a large distributor of golf equipment in the US.
-          clozed: We|are|a|large|distributor|of|golf|equipment|in|the|US.
-        -
-          sentence: Our customers include Dick’s Sporting Goods and other large golf stores in the US.
-          clozed: Our|customers|include|Dick’s|Sporting|Goods|and|other|large|golf|stores|in|the|US.
-        
-        
-        
-
   scramble:
     0:
       identifier: step 1
@@ -407,6 +389,36 @@ launch:
         - We look forward to your inquiries about the Raspberry_Pi_Zero.
         - More information can be found at our website, https://www.raspberrypi.com.tw/.
         - We can be contacted via email, at service@raspberrypi.com.tw
+golf:
+  drag:
+    0:
+      identifier: golf drag
+      sentences:
+        -
+          sentence: We saw your advertisement in the latest issue of Golf_World, and understand that you have a chain of golf stores in Taiwan.
+          clozed: We|saw|your|advertisement|in|the|latest|issue|of|Golf_World|and|understand|that|you|have|a|chain|of|golf|stores|in|Taiwan.
+        -
+          sentence: We are a large distributor of golf equipment in the US.
+          clozed: We|are|a|large|distributor|of|golf|equipment|in|the|US.
+        -
+          sentence: Our customers include Dick's Sporting Goods and other large golf stores in the US.
+          clozed: Our|customers|include|Dick's|Sporting|Goods|and|other|large|golf|stores|in|the|US.
+    1:
+      identifier: golf drag
+      sentences:
+        -
+          sentence: We saw your advertisement in the latest issue of Golf_World, and understand that you have a chain of golf stores in Taiwan.
+          clozed: We|saw|your|advertisement|in|the|latest|issue|of|and|understand|that|you|have|a|chain|of|golf|stores|in|End
+        -
+          sentence: We are a large distributor of golf equipment in the US.
+          clozed: We|are|a|large|of|golf|equipment|in|the|End
+        -
+          sentence: Our customers include Dick's Sporting Goods and other large golf stores in the US.
+          clozed: Our|customers|include|and|other|large|golf|stores|in|the|End
+        
+        
+        
+
 kendall:
   scramble:
     0:
@@ -553,14 +565,44 @@ step:
       identifier: launch steps
       pair:
         -
-          - The Raspberry Pi Foundation is pleased to announce the launch of the Raspberry_Pi_Zero, the cheapest member of the Raspberry Pi family yet.
-          - step 1
-        -
-          - As a special introductory offer, the price of the Raspberry_Pi_Zero will be 1,400_NT per unit.
-          - step 3
+          - The Raspberry_Pi_Zero is half the size of other Raspberry models, but it is twice as useful.
+          - selling points
         -
           - We look forward to your inquiries about the Raspberry_Pi_Zero.
-          - step 4
+          - call to action
+        -
+          - We can be contacted via email, at service@raspberrypi.com.tw
+          - call to action
+        -
+          - The Raspberry Pi Foundation is pleased to announce the launch of the Raspberry_Pi_Zero, the cheapest member of the Raspberry Pi family yet.
+          - product introduction
+        -
+          - As a special introductory offer, the price of the Raspberry_Pi_Zero will be 1,400_NT per unit.
+          - prices and terms
+        -
+          - More information can be found at our website, https://www.raspberrypi.com.tw/.
+          - call to action
+    2:
+      identifier: launch steps order
+      pair:
+        -
+          - 1
+          - The Raspberry Pi Foundation is pleased to announce the launch of the Raspberry_Pi_Zero, the cheapest member of the Raspberry Pi family yet.
+        -
+          - 2
+          - The Raspberry_Pi_Zero is half the size of other Raspberry models, but it is twice as useful.
+        -
+          - 3
+          - As a special introductory offer, the price of the Raspberry_Pi_Zero will be 1,400_NT per unit.
+        -
+          - 4
+          - We look forward to your inquiries about the Raspberry_Pi_Zero.
+        -
+          - 5
+          - More information can be found at our website, https://www.raspberrypi.com.tw/.
+        -
+          - 6
+          - We can be contacted via email, at service@raspberrypi.com.tw
   jigsaw:
     0:
       identifier: diet drink and promotion steps
