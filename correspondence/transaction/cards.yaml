@@ -60,6 +60,55 @@ routine:
            - make
            - send
           answer: make
+college:
+  jigsaw:
+    0:
+      identifier: college
+      quiz:
+        - question: "Young person: What exam score do I need to get into Podunk?"
+          option:
+            - Inquiry
+            - Introduction/promotion
+            - Offer/quotation
+            - Order
+          answer: Inquiry
+        - question: "Young person: Give me an enrolment form!"
+          option:
+            - Inquiry
+            - Introduction/promotion
+            - Offer/quotation
+            - Order
+          answer: Order
+        - question: "Staffer: Study at Podunk University!"
+          option:
+            - Inquiry
+            - Introduction/promotion
+            - Offer/quotation
+            - Order
+          answer: Introduction/promotion
+        - question: "Staffer: Anyone with an exam score is welcome at Podunk."
+          option:
+            - Inquiry
+            - Introduction/promotion
+            - Offer/quotation
+            - Order
+          answer: Offer/quotation
+  match:
+    0:
+      identifier: college transaction order
+      pair:
+        -
+          - 1
+          - "Staffer: Study at Podunk University!"
+        -
+          - 2
+          - "Young person: What exam score do I need to get into Podunk?"
+        -
+          - 3
+          - "Staffer: Anyone with an exam score is welcome at Podunk."
+        -
+          - 4
+          - "Young person: Give me an enrolment form!"
 watermelon:
   jigsaw:
     0:
@@ -137,31 +186,6 @@ function:
           answer: get a product/service
 
 definition:
-  jigsaw:
-    0:
-      identifier: tricky routine definitions
-      quiz:
-        - question: What happens in a promotion/introduction?
-          option:
-            - The writer asks the reader their opinion about the writer's product to get evaluations that can be shown to other customers.
-            - The writer tells the reader about the writer's product. The writer hopes the reader will be interested in it and want to use it or know more.
-          answer: The writer tells the reader about the writer's product. The writer hopes the reader will be interested in it and want to use it or know more.
-        - question: What happens in an inquiry?
-          option:
-            - The writer asks the reader something about the product/service which the reader has.
-            - The writer asks the reader to send the product/service which the writer is interested in.
-          answer: The writer asks the reader something about the product/service which the reader has.
-        - question: What happens in an offer/quotation
-          option:
-            - The writer asks if the reader wants a product/service for a price set by the writer.
-            - The writer tells the reader that a product/service is being sent to the reader.
-          answer: The writer asks if the reader wants a product/service for a price set by the writer.
-        - question: What happens in an order?
-          option:
-            - The writer and reader are involved in a more powerful/less powerful relationship. The writer is more powerful and the reader does what the writer says.
-            - The writer asks the reader to give the writer a product which belongs to the reader and for which payment will be made.
-            - The writer tells the reader that payment has been sent for a product which the writer has already bought from the reader.
-          answer: The writer asks the reader to give the writer a product which belongs to the reader and for which payment will be made.
   match:
     0:
       identifier: first 10 definition matches
@@ -498,3 +522,27 @@ definition:
            - the act of confirming the receipt of goods
            - the best available product which has been made using the most modern methods or techniques
           answer: the act of confirming the receipt of goods
+    2:
+      identifier: tricky routine definitions
+      quiz:
+        - question: What happens in a promotion/introduction?
+          option:
+            - The writer asks the reader their opinion about the writer's product to get evaluations that can be shown to other customers.
+            - The writer tells the reader about the writer's product. The writer hopes the reader will be interested in it and want to use it or know more.
+          answer: The writer tells the reader about the writer's product. The writer hopes the reader will be interested in it and want to use it or know more.
+        - question: What happens in an inquiry?
+          option:
+            - The writer asks the reader something about the product/service which the reader has.
+            - The writer asks the reader to send the product/service which the writer is interested in.
+          answer: The writer asks the reader something about the product/service which the reader has.
+        - question: What happens in an offer/quotation
+          option:
+            - The writer asks if the reader wants a product/service for a price set by the writer.
+            - The writer tells the reader that a product/service is being sent to the reader.
+          answer: The writer asks if the reader wants a product/service for a price set by the writer.
+        - question: What happens in an order?
+          option:
+            - The writer and reader are involved in a more powerful/less powerful relationship. The writer is more powerful and the reader does what the writer says.
+            - The writer asks the reader to give the writer a product which belongs to the reader and for which payment will be made.
+            - The writer tells the reader that payment has been sent for a product which the writer has already bought from the reader.
+          answer: The writer asks the reader to give the writer a product which belongs to the reader and for which payment will be made.
