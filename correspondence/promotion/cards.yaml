@@ -1,5 +1,10 @@
 ---
 genre: correspondence
+promotion:
+  description:
+    0:
+      identifier: promotion question description
+      questiontext: The following questions are about promotion/introductions
 lollipop:
   jigsaw:
     0:
