@@ -1,5 +1,10 @@
 ---
 genre: correspondence
+coverletter:
+  description:
+    0:
+      identifier: coverletter question heading
+      questiontext: The following questions are about cover letters/emails
 structure:
   match:
     0:
