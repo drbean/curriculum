@@ -5,9 +5,19 @@ genre: correspondence
   final:
     -
       topic: email
+      story: email
+      type : description
+      form : 0
+    -
+      topic: email
       story: subject
       type : jigsaw
       form : 2
+    -
+      topic: memo
+      story: memo
+      type : description
+      form : 0
     -
       topic: memo
       story: formalmemo
