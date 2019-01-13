@@ -1,5 +1,10 @@
 ---
 course: correspondence
+memo:
+  description:
+    0:
+      identifier: memo description
+      questiontext: The following questions are about memos.
 formalmemo:
   jigsaw:
     indicator:
@@ -80,18 +85,18 @@ formalmemo:
       identifier: formality adjusted
       quiz:
         - question: |+
-            To: All members of staff
-            From: Arnel Ranjit
-            Date: 10 January
-            Subject: ISO visit
-            \n
-            Dear Staff,
-            \n
-            As you well know, ISO inspectors are visiting next week for the annual ISO inspection.
-            On this occasion, the company respectfully requests that all staff be as helpful as possible to ensure it maintains its ISO certification. In particular, I would like to ask you to dress appropriately in suit and tie.
-            \n
-            Yours faithfully,
-            Arnel Ranjit,
+            To: All members of staff<p>
+            From: Arnel Ranjit<p>
+            Date: 10 January<p>
+            Subject: ISO visit<p>
+            <p>
+            Dear Staff,<p>
+            <p>
+            As you well know, ISO inspectors are visiting next week for the annual ISO inspection.<p>
+            On this occasion, the company respectfully requests that all staff be as helpful as possible to ensure it maintains its ISO certification. In particular, I would like to ask you to dress appropriately in suit and tie.<p>
+            <p>
+            Yours faithfully,<p>
+            Arnel Ranjit,<p>
             Quality Control Director
           option:
             - Informal
@@ -99,12 +104,12 @@ formalmemo:
             - Formal
           answer: Formal
         - question: |+
-            To: Elisa Johns
-            From: Paula Andrews
-            Date: 9 January 2017
-            Subject: Printing file
-            \n
-            Dear Elisa,
+            To: Elisa Johns<p>
+            From: Paula Andrews<p>
+            Date: 9 January 2017<p>
+            Subject: Printing file<p>
+            <p>
+            Dear Elisa,<p>
             I need to make a few alterations to the designs before I send them to the printers. But the file you sent me doesn't open on my computer. Can you email it to me again.
           option:
             - Informal
@@ -112,14 +117,14 @@ formalmemo:
             - Formal
           answer: Neutral
         - question: |+
-            To: Jane
-            From: Jack
-            Subject: Transfer
-            \n
-            Hi Jane,
-            Can I get a transfer to the Oxford branch? My wife has gotten a new job there, and we're going to move there next month.
-            \n
-            Thanks,
+            To: Jane<p>
+            From: Jack<p>
+            Subject: Transfer<p>
+            <p>
+            Hi Jane,<p>
+            Can I get a transfer to the Oxford branch? My wife has gotten a new job there, and we're going to move there next month.<p>
+            <p>
+            Thanks,<p>
             Jack
           option:
             - Informal
@@ -130,13 +135,13 @@ formalmemo:
       identifier: formality adjusted again
       quiz:
         - question: |+
-            To:      All members of staff
-            From:    Arnel Ranjit
-            Date:    10 January
-            Subject: ISO visit
-            \n
-            Hey everyone, annual ISO inspection again next week.
-            ISO inspectors are visiting from Monday to Friday.
+            To:      All members of staff<p>
+            From:    Arnel Ranjit<p>
+            Date:    10 January<p>
+            Subject: ISO visit<p>
+            <p>
+            Hey everyone, annual ISO inspection again next week.<p>
+            ISO inspectors are visiting from Monday to Friday.<p>
             Can you be as helpful as possible to them? Gotta make sure the company keeps its ISO certification. Smile.
           option:
             - Informal
@@ -144,15 +149,15 @@ formalmemo:
             - Formal
           answer: Informal
         - question: |+
-            To:      Elisa Johns
-            From:    Paula Andrews
-            Date:    9 January 2017
-            Subject: Printing file
-            \n
-            Dear Ms Johns
-            I must apologize for troubling you, but a few alterations need to be made to the designs before they can be sent to the printers. However I have failed to open the file you sent me on my computer. It must be my mistake, but would it be possible for you to email it to me again in a different format.
-            Thanking you, in advance. And again, my apologies.
-            Yours sincerely,
+            To:      Elisa Johns<p>
+            From:    Paula Andrews<p>
+            Date:    9 January 2017<p>
+            Subject: Printing file<p>
+            <p>
+            Dear Ms Johns<p>
+            I must apologize for troubling you, but a few alterations need to be made to the designs before they can be sent to the printers. However I have failed to open the file you sent me on my computer. It must be my mistake, but would it be possible for you to email it to me again in a different format.<p>
+            Thanking you, in advance. And again, my apologies.<p>
+            Yours sincerely,<p>
             Paula Andrews (Ms)
           option:
             - Informal
@@ -160,12 +165,12 @@ formalmemo:
             - Formal
           answer: Formal
         - question: |+
-            To:      Jane Odell, Human Resources
-            From:    Jack Johnson, Sales
-            Subject: Transfer
-            \n
-            Dear Jane,
-            My wife has received a job offer in the Oxford area, and I am wondering if I can be transferred to the Oxford branch.
+            To:      Jane Odell, Human Resources<p>
+            From:    Jack Johnson, Sales<p>
+            Subject: Transfer<p>
+            <p>
+            Dear Jane,<p>
+            My wife has received a job offer in the Oxford area, and I am wondering if I can be transferred to the Oxford branch.<p>
             Jack Johnson
           option:
             - Informal
@@ -407,12 +412,12 @@ list:
       identifier: list
       quiz:
         - question: |+
-            Here is a memo:
-            \n
-            To: All staff
-            From: Paul Smith
-            Subject: Inspection
-            \n
+            Here is a memo:<p>
+            <p>
+            To: All staff<p>
+            From: Paul Smith<p>
+            Subject: Inspection<p>
+            <p>
             The problem is:
           option:
             -   1. introductory information
@@ -421,14 +426,14 @@ list:
             - 4. None of the above
           answer: 2. Same indentation of list items 
         - question: |+
-            Here is a list:
-              1. The list at the top on page 33 doesn't follow
-              the recommendations for lists.
-              2. The unobserved recommendation in the list at
-              the top on page 33 is
-              3. Item 3 is not long
-              4. Item 4 is short
-            \n
+            Here is a list:<p>
+              1. The list at the top on page 33 doesn't follow<p>
+              the recommendations for lists.<p>
+              2. The unobserved recommendation in the list at<p>
+              the top on page 33 is<p>
+              3. Item 3 is not long<p>
+              4. Item 4 is short<p>
+            <p>
             The problem is:
           option:
             -   1. introductory information
@@ -437,11 +442,11 @@ list:
             -   4. None of the above
           answer: 3. indentation of following lines
         - question: |+
-            1. Item 1
-            2. Item 2
-            3. Item 3
-            4. Item 4
-            \n
+            1. Item 1<p>
+            2. Item 2<p>
+            3. Item 3<p>
+            4. Item 4<p>
+            <p>
             The problem is:
           option:
             -   1. introductory information
