@@ -43,8 +43,94 @@ genre: correspondence
       story: flowerdew
       type : essay
       form : 0
-    
-    
-    
-    
+    -
+      topic: coverletter
+      story: structure
+      type : match
+      form : 0
+    -
+      topic: coverletter
+      story: structure
+      type : match
+      form : 1
+    -
+      topic: coverletter
+      story: article
+      type : drag
+      form : 2
+    -
+      topic: coverletter
+      story: proposal
+      type : drag
+      form : 0
+    -
+      topic: coverletter
+      story: acknowledge
+      type : match
+      form : 2
+    -
+      topic: coverletter
+      story: acknowledge
+      type : match
+      form : 3
+    -
+      topic: coverletter
+      story: attach
+      type : drag
+      form : 4
+    -
+      topic: transaction
+      story: definition
+      type : jigsaw
+      form : 0
+    -
+      topic: transaction
+      story: college
+      type : jigsaw
+      form : 0
+    -
+      topic: transaction
+      story: college
+      type : match
+      form : 0
+    -
+      topic: promotion
+      story: kendall
+      type : drag
+      form : 0
+    -
+      topic: promotion
+      story: kendall
+      type : match
+      form : 0
+    -
+      topic: promotion
+      story: kendall
+      type : match
+      form : 1
+    -
+      topic: promotion
+      story: kendall
+      type : jigsaw
+      form : 0
+    -
+      topic: promotion
+      story: golf
+      type : drag
+      form : 0
+    -
+      topic: promotion
+      story: step
+      type : match
+      form : 1
+    -
+      topic: promotion
+      story: step
+      type : match
+      form : 2
+    -
+      topic: promotion
+      story: spam
+      type : jigsaw
+      form : 1
     
