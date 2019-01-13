@@ -675,6 +675,8 @@ step:
       quiz:
         - question: The kind of letter
           option:
+            - memo
+            - coverletter
             - promotion/introduction
             - inquiry
             - acknowledgement of inquiry
@@ -684,52 +686,52 @@ step:
           option:
             - ABC Candy Company
             - Canadian candy distributor
-          answer: 
+          answer: ABC Candy Company
         - question: Receiver of the letter
           option:
             - ABC Candy Company
             - Canadian candy distributor
-          answer: 
+          answer: Canadian candy distributor
         - question: Supplier of candy to the other company
           option:
             - ABC Candy Company
             - Canadian candy distributor
-          answer: 
+          answer: Canadian candy distributor
         - question: Candy advertiser
           option:
             - ABC Candy Company
             - Canadian candy distributor
-          answer: 
+          answer: Canadian candy distributor
         - question: The company which will receive candy from the other company.
           option:
             - ABC Candy Company
             - Canadian candy distributor
-          answer: 
+          answer: ABC Candy Company
         - question: The company which is telling the reader about its New Year plans.
           option:
             - ABC Candy Company
             - Canadian candy distributor
-          answer: 
+          answer: ABC Candy Company
         - question: The company which knows something about the other company.
           option:
             - ABC Candy Company
             - Canadian candy distributor
-          answer: 
+          answer: ABC Candy Company
         - question: The company which may or may not know anything about the other company.
           option:
             - ABC Candy Company
             - Canadian candy distributor
-          answer: 
+          answer: Canadian candy distributor
         - question: The company which has some requirements for the inquiry.
           option:
             - ABC Candy Company
             - Canadian candy distributor
-          answer: 
+          answer: ABC Candy Company
         - question: The company which expects good results from the inquiry.
           option:
             - ABC Candy Company
             - Canadian candy distributor
-          answer: 
+          answer: ABC Candy Company
     0:
       identifier: elaine's candy inquiry steps
       quiz:
@@ -1037,6 +1039,24 @@ cruise:
             - I will tell you what is happening.
             - Thank you again for your inquiry about the cruise.
           answer: You said that your partner is a vegetarian.
+  essay:
+    0:
+      identifier: cruise inquiry
+      rubric: |+
+        ## cruise inquiry
+
+        Write the cruise inquiry described on p. 58. Follow the structure described on p. 53, 54.
+        
+        Write the To:, From, Subject: and Date: lines, but there is no need for email addresses. The Date will be July31 or another date early in August.
+
+        In the body, write five (5) short paragraphs, one for the opening, one for each of the concerns you have, and one for the closing.
+    
+        Use the information in the book. You only need to use your imagination for your partner's dietary requirements.
+        
+        For the first question, you need to say what your partner's dietary requirements are (Is he/she allergic to some food (what food?). Is he/she a vegetarian? You decide.) For the second and third question, you just have to change "you" to "I/me", etc.
+
+        Dietary requirements: For example is your partner French, and will they only eat French food? Or, does your partner only eat one meal a day, after midnight?
+
 
 boiler:
   jigsaw:
@@ -1587,11 +1607,16 @@ heater:
             - Please do  ...
             - polite expression
 calendar:
+  description:
+    0:
+      identifier: calendar year explanation
+      questiontext: Universities in Australia start the school year at the end of February. The next questions are about an inquiry to an Australian university.
+    
   jigsaw:
     structure:
       identifier: calendar
       quiz:
-        - question: 2018 about calendar email for for inquiring school Thank the you your
+        - question: 2019 about calendar email for for inquiring school Thank the you your
           option:
             - acknowledgement
             - restatement of the inquiry
@@ -1673,7 +1698,7 @@ calendar:
       identifier: calendar scramble
       sentences:
         -
-          sentence: Thank you for your email inquiring about the school calendar for 2018.
+          sentence: Thank you for your email inquiring about the school calendar for 2019.
           clozed: Thank|you|for|your|email|inquiring|about|the|school|calendar|for|End
         -
           sentence: You wrote that you were not able to find the calendar on the school website.
