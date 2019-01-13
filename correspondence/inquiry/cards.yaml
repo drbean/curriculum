@@ -1,5 +1,11 @@
 ---
 genre: correspondence
+inquiry:
+  description:
+    0:
+      identifier: inquiry question header. description
+      questiontext: The following questions are about inquiries
+    
 correspondence:
   match:
     promotion:
