@@ -1,5 +1,10 @@
 ---
 genre: correspondence
+transaction:
+  description:
+    0:
+      identifier: transaction question description
+      questiontext: The following questions are about transactions
 routine:
   jigsaw:
     0:
