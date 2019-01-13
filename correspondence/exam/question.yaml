@@ -168,6 +168,27 @@ genre: correspondence
       story: raspberry
       type : match
       form : 0
+    -
+      topic: inquiry
+      story: club
+      type : drag
+      form : 0
+    -
+      topic: inquiry
+      story: survey
+      type : drag
+      form : 1
+    -
+      topic: inquiry
+      story: step
+      type : jigsaw
+      form : 0
+    -
+      topic: inquiry
+      story: step
+      type : jigsaw
+      form : comprehension
+    
     
     
     
