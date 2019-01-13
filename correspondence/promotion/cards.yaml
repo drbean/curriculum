@@ -389,161 +389,6 @@ launch:
         - We look forward to your inquiries about the Raspberry_Pi_Zero.
         - More information can be found at our website, https://www.raspberrypi.com.tw/.
         - We can be contacted via email, at service@raspberrypi.com.tw
-golf:
-  drag:
-    0:
-      identifier: golf drag
-      sentences:
-        -
-          sentence: We saw your advertisement in the latest issue of Golf_World, and understand that you have a chain of golf stores in Taiwan.
-          clozed: We|saw|your|advertisement|in|the|latest|issue|of|Golf_World|and|understand|that|you|have|a|chain|of|golf|stores|in|Taiwan.
-        -
-          sentence: We are a large distributor of golf equipment in the US.
-          clozed: We|are|a|large|distributor|of|golf|equipment|in|the|US.
-        -
-          sentence: Our customers include Dick's Sporting Goods and other large golf stores in the US.
-          clozed: Our|customers|include|Dick's|Sporting|Goods|and|other|large|golf|stores|in|the|US.
-    1:
-      identifier: golf drag
-      sentences:
-        -
-          sentence: We saw your advertisement in the latest issue of Golf_World, and understand that you have a chain of golf stores in Taiwan.
-          clozed: We|saw|your|advertisement|in|the|latest|issue|of|and|understand|that|you|have|a|chain|of|golf|stores|in|End
-        -
-          sentence: We are a large distributor of golf equipment in the US.
-          clozed: We|are|a|large|of|golf|equipment|in|the|End
-        -
-          sentence: Our customers include Dick's Sporting Goods and other large golf stores in the US.
-          clozed: Our|customers|include|and|other|large|golf|stores|in|the|End
-        
-        
-        
-
-kendall:
-  scramble:
-    0:
-      identifier: kendall's covent garden soup
-      sentence:
-        - We are an up-and-coming business, making fresh soups in a paper container.
-        - Our soups are stocked by major supermarkets all over Taiwan.
-        - Our selling-point is the taste, which is unrivaled by canned soups.
-        - Our range of soups is constantly changing, depending on the season and the popularity of each soup.
-  drag:
-    0:
-      identifier: soup scramble
-      sentences:
-        -
-          sentence: We are an up-and-coming business, making fresh soups in a paper container.
-          clozed: We|are|an|business|making|fresh|soups|in|a|paper|container|End
-        -
-          sentence: Our soups are sold by major supermarkets around Taiwan.
-          clozed: Our|soups|are|sold|by|major|supermarkets|around|Taiwan|End
-        -
-          sentence: Our selling-point is the taste, which is unrivaled by canned soups.
-          clozed: Our|is|the|taste|which|is|by|canned|soups|End
-        -
-          sentence: Our range of soups is constantly changing, depending on the season and the popularity of each soup.
-          clozed: Our|range|of|soups|is|changing|depending|on|the|and|the|of|each|soup|End
-  match:
-    0:
-      identifier: kendall structure match
-      pair:
-        -
-          - "Call to action:"
-          - "Check out our website, or give us a call. We would love to send you some samples."
-        -
-          - "Purpose of email:"
-          - "We are wondering if you would be interested in distributing our fresh soups there."
-        -
-          - "Selling points:"
-          - "The range and taste of our soups is unmatched by those other forms of soup and the soups are being stocked by supermarkets all over Taiwan."
-        -
-          - "Source of knowledge about reader:"
-          - "You are well-known as a leading Japanese distributor of Taiwanese food products."
-        -
-          - "Writer's company:"
-          - "We are a new company selling fresh soup, not soup in cans or dried in packets."
-    1:
-      identifier: kendall order match shuffled
-      pair:
-        -
-          - 1
-          - "You are well-known as a leading Japanese distributor of Taiwanese food products."
-        -
-          - 2
-          - "We are wondering if you would be interested in distributing our fresh soups there."
-        -
-          - 3
-          - "We are a new company selling fresh soup, not soup in cans or dried in packets."
-        -
-          - 4
-          - "The range and taste of our soups is unmatched by those other forms of soup and the soups are being stocked by supermarkets all over Taiwan."
-        -
-          - 5
-          - "Check out our website, or give us a call. We would love to send you some samples."
-  jigsaw:
-    0:
-      identifier: selling points, genre of soup email
-      quiz:
-        - question: What is the genre of the previous email about the Taiwanese soup manufacturer?
-          option:
-            - promotion/introduction with new contact
-            - promotion/introduction with existing contact
-            - inquiry
-            - acknowledgment of inquiry
-            - reply to inquiry
-          answer: promotion/introduction with new contact
-        - question: The writer?
-          option:
-            - a soup eater in Japan
-            - an importer of Taiwanese food in Japan
-            - a Taiwanese food exporter 
-            - a Taiwanese food manufacturer
-          answer: a Taiwanese food manufacturer
-        - question: The reader?
-          option:
-            - a soup eater in Japan
-            - an importer of Taiwanese food in Japan
-            - a Taiwanese food exporter 
-            - a Taiwanese food manufacturer
-          answer: an importer of Taiwanese food in Japan
-        - question: What is special about the soup?
-          option:
-            - It has different tastes
-            - It's fresh
-            - It's in a can
-          answer: It's fresh
-        - question: What is the purpose of the email?
-          option:
-            - to advertise the soup to Japanese consumers 
-            - to get distribution in Japan
-            - to get Japanese food people to check the website
-            - to give samples to lovers of the soup
-          answer: to get distribution in Japan
-    1:
-      identifier: exam-prep kendall soup comprehension questions
-      quiz:
-        - question: The packaging of the soup
-          option:
-            - a can
-            - a paper carton
-            - dry, in a plastic packet
-          answer: a paper carton
-        - question: unique feature of the soup
-          option:
-            - Changes depending on season, popularity
-            - Fresh
-            - No additives
-            - Wide variety of tastes
-          answer: Fresh
-        - question: NOT an advertised feature of the soup
-          option:
-            - Changes depending on season, popularity
-            - Fresh
-            - No additives
-            - Wide variety of tastes
-          answer: No additives
-
 step:
   match:
     0:
@@ -836,6 +681,161 @@ step:
             - step 3. selling points of the diet drink
             - step 4. call to action
           answer: step 4. call to action
+golf:
+  drag:
+    0:
+      identifier: golf drag
+      sentences:
+        -
+          sentence: We saw your advertisement in the latest issue of Golf_World, and understand that you have a chain of golf stores in Taiwan.
+          clozed: We|saw|your|advertisement|in|the|latest|issue|of|Golf_World|and|understand|that|you|have|a|chain|of|golf|stores|in|Taiwan.
+        -
+          sentence: We are a large distributor of golf equipment in the US.
+          clozed: We|are|a|large|distributor|of|golf|equipment|in|the|US.
+        -
+          sentence: Our customers include Dick's Sporting Goods and other large golf stores in the US.
+          clozed: Our|customers|include|Dick's|Sporting|Goods|and|other|large|golf|stores|in|the|US.
+    1:
+      identifier: golf drag
+      sentences:
+        -
+          sentence: We saw your advertisement in the latest issue of Golf_World, and understand that you have a chain of golf stores in Taiwan.
+          clozed: We|saw|your|advertisement|in|the|latest|issue|of|and|understand|that|you|have|a|chain|of|golf|stores|in|End
+        -
+          sentence: We are a large distributor of golf equipment in the US.
+          clozed: We|are|a|large|of|golf|equipment|in|the|End
+        -
+          sentence: Our customers include Dick's Sporting Goods and other large golf stores in the US.
+          clozed: Our|customers|include|and|other|large|golf|stores|in|the|End
+        
+        
+        
+
+kendall:
+  scramble:
+    0:
+      identifier: kendall's covent garden soup
+      sentence:
+        - We are an up-and-coming business, making fresh soups in a paper container.
+        - Our soups are stocked by major supermarkets all over Taiwan.
+        - Our selling-point is the taste, which is unrivaled by canned soups.
+        - Our range of soups is constantly changing, depending on the season and the popularity of each soup.
+  drag:
+    0:
+      identifier: soup scramble
+      sentences:
+        -
+          sentence: We are an up-and-coming business, making fresh soups in a paper container.
+          clozed: We|are|an|business|making|fresh|soups|in|a|paper|container|End
+        -
+          sentence: Our soups are sold by major supermarkets around Taiwan.
+          clozed: Our|soups|are|sold|by|major|supermarkets|around|Taiwan|End
+        -
+          sentence: Our selling-point is the taste, which is unrivaled by canned soups.
+          clozed: Our|is|the|taste|which|is|by|canned|soups|End
+        -
+          sentence: Our range of soups is constantly changing, depending on the season and the popularity of each soup.
+          clozed: Our|range|of|soups|is|changing|depending|on|the|and|the|of|each|soup|End
+  match:
+    0:
+      identifier: kendall structure match
+      pair:
+        -
+          - "Call to action:"
+          - "Check out our website, or give us a call. We would love to send you some samples."
+        -
+          - "Purpose of email:"
+          - "We are wondering if you would be interested in distributing our fresh soups there."
+        -
+          - "Selling points:"
+          - "The range and taste of our soups is unmatched by those other forms of soup and the soups are being stocked by supermarkets all over Taiwan."
+        -
+          - "Source of knowledge about reader:"
+          - "You are well-known as a leading Japanese distributor of Taiwanese food products."
+        -
+          - "Writer's company:"
+          - "We are a new company selling fresh soup, not soup in cans or dried in packets."
+    1:
+      identifier: kendall order match shuffled
+      pair:
+        -
+          - 1
+          - "You are well-known as a leading Japanese distributor of Taiwanese food products."
+        -
+          - 2
+          - "We are wondering if you would be interested in distributing our fresh soups there."
+        -
+          - 3
+          - "We are a new company selling fresh soup, not soup in cans or dried in packets."
+        -
+          - 4
+          - "The range and taste of our soups is unmatched by those other forms of soup and the soups are being stocked by supermarkets all over Taiwan."
+        -
+          - 5
+          - "Check out our website, or give us a call. We would love to send you some samples."
+  jigsaw:
+    0:
+      identifier: selling points, genre of soup email
+      quiz:
+        - question: What is the genre of the previous email about the Taiwanese soup manufacturer?
+          option:
+            - promotion/introduction with new contact
+            - promotion/introduction with existing contact
+            - inquiry
+            - acknowledgment of inquiry
+            - reply to inquiry
+          answer: promotion/introduction with new contact
+        - question: The writer?
+          option:
+            - a soup eater in Japan
+            - an importer of Taiwanese food in Japan
+            - a Taiwanese food exporter 
+            - a Taiwanese food manufacturer
+          answer: a Taiwanese food manufacturer
+        - question: The reader?
+          option:
+            - a soup eater in Japan
+            - an importer of Taiwanese food in Japan
+            - a Taiwanese food exporter 
+            - a Taiwanese food manufacturer
+          answer: an importer of Taiwanese food in Japan
+        - question: What is special about the soup?
+          option:
+            - It has different tastes
+            - It's fresh
+            - It's in a can
+          answer: It's fresh
+        - question: What is the purpose of the email?
+          option:
+            - to advertise the soup to Japanese consumers 
+            - to get distribution in Japan
+            - to get Japanese food people to check the website
+            - to give samples to lovers of the soup
+          answer: to get distribution in Japan
+    1:
+      identifier: exam-prep kendall soup comprehension questions
+      quiz:
+        - question: The packaging of the soup
+          option:
+            - a can
+            - a paper carton
+            - dry, in a plastic packet
+          answer: a paper carton
+        - question: unique feature of the soup
+          option:
+            - Changes depending on season, popularity
+            - Fresh
+            - No additives
+            - Wide variety of tastes
+          answer: Fresh
+        - question: NOT an advertised feature of the soup
+          option:
+            - Changes depending on season, popularity
+            - Fresh
+            - No additives
+            - Wide variety of tastes
+          answer: No additives
+
 difference:
   jigsaw:
     0:
@@ -1053,6 +1053,84 @@ spam:
             - step 1b. aim of message
             - step 2. details
             - step 3. price, terms
+            - step 4. call to action
+          answer: step 4. call to action
+    1:
+      identifier: google spam
+      quiz:
+        - question: |+
+            From: Google Llc <sundar@google.com><p>
+            Subject: Google Promotion Award<p>
+            To: Recipients <vote@kms.or.kr><p>
+            <p>
+            Dear Google User,<p>
+            <p>
+            *We congratulate you for being selected as a winner on our ongoing promotion.*<p>
+            You were selected due to your active use of our online services.<p>
+            Please find attached a PDF file with more information.<p>
+            <p>
+            Congratulations.<p>
+            <p>
+            Sundar Pichai,<p>
+            Chief Executive Officer,<p>
+            Google Llc.<p>
+            <p>
+            Attachment: GOOGLE.pdf
+          option:
+            - step 1a. source of reader's email address
+            - step 1b. aim of message
+            - step 2. description of what winning Google competition means for reader
+            - step 3. benefits of winning Google competition for reader
+            - step 4. call to action
+          answer: step 1b. aim of message
+        - question: |+
+            From: Google Llc <sundar@google.com><p>
+            Subject: Google Promotion Award<p>
+            To: Recipients <vote@kms.or.kr><p>
+            <p>
+            Dear Google User,<p>
+            <p>
+            We congratulate you for being selected as a winner on our ongoing promotion.<p>
+            *You were selected due to your active use of our online services.*<p>
+            Please find attached a PDF file with more information.<p>
+            <p>
+            Congratulations.<p>
+            <p>
+            Sundar Pichai,<p>
+            Chief Executive Officer,<p>
+            Google Llc.<p>
+            <p>
+            Attachment: GOOGLE.pdf
+          option:
+            - step 1a. source of reader's email address
+            - step 1b. aim of message
+            - step 2. description of what winning Google competition means for reader
+            - step 3. benefits of winning Google competition for reader
+            - step 4. call to action
+          answer: step 1a. source of reader's email address
+        - question: |+
+            From: Google Llc <sundar@google.com><p>
+            Subject: Google Promotion Award<p>
+            To: Recipients <vote@kms.or.kr><p>
+            \n<p>
+            Dear Google User,<p>
+            \n<p>
+            We congratulate you for being selected as a winner on our ongoing promotion.<p>
+            You were selected due to your active use of our online services.<p>
+            *Please find attached a PDF file with more information.*<p>
+            <p>
+            Congratulations.<p>
+            <p>
+            Sundar Pichai,<p>
+            Chief Executive Officer,<p>
+            Google Llc.<p>
+            <p>
+            Attachment: GOOGLE.pdf
+          option:
+            - step 1a. source of reader's email address
+            - step 1b. aim of message
+            - step 2. description of what winning Google competition means for reader
+            - step 3. benefits of winning Google competition for reader
             - step 4. call to action
           answer: step 4. call to action
 confusion:
