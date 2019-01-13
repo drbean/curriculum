@@ -597,12 +597,6 @@ step:
         -
           - 4
           - We look forward to your inquiries about the Raspberry_Pi_Zero.
-        -
-          - 5
-          - More information can be found at our website, https://www.raspberrypi.com.tw/.
-        -
-          - 6
-          - We can be contacted via email, at service@raspberrypi.com.tw
   jigsaw:
     0:
       identifier: diet drink and promotion steps
