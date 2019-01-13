@@ -188,6 +188,12 @@ genre: correspondence
       story: step
       type : jigsaw
       form : comprehension
+    -
+      topic: inquiry
+      story: cruise
+      type : essay
+      form : 0
+    
     
     
     
