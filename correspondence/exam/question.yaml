@@ -142,7 +142,7 @@ genre: correspondence
       topic: promotion
       story: golf
       type : drag
-      form : 0
+      form : 1
     -
       topic: promotion
       story: step
@@ -193,6 +193,27 @@ genre: correspondence
       story: cruise
       type : essay
       form : 0
+    -
+      topic: inquiry
+      story: calendar
+      type : description
+      form : 0
+    -
+      topic: inquiry
+      story: calendar
+      type : jigsaw
+      form : structure
+    -
+      topic: inquiry
+      story: calendar
+      type : jigsaw
+      form : comprehension
+    -
+      topic: inquiry
+      story: calendar
+      type : drag
+      form : 0
+    
     
     
     
