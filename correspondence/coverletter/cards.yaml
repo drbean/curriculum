@@ -110,6 +110,19 @@ attach:
         -
           sentence: Sorry, I forgot to attach the file to the previous message.
           clozed: Sorry|I|forgot|to|attach|the|file|to|the|previous|message|End
+    4:
+      identifier: attach 4 test
+      sentences:
+        -
+          sentence: Here is the file which you requested.
+          clozed: Here|is|the|file|which|you|requested|End
+        -
+          sentence: Please find it attached.
+          clozed: Please|find|it|attached|End
+        -
+          sentence: If you have any questions, please do not hesitate to contact me.
+          clozed: If|you|have|any|please|do|not|hesitate|to|contact|End
+        
       
       
       
@@ -269,6 +282,12 @@ article:
         -
           sentence: Thank you for your interest in our project. I encourage you to install the software and try it out. You can download the source files from http://screen.fsf.org, but for your convenience I have attached a copy to this email.<p><p>You will need to compile it to install it. Alternatively, your distribution may provide a version for your computer which you don't need to compile.<p><p>Thank you again and feel free to contact me if you have any questions.
           clozed: interest|encourage|try|download|convenience|attached|need|Alternatively|provide|don't|again|feel free|any|End
+    2:
+      identifier: copyright article
+      sentences:
+        -
+          sentence: Thank you for your interest in our game. I encourage you to install the game and start playing. You can download it from http://screen.fsf.org, but for your convenience I have attached a copy to this email.<p><p>We own all rights to this game. You may not share it with your friends or anyone else.<p><p>Thank you again and feel_free to contact me if you have any questions.
+          clozed: interest|install|download|convenience|attached|own|share|again|feel_free|End
 proposal:
   match:
     0:
@@ -294,7 +313,14 @@ proposal:
         - If you like our general approach, I would be happy to discuss the details with you at your convenience.
         - In any case, I will give you a call within a couple of days to ensure that you have received the proposal.
         - I look forward to cooperating with you on this project.
-      
+  drag:
+    0:
+      identifier: cosmetic catalogue scramble
+      sentences:
+        -
+          sentence: I have attached the catalogue for "Sephora," the skin care product brand which we market in Taiwan.
+          clozed: I|have|attached|the|for|the|skin|care|product|which|we|market|in|End
+         
   jigsaw:
     0:
       identifier: proposal para 1
@@ -518,6 +544,30 @@ acknowledge:
         -
           - However there was no attachment when I opened the message. Perhaps you forgot to attach it.
           - problem
+    2:
+      identifier: acknowledgement structure
+      pair:
+        -
+          - Thanks again. And sorry.
+          - polite close
+        -
+          - Thank you for your email with the catalogue.
+          - acknowledgment
+        -
+          - Unfortunately the catalogue doesn't appear in the email. Can you send it again?
+          - problem
+    3:
+      identifier: acknowledgement order
+      pair:
+        -
+          - 1
+          - Thank you for the file which I requested.
+        -
+          - 2
+          - However there was no attachment when I opened the message. Perhaps you forgot to attach it.
+        -
+          - 3
+          - Sorry to put you to this trouble.
   drag:
     0:
       identifier: attachment received
