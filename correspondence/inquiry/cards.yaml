@@ -1616,14 +1616,6 @@ calendar:
     structure:
       identifier: calendar
       quiz:
-        - question: 2019 about calendar email for for inquiring school Thank the you your
-          option:
-            - acknowledgement
-            - restatement of the inquiry
-            - reason for delay
-            - the date when an answer to the inquiry will be possible
-            - polite close
-          answer: acknowledgement
         - question: able calendar find not on school that the the to website were wrote you You
           option:
             - acknowledgement
@@ -1632,14 +1624,6 @@ calendar:
             - the date when an answer to the inquiry will be possible
             - polite close
           answer: restatement of the inquiry
-        - question: because been calendar dates decided have is not on the the This yet
-          option:
-            - acknowledgement
-            - restatement of the inquiry
-            - reason for delay
-            - the date when an answer to the inquiry will be possible
-            - polite close
-          answer: reason for delay
         - question: be calendar is it on posted ready the the website When will
           option:
             - acknowledgement
@@ -1656,10 +1640,26 @@ calendar:
             - the date when an answer to the inquiry will be possible
             - polite close
           answer: polite close
+        - question: 2019 about calendar email for for inquiring school Thank the you your
+          option:
+            - acknowledgement
+            - restatement of the inquiry
+            - reason for delay
+            - the date when an answer to the inquiry will be possible
+            - polite close
+          answer: acknowledgement
+        - question: because been calendar dates decided have is not on the the This yet
+          option:
+            - acknowledgement
+            - restatement of the inquiry
+            - reason for delay
+            - the date when an answer to the inquiry will be possible
+            - polite close
+          answer: reason for delay
     comprehension:
       identifier: calendar comprehension
       quiz:
-        - question: Which of the following parts of an inquiry acknowledgement do not appear in the textbook?
+        - question: Which of the following parts of the inquiry acknowledgement do not appear in the textbook?
           option:
             - acknowledgement
             - restatement of the inquiry
