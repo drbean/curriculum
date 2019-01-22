@@ -188,6 +188,16 @@ zoo:
       claws     : 爪
       zookeeper : 動物園管理員
       polar bear: 北極熊
+  1:
+    flash:
+      exhibit : 展示
+      lamb    : 小羊羔
+      barn    : 穀倉
+      sheep   : 羊
+      owl     : 貓頭鷹
+      tail    : 尾巴
+      zebra   : 斑馬
+      crane   : 鸛
   bingo:
     - shark zoo monkey zebra roars claws zookeeper polar_bear beach aquarium museum food swims afraid lion snow cool ice rain house cold home
     - shark zoo monkey zebra roars claws zookeeper polar_bear
