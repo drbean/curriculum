@@ -19,6 +19,16 @@ test:
     - statement picture check correspond reading fall_on live Jefferson_Road subject Ms_Chang baseball_club December incomplete dialog response circle next_weekend paragraph I'm_OK 
     - Could_I_get_you_a_sandwich? something_to_drink I'm_fine thanks What_does_that_mean? John's_good_friend see_Paul_off is_moving from_高雄_to_台中 train_station meet Where_do_you_live? an_apartment Cool! too_bad hand_in application_form I've_heard_you're_from_美國. I've_always_lived_in_新竹.
 badday:
+  0:
+    flash:
+      fingers : 早
+      early   : 追
+      chase   : 手指
+      wrong   : 錯誤
+      never   : 決不
+      right way     : 走對了路, 正確的方法
+      miss the bus   : 錯過公共汽車
+      leave   : 離開
   bingo:
     - early chase fingers wrong never way miss leave
     - early chase burn_my_fingers wrong_way never miss_the_bus leave wakes_up eight_o'clock clothes bus_stop too_late leaving can't_catch_it run_to_school ouch fine scary school_bus licks_his_fingers festival holiday walk_home on_time follow_me ready great_party hot_pot movie_theater we're_lost
