@@ -272,6 +272,13 @@
   - "topics"
   - "all"
   - |+
+    A: What is wrong, Ann? Are you OK?
+    B: I hurt my finger. Now, I can't play the piano.
+    A: That's too bad. What happened?
+    B: I opened the door and my brother closed it on my finger.
+    A: Ouch! I hope you get better soon.
+    B: Thanks. I'll be fine.
+  - What is|Ann|Are you|I hurt my|Now, I can't|the|That's|What|I opened the|and my brother|it on my|Ouch|you get|soon|Thanks. I'll be|End
 -
   - "badday-3"
   - "badday-3"
