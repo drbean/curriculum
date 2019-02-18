@@ -1526,7 +1526,7 @@ heater:
       sentences:
         -
           sentence: We are offering free trials of this heater, for any time up to 30 days.
-          clozed: We|are|offering|free|trials|of|this|heater,|for|any|time|up|to|30|End
+          clozed: We|are|offering|free|trials|of|this|for|any|time|up|to|30|End
         -
           sentence: Trying out this heater would allow you to see the high quality and finish of the product.
           clozed: Trying|out|this|heater|would|allow|you|to|see|the|high|quality|and|finish|of|the|End
