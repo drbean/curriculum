@@ -285,8 +285,9 @@
   - "topics"
   - "all"
   - |+
-    The first day of school can be hard. It can be scary to have a new teacher. Sometimes, it's also scary to meet new people. But some things can make your day better. You should wake up early in the morning. Then, you can leave for school on time. You don't want to miss the school bus. Never be late on your first day. Also, eat a big breakfast. This will help you feel good on your first day.
-  - first day|school|hard|scary|new teacher|scary|meet|things|make|better|early|morning|leave|time|miss|school bus|late|eat|breakfast|feel good|End
+    The first day of school can be hard. It can be scary to have a new teacher. Sometimes, it's also scary to meet new people. But some things can make your day better.
+    You should wake up early in the morning. Then, you can leave for school on time. You don't want to miss the school bus. Never be late on your first day. Also, eat a big breakfast. This will help you to feel good on your first day.
+  - The|of|can be|It can be|to have a|Sometimes, it's also|to|new people|But|some|can|your day|You should wake up|in the|Then, you can|for school on|You don't want to|the|Never be|on your first day. Also|a big|This will help you to|on your first day|End
 
 ---
 -
