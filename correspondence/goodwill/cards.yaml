@@ -1,5 +1,40 @@
 ---
 genre: correspondence
+kind:
+  jigsaw:
+    0:
+      identifier: graduation, puppy, gept, teacher_day
+      quiz:
+        - question: the graduation story
+          option:
+            - thank-you message
+            - congratulations message
+            - message of condolence
+          answer: congratulations message
+        - question: the getting-the-puppy story
+          option:
+            - thank-you message
+            - congratulations message
+            - message of condolence
+          answer: congratulations message
+        - question: the puppy-dying story
+          option:
+            - thank-you message
+            - congratulations message
+            - message of condolence
+          answer: message of condolence
+        - question: the gept story
+          option:
+            - thank-you message
+            - congratulations message
+            - message of condolence
+          answer: message of condolence
+        - question: the teacher_day story
+          option:
+            - thank-you message
+            - congratulations message
+            - message of condolence
+          answer: thank-you message
 thank:
   scramble:
     0:
