@@ -397,6 +397,10 @@ goodwill:
             - good news message
           answer: goodwill message
         - question: You hear a friend is getting married. You send him/her a message.
+          option:
+            - goodwill message
+            - good news message
+          answer: goodwill message
 raise:
   drag:
     0:
