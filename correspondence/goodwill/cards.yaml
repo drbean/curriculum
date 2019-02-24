@@ -1,5 +1,104 @@
 ---
 genre: correspondence
+definition:
+  jigsaw:
+    0:
+      identifier: goodwill definition
+      quiz:
+        - question: Which is NOT a correct translation of goodwill in ANY context?
+          option:
+            - 商譽
+            - 好意志力
+            - 親善
+            - 友好
+          answer: 好意志力
+        - question: Which translation is closest to the meaning of goodwill in a business/financial context?
+          option:
+            - 商譽
+            - 好意志力
+            - 親善
+            - 友好
+          answer: 商譽
+        - question: Which translation is closest to the meaning of goodwill in the book's goodwill message context?
+          option:
+            - 商譽
+            - 好意志力
+            - 親善
+            - 友好
+          answer: 親善
+        - question: Which is the best translation of "a goodwill message"?
+          option:
+            - 示好信
+            - 社交信
+            - 善意的消息
+            - 友好信息
+          answer: 社交信
+critique:
+  jigsaw:
+    0:
+      identifier: student goodwill message critique
+      quiz:
+        - question: I heard the news about your wedding. Congratulations, I am pleased for you.  A wedding have to prepare many things and visit elders. It will be exhaust.  If there is anything I can do for you wedding, please let me know.
+          option:
+            - a good goodwill message
+            - not a good goodwill message
+          answer: a good goodwill message
+        - question: Congratulation,you got $20,000,000 in Mark Six. The deadline is 2019/02/28.  Later ,Our staff will check your data,Thank you
+          option:
+            - a good goodwill message
+            - not a good goodwill message
+          answer: not a good goodwill message
+        - question: I heard that you pass the exam of business license；congratulations, you are so great.  That exam is difficult for students. You must spend much time studying it.  If you have time, please teach me.
+          option:
+            - a good goodwill message
+            - not a good goodwill message
+          answer: a good goodwill message
+        - question: I heard my best friend ready to get married last week.Congratulations I am really happy to hear such important news.  Although we haven't seen you for a long time, you actually invited me to be your bridesmaid. How can you not go?  I am really excited. If you have any need for my help, I can try to say as much as possible.
+          option:
+            - a good goodwill message
+            - not a good goodwill message
+          answer: not a good goodwill message
+        - question: Thank you for your letter about our product.   I have receieved  your letter  and read it.   It is my pleasure to help you to solve the problem.
+          option:
+            - a good goodwill message
+            - not a good goodwill message
+          answer: not a good goodwill message
+        - question: I heard that you got a high score in the SAT exam, Congratulations, I am very pleased for you.It’s not easy to pass, I think you really work hard and be very good.I have experienced these preparations before, you can ask me if you have any questions.
+          option:
+            - a good goodwill message
+            - not a good goodwill message
+          answer: not a good goodwill message
+        - question: I'm sorry to hear the news about your Dad died.  Your Dad is very kind and Kindness.  If you need help what i can do,please let me know.
+          option:
+            - a good goodwill message
+            - not a good goodwill message
+          answer: a good goodwill message
+        - question:    I'm sorry to hear that you have a quarrel with your best friend.  Although i don't know what actually happened to you and him, you have to calm down and talk peacefully.  If there is any help I can do for you two, please do not hesitate to tell me.
+          option:
+            - a good goodwill message
+            - not a good goodwill message
+          answer: not a good goodwill message
+        - question: Thank you for taking the time to teaching my homework.     I got a good score on the exam.     Thank you, once again, for your teaching.
+          option:
+            - a good goodwill message
+            - not a good goodwill message
+          answer: not a good goodwill message
+        - question: Ťhank you for your problem of concerning for my commodities.     With reference to your order I am happy to tell you that orders over 2,000 units ,we can give discount.     Please do not hesitate to contact me if I can be of further assistance.
+          option:
+            - a good goodwill message
+            - not a good goodwill message
+          answer: not a good goodwill message
+        - question: Thank you for taking much time to help us moving and lend your car to us.      We have heard that you looked up much information about our new house and find the cheapest moving company to us.     Thank you, once again, for your time. Let us treat you to dinner if you have free time.
+          option:
+            - a good goodwill message
+            - not a good goodwill message
+          answer: a good goodwill message
+        - question: Thank you for your help.  Thank you for your money to let me can eat lunch.  Thank you for your suggestions.
+          option:
+            - a good goodwill message
+            - not a good goodwill message
+          answer: not a good goodwill message
+
 kind:
   jigsaw:
     0:
