@@ -323,8 +323,8 @@ talk:
         - question: The recipient speaks Chinese as a first language
           answer: False
         - question: |+
-            "That was not interesting" is the correct thing to say.
-          answer: False
+            "That made us realize that we are not the only ones ..." refers to the recipient's difficulties with Chinese.
+          answer: True
         - question: The writer is a teacher or student at a school.
           answer: True
         - question: The recipient is a teacher or student at the school.
