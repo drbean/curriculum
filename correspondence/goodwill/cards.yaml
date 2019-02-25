@@ -743,7 +743,7 @@ invitation:
           sentence: We were wondering if you would like to come.
           clozed: We|were|wondering|if|you|would|like|to|come|End
     refusal:
-      identifier: refusal
+      identifier: refusal scramble
       sentences:
         -
           sentence: Thanks very much for the invitation to the Christmas party.
