@@ -2,6 +2,39 @@
 % Dr Bean (高來圭) at https://github.com/drbean/curriculum/trunk/correspondence
 % Mon Mar 13 09:36:25 CST 2017
 
+# Goodwill definition
+
+## Internet definitions
+
+- [2 different meanings](http://www.iciba.com/Goodwill)
+- [The company in the US helping poor people](http://www.goodwill.org)
+- [The financial meaning](https://en.wikipedia.org/wiki/Goodwill_(accounting))
+
+## Good will and good news
+
+The difference is:
+
+- good will is about relationships between people, ie not really business
+- good news is about business, ie money
+
+# Student goodwill message critique
+
+What is the difference between these 2 messages?
+
+Which is the good goodwill message? Which is not a good goodwill message? 
+
+	I heard you passed the business license exam. Congratulations.
+	It's difficult. You must have spent much time studying.
+	If you have time, please teach me.
+
+	I heard you got a high SAT score. Congratulations.
+	It’s not easy to pass, I think you really worked hard.
+	I've done the SAT. You can ask me if you have questions.
+
+# Computer History Museum Award
+
+- [Chang and Huang talk about setting up companies](https://www.youtube.com/watch?v=u-x7PdnvCyI)
+
 # Homework
 
 ## Homework: Thanks, congratulation or condolence
