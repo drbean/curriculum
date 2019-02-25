@@ -70,6 +70,7 @@ I am the president of the student association at NUU and I would like to invite 
 You don't need to include information at the end of the exercise about what the student association plans will happen at the anniversary celebration. Just include the 3 parts on p69: the invitation, the event details, the request for a reply.
 
 In the request for reply, say, "If you are able (or not able) to come, could you please inform us by October 30, as you need to plan for the event."
+
 ## Homework: Prof Chang replies to the invitation letter
 
 Now take the role of Prof Chang.
