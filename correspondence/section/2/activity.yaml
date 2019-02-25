@@ -1,0 +1,139 @@
+---
+-
+  name: goodwill definition
+  question:
+    -
+      topic: goodwill
+      story: definition
+      type : jigsaw
+      form : 0
+-
+  name: goodwill and good news
+  question:
+    -
+      topic: news_good
+      story: goodwill
+      type : jigsaw
+      form : 0
+-
+  name: student goodwill message critique
+  question:
+    -
+      topic: goodwill
+      story: critique
+      type : jigsaw
+      form : 0
+-
+  name: conversation corner scramble
+  question:
+    -
+      topic: goodwill
+      story: conversation
+      type : drag
+      form : 0
+-
+  name: conversation corner structure
+  question:
+    -
+      topic: goodwill
+      story: conversation
+      type : jigsaw
+      form : 0
+-
+  name: conversation corner match
+  question:
+    -
+      topic: goodwill
+      story: conversation
+      type : match
+      form : 0
+-
+  name: talk at school
+  question:
+    -
+      topic: goodwill
+      story: talk
+      type : jigsaw
+      form : 0
+-
+  name: "talk at school: writer and recipient"
+  question:
+    -
+      topic: goodwill
+      story: talk
+      type : jigsaw
+      form : 1
+-
+  name: computer history museum award
+  question:
+    -
+      topic: goodwill
+      story: award
+      type : drag
+      form : 0
+-
+  name: award structure
+  question:
+    -
+      topic: goodwill
+      story: award
+      type : jigsaw
+      form : structure
+-
+  name: award comprehension questions
+  question:
+    -
+      topic: goodwill
+      story: award
+      type : jigsaw
+      form : comprehension
+-
+  name: smokers scramble
+  question:
+    -
+      topic: goodwill
+      story: invitation
+      type : drag
+      form : smokers
+-
+  name: smokers structure
+  question:
+    -
+      topic: goodwill
+      story: invitation
+      type : jigsaw
+      form : smokers
+-
+  name: xmas scramble
+  question:
+    -
+      topic: goodwill
+      story: invitation
+      type : drag
+      form : xmas
+-
+  name: xmas structure
+  question:
+    -
+      topic: goodwill
+      story: invitation
+      type : jigsaw
+      form : xmas
+-
+  name: refusal scramble
+  question:
+    -
+      topic: goodwill
+      story: invitation
+      type : drag
+      form : refusal
+-
+  name: xmas party declining structure
+  question:
+    -
+      topic: goodwill
+      story: invitation
+      type : match
+      form : xmas_refusal_structure
+    
+    
