@@ -331,10 +331,59 @@ talk:
           answer: False
         - question: The recipient was a visitor.
           answer: True
+    1:
+      identifier: "talk at school: writer and recipient"
+      quiz:
+        - question: the Taiwanese person
+          option:
+            - the writer
+            - the recipient
+          answer: the writer
+        - question: the foreigner
+          option:
+            - the writer
+            - the recipient
+          answer: the recipient
+        - question: the person who had difficulty learning Chinese
+          option:
+            - the writer
+            - the recipient
+          answer: the recipient
+        - question: Whose experiences made the writer realize that other people also have problems learning a second language?
+          option:
+            - the writer
+            - the recipient
+          answer: the recipient
+        - question: the speaker of Chinese as a first language
+          option:
+            - the writer
+            - the recipient
+          answer: the writer
+        - question: the speaker of Chinese as a second language
+          option:
+            - the writer
+            - the recipient
+          answer: the recipient
+        - question: the person who belongs to the school
+          option:
+            - the writer
+            - the recipient
+          answer: the writer
+        - question: the person thanking the other person
+          option:
+            - the writer
+            - the recipient
+          answer: the writer
+        - question: the person who took time to talk
+          option:
+            - the writer
+            - the recipient
+          answer: the recipient
+        
 award:
   jigsaw:
     structure:
-      identifier: award
+      identifier: award structure
       quiz:
         - question: award coming Computer_History_Museum Distinguished_Fellow for our receive Thank the to to yesterday you 
           option:
@@ -377,7 +426,7 @@ award:
             - forward-looking close
           answer: forward-looking close
     comprehension:
-      identifier: award
+      identifier: award comprehension questions
       quiz:
         - question: Who might be the person getting the award?
           option:
@@ -393,10 +442,15 @@ award:
             - The writer's organization was honored by an award
             - A distinguished visitor accepted the organization's award
           answer: A distinguished visitor accepted the organization's award
+        - question: Who visited the organization?
+          option:
+            - the writer
+            - the recipient
+          answer: the recipient
 
   drag:
     0:
-      identifier: morris chang award
+      identifier: computer history museum award
       sentences:
         -
           sentence: Thank you for coming to the Computer_History_Museum yesterday to receive our Distinguished_Fellow award.
@@ -665,7 +719,7 @@ invitation:
         - Sorry, again. 
   drag:
     smokers:
-      identifier: smokers
+      identifier: smokers scramble
       sentences:
         -
           sentence: Do you want to give a speech at a conference we are organizing?
@@ -677,7 +731,7 @@ invitation:
           sentence: Having you at the conference would make our day.
           clozed: Having|you|at|the|conference|would|make|our|day|End
     xmas:
-      identifier: xmas
+      identifier: xmas scramble
       sentences:
         -
           sentence: We're having a Christmas party at our house tomorrow.
@@ -706,7 +760,7 @@ invitation:
         
   jigsaw:
     smokers:
-      identifier: smokers
+      identifier: smokers structure
       quiz:
         - question: a a are at conference Do give organizing speech to want we you 
           option:
@@ -727,7 +781,7 @@ invitation:
             - request for reply (with deadline, perhaps)
           answer: request for reply (with deadline, perhaps)
     xmas:
-      identifier: xmas
+      identifier: xmas structure
       quiz:
         - question: a at Christmas having house our party tomorrow We're
           option:
