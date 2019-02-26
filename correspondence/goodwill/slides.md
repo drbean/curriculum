@@ -31,7 +31,15 @@ Which is the good goodwill message? Which is not a good goodwill message?
 	It’s not easy to pass, I think you really worked hard.
 	I've done the SAT. You can ask me if you have questions.
 
+# Conversation corner
+
+## Dr Bean talks
+
+- [table talk](http://www.nuu.edu.tw/UIPWeb/wSite/ct?xItem=87917&ctNode=9185&mp=23)
+
 # Computer History Museum Award
+
+## Chang and Huang
 
 - [Chang and Huang talk about setting up companies](https://www.youtube.com/watch?v=u-x7PdnvCyI)
 
