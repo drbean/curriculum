@@ -422,3 +422,14 @@ thing:
       treat                : 享受美食
       pill                 : 丸
       get a haircut        : 剪頭髮
+should:
+  0:
+    flash:
+      study notes  : 學習筆記
+      advice       : 忠告
+      salad        : 沙拉
+      chocolate    : 巧克力
+      quiet        : 安靜
+      report card  : 成績單
+      candy        : 糖果
+      upset        : 煩亂
