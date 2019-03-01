@@ -15,6 +15,7 @@
       story: goodwill
       type : jigsaw
       form : 0
+      intro: Check the definitions on p 67 and 73. The keyword for goodwill is "people." The keyword for good news is "money".
 -
   name: student goodwill message critique
   question:
@@ -23,6 +24,7 @@
       story: critique
       type : jigsaw
       form : 0
+      intro: Look at the structure on p 67. Does the writer say the right thing. Look at the examples on the third page of http://web.nuu.edu.tw/~greg/goodwill/slides.pdf . Which is the good message? Which isn't? The 3rd line in the second message doesn't make sense. The writer should not be OFFERING help! The recipient already PASSED the exam!
 -
   name: conversation corner scramble
   question:
@@ -31,6 +33,7 @@
       story: conversation
       type : drag
       form : 0
+      intro: A student is thanking me for talking to them at a conversation corner on Tuesday, 6:30pm. See the picture on the 4th page of the goodwill slides PDF.
 -
   name: conversation corner structure
   question:
@@ -55,6 +58,7 @@
       story: talk
       type : jigsaw
       form : 0
+      intro: See the thank-you message on p 67
 -
   name: "talk at school: writer and recipient"
   question:
@@ -63,6 +67,7 @@
       story: talk
       type : jigsaw
       form : 1
+      intro: See the thank-you message on p 67
 -
   name: computer history museum award
   question:
@@ -71,6 +76,7 @@
       story: award
       type : drag
       form : 0
+      intro: Watch 2 people talk about setting up companies at 15 minutes into the video on page 5 of the goodwill slides PDF. Unscramble the letter the person at the start of the video sent.
 -
   name: award structure
   question:
@@ -95,6 +101,7 @@
       story: invitation
       type : drag
       form : smokers
+      intro: This is an informal INVITATION, a different sort of goodwill message, to speak at a conference. Compare with the formal invitation on p 71.
 -
   name: smokers structure
   question:
@@ -111,6 +118,7 @@
       story: invitation
       type : drag
       form : xmas
+      intro: An invitation to a Xmas party
 -
   name: xmas structure
   question:
@@ -127,6 +135,7 @@
       story: invitation
       type : drag
       form : refusal
+      intro: The receiver of the email about the Xmas party declines/refuses/rejects the invitation.
 -
   name: xmas party declining structure
   question:
