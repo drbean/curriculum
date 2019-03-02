@@ -313,73 +313,6 @@ conversation:
         -
           - 3
           - repetition of thanks
-talk:
-  jigsaw:
-    0:
-      identifier: talk at school
-      quiz:
-        - question: The writer speaks Chinese as a first language
-          answer: True
-        - question: The recipient speaks Chinese as a first language
-          answer: False
-        - question: |+
-            "That made us realize that we are not the only ones ..." refers to the recipient's difficulties with Chinese.
-          answer: True
-        - question: The writer is a teacher or student at a school.
-          answer: True
-        - question: The recipient is a teacher or student at the school.
-          answer: False
-        - question: The recipient was a visitor.
-          answer: True
-    1:
-      identifier: "talk at school: writer and recipient"
-      quiz:
-        - question: the Taiwanese person
-          option:
-            - the writer
-            - the recipient
-          answer: the writer
-        - question: the foreigner
-          option:
-            - the writer
-            - the recipient
-          answer: the recipient
-        - question: the person who had difficulty learning Chinese
-          option:
-            - the writer
-            - the recipient
-          answer: the recipient
-        - question: Whose experiences made the writer realize that other people also have problems learning a second language?
-          option:
-            - the writer
-            - the recipient
-          answer: the recipient
-        - question: the speaker of Chinese as a first language
-          option:
-            - the writer
-            - the recipient
-          answer: the writer
-        - question: the speaker of Chinese as a second language
-          option:
-            - the writer
-            - the recipient
-          answer: the recipient
-        - question: the person who belongs to the school
-          option:
-            - the writer
-            - the recipient
-          answer: the writer
-        - question: the person thanking the other person
-          option:
-            - the writer
-            - the recipient
-          answer: the writer
-        - question: the person who took time to talk
-          option:
-            - the writer
-            - the recipient
-          answer: the recipient
-        
 award:
   jigsaw:
     structure:
@@ -563,6 +496,194 @@ congratulation:
             - a thought connected to the event
             - a future forward-looking close
           answer: a future forward-looking close
+roberts:
+  jigsaw:
+    thanks:
+      identifier: "roberts talk thanks: talk at school"
+      quiz:
+        - question: The writer speaks Chinese as a first language
+          answer: True
+        - question: The recipient speaks Chinese as a first language
+          answer: False
+        - question: |+
+            "That made us realize that we are not the only ones ..." refers to the recipient's difficulties with Chinese.
+          answer: True
+        - question: The writer is a teacher or student at a school.
+          answer: True
+        - question: The recipient is a teacher or student at the school.
+          answer: False
+        - question: The recipient was a visitor.
+          answer: True
+    1:
+      identifier: "roberts talk at school: writer and recipient"
+      quiz:
+        - question: the Taiwanese person
+          option:
+            - the writer
+            - the recipient
+          answer: the writer
+        - question: the foreigner
+          option:
+            - the writer
+            - the recipient
+          answer: the recipient
+        - question: the person who had difficulty learning Chinese
+          option:
+            - the writer
+            - the recipient
+          answer: the recipient
+        - question: Whose experiences made the writer realize that other people also have problems learning a second language?
+          option:
+            - the writer
+            - the recipient
+          answer: the recipient
+        - question: the speaker of Chinese as a first language
+          option:
+            - the writer
+            - the recipient
+          answer: the writer
+        - question: the speaker of Chinese as a second language
+          option:
+            - the writer
+            - the recipient
+          answer: the recipient
+        - question: the person who belongs to the school
+          option:
+            - the writer
+            - the recipient
+          answer: the writer
+        - question: the person thanking the other person
+          option:
+            - the writer
+            - the recipient
+          answer: the writer
+        - question: the person who took time to talk
+          option:
+            - the writer
+            - the recipient
+          answer: the recipient
+    congratulations:
+      identifier: roberts promotion congratulations
+      quiz:
+        - question: Despite the promotion, Roberts is in the same position as before.
+          answer: False
+        - question: The writer thinks Roberts may have problems in the future.
+          answer: True
+        - question: The writer thinks the promotion is less than Roberts deserved.
+          answer: False
+        - question: The writer thinks the promotion is more than Roberts deserved.
+          answer: False
+        - question: The writer thinks the promotion is deserved.
+          answer: True
+        - question: The writer is responsible for Roberts' promotion.
+          answer: False
+        - question: The writer says Roberts was promoted because of the writer's hard work and dedication.
+          answer: False
+        - question: The writer knows Roberts' work well.
+          answer: True
+        - question: The writer offers to help Roberts.
+          answer: True
+        - question: The writer says the big boss promoted Roberts because of his hard work and dedication.
+          answer: False
+        - question: The writer says Roberts was promoted because of his hard work and dedication.
+          answer: False
+        - question: The writer follows a standard 3-part congratulations structure.
+          answer: True
+        - question: The final line suggests the promotion may not result in easier work for Roberts.
+          answer: True
+        - question: The final line would be OK in a condolences message.
+          answer: True
+        - question: The writer asks for Roberts' help.
+          answer: False
+        - question: The writer forgets to thank Roberts.
+          answer: False
+        - question: Roberts might thank the writer for his message.
+          answer: True
+        - question: Roberts should reply to the writer's message.
+          answer: True
+        - question: The writer of the congratulations message is the same as the writer of the thank-you message.
+          answer: False
+        - question: The writer says the same thing in the final line as the writer of the condolences message did.
+          answer: True
+    condolences:
+      identifier: 
+      quiz:
+        - question: The writer's wife is Karen.
+          answer: False
+        - question: Roberts' wife is Karen.
+          answer: True
+        - question: Karen Roberts died.
+          answer: True
+        - question: Roberts' wife died.
+          answer: True
+        - question: Karen Roberts was friends with the writer.
+          answer: False
+        - question: The writer is sad about Karen Roberts.
+          answer: True
+        - question: Karen Roberts died before the writer knew Roberts.
+          answer: False
+        - question: Roberts talked about Karen with the writer.
+          answer: True
+        - question: The writer never met Karen.
+          answer: True
+        - question: Roberts said he had a good marriage.
+          answer: True
+        - question: Roberts said he didn't have a good marriage.
+          answer: False
+        - question: The writer doesn't mention anyone except Roberts and Karen.
+          answer: False
+        - question: The writer wants Roberts to tell his family he is sad about Karen.
+          answer: True
+        - question: Roberts didn't have any relatives except his wife.
+          answer: False
+        - question: Roberts had a family that included other people besides his wife.
+          answer: True
+        - question: Roberts personal comment is about conversations he had with Roberts about his wife.
+          answer: True
+        - question: Roberts personal comment is about conversations he had with Roberts and his wife.
+          answer: False
+        - question: The writer offers to help Roberts.
+          answer: True
+        - question: The writer offers to help Karen.
+          answer: False
+        - question: Roberts offers to help Karen.
+          answer: False
+        - question: Roberts offers to help the writer.
+          answer: False
+        - question: Karen offers to help Roberts.
+          answer: False
+        - question: Karen offers to help the writer.
+          answer: False
+        - question: The writer asks Roberts for help.
+          answer: False
+        - question: The writer asks Karen for help.
+          answer: False
+        - question: Roberts asks Karen for help.
+          answer: False
+        - question: Roberts asks the writer for help.
+          answer: False
+        - question: Karen asks Roberts for help.
+          answer: False
+        - question: Karen asks the writer for help.
+          answer: False
+        - question: The writer of the message could be the same person who wrote the congratulations message.
+          answer: True
+        - question: The writer of the message could be the same person who wrote the thank-you message.
+          answer: False
+        - question: The writer says the same thing in the final line as the writer of the congratulations message did.
+          answer: True
+      
+      
+      
+      
+      
+      
+        
+        
+        
+        
+        
+        
   match:
     graduation:
       identifier: graduation
@@ -719,6 +840,19 @@ invitation:
         - Let's get together to celebrate the New Year.
         - Sorry, again. 
   drag:
+    smokers_formal:
+      identifier: formal smokers scramble
+      sentences:
+        -
+          sentence: We were wondering if you would like to give a speech at a conference we are organizing?
+          clozed: We|were|wondering|if|you|would|like|to|give|a|speech|at|a|conference|we|are|End
+        -
+          sentence: The dates for the conference are October 20-21, and the location is the Sheraton Hotel in Hsinchu.
+          clozed: The|dates|for|the|conference|are|October|and|the|location|is|the|Sheraton|Hotel|in|End
+        -
+          sentence: Assuming you are willing to do this, can you inform us of the fee and any special equipment you would require.
+          clozed: Assuming|you|are|willing|to|do|can|you|inform|us|of|the|fee|and|any|special|equipment|you|would|End
+        
     smokers:
       identifier: smokers scramble
       sentences:
@@ -781,6 +915,44 @@ invitation:
             - details of event (eg, place, time)
             - request for reply (with deadline, perhaps)
           answer: request for reply (with deadline, perhaps)
+    smokers_comprehension:
+      identifier: smokers comprehension questions
+      quiz:
+        - question: the one organizing the conference
+          option:
+            - the writer
+            - the recipient
+          answer: the writer
+        - question: the one who can accept or reject the invitation
+          option:
+            - the writer
+            - the recipient
+          answer: the recipient
+        - question: the one who expresses interest in the decision of the other person
+          option:
+            - the writer
+            - the recipient
+          answer: the writer
+        - question: the one who may or may not attend the conference
+          option:
+            - the writer
+            - the recipient
+          answer: the recipient
+        - question: The one who is inviting the other
+          option:
+            - the writer
+            - the recipient
+          answer: the writer
+        - question: The one who is being invited by the other
+          option:
+            - the writer
+            - the recipient
+          answer: the recipient
+        - question: the one who will give a speech
+          option:
+            - the writer
+            - the recipient
+          answer: the recipient
     xmas:
       identifier: xmas structure
       quiz:
