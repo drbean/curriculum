@@ -1146,7 +1146,7 @@ smokers:
         -
           sentence: Assuming you are willing to do this, can you inform us of your fee and any special equipment you would require?
           clozed: Assuming|you|are|willing|to|do|can|you|inform|us|of|your|fee|and|any|special|equipment|you|would|End
-    revisee:
+    alternate:
       identifier: Smokers invitation to Dr Chen
       sentences:
         -
