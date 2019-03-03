@@ -914,12 +914,6 @@ condolence:
           - If you nee ..
 invitation:
   scramble:
-    0:
-      identifier: smokers
-      sentence:
-        - Do you want to give a speech at a conference we are organizing?
-        - The conference will take place October_20-21 in Taipei.
-        - Having you at the conference would make our day.
     1:
       identifier: xmas
       sentence:
@@ -934,46 +928,6 @@ invitation:
         - Let's get together to celebrate the New Year.
         - Sorry, again. 
   drag:
-    smokers_formal:
-      identifier: formal smokers scramble
-      sentences:
-        -
-          sentence: We were wondering if you would like to give a speech at a conference we are organizing?
-          clozed: We|were|wondering|if|you|would|like|to|give|a|speech|at|a|conference|we|are|End
-        -
-          sentence: We would be very pleased if you could give a speech at our medical conference.
-          clozed: |We|would|be|very|pleased|if|you|could|give|a|speech|at|our|End
-        -
-          sentence: I would like to invite you to give a speech at our conference.
-          clozed: |I|would|like|to|invite|you|to|give|a|speech|at|our|conference|End
-        -
-          sentence: We would be delighted if you could give a speech to doctors at our conference.
-          clozed: We|would|be|delighted|if|you|could|give|a|speech|to|doctors|at|our|End
-        -
-          sentence: We have pleasure in inviting you to give a speech at our conference.
-          clozed: We have pleasure in inviting you to give a speech at our conference.
-        -
-          sentence: The conference will be about lung diseases, and because of your fame as a lung specialist, we want you to open the conference.
-          clozed: The|conference|will|be|about|and|of|your|fame|as|a|lung|we|want|you|to|open|the|End
-        -
-          sentence: The dates for the conference are October 20-21, and the location is the Sheraton Hotel in Hsinchu.
-          clozed: The|dates|for|the|conference|are|October|and|the|location|is|the|Sheraton|Hotel|in|End
-        -
-          sentence: Assuming you are willing to do this, can you inform us of your fee and any special equipment you would require.
-          clozed: Assuming|you|are|willing|to|do|can|you|inform|us|of|your|fee|and|any|special|equipment|you|would|End
-        
-    smokers:
-      identifier: smokers scramble
-      sentences:
-        -
-          sentence: Do you want to give a speech at a conference we are organizing?
-          clozed: Do|you|want|to|give|a|speech|at|a|conference|we|are|organizing|End
-        -
-          sentence: The conference will take place October_20-21 in Taipei.
-          clozed: The|conference|will|take|place|October_20-21|in|Taipei|End
-        -
-          sentence: Having you at the conference would make our day.
-          clozed: Having|you|at|the|conference|would|make|our|day|End
     xmas:
       identifier: xmas scramble
       sentences:
@@ -1002,6 +956,96 @@ invitation:
           sentence: Sorry, again. 
           clozed: Sorry|again|End
         
+  jigsaw:
+    xmas:
+      identifier: xmas structure
+      quiz:
+        - question: a at Christmas having house our party tomorrow We're
+          option:
+            - invitation
+            - details of event (eg, place, time)
+            - request for reply (with deadline, perhaps)
+          answer: details of event (eg, place, time)
+        - question: come if like to We were wondering would you
+          option:
+            - invitation
+            - details of event (eg, place, time)
+            - request for reply (with deadline, perhaps)
+          answer: invitation
+        - question: an can Can come email if saying send tonight us you you
+          option:
+            - invitation
+            - details of event (eg, place, time)
+            - request for reply (with deadline, perhaps)
+          answer: request for reply (with deadline, perhaps)
+    comprehension_questions:
+      identifier: smokers, xmas, refusal, dinner questions about formality, relationships
+      quiz:
+        - question: The writer of the Smokers email knows Dr Chen.
+          answer: False
+        - question: The writer of the dinner acceptance email knows Al Jalahma.
+          answer: True
+        - question: The writer of the Xmas refusal email knows the organizers of the party.
+          answer: True
+        - question: The text in the Xmas refusal email is less formal than the dinner acceptance email.
+          answer: True
+        - question: The text in the Xmas refusal email is less formal than the Chen refusal email.
+          answer: True
+        - question: The text in the smokers invitation in the book is less formal than the text in the smokers scramble/structure on the site.
+          answer: False
+  match:
+    xmas_refusal_structure:
+      identifier: xmas party declining structure
+      pair:
+        -
+          - Thanks ver ..
+          - acknowledgement and thanks
+        -
+          - Unfortunat ..
+          - rejection with reason
+        -
+          - Let's get  ..
+          - offer of alternative
+        -
+          - Sorry, aga ..
+          - apology, restated
+    dinner:
+      identifier: book, dinner invitation acceptance
+      pair:
+        -
+          - 1
+          - for
+        -
+          - 2
+          - of
+        -
+          - 3
+          - to_1
+        -
+          - 4
+          - from
+        -
+          - 5
+          - to_2
+        -
+          - 6
+          - at
+        -
+          - 7
+          - to_3
+    dinner_structure:
+      identifier: acceptance structure
+      pair:
+        -
+          - 1
+          - acknowledgement and thanks
+        -
+          - 2
+          - acceptance
+        -
+          - 3
+          - re-expresssion of thanks
+smokers:
   jigsaw:
     smokers:
       identifier: smokers structure
@@ -1067,58 +1111,14 @@ invitation:
             - the writer
             - the recipient
           answer: the recipient
-    xmas:
-      identifier: xmas structure
-      quiz:
-        - question: a at Christmas having house our party tomorrow We're
-          option:
-            - invitation
-            - details of event (eg, place, time)
-            - request for reply (with deadline, perhaps)
-          answer: details of event (eg, place, time)
-        - question: come if like to We were wondering would you
-          option:
-            - invitation
-            - details of event (eg, place, time)
-            - request for reply (with deadline, perhaps)
-          answer: invitation
-        - question: an can Can come email if saying send tonight us you you
-          option:
-            - invitation
-            - details of event (eg, place, time)
-            - request for reply (with deadline, perhaps)
-          answer: request for reply (with deadline, perhaps)
-    comprehension_questions:
+  scramble:
+    0:
       identifier: smokers
-      quiz:
-        - question: The writer of the Smokers email knows Dr Chen.
-          answer: False
-        - question: The writer of the dinner acceptance email knows Al Jalahma.
-          answer: True
-        - question: The writer of the Xmas refusal email knows the organizers of the party.
-          answer: True
-        - question: The text in the Xmas refusal email is less formal than the dinner acceptance email.
-          answer: True
-        - question: The text in the Xmas refusal email is less formal than the Chen refusal email.
-          answer: True
-        - question: The text in the smokers invitation in the book is less formal than the text in the smokers scramble/structure on the site.
-          answer: False
+      sentence:
+        - Do you want to give a speech at a conference we are organizing?
+        - The conference will take place October_20-21 in Taipei.
+        - Having you at the conference would make our day.
   match:
-    xmas_refusal_structure:
-      identifier: xmas party declining structure
-      pair:
-        -
-          - Thanks ver ..
-          - acknowledgement and thanks
-        -
-          - Unfortunat ..
-          - rejection with reason
-        -
-          - Let's get  ..
-          - offer of alternative
-        -
-          - Sorry, aga ..
-          - apology, restated
     smokers:
       identifier: smokers
       pair:
@@ -1203,42 +1203,6 @@ invitation:
         -
           - 14
           - news
-    dinner:
-      identifier: book, dinner invitation acceptance
-      pair:
-        -
-          - 1
-          - for
-        -
-          - 2
-          - of
-        -
-          - 3
-          - to_1
-        -
-          - 4
-          - from
-        -
-          - 5
-          - to_2
-        -
-          - 6
-          - at
-        -
-          - 7
-          - to_3
-    dinner_structure:
-      identifier: acceptance structure
-      pair:
-        -
-          - 1
-          - acknowledgement and thanks
-        -
-          - 2
-          - acceptance
-        -
-          - 3
-          - re-expresssion of thanks
     chen_structure:
       identifier: declining structure
       pair:
