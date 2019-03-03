@@ -979,7 +979,7 @@ invitation:
             - request for reply (with deadline, perhaps)
           answer: request for reply (with deadline, perhaps)
     comprehension_questions:
-      identifier: smokers, xmas, refusal, dinner questions about formality, relationships
+      identifier: smokers, xmas, dinner--formality, relationships
       quiz:
         - question: The writer of the Smokers email knows Dr Chen.
           answer: False
@@ -1118,6 +1118,41 @@ smokers:
         - Do you want to give a speech at a conference we are organizing?
         - The conference will take place October_20-21 in Taipei.
         - Having you at the conference would make our day.
+  drag:
+    smokers_formal:
+      identifier: formal smokers scramble
+      sentences:
+        -
+          sentence: We were wondering if you would like to give a speech at a conference we are organizing?
+          clozed: We|were|wondering|if|you|would|like|to|give|a|speech|at|a|conference|we|are|End
+        -
+          sentence: We would be very pleased if you could give a speech at our medical conference.
+          clozed: |We|would|be|very|pleased|if|you|could|give|a|speech|at|our|End
+        -
+          sentence: I would like to invite you to give a speech at our conference.
+          clozed: |I|would|like|to|invite|you|to|give|a|speech|at|our|conference|End
+        -
+          sentence: We would be delighted if you could give a speech to doctors at our conference.
+          clozed: We|would|be|delighted|if|you|could|give|a|speech|to|doctors|at|our|End
+        -
+          sentence: We have pleasure in inviting you to give a speech at our conference.
+          clozed: We have pleasure in inviting you to give a speech at our conference.
+        -
+          sentence: The conference will be about lung diseases, and because of your fame as a lung specialist, we want you to open the conference.
+          clozed: The|conference|will|be|about|and|of|your|fame|as|a|lung|we|want|you|to|open|the|End
+        -
+          sentence: The dates for the conference are October 20-21, and the location is the Sheraton Hotel in Hsinchu.
+          clozed: The|dates|for|the|conference|are|October|and|the|location|is|the|Sheraton|Hotel|in|End
+        -
+          sentence: Assuming you are willing to do this, can you inform us of your fee and any special equipment you would require?
+          clozed: Assuming|you|are|willing|to|do|can|you|inform|us|of|your|fee|and|any|special|equipment|you|would|End
+    revisee:
+      identifier: Smokers invitation to Dr Chen
+      sentences:
+        -
+          sentence: "Our company (Smokers Inc.) is organizing a conference on lung diseases, and we were wondering if you would like to give the opening speech for us. present at the conference will be over 200 prominent doctors from all over the world. because of your research in lung diseases, we want you to open proceedings.<p>  The conference will take place from October 20-21, 2016 (10:00a.m.-6:00 p.m.) at the Grand Hillside, Taipei (please see the attached map). We would prefer the opening speech to be from forty to sixty minutes long. <p> If you are willing to deliver this speech, in your reply could you also include your fee and details of any special requirements you may have.<p>  Thank you for considering this invitation and we hope to hear from you soon."
+          clozed: is_organizing|conference|were_wondering|if|you|would|like|to|give|present|because_of|research|lung_diseases|want_you|will_take_place|prefer|from|willing|fee|requirements|may_have|invitation|hope|End
+
   match:
     smokers:
       identifier: smokers
@@ -1131,8 +1166,8 @@ smokers:
         -
           - Hopeful closing sentiment
           - Having you at the conference would ..
-    smokers_book:
-      identifier: book, vocab
+    book:
+      identifier: smokers book cloze
       pair:
         -
           - 1
