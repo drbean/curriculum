@@ -562,6 +562,28 @@ roberts:
             - the writer
             - the recipient
           answer: the recipient
+    thanks_structure:
+      identifier: roberts thanks structure
+      quiz:
+        - question: "'Thank you for your talk,' is the act/action."
+          answer: True
+        - question: "'Thank you for your talk,' is the thought connected to the event of the message."
+          answer: False
+        - question: "'Thank you for your talk,' is the forward-looking close of the message."
+          answer: False
+        - question: "'Your problems learning Chinese made us realize language learning is difficult for everyone,' is the act/action."
+          answer: False
+        - question: "'Your problems learning Chinese made us realize language learning is difficult for everyone,' is the thought connected to the event of the message."
+          answer: True
+        - question: "'Your problems learning Chinese made us realize language learning is difficult for everyone,' is the forward-looking close of the message."
+          answer: False
+        - question: "'Please come again,' is the act/action."
+          answer: False
+        - question: "'Please come again,' is the thought connected to the event of the message."
+          answer: False
+        - question: "'Please come again,' is the forward-looking close of the message."
+          answer: True
+        
     congratulations:
       identifier: roberts promotion congratulations
       quiz:
@@ -605,8 +627,30 @@ roberts:
           answer: False
         - question: The writer says the same thing in the final line as the writer of the condolences message did.
           answer: True
+    congratulations_structure:
+      identifier: roberts congratulation structure
+      quiz:
+        - question: "'Congratulations' is the act/action of the message."
+          answer: True
+        - question: "'Congratulations' is the thought connected to the event of the message."
+          answer: False
+        - question: "'Congratulations' is the forward-looking close of the message."
+          answer: False
+        - question: "'You deserve the promotion because of your hard work and dedication' is the act/action of the message."
+          answer: False
+        - question: "'You deserve the promotion because of your hard work and dedication' is the thought connected to the event of the message."
+          answer: True
+        - question: "'You deserve the promotion because of your hard work and dedication' is the forward-looking close of the message."
+          answer: False
+        - question: "'Contact me, if you need help' is the act/action of the message."
+          answer: False
+        - question: "'Contact me, if you need help' is the thought connected to the event of the message."
+          answer: False
+        - question: "'Contact me, if you need help' is the forward-looking close of the message."
+          answer: True
+        
     condolences:
-      identifier: 
+      identifier: roberts death condolences
       quiz:
         - question: The writer's wife is Karen.
           answer: False
@@ -672,6 +716,56 @@ roberts:
           answer: False
         - question: The writer says the same thing in the final line as the writer of the congratulations message did.
           answer: True
+    condolences_structure:
+      identifier: roberts condolences structure
+      quiz:
+        - question: "'Sorry to hear your wife died,' is the act/action of the message."
+          answer: True
+        - question: "'Sorry to hear your wife died,' is the thought connected to the event of the message."
+          answer: False
+        - question: "'Sorry to hear your wife died,' is the forward-looking close of the message."
+          answer: False
+        - question: "'The way you talked about her made a deep impression,' is the act/action of the message."
+          answer: False
+        - question: "'The way you talked about her made a deep impression,' is the thought connected to the event of the message."
+          answer: True
+        - question: "'The way you talked about her made a deep impression,' is the forward-looking close of the message."
+          answer: False
+        - question: "'Tell your family I was sorry to hear the news. And call me if you need help,' is the act/action of the message."
+          answer: False
+        - question: "'Tell your family I was sorry to hear the news. And call me if you need help,' is the thought connected to the event of the message."
+          answer: False
+        - question: "'Tell your family I was sorry to hear the news. And call me if you need help,' is the forward-looking close of the message."
+          answer: True
+    invitation:
+      identifier: roberts graduation ceremony invitation
+      quiz:
+        - question: Roberts invites Stoller to a graduation ceremony.
+          answer: False
+        - question: Stoller follows the structure on p69 exactly.
+          answer: False
+        - question: Roberts and Stoller don't know each other.
+          answer: False
+        - question: Roberts and Stoller met at Stoller's school.
+          answer: True
+        - question: Roberts and Stoller met at Roberts' school.
+          answer: False
+        - question: Roberts knows Stoller's classmates.
+          answer: True
+        - question: Stoller reversed the invitation and event details.
+          answer: True
+        - question: The invitation and event details are in the same order as p69.
+          answer: False
+        - question: Stoller's words show she expects that Roberts will come to the event.
+          answer: True
+        - question: Stoller's words show she thinks it's unlikely Roberts will come to the event.
+          answer: False
+        
+        
+        
+        
+        
+        
       
       
       
@@ -847,11 +941,26 @@ invitation:
           sentence: We were wondering if you would like to give a speech at a conference we are organizing?
           clozed: We|were|wondering|if|you|would|like|to|give|a|speech|at|a|conference|we|are|End
         -
+          sentence: We would be very pleased if you could give a speech at our medical conference.
+          clozed: |We|would|be|very|pleased|if|you|could|give|a|speech|at|our|End
+        -
+          sentence: I would like to invite you to give a speech at our conference.
+          clozed: |I|would|like|to|invite|you|to|give|a|speech|at|our|conference|End
+        -
+          sentence: We would be delighted if you could give a speech to doctors at our conference.
+          clozed: We|would|be|delighted|if|you|could|give|a|speech|to|doctors|at|our|End
+        -
+          sentence: We have pleasure in inviting you to give a speech at our conference.
+          clozed: We have pleasure in inviting you to give a speech at our conference.
+        -
+          sentence: The conference will be about lung diseases, and because of your fame as a lung specialist, we want you to open the conference.
+          clozed: The|conference|will|be|about|and|of|your|fame|as|a|lung|we|want|you|to|open|the|End
+        -
           sentence: The dates for the conference are October 20-21, and the location is the Sheraton Hotel in Hsinchu.
           clozed: The|dates|for|the|conference|are|October|and|the|location|is|the|Sheraton|Hotel|in|End
         -
-          sentence: Assuming you are willing to do this, can you inform us of the fee and any special equipment you would require.
-          clozed: Assuming|you|are|willing|to|do|can|you|inform|us|of|the|fee|and|any|special|equipment|you|would|End
+          sentence: Assuming you are willing to do this, can you inform us of your fee and any special equipment you would require.
+          clozed: Assuming|you|are|willing|to|do|can|you|inform|us|of|your|fee|and|any|special|equipment|you|would|End
         
     smokers:
       identifier: smokers scramble
@@ -918,6 +1027,11 @@ invitation:
     smokers_comprehension:
       identifier: smokers comprehension questions
       quiz:
+        - question: the one who has knowledge about a topic of interest to conference goers
+          option:
+            - the writer
+            - the recipient
+          answer: the recipient
         - question: the one organizing the conference
           option:
             - the writer
