@@ -496,6 +496,140 @@ congratulation:
             - a thought connected to the event
             - a future forward-looking close
           answer: a future forward-looking close
+  match:
+    graduation:
+      identifier: graduation
+      pair:
+        -
+          - Initial congratulation
+          - graduated great hear It's to you
+        -
+          - Personal comment
+          - a as get going hope I it's job long not take to to you
+        -
+          - A reference to the future interaction with the recipient
+          - and celebrate don't get together we Why
+    puppy:
+      identifier: puppy
+      pair:
+        -
+          - I hear you ...
+          - Initial congratulation
+        -
+          - The dog is  ...
+          - Personal comment
+        -
+          - If you hav ...
+          - A reference to the future interaction with the recipient
+condolence:
+  scramble:
+    0:
+      identifier: gept
+      sentence:
+          - Too bad you didn't get a good GEPT score.
+          - You're going to have to take the CSEPT exam.
+          - I can lend you my CSEPT textbooks, if you want.
+    1:
+      identifier: puppy
+      sentence:
+        - I'm sorry to hear the puppy died.
+        - Although you only had the dog for a week, your comments about it showed you loved it a lot.
+        - If you need help burying the dog, I can help you dig a hole in the ground.
+  drag:
+    gept:
+      identifier: gept
+      sentences:
+        -
+          sentence: Too bad you didn't get a good GEPT score.
+          clozed: Too|bad|you|didn't|get|a|good|GEPT|score|End
+        -
+          sentence: You're going to have to take the CSEPT exam.
+          clozed: You're|going|to|have|to|take|the|CSEPT|exam|End
+        -
+          sentence: I can lend you my CSEPT textbooks, if you want.
+          clozed: I|can|lend|you|my|CSEPT|textbooks|if|you|want|End
+    puppy:
+      identifier: puppy
+      sentences:
+        -
+          sentence: I'm sorry to hear the puppy died.
+          clozed: I'm|sorry|to|hear|the|puppy|died|End
+        -
+          sentence: Although you only had the dog for a week, your comments about it showed you loved it a lot.
+          clozed: Although|you|only|had|the|dog|for|a|your|comments|about|it|showed|you|loved|it|a|lot|End
+        -
+          sentence: If you need help burying the dog, I can help you dig a hole in the ground.
+          clozed: If|you|need|help|burying|the|I|can|help|you|dig|a|hole|in|the|ground|End
+        
+        
+  jigsaw:
+    gept:
+      identifier: gept
+      quiz:
+        - question: a bad didn't GEPT get good score Too you
+          option:
+            - condolence
+            - a thought connected to the event
+            - a future forward-looking close (eg offer of assistance)
+          answer: condolence
+        - question: CSEPT exam going have take the to to You're
+          option:
+            - condolence
+            - a thought connected to the event
+            - a future forward-looking close (eg offer of assistance)
+          answer: a thought connected to the event
+        - question: can CSEPT I if lend my textbooks, want you you
+          option:
+            - condolence
+            - a thought connected to the event
+            - a future forward-looking close (eg offer of assistance)
+          answer: a future forward-looking close (eg offer of assistance)
+    puppy:
+      identifier: puppy
+      quiz:
+        - question: died hear I'm puppy sorry the to 
+          option:
+            - condolence
+            - a thought connected to the event
+            - a future forward-looking close (eg offer of assistance)
+          answer: condolence
+        - question: a a about Although comments dog for had it it lot loved only showed the week you you your 
+          option:
+            - condolence
+            - a thought connected to the event
+            - a future forward-looking close (eg offer of assistance)
+          answer: a thought connected to the event
+        - question: a burying can dig dog ground help help hole I If in need the the you you
+          option:
+            - condolence
+            - a thought connected to the event
+            - a future forward-looking close (eg offer of assistance)
+          answer: a future forward-looking close (eg offer of assistance)
+  match:
+    gept:
+      identifier: gept
+      pair:
+        -
+          - Reason for condolences
+          - Too bad ..
+        -
+          - Personal comment
+          - You're going to ..
+        -
+          - Offer of assistance
+          - I can ..
+    puppy:
+      identifier: puppy
+      pair:
+        -
+          - Reason for condolences
+          - I'm sorry  ..
+        -
+          - Personal comment
+          - Although I ..
+        -
+          - Offer of assistance
+          - If you nee ..
 roberts:
   jigsaw:
     thanks:
@@ -737,551 +871,3 @@ roberts:
           answer: False
         - question: "'Tell your family I was sorry to hear the news. And call me if you need help,' is the forward-looking close of the message."
           answer: True
-    invitation:
-      identifier: roberts graduation ceremony invitation
-      quiz:
-        - question: Roberts invites Stoller to a graduation ceremony.
-          answer: False
-        - question: Stoller follows the structure on p69 exactly.
-          answer: False
-        - question: Roberts and Stoller don't know each other.
-          answer: False
-        - question: Roberts and Stoller met at Stoller's school.
-          answer: True
-        - question: Roberts and Stoller met at Roberts' school.
-          answer: False
-        - question: Roberts knows Stoller's classmates.
-          answer: True
-        - question: Stoller reversed the invitation and event details.
-          answer: True
-        - question: The invitation and event details are in the same order as p69.
-          answer: False
-        - question: Stoller's words show she expects that Roberts will come to the event.
-          answer: True
-        - question: Stoller's words show she thinks it's unlikely Roberts will come to the event.
-          answer: False
-        
-        
-        
-        
-        
-        
-      
-      
-      
-      
-      
-      
-        
-        
-        
-        
-        
-        
-  match:
-    graduation:
-      identifier: graduation
-      pair:
-        -
-          - Initial congratulation
-          - graduated great hear It's to you
-        -
-          - Personal comment
-          - a as get going hope I it's job long not take to to you
-        -
-          - A reference to the future interaction with the recipient
-          - and celebrate don't get together we Why
-    puppy:
-      identifier: puppy
-      pair:
-        -
-          - I hear you ...
-          - Initial congratulation
-        -
-          - The dog is  ...
-          - Personal comment
-        -
-          - If you hav ...
-          - A reference to the future interaction with the recipient
-condolence:
-  scramble:
-    0:
-      identifier: gept
-      sentence:
-          - Too bad you didn't get a good GEPT score.
-          - You're going to have to take the CSEPT exam.
-          - I can lend you my CSEPT textbooks, if you want.
-    1:
-      identifier: puppy
-      sentence:
-        - I'm sorry to hear the puppy died.
-        - Although you only had the dog for a week, your comments about it showed you loved it a lot.
-        - If you need help burying the dog, I can help you dig a hole in the ground.
-  drag:
-    gept:
-      identifier: gept
-      sentences:
-        -
-          sentence: Too bad you didn't get a good GEPT score.
-          clozed: Too|bad|you|didn't|get|a|good|GEPT|score|End
-        -
-          sentence: You're going to have to take the CSEPT exam.
-          clozed: You're|going|to|have|to|take|the|CSEPT|exam|End
-        -
-          sentence: I can lend you my CSEPT textbooks, if you want.
-          clozed: I|can|lend|you|my|CSEPT|textbooks|if|you|want|End
-    puppy:
-      identifier: puppy
-      sentences:
-        -
-          sentence: I'm sorry to hear the puppy died.
-          clozed: I'm|sorry|to|hear|the|puppy|died|End
-        -
-          sentence: Although you only had the dog for a week, your comments about it showed you loved it a lot.
-          clozed: Although|you|only|had|the|dog|for|a|your|comments|about|it|showed|you|loved|it|a|lot|End
-        -
-          sentence: If you need help burying the dog, I can help you dig a hole in the ground.
-          clozed: If|you|need|help|burying|the|I|can|help|you|dig|a|hole|in|the|ground|End
-        
-        
-  jigsaw:
-    gept:
-      identifier: gept
-      quiz:
-        - question: a bad didn't GEPT get good score Too you
-          option:
-            - condolence
-            - a thought connected to the event
-            - a future forward-looking close (eg offer of assistance)
-          answer: condolence
-        - question: CSEPT exam going have take the to to You're
-          option:
-            - condolence
-            - a thought connected to the event
-            - a future forward-looking close (eg offer of assistance)
-          answer: a thought connected to the event
-        - question: can CSEPT I if lend my textbooks, want you you
-          option:
-            - condolence
-            - a thought connected to the event
-            - a future forward-looking close (eg offer of assistance)
-          answer: a future forward-looking close (eg offer of assistance)
-    puppy:
-      identifier: puppy
-      quiz:
-        - question: died hear I'm puppy sorry the to 
-          option:
-            - condolence
-            - a thought connected to the event
-            - a future forward-looking close (eg offer of assistance)
-          answer: condolence
-        - question: a a about Although comments dog for had it it lot loved only showed the week you you your 
-          option:
-            - condolence
-            - a thought connected to the event
-            - a future forward-looking close (eg offer of assistance)
-          answer: a thought connected to the event
-        - question: a burying can dig dog ground help help hole I If in need the the you you
-          option:
-            - condolence
-            - a thought connected to the event
-            - a future forward-looking close (eg offer of assistance)
-          answer: a future forward-looking close (eg offer of assistance)
-  match:
-    gept:
-      identifier: gept
-      pair:
-        -
-          - Reason for condolences
-          - Too bad ..
-        -
-          - Personal comment
-          - You're going to ..
-        -
-          - Offer of assistance
-          - I can ..
-    puppy:
-      identifier: puppy
-      pair:
-        -
-          - Reason for condolences
-          - I'm sorry  ..
-        -
-          - Personal comment
-          - Although I ..
-        -
-          - Offer of assistance
-          - If you nee ..
-invitation:
-  scramble:
-    1:
-      identifier: xmas
-      sentence:
-        - We're having a Christmas party at our house tomorrow.
-        - We were wondering if you would like to come.
-        - Can you send us an email tonight saying if you can come.
-    2:
-      identifier: xmas refusal
-      sentence:
-        - Thanks very much for the invitation to the Christmas party.
-        - Unfortunately, I'm going to my parents' place for Christmas.
-        - Let's get together to celebrate the New Year.
-        - Sorry, again. 
-  drag:
-    xmas:
-      identifier: xmas scramble
-      sentences:
-        -
-          sentence: We're having a Christmas party at our house tomorrow.
-          clozed: We're|having|a|Christmas|party|at|our|house|End
-        -
-          sentence: Can you send us an email tonight saying if you can come.
-          clozed: Can|you|send|us|an|email|tonight|saying|if|you|can|come|End
-        -
-          sentence: We were wondering if you would like to come.
-          clozed: We|were|wondering|if|you|would|like|to|come|End
-    refusal:
-      identifier: refusal scramble
-      sentences:
-        -
-          sentence: Thanks very much for the invitation to the Christmas party.
-          clozed: Thanks|very|much|for|the|invitation|to|the|Christmas|party|End
-        -
-          sentence: Unfortunately, I'm going to my parents' place for Christmas.
-          clozed: Unfortunately|I'm|going|to|my|parents'|place|for|Christmas|End
-        -
-          sentence: Let's get together to celebrate the New Year.
-          clozed: Let's|get|together|to|celebrate|the|New|Year|End
-        -
-          sentence: Sorry, again. 
-          clozed: Sorry|again|End
-        
-  jigsaw:
-    xmas:
-      identifier: xmas structure
-      quiz:
-        - question: a at Christmas having house our party tomorrow We're
-          option:
-            - invitation
-            - details of event (eg, place, time)
-            - request for reply (with deadline, perhaps)
-          answer: details of event (eg, place, time)
-        - question: come if like to We were wondering would you
-          option:
-            - invitation
-            - details of event (eg, place, time)
-            - request for reply (with deadline, perhaps)
-          answer: invitation
-        - question: an can Can come email if saying send tonight us you you
-          option:
-            - invitation
-            - details of event (eg, place, time)
-            - request for reply (with deadline, perhaps)
-          answer: request for reply (with deadline, perhaps)
-    dinner_comprehension:
-      identifier: dinner comprehension questions
-      quiz:
-        - question: What kind of message is the dinner message of Kennedy to Jalahma?
-          option:
-            - thank-you message
-            - congratulations message
-            - condolences message
-            - invitation
-            - acceptance of an invitation
-            - refusal of an invitation
-          answer: acceptance of an invitation
-        - question: Jalahma invited Kennedy to a graduation ceremony.
-          answer: False
-        - question: Kennedy follows the structure on p69 exactly.
-          answer: True
-        - question: Jalahma and Kennedy don't know each other.
-          answer: False
-        - question: Jalahma and Kennedy met at Kennedy's school.
-          answer: True
-        - question: Jalahma and Kennedy will meet at the Crown Hotel.
-          answer: True
-        - question: Kennedy knows Jalahma's colleagues.
-          answer: False
-        - question: Kennedy reversed the thanking and acceptance/rejection details.
-          answer: True
-        - question: The thanking and acceptance/rejection details are in the same order as p69.
-          answer: False
-        - question: Kennedy's words show he expects Jalahma to be at the event.
-          answer: True
-        - question: Kennedy's words show he thinks it's unlikely Jalahma will to be at the event.
-          answer: False
-    comprehension_questions:
-      identifier: smokers, xmas, dinner--formality, relationships
-      quiz:
-        - question: The writer of the Smokers email knows Dr Chen.
-          answer: False
-        - question: The writer of the dinner acceptance email knows Al Jalahma.
-          answer: True
-        - question: The writer of the Xmas refusal email knows the organizers of the party.
-          answer: True
-        - question: The text in the Xmas refusal email is less formal than the dinner acceptance email.
-          answer: True
-        - question: The text in the Xmas refusal email is less formal than the Chen refusal email.
-          answer: True
-        - question: The text in the smokers invitation in the book is less formal than the text in the smokers scramble/structure on the site.
-          answer: False
-  match:
-    xmas_refusal_structure:
-      identifier: xmas party declining structure
-      pair:
-        -
-          - Thanks ver ..
-          - acknowledgement and thanks
-        -
-          - Unfortunat ..
-          - rejection with reason
-        -
-          - Let's get  ..
-          - offer of alternative
-        -
-          - Sorry, aga ..
-          - apology, restated
-    dinner:
-      identifier: book, dinner invitation acceptance
-      pair:
-        -
-          - 1
-          - for
-        -
-          - 2
-          - of
-        -
-          - 3
-          - to_1
-        -
-          - 4
-          - from
-        -
-          - 5
-          - to_2
-        -
-          - 6
-          - at
-        -
-          - 7
-          - to_3
-    dinner_structure:
-      identifier: acceptance structure
-      pair:
-        -
-          - 1
-          - acknowledgement and thanks
-        -
-          - 2
-          - acceptance
-        -
-          - 3
-          - re-expresssion of thanks
-smokers:
-  jigsaw:
-    smokers:
-      identifier: smokers structure
-      quiz:
-        - question: a a are at conference Do give organizing speech to want we you 
-          option:
-            - invitation
-            - details of event (eg, place, time)
-            - request for reply (with deadline, perhaps)
-          answer: invitation
-        - question: conference in October_20-21 place Taipei take The will 
-          option:
-            - invitation
-            - details of event (eg, place, time)
-            - request for reply (with deadline, perhaps)
-          answer: details of event (eg, place, time)
-        - question: by Can if is next OK tell this us week you 
-          option:	
-            - invitation
-            - details of event (eg, place, time)
-            - request for reply (with deadline, perhaps)
-          answer: request for reply (with deadline, perhaps)
-    smokers_comprehension:
-      identifier: smokers comprehension questions
-      quiz:
-        - question: the one who has knowledge about a topic of interest to conference goers
-          option:
-            - the writer
-            - the recipient
-          answer: the recipient
-        - question: the one organizing the conference
-          option:
-            - the writer
-            - the recipient
-          answer: the writer
-        - question: the one who can accept or reject the invitation
-          option:
-            - the writer
-            - the recipient
-          answer: the recipient
-        - question: the one who expresses interest in the decision of the other person
-          option:
-            - the writer
-            - the recipient
-          answer: the writer
-        - question: the one who may or may not attend the conference
-          option:
-            - the writer
-            - the recipient
-          answer: the recipient
-        - question: The one who is inviting the other
-          option:
-            - the writer
-            - the recipient
-          answer: the writer
-        - question: The one who is being invited by the other
-          option:
-            - the writer
-            - the recipient
-          answer: the recipient
-        - question: the one who will give a speech
-          option:
-            - the writer
-            - the recipient
-          answer: the recipient
-  scramble:
-    0:
-      identifier: smokers
-      sentence:
-        - Do you want to give a speech at a conference we are organizing?
-        - The conference will take place October_20-21 in Taipei.
-        - Having you at the conference would make our day.
-  drag:
-    formal:
-      identifier: formal smokers scramble
-      sentences:
-        -
-          sentence: We were wondering if you would like to give a speech at a conference we are organizing?
-          clozed: We|were|wondering|if|you|would|like|to|give|a|speech|at|a|conference|we|are|End
-        -
-          sentence: We would be very pleased if you could give a speech at our medical conference.
-          clozed: We|would|be|very|pleased|if|you|could|give|a|speech|at|our|End
-        -
-          sentence: I would like to invite you to give a speech at our conference.
-          clozed: I|would|like|to|invite|you|to|give|a|speech|at|our|conference|End
-        -
-          sentence: We would be delighted if you could give a speech to doctors at our conference.
-          clozed: We|would|be|delighted|if|you|could|give|a|speech|to|doctors|at|our|End
-        -
-          sentence: We have pleasure in inviting you to give a speech at our conference.
-          clozed: We have pleasure in inviting you to give a speech at our conference.
-        -
-          sentence: The conference will be about lung diseases, and because of your fame as a lung specialist, we want you to open the conference.
-          clozed: The|conference|will|be|about|and|of|your|fame|as|a|lung|we|want|you|to|open|the|End
-        -
-          sentence: The dates for the conference are October 20-21, and the location is the Sheraton Hotel in Hsinchu.
-          clozed: The|dates|for|the|conference|are|October|and|the|location|is|the|Sheraton|Hotel|in|End
-        -
-          sentence: Assuming you are willing to do this, can you inform us of your fee and any special equipment you would require?
-          clozed: Assuming|you|are|willing|to|do|can|you|inform|us|of|your|fee|and|any|special|equipment|you|would|End
-    alternate:
-      identifier: Smokers invitation to Dr Chen
-      sentences:
-        -
-          sentence: "Our company (Smokers Inc.) is organizing a conference on lung diseases, and we were wondering if you would like to give the opening speech for us. present at the conference will be over 200 prominent doctors from all over the world. because of your research in lung diseases, we want you to open proceedings.<p>  The conference will take place from October 20-21, 2016 (10:00a.m.-6:00 p.m.) at the Grand Hillside, Taipei (please see the attached map). We would prefer the opening speech to be from forty to sixty minutes long. <p> If you are willing to deliver this speech, in your reply could you also include your fee and details of any special requirements you may have.<p>  Thank you for considering this invitation and we hope to hear from you soon."
-          clozed: is_organizing|conference|were_wondering|if|you|would|like|to|give|present|because_of|research|lung_diseases|want_you|will_take_place|prefer|from|willing|fee|requirements|may_have|invitation|hope|End
-
-  match:
-    smokers:
-      identifier: smokers
-      pair:
-        -
-          - Invitation
-          - Do you want to ... ?
-        -
-          - Date, place, other details
-          - The conference will take place ..
-        -
-          - Hopeful closing sentiment
-          - Having you at the conference would ..
-    book:
-      identifier: smokers book cloze
-      pair:
-        -
-          - 1
-          - would like you to come and make
-        -
-          - 2
-          - given
-        -
-          - 3
-          - to be held
-        -
-          - 4
-          - between
-        -
-          - 5
-          - on
-        -
-          - 6
-          - would be very happy
-        -
-          - 7
-          - could you please
-        -
-          - 8
-          - by
-    chen_reply:
-      identifier: smokers, invitation reply
-      pair:
-        -
-          - 1
-          - thank you
-        -
-          - 2
-          - honored
-        -
-          - 3
-          - happy
-        -
-          - 4
-          - however
-        -
-          - 5
-          - decline
-        -
-          - 6
-          - suggest
-        -
-          - 7
-          - experience
-        -
-          - 8
-          - entertaining
-        -
-          - 9
-          - sincere
-        -
-          - 10
-          - apologies
-        -
-          - 11
-          - accept
-        -
-          - 12
-          - success
-        -
-          - 13
-          - informed
-        -
-          - 14
-          - news
-    chen_structure:
-      identifier: declining structure
-      pair:
-        -
-          - 1
-          - acknowledgement and thanks
-        -
-          - 2
-          - rejection with reason
-        -
-          - 3
-          - offer of alternative
-        -
-          - 4
-          - apology, polite expression of hope for future
