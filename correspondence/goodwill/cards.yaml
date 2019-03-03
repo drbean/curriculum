@@ -978,6 +978,38 @@ invitation:
             - details of event (eg, place, time)
             - request for reply (with deadline, perhaps)
           answer: request for reply (with deadline, perhaps)
+    dinner_comprehension:
+      identifier: dinner comprehension questions
+      quiz:
+        - question: What kind of message is the dinner message of Kennedy to Jalahma?
+          option:
+            - thank-you message
+            - congratulations message
+            - condolences message
+            - invitation
+            - acceptance of an invitation
+            - refusal of an invitation
+          answer: acceptance of an invitation
+        - question: Jalahma invited Kennedy to a graduation ceremony.
+          answer: False
+        - question: Kennedy follows the structure on p69 exactly.
+          answer: True
+        - question: Jalahma and Kennedy don't know each other.
+          answer: False
+        - question: Jalahma and Kennedy met at Kennedy's school.
+          answer: True
+        - question: Jalahma and Kennedy will meet at the Crown Hotel.
+          answer: True
+        - question: Kennedy knows Jalahma's colleagues.
+          answer: False
+        - question: Kennedy reversed the thanking and acceptance/rejection details.
+          answer: True
+        - question: The thanking and acceptance/rejection details are in the same order as p69.
+          answer: False
+        - question: Kennedy's words show he expects Jalahma to be at the event.
+          answer: True
+        - question: Kennedy's words show he thinks it's unlikely Jalahma will to be at the event.
+          answer: False
     comprehension_questions:
       identifier: smokers, xmas, dinner--formality, relationships
       quiz:
@@ -1119,7 +1151,7 @@ smokers:
         - The conference will take place October_20-21 in Taipei.
         - Having you at the conference would make our day.
   drag:
-    smokers_formal:
+    formal:
       identifier: formal smokers scramble
       sentences:
         -
@@ -1127,10 +1159,10 @@ smokers:
           clozed: We|were|wondering|if|you|would|like|to|give|a|speech|at|a|conference|we|are|End
         -
           sentence: We would be very pleased if you could give a speech at our medical conference.
-          clozed: |We|would|be|very|pleased|if|you|could|give|a|speech|at|our|End
+          clozed: We|would|be|very|pleased|if|you|could|give|a|speech|at|our|End
         -
           sentence: I would like to invite you to give a speech at our conference.
-          clozed: |I|would|like|to|invite|you|to|give|a|speech|at|our|conference|End
+          clozed: I|would|like|to|invite|you|to|give|a|speech|at|our|conference|End
         -
           sentence: We would be delighted if you could give a speech to doctors at our conference.
           clozed: We|would|be|delighted|if|you|could|give|a|speech|to|doctors|at|our|End
