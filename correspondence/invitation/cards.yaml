@@ -25,7 +25,7 @@ roberts:
           answer: True
         - question: Stoller's words show she thinks it's unlikely Roberts will come to the event.
           answer: False
-invitation:
+party:
   scramble:
     1:
       identifier: xmas
@@ -91,7 +91,9 @@ invitation:
             - details of event (eg, place, time)
             - request for reply (with deadline, perhaps)
           answer: request for reply (with deadline, perhaps)
-    dinner_comprehension:
+dinner:
+  jigsaw:
+    genre:
       identifier: dinner comprehension questions
       quiz:
         - question: What kind of message is the dinner message of Kennedy to Jalahma?
@@ -103,6 +105,9 @@ invitation:
             - acceptance of an invitation
             - refusal of an invitation
           answer: acceptance of an invitation
+    comprehension_questions:
+      identifier: 
+      quiz:
         - question: Jalahma invited Kennedy to a graduation ceremony.
           answer: False
         - question: Kennedy follows the structure on p69 exactly.
@@ -122,21 +127,6 @@ invitation:
         - question: Kennedy's words show he expects Jalahma to be at the event.
           answer: True
         - question: Kennedy's words show he thinks it's unlikely Jalahma will to be at the event.
-          answer: False
-    comprehension_questions:
-      identifier: smokers, xmas, dinner--formality, relationships
-      quiz:
-        - question: The writer of the Smokers email knows Dr Chen.
-          answer: False
-        - question: The writer of the dinner acceptance email knows Al Jalahma.
-          answer: True
-        - question: The writer of the Xmas refusal email knows the organizers of the party.
-          answer: True
-        - question: The text in the Xmas refusal email is less formal than the dinner acceptance email.
-          answer: True
-        - question: The text in the Xmas refusal email is less formal than the Chen refusal email.
-          answer: True
-        - question: The text in the smokers invitation in the book is less formal than the text in the smokers scramble/structure on the site.
           answer: False
   match:
     xmas_refusal_structure:
@@ -213,7 +203,7 @@ smokers:
             - details of event (eg, place, time)
             - request for reply (with deadline, perhaps)
           answer: request for reply (with deadline, perhaps)
-    smokers_comprehension:
+    comprehension:
       identifier: smokers comprehension questions
       quiz:
         - question: the one who has knowledge about a topic of interest to conference goers
@@ -398,3 +388,20 @@ smokers:
         -
           - 4
           - apology, polite expression of hope for future
+sundry:
+  jigsaw:
+    comprehension_questions:
+      identifier: smokers, xmas, dinner--formality, relationships
+      quiz:
+        - question: The writer of the Smokers email knows Dr Chen.
+          answer: False
+        - question: The writer of the dinner acceptance email knows Al Jalahma.
+          answer: True
+        - question: The writer of the Xmas refusal email knows the organizers of the party.
+          answer: True
+        - question: The text in the Xmas refusal email is less formal than the dinner acceptance email.
+          answer: True
+        - question: The text in the Xmas refusal email is less formal than the Chen refusal email.
+          answer: True
+        - question: The text in the smokers invitation in the book is less formal than the text in the smokers scramble/structure on the site.
+          answer: False
