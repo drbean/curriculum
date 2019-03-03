@@ -22,3 +22,97 @@
     story: book
     type : match
     form : 2
+
+-
+  -
+    topic: goodwill
+    story: roberts
+    type : jigsaw
+    form : thanks
+    intro: 
+  -
+    topic: goodwill
+    story: roberts
+    type : jigsaw
+    form : 1
+    intro: 
+-
+  -
+    topic: goodwill
+    story: roberts
+    type : jigsaw
+    form : thanks_structure
+    intro: 
+-
+  -
+    topic: goodwill
+    story: roberts
+    type : jigsaw
+    form : congratulations
+    intro: 
+-
+  -
+    topic: goodwill
+    story: roberts
+    type : jigsaw
+    form : congratulations_structure
+    intro: 
+-
+  -
+    topic: goodwill
+    story: roberts
+    type : jigsaw
+    form : condolences
+    intro: 
+-
+  -
+    topic: goodwill
+    story: roberts
+    type : jigsaw
+    form : condolences_structure
+    intro: 
+-
+  -
+    topic: goodwill
+    story: roberts
+    type : jigsaw
+    form : invitation
+    intro: 
+   
+-
+  -
+    topic: goodwill
+    story: invitation
+    type : jigsaw
+    form : comprehension_questions
+    intro: 
+  
+-
+  -
+    topic: goodwill
+    story: smokers
+    type : drag
+    form : formal
+    intro: 
+-
+  -
+    topic: goodwill
+    story: invitation
+    type : jigsaw
+    form : smokers_comprehension
+    intro: 
+-
+  -
+    topic: goodwill
+    story: smokers
+    type : match
+    form : book
+    intro: 
+-
+  -
+    topic: goodwill
+    story: smokers
+    type : drag
+    form : alternate
+    intro: 
+  
