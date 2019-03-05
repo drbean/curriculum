@@ -271,7 +271,7 @@ smokers:
           clozed: We|would|be|delighted|if|you|could|give|a|speech|to|doctors|at|our|End
         -
           sentence: We have pleasure in inviting you to give a speech at our conference.
-          clozed: We have pleasure in inviting you to give a speech at our conference.
+          clozed: We|have|pleasure|in|inviting|you|to|give|a|speech|at|our|conference|End
         -
           sentence: The conference will be about lung diseases, and because of your fame as a lung specialist, we want you to open the conference.
           clozed: The|conference|will|be|about|and|of|your|fame|as|a|lung|we|want|you|to|open|the|End
@@ -286,7 +286,7 @@ smokers:
       sentences:
         -
           sentence: "Our company (Smokers Inc.) is organizing a conference on lung diseases, and we were wondering if you would like to give the opening speech for us. present at the conference will be over 200 prominent doctors from all over the world. because of your research in lung diseases, we want you to open proceedings.<p>  The conference will take place from October 20-21, 2016 (10:00a.m.-6:00 p.m.) at the Grand Hillside, Taipei (please see the attached map). We would prefer the opening speech to be from forty to sixty minutes long. <p> If you are willing to deliver this speech, in your reply could you also include your fee and details of any special requirements you may have.<p>  Thank you for considering this invitation and we hope to hear from you soon."
-          clozed: is_organizing|conference|were_wondering|if|you|would|like|to|give|present|because_of|research|lung_diseases|want_you|will_take_place|prefer|from|willing|fee|requirements|may_have|invitation|hope|End
+          clozed: organizing|conference|wondering|if|you|would|like|to|give|present|because|research|diseases|you|place|prefer|from|willing|fee|requirements|may_have|invitation|hope|End
 
   match:
     smokers:
