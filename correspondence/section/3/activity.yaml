@@ -73,46 +73,62 @@
     intro: 
 -
   -
-    topic: goodwill
+    topic: invitation
     story: roberts
     type : jigsaw
-    form : invitation
+    form : graduation
     intro: 
    
 -
   -
-    topic: goodwill
-    story: invitation
-    type : jigsaw
-    form : comprehension_questions
-    intro: 
-  
--
-  -
-    topic: goodwill
+    topic: invitation
     story: smokers
     type : drag
     form : formal
     intro: 
 -
   -
-    topic: goodwill
-    story: invitation
+    topic: invitation
+    story: smokers
     type : jigsaw
-    form : smokers_comprehension
+    form : comprehension
     intro: 
 -
   -
-    topic: goodwill
+    topic: invitation
     story: smokers
     type : match
     form : book
     intro: 
 -
   -
-    topic: goodwill
+    topic: invitation
     story: smokers
     type : drag
     form : alternate
+    intro: 
+  
+-
+  -
+    topic: invitation
+    story: smokers
+    type : match
+    form : chen_reply
+    intro: 
+  
+-
+  -
+    topic: invitation
+    story: smokers
+    type : match
+    form : chen_structure
+    intro: 
+
+-
+  -
+    topic: invitation
+    story: sundry
+    type : jigsaw
+    form : comprehension_questions
     intro: 
   
