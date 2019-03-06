@@ -58,13 +58,13 @@ bird:
       south : 南
       eagle : 鷹
   bingo:
-    -
-      - Do you know a good area for bird watching? _There is a quiet park with many different birds near here._
-      - Will I be able to see different types of birds in this area? _Yes, I think so, if you use binoculars._
-      - It seems as if you really like bird watching. _Yes, I do like bird watching!_
-      - Would you like to come with me tomorrow? _No, thank you! I think bird watching is boring._
-      - Birds are very interesting. _Really? Maybe I will go bird watching one day!_
-      - I have a book about all the different types of birds. _What kinds of birds does it have in it?_
+    - nest chick swan north lake crack south eagle east west
+    - Do you know a good area for bird watching? _There is a quiet park with many different birds near here._
+    - Will I be able to see different types of birds in this area? _Yes, I think so, if you use binoculars._
+    - It seems as if you really like bird watching. _Yes, I do like bird watching!_
+    - Would you like to come with me tomorrow? _No, thank you! I think bird watching is boring._
+    - Birds are very interesting. _Really? Maybe I will go bird watching one day!_
+    - I have a book about all the different types of birds. _What kinds of birds does it have in it?_
     - eagle nest tree tall year never building heavier car
     - nest chick swan north south east west lake crack eagle winter swimming cook pan first eggs open tree mother_bird flamingo bat wing feather
     - world grass home warm pretty special big heavier_than_a_car building chicken feed duck bread pet hamster parrot fish water claw
