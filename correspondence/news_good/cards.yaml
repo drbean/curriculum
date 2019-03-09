@@ -1,9 +1,184 @@
 ---
 genre: correspondence
+point:
+  jigsaw:
+    0:
+      identifier: good news, step 1
+      quiz:
+        - question: Following the structure of the good news message will have the best effect on the reader.
+          answer: True
+        - question: Writing a good news message is not as easy as a bad news message
+          answer: False
+        - question: The structure first describes the background and then gives the good news.
+          answer: False
+        - question: First describing the background and then giving the good news is a direct kind of structure.
+          answer: False
+        - question: The good news structure is a direct kind of structure.
+          answer: True
+        - question: It's good to hold back the good news to excite the reader.
+          answer: False
+        - question: If the good news is expected, it may not be necessary to say why there is good news.
+          answer: True
+        - question: If the good news is unexpected, it is not a good idea for the writer to say why there is good news to report.
+          answer: False
+    1:
+      identifier: good news, step 2
+      quiz:
+        - question: Details about the good news should be mentioned in a different email, rather than the one announcing the good news.
+          answer: False
+        - question: Details about the good news should be mentioned in later paragraph, rather than the second paragraph.
+          answer: 
+        - question: Details about the good news should be mentioned straight after the announcing of the good news, in the first or second paragraph.
+          answer: True
+        - question: Details the writer might mention include some things the reader has to do to benefit from the good news.
+          answer: True
+        - question: The reader may have to do some things to get the good things the writer is talking about.
+          answer: True
+        - question: The writer should make it appear difficult for the reader to get the good things the writer is talking about.
+          answer: False
+        - question: "Phrases such as 'All you have to do is (send your credit card details)' try to make it sound easy to get the good things the writer is talking about."
+          answer: True
+        - question: "'Only,' 'just' make getting the benefits of the good news sound difficult."
+          answer: False
+        - question: The second paragraph is also the best place for a sales appeal.
+          answer: False
+    2:
+      identifier: good news, step 3
+      quiz:
+        - question: A sales appeal is a request to help sales people in difficulty.
+          answer: False
+        - question: A sales appeal is like a product introduction or promotion.
+          answer: True
+        - question: "A sales appeal is like telling the customer, 'We are helping you with this good news. Please help us with this other thing we are talking about.'"
+          answer: True
+        - question: The difference between a sales appeal and extra information is that action by the reader on the sales appeal benefits the writer. Action on the extra information benefits the reader.
+          answer: True
+        - question: The writer needs to be careful about changing the good news message into a promotional/introduction message.
+          answer: True
+        - question: The sales appeal shouldn't have any connection with the content of the good news.
+          answer: False
+        - question: 'Absolutely free', 'take advantage of' increase the attractiveness of the appeal
+          answer: True
+        - question: '100 percent', 'absolutely', 'wonderful' are intensifiers.
+          answer: True
+    3:
+      identifier: good news, step 4
+      quiz:
+        - question: Writers need to be careful about ruining the good news with a long and uninteresting final paragraph.
+          answer: True
+        - question: Depending on how the writer writes the last paragraph, the satisfaction of the reader with the good news may be decreased.
+          answer: True
+        - question: The first 3 steps are the important steps. Writing the last paragraph should be easy.
+          answer: True
+        - question: A long paragraph mentioning the company's name many times so it sticks in the reader's mind is a good way to end.
+          answer: False
+        - question: It's good to mention the company's name in the final paragraph so it sticks in the reader's mind.
+          answer: True
+        - question: The writer should mention the name of the company many times so it sticks in the reader's mind.
+          answer: False
+        - question: A positive close to a good news message is something which is different than a goodwill message.
+          answer: False
+        - question: The last paragraph is the writer's last chance to excite the reader about the good news.
+          answer: False
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+
+        
+        
+        
+        
+        
+        
+
+        
 repair:
   jigsaw:
+    step_1:
+      identifier: good news step 1--the case of the car repair
+      quiz:
+        - question: The repair shop message follows the good news structure very closely.
+          answer: True
+        - question: The repair shop message starts by describing the situation at the time of the first quotation.
+          answer: False
+        - question: The repair shop message is a direct message.
+          answer: True
+        - question: The repair shop message holds back the news about the starter motor price change.
+          answer: False
+        - question: The repair shop message explains how the shop found the cheaper starter motor.
+          answer: False
+        - question: The repair shop should have explained how it was able to find the cheaper starter motor.
+          answer: False
+        - question: The repair shop doesn't ask the reader if he/she wants the cheaper motor or not.
+          answer: True
+        - question: The reader may have a reason not to think the cheaper quotation is a better quotation.
+          answer: True
+    step_2:
+      identifier: good news step 2--the case of the car repair
+      quiz:
+        - question: The shop doesn't include enough details about the different starter motors.
+          answer: True
+        - question: The repair shop should have mentioned the details about the changed quotation in a different message.
+          answer: False
+        - question: The shop should have mentioned finding the cheaper starter motor before saying it was changing the price of its quotation.
+          answer: False
+        - question: The shop should have kept the reason for its cheaper quotation to the 3rd or 4th paragraph.
+          answer: False
+        - question: The shop doesn't say the reader has to do anything to benefit from the cheaper quotation.
+          answer: True
+        - question: The reader has to contact the shop to benefit from the cheaper quotation.
+          answer: False
+        - question: The shop uses the word 'only' to indicate it is easy for the reader to benefit from its good news.
+          answer: False
+        - question: The shop includes a sales appeal in the 2nd paragraph.
+          answer: False
+    step_3: good news step 3--the case of the car repair
+      identifier: 
+      quiz:
+        - question: The shop includes a sales appeal in the 3rd paragraph.
+          answer: True
+        - question: The shop's sales appeal is a discounted offer to tune the engine and check the exhaust.
+          answer: True
+        - question: The sales appeal's connection to the good news about the starter motor is based on the fact the car mechanics need to get under the hood to do both.
+          answer: True
+        - question: There is no connection between the sales appeal and the content of the good news.
+          answer: False
+        - question: The good news benefits the car owner, but not the shop. The sales appeal also has no benefit for the shop.
+          answer: False
+        - question: The shop uses intensifiers making its sales appeal.
+          answer: False
+        - question: The discounting of the engine tuning and exhaust check may appeal to the car owner.
+          answer: True
+        - question: There is no extra information in the message that might be useful for the car owner.
+          answer: False
+   step_4:
+     identifier: good news step 4--the case of the car repair
+     quiz:
+       - question: The shop ruins the effect of its message with the close.
+         answer: False
+       - question: The shop's conclusion makes specific reference to the good news.
+         answer: False
+       - question: The close could be used on almost all of its messages to car owners.
+         answer: True
+       - question: The shop mentions the shop's name in its closing paragraph.
+         answer: True
+       - question: The closing may reduce the car owner's satisfaction with the good news.
+         answer: False
+       - question: The close could be used on a goodwill message thanking a supplier for finding the other starter motor.
+         answer: False
+       - question: The shop's close is nice and simple.
+         answer: True
+       - question: The shop doesn't try to excite the reader about the cheaper quotation in the close.
+         answer: True
     comprehension:
-      identifier: repair comprehension
+      identifier: repair shop comprehension
       quiz:
         - question: Why is the message good news?
           option:
@@ -14,23 +189,57 @@ repair:
           answer: The starter motor will cost 2,000 dollars, not 4,000 dollars.
         - question: In which paragraph is the good news?
           option:
-            - 1st
-            - 2nd
-            - 3rd
-            - 4th 
-            - 5th
-          answer: 2nd
+            - 1st or 2nd
+            - 2nd or 3rd
+            - 3rd or 4th
+            - 4th or 5th
+            - 5th only
+          answer: 1st or 2nd
         - question: How does the structure of the email announcing the new quotation differ from that on p73? 
           option:
             - The announcement of the good news is delayed.
+            - There are no reasons for the good news in the first paragraph.
             - There are not enough details.
             - The sales appeal is in the wrong place.
             - The sales appeal is not attractive.
             - The close is positive.
-          answer: The announcement of the good news is delayed.
+          answer: There are no reasons for the good news in the first paragraph.
+        - question: How is the revised quotation different than the original quotation?
+          option:
+            - The starter motor is more expensive than originally reported.
+            - The car repair shop offers to tune the engine and check the exhaust.
+            - The total cost of the job is \$8,500, instead of \$6,500.
+            - The starter motor is \$2,000, instead of \$4,000.
+            - The shop is open on Sunday.
+          answer: The starter motor is \$2,000, instead of \$4,000.
+        - question: What was the situation at the first quotation.
+          option:
+            - The cost of the engine and exhaust work was \$1,100.
+            - The cost of the starter motor was \$6,500.
+            - The cost of the job was \$8,500.
+            - The repair shop was open on Sunday.
+          answer: The cost of the job was \$8,500.
+        - question: What was the situation at the second quotation.
+          option:
+            - The repair shop wasn't open on Sunday.
+            - The cost of the engine and exhaust work was \$1,500.
+            - The cost of the job was \$4,000.
+            - The cost of the starter motor was \$2,000.
+          answer: The cost of the starter motor was \$2,000.
+        - question: What does Mr Tin have to do to benefit from the sales appeal?
+          option:
+            - Get the starter motor fixed.
+            - Get a new quotation.
+            - Call the shop.
+            - Come to the shop on Sunday.
+            - Pay \$1,500.
+          answer: Call the shop.
+        
+        
+        
   match:
     cloze:
-      identifier: car repair match
+      identifier: book car repair cloze
       pair:
         -
           - 1
@@ -446,6 +655,27 @@ goodwill:
             - goodwill message
             - good news message
           answer: good news message
+        - question: The repair shop says the job will not cost as much as expected.
+          option:
+            - goodwill message
+            - good news message
+          answer: good news message
+        - question: Your company congratulates you as it gives you a prize because of your hard work and dedication.
+          option:
+            - goodwill message
+            - good news message
+          answer: good news message
+        - question: A magazine thanks you for your interest in it and sends you a free copy of its latest issue.
+          option:
+            - goodwill message
+            - good news message
+          answer: good news message
+        - question: A bank thanks you for being a good customer and gives you a credit card with very low fees.
+          option:
+            - goodwill message
+            - good news message
+          answer: good news message
+
 
         
         
