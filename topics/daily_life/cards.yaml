@@ -433,3 +433,13 @@ should:
       report card  : 成績單
       candy        : 糖果
       upset        : 煩亂
+  1:
+    flash:
+      cover    : 覆蓋
+      angry    : 憤怒
+      garbage  : 垃圾
+      exam     : 考試
+      hang out : 出去玩
+      college  : 學院
+      forget   : 忘記
+      math     : 數學
