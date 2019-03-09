@@ -234,6 +234,59 @@ repair:
             - Come to the shop on Sunday.
             - Pay \$1,500.
           answer: Call the shop.
+   structure:
+     identifier: repair shop structure: true/false
+     quiz:
+       - question: "'We have reduced our quotation,' is the ."
+         answer: 
+       - question: "'We have reduced our quotation,' is the ."
+         answer: 
+       - question: "'We have reduced our quotation,' is the ."
+         answer: 
+       - question: "'We have reduced our quotation,' is the ."
+         answer: 
+       - question: "'We have reduced our quotation,' is the ."
+         answer: 
+       - question: "'A different starter motor is \$2,000,' is the ."
+         answer: 
+       - question: "'A different starter motor is \$2,000,' is the ."
+         answer: 
+       - question: "'A different starter motor is \$2,000,' is the ."
+         answer: 
+       - question: "'A different starter motor is \$2,000,' is the ."
+         answer: 
+       - question: "'A different starter motor is \$2,000,' is the ."
+         answer: 
+       - question: "'We will fix your engine and exhaust for \$1,100,' is the ."
+         answer: 
+       - question: "'We will fix your engine and exhaust for \$1,100,' is the ."
+         answer: 
+       - question: "'We will fix your engine and exhaust for \$1,100,' is the ."
+         answer: 
+       - question: "'We will fix your engine and exhaust for \$1,100,' is the ."
+         answer: 
+       - question: "'We will fix your engine and exhaust for \$1,100,' is the ."
+         answer: 
+       - question: "'The shop is open on Sundays,' is the ."
+         answer: 
+       - question: "'The shop is open on Sundays,' is the ."
+         answer: 
+       - question: "'The shop is open on Sundays,' is the ."
+         answer: 
+       - question: "'The shop is open on Sundays,' is the ."
+         answer: 
+       - question: "'The shop is open on Sundays,' is the ."
+         answer: 
+       - question: "'Thank you. We are always happy to help' is the ."
+         answer: 
+       - question: "'Thank you. We are always happy to help' is the ."
+         answer: 
+       - question: "'Thank you. We are always happy to help' is the ."
+         answer: 
+       - question: "'Thank you. We are always happy to help' is the ."
+         answer: 
+       - question: "'Thank you. We are always happy to help' is the ."
+         answer: 
         
         
         
@@ -269,7 +322,7 @@ repair:
           - 9
           - offer
     structure:
-      identifier: car repair structure
+      identifier: car repair structure: ordering
       pair:
         -
           - 1
