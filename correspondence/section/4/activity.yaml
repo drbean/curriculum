@@ -1,0 +1,89 @@
+---
+-
+  -
+    topic: news_good
+    story: goodwill
+    type : jigsaw
+    form : 1
+    intro: 
+-
+  -
+    topic: news_good
+    story: repair
+    type : jigsaw
+    form : comprehension
+    intro: 
+-
+  -
+    topic: news_good
+    story: repair
+    type : match
+    form : cloze
+    intro: 
+-
+  -
+    topic: news_good
+    story: repair
+    type : match
+    form : structure
+    intro: 
+-
+  -
+    topic: news_good
+    story: repair
+    type : jigsaw
+    form : step_1
+    intro: 
+-
+  -
+    topic: news_good
+    story: repair
+    type : jigsaw
+    form : step_2
+    intro: 
+-
+  -
+    topic: news_good
+    story: repair
+    type : jigsaw
+    form : step_3
+    intro: 
+-
+  -
+    topic: news_good
+    story: repair
+    type : jigsaw
+    form : step_4
+    intro: 
+    
+-
+  -
+    topic: news_good
+    story: point
+    type : jigsaw
+    form : 0
+    intro: 
+-
+  -
+    topic: news_good
+    story: point
+    type : jigsaw
+    form : 1
+    intro: 
+-
+  -
+    topic: news_good
+    story: point
+    type : jigsaw
+    form : 2
+    intro: 
+-
+  -
+    topic: news_good
+    story: point
+    type : jigsaw
+    form : 3
+    intro: 
+   
+  
+  
