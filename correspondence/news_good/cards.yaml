@@ -401,6 +401,55 @@ goodwill:
             - goodwill message
             - good news message
           answer: goodwill message
+        - question: The bank sends you an email saying your loan has been approved.
+          option:
+            - goodwill message
+            - good news message
+          answer: good news message
+        - question: Your co-worker sends an email saying she is happy you are going to get a promotion.
+          option:
+            - goodwill message
+            - good news message
+          answer: goodwill message
+        - question: The company sends you a notification of your promotion.
+          option:
+            - goodwill message
+            - good news message
+          answer: good news message
+        - question: The bank tells you that your request for a refund has been successful.
+          option:
+            - goodwill message
+            - good news message
+          answer: good news message
+        - question: The game manufacturer gives you a refund for the game you don't want.
+          option:
+            - goodwill message
+            - good news message
+          answer: good news message
+        - question: The game manufacturer tells you you can become a beta tester of its new game.
+          option:
+            - goodwill message
+            - good news message
+          answer: good news message
+        - question: Someone emails you about your good luck winning the lottery.
+          option:
+            - goodwill message
+            - good news message
+          answer: goodwill message
+        - question: You get an email from the lottery saying you are a big winner.
+          option:
+            - goodwill message
+            - good news message
+          answer: good news message
+        - question: Your supplier says they have found a new source for the materials you need
+          option:
+            - goodwill message
+            - good news message
+          answer: good news message
+
+        
+        
+        
 raise:
   drag:
     0:
