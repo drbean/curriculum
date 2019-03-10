@@ -27,7 +27,7 @@ point:
         - question: Details about the good news should be mentioned in a different email, rather than the one announcing the good news.
           answer: False
         - question: Details about the good news should be mentioned in later paragraph, rather than the second paragraph.
-          answer: 
+          answer: False
         - question: Details about the good news should be mentioned straight after the announcing of the good news, in the first or second paragraph.
           answer: True
         - question: Details the writer might mention include some things the reader has to do to benefit from the good news.
@@ -57,9 +57,9 @@ point:
           answer: True
         - question: The sales appeal shouldn't have any connection with the content of the good news.
           answer: False
-        - question: 'Absolutely free', 'take advantage of' increase the attractiveness of the appeal
+        - question: "'Absolutely free', 'take advantage of' increase the attractiveness of the appeal"
           answer: True
-        - question: '100 percent', 'absolutely', 'wonderful' are intensifiers.
+        - question: "'100 percent', 'absolutely', 'wonderful' are intensifiers."
           answer: True
     3:
       identifier: good news, step 4
@@ -80,24 +80,6 @@ point:
           answer: False
         - question: The last paragraph is the writer's last chance to excite the reader about the good news.
           answer: False
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-
-        
-        
-        
-        
-        
-        
-
         
 repair:
   jigsaw:
@@ -139,8 +121,8 @@ repair:
           answer: False
         - question: The shop includes a sales appeal in the 2nd paragraph.
           answer: False
-    step_3: good news step 3--the case of the car repair
-      identifier: 
+    step_3:
+      identifier: good news step 3--the case of the car repair
       quiz:
         - question: The shop includes a sales appeal in the 3rd paragraph.
           answer: True
@@ -158,25 +140,25 @@ repair:
           answer: True
         - question: There is no extra information in the message that might be useful for the car owner.
           answer: False
-   step_4:
-     identifier: good news step 4--the case of the car repair
-     quiz:
-       - question: The shop ruins the effect of its message with the close.
-         answer: False
-       - question: The shop's conclusion makes specific reference to the good news.
-         answer: False
-       - question: The close could be used on almost all of its messages to car owners.
-         answer: True
-       - question: The shop mentions the shop's name in its closing paragraph.
-         answer: True
-       - question: The closing may reduce the car owner's satisfaction with the good news.
-         answer: False
-       - question: The close could be used on a goodwill message thanking a supplier for finding the other starter motor.
-         answer: False
-       - question: The shop's close is nice and simple.
-         answer: True
-       - question: The shop doesn't try to excite the reader about the cheaper quotation in the close.
-         answer: True
+    step_4:
+      identifier: good news step 4--the case of the car repair
+      quiz:
+        - question: The shop ruins the effect of its message with the close.
+          answer: False
+        - question: The shop's conclusion makes specific reference to the good news.
+          answer: False
+        - question: The close could be used on almost all of its messages to car owners.
+          answer: True
+        - question: The shop mentions the shop's name in its closing paragraph.
+          answer: True
+        - question: The closing may reduce the car owner's satisfaction with the good news.
+          answer: False
+        - question: The close could be used on a goodwill message thanking a supplier for finding the other starter motor.
+          answer: False
+        - question: The shop's close is nice and simple.
+          answer: True
+        - question: The shop doesn't try to excite the reader about the cheaper quotation in the close.
+          answer: True
     comprehension:
       identifier: repair shop comprehension
       quiz:
@@ -208,88 +190,88 @@ repair:
           option:
             - The starter motor is more expensive than originally reported.
             - The car repair shop offers to tune the engine and check the exhaust.
-            - The total cost of the job is \$8,500, instead of \$6,500.
-            - The starter motor is \$2,000, instead of \$4,000.
+            - The total cost of the job is $8,500, instead of $6,500.
+            - The starter motor is $2,000, instead of $4,000.
             - The shop is open on Sunday.
-          answer: The starter motor is \$2,000, instead of \$4,000.
+          answer: The starter motor is $2,000, instead of $4,000.
         - question: What was the situation at the first quotation.
           option:
-            - The cost of the engine and exhaust work was \$1,100.
-            - The cost of the starter motor was \$6,500.
-            - The cost of the job was \$8,500.
+            - The cost of the engine and exhaust work was $1,100.
+            - The cost of the starter motor was $6,500.
+            - The cost of the job was $8,500.
             - The repair shop was open on Sunday.
-          answer: The cost of the job was \$8,500.
+          answer: The cost of the job was $8,500.
         - question: What was the situation at the second quotation.
           option:
             - The repair shop wasn't open on Sunday.
-            - The cost of the engine and exhaust work was \$1,500.
-            - The cost of the job was \$4,000.
-            - The cost of the starter motor was \$2,000.
-          answer: The cost of the starter motor was \$2,000.
+            - The cost of the engine and exhaust work was $1,500.
+            - The cost of the job was $4,000.
+            - The cost of the starter motor was $2,000.
+          answer: The cost of the starter motor was $2,000.
         - question: What does Mr Tin have to do to benefit from the sales appeal?
           option:
             - Get the starter motor fixed.
             - Get a new quotation.
             - Call the shop.
             - Come to the shop on Sunday.
-            - Pay \$1,500.
+            - Pay $1,500.
           answer: Call the shop.
-   structure:
-     identifier: repair shop structure: true/false
-     quiz:
-       - question: "'It is not going to cost as much as we told you,' is the good news."
-         answer: 
-       - question: "'It is not going to cost as much as we told you,' is the details."
-         answer: 
-       - question: "'It is not going to cost as much as we told you,' is the sales appeal."
-         answer: 
-       - question: "'It is not going to cost as much as we told you,' is the useful information."
-         answer: 
-       - question: "'It is not going to cost as much as we told you,' is the polite close."
-         answer: 
-       - question: "'A different starter motor is \$2,000,' is the good news."
-         answer: 
-       - question: "'A different starter motor is \$2,000,' is the details."
-         answer: 
-       - question: "'A different starter motor is \$2,000,' is the sales appeal."
-         answer: 
-       - question: "'A different starter motor is \$2,000,' is the useful information."
-         answer: 
-       - question: "'A different starter motor is \$2,000,' is the polite close."
-         answer: 
-       - question: "'We will fix your engine and exhaust for \$1,100,' is the good news."
-         answer: 
-       - question: "'We will fix your engine and exhaust for \$1,100,' is the details."
-         answer: 
-       - question: "'We will fix your engine and exhaust for \$1,100,' is the sales appeal."
-         answer: 
-       - question: "'We will fix your engine and exhaust for \$1,100,' is the useful information."
-         answer: 
-       - question: "'We will fix your engine and exhaust for \$1,100,' is the polite close."
-         answer: 
-       - question: "'The shop is open on Sundays,' is the good news."
-         answer: 
-       - question: "'The shop is open on Sundays,' is the details."
-         answer: 
-       - question: "'The shop is open on Sundays,' is the sales appeal."
-         answer: 
-       - question: "'The shop is open on Sundays,' is the useful information."
-         answer: 
-       - question: "'The shop is open on Sundays,' is the polite close."
-         answer: 
-       - question: "'Thank you. We are always happy to help' is the good news."
-         answer: 
-       - question: "'Thank you. We are always happy to help' is the details."
-         answer: 
-       - question: "'Thank you. We are always happy to help' is the sales appeal."
-         answer: 
-       - question: "'Thank you. We are always happy to help' is the useful information."
-         answer: 
-       - question: "'Thank you. We are always happy to help' is the polite close."
-         answer: 
-        
-        
-        
+    structure:
+      identifier: "repair shop structure: true/false"
+      quiz:
+        - question: "'It is not going to cost as much as we told you,' is the good news."
+          answer: True
+        - question: "'It is not going to cost as much as we told you,' is the details."
+          answer: False
+        - question: "'It is not going to cost as much as we told you,' is the sales appeal."
+          answer: False
+        - question: "'It is not going to cost as much as we told you,' is the useful information."
+          answer: False
+        - question: "'It is not going to cost as much as we told you,' is the polite close."
+          answer: False
+        - question: "'A different starter motor is $2,000,' is the good news."
+          answer: False
+        - question: "'A different starter motor is $2,000,' is the details."
+          answer: True
+        - question: "'A different starter motor is $2,000,' is the sales appeal."
+          answer: False
+        - question: "'A different starter motor is $2,000,' is the useful information."
+          answer: False
+        - question: "'A different starter motor is $2,000,' is the polite close."
+          answer: False
+        - question: "'We will fix your engine and exhaust for $1,100,' is the good news."
+          answer: False
+        - question: "'We will fix your engine and exhaust for $1,100,' is the details."
+          answer: False
+        - question: "'We will fix your engine and exhaust for $1,100,' is the sales appeal."
+          answer: True
+        - question: "'We will fix your engine and exhaust for $1,100,' is the useful information."
+          answer: False
+        - question: "'We will fix your engine and exhaust for $1,100,' is the polite close."
+          answer: False
+        - question: "'The shop is open on Sundays,' is the good news."
+          answer: False
+        - question: "'The shop is open on Sundays,' is the details."
+          answer: False
+        - question: "'The shop is open on Sundays,' is the sales appeal."
+          answer: False
+        - question: "'The shop is open on Sundays,' is the useful information."
+          answer: True
+        - question: "'The shop is open on Sundays,' is the polite close."
+          answer: False
+        - question: "'Thank you. We are always happy to help' is the good news."
+          answer: False
+        - question: "'Thank you. We are always happy to help' is the details."
+          answer: False
+        - question: "'Thank you. We are always happy to help' is the sales appeal."
+          answer: False
+        - question: "'Thank you. We are always happy to help' is the useful information."
+          answer: False
+        - question: "'Thank you. We are always happy to help' is the polite close."
+          answer: True
+         
+         
+         
   drag:
     0:
       identifier: alternate car repair cloze 1
@@ -336,7 +318,7 @@ repair:
           - 9
           - offer
     structure:
-      identifier: car repair structure: ordering
+      identifier: "car repair structure: ordering"
       pair:
         -
           - 1
@@ -355,6 +337,104 @@ repair:
           - polite close
 prize:
   jigsaw:
+    step_1:
+      identifier: good news step 1--the case of the car prize
+      quiz:
+        - question: The repair shop message follows the good news structure very closely.
+          answer: True
+        - question: The first paragraph holds back the good news.
+          answer: True
+        - question: The first paragraph describes what deals Huang made with her hard work and dedication.
+          answer: False
+        - question: The sales person of the year message is a direct message.
+          answer: True
+        - question: The congratulations message holds back the good news.
+          answer: False
+        - question: The message should have described the deals Huang made.
+          answer: False
+        - question: The reference to hardwork and dedication shows that Huang didn't expect to win the award.
+          answer: False
+        - question: If Huang didn't expect to win the award, the reference to hardwork and dedication might help her understand why she was given the award
+          answer: True
+        - question: The message should have mentioned the prize of the car before mentioning Huang's naming as Salesperson of the Year.
+          answer: False
+    step_2:
+      identifier: good news step 2--the case of the car prize
+      quiz:
+        - question: The message doesn't include enough details about how to get the car.
+          answer: False
+        - question: The details about how to get the car should have been mentioned in a different message.
+          answer: False
+        - question: The details about how to get the car should have been mentioned after the insurance offer.
+          answer: False
+        - question: The message uses intensifiers to show the requirements to get the car are easy.
+          answer: False
+        - question: The message uses a grammatical construction to show the requirements to get the car are not a lot of trouble.
+          answer: True
+        - question: The details are about how to get insurance.
+          answer: False
+        - question: The details are about how to collect the prize.
+          answer: True
+        - question: Huang has some control over which car she gets.
+          answer: True
+        - question: The only control Huang has over which car she gets is the color.
+          answer: True
+    step_3:
+      identifier: good news step 3--the case of the car prize
+      quiz:
+        - question: The sales appeal is the insurance discount and breakdown cover.
+          answer: True
+        - question: Breakdown cover is some person coming to help drivers who have problems with their cars.
+          answer: True
+        - question: Breakdown cover is covering material put over the vehicle to protect it which breaks down the middle when folded.
+          answer: False
+        - question: Breakdown cover is insurance for drivers who have mental or emotional breakdowns.
+          answer: False
+        - question: The sales appeal's connection to the good news about the car is based on the fact that car drivers need insurance.
+          answer: True
+        - question: There is no connection between the sales appeal and the content of the good news.
+          answer: False
+        - question: The good news benefits Huang, but not Benson's Computers. The sales appeal may benefit the company.
+          answer: True
+        - question: The discounting of the car insurance will have no appeal to Huang.
+          answer: False
+        - question: There is extra information in the message that might be useful for Huang.
+          answer: True
+    step_4:
+      identifier: good news step 4--the case of the car prize
+      quiz:
+        - question: The sales department could use the same closing on all its messages.
+          answer: False
+        - question: The sales manager's conclusion doesn't make specific reference to the good news.
+          answer: True
+        - question: The sales manager tries hard to excite Huang about the award and prize but fails.
+          answer: False
+        - question: The sales manager ruins the effect of his message with his close.
+          answer: False
+        - question: The closing will not reduce Huang's satisfaction with the good news.
+          answer: True
+        - question: The sales manager's closing would be OK on a goodwill message to a colleague or friend.
+          answer: True
+        - question: The sales manager should have mentioned the company's name.
+          answer: False
+        
+        
+        
+
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
     comprehension:
       identifier: prize comprehension
       quiz:
@@ -407,59 +487,59 @@ prize:
             - The company thanks Huang and hopes the car will be OK.
             - The company values Huang highly.
           answer: The company thanks Huang and hopes the car will be OK.
-    structure: salesperson prize structure: true/false
-      identifier: 
+    structure:
+      identifier: "salesperson prize structure: true/false"
       quiz:
         - question: "'You are salesperson of the year and the prize is a car,' is the good news."
-          answer: 
+          answer: True
         - question: "'You are salesperson of the year and the prize is a car,' is the details."
-          answer: 
+          answer: False
         - question: "'You are salesperson of the year and the prize is a car,' is the sales appeal."
-          answer: 
+          answer: False
         - question: "'You are salesperson of the year and the prize is a car,' is the extra information."
-          answer: 
+          answer: False
         - question: "'You are salesperson of the year and the prize is a car,' is the positive close."
-          answer: 
+          answer: False
         - question: "'Pick the car up, showing ID, at car showroom,' is the good news."
-          answer: 
+          answer: False
         - question: "'Pick the car up, showing ID, at car showroom,' is the details."
-          answer: 
+          answer: True
         - question: "'Pick the car up, showing ID, at car showroom,' is the sales appeal."
-          answer: 
+          answer: False
         - question: "'Pick the car up, showing ID, at car showroom,' is the extra information."
-          answer: 
+          answer: False
         - question: "'Pick the car up, showing ID, at car showroom,' is the positive close."
-          answer: 
+          answer: False
         - question: "'Think about insuring the car with ABC, because of a special offer,' is the good news."
-          answer: 
+          answer: False
         - question: "'Think about insuring the car with ABC, because of a special offer,' is the details."
-          answer: 
+          answer: False
         - question: "'Think about insuring the car with ABC, because of a special offer,' is the sales appeal."
-          answer: 
+          answer: True
         - question: "'Think about insuring the car with ABC, because of a special offer,' is the extra information."
-          answer: 
+          answer: False
         - question: "'Think about insuring the car with ABC, because of a special offer,' is the positive close."
-          answer: 
+          answer: False
         - question: "'ABC has discounted policies for Benson employees,' is the good news."
-          answer: 
+          answer: False
         - question: "'ABC has discounted policies for Benson employees,' is the details."
-          answer: 
+          answer: False
         - question: "'ABC has discounted policies for Benson employees,' is the sales appeal."
-          answer: 
+          answer: False
         - question: "'ABC has discounted policies for Benson employees,' is the extra information."
-          answer: 
+          answer: True
         - question: "'ABC has discounted policies for Benson employees,' is the positive close."
-          answer: 
+          answer: False
         - question: "'Congratulations and good luck with the car,' is the good news."
-          answer: 
+          answer: False
         - question: "'Congratulations and good luck with the car,' is the details."
-          answer: 
+          answer: False
         - question: "'Congratulations and good luck with the car,' is the sales appeal."
-          answer: 
+          answer: False
         - question: "'Congratulations and good luck with the car,' is the extra information."
-          answer: 
+          answer: False
         - question: "'Congratulations and good luck with the car,' is the positive close."
-          answer: 
+          answer: True
         
         
         
