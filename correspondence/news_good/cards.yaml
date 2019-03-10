@@ -292,16 +292,18 @@ repair:
         
   drag:
     0:
-      identifier: alternate car repair cloze
+      identifier: alternate car repair cloze 1
       sentences:
         -
-          sentence: It is not going to cost as much for the repairs to your car as we thought, because we have found a cheaper starter motor than the one we were going to install.
-          We have been able to find a Nippon Denso starter motor for your car for $2,000, cheaper than the $4,000 Bosch starter motor we told you about. This means the total cost of fixing your vehicle will now only be $6,500. If the Nippon Denso starter motor is acceptable to you, please call us and confirm that fact.
-          While we are replacing the starter motor, would you like us to fix your radiator, which is leaking and change your transmission oil, which is also leaking? We would be pleased to do this for the cheaper price of $1,100 each (instead of the usual $1,500).
-          We have also extended our service hours and are now open on Sunday between 8:00 a.m. and 5:00 p.m. Please make use of this opportunity to get your car serviced on the weekend.
-          Thank you for your use of ABC Motor Repairs. Our staff have a genuine affection for the cars they service and a desire to return them to their owners in showroom condition.
-          clozed: 
-        
+          sentence: "It is not going to cost as much for the repairs to your car as we thought, because we have found a cheaper starter motor than the one we were going to install. <p> We have been able to find a Nippon Denso starter motor for your car for $2,000, less than the $4,000 Bosch starter motor we told you about. This means the total cost of fixing your vehicle will now only be $6,500. If the Nippon Denso starter motor is acceptable to you, please call us and confirm that fact. <p> While we are replacing the starter motor, would you like us to fix your radiator, which is leaking ..."
+          clozed: cost|cheaper|install|able|Bosch|told|will|fact|replacing|radiator|End
+    1:
+      identifier: alternate car repair cloze 2
+      sentences:
+        -
+          sentence: "... and change your transmission oil, which is also leaking? We would be pleased to do this for the discounted price of $1,100 each (instead of the usual $1,500). <p> We have also extended our service hours and are now open on Sunday between 8:00 a.m. and 5:00 p.m. Please make use of this opportunity to get your car serviced on the weekend. <p> Thank you for your use of ABC Motor Repairs. Our staff have a genuine affection for the cars they work on and a desire to return them to their owners in showroom condition."
+          clozed: change|leaking|each|service|opportunity|serviced|work|owners|condition|End
+
   match:
     cloze:
       identifier: book car repair cloze
@@ -377,6 +379,93 @@ prize:
             - 3rd
             - 4th 
           answer: 4th 
+        - question: What does Huang have to do to get the car?
+          option:
+            - Go to Honest Irene's Car Sales
+            - Present 3 forms of ID
+            - Choose the correct color of the car
+            - Present a recent photograph
+          answer: Present 3 forms of ID
+        - question: What is the sales appeal?
+          option:
+            - Insuring ABC
+            - ABC insuring Benson employees
+            - Insuring the car
+            - A wide range of insurance policies
+          answer: Insuring the car
+        - question: What is the extra information?
+          option:
+            - Insuring ABC
+            - ABC insurance for Benson employees
+            - Insuring the car
+            - A wide range of insurance policies
+          answer: ABC insurance for Benson employees
+        - question: What is the positive close?
+          option:
+            - The company expects Huang to work hard.
+            - The company hopes she drives the car for many years.
+            - The company thanks Huang and hopes the car will be OK.
+            - The company values Huang highly.
+          answer: The company thanks Huang and hopes the car will be OK.
+    structure: salesperson prize structure: true/false
+      identifier: 
+      quiz:
+        - question: "'You are salesperson of the year and the prize is a car,' is the good news."
+          answer: 
+        - question: "'You are salesperson of the year and the prize is a car,' is the details."
+          answer: 
+        - question: "'You are salesperson of the year and the prize is a car,' is the sales appeal."
+          answer: 
+        - question: "'You are salesperson of the year and the prize is a car,' is the extra information."
+          answer: 
+        - question: "'You are salesperson of the year and the prize is a car,' is the positive close."
+          answer: 
+        - question: "'Pick the car up, showing ID, at car showroom,' is the good news."
+          answer: 
+        - question: "'Pick the car up, showing ID, at car showroom,' is the details."
+          answer: 
+        - question: "'Pick the car up, showing ID, at car showroom,' is the sales appeal."
+          answer: 
+        - question: "'Pick the car up, showing ID, at car showroom,' is the extra information."
+          answer: 
+        - question: "'Pick the car up, showing ID, at car showroom,' is the positive close."
+          answer: 
+        - question: "'Think about insuring the car with ABC, because of a special offer,' is the good news."
+          answer: 
+        - question: "'Think about insuring the car with ABC, because of a special offer,' is the details."
+          answer: 
+        - question: "'Think about insuring the car with ABC, because of a special offer,' is the sales appeal."
+          answer: 
+        - question: "'Think about insuring the car with ABC, because of a special offer,' is the extra information."
+          answer: 
+        - question: "'Think about insuring the car with ABC, because of a special offer,' is the positive close."
+          answer: 
+        - question: "'ABC has discounted policies for Benson employees,' is the good news."
+          answer: 
+        - question: "'ABC has discounted policies for Benson employees,' is the details."
+          answer: 
+        - question: "'ABC has discounted policies for Benson employees,' is the sales appeal."
+          answer: 
+        - question: "'ABC has discounted policies for Benson employees,' is the extra information."
+          answer: 
+        - question: "'ABC has discounted policies for Benson employees,' is the positive close."
+          answer: 
+        - question: "'Congratulations and good luck with the car,' is the good news."
+          answer: 
+        - question: "'Congratulations and good luck with the car,' is the details."
+          answer: 
+        - question: "'Congratulations and good luck with the car,' is the sales appeal."
+          answer: 
+        - question: "'Congratulations and good luck with the car,' is the extra information."
+          answer: 
+        - question: "'Congratulations and good luck with the car,' is the positive close."
+          answer: 
+        
+        
+        
+
+        
+        
   match:
     cloze:
       identifier: car prize match
