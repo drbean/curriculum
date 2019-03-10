@@ -84,6 +84,49 @@
     type : jigsaw
     form : 3
     intro: 
-   
+-
+  -
+    topic: news_good
+    story: repair
+    type : drag
+    form : 0
+    intro: 
+-
+  -
+    topic: news_good
+    story: repair
+    type : drag
+    form : 1
+    intro: 
+-
+  -
+    topic: news_good
+    story: prize
+    type : jigsaw
+    form : comprehension
+    intro: 
+-
+  -
+    topic: news_good
+    story: prize
+    type : match
+    form : cloze
+    intro: 
+-
+  -
+    topic: news_good
+    story: prize
+    type : match
+    form : structure
+    intro: 
+-
+  -
+    topic: news_good
+    story: prize
+    type : jigsaw
+    form : structure
+    intro: 
+
+  
   
   
