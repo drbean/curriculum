@@ -59,34 +59,6 @@
 -
   -
     topic: news_good
-    story: point
-    type : jigsaw
-    form : 0
-    intro: 
--
-  -
-    topic: news_good
-    story: point
-    type : jigsaw
-    form : 1
-    intro: 
--
-  -
-    topic: news_good
-    story: point
-    type : jigsaw
-    form : 2
-    intro: 
--
-  -
-    topic: news_good
-    story: point
-    type : jigsaw
-    form : 3
-    intro: 
--
-  -
-    topic: news_good
     story: repair
     type : drag
     form : 0
@@ -112,13 +84,36 @@
     type : match
     form : cloze
     intro: 
+
 -
   -
     topic: news_good
     story: prize
-    type : match
-    form : structure
+    type : jigsaw
+    form : step_1
     intro: 
+-
+  -
+    topic: news_good
+    story: prize
+    type : jigsaw
+    form : step_2
+    intro: 
+-
+  -
+    topic: news_good
+    story: prize
+    type : jigsaw
+    form : step_3
+    intro: 
+-
+  -
+    topic: news_good
+    story: prize
+    type : jigsaw
+    form : step_4
+    intro: 
+  
 -
   -
     topic: news_good
@@ -126,7 +121,42 @@
     type : jigsaw
     form : structure
     intro: 
+-
+  -
+    topic: news_good
+    story: prize
+    type : match
+    form : structure
+    intro: 
 
+-
+  -
+    topic: news_good
+    story: point
+    type : jigsaw
+    form : 0
+    intro: 
+-
+  -
+    topic: news_good
+    story: point
+    type : jigsaw
+    form : 1
+    intro: 
+-
+  -
+    topic: news_good
+    story: point
+    type : jigsaw
+    form : 2
+    intro: 
+-
+  -
+    topic: news_good
+    story: point
+    type : jigsaw
+    form : 3
+    intro: 
   
   
   
