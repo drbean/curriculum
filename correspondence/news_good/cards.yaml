@@ -277,13 +277,13 @@ repair:
       identifier: alternate car repair cloze 1
       sentences:
         -
-          sentence: "It is not going to cost as much for the repairs to your car as we thought, because we have found a cheaper starter motor than the one we were going to install. <p> We have been able to find a Nippon Denso starter motor for your car for $2,000, less than the $4,000 Bosch starter motor we told you about. This means the total cost of fixing your vehicle will now only be $6,500. If the Nippon Denso starter motor is acceptable to you, please call us and confirm that fact. <p> While we are replacing the starter motor, would you like us to fix your radiator, which is leaking ..."
-          clozed: cost|cheaper|install|able|Bosch|told|will|fact|replacing|radiator|End
+          sentence: "It is not going to cost as much for the repairs to your car as we thought, because we have found a cheaper starter motor than the one we were going to install. <p> We have been able to find a Nippon Denso starter motor for your car for $2,000, less than the $4,000 Bosch starter motor we told you about. This means our quotation for fixing your vehicle will now only be $6,500. If the Nippon Denso starter motor is acceptable to you, please call us and confirm that fact. <p> While we are replacing the starter motor, would you like us to fix your radiator, which is leaking ..."
+          clozed: cost|cheaper|install|able|Bosch|told|quotation|will|fact|replacing|radiator|End
     1:
       identifier: alternate car repair cloze 2
       sentences:
         -
-          sentence: "... and change your transmission oil, which is also leaking? We would be pleased to do this for the discounted price of $1,100 each (instead of the usual $1,500). <p> We have also extended our service hours and are now open on Sunday between 8:00 a.m. and 5:00 p.m. Please make use of this opportunity to get your car serviced on the weekend. <p> Thank you for your use of ABC Motor Repairs. Our staff have a genuine affection for the cars they work on and a desire to return them to their owners in showroom condition."
+          sentence: "... and change your transmission oil, which is also leaking. We would be pleased to do this for the discounted price of $1,100 each (instead of the usual $1,500). <p> We have also extended our service hours and are now open on Sunday between 8:00 a.m. and 5:00 p.m. Please make use of this opportunity to get your car serviced on the weekend. <p> Thank you for your use of ABC Motor Repairs. Our staff have a genuine affection for the cars they work on and a desire to return them to their owners in showroom condition."
           clozed: change|leaking|each|service|opportunity|serviced|work|owners|condition|End
 
   match:
