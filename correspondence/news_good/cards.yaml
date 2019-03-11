@@ -730,7 +730,7 @@ details:
         - All you have to do to collect your prize is come to the Sports Lottery office in Taipei with your ID card and your bankbook.
   drag:
     0:
-      identifier: lottery news detail
+      identifier: good news details
       sentences:
         -
           sentence: All you have to do to collect your prize is come to the Sports Lottery office in Taipei with your ID card and your bankbook.
@@ -744,9 +744,15 @@ details:
         -
           sentence: If you wish to have us install this part, please call us at our office tomorrow.
           clozed: If|you|wish|to|have|us|install|this|please|call|us|at|our|office|End
-        
-        
-        
+        -
+          sentence: To receive your card, please fill out the attached form and send it back in the enclosed envelope.
+          clozed: To|receive|your|please|fill|out|the|attached|form|and|send|it|back|in|the|enclosed|End
+        -
+          sentence: If this is acceptable to you, please call us and confirm that fact.
+          clozed: If|this|is|acceptable|to|please|call|us|and|confirm|that|End
+        -
+          sentence: If you wish to receive this money in your bank account, please send the details of your account to the above address.
+          clozed: If|you|wish|to|receive|this|money|in|your|bank|please|send|the|details|of|your|account|to|the|above|End
 transfer:
   jigsaw:
     0:
