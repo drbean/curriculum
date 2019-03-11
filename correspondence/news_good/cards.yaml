@@ -734,25 +734,25 @@ details:
       sentences:
         -
           sentence: All you have to do to collect your prize is come to the Sports Lottery office in Taipei with your ID card and your bankbook.
-          clozed: All|you|have|to|do|to|collect|your|prize|is|come|to|the|Sports|Lottery|office|in|Taipei|with|your|ID|card|and|your|End
+          clozed: All|you|have|do|to|collect|prize|is|come|the|Sports|Lottery|office|in|Taipei|with|ID|card|and|your|End
         -
           sentence: To collect your prize, please send your bank account number and password to sundarpicha@give.me.your.money.con
-          clozed: To|collect|your|prize|please|send|your|bank|account|number|and|password|to|End
+          clozed: To|collect|prize|please|send|your|bank|account|number|and|password|to|End
         -
           sentence: To get your card, please fill out this form and send it back to us at the above address.
           clozed: To|get|your|please|fill|out|this|form|and|send|it|back|to|us|at|the|above|End
         -
           sentence: If you wish to have us install this part, please call us at our office tomorrow.
-          clozed: If|you|wish|to|have|us|install|this|please|call|us|at|our|office|End
+          clozed: If|you|wish|to|have|install|this|please|call|us|at|our|office|End
         -
           sentence: To receive your card, please fill out the attached form and send it back in the enclosed envelope.
-          clozed: To|receive|your|please|fill|out|the|attached|form|and|send|it|back|in|the|enclosed|End
+          clozed: To|receive|your|please|fill|out|the|attached|form|and|send|it|back|in|enclosed|End
         -
           sentence: If this is acceptable to you, please call us and confirm that fact.
           clozed: If|this|is|acceptable|to|please|call|us|and|confirm|that|End
         -
           sentence: If you wish to receive this money in your bank account, please send the details of your account to the above address.
-          clozed: If|you|wish|to|receive|this|money|in|your|bank|please|send|the|details|of|your|account|to|the|above|End
+          clozed: If|you|wish|to|receive|this|money|in|bank|please|send|the|details|of|your|account|above|End
 transfer:
   jigsaw:
     0:
