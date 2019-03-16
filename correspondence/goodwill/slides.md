@@ -103,6 +103,21 @@ You can start,
 
 Thank you very much for the invitation to your reception celebrating the 40th anniversary of the NUU students' association.
 
+Then, you need to say whether you're accepting or declining.
+
+* If you're declining, include a reason why you can't go.
+* If you're accepting, also say you're looking forward to going.
+
+Then, if you're:
+
+* declining, apologize twice.
+* or accepting, say thanks again.
+
+So, that's
+
+* 4 things to say, if you're accepting.
+* 5 things to say, if you're declining.
+
 # Exam
 
 ## Token thank you
