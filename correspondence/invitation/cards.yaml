@@ -1,5 +1,66 @@
 ---
 genre: correspondence
+reply:
+  jigsaw:
+    accept:
+      identifier:  book acceptance expression structures
+      quiz:
+        - question: I would be delighted to join you at…
+          option:
+            - thanking
+            - reason
+            - accepting
+            - looking forward to the event
+            - thanking again
+          answer: accepting
+        - question: I would be very pleased to …
+          option:
+            - thanking
+            - reason
+            - accepting
+            - looking forward to the event
+            - thanking again
+          answer: accepting
+        - question: I am very happy to accept your invitation to…
+          option:
+            - thanking
+            - reason
+            - accepting
+            - looking forward to the event
+            - thanking again
+          answer: accepting
+        - question: Thank you very much for your kind invitation.
+          option:
+            - thanking
+            - reason
+            - accepting
+            - looking forward to the event
+            - thanking again
+          answer: thanking
+        - question: I expect to enjoy this event greatly.
+          option:
+            - thanking
+            - reason
+            - accepting
+            - looking forward to the event
+            - thanking again
+          answer: looking forward to the event
+        - question: I can hardly wait to see you.
+          option:
+            - thanking
+            - reason
+            - accepting
+            - looking forward to the event
+            - thanking again
+          answer: looking forward to the event
+        - question: Thanks.
+          option:
+            - thanking
+            - reason
+            - accepting
+            - looking forward to the event
+            - thanking again
+          answer: thanking again
 roberts:
   jigsaw:
     graduation:
@@ -171,74 +232,6 @@ dinner:
             - looking forward to the event
             - thanking again
           answer: thanking again
-    reply:
-      identifier:  book acceptance expression structures
-      quiz:
-        - question: I would be delighted to join you at…
-          option:
-            - thanking
-            - reason
-            - accepting
-            - looking forward to the event
-            - thanking again
-          answer: accepting
-        - question: I would be very pleased to …
-          option:
-            - thanking
-            - reason
-            - accepting
-            - looking forward to the event
-            - thanking again
-          answer: accepting
-        - question: I am very happy to accept your invitation to…
-          option:
-            - thanking
-            - reason
-            - accepting
-            - looking forward to the event
-            - thanking again
-          answer: accepting
-        - question: Thank you very much for your kind invitation.
-          option:
-            - thanking
-            - reason
-            - accepting
-            - looking forward to the event
-            - thanking again
-          answer: thanking
-        - question: I expect to enjoy this event greatly.
-          option:
-            - thanking
-            - reason
-            - accepting
-            - looking forward to the event
-            - thanking again
-          answer: looking forward to the event
-        - question: I can hardly wait to see you.
-          option:
-            - thanking
-            - reason
-            - accepting
-            - looking forward to the event
-            - thanking again
-          answer: looking forward to the event
-        - question: Thanks.
-          option:
-            - thanking
-            - reason
-            - accepting
-            - looking forward to the event
-            - thanking again
-          answer: thanking again
-        
-        
-        
-        
-        
-        
-        
-        
-        
   match:
     xmas_refusal_structure:
       identifier: xmas party declining structure
