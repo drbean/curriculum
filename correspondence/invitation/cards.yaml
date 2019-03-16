@@ -172,6 +172,8 @@ dinner:
             - thanking again
           answer: thanking again
     reply:
+      identifier:  book acceptance expression structures
+      quiz:
         - question: I would be delighted to join you at…
           option:
             - thanking
@@ -253,7 +255,7 @@ dinner:
         -
           - Sorry, aga ..
           - apology, restated
-    dinner:
+    book:
       identifier: book, dinner invitation acceptance
       pair:
         -
@@ -355,6 +357,79 @@ smokers:
             - the writer
             - the recipient
           answer: the recipient
+    chen:
+      identifier: smokers reply structure
+      quiz:
+        - question: _________________ for inviting me to be a guest speaker at your Asian Symposium on Lung Diseases between 20 and 21 October.
+          option:
+            - thanking
+            - reason
+            - rejecting
+            - apologizing
+            - alternative
+            - polite close
+          answer: thanking
+        - question: I feel very ___________ to have been given such an invitation.
+          option:
+            - thanking
+            - reason
+            - rejecting
+            - apologizing
+            - alternative
+            - polite close
+          answer: reason
+        - question: Usually, I would be very ___________ to accept your invitation. 
+          option:
+            - thanking
+            - reason
+            - rejecting
+            - apologizing
+            - alternative
+            - polite close
+          answer: reason
+        - question: _____________, due to a prior commitment, I must ___________ your invitation.
+          option:
+            - thanking
+            - reason
+            - rejecting
+            - apologizing
+            - alternative
+            - polite close
+          answer: rejecting
+        - question: May I ____________ Fu-Ming Wang (fumingwang@lcmhospital.org), the lung specialist at Lee-Chen Memorial Hospital? He not only has more than fifteen years hands-on _______________ in this field but also is a most ______________ speaker.
+          option:
+            - thanking
+            - reason
+            - rejecting
+            - apologizing
+            - alternative
+            - polite close
+          answer: alternative
+        - question: Please accept my ____________ ____________ for not being able to _____________ your invitation.
+          option:
+            - thanking
+            - reason
+            - rejecting
+            - apologizing
+            - alternative
+            - polite close
+          answer: apologizing
+        - question: I wish your symposium every _____________ and would be happy to be ______________ of any future ______________ you may have.
+          option:
+            - thanking
+            - reason
+            - rejecting
+            - apologizing
+            - alternative
+            - polite close
+          answer: polite close
+      identifier:  book reply expression structures
+        
+        
+        
+        
+        
+        
   scramble:
     0:
       identifier: smokers
