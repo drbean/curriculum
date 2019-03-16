@@ -157,13 +157,6 @@
     type : jigsaw
     form : 3
     intro: 
--
-  -
-    topic: news_good
-    story: details
-    type : drag
-    form : 0
-    intro: 
   
   
   
