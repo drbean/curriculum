@@ -128,6 +128,115 @@ dinner:
           answer: True
         - question: Kennedy's words show he thinks it's unlikely Jalahma will to be at the event.
           answer: False
+    kennedy:
+      identifier: dinner reply structure
+      quiz:
+        - question: Thank you _______ your email _________ September 20 and your kind invitation _______ your anniversary dinner.
+          option:
+            - thanking
+            - accepting
+            - reason
+            - looking forward to the event
+            - thanking again
+          answer: thanking
+        - question: I will be in Taipei _______ 26-28 September.
+          option:
+            - thanking
+            - reason
+            - accepting
+            - looking forward to the event
+            - thanking again
+          answer: reason
+        - question: I would be delighted _____ attend your dinner ____ the Crown Hotel.
+          option:
+            - thanking
+            - reason
+            - accepting
+            - looking forward to the event
+            - thanking again
+          answer: accepting
+        - question: I look forward _______ seeing you again and meeting some of your colleagues from around.
+          option:
+            - thanking
+            - reason
+            - accepting
+            - looking forward to the event
+            - thanking again
+          answer: looking forward to the event
+        - question: Many thanks for the invitation
+          option:
+            - thanking
+            - reason
+            - accepting
+            - looking forward to the event
+            - thanking again
+          answer: thanking again
+    reply:
+        - question: I would be delighted to join you at…
+          option:
+            - thanking
+            - reason
+            - accepting
+            - looking forward to the event
+            - thanking again
+          answer: accepting
+        - question: I would be very pleased to …
+          option:
+            - thanking
+            - reason
+            - accepting
+            - looking forward to the event
+            - thanking again
+          answer: accepting
+        - question: I am very happy to accept your invitation to…
+          option:
+            - thanking
+            - reason
+            - accepting
+            - looking forward to the event
+            - thanking again
+          answer: accepting
+        - question: Thank you very much for your kind invitation.
+          option:
+            - thanking
+            - reason
+            - accepting
+            - looking forward to the event
+            - thanking again
+          answer: thanking
+        - question: I expect to enjoy this event greatly.
+          option:
+            - thanking
+            - reason
+            - accepting
+            - looking forward to the event
+            - thanking again
+          answer: looking forward to the event
+        - question: I can hardly wait to see you.
+          option:
+            - thanking
+            - reason
+            - accepting
+            - looking forward to the event
+            - thanking again
+          answer: looking forward to the event
+        - question: Thanks.
+          option:
+            - thanking
+            - reason
+            - accepting
+            - looking forward to the event
+            - thanking again
+          answer: thanking again
+        
+        
+        
+        
+        
+        
+        
+        
+        
   match:
     xmas_refusal_structure:
       identifier: xmas party declining structure
@@ -287,6 +396,23 @@ smokers:
         -
           sentence: "Our company (Smokers Inc.) is organizing a conference on lung diseases, and we were wondering if you would like to give the opening speech for us. present at the conference will be over 200 prominent doctors from all over the world. because of your research in lung diseases, we want you to open proceedings.<p>  The conference will take place from October 20-21, 2016 (10:00a.m.-6:00 p.m.) at the Grand Hillside, Taipei (please see the attached map). We would prefer the opening speech to be from forty to sixty minutes long. <p> If you are willing to deliver this speech, in your reply could you also include your fee and details of any special requirements you may have.<p>  Thank you for considering this invitation and we hope to hear from you soon."
           clozed: organizing|conference|wondering|if|you|would|like|to|give|present|because|research|diseases|you|place|prefer|from|willing|fee|requirements|may_have|invitation|hope|End
+    reply:
+      identifier: Chen rejects invitation
+      sentences:
+        -
+          sentence: Thank you for your email of September 20 and your kind invitation to speak at your conference on November 15.
+          clozed: Thank|you|for|your|email|of|September|20|and|your|kind|invitation|to|speak|at|your|conference|on|End
+        -
+          sentence: Unfortunately, I will be out of the country on that date.
+          clozed: Unfortunately|I|will|be|out|of|the|country|on|that|date|End
+        -
+          sentence: I'm sorry about this, because it would have been a great opportunity to present my latest research to an audience in Taiwan.
+          clozed: I'm|sorry|about|because|it|would|have|been|a|opportunity|to|present|my|research|to|an|audience|in|End
+        -
+          sentence: My apologies again, and perhaps there will be another opportunity for us to work together in the future.
+          clozed: My|apologies|and|perhaps|there|will|be|another|opportunity|for|us|to|work|together|in|the|End
+I will be in Taipei _______ 26-28 September. I would be delighted _____ attend your dinner ____ the Crown Hotel. I look forward _______ seeing you again and meeting some of your colleagues from around.
+Many thanks for the invitation
 
   match:
     smokers:
