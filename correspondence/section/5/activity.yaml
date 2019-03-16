@@ -6,4 +6,33 @@
     type : drag
     form : 0
     intro: 
+-
+  -
+    topic: invitation
+    story: smokers
+    type : drag
+    form : reply
+    intro: 
+-
+  -
+    topic: invitation
+    story: dinner
+    type : jigsaw
+    form : kennedy
+    intro: 
+-
+  -
+    topic: invitation
+    story: dinner
+    type : match
+    form : book
+    intro: 
+-
+  -
+    topic: invitation
+    story: dinner
+    type : jigsaw
+    form : reply
+    intro: 
+  
 
