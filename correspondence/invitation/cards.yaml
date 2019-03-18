@@ -568,11 +568,11 @@ smokers:
           answer: True
         - question: Chen is treating Shaw as having equal or higher status as/than his status.
           answer: True
-        
 
-        
-        
-        
+
+
+
+
     chen:
       identifier: smokers reply structure
       quiz:
@@ -640,12 +640,6 @@ smokers:
             - polite close
           answer: polite close
       identifier:  book reply expression structures
-        
-        
-        
-        
-        
-        
   scramble:
     0:
       identifier: smokers
