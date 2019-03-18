@@ -9,6 +9,37 @@
 -
   -
     topic: invitation
+    story: response
+    type : match
+    form : 0
+    intro: 
+-
+  -
+    topic: invitation
+    story: response
+    type : jigsaw
+    form : 0
+    intro: 
+
+-
+  -
+    topic: invitation
+    story: smokers
+    type : jigsaw
+    form : genre
+    intro: 
+
+-
+  -
+    topic: invitation
+    story: smokers
+    type : jigsaw
+    form : chen
+    intro: 
+
+-
+  -
+    topic: invitation
     story: smokers
     type : drag
     form : reply
@@ -16,9 +47,33 @@
 -
   -
     topic: invitation
+    story: smokers
+    type : jigsaw
+    form : reply
+    intro: 
+
+-
+  -
+    topic: invitation
     story: dinner
     type : jigsaw
-    form : kennedy
+    form : genre
+    intro: 
+
+-
+  -
+    topic: invitation
+    story: dinner
+    type : jigsaw
+    form : comprehension_questions
+    intro: 
+
+-
+  -
+    topic: invitation
+    story: dinner
+    type : jigsaw
+    form : reply
     intro: 
 -
   -
@@ -30,9 +85,16 @@
 -
   -
     topic: invitation
-    story: dinner
+    story: reply
     type : jigsaw
-    form : reply
+    form : accept
     intro: 
-  
+-
+  -
+    topic: invitation
+    story: reply
+    type : jigsaw
+    form : reject
+    intro: 
+
 
