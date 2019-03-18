@@ -1,9 +1,82 @@
 ---
-genre: correspondence
+# genre: correspondence
+response:
+  match:
+    0:
+      identifier: "message: accepting or declining"
+      pair:
+        -
+          - p 71 B.
+          - invitation
+        -
+          - p 72. C.
+          - accepting an invitation
+        -
+          - p 72. C.
+          - declining an invitation
+  jigsaw:
+    0:
+      identifier: accepting or declining expression
+      quiz:
+        - question: Usually, I would be very happy to ..
+          option:
+            - accepting
+            - declining
+          answer: declining
+        - question: I feel honored to have been invited ..
+          option:
+            - accepting
+            - declining
+          answer: declining
+        - question: I would be delighted to join you at…
+          option:
+            - accepting
+            - declining
+          answer: accepting
+        - question:  I would be very pleased to …
+          option:
+            - accepting
+            - declining
+          answer: accepting
+        - question: I am very happy to ..
+          option:
+            - accepting
+            - declining
+          answer: accepting
+        - question: Thank you very much for your kind invitation.
+          option:
+            - accepting
+            - declining
+          answer: accepting
+        - question: I would very much like to come, but ..
+          option:
+            - accepting
+            - declining
+          answer: declining
+        - question: Unfortunately, ...
+          option:
+            - accepting
+            - declining
+          answer: declining
+        - question: Thanks for the invitation. But ..
+          option:
+            - accepting
+            - declining
+          answer: declining
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
 reply:
   jigsaw:
     accept:
-      identifier:  book acceptance expression structures
+      identifier:  book and other acceptance expression structures
       quiz:
         - question: I would be delighted to join you at…
           option:
@@ -61,6 +134,90 @@ reply:
             - looking forward to the event
             - thanking again
           answer: thanking again
+    reject:
+      identifier:  book and other rejection expression structures
+      quiz:
+        - question: I would very much like to come, but unfortunately…
+          option:
+            - thanking
+            - reason
+            - rejecting
+            - apologizing
+            - alternative
+            - polite close
+          answer: rejecting
+        - question: Unfortunately, I will not be able to join you…
+          option:
+            - thanking
+            - reason
+            - rejecting
+            - apologizing
+            - alternative
+            - polite close
+          answer: rejecting
+        - question: My wife is having the baby this weekend, so ..
+          option:
+            - thanking
+            - reason
+            - rejecting
+            - apologizing
+            - alternative
+            - polite close
+          answer: reason
+        - question: Thanks for the invitation. But ...
+          option:
+            - thanking
+            - reason
+            - rejecting
+            - apologizing
+            - alternative
+            - polite close
+          answer: thanking
+        - question: I am afraid I cannot come to …
+          option:
+            - thanking
+            - reason
+            - rejecting
+            - apologizing
+            - alternative
+            - polite close
+          answer: rejecting
+        - question: Sorry.
+          option:
+            - thanking
+            - reason
+            - rejecting
+            - apologizing
+            - alternative
+            - polite close
+          answer: apologizing
+        - question: Perhaps next time.
+          option:
+            - thanking
+            - reason
+            - rejecting
+            - apologizing
+            - alternative
+            - polite close
+          answer: alternative
+        - question: I wish the event every success. Please keep me informed of future events.
+          option:
+            - thanking
+            - reason
+            - rejecting
+            - apologizing
+            - alternative
+            - polite close
+          answer: polite close
+        
+        
+        
+        
+        
+        
+        
+        
+        
 roberts:
   jigsaw:
     graduation:
@@ -155,7 +312,7 @@ party:
 dinner:
   jigsaw:
     genre:
-      identifier: dinner comprehension questions
+      identifier: dinner message genre
       quiz:
         - question: What kind of message is the dinner message of Kennedy to Jalahma?
           option:
@@ -167,7 +324,7 @@ dinner:
             - refusal of an invitation
           answer: acceptance of an invitation
     comprehension_questions:
-      identifier: 
+      identifier: dinner comprehension questions
       quiz:
         - question: Jalahma invited Kennedy to a graduation ceremony.
           answer: False
@@ -189,7 +346,7 @@ dinner:
           answer: True
         - question: Kennedy's words show he thinks it's unlikely Jalahma will to be at the event.
           answer: False
-    kennedy:
+    reply:
       identifier: dinner reply structure
       quiz:
         - question: Thank you _______ your email _________ September 20 and your kind invitation _______ your anniversary dinner.
@@ -286,6 +443,18 @@ dinner:
           - re-expresssion of thanks
 smokers:
   jigsaw:
+    genre:
+      identifier: smokers message genre
+      quiz:
+        - question: What kind of message is the smokers message of Chen to Shaw?
+          option:
+            - thank-you message
+            - congratulations message
+            - condolences message
+            - invitation
+            - acceptance of an invitation
+            - refusal of an invitation
+          answer: refusal of an invitation
     smokers:
       identifier: smokers structure
       quiz:
@@ -350,6 +519,60 @@ smokers:
             - the writer
             - the recipient
           answer: the recipient
+    reply:
+      identifier: comprehension of Chen reply
+      quiz:
+        - question: "'I feel very honored,' flatters Shaw."
+          answer: True
+        - question: Shaw feels good when Chen says he feel honored.
+          answer: True
+        - question: "'I feel very honored,' puts Chen in the position of having lower status than the person/organization honoring him."
+          answer: True
+        - question: Chen believes he has lower status than Shaw.
+          answer: False
+        - question: Chen treats Shaw as an equal, even though his status is higher than Shaw's.
+          answer: True
+        - question: Chen uses formal language.
+          answer: True
+        - question: Chen's formal language is polite.
+          answer: True
+        - question: Chen probably has a bad relationship with Fu-Ming Wang.
+          answer: False
+        - question: "'I feel very _____ to have been given such an invitation' is a 'buffer' showing Chen is going to decline."
+          answer: True
+        - question: "'Usually, I would be very ____ to accept,' is a 'buffer' showing Chen is going to decline."
+          answer: True
+        - question: Chen doesn't want to hurt Shaw's feelings.
+          answer: True
+        - question: Chen feels bad about refusing Shaw's offer.
+          answer: False
+        - question: The tone Chen adopts doesn't help Shaw feel less bad about the rejection
+          answer: False
+        - question: Chen is polite.
+          answer: True
+        - question: The suggestion Shaw approach Fu-Ming Wang won't help Shaw.
+          answer: False
+        - question: Chen's thanking Shaw doesn't help Shaw feel less bad.
+          answer: False
+        - question: "Chen's 'wish[ing] the symposium every success' shows he regrets not being able to give the speech."
+          answer: False
+        - question: "Chen's 'be[ing] happy to be informed' of a future symposium shows he wants to attend next time."
+          answer: False
+        - question: "Chen's 'feel[ing] very honored to have' received the invitation shows he thinks the symposium is very important."
+          answer: False
+        - question: Chen may not be telling the truth about feeling honored.
+          answer: True
+        - question: Chen probably feels less bad, rejecting the invitation, than Shaw will feel, being rejected.
+          answer: True
+        - question: Chen's social status is higher than Shaw's.
+          answer: True
+        - question: Chen is treating Shaw as having equal or higher status as/than his status.
+          answer: True
+        
+
+        
+        
+        
     chen:
       identifier: smokers reply structure
       quiz:
@@ -479,8 +702,6 @@ smokers:
         -
           sentence: My apologies again, and perhaps there will be another opportunity for us to work together in the future.
           clozed: My|apologies|and|perhaps|there|will|be|another|opportunity|for|us|to|work|together|in|the|End
-I will be in Taipei _______ 26-28 September. I would be delighted _____ attend your dinner ____ the Crown Hotel. I look forward _______ seeing you again and meeting some of your colleagues from around.
-Many thanks for the invitation
 
   match:
     smokers:
