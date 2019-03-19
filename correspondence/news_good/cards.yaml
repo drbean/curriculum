@@ -653,6 +653,66 @@ magazine:
         -
           - 4
           - polite close
+  jigsaw:
+    step_1:
+      identifier: good news step 1--the case of the free magazine 
+      quiz:
+        - question: Smith gives Gordon the good news in the first sentence.
+          answer: False
+        - question: Smith gives Gordon the good news as quickly as possible
+          answer: True
+        - question: Smith should have mentioned the magazine is enclosed before thanking Gordon for his interest.
+          answer: False
+        - question: Gordon probably expected the magazine to be included in the letter.
+          answer: True
+        - question: Smith explained why the free magazine was enclosed.
+          answer: False
+        - question: Smith should have explained why the free magazine was enclosed.
+          answer: True
+        - question: The magazine letter is a direct message.
+          answer: True
+        - question: The magazine letter doesn't follow the good news structure closely.
+          answer: False
+        
+        
+
+    0:
+      identifier: understanding the magazine good news
+      quiz:
+        - question: The letter is a reply to an inquiry.
+          answer: True
+        - question: The letter is good news because Gordon only has to pay $18.
+          answer: False
+        - question: The letter is good news because it contains a free copy of a magazine.
+          answer: True
+        - question: The letter is good news because Smith is happy to welcome Gordon.
+          answer: False
+        - question: Gordon paid $18 for the magazine.
+          answer: False
+        - question: Gordon has or is thinking of buying a Toyota Altis.
+          answer: True
+        - question: Gordon's Toyota Altis may be an older model which needs upkeep.
+          answer: True
+        - question: Gordon may be looking to do something with his car.
+          answer: True
+        - question: Readers submit content for the magazine which editors may include in it.
+          answer: True
+        - question: Readers have no input into the magazine.
+          answer: False
+        - question: The discount on two-year membership is 16% of $30.
+          answer: False
+        - question: The discount on two-year membership is 16% of $36.
+          answer: True
+        - question: 16% of $36 is about $6.
+          answer: True
+        - question: The discount on two-year membership is $6.
+          answer: True
+        - question: Smith says if he doesn't pay quickly he might miss an issue of the magazine.
+          answer: True
+        
+        
+       
+        
 card:
   match:
     cloze:
