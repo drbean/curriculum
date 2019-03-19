@@ -96,5 +96,39 @@
     type : jigsaw
     form : reject
     intro: 
-
-
+-
+  -
+    topic: invitation
+    story: student
+    type : jigsaw
+    form : 0
+    intro: 
+-
+  -
+    topic: news_good
+    story: magazine
+    type : match
+    form : cloze
+    intro: 
+-
+  -
+    topic: news_good
+    story: magazine
+    type : match
+    form : structure
+    intro: 
+-
+  -
+    topic: news_good
+    story: magazine
+    type : jigsaw
+    form : 0
+    intro: 
+     
+-
+  -
+    topic: news_good
+    story: magazine
+    type : jigsaw
+    form : step_1
+    intro: 
