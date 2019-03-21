@@ -206,11 +206,10 @@
     G: Look at that big bird! It's so pretty. What is it?
     B: That's an eagle. It's a very special bird.
     G: Why is it special?
-    B: There aren't many around here. They also fly south in winter.
+    B: There aren't many around here. They also fly south in the winter.
     G: Oh. Why do they do that?
     B: They fly south where it's warmer and they can find food.
-    G: It flies without moving its wings! It's beautiful.
-  - eagle|special|End
+  - Look at that big|It's so|What is it|That's an|It's a very|Why is it|There aren't|around|They also fly|in the|Oh. Why do|do|They|where it's|and they can|End
 
 -
   - "pet-0"
