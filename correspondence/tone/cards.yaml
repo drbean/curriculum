@@ -109,7 +109,7 @@ advice:
         - question: The direct style of message may be more powerful.
           answer: True
     order:
-      identifier: order p 9
+      identifier: ordering/asking p 9
       quiz:
         - question: The order on p 9 has a different meaning than the order on p 45, 46.
           answer: True
