@@ -12,7 +12,7 @@ response:
           - p 72. C.
           - accepting an invitation
         -
-          - p 72. C.
+          - p 72. D.
           - declining an invitation
   jigsaw:
     0:
@@ -326,6 +326,8 @@ dinner:
     comprehension_questions:
       identifier: dinner comprehension questions
       quiz:
+        - question: Kennedy made an effort to be in Taipei for the dinner.
+          answer: False
         - question: Jalahma invited Kennedy to a graduation ceremony.
           answer: False
         - question: Kennedy follows the structure on p69 exactly.
@@ -686,13 +688,13 @@ smokers:
       sentences:
         -
           sentence: Thank you for your email of September 20 and your kind invitation to speak at your conference on November 15.
-          clozed: Thank|you|for|your|email|of|September|20|and|your|kind|invitation|to|speak|at|your|conference|on|End
+          clozed: Thank|you|for|email|of|September|20|and|kind|invitation|to|speak|at|your|conference|on|End
         -
           sentence: Unfortunately, I will be out of the country on that date.
           clozed: Unfortunately|I|will|be|out|of|the|country|on|that|date|End
         -
           sentence: I'm sorry about this, because it would have been a great opportunity to present my latest research to an audience in Taiwan.
-          clozed: I'm|sorry|about|because|it|would|have|been|a|opportunity|to|present|my|research|to|an|audience|in|End
+          clozed: I'm|sorry|about|because|it|would|have|been|a|opportunity|present|my|research|to|an|audience|in|End
         -
           sentence: My apologies again, and perhaps there will be another opportunity for us to work together in the future.
           clozed: My|apologies|and|perhaps|there|will|be|another|opportunity|for|us|to|work|together|in|the|End
@@ -814,3 +816,79 @@ sundry:
           answer: True
         - question: The text in the smokers invitation in the book is less formal than the text in the smokers scramble/structure on the site.
           answer: False
+student:
+  jigsaw:
+    0:
+      identifier: acceptance/rejection problems in Chang reply
+      quiz:
+        - question: Thank you very much for the invitation to your reception celebrating the 40th anniversary of the NUU students' association.<p>  But I am afraid I cannot come to the reception celebrating the 40th anniversary of the NUU students' association because I have a important meet at that day. <p> Thanks again for your invitation!
+          option:
+            - thanking
+            - reason
+            - rejecting
+            - apologizing
+            - polite close
+          answer: apologizing
+        - question: Thank you very much for the invitation to your reception celebrating the 40th anniversary of the NUU students' association. <p>I am very happy to accept your invitation to a party celebrating the association's 40th anniversary.<p>Many thanks for the invitation.
+          option:
+            - thanking
+            - reason
+            - accepting
+            - looking forward to the event
+            - thanking again
+          answer: looking forward to the event
+        - question:    Thank you very much for the invitation to your reception celebrating the 40th anniversary of the NUU students' association.  <p>Unfortunately, I will not be able to join the party because I have a important meeting.<p>Thanks for the invitation. I hope the party will be fine.
+          option:
+            - thanking
+            - reason
+            - rejecting
+            - apologizing
+            - polite close
+          answer: apologizing
+        - question:    Thank you very much for the invitation to your reception celebrating the 40th anniversary of the NUU students' association.  I feel very honored to have been given such an invitation. <p>    I would be very pleased to accept your invitation and and look forward to the 40th anniversary celebration.<p>Many thanks for the invitation.
+          option:
+            - thanking
+            - reason for thanks
+            - accepting
+            - looking forward to the event
+            - thanking again
+          answer: reason for thanks
+        - question: Thank you very much for the invitation to your reception celebrating the 40th anniversary of the NUU students' association.But I am afraid I cannot come to the party because my wife is pregnant.
+          option:
+            - thanking
+            - reason
+            - rejecting
+            - apologizing
+          answer: apologizing
+        - question: Thank you very much for the invitation to your reception celebrating the 40th anniversary of the NUU students' association. <p> Thank you very much for your kind invitation ,I will visit. <p>Many thanks for the invitation.
+          option:
+            - thanking
+            - reason
+            - accepting
+            - looking forward to the event
+            - thanking again
+          answer: looking forward to the event
+        - question:    Thanks for the invitation. But I am afraid I cannot come to the anniversary because I will be in Taipei on that day. It was an important meeting about education.<p> If there is another time I will attend your anniversary.
+          option:
+            - thanking
+            - reason
+            - rejecting
+            - apologizing
+            - alternative
+          answer: apologizing
+        - question: Thank you very much for the invitation to your reception celebrating the 40th anniversary of the NUU students' association.<p>I am very happy to accept your invitation.I will find the time to join the anniversary.<p>Many thanks for the invitation.
+          option:
+            - thanking
+            - reason
+            - accepting
+            - looking forward to the event
+            - thanking again
+          answer: looking forward to the event
+        - question:    Thank you very much for the invitation to your reception celebrating the 40th anniversary of the NUU students' association.  <p>Usually, I would very happy to accept your invitation. I would be delighted to attend your invitation at the college.<p> I am looking forward to seeing you again and meeting the Nuu students' in this party. <p>Many thanks for the invitation.
+          option:
+            - thanking
+            - reason
+            - accepting
+            - looking forward to the event
+            - thanking again
+          answer: reason
