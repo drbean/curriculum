@@ -106,3 +106,35 @@ And the 5 points (or guidelines) of 10-3, p90
 - Don't criticize or blame the reader. Focus on the situation, not the people.
 - Acknowledge your own mistakes.
 - Be grateful attempts have been made, even if they are unsuccessful.
+
+# Homework
+
+## Homework: the problem of tone
+
+Tone is how you say things. The effect on people of what you say depends on how you say it.
+
+- [https://en.wikipedia.org/wiki/Nonverbal_communication ](https://en.wikipedia.org/wiki/Nonverbal_communication)
+
+I want you to show some awareness of tone.
+
+Take a message (1-2 lines) you found somewhere or wrote yourself.
+
+Talk about the effect of the message on people.
+
+Say how the effect could be made different if a different tone were used.
+
+For example,
+
+	A teacher says to a student, "Out! Get out!"
+	The teacher feels bad. The student feels bad.
+
+	The teacher could say, "Kindly leave the room."
+	The teacher is more polite. The student feels less bad.
+
+Or,
+	
+	Chen says, "I feel honored by your invitation."
+	Shaw feels good, even though Chen doesn't mean it. Chen is polite.
+
+	Chen could say, "I don't want to speak at your symposium."
+	Shaw feels bad, even though Chen is speaking the truth.
