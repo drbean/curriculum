@@ -3,7 +3,7 @@ genre: correspondence
 advice:
   jigsaw:
     polite:
-      identifier: advice
+      identifier: "p 9, please, thank you"
       quiz:
         - question: When to use please?
           option:
@@ -29,31 +29,59 @@ advice:
             - Sometimes
             - Never
           answer: Always
+        - question: ____ give me a tissue, thank you.
+          option:
+            - Please,
+            - Thank you,
+          answer: Please,
+        - question: Give me a tissue, ____.
+          option:
+            - please
+            - thank you
+          answer: 
+        - question: In an acknowledgement, use ..
+          option:
+            - please
+            - thank you
+          answer: thank you
+        - question: In a request, use ..
+          option:
+            - please
+            - thank you
+          answer: please
     blunt:
-      identifier: advice
+      identifier: bluntness, p 9
       quiz:
-        - question: The advice about being concise and not being blunt is confusing. Why?
+        - question: Concise has a good meaning.
+          answer: True
+        - question: Blunt has a good meaning.
+          answer: False
+        - question: The advice about being concise (p 3) and not being blunt (p 9) is confusing. Why?
           option:
             - Concise and blunt have similar meanings
             - Concise and blunt have very different meanings
           answer: Concise and blunt have similar meanings
-        - question: The first example in the bluntness section is concise.
+        - question: Blunt means too concise.
+          answer: True
+        - question: Being blunt is helpful.
+          answer: False
+        - question: The first example in the bluntness section (Thank you for your ..) is concise.
           option:
             - Yes
             - No
           answer: Yes
-        - question: The first example in the bluntness section is not blunt.
+        - question: The first example in the bluntness section (Thank you for your ..) is not blunt.
           option:
             - Yes
             - No
           answer: Yes
-        - question: The second example in the bluntness section is blunt.
+        - question: The second example in the bluntness section (We got your order ..) is blunt.
           option:
             - Yes
             - No
           answer: Yes
     direct:
-      identifier: advice
+      identifier: directness, p 9
       quiz:
         - question: Which is more direct?
           option:
@@ -65,9 +93,28 @@ advice:
             - I don't think the quality is very good.
             - The quality is not good.
           answer: I don't think the quality is very good.
+        - question: A good news message is written in a less direct way than a bad news message.
+          answer: False
+        - question: If you explain the situation around the news before saying what the news is, then you're being more direct.
+          answer: False
+        - question: The more direct style of message may hurt the reader more, if it is bad news.
+          answer: True
+        - question: The aim in avoiding directness is to be more polite.
+          answer: True
+        - question: Business people will be more direct with ..
+          option:
+            - friends and family
+            - co-workers and clients
+          answer: friends and family
+        - question: The direct style of message may be more powerful.
+          answer: True
     order:
-      identifier: order
+      identifier: order p 9
       quiz:
+        - question: The order on p 9 has a different meaning than the order on p 45, 46.
+          answer: True
+        - question: The meaning of 'order' on p 9 is the same as that in 'to order/buy a product'.
+          answer: False
         - question: Which is an order?
           option:
             - Send me a catalog?
@@ -78,9 +125,54 @@ advice:
             - When will you send me the goods?
             - Can you send the goods as soon as possible?
           answer: Can you send the goods as soon as possible?
+        - question: Which is an inquiry?
+          option:
+            - When can you send me the goods?
+            - Can you send the goods as soon as possible?
+          answer: When can you send me the goods?
+        - question: Which is an order, expressed as a request?
+          option:
+            - Can you send me order No. N1478689 now?
+            - Send order No. N1478689 now.
+          answer: Can you send me order No. N1478689 now?
+        - question: If you're asking something, it could be a request or an inquiry.
+          answer: True
+        - question: If you're asking something, it could be an order.
+          answer: False
+        - question: 'Please' is used with orders.
+          answer: True
+        - question: 'Please' is used with requests.
+          answer: True
+        - question: 'Please' is used with inquiries.
+          answer: False
     blame:
-      identifier: blame
+      identifier: blame p 9
       quiz:
+        - question: Which is blaming the reader/listener?
+          option:
+            - Bad language will not be allowed in this company.
+            - The bad language you used is a disgrace.
+          answer: The bad language you used is a disgrace.
+        - question: Which is blaming the reader/listener?
+          option:
+            - I wasn't able to use my English ability while working  here.
+            - I have found another job where I can use my English-language skills.
+          answer: I wasn't able to use my English ability while working  here.
+        - question: Which is blaming the reader/listener?
+          option:
+            - You were in a car accident in your car.
+            - You crashed your car.
+          answer: You crashed your car.
+        - question: Which is blaming the reader/listener?
+          option:
+            - We lost the order because you were impolite to the customer.
+            - We lost the order because of impoliteness to the customer.
+          answer: We lost the order because you were impolite to the customer.
+        - question: Which is blaming the reader/listener?
+          option:
+            - There is a mistake in your order.
+            - There is a problem with your order.
+          answer: There is a mistake in your order.
         - question: Which is blaming the reader/listener?
           option:
             - We lost the order because you quoted the wrong price.
@@ -92,7 +184,7 @@ advice:
             - What did you do that caused the goods to be lost in the mail?
           answer: What did you do that caused the goods to be lost in the mail?
     softening:
-      identifier: softening
+      identifier: softening p 9
       quiz:
         - question: Which is softer?
           option:
@@ -108,13 +200,52 @@ advice:
 bob:
   jigsaw:
     0:
-      identifier: Bob
+      identifier: Bob's expression of confidence
       quiz:
-        - question: Which set expresses the right amount of confidence?
+        - question: Which set of expressions shows the right amount of confidence?
           option:
             - 1st
             - 2nd
           answer: 2nd
+        - question: The problem with Bob saying, 'My qualifications make me an excellent applicant ..' when the employer realizes he is NOT an excellent applicant, is ..
+          option:
+            - The employer will think Bob is silly, emabarrassing Bob.
+            - The employer will believe he is an excellent applicant.
+            - Bob will believe he is an excellent applicant.
+          answer: The employer will think Bob is silly, emabarrassing Bob.
+        - question: The problem with Bob saying, 'My qualifications make me an excellent applicant ..', instead of 'I know my qualifications are not very impressive, ..'.
+          option:
+            - The employer is not looking for an excellent applicant.
+            - The employer will not believe he is an excellent applicant.
+            - Bob doesn't believe he is an excellent applicant.
+          answer: Bob doesn't believe he is an excellent applicant.
+        - question: If Bob says he is an excellent candidate but actually believes he is not, he is ..
+          option:
+            - self-confident
+            - a liar
+            - ambitious
+          answer: a liar
+        - question: The book's advice for Bob is NOT in conflict with what important principle?
+          option:
+            - Tell the truth
+            - Be modest
+            - Be ambitious
+          answer: Be ambitious
+        - question: Which expression indicates Bob has very little expectation that the employer will ask him to come in for an interview?
+          option:
+            - I hope that you will contact me.
+            - I look forward to hearing from you.
+            - I wish that you would contact me.
+          answer: I wish that you would contact me.
+        - question: Which expression indicates Bob thinks it is highly likely that the employer will ask him to come in for an interview?
+          option:
+            - I hope that you will contact me.
+            - I look forward to hearing from you.
+            - I wish that you would contact me.
+          answer: I look forward to hearing from you.
+        
+        
+        
 sue:
   jigsaw:
     0:
