@@ -1,0 +1,83 @@
+---
+-
+  -
+    topic: news_good
+    story: details
+    type : drag
+    form : 0
+    intro: 
+-
+  -
+    topic: news_good
+    story: magazine
+    type : jigsaw
+    form : step_1
+    intro: 
+-
+  -
+    topic: news_good
+    story: magazine
+    type : jigsaw
+    form : step_2
+    intro: 
+-
+  -
+    topic: news_good
+    story: magazine
+    type : jigsaw
+    form : step_3
+    intro: 
+-
+  -
+    topic: news_good
+    story: magazine
+    type : jigsaw
+    form : step_4
+    intro: 
+
+-
+  -
+    topic: tone
+    story: advice
+    type : jigsaw
+    form : bob
+    intro: 
+  
+-
+  -
+    topic: tone
+    story: advice
+    type : jigsaw
+    form : polite
+    intro: 
+-
+  -
+    topic: tone
+    story: advice
+    type : jigsaw
+    form : blunt
+    intro: 
+-
+  -
+    topic: tone
+    story: advice
+    type : jigsaw
+    form : direct
+    intro: 
+-
+  -
+    topic: tone
+    story: advice
+    type : jigsaw
+    form : order
+    intro: 
+-
+  -
+    topic: tone
+    story: advice
+    type : jigsaw
+    form : blame
+    intro: 
+  
+  
+  
