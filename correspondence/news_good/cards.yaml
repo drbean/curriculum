@@ -673,6 +673,69 @@ magazine:
           answer: True
         - question: The magazine letter doesn't follow the good news structure closely.
           answer: False
+    step_2:
+      identifier: good news step 2--the case of the free magazine
+      quiz:
+        - question: The publisher doesn't include enough details about the magazine.
+          answer: False
+        - question: The publisher should have sent the magazine in a different letter.
+          answer: False
+        - question: The publisher should have described the magazine before saying it was enclosed.
+          answer: False
+        - question: The publisher should have described the magazine in the 3rd or 4th paragraph.
+          answer: False
+        - question: The publisher doesn't say the reader has to do anything to benefit from the good news.
+          answer: True
+        - question: The reader has to contact the publisher to get the free magazine.
+          answer: False
+        - question: The publisher uses the word 'only' to indicate it is easy for the reader to benefit from its good news.
+          answer: False
+        - question: The publisher includes a sales appeal in the 2nd paragraph.
+          answer: False
+    step_3:
+      identifier: good news step 3--the case of the free magazine
+      quiz:
+        - question: The publisher includes a sales appeal in the 3rd paragraph.
+          answer: True
+        - question: The publisher's sales appeal is a discounted subscription offer.
+          answer: True
+        - question: The sales appeal's connection to the good news about the magazine is how to continue to get it.
+          answer: True
+        - question: There is no connection between the sales appeal and the content of the good news.
+          answer: False
+        - question: The good news benefits Gordon, but not the publisher. The sales appeal has more benefit for the publisher.
+          answer: True
+        - question: The publisher uses an intensifier making its sales appeal.
+          answer: True
+        - question: "The use of 'over' is an intensifier."
+          answer: True
+        - question: "The use of 'over' to qualify 16 percent is an exaggeration. (please calculate 6/36 as a percentage)"
+          answer: True
+        - question: "The use of 'over' to qualify 16 percent is not true. (please calculate 6/36 as a percentage)"
+          answer: False
+        - question: The subscription offer may appeal to Gordon.
+          answer: True
+        - question: There is no extra information in the message that might be useful for Gordon
+          answer: True
+    step_4:
+      identifier: good news step 4--the case of the free magazine
+      quiz:
+        - question: The publisher enhances the effect of its message with the close.
+          answer: False
+        - question: The publisher's conclusion makes specific reference to the good news.
+          answer: False
+        - question: The close could be used on almost all of its messages to car owners.
+          answer: False
+        - question: The publisher mentions the publisher's name in its closing paragraph.
+          answer: True
+        - question: The closing may reduce the Gordon's satisfaction with the good news.
+          answer: False
+        - question: The close could be used on a goodwill message thanking a reader contributing a story to the magazine.
+          answer: False
+        - question: The publisher's close is nice and simple.
+          answer: True
+        - question: The publisher doesn't try to excite the reader about the sales appeal in the close.
+          answer: True
         
         
 
@@ -794,25 +857,25 @@ details:
       sentences:
         -
           sentence: All you have to do to collect your prize is come to the Sports Lottery office in Taipei with your ID card and your bankbook.
-          clozed: All|you|have|do|to|collect|prize|is|come|the|Sports|Lottery|office|in|Taipei|with|ID|card|and|your|End
+          clozed: All|you|have|to|do|to|collect|your|prize|is|come|to|the|Sports|Lottery|office|in|Taipei|with|your|ID|card|and|your|End
         -
           sentence: To collect your prize, please send your bank account number and password to sundarpicha@give.me.your.money.con
-          clozed: To|collect|prize|please|send|your|bank|account|number|and|password|to|End
+          clozed: To|collect|your|prize|please|send|your|bank|account|number|and|password|to|End
         -
           sentence: To get your card, please fill out this form and send it back to us at the above address.
           clozed: To|get|your|please|fill|out|this|form|and|send|it|back|to|us|at|the|above|End
         -
           sentence: If you wish to have us install this part, please call us at our office tomorrow.
-          clozed: If|you|wish|to|have|install|this|please|call|us|at|our|office|End
+          clozed: If|you|wish|to|have|us|install|this|please|call|us|at|our|office|End
         -
           sentence: To receive your card, please fill out the attached form and send it back in the enclosed envelope.
-          clozed: To|receive|your|please|fill|out|the|attached|form|and|send|it|back|in|enclosed|End
+          clozed: To|receive|your|please|fill|out|the|attached|form|and|send|it|back|in|the|enclosed|End
         -
           sentence: If this is acceptable to you, please call us and confirm that fact.
           clozed: If|this|is|acceptable|to|please|call|us|and|confirm|that|End
         -
           sentence: If you wish to receive this money in your bank account, please send the details of your account to the above address.
-          clozed: If|you|wish|to|receive|this|money|in|bank|please|send|the|details|of|your|account|above|End
+          clozed: If|you|wish|to|receive|this|money|in|your|bank|please|send|the|details|of|your|account|to|the|above|End
 transfer:
   jigsaw:
     0:
