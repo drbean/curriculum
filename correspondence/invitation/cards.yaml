@@ -688,13 +688,13 @@ smokers:
       sentences:
         -
           sentence: Thank you for your email of September 20 and your kind invitation to speak at your conference on November 15.
-          clozed: Thank|you|for|email|of|September|20|and|kind|invitation|to|speak|at|your|conference|on|End
+          clozed: Thank|you|for|your|email|of|September|20|and|your|kind|invitation|to|speak|at|your|conference|on|End
         -
           sentence: Unfortunately, I will be out of the country on that date.
           clozed: Unfortunately|I|will|be|out|of|the|country|on|that|date|End
         -
           sentence: I'm sorry about this, because it would have been a great opportunity to present my latest research to an audience in Taiwan.
-          clozed: I'm|sorry|about|because|it|would|have|been|a|opportunity|present|my|research|to|an|audience|in|End
+          clozed: I'm|sorry|about|because|it|would|have|been|a|opportunity|to|present|my|research|to|an|audience|in|End
         -
           sentence: My apologies again, and perhaps there will be another opportunity for us to work together in the future.
           clozed: My|apologies|and|perhaps|there|will|be|another|opportunity|for|us|to|work|together|in|the|End
