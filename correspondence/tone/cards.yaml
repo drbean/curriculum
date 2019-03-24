@@ -193,9 +193,70 @@ advice:
           answer: small problem
         - question: Which is softer?
           option:
+            - There is a mistake with that.
+            - There may be a mistake with that.
+          answer: There may be a mistake with that.
+        - question: Which is softer?
+          option:
+            - There is a problem.
+            - There is a little problem.
+          answer: There is a little problem.
+        - question: Which is softer?
+          option:
             - It appears a mistake has been made.
             - Someone has made a mistake.
           answer: It appears a mistake has been made.
+        - question: Which is softer?
+          option:
+            - That could be a problem.
+            - That is a problem.
+          answer: That could be a problem.
+        - question: Which is softer?
+          option:
+            - I had words with the boss.
+            - I had a word with the boss.
+          answer: I had a word with the boss.
+        - question: Which is softer?
+          option:
+            - It is late.
+            - It is rather late.
+          answer: It is rather late.
+        - question: Which is softer?
+          option:
+            - It is very late.
+            - It is quite late.
+          answer: It is quite late.
+        - question: Which is softer?
+          option:
+            - The company is badly run.
+            - The company is not well run.
+          answer: The company is not well run.
+        - question: Which is softer?
+          option:
+            - This drink is not bad.
+            - This drink is good.
+          answer: This drink is not bad.
+        - question: Which is softer?
+          option:
+            - This worker often makes mistakes. 
+            - This worker tends to make mistakes. 
+          answer: This worker tends to make mistakes. 
+        - question: Which is softer?
+          option:
+            - Companies need to borrow a lot of money to be successful.
+            - Borrowing of large amounts is typical of successful companies.
+          answer: Borrowing of large amounts is typical of successful companies.
+        - question: Which is softer?
+          option:
+            - More successful companies are larger than unsuccessful ones.
+            - Successful companies tend to be larger than others.
+          answer: Successful companies tend to be larger than others.
+        - question: Which is softer?
+          option:
+            - This problem seems to have disappeared.
+            - This problem has clearly disappeared.
+          answer: This problem seems to have disappeared.
+
 
 bob:
   jigsaw:
