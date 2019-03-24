@@ -1,5 +1,83 @@
 ---
 genre: correspondence
+student:
+  jigsaw:
+    hurt:
+      identifier: creating negative feelings
+      quiz:
+        - question: Which statement creates less positive feeling?
+          option:
+            - Why do you dress differently?
+            - Why do you look like a frog?
+          answer: Why do you look like a frog?
+        - question: Which statement creates less positive feeling?
+          option:
+            - Why are you always so slow getting ready for school?
+            - Hurry up!
+          answer: Why are you always so slow getting ready for school?
+        - question: Which statement creates MORE positive feeling?
+          option:
+            - These dishes you cooked are unpalatable and look disgusting.
+            - You should practice cooking more, and you will cook more delicious dishes than you cook now.
+          answer: You should practice cooking more, and you will cook more delicious dishes than you cook now.
+        - question: Which statement creates less positive feeling?
+          option:
+            - It’s none of your business.
+            - Don’t worry, I will take care of it, but thank you, anyway.
+          answer: It’s none of your business.
+        - question: Which statement creates less positive feeling?
+          option:
+            - Don't throw rubbish on the floor.
+            - Please put the trash in the trash can.
+          answer: Don't throw rubbish on the floor.
+        - question: Which statement creates less positive feeling?
+          option:
+            - Can you do your homework?
+            - Could you please do your homework?
+          answer: Can you do your homework?
+        - question: Which statement creates less positive feeling?
+          option:
+            - Don't be impolite next time.
+            - Will you apologize for your impoliteness?
+          answer: Will you apologize for your impoliteness?
+        - question: Which statement creates less positive feeling?
+          option:
+            - Too bad I don't have time to go to your party.
+            - I'm not going to go to your party.
+          answer: I'm not going to go to your party.
+        - question: Which statement creates less positive feeling?
+          option:
+            - You can do better.
+            - You disappoint me.
+          answer: You disappoint me.
+        - question: Which statement creates less positive feeling?
+          option:
+            - (Girl in bedroom to sister) Go out and close the door.
+            - (Girl in bedroom to sister) Please close the door when you leave. Thanks.
+          answer: (Girl in bedroom to sister) Go out and close the door.
+        - question: Which statement creates less positive feeling?
+          option:
+            - Do you speak English?
+            - Can you speak English?
+          answer: Can you speak English?
+        - question: Which statement creates less positive feeling?
+          option:
+            - I am very pleased to that you are inviting me to the party, but I have to work that day.
+            - Although you are inviting me to the party, I can't go because I have no time.
+          answer: Although you are inviting me to the party, I can't go because I have no time.
+    hurt_again:
+      identifier: creating negative feelings again
+      quiz:
+        - question: Which statement creates less positive feeling?
+          option:
+            - May I ask who's calling?
+            - Who are you?
+          answer: Who are you?
+        - question: Which statement creates less positive feeling?
+          option:
+            - You shouldn’t leave your stuff here.
+            - Let’s not leave our stuff here.
+          answer: You shouldn’t leave your stuff here.
 advice:
   jigsaw:
     polite:
