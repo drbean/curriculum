@@ -38,9 +38,9 @@
 -
   -
     topic: tone
-    story: advice
+    story: bob
     type : jigsaw
-    form : bob
+    form : 0
     intro: 
   
 -
@@ -85,6 +85,77 @@
     type : jigsaw
     form : softening
     intro: 
+-
+  -
+    topic: tone
+    story: student
+    type : jigsaw
+    form : hurt
+    intro: 
+
+-
+  -
+    topic: tone
+    story: passive
+    type : jigsaw
+    form : use
+    intro: 
+-
+  -
+    topic: tone
+    story: passive
+    type : jigsaw
+    form : 1
+    intro: 
+-
+  -
+    topic: tone
+    story: passive
+    type : jigsaw
+    form : 2
+    intro: 
+-
+  -
+    topic: tone
+    story: passive
+    type : jigsaw
+    form : 3
+    intro: 
+-
+  -
+    topic: news_good
+    story: card
+    type : jigsaw
+    form : 0
+    intro: 
+-
+  -
+    topic: news_good
+    story: card
+    type : jigsaw
+    form : step_1
+    intro: 
+-
+  -
+    topic: news_good
+    story: card
+    type : jigsaw
+    form : step_2
+    intro: 
+-
+  -
+    topic: news_good
+    story: card
+    type : jigsaw
+    form : step_3
+    intro: 
+-
+  -
+    topic: news_good
+    story: card
+    type : jigsaw
+    form : step_4
+    intro: 
   
-  
+
   
