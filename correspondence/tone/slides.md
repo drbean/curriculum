@@ -138,3 +138,24 @@ Or,
 
 	Chen could say, "I don't want to speak at your symposium."
 	Shaw feels bad, even though Chen is speaking the truth.
+
+## Homework: the use of passives in tone
+
+Look at the exercise, _use of passive_, at:
+
+- [https://sac.nuu.edu.tw/cgi-bin/moodle/mod/quiz/attempt.php?attempt=183618&cmid=4121 ](https://sac.nuu.edu.tw/cgi-bin/moodle/mod/quiz/attempt.php?attempt=183618&cmid=4121)
+
+Think about the options:
+
+* a. Emphasizes what is important is the object of action, or action itself
+* b. Is more diplomatic (make reader feel less bad)
+* c. Avoids blaming the person who took the action
+* d. The person who took the action is unknown
+* e. It's not important who took the action
+
+Find or write a sentence that uses a passive to set the tone. Choose one of the descriptions and add it to the sentence.
+
+Like,
+
+	"I am honored by your invitation"
+	Emphasizes what is important is the action and the object of the action
