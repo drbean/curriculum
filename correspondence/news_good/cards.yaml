@@ -817,6 +817,108 @@ card:
         -
           - 5
           - polite close
+  jigsaw:
+    0:
+      identifier: card notification questions
+      quiz:
+        - question: The card is a credit card.
+          answer: True
+        - question: Card issuance was dependent on some checks of the person applying for it.
+          answer: True
+        - question: Card applicants have to provide their own envelopes when replying to messages from the card company.
+          answer: False
+        - question: The card is included in the letter.
+          answer: False
+        - question: The customer will go to the bank to fill out forms and receive the card.
+          answer: False
+        - question: The sales appeal is about Goldcard's website.
+          answer: False
+        - question: Card users have 2 weeks from the time of billing to pay the bill.
+          answer: True
+        - question: Card users have to pay less if they pay in 1 week.
+          answer: True
+        - question: "'Enjoy' in the 3rd paragraph means card users will have fun receiving a discount."
+          answer: False
+        - question: The card is for use only on public transport.
+          answer: False
+    step_1:
+      identifier: good news step 1--the case of the card
+      quiz:
+        - question: The card company message follows the good news structure more closely than the repair, award and magazine messages..
+          answer: False
+        - question: The card company message starts by describing the situation that allowed the company to decide to issue the card.
+          answer: False
+        - question: The card company message is not a direct message.
+          answer: False
+        - question: The card company message holds back the news about the card issuance.
+          answer: False
+        - question: The card company message explains why the company decided to issue the card.
+          answer: True
+        - question: The card company didn't explain why it decided to issue the card.
+          answer: False
+        - question: The card company's explanation of its reason for issuing the card suggests the customer might be uncertain whether he/she would get the card.
+          answer: True
+        - question: The reader probably doesn't regard this as a good news message.
+          answer: False
+        - question: The message is a good news message.
+          answer: True
+    step_2:
+      identifier: good news step 2--the case of the card
+      quiz:
+        - question: The card company doesn't include enough details about the card.
+          answer: False
+        - question: The card company mentions the details about how to get the card in the same message.
+          answer: True
+        - question: The card company requires something which may not be so easy to do to get the card.
+          answer: True
+        - question: The card company should have put the details for billing in the second paragraph.
+          answer: False
+        - question: The card company doesn't say the reader has to do anything to benefit from the good news.
+          answer: False
+        - question: The reader has to contact the card company to benefit from the good news.
+          answer: True
+        - question: The card company uses intensifiers like 'ideal' to indicate it is easy for the reader to benefit from its good news.
+          answer: False
+        - question: The card company includes a sales appeal in the 2nd paragraph.
+          answer: False
+    step_3:
+      identifier: good news step 3--the case of the card
+      quiz:
+        - question: The card company includes a sales appeal in the 3rd paragraph.
+          answer: False
+        - question: The card company's sales appeal is an offer of a discount on card payment.
+          answer: False
+        - question: The sales appeal's connection to the good news about the card is based on the fact the card bill has to be paid each month.
+          answer: False
+        - question: There is no connection between the extra information and the content of the good news.
+          answer: False
+        - question: The good news benefits the customer and the card company. The extra information mostly benefits the customer.
+          answer: False
+        - question: The card company uses intensifiers providing extra information.
+          answer: False
+        - question: The extra information is about the card company's website.
+          answer: True
+        - question: There is no extra information in the message that might be useful for the car owner.
+          answer: False
+    step_4:
+      identifier: good news step 4--the case of the card
+      quiz:
+        - question: The card company enhances the effect of its message with the close.
+          answer: True
+        - question: The card company's conclusion makes reference to the good news.
+          answer: True
+        - question: The close could be used on almost all of its messages to card owners.
+          answer: False
+        - question: The card company mentions its name in its closing paragraph.
+          answer: True
+        - question: The closing may reduce the card owner's satisfaction with the good news.
+          answer: False
+        - question: The close could be used on a goodwill message congratulating card owners at the New Year.
+          answer: False
+        - question: The card company's close is nice and simple.
+          answer: True
+        - question: The card company's conclusion will have a big effect on the reader's reaction to the good news.
+          answer: False
         
         
 appeal:
