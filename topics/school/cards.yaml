@@ -1,5 +1,16 @@
 ---
 genre: topics
+activity:
+  0:
+    flash:
+      hallway    : 門廳
+      chalkboard : 黑板
+      dictionary : 字典
+      tease      : 逗
+      scissors   : 剪刀
+      coach      : 教練
+      laboratory : 實驗室
+      fail a test: 未通過考試
 action:
   0:
     flash:
