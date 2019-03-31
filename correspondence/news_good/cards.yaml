@@ -841,6 +841,56 @@ card:
           answer: False
         - question: The card is for use only on public transport.
           answer: False
+    1:
+      identifier: card notification WH-questions
+      quiz:
+        - question: Why is the card notification letter good news for the customer?
+          option:
+            - The references show the card company thinks the customer is an ideal member.
+            - The customer wants the card.
+            - The card company wants everyone to use its card.
+            - Many people have credit cards.
+          answer: The customer wants the card.
+        - question: In what way is money the basis for claiming the letter to be good news? (Read the 1st paragraph on p73)
+          option:
+            - The card company will give the customer credit for purchases.
+            - The customer will pay the card company for his/her purchases.
+            - "The card is a form of money, 'plastic money'."
+            - Money has no role in the credit card system.
+          answer: 
+        - question: How is this good news fundamentally different than the car repair, car award and car magazine good news.
+          option:
+            - It is for a card rather than a car.
+            - The good news is about money, rather than receiving something.
+            - It is not good news about a thing/product, but a service.
+          answer: It is not good news about a thing/product, but a service.
+        - question: Why is the 3rd paragraph about billing not a sales appeal.
+          option:
+            - The customer doesn't want to have to pay to use the card.
+            - Paying a bill is not attractive.
+            - The customer doesn't have to choose whether to take up an offer.
+          answer: The customer doesn't have to choose whether to take up an offer.
+        - question: What is the 3rd paragraph?
+          option:
+            - good news
+            - details
+            - extra information
+            - positive close
+          answer: details
+        - question: Why is paying the credit card bill early attractive?
+          option:
+            - Payments are due on the 28th.
+            - Early payments may be made up until the 21st.
+            - A 1 percent cut applies.
+            - Customers have 6 days to decide whether to pay earlier.
+          answer: A 1 percent cut applies.
+        - question: How would the message be classified in terms of Routine Business Transactions?
+          option:
+            - a reply to an introduction
+            - a reply to an inquiry
+            - a reply to an request
+            - a reply to an order
+          answer: a reply to an request
     step_1:
       identifier: good news step 1--the case of the card
       quiz:
@@ -981,8 +1031,32 @@ details:
 transfer:
   jigsaw:
     0:
-      identifier: transfer
+      identifier: Keats' transfer to Taichung
       quiz:
+        - question: Why is this exercise on page 78 in Unit 9 Good News Correspondence
+          option:
+            - Keats' message is bad news for Cheng but good news for Keats.
+            - Keats wants to be transferred to Taichung.
+            - Keats mother can't look after herself, so Keats wants to look after her.
+            - Cheng's message to Keats is not good news for Cheng, but it is good for Keats.
+          answer: Cheng's message to Keats is not good news for Cheng, but it is good for Keats.
+        - question: What is bad for the company about the news Keats gives Chung.
+          option:
+            - His mother can't look after herself.
+            - He wants to be transferred to Taichung.
+            - He says he will resign if he cannot be transferred to Taichung.
+            - He says he feels he has to look after his mother in Taichung.
+          answer: He says he will resign if he cannot be transferred to Taichung.
+        - question: What kind of message is the message that Keats sent Cheng?
+          option:
+            - Bad news message
+            - Condolences message
+            - Congratulations message
+            - Good news message
+            - Goodwill message
+            - Invitation message
+            - Thanks message
+          answer: Bad news message
         - question: What news will Cheng give Keats?
           option:
             - Keats' mother is unable to look after herself.
@@ -1005,12 +1079,13 @@ transfer:
           answer: Good news, details, appeal, positive close
         - question: What kind of message is the message that Cheng will send Keats?
           option:
-            - Goodwill message
-            - Thanks message
-            - Congratulations message
+            - Bad news message
             - Condolences message
-            - Invitation message
+            - Congratulations message
             - Good news message
+            - Goodwill message
+            - Invitation message
+            - Thanks message
           answer: Good news message
 goodwill:
   jigsaw:
