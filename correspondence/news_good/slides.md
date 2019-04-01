@@ -21,7 +21,7 @@ The difference is goodwill messages are about relationships between people. Good
 
 ## Homework: Cheng's reply to Keat's transfer request
 
-Keats is not happy, but the reply to him is good news.
+Keats (p78) is not happy, but the reply to him is good news.
 
 Give the good news in the one-sentence first paragraph.
 
@@ -29,7 +29,9 @@ In the second paragraph, copy the sentences from the book, changing "he, his" to
 
 In the one-sentence third paragraph, wish him well at the office in Taichung.
 
-### Comments
+You don't need to mention his mother. It is not the company's concern.
+
+### Points to note: Be careful of the following mistakes, which will cost you.
 
 	- Too similar to another's work.
 	- You say 'Congratulations', or "I'm proud of you", only when the person you are congratulating already has the good news, and it was given to them by someone else, not you.
