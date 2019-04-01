@@ -857,7 +857,7 @@ card:
             - The customer will pay the card company for his/her purchases.
             - "The card is a form of money, 'plastic money'."
             - Money has no role in the credit card system.
-          answer: 
+          answer: The card company will give the customer credit for purchases.
         - question: How is this good news fundamentally different than the car repair, car award and car magazine good news.
           option:
             - It is for a card rather than a car.
@@ -1031,7 +1031,7 @@ details:
 transfer:
   jigsaw:
     0:
-      identifier: Keats' transfer to Taichung
+      identifier: Keats transfer to Taichung
       quiz:
         - question: Why is this exercise on page 78 in Unit 9 Good News Correspondence
           option:
