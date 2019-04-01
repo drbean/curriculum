@@ -1,0 +1,108 @@
+---
+-
+  -
+    topic: news_good
+    story: card
+    type : match
+    form : cloze
+    intro: 
+-
+  -
+    topic: news_good
+    story: card
+    type : match
+    form : structure
+    intro: 
+-
+  -
+    topic: news_good
+    story: card
+    type : jigsaw
+    form : 1
+    intro: 
+-
+  -
+    topic: news_good
+    story: transfer
+    type : jigsaw
+    form : 0
+    intro: 
+-
+  -
+    topic: tone
+    story: student
+    type : jigsaw
+    form : passive
+    intro: 
+-
+  -
+    topic: tone
+    story: passive
+    type : jigsaw
+    form : 2
+    intro: 
+  
+-
+  -
+    topic: tone
+    story: sue
+    type : jigsaw
+    form : 0
+    intro: 
+-
+  -
+    topic: tone
+    story: confidence
+    type : jigsaw
+    form : 0
+    intro: 
+-
+  -
+    topic: tone
+    story: confidence
+    type : jigsaw
+    form : level
+    intro: 
+-
+  -
+    topic: tone
+    story: confidence
+    type : jigsaw
+    form : wish
+    intro: 
+-
+  -
+    topic: tone
+    story: confidence
+    type : jigsaw
+    form : clearly
+    intro: 
+-
+  -
+    topic: tone
+    story: confidence
+    type : drag
+    form : 0
+    intro: 
+-
+  -
+    topic: tone
+    story: smoking
+    type : drag
+    form : 0
+    intro: 
+-
+  -
+    topic: tone
+    story: smoking
+    type : jigsaw
+    form : short_answer
+    intro: 
+-
+  -
+    topic: tone
+    story: smoking
+    type : jigsaw
+    form : short_answer_reason
+    intro: 
+  
