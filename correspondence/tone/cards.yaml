@@ -1,5 +1,5 @@
 ---
-genre: correspondence
+# genre: correspondence
 student:
   jigsaw:
     hurt:
@@ -75,9 +75,87 @@ student:
           answer: Who are you?
         - question: Which statement creates less positive feeling?
           option:
-            - You shouldn’t leave your stuff here.
-            - Let’s not leave our stuff here.
+            - You shouldn't leave your stuff here.
+            - Let's not leave our stuff here.
           answer: You shouldn’t leave your stuff here.
+    passive:
+      identifier: student examples of use of passive in tone
+      quiz:
+        - question: "'Excuse me, i want to order an chocolate icecream plaese. '<p> Is more diplomatic (make reader feel less bad)"
+          option:
+            - good example
+            - bad example
+          answer: bad example
+        - question: "'Please be quiet in the museum.' <p> Emphasizes what is important is the object of action, or action itself"
+          option:
+            - good example
+            - bad example
+          answer: bad example
+        - question: Oil was discovered off Ghana in the 1970s. <p> The person who took the action is unknown
+          option:
+            - good example
+            - bad example
+          answer: bad example
+        - question: "A: 'The cookies are to be eaten. '<p>Emphasizes both the cookies and eating are important and who eats them isn't important."
+          option:
+            - good example
+            - bad example
+          answer: good example
+        - question: The bag was sold out in the store.<p> Emphasizes what is important is the action and the object of the action and not the seller of the bags.
+          option:
+            - good example
+            - bad example
+          answer: good example
+        - question: Under-15-year-olds can’t go to work <p> Emphasizes what is important is the object of action, or action itself
+          option:
+            - good example
+            - bad example
+          answer: bad example
+        - question: "'The diamond has been stolen' <p>The person who took the action is unknown"
+          option:
+            - good example
+            - bad example
+          answer: good example
+        - question: "'The law must be observed by the people' <p>Emphasizes what is important is the object of action, or action itself"
+          option:
+            - good example
+            - bad example
+          answer: good example
+        - question: An apple was eaten by the kids. <p> The person who took the action is unknown.
+          option:
+            - good example
+            - bad example
+          answer: bad example
+        - question: The whole chocolate cake was eaten by Mary. <p> Emphasizes what is important is the object of action, or action itself
+          option:
+            - good example
+            - bad example
+          answer: good example
+        - question: "'The book was translated into many languages.' <p>It's not important who took the action."
+          option:
+            - good example
+            - bad example
+          answer: good example
+        - question: "'Is the Chinese New Year in February this year?' <p>It's not important who took the action."
+          option:
+            - good example
+            - bad example
+          answer: bad example
+        - question: "'Over 120 different contaminants have been dumped into the river.' <p> The person who took the action is unknown"
+          option:
+            - good example
+            - bad example
+          answer: good example
+        - question: The glass window was broken by the earthquake. <p> It's not important who took the action
+          option:
+            - good example
+            - bad example
+          answer: bad example
+        - question: The factory was closed due to a lack of orders. <p> This sentence is not important who took the action.
+          option:
+            - good example
+            - bad example
+          answer: good example
 advice:
   jigsaw:
     polite:
@@ -116,7 +194,7 @@ advice:
           option:
             - please
             - thank you
-          answer: 
+          answer: please
         - question: In an acknowledgement, use ..
           option:
             - please
@@ -217,11 +295,11 @@ advice:
           answer: True
         - question: If you're asking something, it could be an order.
           answer: False
-        - question: 'Please' is used with orders.
+        - question: "'Please' is used with orders."
           answer: True
-        - question: 'Please' is used with requests.
+        - question: "'Please' is used with requests."
           answer: True
-        - question: 'Please' is used with inquiries.
+        - question: "'Please' is used with inquiries."
           answer: False
     blame:
       identifier: blame p 9
@@ -316,9 +394,9 @@ advice:
           answer: This drink is not bad.
         - question: Which is softer?
           option:
-            - This worker often makes mistakes. 
-            - This worker tends to make mistakes. 
-          answer: This worker tends to make mistakes. 
+            - This worker often makes mistakes.
+            - This worker tends to make mistakes.
+          answer: This worker tends to make mistakes.
         - question: Which is softer?
           option:
             - Companies need to borrow a lot of money to be successful.
@@ -339,7 +417,7 @@ advice:
 bob:
   jigsaw:
     0:
-      identifier: Bob's expression of confidence
+      identifier: "Bob and expressions of confidence"
       quiz:
         - question: Which set of expressions shows the right amount of confidence?
           option:
@@ -382,34 +460,63 @@ bob:
             - I look forward to hearing from you.
             - I wish that you would contact me.
           answer: I look forward to hearing from you.
-        
-        
-        
+
+
+
 sue:
   jigsaw:
     0:
-      identifier: Sue
+      identifier: "Sue best foot forward"
       quiz:
-        - question: The right tone for acceptance
+        - question: The WRONG tone for acceptance
           option:
-            - 1. OK. I'll do it. When do you want me to start. 
-            - 2. I think I will accept the job.
-            - 3. I would like to accept the job, but ...
-          answer: 1. OK. I'll do it. When do you want me to start. 
-        - question: The right tone for thanking
+            - Thank you for offering me the job.
+            - I am happy to take this job.
+            - I will accept the job.
+          answer: Thank you for offering me the job.
+        - question: The RIGHT tone for acceptance
           option:
-            - 1. Thanks for giving me the job. 
-            - 2. I t's good that you are offering me the job.
-          answer: 1. Thanks for giving me the job. 
-        - question: the right tone for establishing goodwill
+            - OK. I'll do it. When do you want me to start?
+            - I think I will accept the job.
+            - I would like to accept the job, but ...
+          answer: OK. I'll do it. When do you want me to start?
+        - question: The WRONG tone for thanking
           option:
-            - 1. I look forward to working with my co-workers.
-            - 2. I know my co-workers will think I'm the best worker.
-          answer: 1. I look forward to working with my co-workers.
+            - Thanks for giving me the job.
+            - I knew I would be offered the job because I was the best candidate.
+            - It's good of you to offer me this job.
+          answer: I knew I would be offered the job because I was the best candidate.
+        - question: The RIGHT tone for thanking
+          option:
+            - Thanks for giving me the job.
+            - It's good that you are offering me the job.
+          answer: Thanks for giving me the job.
+        - question: the WRONG tone for establishing goodwill
+          option:
+            - I hope my co-workers are willing to work.
+            - I know I will enjoy working with my co-workers.
+          answer: I hope my co-workers are willing to work.
+        - question: the RIGHT tone for establishing goodwill
+          option:
+            - I look forward to working with my co-workers.
+            - I know my co-workers will think I'm the best worker.
+          answer: I look forward to working with my co-workers.
+        - question: "What does 'put your foot in it' mean?"
+          option:
+            - (idiomatic) To show oneself  in the best or most positive way possible; to make a favorable impression
+            - (idiomatic) To make a mistake in public, or a social blunder, that is embarrassing or offensive
+            - (idiomatic) To kick a fallen opponent, (figuratively) To kick someone when they are down
+          answer: (idiomatic) To make a mistake in public, or a social blunder, that is embarrassing or offensive
+        - question: "What does 'put your best foot forward' mean?"
+          option:
+            - (idiomatic) To show oneself  in the best or most positive way possible; to make a favorable impression
+            - (idiomatic) To make a mistake in public, or a social blunder, that is embarrassing or offensive
+            - (idiomatic) To kick a fallen opponent, (figuratively) To kick someone when they are down
+          answer: (idiomatic) To show oneself  in the best or most positive way possible; to make a favorable impression
 confidence:
   jigsaw:
     0:
-      identifier: confidence
+      identifier: right level of confidence
       quiz:
         - question: The right level of confidence?
           option:
@@ -418,7 +525,7 @@ confidence:
             - I think you will agree that I am well-qualified for this position.
           answer: I think you will agree that I am well-qualified for this position.
     level:
-      identifier: level
+      identifier: different levels of confidence
       quiz:
         - question: I am clearly the best qualified.
           option:
@@ -445,24 +552,37 @@ confidence:
             - overconfident
           answer: appropriately confident
     wish:
-      identifier: wish
+      identifier: The different meanings of wish
       quiz:
-        - question: What does "I wish that I were the best qualified." indicate?
+        - question: "'We wish you many years of happy motoring' on p75 means:"
+          option:
+            - The writer thinks Ann Huang will have many years of happy motoring.
+            - The writer thinks Ann Huang won't have have many years of happy motoring.
+            - The writer hopes Ann Huang has many years of happy motoring.
+            - The writer hopes Ann Huang doesn't have many years of happy motoring.
+          answer: The writer hopes Ann Huang has many years of happy motoring.
+
+        - question: "What does 'I wish you would stop talking.' indicate?"
+          option:
+            - The speaker thinks the listener will agree to stop talking.
+            - The speaker thinks the listener will not stop talking.
+          answer: The speaker thinks the listener will not stop talking.
+        - question: "What does 'I wish that I were the best qualified.' indicate?"
           option:
             - The candidate thinks he/she is the best qualified candidate.
             - The candidate thinks he/she isn't the best qualified candidate.
           answer: The candidate thinks he/she isn't the best qualified candidate.
-        - question: What does "Dr Bean wishes his students would talk more to him." indicate?
+        - question: "What does 'Dr Bean wishes his students would talk more to him.' indicate?"
           option:
             - Dr Bean thinks his students will talk more with him in the future.
             - Dr Bean thinks his students won't talk more with him in the future.
           answer: Dr Bean thinks his students won't talk more with him in the future.
-        - question: What does "I wish the semester would hurry up and end" indicate?
+        - question: "What does 'I wish the semester would hurry up and end' indicate?"
           option:
             - The speaker thinks it is still a long time before the summer vacation starts.
             - The speaker thinks the vacation is coming soon.
           answer: The speaker thinks it is still a long time before the summer vacation starts.
-        - question: The probability that someone who says, "I wish I could quit my job." will quit.
+        - question: "The probability that someone who says, 'I wish I could quit my job.' will quit."
           option:
             - Low probability
             - Medium probability
@@ -483,7 +603,7 @@ confidence:
             - Things which I didn't learn in the process of doing business, but which were not so important for doing business.
           answer: Things which I learned the hard way in the process of doing business, and which were important for doing business.
     clearly:
-      identifier: clearly
+      identifier: "clearly wrong"
       quiz:
         - question: I am clearly the best qualified candidate.
           option:
@@ -525,7 +645,7 @@ confidence:
         -
           sentence: I look forward to working with my co-workers.
           clozed: I|look|forward|to|working|with|my|co-workers|End
-         
+
 smoking:
   scramble:
     0:
@@ -534,31 +654,31 @@ smoking:
         - The committee on health and safety has come to the decision to ban smoking after considering evidence from researchers and doctors.
   drag:
     0:
-      identifier: smoking
+      identifier: smoking ban decision--active
       sentences:
         -
           sentence: The committee on health and safety has come to the decision to ban smoking after considering evidence from researchers and doctors.
-          clozed: The|committee|on|health|and|safety|has|come|to|the|decision|to|ban|smoking|after|considering|evidence|from|researchers|and|End
-          
+          clozed: The|committee|on|health|and|safety|come|to|the|decision|to|ban|smoking|considering|evidence|from|researchers|and|End
+
   jigsaw:
     short_answer:
-      identifier: short_answer
+      identifier: smoking ban decision--passive
       quiz:
         - question: The committee on health and safety has made the decision to ban smoking.
-          answer: 
+          answer:
             - The decision to ban smoking has been made by the committee on health and safety.
           incorrect:
             -
-              error: ^(?!.*The decision to ban smoking.*)
+              error: ^(?!The decision to ban smoking.*)
               feedback: Use the words, "The decision to ban smoking"
             -
               error: ^(?!.*has been made.*)
               feedback: Use the words, "has been made"
             -
-              error: ^(?!.*by the committee on health and safety.*)
-              feedback: Use the words, "by the committee on health and safety"
+              error: ^(?!.*by the committee on health and safety\.$)
+              feedback: Use the words, "by the committee on health and safety."
     short_answer_reason:
-      identifier: short_answer_reason
+      identifier: actor omission reason
       quiz:
         - question: The reason the "by the committee on health and safety" is omitted is because the company is going to follow the decision and ban smoking at the company.
           option:
@@ -588,6 +708,41 @@ smoking:
             - This is a possible, but an unlikely reason for the omission
             - This is not a possible reason for the omission
           answer: This is a possible, but an unlikely reason for the omission
+        - question: The reason the "by the committee on health and safety" is omitted is because the committee did not want to take responsibility for the decision.
+          option:
+            - There is no other possible reason for the omission
+            - This is a likely reason for the omission
+            - This is a possible, but an unlikely reason for the omission
+            - This is not a possible reason for the omission
+          answer: This is not a possible reason for the omission
+        - question: The reason the "by the committee on health and safety" is omitted is because the company doesn't know who made the decision.
+          option:
+            - There is no other possible reason for the omission
+            - This is a likely reason for the omission
+            - This is a possible, but an unlikely reason for the omission
+            - This is not a possible reason for the omission
+          answer: This is not a possible reason for the omission
+        - question: The reason the "by the committee on health and safety" is omitted is because the company thinks the decision is important and who made the decision is not relevant.
+          option:
+            - There is no other possible reason for the omission
+            - This is a likely reason for the omission
+            - This is a possible, but an unlikely reason for the omission
+            - This is not a possible reason for the omission
+          answer: This is a likely reason for the omission
+        - question: The reason the "by the committee on health and safety" is omitted is because the company doesn't want the committee to feel embarrassed about its mistake.
+          option:
+            - There is no other possible reason for the omission
+            - This is a likely reason for the omission
+            - This is a possible, but an unlikely reason for the omission
+            - This is not a possible reason for the omission
+          answer: This is not a possible reason for the omission
+        - question: The reason the "by the committee on health and safety" is omitted is because the company doesn't want to blame the committee for its bad decision.
+          option:
+            - There is no other possible reason for the omission
+            - This is a likely reason for the omission
+            - This is a possible, but an unlikely reason for the omission
+            - This is not a possible reason for the omission
+          answer: This is not a possible reason for the omission
     0:
       identifier: emphasizing new smoking rule
       quiz:
@@ -621,8 +776,8 @@ courteous:
         -
           sentence: A mistake was made with the price you were charged for the goods sent last week.
           clozed: A|mistake|was|made|with|the|price|you|were|charged|for|the|goods|sent|last|End
-        
-        
+
+
   jigsaw:
     0:
       identifier: courteous
@@ -741,7 +896,7 @@ chinese:
             - aim of the exam
             - students used Chinese translation in exam
           answer: aim of the exam
-        
+
 emphasis:
   jigsaw:
     0:
@@ -757,7 +912,7 @@ emphasis:
             - The middle sentences contain emphasized information
             - The last sentence contains emphasized information
           answer: The last sentence contains emphasized information
-        
+
         - question: Does putting the information about subordination in the last sentence show that it is not important to subordinate certain information, ie, subordination isn't important. Read the paragraph carefully. What is it saying?
           option:
             - subordination is important
@@ -827,9 +982,94 @@ emphasis:
             - 2nd sentence
             - 3rd sentence
           answer: 1st sentence
-       
+
 passive:
   jigsaw:
+    use:
+      identifier: use of passive
+      quiz:
+        - question: "Why is passive used in 'Smoking is not allowed in this building.'?"
+          option:
+            - To emphasize what is important is the object of action, or action itself
+            - To be more diplomatic (make reader feel less bad)
+            - To avoid blaming the person who took the action
+            - Becase the person who took the action is unknown
+            - Because it's not important who took the action
+          answer: To emphasize what is important is the object of action, or action itself
+        - question: Why is passive used in 'Will diplomatic relations ever be re-established between Taiwan and the US!'?
+          option:
+            - To emphasize what is important is the object of action, or action itself
+            - To be more diplomatic (make reader feel less bad)
+            - To avoid blaming the person who took the action
+            - Because the person who took the action is unknown
+            - Because it's not important who took the action
+          answer: To emphasize what is important is the object of action, or action itself
+        - question: Why is passive used in 'Our records show that the account has not yet been settled'?
+          option:
+            - To emphasize what is important is the object of action, or action itself
+            - To be more diplomatic (make reader feel less bad)
+            - To avoid blaming the person who took the action
+            - Because the person who took the action is unknown
+            - Because it's not important who took the action
+          answer: To be more diplomatic (make reader feel less bad)
+        - question: Why is passive used in 'A mistake was made at your end when you settled the account'?
+          option:
+            - To emphasize what is important is the object of action, or action itself
+            - To be more diplomatic (make reader feel less bad)
+            - To avoid blaming the person who took the action
+            - Because the person who took the action is unknown
+            - Because it's not important who took the action
+          answer: To be more diplomatic (make reader feel less bad)
+        - question: Why is passive used in 'We lost the account because the customer was treated impolitely'?
+          option:
+            - To emphasize what is important is the object of action, or action itself
+            - To be more diplomatic (make reader feel less bad)
+            - To avoid blaming the person who took the action
+            - Because the person who took the action is unknown
+            - Because it's not important who took the action
+          answer: To avoid blaming the person who took the action
+        - question: Why is passive used in 'The door was left unlocked when you left the building.'?
+          option:
+            - To emphasize what is important is the object of action, or action itself
+            - To be more diplomatic (make reader feel less bad)
+            - To avoid blaming the person who took the action
+            - Because the person who took the action is unknown
+            - Because it's not important who took the action
+          answer: To avoid blaming the person who took the action
+        - question: Why is passive used in 'Garbage has been strewn all over the road.'?
+          option:
+            - To emphasize what is important is the object of action, or action itself
+            - To be more diplomatic (make reader feel less bad)
+            - To avoid blaming the person who took the action
+            - Because the person who took the action is unknown
+            - Because it's not important who took the action
+          answer: Because the person who took the action is unknown
+        - question: Why is passive used in 'A note was left on my desk. I wonder who put it there.'?
+          option:
+            - To emphasize what is important is the object of action, or action itself
+            - To be more diplomatic (make reader feel less bad)
+            - To avoid blaming the person who took the action
+            - Because the person who took the action is unknown
+            - Because it's not important who took the action
+          answer: Because the person who took the action is unknown
+        - question: Why is passive used in 'Classes will be held during 清明節'?
+          option:
+            - To emphasize what is important is the object of action, or action itself
+            - To be more diplomatic (make reader feel less bad)
+            - To avoid blaming the person who took the action
+            - Because the person who took the action is unknown
+            - Because it's not important who took the action
+          answer: Because it's not important who took the action
+        - question: Why is passive used in 'Not so many debts are paid in cash nowadays'?
+          option:
+            - To emphasize what is important is the object of action, or action itself
+            - To be more diplomatic (make reader feel less bad)
+            - To avoid blaming the person who took the action
+            - Because the person who took the action is unknown
+            - Because it's not important who took the action
+          answer: Because it's not important who took the action
+
+
     0:
       identifier: not/passive
       quiz:
@@ -845,7 +1085,7 @@ passive:
             - not passive
             - neither active nor passive
           answer: passive
-        
+
         - question: I've been to Taitung
           option:
             - passive
@@ -859,40 +1099,174 @@ passive:
             - neither active nor passive
           answer: passive
     1:
-      identifier: missing word
+      identifier: missing word, expect, in 1
       quiz:
+        - question: She expects to ___ a promotion.
+          answer:
+            - She expects to be offered a promotion.
+          incorrect:
+            -
+              error: ^(?!She.*)
+              feedback: Use the words, "She"
+            -
+              error: ^(?!.*expects.*)
+              feedback: Use the words, "expects"
+            -
+              error: ^(?!.*to.*)
+              feedback: Use the words, "to"
+            -
+              error: ^(?!.*be.*)
+              feedback: Use the words, "be"
+            -
+              error: ^(?!.*offered.*)
+              feedback: Use the words, "offered"
+            -
+              error: ^(?!.*a promotion\.$)
+              feedback: Use the words, "a promotion."
         - question: Her boss __ to offer her a promotion. (Use 'expect')
           answer:
             - Her boss is expected to offer her a promotion.
           incorrect:
             -
+              error: ^(?!Her boss.*)
+              feedback: Use the words, "Her boss"
+            -
               error: ^(?!.*is.*)
               feedback: Use the words, "is"
             -
               error: ^(?!.*expected.*)
               feedback: Use the words, "expected"
-        - question: She __ a promotion (Use 'expect' and 2 passives)
+            -
+              error: ^(?!.*to offer her a promotion\.$)
+              feedback: Use the words, "to offer her a promotion."
+
+        - question: She __ a promotion. (Use 'expect', 'offer' and 2 passives)
           answer:
-            - She is expected to be offered a promotion
+            - She is expected to be offered a promotion.
           incorrect:
             -
+              error: ^(?!She.*)
+              feedback: Use the words, "She"
+            -
               error: ^(?!.*is.*)
               feedback: Use the words, "is"
             -
               error: ^(?!.*expected.*)
               feedback: Use the words, "expected"
-            
+            -
+              error: ^(?!.*to.*)
+              feedback: Use the words, "to"
+            -
+              error: ^(?!.*be.*)
+              feedback: Use the words, "be"
+            -
+              error: ^(?!.*offered.*)
+              feedback: Use the words, "offered"
+            -
+              error: ^(?!.*a promotion\.$)
+              feedback: Use the words, "a promotion."
+
+
+    2:
+      identifier: missing word, give, in 2
+      quiz:
         - question: She __ a ride to work. (Use 'give' in the past)
           answer:
             - She was given a ride to work.
           incorrect:
+            -
+              error: ^(?!She.*)
+              feedback: Use the words, "She"
             -
               error: ^(?!.*was.*)
               feedback: Use the words, "was"
             -
               error: ^(?!.*given.*)
               feedback: Use the words, "given"
-            
+            -
+              error: ^(?!.*a ride to work\.$)
+              feedback: Use the words, "a ride to work."
+        - question: A ride __ her to work.
+          answer:
+            - A ride was given her to work.
+          incorrect:
+            -
+              error: ^(?!A ride.*)
+              feedback: Use the words, "A ride"
+            -
+              error: ^(?!.*was.*)
+              feedback: Use the words, "was"
+            -
+              error: ^(?!.*given.*)
+              feedback: Use the words, "given"
+            -
+              error: ^(?!.*her.*)
+              feedback: Use the words, "her"
+            -
+              error: ^(?!.*to work\.$)
+              feedback: Use the words, "to work."
+    3:
+      identifier: missing word, award, in 3
+      quiz:
+        - question: He __ a prize for his competition entry.
+          answer:
+            - He was awarded a prize for his competition entry.
+          incorrect:
+            -
+              error: ^(?!He.*)
+              feedback: Use the words, "He"
+            -
+              error: ^(?!.*was.*)
+              feedback: Use the words, "was"
+            -
+              error: ^(?!.*awarded.*)
+              feedback: Use the words, "awarded"
+            -
+              error: ^(?!.*a prize.*)
+              feedback: Use the words, "a prize"
+            -
+              error: ^(?!.*for his competition entry\.$)
+              feedback: Use the words, "for his competition entry."
+        - question: A prize __ to him for his competition entry.
+          answer:
+            - A prize was awarded to him for his competition entry.
+          incorrect:
+            -
+              error: ^(?!A prize.*)
+              feedback: Use the words, "A prize"
+            -
+              error: ^(?!.*was.*)
+              feedback: Use the words, "was"
+            -
+              error: ^(?!.*awarded.*)
+              feedback: Use the words, "awarded"
+            -
+              error: ^(?!.*to him.*)
+              feedback: Use the words, "to him"
+            -
+              error: ^(?!.*for his competition entry\.$)
+              feedback: Use the words, "for his competition entry."
+        - question: His competition entry __ a prize.
+          answer:
+            - His competition entry was awarded a prize.
+          incorrect:
+            -
+              error: ^(?!His competition entry.*)
+              feedback: Use the words, "His competition entry"
+            -
+              error: ^(?!.*was.*)
+              feedback: Use the words, "was"
+            -
+              error: ^(?!.*awarded.*)
+              feedback: Use the words, "awarded"
+            -
+              error: ^(?!.*a prize\.$)
+              feedback: Use the words, "a prize."
+
+    4:
+      identifier: missing word, award, in 4
+      quiz:
+
         - question: He __ a prize for his competition entry. (Use 'award' in the past)
           answer:
             - He was awarded a prize for his competition entry.
@@ -909,7 +1283,7 @@ passive:
           answer:
             - People who tell Frank what to do aren't liked.
         - question: Frank doesn't like __ what to do. (Use 'tell' as a verbal noun (gerund))
-          answer: 
+          answer:
             - Frank doesn't like being told what to do.
 
     practice:
@@ -931,7 +1305,7 @@ passive:
               error: ^(?!.*{is expected to be offered}.*)
               feedback: Use the words, "is expected to be offered"
         - question: Terry gave her a ride to work.
-          answer: 
+          answer:
             - She was given a ride to work.
             - She was given a ride to work by Terry\.
           incorrect:
@@ -939,14 +1313,14 @@ passive:
               error: ^(?!.*was given a ride.*)
               feedback: Use the words, "was given a"
         - question: They awarded him a prize for his competition entry.
-          answer: 
+          answer:
            -     He was awarded a prize for his competition entry.
           incorrect:
             -
               error: ^(?!.*was awarded a.*)
               feedback: Use the words, "was awarded a"
         - question: Will they play the tennis match?
-          answer: 
+          answer:
             - Will the tennis match be played?
             - Will the tennis match be played by them\?
           incorrect:
@@ -957,7 +1331,7 @@ passive:
               error: ^(?!.*will the.*)
               feedback: Use the words, "will the"
         - question: Jean hadn't cleaned the house by the time her husband arrived.
-          answer: 
+          answer:
             - The house hadn't been cleaned by the time Jean's husband arrived.
           incorrect:
             -
@@ -1032,13 +1406,13 @@ passive:
       identifier: earthquake
       quiz:
         - question: Tainan / hit / a big earthquake during the night.
-          answer: 
+          answer:
             - Tainan was hit by a big earthquake during the night.
           incorrect:
             -
               error: ^(?!.*was hit by.*)
               feedback: Use the words, "was hit by"
-            
+
         - question: The Weiguan building / demolish
           option:
           answer:
@@ -1047,7 +1421,7 @@ passive:
             -
               error: ^(?!.*was demolished.*)
               feedback: Use the words, "was demolished"
-            
+
         - question: 114 people / bury / in the ruins.
           answer:
             - 114 people were buried in the ruins.
@@ -1069,7 +1443,7 @@ passive:
             -
               error: ^(?!.*has already been sent.*)
               feedback: Use the words, "has already been sent"
-            
+
     5:
       identifier: olympics
       quiz:
@@ -1119,7 +1493,7 @@ passive:
             -
               error: ^(?!.*will be visited.*)
               feedback: Use the words, "will be visited"
-          
+
         - question: A new bridge / open
           answer:
             - A new bridge will be opened.
@@ -1135,7 +1509,7 @@ passive:
               error: ^(?!.*will be given.*)
               feedback: Use the words, "will be given"
     7:
-      identifier:
+      identifier: fire
       quiz:
         - question: |+
             Neighbors put out the fire before the firefighters arrive. (Use "had")
@@ -1186,7 +1560,7 @@ passive:
         -
           sentence: No-one likes being told what to do.
           clozed: No-one|likes|being|told|what|to|do|End
-        
+
 word:
   jigsaw:
     0:
@@ -1609,7 +1983,7 @@ conditional:
             - Type 2
             - Type 3
           answer: Type 0
-        - question: If I won the ... 
+        - question: If I won the ...
           option:
             - Type 0
             - Type 1
@@ -1638,7 +2012,7 @@ conditional:
         - If I won the lottery, I would travel around the world.
         - If it rains, I will take the train.
         - If it hadn't rained on Friday, I wouldn't have gotten wet.
-    
+
 euphemism:
   jigsaw:
     0:
@@ -1697,8 +2071,8 @@ confrontational:
         -
           sentence: The library books that you checked out on November_23 are overdue.
           clozed: The|library|books|that|you|checked|out|on|November_23|are|overdue|End
-        
-        
+
+
   scramble:
     0:
       identifier: confrontational
@@ -1742,12 +2116,12 @@ rejection:
             - one
             - two
           answer: two
-        - question: The email which is more direct 
+        - question: The email which is more direct
           option:
             - one
             - two
           answer: one
-        - question: the email which would be less welcomed by the student association 
+        - question: the email which would be less welcomed by the student association
           option:
             - one
             - two
@@ -1793,7 +2167,7 @@ rejection:
 improvement:
   scramble:
     0:
-      identifier: 
+      identifier: improvement scramble
       sentence:
         - Mr Richards will_probably be only_able to see you after 4:00pm.
         - We have had problems with half of the 16 computers we bought from you.
