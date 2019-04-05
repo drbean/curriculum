@@ -1073,29 +1073,54 @@ passive:
     0:
       identifier: not/passive
       quiz:
+        - question: My family are proud of you
+          option:
+            - passive
+            - active
+            - neither active nor passive
+          answer: neither active nor passive
+        
+        - question: You made some mistakes in this document
+          option:
+            - passive
+            - active
+            - neither active nor passive
+          answer: active
+        - question: I am pleased to accept your invitation
+          option:
+            - passive
+            - active
+            - neither active nor passive
+          answer: passive
+        - question: I am happy to accept your invitation
+          option:
+            - passive
+            - active
+            - neither active nor passive
+          answer: neither active nor passive
         - question: I've been sick
           option:
             - passive
-            - not passive
+            - active
             - neither active nor passive
-          answer: not passive
+          answer: active
         - question: The quiz has been closed
           option:
             - passive
-            - not passive
+            - active
             - neither active nor passive
           answer: passive
 
         - question: I've been to Taitung
           option:
             - passive
-            - not passive
+            - active
             - neither active nor passive
-          answer: not passive
+          answer: active
         - question: smoking will no longer be permitted in the building
           option:
             - passive
-            - not passive
+            - active
             - neither active nor passive
           answer: passive
     1:
