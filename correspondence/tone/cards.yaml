@@ -776,11 +776,79 @@ courteous:
         -
           sentence: A mistake was made with the price you were charged for the goods sent last week.
           clozed: A|mistake|was|made|with|the|price|you|were|charged|for|the|goods|sent|last|End
-
-
   jigsaw:
+    definition:
+      identifier: definition of courteous, sincere
+      quiz:
+        - question: "'Courteous' means being polite."
+          answer: True
+        - question: "'Courteous' means telling the truth."
+          answer: False
+        - question: "'Courteous' means trying not to hurt people's feelings."
+          answer: True
+        - question: "'Sincere' means being polite."
+          answer: False
+        - question: "'Sincere' means telling the truth."
+          answer: True
+        - question: "'Sincere' means trying not to hurt people's feelings."
+          answer: False
+        - question: The problem with being courteous is that it may be hard to be sincere.
+          answer: True
+        - question: If you are courteous you might avoid giving bad news.
+          answer: True
+        - question: Courteousness and sincerity go together. If you are courteous, you are sincere.
+          answer: False
+        - question: The problem with being courteous is that you have to be sincere.
+          answer: False
+        - question: If you are sincere you might avoid giving bad news.
+          answer: False
+        - question: Courteousness and sincerity are in opposition. If you are courteous, it is difficult to be sincere.
+          answer: True
+        - question: If you are sincere, you say what you think.
+          answer: True
+        - question: Sincerity comes from the heart.
+          answer: True
+        - question: If you are courteous, you say what you think.
+          answer: False
+        - question: Courteousness comes from the heart.
+          answer: False
+        - question: Courteousness comes from valuing relationships with people.
+          answer: True
+        - question: Sincerity comes from valuing relationships with people.
+          answer: False
+        - question: Another word for 'sincerity' is 'honesty'.
+          answer: True
+        - question: Another word for 'courteousness' is 'politeness'.
+          answer: True
+        - question: Another word for 'sincerity' is 'politeness'.
+          answer: False
+        - question: Another word for 'courteousness' is 'honesty'.
+          answer: False
+    use:
+      identifier: the problem of courteousness and sincerity
+      quiz:
+        - question: The business writer will value courteousness and sincerity.
+          answer: True
+        - question: The business writer will find it easy to be both courteous and sincere.
+          answer: False
+        - question: The business writer's tone will depend on decisions about courteousness and sincerity.
+          answer: True
+        - question: The business writer's decision to be sincere may make it difficult to be courteous.
+          answer: True
+        - question: If the writer is courteous, his/her sincerity may be less likely to offend the reader.
+          answer: True
+        - question: The business writer needs to value one of courteousness and sincerity over the other.
+          answer: False
+        - question: The business writer will find it difficult to be both courteous and sincere.
+          answer: True
+        - question: The business writer's tone will allow him/her to avoid decisions about courteousness and sincerity.
+          answer: False
+        - question: The business writer's decision to be sincere will make it easy to be courteous.
+          answer: False
+        - question: If the writer is not courteous, his/her sincerity may be more likely to offend the reader.
+          answer: True
     0:
-      identifier: courteous
+      identifier: "installation instruction notice: courteous? sincere?"
       quiz:
         - question: You didn't read the installation instructions carefully, so your system has shut down.
           option:
@@ -834,7 +902,7 @@ courteous:
             - not sincere
           answer: not sincere
     payment:
-      identifier: payment
+      identifier: "being courteous: payment"
       quiz:
         - question: "In letter to customer: You made a mistake with your payment of Invoice AAC527 for the goods sent last week."
           option:
@@ -859,11 +927,11 @@ courteous:
           answer: active and courteous
         - question: "In letter to customer: A mistake was made with the price you were charged for the goods sent last week."
           option:
-            - active and courteous
-            - passive and courteous
-            - active and not courteous
-            - passive and not courteous
-          answer: passive and not courteous
+            - active and sincere
+            - passive and sincere
+            - active and not sincere
+            - passive and not sincere
+          answer: passive and not sincere
 chinese:
   jigsaw:
     0:
@@ -1079,7 +1147,6 @@ passive:
             - active
             - neither active nor passive
           answer: neither active nor passive
-        
         - question: You made some mistakes in this document
           option:
             - passive
@@ -1289,28 +1356,147 @@ passive:
               feedback: Use the words, "a prize."
 
     4:
-      identifier: missing word, award, in 4
+      identifier: missing word, play, in 4
       quiz:
-
-        - question: He __ a prize for his competition entry. (Use 'award' in the past)
-          answer:
-            - He was awarded a prize for his competition entry.
         - question: Will the tennis match __ ? (Use 'play')
           answer:
             - Will the tennis match be played ?
+          incorrect:
+            -
+              error: ^(?!Will.*)
+              feedback: Use the words, "Will"
+            -
+              error: ^(?!.*the tennis match.*)
+              feedback: Use the words, "the tennis match"
+            -
+              error: ^(?!.*be played\.$)
+              feedback: Use the words, "be played."
+    5:
+      identifier: missing word, clean in 5
+      quiz:
         - question: The house __ by the time Jean's husband arrived. (Use 'clean' in the past perfect)
           answer:
             - The house hadn't been cleaned by the time Jean's husband arrived.
+          incorrect:
+            -
+              error: ^(?!The house.*)
+              feedback: Use the words, "The house"
+            -
+              error: ^(?!.*hadn't.*)
+              feedback: Use the words, "hadn't"
+            -
+              error: ^(?!.*been cleaned.*)
+              feedback: Use the words, "been cleaned"
+            -
+              error: ^(?!.*by the time.*)
+              feedback: Use the words, "by the time"
+            -
+              error: ^(?!.*Jean's husband.*)
+              feedback: Use the words, "Jean's husband"
+            -
+              error: ^(?!.*arrived\.$)
+              feedback: Use the words, "arrived."
+            
+    6:
+      identifier: missing word, consider in 6
+      quiz:
+        
         - question: She __ to be the best student in the class. (Use 'consider')
           answer:
             - She is considered to be the best student in the class.
+          incorrect:
+            -
+              error: ^(?!She.*)
+              feedback: Use the words, "She"
+            -
+              error: ^(?!.*is considered.*)
+              feedback: Use the words, "is considered"
+            -
+              error: ^(?!.*to be.*)
+              feedback: Use the words, "to be"
+            -
+              error: ^(?!.*the best student.*)
+              feedback: Use the words, "the best student"
+            -
+              error: ^(?!.*in the class\.$)
+              feedback: Use the words, "in the class."
+    7:
+      identifier: missing word, like in 7
+      quiz:
         - question: People who tell Frank what to do __. (Use 'like')
           answer:
             - People who tell Frank what to do aren't liked.
+          incorrect:
+            -
+              error: ^(?!People.*)
+              feedback: Use the words, "People"
+            -
+              error: ^(?!.*who tell Frank.*)
+              feedback: Use the words, "who tell Frank"
+            -
+              error: ^(?!.*what to do.*)
+              feedback: Use the words, "what to do"
+            -
+              error: ^(?!.*aren't liked\.$)
+              feedback: Use the words, "aren't liked."
+    8:
+      identifier: missing word, like in 7 again
+      quiz:
+        
         - question: Frank doesn't like __ what to do. (Use 'tell' as a verbal noun (gerund))
           answer:
             - Frank doesn't like being told what to do.
-
+          incorrect:
+            -
+              error: ^(?!Frank.*)
+              feedback: Use the words, "Frank"
+            -
+              error: ^(?!.*doesn't like.*)
+              feedback: Use the words, "doesn't like"
+            -
+              error: ^(?!.*being told.*)
+              feedback: Use the words, "being told"
+            -
+              error: ^(?!.*what to do\.$)
+              feedback: Use the words, "what to do."
+    9:
+      identifier: passives based on book
+      quiz:
+        - question: She expects people to give way.
+          answer: 
+            - People are expected to give way.
+        - question: "Someone gave her a gift. (give, gave, given) Answer: She .."
+          answer: 
+            - She was given a gift.
+        - question: "Someone gave her a gift. (give, gave, given) Answer: A gift .."
+          answer: 
+            - A gift was given her.
+            - A gift was given to her.
+        - question: "Will they do the homework? (do, did, done) Answer: Will the ..?"
+          answer: 
+            - Will the homework be done?
+        - question: Students submitted only 17 essays by the deadline.
+          answer: 
+            - Only 17 essays were submitted by the deadline.
+        - question: Students submitted only 1 essay.
+          answer: 
+            - Only 1 essay was submitted.
+        - question: The students hadn't done the homework by the time the deadline came.
+          answer:
+            - The homework hadn't been done by the time the deadline came.
+        - question: "No-one believes Trump to tell the truth. Answer: Trump isn't .."
+          answer:
+            - Trump isn't believed to tell the truth.
+        - question: "The teacher doesn't like students asking him questions. Answer: Students who ask the teacher questions .."
+          answer:
+            - Students asking the teacher questions aren't liked.
+            - Students asking the teacher questions aren't liked by the teacher\.
+            - Students who ask the teacher questions aren't liked\.
+            - Students who ask the teacher questions aren't liked by the teacher\.
+        - question: "The teacher doesn't like students asking him questions. Answer: The teacher doesn't like .."
+          answer:
+            - The teacher doesn't like being asked questions.
+            - The teacher doesn't like being asked questions by students.
     practice:
       identifier: passive
       quiz:
@@ -1350,11 +1536,11 @@ passive:
             - Will the tennis match be played by them\?
           incorrect:
             -
+              error: ^(?!Will the.*)
+              feedback: Use the words, "Will the"
+            -
               error: ^(?!.*be played.*)
               feedback: Use the words, "be played"
-            -
-              error: ^(?!.*will the.*)
-              feedback: Use the words, "will the"
         - question: Jean hadn't cleaned the house by the time her husband arrived.
           answer:
             - The house hadn't been cleaned by the time Jean's husband arrived.
@@ -1389,14 +1575,13 @@ passive:
             -
               error: ^(?!.*being told.*)
               feedback: Use the words, "being told"
-
+            -
+              error: ^(?!.*what to do\.$)
+              feedback: Use the words, "what to do."
         - question: Frank doesn't like people telling him what to do. (Use "aren't liked")
           answer:
             - People who tell Frank what to do aren't liked.
             - People who tell Frank what to do aren't liked by him\.
-            - Frank doesn't like being told what to do.
-            - Frank doesn't like being told by people what to do\.
-            - Frank doesn't like being told what to do by people\.
           incorrect:
             -
               error: ^(?!.*People who tell Frank what to do.*)
@@ -1404,136 +1589,7 @@ passive:
             -
               error: ^(?!.*aren't liked.*)
               feedback: Use the words, "aren't liked"
-    3:
-      identifier: earthquake
-      quiz:
-        - question: Tainan __ by a big earthquake during the night.
-          option:
-            - was hit
-          answer: was hit
-        - question: The Weiguan building __ .
-          option:
-            - was demolished
-          answer: was demolished
-        - question: 114 people __ buried in the ruins.
-          option:
-            - were
-          answer: were
-        - question: Hundreds of people __ .
-          option:
-            - were hurt
-          answer: were hurt
-        - question: Help has already __ by international search and rescue corps.
-          option:
-            - been sent
-          answer: been sent
-    earthquake:
-      identifier: earthquake
-      quiz:
-        - question: Tainan / hit / a big earthquake during the night.
-          answer:
-            - Tainan was hit by a big earthquake during the night.
-          incorrect:
-            -
-              error: ^(?!.*was hit by.*)
-              feedback: Use the words, "was hit by"
-
-        - question: The Weiguan building / demolish
-          option:
-          answer:
-            - The Weiguan building was demolished.
-          incorrect:
-            -
-              error: ^(?!.*was demolished.*)
-              feedback: Use the words, "was demolished"
-
-        - question: 114 people / bury / in the ruins.
-          answer:
-            - 114 people were buried in the ruins.
-          incorrect:
-            -
-              error: ^(?!.*were buried.*)
-              feedback: Use the words, "were buried"
-        - question: Hundreds of people / hurt.
-          answer:
-            - Hundreds of people were hurt.
-          incorrect:
-            -
-              error: ^(?!.*were hurt.*)
-              feedback: Use the words, "were hurt"
-        - question: Help / already send / International Search and Rescue Corps.
-          answer:
-            - Help has already been sent by International Search and Rescue Corps.
-          incorrect:
-            -
-              error: ^(?!.*has already been sent.*)
-              feedback: Use the words, "has already been sent"
-
-    5:
-      identifier: olympics
-      quiz:
-        - question: Another gold medal __ by Taiwanese athlete, Sue-Ching Lin.
-          option:
-            - has been won
-          answer: has been won
-        - question: She __ the medal for breaking the weight-lifting world record.
-          option:
-            - was awarded
-          answer: was awarded
-    olympics:
-      identifier: olympics
-      quiz:
-        - question: Another gold medal / win / Taiwanese athlete, Sue-Ching Lin.
-          answer:
-            - Another gold medal has been won by Taiwanese athlete, Sue-Ching Lin.
-          incorrect:
-            -
-              error: ^(?!.*has been won.*)
-              feedback: Use the words, "has been won"
-        - question: She / award / the medal for breaking the weight-lifting world record.
-          answer:
-            - She was awarded the medal for breaking the weight-lifting world record.
-          incorrect:
-            -
-              error: ^(?!.*was awarded.*)
-              feedback: Use the words, "was awarded"
-    6:
-      identifier: queen
-      quiz:
-        - question: A new bridge __ by the Queen tomorrow.
-          option:
-            - will be opened
-          answer: will be opened
-        - question: A dinner party __ to honor the Royal party.
-          option:
-            - will be given
-          answer: will be given
-    queen:
-      identifier: queen
-      quiz:
-        - question: Edinburgh / visit / the Queen tomorrow
-          answer:
-            - Edinburgh will be visited by the Queen tomorrow.
-          incorrect:
-            -
-              error: ^(?!.*will be visited.*)
-              feedback: Use the words, "will be visited"
-
-        - question: A new bridge / open
-          answer:
-            - A new bridge will be opened.
-          incorrect:
-            -
-              error: ^(?!.*will be opened.*)
-              feedback: Use the words, "will be opened"
-        - question: A dinner party / give / to honor the Royal party.
-          answer:
-            - A dinner party will be given to honor the Royal party.
-          incorrect:
-            -
-              error: ^(?!.*will be given.*)
-              feedback: Use the words, "will be given"
-    7:
+    10:
       identifier: fire
       quiz:
         - question: |+
@@ -1586,6 +1642,152 @@ passive:
           sentence: No-one likes being told what to do.
           clozed: No-one|likes|being|told|what|to|do|End
 
+earthquake:
+  jigsaw:
+    0:
+      identifier: easy earthquake passives
+      quiz:
+        
+      quiz:
+        - question: Tainan __ by a big earthquake during the night.
+          option:
+            - was hit
+            - were hit
+          answer: was hit
+        - question: The Weiguan building __ .
+          option:
+            - was demolished
+            - were demolished
+          answer: was demolished
+        - question: 114 people __ buried in the ruins.
+          option:
+            - was
+            - were
+          answer: were
+        - question: Hundreds of people __ .
+          option:
+            - was hurt
+            - were hurt
+          answer: were hurt
+        - question: Help __ by international search and rescue corps.
+          option:
+            - has already been sent
+            - have already been sent
+          answer: has already been sent
+    1:
+      identifier: more difficult earthquake passives
+      quiz:
+        - question: Tainan / hit / a big earthquake during the night.
+          answer:
+            - Tainan was hit by a big earthquake during the night.
+          incorrect:
+            -
+              error: ^(?!.*was hit by.*)
+              feedback: Use the words, "was hit by"
+
+        - question: The Weiguan building / demolish
+          option:
+          answer:
+            - The Weiguan building was demolished.
+          incorrect:
+            -
+              error: ^(?!.*was demolished.*)
+              feedback: Use the words, "was demolished"
+
+        - question: 114 people / bury / in the ruins.
+          answer:
+            - 114 people were buried in the ruins.
+          incorrect:
+            -
+              error: ^(?!.*were buried.*)
+              feedback: Use the words, "were buried"
+        - question: Hundreds of people / hurt.
+          answer:
+            - Hundreds of people were hurt.
+          incorrect:
+            -
+              error: ^(?!.*were hurt.*)
+              feedback: Use the words, "were hurt"
+        - question: Help / already send / International Search and Rescue Corps.
+          answer:
+            - Help has already been sent by International Search and Rescue Corps.
+          incorrect:
+            -
+              error: ^(?!.*has already been sent.*)
+              feedback: Use the words, "has already been sent"
+
+olympics:
+  jigsaw:
+    0:
+      identifier: easy olympics passives
+      quiz:
+        - question: Another gold medal __ by Taiwanese athlete, Sue-Ching Lin.
+          option:
+            - has been won
+          answer: has been won
+        - question: She __ the medal for breaking the weight-lifting world record.
+          option:
+            - was awarded
+          answer: was awarded
+    1:
+      identifier: more difficult olympics passives
+      quiz:
+        - question: Another gold medal / win / Taiwanese athlete, Sue-Ching Lin.
+          answer:
+            - Another gold medal has been won by Taiwanese athlete, Sue-Ching Lin.
+          incorrect:
+            -
+              error: ^(?!.*has been won.*)
+              feedback: Use the words, "has been won"
+        - question: She / award / the medal for breaking the weight-lifting world record.
+          answer:
+            - She was awarded the medal for breaking the weight-lifting world record.
+          incorrect:
+            -
+              error: ^(?!.*was awarded.*)
+              feedback: Use the words, "was awarded"
+queen:
+  jigsaw:
+    0:
+      identifier: easy queen passives
+      quiz:
+        - question: Edinburgh __ by the Queen tomorrow.
+          option:
+            - will be visited
+          answer: will be visited
+        - question: A new bridge __ by the Queen tomorrow.
+          option:
+            - will be opened
+          answer: will be opened
+        - question: A dinner party __ to honor the Royal party.
+          option:
+            - will be given
+          answer: will be given
+    1:
+      identifier: more difficult queen passives
+      quiz:
+        - question: Edinburgh / visit / the Queen tomorrow
+          answer:
+            - Edinburgh will be visited by the Queen tomorrow.
+          incorrect:
+            -
+              error: ^(?!.*will be visited.*)
+              feedback: Use the words, "will be visited"
+
+        - question: A new bridge / open
+          answer:
+            - A new bridge will be opened.
+          incorrect:
+            -
+              error: ^(?!.*will be opened.*)
+              feedback: Use the words, "will be opened"
+        - question: A dinner party / give / to honor the Royal party.
+          answer:
+            - A dinner party will be given to honor the Royal party.
+          incorrect:
+            -
+              error: ^(?!.*will be given.*)
+              feedback: Use the words, "will be given"
 word:
   jigsaw:
     0:
@@ -1716,6 +1918,154 @@ trump:
           answer: making fun of Trump
 discrimination:
   jigsaw:
+    title:
+      identifier: objectionable default titles
+      quiz:
+        - question: Chairman
+          option:
+            - neutral job title
+            - non-neutral job title
+          answer: non-neutral job title
+        - question: Chair
+          option:
+            - neutral job title
+            - non-neutral job title
+          answer: neutral job title
+        - question: Chairperson
+          option:
+            - neutral job title
+            - non-neutral job title
+          answer: neutral job title
+    demeaning:
+      identifier: demeaning terms of address
+      quiz:
+        - question: After the girls in the office receive an order, our office processes it within 24 hours.
+          option:
+            - demeaning or stereotypical terms
+            - non-demeaning, non-stereotypical terms
+          answer: demeaning or stereotypical terms
+        - question: When orders are received from the office, they are processed within 24 hours.
+          option:
+            - demeaning or stereotypical terms
+            - non-demeaning, non-stereotypical terms
+          answer: non-demeaning, non-stereotypical terms
+        - question: After the workers in the office receive an order, they process it within 24 hours.
+          option:
+            - demeaning or stereotypical terms
+            - non-demeaning, non-stereotypical terms
+          answer: non-demeaning, non-stereotypical terms
+        - question: Boy! Please call me a taxi cab.
+          option:
+            - demeaning or stereotypical terms
+            - non-demeaning, non-stereotypical terms
+          answer: demeaning or stereotypical terms
+        - question: Excuse me! Please call me a taxi cab.
+          option:
+            - demeaning or stereotypical terms
+            - non-demeaning, non-stereotypical terms
+          answer: non-demeaning, non-stereotypical terms
+        - question: Sir! Please call me a taxi cab.
+          option:
+            - demeaning or stereotypical terms
+            - non-demeaning, non-stereotypical terms
+          answer: non-demeaning, non-stereotypical terms
+    gender:
+      identifier: gender neutrality
+      quiz:
+        - question: executives and their wives
+          option:
+            - words and phrases that unnecessarily imply gender and are to be avoided
+            - gender-neutral expressions that are preferable
+          answer: words and phrases that unnecessarily imply gender and are to be avoided
+        - question: executives and their spouses
+          option:
+            - words and phrases that unnecessarily imply gender and are to be avoided
+            - gender-neutral expressions that are preferable
+          answer: gender-neutral expressions that are preferable
+    stigma:
+      identifier: stigmatized groups
+      quiz:
+        - question: Connie Green performed the job well for her age.
+          option:
+            - omits information about group membership.
+            - includes information about stigmatized group membership.
+          answer: includes information about stigmatized group membership.
+        - question: Connie Green performed the job well.
+          option:
+            - omits information about group membership.
+            - includes information about stigmatized group membership.
+          answer: omits information about group membership.
+        - question: The assistants to the cleaners do their best despite their physical/mental handicaps.
+          option:
+            - omits information about group membership.
+            - includes information about stigmatized group membership.
+          answer: includes information about stigmatized group membership.
+        - question: The assistants to the cleaners do their best.
+          option:
+            - omits information about group membership.
+            - includes information about stigmatized group membership.
+          answer: omits information about group membership.
+    salutation:
+      identifier: gender-neutral salutations
+      quiz:
+        - question: Dear Gentlemen
+          option:
+            - a gendered salutation, not to be used if the reader's gender is unknown
+            - a nonsexist salutation, to be used if the reader's gender is unknown
+          answer: a gendered salutation, not to be used if the reader's gender is unknown
+        - question: To Whom It May Concern
+          option:
+            - a gendered salutation, not to be used if the reader's gender is unknown
+            - a nonsexist salutation, to be used if the reader's gender is unknown
+          answer: a nonsexist salutation, to be used if the reader's gender is unknown
+        - question: Dear Sir or Madam
+          option:
+            - a gendered salutation, not to be used if the reader's gender is unknown
+            - a nonsexist salutation, to be used if the reader's gender is unknown
+          answer: a nonsexist salutation, to be used if the reader's gender is unknown
+        - question: Dear Sir
+          option:
+            - a gendered salutation, not to be used if the reader's gender is unknown
+            - a nonsexist salutation, to be used if the reader's gender is unknown
+          answer: a gendered salutation, not to be used if the reader's gender is unknown
+        - question: Dear Madam
+          option:
+            - a gendered salutation, not to be used if the reader's gender is unknown
+            - a nonsexist salutation, to be used if the reader's gender is unknown
+          answer: a gendered salutation, not to be used if the reader's gender is unknown
+    pronoun:
+      identifier: gender-neutral pronoun use
+      quiz:
+        - question: Each student must provide his own lab jacket.
+          option:
+            - the wrong pronoun, because masculine
+            - the right pronoun, because gender-neutral
+          answer: the wrong pronoun, because masculine
+        - question: Students must provide their own lab jackets.
+          option:
+            - the wrong pronoun, because masculine
+            - the right pronoun, because gender-neutral
+          answer: the right pronoun, because gender-neutral
+        - question: Each student must provide his or her own lab jacket.
+          option:
+            - the wrong pronoun, because masculine
+            - the right pronoun, because gender-neutral
+          answer: the right pronoun, because gender-neutral
+        - question: Each nurse is expected to wash provide her own uniform.
+          option:
+            - the wrong pronoun, because feminine
+            - the right pronoun, because gender-neutral
+          answer: the wrong pronoun, because masculine
+        - question: Nurses are expected to wash their own uniforms.
+          option:
+            - the wrong pronoun, because feminine
+            - the right pronoun, because gender-neutral
+          answer: the right pronoun, because gender-neutral
+        - question: Each nurse is expected to wash her or his own uniform.
+          option:
+            - the wrong pronoun, because feminine
+            - the right pronoun, because gender-neutral
+          answer: the right pronoun, because gender-neutral
     0:
       identifier: age, sex
       quiz:
