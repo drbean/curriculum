@@ -1,5 +1,56 @@
 ---
 genre: correspondence
+student:
+  jigsaw:
+    transfer:
+      identifier: students keats transfer message
+      quiz:
+        - question: We know how happy you are to successfully transfer to Taichung. <p> You have arranged care during the day, but cannot afford 24-hour care. Therefore, it is necessary for you to move back to your native Taichung. As You enjoy working for this organization, You loathe to leave. There are any vacancies in Taichung that You would be able to transfer to.<p> We wish you make better achievement at the office in Taichung.
+          option:
+            - good good-news message
+            - not-good good-news message
+          answer: not-good good-news message
+        - question: I could promise you to transfer to Taichung on 10 September. There is a vacancy which will be convenience for you to look after your mother, and the salary and all other benefits will remain unchanged.<p>   You can finish in Taipei on 3 September and have a week's paid leave.<p>   Wish you could work well with your co-workers in Taichung.
+          option:
+            - good good-news message
+            - not-good good-news message
+          answer: not-good good-news message
+        - question: I am pleased to tell you that your request has been approved.<p>Please reply to John telling him that your request for a transfer has been approved and you can take up up position of Account Manager,in Taichung on 10 September. In addition,your salary and all other benefits will remain unchanged.<p>I wish you well at the office in Taichung.
+          option:
+            - good good-news message
+            - not-good good-news message
+          answer: not-good good-news message
+        - question: I am pleased to tell you that the company has accepted your request.<p>You can take up the position of Account Manager in Taichung on 10 September. In addition, your salary and all other benefits will remain unchanged.<p>I wish you well at the office in Taichung.
+          option:
+            - good good-news message
+            - not-good good-news message
+          answer: good good-news message
+        - question: Congratulations,your request has been approved. The company has accepted your request.<p>You have arranged care during the day, but cannot afford 24-hour care. Therefore, it is necessary for you to move back to your native Taichung. As you enjoy working for this organization, you loathe to leave. Are there any vacancies in Taichung that you would be able,to transfer to?<p>Wish you well at the office in Taichung.
+          option:
+            - good good-news message
+            - not-good good-news message
+          answer: not-good good-news message
+        - question: I am pleased to tell you that your request has been approved.<p>Your request for a transfer has been approved and you can take up the position of Account Manager in Taichung on 10 September. In addition, your salary and all other benefits will  remain unchanged.<p>You can finish in Taipei on  3 September and have a week's paid leave.<p>I wish you well at the office in Taichung.
+          option:
+            - good good-news message
+            - not-good good-news message
+          answer: good good-news message
+        - question: I am pleased to tell you that you can be transferred to Taichung.<p>You will be transferred to the vacancy in Taichung.<p>I wish you will be well in Taichung.
+          option:
+            - good good-news message
+            - not-good good-news message
+          answer: not-good good-news message
+        - question: Thank you for giving the messages. I am very pleased to stand by you.<p>You request for a transfer has been approved and you can take up the position of Account Manager in Taichung on 10 September. In addition, your salary and all other benefits will remain unchanged. You can finish in Taipei on 3 September and have a week’s paid,leave.<p>At the end, wish you a smooth job in the Taichung office.
+          option:
+            - good good-news message
+            - not-good good-news message
+          answer: not-good good-news message
+        - question: Your request for  a transfer has been approved.<p>You can take up the position of Account Manager in Taichung on Monday 10 September. In addition, your salary and all other benefits will remain unchanged. Also, you can finish in Taipei on Friday 25 August and have a week's paid leave, which will not be taken from,your annual entitlement.<p>We sincerely wish you well at the office in Taichung.
+          option:
+            - good good-news message
+            - not-good good-news message
+          answer: good good-news message
+        
 point:
   jigsaw:
     0:
