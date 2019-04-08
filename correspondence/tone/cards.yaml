@@ -1170,7 +1170,7 @@ passive:
             - passive
             - active
             - neither active nor passive
-          answer: active
+          answer: neither active nor passive
         - question: The quiz has been closed
           option:
             - passive
@@ -1646,8 +1646,6 @@ earthquake:
   jigsaw:
     0:
       identifier: easy earthquake passives
-      quiz:
-        
       quiz:
         - question: Tainan __ by a big earthquake during the night.
           option:
