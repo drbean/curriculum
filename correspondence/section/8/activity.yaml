@@ -1,0 +1,206 @@
+---
+-
+  -
+    topic : tone
+    story : passive
+    type  : jigsaw
+    form  : 0
+    intro : 
+    random: 3
+-
+  -
+    topic : tone
+    story : passive
+    type  : jigsaw
+    form  : 3
+    intro : 
+    random: 2
+-
+  -
+    topic : tone
+    story : passive
+    type  : jigsaw
+    form  : 4
+    intro : 
+    random: 
+-
+  -
+    topic : tone
+    story : passive
+    type  : jigsaw
+    form  : 5
+    intro : 
+    random: 
+-
+  -
+    topic : tone
+    story : passive
+    type  : jigsaw
+    form  : 6
+    intro : 
+    random: 
+-
+  -
+    topic : tone
+    story : passive
+    type  : jigsaw
+    form  : 7
+    intro : 
+    random: 
+-
+  -
+    topic : tone
+    story : passive
+    type  : jigsaw
+    form  : 8
+    intro : 
+    random: 
+-
+  -
+    topic : news_good
+    story : student
+    type  : jigsaw
+    form  : transfer
+    intro : 
+    random: 5
+-
+  -
+    topic : tone
+    story : courteous
+    type  : drag
+    form  : 0
+    intro : 
+    random: 3
+-
+  -
+    topic : tone
+    story : courteous
+    type  : jigsaw
+    form  : 0
+    intro : 
+    random:
+-
+  -
+    topic : tone
+    story : courteous
+    type  : jigsaw
+    form  : definition
+    intro : 
+    random: 10
+-
+  -
+    topic : tone
+    story : courteous
+    type  : jigsaw
+    form  : use
+    intro : 
+    random: 5
+-
+  -
+    topic : tone
+    story : courteous
+    type  : jigsaw
+    form  : payment
+    intro : 
+    random: 
+-
+  -
+    topic : tone
+    story : earthquake
+    type  : jigsaw
+    form  : 0
+    intro : 
+    random: 
+-
+  -
+    topic : tone
+    story : earthquake
+    type  : jigsaw
+    form  : 1
+    intro : 
+    random: 
+-
+  -
+    topic : tone
+    story : olympics
+    type  : jigsaw
+    form  : 0
+    intro : 
+    random: 
+-
+  -
+    topic : tone
+    story : olympics
+    type  : jigsaw
+    form  : 1
+    intro : 
+    random: 
+-
+  -
+    topic : tone
+    story : queen
+    type  : jigsaw
+    form  : 0
+    intro : 
+    random: 
+-
+  -
+    topic : tone
+    story : queen
+    type  : jigsaw
+    form  : 1
+    intro : 
+    random: 
+-
+  -
+    topic : tone
+    story : discrimination
+    type  : jigsaw
+    form  : title
+    intro : 
+    random: 2
+-
+  -
+    topic : tone
+    story : discrimination
+    type  : jigsaw
+    form  : demeaning
+    intro : 
+    random: 3
+-
+  -
+    topic : tone
+    story : discrimination
+    type  : jigsaw
+    form  : gender
+    intro : 
+    random: 
+-
+  -
+    topic : tone
+    story : discrimination
+    type  : jigsaw
+    form  : stigma
+    intro : 
+    random: 3
+-
+  -
+    topic : tone
+    story : discrimination
+    type  : jigsaw
+    form  : salutation
+    intro : 
+    random: 3
+-
+  -
+    topic : tone
+    story : discrimination
+    type  : jigsaw
+    form  : pronoun
+    intro : 
+    random: 3
+  
+  
+
+  
+  
