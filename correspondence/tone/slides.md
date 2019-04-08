@@ -13,11 +13,25 @@ The way you say things
 
 culture
 
+## courteousness and sincerity
+
+courteousness
+
+- [handshake](https://www.google.com/search?biw=800&bih=558&tbm=isch&sa=1&ei=m6yqXIi1D8aUr7wPtZSp-A8&q=handshake&oq=handshake&gs_l=img.3..0l10.5473.9302..10315...0.0..0.100.871.20j1......0....1..gws-wiz-img.....0..0i19j0i30j0i10i30.stuMzsadRNI)
+- [interpersonal relationships](https://www.google.com/search?tbm=isch&source=hp&biw=800&bih=558&ei=hKiqXPaUB9KA8QWJqbeQCg&q=interpersonal+relations&oq=interpersonal+relations&gs_l=img.3..0j0i30l9.3439.12442..13135...2.0..0.81.1126.26......0....1..gws-wiz-img.....0..0i19.yrCKq__c8pQ)
+- [working together ](https://www.google.com/search?biw=800&bih=558&tbm=isch&sa=1&ei=kqiqXLr0GISUmAWI-oeQCQ&q=working+together&oq=working+together&gs_l=img.3..0j0i30l9.30633.34971..35338...0.0..1.128.2075.30j5......0....1..gws-wiz-img.....0.C_4vXWBjeXQ)
+
+sincerity
+
+- [from the heart ](https://www.google.com/search?biw=800&bih=558&tbm=isch&sa=1&ei=BKqqXMuaIIni-Ab82KuYBQ&q=from+the+heart&oq=from+the+heart&gs_l=img.3..0j0i30l5j0i24l4.4307.10072..11693...0.0..0.115.1110.20j2......0....1..gws-wiz-img.....0..0i8i30.secruWau6IM)
+
 # 2 emails
 
-Work is stressful. Don't put more pressure on the people you talk to. One of these 2 emails is impolite and would be stressful for the reader.
+## Work is stressful.
 
-# one
+Don't put more pressure on the people you talk to. One of these 2 emails is impolite and would be stressful for the reader.
+
+## one
 
 I got the email. Send me your catalogue.
 
@@ -28,7 +42,7 @@ We expect the order to be sent today.
 
 Don't make a mistake with the order.
 
-# two
+## two
 
 Thank you for your email. Please send me your catalog.
 
@@ -86,7 +100,7 @@ You can subordinate an idea (put it in the background) by placing it in middle p
 
 # Homework
 
-# Improving the tone
+## Improving the tone
 
 Rewrite the 4 sentences on p93 to make them less negative, less unwelcome, without changing the meaning.
 
@@ -106,8 +120,6 @@ And the 5 points (or guidelines) of 10-3, p90
 - Don't criticize or blame the reader. Focus on the situation, not the people.
 - Acknowledge your own mistakes.
 - Be grateful attempts have been made, even if they are unsuccessful.
-
-# Homework
 
 ## Homework: the problem of tone
 
