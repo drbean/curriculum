@@ -36,6 +36,7 @@ You don't need to mention his mother. It is not the company's concern.
 	- Too similar to another's work.
 	- You say 'Congratulations', or "I'm proud of you", only when the person you are congratulating already has the good news, and it was given to them by someone else, not you.
 	- 'We would like to approve your request' means we cannot approve it.
+	- 'We will allow your request' sounds unfriendly, as if Keats should not be asking for the transfer, but the company will let him go anyway.
 	- 'I would tell you' ??? You mean, 'I am pleased to tell you'
 	- Not "I hear your request has been accepted" or "The boss says your request has been accepted". No. Manager Cheng is  representing the company and is making an official company statement. "The company has accepted your request."
 	- Not "I want to tell you good news", or "I have good news". Just say "Your request has been approved" straight away.
