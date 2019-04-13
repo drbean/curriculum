@@ -17,7 +17,7 @@ culture
 
 courteousness
 
-- [handshake](https://www.google.com/search?biw=800&bih=558&tbm=isch&sa=1&ei=m6yqXIi1D8aUr7wPtZSp-A8&q=handshake&oq=handshake&gs_l=img.3..0l10.5473.9302..10315...0.0..0.100.871.20j1......0....1..gws-wiz-img.....0..0i19j0i30j0i10i30.stuMzsadRNI)
+- [handshake](http://images.google.com/search?q=handshake)
 - [interpersonal relationships](https://www.google.com/search?tbm=isch&source=hp&biw=800&bih=558&ei=hKiqXPaUB9KA8QWJqbeQCg&q=interpersonal+relations&oq=interpersonal+relations&gs_l=img.3..0j0i30l9.3439.12442..13135...2.0..0.81.1126.26......0....1..gws-wiz-img.....0..0i19.yrCKq__c8pQ)
 - [working together ](https://www.google.com/search?biw=800&bih=558&tbm=isch&sa=1&ei=kqiqXLr0GISUmAWI-oeQCQ&q=working+together&oq=working+together&gs_l=img.3..0j0i30l9.30633.34971..35338...0.0..1.128.2075.30j5......0....1..gws-wiz-img.....0.C_4vXWBjeXQ)
 
