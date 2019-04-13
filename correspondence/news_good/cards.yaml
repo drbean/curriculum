@@ -1314,7 +1314,7 @@ goodwill:
             - good news message
           answer: good news message
     2:
-      identifier: goodwill and goodnews 2
+      identifier: midterm exam 107-2
       quiz:
         - question: Someone sends you a message saying they found the money which you lost.
           option:
@@ -1419,4 +1419,3 @@ raise:
             - By keeping up with her work
             - By talking to Human Resources
           answer: By talking to Human Resources
-        
