@@ -1347,6 +1347,11 @@ goodwill:
             - good news message
           answer: good news message
 raise:
+  description:
+    0:
+      identifier: raise
+      questiontext: The following questions are about a raise for an employee. Don't answer the questions in order. Answering later questions will help you answer earlier questions.
+    
   drag:
     0:
       identifier: raise
@@ -1361,6 +1366,9 @@ raise:
           sentence: However, you may be interested in applying for our leadership program.
           clozed: you|may|be|interested|in|applying|for|our|leadership|End
         -
+          sentence: More information about the program is available from Human Resources.
+          clozed: More|information|about|the|program|is|available|from|End
+        -
           sentence: We once again thank you for your hard work and dedication.
           clozed: We|again|thank|you|for|your|hard|work|and|End
   match:
@@ -1368,16 +1376,19 @@ raise:
       identifier: raise
       pair:
         -
-          - a company decided give has month NT$10,000 of per raise The to you 
+          - The company has ..
           - good news
         -
-          - All been do doing good have have is keep the to up work you you 
+          - All you have ..
           - details
         -
-          - applying be for However in interested leadership may our program you
+          - However, you may ..
           - sales appeal
         -
-          - again and dedication for hard once thank We work you your 
+          - More information about ..
+          - extra information
+        -
+          - We once again ..
           - polite close
   jigsaw:
     0:
@@ -1389,6 +1400,7 @@ raise:
             - She's dedicated and hard-working.
             - She wants to be the leader.
             - She's positive and polite.
+            - She's courteous and sincere.
           answer: She's dedicated and hard-working.
         - question: Why is leadership mentioned?
           option:
@@ -1401,3 +1413,10 @@ raise:
             - Yes
             - No
           answer: No
+        - question: How can she move up?
+          option:
+            - By taking the raise
+            - By keeping up with her work
+            - By talking to Human Resources
+          answer: By talking to Human Resources
+        
