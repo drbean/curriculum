@@ -98,6 +98,20 @@ critique:
             - a good goodwill message
             - not a good goodwill message
           answer: not a good goodwill message
+    1:
+      identifier: midterm exam
+      quiz:
+        - question: I am pleased to hear you got a cute kitty.<p> She has big eyes and short legs, and she is clever.<p>If you have time, I want to see and play with her
+          option:
+            - a good goodwill message
+            - not a good goodwill message
+          answer: not a good goodwill message
+        - question: Congratulations on your graduation.<p>I hope that you can find a job smoothly.<p>If you need any help looking, please let me know.
+          option:
+            - a good goodwill message
+            - not a good goodwill message
+          answer: a good goodwill message
+        
 
 kind:
   jigsaw:
@@ -875,3 +889,45 @@ roberts:
           answer: False
         - question: "'Tell your family I was sorry to hear the news. And call me if you need help,' is the forward-looking close of the message."
           answer: True
+drbean:
+  description:
+    0:
+      identifier: Dr Bean goodwill
+      questiontext: Dr Bean sends 3 goodwill messages to other teachers in the Language Center.
+    
+  drag:
+    0:
+      identifier: Dr Bean goodwill
+      sentences:
+        -
+          sentence: I'm sorry to hear your mother died, David. No wonder you have been looking sad for the last week.
+          clozed: I'm|sorry|to|hear|your|mother|David|No|wonder|you|have|been|looking|sad|for|the|last|End
+        -
+          sentence: Thanks, Tracy, for deciding to take the extra Freshman_English class, and allowing me to continue with three Business_Correspondence classes next semester.
+          clozed: Thanks|for|to|take|the|extra|Freshman_English|and|allowing|me|to|continue|with|three|Business_Correspondence|next|End
+        -
+          sentence: Congratulations on becoming chairperson of the Language_Center, Barry. It's a great honor, although a heavy responsibility.
+          clozed: Congratulations|on|becoming|chairperson|of|the|Language_Center|It's|a|great|honor,|although|a|heavy|End
+  jigsaw:
+    0:
+      identifier: Dr Bean goodwill type
+      quiz:
+        - question: The first message to David is what type of goodwill message?
+          option:
+            - thank-you message
+            - congratulations message
+            - message of condolence
+          answer: message of condolence
+        - question: The second message to Tracy is what type of goodwill message?
+          option:
+            - thank-you message
+            - congratulations message
+            - message of condolence
+          answer: thank-you message
+        - question: The third message to Barry is what type of goodwill message?
+          option:
+            - thank-you message
+            - congratulations message
+            - message of condolence
+          answer: congratulations message
+        
