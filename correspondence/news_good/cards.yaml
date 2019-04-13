@@ -1183,7 +1183,7 @@ transfer:
     2:
       identifier: missing good news step
       quiz:
-        - question: "Which good news step is missing from this message:<p>Your request for  a transfer has been approved.<p>You can take up the position of Account Manager in Taichung on Monday 10 September. In addition, your salary and all other benefits will remain unchanged. Also, you can finish in Taipei on Friday 25 August and have a week's paid leave, which will not be taken from,your annual entitlement.<p>We sincerely wish you well at the office in Taichung."
+        - question: "Which good news step is missing from this message:<p><p>Your request for  a transfer has been approved.<p>You can take up the position of Account Manager in Taichung on Monday 10 September. In addition, your salary and all other benefits will remain unchanged. Also, you can finish in Taipei on Friday 25 August and have a week's paid leave, which will not be taken from,your annual entitlement.<p>We sincerely wish you well at the office in Taichung."
 
           option:
             - details
