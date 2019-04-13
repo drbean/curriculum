@@ -1360,7 +1360,7 @@ passive:
       quiz:
         - question: Will the tennis match __ ? (Use 'play')
           answer:
-            - Will the tennis match be played ?
+            - Will the tennis match be played?
           incorrect:
             -
               error: ^(?!Will.*)
