@@ -111,8 +111,48 @@ critique:
             - a good goodwill message
             - not a good goodwill message
           answer: a good goodwill message
-        
-
+    2:
+      identifier: goodwill sentences
+      quiz:
+        - question: "The sentence, 'Too bad about that,' comes from what kind of goodwill message."
+          option:
+            - thank-you message
+            - congratulations message
+            - message of condolence
+          answer: message of condolence
+        - question: "The sentence, 'I appreciate what you did,' comes from what kind of goodwill message."
+          option:
+            - thank-you message
+            - congratulations message
+            - message of condolence
+          answer: thank-you message
+        - question: "The sentence, 'I am very pleased for you,' comes from what kind of goodwill message."
+          option:
+            - thank-you message
+            - congratulations message
+            - message of condolence
+          answer: congratulations message
+    3:
+      identifier: the problem part
+      quiz:
+        - question: "The problem part:<p>I'm sorry to hear that you had a quarrel with your best friend.<p>You have to calm down and talk peacefully with him.<p>If there is anything I can do to help you two, please do not hesitate to tell me."
+          option:
+            - the act/action of the message
+            - the thought connected to the event of the message
+            - the forward-looking close of the message
+          answer: the thought connected to the event of the message
+        - question: "The problem part:<p>I heard your son was admitted to Harvard University.<p>I think that is not just because of luck. He is an outstanding student.<p>I have a friend in America. If your son needs help, this is my friend's cellphone number 0912345678." 
+          option:
+            - the act/action of the message
+            - the thought connected to the event of the message
+            - the forward-looking close of the message
+          answer: the act/action of the message
+        - question: "The problem part:<p> I heard you got a high SAT score. Congratulations.<p> It’s not easy to pass, I think you really worked hard.<p> I've done the SAT. You can ask me if you have questions."
+          option:
+            - the act/action of the message
+            - the thought connected to the event of the message
+            - the forward-looking close of the message
+          answer: the forward-looking close of the message
 kind:
   jigsaw:
     0:
@@ -906,8 +946,8 @@ drbean:
           sentence: Thanks, Tracy, for deciding to take the extra Freshman_English class, and allowing me to continue with three Business_Correspondence classes next semester.
           clozed: Thanks|for|to|take|the|extra|Freshman_English|and|allowing|me|to|continue|with|three|Business_Correspondence|next|End
         -
-          sentence: Congratulations on becoming chairperson of the Language_Center, Barry. It's a great honor, although a heavy responsibility.
-          clozed: Congratulations|on|becoming|chairperson|of|the|Language_Center|It's|a|great|honor,|although|a|heavy|End
+          sentence: Congratulations on becoming chairperson of the Language_Center, Barry. It's a great honor, but a heavy responsibility.
+          clozed: Congratulations|on|becoming|chairperson|of|the|Language_Center|It's|a|great|honor,|but|a|heavy|End
   jigsaw:
     0:
       identifier: Dr Bean goodwill type
@@ -930,4 +970,21 @@ drbean:
             - congratulations message
             - message of condolence
           answer: congratulations message
-        
+    1:
+      identifier: missing element
+      quiz:
+        - question: The missing part of a goodwill message in the first message to David.
+          option:
+            - a thought connected to the event of the message
+            - a forward-looking close of the message
+          answer: a forward-looking close of the message
+        - question: The missing part of a goodwill message in the second message to Tracy.
+          option:
+            - the act/action of the message
+            - a thought connected to the event of the message
+          answer: a thought connected to the event of the message
+        - question: The missing part of a goodwill message in the third message to Barry.
+          option:
+            - the act/action of the message
+            - a forward-looking close of the message
+          answer: a forward-looking close of the message
