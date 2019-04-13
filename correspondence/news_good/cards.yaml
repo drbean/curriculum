@@ -1141,7 +1141,7 @@ transfer:
     1:
       identifier: structure of transfer approval message
       quiz:
-        - question: *Your request for  a transfer has been approved.*<p>You can take up the position of Account Manager in Taichung on Monday 10 September. In addition, your salary and all other benefits will remain unchanged. Also, you can finish in Taipei on Friday 25 August and have a week's paid leave, which will not be taken from,your annual entitlement.<p>We sincerely wish you well at the office in Taichung.
+        - question: "*Your request for  a transfer has been approved.*<p>You can take up the position of Account Manager in Taichung on Monday 10 September. In addition, your salary and all other benefits will remain unchanged. Also, you can finish in Taipei on Friday 25 August and have a week's paid leave, which will not be taken from,your annual entitlement.<p>We sincerely wish you well at the office in Taichung."
 
           option:
             - details
@@ -1150,7 +1150,7 @@ transfer:
             - positive close
             - sales appeal
           answer: good news
-        - question: Your request for  a transfer has been approved.<p>*You can take up the position of Account Manager in Taichung on Monday 10 September. In addition, your salary and all other benefits will remain unchanged. Also, you can finish in Taipei on Friday 25 August and have a week's paid leave, which will not be taken from,your annual entitlement.*<p>We sincerely wish you well at the office in Taichung.
+        - question: "Your request for  a transfer has been approved.<p>*You can take up the position of Account Manager in Taichung on Monday 10 September. In addition, your salary and all other benefits will remain unchanged. Also, you can finish in Taipei on Friday 25 August and have a week's paid leave, which will not be taken from,your annual entitlement.*<p>We sincerely wish you well at the office in Taichung."
 
           option:
             - details
@@ -1159,7 +1159,7 @@ transfer:
             - positive close
             - sales appeal
           answer: details
-        - question: Your request for  a transfer has been approved.<p>You can take up the position of Account Manager in Taichung on Monday 10 September. In addition, your salary and all other benefits will remain unchanged. Also, you can finish in Taipei on Friday 25 August and have a week's paid leave, which will not be taken from,your annual entitlement.<p>*We sincerely wish you well at the office in Taichung.*
+        - question: "Your request for  a transfer has been approved.<p>You can take up the position of Account Manager in Taichung on Monday 10 September. In addition, your salary and all other benefits will remain unchanged. Also, you can finish in Taipei on Friday 25 August and have a week's paid leave, which will not be taken from,your annual entitlement.<p>*We sincerely wish you well at the office in Taichung.*"
 
           option:
             - details
@@ -1180,7 +1180,11 @@ transfer:
             - sales appeal
           answer: sales appeal
         
-        
+scam:
+  description:
+    0:
+      identifier: google scam spam
+      questiontext: "<h4>Google scam spam</h4><p>Your boss, a criminal, wants you to write an email which says the reader is the winner of one million dollars in a Google lottery. The reader is not really going to get any money.<p>The aim of the email is to get the reader to send his/her credit card number and password.<p>Write the email. Follow the 3- or 4-paragraph structure in the book."
 goodwill:
   jigsaw:
     0:
@@ -1309,11 +1313,39 @@ goodwill:
             - goodwill message
             - good news message
           answer: good news message
-
-
-        
-        
-        
+    2:
+      identifier: goodwill and goodnews 2
+      quiz:
+        - question: Someone sends you a message saying they found the money which you lost.
+          option:
+            - goodwill message
+            - good news message
+          answer: good news message
+        - question: You send a message to the person who wrote the previous message and sent you the money you lost.
+          option:
+            - goodwill message
+            - good news message
+          answer: goodwill message
+        - question: Someone tells you a distant relative has died and left you a lot of money.
+          option:
+            - goodwill message
+            - good news message
+          answer: good news message
+        - question: Your father died and left a lot of money to his children. A friend writes to you.
+          option:
+            - goodwill message
+            - good news message
+          answer: goodwill message
+        - question: The lottery office sends you a notice that you have won the big lottery.
+          option:
+            - goodwill message
+            - good news message
+          answer: good news message
+        - question: A real estate agency sends you a message that it has found a buyer for the house you want to sell.
+          option:
+            - goodwill message
+            - good news message
+          answer: good news message
 raise:
   drag:
     0:
