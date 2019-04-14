@@ -1207,6 +1207,9 @@ classwork:
         End with a positive close, thanking her for her efforts to make up the class.
 
         Follow the 3- or 4- paragraph structure in the book.
+
+        There is no need for To:, From:, etc lines.
+
   jigsaw:
     0:
       identifier: missing classwork step
@@ -1229,6 +1232,9 @@ scam:
         The aim of the email is to get the reader to send his/her credit card number and password.
 
         Write the email. Follow the 3- or 4-paragraph structure in the book.
+
+        There is no need for To:, From:, etc lines.
+
 goodwill:
   jigsaw:
     0:
