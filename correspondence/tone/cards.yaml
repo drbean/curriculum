@@ -1229,7 +1229,48 @@ passive:
             - Because the person who took the action is unknown
             - Because it's not important who took the action
           answer: Because it's not important who took the action
-
+    use_again:
+      identifier: use_of_passive_for_test
+      quiz:
+        - question: Why is passive used in 'A mistake was made in the work you submitted to me'?
+          option:
+            - To emphasize what is important is the object of action, or action itself
+            - To avoid blaming the person who took the action
+            - Because the person who took the action is unknown
+            - Because it's not important who took the action
+          answer: To avoid blaming the person who took the action
+        - question: Why is passive used in 'The dog died after being given some poisoned meat.'?
+          option:
+            - To emphasize what is important is the object of action, or action itself
+            - To be more diplomatic (make reader feel less bad)
+            - To avoid blaming the person who took the action
+            - Because the person who took the action is unknown
+            - Because it's not important who took the action
+          answer: Because the person who took the action is unknown
+        - question: Why is passive used in 'Many email are sent around the world everyday'?
+          option:
+            - To emphasize what is important is the object of action, or action itself
+            - To be more diplomatic (make reader feel less bad)
+            - To avoid blaming the person who took the action
+            - Because the person who took the action is unknown
+            - Because it's not important who took the action
+          answer: Because it's not important who took the action
+        - question: "Why is passive used in 'Libya's capital is being attacked by a rebel strongman'?"
+          option:
+            - To emphasize what is important is the object of action, or action itself
+            - To be more diplomatic (make reader feel less bad)
+            - To avoid blaming the person who took the action
+            - Because the person who took the action is unknown
+            - Because it's not important who took the action
+          answer: To emphasize what is important is the object of action, or action itself
+        - question: Why is passive used in 'I have been made to feel unwelcome by that group of people'?
+          option:
+            - To emphasize what is important is the object of action, or action itself
+            - To be more diplomatic (make reader feel less bad)
+            - Because the person who took the action is unknown
+            - Because it's not important who took the action
+          answer: To be more diplomatic (make reader feel less bad)
+        
 
     0:
       identifier: not/passive
@@ -1555,16 +1596,16 @@ passive:
     9:
       identifier: passives based on book
       quiz:
-        - question: She expects people to give way.
+        - question: She expects other drivers to give way to her.
           answer: 
-            - People are expected to give way.
+            - Other drivers are expected to give way to her.
         - question: "Someone gave her a gift. (give, gave, given) Answer: She .."
           answer: 
             - She was given a gift.
         - question: "Someone gave her a gift. (give, gave, given) Answer: A gift .."
           answer: 
             - A gift was given her.
-            - A gift was given to her.
+            - A gift was given to her\.
         - question: "Will they do the homework? (do, did, done) Answer: Will the ..?"
           answer: 
             - Will the homework be done?
@@ -1577,9 +1618,15 @@ passive:
         - question: The students hadn't done the homework by the time the deadline came.
           answer:
             - The homework hadn't been done by the time the deadline came.
-        - question: "No-one believes Trump to tell the truth. Answer: Trump isn't .."
+              #- question: "No-one believes Trump to tell the truth. Answer: Trump isn't .."
+              #  answer:
+              #    - Trump isn't believed to tell the truth.
+              #- question: "Everyone thinks Trump is the worst president ever. (think, thought, thought)"
+              #  answer:
+              #    - Trump is thought to be the worst president ever.
+        - question: "Many people consider Trump to be the worst American president ever."
           answer:
-            - Trump isn't believed to tell the truth.
+            - Trump is considered to be the worst American president ever.
         - question: "The teacher doesn't like students asking him questions. Answer: Students who ask the teacher questions .."
           answer:
             - Students asking the teacher questions aren't liked.
@@ -1709,6 +1756,11 @@ passive:
           option:
             - are ridden
           answer: are ridden
+  description:
+    0:
+      identifier: for book-modeled passives
+      questiontext: The next questions are modeled on the passive questions on p83. In most questions, there is only one (1) right answer. Make sure you don't leave extra spaces in your answer. don't include the 'by [actor]' phrase, eg, 'by her', 'by someone'. Include other 'by' phrases, eg 'by the deadline', 
+    
   drag:
     0:
       identifier: practice variants
