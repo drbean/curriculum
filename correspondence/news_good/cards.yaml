@@ -1475,7 +1475,7 @@ raise:
             - Yes
             - No
           answer: No
-        - question: How can she move up?
+        - question: How can she move up to a higher position?
           option:
             - By taking the raise
             - By keeping up with her work
