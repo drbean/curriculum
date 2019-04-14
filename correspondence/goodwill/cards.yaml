@@ -967,8 +967,8 @@ drbean:
           sentence: I'm sorry to hear your mother died, David. No wonder you have been looking sad for the last week.
           clozed: I'm|sorry|to|hear|your|mother|David|No|wonder|you|have|been|looking|sad|for|the|last|End
         -
-          sentence: Thanks, Tracy, for deciding to take the extra Freshman_English class, and allowing me to continue with three Business_Correspondence classes next semester.
-          clozed: Thanks|for|to|take|the|extra|Freshman_English|and|allowing|me|to|continue|with|three|Business_Correspondence|next|End
+          sentence: Thanks, Tracy, for deciding to take an extra Freshman_English class, and allowing me to continue with three Business_Correspondence classes next semester.
+          clozed: Thanks|for|to|take|an|extra|and|allowing|me|to|continue|with|three|Business_Correspondence|next|End
         -
           sentence: Congratulations on becoming chairperson of the Language_Center, Barry. It's a great honor, but a heavy responsibility.
           clozed: Congratulations|on|becoming|chairperson|of|the|Language_Center|It's|a|great|but|a|heavy|End
