@@ -551,6 +551,94 @@ confidence:
             - appropriately confident
             - overconfident
           answer: appropriately confident
+
+    confidence_level:
+      identifier: confidence level
+      quiz:
+        - question: I am more than qualified to do this job.
+          option:
+            - not confident
+            - appropriately confident
+            - overconfident
+          answer: overconfident
+        - question: I have qualifications appropriate for this job.
+          option:
+            - not confident
+            - appropriately confident
+            - overconfident
+          answer: appropriately confident
+        - question: I am the most qualified applicant.
+          option:
+            - not confident
+            - appropriately confident
+            - overconfident
+          answer: overconfident
+        - question: I would like to be a qualified applicant.
+          option:
+            - not confident
+            - appropriately confident
+            - overconfident
+          answer: not confident
+        - question: There is no-one more qualified than me.
+          option:
+            - not confident
+            - appropriately confident
+            - overconfident
+          answer: overconfident
+        - question: I could be a qualified applicant.
+          option:
+            - not confident
+            - appropriately confident
+            - overconfident
+          answer: not confident
+        - question: I believe I am well-qualified for this job.
+          option:
+            - not confident
+            - appropriately confident
+            - overconfident
+          answer: appropriately confident
+        - question: I could take your job, I'm so qualified.
+          option:
+            - not confident
+            - appropriately confident
+            - overconfident
+          answer: overconfident
+        - question: I don't have the qualifications, but I'm very smart. I can learn on the job.
+          option:
+            - not confident
+            - appropriately confident
+            - overconfident
+          answer: overconfident
+        - question: I wish I were the most qualified.
+          option:
+            - not confident
+            - appropriately confident
+            - overconfident
+          answer: not confident
+        - question: I don't have any qualifications, but I am very, very confident.
+          option:
+            - not confident
+            - appropriately confident
+            - overconfident
+          answer: overconfident
+        - question: My qualifications meet your job requirements.
+          option:
+            - not confident
+            - appropriately confident
+            - overconfident
+          answer: appropriately confident
+        - question: My qualifications make me an excellent applicant for this position.
+          option:
+            - not confident
+            - appropriately confident
+            - overconfident
+          answer: appropriately confident
+        - question: You must agree that I am qualified for the position.
+          option:
+            - not confident
+            - appropriately confident
+            - overconfident
+          answer: overconfident
     wish:
       identifier: The different meanings of wish
       quiz:
@@ -760,6 +848,11 @@ smoking:
             - 2nd
           answer: 1st
 courteous:
+  description:
+    0:
+      identifier: courteous
+      questiontext: The following 4 questions are about phone manufacturers and app developers being courteous/sincere (p80) with people installing apps on their smartphones. Attempting later questions in this set may help you answer earlier questions in the set.
+    
   drag:
     0:
       identifier: courteous scramble
