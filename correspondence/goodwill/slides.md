@@ -120,14 +120,6 @@ So, that's
 
 # Exam
 
-## Token thank you
-
-You are the top student in the graduating class. NUU gives you a book token worth NT$500.
-
-Write a thank-you note. Follow the three-paragraph structure in the book. Make some personal comments in the first and second paragraph about how enjoyable life at NUU was.
-
-There is no need for To:, From:, etc lines.
-
 ## Graduate school acceptance congratulations
 
 Your friend has been accepted into graduate school at Harvard University in the US. Congratulate him/her.
