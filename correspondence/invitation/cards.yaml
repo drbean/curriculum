@@ -102,7 +102,7 @@ response:
             - declining
             - not clear whether accepting or declining
           answer: accepting
-        - question: What response do(es) the word(s) "I will be in Taipei 26-28 September" show the writer is making to an invitation?
+        - question: What response do(es) the word(s) "I will be in Taipei 6-8 November" show the writer is making to an invitation?
           option:
             - accepting
             - declining
@@ -580,6 +580,29 @@ smokers:
             - Yes
             - No
           answer: Yes
+    tone:
+      identifier: tone in chen's reply
+      quiz:
+        - question: "Dr Bean thinks Chen in his reply on p72 is just being polite. He doesn't have good feelings about the symposium. If this is true, Chen's reply is: (see p80)"
+          option:
+            - courteous and sincere 
+            - courteous but not sincere 
+            - neither courteous nor sincere 
+            - sincere but not courteous
+          answer: courteous but not sincere 
+        - question: "Chen doesn't say what the 'prior commitment' which prevents him from giving the speech is. Perhaps Smokers, Inc think Chen is not just being polite. Perhaps they think he really wanted to give the speech. If so, they may think the 'prior commitment' is for:"
+          option:
+            - an important event
+            - an unimportant event
+          answer: an important event
+        - question: "If Smokers, Inc agrees with Dr Bean that Chen is just being polite, and didn't want to give the speech, they may think the 'prior commitment' is:"
+          option:
+            - an important event
+            - an unimportant event
+          answer: an unimportant event
+        
+        
+        
     reply:
       identifier: comprehension of Chen reply
       quiz:
