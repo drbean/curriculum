@@ -1196,7 +1196,17 @@ classwork:
   essay:
     0:
       identifier: classwork good news
-      rubric: A student sends a message to Dr Bean telling him she wasn't in class on Monday and now when she tries to do the exercises she missed at home, the app tells her the exercises are not accessible from her computer. She asks Dr Bean if she can be given another chance to do the classwork.<p>Using the format of the good news message, and speaking in the voice of Dr Bean, reply to the student telling her that she can come to the computer lab and do the classwork there.<p>Tell her on Friday from 1pm to 3pm, there will be another class in the lab that she can join, but she will have to stay for the whole class.<p>End with a positive close, thanking her for her efforts to make up the class.
+      rubric: |+
+        ### good classwork news
+        A student sends a message to Dr Bean telling him she wasn't in class on Monday and now when she tries to do the exercises she missed at home, the app tells her the exercises are not accessible from her computer. She asks Dr Bean if she can be given another chance to do the classwork.
+
+        Using the format of the good news message, and speaking in the voice of Dr Bean, reply to the student telling her that she can come to the computer lab and do the classwork there.
+
+        Tell her on Friday from 1pm to 3pm, there will be another class in the lab that she can join, but she will have to stay for the whole class.
+
+        End with a positive close, thanking her for her efforts to make up the class.
+
+        Follow the 3- or 4- paragraph structure in the book.
   jigsaw:
     0:
       identifier: missing classwork step
@@ -1212,7 +1222,13 @@ scam:
   essay:
     0:
       identifier: google scam spam
-      rubric: "<h4>Google scam spam</h4>Your boss, a criminal, wants you to write an email which says the reader is the winner of one million dollars in a Google lottery. The reader is not really going to get any money.<p>The aim of the email is to get the reader to send his/her credit card number and password.<p>Write the email. Follow the 3- or 4-paragraph structure in the book."
+      rubric: |+
+        ## Google scam spam
+        Your boss, a criminal, wants you to write an email which says the reader is the winner of one million dollars in a Google lottery. The reader is not really going to get any money.
+
+        The aim of the email is to get the reader to send his/her credit card number and password.
+
+        Write the email. Follow the 3- or 4-paragraph structure in the book.
 goodwill:
   jigsaw:
     0:
