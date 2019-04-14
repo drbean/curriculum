@@ -107,19 +107,7 @@ response:
             - accepting
             - declining
             - not clear whether accepting or declining
-          answer: 
-          
-
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
+          answer: not clear whether accepting or declining
 reply:
   jigsaw:
     accept:
@@ -568,6 +556,30 @@ smokers:
             - the writer
             - the recipient
           answer: the recipient
+    close_reading:
+      identifier: invitation structure questions
+      quiz:
+        - question: Which of the 3 sentences in the 1st paragraph of the invitation to Dr Chen on p71 is the actual (but, indirect) invitation to give a speech.
+          option:
+            - sentence 1
+            - sentence 2
+            - sentence 3
+          answer: sentence 3
+        - question: Does the invitation on p71 ask Chen to stay for the whole symposium at the end of the 2nd paragraph?
+          option:
+            - Yes
+            - No
+          answer: No
+        - question: Would Smokers, Inc like Chen to stay for the whole symposium?
+          option:
+            - Yes
+            - No
+          answer: Yes
+        - question: Does the invitation on p71 give Chen a deadline?
+          option:
+            - Yes
+            - No
+          answer: Yes
     reply:
       identifier: comprehension of Chen reply
       quiz:
@@ -617,11 +629,6 @@ smokers:
           answer: True
         - question: Chen is treating Shaw as having equal or higher status as/than his status.
           answer: True
-
-
-
-
-
     chen:
       identifier: smokers reply structure
       quiz:
