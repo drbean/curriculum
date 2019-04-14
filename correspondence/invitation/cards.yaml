@@ -630,7 +630,7 @@ smokers:
         - question: Chen is treating Shaw as having equal or higher status as/than his status.
           answer: True
     chen:
-      identifier: smokers reply structure
+      identifier: smokers reply structure -- book reply expression structures
       quiz:
         - question: _________________ for inviting me to be a guest speaker at your Asian Symposium on Lung Diseases between 20 and 21 October.
           option:
@@ -695,7 +695,6 @@ smokers:
             - alternative
             - polite close
           answer: polite close
-      identifier:  book reply expression structures
   scramble:
     0:
       identifier: smokers
