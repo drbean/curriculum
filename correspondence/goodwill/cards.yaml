@@ -471,6 +471,19 @@ award:
         
         
 congratulation:
+  essay:
+    0:
+      identifier: Graduate school acceptance congratulations
+      rubric: |+
+	## Graduate school acceptance congratulations
+
+	Your friend has been accepted into graduate school at Harvard University in the US. Congratulate him/her.
+
+	Write a congratulation note. Follow the three-paragraph structure in the book. Make some personal comments in the first and second paragraph about how good a student at NUU he/she was. And about how hard studying in the US will be.
+
+	There is no need for To:, From:, etc lines.
+
+    
   scramble:
     0:
       identifier: graduation
