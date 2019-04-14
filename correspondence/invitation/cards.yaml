@@ -63,6 +63,53 @@ response:
             - accepting
             - declining
           answer: declining
+    1:
+      identifier: accepting or declining
+      quiz:
+        - question: What response do(es) the word(s) "Sorry" show the writer is making to an invitation?
+          option:
+            - accepting
+            - declining
+            - not clear whether accepting or declining
+          answer: declining
+        - question: What response do(es) the word(s) "Thank you for your invitation" show the writer is making to an invitation?
+          option:
+            - accepting
+            - declining
+            - not clear whether accepting or declining
+          answer: not clear whether accepting or declining
+        - question: What response do(es) the word(s) "I am very happy" show the writer is making to an invitation?
+          option:
+            - accepting
+            - declining
+            - not clear whether accepting or declining
+          answer: accepting
+        - question: What response do(es) the word(s) "Usually, I would" show the writer is making to an invitation?
+          option:
+            - accepting
+            - declining
+            - not clear whether accepting or declining
+          answer: declining
+        - question: What response do(es) the word(s) "Please accept my apologies" show the writer is making to an invitation?
+          option:
+            - accepting
+            - declining
+            - not clear whether accepting or declining
+          answer: declining
+        - question: What response do(es) the word(s) "I look forward" show the writer is making to an invitation?
+          option:
+            - accepting
+            - declining
+            - not clear whether accepting or declining
+          answer: accepting
+        - question: What response do(es) the word(s) "I will be in Taipei 26-28 September" show the writer is making to an invitation?
+          option:
+            - accepting
+            - declining
+            - not clear whether accepting or declining
+          answer: 
+          
+
         
         
         
