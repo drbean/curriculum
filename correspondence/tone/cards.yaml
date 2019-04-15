@@ -1232,7 +1232,7 @@ passive:
     use_again:
       identifier: use_of_passive_for_test
       quiz:
-        - question: Why is passive used in 'A mistake was made in the work you submitted to me'?
+        - question: Why is passive used in 'A mistake was made in the order you submitted to us'?
           option:
             - To emphasize what is important is the object of action, or action itself
             - To avoid blaming the person who took the action
@@ -1263,11 +1263,11 @@ passive:
             - Because the person who took the action is unknown
             - Because it's not important who took the action
           answer: To emphasize what is important is the object of action, or action itself
-        - question: Why is passive used in 'I have been made to feel unwelcome by that group of people'?
+        - question: Why is passive used in 'I have been made to feel unwelcome in that group of people'?
           option:
             - To emphasize what is important is the object of action, or action itself
             - To be more diplomatic (make reader feel less bad)
-            - Because the person who took the action is unknown
+            - Because the persons who took the action are unknown
             - Because it's not important who took the action
           answer: To be more diplomatic (make reader feel less bad)
         
