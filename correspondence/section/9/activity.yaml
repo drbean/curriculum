@@ -1,0 +1,213 @@
+---
+
+# goodwill
+
+-
+  -
+    topic : goodwill
+    story : definition
+    type  : jigsaw
+    form  : 0
+    intro : 
+    random: 
+  -
+    topic : goodwill
+    story : critique
+    type  : jigsaw
+    form  : 1
+    intro : 
+    random: 
+  -
+    topic : goodwill
+    story : critique
+    type  : jigsaw
+    form  : 2
+    intro : 
+    random: 
+  -
+    topic : goodwill
+    story : critique
+    type  : jigsaw
+    form  : 3
+    intro : 
+    random: 
+  
+  -
+    topic : goodwill
+    story : drbean
+    type  : description
+    form  : 0
+    intro : 
+    random: 
+  -
+    topic : goodwill
+    story : drbean
+    type  : drag
+    form  : 0
+    intro : 
+    random: 
+  -
+    topic : goodwill
+    story : drbean
+    type  : jigsaw
+    form  : 0
+    intro : 
+    random: 
+  -
+    topic : goodwill
+    story : drbean
+    type  : jigsaw
+    form  : 1
+    intro : 
+    random: 
+  -
+    topic : goodwill
+    story : thank
+    type  : essay
+    form  : 0
+    intro : 
+    random: 
+  
+
+# invitation
+
+  -
+    topic : invitation
+    story : response
+    type  : jigsaw
+    form  : 1
+    intro : 
+    random: 
+  -
+    topic : invitation
+    story : smokers
+    type  : jigsaw
+    form  : close_reading
+    intro : 
+    random: 
+  -
+    topic : invitation
+    story : smokers
+    type  : jigsaw
+    form  : tone
+    intro : 
+    random: 
+ 
+# news_good
+
+  -
+    topic : news_good
+    story : goodwill
+    type  : jigsaw
+    form  : 2
+    intro : 
+    random: 
+  -
+    topic : news_good
+    story : transfer
+    type  : jigsaw
+    form  : 2
+    intro : 
+    random: 
+    #-
+    #  topic : news_good
+    #  story : scam
+    #  type  : essay
+    #  form  : 0
+    #  intro : 
+    #  random: 
+  -
+    topic : news_good
+    story : raise
+    type  : description
+    form  : 0
+    intro : 
+    random: 
+  -
+    topic : news_good
+    story : raise
+    type  : drag
+    form  : 0
+    intro : 
+    random: 
+  -
+    topic : news_good
+    story : raise
+    type  : match
+    form  : 0
+    intro : 
+    random: 
+  -
+    topic : news_good
+    story : raise
+    type  : jigsaw
+    form  : 0
+    intro : 
+    random: 
+  -
+    topic : news_good
+    story : student
+    type  : jigsaw
+    form  : transfer_exam
+    intro : 
+    random: 
+  -
+    topic : news_good
+    story : classwork
+    type  : essay
+    form  : 0
+    intro : 
+    random: 
+  -
+    topic : news_good
+    story : classwork
+    type  : jigsaw
+    form  : 0
+    intro : 
+    random: 
+
+# tone
+
+  -
+    topic : tone
+    story : confidence
+    type  : jigsaw
+    form  : confidence_level
+    intro : 
+    random: 
+  -
+    topic : tone
+    story : courteous
+    type  : description
+    form  : 0
+    intro : 
+    random: 
+  -
+    topic : tone
+    story : courteous
+    type  : jigsaw
+    form  : smartphone
+    intro : 
+    random: 
+  -
+    topic : tone
+    story : passive
+    type  : description
+    form  : 0
+    intro : 
+    random: 
+  -
+    topic : tone
+    story : passive
+    type  : jigsaw
+    form  : 9
+    intro : 
+    random: 
+  -
+    topic : tone
+    story : passive
+    type  : jigsaw
+    form  : use_again
+    intro : 
+    random: 
+  
