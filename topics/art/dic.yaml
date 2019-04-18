@@ -457,6 +457,16 @@
     G: He is very smart, but that’s too difficult.
   - End
 -
+  - "art-1"
+  - "art-1"
+  - "topics"
+  - "all"
+  - |+
+    Greg is making a picture. He uses crayons. He draws circles. But, Greg pushes down too hard, and his crayons break.
+    So, he starts to use markers. But, they don't work. So, he uses paint. He uses too much. It drips from his paintbrush.
+    He makes a nice picture, but now the table is very messy.
+  - Greg is making|He uses|He draws|But, Greg|down too|and his crayons|So, he starts to use|But, they don't|So, he uses|He uses too much. It|from his|He makes a|but now the|is very|End
+-
   - "art-2"
   - "art-2"
   - "topics"
