@@ -628,12 +628,12 @@ syntax:
             -
               error: ^(?!Some money.*)
               feedback: Use the words, "Some money"
-              -
-                error: ^(?!.*was given.*)
-                feedback: Use the words, "was given"
-              -
-                error: ^(?!.*to her\.$)
-                feedback: Use the words, "to her."
+            -
+              error: ^(?!.*was given.*)
+              feedback: Use the words, "was given"
+            -
+              error: ^(?!.*to her\.$)
+              feedback: Use the words, "to her."
         - question: NUU awarded her a scholarship for her final year. Answer: She ..
           answer:
             - She was awarded a scholarship for her final year.
@@ -739,11 +739,12 @@ syntax:
           option:
             - are ridden
           answer: are ridden
+heading:
   description:
     0:
       identifier: for book-modeled passives
       questiontext: The next questions are modeled on the passive questions on p83. In most questions, there is only one (1) right answer. Make sure you don't leave extra spaces in your answer. don't include the 'by [actor]' phrase, eg, 'by her', 'by someone'. Include other 'by' phrases, eg 'by the deadline', 
-    
+scramble:
   drag:
     0:
       identifier: practice variants
