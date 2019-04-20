@@ -1,7 +1,7 @@
 ---
-passive:
+use:
   jigsaw:
-    use:
+    0:
       identifier: use of passive
       quiz:
         - question: "Why is passive used in 'Smoking is not allowed in this building.'?"
@@ -84,7 +84,7 @@ passive:
             - Because the person who took the action is unknown
             - Because it's not important who took the action
           answer: Because it's not important who took the action
-    use_again:
+    1:
       identifier: use_of_passive_for_test
       quiz:
         - question: Why is passive used in 'A mistake was made in the order you submitted to us'?
@@ -125,8 +125,7 @@ passive:
             - Because the persons who took the action are unknown
             - Because it's not important who took the action
           answer: To be more diplomatic (make reader feel less bad)
-        
-
+active:
     0:
       identifier: not/passive
       quiz:
@@ -179,6 +178,7 @@ passive:
             - active
             - neither active nor passive
           answer: passive
+syntax:
     practice:
       identifier: passive
       quiz:
