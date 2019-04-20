@@ -179,6 +179,98 @@ passive:
             - active
             - neither active nor passive
           answer: passive
+    practice:
+      identifier: passive
+      quiz:
+        - question: She/People expect(s) her boss to offer her a promotion. (Her boss ..)
+          answer:
+            - Her boss is expected to offer her a promotion.
+          incorrect:
+            -
+              error: ^(?!.*is expected to offer her.*)
+              feedback: Use the words, "is expected to offer her"
+        - question: She/People expect(s) her boss to offer her a promotion. (She is ..)
+          answer:
+            - She is expected to be offered a promotion.
+            - She is expected to be offered a promotion by her boss\.
+          incorrect:
+            -
+              error: ^(?!.*{is expected to be offered}.*)
+              feedback: Use the words, "is expected to be offered"
+        - question: Terry gave her a ride to work.
+          answer:
+            - She was given a ride to work.
+            - She was given a ride to work by Terry\.
+          incorrect:
+            -
+              error: ^(?!.*was given a ride.*)
+              feedback: Use the words, "was given a"
+        - question: They awarded him a prize for his competition entry.
+          answer:
+           -     He was awarded a prize for his competition entry.
+          incorrect:
+            -
+              error: ^(?!.*was awarded a.*)
+              feedback: Use the words, "was awarded a"
+        - question: Will they play the tennis match?
+          answer:
+            - Will the tennis match be played?
+            - Will the tennis match be played by them\?
+          incorrect:
+            -
+              error: ^(?!Will the.*)
+              feedback: Use the words, "Will the"
+            -
+              error: ^(?!.*be played.*)
+              feedback: Use the words, "be played"
+        - question: Jean hadn't cleaned the house by the time her husband arrived.
+          answer:
+            - The house hadn't been cleaned by the time Jean's husband arrived.
+          incorrect:
+            -
+              error: ^(?!.*{The house hadn't}.*)
+              feedback: Use the words, "The house hadn't"
+            -
+              error: ^(?!.*{hadn't been cleaned}.*)
+              feedback: Use the words, "hadn't been cleaned"
+            -
+              error: ^(?!.*Jean's husband.*)
+              feedback: Use the words, "Jean's husband"
+        - question: Everyone considers her to be the best student in the class.
+          answer:
+            - She is considered to be the best student in the class.
+            - She is considered by everyone to be the best student in the class\.
+            - She is considered to be the best student in the class by everyone\.
+          incorrect:
+            -
+              error: ^(?!.*She is considered.*)
+              feedback: Use the words, "She is considered"
+        - question: Frank doesn't like people telling him what to do. (Use "being told")
+          answer:
+            - Frank doesn't like being told what to do.
+            - Frank doesn't like being told by people what to do\.
+            - Frank doesn't like being told what to do by people\.
+          incorrect:
+            -
+              error: ^(?!.*Frank doesn't like.*)
+              feedback: Use the words, "Frank doesn't like"
+            -
+              error: ^(?!.*being told.*)
+              feedback: Use the words, "being told"
+            -
+              error: ^(?!.*what to do\.$)
+              feedback: Use the words, "what to do."
+        - question: Frank doesn't like people telling him what to do. (Use "aren't liked")
+          answer:
+            - People who tell Frank what to do aren't liked.
+            - People who tell Frank what to do aren't liked by him\.
+          incorrect:
+            -
+              error: ^(?!.*People who tell Frank what to do.*)
+              feedback: Use the words, "People who tell Frank what to do"
+            -
+              error: ^(?!.*aren't liked.*)
+              feedback: Use the words, "aren't liked"
     1:
       identifier: missing word, expect, in 1
       quiz:
@@ -620,98 +712,6 @@ passive:
             -
               error: ^(?!.*what to do\.$)
               feedback: Use the words, "what to do."
-    practice:
-      identifier: passive
-      quiz:
-        - question: She/People expect(s) her boss to offer her a promotion. (Her boss ..)
-          answer:
-            - Her boss is expected to offer her a promotion.
-          incorrect:
-            -
-              error: ^(?!.*is expected to offer her.*)
-              feedback: Use the words, "is expected to offer her"
-        - question: She/People expect(s) her boss to offer her a promotion. (She is ..)
-          answer:
-            - She is expected to be offered a promotion.
-            - She is expected to be offered a promotion by her boss\.
-          incorrect:
-            -
-              error: ^(?!.*{is expected to be offered}.*)
-              feedback: Use the words, "is expected to be offered"
-        - question: Terry gave her a ride to work.
-          answer:
-            - She was given a ride to work.
-            - She was given a ride to work by Terry\.
-          incorrect:
-            -
-              error: ^(?!.*was given a ride.*)
-              feedback: Use the words, "was given a"
-        - question: They awarded him a prize for his competition entry.
-          answer:
-           -     He was awarded a prize for his competition entry.
-          incorrect:
-            -
-              error: ^(?!.*was awarded a.*)
-              feedback: Use the words, "was awarded a"
-        - question: Will they play the tennis match?
-          answer:
-            - Will the tennis match be played?
-            - Will the tennis match be played by them\?
-          incorrect:
-            -
-              error: ^(?!Will the.*)
-              feedback: Use the words, "Will the"
-            -
-              error: ^(?!.*be played.*)
-              feedback: Use the words, "be played"
-        - question: Jean hadn't cleaned the house by the time her husband arrived.
-          answer:
-            - The house hadn't been cleaned by the time Jean's husband arrived.
-          incorrect:
-            -
-              error: ^(?!.*{The house hadn't}.*)
-              feedback: Use the words, "The house hadn't"
-            -
-              error: ^(?!.*{hadn't been cleaned}.*)
-              feedback: Use the words, "hadn't been cleaned"
-            -
-              error: ^(?!.*Jean's husband.*)
-              feedback: Use the words, "Jean's husband"
-        - question: Everyone considers her to be the best student in the class.
-          answer:
-            - She is considered to be the best student in the class.
-            - She is considered by everyone to be the best student in the class\.
-            - She is considered to be the best student in the class by everyone\.
-          incorrect:
-            -
-              error: ^(?!.*She is considered.*)
-              feedback: Use the words, "She is considered"
-        - question: Frank doesn't like people telling him what to do. (Use "being told")
-          answer:
-            - Frank doesn't like being told what to do.
-            - Frank doesn't like being told by people what to do\.
-            - Frank doesn't like being told what to do by people\.
-          incorrect:
-            -
-              error: ^(?!.*Frank doesn't like.*)
-              feedback: Use the words, "Frank doesn't like"
-            -
-              error: ^(?!.*being told.*)
-              feedback: Use the words, "being told"
-            -
-              error: ^(?!.*what to do\.$)
-              feedback: Use the words, "what to do."
-        - question: Frank doesn't like people telling him what to do. (Use "aren't liked")
-          answer:
-            - People who tell Frank what to do aren't liked.
-            - People who tell Frank what to do aren't liked by him\.
-          incorrect:
-            -
-              error: ^(?!.*People who tell Frank what to do.*)
-              feedback: Use the words, "People who tell Frank what to do"
-            -
-              error: ^(?!.*aren't liked.*)
-              feedback: Use the words, "aren't liked"
     11:
       identifier: fire
       quiz:
