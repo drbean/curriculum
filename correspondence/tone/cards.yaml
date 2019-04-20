@@ -870,6 +870,11 @@ courteous:
             - passive and not sincere
           answer: passive and not sincere
 chinese:
+  description:
+    0:
+      identifier: reason for SafeExamBrowser use in exams
+      questiontext: Before I started to use SafeExamBrowser, students were using the translation capabilities of Chrome to answer questions. Look at 3. (1) p81 to answer the next questions.
+    
   jigsaw:
     0:
       identifier: sentence
