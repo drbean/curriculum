@@ -1618,6 +1618,7 @@ passive:
         - question: The students hadn't done the homework by the time the deadline came.
           answer:
             - The homework hadn't been done by the time the deadline came.
+            - The homework had not been done by the time the deadline came\.
               #- question: "No-one believes Trump to tell the truth. Answer: Trump isn't .."
               #  answer:
               #    - Trump isn't believed to tell the truth.
@@ -1630,13 +1631,140 @@ passive:
         - question: "The teacher doesn't like students asking him questions. Answer: Students who ask the teacher questions .."
           answer:
             - Students asking the teacher questions aren't liked.
+            - Students asking the teacher questions are not liked\.
             - Students asking the teacher questions aren't liked by the teacher\.
+            - Students asking the teacher questions are not liked by the teacher\.
             - Students who ask the teacher questions aren't liked\.
+            - Students who ask the teacher questions are not liked\.
             - Students who ask the teacher questions aren't liked by the teacher\.
+            - Students who ask the teacher questions are not liked by the teacher\.
         - question: "The teacher doesn't like students asking him questions. Answer: The teacher doesn't like .."
           answer:
             - The teacher doesn't like being asked questions.
-            - The teacher doesn't like being asked questions by students.
+            - The teacher does not like being asked questions\.
+            - The teacher doesn't like being asked questions by students\.
+            - The teacher does not like being asked questions by students\.
+    10:
+      identifier: passives based on book again
+      quiz:
+        - question: England expects every man to do his duty.
+          answer:
+            - Every man is expected to do his duty.
+          incorrect:
+            -
+              error: ^(?!Every man.*)
+              feedback: Use the words, "Every man"
+            -
+              error: ^(?!.*is expected.*)
+              feedback: Use the words, "is expected"
+            -
+              error: ^(?!.*to do his duty\.$)
+              feedback: Use the words, "to do his duty."
+        - question: "Someone gave her some money. Answer: She .."
+          answer:
+            - She was given some money.
+          incorrect:
+            -
+              error: ^(?!She.*)
+              feedback: Use the words, "She"
+            -
+              error: ^(?!.*was given.*)
+              feedback: Use the words, "was given"
+            -
+              error: ^(?!.*some money\.$)
+              feedback: Use the words, "some money."
+        - question: "Someone gave her some money. Answer: Some money .."
+          answer:
+            - Some money was given to her.
+            - Some money was given her\.
+          incorrect:
+            -
+              error: ^(?!Some money.*)
+              feedback: Use the words, "Some money"
+              -
+                error: ^(?!.*was given.*)
+                feedback: Use the words, "was given"
+              -
+                error: ^(?!.*to her\.$)
+                feedback: Use the words, "to her."
+        - question: NUU awarded her a scholarship for her final year. Answer: She ..
+          answer:
+            - She was awarded a scholarship for her final year.
+            - She was awarded a scholarship\.
+          incorrect:
+            -
+              error: ^(?!She.*)
+              feedback: Use the words, "She"
+            -
+              error: ^(?!.*was awarded.*)
+              feedback: Use the words, "was awarded"
+            -
+              error: ^(?!.*a scholarship.*)
+              feedback: Use the words, "a scholarship"
+            -
+              error: ^(?!.*for her final year\.$)
+              feedback: Use the words, "for her final year."
+        - question: Will they play a video game?
+          answer:
+            - Will a video game be played?
+          incorrect:
+            -
+              error: ^(?!Will.*)
+              feedback: Use the words, "Will"
+            -
+              error: ^(?!.*a video game.*)
+              feedback: Use the words, "a video game"
+            -
+              error: ^(?!.*be played\?$)
+              feedback: Use the words, "be played?"
+        - question: The students hadn't cleaned the classroom by the time the teacher arrived.
+          answer:
+            - The classroom hadn't been cleaned by the time the teacher arrived.
+          incorrect:
+            -
+              error: ^(?!The classroom.*)
+              feedback: Use the words, "The classroom"
+            -
+              error: ^(?!.*hadn't been cleaned.*)
+              feedback: Use the words, "hadn't been cleaned"
+            -
+              error: ^(?!.*by the time.*)
+              feedback: Use the words, "by the time"
+            -
+              error: ^(?!.*the teacher arrived\.$)
+              feedback: Use the words, "the teacher arrived."
+        - question: Everyone considers her to be a wonderful person.
+          answer:
+            - She is considered to be a wonderful person.       
+          incorrect:
+            -
+              error: ^(?!She.*)
+              feedback: Use the words, "She"
+            -
+              error: ^(?!.*is considered.*)
+              feedback: Use the words, "is considered"
+            -
+              error: ^(?!.*to be.*)
+              feedback: Use the words, "to be"
+            -
+              error: ^(?!.*a wonderful person\.$)
+              feedback: Use the words, "a wonderful person."
+        - question: "No-one likes people telling them what to do. Answer: No one likes .."
+          answer:
+            - No-one likes being told what to do.
+          incorrect:
+            -
+              error: ^(?!No-one.*)
+              feedback: Use the words, "No-one"
+            -
+              error: ^(?!.*likes.*)
+              feedback: Use the words, "likes"
+            -
+              error: ^(?!.*being told.*)
+              feedback: Use the words, "being told"
+            -
+              error: ^(?!.*what to do\.$)
+              feedback: Use the words, "what to do."
     practice:
       identifier: passive
       quiz:
