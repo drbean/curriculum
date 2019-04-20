@@ -1,0 +1,158 @@
+--
+tone:
+  jigsaw:
+    hurt:
+      identifier: creating negative feelings
+      quiz:
+        - question: Which statement creates less positive feeling?
+          option:
+            - Why do you dress differently?
+            - Why do you look like a frog?
+          answer: Why do you look like a frog?
+        - question: Which statement creates less positive feeling?
+          option:
+            - Why are you always so slow getting ready for school?
+            - Hurry up!
+          answer: Why are you always so slow getting ready for school?
+        - question: Which statement creates MORE positive feeling?
+          option:
+            - These dishes you cooked are unpalatable and look disgusting.
+            - You should practice cooking more, and you will cook more delicious dishes than you cook now.
+          answer: You should practice cooking more, and you will cook more delicious dishes than you cook now.
+        - question: Which statement creates less positive feeling?
+          option:
+            - It’s none of your business.
+            - Don’t worry, I will take care of it, but thank you, anyway.
+          answer: It’s none of your business.
+        - question: Which statement creates less positive feeling?
+          option:
+            - Don't throw rubbish on the floor.
+            - Please put the trash in the trash can.
+          answer: Don't throw rubbish on the floor.
+        - question: Which statement creates less positive feeling?
+          option:
+            - Can you do your homework?
+            - Could you please do your homework?
+          answer: Can you do your homework?
+        - question: Which statement creates less positive feeling?
+          option:
+            - Don't be impolite next time.
+            - Will you apologize for your impoliteness?
+          answer: Will you apologize for your impoliteness?
+        - question: Which statement creates less positive feeling?
+          option:
+            - Too bad I don't have time to go to your party.
+            - I'm not going to go to your party.
+          answer: I'm not going to go to your party.
+        - question: Which statement creates less positive feeling?
+          option:
+            - You can do better.
+            - You disappoint me.
+          answer: You disappoint me.
+        - question: Which statement creates less positive feeling?
+          option:
+            - (Girl in bedroom to sister) Go out and close the door.
+            - (Girl in bedroom to sister) Please close the door when you leave. Thanks.
+          answer: (Girl in bedroom to sister) Go out and close the door.
+        - question: Which statement creates less positive feeling?
+          option:
+            - Do you speak English?
+            - Can you speak English?
+          answer: Can you speak English?
+        - question: Which statement creates less positive feeling?
+          option:
+            - I am very pleased to that you are inviting me to the party, but I have to work that day.
+            - Although you are inviting me to the party, I can't go because I have no time.
+          answer: Although you are inviting me to the party, I can't go because I have no time.
+    hurt_again:
+      identifier: creating negative feelings again
+      quiz:
+        - question: Which statement creates less positive feeling?
+          option:
+            - May I ask who's calling?
+            - Who are you?
+          answer: Who are you?
+        - question: Which statement creates less positive feeling?
+          option:
+            - You shouldn't leave your stuff here.
+            - Let's not leave our stuff here.
+          answer: You shouldn’t leave your stuff here.
+    passive:
+      identifier: student examples of use of passive in tone
+      quiz:
+        - question: "'Excuse me, i want to order an chocolate icecream plaese. '<p> Is more diplomatic (make reader feel less bad)"
+          option:
+            - good example
+            - bad example
+          answer: bad example
+        - question: "'Please be quiet in the museum.' <p> Emphasizes what is important is the object of action, or action itself"
+          option:
+            - good example
+            - bad example
+          answer: bad example
+        - question: Oil was discovered off Ghana in the 1970s. <p> The person who took the action is unknown
+          option:
+            - good example
+            - bad example
+          answer: bad example
+        - question: "A: 'The cookies are to be eaten. '<p>Emphasizes both the cookies and eating are important and who eats them isn't important."
+          option:
+            - good example
+            - bad example
+          answer: good example
+        - question: The bag was sold out in the store.<p> Emphasizes what is important is the action and the object of the action and not the seller of the bags.
+          option:
+            - good example
+            - bad example
+          answer: good example
+        - question: Under-15-year-olds can’t go to work <p> Emphasizes what is important is the object of action, or action itself
+          option:
+            - good example
+            - bad example
+          answer: bad example
+        - question: "'The diamond has been stolen' <p>The person who took the action is unknown"
+          option:
+            - good example
+            - bad example
+          answer: good example
+        - question: "'The law must be observed by the people' <p>Emphasizes what is important is the object of action, or action itself"
+          option:
+            - good example
+            - bad example
+          answer: good example
+        - question: An apple was eaten by the kids. <p> The person who took the action is unknown.
+          option:
+            - good example
+            - bad example
+          answer: bad example
+        - question: The whole chocolate cake was eaten by Mary. <p> Emphasizes what is important is the object of action, or action itself
+          option:
+            - good example
+            - bad example
+          answer: good example
+        - question: "'The book was translated into many languages.' <p>It's not important who took the action."
+          option:
+            - good example
+            - bad example
+          answer: good example
+        - question: "'Is the Chinese New Year in February this year?' <p>It's not important who took the action."
+          option:
+            - good example
+            - bad example
+          answer: bad example
+        - question: "'Over 120 different contaminants have been dumped into the river.' <p> The person who took the action is unknown"
+          option:
+            - good example
+            - bad example
+          answer: good example
+        - question: The glass window was broken by the earthquake. <p> It's not important who took the action
+          option:
+            - good example
+            - bad example
+          answer: bad example
+        - question: The factory was closed due to a lack of orders. <p> This sentence is not important who took the action.
+          option:
+            - good example
+            - bad example
+          answer: good example
+
