@@ -712,7 +712,7 @@ passive:
             -
               error: ^(?!.*aren't liked.*)
               feedback: Use the words, "aren't liked"
-    10:
+    11:
       identifier: fire
       quiz:
         - question: |+
