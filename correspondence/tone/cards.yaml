@@ -691,6 +691,77 @@ smoking:
             - 1st
             - 2nd
           answer: 1st
+makeup:
+  jigsaw:
+    0:
+      identifier: sincerity of Dr Bean with good news message
+      quiz:
+        - question: Were students able to do the classwork outside class before Week 8?
+          option:
+            - Yes
+            - No
+          answer: Yes
+        - question: Did Dr Bean want to allow the student to do the classwork outside class like she could have before Week 8?
+          option:
+            - Yes
+            - No
+          answer: No
+        - question: Have students been able to do work they missed in previous weeks by catching up in class?
+          option:
+            - Yes
+            - No
+          answer: Yes
+        - question: When Dr Bean tells the student that she can come to the computer lab and do the classwork there, he really means--
+          option:
+            - she must be in class to do classwork, not outside class.
+            - she can catch up on classwork she missed later in the semester, while in class.
+          answer: she must be in class to do classwork, not outside class.
+        - question: When Dr Bean tells the student that she can come to the computer lab and do the classwork there, he means--
+          option:
+            - he will not allow her to do what she was able to do before, do classwork outside class.
+            - he means she can catch up on classwork she missed later in the semester, while in class.
+          answer: he will not allow her to do what she was able to do before, do classwork outside class.
+        - question: Is Dr Bean's message to the student who wants to make up classwork missed really a good news message?
+          option:
+            - It depends on the attitude of Dr Bean.
+            - It depends on the attitude of the student.
+          answer: It depends on the attitude of the student.
+        - question: What would be the ideal solution for the student to the problem?
+          option:
+            - Doing it at home
+            - Doing it in class
+          answer: Doing it at home
+        - question: Why was doing the classwork on Friday afternoon not the ideal solution for the student?
+          option:
+            - She wanted to hear what Dr Bean had to say about tone in the class.
+            - She had to fit the time requirement into her plans ahead of the weekend before the midterm exam.
+          answer: She had to fit the time requirement into her plans ahead of the weekend before the midterm exam.
+        - question: What did the student originally try to do to make up classwork?
+          option:
+            - Contact Dr Bean
+            - Try to do it outside class
+          answer: Try to do it outside class
+        - question: How did the student feel when they couldn't do it on their own computer?
+          option:
+            - annoyed
+            - happy
+          answer: annoyed
+        - question: Was Dr Bean being sincere when claiming his reply to be a good news message?
+          option:
+            - Yes
+            - No
+          answer: No
+        - question: Why did Dr Bean claim his message was a good news message?
+          option:
+            - Because he wanted to make the student feel happy about being required to come to the computer lab.
+            - Because he used the format of i) the good news, ii) details, iii) positive close.
+          answer: Because he wanted to make the student feel happy about being required to come to the computer lab.
+        
+        
+        
+        
+        
+
 courteous:
   description:
     0:
