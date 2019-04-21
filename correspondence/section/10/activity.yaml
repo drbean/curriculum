@@ -2,6 +2,45 @@
 -
   -
     topic : passive
+    story : syntax
+    type  : jigsaw
+    form  : 10
+    intro : 
+    random: 
+-
+  -
+    topic : tone
+    story : smoking
+    type  : jigsaw
+    form  : 0
+    intro : 
+    random: 
+-
+  -
+    topic : tone
+    story : chinese
+    type  : description
+    form  : 0
+    intro : 
+    random: 
+  -
+    topic : tone
+    story : chinese
+    type  : jigsaw
+    form  : 0
+    intro : 
+    random: 
+  -
+    topic : tone
+    story : chinese
+    type  : jigsaw
+    form  : 1
+    intro : 
+    random: 
+  
+-
+  -
+    topic : passive
     story : active
     type  : jigsaw
     form  : 0
@@ -111,5 +150,3 @@
     form  : 0
     intro : 
     random: 
-    
-  
