@@ -41,14 +41,6 @@
 -
   -
     topic : passive
-    story : active
-    type  : jigsaw
-    form  : 0
-    intro : 
-    random: 
--
-  -
-    topic : passive
     story : syntax
     type  : jigsaw
     form  : 1
