@@ -2,41 +2,114 @@
 -
   -
     topic : passive
+    story : active
+    type  : jigsaw
+    form  : 0
+    intro : 
+    random: 
+-
+  -
+    topic : passive
     story : syntax
-    type  : jigsaw
-    form  : 10
-    intro : 
-    random: 
--
-  -
-    topic : tone
-    story : smoking
-    type  : jigsaw
-    form  : 0
-    intro : 
-    random: 
--
-  -
-    topic : tone
-    story : chinese
-    type  : description
-    form  : 0
-    intro : 
-    random: 
-  -
-    topic : tone
-    story : chinese
-    type  : jigsaw
-    form  : 0
-    intro : 
-    random: 
-  -
-    topic : tone
-    story : chinese
     type  : jigsaw
     form  : 1
     intro : 
+    random: 5
+-
+  -
+    topic : tone
+    story : 2_emails
+    type  : jigsaw
+    form  : order
+    intro : 
     random: 
-  
-  
+-
+  -
+    topic : tone
+    story : word
+    type  : jigsaw
+    form  : 0
+    intro : 
+    random: 
+-
+  -
+    topic : tone
+    story : repeat
+    type  : jigsaw
+    form  : 0
+    intro : 
+    random: 4
+-
+  -
+    topic : tone
+    story : trump
+    type  : jigsaw
+    form  : 0
+    intro : 
+    random: 
+-
+  -
+    topic : tone
+    story : discrimination
+    type  : jigsaw
+    form  : 0
+    intro : 
+    random: 
+-
+  -
+    topic : tone
+    story : criticism
+    type  : jigsaw
+    form  : 0
+    intro : 
+    random: 
+-
+  -
+    topic : tone
+    story : positive
+    type  : jigsaw
+    form  : 0
+    intro : 
+    random: 
+-
+  -
+    topic : tone
+    story : conditional
+    type  : jigsaw
+    form  : want
+    intro : 
+    random: 
+-
+  -
+    topic : tone
+    story : conditional
+    type  : jigsaw
+    form  : type
+    intro : 
+    random: 
+-
+  -
+    topic : tone
+    story : conditional
+    type  : drag
+    form  : 0
+    intro : 
+    random: 
+-
+  -
+    topic : tone
+    story : euphemism
+    type  : jigsaw
+    form  : 0
+    intro : 
+    random: 
+-
+  -
+    topic : confrontational
+    story : confrontational
+    type  : drag
+    form  : 0
+    intro : 
+    random: 
+    
   
