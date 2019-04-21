@@ -1,5 +1,5 @@
 --
-tone:
+courteous:
   jigsaw:
     hurt:
       identifier: creating negative feelings
@@ -77,7 +77,8 @@ tone:
             - You shouldn't leave your stuff here.
             - Let's not leave our stuff here.
           answer: You shouldn’t leave your stuff here.
-    passive:
+passive:
+    0:
       identifier: student examples of use of passive in tone
       quiz:
         - question: "'Excuse me, i want to order an chocolate icecream plaese. '<p> Is more diplomatic (make reader feel less bad)"
@@ -155,4 +156,63 @@ tone:
             - good example
             - bad example
           answer: good example
+sincere:
+  jigsaw:
+    0:
+      identifier: sincere thanks for book token
+      quiz:
+        - question: "Does Dr Bean think this is sincere:<p> Thank you for the $500 book token.<p> Nuu is a good university and teachers are good.<p> Thanks you, once again, for the book token."
+          option:
+            - Yes
+            - No
+          answer: Yes
+        - question: "Does Dr Bean think this is sincere:<p>Thank you for giving me a book token worth NT$500.  <p>I have had wonderful life at NUU.  <p>Thanks, again."
+          option:
+            - Yes
+            - No
+          answer: Yes
+        - question: "Does Dr Bean think this is sincere:<p>Thank you for the book that you send for me, I've already received yesterday.<p>I'm feel very lucky to study in NUU. In NUU , I have learn a lot and meet many great friend. There also have many friendly and great teacher to teach me. If don't have them , I will never be now of me.<p>Thank you again, have a nice day."
+          option:
+            - Yes
+            - No
+          answer: No
+        - question: "Does Dr Bean think this is sincere:<p>Thanks NUU gives me a book token worth NT$500. <p>NUU is a nice place to study.  I spent so much time enjoy my life in NUU.  <p>Thanks, onces again."
+          option:
+            - Yes
+            - No
+          answer: No
+        - question: "Does Dr Bean think this is sincere:<p>Thanks everything happened in NUU for these four years. <p>And I'm lucky that everyone I met are friendly.  In these four years, I study hard also play hard. I have many cherish memories in my university life.  <p>Thanks NUU agian, It was really made my life more wonderful."
+          option:
+            - Yes
+            - No
+          answer: Yes
+        - question: "Does Dr Bean think this is sincere:<p>Thank you for the book Token worth NT$500. I feel happy when receive the book and feel interest withe the book too.  <p>Time pass so fast, I remember the time when I register for year 1, I still like a kids. But now, I'm a graduate student, I have a lots of unforgetable memories in school.  <p>Thanks you, once again, for the book. I'm apperciate the moments in school."
+          option:
+            - Yes
+            - No
+          answer: No
+        - question: "Does Dr Bean think this is sincere:<p>I am happy to study in NUU. Teacher in the NUU are perfect and nice.  Let me learn a lot of knowledge and have a lot of friends.  <p>So I am thank to school to give me this chance to get the Token."
+          option:
+            - Yes
+            - No
+          answer: Yes
+        - question: "Does Dr Bean think this is sincere:<p>Thank you for giving me the book worth. It really help me a lot.  <p>Before i was a top student, i study without experience by my own, NUU is the place i solve my question and problem.  <p>Thank you once again, for your time."
+          option:
+            - Yes
+            - No
+          answer: Yes
+        - question: "Does Dr Bean think this is sincere:<p>Thank for the book token, I am glad to accept this gift. <p>I want to thank my profession to teach our knowledge and some special in the class.  In the school, I can get lots of experience from the techers and students. I joined some special club and also faced some difficult proplem. I am thank for our school to give me many chance to do some differience.  <p>Finally I want to thank this NUU, it is great place to make strong and smart."
+          option:
+            - Yes
+            - No
+          answer: No
+        - question: "Does Dr Bean think this is sincere:<p>Thank you for giving me a book token worth NT$500. It's a good life in NUU.    <p>In the first time to be NUU, it has great enviroment for study and kind students and teachers.    <p>Thanks, once again."
+          option:
+            - Yes
+            - No
+          answer: No
 
+
+
+
+        
