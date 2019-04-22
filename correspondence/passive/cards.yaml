@@ -700,6 +700,7 @@ syntax:
         - question: "No-one likes people telling them what to do. Answer: No one likes .."
           answer:
             - No-one likes being told what to do.
+            - No-one likes to be told what to do\.
           incorrect:
             -
               error: ^(?!No-one.*)
