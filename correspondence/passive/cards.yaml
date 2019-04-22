@@ -179,6 +179,7 @@ active:
             - neither active nor passive
           answer: passive
 syntax:
+  jigsaw:
     practice:
       identifier: passive
       quiz:
@@ -634,7 +635,7 @@ syntax:
             -
               error: ^(?!.*to her\.$)
               feedback: Use the words, "to her."
-        - question: NUU awarded her a scholarship for her final year. Answer: She ..
+        - question: "NUU awarded her a scholarship for her final year. Answer: She .."
           answer:
             - She was awarded a scholarship for her final year.
             - She was awarded a scholarship\.
@@ -813,7 +814,6 @@ earthquake:
               feedback: Use the words, "was hit by"
 
         - question: The Weiguan building / demolish
-          option:
           answer:
             - The Weiguan building was demolished.
           incorrect:
@@ -844,11 +844,9 @@ earthquake:
               feedback: Use the words, "has already been sent"
 
     2:
-      identifier: earthquake: passive to active
+      identifier: "earthquake: passive to active"
       quiz:
         - question: Tainan was hit by a big earthquake during the night.
-          option:
-            - 
           answer:
             - A big earthquake hit Tainan during the night.
           incorrect:
@@ -865,8 +863,6 @@ earthquake:
               error: ^(?!.*during the night\.$)
               feedback: Use the words, "during the night."
         - question: The Weiguan building was demolished by the earthquake.
-          option:
-            - 
           answer:
             - The earthquake demolished the Weiguan building.
           incorrect:
@@ -880,8 +876,6 @@ earthquake:
               error: ^(?!.*the Weiguan building\\.$)
               feedback: Use the words, "the Weiguan building."
         - question: 114 people were buried in the ruins by the earthquake.
-          option:
-            - 
           answer:
             - The earthquake buried 114 people in the ruins.
           incorrect:
@@ -897,11 +891,9 @@ earthquake:
             -
               error: ^(?!.*in the ruins\.$)
               feedback: Use the words, "in the ruins."
-       - question: Help has already been sent by International Search and Rescue Corps.
-         option:
-           - 
-         answer:
-           - International Search and Rescue Corps have already sent help.
+        - question: Help has already been sent by International Search and Rescue Corps.
+          answer:
+            - International Search and Rescue Corps have already sent help.
           incorrect:
             -
               error: ^(?!International Search and Rescue Corps.*)
@@ -912,7 +904,6 @@ earthquake:
             -
               error: ^(?!.*sent help\.$)
               feedback: Use the words, "sent help."
-            
 olympics:
   jigsaw:
     0:
@@ -947,10 +938,8 @@ olympics:
       identifier: olympics passive to active
       quiz:
         - question: Another gold medal has been won by Taiwanese athlete, Sue-Ching Lin.
-          option:
-            - 
           answer:
-            Taiwanese athlete, Sue-Ching Lin has won another gold medal
+            - Taiwanese athlete, Sue-Ching Lin has won another gold medal
           incorrect:
             -
               error: ^(?!Taiwanese athlete, Sue-Ching Lin.*)
@@ -962,8 +951,6 @@ olympics:
               error: ^(?!.*another gold medal\.$)
               feedback: Use the words, "another gold medal."
         - question: She was awarded the medal by the judges for breaking the weight-lifting world record.
-          option:
-            - 
           answer:
             - The judges awarded her the medal for breaking the weight-lifting world record.
           incorrect:
@@ -1021,3 +1008,52 @@ queen:
             -
               error: ^(?!.*will be given.*)
               feedback: Use the words, "will be given"
+    2:
+      identifier: queen passive to active
+      quiz:
+        - question: Edinburgh will be visited by the Queen tomorrow.
+          answer:
+            - The Queen will visit Edinburgh tomorrow.
+          incorrect:
+            -
+              error: ^(?!The Queen.*)
+              feedback: Use the words, "The Queen"
+            -
+              error: ^(?!.*will visit.*)
+              feedback: Use the words, "will visit"
+            -
+              error: ^(?!.*Edinburgh.*)
+              feedback: Use the words, "Edinburgh"
+            -
+              error: ^(?!.*tomorrow\.$)
+              feedback: Use the words, "tomorrow."
+        - question: A new bridge will be opened by the Queen.
+          answer:
+            - The Queen will open a new bridge.
+          incorrect:
+            -
+              error: ^(?!The Queen.*)
+              feedback: Use the words, "The Queen"
+            -
+              error: ^(?!.*will open.*)
+              feedback: Use the words, "will open"
+            -
+              error: ^(?!.*a new bridge\.$)
+              feedback: Use the words, "a new bridge."
+        - question: A dinner party will be given by Edinburgh City to honor the Royal party.
+          answer:
+            - Edinburgh City will give a dinner party to honor the Royal party.
+          incorrect:
+            -
+              error: ^(?!Edinburgh City.*)
+              feedback: Use the words, "Edinburgh City"
+            -
+              error: ^(?!.*will give.*)
+              feedback: Use the words, "will give"
+            -
+              error: ^(?!.*a dinner party.*)
+              feedback: Use the words, "a dinner party"
+            -
+              error: ^(?!.*to honor the Royal party\.$)
+              feedback: Use the words, "to honor the Royal party."
+             
