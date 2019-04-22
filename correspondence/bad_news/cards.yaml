@@ -37,6 +37,18 @@ news:
           answer: False
         - question: A polite forward-looking close is common in both good-news and bad-news messages.
           answer: True
+        - question: In bad news, the situation is described, then the bad news is stated. In good news, it's the opposite. The good news is stated then the details are described.
+          answer: True
+        - question: "The role of the sales appeal in the good news message and the role of the alternative/solution in the bad news message are somewhat similar: they introduce a new topic."
+          answer: True
+        - question: The sales appeal is more connected to the topic of the good news than the elternative/solution is connected to the bad news.
+          answer: False
+        - question: People receiving a bad news message are probably less interested in the alternative/solution than people receiving a good news message are in the sales appeal.
+          answer: False
+        
+        
+
+        
         
         
 sort:
