@@ -939,7 +939,7 @@ olympics:
       quiz:
         - question: Another gold medal has been won by Taiwanese athlete, Sue-Ching Lin.
           answer:
-            - Taiwanese athlete, Sue-Ching Lin has won another gold medal
+            - Taiwanese athlete, Sue-Ching Lin has won another gold medal.
           incorrect:
             -
               error: ^(?!Taiwanese athlete, Sue-Ching Lin.*)
