@@ -843,6 +843,76 @@ earthquake:
               error: ^(?!.*has already been sent.*)
               feedback: Use the words, "has already been sent"
 
+    2:
+      identifier: earthquake: passive to active
+      quiz:
+        - question: Tainan was hit by a big earthquake during the night.
+          option:
+            - 
+          answer:
+            - A big earthquake hit Tainan during the night.
+          incorrect:
+            -
+              error: ^(?!A big earthquake.*)
+              feedback: Use the words, "A big earthquake"
+            -
+              error: ^(?!.*hit.*)
+              feedback: Use the words, "hit"
+            -
+              error: ^(?!.*Tainan.*)
+              feedback: Use the words, "Tainan"
+            -
+              error: ^(?!.*during the night\.$)
+              feedback: Use the words, "during the night."
+        - question: The Weiguan building was demolished by the earthquake.
+          option:
+            - 
+          answer:
+            - The earthquake demolished the Weiguan building.
+          incorrect:
+            -
+              error: ^(?!The earthquake.*)
+              feedback: Use the words, "The earthquake"
+            -
+              error: ^(?!.*demolished.*)
+              feedback: Use the words, "demolished"
+            -
+              error: ^(?!.*the Weiguan building\\.$)
+              feedback: Use the words, "the Weiguan building."
+        - question: 114 people were buried in the ruins by the earthquake.
+          option:
+            - 
+          answer:
+            - The earthquake buried 114 people in the ruins.
+          incorrect:
+            -
+              error: ^(?!The earthquake.*)
+              feedback: Use the words, "The earthquake"
+            -
+              error: ^(?!.*buried.*)
+              feedback: Use the words, "buried"
+            -
+              error: ^(?!.*114 people.*)
+              feedback: Use the words, "114 people"
+            -
+              error: ^(?!.*in the ruins\.$)
+              feedback: Use the words, "in the ruins."
+       - question: Help has already been sent by International Search and Rescue Corps.
+         option:
+           - 
+         answer:
+           - International Search and Rescue Corps have already sent help.
+          incorrect:
+            -
+              error: ^(?!International Search and Rescue Corps.*)
+              feedback: Use the words, "International Search and Rescue Corps"
+            -
+              error: ^(?!.*have already.*)
+              feedback: Use the words, "have already"
+            -
+              error: ^(?!.*sent help\.$)
+              feedback: Use the words, "sent help."
+            
 olympics:
   jigsaw:
     0:
