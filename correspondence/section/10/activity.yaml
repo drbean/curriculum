@@ -2,6 +2,15 @@
 -
   -
     topic : passive
+    story : earthquake
+    type  : jigsaw
+    form  : 2
+    intro : 
+    random: 
+  
+-
+  -
+    topic : passive
     story : syntax
     type  : jigsaw
     form  : 10
@@ -23,6 +32,7 @@
     form  : 0
     intro : 
     random: 
+-
   -
     topic : tone
     story : chinese
@@ -30,6 +40,7 @@
     form  : 0
     intro : 
     random: 
+-
   -
     topic : tone
     story : chinese
@@ -142,3 +153,20 @@
     form  : 0
     intro : 
     random: 
+-
+  -
+    topic : bad_news
+    story : structure
+    type  : match
+    form  : 0
+    intro : 
+    random: 
+-
+  -
+    topic : bad_news
+    story : news
+    type  : jigsaw
+    form  : 0
+    intro : 
+    random: 
+  
