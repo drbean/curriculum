@@ -102,9 +102,13 @@ You can subordinate an idea (put it in the background) by placing it in middle p
 
 ## Improving the tone
 
-Rewrite the 4 sentences on p93 to make them less negative, less unwelcome, without changing the meaning.
+Write or find 2 sentences one which is more negative and one which is less negative, less unwelcome, but which has the same meaning. Say which of the 4 approaches your 2 example sentences follow.
 
-Don't APOLOGIZE. Use good expressions to make a good impression.
+For example,
+
+	"You failed this course."
+	"You will have the opportunity to take this class again with me next year."
+	1. Choose the positive, avoid the negative
 
 Look at the 4 approaches on 10-2, p86
 
@@ -113,13 +117,7 @@ Look at the 4 approaches on 10-2, p86
 3. Use conditional sentences and suggest hypothetical situations
 4. Choose vocabulary with positive connotations
 
-And the 5 points (or guidelines) of 10-3, p90
-
-- Help with a problem. Don't say the reader is doing it wrong.
-- Say what you can do, not what you can't do.
-- Don't criticize or blame the reader. Focus on the situation, not the people.
-- Acknowledge your own mistakes.
-- Be grateful attempts have been made, even if they are unsuccessful.
+Look at the examples on pp 86-88.
 
 ## Homework: the problem of tone
 
