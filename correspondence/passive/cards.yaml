@@ -943,6 +943,42 @@ olympics:
             -
               error: ^(?!.*was awarded.*)
               feedback: Use the words, "was awarded"
+    2:
+      identifier: olympics passive to active
+      quiz:
+        - question: Another gold medal has been won by Taiwanese athlete, Sue-Ching Lin.
+          option:
+            - 
+          answer:
+            Taiwanese athlete, Sue-Ching Lin has won another gold medal
+          incorrect:
+            -
+              error: ^(?!Taiwanese athlete, Sue-Ching Lin.*)
+              feedback: Use the words, "Taiwanese athlete, Sue-Ching Lin"
+            -
+              error: ^(?!.*has won.*)
+              feedback: Use the words, "has won"
+            -
+              error: ^(?!.*another gold medal\.$)
+              feedback: Use the words, "another gold medal."
+        - question: She was awarded the medal by the judges for breaking the weight-lifting world record.
+          option:
+            - 
+          answer:
+            - The judges awarded her the medal for breaking the weight-lifting world record.
+          incorrect:
+            -
+              error: ^(?!The judges.*)
+              feedback: Use the words, "The judges"
+            -
+              error: ^(?!.*awarded.*)
+              feedback: Use the words, "awarded"
+            -
+              error: ^(?!.*her the medal.*)
+              feedback: Use the words, "her the medal"
+            -
+              error: ^(?!.*for breaking the weight-lifting world record\.$)
+              feedback: Use the words, "for breaking the weight-lifting world record."
 queen:
   jigsaw:
     0:
