@@ -1,5 +1,44 @@
 ---
 genre: correspondence
+structure:
+  match:
+    0:
+      identifier: bad news structure
+      pair:
+        -
+          - 1
+          - situation
+        -
+          - 2
+          - buffer
+        -
+          - 3
+          - bad news
+        -
+          - 4
+          - alternative/solution
+        -
+          - 5
+          - positive close
+news:
+  jigsaw:
+    0:
+      identifier: good news and bad news
+      quiz:
+        - question: The order of the stating of the news is similar in good news and bad news messages.
+          answer: False
+        - question: The good news is held back but the bad news is told straight away.
+          answer: False
+        - question: The situation in bad news messages and the details in good news messages support the news.
+          answer: True
+        - question: The situation in bad news messages corresponds to the details in good news messages, but the order is reversed.
+          answer: True
+        - question: The situation comes after the news in bad news messages, but the details come before the news in good news messages.
+          answer: False
+        - question: A polite forward-looking close is common in both good-news and bad-news messages.
+          answer: True
+        
+        
 sort:
   jigsaw:
     0:
