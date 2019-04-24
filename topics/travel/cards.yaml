@@ -391,6 +391,16 @@ train:
 vacation:
   0:
     flash:
+      surprise : 驚     
+      travel   : 旅行   
+      vacation : 假期   
+      island   : 島     
+      wave     : 波     
+      bike     : 自行車 
+      lucky    : 幸運   
+      spider   : 蜘蛛   
+  1:
+    flash:
       pyramid    : 金字塔
       Brazil     : 巴西
       kangaroo   : 袋鼠
