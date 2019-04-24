@@ -473,12 +473,12 @@
   - "all"
   - |+
     B: What are you doing?
-    G: I'm making pottery. Do you want to make it with me? I have some clay.
+    G: I'm making pottery. Do you want to make it with me? I have some more clay.
     B: OK, but I don't know what to do.
-    G: Here, I'll show you how. First, you put a hole in the clay. But don't make it too big.
+    G: Here, I'll show you. First, you put a hole in the clay. But, don't make it too big.
     B: OK. A big hole will ruin the pottery because the clay is too thin.
     G: Yes, but it's OK if you make a mistake. You can just start again.
-  - First|hole|clay|too|big|End
+  - What are you doing|I'm making|Do you want to make|with me|I have|more|OK, but I|know|to do|Here, I'll|you. First|you put a|in the|But, don't|it too|OK. A big|will|the pottery because the|is too|Yes, but it's OK if you make a|You can just|again|End
 -
   - "art-3"
   - "art-3"
