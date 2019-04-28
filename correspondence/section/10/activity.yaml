@@ -7,6 +7,22 @@
     form  : 2
     intro : 
     random: 
+-
+  -
+    topic : passive
+    story : olympics
+    type  : jigsaw
+    form  : 2
+    intro : 
+    random: 
+-
+  -
+    topic : passive
+    story : queen
+    type  : jigsaw
+    form  : 2
+    intro : 
+    random: 
   
 -
   -
@@ -168,5 +184,21 @@
     type  : jigsaw
     form  : 0
     intro : 
-    random: 
+    random: 6
   
+-
+  -
+    topic : bad_news
+    story : tone
+    type  : jigsaw
+    form  : 0
+    intro : 
+    random: 1
+-
+  -
+    topic : tone
+    story : conditional
+    type  : essay
+    form  : 0
+    intro : 
+    random: 
