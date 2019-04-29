@@ -157,6 +157,18 @@ passive:
             - bad example
           answer: good example
 sincere:
+  description:
+    0:
+      identifier: explanation of sincere thanks for book token
+      questiontext: |+
+        How can you tell if someone is sincere? You can't.
+
+        So Dr Bean's decisions that the thoughts of some students were not sincerely felt are without basis.
+
+        He thinks that if someone expressed themselves smoothly and wrote a lot, they were probably _not_ being sincere. And if they wrote simply, or didn't write very much, or didn't express themselves very well, they probably _were_ being sincere.
+
+        In fact, the less sincere Dr Bean felt you were, the higher the goodwill homework score he probably gave you!
+    
   jigsaw:
     0:
       identifier: sincere thanks for book token
@@ -211,6 +223,146 @@ sincere:
             - Yes
             - No
           answer: No
+conditional:
+  jigsaw:
+    0:
+      identifier: student conditional examples
+      quiz:
+        - question: What will you do if Dr Bean comes up behind you and looks at your computer screen.
+          option:
+            - Type 0
+            - Type 1
+            - Type 2
+            - Type 3
+          answer: Type 1
+        - question: If I make a big fortune, I can travel around the world.
+          option:
+            - Type 0
+            - Type 1
+            - Type 2
+            - Type 3
+          answer: Type 1
+        - question: If I knew a person was very emotional, I would not agree to go on a date with him/her.
+          option:
+            - Type 0
+            - Type 1
+            - Type 2
+            - Type 3
+          answer: Type 2
+        - question: If I had read the recipe carefully, I would have cooked my dinner better.
+          option:
+            - Type 0
+            - Type 1
+            - Type 2
+            - Type 3
+          answer: Type 3
+        - question: If I had known the answer I would not have gotten the question wrong.
+          option:
+            - Type 0
+            - Type 1
+            - Type 2
+            - Type 3
+          answer: Type 3
+        - question: If I had known the answer I would not have asked the question.
+          option:
+            - Type 0
+            - Type 1
+            - Type 2
+            - Type 3
+          answer: Type 3
+        - question: You can do well if you work hard.
+          option:
+            - Type 0
+            - Type 1
+            - Type 2
+            - Type 3
+          answer: Type 1
+        - question: He could do well if he worked hard.
+          option:
+            - Type 0
+            - Type 1
+            - Type 2
+            - Type 3
+          answer: Type 2
+        - question: I would have had a good grade, if I had worked hard.
+          option:
+            - Type 0
+            - Type 1
+            - Type 2
+            - Type 3
+          answer: Type 1
+        - question: If I have time, I'll go to your party.
+          option:
+            - Type 0
+            - Type 1
+            - Type 2
+            - Type 3
+          answer: Type 1
+        - question:  If I was your boyfriend, I'd never let you go,
+          option:
+            - Type 0
+            - Type 1
+            - Type 2
+            - Type 3
+          answer: Type 2
+        - question:  If I had known it was your birthday, I would have given you a gift.
+          option:
+            - Type 0
+            - Type 1
+            - Type 2
+            - Type 3
+          answer: Type 3
+approach:
+  jigsaw:
+    0:
+      identifier: good/bad answers to 4 approaches to tone with negative messages
+      quiz:
+        - question: 'We cannot allow you to stay here because the announcement provide that people need to pay 10 dollar for ticket.'<p>     'We would like to allow you to stay here but the announcement provide that people need to pay 10 dollar for ticket.'<p>     3.Use conditional sentences and suggest hypothetical situations 
+          option:
+            - good answer
+            - answer not good, or approach missing 
+          answer: good answer
+        - question: 'I cannot go to school today.'    'I cannot go to school today because I get a bad cold and even have a fever. I am afraid of transmitting to my classmates.'    2. Give clear reasons and explanations
+          option:
+            - good answer
+            - answer not good, or approach missing 
+          answer: good answer
+        - question: If I can't get a good school, my family will hate me. <p>   If I am admitted to a good school, my family may like me a little bit.<p>3. Use conditional sentences and suggest hypothetical situations
+          option:
+            - good answer
+            - answer not good, or approach missing 
+          answer: answer not good, or approach missing 
+        - question: 'You did not submit the report this week.'  <p>   'The report was not submitted this week./I did not receive the report this week.'  <p>   1. Choose the positive, avoid the negative
+          option:
+            - good answer
+            - answer not good, or approach missing 
+          answer: answer not good, or approach missing 
+        - question: I won't go to your party.   <p>   I will go abroad next week so I can't go to your party.<p> 2. Give clear reasons and explanations
+          option:
+            - good answer
+            - answer not good, or approach missing 
+          answer: good answer
+        - question: We cannot allow your return on Order Number 23456        <p>  Although you have some problem about your order, our company policy only allow return within 7 days.<p> 4. Choose vocabulary with positive connotations.
+          option:
+            - good answer
+            - answer not good, or approach missing 
+          answer: answer not good, or approach missing 
+        - question:  1.If you heat the ice, it melts.<p> 2.You'll get wet if it rains today.<p>3.Use conditional sentences-Allude to a hypothetical situation.
+          option:
+            - good answer
+            - answer not good, or approach missing 
+          answer: answer not good, or approach missing 
+        - question: 'Do not use this court to play basketball.' <p>'Please use another court to play basketball.'  <p> 1.  Choose the positive, avoid the negative
+          option:
+            - good answer
+            - answer not good, or approach missing 
+          answer: good answer
+        - question: 1.Choose positive statements and avoid the negative.     If the price of goods falls, it will lead an increase in demand.     2.Use conditional sentences-Allude to a hypothetical situation.     You’ll get wet in the heavy rain if you forget to bring an umbrella.
+          option:
+            - good answer
+            - answer not good, or approach missing 
+          answer: answer not good, or approach missing 
+        
 
 
 
