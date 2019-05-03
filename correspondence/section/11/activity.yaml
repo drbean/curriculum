@@ -1,0 +1,214 @@
+---
+-
+  -
+    topic : student
+    story : sincere
+    type  : description
+    form  : 0
+    intro : 
+    random: 
+-
+  -
+    topic : student
+    story : sincere
+    type  : jigsaw
+    form  : 0
+    intro : 
+    random: 5
+
+-
+  -
+    topic : student
+    story : conditional
+    type  : jigsaw
+    form  : 0
+    intro : 
+    random: 7
+  
+-
+  -
+    topic : tone
+    story : improvement
+    type  : jigsaw
+    form  : 1
+    intro : 
+    random: 3
+-
+  -
+    topic : tone
+    story : improvement
+    type  : jigsaw
+    form  : 2
+    intro : 
+    random: 3
+-
+  -
+    topic : tone
+    story : improvement
+    type  : jigsaw
+    form  : 3
+    intro : 
+    random: 3
+-
+  -
+    topic : tone
+    story : improvement
+    type  : jigsaw
+    form  : 4
+    intro : 
+    random: 3
+-
+  -
+    topic : tone
+    story : improvement
+    type  : drag
+    form  : 0
+    intro : 
+    random: 
+-
+  -
+    topic : tone
+    story : improvement
+    type  : match
+    form  : 0
+    intro : 
+    random: 
+
+-
+  -
+    topic : tone
+    story : conditional
+    type  : essay
+    form  : 0
+    intro : 
+    random: 
+-
+  -
+    topic : tone
+    story : conditional
+    type  : essay
+    form  : 1
+    intro : 
+    random: 
+-
+  -
+    topic : tone
+    story : conditional
+    type  : essay
+    form  : 2
+    intro : 
+    random: 
+-
+  -
+    topic : tone
+    story : conditional
+    type  : essay
+    form  : 3
+    intro : 
+    random: 
+-
+  -
+    topic : student
+    story : approach
+    type  : jigsaw
+    form  : 0
+    intro : 
+    random: 5
+  
+-
+  -
+    topic : bad_news
+    story : joke
+    type  : jigsaw
+    form  : 0
+    intro : 
+    random: 3
+-
+  -
+    topic : bad_news
+    story : joke
+    type  : match
+    form  : 0
+    intro : 
+    random: 
+-
+  -
+    topic : bad_news
+    story : joke
+    type  : jigsaw
+    form  : 1
+    intro : 
+    random: 
+-
+  -
+    topic : bad_news
+    story : joke
+    type  : drag
+    form  : 0
+    intro : 
+    random: 2
+-
+  -
+    topic : bad_news
+    story : joke
+    type  : drag
+    form  : 1
+    intro : 
+    random: 2
+-
+  -
+    topic : bad_news
+    story : joke
+    type  : jigsaw
+    form  : 2
+    intro : 
+    random: 
+-
+  -
+    topic : bad_news
+    story : joke
+    type  : jigsaw
+    form  : 3
+    intro : 
+    random: 
+
+-
+  -
+    topic : bad_news
+    story : buffer
+    type  : jigsaw
+    form  : 0
+    intro : 
+    random: 
+-
+  -
+    topic : bad_news
+    story : buffer
+    type  : jigsaw
+    form  : 1
+    intro : 
+    random: 
+-
+  -
+    topic : bad_news
+    story : buffer
+    type  : jigsaw
+    form  : 2
+    intro : 
+    random: 
+-
+  -
+    topic : bad_news
+    story : necessity
+    type  : jigsaw
+    form  : 0
+    intro : 
+    random: 
+-
+  -
+    topic : bad_news
+    story : necessity
+    type  : jigsaw
+    form  : 1
+    intro : 
+    random: 
