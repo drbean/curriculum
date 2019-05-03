@@ -1462,6 +1462,58 @@ explanation:
              - not a reason lessening impact of bad news
           answer: not a reason lessening impact of bad news
 conditional:
+  essay:
+    0:
+      identifier: examples of the 0th conditional
+      rubric: |+
+        Write an example of Type 0
+
+        Put the type in front.
+
+        For example,
+
+             Type 0. "It's gotta be rock and roll music, If you want to dance with me."--Chuck Berry
+    1:
+      identifier: examples of the 1st conditional
+      rubric: |+
+        Write an example of Type 1
+
+        Put the type in front.
+
+        For example,
+
+             Type 1. "I will fail some students, if they don't do the homework."--Dr Bean
+    2:
+      identifier: examples of the 2nd conditional
+      rubric: |+
+        Write an example of Type 2
+
+        Put the type in front.
+
+        For example,
+
+             Type 2. "I would be unhappy, if many students failed."--Dr Bean
+    3:
+      identifier: examples of the 3rd conditional
+      rubric: |+
+        Write an example of Type 3
+
+        Put the type in front.
+
+        For example,
+
+             Type 3. "I would have finished my PhD, if I had known I would end up being a teacher."--Dr Bean
+    4:
+      identifier: examples of the 3 conditionals
+      rubric: |+
+        Write an example of each of Types 1, 2, and 3
+
+        Put the type in front.
+
+        For example,
+
+             Type 3. I would have finished my PhD, if I had known I would end up being a teacher.
+    
   drag:
     0:
       identifier: conditional scramble
@@ -1846,7 +1898,7 @@ improvement:
           clozed: Packages|weighing|up|to|25kg|will|be|accepted|End
   jigsaw:
     1:
-      identifier: availability
+      identifier: availability--tone improvement 1
       quiz:
         - question: The person speaking for Mr Richards is probably Mr Richards'' boss (his superior).
           answer: False
@@ -1859,7 +1911,7 @@ improvement:
         - question: 'There is probably business value for Mr Richards in meeting with the addressee ("you").'
           answer: True
     2:
-      identifier: computers
+      identifier: computers--tone improvement 2
       quiz:
         - question: The writer probably wants the supplier to fix the computers, or in some other way, compensate for the problem..
           answer: True
@@ -1872,7 +1924,7 @@ improvement:
         - question: The writer probably bought the computers for his/her own use.
           answer: False
     3:
-      identifier: motorcycle clutch
+      identifier: motorcycle clutch--tone improvement 3
       quiz:
         - question: The problem with the clutch is not the main reason the repair cannot take place.
           answer: False
@@ -1885,7 +1937,7 @@ improvement:
         - question: The writer probably wants the reader to go and buy a new clutch.
           answer: False
     4:
-      identifier: package
+      identifier: package--tone improvement 4
       quiz:
         - question: The writer is providing a delivery service.
           answer: True
