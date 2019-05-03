@@ -309,7 +309,7 @@ herbal:
 joke:
   jigsaw:
     0:
-      identifier: joke comprehension
+      identifier: joke factory comprehension
       quiz:
         - question: The company is telling employees they are losing their jobs.
           answer: True
@@ -321,9 +321,39 @@ joke:
           answer: False
         - question: The positive close is about the possibility the company will recover.
           answer: False
+    1:
+      identifier: joke factory alternative/solution
+      quiz:
+        - question: The alternative/solution starts with the sentence--
+          option:
+            - Our sales ..
+            - In order for ..
+            - However, ..
+            - The company ..
+            - Further information ..
+          answer: However, ..
+    2:
+      identifier: joke factory buffer
+      quiz:
+        - question: The word, 'however' is a buffer before the bad news about re-employment
+          answer: False
+        - question: There is no buffer to the bad news.
+          answer: True
+        - question: The words, 'of course' are a buffer before good news.
+          answer: False
+    3:
+      identifier: joke factory approach
+      quiz:
+        - question: Which of the 4 approaches does the message use to improve tone?
+          option:
+            - 1. Choose the positive, avoid the negative
+            - 2. Give clear reasons and explanations
+            - 3. Use conditional sentences and suggest hypothetical situations
+            - 4. Choose vocabulary with positive connotations
+          answer: 2. Give clear reasons and explanations
   match:
     0:
-      identifier: joke
+      identifier: joke factory structure by paragraph
       pair:
         -
           - situation
@@ -337,10 +367,44 @@ joke:
         -
           - positive close
           - 3
+  drag:
+    0:
+      identifier: para 1 joke sentence restatements
+      sentences:
+        -
+          sentence: You probably know the Taiwanese economy has not been doing well recently.
+          clozed: You|probably|know|the|Taiwanese|economy|has|not|been|doing|well|recently|End
+        -
+          sentence: As a result our company and other companies have been hurt.
+          clozed: As|a|result|our|company|and|other|companies|have|been|hurt|End
+        -
+          sentence: We have sold less and less each month for the last six months.
+          clozed: We|have|sold|less|and|less|each|month|for|the|last|six|months|End
+        -
+          sentence: Because of this we have to do some things that we don't want to do.
+          clozed: Because|of|this|we|have|to|do|some|things|that|we|don't|want|to|do|End
+    1:
+      identifier: para 2 joke sentence restatements
+      sentences:
+        -
+          sentence: To allow the company to continue, we need to cut the number of workers.
+          clozed: To|allow|the|company|to|continue|we|need|to|cut|the|number|of|workers|End
+        -
+          sentence: We think the best way to downsize is to ask workers to leave the company.
+          clozed: We|think|the|best|way|to|downsize|is|to|ask|workers|to|leave|the|company|End
+        -
+          sentence: If the situation improves, those who leave will be the first to be rehired.
+          clozed: If|the|situation|improves|those|who|leave|will|be|the|first|to|be|rehired|End
+        -
+          sentence: If you agree to leave, the company will give you a letter of recommendation.
+          clozed: If|you|agree|to|leave|the|company|will|give|you|a|letter|of|recommendation|End
+        -
+          sentence: If you want to know more about the company's plans, you can talk to the Human Resources Department.
+          clozed: If|you|want|to|know|more|about|the|plans|you|can|talk|to|the|Human|Resources|Department|End
 buffer:
   jigsaw:
     0:
-      identifier: buffer
+      identifier: buffer p92
       quiz:
         - question: Not a buffer
           option:
@@ -350,7 +414,7 @@ buffer:
             - However
           answer: However
     1:
-      identifier: buffer
+      identifier: not a buffer p92
       quiz:
         - question: Which word IS a buffer used at the start of a bad-news sentence to warn that bad news is coming and lessen the shock of the bad news?
           option:
@@ -385,10 +449,10 @@ necessity:
       quiz:
         - question: Two sentences show some action is necessary for the writer and there is no other alternative. One sentence does NOT. Which sentence does not show the action is necessary for the writer?
           option:
-            - We will have our staff report at your gates at 8am.
+            - We will have our staff report at your gates at 8am. (p 108)
             - We will have no choice but to pursue legal action.
             - The situation requires us to downsize the company.
-          answer: We will have our staff report at your gates at 8am.
+          answer: We will have our staff report at your gates at 8am. (p 108)
 report:
   essay:
     0:
@@ -406,6 +470,35 @@ report:
         Make up a solution/alternative for the student. They could be repeating the class next year, dropping out of school, cleaning the school, apologizing to the teacher (!), etc.
     
         There is no need for To:, From:, Subject:, etc lines.
+    1:
+      identifier: failing midterm grade
+      rubric: |+
+        You are a teacher at NUU. Instead of just reporting a failing midterm grade of below 60, the school wants you to submit a formal bad-news letter to students who do badly in the exam, informing them they may fail the course if they don't start working harder. Use the format in the book on page 92 to write a letter for bad boy, Rong Tramp.
+
+        * Situation
+        * Bad-news
+        * Alternative/solution
+        * Forward-looking close
+
+        Use one or more of the 4 approaches to negative messages on page 86.
+
+            - 1. Choose the positive, avoid the negative
+            - 2. Give clear reasons and explanations
+            - 3. Use conditional sentences and suggest hypothetical situations
+            - 4. Choose vocabulary with positive connotations
+
+
+        Make up a solution/alternative for the student. They could be dropping out from the class, dropping out of school, working harder, talking to the teacher (!), etc.
+    
+        Do these things:
+
+        * Describe the situation, eg, the role of the midterm exam, its importance, the lack of work by Rong Tramp, etc
+        * Remember the buffer word(s). "Unfortunately", "As a result", etc.
+        * Give the bad news. eg "You failed the mid-term exam."
+        * Make up a solution/alternative for the student. They could be dropping out from the class, dropping out of school, working harder, talking to the teacher (!), etc.
+        * Try to end positively
+    
+        It doesn't have to be long and there is no need for To:, From:, Subject:, etc lines.
 scramble:
   scramble:
     0:
@@ -619,7 +712,7 @@ tone:
             -
               error: ^(?!.*a discount\?.*)
               feedback: Use the words, "a discount?"
-        - question: The quality of what we received is very low. (Use "The quality of", "quite different", "the auality of", "was shown", "us")
+        - question: The quality of what we received is very low. (Use "The quality of", "quite different", "the quality of", "was shown", "us")
           answer:  
             - The quality of what we received is quite different to the quality of what was shown to us.
             - The quality of what we received is quite different (to|than) the quality of what was shown to us.
@@ -679,9 +772,9 @@ tone:
             -
               error: ^(?!.*from proceeding\..*)
               feedback: Use the words, "from proceeding\."
-        - question: You have made a mistake on the invoice.
+        - question: You have made a mistake on the invoice. (Rewrite as the passive)
           answer:  
-            - A mistake has been made on the invoice. (Rewrite as the passive)
+            - A mistake has been made on the invoice.
           incorrect:
             -
               error: ^(?!.*mistake.*)
