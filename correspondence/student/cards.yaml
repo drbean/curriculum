@@ -1,4 +1,4 @@
---
+---
 courteous:
   jigsaw:
     hurt:
@@ -290,7 +290,7 @@ conditional:
             - Type 1
             - Type 2
             - Type 3
-          answer: Type 1
+          answer: Type 3
         - question: If I have time, I'll go to your party.
           option:
             - Type 0
@@ -315,56 +315,50 @@ conditional:
 approach:
   jigsaw:
     0:
-      identifier: good/bad answers to 4 approaches to tone with negative messages
+      identifier: approaches to negative message tone
       quiz:
-        - question: 'We cannot allow you to stay here because the announcement provide that people need to pay 10 dollar for ticket.'<p>     'We would like to allow you to stay here but the announcement provide that people need to pay 10 dollar for ticket.'<p>     3.Use conditional sentences and suggest hypothetical situations 
+        - question: "'We cannot allow you to stay here because the announcement provide that people need to pay 10 dollar for ticket.'<p>     'We would like to allow you to stay here but the announcement provide that people need to pay 10 dollar for ticket.'<p>     3.Use conditional sentences and suggest hypothetical situations" 
           option:
             - good answer
             - answer not good, or approach missing 
           answer: good answer
-        - question: 'I cannot go to school today.'    'I cannot go to school today because I get a bad cold and even have a fever. I am afraid of transmitting to my classmates.'    2. Give clear reasons and explanations
+        - question: "'I cannot go to school today.' <p>   'I cannot go to school today because I get a bad cold and even have a fever. I am afraid of transmitting to my classmates.' <p>   2. Give clear reasons and explanations"
           option:
             - good answer
             - answer not good, or approach missing 
           answer: good answer
-        - question: If I can't get a good school, my family will hate me. <p>   If I am admitted to a good school, my family may like me a little bit.<p>3. Use conditional sentences and suggest hypothetical situations
+        - question: "If I can't get a good school, my family will hate me. <p>   If I am admitted to a good school, my family may like me a little bit.<p>3. Use conditional sentences and suggest hypothetical situations"
           option:
             - good answer
             - answer not good, or approach missing 
           answer: answer not good, or approach missing 
-        - question: 'You did not submit the report this week.'  <p>   'The report was not submitted this week./I did not receive the report this week.'  <p>   1. Choose the positive, avoid the negative
+        - question: "'You did not submit the report this week.'  <p>   'The report was not submitted this week./I did not receive the report this week.'  <p>   1. Choose the positive, avoid the negative"
           option:
             - good answer
             - answer not good, or approach missing 
           answer: answer not good, or approach missing 
-        - question: I won't go to your party.   <p>   I will go abroad next week so I can't go to your party.<p> 2. Give clear reasons and explanations
+        - question: "I won't go to your party.   <p>   I will go abroad next week so I can't go to your party.<p> 2. Give clear reasons and explanations"
           option:
             - good answer
             - answer not good, or approach missing 
           answer: good answer
-        - question: We cannot allow your return on Order Number 23456        <p>  Although you have some problem about your order, our company policy only allow return within 7 days.<p> 4. Choose vocabulary with positive connotations.
+        - question: "We cannot allow your return on Order Number 23456        <p>  Although you have some problem about your order, our company policy only allow return within 7 days.<p> 4. Choose vocabulary with positive connotations."
           option:
             - good answer
             - answer not good, or approach missing 
           answer: answer not good, or approach missing 
-        - question:  1.If you heat the ice, it melts.<p> 2.You'll get wet if it rains today.<p>3.Use conditional sentences-Allude to a hypothetical situation.
+        - question: "1.If you heat the ice, it melts.<p> 2.You'll get wet if it rains today.<p>3.Use conditional sentences-Allude to a hypothetical situation."
           option:
             - good answer
             - answer not good, or approach missing 
           answer: answer not good, or approach missing 
-        - question: 'Do not use this court to play basketball.' <p>'Please use another court to play basketball.'  <p> 1.  Choose the positive, avoid the negative
+        - question: "'Do not use this court to play basketball.' <p>'Please use another court to play basketball.'  <p> 1.  Choose the positive, avoid the negative"
           option:
             - good answer
             - answer not good, or approach missing 
           answer: good answer
-        - question: 1.Choose positive statements and avoid the negative.     If the price of goods falls, it will lead an increase in demand.     2.Use conditional sentences-Allude to a hypothetical situation.     You’ll get wet in the heavy rain if you forget to bring an umbrella.
+        - question: "1.Choose positive statements and avoid the negative.  <p>   If the price of goods falls, it will lead an increase in demand.    <p> 2.Use conditional sentences-Allude to a hypothetical situation.   <p>  You’ll get wet in the heavy rain if you forget to bring an umbrella."
           option:
             - good answer
             - answer not good, or approach missing 
           answer: answer not good, or approach missing 
-        
-
-
-
-
-        
