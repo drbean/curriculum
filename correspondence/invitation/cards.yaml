@@ -994,14 +994,14 @@ student:
           answer: rejecting the invitation
         
     3:
-      identifier: "Prof Chang's tone: good or bad?"
+      identifier: "Prof Chang tone"
       quiz:
         - question: Email A's tone is good.
           answer: False
         - question: Email B's tone is good.
           answer: True
     4:
-      identifier: Problem with Prof Chang's reply?
+      identifier: Prof Chang problem
       quiz:
         - question: "If there is a problem with the tone of Email A, it is with:"
           option:
