@@ -968,3 +968,65 @@ student:
             - looking forward to the event
             - thanking again
           answer: reason
+    1:
+      identifier: the Prof Chang event on p80?
+      quiz:
+        - question: "Prof Chang is being invited to:"
+          option:
+            - a conference
+            - a reception
+            - a dinner
+            - a symposium
+            - give a speech
+          answer: a reception
+    2:
+      identifier: Prof Chang accepts/rejects?
+      quiz:
+        - question: Email A on p90.
+          option:
+            - accepting the invitation
+            - rejecting the invitation
+          answer: rejecting the invitation
+        - question: Email B on p90.
+          option:
+            - accepting the invitation
+            - rejecting the invitation
+          answer: rejecting the invitation
+        
+    3:
+      identifier: "Prof Chang's tone: good or bad?"
+      quiz:
+        - question: Email A's tone is good.
+          answer: False
+        - question: Email B's tone is good.
+          answer: True
+    4:
+      identifier: Problem with Prof Chang's reply?
+      quiz:
+        - question: "If there is a problem with the tone of Email A, it is with:"
+          option:
+            - thanking
+            - reason
+            - accepting
+            - rejecting
+            - looking forward to the event
+            - apologizing
+            - thanking again
+            - alternative
+            - forward-looking close
+            - none of the above
+          answer: thanking
+        - question: "If there is a problem with the tone of Email B, it is with:"
+          option:
+            - thanking
+            - reason
+            - accepting
+            - rejecting
+            - looking forward to the event
+            - apologizing
+            - thanking again
+            - alternative
+            - forward-looking close
+            - none of the above
+          answer: none of the above
+        
