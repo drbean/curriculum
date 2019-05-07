@@ -6,23 +6,6 @@
 
 # Homework
 
-## complaining
-
-Choose one of the bad situations on p 101 and write a complaint. Follow the glass example on p 100. And include:
-
-* background
-* complaint
-* resulting damage
-* request
-* threat
-* polite close
-
-Make up dates and detailed facts (names and numbers) for the complaint.
-
-Write only the Subject line and the 4 paragraphs.
-
-No need for letterhead, addresses, salutation, etc
-
 ## pen
 
 Write the email to Tracy replying to her complaint on p107.
