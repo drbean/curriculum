@@ -403,3 +403,92 @@ approach:
             - good answer
             - answer not good, or approach missing 
           answer: answer not good, or approach missing 
+midterm:
+  jigsaw:
+    0:
+      identifier: midterm news problem
+      quiz:
+        - question: "I write this letter to give engagement to you. You can put more power in your lessons in the future. Learning is our things, so you are not lonely.  <p>So, you can ask teacher questions. I believe that it is not difficult to get nice scores. <p>At the end, I want to say 'Learning can make your life wonderful.' I look forward to seeing your good scores."
+          option:
+            - situation
+            - bad news
+            - alternative/solution
+            - positive close
+          answer: bad news
+        - question: "Recently,The midterm results are coming out,the exam tests  Whether you understand the course in the class.  In order to let you pass the credits.it is necessary for us to sned message.  <p>Rong Tramp is very smart.but he needs more time to prepare the exam.if he studied hard maybe he could pass the exam.  <p>Thank you reading this message.I hope this information has been helpful to you."
+          option:
+            - situation
+            - bad news
+            - alternative/solution
+            - positive close
+          answer: bad news
+        - question: "I hope that you can learn new things in the classroom.  Therefore, the midterm exam is very important to review what you have learned.  <p>Unfortunately, you did not pass the midterm exam. If the final grades are not improved, you may fail.  But you don't need to be upset, because you are a smart student, If you write homework on time, and don't miss class, you may get good grades at the end of the semester."
+          option:
+            - situation
+            - bad news
+            - alternative/solution
+            - positive close
+          answer: positive close
+        - question: "I am sorry that I have to tell you a bad new about your grade. Unfortunately, you didn't get the well grade in this exam. You got a    failing midterm grade of below 60.     <p>If you don't want to start working harder. You could be dropping out from the class or dropping out of school.     If you have any problem about your grade or study, welcome to talking to the teacher.     <p>I look forward to see you change soon."
+          option:
+            - situation
+            - bad news
+            - alternative/solution
+            - positive close
+          answer: situation
+        - question: "Sorry, boy. I'm so sad to send you this letter.  <p>Unfortunately, you just failded the miderm-text. If you still failed the final text, you will be dropping out from school.  <p>Fortunately, we had extra course after the class. If you attend the course, it will help you a lot in the final test.  You can attend the extra course after the class acd take a good grade in the final test.  <p>Good luck."
+          option:
+            - situation
+            - bad news
+            - alternative/solution
+            - positive close
+          answer: situation
+        - question: The mid term is the 40 percent of the semester.And I am sorry that you are fail at this time's mid term.<p>But the final is 50 percent of the semester. If you can hard working now maybe you can pass this semester.
+          option:
+            - situation
+            - bad news
+            - alternative/solution
+            - positive close
+          answer: positive close
+    1:
+      identifier: midterm, good or not?
+      quiz:
+        - question: "The midterm exam is very importance, it is about 40%  about the grade.And you lack the passion to pass the exam.  <p>As a result,if you still get bad grade or talk in class,I  must consider about your grade in the course.  <p>I can give you another chance to improve your grade, First you can not talk in class.Second, you must take time to participate TA course,finally you need to get over 75 in the test.  <p>I wish you can pass,do your best."
+          option:
+            - good
+            - not so good
+          answer: not so good
+        - question: "The mid-term exam is importance for you to show how much you learn from class.  <p>Unfortunately, you failed the mid-term exam.  You must be working hard to improve your grade.  <p>I think you can do it. Good luck!"
+          option:
+            - good
+            - not so good
+          answer: good
+        - question: "The midterm exam is very important. It not only tests your situation on your learning but relate your grade in the final.  <p>Unfortunately, you failed the midterm exam because your grade is under 60.  <p>I decide to give you a chance. You can pass the course if you get over 70 grades and participate my class actively."
+          option:
+            - good
+            - not so good
+          answer: not so good
+        - question: "The midterm exam plays a important role in this course. And I know you tried to get the good grade. <p>As a result, I have to make this tough decision.  The grade you get in the exam was not satisfactory, so I have to inform you failed it with a score of 58. <p>If you think this course is not fit to you, you could be dropping out from the course, or you have to work harder to get the good grade.  <p>I look forward to see you in class and hope you could do a great job."
+          option:
+            - good
+            - not so good
+          answer: good
+        - question: "As you may be aware, the mid-term accounts for 25 percent and your lack of work put your grade at risk.  <p>Unfortunately, you failed the mid-term exam.However, you have a choice to add scores. There is a make-up exam for this examination, you can take the make-up exam.  <p>I believe that you will pass the exam if you work harder. I looking forward to seeing you on the make-up exam."
+          option:
+            - good
+            - not so good
+          answer: good
+        - question: "As you may be aware, the role of the midterm exam is important.  <p>Unfortunately, you failed the mid-term exam.  You should work harder, or you would be dropped out of school.  <p>I am looking forward to hear about your good news."
+          option:
+            - good
+            - not so good
+          answer: good
+        
+        
+        
+        
+        
+        
+        
+        
+        
