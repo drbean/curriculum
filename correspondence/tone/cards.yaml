@@ -1707,7 +1707,32 @@ conditional:
             - Type 2
             - Type 3
           answer: Type 3
-  scramble:
+    4:
+      identifier: conditional expectations
+      quiz:
+        - question: "'I will fail some students if they don't do homework.' Dr Bean means:"
+          option:
+            - Some students may not do homework and those students will fail.
+            - All students will do homework, and no students will fail.
+            - Some students will do homework and will not fail.
+          answer: Some students may not do homework and those students will fail.
+          
+        - question: "'I would not be happy if many students failed.' Dr Bean expects:"
+          option:
+            - Many students will fail and Dr Bean will be happy.
+            - Many students will fail and Dr Bean will not be happy.
+            - Only a few students will fail and Dr Bean will not be happy.
+            - Only a few students will fail and Dr Bean will be happy.
+          answer: Only a few students will fail and Dr Bean will be happy.
+        - question:  "I would have finished my PhD, if I had known I would become a teacher."
+          option:
+            - Dr Bean knew he would become a teacher when he finished his PhD.
+            - Dr Bean knew he would become a teacher but he didn't finish his PhD.
+            - Dr Bean didn't know he would become a teacher when he finished his PhD.
+            - Dr Bean didn't know he would become a teacher and he didn't finish his PhD.
+          answer: Dr Bean didn't know he would become a teacher and he didn't finish his PhD.
+        
+scramble:
     0:
       identifier: conditional
       sentence:
