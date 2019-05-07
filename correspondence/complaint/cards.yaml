@@ -1,5 +1,71 @@
 ---
 genre: correspondence
+bad_news:
+  match:
+    0:
+      identifier: bad news 2 complaint
+      pair:
+        -
+          - situation
+          - background
+        -
+          - buffer
+          - possibly exists
+        -
+          - bad news
+          - complaint
+        -
+          - alternative/solution
+          - request
+        -
+          - positive close
+          - polite close
+    1:
+      identifier: complaint 2 bad news
+      pair:
+        -
+          - background
+          - situation
+        -
+          - complaint
+          - bad news
+        -
+          - resulting damage
+          - non-existent (first)
+        -
+          - request
+          - alternative/solution
+        -
+          - threat
+          - non-existent (second)
+        -
+          - polite close
+          - positive close
+homework:
+  essay:
+    0:
+      identifier: "Homework: complaint"
+      rubric: |+
+        
+        ## Homework: complaining
+
+        Choose one of the bad situations on p 101 and write a complaint. Follow the glass example on p 100. And include:
+
+        * background
+        * complaint
+        * resulting damage
+        * request
+        * threat
+        * polite close
+
+        Make up dates and detailed facts (names and numbers) for the background and complaint. For example, exact order number, dates, quantity.
+
+        Write only the Subject line and the 4 paragraphs.
+
+        No need for letterhead, addresses, salutation, etc
+
+    
+        
 paragraph:
   match:
     0:
@@ -24,11 +90,44 @@ paragraph:
           - 4th paragraph
           - polite close
 
+threat:
+  jigsaw:
+    0:
+      identifier: threat in complaint
+      quiz:
+        - question: "'If you are not willing to do this, I will be forced to do something.' The 'something' is:"
+          option:
+            - good for the reader
+            - bad for the reader
+          answer: bad for the reader
+        - question: "Saying 'If you are not willing to do this, I will be forced to do something.' makes a good impression."
+          option: 
+            - True
+            - False
+          answer: False
+        - question: In which letter does the book not recommend threatening the reader?
+          option:
+            - the first letter
+            - a later letter
+          answer: the first letter
+        - question: "'If you are not willing to do this, I will be forced to do something.' suggests the reader will be willing 'to do this'."
+          option:
+            - True
+            - False
+          answer: False
+        - question: "The book says when you say, 'If you are not willing to do this, I will be forced to do something,' you don't have to mean what you say."
+          answer: False
+        - question: "The book says when you say, 'If you are not willing to do this, I will be forced to do something,' you need to be ready to do what you say."
+          answer: True
+        
+        
+        
+        
         
 glass:
   match:
     0:
-      identifier: structure
+      identifier: glass sentence structure
       pair:
         -
           - "I am writing .."
@@ -57,7 +156,7 @@ glass:
         
   jigsaw:
     0:
-      identifier: glass
+      identifier: glass comprehension
       quiz:
         - question: Are there enough details for Seth to work with?
           option:
@@ -94,6 +193,11 @@ glass:
             - Yes
             - No
           answer: Yes
+        - question: Does the book agree with Michael's action threatening Seth in paragraph 3?
+          option:
+            - Yes
+            - No
+          answer: No
         - question: Does paragraph 4 show Michael expects Seth to do as he asked?
           option:
             - Yes
