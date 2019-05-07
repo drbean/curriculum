@@ -1,0 +1,210 @@
+---
+-
+  -
+    topic : invitation
+    story : student
+    type  : jigsaw
+    form  : 1
+    intro : 
+    random: 
+-
+  -
+    topic : invitation
+    story : student
+    type  : jigsaw
+    form  : 2
+    intro : 
+    random: 
+-
+  -
+    topic : invitation
+    story : student
+    type  : jigsaw
+    form  : 3
+    intro : 
+    random: 
+-
+  -
+    topic : invitation
+    story : student
+    type  : jigsaw
+    form  : 4
+    intro : 
+    random: 
+-
+  -
+    topic : tone
+    story : conditional
+    type  : jigsaw
+    form  : 4
+    intro : 
+    random: 
+-
+  -
+    topic : student
+    story : conditional
+    type  : jigsaw
+    form  : 1
+    intro : 
+    random: 3
+-
+  -
+    topic : bad_news
+    story : sort
+    type  : description
+    form  : 0
+    intro : 
+    random: 
+-
+  -
+    topic : bad_news
+    story : sort
+    type  : jigsaw
+    form  : 0
+    intro : 
+    random: 10
+-
+  -
+    topic : bad_news
+    story : sort
+    type  : jigsaw
+    form  : 1
+    intro : 
+    random: 10
+-
+  -
+    topic : bad_news
+    story : shoe
+    type  : jigsaw
+    form  : 0
+    intro : 
+    random: 
+-
+  -
+    topic : bad_news
+    story : shoe
+    type  : match
+    form  : 0
+    intro : 
+    random: 
+-
+  -
+    topic : bad_news
+    story : shoe
+    type  : match
+    form  : 1
+    intro : 
+    random: 
+-
+  -
+    topic : bad_news
+    story : herbal
+    type  : jigsaw
+    form  : 0
+    intro : 
+    random: 
+-
+  -
+    topic : bad_news
+    story : herbal
+    type  : match
+    form  : 0
+    intro : 
+    random: 
+-
+  -
+    topic : bad_news
+    story : herbal
+    type  : match
+    form  : 1
+    intro : 
+    random: 
+-
+  -
+    topic : bad_news
+    story : scramble
+    type  : drag
+    form  : 1
+    intro : 
+    random: 3
+-
+  -
+    topic : bad_news
+    story : shoe
+    type  : drag
+    form  : 0
+    intro : 
+    random: 4
+-
+  -
+    topic : bad_news
+    story : herbal
+    type  : drag
+    form  : 0
+    intro : 
+    random: 2
+-
+  -
+    topic : complaint
+    story : paragraph
+    type  : match
+    form  : 0
+    intro : 
+    random: 
+-
+  -
+    topic : complaint
+    story : glass
+    type  : match
+    form  : 0
+    intro : 
+    random: 
+-
+  -
+    topic : complaint
+    story : glass
+    type  : jigsaw
+    form  : 0
+    intro : 
+    random: 
+-
+  -
+    topic : student
+    story : midterm
+    type  : jigsaw
+    form  : 0
+    intro : 
+    random: 3
+-
+  -
+    topic : student
+    story : midterm
+    type  : jigsaw
+    form  : 1
+    intro : 
+    random: 3
+-
+  -
+    topic : complaint
+    story : bad_news
+    type  : match
+    form  : 0
+    intro : 
+    random: 
+-
+  -
+    topic : complaint
+    story : bad_news
+    type  : match
+    form  : 1
+    intro : 
+    random: 
+-
+  -
+    topic : complaint
+    story : threat
+    type  : jigsaw
+    form  : 0
+    intro : 
+    random: 3
+   
