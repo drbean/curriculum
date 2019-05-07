@@ -52,9 +52,119 @@ news:
         
         
 sort:
+  description:
+    0:
+      identifier: store situations
+      questiontext: |+
+        shoe store letter: bad news for a woman with large feet, but the store may be able to find a shoe for her
+
+        herbal store notice: the store is closing down (bad news), but the owners will still live in the town.
   jigsaw:
     0:
       identifier: herbal vs shoe
+      quiz:
+        - question: A
+          option:
+            - herbal
+            - shoe
+          answer: shoe
+        - question: B
+          option:
+            - herbal
+            - shoe
+          answer: shoe
+        - question: C
+          option:
+            - herbal
+            - shoe
+          answer: herbal
+        - question: D
+          option:
+            - herbal
+            - shoe
+          answer: shoe
+        - question: E
+          option:
+            - herbal
+            - shoe
+          answer: herbal
+        - question: F
+          option:
+            - herbal
+            - shoe
+          answer: herbal
+        - question: G
+          option:
+            - herbal
+            - shoe
+          answer: shoe
+        - question: H
+          option:
+            - herbal
+            - shoe
+          answer: shoe
+        - question: I
+          option:
+            - herbal
+            - shoe
+          answer: herbal
+        - question: J
+          option:
+            - herbal
+            - shoe
+          answer: herbal
+        - question: K
+          option:
+            - herbal
+            - shoe
+          answer: shoe
+        - question: L
+          option:
+            - herbal
+            - shoe
+          answer: herbal
+        - question: M
+          option:
+            - herbal
+            - shoe
+          answer: shoe
+        - question: N
+          option:
+            - herbal
+            - shoe
+          answer: herbal
+        - question: O
+          option:
+            - herbal
+            - shoe
+          answer: shoe
+        - question: P
+          option:
+            - herbal
+            - shoe
+          answer: shoe
+        - question: Q
+          option:
+            - herbal
+            - shoe
+          answer: shoe
+        - question: R
+          option:
+            - herbal
+            - shoe
+          answer: shoe
+        - question: S
+          option:
+            - herbal
+            - shoe
+          answer: herbal
+        - question: T
+          option:
+            - herbal
+            - shoe
+          answer: shoe
+    1:
+      identifier: herbal vs shoe 2
       quiz:
         - question: A
           option:
@@ -174,7 +284,7 @@ shoe:
         
   match:
     0:
-      identifier: shoe
+      identifier: shoe match
       pair:
         -
           - 1.
@@ -237,6 +347,34 @@ shoe:
           - 4. positive close
           - K. Thank you once again ..
           
+  drag:
+    0:
+      identifier: shoe scramble 0
+      sentences:
+        -
+          sentence: I'm sorry to say the largest shoe we sell at our store is size 47.
+          clozed: I'm|sorry|to|say|the|largest|shoe|we|sell|at|our|store|is|size|End
+        -
+          sentence: It is our pleasure to help customers as much as possible.
+          clozed: It|is|our|pleasure|to|help|customers|as|much|as|End
+        -
+          sentence: The only thing we need is for you to tell us what style and color you want.
+          clozed: The|only|thing|we|need|is|for|you|to|tell|us|what|style|and|color|you|End
+        -
+          sentence: You could expect the shoes to be delivered in two weeks.
+          clozed: You|could|expect|the|shoes|to|be|delivered|in|two|End
+        -
+          sentence: Sales of the large size that you require are very small.
+          clozed: Sales|of|the|large|size|that|you|require|are|very|End
+        -
+          sentence: We asked a shoe distributor and they said they have size 49 shoes.
+          clozed: We|asked|a|shoe|and|they|said|they|have|size|49|End
+        -
+          sentence: Please visit our store and we can help you choose a style which you like.
+          clozed: Please|visit|our|and|we|can|help|you|choose|a|style|which|you|End
+        -
+          sentence: Stack Shoes has many reasonably-priced sizes, styles and colors.
+          clozed: Stack|Shoes|has|many|reasonably-priced|sizes,|styles|and|End
 herbal:
   jigsaw:
     0:
@@ -303,9 +441,22 @@ herbal:
         -
           - 4. positive close
           - S. These last 22 years ..
-        
-              
-
+  drag:
+    0:
+      identifier: herbal scramble 0
+      sentences:
+        -
+          sentence: During that time, we have enjoyed serving many people, and many of these people have become our friends.
+          clozed: During|that|we|have|enjoyed|serving|many|and|many|of|these|people|have|become|our|End
+        -
+          sentence: But with the large number of shopping malls now in our town, it has become more and more difficult for use to compete.
+          clozed: But|with|the|large|number|of|shopping|malls|now|in|our|it|has|become|more|and|more|difficult|for|use|to|End
+        -
+          sentence: We plan to stay here, and we hope we will continue to see many of you in and around town.
+          clozed: We|plan|to|stay|and|we|hope|we|will|continue|to|see|many|of|you|in|and|around|End
+        -
+          sentence: Running the store has been an experience I will cherish forever and we thank all of you for patronizing it.
+          clozed: Running|the|store|has|been|an|experience|I|will|cherish|and|we|thank|all|of|you|for|patronizing|End
 joke:
   jigsaw:
     0:
@@ -513,7 +664,7 @@ scramble:
         - Our company policy allows discounts on individual orders of $1000_or_more.
   drag:
     0:
-      identifier: bad news scramble
+      identifier: bad news scramble 0
       sentences:
         -
           sentence: Wouldn't people find nine o'clock a little early?
@@ -536,6 +687,37 @@ scramble:
         -
           sentence: Our company policy allows discounts on individual orders of $1000_or_more.
           clozed: Our|company|policy|allows|discounts|on|individual|orders|of|$1000_or_more|End
+    1:
+      identifier: bad news scramble 1
+      sentences:
+        -
+          sentence: Our company policy requires cash on individual orders of $1000 or less.
+          clozed: Our|company|policy|requires|cash|on|individual|orders|of|$1000|or|End
+        -
+          sentence: Our company policy allows discounts on orders paid within thirty days of being delivered.
+          clozed: Our|company|policy|allows|discounts|on|orders|paid|within|thirty|days|of|being|End
+        -
+          sentence: Returning your purchase ten days earlier would make you eligible for a ten percent discount.
+          clozed: Returning|your|purchase|ten|days|earlier|would|make|you|eligible|for|a|ten|percent|End
+        -
+          sentence: It would be appreciated if you could use our online service ten days earlier.
+          clozed: It|would|be|appreciated|if|you|could|use|our|online|service|ten|days|End
+        -
+          sentence: The quality of your purchase will reflect the price you paid.
+          clozed: The|quality|of|your|purchase|will|reflect|the|price|you|End
+        -
+          sentence: In fact, we were looking for a more expensive washer.
+          clozed: In|we|were|looking|for|a|more|expensive|End
+        -
+          sentence: Wouldn't students find this discount a little cheap?
+          clozed: Wouldn't|students|find|this|discount|a|little|End
+        -
+          sentence: Don't students find this class boring?
+          clozed: Don't|students|find|this|class|End
+        -
+          sentence: Aren't students unhappy with an eight-o'clock class?
+          clozed: Aren't|students|unhappy|with|an|eight-o'clock|End
+
         
 fuxing:
   description:
@@ -649,7 +831,7 @@ tone:
     0:
       identifier: tone improvement
       quiz:
-        - question: We are unable to deliver the goods you ordered tomorrow. ( Use "do our best", "process your order", "as quickly as possible", "expect to deliver", "the day after tomorrow" )
+        - question: We are unable to deliver the goods you ordered tomorrow. ( Use "do our best", "process your order", "as quickly as possible",  "and we", "expect to deliver", "the day after tomorrow" )
           answer:
             - We are doing our best to process your order as quickly as possible and we expect to deliver it the day after tomorrow.
             - We are doing our best to process your order as quickly as possible and( we)? expect( (we will|to) be able)? to deliver it the day after tomorrow\.
@@ -794,4 +976,7 @@ tone:
             -
               error: ^(?!.*the invoice.*)
               feedback: Use the words, "the invoice"
-            
+      1:
+         identifier: tone improvement guideline
+         
+
