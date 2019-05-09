@@ -165,6 +165,16 @@ name:
       Jello       :  果凍
       salad       :  沙拉
       apple pie   :  蘋果派
+  1:
+    flash:
+      some ginger  : 一些生薑
+      some corn : 一些玉米
+      a pear    : 一個梨
+      a pepper  : 一個辣椒
+      junk food : 垃圾食品
+      an onion  : 一個洋蔥
+      shrimp    : 蝦
+      a soda    : 一杯汽水
 meal:
   0:
     flash:
