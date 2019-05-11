@@ -15,13 +15,11 @@
 |                                   | :::                               |
 | ::: {#content_pane}               |                                   |
 | ::: {.wiki}                       |                                   |
-| -   [ClassListofContents](http:// |                                   |
-| web.nuu.edu.tw/~greg/Contents.htm |                                   |
-| l)                                |                                   |
+| [ClassContent](http://web.nuu     |                                   |
+| .edu.tw/~greg/Contents.html)      |                                   |
 |                                   |                                   |
-| <!-- -->                          |                                   |
 |                                   |                                   |
-| -   [SelfIntroduction](SelfIntrod |                                   |
+| [SelfIntroduction](SelfIntrod     |                                   |
 | uction.html)                      |                                   |
 |                                   |                                   |
 | [ThePracticeofTeaching](ThePracti |                                   |
@@ -60,7 +58,7 @@
 |                                   |                                   |
 | [MyHobbies](MyHobbies.html)       |                                   |
 |                                   |                                   |
-| [Demo lesson                 |                                   |
+| [Demo lesson                      |                                   |
 | slides](pc/index.html) Present    |                                   |
 | continuous as a future tense.     |                                   |
 |                                   |                                   |
