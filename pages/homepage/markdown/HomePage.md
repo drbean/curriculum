@@ -60,7 +60,7 @@
 |                                   |                                   |
 | [MyHobbies](MyHobbies.html)       |                                   |
 |                                   |                                   |
-| New: [Demo lesson                 |                                   |
+| [Demo lesson                 |                                   |
 | slides](pc/index.html) Present    |                                   |
 | continuous as a future tense.     |                                   |
 |                                   |                                   |
@@ -82,9 +82,6 @@
 | :   Jogging                       |                                   |
 | :   Hitchhiking                   |                                   |
 |                                   |                                   |
-| See some notes about my 10 years  |                                   |
-| at [ChinMin](ChinMin.html)        |                                   |
-| Institute of Technology           |                                   |
 | :::                               |                                   |
 | :::                               |                                   |
 |                                   |                                   |
