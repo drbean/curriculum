@@ -351,7 +351,183 @@ conditional:
             - He/she didn't know it was the person's birthday and didn't give them a gift.
             - He/she didn't know it was the person's birthday but gave them a gift for some other reason.
           answer: He/she didn't know it was the person's birthday and didn't give them a gift.
+    2:
+      identifier: strange 2nd conditional
+      quiz:
+        - question: If I were your mom, I'd never let you hungry.
+          option:
+            - normal thought
+            - strange thought or mistake
+          answer: normal thought
+        - question: She could go home if she finished the work.
+          option:
+            - normal thought
+            - strange thought or mistake
+          answer: normal thought
+        - question: I would be sorry, if they picked my trash up.
+          option:
+            - normal thought
+            - strange thought or mistake
+          answer: strange thought or mistake
+        - question: I would be tired, if you called me at midnight.
+          option:
+            - normal thought
+            - strange thought or mistake
+          answer: strange thought or mistake
+        - question: I would be depressed, if I felt unwell.
+          option:
+            - normal thought
+            - strange thought or mistake
+          answer: strange thought or mistake
+        - question: Students would sit down, if the teacher came in.
+          option:
+            - normal thought
+            - strange thought or mistake
+          answer: strange thought or mistake
+        - question: "Student: If I　was a student, I would study hard."
+          option:
+            - normal thought
+            - strange thought or mistake
+          answer: strange thought or mistake
+        - question: I would go swimming, if the weather were hot.
+          option:
+            - normal thought
+            - strange thought or mistake
+          answer: normal thought
+        - question: We would see the movie together, if we paid the money.
+          option:
+            - normal thought
+            - strange thought or mistake
+          answer: strange thought or mistake
+        - question: She could get on the bus if you gave her a ride.
+          option:
+            - normal thought
+            - strange thought or mistake
+          answer: strange thought or mistake
+        - question: If I passed the test, I would be happy.
+          option:
+            - normal thought
+            - strange thought or mistake
+          answer: normal thought
+        - question: If we won the championship, we would go to a luxury restaurant to celebrate.
+          option:
+            - normal thought
+            - strange thought or mistake
+          answer: normal thought
+        - question: If you did not clean your room, you would   be punished.
+          option:
+            - normal thought
+            - strange thought or mistake
+          answer: strange thought or mistake
+        - question: If I didn't get hurt, I would not be taken to the hospital.
+          option:
+            - normal thought
+            - strange thought or mistake
+          answer: strange thought or mistake
+        - question: If I knew a person was very emotional,   I would not agree to invite him to this party.
+          option:
+            - normal thought
+            - strange thought or mistake
+          answer: normal thought
+        - question: Kevin would not miss the interview if there w   as no traffic jam in the morning.
+          option:
+            - normal thought
+            - strange thought or mistake
+          answer: strange thought or mistake
+        - question: I would marry you, if you proposed to me.
+          option:
+            - normal thought
+            - strange thought or mistake
+          answer: normal thought
+        - question: I would be a superman, if my girlfriend was k   idnapped.
+          option:
+            - normal thought
+            - strange thought or mistake
+          answer: strange thought or mistake
+        - question: I would visit you, if I had time.
+          option:
+            - normal thought
+            - strange thought or mistake
+          answer: normal thought
+        - question: You would be safe, if  you put on your helmet.
+          option:
+            - normal thought
+            - strange thought or mistake
+          answer: normal thought
+        - question: You could do well, if you worked hard.
+          option:
+            - normal thought
+            - strange thought or mistake
+          answer: normal thought
         
+    3:
+      identifier: sensible 3rd conditional
+      quiz:
+        - question: I would have finished my homework, if I had gone to Taipei 101.
+          option:
+            - makes sense
+            - doesn't make sense
+          answer: doesn't make sense
+        - question: If I had known it was a holiday, I would have planned a journey.
+          option:
+            - makes sense
+            - doesn't make sense
+          answer: makes sense
+        - question: If I had known about the terrorist attack I would not have gone there.
+          option:
+            - makes sense
+            - doesn't make sense
+          answer: makes sense
+        - question: We would have gone to Tahiti, If you hadn't messed this up!
+          option:
+            - makes sense
+            - doesn't make sense
+          answer: makes sense
+        - question: "Jaylay, a student who always studies hard and always passes tests, says: 'If I had studied hard, I could have passed the test.'"
+          option:
+            - makes sense
+            - doesn't make sense
+          answer: doesn't make sense
+        - question: I would have finished my homework, if I had known I would want to graduate.
+          option:
+            - makes sense
+            - doesn't make sense
+          answer: doesn't make sense
+        - question: I could have finished my homework, if my mother hadn't asked me to do housework.
+          option:
+            - makes sense
+            - doesn't make sense
+          answer: makes sense
+        - question: If I hadn't forgotten to bring an umbrella, I wouldn't have gotten soaked.
+          option:
+            - makes sense
+            - doesn't make sense
+          answer: makes sense
+        - question: If you had studied hard, you could have passed the test.
+          option:
+            - makes sense
+            - doesn't make sense
+          answer: makes sense
+        - question: We would have beaten Thanos' ass, if we had had Captain Marvel.
+          option:
+            - makes sense
+            - doesn't make sense
+          answer: makes sense
+        - question: You could have gotten a gold medal, if you had not been injured.
+          option:
+            - makes sense
+            - doesn't make sense
+          answer: makes sense
+        - question: I would have finished my homework, if I had known I would end up being a student.
+          option:
+            - makes sense
+            - doesn't make sense
+          answer: doesn't make sense
+        - question: I would have finished my homework, if I had   known I would end up passing the class.
+          option:
+            - makes sense
+            - doesn't make sense
+          answer: doesn't make sense
         
 approach:
   jigsaw:
