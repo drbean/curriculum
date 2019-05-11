@@ -1,28 +1,28 @@
-+-----------------------------------+-----------------------------------+
-| ::: {.navigation}                 | ::: {.navigation}                 |
-| ::: {#title_pane}                 | ::: {#logo_pane}                  |
-| HomePage                          | ![Kwiki                           |
-| ========                          | Logo](http://momotaro/home/greg/h |
-| :::                               | tml/pics/P1010091cut.JPG "Kwiki") |
-|                                   | :::                               |
-| ::: {#status_pane}                |                                   |
-| ::: {.status}                     | \                                 |
-| :::                               |                                   |
-| :::                               | ::: {#widgets_pane}               |
-| :::                               | ::: {.widgets}                    |
-|                                   | :::                               |
-| -------------------------------   | :::                               |
-|                                   | :::                               |
-| ::: {#content_pane}               |                                   |
-| ::: {.wiki}                       |                                   |
++-------------------------------------+-----------------------------------+
+| ::: {.navigation}                   | ::: {.navigation}                 |
+| ::: {#title_pane}                   | ::: {#logo_pane}                  |
+| HomePage                            | ![Kwiki                           |
+| ========                            | Logo](http://momotaro/home/greg/h |
+| :::                                 | tml/pics/P1010091cut.JPG "Kwiki") |
+|                                     | :::                               |
+| ::: {#status_pane}                  |                                   |
+| ::: {.status}                       | \                                 |
+| :::                                 |                                   |
+| :::                                 | ::: {#widgets_pane}               |
+| :::                                 | ::: {.widgets}                    |
+|                                     | :::                               |
+| -------------------------------     | :::                               |
+|                                     | :::                               |
+| ::: {#content_pane}                 |                                   |
+| ::: {.wiki}                         |                                   |
 | - [ClassContent](http://web.nuu     |                                   |
-| .edu.tw/~greg/Contents.html)      |                                   |
-|                                   |                                   |
+| .edu.tw/~greg/Contents.html)        |                                   |
+|                                     |                                   |
 | - [SelfIntroduction](SelfIntrod     |                                   |
-| uction.html)                      |                                   |
-|                                   |                                   |
+| uction.html)                        |                                   |
+|                                     |                                   |
 | - [ThePracticeofTeaching](ThePracti |                                   |
-| ceofTeaching.html)                |                                   |
+| ceofTeaching.html)                  |                                   |
 |   -   [TeachingMethodology](Teachin |                                   |
 |   gMethodology.html)                |                                   |
 |   -   [SpeakingSyllabus](SpeakingSy |                                   |
@@ -36,45 +36,45 @@
 |   -   [CompositionSyllabus](Composi |                                   |
 |   tionSyllabus.html)                |                                   |
 |   -   [Listening                    |                                   |
-|     exercises](http://web.nuu.edu |                                   |
-| .tw/~greg/DictationExercises.html |                                   |
-| )                                 |                                   |
+|     exercises](http://web.nuu.edu   |                                   |
+| .tw/~greg/DictationExercises.html   |                                   |
+| )                                   |                                   |
 | - [CurriculumVitae](CurriculumVitae |                                   |
-| .html)                            |                                   |
+| .html)                              |                                   |
 | - [ChinMin](ChinMin.html)           |                                   |
 | - [MyHealth](MyHealth.html)         |                                   |
 | - [MyDocuments](MyDocuments.html)   |                                   |
 | - [LettersOfRecommendation](Letters |                                   |
-| OfRecommendation.html)            |                                   |
+| OfRecommendation.html)              |                                   |
 | - [CoverLetter](CoverLetter.html)   |                                   |
 | - [MyHobbies](MyHobbies.html)       |                                   |
 | - [Demo lesson                      |                                   |
-| slides](pc/index.html) Present    |                                   |
-| continuous as a future tense.     |                                   |
-|                                   |                                   |
-| TODO: under construction          |                                   |
-| :   E learning                    |                                   |
-| :   Business English              |                                   |
-| :   Listening                     |                                   |
-| :   Computer Programming          |                                   |
-| :   Copy editing/ESP              |                                   |
-| :   Learner Autonomy              |                                   |
-| :   Teacher Development           |                                   |
-| :   Communicative Methodology     |                                   |
-| :   Low-level Learners            |                                   |
-| :   curriculum Development        |                                   |
-| :   Motivation                    |                                   |
-| :   Linux System Administration   |                                   |
-| :   Internet Services             |                                   |
-| :   Bicycling                     |                                   |
-| :   Jogging                       |                                   |
-| :   Hitchhiking                   |                                   |
-|                                   |                                   |
-| :::                               |                                   |
-| :::                               |                                   |
-|                                   |                                   |
-| -------------------------------   |                                   |
-|                                   |                                   |
-| ::: {.navigation}                 |                                   |
-| :::                               |                                   |
-+-----------------------------------+-----------------------------------+
+| slides](pc/index.html) Present      |                                   |
+| continuous as a future tense.       |                                   |
+|                                     |                                   |
+| TODO: under construction            |                                   |
+| :   E learning                      |                                   |
+| :   Business English                |                                   |
+| :   Listening                       |                                   |
+| :   Computer Programming            |                                   |
+| :   Copy editing/ESP                |                                   |
+| :   Learner Autonomy                |                                   |
+| :   Teacher Development             |                                   |
+| :   Communicative Methodology       |                                   |
+| :   Low-level Learners              |                                   |
+| :   curriculum Development          |                                   |
+| :   Motivation                      |                                   |
+| :   Linux System Administration     |                                   |
+| :   Internet Services               |                                   |
+| :   Bicycling                       |                                   |
+| :   Jogging                         |                                   |
+| :   Hitchhiking                     |                                   |
+|                                     |                                   |
+| :::                                 |                                   |
+| :::                                 |                                   |
+|                                     |                                   |
+| -------------------------------     |                                   |
+|                                     |                                   |
+| ::: {.navigation}                   |                                   |
+| :::                                 |                                   |
++-------------------------------------+-----------------------------------+
