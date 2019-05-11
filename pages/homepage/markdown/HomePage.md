@@ -1,7 +1,3 @@
----
-title: 'HomePage - Kwiki'
----
-
 +-----------------------------------+-----------------------------------+
 | ::: {.navigation}                 | ::: {.navigation}                 |
 | ::: {#title_pane}                 | ::: {#logo_pane}                  |
@@ -68,22 +64,23 @@ title: 'HomePage - Kwiki'
 | slides](pc/index.html) Present    |                                   |
 | continuous as a future tense.     |                                   |
 |                                   |                                   |
-| -   E learning                    |                                   |
-| -   Business English              |                                   |
-| -   Listening                     |                                   |
-| -   Computer Programming          |                                   |
-| -   Copy editing/ESP              |                                   |
-| -   Learner Autonomy              |                                   |
-| -   Teacher Development           |                                   |
-| -   Communicative Methodology     |                                   |
-| -   Low-level Learners            |                                   |
-| -   curriculum Development        |                                   |
-| -   Motivation                    |                                   |
-| -   Linux System Administration   |                                   |
-| -   Internet Services             |                                   |
-| -   Bicycling                     |                                   |
-| -   Jogging                       |                                   |
-| -   Hitchhiking                   |                                   |
+| TODO: under construction          |                                   |
+| :   E learning                    |                                   |
+| :   Business English              |                                   |
+| :   Listening                     |                                   |
+| :   Computer Programming          |                                   |
+| :   Copy editing/ESP              |                                   |
+| :   Learner Autonomy              |                                   |
+| :   Teacher Development           |                                   |
+| :   Communicative Methodology     |                                   |
+| :   Low-level Learners            |                                   |
+| :   curriculum Development        |                                   |
+| :   Motivation                    |                                   |
+| :   Linux System Administration   |                                   |
+| :   Internet Services             |                                   |
+| :   Bicycling                     |                                   |
+| :   Jogging                       |                                   |
+| :   Hitchhiking                   |                                   |
 |                                   |                                   |
 | See some notes about my 10 years  |                                   |
 | at [ChinMin](ChinMin.html)        |                                   |
