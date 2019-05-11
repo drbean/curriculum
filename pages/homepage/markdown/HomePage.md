@@ -15,50 +15,40 @@
 |                                   | :::                               |
 | ::: {#content_pane}               |                                   |
 | ::: {.wiki}                       |                                   |
-| [ClassContent](http://web.nuu     |                                   |
+| - [ClassContent](http://web.nuu     |                                   |
 | .edu.tw/~greg/Contents.html)      |                                   |
 |                                   |                                   |
-|                                   |                                   |
-| [SelfIntroduction](SelfIntrod     |                                   |
+| - [SelfIntroduction](SelfIntrod     |                                   |
 | uction.html)                      |                                   |
 |                                   |                                   |
-| [ThePracticeofTeaching](ThePracti |                                   |
+| - [ThePracticeofTeaching](ThePracti |                                   |
 | ceofTeaching.html)                |                                   |
-|                                   |                                   |
-| -   [TeachingMethodology](Teachin |                                   |
-| gMethodology.html)                |                                   |
-| -   [SpeakingSyllabus](SpeakingSy |                                   |
-| llabus.html)                      |                                   |
-| -   [WorldAffairsSyllabus](WorldA |                                   |
-| ffairsSyllabus.html)              |                                   |
-| -   [ConversationSyllabus](Conver |                                   |
-| sationSyllabus.html)              |                                   |
-| -   [DiscussionSyllabus](Discussi |                                   |
-| onSyllabus.html)                  |                                   |
-| -   [CompositionSyllabus](Composi |                                   |
-| tionSyllabus.html)                |                                   |
-| -   [Listening                    |                                   |
+|   -   [TeachingMethodology](Teachin |                                   |
+|   gMethodology.html)                |                                   |
+|   -   [SpeakingSyllabus](SpeakingSy |                                   |
+|   llabus.html)                      |                                   |
+|   -   [WorldAffairsSyllabus](WorldA |                                   |
+|   ffairsSyllabus.html)              |                                   |
+|   -   [ConversationSyllabus](Conver |                                   |
+|   sationSyllabus.html)              |                                   |
+|   -   [DiscussionSyllabus](Discussi |                                   |
+|   onSyllabus.html)                  |                                   |
+|   -   [CompositionSyllabus](Composi |                                   |
+|   tionSyllabus.html)                |                                   |
+|   -   [Listening                    |                                   |
 |     exercises](http://web.nuu.edu |                                   |
 | .tw/~greg/DictationExercises.html |                                   |
 | )                                 |                                   |
-|                                   |                                   |
-| [CurriculumVitae](CurriculumVitae |                                   |
+| - [CurriculumVitae](CurriculumVitae |                                   |
 | .html)                            |                                   |
-|                                   |                                   |
-| [ChinMin](ChinMin.html)           |                                   |
-|                                   |                                   |
-| [MyHealth](MyHealth.html)         |                                   |
-|                                   |                                   |
-| [MyDocuments](MyDocuments.html)   |                                   |
-|                                   |                                   |
-| [LettersOfRecommendation](Letters |                                   |
+| - [ChinMin](ChinMin.html)           |                                   |
+| - [MyHealth](MyHealth.html)         |                                   |
+| - [MyDocuments](MyDocuments.html)   |                                   |
+| - [LettersOfRecommendation](Letters |                                   |
 | OfRecommendation.html)            |                                   |
-|                                   |                                   |
-| [CoverLetter](CoverLetter.html)   |                                   |
-|                                   |                                   |
-| [MyHobbies](MyHobbies.html)       |                                   |
-|                                   |                                   |
-| [Demo lesson                      |                                   |
+| - [CoverLetter](CoverLetter.html)   |                                   |
+| - [MyHobbies](MyHobbies.html)       |                                   |
+| - [Demo lesson                      |                                   |
 | slides](pc/index.html) Present    |                                   |
 | continuous as a future tense.     |                                   |
 |                                   |                                   |
