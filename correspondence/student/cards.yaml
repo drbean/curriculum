@@ -21,9 +21,9 @@ courteous:
           answer: You should practice cooking more, and you will cook more delicious dishes than you cook now.
         - question: Which statement creates less positive feeling?
           option:
-            - It’s none of your business.
-            - Don’t worry, I will take care of it, but thank you, anyway.
-          answer: It’s none of your business.
+            - It's none of your business.
+            - Don't worry, I will take care of it, but thank you, anyway.
+          answer: It's none of your business.
         - question: Which statement creates less positive feeling?
           option:
             - Don't throw rubbish on the floor.
@@ -76,7 +76,7 @@ courteous:
           option:
             - You shouldn't leave your stuff here.
             - Let's not leave our stuff here.
-          answer: You shouldn’t leave your stuff here.
+          answer: You shouldn't leave your stuff here.
 passive:
     0:
       identifier: student examples of use of passive in tone
@@ -106,7 +106,7 @@ passive:
             - good example
             - bad example
           answer: good example
-        - question: Under-15-year-olds can’t go to work <p> Emphasizes what is important is the object of action, or action itself
+        - question: Under-15-year-olds can't go to work <p> Emphasizes what is important is the object of action, or action itself
           option:
             - good example
             - bad example
@@ -352,6 +352,113 @@ conditional:
             - He/she didn't know it was the person's birthday but gave them a gift for some other reason.
           answer: He/she didn't know it was the person's birthday and didn't give them a gift.
     2:
+      identifier: 0th conditional problem
+      quiz:
+        - question: It's a nice book, If you want to read it.
+          option:
+            - normal thought
+            - strange thought or mistake
+          answer: normal thought
+        - question: John gets good grades if he studies hard.
+          option:
+            - normal thought
+            - strange thought or mistake
+          answer: normal thought
+        - question: If I get up early everyday, I have a healthy body.
+          option:
+            - normal thought
+            - strange thought or mistake
+          answer: strange thought or mistake
+        - question: It's easy, if you practice  with me.
+          option:
+            - normal thought
+            - strange thought or mistake
+          answer: normal thought
+        - question: He is a good student, if you use another viewpoint to look at him.
+          option:
+            - normal thought
+            - strange thought or mistake
+          answer: normal thought
+        - question: It's cold, if there is no sunlight .
+          option:
+            - normal thought
+            - strange thought or mistake
+          answer: normal thought
+        - question: It's very warm everyday, if people live in Indonesia.
+          option:
+            - normal thought
+            - strange thought or mistake
+          answer: strange thought or mistake
+        - question: If the class bell rings, I walk to the classroom quickly.
+          option:
+            - normal thought
+            - strange thought or mistake
+          answer: normal thought
+        - question: If the sun goes down, the moon comes up.
+          option:
+            - normal thought
+            - strange thought or mistake
+          answer: normal thought
+        - question: If you prepare dinner, I go home today.
+          option:
+            - normal thought
+            - strange thought or mistake
+          answer: strange thought or mistake
+        
+    3:
+      identifier: 1st conditional problem
+      quiz:
+        - question: I will not benefit from this opportunity, if I don't prepare beforehand.
+          option:
+            - normal thought
+            - strange thought or mistake
+          answer: normal thought
+        - question: I will give you some candy, if you get a good grade.
+          option:
+            - normal thought
+            - strange thought or mistake
+          answer: normal thought
+        - question: If you still don't know what to do, you can call me for help.
+          option:
+            - normal thought
+            - strange thought or mistake
+          answer: normal thought
+        - question: You won't go outside if you don't wear a jacket.
+          option:
+            - normal thought
+            - strange thought or mistake
+          answer: strange thought or mistake
+        - question: I will fire some workers, if they aren't hard   working.
+          option:
+            - normal thought
+            - strange thought or mistake
+          answer: normal thought
+        - question: What will you send, if your sister leaves now?
+          option:
+            - normal thought
+            - strange thought or mistake
+          answer: strange thought or mistake
+        - question: He will be a good guy, if you want to make a   friend.
+          option:
+            - normal thought
+            - strange thought or mistake
+          answer: strange thought or mistake
+        - question: If we forget to turn off the lights, we will   waste lots of electricity.
+          option:
+            - normal thought
+            - strange thought or mistake
+          answer: normal thought
+        - question: If you want to go to Tainan, we will stay with you.
+          option:
+            - normal thought
+            - strange thought or mistake
+          answer: strange thought or mistake
+        - question: I will throw away some of your toys, if you don't put them away.
+          option:
+            - normal thought
+            - strange thought or mistake
+          answer: normal thought
+    4:
       identifier: strange 2nd conditional
       quiz:
         - question: If I were your mom, I'd never let you hungry.
@@ -384,7 +491,7 @@ conditional:
             - normal thought
             - strange thought or mistake
           answer: strange thought or mistake
-        - question: "Student: If I　was a student, I would study hard."
+        - question: "Student: If I was a student, I would study hard."
           option:
             - normal thought
             - strange thought or mistake
@@ -460,7 +567,7 @@ conditional:
             - strange thought or mistake
           answer: normal thought
         
-    3:
+    5:
       identifier: sensible 3rd conditional
       quiz:
         - question: I would have finished my homework, if I had gone to Taipei 101.
@@ -574,7 +681,7 @@ approach:
             - good answer
             - answer not good, or approach missing 
           answer: good answer
-        - question: "1.Choose positive statements and avoid the negative.  <p>   If the price of goods falls, it will lead an increase in demand.    <p> 2.Use conditional sentences-Allude to a hypothetical situation.   <p>  You’ll get wet in the heavy rain if you forget to bring an umbrella."
+        - question: "1.Choose positive statements and avoid the negative.  <p>   If the price of goods falls, it will lead an increase in demand.    <p> 2.Use conditional sentences-Allude to a hypothetical situation.   <p>  You'll get wet in the heavy rain if you forget to bring an umbrella."
           option:
             - good answer
             - answer not good, or approach missing 
