@@ -501,16 +501,6 @@ conditional:
             - normal thought
             - strange thought or mistake
           answer: normal thought
-        - question: We would see the movie together, if we paid the money.
-          option:
-            - normal thought
-            - strange thought or mistake
-          answer: strange thought or mistake
-        - question: She could get on the bus if you gave her a ride.
-          option:
-            - normal thought
-            - strange thought or mistake
-          answer: strange thought or mistake
         - question: If I passed the test, I would be happy.
           option:
             - normal thought
@@ -521,6 +511,19 @@ conditional:
             - normal thought
             - strange thought or mistake
           answer: normal thought
+    5:
+      identifier: strange 2nd conditional again
+      quiz:
+        - question: We would see the movie together, if we paid the money.
+          option:
+            - normal thought
+            - strange thought or mistake
+          answer: strange thought or mistake
+        - question: She could get on the bus if you gave her a ride.
+          option:
+            - normal thought
+            - strange thought or mistake
+          answer: strange thought or mistake
         - question: If you did not clean your room, you would   be punished.
           option:
             - normal thought
@@ -536,7 +539,7 @@ conditional:
             - normal thought
             - strange thought or mistake
           answer: normal thought
-        - question: Kevin would not miss the interview if there w   as no traffic jam in the morning.
+        - question: Kevin would not miss the interview if there was no traffic jam in the morning.
           option:
             - normal thought
             - strange thought or mistake
@@ -546,7 +549,7 @@ conditional:
             - normal thought
             - strange thought or mistake
           answer: normal thought
-        - question: I would be a superman, if my girlfriend was k   idnapped.
+        - question: I would be a superman, if my girlfriend was kidnapped.
           option:
             - normal thought
             - strange thought or mistake
@@ -567,7 +570,7 @@ conditional:
             - strange thought or mistake
           answer: normal thought
         
-    5:
+    6:
       identifier: sensible 3rd conditional
       quiz:
         - question: I would have finished my homework, if I had gone to Taipei 101.
@@ -620,6 +623,9 @@ conditional:
             - makes sense
             - doesn't make sense
           answer: makes sense
+    7:
+      identifier: sensible 3rd conditional again
+      quiz:
         - question: You could have gotten a gold medal, if you had not been injured.
           option:
             - makes sense
