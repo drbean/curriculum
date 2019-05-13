@@ -119,6 +119,58 @@ threat:
           answer: False
         - question: "The book says when you say, 'If you are not willing to do this, I will be forced to do something,' you need to be ready to do what you say."
           answer: True
+        - question: The book says using threatening language is difficult because--
+          option:
+            - it suggests the reader is suspicious of you
+            - it suggests you are suspicious of the reader
+            - it is better not to use threats
+            - it is better not to try to make an impression on the reader
+          answer: it suggests you are suspicious of the reader
+        - question: A threat is--
+          option:
+            - a promise to do something to hurt someone
+            - a prediction that something bad will happen to the reader
+            - an intention, reported to the reader, to hurt him/her unless some condition is met
+          answer: an intention, reported to the reader, to hurt him/her unless some condition is met
+    1:
+      identifier: threat examples
+      quiz:
+        
+        - question: "According to the book, if you say what you would like if the reader cannot carry out your request, this is:"
+          option:
+            - a threat
+            - not necessarily a threat
+          answer: not necessarily a threat
+        - question: "'I understand your problem, but we need you to fix OUR problem! We are angry, dismayed and upset! Do it!'"
+          option:
+            - a threat
+            - not a threat
+          answer: not a threat
+        - question: "'We will no longer do business with you, if our problem is not fixed.'"
+          option:
+            - a threat
+            - not a threat
+          answer: a threat
+        - question: "'If you fix our problem, in return and to express our gratitude, we will do X.'"
+          option:
+            - a threat
+            - not a threat
+          answer: not a threat
+        - question: "'If you cannot fix our problem, we would like, but not require, you to do X.'"
+          option:
+            - a threat
+            - not a threat
+          answer: not a threat
+        - question: 'If you are not willing to do this, there will be results for our relationship.' 
+          option:
+            - a threat
+            - not a threat
+          answer: a threat
+        
+        
+        
+        
+        
         
         
         
@@ -204,6 +256,19 @@ glass:
             - No
           answer: Yes
 drink:
+  drag:
+    0:
+      identifier: drink claim cloze 1
+      sentences:
+        -
+          sentence: Our company has been using TOPCAT Recruitment for the past twelve years. Every year, we have needed a number of temporary workers to satisfy the increase in demand for our drinks. For the most part, we have been very satisfied with the quality of the employees you have sent us to work in our warehouses.<p> However, over the last two months we have noticed a definite change in the quality of employee we have been sent. On 27 June, nine employees arrived, only one of whom lasted a week. On 11 July, six more workers were due to arrive, but only two did (and they were both late). Then, on 24 July, eighteen workers arrived who were all under the impression their duties would not involve _________ lifting, which is certainly not the case. After being told what was expected of them, thirteen left ___________.
+          clozed: number|temporary|demand|satisfied|warehouses|definite|impression|End
+    1:
+      identifier: drink claim cloze 2
+      sentences:
+        -
+          sentence: However, over the last two months we have noticed a __________ change in the quality of employee we have been sent. On 27 June, nine employees arrived, only one of whom lasted a week. On 11 July, six more workers were due to arrive, but only two did (and they were both late). Then, on 24 July, eighteen workers arrived who were all under the _________ their duties would not involve heavy lifting, which is certainly not the case. After being told what was expected of them, thirteen left immediately.<p> I am not sure why the situation changed, but it is having a detrimental effect on our staff. We urgently need seventeen employees for our day shift (usual terms apply), and would appreciate getting employees who are willing to do the jobs expected of them. Employment would be on a week-to-week basis.<p>  If the quality of employees we receive is not up to our required standard, I am afraid we will be forced to consider another recruitment agency.
+          clozed: heavy|immediately|detrimental|shift|appreciate|required|forced|End
   match:
     0:
       identifier: drink workers
@@ -322,6 +387,9 @@ drink:
           answer: False
         - question: The threat is workers that are not up to standard
           answer: False
+        - question: There is no polite close. This shows the state of mind of the writer.
+          answer: True
+        
     0:
       identifier: reply
       quiz:
@@ -531,7 +599,7 @@ doll:
 credit:
   jigsaw:
     comprehension:
-      identifier: credit comprehension
+      identifier: credit card comprehension
       quiz:
         - question: The name of the managing director suggests this is not a real complaint.
           answer: True
@@ -687,7 +755,7 @@ credit:
           answer: Tone weak, because of negative judgmental attitude to reader
   drag:
     0:
-      identifier: tone improvement scramble
+      identifier: card tone-up scramble
       sentences:
         -
           sentence: One cause is mistakes by staff carrying out credit card checks.
@@ -973,6 +1041,39 @@ reply:
         -
           - forward-looking close
           - step 3
+    1:
+      identifier: reply actions
+      pair:
+        -
+          - step 1
+          - acknowledgement of contact
+        -
+          - step 1
+          - appreciation of complaint action
+        -
+          - step 2a--accepting claim
+          - acceptance of responsibility
+        -
+          - step 2a--accepting claim
+          - reason for problem
+        -
+          - step 2a--accepting claim
+          - promise to make up for damage
+        -
+          - step 2a--accepting claim
+          - report of efforts to prevent problems in future
+        -
+          - step 2b--rejecting claim
+          - non-acceptance of responsibility
+        -
+          - step 2b--rejecting claim
+          - reason for decision
+        -
+          - step 2b--rejecting claim
+          - concession to maintain good relationship
+        -
+          - step 3
+          - forward-looking close
 
 bank:
   match:
@@ -1017,7 +1118,7 @@ responsibility:
 swearing:
   match:
     0:
-      identifier: swearing 0
+      identifier: swearing order 0
       pair:
         -
           - A.
@@ -1041,7 +1142,7 @@ swearing:
           - G.
           - 4. She vehemently denies swearing at you, although she does concede that you did have to wait quite a long time to be served.
     1:
-      identifier: swearing 1
+      identifier: swearing order 1
       pair:
         -
           - H.
@@ -1348,7 +1449,7 @@ pen:
 assumption:
   jigsaw:
     0:
-      identifier: assumption
+      identifier: letter assumption
       quiz:
         - question: |+
             <html xmlns="http://www.w3.org/1999/xhtml">
@@ -1392,7 +1493,7 @@ assumption:
           option:
             - makes assumptions
             - doesn't make assumptions
-          answer: makes assumptions
+          answer: doesn't make assumptions
     instance:
       identifier: assumption instances
       quiz:
