@@ -21,8 +21,7 @@ Follow the structure in the book on p104.
           - report of efforts to prevent problems in future
           - forward-looking close
 
-Use the sentences you wrote in Week 13,14: pen complaint reply
-
+Alternately, if you want to not take responsibility, you can do that, but you need to follow a different structure.
 
 ## mango
 
