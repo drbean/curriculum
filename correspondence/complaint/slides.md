@@ -6,23 +6,6 @@
 
 # Homework
 
-## pen
-
-Write the email to Tracy replying to her complaint on p107.
-
-Use the information in the 2 paragraphs at the bottom of the page.
-
-Follow the structure in the book on p104.
-
-          - appreciation of complaint action
-          - acceptance of responsibility
-          - reason for problem
-          - promise to make up for damage
-          - report of efforts to prevent problems in future
-          - forward-looking close
-
-Alternately, if you want to not take responsibility, you can do that, but you need to follow a different structure.
-
 ## mango
 
 Write the email to Mr Hiramoto replying to his complaint on p109.
