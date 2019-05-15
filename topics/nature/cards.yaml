@@ -130,15 +130,16 @@ sea:
 flower:
   0:
     flash: 
-      roots   : 根
-      petals  : 花瓣
       tulips  : 鬱金香
       cactus  : 仙人掌
+      vase    : 花瓶
+      roots   : 根
+      petals  : 花瓣
       cost    : 成本
       bloom   : 盛開
       sharp   : 尖銳
-      vase    : 花瓶
   bingo:
+    - tulip cactus vase roots petals cost/costs bloom sharp
     - tulip cactus vase roots petals cost/costs bloom sharp knife money fruit scissors happy_birthday rose
     - worried birthday mother gift buy picks petals vase gives loves great cost
     - Billy pot cactus strange come_from dry_places grow lot_of_water touch careful sharp
