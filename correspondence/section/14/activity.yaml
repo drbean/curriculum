@@ -69,4 +69,219 @@
     intro : 
     random: 5
   
+-
+  -
+    topic : student
+    story : deadline
+    type  : jigsaw
+    form  : 0
+    intro : 
+    random: 3
+-
+  -
+    topic : student
+    story : deadline
+    type  : jigsaw
+    form  : 1
+    intro : 
+    random: 3
 
+-
+  -
+    topic : order
+    story : order
+    type  : jigsaw
+    form  : context
+    intro : 
+    random: 2
+-
+  -
+    topic : order
+    story : order
+    type  : match
+    form  : 0
+    intro : 
+    random: 
+
+-
+  -
+    topic : order
+    story : security
+    type  : match
+    form  : 0
+    intro : 
+    random: 
+-
+  -
+    topic : order
+    story : security
+    type  : match
+    form  : 1
+    intro : 
+    random: 
+-
+  -
+    topic : order
+    story : security
+    type  : jigsaw
+    form  : 0
+    intro : 
+    random: 4
+
+-
+  -
+    topic : order
+    story : order
+    type  : match
+    form  : 1
+    intro : 
+    random: 
+  
+-
+  -
+    topic : order
+    story : sweater
+    type  : match
+    form  : 0
+    intro : 
+    random: 
+-
+  -
+    topic : order
+    story : sweater
+    type  : jigsaw
+    form  : 0
+    intro : 
+    random: 1
+-
+  -
+    topic : order
+    story : sweater
+    type  : jigsaw
+    form  : 1
+    intro : 
+    random: 1
+-
+  -
+    topic : order
+    story : sweater
+    type  : jigsaw
+    form  : 2
+    intro : 
+    random: 1
+-
+  -
+    topic : order
+    story : sweater
+    type  : jigsaw
+    form  : 3
+    intro : 
+    random: 1
+  
+-
+  -
+    topic : order
+    story : sweater
+    type  : jigsaw
+    form  : 20
+    intro : 
+    random:
+-
+  -
+    topic : order
+    story : sweater
+    type  : jigsaw
+    form  : 21
+    intro : 
+    random: 4
+
+-
+  -
+    topic : order
+    story : acknowledge
+    type  : match
+    form  : 0
+    intro : 
+    random: 
+-
+  -
+    topic : order
+    story : acknowledge
+    type  : match
+    form  : 1
+    intro : 
+    random: 
+  
+-
+  -
+    topic : order
+    story : sweater
+    type  : jigsaw
+    form  : 22
+    intro : 
+    random:
+  
+-
+  -
+    topic : order
+    story : sweater
+    type  : jigsaw
+    form  : 10
+    intro : 
+    random: 2
+-
+  -
+    topic : order
+    story : sweater
+    type  : jigsaw
+    form  : 11
+    intro : 
+    random: 2
+-
+  -
+    topic : order
+    story : sweater
+    type  : jigsaw
+    form  : 12
+    intro : 
+    random: 2
+-
+  -
+    topic : order
+    story : sweater
+    type  : jigsaw
+    form  : 13
+    intro : 
+    random: 2
+-
+  -
+    topic : order
+    story : sweater
+    type  : jigsaw
+    form  : 14
+    intro : 
+    random: 2
+-
+  -
+    topic : order
+    story : sweater
+    type  : jigsaw
+    form  : 15
+    intro : 
+    random: 2
+-
+  -
+    topic : order
+    story : sweater
+    type  : jigsaw
+    form  : 16
+    intro : 
+    random: 2
+-
+  -
+    topic : order
+    story : sweater
+    type  : jigsaw
+    form  : 17
+    intro : 
+    random: 2
