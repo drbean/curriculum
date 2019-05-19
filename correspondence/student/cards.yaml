@@ -772,12 +772,85 @@ midterm:
             - good
             - not so good
           answer: good
-        
-        
-        
-        
-        
-        
-        
-        
-        
+complaint:
+  jigsaw:
+    0:
+      identifier: no complaint part
+      quiz:
+        - question: "Subject: Please  reply me<p> I had written a letter to you, but you still didn't give me a reply.<p>  Please give me a reply by August 1. If you can't give me a nice reply, you can sent a simple mail to me."
+          option:
+            - background
+            - complaint
+            - request
+            - polite close
+          answer: polite close
+        - question: "Subject: complaint the dish in the restaurant<p> I think your restaurant is very good. your dish taste very nice<p> But last week, I went to your restaurant, I have got a bad experience.<p> I taste the meat badly,the meat was undercooked<p> I thought they was disgusting,and I have Stomach pain on midnight<p> I hope this situation do not happen again.<p>  Please do your best."
+          option:
+            - background
+            - complaint
+            - damage
+            - request
+            - threat
+            - polite close
+          answer: threat
+        - question: "Subject : The #123 Meal<p> I bought a meal from your restaurant but the meat was badly undercooked and the vegetable overcooked. The meal was almost spoiled.<p>  I feel awful about the meal and vegetable. It made me have a stomachache for four days. At the end, I went to the hospital.<p>  I would appreciate if you can give me some compensation and a free meal that I can know your restaurant is not a terrible restaurant.<p>  Thank you in advance for your cooperation in this matter."
+          option:
+            - background
+            - complaint
+            - damage
+            - request
+            - threat
+            - polite close
+          answer: threat
+        - question: I am writing to complain about the letter you didn't reply.  On Dec 12,I wrote a letter to you to ask when you can finish your part of project. At that time you said you would answer me.<p>  However, today is Dec 20, and you didn't answer.I can't send all information to leader, and leader blamed me.<p>  If you will not send that to me, please tell me and I can tell others to finish that. 
+          option:
+            - background
+            - complaint
+            - damage
+            - request
+            - polite close
+          answer: polite close
+        - question: I ordered I Phone 8 last week, but the cellphone is not coming at home.<p>  Please your company send my product at my home before this week.<p>Thank you very much.
+          option:
+            - background
+            - complaint
+            - damage
+            - request
+            - polite close
+          answer: damage
+        - question: "Subject: Take-away Order number 135<p> I ordered No.1 meal in your restaurant. On 28 April 2019 I got the meal and went home, and I ate  them in that night.<p>  And the next day, I got a stomachache and can not work.<p>  I would appreciate if you can give me a suitable explain, or I have to report the problem.<p>  Thank you for read my opinion and hope you could think highly of my suggestion."
+          option:
+            - background
+            - complaint
+            - damage
+            - request
+            - threat
+            - polite close
+          answer: complaint
+        - question: I am writing to complain about the box had not been taped properly and all the dolls were damaged.<p>  I get the damaged dolls and I cannot give to my customer.<p>  If I do not receive your sincerely apologize, I will sue you.  <p>Thank you for your company in advance.
+          option:
+            - background
+            - complaint
+            - damage
+            - request
+            - threat
+            - polite close
+          answer: background
+        - question: I am writing to complain about the delivery of the printing paper we ordered. On 6 April 2019 we orderded from you 10000 pieces of best quality paper (order number as above).  At that time, you assured us that delivery would be made on 6 May 2019.<p>  However, to date, we received delivery of paper which all poor quality. We should delay a number of orders and damaging our reputation.<p>  We should appreciate your informing us when we can receive best quality delivery by May 20.  <p>If delivery can't be made, we will be forced to consider another supplier.
+          option:
+            - background
+            - complaint
+            - damage
+            - request
+            - threat
+            - polite close
+          answer: polite close
+        - question: "Subject : Order Number 1212/MG<p> I am writing to complain about the delivery of the china dolls we ordered. On May 8, 2019 we order from you 25 china dolls (order number as above).<p>  I received those dolls today. However, the box had not been taped properly, so all the dolls were damaged when they arrived at my house. These dolls are gifts that I want to give to my friends. Now  the dolls are broken, make me feel bothering.<p>  I would appreciate you if you can send new dolls to me before May 20.  <p>Thank you for your cooperation in this matter."
+          option:
+            - background
+            - complaint
+            - damage
+            - request
+            - threat
+            - polite close
+          answer: threat
