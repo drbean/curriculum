@@ -36,30 +36,9 @@ order:
             - order cancellation
             - complaint
           answer: acknowledgment of the order
-    0:
-      identifier: example 
-      quiz:
-        - question: sweater email p 115
-          option:
-            - order
-            - acknowledgment of order
-            - cancellation of order
-          answer: cancellation of order
-        - question: sweater email p 116
-          option:
-            - order
-            - acknowledgment of order
-            - cancellation of order
-          answer: order
-        - question: sweater email p 117
-          option:
-            - order
-            - acknowledgment of order
-            - cancellation of order
-          answer: acknowledgment of order
   match:
     0:
-      identifier: structure
+      identifier: order structure
       pair:
         -
           - subject line
@@ -76,6 +55,26 @@ order:
         -
           - closing paragraph
           - appreciation of expected result
+    1:
+      identifier: example order sentences
+      pair:
+        -
+          - order (reference) number
+          - # 1234
+        -
+          - previous contact, or other connection
+          - "I have received .."
+        -
+          - order
+          - I want to buy ..
+        -
+          - deadline
+          - As the Christmas season is approaching, I would like ..
+        -
+          - appreciation of expected result
+          - I look forward to ..
+        
+        
 security:
   jigsaw:
     0:
@@ -130,7 +129,7 @@ security:
           answer: the middle of September
   match:
     0:
-      identifier: security
+      identifier: security camera order
       pair:
         -
           - "Subject: An order for CHV-750 .."
@@ -194,6 +193,24 @@ acknowledge:
         -
           - polite close
           - forward looking, appreciative expression without much meaning
+    1:
+      identifier: acknowledge actions
+      pair:
+        -
+          - "a number identifying the order, prefaced by Re:, etc"
+          - subject line
+        -
+          - notification the supplier has received the buyer's order
+          - acknowledgment
+        -
+          - how the process of getting the item to the buyer is going
+          - status of the order
+        -
+          - how long it's going to take for the purchaser to get delivery
+          - arrival date
+        -
+          - a positive future-looking expression
+          - polite close
         
         
 textbook:
@@ -739,7 +756,7 @@ sweater:
         - question: I am certainly interest in making
           answer: interest/interested
     0:
-      identifier: sweater correction
+      identifier: sweater correction 0
       quiz:
         - question: the friend of mine and one of your customers
           answer: 
@@ -756,7 +773,7 @@ sweater:
               error: ^(?!.*by.*)
               feedback: Use the words, "by"
     1:
-      identifier: sweater correction
+      identifier: sweater correction 1
       quiz:
         - question: making the followed order
           answer: 
@@ -773,7 +790,7 @@ sweater:
               error: ^(?!.*believe.*)
               feedback: Use the words, "believe"
     2:
-      identifier: sweater correction
+      identifier: sweater correction 2
       quiz:
         - question: like to be given this terms also
           answer: 
@@ -790,7 +807,7 @@ sweater:
               error: ^(?!.*by.*)
               feedback: Use the words, "by"
     3:
-      identifier: sweater correction
+      identifier: sweater correction 3
       quiz:
         - question: my shipped address is
           answer: 
@@ -807,8 +824,8 @@ sweater:
               error: ^(?!.*interested.*)
               feedback: Use the words, "interested"
             
-    11:
-      identifier: sweater acknowledgment
+    10:
+      identifier: sweater acknowledgment 0
       quiz:
         - question: email ___ 11 September
           answer:
@@ -827,8 +844,8 @@ sweater:
               error: ^(?!.*(with|for).*)
               feedback: Use the words, "with" or "for"
             
-    12:
-      identifier: sweater acknowledgment
+    11:
+      identifier: sweater acknowledgment 1
       quiz:
         - question: is always ___ from new customers
           answer:
@@ -854,8 +871,8 @@ sweater:
               error: ^(?!.*(inform|tell).*)
               feedback: Use the words, "inform" or "tell"
             
-    13:
-      identifier: sweater acknowledgment
+    12:
+      identifier: sweater acknowledgment 2
       quiz:
         - question: terms you asked about are ____
           answer:
@@ -876,8 +893,8 @@ sweater:
               error: ^(?!.*processed.*)
               feedback: Use the words, "processed"
             
-    14:
-      identifier: sweater acknowledgment
+    13:
+      identifier: sweater acknowledgment 3
       quiz:
         - question: ___ should be made 
           answer:
@@ -895,8 +912,8 @@ sweater:
               error: ^(?!.*American.*)
               feedback: Use the words, "American"
             
-    15:
-      identifier: sweater acknowledgment
+    14:
+      identifier: sweater acknowledgment 4
       quiz:
         - question: by ___ the money
           answer:
@@ -915,8 +932,8 @@ sweater:
               error: ^(?!.*invoice.*)
               feedback: Use the words, "invoice"
 
-    16:
-      identifier: sweater acknowledgment
+    15:
+      identifier: sweater acknowledgment 5
       quiz:
         - question: regretfully ___ at the moment
           answer:
@@ -936,7 +953,7 @@ sweater:
               feedback: Use the words, "batch" or "lot"
             
     16:
-      identifier: sweater acknowledgment
+      identifier: sweater acknowledgment 6
       quiz:
         - question: a ___ delivered to you
           answer:
@@ -955,7 +972,7 @@ sweater:
               feedback: Use the words, "We hope"
             
     17:
-      identifier: sweater acknowledgment
+      identifier: sweater acknowledgment 7
       quiz:
         - question: payment period ___ from this date
           answer:
@@ -975,6 +992,57 @@ sweater:
               error: ^(?!.*(hearing from you).*)
               feedback: Use the words, "(hearing from you)"
             
+    20:
+      identifier: example 
+      quiz:
+        - question: sweater email p 115
+          option:
+            - order
+            - acknowledgment of order
+            - cancellation of order
+          answer: cancellation of order
+        - question: sweater email p 116
+          option:
+            - order
+            - acknowledgment of order
+            - cancellation of order
+          answer: order
+        - question: sweater email p 117
+          option:
+            - order
+            - acknowledgment of order
+            - cancellation of order
+          answer: acknowledgment of order
+    21:
+      identifier: order message order
+      quiz:
+        - question: The word 'order' has a number of different meanings.
+          answer: True
+        - question: The 'order of the order messages' means which message comes first, the original order message, the cancellation message, or the acknowledgment message.
+          answer: True
+        - question: The order of the order messages on page 115,116,117 is the right order.
+          answer: False
+        - question: The right order of the order messages on page 115,116,117 is the one on p 117, then the one on p 116, then the one on p 115.
+          answer: False
+        - question: The right order of the order messages on page 115,116,117 is the one on p 115, then the one on p 116, then the one on p 117.
+          answer: False
+        - question: The right order of the order messages on page 115,116,117 is the one on p 116, then the one on p 117, then the one on p 115.
+          answer: True
+        - question: The ordering of the sweater order messages in the book is a strange order.
+          answer: True
+    22:
+      identifier: sweater acknowledgment page
+      quiz:
+        - question: On which page is the acknowledgment of the sweater order?
+          option:
+            - p 115
+            - p 116
+            - p 117
+          answer: p 117
+        
+        
+
+        
 cancel:
   match:
     0:
