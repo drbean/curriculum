@@ -98,6 +98,29 @@ You can subordinate an idea (put it in the background) by placing it in middle p
 
 - [Trump shouting](https://www.huffingtonpost.com/entry/twitter-donald-trump-all-caps-tweet_us_5aa77d98e4b009b705d5ab08)
 
+# Conditional
+
+## 3 (or 4) types
+
+## I would be tired, if you called me at midnight
+
+OK
+
+I would be happy if you gave me a gift.
+
+I would be delighted if you called me at midnight.
+
+I would be angry if you called me at midnight.
+
+NOK
+
+I would be tired, if you called me at midnight.
+
+OK
+
+* Man: What's a good time to call? How about midnight?
+* Woman: I would be tired, if you called me at midnight.
+
 # Homework
 
 ## Improving the tone
