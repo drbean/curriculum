@@ -1,0 +1,228 @@
+---
+-
+  -
+    topic : student
+    story : conditional
+    type  : jigsaw
+    form  : 2
+    intro : 
+    random: 5
+-
+  -
+    topic : student
+    story : conditional
+    type  : jigsaw
+    form  : 3
+    intro : 
+    random: 5
+-
+  -
+    topic : student
+    story : conditional
+    type  : jigsaw
+    form  : 4
+    intro : 
+    random: 5
+-
+  -
+    topic : student
+    story : conditional
+    type  : jigsaw
+    form  : 6
+    intro : 
+    random: 5
+
+-
+  -
+    topic : complaint
+    story : threat
+    type  : jigsaw
+    form  : 0
+    intro : 
+    random: 4
+-
+  -
+    topic : complaint
+    story : threat
+    type  : jigsaw
+    form  : 1
+    intro : 
+    random: 3
+
+-
+  -
+    topic : complaint
+    story : credit
+    type  : match
+    form  : 0
+    intro : 
+    random:
+-
+  -
+    topic : complaint
+    story : credit
+    type  : jigsaw
+    form  : comprehension
+    intro : 
+    random: 9
+-
+  -
+    topic : complaint
+    story : credit
+    type  : jigsaw
+    form  : 0
+    intro : 
+    random: 7
+-
+  -
+    topic : complaint
+    story : credit
+    type  : drag
+    form  : 0
+    intro : 
+    random: 
+
+-
+  -
+    topic : complaint
+    story : letter
+    type  : drag
+    form  : 0
+    intro : 
+    random: 
+-
+  -
+    topic : complaint
+    story : letter
+    type  : jigsaw
+    form  : 0
+    intro : 
+    random: 
+
+-
+  -
+    topic : complaint
+    story : assumption
+    type  : jigsaw
+    form  : 0
+    intro : 
+    random: 1
+-
+  -
+    topic : complaint
+    story : assumption
+    type  : jigsaw
+    form  : basis
+    intro : 
+    random:
+-
+  -
+    topic : complaint
+    story : assumption
+    type  : jigsaw
+    form  : instance
+    intro : 
+    random: 3
+
+-
+  -
+    topic : complaint
+    story : drink
+    type  : drag
+    form  : 0
+    intro : 
+    random: 
+  -
+    topic : complaint
+    story : drink
+    type  : drag
+    form  : 1
+    intro : 
+    random: 
+-
+  -
+    topic : complaint
+    story : drink
+    type  : match
+    form  : structure
+    intro : 
+    random: 
+-
+  -
+    topic : complaint
+    story : drink
+    type  : jigsaw
+    form  : comprehension
+    intro : 
+    random: 4
+
+-
+  -
+    topic : complaint
+    story : reply
+    type  : match
+    form  : 0
+    intro : 
+    random: 
+-
+  -
+    topic : complaint
+    story : reply
+    type  : match
+    form  : 1
+    intro : 
+    random: 
+
+-
+  -
+    topic : complaint
+    story : bank
+    type  : match
+    form  : 0
+    intro : 
+    random: 
+
+-
+  -
+    topic : complaint
+    story : swearing
+    type  : match
+    form  : 0
+    intro : 
+    random: 
+-
+  -
+    topic : complaint
+    story : swearing
+    type  : match
+    form  : 1
+    intro : 
+    random: 
+
+-
+  -
+    topic : complaint
+    story : drink
+    type  : match
+    form  : reply
+    intro : 
+    random: 
+
+-
+  -
+    topic : complaint
+    story : responsibility
+    type  : jigsaw
+    form  : 0
+    intro : 
+    random: 
+
+-
+  -
+    topic : student
+    story : complaint
+    type  : jigsaw
+    form  : 0
+    intro : 
+    random: 5
+  
