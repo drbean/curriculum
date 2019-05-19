@@ -854,3 +854,64 @@ complaint:
             - threat
             - polite close
           answer: threat
+deadline:
+  description:
+    0:
+      identifier: homework deadline
+      questiontext: |+
+        The Information Management majors take this class on Friday, so there is a different deadline for the homework for them, not Sunday 2pm but the next Friday 8am. However, I often forget to set that different deadline, so they sometimes find in the middle of the week they can't submit the homework.
+
+        Last week, on Sunday, Monday and Thursday, some of those students sent me messages asking me to open the homework, but I ignored them. I mistakenly thought they were students in my Monday class. If I had looked at their ID numbers, I would have realized they were in my Friday class. But, also, if their messages had contained more background information I would have realized what the problem was.
+    
+        Which of the parts of the complaint message were a problem or were missing?
+  jigsaw:
+    0:
+      identifier: homework deadline background
+      quiz:
+        - question: 'Teacher, can you open the 12 week's homework again ,please? It is closed now.'
+          option:
+            - enough background information
+            - not enough background information
+          answer: not enough background information
+        - question: The homework deadline has passed. I had forgotten the deadline is 2 p.m. Can teacher open the homework,please?
+          option:
+            - enough background information
+            - not enough background information
+          answer: not enough background information
+        - question: The teacher is very sorry that I forgot to do my homework for the 12th week. Can you please let me make up my homework?
+          option:
+            - enough background information
+            - not enough background information
+          answer: not enough background information
+        - question: Sorry, I thought homework is due on every Friday, so I didn’t notice week12 homework is closed on last week. Could you please open it again?
+          option:
+            - enough background information
+            - not enough background information
+          answer: enough background information
+    1:
+      identifier: missing complaint part
+      quiz:
+        - question: 'Teacher, can you open the 12 week's homework again ,please? It is closed now.'
+          option:
+            - background
+            - damage
+            - request
+          answer: damage
+        - question: The homework deadline has passed. I had forgotten the deadline is 2 p.m. Can teacher open the homework,please?
+          option:
+            - background
+            - request
+            - threat
+          answer: threat
+        - question: The teacher is very sorry that I forgot to do my homework for the 12th week. Can you please let me make up my homework?
+          option:
+            - background
+            - complaint
+            - request
+          answer: complaint
+        - question: Sorry, I thought homework is due on every Friday, so I didn’t notice week12 homework is closed on last week. Could you please open it again?
+          option:
+            - background
+            - complaint
+            - request
+          answer: complaint
