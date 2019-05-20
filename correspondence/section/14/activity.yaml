@@ -72,6 +72,24 @@
 -
   -
     topic : student
+    story : complaint
+    type  : jigsaw
+    form  : 1
+    intro : 
+    random: 5
+  
+
+ -
+   topic : student
+   story : deadline
+   type  : description
+   form  : 0
+   intro : 
+   random: 
+ 
+-
+  -
+    topic : student
     story : deadline
     type  : jigsaw
     form  : 0
@@ -127,7 +145,6 @@
     form  : 0
     intro : 
     random: 4
-
 -
   -
     topic : order
