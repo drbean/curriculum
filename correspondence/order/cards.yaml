@@ -60,7 +60,7 @@ order:
       pair:
         -
           - order (reference) number
-          - # 1234
+          - "MA 1234"
         -
           - previous contact, or other connection
           - "I have received .."
@@ -974,7 +974,7 @@ sweater:
     17:
       identifier: sweater acknowledgment 7
       quiz:
-        - question: payment period ___ from this date
+        - question: payment period would ___ from this date
           answer:
             - start
             - commence
