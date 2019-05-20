@@ -854,6 +854,90 @@ complaint:
             - threat
             - polite close
           answer: threat
+    1:
+      identifier: student pen complaint reply
+      quiz:
+        - question: Thank you for your email concerning the order.  We are sorry that you receive the flawed goods.  <p>Our machine was in bad condition, and we did not notice it.  Replacement batch of 400 pens will be sent to you next week.  Our supervision system will be improved,  this mistake will not be made again.  <p>We hope this situation will not deter you from doing business with us in the future.
+          option:
+            - acknowledgement of contact
+            - appreciation of complaint action
+            - acceptance of responsibility
+            - reason for problem
+            - promise to make up for damage
+            - report of efforts to prevent problems in future
+            - forward-looking close
+          answer: appreciation of complaint action
+        - question: Thank you for you email date 27 September about the quality of those pen you received. We appreciate you bringing this to our attention.  <p>We are sorry that the pen sent to you didn't met you expectations. The problem was traced to fault in one of our machines, which has now been rectified. We accept the solution you make, and we will give you 80% refund. Our company is now going to check each machine every four months instead of six as before to prevent the situation.
+          option:
+            - acknowledgement of contact
+            - appreciation of complaint action
+            - acceptance of responsibility
+            - reason for problem
+            - promise to make up for damage
+            - report of efforts to prevent problems in future
+            - forward-looking close
+          answer: forward-looking close
+        - question: Thank you for your letter of 23 September concerning your order No. 3544 about 500 Parker fountain pens. We appreciate you bringing this matter to our attention.  <p>We are sorry that these pens we sent to you hadn't met your expectations and made you disappoint. We can ensure these pens are as well as the sample you used on 14 August but there were some problems of our factory. We noticed a part of production chains were faulty and it lead to the defect of the end products. After we found the problems, we fixed them immediately. The production chains can work normally now. The products we produce have reverted to the original level.  <p>We hope that it won't make you lose faith in our products. We committed to excellence for our products and hope we can give our customers the best service. To make up for the damage, we will send you 500 new pens. Hopefully you will be satisfied with the new pens.  <p>Thank you once again, for writing us and expressing your feeling.
+          option:
+            - acknowledgement of contact
+            - appreciation of complaint action
+            - acceptance of responsibility
+            - reason for problem
+            - promise to make up for damage
+            - report of efforts to prevent problems in future
+            - forward-looking close
+          answer: report of efforts to prevent problems in future
+        - question: Thank you for your email about Order No.3544, we appreciate you point out the problem which we can help you to solve.  <p>We will send the new pens again (of the same quality as the original sample) to your company. The problem was traced to a fault in one of our machines, which has now been rectified. Our company is now going to check each machine every four months instead of six as before.  <p>We hope this situation will not deter you from doing business with us in the future. We will welcome you to cooperate with us next time.
+          option:
+            - acknowledgement of contact
+            - appreciation of complaint action
+            - acceptance of responsibility
+            - reason for problem
+            - promise to make up for damage
+            - report of efforts to prevent problems in future
+            - forward-looking close
+          answer: acceptance of responsibility
+        - question: Thank you for bringing this matter to our attention. We are sorry to cause your inconvenience. <p>The problem was traced to a fault in one of our machines, which has now been rectified. We will give you replacement batch of 400 pens. Our company is now going to check each machine every four months instead of six as before. <p>We hope this situation will not deter you from doing business with us in the future.
+          option:
+            - acknowledgement of contact
+            - appreciation of complaint action
+            - acceptance of responsibility
+            - reason for problem
+            - promise to make up for damage
+            - report of efforts to prevent problems in future
+            - forward-looking close
+          answer: acknowledgement of contact
+        - question: Thank you for your email of 27 September about your order No. 3544.  We appreciate your bringing this matter to our attention.  <p>We are sorry that our product do not meet your expectation.  Our worker made a mistake, so these pens had not been conducted quality inspection.  We would replace every pen you return as compensation.  <p>Thank you in advance for your cooperation and understanding in this matter.
+          option:
+            - acknowledgement of contact
+            - appreciation of complaint action
+            - acceptance of responsibility
+            - reason for problem
+            - promise to make up for damage
+            - report of efforts to prevent problems in future
+            - forward-looking close
+          answer: report of efforts to prevent problems in future
+        - question: Thank you for bringing to our attention that the quality of these pens problem. I sincerely apologize for the quality of the batch  is clearly not the same as the quality of the sample.  <p>Having checked with our company, the problem was traced to a fault in one of your machines, which has now been rectified. Your company is now going to check each machine every four months instead of six as before.  <p>We would be glad to offer you that a replacement batch of 400 pens (of the same quality as the original sample) by return.  <p>Again, we apologize for our mistake. We hope the situation will not deter you from doing business with us in the future.
+          option:
+            - acknowledgement of contact
+            - appreciation of complaint action
+            - acceptance of responsibility
+            - reason for problem
+            - promise to make up for damage
+            - report of efforts to prevent problems in future
+            - forward-looking close
+          answer: acknowledgement of contact
+        - question: Thank you for your letter concerning about the Parker fountain pens. We appreciate you bringing this matter to our attention.  <p>We are very sorry for giving you poor quality pens. We recently figured out the problem is the broken machine of our factory that caused the problem this time.  <p>We promise we will make the properly compensation for you and we will fix the machine ASAP.  <p>Thank you again for contacting us and hope this incident won't break the cooperation between us.
+          option:
+            - acknowledgement of contact
+            - appreciation of complaint action
+            - acceptance of responsibility
+            - reason for problem
+            - promise to make up for damage
+            - report of efforts to prevent problems in future
+            - forward-looking close
+          answer: report of efforts to prevent problems in future
+        
 deadline:
   description:
     0:
@@ -868,7 +952,7 @@ deadline:
     0:
       identifier: homework deadline background
       quiz:
-        - question: 'Teacher, can you open the 12 week's homework again ,please? It is closed now.'
+        - question: "Teacher, can you open the 12 week's homework again ,please? It is closed now."
           option:
             - enough background information
             - not enough background information
@@ -891,7 +975,7 @@ deadline:
     1:
       identifier: missing complaint part
       quiz:
-        - question: 'Teacher, can you open the 12 week's homework again ,please? It is closed now.'
+        - question: "Teacher, can you open the 12 week's homework again ,please? It is closed now."
           option:
             - background
             - damage
