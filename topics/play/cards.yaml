@@ -130,6 +130,7 @@ game:
 
 sleep:
   bingo:
+    - flashlight witch count ghost nightmare real believe silly
     -
       - nightmare  _a bad dream_
       - real       _not just something you think, but something you can see and touch_
@@ -145,7 +146,7 @@ sleep:
     - scared silly flashlight witch ghost believe tree house monster screaming
 
     
-  1:
+  0:
     flash:
       flashlight : 手電筒
       witch      : 巫婆
