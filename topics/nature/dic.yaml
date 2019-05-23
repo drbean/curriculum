@@ -508,10 +508,10 @@
   - "topics"
   - "all"
   - |+
-    Tim is worried. It is his mother's birthday. But he can't buy her a gift. He has no money.
+    Tim is worried. It is his mother's birthday. But he can't buy her a gift. He doesn't have any money.
     Then he has an idea. He goes to the garden. The tulips are blooming. Tim picks some. They have pink petals.
-    Tim puts them in a vase. He gives them to his mother. She loves them! It is a great gift, and it didn't cost anything.
-  - Tim|worried|birthday|buy|money|idea|garden|Tim|picks|Tim|puts|gives|loves|great|didn't|anything|End
+    Tim puts them in a vase. He gives them to his mother. She loves them! It is a great gift, and it didn't cost any money.
+  - Tim is worried|It is his|But he can't buy her a|He doesn't have any|Then he|an|He goes to the|The|are|Tim|They have pink|Tim|them in a|He|them to his|She|them|It is a|gift, and it didn't|any|End
 -
   - "flower-2"
   - "flower-2"
