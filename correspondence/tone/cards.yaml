@@ -940,6 +940,23 @@ courteous:
             - active and not sincere
             - passive and not sincere
           answer: passive and not sincere
+safeexambrowser:
+  jigsaw:
+    0:
+      identifier: safeexambrowser use
+      quiz:
+        - question: 'What is emphasized: "Students have to use SafeExamBrowser to do the exam. The reason is that if they are allowed to use Chrome or another browser, they can translate into Chinese or get other kinds of help."'
+          option:
+            - use of SafeExamBrowser
+            - reason for use
+          answer: use of SafeExamBrowser
+        - question: 'What is emphasized: "When doing classwork, it's a good idea to translate into Chinese or to get help from other students, by cooperating in answering the questions. But in the exam, you have to do it yourself."'
+          option:
+            - classwork
+            - the exam
+          answer: the exam
+        
+        
 chinese:
   description:
     0:
