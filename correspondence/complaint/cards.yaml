@@ -255,6 +255,44 @@ glass:
             - Yes
             - No
           answer: Yes
+sweater:
+  drag:
+    0:
+      identifier: complaint background scramble
+      sentences:
+        -
+          sentence: I am writing to complain about the delivery of the sweaters we ordered.
+          clozed: I|am|writing|to|complain|about|the|delivery|of|the|sweaters|we|End
+        -
+          sentence: On 12 June 2015 we ordered from you 24 cotton sweaters.
+          clozed: On|12|June|2015|we|ordered|from|you|24|cotton|End
+        -
+          sentence: At that time, you told us that delivery would be made by the end of September.
+          clozed: At|that|you|told|us|that|delivery|would|be|made|by|the|end|of|End
+    1:
+      identifier: complaint complaint scramble
+      sentences:
+        -
+          sentence: However, as of October 5, we have not received delivery of these sweaters.
+          clozed: as|of|October|we|have|not|received|delivery|of|these|End
+        -
+          sentence: And we have not received any information from you about when we can expect delivery.
+          clozed: And|we|have|not|received|any|information|from|you|about|when|we|can|expect|End
+        -
+          sentence: We have customers waiting for these sweaters and this is damaging our reputation.
+          clozed: We|have|customers|waiting|for|these|sweaters|and|this|is|damaging|our|End
+    2:
+      identifier: complaint request scramble
+      sentences:
+        -
+          sentence: We would appreciate you telling us when we can expect delivery.
+          clozed: We|would|appreciate|you|telling|us|when|we|can|expect|End
+        -
+          sentence: If delivery cannot be made by October 19, we will be forced to look for an alternative supplier.
+          clozed: If|delivery|cannot|be|made|by|October|we|will|be|forced|to|look|for|an|alternative|End
+        -
+          sentence: Thank you in advance for cooperating with us in expediting delivery.
+          clozed: Thank|you|in|advance|for|cooperating|with|us|in|expediting|End
 drink:
   drag:
     0:
