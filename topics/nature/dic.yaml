@@ -520,11 +520,11 @@
   - |+
     A: Hi, Billy. What's in the pot?
     B: It's a cactus.
-    A: Oh, it looks strange. Where did it come from?
+    A: Oh. It looks strange. Where did it come from?
     B: It grows in very dry places. It doesn't need a lot of water to grow.
     A: Oh. Can I touch it?
     B: Yes, but be careful. It's very sharp.
-  - Billy|End
+  - Hi, Billy|What's in the|It's a|Oh. It looks|Where did it|from|It|in very|It doesn't|a lot of|to|Oh. Can I|it|Yes, but be|It's very|End
 -
   - "flower-3"
   - "flower-3"
