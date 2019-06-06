@@ -391,6 +391,17 @@ teamwork:
       - We share the chores and work together.                                        _我們分擔家務，一起工作。_
       - People should work together as a team.                                        _人們應該團結合作。_
 chore:
+  0:
+    flash:
+      guest    : 客人       
+      sink     : 水槽       
+      lift     : 抬起
+      crack    : 裂紋       
+      spill    : 灑         
+      toilet   : 馬桶       
+      tough    : 棘手       
+      decorate : 裝飾       
+
   bingo:
     -
       - "G: I do many chores in the summer. It's great! _B: I hate doing chores._"
