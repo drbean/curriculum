@@ -226,7 +226,7 @@ textbook:
     0:
       identifier: textbook order acknowledgment
       quiz:
-        - question: Order acknowledgment ( Use "Thank you", "your order of 52 copies", "Writing for Business Practices", "May 21." )
+        - question: Order acknowledgment ( Use "Thank you", "your order of 52 copies", "Writing for Business Practices", comma, a preposition, "May 21." )
           answer: 
             - Thank you for your order of 52 copies of Writing for Business Practices, dated May 21.
             - Thank you for your order (of|for) 52 copies of Writing for Business Practices, (dated|of) May 21\.
@@ -246,6 +246,9 @@ textbook:
             -
               error: ^(?!.*May 21.*)
               feedback: Use the words, "May 21"
+    1:
+      identifier: textbook order appreciation
+      quiz:
         - question: Expression of appreciation for order ( Use "delighted", or "pleased", "teach" (in future continuous tense), "Business Correspondence", a preposition, "this textbook", comma, "next semester")
           answer:  
             - We are delighted that you will be teaching Business Correspondence with this textbook, next semester.
@@ -266,8 +269,8 @@ textbook:
             -
               error: ^(?!.*next semester..*)
               feedback: Use the words, "next semester."
-    1:
-      identifier: textbook order acknowledgment
+    2:
+      identifier: textbook order status
       quiz:
         - question: order status (Use "The books", "in stock", "and", "deliver" (future tense, passive), "next week")
           answer: 
@@ -291,6 +294,10 @@ textbook:
             -
               error: ^(?!.*next week..*)
               feedback: Use the words, "next week."
+    3:
+      identifier: textbook order close
+      quiz:
+        
         - question: polite close (Use "again,", "and", "feel free", "email me", "any questions")
           answer:  
            - Thank you again, and feel free to email me if you have any questions.
@@ -323,7 +330,7 @@ textbook:
               error: ^(?!.*any questions..*)
               feedback: Use the words, "any questions."
     11:
-      identifier: textbook order cancellation
+      identifier: textbook cancel reference
       quiz:
         - question: Reference to order (use information in the textbook order acknowledge exercises and follow example on p114)
           answer: 
@@ -347,6 +354,10 @@ textbook:
             -
               error: ^(?!.*from you\..*)
               feedback: Use the words, "from you."
+    12:
+      identifier: textbook cancel act
+      quiz:
+        
         - question: Cancellation of order (Use "Unfortunately," and then the cancellation reason, "the choice by other teachers of a different book,". Follow examples on p114,115)
           answer: 
             - Unfortunately, owing to the fact that other teachers have chosen a different book, I am forced to cancel this order.
@@ -371,6 +382,9 @@ textbook:
             -
               error: ^(?!.*cancel this order.*)
               feedback: Use the words, "cancel this order"
+    13:
+      identifier: textbook cancel confirm
+      quiz:
         - question: Ask for confirmation (Use the structures on p114, 115 and "Can you/Could you", "notify", "when", "get/receive", "message/letter/email?". Or "confirm", "have received")
           answer:
             - Can you notify me when you receive this email?
@@ -392,6 +406,9 @@ textbook:
             -
               error: ^(?!.*this message\..*)
               feedback: Use the words, "this message."
+    14:
+      identifier: textbook cancel apology
+      quiz:
         - question: Apologize (Use the words, "any inconvenience", "may cause")
           answer: 
             - I apologize for any inconvenience this may cause.
@@ -406,7 +423,10 @@ textbook:
             -
               error: ^(?!.*this may cause.*)
               feedback: Use the words, "this may cause"
-        - question: forward-looking close (Express hope for continuation of business relationship. See p 114,115, and the "cotton cancel scramble" exercise)
+    15:
+      identifier: textbook cancel close
+      quiz:
+        - question: forward-looking close (Express hope for continuation of business relationship. See p 114,115, and the "cancel cotton scramble" exercises)
           answer: 
             - I hope that we can do business in the future.
             - I hope (to have the chance to do business|(that )?we will be able to place this or another order) (with (you|your company) )?in the future.
@@ -709,7 +729,7 @@ sweater:
           - Please also feel free to e-mail me should you have any question or when the order has been shipped.
           - Forward-looking close
     2:
-      identifier: sweater order structure
+      identifier: sweater acknowledgment structure
       pair:
         -
           - Thank you for your e-mail _________ 11 September __________ order numbers SX126/F and SX128/F.
@@ -1039,11 +1059,172 @@ sweater:
             - p 116
             - p 117
           answer: p 117
+    23:
+      identifier: order order
+      quiz:
+        - question: What is the order in which the 3 sweater messages were sent?
+          option:
+            - acknowledgment, cancellation, order
+            - acknowledgment, order, cancellation
+            - cancellation, acknowledgment, order
+            - cancellation, order, acknowledgment
+            - order, acknowledgment, cancellation
+            - order, cancellation, acknowledgment
+          answer: order, acknowledgment, cancellation
+    24:
+      identifier: 1st 3 parts
+      quiz:
+        - question: What is the best order for these 3 parts of an order message?
+          option:
+            - Mention of order, Self-introduction, Source of knowledge about supplier
+            - Mention of order, Source of knowledge about supplier, Self-introduction
+            - Self-introduction, Mention of order, Source of knowledge about supplier
+            - Self-introduction, Source of knowledge about supplier, Mention of order
+            - Source of knowledge about supplier, Mention of order, Self-introduction
+            - Source of knowledge about supplier, Self-introduction, Mention of order
+          answer: Self-introduction, Source of knowledge about supplier, Mention of order
+    25:
+      identifier: 2nd 3 parts
+      quiz:
+        - question: What is the best order for these 3 parts of an order message?
+          option:
+            - Deadline, Order, Pricing details
+            - Deadline, Pricing details, Order
+            - Order, Deadline, Pricing details
+            - Order, Pricing details, Deadline
+            - Pricing details, Deadline, Order
+            - Pricing details, Order, Deadline
+          answer: Order, Pricing details, Deadline
+    26:
+      identifier: 3rd 3 parts
+      quiz:
+        - question: What is the best order for these 3 parts of an order message?
+          option:
+            - Forward-looking close, Order, Shipping destination
+            - Forward-looking close, Shipping destination, Order
+            - Order, Forward-looking close, Shipping destination
+            - Order, Shipping destination, Forward-looking close
+            - Shipping destination, Forward-looking close, Order
+            - Shipping destination, Order, Forward-looking close
+          answer: Order, Shipping destination, Forward-looking close
+    
+    27:
+      identifier: 3 acknowledgment parts
+      quiz:
+        - question: What is the best order for these 3 parts of an order acknowledgment?
+          option:
+            - acknowledgment, arrival date, status of the order
+            - acknowledgment, status of the order, arrival date
+            - arrival date, acknowledgment, status of the order
+            - arrival date, status of the order, acknowledgment
+            - status of the order, acknowledgment, arrival date
+            - status of the order, arrival date, acknowledgment
+          answer: acknowledgment, status of the order, arrival date
+    28:
+      identifier: 1st 3 cancellation parts
+      quiz:
+        - question: What is the best order for these 3 parts of an order cancellation?
+          option:
+            - cancellation, confirmation request , mention of order
+            - cancellation, mention of order, confirmation request 
+            - confirmation request , cancellation, mention of order
+            - confirmation request , mention of order, cancellation
+            - mention of order, cancellation, confirmation request 
+            - mention of order, confirmation request , cancellation
+          answer: mention of order, cancellation, confirmation request 
+    29:
+      identifier: 2nd 3 cancellation parts
+      quiz:
+        - question: What is the best order for these 3 parts of an order cancellation?
+          option:
+            - apology, confirmation request, reason for cancellation
+            - apology, reason for cancellation, confirmation request
+            - confirmation request, apology, reason for cancellation
+            - confirmation request, reason for cancellation, apology
+            - reason for cancellation, apology, confirmation request
+            - reason for cancellation, confirmation request, apology
+          answer: reason for cancellation, confirmation request, apology
         
+
         
 
         
 cancel:
+  jigsaw:
+    0:
+      identifier: cancel cotton questions
+      quiz:
+        - question: Charlie Stevenson ordered 24 sweaters, but now wants to cancel the order
+          option:
+            - True
+            - False
+          answer: True
+        - question: Roger Rabbit will be happy about the cancellation.
+          option:
+            - True
+            - False
+          answer: False
+        - question: How many attachments are there to the message?
+          option:
+            - none
+            - 1
+            - 2
+            - 3
+            - 4
+          answer: 2
+        - question: Why is Charlie Stevenson canceling the order?
+          option:
+            - He's afraid of getting skin cancer.
+            - He thinks demand will pick up.
+            - He thinks he will not be able to sell 24 sweaters.
+            - He doesn't like the color of the sweaters.
+            - He doesn't have a reason.
+          answer: He thinks he will not be able to sell 24 sweaters.
+        - question: Who introduced Charlie Stevenson to Tina's Sweaters?
+          option:
+            - Charlie
+            - Daniel Radcliffe
+            - Roger
+            - Super Sweaters
+            - Tina
+            - Wayne
+          answer: Wayne
+        - question: Charlie Stevenson doesn't include his reason for canceling the order.
+          option:
+            - True
+            - False
+          answer: False
+        - question: Charlie Stevenson apologizes for canceling the order.
+          option:
+            - True
+            - False
+          answer: False
+        - question: When will Charlie Stevenson re-order products from Tina's Sweaters?
+          option:
+            - In winter, when cold winds blow over Taiwan
+            - When he is happy to re-order
+            - When people want to buy cotton sweaters again
+            - When wool products are also affected
+          answer: When people want to buy cotton sweaters again
+        - question: Why may Super Sweaters have problems selling Tina's Sweaters' sweaters?
+          option:
+            - Charlie Stevenson is canceling the order.
+            - People don't like the colors.
+            - People don't want to get skin cancer.
+            - People prefer wool products to cotton sweaters.
+          answer: People don't want to get skin cancer.
+        - question: Who claims cotton causes skin cancer?
+          option:
+            - Charlie
+            - Daniel Radcliffe
+            - Roger
+            - Super Sweaters
+            - Tina
+            - Wayne
+            - "'Which'"
+          answer: "'Which'"
+        
+        
   match:
     0:
       identifier: cancel structure match
@@ -1069,8 +1250,65 @@ cancel:
         -
           - 3rd paragraph
           - forward-looking close
-        
-        
+    1:
+      identifier: cancel action match
+      pair:
+        -
+          - subject line
+          - "'Cancellation of ..:'"
+        -
+          - reference to initial order
+          - "'On May 26, I ..'"
+        -
+          - cancellation/change of order
+          - "'However, I am forced..'"
+        -
+          - reason for cancellation/change
+          - "'Due to ..'"
+        -
+          - request for confirmation
+          - "'Could you ..'"
+        -
+          - apology
+          - "'I'm sorry ..'"
+        -
+          - forward-looking close
+          - "'I hope ..'"
+    2:
+      identifier: cotton cancel structure
+      pair:
+        -
+          - "'I am writing ..'"
+          - initial order
+        -
+          - "'Unfortunately ..'"
+          - cancellation
+        -
+          - "'It is unclear ..'"
+          - look to future
+        -
+          - "'Could you please ..'"
+          - request confirmation
+    3:
+      identifier: cancel word match
+      pair:
+        -
+          - with reference to
+          - in connection to
+        -
+          - owing to
+          - because of
+        -
+          - it is with great regret that I must
+          - I have no choice but to
+        -
+          - for your reference
+          - for you to see
+        -
+          - could you please
+          - can I ask you to
+
+
   scramble:
     0:
       identifier: cancel cotton
@@ -1083,7 +1321,7 @@ cancel:
         
   drag:
     0:
-      identifier: cancel cotton scramble
+      identifier: cancel cotton scramble 0
       sentences:
         -
           sentence: I am writing in connection with the above order.
@@ -1092,7 +1330,7 @@ cancel:
           sentence: Unfortunately, because of the recent report
           clozed: Unfortunately|because|of|the|recent|report|End
     1:
-      identifier: cancel cotton scramble
+      identifier: cancel cotton scramble 1
       sentences:
         -
           sentence: I have no choice but to cancel this order.
@@ -1101,7 +1339,7 @@ cancel:
           sentence: I am attaching a copy of this report for you to see.
           clozed: I|am|attaching|a|copy|of|this|report|for|you|to|see|End
     2:
-      identifier: cancel cotton scramble
+      identifier: cancel cotton scramble 2
       sentences:
         -
           sentence: Can I ask you to confirm you have received this message?
@@ -1111,20 +1349,4 @@ cancel:
           clozed: I|seek|your|understanding|in|this|matter|and|hope|we|can|do|business|in|the|future|End
         
         
-  match:
-    0:
-      identifier: match cotton structure
-      pair:
-        -
-          - I am writing ..
-          - initial order
-        -
-          - Unfortunately ..
-          - cancellation
-        -
-          - It is unclear ..
-          - look to future
-        -
-          - Could you please ..
-          - request confirmation
         
