@@ -584,6 +584,45 @@ buffer:
             - Accordingly, ..
             - As a result, ..
           answer: We are sorry if ..
+    3:
+      identifier: buffer sentence/bad news
+      quiz:
+        - question: 'However, with the high number of supermarkets and hypermarkets opening up in the area, it has become increasingly more difficult for us to remain competitive.'
+          option:
+            - a warning bad news is coming
+            - the bad news itself
+          answer: a warning bad news is coming
+        - question: 'Therefore, it is with great regret that we have decided to close the store as of 1 September.'
+          option:
+            - a warning bad news is coming
+            - the bad news itself
+          answer: the bad news itself
+        - question: 'However, the demand for such a large size is very low.'
+          option:
+            - a warning bad news is coming
+            - the bad news itself
+          answer: a warning bad news is coming
+        - question: 'Unfortunately, the largest size we keep in stock is size 47.'
+          option:
+            - a warning bad news is coming
+            - the bad news itself
+          answer: the bad news itself
+        - question: 'Our sales have dropped steadily over the last six months and, as a result, we have had to make some tough decisions.'
+          option:
+            - a warning bad news is coming
+            - the bad news itself
+          answer: a warning bad news is coming
+        - question: 'In order for the company to remain competitive, it is necessary for us to reduce our number of employees by the end of the year.'
+          option:
+            - a warning bad news is coming
+            - the bad news itself
+          answer: the bad news itself
+        
+        
+        
+        
+        
+        
 necessity:
   jigsaw:
     0:
