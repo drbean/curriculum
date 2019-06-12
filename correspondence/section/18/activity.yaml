@@ -1,0 +1,45 @@
+---
+
+# tone
+
+-
+  -
+    topic : tone
+    story : safeexambrowser
+    type  : jigsaw
+    form  : 0
+    intro : 
+    random: 
+  
+
+# payment
+
+# third time
+
+-
+  -
+    topic : payment
+    story : type
+    type  : jigsaw
+    form  : 0
+    intro : 
+    random:
+
+-
+  -
+    topic : payment
+    story : type
+    type  : match
+    form  : 0
+    intro : 
+    random:
+
+-
+  -
+    topic : payment
+    story : type
+    type  : jigsaw
+    form  : 1
+    intro : 
+    random:
+
