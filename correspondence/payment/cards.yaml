@@ -48,7 +48,7 @@ editing:
 hospital:
   jigsaw:
     0:
-      identifier: type
+      identifier: hospital bill payment
       quiz:
         - question: Please find enclosed a check for $40,000. Thanks for the heart transplant. I feel like a new man. I will surely come to your hospital again if I am sick.
           option:
@@ -91,9 +91,56 @@ hospital:
              - Inability to pay
           answer: Inability to pay
 type:
+  match:
+    0:
+      identifier: payment fault
+      pair:
+        -
+          - Payment on time
+          - Payer does right thing, and receiver will be happy
+        -
+          - Late payment
+          - Payer at fault, but receiver will be happy
+        -
+          - Incorrect bill, payment of amount believed correct
+          - Payer thinks receiver is at fault, but receiver will be partly happy
+        -
+          - Incorrect bill, no payment
+          - Payer thinks receiver is at fault, and receiver will be unhappy
+        -
+          - Inability to pay
+          - Payer recognizes own fault, and receiver will be unhappy
   jigsaw:
     0:
-      identifier: type
+      identifier: movement of money
+      quiz:
+        - question: Payment on time
+          option:
+            - money is transferred
+            - money is not transferred
+          answer: money is transferred
+        - question: Late payment
+          option:
+            - money is transferred
+            - money is not transferred
+          answer: money is transferred
+        - question: Incorrect bill, payment of amount believed correct
+          option:
+            - money is transferred
+            - money is not transferred
+          answer: money is transferred
+        - question: Incorrect bill, no payment
+          option:
+            - money is transferred
+            - money is not transferred
+          answer: money is not transferred
+        - question: Inability to pay
+          option:
+            - money is transferred
+            - money is not transferred
+          answer: money is not transferred
+    1:
+      identifier: payment type
       quiz:
         - question: Please find enclosed a check for $40,000. Thanks for prompt delivery. We expect to be contacting you soon about a repeat order
           option:
@@ -135,6 +182,64 @@ type:
              - Incorrect bill, no payment
              - Inability to pay
           answer: Inability to pay
+    2:
+      identifier: payment letter steps
+      quiz:
+        - question: How many things to do in 'Payment on time' letter?
+          option:
+            - 1
+            - 2
+            - 3
+            - 4
+            - 5
+            - 6
+            - 7
+            - 8
+          answer: 5
+        - question: How many things to do in 'Late payment' letter?
+          option:
+            - 1
+            - 2
+            - 3
+            - 4
+            - 5
+            - 6
+            - 7
+            - 8
+          answer: 7
+        - question: How many things to do in 'Incorrect bill, payment of amount believed correct' letter?
+          option:
+            - 1
+            - 2
+            - 3
+            - 4
+            - 5
+            - 6
+            - 7
+            - 8
+          answer: 4
+        - question: How many things to do in 'Incorrect bill, no payment' letter?
+          option:
+            - 1
+            - 2
+            - 3
+            - 4
+            - 5
+            - 6
+            - 7
+            - 8
+          answer: 5
+        - question: How many things to do in 'Inability to pay' letter?
+          option:
+            - 1
+            - 2
+            - 3
+            - 4
+            - 5
+            - 6
+            - 7
+            - 8
+          answer: 6
 demand:
   essay:
     0:
@@ -144,7 +249,7 @@ demand:
 
         You have sent him 4 payment demands using the formats on p 119. Now you need to send him the 5th payment demand, following the style on p 120. You need to get tough with him.
 
-        Remind him of 4 previous letters, and the purchase details, date, list of goods, method of payment (eg, deposit into your Bank of Taiwan account, 027-00124568, or a 7-11 payment perhaps)
+        Remind him of 4 previous letters, and the purchase details, date, list of goods, method of payment (eg, deposit into your Bank of Taiwan account, 027-00124568)
     
   jigsaw:
     0:
@@ -211,7 +316,7 @@ demand:
             - sixth
           answer: sixth
     3:
-      identifier: demand rewriting
+      identifier: demand rewriting 1
       quiz:
         - question: 1. We want you to pay us in a week. (Use "make sure", or "ensure", "payment" or "remittance", "within")
           answer: 
@@ -227,7 +332,9 @@ demand:
             -
               error: ^(?!.*within.*)
               feedback: Use the words, "within"
-            
+    4:
+      identifier: demand rewriting 2
+      quiz:
         - question: 2.  We will take you to court if you do not pay. (Use "have no alternative/choice but to", or "be compelled/forced to", "legal action")
           answer:
             - Unfortunately, if the remittance is not made by the end of the month, we will have no choice but to take legal action.
@@ -242,7 +349,9 @@ demand:
             -
               error: ^(?!.*legal action.*)
               feedback: Use the words, "legal action"
-            
+    5:
+      identifier: demand rewriting 3
+      quiz:
         - question: 3.  You have not paid yet. (Use the present perfect passive form of "settle")
           answer:
             - Our records indicate that the account has not yet been settled.
@@ -250,7 +359,9 @@ demand:
             -
               error: ^(?!.*settled.*)
               feedback: Use the words, "settled"
-            
+    6:
+      identifier: demand rewriting 4
+      quiz:
         - question: 4.  You still owe us US$40,000. (Use "outstanding")
           answer: 
             - A balance of US$40,000 is still outstanding.
@@ -268,6 +379,9 @@ demand:
             -
               error: ^(?!.*situation.*)
               feedback: Use the words, "situation"
+    7:
+      identifier: demand rewriting 5
+      quiz:
         - question: 6.  If you can't pay, give us a call and maybe we can help. (Use the present continuous form of "prove", "contact", "alternative arrangements")
           answer:
             - If making the payments is proving to be a problem, please contact us and I am sure we can make alternative arrangements.
@@ -281,16 +395,19 @@ demand:
             -
               error: ^(?!.*alternative arrangements.*)
               feedback: Use the words, "alternative arrangements"
-    4:
-      identifier: demand sequence
+    10:
+      identifier: demand sentence-letter match 1
       quiz:
-        - question: 1. We want you to pay us in a week. (Use "make sure", or "ensure", "payment" or "remittance", "within")
+        - question: 1. We want you to pay us in a week. (Which letter?)
           option:
             - first
             - third
             - fifth
           answer: fifth
-        - question: 2.  We will take you to court if you do not pay. (Use "have no alternative/choice but to", or "be compelled/forced to", "legal action")
+    11:
+      identifier: demand sentence-letter match 2
+      quiz:
+        - question: 2.  We will take you to court if you do not pay. (Which letter?)
           option:
             - first
             - second
@@ -299,19 +416,28 @@ demand:
             - fifth
             - sixth
           answer: sixth
-        - question: 3.  You have not paid yet. (Use the present perfect passive form of "settle")
+    12:
+      identifier: demand sentence-letter match 3
+      quiz:
+        - question: 3.  You have not paid yet. (Which letter?)
           option:
             - first
             - third
             - sixth
           answer: third
-        - question: 4.  You still owe us US$40,000. (Use "outstanding")
+    13:
+      identifier: demand sentence-letter match 4
+      quiz:
+        - question: 4.  You still owe us US$40,000. (Which letter?)
           option:
             - first
             - fourth
             - sixth
           answer: fourth
-        - question: 5.  We want you to either pay your bill or call us immediately and tell us why you  have not paid. (Use the passive form (ie, past participle) of "owe", "situation")
+    14:
+      identifier: demand sentence-letter match 5
+      quiz:
+        - question: 5.  We want you to either pay your bill or call us immediately and tell us why you  have not paid. (Which letter?)
           option:
             - first
             - second
@@ -320,7 +446,10 @@ demand:
             - fifth
             - sixth
           answer: fourth
-        - question: 6.  If you can't pay, give us a call and maybe we can help. (Use the present continuous form of "prove", "contact", "alternative arrangements")
+    15:
+      identifier: demand sentence-letter match 6
+      quiz:
+        - question: 6.  If you can't pay, give us a call and maybe we can help. (Which letter?)
           option:
             - first
             - second
@@ -331,7 +460,7 @@ demand:
           answer: fourth
   match:
     0:
-      identifier: summary-sequence match
+      identifier: payment summary-sequence match
       pair:
         -
           - 1
@@ -380,11 +509,38 @@ demand:
         -
           sentence: If making the payments is proving to be a problem, please call us and we can make alternative arrangements.
           clozed: If|making|the|payments|is|proving|to|be|a|problem|please|call|us|and|we|can|make|alternative|arrangements|End
+    10:
+      identifier: payment scramble 10
+      sentences:
+        -
+          sentence: Could you please make sure we have your payment by June 15?
+          clozed: Could|you|please|make|sure|we|have|your|payment|by|June|15|End
+        -
+          sentence: If payment is not forthcoming by June 15, we will be forced to take legal action.
+          clozed: If|payment|is|not|forthcoming|by|June|we|will|be|forced|to|take|legal|action|End
+    11:
+      identifier: payment scramble 11
+      sentences:
+        -
+          sentence: Our records show that you have overlooked settling your account.
+          clozed: Our|records|show|that|you|have|overlooked|settling|your|End
+        -
+          sentence: A total amount of $40,000 has still not been paid.
+          clozed: A|total|amount|of|has|not|been|End
+    12:
+      identifier: payment scramble 12
+      sentences:
+        -
+          sentence: Could you either pay, or call us to discuss this problem?
+          clozed: Could|you|either|pay|or|call|us|to|discuss|this|End
+        -
+          sentence: If you are having difficulties paying, please call us to discuss the problem.
+          clozed: If|you|are|having|difficulties|please|call|us|to|discuss|the|End
             
 airconditioner:
   match:
     0:
-      identifier: airconditioner
+      identifier: airconditioner 1
       pair:
         -
           - 1
@@ -451,13 +607,331 @@ airconditioner:
           - C. If there are any problems, which are making payment difficult, please contact us immediately.
         -
           - 9
-          - I. We realize that unexpected problems do arise and would be willing to come to an amiable agreement.
+          - I. We realize that unexpected problems do arise and would be willing to come to an amicable agreement.
         -
           - 10
           - B. Otherwise, we look forward to receiving the final balance by the 15th of this month.
         -
           - 11
           - H. Please keep in mind the benefits of a good credit rating and contact us if you have any problems.
+        
+  jigsaw:
+    0:
+      identifier: tough vs gentle
+      quiz:
+        - question: A. However, we are still awaiting the second installment of $30,000, which was due on 15th April.  
+          option:
+            - tone neither conciliatory nor threatening
+            - tone conciliatory and non-threatening
+            - tone less conciliatory and more threatening
+          answer: tone neither conciliatory nor threatening
+        - question: B. Otherwise, we look forward to receiving the final balance by the 15th of this month.
+          option:
+            - tone neither conciliatory nor threatening
+            - tone conciliatory and non-threatening
+            - tone less conciliatory and more threatening
+          answer: tone conciliatory and non-threatening
+        - question: C. If there are any problems, which are making payment difficult, please contact us immediately.
+          option:
+            - tone neither conciliatory nor threatening
+            - tone conciliatory and non-threatening
+            - tone less conciliatory and more threatening
+          answer: tone conciliatory and non-threatening
+        - question: D. Naturally, we are most concerned about this situation, especially with the third and final payment being due on the 15th of this month.
+          option:
+            - tone neither conciliatory nor threatening
+            - tone conciliatory and non-threatening
+            - tone less conciliatory and more threatening
+          answer: tone neither conciliatory nor threatening
+        - question: E. We must insist on this overdue payment being made with the final payment later this month.
+          option:
+            - tone neither conciliatory nor threatening
+            - tone conciliatory and non-threatening
+            - tone less conciliatory and more threatening
+          answer: tone less conciliatory and more threatening
+        - question: F. I am writing in reference to the purchase of three air-conditioners from our shop on 14th February this year.
+          option:
+            - tone neither conciliatory nor threatening
+            - tone conciliatory and non-threatening
+            - tone less conciliatory and more threatening
+          answer: tone neither conciliatory nor threatening
+        - question: G. We have sent you two letters (16th and 30th April) reminding you of this payment, but have, so far, received no reply.
+          option:
+            - tone neither conciliatory nor threatening
+            - tone conciliatory and non-threatening
+            - tone less conciliatory and more threatening
+          answer: tone neither conciliatory nor threatening
+        - question: H. Please keep in mind the benefits of a good credit rating and contact us if you have any problems
+          option:
+            - tone neither conciliatory nor threatening
+            - tone conciliatory and non-threatening
+            - tone less conciliatory and more threatening
+          answer: tone conciliatory and non-threatening
+        - question: I. We realize that unexpected problems do arise and would be willing to come to an amicable agreement.
+          option:
+            - tone neither conciliatory nor threatening
+            - tone conciliatory and non-threatening
+            - tone less conciliatory and more threatening
+          answer: tone conciliatory and non-threatening
+        - question: J. Thank you for your initial payment of $20,000 and for the first agreed monthly installment of $30,000, which was received on 15th March.       
+          option:
+            - tone neither conciliatory nor threatening
+            - tone conciliatory and non-threatening
+            - tone less conciliatory and more threatening
+          answer: tone neither conciliatory nor threatening
+        - question: K. As you will appreciate, our agreement was made in good faith and we are surprised and disappointed with this current situation
+          option:
+            - tone neither conciliatory nor threatening
+            - tone conciliatory and non-threatening
+            - tone less conciliatory and more threatening
+          answer: tone less conciliatory and more threatening
+    1:
+      identifier: cost of airconditioner
+      quiz:
+        - question: How much did the 3 air conditioners cost?
+          option:
+            - $20,000
+            - $30,000
+            - $50,000
+            - $60,000
+            - $90,000
+            - $110,000
+            - $120,000
+          answer: $110,000
+        - question: How much did the buyer give the store at the time of purchase?
+          option:
+            - $0
+            - $20,000
+            - $30,000
+            - $50,000
+            - $60,000
+            - $90,000
+            - $110,000
+            - $120,000
+          answer: $20,000
+        - question: How much was each installment?
+          option:
+            - $0
+            - $20,000
+            - $30,000
+            - $50,000
+            - $60,000
+            - $90,000
+            - $110,000
+            - $120,000
+          answer: $30,000
+        - question: How many installments were there?
+          option:
+            - none
+            - 1
+            - 2
+            - 3
+            - 4
+          answer: 3
+        - question: How many installments has the buyer paid?
+          option:
+            - none
+            - 1
+            - 2
+            - 3
+            - 4
+          answer: 1
+        - question: How many installments has the buyer NOT paid?
+          option:
+            - none
+            - 1
+            - 2
+            - 3
+            - 4
+          answer: 2
+        - question: How many times has the buyer given the store money?
+          option:
+            - none
+            - 1
+            - 2
+            - 3
+            - 4
+          answer: 2
+        - question: How many times has the buyer not paid when he/she was supposed to pay?
+          option:
+            - none
+            - 1
+            - 2
+            - 3
+            - 4
+          answer: 1
+        - question: How much money has the buyer given the store?
+          option:
+            - $0
+            - $20,000
+            - $30,000
+            - $50,000
+            - $60,000
+            - $90,000
+            - $110,000
+            - $120,000
+          answer: $50,000
+        - question: How much money does the buyer owe the store?
+          option:
+            - $0
+            - $20,000
+            - $40,000
+            - $60,000
+            - $70,000
+            - $90,000
+            - $110,000
+            - $120,000
+          answer: $60,000
+    2:
+      identifier: airconditioner payment date
+      quiz:
+        - question: When was the airconditioner bought?
+          option:
+            - February 14
+            - March 15
+            - April 15
+            - April 16
+            - April 30
+            - May 7
+            - May 15
+          answer: February 14
+        - question: When was the first payment made?
+          option:
+            - February 14
+            - March 15
+            - April 15
+            - April 16
+            - April 30
+            - May 7
+            - May 15
+          answer: February 14
+        - question: When was the first installment paid?
+          option:
+            - February 14
+            - March 15
+            - April 15
+            - April 16
+            - April 30
+            - May 7
+            - May 15
+          answer: March 15
+        - question: When was the second installment due?
+          option:
+            - February 14
+            - March 15
+            - April 15
+            - April 16
+            - April 30
+            - May 7
+            - May 15
+          answer: April 15
+        - question: Which was the first installment not paid?
+          option:
+            - February 14
+            - March 15
+            - April 15
+            - April 16
+            - April 30
+            - May 7
+            - May 15
+          answer: April 15
+        - question: When was the first letter sent?
+          option:
+            - February 14
+            - March 15
+            - April 15
+            - April 16
+            - April 30
+            - May 7
+            - May 15
+          answer: April 16
+        - question: When was the second letter sent?
+          option:
+            - February 14
+            - March 15
+            - April 15
+            - April 16
+            - April 30
+            - May 7
+            - May 15
+          answer: April 30
+        - question: When was the final installment due?
+          option:
+            - February 14
+            - March 15
+            - April 15
+            - April 16
+            - April 30
+            - May 7
+            - May 15
+          answer: May 15
+        - question: When was this letter probably sent?
+          option:
+            - February 14
+            - March 15
+            - April 15
+            - April 16
+            - April 30
+            - May 7
+            - May 15
+          answer: May 7
+        - question: When does the store want the overdue payment to be made?
+          option:
+            - February 14
+            - March 15
+            - April 15
+            - April 16
+            - April 30
+            - May 7
+            - May 15
+          answer: May 15
+        
+        
+        
+        
+        
+    3:
+      identifier: airconditioner type
+      quiz:
+        - question: Which of the 6 payment letter types is the airconditioner message?
+          option:
+            - first
+            - second
+            - third
+            - fourth
+            - fifth
+            - sixth
+          answer: fourth
+    4:
+      identifier: airconditioner type reason
+      quiz:
+        - question: What characteristic of the airconditioner letter tells us which category it is?
+          option:
+            - copy of the bill is not enclosed
+            - politeness
+            - reference to previous letters
+            - reference to reader's financial difficulties
+            - request for contact from reader
+          answer: reference to reader's financial difficulties
+    5:
+      identifier: airconditioner type non-reason
+      quiz:
+        - question: What characteristic of the airconditioner letter does NOT determine what type it is?
+          option:
+            - Reference to 2 previous letters
+            - tone
+            - writer's openness to alternative forms of payment
+          answer: tone
+    6:
+      identifier: airconditioner characteristics
+      quiz:
+        - question: What is NOT a characteristic of the airconditioner letter?
+          option:
+            - threatening tone
+            - reference to previous letters
+            - suggestion of alternatives to planned installments
+          answer: threatening tone
+        
         
 sentence:
   jigsaw:
@@ -467,21 +941,41 @@ sentence:
         - question: "Request for payment: 1. We ___ to (Use 2 words)"
           answer:
             - look forward 
+          incorrect:
+            -
+              error: ^(?!look.*)
+              feedback: Use the words, "look"
         - question: 2. receiving the ___ (Use 2 words)
           answer:
             - final balance 
+          incorrect:
+            -
+              error: ^(?!final.*)
+              feedback: Use the words, "final"
         - question: 3. by ___ . (Use 5 words from the airconditioner exercise )
           answer:
             - the 15th of this month
+          incorrect:
+            -
+              error: ^(?!the.*)
+              feedback: Use the words, "the"
     1:
       identifier: sentence 2
       quiz:
         - question: "Taking to court: 1. We will ___ to (Use 2 words)"
           answer:
             - be forced 
+          incorrect:
+            -
+              error: ^(?!be.*)
+              feedback: Use the words, "be"
         - question: "take ___. (Use 2 words)"
           answer:
             - legal action
+          incorrect:
+            -
+              error: ^(?!legal.*)
+              feedback: Use the words, "legal"
     2:
       identifier: sentence 6
       quiz:
