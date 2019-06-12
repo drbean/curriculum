@@ -1,0 +1,303 @@
+---
+
+# order
+
+-
+  -
+    topic : order
+    story : sweater
+    type  : jigsaw
+    form  : 20
+    intro : See structure on p 110, 113, 114
+    random: 
+
+-
+  -
+    topic : order
+    story : sweater
+    type  : match
+    form  : 1
+    intro : See p 110, 116
+    random: 
+
+-
+  -
+    topic : order
+    story : sweater
+    type  : match
+    form  : 2
+    intro : See p 113, 117
+    random: 
+
+-
+  -
+    topic : order
+    story : sweater
+    type  : jigsaw
+    form  : 23
+    intro : See p 110, 112, 116
+    random: 
+
+-
+  -
+    topic : order
+    story : sweater
+    type  : jigsaw
+    form  : 24
+    intro : See p 110, 112, 116
+    random: 
+
+-
+  -
+    topic : order
+    story : sweater
+    type  : jigsaw
+    form  : 25
+    intro : See p 110, 112, 116
+    random: 
+
+-
+  -
+    topic : order
+    story : sweater
+    type  : jigsaw
+    form  : 26
+    intro : See p 110, 112, 116
+    random: 
+
+-
+  -
+    topic : order
+    story : sweater
+    type  : jigsaw
+    form  : 27
+    intro : See p 113, 117
+    random: 
+
+-
+  -
+    topic : order
+    story : sweater
+    type  : jigsaw
+    form  : 28
+    intro : See p 114, 115
+    random: 
+
+-
+  -
+    topic : order
+    story : sweater
+    type  : jigsaw
+    form  : 29
+    intro : See p 114, 115
+    random: 
+
+-
+  -
+    topic : order
+    story : cancel
+    type  : jigsaw
+    form  : 0
+    intro : See p 115
+    random: 6
+
+# payment
+
+-
+  -
+    topic : payment
+    story : demand
+    type  : match
+    form  : 0
+    intro : the letters, p 119, 120
+    random: 
+
+-
+  -
+    topic : payment
+    story : demand
+    type  : jigsaw
+    form  : 0
+    intro : See p 119
+    random: 1
+
+-
+  -
+    topic : payment
+    story : demand
+    type  : jigsaw
+    form  : 1
+    intro : See p 119
+    random: 1
+
+-
+  -
+    topic : payment
+    story : demand
+    type  : jigsaw
+    form  : 2
+    intro : See p 120
+    random: 1
+
+-
+  -
+    topic : payment
+    story : demand
+    type  : jigsaw
+    form  : 3
+    intro : See p 121
+    random: 
+
+-
+  -
+    topic : payment
+    story : demand
+    type  : jigsaw
+    form  : 4
+    intro : See p 121
+    random: 
+
+-
+  -
+    topic : payment
+    story : demand
+    type  : jigsaw
+    form  : 5
+    intro : See p 121
+    random: 
+
+-
+  -
+    topic : payment
+    story : demand
+    type  : jigsaw
+    form  : 6
+    intro : See p 121
+    random: 
+
+-
+  -
+    topic : payment
+    story : demand
+    type  : jigsaw
+    form  : 7
+    intro : See p 121
+    random: 
+
+-
+  -
+    topic : payment
+    story : demand
+    type  : jigsaw
+    form  : 10
+    intro : See p 121, 119
+    random: 
+
+-
+  -
+    topic : payment
+    story : airconditioner
+    type  : match
+    form  : 0
+    intro : p 122
+    random: 
+
+-
+  -
+    topic : payment
+    story : airconditioner
+    type  : match
+    form  : 1
+    intro : p 122
+    random: 
+
+-
+  -
+    topic : payment
+    story : airconditioner
+    type  : match
+    form  : 2
+    intro : p 122
+    random: 
+
+-
+  -
+    topic : payment
+    story : airconditioner
+    type  : jigsaw
+    form  : 0
+    intro : p 122
+    random: 6
+
+-
+  -
+    topic : payment
+    story : airconditioner
+    type  : jigsaw
+    form  : 1
+    intro : p 122
+    random: 5
+
+-
+  -
+    topic : payment
+    story : airconditioner
+    type  : jigsaw
+    form  : 2
+    intro : p 122
+    random: 5
+
+-
+  -
+    topic : payment
+    story : demand
+    type  : drag
+    form  : 10
+    intro : p 121, 122, p120, letter 6
+    random: 1
+
+-
+  -
+    topic : payment
+    story : demand
+    type  : drag
+    form  : 11
+    intro : p 121, 122, p120, letter 3, 4
+    random: 1
+
+-
+  -
+    topic : payment
+    story : demand
+    type  : drag
+    form  : 12
+    intro : p 121, 122, p120, letter 4
+    random: 1
+
+-
+  -
+    topic : payment
+    story : sentence
+    type  : jigsaw
+    form  : 0
+    intro : p 122, B
+    random: 2
+
+-
+  -
+    topic : payment
+    story : sentence
+    type  : jigsaw
+    form  : 1
+    intro : p 120, letter 6
+    random: 1
+
+-
+  -
+    topic : payment
+    story : sentence
+    type  : jigsaw
+    form  : 2
+    intro : p 121, Exercise 6, p 122, I
+    random: 1
+
