@@ -41,6 +41,52 @@ bad_news:
         -
           - polite close
           - positive close
+  jigsaw:
+    0:
+      identifier: complaint/bad news diffs
+      quiz:
+        - question: The writer has a problem with the reader.
+          option:
+            - bad news message
+            - complaint message
+          answer: complaint message
+        - question: The writer doesn't have a problem with the reader.
+          option:
+            - bad news message
+            - complaint message
+          answer: bad news message
+        - question: The writer is (or will be) more upset than the reader.
+          option:
+            - bad news message
+            - complaint message
+          answer: complaint message
+        - question: The reader is (or will be) more upset than the writer.
+          option:
+            - bad news message
+            - complaint message
+          answer: bad news message
+        - question: The main purpose of the message is to seek action from the reader.
+          option:
+            - bad news message
+            - complaint message
+          answer: complaint message
+        - question: The main purpose of the message is to provide information to the reader.
+          option:
+            - bad news message
+            - complaint message
+          answer: bad news message
+        - question: Action suggested/asked for in the message is mainly for the benefit of the writer.
+          option:
+            - bad news message
+            - complaint message
+          answer: complaint message
+        - question: Action suggested/asked for in the message is mainly for the benefit of the reader.
+          option:
+            - bad news message
+            - complaint message
+          answer: bad news message
+        
+        
 homework:
   essay:
     0:
@@ -166,7 +212,55 @@ threat:
             - a threat
             - not a threat
           answer: a threat
+    2:
+      identifier: more (non-)threats
+      quiz:
+        - question: Fix our problem! I'm angry!
+          option:
+            - a threat
+            - not a threat
+          answer: not a threat
+        - question: If you fix our problem, I will place a big order.
+          option:
+            - a threat
+            - not a threat
+          answer: not a threat
+        - question: If you cannot replace the motor with a new one, can you find a second-hand motor at a cheap price for me?
+          option:
+            - a threat
+            - not a threat
+          answer: not a threat
+        - question: If you are not willing to do this, our relationship will be greatly damaged.
+          option:
+            - a threat
+            - not a threat
+          answer: a threat
+        - question: If you do not help me with this I will be forced to talk to my lawyers.
+          option:
+            - a threat
+            - not a threat
+          answer: a threat
+        - question: If you cannot do this, what CAN you do for me?
+          option:
+            - a threat
+            - not a threat
+          answer: not a threat
+        - question: Tread carefully, President Trump, or you will send the economy into a downspin.
+          option:
+            - a threat
+            - not a threat
+          answer: not a threat
+        - question: Tread very, very carefully with your accusations, or I will sue you for every penny you've got.
+          option:
+            - a threat
+            - not a threat
+          answer: a threat
         
+        
+        
+        
+        
+            
         
         
         
@@ -293,6 +387,44 @@ sweater:
         -
           sentence: Thank you in advance for cooperating with us in expediting delivery.
           clozed: Thank|you|in|advance|for|cooperating|with|us|in|expediting|End
+security:
+  drag:
+    0:
+      identifier: camera complaint background 1
+      sentences:
+        -
+          sentence: I am writing to complain about the quality of the 6 CHV-750 surveillance cameras we ordered from you.
+          clozed: I|am|writing|to|complain|about|the|quality|of|the|we|ordered|from|End
+        -
+          sentence: On August 12 2018 we ordered from you 6 CHV-750 surveillance cameras.
+          clozed: On|12|2018|we|ordered|from|you|6|End
+        -
+          sentence: According to your catalogue, the CHV-750 produces clear images even at night.
+          clozed: According|to|your|the|CHV-750|produces|clear|images|even|at|End
+    1:
+      identifier: camera complaint complaint 2
+      sentences:
+        -
+          sentence: However, the images on the cameras that we received are not clear, even in daylight.
+          clozed: the|images|on|the|cameras|that|we|received|are|not|even|in|End
+        -
+          sentence: Our client insists that the camera must be super-sensitive. We cannot deliver this camera to our client.
+          clozed: Our|client|insists|that|the|camera|must|be|cannot|deliver|this|camera|to|our|End
+        -
+          sentence: This problem is damaging our reputation as a supplier of high-quality products.
+          clozed: This|problem|is|damaging|our|as|a|supplier|of|high-quality|End
+    2:
+      identifier: camera complaint request,threat,close 3
+      sentences:
+        -
+          sentence: We want you to accept return of these cameras.
+          clozed: We|want|you|to|accept|return|of|these|End
+        -
+          sentence: If we do not hear from you by October 19, we will be forced to look for an alternative supplier.
+          clozed: If|we|do|not|hear|from|you|by|October|we|will|be|forced|to|look|for|an|alternative|End
+        -
+          sentence: Thank you in advance for cooperating with us in taking these cameras back.
+          clozed: Thank|you|in|advance|for|cooperating|with|us|in|taking|these|cameras|End
 drink:
   drag:
     0:
