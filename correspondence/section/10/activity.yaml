@@ -185,7 +185,7 @@
     form  : 0
     intro : 
     random: 6
-  
+
 -
   -
     topic : bad_news
@@ -194,6 +194,7 @@
     form  : 0
     intro : 
     random: 1
+
 -
   -
     topic : tone
