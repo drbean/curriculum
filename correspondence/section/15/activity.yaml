@@ -1,0 +1,190 @@
+---
+#-
+#  -
+#    topic : order
+#    story : cancel
+#    type  : match
+#    form  : 0
+#    intro : 
+#    random: 
+#
+#-
+#  -
+#    topic : order
+#    story : cancel
+#    type  : match
+#    form  : 1
+#    intro : 
+#    random: 
+#
+#-
+#  -
+#    topic : order
+#    story : cancel
+#    type  : drag
+#    form  : 0
+#    intro : 
+#    random: 1
+#  
+#-
+#  -
+#    topic : order
+#    story : cancel
+#    type  : drag
+#    form  : 1
+#    intro : 
+#    random: 1
+#  
+#-
+#  -
+#    topic : order
+#    story : cancel
+#    type  : drag
+#    form  : 2
+#    intro : 
+#    random: 1
+#
+#-
+#  -
+#    topic : order
+#    story : cancel
+#    type  : match
+#    form  : 2
+#    intro : 
+#    random:
+#  
+#-
+#  -
+#    topic : order
+#    story : cancel
+#    type  : match
+#    form  : 3
+#    intro : 
+#    random:
+#
+#-
+#  -
+#    topic : order
+#    story : textbook
+#    type  : jigsaw
+#    form  : 0
+#    intro : 
+#    random: 
+#  
+#-
+#  -
+#    topic : order
+#    story : textbook
+#    type  : jigsaw
+#    form  : 1
+#    intro : 
+#    random: 
+#  
+#-
+#  -
+#    topic : order
+#    story : textbook
+#    type  : jigsaw
+#    form  : 2
+#    intro : 
+#    random: 
+#  
+#-
+#  -
+#    topic : order
+#    story : textbook
+#    type  : jigsaw
+#    form  : 3
+#    intro : 
+#    random: 
+#  
+#-
+#  -
+#    topic : order
+#    story : textbook
+#    type  : jigsaw
+#    form  : 11
+#    intro : 
+#    random: 
+#  
+#-
+#  -
+#    topic : order
+#    story : textbook
+#    type  : jigsaw
+#    form  : 12
+#    intro : 
+#    random: 
+#  
+#-
+#  -
+#    topic : order
+#    story : textbook
+#    type  : jigsaw
+#    form  : 13
+#    intro : 
+#    random: 
+#  
+#-
+#  -
+#    topic : order
+#    story : textbook
+#    type  : jigsaw
+#    form  : 14
+#    intro : 
+#    random: 
+#  
+#-
+#  -
+#    topic : order
+#    story : textbook
+#    type  : jigsaw
+#    form  : 15
+#    intro : 
+#    random: 
+#
+#-
+#  -
+#    topic : payment
+#    story : type
+#    type  : jigsaw
+#    form  : 0
+#    intro : 
+#    random:
+#
+#-
+#  -
+#    topic : payment
+#    story : type
+#    type  : match
+#    form  : 0
+#    intro : 
+#    random:
+#
+#-
+#  -
+#    topic : payment
+#    story : type
+#    type  : jigsaw
+#    form  : 1
+#    intro : 
+#    random:
+#
+-
+  -
+    topic : payment
+    story : hospital
+    type  : jigsaw
+    form  : 0
+    intro : 
+    random: 3
+
+-
+  -
+    topic : payment
+    story : type
+    type  : jigsaw
+    form  : 2
+    intro : 
+    random: 4
+
