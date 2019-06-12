@@ -950,7 +950,7 @@ safeexambrowser:
             - use of SafeExamBrowser
             - reason for use
           answer: use of SafeExamBrowser
-        - question: 'What is emphasized: "When doing classwork, it's a good idea to translate into Chinese or to get help from other students, by cooperating in answering the questions. But in the exam, you have to do it yourself."'
+        - question: "What is emphasized: When doing classwork, it's a good idea to translate into Chinese or to get help from other students, by cooperating in answering the questions. But in the exam, you have to do it yourself."
           option:
             - classwork
             - the exam
@@ -1748,6 +1748,38 @@ conditional:
             - Dr Bean didn't know he would become a teacher when he finished his PhD.
             - Dr Bean didn't know he would become a teacher and he didn't finish his PhD.
           answer: Dr Bean didn't know he would become a teacher and he didn't finish his PhD.
+    5:
+      identifier: difficult conditional expectations
+      quiz:
+        - question: "'I would fail some students if they didn't do homework.' Dr Bean is mad and expects:"
+          option:
+            - Almost all students will do homework, and perhaps no students will fail.
+            - A significant number of students will not do homework and those students will fail.
+            - Some number of students will do homework and will not fail.
+          answer: Almost all students will do homework, and perhaps no students will fail.
+          
+        - question: "'I will not be happy if it rains on Wednesday.' Dr Bean expects:"
+          option:
+            - It will rain on Wednesday and Dr Bean will be happy.
+            - It will rain on Wednesday and Dr Bean will not be happy.
+            - It will not rain on Wednesday and Dr Bean will not be happy.
+            - It will not rain on Wednesday and Dr Bean will be happy.
+          answer: It will rain on Wednesday and Dr Bean will not be happy.
+        - question:  "I would have gotten wet if I hadn't brought an umbrella."
+          option:
+            - Dr Bean didn't have an umbrella and didn't get wet.
+            - Dr Bean didn't have an umbrella and got wet.
+            - Dr Bean had an umbrella and didn't get wet.
+            - Dr Bean had an umbrella but got wet.
+          answer: Dr Bean had an umbrella and didn't get wet.
+        - question: If it hadn't rained on Friday, I wouldn't have gotten wet.
+          option:
+            - It didn't rain on Friday and Dr Bean didn't get wet.
+            - It didn't rain on Friday but Dr Bean got wet.
+            - It rained on Friday and Dr Bean didn't get wet.
+            - It rained on Friday and Dr Bean got wet.
+          answer: It rained on Friday and Dr Bean got wet.
+        
         
 scramble:
     0:
