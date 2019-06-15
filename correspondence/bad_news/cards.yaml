@@ -617,6 +617,33 @@ buffer:
             - a warning bad news is coming
             - the bad news itself
           answer: the bad news itself
+    4:
+      identifier: warning or bad news?
+      quiz:
+        - question: As a result, NUU will not be able to give you classes to teach next semester.
+          option:
+            - a warning bad news is coming
+            - the bad news itself
+          answer: the bad news itself
+        - question: Because of the rapid decrease in the birthrate and the smaller number of students at NUU, many English classes will not be offered next semester.
+          option:
+            - a warning bad news is coming
+            - the bad news itself
+          answer: a warning bad news is coming
+        - question: You have failed all your classes for 4 consecutive semesters.
+          option:
+            - a warning bad news is coming
+            - the bad news itself
+          answer: a warning bad news is coming
+        - question: Therefore, NUU has decided to suspend you because of your unsatisfactory academic progress.
+          option:
+            - a warning bad news is coming
+            - the bad news itself
+          answer: the bad news itself
+        
+        
+        
+        
         
         
         
@@ -639,10 +666,10 @@ necessity:
       quiz:
         - question: Two sentences show some action is necessary for the writer and there is no other alternative. One sentence does NOT. Which sentence does not show the action is necessary for the writer?
           option:
-            - We will have our staff report at your gates at 8am. (p 108)
+            - We will have our staff report at your gates at 8am. (p 114)
             - We will have no choice but to pursue legal action.
             - The situation requires us to downsize the company.
-          answer: We will have our staff report at your gates at 8am. (p 108)
+          answer: We will have our staff report at your gates at 8am. (p 114)
 report:
   essay:
     0:
@@ -869,7 +896,7 @@ zte:
   description:
     0:
       identifier: zte
-      questiontext: The following questions are about ZTE, the mainland China telecom company that announced it was closing down in 2018.
+      questiontext: The following questions are about ZTE, the mainland China telecom company that announced it was closing down in 2018. Look at the message on p 102 of the PDF.
   drag:
     0:
       identifier: zte scramble
