@@ -375,6 +375,95 @@ shoe:
         -
           sentence: Stack Shoes has many reasonably-priced sizes, styles and colors.
           clozed: Stack|Shoes|has|many|reasonably-priced|sizes,|styles|and|End
+dress:
+  match:
+    0:
+      identifier: dress 
+      pair:
+        -
+          - 1
+          - Dear Ms Robb
+        -
+          - 2
+          - I am writing about an inquiry you made about XXXXL dresses.
+        -
+          - 3
+          - Sack's Dresses has dresses in many different sizes, styles and colors.
+        -
+          - 4
+          - Unfortunately, the demand for XXXXL dresses is very low.
+        -
+          - 5
+          - The largest size we have is XXXL.
+        -
+          - 6
+          - However our distributor has informed us that they can supply XXXXL dresses.
+        -
+          - 7
+          - All you have to do is come to our store and tell us the style and color you want, and delivery could take place in 2 weeks.
+        -
+          - 8
+          - We look forward to seeing you at our store and helping you.
+  jigsaw:
+    0:
+      identifier: dress structure
+      quiz:
+        - question: All you have to do is come to our store and tell us the style and color you want, and delivery could take place in 2 weeks.
+          option:
+            - situation
+            - buffer
+            - bad news
+            - alternative/solution
+            - positive close
+          answer: alternative/solution
+        - question: However our distributor has informed us that they can supply XXXXL dresses.
+          option:
+            - situation
+            - buffer
+            - bad news
+            - alternative/solution
+            - positive close
+          answer: alternative/solution
+        - question: I am writing about an inquiry you made about XXXXL dresses.
+          option:
+            - situation
+            - buffer
+            - bad news
+            - alternative/solution
+            - positive close
+          answer: situation
+        - question: Sack's Dresses has dresses in many different sizes, styles and colors.
+          option:
+            - situation
+            - buffer
+            - bad news
+            - alternative/solution
+            - positive close
+          answer: situation
+        - question: The largest size we have is XXXL.
+          option:
+            - situation
+            - buffer
+            - bad news
+            - alternative/solution
+            - positive close
+          answer: bad news
+        - question: Unfortunately, the demand for XXXXL dresses is very low.
+          option:
+            - situation
+            - buffer
+            - bad news
+            - alternative/solution
+            - positive close
+          answer: situation
+        - question: We look forward to seeing you and helping you at our store in the near future.
+          option:
+            - situation
+            - buffer
+            - bad news
+            - alternative/solution
+            - positive close
+          answer: positive close
 herbal:
   jigsaw:
     0:
@@ -441,6 +530,11 @@ herbal:
         -
           - 4. positive close
           - S. These last 22 years ..
+  description:
+    0:
+      identifier: herbal scramble
+      questiontext: The next questions are about the herbal store closing on p 103 of the PDF. First, a rewriting of sentences C, J, N, S. Then, the structure of the sentences.
+    
   drag:
     0:
       identifier: herbal scramble 0
@@ -449,8 +543,8 @@ herbal:
           sentence: During that time, we have enjoyed serving many people, and many of these people have become our friends.
           clozed: During|that|we|have|enjoyed|serving|many|and|many|of|these|people|have|become|our|End
         -
-          sentence: But with the large number of shopping malls now in our town, it has become more and more difficult for use to compete.
-          clozed: But|with|the|large|number|of|shopping|malls|now|in|our|it|has|become|more|and|more|difficult|for|use|to|End
+          sentence: But with the large number of shopping malls now in our town, it has become more and more difficult for us to compete.
+          clozed: But|with|the|large|number|of|shopping|malls|now|in|our|it|has|become|more|and|more|difficult|for|us|to|End
         -
           sentence: We plan to stay here, and we hope we will continue to see many of you in and around town.
           clozed: We|plan|to|stay|and|we|hope|we|will|continue|to|see|many|of|you|in|and|around|End
