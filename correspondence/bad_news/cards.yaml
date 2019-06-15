@@ -865,6 +865,103 @@ fuxing:
             - alternative
             - positive close
           answer: situation
+zte:
+  description:
+    0:
+      identifier: zte
+      questiontext: The following questions are about ZTE, the mainland China telecom company that announced it was closing down in 2018.
+  drag:
+    0:
+      identifier: zte scramble
+      sentences:
+        -
+          sentence: As you know, the telecom industry in China has been under pressure from the US recently.
+          clozed: As|you|the|telecom|industry|in|China|has|been|under|pressure|from|the_US|End
+        -
+          sentence: This means that we have suffered with other companies, like Huawei.
+          clozed: This|means|that|we|have|suffered|with|other|like|End
+        -
+          sentence: However, we have been under greater pressure, because of our dependence on American technology.
+          clozed: However|we|have|been|under|greater|because|of|our|dependence|on|American|End
+        -
+          sentence: Now the American government has banned American companies from doing business with us.
+          clozed: Now|the|American|government|has|banned|American|companies|from|doing|business|with|End
+        -
+          sentence: Therefore, we have had to make some difficult decisions.
+          clozed: Therefore|we|have|had|to|make|some|difficult|decisions|End
+        -
+          sentence: Accordingly, we have decided to suspend all operations.
+          clozed: Accordingly|we|have|decided|to|suspend|all|operations|End
+        -
+          sentence: We will continue to supply equipment which has already been ordered from us.
+          clozed: We|will|to|supply|equipment|which|has|been|ordered|from|End
+        -
+          sentence: We thank everyone for their continued support.
+          clozed: We|thank|everyone|for|their|continued|support|End
+        -
+          sentence: We hope to return to the telecom business in the future.
+          clozed: We|hope|to|return|to|the|telecom|business|in|the|future|End
+
+  jigsaw:
+    0:
+      identifier: zte
+      quiz:
+        - question: We hope ..
+          option:
+            - situation
+            - bad_news
+            - alternative
+            - positive close
+          answer: positive close
+        - question: We will ..
+          option:
+            - situation
+            - bad_news
+            - alternative
+            - positive close
+          answer: alternative
+        - question: Accordingly, we ..
+          option:
+            - situation
+            - bad_news
+            - alternative
+            - positive close
+          answer: bad_news
+        - question: Therefore, we ..
+          option:
+            - situation
+            - bad_news
+            - alternative
+            - positive close
+          answer: situation
+        - question: Now the ..
+          option:
+            - situation
+            - bad_news
+            - alternative
+            - positive close
+          answer: situation
+        - question: As you ..
+          option:
+            - situation
+            - bad_news
+            - alternative
+            - positive close
+          answer: situation
+        - question: This means ..
+          option:
+            - situation
+            - bad_news
+            - alternative
+            - positive close
+          answer: situation
+        - question: However, we ..
+          option:
+            - situation
+            - bad_news
+            - alternative
+            - positive close
+          answer: situation
 tone:
   jigsaw:
     0:
