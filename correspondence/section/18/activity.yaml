@@ -6,11 +6,121 @@
   -
     topic : tone
     story : safeexambrowser
+    type  : description
+    form  : 0
+    intro : 
+    random: 
+
+  -
+    topic : tone
+    story : safeexambrowser
     type  : jigsaw
     form  : 0
     intro : 
     random: 
-  
+
+# bad news
+
+  -
+    topic : bad_news
+    story : zte
+    type  : description
+    form  : 0
+    intro : 
+    random: 
+  -
+    topic : bad_news
+    story : zte
+    type  : drag
+    form  : 0
+    intro : 
+    random: 
+  -
+    topic : bad_news
+    story : zte
+    type  : jigsaw
+    form  : 0
+    intro : 
+    random: 
+
+  -
+    topic : bad_news
+    story : buffer
+    type  : jigsaw
+    form  : 4
+    intro : 
+    random: 
+
+  -
+    topic : bad_news
+    story : dress
+    type  : match
+    form  : 0
+    intro : 
+    random: 
+  -
+    topic : bad_news
+    story : dress
+    type  : jigsaw
+    form  : 0
+    intro : 
+    random: 
+
+# complaint
+
+  -
+    topic : complaint
+    story : doll
+    type  : description
+    form  : 1
+    intro : 
+    random: 
+  -
+    topic : complaint
+    story : doll
+    type  : drag
+    form  : 0
+    intro : 
+    random: 
+  -
+    topic : complaint
+    story : doll
+    type  : jigsaw
+    form  : 0
+    intro : 
+    random: 
+
+  -
+    topic : complaint
+    story : card
+    type  : drag
+    form  : 0
+    intro : 
+    random: 
+
+  -
+    topic : complaint
+    story : student
+    type  : description
+    form  : 0
+    intro : 
+    random: 
+  -
+    topic : complaint
+    story : student
+    type  : jigsaw
+    form  : 1
+    intro : 
+    random: 
+  -
+    topic : complaint
+    story : student
+    type  : jigsaw
+    form  : comprehension
+    intro : 
+    random: 
+
+# order
 
 # payment
 
@@ -19,13 +129,19 @@
 -
   -
     topic : payment
+    story : demand
+    type  : drag
+    form  : 12
+    intro : p 121, 122, p120, letter 4
+    random:
+  -
+    topic : payment
     story : type
     type  : jigsaw
     form  : 0
     intro : 
     random:
 
--
   -
     topic : payment
     story : type
@@ -34,7 +150,6 @@
     intro : 
     random:
 
--
   -
     topic : payment
     story : type
@@ -43,3 +158,10 @@
     intro : 
     random:
 
+   -
+     topic : payment
+     story : airconditioner
+     type  : jigsaw
+     form  : 3
+     intro : 
+     random: 
