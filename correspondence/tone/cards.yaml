@@ -941,6 +941,11 @@ courteous:
             - passive and not sincere
           answer: passive and not sincere
 safeexambrowser:
+  description:
+    0:
+      identifier: final exam 107-2
+      questiontext: PDF p 87
+    
   jigsaw:
     0:
       identifier: safeexambrowser use
