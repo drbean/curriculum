@@ -672,6 +672,9 @@ doll:
     0:
       identifier: doll
       questiontext: The following 15 questions are about a complaint about dolls which arrived broken.
+    1:
+      identifier: doll page
+      questiontext: PDF p 107
   scramble:
     0:
       identifier: doll
@@ -992,7 +995,11 @@ student:
   description:
     0:
       identifier: student homework
-      questiontext: These next questions are about a message I intended to send to students at another school, not this school, about homework. But I wondered if I got the tone wrong. The students are adults, not children. After unscrambling the sentences, which are in their correct order, identify those where the tone is wrong, and the source of the tone problem.
+      questiontext: |+
+        These next questions are about a message I intended to send to students at another school, not this school, about homework. But I wondered if I got the tone wrong. The students are adults, not children. Identify those sentences where the tone is wrong, and the source of the tone problem.
+
+        Compare with PDF p 109.
+
   drag:
     0:
       identifier: student scramble
@@ -1050,7 +1057,7 @@ student:
           answer: False
         - question: Dr Bean claims the the students are not responsible for the failure to do homework.
           answer: False
-        - question: Dr Bean claims some of the the students have not learned how important homework is.
+        - question: Dr Bean claims some of the students have not learned how important homework is.
           answer: True
         - question: Dr Bean wants the students to take the opportunity to check their email accounts.
           answer: False
@@ -1160,6 +1167,106 @@ student:
             - Tone weak, because of suggested lack of intelligence
           answer: Tone weak, because of suggested lack of intelligence
         - question: The is like only punishment. students thing understand you
+          option:
+            - Tone OK
+            - Tone weak, because of accusations without evidence
+            - Tone weak, because of negative judgmental attitude to students
+            - Tone weak, because of suggested inappropriate student behavior
+            - Tone weak, because of suggested lack of intelligence
+          answer: Tone weak, because of negative judgmental attitude to students
+        - question: So, I'm telling you 15 percent of the class will fail this semester! (I should fail 50 percent.)
+          option:
+            - Tone OK
+            - Tone weak, because of accusations without evidence
+            - Tone weak, because of negative judgmental attitude to students
+            - Tone weak, because of suggested inappropriate student behavior
+            - Tone weak, because of suggested lack of intelligence
+          answer: Tone weak, because of negative judgmental attitude to students
+    1:
+      identifier: student warning tone weak
+      quiz:
+        
+        - question: Last semester, I didn't fail any of you.
+          option:
+            - Tone OK
+            - Tone weak, because of accusations without evidence
+            - Tone weak, because of negative judgmental attitude to students
+            - Tone weak, because of suggested inappropriate student behavior
+            - Tone weak, because of suggested lack of intelligence
+          answer: Tone OK
+        - question: This semester, there has been a 80% decrease in the homework that you are doing.
+          option:
+            - Tone OK
+            - Tone weak, because of accusations without evidence
+            - Tone weak, because of negative judgmental attitude to students
+            - Tone weak, because of suggested inappropriate student behavior
+            - Tone weak, because of suggested lack of intelligence
+          answer: Tone OK
+        - question: You are lazy, and think you don't have to do the homework.
+          option:
+            - Tone OK
+            - Tone weak, because of accusations without evidence
+            - Tone weak, because of negative judgmental attitude to students
+            - Tone weak, because of suggested inappropriate student behavior
+            - Tone weak, because of suggested lack of intelligence
+          answer: Tone weak, because of negative judgmental attitude to students
+        - question: For those of you who did not bother to listen to me when I explained grading, I will tell you again.
+          option:
+            - Tone OK
+            - Tone weak, because of accusations without evidence
+            - Tone weak, because of negative judgmental attitude to students
+            - Tone weak, because of suggested inappropriate student behavior
+            - Tone weak, because of suggested lack of intelligence
+          answer: Tone weak, because of accusations without evidence
+        - question: First, homework is 40 percent of the grade
+          option:
+            - Tone OK
+            - Tone weak, because of accusations without evidence
+            - Tone weak, because of negative judgmental attitude to students
+            - Tone weak, because of suggested inappropriate student behavior
+            - Tone weak, because of suggested lack of intelligence
+          answer: Tone OK
+        - question: If you can count to 100, you can see you cannot pass the class, if you don't do any homework.
+          option:
+            - Tone OK
+            - Tone weak, because of accusations without evidence
+            - Tone weak, because of negative judgmental attitude to students
+            - Tone weak, because of suggested inappropriate student behavior
+            - Tone weak, because of suggested lack of intelligence
+          answer: Tone weak, because of suggested lack of intelligence
+        - question: Do not use the time you have for homework as an opportunity to waste your time, chatting with friends.
+          option:
+            - Tone OK
+            - Tone weak, because of accusations without evidence
+            - Tone weak, because of negative judgmental attitude to students
+            - Tone weak, because of suggested inappropriate student behavior
+            - Tone weak, because of suggested lack of intelligence
+          answer: Tone weak, because of suggested inappropriate student behavior
+        - question: Then, write something. This means more than writing one or two words.
+          option:
+            - Tone OK
+            - Tone weak, because of accusations without evidence
+            - Tone weak, because of negative judgmental attitude to students
+            - Tone weak, because of suggested inappropriate student behavior
+            - Tone weak, because of suggested lack of intelligence
+          answer: Tone OK.
+        - question: I am sorry if the homework means extra work for you.
+          option:
+            - Tone OK
+            - Tone weak, because of accusations without evidence
+            - Tone weak, because of insincere attitude to students
+            - Tone weak, because of suggested inappropriate student behavior
+            - Tone weak, because of suggested lack of intelligence
+          answer: Tone weak, because of insincere attitude to students
+        - question: If there are any further questions, use the moodle app to send me a message (if you know how to use the app!)
+          option:
+            - Tone OK
+            - Tone weak, because of accusations without evidence
+            - Tone weak, because of negative judgmental attitude to students
+            - Tone weak, because of suggested inappropriate student behavior
+            - Tone weak, because of suggested lack of intelligence
+          answer: Tone weak, because of suggested lack of intelligence
+        - question: The only thing students like you understand is punishment.
           option:
             - Tone OK
             - Tone weak, because of accusations without evidence
