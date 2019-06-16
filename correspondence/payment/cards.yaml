@@ -241,6 +241,10 @@ type:
             - 8
           answer: 6
 demand:
+  description:
+    0:
+      identifier: payment demand sentences
+      questiontext: Look at p 127 of the PDF for the example sentences
   essay:
     0:
       identifier: payment demand letter 5
@@ -893,7 +897,7 @@ airconditioner:
     3:
       identifier: airconditioner type
       quiz:
-        - question: Which of the 6 payment letter types is the airconditioner message?
+        - question: Which of the 6 payment demand letter types (p 125) is the airconditioner message on p 128 of the PDF?
           option:
             - first
             - second
