@@ -46,11 +46,25 @@
   -
     topic : bad_news
     story : buffer
+    type  : description
+    form  : 0
+    intro : 
+    random: 
+  -
+    topic : bad_news
+    story : buffer
     type  : jigsaw
     form  : 4
     intro : 
     random: 
 
+  -
+    topic : bad_news
+    story : dress
+    type  : description
+    form  : 0
+    intro : 
+    random: 
   -
     topic : bad_news
     story : dress
@@ -93,7 +107,7 @@
   -
     topic : complaint
     story : credit
-    type  : drag
+    type  : description
     form  : 0
     intro : 
     random: 
@@ -131,8 +145,13 @@
 
 # payment
 
-# third time
-
+  -
+    topic : payment
+    story : demand
+    type  : description
+    form  : 0
+    intro : 
+    random: 
   -
     topic : payment
     story : demand
