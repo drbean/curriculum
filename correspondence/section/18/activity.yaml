@@ -10,7 +10,6 @@
     form  : 0
     intro : 
     random: 
-
   -
     topic : tone
     story : safeexambrowser
@@ -19,6 +18,21 @@
     intro : 
     random: 
 
+  -
+    topic : tone
+    story : conditional
+    type  : description
+    form  : 0
+    intro : 
+    random: 
+  -
+    topic : tone
+    story : conditional
+    type  : jigsaw
+    form  : 2
+    intro : 
+    random: 
+  
 # bad news
 
   -

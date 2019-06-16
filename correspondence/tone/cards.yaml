@@ -1484,6 +1484,10 @@ explanation:
              - not a reason lessening impact of bad news
           answer: not a reason lessening impact of bad news
 conditional:
+  description:
+    0:
+      identifier: conditional page
+      questiontext: See 95 of the PDF
   essay:
     0:
       identifier: examples of the 0th conditional
@@ -1670,27 +1674,6 @@ conditional:
     2:
       identifier: 3 types of conditional
       quiz:
-        - question: You have a problem, if you do not understand what you have to do.
-          option:
-            - Type 0
-            - Type 1
-            - Type 2
-            - Type 3
-          answer: Type 0
-        - question: If I catch students using Chinese translations, I will deduct 25 points from their grade.
-          option:
-            - Type 0
-            - Type 1
-            - Type 2
-            - Type 3
-          answer: Type 1
-        - question: If every student finished the exam in an hour, I would think the exam wasn't long enough.
-          option:
-            - Type 0
-            - Type 1
-            - Type 2
-            - Type 3
-          answer: Type 2
         - question: If I hadn't stayed up late last night, I wouldn't have been able to finish writing the exam.
           option:
             - Type 0
@@ -1698,6 +1681,27 @@ conditional:
             - Type 2
             - Type 3
           answer: Type 3
+        - question: If every student finished the exam in an hour, I would think the exam wasn't long enough.
+          option:
+            - Type 0
+            - Type 1
+            - Type 2
+            - Type 3
+          answer: Type 2
+        - question: If I catch students using Chinese translations, I will deduct 25 points from their grade.
+          option:
+            - Type 0
+            - Type 1
+            - Type 2
+            - Type 3
+          answer: Type 1
+        - question: You have a problem, if you do not understand what you have to do.
+          option:
+            - Type 0
+            - Type 1
+            - Type 2
+            - Type 3
+          answer: Type 0
     3:
       identifier: type review
       quiz:
