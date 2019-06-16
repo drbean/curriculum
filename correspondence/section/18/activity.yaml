@@ -141,6 +141,14 @@
     intro : 
     random: 
 
+  -
+    topic : complaint
+    story : page
+    type  : essay
+    form  : 0
+    intro : 
+    random: 
+
 # order
 
 # payment

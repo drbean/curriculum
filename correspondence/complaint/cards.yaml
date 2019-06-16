@@ -86,7 +86,17 @@ bad_news:
             - complaint message
           answer: bad news message
         
-        
+page:
+  essay:
+    0:
+      identifier: moodle textbook link
+      rubric: |+
+        In this class, a real problem was connecting the moodle exercise with the right page in the textbook. The moodle exercise did not say which page to look at to help answer the question. Students were unhappy about not knowing how to answer questions. They had a *complaint*.
+
+        Write a formal complaint to Dr Bean. Be clear about what the complaint is. Describe the background to the complaint as completely as you can. Say what the damage is. Say what you want Dr Bean to do (your request). Say what you will do, if Dr Bean doesn't link exercises to pages in the textbook. (You don't have to be serious about your threat. You can threaten to get him fired, or to give him poor student evaluations, anything is OK. Bring it on :-)) Conclude with a polite close.
+
+        Follow the structure on p 105 of the PDF and look at the example of the complaint on p 106. There is no need for salutation and complimentary close.
+    
 homework:
   essay:
     0:
