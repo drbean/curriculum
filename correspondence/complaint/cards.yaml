@@ -770,6 +770,10 @@ doll:
           - We a at dolls, expense. of replacement send set to us want you your
         
 credit:
+  description:
+    0:
+      identifier: credit card check
+      questiontext: Look at p 109 of the PDF. This is a rewriting of the credit card staff warning sentences there to improve the tone.
   jigsaw:
     comprehension:
       identifier: credit card comprehension
