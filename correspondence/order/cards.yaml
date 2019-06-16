@@ -551,8 +551,17 @@ sweater:
   description:
     0:
       identifier: sweater header
-      questiontext: The following questions are about the sweater order on p 121,122,123.
-    
+      questiontext: |+
+        The following questions are about the sweater order on p 121,122,123. Charlie Stevenson cancelled his order, but then he realized he made a mistake and now he wants to 'cancel his cancellation'.
+
+        * 我寫的是與9月11日生產的24件棉質毛衣的訂單SX126F_和_SX128F有關。
+        * 由於棉花導致皮膚癌的報導，我於9月16日取消了此訂單。
+        * 不幸的是，我誤讀了這份報告，這實際上表明棉花可以預防皮膚癌。
+        * 因此，我希望取消我的訂單取消。
+        * 也就是說，我希望你送我24件SX126F_和_SX128F棉質毛衣。
+        * 你能否確認收到這條消息後再確認一下。
+        * 我期待著在未來與您開展更多業務。
+        * 對於由此造成的不便，我深表歉意。
   drag:
     uncancel:
       identifier: sweater uncancel order
@@ -589,7 +598,7 @@ sweater:
           # I am writing in connection with orders SX126F_and_SX128F of 24 cotton sweaters, made on 11 September.
           # I apologize for the inconvenience that I have caused.
           # I canceled this order on 16 September, owing to a report that cotton causes skin cancer.
-          # That is, I want you to send me the 24 cotton sweaters of SX126F_and_SX128F.
+          # That is, I want you to send me the 23 cotton sweaters of SX126F_and_SX128F.
           # Unfortunately, I misread this report, which actually showed that cotton prevents skin cancer.
   match:
     uncancel:

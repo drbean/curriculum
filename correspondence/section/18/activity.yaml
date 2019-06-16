@@ -151,6 +151,36 @@
 
 # order
 
+  -
+    topic : order
+    story : sweater
+    type  : description
+    form  : 0
+    intro : 
+    random: 
+  -
+    topic : order
+    story : sweater
+    type  : drag
+    form  : uncancel
+    intro : 
+    random: 
+  -
+    topic : order
+    story : sweater
+    type  : match
+    form  : uncancel
+    intro : 
+    random: 
+  -
+    topic : order
+    story : sweater
+    type  : match
+    form  : ordering
+    intro : 
+    random: 
+  
+
 # payment
 
   -
