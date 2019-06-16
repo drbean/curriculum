@@ -376,6 +376,10 @@ shoe:
           sentence: Stack Shoes has many reasonably-priced sizes, styles and colors.
           clozed: Stack|Shoes|has|many|reasonably-priced|sizes,|styles|and|End
 dress:
+  description:
+    0:
+      identifier: XXXXL dress/size 49 shoe
+      questiontext: This bad news about an XXXXL dress is similar to the bad news about a size 49 shoe on p 103 of the PDF.
   match:
     0:
       identifier: dress 
@@ -647,6 +651,11 @@ joke:
           sentence: If you want to know more about the company's plans, you can talk to the Human Resources Department.
           clozed: If|you|want|to|know|more|about|the|plans|you|can|talk|to|the|Human|Resources|Department|End
 buffer:
+  description:
+    0:
+      identifier: bad news/buffer
+      questiontext: Dr Bean, Rong Tramp! Here is bad news. But which is the warning of the bad news and which is the bad news itself?
+    
   jigsaw:
     0:
       identifier: buffer p92
