@@ -5,7 +5,18 @@ london-paris-rome:
     - coffee tower the_queen fountain temple left cafe tour museum restaurant the_Eiffel_Tower France subway airport taxi driver seat travel get_on airplane Canada Mexico country city
     - clock_tower cafe Trevi_Fountain make_a_wish coin shoulder hungry special costume school_play practice the_king supermarket a_crown Italy Rome London Paris wave wear trip travel tour
 transport:
+  0:
+    flash:
+      subway    : 地鐵
+      airport   : 飛機
+      taxi      : 出租
+      driver    : 司機
+      seat      : 座位
+      travel    : 旅行
+      slow      : 慢
+      get on    : 進行
   bingo:
+    - subway airport taxi driver seat travel slow get_on get_off bus train airplane
     - subway airport taxi driver seat travel slow get_on get_off bus train airplane full long_line miss_the_plane lucky bike_store place_to_stand suitcase car get_lost trip journey tour afraid_of_flying
     - subway airport taxi driver seat travel slow on get_off please bus train airplane country every summer late sorry sitting there first
     - Joey full ride city_bus long_line everywhere miss petals paintbrush eagle chase truck chef costume pirate roller_coaster clay picture pot cactus
