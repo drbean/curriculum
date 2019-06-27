@@ -17,6 +17,7 @@ transport:
       get on    : 進行
   bingo:
     - subway airport taxi driver seat travel slow get_on get_off bus train airplane
+    - travel go_to airport get_a_taxi full stop ride bus slow long_lines miss_the_plane driver
     - subway airport taxi driver seat travel slow get_on get_off bus train airplane full long_line miss_the_plane lucky bike_store place_to_stand suitcase car get_lost trip journey tour afraid_of_flying
     - subway airport taxi driver seat travel slow on get_off please bus train airplane country every summer late sorry sitting there first
     - Joey full ride city_bus long_line everywhere miss petals paintbrush eagle chase truck chef costume pirate roller_coaster clay picture pot cactus
