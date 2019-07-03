@@ -14,8 +14,14 @@ HomePage
 
 ::: {#content_pane}
 ::: {.wiki}
-- [ClassContent](http://web.nuu.edu.tw/~greg/Contents.html)
 
+- [- AcademicEditingService ](AcademicEditingService.html)
+
+[AcademicEditingService][idnumber]
+
+[idnumber]: http://web.nuu.edu.tw/~greg/AcademicEditingService.html "http://web.nuu.edu.tw/~greg/AcademicEditingService.html"
+
+- [ClassContent](http://web.nuu.edu.tw/~greg/Contents.html)
 - [SelfIntroduction](SelfIntroduction.html)
 
 - [ThePracticeofTeaching](ThePracticeofTeaching.html)
@@ -59,4 +65,7 @@ TODO: under construction
 -------------------------------
 
 ::: {.navigation}
+
+email: drbean [at] freeshell [dot] org
+
 :::
