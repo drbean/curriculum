@@ -1,25 +1,7 @@
-::: {.navigation}
-::: {#title_pane}
 HomePage
 ========
-:::
 
-::: {#status_pane}
-::: {.status}
-:::
-:::
-:::
-
--------------------------------
-
-::: {#content_pane}
-::: {.wiki}
-
-- [- AcademicEditingService ](AcademicEditingService.html)
-
-[AcademicEditingService][idnumber]
-
-[idnumber]: http://web.nuu.edu.tw/~greg/AcademicEditingService.html "http://web.nuu.edu.tw/~greg/AcademicEditingService.html"
+- [AcademicEditingService ](AcademicEditingService.html)
 
 - [ClassContent](http://web.nuu.edu.tw/~greg/Contents.html)
 - [SelfIntroduction](SelfIntroduction.html)
@@ -59,13 +41,4 @@ TODO: under construction
 :   Jogging
 :   Hitchhiking
 
-:::
-:::
-
--------------------------------
-
-::: {.navigation}
-
 email: drbean [at] freeshell [dot] org
-
-:::
