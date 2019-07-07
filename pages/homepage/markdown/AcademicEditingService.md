@@ -1,12 +1,14 @@
 ### The pitch
 
-I am offering an academic paper editing service which is "the next best thing to a journal editor at your side ON your side."
+I am offering an academic paper editing service, "the next best thing to a journal editor at your side ON your side."
 
-I do a good job because of
+Let me edit your paper. I do a good job because of
 
 i) my English language skills (see my old GRE scores in my resume),
 ii) the care with which I express myself, and
 iii) my desire to understand even difficult material.
+
+### Testimonials
 
 * I highly recommend Greg's professionalism in editing--呂宜玲
 * I appreciate Greg's editing ability and discussions of English grammar--董東錦
