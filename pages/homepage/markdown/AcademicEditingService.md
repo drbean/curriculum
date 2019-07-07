@@ -24,22 +24,31 @@ Please feel free to [contact me](mailto:drbean@freeshell.org), just to say, "Hel
 
 Let me share two excellent writing sites:
 
-1. GMU's writing guides, developed for college students, have good advice about the process of writing.
+1. [GMU's writing guides](https://writingcenter.gmu.edu/guides), developed for college students, have good advice about the process of writing.
 
-See the comments on the academic paper's Introduction, Method, Results and Discussion sections:
+	See the guides on the academic [IMRAD](https://writingcenter.gmu.edu/guides/writing-an-imrad-report) paper's
 
-https://writingcenter.gmu.edu/guides/imrad-reports-introductions
-https://writingcenter.gmu.edu/guides/writing-an-imrad-report
-https://writingcenter.gmu.edu/guides/imrad-reports-conclusions
+* [Introduction](https://writingcenter.gmu.edu/guides/imrad-reports-introductions#containerZoneContentArea),
+* [Method](https://writingcenter.gmu.edu/guides/writing-an-imrad-report#containerZoneContentArea),
+* [Results](https://writingcenter.gmu.edu/guides/writing-an-imrad-report#containerZoneContentArea) and
+* [Discussion](https://writingcenter.gmu.edu/guides/imrad-reports-conclusions#containerZoneContentArea) sections:
 
-2. Academic Phrasebank gives you the words to say what you are trying to do at certain points in your paper.
+2. [Academic Phrasebank](http://www.phrasebank.manchester.ac.uk/) gives you the words to say what you are trying to do at certain points in your paper.
 
-For example, hedges, as explained by https://writingcenter.gmu.edu/guides/hedges-softening-claims-in-academic-writing
+* In the Introduction: [Introducing work](http://www.phrasebank.manchester.ac.uk/introducing-work/) and [Referring to sources](http://www.phrasebank.manchester.ac.uk/referring-to-sources/)
+* In the Method: [Describing methods](http://www.phrasebank.manchester.ac.uk/describing-methods/)
+* In the Results: [Reporting results](http://www.phrasebank.manchester.ac.uk/reporting-results/)
+* In the Discussion: [Discussing findings](http://www.phrasebank.manchester.ac.uk/discussing-findings/) and [Writing conclusions](http://www.phrasebank.manchester.ac.uk/writing-conclusions/)
 
-The Academic Phrasebank suggests when you want to be cautious about interpreting results, http://www.phrasebank.manchester.ac.uk/using-cautious-language/, you can say:
 
+	For example, [hedges](https://en.wikipedia.org/wiki/Hedge_(linguistics)), as explained by the GMU guide to [softening claims about research findings](https://writingcenter.gmu.edu/guides/hedges-softening-claims-in-academic-writing#containerZoneContentArea):
+
+	The Academic Phrasebank suggests when you want to be [cautious about interpreting results](http://www.phrasebank.manchester.ac.uk/using-cautious-language/), you can say:
+
+~~~~~
 	These data must be interpreted with caution because …
 	These results therefore need to be interpreted with caution.
+~~~~~
 
 ### Pricing
 
