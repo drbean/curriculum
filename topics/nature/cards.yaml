@@ -43,6 +43,7 @@ weather:
     - sun rainbows storm end find raindrops sky light made come_out goes_across no_one_knows just look_for lightning windy forecast scary beautiful
 season:
   bingo:
+    - season melt cherry/cherries igloo rake honey colors cool
     - season spring summer fall/autumn winter melt cherry/cherries igloo rake honey colors bee flower tree girl fly sit eat see hungry pick banana yummy snow hot cool cold warm
     - season spring summer fall/autumn winter melt cherry/cherries igloo rake honey melt/melts/melted change colors bee buzz pink flower tree girl fly/flies/flew sit/sat/sat eat/ate/eaten see/saw/seen hungry pick banana yummy snow hot cool cold warm inside leaves father ride bikes park pool jump hard_work fun eat school like best favorite
     - favorite season fall why leaves change colors pretty jump Me,_too like raking
@@ -69,7 +70,7 @@ season:
       - It is very cool outside today.     _今天很涼的戶外_
       - Ice melts in the sun.              _冰在陽光下融化。_
       - My favorite season is summer.      _我最喜歡的季節是夏天。_
-  2:
+  0:
     flash:
       cherries : 櫻桃
       igloo    : 雪屋
