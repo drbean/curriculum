@@ -44,6 +44,7 @@ weather:
 season:
   bingo:
     - season melt cherry/cherries igloo rake honey colors cool
+    - cool out tree sees red cherry pink flower happy honey
     - season spring summer fall/autumn winter melt cherry/cherries igloo rake honey colors bee flower tree girl fly sit eat see hungry pick banana yummy snow hot cool cold warm
     - season spring summer fall/autumn winter melt cherry/cherries igloo rake honey melt/melts/melted change colors bee buzz pink flower tree girl fly/flies/flew sit/sat/sat eat/ate/eaten see/saw/seen hungry pick banana yummy snow hot cool cold warm inside leaves father ride bikes park pool jump hard_work fun eat school like best favorite
     - favorite season fall why leaves change colors pretty jump Me,_too like raking
@@ -80,6 +81,16 @@ season:
       colors   : 顏色
       season   : 季節
       cool     : 涼
+  1:
+    flash:
+      tree          : 樹
+      flower        : 花
+      sees          : 看到
+      flies around  : 飛來飛去
+      flies out     : 飛走了
+      pink          : 粉
+      red           : 紅色
+      happy         : 快樂
 
 igloo:
   bingo:
