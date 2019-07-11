@@ -172,3 +172,14 @@ hero:
       around      : 周圍
       hero        : 英雄
       during      : 中
+  1:
+    flash:
+      introduce    : 介紹
+      neighbor     : 鄰居
+      uniform      : 制服
+      team         : 球隊
+      comfortable  : 自在
+      develop      : 開發
+      practice     : 實踐
+      cheer        : 歡呼
+
