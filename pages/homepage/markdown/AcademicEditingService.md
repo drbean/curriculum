@@ -54,7 +54,7 @@ Let me share two excellent writing sites:
 
 ### Pricing
 
-People in Taiwan have been very generous to me, I have for many years benefited from free software and I always appreciate vendors who offer good service at low prices, so I want to return the favor by keeping to the rock-bottom recommended 國家科學委員會 rate of 0.5元 per word.
+People in Taiwan have been very generous to me, I have for many years benefited from free software and I always appreciate vendors who offer good service at low prices, so I want to return the favor by keeping to the rock-bottom recommended 科技部 rate of 0.5元 per word.
 
 Thanks for reading this far. I look forward to hearing from you.
 
