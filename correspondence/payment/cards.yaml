@@ -1,6 +1,11 @@
 ---
 genre: correspondence
 editing:
+  description:
+    0:
+      identifier: editing work payment
+      questiontext: Dr Bean is editing research articles for professors and they are sending him messages (like on p 124) when they pay him.
+    
   jigsaw:
     0:
       identifier: type
