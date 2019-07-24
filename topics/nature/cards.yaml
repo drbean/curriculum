@@ -96,7 +96,18 @@ igloo:
   bingo:
     - house made_of snow called igloo build them cold places inside it's aren't warm people dry strong stand_on watch_out summer melt know they're too that's but when
 sky:
+  0:
+    flash:
+      stars    : 星
+      moon     : 月亮
+      shine    : 閃耀
+      an alien : 一個外星人
+      bright   : 亮
+      anything : 任何東西
+      rises    : 上升
+      wish     : 希望
   bingo:
+    - stars moon shine alien bright anything the_sun_rises the_sun_sets wish
     - stars moon shine alien bright anything the_sun_rises the_sun_sets wish girl dog cat sun rainbow cloud flashlight witch count ghost/ghosts nightmare real believe silly hot under_the_bed very_big swing seesaw shining_light
     - alien star moon bright shine anything rise wish flashlight with ghost nightmare believe silly sun hot seesaw grass light monster
     - real alien walking running wearing anything girl hat big Lucy John just backyard exciting swings slide jump_off scratched knee
