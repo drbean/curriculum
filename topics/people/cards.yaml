@@ -1,5 +1,16 @@
 ---
 genre: topics
+fan:
+  0:
+    flash:
+      teenager : 青少年
+      fan      : 體育迷
+      referee  : 裁判
+      elderly  : 老年
+      shy      : 害羞
+      scream   : 驚叫
+      unique   : 獨特
+      giant    : 巨人
 friend:
   bingo:
     -
