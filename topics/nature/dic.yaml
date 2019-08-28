@@ -192,19 +192,17 @@
   - "topics"
   - "all"
   - |+
-    G: We need the sun.
+    We need the sun.
     It gives us light.
     We see it in the day.
 
-    What is the sun?
-    It is really a star.
+    What is the sun? It is really a star.
 
-    The sun looks big.
-    But, it's not.
+    The sun looks big. But, it's not.
 
     The sun is a very small star.
     It is a very bright star, too.
-  - G
+  - We|the|It gives us|We|it in the|What is the sun|It is|The sun looks|But, it's not|The sun is a very|star|It is a very|star, too|End
 -
   - "picnic-0"
   - "picnic-0"
