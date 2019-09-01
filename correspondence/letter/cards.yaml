@@ -156,7 +156,7 @@ letter:
 parts:
   jigsaw:
     0:
-      identifier: parts
+      identifier: parts of a letter
       quiz:
         - question: (from the letter question) The Office of the President of the ROC
           option:
