@@ -5,18 +5,8 @@
 -
   -
     topic : letter
-    story : address
+    story : parts
     type  : jigsaw
-    form  : nuu
+    form  : 0
     intro : The street address on one line, the zip code with "Miaoli" on the next, but no "City", and on the last line, "Taiwan"
-    random: 
--
-  -
-    topic : letter
-    story : address
-    type  : jigsaw
-    form  : test
-    intro : Don't abbreviate 'Road' to 'Rd.' To be is to do, to do is to be.
-    random: 
-  
-  
+    random: 1
