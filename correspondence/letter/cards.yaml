@@ -508,6 +508,14 @@ address:
           option:
             - 76 Fuqian Road, Miaoli 360
           answer: 76 Fuqian Road, Miaoli 360
+    test:
+      identifier: test question
+      quiz:
+        - question: To be or not to be?
+          option:
+            - To do is to be.
+            - To be is to do.
+          answer: To be is to do.
     nuu:
       identifier: nuu address
       quiz:
