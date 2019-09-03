@@ -1,6 +1,7 @@
 % Writing--Evaluation!
 % Dr Bean (高來圭)
-% [Sat Oct 14 11:56:51 CST 2017 at github: ](https://github.com/drbean/curriculum/tree/master/writing)
+% [Tue 03 Sep 2019 01:44:35 PM CST at github: ](https://github.com/drbean/curriculum/tree/master/writing)
+
 
 
 # Evaluation
@@ -19,15 +20,36 @@ V05200001: johari 4
 
 These evaluations are worth 20 percent of your grade for this exam. The other 80 percent is your 2 essays.
 
-## How to know what grade Dr Bean will give an essay.
+# How to know what grade Dr Bean will give an essay.
+
+## Summary
+
+The essay                                     The points
+--------------------------------------------  --
+writing on the paper                       :  1
+off-topic, copied, etc                     :  2
+topic misunderstood, short, etc            :  3
+not interesting, not written well, or short:  4
+full answer, lot to say, interesting       :  5
+--------------------------------------------  --
+
+## 1: writing on the paper
 
 If there is some writing on the paper, the essay will get at least 1.
 
-If the essay is completely off topic, eg about vacation plans, or some essay that the student has copied from somewhere else, the essay will get 2.
+## 2: off-topic, copied, etc
+
+If the essay is completely off topic, eg about vacation plans, or some essay that the student has copied from somewhere else (like another student, or the Internet), the essay will get 2.
+
+## 3: topic misunderstood, short, etc
 
 If the writer did not understand the topic, and did not answer the question, the essay will get 3. If the essay is OK but short, the essay will also get 3.
 
-If the writer answered the question and wrote a lot, but the essay is not interesting, the essay will get 4. If the essay is interesting, but is short, or is not written well, because of problems with grammar, the essay will also get 4.
+## 4: not interesting, not written well, or short
+
+If the writer answered the question and wrote a lot, but the essay is not interesting, the essay will get 4. (It shouldn't get the top grade of 5.) If the essay is interesting, but is short, or is not written well, because of problems with grammar, the essay will also get 4.
+
+## 5: full answer, lot to say, interesting
 
 If the essay answers the question fully, has a lot to say, is well-written and is interesting, the essay will get 5.
 
