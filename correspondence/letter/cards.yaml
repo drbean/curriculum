@@ -517,24 +517,47 @@ address:
             - To be is to do.
           answer: To be is to do.
     nuu:
-      identifier: nuu address
+      identifier: nuu address in 3 lines
       quiz:
-        - question: 36003苗栗市恭敬里聯大1號
+        - question: 1st line of 36003苗栗市恭敬里聯大1號
           answer:
-            - 1 Lienda//Miaoli 36003//Taiwan
+            - 1 Lienda
+            - 1, Li[ae]nda
           incorrect:
             -
               error: ^(?!.*1 .*)
               feedback: Use the words, "1 "
             -
-              error: ^(?!.*Lienda//.*)
+              error: ^(?!.*Li[ae]nda//.*)
               feedback: Use the words, "Lienda//"
+        - question: 2nd line of 36003苗栗市恭敬里聯大1號
+          answer:
+            - Gongjing-li, Miaoli 36003
+            - GongJing-li, Miaoli 36003
+            - Gong[jJ]ing District, Miaoli 36003
+          incorrect:
+            -
+              error: ^(?!.*gongjing//.*)
+              feedback: Use the words, "Lienda//"
+            -
+              error: ^(?!.*(li|district)*)
+              feedback: Use the words, "Li, or District"
             -
               error: ^(?!.*Miaoli//.*)
               feedback: Use the words, "Miaoli//"
             -
               error: ^(?!.*36003//.*)
               feedback: Use the words, "36003//"
+        - question: 3rd line of 36003苗栗市恭敬里聯大1號
+          answer:
+            - Taiwan
+            - R\.O\.C\.
+            - ROC
+            - (the)? Republic of China
+          incorrect:
+            -
+              error: ^(?!.*Taiwan$)
+              feedback: Use the words, "Taiwan"
     whitehouse:
       identifier: whitehouse
       quiz:
