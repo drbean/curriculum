@@ -557,7 +557,22 @@ address:
             -
               error: ^(?!.*U\.S\.A\..*)
               feedback: Use the words, "U.S.A\."
-            
+    #xi:
+    #  identifier: Xi Jinping address
+    #  quiz:
+    #    - question: Xi Jinping, President of the People’s Republic of China
+
+    #      Zhang Dejiang, Chairman of the National People’s Congress
+
+    #      Zhongnanhai,
+
+    #      No. 174 Xi Chang’an Jie,
+
+    #      Beijing 100017 China
+    #      option:
+    #        - 
+    #      answer: 
+    #            
 letterhead:
   jigsaw:
     0:
