@@ -5,8 +5,8 @@
 -
   -
     topic : letter
-    story : parts
+    story : address
     type  : jigsaw
-    form  : 0
+    form  : nuu
     intro : The street address on one line, the zip code with "Miaoli" on the next, but no "City", and on the last line, "Taiwan"
-    random: 1
+    random: 
