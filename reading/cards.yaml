@@ -14,7 +14,7 @@ difficult:
             - German, Danish, Finnish
             - German, Finnish, Danish
           answer: Danish, German, Finnish
-        - question: In what order are the Southern European (Romance) languages French, Greek, and Italian in difficulty for English native speakers, from easiest to most difficult (Check number of weeks carefully)?
+        - question: In what order are the Southern European languages French, Greek, and Italian in difficulty for English native speakers, from easiest to most difficult (Check number of weeks carefully)?
           option:
             - French, Greek, Italian 
             - French, Italian , Greek
