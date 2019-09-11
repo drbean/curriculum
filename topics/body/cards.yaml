@@ -1,7 +1,18 @@
 ---
 genre: topics
 hair:
+  0:
+    flash:
+      curly    :  捲曲
+      straight :  直行
+      wavy     :  波浪
+      mustache :  鬍子
+      ponytail :  馬尾
+      skin     :  皮膚
+      color    :  顏色
+      blond    :  金發
   bingo:
+    - curly straight wavy mustache ponytail cool skin color blond black brown gray white
     - curly straight wavy mustache ponytail cool skin color blond black brown gray white change short long sunburn wash grow/grows/growing/grew/grown the_same look_alike cut milk Chinese 
     -
       - curly       _捲曲_
