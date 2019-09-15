@@ -385,23 +385,53 @@ address:
     wells:
       identifier: wells
       quiz:
-        - question: 15 Blooming Drive, Sunset City, Arizona 15203, USA
+        - question: line 1 of Tom Wells, 15 Blooming Drive, Sunset City, Arizona 15203, USA
           answer:
-            - 15 Blooming Drive//Sunset City, Arizona 15203//USA
+            - Mr Tom Wells
+            - Mr\. Tom Wells
           incorrect:
             -
-              error: ^(?!.*15 Blooming Drive//.*)
-              feedback: Use the words, "15 Blooming Drive//"
+              error: ^(?!.*Mr.*)
+              feedback: Use the words, "Mr"
             -
-              error: ^(?!.*Sunset City, Arizona 15203//.*)
-              feedback: Use the words "Sunset City, Arizona 15203//"
+              error: ^(?!.*Tom Wells$)
+              feedback: Use the words, "Tom Wells (no comma)$"
+        - question: line 2 of Tom Wells, 15 Blooming Drive, Sunset City, Arizona 15203, USA
+          answer:
+            - 15 Blooming Drive
+          incorrect:
+            -
+              error: ^(?!.*15 .*)
+              feedback: Use the words, "15 (no comma)"
+            -
+              error: ^(?!.*Blooming Drive$)
+              feedback: Use the words, "15 Blooming Drive (no comma)"
+            -
+        - question: line 3 of Tom Wells, 15 Blooming Drive, Sunset City, Arizona 15203, USA
+          answer:
+            - Sunset City, Arizona 15203
+          incorrect:
+            -
+              error: ^(?!.*Sunset City,.*)
+              feedback: Use the words "Sunset City, (remember the comma)"
+            -
+              error: ^(?!.Arizona .*)
+              feedback: Use the words "Arizona (no comma)"
+            -
+              error: ^(?! 15203$)
+              feedback: Use the words "15203 (no comma)"
+        - question: line 4 of Tom Wells, 15 Blooming Drive, Sunset City, Arizona 15203, USA
+          answer:
+            - USA
+            - U\.S\.A
+          incorrect:
             -
               error: ^(?!.*USA.*)
               feedback: Use the words, "USA"
     tan:
       identifier: tan
       quiz:
-        - question: See the book for Tan's Chinese address
+        - question: See the book for Jerry Tan's Chinese address: 10048 台北市中正 (Zhong-zheng) 區重慶 (Chong-qing) 南路一段158巷2弄109號10樓
           answer:
             - Jerry Tan//Floor 10, 109 Lane 2, Alley 158//Chong-qing South Road, Zhong-zheng District//Taipei 10048//Taiwan
           incorrect:
@@ -443,6 +473,27 @@ address:
           option:
             - 168 Boai Second Road//Zuoying District, Gaoxiong City 81357//Taiwan
           answer: 168 Boai Second Road//Zuoying District, Gaoxiong City 81357//Taiwan
+    xinzhu:
+      identifier: Hsinchu
+      quiz:
+        - question: line 1 of 30005新竹市東區中華(Zhong-hua)路二段188號
+          answer: 
+            - 188 Zhong-hua Road, Section 2
+            - 188 Zhong-hua Road, Sec\. 2
+          incorrect:
+            -
+              error: ^(?!188 .*)
+              feedback: Use the words, "188 (no comma)"
+            -
+              error: ^(?!.*Zhong-hua Road,.*)
+              feedback: Use the words, "Zhong-hua Road, (remember the comma)"
+            -
+              error: ^(?!.*Section 2$)
+              feedback: Use the words, "Section 2 (no comma, Sec. 2 is also OK"
+            
+            
+            
+        
     shilin:
       identifier: shilin
       quiz:
@@ -487,6 +538,7 @@ address:
           answer: 
             - |+
               Office of the President
+            - The Office of the President
           incorrect:
             -
               error: ^(?!.*Office of the President.*)
