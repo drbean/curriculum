@@ -1,5 +1,16 @@
 ---
 genre: correspondence
+feeling:
+  essay:
+    0:
+      identifier: Homework--something about letters
+      rubric: |+
+        '## Homework--something about letters '
+
+        Have you ever sent or received a letter? When, who, what, where, why?
+
+        Write 20~50 words about letters. What is your experience with them? Say what is good/bad about letters. Try to be interesting.
+    
 date:
   jigsaw:
     0:
@@ -472,20 +483,36 @@ address:
     president:
       identifier: president tsai
       quiz:
-        - question: 10048 臺北市中正區重慶南路1段122號中華民國總統府
+        - question: 1st line of 10048 臺北市中正區重慶南路1段122號中華民國總統府
           answer: 
             - |+
-              Office of the President//122 Chongqing South Road, Section 1//Zhongzheng District, Taipei City 10048
+              Office of the President
           incorrect:
             -
               error: ^(?!.*Office of the President.*)
               feedback: Use the words, "Office of the President"
+        - question: 2nd line of 10048 臺北市中正區重慶南路1段122號中華民國總統府
+          answer: 
+            - |+
+              122 Chongqing South Road, Section 1
+          incorrect:
             -
-              error: ^(?!.*122 Chongqing South Road, Section 1.*)
-              feedback: Use the words, "122 Chongqing South Road, Section 1"
+              error: ^(?!.*122 Chongqing South Road.*)
+              feedback: Use the words, "122 Chongqing South Road"
             -
-              error: ^(?!.*Zhongzheng District, Taipei City 10048.*)
-              feedback: Use the words, "Zhongzheng District, Taipei City 10048"
+              error: ^(?!.*Section 1.*)
+              feedback: Use the words, "Section 1"
+        - question: 3rd line of 10048 臺北市中正區重慶南路1段122號中華民國總統府
+          answer: 
+            - |+
+              Zhongzheng District, Taipei City 10048
+          incorrect:
+            -
+              error: ^(?!.*Zhongzheng District,.*)
+              feedback: Use the words, "Zhongzheng District,"
+            -
+              error: ^(?!.*Taipei City 10048.*)
+              feedback: Use the words, "Taipei City 10048"
     library:
       identifier: national library
       quiz:
@@ -517,7 +544,7 @@ address:
             - To be is to do.
           answer: To be is to do.
     nuu:
-      identifier: nuu address in 3 lines
+      identifier: 3-line nuu address
       quiz:
         - question: 1st line of 36003苗栗市恭敬里聯大1號
           answer:
@@ -528,8 +555,8 @@ address:
               error: ^(?!.*1 .*)
               feedback: Use the words, "1 "
             -
-              error: ^(?!.*Li[ae]nda//.*)
-              feedback: Use the words, "Lienda//"
+              error: ^(?!.*Li[ae]nda.*)
+              feedback: Use the words, "Lienda"
         - question: 2nd line of 36003苗栗市恭敬里聯大1號
           answer:
             - Gongjing-li, Miaoli 36003
@@ -537,17 +564,17 @@ address:
             - Gong[jJ]ing District, Miaoli 36003
           incorrect:
             -
-              error: ^(?!.*gongjing//.*)
-              feedback: Use the words, "Lienda//"
+              error: ^(?!.*gongjing.*)
+              feedback: Use the words, "GongJing-li"
             -
               error: ^(?!.*(li|district)*)
               feedback: Use the words, "Li, or District"
             -
-              error: ^(?!.*Miaoli//.*)
-              feedback: Use the words, "Miaoli//"
+              error: ^(?!.*Miaoli.*)
+              feedback: Use the words, "Miaoli"
             -
-              error: ^(?!.*36003//.*)
-              feedback: Use the words, "36003//"
+              error: ^(?!.*36003.*)
+              feedback: Use the words, "36003"
         - question: 3rd line of 36003苗栗市恭敬里聯大1號
           answer:
             - Taiwan
@@ -559,27 +586,44 @@ address:
               error: ^(?!.*Taiwan$)
               feedback: Use the words, "Taiwan"
     whitehouse:
-      identifier: whitehouse
+      identifier: 3-line whitehouse address
       quiz:
-        - question: 20500 美國白宮川普總統
+        - question: 1st line of 20500 美國白宮川普總統
           answer:
-            - President Trump//The White House 20500//U.S.A.
+            - President Trump
           incorrect:
             -
-              error: ^(?!.*Trump//.*)
-              feedback: Use the words, "Trump//"
+              error: ^(?!President.*)
+              feedback: Use the words, "President"
             -
-              error: ^(?!.*//The White House.*)
-              feedback: Use the words, "//The White House"
+              error: ^(?!.*Trump.*)
+              feedback: Use the words, "Trump"
+        - question: 2nd line of 20500 美國白宮川普總統
+          answer:
+            - The White House 20500
+          incorrect:
+            -
+              error: ^(?!.*(The )?White House.*)
+              feedback: Use the words, "The White House"
             -
               error: ^(?!.*House .*)
               feedback: Use the words, "House "
             -
-              error: ^(?!.*20500//.*)
-              feedback: Use the words, "20500//"
+              error: ^(?!.*20500.*)
+              feedback: Use the words, "20500"
             -
               error: ^(?!.*U\.S\.A\..*)
-              feedback: Use the words, "U.S.A\."
+              feedback: Use the words, "U.S.A"
+        - question: 3rd line of 20500 美國白宮川普總統
+          answer:
+            - U.S.A
+            - USA
+            - The USA
+            - The U\.S\.A\.
+          incorrect:
+            -
+              error: ^(?!.*U\.S\.A\..*)
+              feedback: Use the words, "U.S.A."
     #xi:
     #  identifier: Xi Jinping address
     #  quiz:
