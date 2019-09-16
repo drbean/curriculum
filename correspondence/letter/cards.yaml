@@ -431,26 +431,62 @@ address:
     tan:
       identifier: tan
       quiz:
-        - question: See the book for Jerry Tan's Chinese address: 10048 台北市中正 (Zhong-zheng) 區重慶 (Chong-qing) 南路一段158巷2弄109號10樓
+        - question: Line 1 of Jerry Tan's return Chinese address: 10048 台北市中正 (Zhong-zheng) 區重慶 (Chong-qing) 南路一段158巷2弄109號10樓
           answer:
-            - Jerry Tan//Floor 10, 109 Lane 2, Alley 158//Chong-qing South Road, Zhong-zheng District//Taipei 10048//Taiwan
+            - Jerry Tan
           incorrect:
+            -
+              error: ^(?.*Mr.*)
+              feedback: Don't use the word, "Mr" on your own name
             -
               error: ^(?!.*Jerry Tan//.*)
               feedback: Use the words, "Jerry Tan//"
+        - question: Line 2 of Jerry Tan's return Chinese address: 10048 台北市中正 (Zhong-zheng) 區重慶 (Chong-qing) 南路一段158巷2弄109號10樓
+          answer:
+            - Floor 10, 109 Lane 2, Alley 158
+            - "Floor 10, #109 Lane 2, Alley 158"
+            - 10th Floor, 109 Lane 2, Alley 158
+            - "10th Floor, #109 Lane 2, Alley 158"
+            - Fl\. 10, 109 Ln\. 2, Al\. 158
+            - 10F, 109 Lane 2, Alley 158
+
+          incorrect:
             -
-              error: ^(?!.*Floor 10, 109 Lane 2, Alley 158//.*)
-              feedback: Use the words, "Floor 10, 109 Lane 2, Alley 158//"
+              error: ^(?!.*Floor 10.*)
+              feedback: Use the words, "Floor 10" or "10th Floor"
             -
-              error: ^(?!.*Chong-qing South Road, Zhong-zheng District//.*)
-              feedback: Use the words, "Chong-qing South Road, Zhong-zheng District//"
+              error: ^(?!.*#?109 Lane 2,.*)
+              feedback: Use the words, "109 Lane 2,"
             -
-              error: ^(?!.*Taipei 10048//.*)
-              feedback: Use the words, "Taipei 10048//"
+              error: ^(?!.*Alley 150,.*)
+              feedback: Use the words, "Alley 150", no comma
+        - question: Line 3 of Jerry Tan's return Chinese address: 10048 台北市中正 (Zhong-zheng) 區重慶 (Chong-qing) 南路一段158巷2弄109號10樓
+          answer:
+            - Chong-qing South Road, Zhong-zheng District
+            - Chong-qing Sth\. Rd\., Zhong-zheng District
+          incorrect:
             -
-              error: ^(?!.*Taiwan.*)
-              feedback: Use the words, "Taiwan"
-            
+              error: ^(?!.*Chong-qing South Road,.*)
+              feedback: Use the words, "Chong-qing South Road," (Remember the comma!)
+        - question: Line 4 of Jerry Tan's return Chinese address: 10048 台北市中正 (Zhong-zheng) 區重慶 (Chong-qing) 南路一段158巷2弄109號10樓
+          answer:
+            - Taipei 10048
+          incorrect:
+            -
+              error: ^(?!.*Taipei, .*)
+              feedback: Space, but no comma after "Taipei"
+            -
+              error: ^(?!.10048$)
+              feedback: No comma after "10048"
+        - question: Line 5 of Jerry Tan's return Chinese address: 10048 台北市中正 (Zhong-zheng) 區重慶 (Chong-qing) 南路一段158巷2弄109號10樓
+          answer:
+            - Taiwan
+            - ROC
+            - R\.O\.C.
+          incorrect:
+            -
+              error: ^(?!.*Taiwan$)
+              feedback: No comma after "Taiwan" or "ROC"
             
     1:
       identifier: address
@@ -479,17 +515,19 @@ address:
         - question: line 1 of 30005新竹市東區中華(Zhong-hua)路二段188號
           answer: 
             - 188 Zhong-hua Road, Section 2
+            - 188 Zhong-hua Road, Section 2
             - 188 Zhong-hua Road, Sec\. 2
+            - 188 Zhong-hua Rd\., Sec\. 2
           incorrect:
             -
               error: ^(?!188 .*)
-              feedback: Use the words, "188 (no comma)"
+              feedback: Use the words, "188" (no comma)
             -
               error: ^(?!.*Zhong-hua Road,.*)
-              feedback: Use the words, "Zhong-hua Road, (remember the comma)"
+              feedback: Use the words, "Zhong-hua Road," (remember the comma)
             -
               error: ^(?!.*Section 2$)
-              feedback: Use the words, "Section 2 (no comma, Sec. 2 is also OK"
+              feedback: Use the words, "Section 2" (no comma, Sec. 2 is also OK
             
             
             
