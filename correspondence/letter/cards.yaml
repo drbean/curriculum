@@ -462,15 +462,20 @@ address:
               feedback: Use the words, "Alley 150", no comma
         - question: Line 3 of Jerry Tan's return Chinese address: 10048 台北市中正 (Zhong-zheng) 區重慶 (Chong-qing) 南路一段158巷2弄109號10樓
           answer:
-            - Chong-qing South Road, Zhong-zheng District
-            - Chong-qing Sth\. Rd\., Zhong-zheng District
+            - Chong-qing South Road, Section 1, Zhong-zheng District
+            - Chong-qing Sth\. Rd\., Sec\. 1, Zhong-zheng District
           incorrect:
             -
               error: ^(?!.*Chong-qing South Road,.*)
               feedback: Use the words, "Chong-qing South Road," (Remember the comma!)
+            -
+              error: ^(?!.*Section 1.*)
+              feedback: Use the words, "Section 1"
+            
         - question: Line 4 of Jerry Tan's return Chinese address: 10048 台北市中正 (Zhong-zheng) 區重慶 (Chong-qing) 南路一段158巷2弄109號10樓
           answer:
             - Taipei 10048
+            - Taipei City 10048
           incorrect:
             -
               error: ^(?!.*Taipei, .*)
