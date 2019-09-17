@@ -1,0 +1,63 @@
+---
+
+# address
+
+-
+  -
+    topic : letter
+    story : address
+    type  : jigsaw
+    form  : whitehouse
+    intro : The person in the 1st line, the address in the second, \"U.S.A\", or \"USA\" in the 3rd.
+    random: 
+-
+  -
+    topic : letter
+    story : address
+    type  : jigsaw
+    form  : president
+    intro : \"(The) Office of the President\" in the 1st line, the street and street number in the second, the district and city (include \"City\") in the 3rd.
+    random: 
+-
+  -
+    topic : letter
+    story : address
+    type  : jigsaw
+    form  : wells
+    intro : Receiver (Wells\') name in the first line
+    random: 
+-
+  -
+    topic : letter
+    story : address
+    type  : jigsaw
+    form  : tan
+    intro : No honorific on your own name, just on other people's names
+    random: 
+-
+  -
+    topic : letter
+    story : address
+    type  : jigsaw
+    form  : xinzhu
+    intro : page 2 of the book
+    random: 
+-
+  -
+    topic : 8cs
+    story : identify
+    type  : jigsaw
+    form  : 0
+    intro : For each question, a different one of the 1st 4 8Cs, page 3-4 is the answer
+    random: 
+-
+  -
+    topic : 8cs
+    story : identify
+    type  : jigsaw
+    form  : 1
+    intro : For each question, a different one of the 2nd 4 8Cs, page 4 is the answer
+    random: 
+  
+  
+  
