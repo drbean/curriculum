@@ -27,6 +27,15 @@
 | Miaoli 36003
 | Taiwan
 
+## Letter from you to me
+
+I took/will take points away from your grade, if:
+
+- no "Language Center" or "NUU" in my address
+- the addresses are all on one line, not 2 or 3 or more
+- the lines of the addresses do not line up
+- your address is the school's address, without further identification
+
 ## The layout of a letter
 
 Make up a company, your title, an adressee. Follow the style on p10.
