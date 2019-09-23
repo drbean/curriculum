@@ -1,0 +1,90 @@
+---
+genre: reading
+difficult:
+  jigsaw:
+    0:
+      identifier: language difficulty comparison
+      quiz:
+        - question: In what order are the Northern European languages Danish, Finnish and German in difficulty for English native speakers, from easiest to most difficult?
+          option:
+            - Danish, Finnish, German
+            - Danish, German, Finnish
+            - Finnish, Danish, German
+            - Finnish, German, Danish
+            - German, Danish, Finnish
+            - German, Finnish, Danish
+          answer: Danish, German, Finnish
+        - question: In what order are the Southern European languages French, Greek, and Italian in difficulty for English native speakers, from easiest to most difficult (Check number of weeks carefully)?
+          option:
+            - French, Greek, Italian 
+            - French, Italian , Greek
+            - Greek, French, Italian 
+            - Greek, Italian , French
+            - Italian, French, Greek
+            - Italian, Greek, French
+          answer: Italian, French, Greek
+        - question: In what order are the Southeast/East Asian languages Chinese, Indonesian, and Vietnamese in difficulty for English native speakers, from easiest to most difficult?
+          option:
+            - Chinese, Indonesian, Vietnamese
+            - Chinese, Vietnamese, Indonesian
+            - Indonesian, Chinese, Vietnamese
+            - Indonesian, Vietnamese, Chinese
+            - Vietnamese, Chinese, Indonesian
+            - Vietnamese, Indonesian, Chinese
+          answer: Indonesian, Vietnamese, Chinese
+        - question: In what order are the Central/East Asian languages Japanese, Korean, and Mongolian in difficulty for English native speakers, from easiest to most difficult? (Let's say Japanese is easier than Korean)
+          option:
+            - Japanese, Korean, Mongolian
+            - Japanese, Mongolian, Korean
+            - Korean, Japanese, Mongolian
+            - Korean, Mongolian, Japanese
+            - Mongolian, Japanese, Korean
+            - Mongolian, Korean, Japanese
+          answer: Mongolian, Japanese, Korean
+        - question: In what order are the African languages Amharic (Ethiopian), Arabic (North Africa), and Swahili, in difficulty for English native speakers, from easiest to most difficult?
+          option:
+            - Amharic, Arabic, Swahili
+            - Amharic, Swahili, Arabic
+            - Arabic, Amharic, Swahili
+            - Arabic, Swahili, Amharic
+            - Swahili, Amharic, Arabic
+            - Swahili, Arabic, Amharic
+          answer: Swahili, Amharic, Arabic
+    1:
+      identifier: dr bean experience
+      quiz:
+        - question: How much of the time did Dr Bean speak Japanese in Japan?
+          option:
+            - 10 percent
+            - 30 percent
+            - 100 percent
+          answer: 100 percent
+        - question: How much of the time did Dr Bean speak Korean in Korea?
+          option:
+            - 10 percent
+            - 30 percent
+            - 100 percent
+          answer: 30 percent
+        - question: How much of the time does Dr Bean speak Chinese in Taiwan?
+          option:
+            - 10 percent
+            - 30 percent
+            - 100 percent
+          answer: 10 percent
+  essay:
+    0:
+      identifier: 100 words about my experience with Japanese, Korean and Chinese
+      rubric: |+
+        I spent 6 years in Japan, 12 in Korea and 20 in Taiwan. Although the FSI says they are all among the most difficult languages in the world to learn well, I think Japanese is the easiest of the three. I never/rarely had people not understanding what I said there (although my pronunciation was not good). There are only 52 sounds in Japanese.
+
+        Korean pronunciation is more difficult. Many times in Korea people could not understand my pronunciation. I have the same problem here in Taiwan though the 4 tones is responsible for some of those problems.
+
+        The big problem learning Chinese is Chinese characters. In Korean and to a lesser degree in Japanese, reading and listening work together to help learners. With Chinese however, hearing the word and seeing the same word as a Chinese character, it is harder to connect the two.
+
+        I remember in older versions of the FSI scale of language difficulty that Korean was regarded as a little more difficult than Chinese. It took longer to learn. And Japanese was not included in the most difficult languages.
+
+        So in my opinion, a good order for speakers of English is Japanese, Chinese, Korean.
+    1:
+      identifier: language, difficulty and learning
+      rubric: "Use the content you find online about language and language difficulty, but don't just copy and paste.\n\nI want to hear what you think. You need to restate what you read in your own words (otherwise it is plagiarism)! And you need to express your own opinion.\n\nBe warned: I CAN TELL IF SENTENCES HAVE BEEN COPIED FROM THE INTERNET!"
+    
