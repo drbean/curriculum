@@ -1,0 +1,27 @@
+---
+
+# first writing in class
+
+-
+  -
+    topic : fall
+    story : week_3
+    type  : description
+    form  : 0
+    intro : 
+    random: 
+  
+  -
+    topic : language
+    story : difficult
+    type  : essay
+    form  : 1
+    intro : 400~500 words about languages, language difficulty and language learning
+    random: 
+  -
+    topic : app
+    story : online
+    type  : essay
+    form  : 0
+    intro : 400~500 words about WeChat, LINE and other on-line apps
+    random: 
