@@ -24,7 +24,7 @@ Don't be depressed about the course if they are low.
 
 # Scores
 
-# Course grade ≠ TOEIC score
+# Course grade does not equal TOEIC score
 
 ## Struggling student gets good grade
 
@@ -48,7 +48,7 @@ A returnee from the US where he/she went at age of 7 years:
 
 ⇒ Not a good grade, might even fail
 
-## Moral of the story: test success ≠ life success
+## Moral of the story: test success does not equal life success
 
 Success on tests or at college does not translate into success in life, or in a career.
 
