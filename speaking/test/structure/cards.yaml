@@ -1,4 +1,11 @@
 ---
+grade:
+  essay:
+    0:
+      identifier: test score & course grade
+      rubric: |+
+        Course grade ≠ TOEIC score
+    
 question:
   jigsaw:
     0:
