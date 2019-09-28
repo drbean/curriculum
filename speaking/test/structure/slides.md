@@ -1,14 +1,14 @@
-#---
-#mainfont: Font-Regular.otf
-#mainfontoptions: 
-#- BoldFont=Font-Bold.otf
-#- ItalicFont=Font-Italic.otf
-#- BoldItalicFont=Font-BoldItalic.otf
-#---
 % TOEIC speaking and writing--structure
 % Dr Bean (高來圭)
 % Fri Thu 26 Sep 2019 12:24:26 PM CST http://github.com/drbean/curriculum/master/speaking
 
+---
+mainfont: latinmodern-math.otf
+#mainfontoptions: 
+#- BoldFont=Font-Bold.otf
+#- ItalicFont=Font-Italic.otf
+#- BoldItalicFont=Font-BoldItalic.otf
+...
 
 # General level issues
 
@@ -80,7 +80,16 @@ If it is in a book, give the name of the book and authors.
 
 I will give extra credit for posts
 
-# ETS in 台灣
+# Tests in 台灣
+
+## ETS in 台灣
 
 - [ETS Preferred Associate in Taiwan](http://www.toeic.com.tw/sw/)
 
+## IELTS in 台灣
+
+- [台灣IELTS雅思官方考試中心](http://ieltstaiwan.org)
+
+## GEPT
+
+- [https://www.gept.org.tw/](https://www.gept.org.tw/)
