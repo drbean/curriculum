@@ -1,0 +1,58 @@
+---
+genre: writing
+thought:
+  essay:
+    0:
+      identifier: week 3 writing in class debriefing
+      rubric: |+
+  ## Thoughts about writing in class week 3
+
+  * Although I told students not to copy and paste, a number of students did. I gave those students 2/5.
+
+  * I wanted students to use the sources to give information about language and apps. But that didn't happen.
+
+  It was good to hear students' views. They did a good job explaining their thoughts, but I wanted them to also present information (properly cited) about language and the apps.
+george_mason:
+  jigsaw:
+    0:
+      identifier: work monitoring paraphrase
+      quiz:
+        - question: Number 1 in the first question about company monitoring workers
+          option:
+            - paraphrased
+            - plagiarized
+          answer: plagiarized
+        - question: Number 2 in the first question about company monitoring workers
+          option:
+            - paraphrased
+            - plagiarized
+          answer: paraphrased
+    1:
+      identifier: mountain lion quote
+      quiz:
+        - question: Number 1 in the second question about mountain line quote
+          option:
+            - plagiarized
+            - quoted
+          answer: plagiarized
+        - question: Number 2 in the second question about mountain line quote
+          option:
+            - plagiarized
+            - quoted
+          answer: quoted
+    2:
+      identifier: quote citation
+      quiz:
+        - question: Number 1 in the third question about introducing quote source
+          option:
+            - quote dropped in
+            - source of quote introduced
+          answer: quote dropped in
+        - question: Number 2 in the third question about introducing quote source
+          option:
+            - quote dropped in
+            - source of quote introduced
+          answer: source of quote introduced
+        
+
+        
