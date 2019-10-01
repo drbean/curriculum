@@ -74,3 +74,61 @@ Write lines like:
 - V05200020: diary  5
 - V05200001: diary  3
 
+## Peer evaluation competition
+
+For every rating inconsistent with Dr Bean's rating you get one (1) point
+
+For every rating *consistent* with Dr Bean's rating you get two (2) points
+
+The person with the most points gets 3 for her/his grade for the exercise.
+
+The person with the least number of points, and who evaluated at least 10 essays, gets 2 for her/his grade. (They will have at least 10 points.)
+
+Persons who rate less than 10 essays get from 0 to 2 for their grade.
+
+# Writing in class AKA Exam
+
+## Writing in class plan
+
+I want to do 4~6 Writing in class AKA "exams" in the computer lab.
+
+Hopefully, Week 3, 6, 9, 12, 15, 18
+
+## Essay subjects
+
+The first Writing in class AKA "exam" will be on 
+
+1. Learning languages
+2. Using Wechat, LINE, other on-line apps
+
+## Format
+
+I want 2 essays of at least 500 words each. (You have 2 hours for the exam)
+
+
+## References
+
+I want you to use Internet references that you can specify in advance.
+
+For example,
+
+"According to Wikipedia (2019), Wechat has more than one billion users."
+
+And at the bottom of the essay,
+
+	Wechat — Wikipedia, the free encyclopedia
+	[Online; accessed 16-April-2019]
+	https://en.wikipedia.org/w/index.php?title=Wechat&oldid=886030392
+
+## Sources
+
+Please look for on-line sources (in Chinese or English) that you might want to use during the exam.
+
+Post them to the "Internet language learning, on-line app sources" forum
+
+## Atmosphere
+
+This is not a traditional exam. You can talk with other students, walk around and look at what they have written.
+
+You cannot use phones, notes, and sources not posted in advance.
+
