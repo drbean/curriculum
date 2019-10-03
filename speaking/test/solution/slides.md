@@ -1,4 +1,3 @@
----
 % TOEIC speaking and writing--proposing a solution
 % Dr Bean (高來圭)
 % Fri Thu 26 Sep 2019 12:24:26 PM CST http://github.com/drbean/curriculum/master/speaking
@@ -9,6 +8,8 @@
 # Call centers
 
 ## Hard work
+
+### Computer problem service center
 
 Center worker: "Press any key to continue!"
 
@@ -23,6 +24,17 @@ Don't be depressed if it is difficult communicating over the phone.
 ## Call centers in India
 
 - [Outsourced: the call center story](https://www.youtube.com/watch?v=xnKjbjg_pDw)
+- [Outsourced: the movie](https://en.wikipedia.org/wiki/Outsourced_(film))
+
+
+## Other telephone situations that may feature in Question 10--Propose a solution
+
+- [Hotline](http://en.wikipedia.org/wiki/Hotline)
+
+- [Complaint_system](http://en.wikipedia.org/wiki/Complaint_system)
+
+- [Crisis_hotline](http://en.wikipedia.org/wiki/Crisis_hotline)
+
 
 ## Interactive
 
@@ -79,7 +91,7 @@ In your response, be sure to
 * show that you recognise the problem, and
 * propose a way of dealing with the problem.
 
-## show that you recognise the problem
+## show that you recognise the problem--part 1
 
 "Let me just check that I understand what the problem is. You're saying ..."
 
@@ -88,15 +100,63 @@ Plus:
 * the big picture,
 * then the details
 
-## propose a way of dealing with the problem.
+## end part 1
+
+	"Is that correct?"
+	"Please confirm that this is correct."
+	"Contact me if I made a mistake here"
+
+## transition into part 2
+
+Pause.
+
+	"OK"
+
+## propose a way of dealing with the problem--part 2 I
+
+First, say what you have done:
+
+	"I have contacted the people responsible for ..."
+
+And what the consequences of that were
+
+	"They told me that ..."
+
+## propose a way of dealing with the problem--part 2 II
+
+Then, say what the caller can (has to) do.
 
 Don't be afraid to require the caller to do something onerous.
 
-"I'm afraid I'm going to have to .."
+	"I'm afraid I'm going to have to ask you to .."
 
-Plus:
+	"You will have to .."
 
 * some difficult requirement for the caller
+
+## Don't use "please", "You'd better"
+
+You're not giving advice, so don't use "should", either.
+
+## the consequences of caller doing their part to deal with the problem--part 2 II
+
+	"If you [do this], we will be able to
+	[do this other thing] (which will solve
+	the problem)"
+
+## conditions on satisfactory solution to the problem
+
+### Conditions the caller needs to satisfy
+
+You can use "Please", or "should"
+
+	"Please do this [by some time|at some place|
+	in some manner], so we can ..."
+
+### Conditions the responder needs to satisfy
+
+	"If we can't [do some helpful thing for you],
+	we won't be able to .."
 
 
 ## The official example 1

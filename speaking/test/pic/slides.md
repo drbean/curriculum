@@ -8,9 +8,12 @@ mainfont: latinmodern-math.otf
 #- BoldFont=Font-Bold.otf
 #- ItalicFont=Font-Italic.otf
 #- BoldItalicFont=Font-BoldItalic.otf
+CJKmainfont: WenQuanYi Zen Hei
+CJKmainfontoptions: 
+  - CJKMonoFont: WenQuanYi Zen Hei Mono
 ...
 
-# The fruit stall picture
+# The fruit stall/stand picture
 
 # Thoughts on listening to the homework
 

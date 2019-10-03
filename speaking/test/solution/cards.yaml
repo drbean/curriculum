@@ -1,0 +1,44 @@
+---
+genre: speaking test
+news:
+  jigsaw:
+    0:
+      identifier: good news/bad news
+      quiz:
+        - question: "Dealing with the problem: 'I have contacted the people ..'"
+          option:
+            - introducing good news, solving the problem
+            - introducing bad news, possibly preventing a solution
+            - introducing What could be good, or what could be bad, news
+          answer: introducing What could be good, or what could be bad, news
+        - question: "Dealing with the problem: 'They told me that ...'"
+          option:
+            - introducing good news, solving the problem
+            - introducing bad news, possibly preventing a solution
+            - introducing What could be good, or what could be bad, news
+          answer: introducing What could be good, or what could be bad, news
+        - question: "Dealing with the problem: 'I'm afraid I'm going to have to ask you to ..'"
+          option:
+            - introducing good news, solving the problem
+            - introducing bad news, possibly preventing a solution
+            - introducing What could be good, or what could be bad, news
+          answer: introducing good news, solving the problem
+        - question: "Dealing with the problem: 'If you [do this], we will be able to'"
+          option:
+            - introducing good news, solving the problem
+            - introducing bad news, possibly preventing a solution
+            - introducing What could be good, or what could be bad, news
+          answer: introducing good news, solving the problem
+        - question: "Dealing with the problem: 'Please do this [by some time|at some place|'"
+          option:
+            - introducing good news, solving the problem
+            - introducing bad news, possibly preventing a solution
+            - introducing What could be good, or what could be bad, news
+          answer: introducing bad news, possibly preventing a solution
+        - question: "Dealing with the problem: 'If we can't [do some helpful thing for you],'"
+          option:
+            - introducing good news, solving the problem
+            - introducing bad news, possibly preventing a solution
+            - introducing What could be good, or what could be bad, news
+          answer: introducing bad news, possibly preventing a solution
+        
