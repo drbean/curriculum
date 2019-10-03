@@ -91,7 +91,7 @@ In your response, be sure to
 * show that you recognise the problem, and
 * propose a way of dealing with the problem.
 
-## show that you recognise the problem--part 1
+## Part 1: show that you recognise the problem
 
 "Let me just check that I understand what the problem is. You're saying ..."
 
@@ -112,7 +112,7 @@ Pause.
 
 	"OK"
 
-## propose a way of dealing with the problem--part 2 I
+## Part 2: Ipropose a way of dealing with the problem
 
 First, say what you have done:
 
@@ -122,7 +122,7 @@ And what the consequences of that were
 
 	"They told me that ..."
 
-## propose a way of dealing with the problem--part 2 II
+## part 2 II: propose a way of dealing with the problem
 
 Then, say what the caller can (has to) do.
 
@@ -138,13 +138,13 @@ Don't be afraid to require the caller to do something onerous.
 
 You're not giving advice, so don't use "should", either.
 
-## the consequences of caller doing their part to deal with the problem--part 2 II
+## the consequences of caller doing their part
 
 	"If you [do this], we will be able to
 	[do this other thing] (which will solve
 	the problem)"
 
-## conditions on satisfactory solution to the problem
+## conditions on satisfactory solution
 
 ### Conditions the caller needs to satisfy
 
