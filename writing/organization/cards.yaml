@@ -1,0 +1,76 @@
+
+genre: writing
+title:
+  jigsaw:
+    0:
+      identifier: appropriate title
+      quiz:
+        - question: |+
+            Do you know what a house made of snow is called? It's called an igloo. People build them in cold places.
+
+            You may think that they're cold inside, but they aren't. They are warm inside. Igloos keep people warm and dry.
+
+            They are strong too. People can stand on igloos. But watch out for summer! That's when igloos melt.
+          option:
+            - How to make an igloo
+            - What is an igloo?
+            - When do igloos melt?
+            - Igloos are strong
+          answer: What is an igloo?
+        - question: |+
+            Do you know why jeans are usually blue?
+
+            At first, there were two colors of jeans; brown and blue.
+
+            Men wore them to work.
+
+            Brown jeans were not soft, but blue jeans were very soft.
+
+            So, people stopped buying brown jeans.
+          option:
+            - The history of blue jeans
+            - Why jeans are usually blue
+            - Who wears blue jeans?
+            - Why blue jeans are soft
+          answer: Why jeans are usually blue
+    1:
+      identifier: appropriate title 2
+      quiz:
+        - question: |+
+            We need the sun.
+            It gives us light.
+            We see it in the day.
+
+            What is the sun? It is really a star.
+
+            The sun looks big. But, it's not.
+
+            The sun is a very small star.
+            It is a very bright star, too.
+          option:
+            - The sun is very big
+            - The sun is very hot
+            - Where is the sun?
+            - What is the sun?
+          answer: What is the sun?
+        - question: |+
+            Most crabs are small.
+            You can find them on the beach.
+
+            However, Japanese spider crabs don't live on the beach.
+            They live in the ocean.
+
+            They are very big.  Some are as big as people.
+
+            They also live for a long time.
+            Some spider crabs are 100 years old.
+          option:
+            - Crabs on the beach
+            - Japanese spider crabs
+            - The ocean
+            - A 100-year-old crab!
+          answer: Japanese spider crabs
+        
+        
+        
+        
