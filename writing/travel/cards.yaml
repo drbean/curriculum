@@ -102,3 +102,20 @@ culture:
         Write about a foreign country. Which one would you like to travel to? Write 50~100 words about the culture of the country, its language and life in that country.
 
         You don't have to write perfectly. It's OK to just write whatever comes into your head.
+japan:
+  essay:
+    0:
+      identifier: japan: negative view about working there
+      rubric: |+
+        I know a Japanese man whose mother is Korean. He's actually her son from her first husband, who was Korean, but he was adopted by her second husband, a Japanese man, and grew up as Japanese.
+
+        He went to school in an international school in Japan with students from the US, France, England, etc, and he is a near native speaker (NNS) in English.
+
+        He said the Western students thought it would be cool to work for a Japanese company. They liked Japan.
+
+        But they didn't understand Japan. They were on the outside looking in.
+
+        On the inside, he knows working for a Japanese company is not good.
+
+        Visiting Japan is good but living there is not good.
+    
