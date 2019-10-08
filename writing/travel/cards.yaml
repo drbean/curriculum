@@ -94,5 +94,11 @@ okinawa:
         -
           - reason for quick return
           - not being able to change money
-        
-        
+culture:
+  essay:
+    0:
+      identifier: traveling to foreign culture
+      rubric: |+
+        Write about a foreign country. Which one would you like to travel to? Write 50~100 words about the culture of the country, its language and life in that country.
+
+        You don't have to write perfectly. It's OK to just write whatever comes into your head.
