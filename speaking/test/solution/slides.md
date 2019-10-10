@@ -106,13 +106,36 @@ Plus:
 	"Please confirm that this is correct."
 	"Contact me if I made a mistake here"
 
+## Clarification questions
+
+* WH questions
+
+	"Where did X .."
+	"What is/are X .."
+	"How many X .."
+	"When will X .."
+	"Why are you .."
+	"Who is going to .."
+
+* YN questions
+
+	"Can/Are/Did/Do you/X .."
+
+## Listening problems
+
+It's better to admit a problem than to try to hide the fact you don't understand.
+
+	"I didn't catch the bit about X"
+	"I'm sorry. I didn't understand where/what X .."
+
 ## transition into part 2
 
 Pause.
 
 	"OK"
+	"Anyway" (if you have a problem with understanding a lot of the problem)
 
-## Part 2: Ipropose a way of dealing with the problem
+## Part 2: propose a way of dealing with the problem
 
 First, say what you have done:
 
@@ -231,3 +254,31 @@ you _____(29) me here at _____(30) and _____(31) me know _____(32) to get my
 _____(33) back? _____(34) really busy _____(35) and _____(36) need
 you to call me _____(37). I _____(38) go on _____(39) without my
 bank card. This is Marsha Syms at _____(40). Thanks.
+
+# Plan of work
+
+# Stages--preparation, practice, test
+
+## Problems and solutions
+
+* share call about problem in English
+* discuss problem--solution in English
+* offer problems and solutions for class to discuss
+
+## Practice
+
+Each person prepares their problem and solution.
+
+### Roles
+
+* One person speaks for 60 seconds
+* One person times the speaker, starting with "Begin speaking now"
+* One person listens to the speaker and reports what he/she said
+
+Consider recording what the speaker says
+
+Repeated 3 times so each person takes one of the 3 roles
+
+## Test
+
+Everyone together records their solution proposal for the problem they had.
