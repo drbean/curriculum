@@ -4,4 +4,20 @@ call_center:
     0:
       identifier: problem call experience
       rubric: "Questions 4-6: Respond to questions\n\nHave you ever called a company, or a school, or other organization about a problem? Speak for 15 seconds about that experience, answering who, what, when, where questions.\n\nThen for another 15 seconds describe what the problem was.\n\nThen for a further 30 seconds describe the response of the organization, or the solution to the problem.\n\nIf you don't have such an experience, make up a story about something that could have happened.\n\nUpload ONE sound file of about 60 seconds to the site."
+vacation:
+  essay:
+    0:
+      identifier: Question 4~6. Respond to questions (in role)
+      rubric: |+
+        In this part of the test, you will answer three questions . For each question, begin responding immediately after you hear a beep . No preparation time is provided . *Or is 3 seconds preparation time provided???* You will have 15 seconds to respond to Questions 4 and 5, and 30 seconds to respond to Question 6 .
+
+        Choose 2 or 3 keywords from your answers as titles for your submission.
+
+        Imagine that you work in a company. A student training in the hospitality sector is gathering information from your company for a term paper. Assist him by answering his questions.
+
+        Questions:
+
+        4.  How many vacations from work do you take that are a week or more in length?
+        5.  Do you have a place you go to regularly for a holiday?
+        6.  Tell me about the best vacation you have ever had. 
     
