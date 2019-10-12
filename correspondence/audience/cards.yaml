@@ -101,6 +101,30 @@ style:
            - First
            - Second
           answer: Second
+    1:
+      identifier: compatible style
+      quiz:
+        - question: "Email 1: The writer is older and more conventional, and the reader is younger and informal\n\nEmail 2: The writer and reader know each other\n\nIn which email is style more likely to be a problem for the writer and reader?"
+          option:
+            - Email 1
+            - Email 2
+          answer: Email 1
+    2:
+      identifier: identifying style
+      quiz:
+        - question: "What's up, pal?"
+          option:
+            - formal
+            - informal
+          answer: informal
+        - question: "How are you today, ma'am?"
+          option:
+            - formal
+            - informal
+          answer: formal
+        
+        
+        
 student:
   jigsaw:
     0:
@@ -124,6 +148,9 @@ student:
            - First
            - Second
           answer: First
+    1:
+      identifier: student questions 3, 4
+      quiz:
         - question: |+
             Reader Knowledge\n
             An email to Joe from an online game information.\n
@@ -142,6 +169,9 @@ student:
            - First
            - Second
           answer: Second
+    2:
+      identifier: student questions 5, 6
+      quiz:
         - question: |+
             Reader Interest\n
             An email from a pop singer about some skills of singing\n
