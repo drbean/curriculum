@@ -102,7 +102,20 @@ culture:
         Write about a foreign country. Which one would you like to travel to? Write 50~100 words about the culture of the country, its language and life in that country.
 
         You don't have to write perfectly. It's OK to just write whatever comes into your head.
+
+        I don't expect a perfect essay. It's OK for it to be rough. Experiment with ideas. Mistakes are OK. It is a rough draft for the Writing in Class in Week 6. It doesn't have to be grammatical. Use Chinese words if you don't know the English equivalent.
 japan:
+  jigsaw:
+    0:
+      identifier: Japanese tourists
+      quiz:
+        - question: Why do Japanese tourists come to Japan?
+          option:
+            - the scenery
+            - food
+            - Taiwan customs and culture
+          answer: food
+        
   essay:
     0:
       identifier: japan: negative view about working there
