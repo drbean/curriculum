@@ -71,6 +71,13 @@ title:
             - A 100-year-old crab!
           answer: Japanese spider crabs
 essay:
+  description:
+    0:
+      identifier: week 3 writing in class
+      questiontext: 2 long essays, one about language difficulty and language learning and the other about online apps
+    1:
+      identifier: week 6 writing in class
+      questiontext: 2 long essays, one about writing systems and the other about travel and foreign cultures
   essay:
     0:
       identifier: essay writing guide
@@ -87,4 +94,7 @@ essay:
     1:
       identifier: writing systems
       rubric: "Use the content you find online about bopomo, pinyin, Chinese characters and other writing systems, but don't just copy and paste.\n\nI want to hear what you think, but I also want information from sources. You need to restate what you read in your own words (otherwise it is plagiarism)! And you need to express your own opinion.\n\nBe warned: I CAN TELL IF SENTENCES HAVE BEEN COPIED FROM THE INTERNET!"
+    2:
+      identifier: travel and foreign cultures
+      rubric: "Be critical about travel and foreign cultures. Say what the good things are. Say what the *bad* things are.\n\nDon't just copy and paste from Wikipedia. Use your own words to say what you read, but use expressions like \"According to Wikipedia\" to show where your information comes from.\n\nSay what you think."
     
