@@ -10,7 +10,11 @@ feeling:
         Have you ever sent or received a letter? When, who, what, where, why?
 
         Write 20~50 words about letters. What is your experience with them? Say what is good/bad about letters. Try to be interesting.
-    
+  description:
+    0:
+      identifier: Saying something about letters
+      questiontext: "Dr Bean wants you to say something to him about letters. You wrote about it, Now say something. Nothing: 2, Something: 3"
+      
 date:
   jigsaw:
     0:
@@ -431,7 +435,7 @@ address:
     tan:
       identifier: tan
       quiz:
-        - question: Line 1 of Jerry Tan's return Chinese address: 10048 台北市中正 (Zhong-zheng) 區重慶 (Chong-qing) 南路一段158巷2弄109號10樓
+        - question: "Line 1 of Jerry Tan's return Chinese address: 10048 台北市中正 (Zhong-zheng) 區重慶 (Chong-qing) 南路一段158巷2弄109號10樓"
           answer:
             - Jerry Tan
           incorrect:
@@ -441,7 +445,7 @@ address:
             -
               error: ^(?!.*Jerry Tan//.*)
               feedback: Use the words, "Jerry Tan//"
-        - question: Line 2 of Jerry Tan's return Chinese address: 10048 台北市中正 (Zhong-zheng) 區重慶 (Chong-qing) 南路一段158巷2弄109號10樓
+        - question: "Line 2 of Jerry Tan's return Chinese address: 10048 台北市中正 (Zhong-zheng) 區重慶 (Chong-qing) 南路一段158巷2弄109號10樓"
           answer:
             - Floor 10, 109 Lane 2, Alley 158
             - "Floor 10, #109 Lane 2, Alley 158"
@@ -460,7 +464,7 @@ address:
             -
               error: ^(?!.*Alley 150,.*)
               feedback: Use the words, "Alley 150", no comma
-        - question: Line 3 of Jerry Tan's return Chinese address: 10048 台北市中正 (Zhong-zheng) 區重慶 (Chong-qing) 南路一段158巷2弄109號10樓
+        - question: "Line 3 of Jerry Tan's return Chinese address: 10048 台北市中正 (Zhong-zheng) 區重慶 (Chong-qing) 南路一段158巷2弄109號10樓"
           answer:
             - Chong-qing South Road, Section 1, Zhong-zheng District
             - Chong-qing Sth\. Rd\., Sec\. 1, Zhong-zheng District
@@ -472,7 +476,7 @@ address:
               error: ^(?!.*Section 1.*)
               feedback: Use the words, "Section 1"
             
-        - question: Line 4 of Jerry Tan's return Chinese address: 10048 台北市中正 (Zhong-zheng) 區重慶 (Chong-qing) 南路一段158巷2弄109號10樓
+        - question: "Line 4 of Jerry Tan's return Chinese address: 10048 台北市中正 (Zhong-zheng) 區重慶 (Chong-qing) 南路一段158巷2弄109號10樓"
           answer:
             - Taipei 10048
             - Taipei City 10048
@@ -483,7 +487,7 @@ address:
             -
               error: ^(?!.10048$)
               feedback: No comma after "10048"
-        - question: Line 5 of Jerry Tan's return Chinese address: 10048 台北市中正 (Zhong-zheng) 區重慶 (Chong-qing) 南路一段158巷2弄109號10樓
+        - question: "Line 5 of Jerry Tan's return Chinese address: 10048 台北市中正 (Zhong-zheng) 區重慶 (Chong-qing) 南路一段158巷2弄109號10樓"
           answer:
             - Taiwan
             - ROC
@@ -794,9 +798,20 @@ justify:
         - question: |+
             What does left-justified mean?
           option:
-            - You start writing the words without writing a space first before the words.
+            - You are supposed to follow standard letter formats.
+            - You start writing the words in the line without writing a space first before the words.
             - It's OK to leave out some of the parts of what you are writing.
-          answer: You start writing the words without writing a space first before the words.
+          answer: You start writing the words in the line without writing a space first before the words.
+    1:
+      identifier: receiver address centering
+      quiz:
+        - question: In the receiver address, some words line up with the words in lines above and below. The words which line up are--
+          option:
+            - The first word in the line
+            - The middle word in the line
+            - The last word in the line
+          answer: The first word in the line
+        
 subject:
   jigsaw:
     0:
