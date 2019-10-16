@@ -1,5 +1,16 @@
 ---
 genre: topics
+city:
+  0:
+    flash:
+      taxi cab  : 出租車
+      gesture   : 手勢
+      stare     : 盯
+      stream    : 流
+      palace    : 宮
+      statue    : 雕像
+      tunnel    : 隧道
+      woods     : 樹木
 rubrics:
   bingo:
     - what_was_that new_words unit_8 look picture/pictures write correct blank/blanks listen match track_50 listening_passage best_answer question check conversation response each statements true false  circle read again dictation thing place
