@@ -1,0 +1,32 @@
+---
+genre: toeic speaking test
+donation:
+  essay:
+    0:
+      identifier: Question 11. Express an opinion
+      rubric: |+
+        In this part of the test, you will give your opinion about a specific topic . Be sure to say as much as you can in the time allowed . You will have 15 (or is it 30??) seconds to prepare . Then you will have 60 seconds to speak.
+
+        ### Question
+
+        Some companies make donations to local charities and community groups. Other companies do not and leave it up to their staff to decide whether to make personal donations. Should companies donate part of their profits to charities? State your opinion and provide reasons for your view
+    
+#disjunct:
+#1. choose one Personally Generally Predictably  , people get married quite late in my country. 
+#2. choose one Clearly Sadly Surprisingly  , we must try and lift people out of poverty to improve standards of living.
+#
+#3. choose one Generally Predictably Personally  , I don't think climate change is caused by human actions. 
+#
+#4. choose one Inevitably Frankly Clearly  , crime is increasing in my city because the government did not increase the number of police like they said they would. 
+#
+#5. choose one Generally Predictably Regrettably  , many children are unable to get the education that they need so they end up in low-paid work as adults. 
+#conjunct:
+#6. Predictably, temperatures are continuing to rise choose one due to because since  a lack of action by governments. 
+#7. Sadly, more refugees are fleeing the country choose one as a result of as due to the fact  the war is continuing. 
+#
+#8. Obviously, the failure rate in schools is high choose one since as a consequence of due to the fact that  the low numbers of teachers. 
+#
+#9. Generally, people are having children later in life. choose one This is due to This is as a result of The reason for this is that  many more women are now working. 
+#
+#10. Personally, I don't believe that unemployment will fall. choose one This is because of As a result of This is due to the fact that  the unwillingness of companies to hire new staff. 
+
