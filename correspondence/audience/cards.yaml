@@ -126,6 +126,10 @@ style:
         
         
 student:
+  description:
+    0:
+      identifier: an email, a reader, an audience point
+      questiontext: "4 things: an email, a reader, an audience point, an evaluation (problem). Don't read it!"
   jigsaw:
     0:
       identifier: student questions
