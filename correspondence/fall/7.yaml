@@ -1,0 +1,37 @@
+---
+
+# letter.strategy
+
+-
+  -
+    topic : letter
+    story : strategy
+    type  : jigsaw
+    form  : 4
+    intro : strategies 1~5, p 16
+    random: 
+-
+  -
+    topic : letter
+    story : strategy
+    type  : jigsaw
+    form  : 5
+    intro : strategies 6~10, p 16,17
+    random: 
+-
+  -
+    topic : letter
+    story : strategy
+    type  : jigsaw
+    form  : 6
+    intro : strategies 11~15, p 17
+    random: 
+-
+  -
+    topic : letter
+    story : strategy
+    type  : jigsaw
+    form  : 7
+    intro : strategies 16~20, p 18
+    random: 
+
