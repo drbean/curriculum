@@ -3069,6 +3069,181 @@ strategy:
             - clear
             - correct
           answer: correct
+    4:
+      identifier: Which of the 1st 5 strategies?
+      quiz:
+        - question: Listen to Dr Bean read a description of one of the 1st 5 strategies. Decide which one it is.
+          option:
+            - 1. Start from the end
+            - 2. Use appropriate salutation
+            - 3. Get to the point early
+            - 4. Put yourself in the reader's place
+            - 5. Say it plainly
+          answer: 3. Get to the point early
+        - question: Listen to Dr Bean read a description of one of the 1st 5 strategies. Decide which one it is.
+          option:
+            - 1. Start from the end
+            - 2. Use appropriate salutation
+            - 3. Get to the point early
+            - 4. Put yourself in the reader's place
+            - 5. Say it plainly
+          answer: 5. Say it plainly
+        - question: Listen to Dr Bean read a description of one of the 1st 5 strategies. Decide which one it is.
+          option:
+            - 1. Start from the end
+            - 2. Use appropriate salutation
+            - 3. Get to the point early
+            - 4. Put yourself in the reader's place
+            - 5. Say it plainly
+          answer: 2. Use appropriate salutation
+        - question: Listen to Dr Bean read a description of one of the 1st 5 strategies. Decide which one it is.
+          option:
+            - 1. Start from the end
+            - 2. Use appropriate salutation
+            - 3. Get to the point early
+            - 4. Put yourself in the reader's place
+            - 5. Say it plainly
+          answer: 4. Put yourself in the reader's place
+        - question: Listen to Dr Bean read a description of one of the 1st 5 strategies. Decide which one it is.
+          option:
+            - 1. Start from the end
+            - 2. Use appropriate salutation
+            - 3. Get to the point early
+            - 4. Put yourself in the reader's place
+            - 5. Say it plainly
+          answer: 1. Start from the end
+    5:
+      identifier: Which of the 2nd 5 strategies?
+      quiz:
+        - question: Listen to Dr Bean read a description of one of the 2nd 5 strategies. Decide which one it is.
+          option:
+            - 6. Clear the deadwood
+            - 7. Be natural
+            - 8. Be consistent (British English or American English)
+            - 9. Try to use active voice
+            - 10. Choose words carefully (eg expect vs hope), pay attention to tone
+          answer: 6. Clear the deadwood
+        - question: Listen to Dr Bean read a description of one of the 2nd 5 strategies. Decide which one it is.
+          option:
+            - 6. Clear the deadwood
+            - 7. Be natural
+            - 8. Be consistent (British English or American English)
+            - 9. Try to use active voice
+            - 10. Choose words carefully (eg expect vs hope), pay attention to tone
+          answer: 8. Be consistent (British English or American English)
+        - question: Listen to Dr Bean read a description of one of the 2nd 5 strategies. Decide which one it is.
+          option:
+            - 6. Clear the deadwood
+            - 7. Be natural
+            - 8. Be consistent (British English or American English)
+            - 9. Try to use active voice
+            - 10. Choose words carefully (eg expect vs hope), pay attention to tone
+          answer: 10. Choose words carefully (eg expect vs hope), pay attention to tone
+        - question: Listen to Dr Bean read a description of one of the 2nd 5 strategies. Decide which one it is.
+          option:
+            - 6. Clear the deadwood
+            - 7. Be natural
+            - 8. Be consistent (British English or American English)
+            - 9. Try to use active voice
+            - 10. Choose words carefully (eg expect vs hope), pay attention to tone
+          answer: 9. Try to use active voice
+        - question: Listen to Dr Bean read a description of one of the 2nd 5 strategies. Decide which one it is.
+          option:
+            - 6. Clear the deadwood
+            - 7. Be natural
+            - 8. Be consistent (British English or American English)
+            - 9. Try to use active voice
+            - 10. Choose words carefully (eg expect vs hope), pay attention to tone
+          answer: 7. Be natural
+    6:
+      identifier: Which of the 3rd 5 strategies?
+      quiz:
+        - question: Listen to Dr Bean read a description of one of the 3rd 5 strategies. Decide which one it is.
+          option:
+            - 11. Never write in anger
+            - 12. Never use contractions (don't, etc)
+            - 13. Don't use very informal language unless the person is a good friend
+            - 14. Do not make accusations you cannot prove
+            - 15. Don't claim to be the cheapest, best, etc
+          answer: 15. Don't claim to be the cheapest, best, etc
+        - question: Listen to Dr Bean read a description of one of the 3rd 5 strategies. Decide which one it is.
+          option:
+            - 11. Never write in anger
+            - 12. Never use contractions (don't, etc)
+            - 13. Don't use very informal language unless the person is a good friend
+            - 14. Do not make accusations you cannot prove
+            - 15. Don't claim to be the cheapest, best, etc
+          answer: 13. Don't use very informal language unless the person is a good friend
+        - question: Listen to Dr Bean read a description of one of the 3rd 5 strategies. Decide which one it is.
+          option:
+            - 11. Never write in anger
+            - 12. Never use contractions (don't, etc)
+            - 13. Don't use very informal language unless the person is a good friend
+            - 14. Do not make accusations you cannot prove
+            - 15. Don't claim to be the cheapest, best, etc
+          answer: 14. Do not make accusations you cannot prove
+        - question: Listen to Dr Bean read a description of one of the 3rd 5 strategies. Decide which one it is.
+          option:
+            - 11. Never write in anger
+            - 12. Never use contractions (don't, etc)
+            - 13. Don't use very informal language unless the person is a good friend
+            - 14. Do not make accusations you cannot prove
+            - 15. Don't claim to be the cheapest, best, etc
+          answer: 12. Never use contractions (don't, etc)
+        - question: Listen to Dr Bean read a description of one of the 3rd 5 strategies. Decide which one it is.
+          option:
+            - 11. Never write in anger
+            - 12. Never use contractions (don't, etc)
+            - 13. Don't use very informal language unless the person is a good friend
+            - 14. Do not make accusations you cannot prove
+            - 15. Don't claim to be the cheapest, best, etc
+          answer: 11. Never write in anger
+    7:
+      identifier: Which of the last 5 strategies?
+      quiz:
+        - question: Listen to Dr Bean read a description of one of the last 5 strategies. Decide which one it is.
+          option:
+            - 16. With a lot of details, consider using lists with numbers, bullets
+            - 17. Be as concise as possible
+            - 18. End with an action step
+            - 19. Lay out the letter so it looks good (presentation)
+            - 20. Be careful with punctuation
+          answer: 20. Be careful with punctuation
+        - question: Listen to Dr Bean read a description of one of the last 5 strategies. Decide which one it is.
+          option:
+            - 16. With a lot of details, consider using lists with numbers, bullets
+            - 17. Be as concise as possible
+            - 18. End with an action step
+            - 19. Lay out the letter so it looks good (presentation)
+            - 20. Be careful with punctuation
+          answer: 16. With a lot of details, consider using lists with numbers, bullets
+        - question: Listen to Dr Bean read a description of one of the last 5 strategies. Decide which one it is.
+          option:
+            - 16. With a lot of details, consider using lists with numbers, bullets
+            - 17. Be as concise as possible
+            - 18. End with an action step
+            - 19. Lay out the letter so it looks good (presentation)
+            - 20. Be careful with punctuation
+          answer: 19. Lay out the letter so it looks good (presentation)
+        - question: Listen to Dr Bean read a description of one of the last 5 strategies. Decide which one it is.
+          option:
+            - 16. With a lot of details, consider using lists with numbers, bullets
+            - 17. Be as concise as possible
+            - 18. End with an action step
+            - 19. Lay out the letter so it looks good (presentation)
+            - 20. Be careful with punctuation
+          answer: 17. Be as concise as possible
+        - question: Listen to Dr Bean read a description of one of the last 5 strategies. Decide which one it is.
+          option:
+            - 16. With a lot of details, consider using lists with numbers, bullets
+            - 17. Be as concise as possible
+            - 18. End with an action step
+            - 19. Lay out the letter so it looks good (presentation)
+            - 20. Be careful with punctuation
+          answer: 18. End with an action step
+                
+        
+        
 
 scramble:
   scramble:
