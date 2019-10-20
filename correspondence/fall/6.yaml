@@ -1,0 +1,13 @@
+---
+
+# audience
+
+-
+  -
+    topic : audience
+    story : student
+    type  : description
+    form  : 0
+    intro : Your example: 1. email, 2. reader, 3. audience point, 4. evaluation
+    random: 
+
