@@ -56,12 +56,13 @@
   - "topics"
   - "all"
   - |+
-    G: We have a lot of things to buy today.
+    A: We have a lot of things to buy today.
     B: Let's get a cart. I'll push it for you.
-    G: Thanks. What do we need to buy?
+    A: Thanks. What do we need to buy?
     B: We need fresh fruit. I want to make a fruit salad.
-    G: Bananas are very cheap today. Let's buy some.
+    A: Bananas are very cheap today. Let's buy some.
     B: No, we have many bananas at home. I want to buy some peaches.
+  - We|a lot of|to|today|Let's get a|I'll|it for you|Thanks. What|we|to buy|We need|fruit. I want to make a|Bananas are very|today|Let's buy some|No, we have many|at home. I want to|some|End
 -
   - supermarket-3
   - Supermarket-3
