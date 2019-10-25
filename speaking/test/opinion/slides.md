@@ -18,7 +18,10 @@ Speak for 60 seconds
 
 ## How to express an opinion
 
+- [https://duckduckgo.com/?q=express+opinion+how&ia=web ](https://duckduckgo.com/?q=express+opinion+how&ia=web)
+
 - [https://duckduckgo.com/lite/?q=express opinion how&kf=-1&kz=-1&kq=-1&kv=-1 ](https://duckduckgo.com/lite/?q=express+opinion+how&kf=-1&kz=-1&kq=-1&kv=-1)
+
 - [http://www.google.com.tw/search?q=%22express+opinion+how%22&num=100&gws_rd=ssl&tbm=isch&tbo=u&source=univ&sa=X ](http://www.google.com.tw/search?q=%22express+opinion+how%22&num=100&gws_rd=ssl&tbm=isch&tbo=u&source=univ&sa=X)
 
 # strategy
@@ -26,6 +29,8 @@ Speak for 60 seconds
 ## keywords
 
 1. keywords/key points
+
+	"This question is about .."
 
   - bank card
   - damage to card or to machine
@@ -35,6 +40,8 @@ Speak for 60 seconds
 
 2. some facts about the situation
 
+	"Some facts about the situation are .."
+
   - bank cards cost the bank money to reissue
   - bank is responsible for issuing card
   - user is responsible for damage to card
@@ -43,9 +50,13 @@ Speak for 60 seconds
 
 3. the opposite opinion you disagree with
 
+	"Some people think .."
+
 You shouldn't have to pay
 
 4. reasons for and against that opinion
+
+	"They say .."
 
   - users expect not to have to pay
   - on first issue, users don't pay
@@ -53,11 +64,15 @@ You shouldn't have to pay
 
 ## one opinion (the one you *agree* with)
 
-3. the opinion you agree with
+5. the opinion you agree with
+
+	"I think .."
 
 You should have to pay
 
-4. reasons for and against that opinion
+6. reasons for and against that opinion
+
+	"I think this because .."
 
   - user responsible for stuck card
   - costs bank money to replace card
