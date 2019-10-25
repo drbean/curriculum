@@ -1,0 +1,41 @@
+---
+
+# writing--sentence
+
+-
+  -
+    topic : sentence
+    story : picture
+    type  : essay
+    form  : 0
+    intro : sentence based on picture 1
+    random: 
+  -
+    topic : sentence
+    story : picture
+    type  : essay
+    form  : 1
+    intro : sentence based on picture 2
+    random: 
+  -
+    topic : sentence
+    story : picture
+    type  : essay
+    form  : 2
+    intro : sentence based on picture 3
+    random: 
+  -
+    topic : sentence
+    story : picture
+    type  : essay
+    form  : 3
+    intro : sentence based on picture 4
+    random: 
+  -
+    topic : sentence
+    story : picture
+    type  : essay
+    form  : 4
+    intro : sentence based on picture 5
+    random: 
+
