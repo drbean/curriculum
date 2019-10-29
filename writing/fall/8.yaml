@@ -1,0 +1,13 @@
+---
+
+# song
+
+-
+  -
+    topic : song
+    story : identify
+    type  : jigsaw
+    form  : 0
+    intro : match summary with message
+    random: 3
+
