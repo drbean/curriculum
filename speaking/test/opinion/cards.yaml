@@ -10,6 +10,24 @@ donation:
         ### Question
 
         Some companies make donations to local charities and community groups. Other companies do not and leave it up to their staff to decide whether to make personal donations. Should companies donate part of their profits to charities? State your opinion and provide reasons for your view
+job:
+  jigsaw:
+    0:
+      identifier: opinion--speaking or writing 1
+      quiz:
+        - question: "a low-wage job with lots of vacation time" is in the Speaking test.
+          answer: 
+        - question: "a low-wage job with lots of vacation time" is in the Writing test.
+          answer: 
+    1:
+      identifier: opinion--speaking or writing 2
+      quiz:
+        - question: "the best way to find a job" is in the Speaking test.
+          answer: 
+        - question: "the best way to find a job" is in the Writing test.
+          answer: 
+        
+        
     
 #disjunct:
 #1. choose one Personally Generally Predictably  , people get married quite late in my country. 
