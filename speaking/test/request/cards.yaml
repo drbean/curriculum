@@ -1,0 +1,14 @@
+---
+
+# request--respond to
+
+offer:
+  jigsaw:
+    0:
+      identifier: offer or request?
+      quiz:
+        - question: The Welcome Committee email is a request.
+          answer: False
+        - question: The Welcome Committee email is an offer.
+          answer: True
+        
