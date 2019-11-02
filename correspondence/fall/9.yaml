@@ -1,0 +1,145 @@
+---
+
+# date
+
+-
+  -
+    topic : letter
+    story : date
+    type  : jigsaw
+    form  : 2
+    intro : date rewriting
+    random: 
+  -
+    topic : letter
+    story : date
+    type  : jigsaw
+    form  : 3
+    intro : date style
+    random:
+  -
+    topic : letter
+    story : date
+    type  : jigsaw
+    form  : 4
+    intro : writing out the month
+    random: 
+  -
+    topic : letter
+    story : envelope
+    type  : essay
+    form  : 1
+    intro : envelope of Putin letter to Trump
+    random: 
+  -
+    topic : letter
+    story : parts
+    type  : jigsaw
+    form  : 1
+    intro : letter parts
+    random: 
+  -
+    topic : letter
+    story : address
+    type  : description
+    form  : 0
+    intro : address translation
+    random: 
+  -
+    topic : letter
+    story : address
+    type  : jigsaw
+    form  : library
+    intro : National Library street address
+    random:
+  -
+    topic : letter
+    story : address
+    type  : jigsaw
+    form  : miaoli
+    intro : Miaoli City Office street address
+    random: 
+  -
+    topic : letter
+    story : letterhead
+    type  : jigsaw
+    form  : 1
+    intro : alternate letterhead name
+    random: 
+  -
+    topic : letter
+    story : inside_address
+    type  : jigsaw
+    form  : 0
+    intro : inside address name
+    random: 
+  -
+    topic : letter
+    story : salutation
+    type  : jigsaw
+    form  : 1
+    intro : salutation mistakes
+    random: 
+  -
+    topic : letter
+    story : close
+    type  : jigsaw
+    form  : 1
+    intro : salutation/complimentary close relationship 
+    random: 
+
+# strategy
+
+  -
+    topic : strategy
+    story : connect
+    type  : description
+    form  : 0
+    intro : strategy connections intro
+    random: 
+  -
+    topic : strategy
+    story : connect
+    type  : jigsaw
+    form  : 0
+    intro : strategy connections
+    random: 
+  -
+    topic : strategy
+    story : connect
+    type  : description
+    form  : 1
+    intro : strategy connections intro
+    random: 
+  -
+    topic : strategy
+    story : connect
+    type  : jigsaw
+    form  : 1
+    intro : strategy connections
+    random: 
+
+# punctuation
+
+  -
+    topic : letter
+    story : punctuation
+    type  : jigsaw
+    form  : 3
+    intro : from punctuation function to sign
+    random: 
+  -
+    topic : letter
+    story : punctuation
+    type  : jigsaw
+    form  : 4
+    intro : from context to punctuation sign
+    random: 
+  
+  
+  
+  
+  
+  
+  
+  
