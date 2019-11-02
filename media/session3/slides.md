@@ -49,13 +49,16 @@ But the lead sentences were not well composed.
 ## Consequences of plagiarism
 
 In college courses:
+
 	- [Failing the course](http://writing.berkeley.edu/students/academic-honesty)
 
 In journalism:
+
 - [Jayson Blair: The full story](http://www.jaysonblair.com/)
 
 
 In music:
+
 - [Michael Bolton's Love is a wonderful thing](http://www.youtube.com/watch?v=adsRjr_tnxU)
 - [The Isley Brothers' Love is a wonderful thing](http://www.youtube.com/watch?v=zGAQ5oWuhC8)
 - [The 2 songs compared](http://www.youtube.com/watch?v=k4xAsoCePJ0)
