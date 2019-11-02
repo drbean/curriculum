@@ -1,6 +1,15 @@
 ---
 genre: correspondence
-strategy:
+connect:
+  description:
+    0:
+      identifier: strategies, 8Cs and audience points
+      questiontext: |+
+        The next 20+20 questions come in 2 groups.
+
+        The first group connects the named 20 strategies and the 8Cs or audience points.
+        
+        The second group connects interpretations of the 20 strategies (not in the order in the book) and the same 8Cs or audience points.
   jigsaw:
     0:
       identifier: things (strategies) to remember
@@ -997,6 +1006,8 @@ strategy:
             - clear
             - correct
           answer: correct
+identify:
+  jigsaw:
     4:
       identifier: Which of the 1st 5 strategies?
       quiz:
