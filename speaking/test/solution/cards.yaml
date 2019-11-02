@@ -1,0 +1,61 @@
+---
+genre: speaking test
+news:
+  jigsaw:
+    0:
+      identifier: good news/bad news
+      quiz:
+        - question: "Dealing with the problem: 'I have contacted the people ..'"
+          option:
+            - introducing good news, solving the problem
+            - introducing bad news, possibly preventing a solution
+            - introducing What could be good, or what could be bad, news
+          answer: introducing What could be good, or what could be bad, news
+        - question: "Dealing with the problem: 'They told me that ...'"
+          option:
+            - introducing good news, solving the problem
+            - introducing bad news, possibly preventing a solution
+            - introducing What could be good, or what could be bad, news
+          answer: introducing What could be good, or what could be bad, news
+        - question: "Dealing with the problem: 'I'm afraid I'm going to have to ask you to ..'"
+          option:
+            - introducing good news, solving the problem
+            - introducing bad news, possibly preventing a solution
+            - introducing What could be good, or what could be bad, news
+          answer: introducing good news, solving the problem
+        - question: "Dealing with the problem: 'If you [do this], we will be able to'"
+          option:
+            - introducing good news, solving the problem
+            - introducing bad news, possibly preventing a solution
+            - introducing What could be good, or what could be bad, news
+          answer: introducing good news, solving the problem
+        - question: "Dealing with the problem: 'Please do this [by some time|at some place|'"
+          option:
+            - introducing good news, solving the problem
+            - introducing bad news, possibly preventing a solution
+            - introducing What could be good, or what could be bad, news
+          answer: introducing bad news, possibly preventing a solution
+        - question: "Dealing with the problem: 'If we can't [do some helpful thing for you],'"
+          option:
+            - introducing good news, solving the problem
+            - introducing bad news, possibly preventing a solution
+            - introducing What could be good, or what could be bad, news
+          answer: introducing bad news, possibly preventing a solution
+passport:
+  essay:
+    0:
+      identifier: 
+      rubric: |+
+        In this part of the test, you will be presented with a problem and asked to propose a solution . You will have 30 seconds to prepare . *Or is 45 seconds preparation time provided???* Then you will have 60 seconds to speak.
+
+        Respond as if you work for the taxi company.
+
+        In your response, be sure to 
+
+        - show that you recognize the problem, and
+
+        - propose a way of dealing with the problem.
+
+          Now listen to the voice message
+                  
+              

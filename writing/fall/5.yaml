@@ -1,0 +1,34 @@
+---
+
+# organization
+
+-
+  -
+    topic : organization
+    story : title
+    type  : jigsaw
+    form  : 0
+    intro : igloos and blue jeans
+    random: 
+-
+  -
+    topic : organization
+    story : title
+    type  : jigsaw
+    form  : 1
+    intro : the sun and a crab
+    random: 
+
+# japan
+
+-
+  -
+    topic : travel
+    story : japan
+    type  : jigsaw
+    form  : 0
+    intro : Taiwan in view of Japanese tourists
+    random: 
+
+
+

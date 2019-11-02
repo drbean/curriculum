@@ -94,5 +94,41 @@ okinawa:
         -
           - reason for quick return
           - not being able to change money
+culture:
+  essay:
+    0:
+      identifier: traveling to foreign culture
+      rubric: |+
+        Write about a foreign country. Which one would you like to travel to? Write 50~100 words about the culture of the country, its language and life in that country.
+
+        You don't have to write perfectly. It's OK to just write whatever comes into your head.
+
+        I don't expect a perfect essay. It's OK for it to be rough. Experiment with ideas. Mistakes are OK. It is a rough draft for the Writing in Class in Week 6. It doesn't have to be grammatical. Use Chinese words if you don't know the English equivalent.
+japan:
+  jigsaw:
+    0:
+      identifier: Japanese tourists
+      quiz:
+        - question: Why do Japanese tourists come to Japan?
+          option:
+            - the scenery
+            - food
+            - Taiwan customs and culture
+          answer: food
         
-        
+  essay:
+    0:
+      identifier: japan: negative view about working there
+      rubric: |+
+        I know a Japanese man whose mother is Korean. He's actually her son from her first husband, who was Korean, but he was adopted by her second husband, a Japanese man, and grew up as Japanese.
+
+        He went to school in an international school in Japan with students from the US, France, England, etc, and he is a near native speaker (NNS) in English.
+
+        He said the Western students thought it would be cool to work for a Japanese company. They liked Japan.
+
+        But they didn't understand Japan. They were on the outside looking in.
+
+        On the inside, he knows working for a Japanese company is not good.
+
+        Visiting Japan is good but living there is not good.
+    

@@ -1,0 +1,9 @@
+---
+genre: reading
+system:
+  essay:
+    0:
+      identifier: Homework: pinyin, Chinese characters, other writing systems
+      rubric: |+
+        "Write 50~100 words about Chinese writing, Western alphabets, Korean 한글or other writing systems"
+    

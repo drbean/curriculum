@@ -1,0 +1,85 @@
+---
+grade:
+  essay:
+    0:
+      identifier: test score & course grade
+      rubric: |+
+        Course grade ≠ TOEIC score
+    
+question:
+  jigsaw:
+    0:
+      identifier: question identification
+      quiz:
+        - question: Questions 1-2
+          option:
+            - Reading a text aloud
+            - Describing a picture
+            - Responding to questions
+            - Responding to questions using information provided
+            - Proposing a solution
+            - Expressing an opinion
+          answer: Reading a text aloud
+        - question: Questions 3
+          option:
+            - Reading a text aloud
+            - Describing a picture
+            - Responding to questions
+            - Responding to questions using information provided
+            - Proposing a solution
+            - Expressing an opinion
+          answer: Describing a picture
+        - question: Questions 4-6
+          option:
+            - Reading a text aloud
+            - Describing a picture
+            - Responding to questions
+            - Responding to questions using information provided
+            - Proposing a solution
+            - Expressing an opinion
+          answer: Responding to questions
+        - question: Questions 7-9
+          option:
+            - Reading a text aloud
+            - Describing a picture
+            - Responding to questions
+            - Responding to questions using information provided
+            - Proposing a solution
+            - Expressing an opinion
+          answer: Responding to questions using information provided
+        - question: Questions 10
+          option:
+            - Reading a text aloud
+            - Describing a picture
+            - Responding to questions
+            - Responding to questions using information provided
+            - Proposing a solution
+            - Expressing an opinion
+          answer: Proposing a solution
+        - question: Questions 11
+          option:
+            - Reading a text aloud
+            - Describing a picture
+            - Responding to questions
+            - Responding to questions using information provided
+            - Proposing a solution
+            - Expressing an opinion
+          answer: Expressing an opinion
+example:
+  essay:
+    0:
+      identifier: "extra credit: other practice tests"
+      rubric: |+
+        Please post links to online TOEIC, TOEFL and IELTS speaking/writing tests
+
+        Or books with TOEIC speaking/writing tests.
+
+        In the subject line, 2~3 word description, eg Testden test
+
+        In the message itself, write the link, eg http:example.com/test/practice_test.pdf
+
+        If it is in a book, give the name of the book and authors.
+
+        I will give extra credit for posts
+    
+        

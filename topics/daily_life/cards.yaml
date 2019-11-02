@@ -1,5 +1,16 @@
 ---
 genre: topics
+city:
+  0:
+    flash:
+      taxi cab  : 出租車
+      gesture   : 手勢
+      stare     : 盯
+      stream    : 流
+      palace    : 宮
+      statue    : 雕像
+      tunnel    : 隧道
+      woods     : 樹木
 rubrics:
   bingo:
     - what_was_that new_words unit_8 look picture/pictures write correct blank/blanks listen match track_50 listening_passage best_answer question check conversation response each statements true false  circle read again dictation thing place
@@ -46,14 +57,16 @@ clothes:
       wallet  : 錢包   
   bingo:
     - shoes keys backpack pencil pen jeans socks blouse 
+    - pink_blouse wearing jeans socks shoes keys looks drawer not door floor find under bed
     - pink blouse wear jeans white socks keys drawer door floor bed looking_for backpack pocket pens_and_pencils color blue brown soft broken erase_mistakes dog something_in_its_mouth digging_in_the_backyard shopping school kitchen office book sister's_room
+    - know jeans blue brown colors work were soft stopped buying
     - pink blouse wear jeans white socks keys drawer door floor bed looking_for Molly shoes
     - pink blouse wear jeans white socks keys drawer door floor bed looking_for Molly shoes backpack pencil pen correct picture barbecue
+    - backpack thanks mom nice pocket pens pencils color red
     - mom bought thanks new nice color red Jimmy favorite dad girl small_pocket pens_and_pencils
     - mom bought thanks new nice color red Jimmy favorite dad girl small_pocket pens_and_pencils blue_jeans soft wore brown stop_buying at_first
     - broken erase mistake nice better Bill dog green blue digging backyard mouth wear kitchen office under book sister maybe no_idea
     - keys shoes backpack blouse pencil pens erase mistake nice better nowadays maybe no_idea brown usually two soft very stopped
-    - know jeans blue brown colors work were soft stopped buying
 greeting:
   bingo:
     - hello goodbye before listen people say first time check pleased meet know take_care greeting correct column follow example David Susan Andrew Chen Jane Lee Sarah Martin Philip Tom Peter statement question conversation party fine complete track

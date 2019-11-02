@@ -1,0 +1,29 @@
+---
+
+# address
+
+-
+  -
+    topic : letter
+    story : address
+    type  : jigsaw
+    form  : nuu
+    intro : The street address on one line, the zip code with \"Miaoli\" on the next, but no \"City\", and on the last line, \"Taiwan\"
+    random: 
+-
+  -
+    topic : letter
+    story : address
+    type  : jigsaw
+    form  : whitehouse
+    intro : The person in the 1st line, the address in the second, \"U.S.A\", or \"USA\" in the 3rd.
+    random: 
+-
+  -
+    topic : letter
+    story : address
+    type  : jigsaw
+    form  : president
+    intro : \"The Office of the President\" in the 1st line, the street and street number in the second, the district and city (include \"City\") in the 3rd.
+    random: 
+  

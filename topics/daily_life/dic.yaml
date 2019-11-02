@@ -103,17 +103,19 @@
     B:  What do you have to do?
     G:  I clean the house and wash clothes every day because we have such a big family.
 -
-  - "clothes-0"
-  - "clothes-0"
+  - "clothes-1"
+  - "clothes-1"
   - "topics"
   - "all"
   - |+
     Today, Molly is wearing her pink blouse. She is wearing her new jeans and white socks. She is wearing her favorite shoes, too.
-    But, she can't find her keys! She looks in the drawer. They're not there. She looks by the door. She looks on the floor. She can't find them! She looks under her bed. There they are!
+    But, she can't find her keys! She looks in the drawer. They're not there.
+    She looks by the door. She looks on the floor. She can't find them!
+    She looks under her bed. There they are!
   - Today, Molly is wearing her|She is|her new|and white|She is wearing her favorite|too|But, she can't|find her|She|in the|They're|there|She|by the|She looks on the|She can't|them|She looks|her|There they are|End
 -
-  - "clothes-1"
-  - "clothes-1"
+  - "clothes-2"
+  - "clothes-2"
   - "topics"
   - "all"
   - |+
@@ -125,8 +127,8 @@
     B: Thanks, red is my favorite color.
   - Hi, Jimmy. I like your|It's new. My|bought it for me|It's really|What is this small|for|It's for|and|I like the|of your backpack, too|Thanks|is my favorite|End
 -
-  - "clothes-2"
-  - "clothes-2"
+  - "clothes-3"
+  - "clothes-3"
   - "topics"
   - "all"
   - |+

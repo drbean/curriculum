@@ -252,6 +252,51 @@ email_1_and_2:
            - Coherent and Complete
            - Courteous and Considerate
           answer: Coherent and Complete
+    1:
+      identifier: email 1 comprehension
+      quiz:
+        - question: Who wrote the report?
+          option:
+            - Jodi
+            - the email recipient
+            - Michelle
+          answer: the email recipient
+        - question: Who is checking the report?
+          option:
+            - Jodi
+            - the email recipient
+            - Michelle
+          answer: Michelle
+        - question: Who is in charge of the Friday meeting?
+          option:
+            - Jodi
+            - the email recipient
+            - Michelle
+          answer: Michelle
+    2:
+      identifier: email 2 comprehension
+      quiz:
+        - question: the purpose of the email?
+          option:
+            - attendance
+            - recruitment
+            - reminder
+            - strategies
+          answer: reminder
+        - question: reason to reply to the email if there is a problem?
+          option:
+            - attendance
+            - recruitment
+            - reminder
+            - strategies
+          answer: attendance
+        - question: What does Vanessa hope will be better after the meeting?
+          option:
+            - attendance
+            - recruitment
+            - reminder
+            - strategies
+          answer: recruitment
 email_3:
   jigsaw:
     0:
@@ -303,7 +348,7 @@ email_5:
 4c_match:
   match:
     0:
-      identifier: 4 first Cs
+      identifier: first 4 Cs
       pair:
         -
           - clear
@@ -320,6 +365,33 @@ email_5:
     1:
       identifier: second 4 Cs
       pair:
+        -
+          - coherent
+          - changes topic, writer was drinking?
+        -
+          - complete
+          - everything the reader needs is in the message
+        -
+          - courteous
+          - polite
+        -
+          - considerate
+          - thinking of the other person's needs, feelings as important
+    2:
+      identifier: all 8 Cs
+      pair:
+        -
+          - clear
+          - easy to understand
+        -
+          - concise
+          - short
+        -
+          - concrete
+          - real things, not ideas
+        -
+          - correct
+          - no mistakes
         -
           - coherent
           - changes topic, writer was drinking?

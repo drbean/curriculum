@@ -1,0 +1,17 @@
+---
+# genre: reading
+
+theater:
+  jigsaw:
+    0:
+      identifier: questions
+      quiz:
+        - question: Many different kinds of literature can be used.
+          answer: True
+        - question: The students have to remember the lines they read
+          answer: False
+        - question: Students can read altogether to practice.
+          answer: True
+        - question: "The expression 'The show must go on!' means: Do not make mistakes."
+          answer: False
+        

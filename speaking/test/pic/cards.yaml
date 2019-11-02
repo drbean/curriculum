@@ -1,0 +1,277 @@
+---
+numeric:
+  jigsaw:
+    0:
+      identifier: picture areas (numbers 1-9)
+      quiz:
+        - question: 0 on a PC numeric keypad
+          option:
+            - at the bottom
+            - in the middle
+            - at the bottom in the middle
+            - at the top in the middle
+            - in the bottom right hand corner
+            - in the bottom left hand corner
+            - in the top right hand corner
+            - in the top left hand corner
+            - in the middle on the right
+            - in the middle on the left
+          answer: at the bottom
+        - question: 1 on a PC numeric keypad
+          option:
+            - at the bottom
+            - in the middle
+            - at the bottom in the middle
+            - at the top in the middle
+            - in the bottom right hand corner
+            - in the bottom left hand corner
+            - in the top right hand corner
+            - in the top left hand corner
+            - in the middle on the right
+            - in the middle on the left
+          answer: in the bottom left hand corner
+        - question: 2 on a PC numeric keypad
+          option:
+            - at the bottom
+            - in the middle
+            - at the bottom in the middle
+            - at the top in the middle
+            - in the bottom right hand corner
+            - in the bottom left hand corner
+            - in the top right hand corner
+            - in the top left hand corner
+            - in the middle on the right
+            - in the middle on the left
+          answer: at the bottom in the middle
+        - question: 3 on a PC numeric keypad
+          option:
+            - at the bottom
+            - in the middle
+            - at the bottom in the middle
+            - at the top in the middle
+            - in the bottom right hand corner
+            - in the bottom left hand corner
+            - in the top right hand corner
+            - in the top left hand corner
+            - in the middle on the right
+            - in the middle on the left
+          answer: in the bottom right hand corner
+        - question: 4 on a PC numeric keypad
+          option:
+            - at the bottom
+            - in the middle
+            - at the bottom in the middle
+            - at the top in the middle
+            - in the bottom right hand corner
+            - in the bottom left hand corner
+            - in the top right hand corner
+            - in the top left hand corner
+            - in the middle on the right
+            - in the middle on the left
+          answer: in the middle on the left
+        - question: 5 on a PC numeric keypad
+          option:
+            - at the bottom
+            - in the middle
+            - at the bottom in the middle
+            - at the top in the middle
+            - in the bottom right hand corner
+            - in the bottom left hand corner
+            - in the top right hand corner
+            - in the top left hand corner
+            - in the middle on the right
+            - in the middle on the left
+          answer: in the middle
+        - question: 6 on a PC numeric keypad
+          option:
+            - at the bottom
+            - in the middle
+            - at the bottom in the middle
+            - at the top in the middle
+            - in the bottom right hand corner
+            - in the bottom left hand corner
+            - in the top right hand corner
+            - in the top left hand corner
+            - in the middle on the right
+            - in the middle on the left
+          answer: in the middle on the right
+        - question: 7 on a PC numeric keypad
+          option:
+            - at the bottom
+            - in the middle
+            - at the bottom in the middle
+            - at the top in the middle
+            - in the bottom right hand corner
+            - in the bottom left hand corner
+            - in the top right hand corner
+            - in the top left hand corner
+            - in the middle on the right
+            - in the middle on the left
+          answer: in the top left hand corner
+        - question: 8 on a PC numeric keypad
+          option:
+            - at the bottom
+            - in the middle
+            - at the bottom in the middle
+            - at the top in the middle
+            - in the bottom right hand corner
+            - in the bottom left hand corner
+            - in the top right hand corner
+            - in the top left hand corner
+            - in the middle on the right
+            - in the middle on the left
+          answer: at the top in the middle
+        - question: 9 on a PC numeric keypad
+          option:
+            - at the bottom
+            - in the middle
+            - at the bottom in the middle
+            - at the top in the middle
+            - in the bottom right hand corner
+            - in the bottom left hand corner
+            - in the top right hand corner
+            - in the top left hand corner
+            - in the middle on the right
+            - in the middle on the left
+          answer: in the top right hand corner
+    1:
+      identifier: position to number
+      quiz:
+        - question: at the bottom
+          option:
+            - 0
+            - 1
+            - 2
+            - 3
+            - 4
+            - 5
+            - 6
+            - 7
+            - 8
+            - 9
+          answer: 0
+        - question: in the middle
+          option:
+            - 0
+            - 1
+            - 2
+            - 3
+            - 4
+            - 5
+            - 6
+            - 7
+            - 8
+            - 9
+          answer: 5
+        - question: at the bottom in the middle
+          option:
+            - 0
+            - 1
+            - 2
+            - 3
+            - 4
+            - 5
+            - 6
+            - 7
+            - 8
+            - 9
+          answer: 2
+        - question: in the bottom right hand corner
+          option:
+            - 0
+            - 1
+            - 2
+            - 3
+            - 4
+            - 5
+            - 6
+            - 7
+            - 8
+            - 9
+          answer: 3
+        - question: in the bottom left hand corner
+          option:
+            - 0
+            - 1
+            - 2
+            - 3
+            - 4
+            - 5
+            - 6
+            - 7
+            - 8
+            - 9
+          answer: 1
+        - question: in the top right hand corner
+          option:
+            - 0
+            - 1
+            - 2
+            - 3
+            - 4
+            - 5
+            - 6
+            - 7
+            - 8
+            - 9
+          answer: 9
+        - question: in the top left hand corner
+          option:
+            - 0
+            - 1
+            - 2
+            - 3
+            - 4
+            - 5
+            - 6
+            - 7
+            - 8
+            - 9
+          answer: 7
+        - question: in the middle on the right
+          option:
+            - 0
+            - 1
+            - 2
+            - 3
+            - 4
+            - 5
+            - 6
+            - 7
+            - 8
+            - 9
+          answer: 6
+        - question: in the middle on the left
+          option:
+            - 0
+            - 1
+            - 2
+            - 3
+            - 4
+            - 5
+            - 6
+            - 7
+            - 8
+            - 9
+          answer: 4
+stall:
+  essay:
+    0:
+      identifier: homework--stall picture description
+      rubric: |+
+        homework--stall picture description
+
+        Look at the fruit stall picture in "Question 3:describe a picture". Take 45 seconds to decide what to say. Record a 45-second description.
+
+        Follow the instructions to upload the sound file.
+
+        Send a message to Dr Bean if you don't understand what to do.
+
+        Click Participants on the left-hand side of the screen, Find "Dr Bean" on the list. On the "With selected users" menu, click, "Send a message".
+street:
+  essay:
+    0:
+      identifier: Question 3. Describe a picture
+      rubric: |+
+         In this part of the test, you will describe the picture on your screen in as much detail as you can . You will have 30 seconds to prepare your response . Then you will have 45 seconds to speak about the picture. Record by clicking the Microphone button in the editor, or attach a sound file, by clicking the Video Camera button in the box to the left. Submit after choosing a good title for the reading (use keywords from the picture!)
+    

@@ -6,7 +6,7 @@ cooking:
       toast   : 烤麵包 
       apron   : 圍裙   
       cupcake : 杯形餅 
-      cook    : 做飯
+      cook    : 做飯，廚師
       plate   : 盤子   
       fork    : 叉子   
       sick    : 生病   
@@ -19,6 +19,7 @@ cooking:
       - For dinner, he makes three hotdogs. He eats them all.                _晚餐時，他做了三個熱狗。 他吃了他們_
       - For dessert, Jack bakes ten cookies, but he can't eat any more food. _對於甜點，傑克烘烤十個餅乾，但他不能再吃任何食物。_
       - Jack feels sick. He ate too much. Poor Jack!                         _傑克感到噁心 他吃得太多了 可憐的傑克_
+    - are wearing apron lunch ready making soup salad great need help thanks two plates forks
     -
       - "G: Why are you wearing an apron? _B: I'm making lunch for us._"
       - "G: What are you making? _B: I'm making soup and salad._"

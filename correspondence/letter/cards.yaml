@@ -1,5 +1,20 @@
 ---
 genre: correspondence
+feeling:
+  essay:
+    0:
+      identifier: Homework--something about letters
+      rubric: |+
+        '## Homework--something about letters '
+
+        Have you ever sent or received a letter? When, who, what, where, why?
+
+        Write 20~50 words about letters. What is your experience with them? Say what is good/bad about letters. Try to be interesting.
+  description:
+    0:
+      identifier: Saying something about letters
+      questiontext: "Dr Bean wants you to say something to him about letters. You wrote about it, Now say something. Nothing: 2, Something: 3"
+      
 date:
   jigsaw:
     0:
@@ -156,7 +171,7 @@ letter:
 parts:
   jigsaw:
     0:
-      identifier: parts
+      identifier: parts of a letter
       quiz:
         - question: (from the letter question) The Office of the President of the ROC
           option:
@@ -374,42 +389,113 @@ address:
     wells:
       identifier: wells
       quiz:
-        - question: 15 Blooming Drive, Sunset City, Arizona 15203, USA
+        - question: line 1 of Tom Wells, 15 Blooming Drive, Sunset City, Arizona 15203, USA
           answer:
-            - 15 Blooming Drive//Sunset City, Arizona 15203//USA
+            - Mr Tom Wells
+            - Mr\. Tom Wells
           incorrect:
             -
-              error: ^(?!.*15 Blooming Drive//.*)
-              feedback: Use the words, "15 Blooming Drive//"
+              error: ^(?!.*Mr.*)
+              feedback: Use the words, "Mr"
             -
-              error: ^(?!.*Sunset City, Arizona 15203//.*)
-              feedback: Use the words "Sunset City, Arizona 15203//"
+              error: ^(?!.*Tom Wells$)
+              feedback: Use the words, "Tom Wells (no comma)$"
+        - question: line 2 of Tom Wells, 15 Blooming Drive, Sunset City, Arizona 15203, USA
+          answer:
+            - 15 Blooming Drive
+          incorrect:
+            -
+              error: ^(?!.*15 .*)
+              feedback: Use the words, "15 (no comma)"
+            -
+              error: ^(?!.*Blooming Drive$)
+              feedback: Use the words, "15 Blooming Drive (no comma)"
+            -
+        - question: line 3 of Tom Wells, 15 Blooming Drive, Sunset City, Arizona 15203, USA
+          answer:
+            - Sunset City, Arizona 15203
+          incorrect:
+            -
+              error: ^(?!.*Sunset City,.*)
+              feedback: Use the words "Sunset City, (remember the comma)"
+            -
+              error: ^(?!.Arizona .*)
+              feedback: Use the words "Arizona (no comma)"
+            -
+              error: ^(?! 15203$)
+              feedback: Use the words "15203 (no comma)"
+        - question: line 4 of Tom Wells, 15 Blooming Drive, Sunset City, Arizona 15203, USA
+          answer:
+            - USA
+            - U\.S\.A
+          incorrect:
             -
               error: ^(?!.*USA.*)
               feedback: Use the words, "USA"
     tan:
       identifier: tan
       quiz:
-        - question: See the book for Tan's Chinese address
+        - question: "Line 1 of Jerry Tan's return Chinese address: 10048 台北市中正 (Zhong-zheng) 區重慶 (Chong-qing) 南路一段158巷2弄109號10樓"
           answer:
-            - Jerry Tan//Floor 10, 109 Lane 2, Alley 158//Chong-qing South Road, Zhong-zheng District//Taipei 10048//Taiwan
+            - Jerry Tan
           incorrect:
+            -
+              error: ^(?.*Mr.*)
+              feedback: Don't use the word, "Mr" on your own name
             -
               error: ^(?!.*Jerry Tan//.*)
               feedback: Use the words, "Jerry Tan//"
+        - question: "Line 2 of Jerry Tan's return Chinese address: 10048 台北市中正 (Zhong-zheng) 區重慶 (Chong-qing) 南路一段158巷2弄109號10樓"
+          answer:
+            - Floor 10, 109 Lane 2, Alley 158
+            - "Floor 10, #109 Lane 2, Alley 158"
+            - 10th Floor, 109 Lane 2, Alley 158
+            - "10th Floor, #109 Lane 2, Alley 158"
+            - Fl\. 10, 109 Ln\. 2, Al\. 158
+            - 10F, 109 Lane 2, Alley 158
+
+          incorrect:
             -
-              error: ^(?!.*Floor 10, 109 Lane 2, Alley 158//.*)
-              feedback: Use the words, "Floor 10, 109 Lane 2, Alley 158//"
+              error: ^(?!.*Floor 10.*)
+              feedback: Use the words, "Floor 10" or "10th Floor"
             -
-              error: ^(?!.*Chong-qing South Road, Zhong-zheng District//.*)
-              feedback: Use the words, "Chong-qing South Road, Zhong-zheng District//"
+              error: ^(?!.*#?109 Lane 2,.*)
+              feedback: Use the words, "109 Lane 2,"
             -
-              error: ^(?!.*Taipei 10048//.*)
-              feedback: Use the words, "Taipei 10048//"
+              error: ^(?!.*Alley 150,.*)
+              feedback: Use the words, "Alley 150", no comma
+        - question: "Line 3 of Jerry Tan's return Chinese address: 10048 台北市中正 (Zhong-zheng) 區重慶 (Chong-qing) 南路一段158巷2弄109號10樓"
+          answer:
+            - Chong-qing South Road, Section 1, Zhong-zheng District
+            - Chong-qing Sth\. Rd\., Sec\. 1, Zhong-zheng District
+          incorrect:
             -
-              error: ^(?!.*Taiwan.*)
-              feedback: Use the words, "Taiwan"
+              error: ^(?!.*Chong-qing South Road,.*)
+              feedback: Use the words, "Chong-qing South Road," (Remember the comma!)
+            -
+              error: ^(?!.*Section 1.*)
+              feedback: Use the words, "Section 1"
             
+        - question: "Line 4 of Jerry Tan's return Chinese address: 10048 台北市中正 (Zhong-zheng) 區重慶 (Chong-qing) 南路一段158巷2弄109號10樓"
+          answer:
+            - Taipei 10048
+            - Taipei City 10048
+          incorrect:
+            -
+              error: ^(?!.*Taipei, .*)
+              feedback: Space, but no comma after "Taipei"
+            -
+              error: ^(?!.10048$)
+              feedback: No comma after "10048"
+        - question: "Line 5 of Jerry Tan's return Chinese address: 10048 台北市中正 (Zhong-zheng) 區重慶 (Chong-qing) 南路一段158巷2弄109號10樓"
+          answer:
+            - Taiwan
+            - ROC
+            - R\.O\.C.
+          incorrect:
+            -
+              error: ^(?!.*Taiwan$)
+              feedback: No comma after "Taiwan" or "ROC"
             
     1:
       identifier: address
@@ -432,6 +518,29 @@ address:
           option:
             - 168 Boai Second Road//Zuoying District, Gaoxiong City 81357//Taiwan
           answer: 168 Boai Second Road//Zuoying District, Gaoxiong City 81357//Taiwan
+    xinzhu:
+      identifier: Hsinchu
+      quiz:
+        - question: line 1 of 30005新竹市東區中華(Zhong-hua)路二段188號
+          answer: 
+            - 188 Zhong-hua Road, Section 2
+            - 188 Zhong-hua Road, Section 2
+            - 188 Zhong-hua Road, Sec\. 2
+            - 188 Zhong-hua Rd\., Sec\. 2
+          incorrect:
+            -
+              error: ^(?!188 .*)
+              feedback: Use the words, "188" (no comma)
+            -
+              error: ^(?!.*Zhong-hua Road,.*)
+              feedback: Use the words, "Zhong-hua Road," (remember the comma)
+            -
+              error: ^(?!.*Section 2$)
+              feedback: Use the words, "Section 2" (no comma, Sec. 2 is also OK
+            
+            
+            
+        
     shilin:
       identifier: shilin
       quiz:
@@ -472,20 +581,37 @@ address:
     president:
       identifier: president tsai
       quiz:
-        - question: 10048 臺北市中正區重慶南路1段122號中華民國總統府
+        - question: 1st line of 10048 臺北市中正區重慶南路1段122號中華民國總統府
           answer: 
             - |+
-              Office of the President//122 Chongqing South Road, Section 1//Zhongzheng District, Taipei City 10048
+              Office of the President
+            - The Office of the President
           incorrect:
             -
               error: ^(?!.*Office of the President.*)
               feedback: Use the words, "Office of the President"
+        - question: 2nd line of 10048 臺北市中正區重慶南路1段122號中華民國總統府
+          answer: 
+            - |+
+              122 Chongqing South Road, Section 1
+          incorrect:
             -
-              error: ^(?!.*122 Chongqing South Road, Section 1.*)
-              feedback: Use the words, "122 Chongqing South Road, Section 1"
+              error: ^(?!.*122 Chongqing South Road.*)
+              feedback: Use the words, "122 Chongqing South Road"
             -
-              error: ^(?!.*Zhongzheng District, Taipei City 10048.*)
-              feedback: Use the words, "Zhongzheng District, Taipei City 10048"
+              error: ^(?!.*Section 1.*)
+              feedback: Use the words, "Section 1"
+        - question: 3rd line of 10048 臺北市中正區重慶南路1段122號中華民國總統府
+          answer: 
+            - |+
+              Zhongzheng District, Taipei City 10048
+          incorrect:
+            -
+              error: ^(?!.*Zhongzheng District,.*)
+              feedback: Use the words, "Zhongzheng District,"
+            -
+              error: ^(?!.*Taipei City 10048.*)
+              feedback: Use the words, "Taipei City 10048"
     library:
       identifier: national library
       quiz:
@@ -508,48 +634,111 @@ address:
           option:
             - 76 Fuqian Road, Miaoli 360
           answer: 76 Fuqian Road, Miaoli 360
-    nuu:
-      identifier: nuu address
+    test:
+      identifier: test question
       quiz:
-        - question: 36003苗栗市恭敬里聯大1號
+        - question: To be or not to be?
+          option:
+            - To do is to be.
+            - To be is to do.
+          answer: To be is to do.
+    nuu:
+      identifier: 3-line nuu address
+      quiz:
+        - question: 1st line of 36003苗栗市恭敬里聯大1號
           answer:
-            - 1 Lienda//Miaoli 36003//Taiwan
+            - 1 Lienda
+            - 1, Li[ae]nda
           incorrect:
             -
               error: ^(?!.*1 .*)
               feedback: Use the words, "1 "
             -
-              error: ^(?!.*Lienda//.*)
-              feedback: Use the words, "Lienda//"
-            -
-              error: ^(?!.*Miaoli//.*)
-              feedback: Use the words, "Miaoli//"
-            -
-              error: ^(?!.*36003//.*)
-              feedback: Use the words, "36003//"
-    whitehouse:
-      identifier: whitehouse
-      quiz:
-        - question: 20500 美國白宮川普總統
+              error: ^(?!.*Li[ae]nda.*)
+              feedback: Use the words, "Lienda"
+        - question: 2nd line of 36003苗栗市恭敬里聯大1號
           answer:
-            - President Trump//The White House 20500//U.S.A.
+            - Gongjing-li, Miaoli 36003
+            - GongJing-li, Miaoli 36003
+            - Gong[jJ]ing District, Miaoli 36003
           incorrect:
             -
-              error: ^(?!.*Trump//.*)
-              feedback: Use the words, "Trump//"
+              error: ^(?!.*gongjing.*)
+              feedback: Use the words, "GongJing-li"
             -
-              error: ^(?!.*//The White House.*)
-              feedback: Use the words, "//The White House"
+              error: ^(?!.*(li|district)*)
+              feedback: Use the words, "Li, or District"
+            -
+              error: ^(?!.*Miaoli.*)
+              feedback: Use the words, "Miaoli"
+            -
+              error: ^(?!.*36003.*)
+              feedback: Use the words, "36003"
+        - question: 3rd line of 36003苗栗市恭敬里聯大1號
+          answer:
+            - Taiwan
+            - R\.O\.C\.
+            - ROC
+            - (the)? Republic of China
+          incorrect:
+            -
+              error: ^(?!.*Taiwan$)
+              feedback: Use the words, "Taiwan"
+    whitehouse:
+      identifier: 3-line whitehouse address
+      quiz:
+        - question: 1st line of 20500 美國白宮川普總統
+          answer:
+            - President Trump
+          incorrect:
+            -
+              error: ^(?!President.*)
+              feedback: Use the words, "President"
+            -
+              error: ^(?!.*Trump.*)
+              feedback: Use the words, "Trump"
+        - question: 2nd line of 20500 美國白宮川普總統
+          answer:
+            - The White House 20500
+          incorrect:
+            -
+              error: ^(?!.*(The )?White House.*)
+              feedback: Use the words, "The White House"
             -
               error: ^(?!.*House .*)
               feedback: Use the words, "House "
             -
-              error: ^(?!.*20500//.*)
-              feedback: Use the words, "20500//"
+              error: ^(?!.*20500.*)
+              feedback: Use the words, "20500"
             -
               error: ^(?!.*U\.S\.A\..*)
-              feedback: Use the words, "U.S.A\."
-            
+              feedback: Use the words, "U.S.A"
+        - question: 3rd line of 20500 美國白宮川普總統
+          answer:
+            - U.S.A
+            - USA
+            - The USA
+            - The U\.S\.A\.
+          incorrect:
+            -
+              error: ^(?!.*U\.S\.A\..*)
+              feedback: Use the words, "U.S.A."
+    #xi:
+    #  identifier: Xi Jinping address
+    #  quiz:
+    #    - question: Xi Jinping, President of the People’s Republic of China
+
+    #      Zhang Dejiang, Chairman of the National People’s Congress
+
+    #      Zhongnanhai,
+
+    #      No. 174 Xi Chang’an Jie,
+
+    #      Beijing 100017 China
+    #      option:
+    #        - 
+    #      answer: 
+    #            
 letterhead:
   jigsaw:
     0:
@@ -609,9 +798,20 @@ justify:
         - question: |+
             What does left-justified mean?
           option:
-            - You start writing the words without writing a space first before the words.
+            - You are supposed to follow standard letter formats.
+            - You start writing the words in the line without writing a space first before the words.
             - It's OK to leave out some of the parts of what you are writing.
-          answer: You start writing the words without writing a space first before the words.
+          answer: You start writing the words in the line without writing a space first before the words.
+    1:
+      identifier: receiver address centering
+      quiz:
+        - question: In the receiver address, some words line up with the words in lines above and below. The words which line up are--
+          option:
+            - The first word in the line
+            - The middle word in the line
+            - The last word in the line
+          answer: The first word in the line
+        
 subject:
   jigsaw:
     0:
@@ -2869,6 +3069,181 @@ strategy:
             - clear
             - correct
           answer: correct
+    4:
+      identifier: Which of the 1st 5 strategies?
+      quiz:
+        - question: Listen to Dr Bean read a description of one of the 1st 5 strategies. Decide which one it is.
+          option:
+            - 1. Start from the end
+            - 2. Use appropriate salutation
+            - 3. Get to the point early
+            - 4. Put yourself in the reader's place
+            - 5. Say it plainly
+          answer: 3. Get to the point early
+        - question: Listen to Dr Bean read a description of one of the 1st 5 strategies. Decide which one it is.
+          option:
+            - 1. Start from the end
+            - 2. Use appropriate salutation
+            - 3. Get to the point early
+            - 4. Put yourself in the reader's place
+            - 5. Say it plainly
+          answer: 5. Say it plainly
+        - question: Listen to Dr Bean read a description of one of the 1st 5 strategies. Decide which one it is.
+          option:
+            - 1. Start from the end
+            - 2. Use appropriate salutation
+            - 3. Get to the point early
+            - 4. Put yourself in the reader's place
+            - 5. Say it plainly
+          answer: 2. Use appropriate salutation
+        - question: Listen to Dr Bean read a description of one of the 1st 5 strategies. Decide which one it is.
+          option:
+            - 1. Start from the end
+            - 2. Use appropriate salutation
+            - 3. Get to the point early
+            - 4. Put yourself in the reader's place
+            - 5. Say it plainly
+          answer: 4. Put yourself in the reader's place
+        - question: Listen to Dr Bean read a description of one of the 1st 5 strategies. Decide which one it is.
+          option:
+            - 1. Start from the end
+            - 2. Use appropriate salutation
+            - 3. Get to the point early
+            - 4. Put yourself in the reader's place
+            - 5. Say it plainly
+          answer: 1. Start from the end
+    5:
+      identifier: Which of the 2nd 5 strategies?
+      quiz:
+        - question: Listen to Dr Bean read a description of one of the 2nd 5 strategies. Decide which one it is.
+          option:
+            - 6. Clear the deadwood
+            - 7. Be natural
+            - 8. Be consistent (British English or American English)
+            - 9. Try to use active voice
+            - 10. Choose words carefully (eg expect vs hope), pay attention to tone
+          answer: 6. Clear the deadwood
+        - question: Listen to Dr Bean read a description of one of the 2nd 5 strategies. Decide which one it is.
+          option:
+            - 6. Clear the deadwood
+            - 7. Be natural
+            - 8. Be consistent (British English or American English)
+            - 9. Try to use active voice
+            - 10. Choose words carefully (eg expect vs hope), pay attention to tone
+          answer: 8. Be consistent (British English or American English)
+        - question: Listen to Dr Bean read a description of one of the 2nd 5 strategies. Decide which one it is.
+          option:
+            - 6. Clear the deadwood
+            - 7. Be natural
+            - 8. Be consistent (British English or American English)
+            - 9. Try to use active voice
+            - 10. Choose words carefully (eg expect vs hope), pay attention to tone
+          answer: 10. Choose words carefully (eg expect vs hope), pay attention to tone
+        - question: Listen to Dr Bean read a description of one of the 2nd 5 strategies. Decide which one it is.
+          option:
+            - 6. Clear the deadwood
+            - 7. Be natural
+            - 8. Be consistent (British English or American English)
+            - 9. Try to use active voice
+            - 10. Choose words carefully (eg expect vs hope), pay attention to tone
+          answer: 9. Try to use active voice
+        - question: Listen to Dr Bean read a description of one of the 2nd 5 strategies. Decide which one it is.
+          option:
+            - 6. Clear the deadwood
+            - 7. Be natural
+            - 8. Be consistent (British English or American English)
+            - 9. Try to use active voice
+            - 10. Choose words carefully (eg expect vs hope), pay attention to tone
+          answer: 7. Be natural
+    6:
+      identifier: Which of the 3rd 5 strategies?
+      quiz:
+        - question: Listen to Dr Bean read a description of one of the 3rd 5 strategies. Decide which one it is.
+          option:
+            - 11. Never write in anger
+            - 12. Never use contractions (don't, etc)
+            - 13. Don't use very informal language unless the person is a good friend
+            - 14. Do not make accusations you cannot prove
+            - 15. Don't claim to be the cheapest, best, etc
+          answer: 15. Don't claim to be the cheapest, best, etc
+        - question: Listen to Dr Bean read a description of one of the 3rd 5 strategies. Decide which one it is.
+          option:
+            - 11. Never write in anger
+            - 12. Never use contractions (don't, etc)
+            - 13. Don't use very informal language unless the person is a good friend
+            - 14. Do not make accusations you cannot prove
+            - 15. Don't claim to be the cheapest, best, etc
+          answer: 13. Don't use very informal language unless the person is a good friend
+        - question: Listen to Dr Bean read a description of one of the 3rd 5 strategies. Decide which one it is.
+          option:
+            - 11. Never write in anger
+            - 12. Never use contractions (don't, etc)
+            - 13. Don't use very informal language unless the person is a good friend
+            - 14. Do not make accusations you cannot prove
+            - 15. Don't claim to be the cheapest, best, etc
+          answer: 14. Do not make accusations you cannot prove
+        - question: Listen to Dr Bean read a description of one of the 3rd 5 strategies. Decide which one it is.
+          option:
+            - 11. Never write in anger
+            - 12. Never use contractions (don't, etc)
+            - 13. Don't use very informal language unless the person is a good friend
+            - 14. Do not make accusations you cannot prove
+            - 15. Don't claim to be the cheapest, best, etc
+          answer: 12. Never use contractions (don't, etc)
+        - question: Listen to Dr Bean read a description of one of the 3rd 5 strategies. Decide which one it is.
+          option:
+            - 11. Never write in anger
+            - 12. Never use contractions (don't, etc)
+            - 13. Don't use very informal language unless the person is a good friend
+            - 14. Do not make accusations you cannot prove
+            - 15. Don't claim to be the cheapest, best, etc
+          answer: 11. Never write in anger
+    7:
+      identifier: Which of the last 5 strategies?
+      quiz:
+        - question: Listen to Dr Bean read a description of one of the last 5 strategies. Decide which one it is.
+          option:
+            - 16. With a lot of details, consider using lists with numbers, bullets
+            - 17. Be as concise as possible
+            - 18. End with an action step
+            - 19. Lay out the letter so it looks good (presentation)
+            - 20. Be careful with punctuation
+          answer: 20. Be careful with punctuation
+        - question: Listen to Dr Bean read a description of one of the last 5 strategies. Decide which one it is.
+          option:
+            - 16. With a lot of details, consider using lists with numbers, bullets
+            - 17. Be as concise as possible
+            - 18. End with an action step
+            - 19. Lay out the letter so it looks good (presentation)
+            - 20. Be careful with punctuation
+          answer: 16. With a lot of details, consider using lists with numbers, bullets
+        - question: Listen to Dr Bean read a description of one of the last 5 strategies. Decide which one it is.
+          option:
+            - 16. With a lot of details, consider using lists with numbers, bullets
+            - 17. Be as concise as possible
+            - 18. End with an action step
+            - 19. Lay out the letter so it looks good (presentation)
+            - 20. Be careful with punctuation
+          answer: 19. Lay out the letter so it looks good (presentation)
+        - question: Listen to Dr Bean read a description of one of the last 5 strategies. Decide which one it is.
+          option:
+            - 16. With a lot of details, consider using lists with numbers, bullets
+            - 17. Be as concise as possible
+            - 18. End with an action step
+            - 19. Lay out the letter so it looks good (presentation)
+            - 20. Be careful with punctuation
+          answer: 17. Be as concise as possible
+        - question: Listen to Dr Bean read a description of one of the last 5 strategies. Decide which one it is.
+          option:
+            - 16. With a lot of details, consider using lists with numbers, bullets
+            - 17. Be as concise as possible
+            - 18. End with an action step
+            - 19. Lay out the letter so it looks good (presentation)
+            - 20. Be careful with punctuation
+          answer: 18. End with an action step
+                
+        
+        
 
 scramble:
   scramble:

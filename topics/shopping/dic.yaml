@@ -40,8 +40,8 @@
     This mall has roller coasters in it, too. There's even a school in it. It's a really fun place to visit.
   - Do you like to|If you do|you should visit the|of|It's the|There are|520|in this mall|It also has|that has a lot of|from all over the|in it|This mall has|in it, too|There's|in it|It's a really fun|to|End
 -
-  - supermarket-4
-  - Supermarket-4
+  - supermarket-1
+  - Supermarket-1
   - "topics"
   - "all"
   - |+
@@ -49,28 +49,31 @@
     She gets a shopping cart. Then, she goes to where the fruit is. It all looks so fresh! She gets some pears.
     Next, Jill goes to where the vegetables are. They look fresh, too. She gets some peppers.
     Jill pays for the fruit and vegetables with her coins.
+  - Jill|to the|There is a big|today|She|a shopping|Then, she goes to where the|is|It all looks so|She gets some|Next, Jill goes to|the|are|They look fresh, too|She gets some|Jill|for the fruit and vegetables with her|End
 -
-  - supermarket-5
-  - Supermarket-5
+  - supermarket-2
+  - Supermarket-2
   - "topics"
   - "all"
   - |+
-    G: We have a lot of things to buy today.
+    A: We have a lot of things to buy today.
     B: Let's get a cart. I'll push it for you.
-    G: Thanks. What do we need to buy?
+    A: Thanks. What do we need to buy?
     B: We need fresh fruit. I want to make a fruit salad.
-    G: Bananas are very cheap today. Let's buy some.
+    A: Bananas are very cheap today. Let's buy some.
     B: No, we have many bananas at home. I want to buy some peaches.
+  - We|a lot of|to|today|Let's get a|I'll|it for you|Thanks. What|we|to buy|We need|fruit. I want to make a|Bananas are very|today|Let's buy some|No, we have many|at home. I want to|some|End
 -
-  - supermarket-6
-  - Supermarket-6
+  - supermarket-3
+  - Supermarket-3
   - "topics"
   - "all"
   - |+
-    Today many people eat tomatoes. However a long time ago, people didn't eat them. People thought they were dangerous.
-    One day a man ate a tomato. Then he ate many of them.
+    Today, many people eat tomatoes. However, a long time ago, people didn't eat them. People thought they were dangerous.
+    One day, a man ate a tomato. Then, he ate many of them.
     They were so good! He didn't get sick.
-    So people started to eat them too.
+    So people started to eat them, too.
+  - Today|people eat|However, a long|ago, people didn't|them|People|they were|One day, a man|a tomato|Then, he ate many of them|They were so|He didn't get|So people|to eat them|End
 -
   - supermarket-7
   - Supermarket-7

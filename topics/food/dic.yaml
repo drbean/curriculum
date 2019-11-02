@@ -107,13 +107,13 @@
   - "topics"
   - "all"
   - |+
-    G: Why are you wearing an apron?
+    A: Why are you wearing an apron?
     B: I'm making lunch for us. It's almost ready.
-    G: What are you making?
+    A: What are you making?
     B: I'm making soup and salad.
-    G: That sounds great. Do you need some help?
+    A: That sounds great. Do you need some help?
     B: No thanks, but I need two plates and two forks.
-  - wearing|lunch|ready|soup|salad|sounds|need|thanks|End
+  - Why|you|an|I'm making|for us. It's almost|What are you|I'm making|and|That sounds|Do you|some|No|but I need|End
 -
   - "cooking-3"
   - "cooking-3"

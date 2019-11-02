@@ -1,0 +1,156 @@
+---
+
+# letter
+
+-
+  -
+    topic : letter
+    story : address
+    type  : jigsaw
+    form  : tan
+    intro : with Section 1. No "Mr/Ms" on your own name.
+    random: 
+-
+  -
+    topic : letter
+    story : feeling
+    type  : description
+    form  : 0
+    intro : A few words about letters
+    random: 
+
+-
+  -
+    topic : letter
+    story : justify
+    type  : jigsaw
+    form  : 0
+    intro : page 1, note 3
+    random: 
+-
+  -
+    topic : letter
+    story : justify
+    type  : jigsaw
+    form  : 1
+    intro : page 1, note 3
+    random: 
+  
+# 8cs
+
+-
+  -
+    topic : 8cs
+    story : identify
+    type  : jigsaw
+    form  : 0
+    intro : 1st 4 8c problems again
+    random: 2
+-
+  -
+    topic : 8cs
+    story : identify
+    type  : jigsaw
+    form  : 1
+    intro : 2nd 4 8c problems again
+    random: 2
+ 
+-
+  -
+    topic : 8cs
+    story : listening
+    type  : jigsaw
+    form  : 0
+    intro : page 3,4
+    random: 
+-
+  -
+    topic : 8cs
+    story : listening
+    type  : jigsaw
+    form  : 1
+    intro : page 3,4
+    random: 
+-
+  -
+    topic : 8cs
+    story : listening
+    type  : jigsaw
+    form  : 2
+    intro : page 3,4
+    random: 
+-
+  -
+    topic : 8cs
+    story : listening
+    type  : jigsaw
+    form  : 3
+    intro : page 3,4
+    random: 
+-
+  -
+    topic : 8cs
+    story : listening
+    type  : jigsaw
+    form  : 4
+    intro : page 3,4
+    random: 
+-
+  -
+    topic : 8cs
+    story : listening
+    type  : jigsaw
+    form  : 5
+    intro : page 3,4
+    random: 
+-
+  -
+    topic : 8cs
+    story : listening
+    type  : jigsaw
+    form  : 6
+    intro : page 3,4
+    random: 
+-
+  -
+    topic : 8cs
+    story : listening
+    type  : jigsaw
+    form  : 7
+    intro : page 3,4
+    random: 
+-
+  -
+    topic : 8cs
+    story : listening
+    type  : jigsaw
+    form  : 8
+    intro : page 3,4
+    random: 
+  
+
+-
+  -
+    topic : 8cs
+    story : subject
+    type  : jigsaw
+    form  : 0
+    intro : p 5,6 emails
+    random: 
+-
+  -
+    topic : 8cs
+    story : email_1_and_2
+    type  : jigsaw
+    form  : 1
+    intro : email 1 comprehension
+    random: 1
+-
+  -
+    topic : 8cs
+    story : email_1_and_2
+    type  : jigsaw
+    form  : 2
+    intro : email 2 comprehension
+    random: 1
+    

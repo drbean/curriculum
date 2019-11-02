@@ -1,0 +1,100 @@
+
+genre: writing
+title:
+  jigsaw:
+    0:
+      identifier: appropriate title
+      quiz:
+        - question: |+
+            Do you know what a house made of snow is called? It's called an igloo. People build them in cold places.
+
+            You may think that they're cold inside, but they aren't. They are warm inside. Igloos keep people warm and dry.
+
+            They are strong too. People can stand on igloos. But watch out for summer! That's when igloos melt.
+          option:
+            - How to make an igloo
+            - What is an igloo?
+            - When do igloos melt?
+            - Igloos are strong
+          answer: What is an igloo?
+        - question: |+
+            Do you know why jeans are usually blue?
+
+            At first, there were two colors of jeans; brown and blue.
+
+            Men wore them to work.
+
+            Brown jeans were not soft, but blue jeans were very soft.
+
+            So, people stopped buying brown jeans.
+          option:
+            - The history of blue jeans
+            - Why jeans are usually blue
+            - Who wears blue jeans?
+            - Why blue jeans are soft
+          answer: Why jeans are usually blue
+    1:
+      identifier: appropriate title 2
+      quiz:
+        - question: |+
+            We need the sun.
+            It gives us light.
+            We see it in the day.
+
+            What is the sun? It is really a star.
+
+            The sun looks big. But, it's not.
+
+            The sun is a very small star.
+            It is a very bright star, too.
+          option:
+            - The sun is very big
+            - The sun is very hot
+            - Where is the sun?
+            - What is the sun?
+          answer: What is the sun?
+        - question: |+
+            Most crabs are small.
+            You can find them on the beach.
+
+            However, Japanese spider crabs don't live on the beach.
+            They live in the ocean.
+
+            They are very big.  Some are as big as people.
+
+            They also live for a long time.
+            Some spider crabs are 100 years old.
+          option:
+            - Crabs on the beach
+            - Japanese spider crabs
+            - The ocean
+            - A 100-year-old crab!
+          answer: Japanese spider crabs
+essay:
+  description:
+    0:
+      identifier: week 3 writing in class
+      questiontext: 2 long essays, one about language difficulty and language learning and the other about online apps
+    1:
+      identifier: week 6 writing in class
+      questiontext: 2 long essays, one about writing systems and the other about travel and foreign cultures
+  essay:
+    0:
+      identifier: essay writing guide
+      rubric: |+
+        No phones! Ask a student, or Dr Bean for help translating Chinese words.
+        
+        ## Objective information + subjective impression
+
+        Both objective information and subjective ideas are important
+
+        You wrote well about subjective judgments, feelings and opinions, but didn't provide information last time.
+
+        Use sources to provide information, but don't copy and paste. Use your own words to *paraphrase*.
+    1:
+      identifier: writing systems
+      rubric: "Use the content you find online about bopomo, pinyin, Chinese characters and other writing systems, but don't just copy and paste.\n\nI want to hear what you think, but I also want information from sources. You need to restate what you read in your own words (otherwise it is plagiarism)! And you need to express your own opinion.\n\nBe warned: I CAN TELL IF SENTENCES HAVE BEEN COPIED FROM THE INTERNET!"
+    2:
+      identifier: travel and foreign cultures
+      rubric: "Be critical about travel and foreign cultures. Say what the good things are. Say what the *bad* things are.\n\nDon't just copy and paste from Wikipedia. Use your own words to say what you read, but use expressions like \"According to the 'Korean culture' article on Wikipedia\" to show where your information comes from.\n\nSay what you think."
+    
