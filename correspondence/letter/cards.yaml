@@ -97,7 +97,7 @@ date:
            - July 20, 2018
           answer: July 20, 2018
         - question: |+
-            107/11/12, fully-written-out American style
+            Taiwan style date 107/11/12, fully-written-out American style
           option:
            - November 12, 2018
           answer: November 12, 2018
@@ -137,7 +137,7 @@ date:
     4:
       identifier: consistency reason
       quiz:
-        - question: The reason for writing out the month, eg January, February, March, April, May, June, July, August, October, November, December, rather than writing 1 .. 12.
+        - question: The reason it is a good idea to write out the month, eg January, February, March, April, May, June, July, August, October, November, December, rather than to write 1 .. 12.
           option:
             - English speakers like to see the name of the month
             - Foreigners might not know the name of the month in English
@@ -155,8 +155,11 @@ envelope:
       identifier: putin to trump
       rubric: |+
         In December, 2016, after Trump was elected president of the US, but before he became president, President Putin of Russia sent a personal letter to him at Trump Tower, in New York City. Trump Tower is on Fifth Avenue, and has street number 725. The zip (postal) code is 10022.
+
         In the return address, he wrote his name, Vladimir Putin and his position, President of Russia. His office is The Kremlin, and the address of the Kremlin is 23, Red Square, Moscow, 103132, Russia.
+
         You can write New York City as "New York, NY".
+
         Re-create the envelope of the letter that Putin sent to Trump.
 letter:
   essay:
@@ -385,6 +388,13 @@ opening:
 
 
 address:
+  description:
+    0:
+      identifier: address parts
+      questiontext: |+
+        The next 4 questions are parts of addresses, not the full address.
+        
+       Follow the instructions carefully. There is only one right answer.
   jigsaw:
     wells:
       identifier: wells
@@ -623,14 +633,14 @@ address:
           option:
             - Zhongzheng District
           answer: Zhongzheng District
-        - question: "on one line, no commas: 中山(Zhongshan)南路20號"
+        - question: "on one line, no commas, fully written-out: 中山(Zhongshan)南路20號"
           option:
             - 20 Zhongshan South Road
           answer: 20 Zhongshan South Road
     miaoli:
       identifier: city office
       quiz:
-        - question: "on one line, no slashes, no 'City', but with comma(s) in the right place: 360苗栗市府前(Fuqian)路76號"
+        - question: "on one line, fully written-out, no 'City', but with comma(s) in the right place: 360苗栗市府前(Fuqian)路76號"
           option:
             - 76 Fuqian Road, Miaoli 360
           answer: 76 Fuqian Road, Miaoli 360
@@ -865,7 +875,7 @@ salutation:
     1:
       identifier: salutation
       quiz:
-        - question: Which is the wrong salutation, addressing a married woman?
+        - question: Which is the wrong salutation?
           option:
             - Dear Ms Nina Lin
             - Dear Ms Lin
@@ -897,10 +907,10 @@ salutation:
             - Mr
             - Ms
           answer: Miss
-        - question: In which case may marital status (single/married) be marked for gender
+        - question: In which case may marital status (single/married) be marked
           option:
-            - addressing a man
-            - addressing a woman
+            - an honorific addressing a man
+            - an honorific addressing a woman
           answer: addressing a woman
         - question: Does the honorific 'Ms' indicate the marital status (single/married) of a woman?
           option:
@@ -3347,4 +3357,3 @@ correction:
           option:
             - Please let us know if you did not receive your User ID and Password.
           answer: Please let us know if you did not receive your User ID and Password.
-          
