@@ -10,6 +10,10 @@ connect:
         The first group connects the named 20 strategies and the 8Cs or audience points.
         
         The second group connects interpretations of the 20 strategies (not in the order in the book) and the same 8Cs or audience points.
+    1:
+      identifier: strategies again, interpreted
+      questiontext: |+
+        This second group connects interpretations of the 20 strategies (not in the order in the book) and the 8Cs or audience points.
   jigsaw:
     0:
       identifier: things (strategies) to remember
