@@ -1922,7 +1922,7 @@ capital:
     1:
       identifier: capital rules
       quiz:
-        - question: amazon, ebay, facebook, flicker, intel, citibank, macy's, bp, vitamin water, and xerox
+        - question: amazon, eBay, facebook, flicker, intel, citibank, macy's, bp, vitamin water, and xerox
           option:
             - obeys the rules
             - doesn't obey the rules
