@@ -33,10 +33,24 @@
     random: 
   -
     topic : letter
+    story : letter
+    type  : essay
+    form  : 0
+    intro : Tsai letter to Trump
+    random: 
+  -
+    topic : letter
+    story : parts
+    type  : jigsaw
+    form  : 0
+    intro : example letter parts
+    random: 
+  -
+    topic : letter
     story : parts
     type  : jigsaw
     form  : 1
-    intro : letter parts
+    intro : letter part descriptions
     random: 
   -
     topic : letter
@@ -88,6 +102,31 @@
     intro : salutation/complimentary close relationship 
     random: 
 
+# audience
+
+  -
+    topic : audience
+    story : purpose
+    type  : jigsaw
+    form  : 0
+    intro : Taiwanese student's purpose
+    random: 
+  -
+    topic : audience
+    story : data
+    type  : jigsaw
+    form  : 0
+    intro : data focus
+    random: 
+  -
+    topic : audience
+    story : presentation
+    type  : jigsaw
+    form  : 0
+    intro : presentation focus
+    random: 
+  
+  
 # strategy
 
   -

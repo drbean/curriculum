@@ -164,9 +164,9 @@ envelope:
 letter:
   essay:
     0:
-      identifier:
+      identifier: tsai letter
       rubric: |+
-        "Using a letterhead, which starts: \"The Office of the President of the ROC\" and includes a web site address, write a letter dated 2017-11-06 expressing condolences for a church shooting in the US to President Trump. In the body, write, \"On the behalf of the people of Taiwan, I wish to express my condolences to the people of the US and to the victims of the church shooting that occurred in Sutherland Springs, Texas on the morning of November 5. I wish the injured a speedy recovery.\" Use information you already have for the presidents' addresses."
+        "Using a letterhead, which starts: \"The Office of the President of the ROC\" and includes an address (10048 臺北市中正區重慶南路1段122號中華民國總統府, in English) and a (fake) web site address, write a letter dated 2017-11-06 expressing condolences for a church shooting in the US to President Trump. In the body, write, \"On the behalf of the people of Taiwan, I wish to express my condolences to the people of the US and to the victims of the church shooting that occurred in Sutherland Springs, Texas on the morning of November 5. I wish the injured a speedy recovery.\" Use information from a following question for Trump's address."
     1:
       identifier: putin to trump
       rubric: |+
