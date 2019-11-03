@@ -394,7 +394,7 @@ address:
       questiontext: |+
         The next 4 questions are parts of addresses, not the full address.
         
-       Follow the instructions carefully. There is only one right answer.
+        Follow the instructions carefully. There is only one right answer.
   jigsaw:
     wells:
       identifier: wells
@@ -1063,22 +1063,50 @@ close:
             - good news messages
             - bad news messages
           answer: good news messages
-        - question: Is the punctuation consistent?\n\nDear Jack:\n\n...\n\nBest regards,
+        - question: |+
+            Is the punctuation consistent?
+
+            Dear Jack:
+
+            ...
+
+            Best regards,
           option:
             - Yes
             - No
           answer: Yes
-        - question: Is the punctuation consistent?\n\nDear Jack,\n\n...\n\nBest regards
+        - question: |+
+            Is the punctuation consistent?
+
+            Dear Jack,
+
+            ...
+
+            Best regards
           option:
             - Yes
             - No
           answer: No
-        - question: Is the punctuation consistent?\n\nDear Jack,\n\n...\n\nBest regards,
+        - question: |+
+            Is the punctuation consistent?
+
+            Dear Jack,
+
+            ...
+
+            Best regards,
           option:
             - Yes
             - No
           answer: Yes
-        - question: Is the punctuation consistent?\n\nDear Jack\n\n...\n\nBest regards,
+        - question: |+
+            Is the punctuation consistent?
+
+            Dear Jack
+
+            ...
+
+            Best regards,
           option:
             - Yes
             - No
@@ -1922,7 +1950,7 @@ capital:
     1:
       identifier: capital rules
       quiz:
-        - question: company names: amazon, eBay, facebook, flicker, intel, citibank, macy's, bp, vitamin water, and xerox
+        - question: "company names: amazon, eBay, facebook, flicker, intel, citibank, macy's, bp, vitamin water, and xerox"
           option:
             - obeys the capitalization rules
             - doesn't obey the capitalization rules
