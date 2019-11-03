@@ -41,12 +41,22 @@ purpose:
     0:
       identifier: audience purpose
       quiz:
-        - question: Spam about student loan payment in the US\nAn email sent by a US college in response to a Taiwan student planning to study in the US requesting information about tuition costs\n Which email is more likely to result in action by the Taiwanese student.
+        - question: |+
+            Spam about student loan payment in the US
+
+            An email sent by a US college in response to a Taiwan student planning to study in the US requesting information about tuition costs
+
+            Which email is more likely to result in action by the Taiwanese student?
           option: 
            - First
            - Second
           answer: Second
-        - question: Spam about student loan payment in the US received by a Taiwan student.\nAn email sent by a US college in response to a Taiwan student planning to study in the US requesting information about tuition costs\n Which email is more likely to be deleted quickly.
+        - question: |+
+            Spam about student loan payment in the US received by a Taiwan student.
+
+            An email sent by a US college in response to a Taiwan student planning to study in the US requesting information about tuition costs
+
+            Which email is more likely to be deleted quickly.
           option: 
            - First
            - Second
