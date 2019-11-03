@@ -93,6 +93,9 @@ advice:
             - I don't think the quality is very good.
             - The quality is not good.
           answer: I don't think the quality is very good.
+    indirect:
+      identifier: indirectness and goodwill
+      quiz:
         - question: A good news message is written in a less direct way than a bad news message.
           answer: False
         - question: If you explain the situation around the news before saying what the news is, then you're being more direct.
