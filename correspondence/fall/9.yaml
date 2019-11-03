@@ -142,4 +142,11 @@
     form  : 1
     intro : capital/upper case/big letter rules
     random: 
+  -
+    topic : letter
+    story : process
+    type  : match
+    form  : 1
+    intro : match process and thoughts
+    random: 
   
