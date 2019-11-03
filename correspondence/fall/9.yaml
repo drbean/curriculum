@@ -135,11 +135,11 @@
     form  : 4
     intro : from context to punctuation sign
     random: 
-  
-  
-  
-  
-  
-  
-  
+  -
+    topic : letter
+    story : capital
+    type  : jigsaw
+    form  : 1
+    intro : capital/upper case/big letter rules
+    random: 
   

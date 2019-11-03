@@ -1922,36 +1922,36 @@ capital:
     1:
       identifier: capital rules
       quiz:
-        - question: amazon, eBay, facebook, flicker, intel, citibank, macy's, bp, vitamin water, and xerox
+        - question: company names: amazon, eBay, facebook, flicker, intel, citibank, macy's, bp, vitamin water, and xerox
           option:
-            - obeys the rules
-            - doesn't obey the rules
-          answer: doesn't obey the rules
+            - obeys the capitalization rules
+            - doesn't obey the capitalization rules
+          answer: doesn't obey the capitalization rules
         - question: The president of a country is the top person in the country.
           option:
-            - obeys the rules
-            - doesn't obey the rules
-          answer: obeys the rules
+            - obeys the capitalization rules
+            - doesn't obey the capitalization rules
+          answer: obeys the capitalization rules
         - question: president Tsai
           option:
-            - obeys the rules
-            - doesn't obey the rules
-          answer: doesn't obey the rules
-        - question: are you OK?
+            - obeys the capitalization rules
+            - doesn't obey the capitalization rules
+          answer: doesn't obey the capitalization rules
+        - question: are you ok?
           option:
-            - obeys the rules
-            - doesn't obey the rules
-          answer: doesn't obey the rules
+            - obeys the capitalization rules
+            - doesn't obey the capitalization rules
+          answer: doesn't obey the capitalization rules
         - question: How many days are there in november?
           option:
-            - obeys the rules
-            - doesn't obey the rules
-          answer: doesn't obey the rules
+            - obeys the capitalization rules
+            - doesn't obey the capitalization rules
+          answer: doesn't obey the capitalization rules
         - question: Do you speak english?
           option:
-            - obeys the rules
-            - doesn't obey the rules
-          answer: doesn't obey the rules
+            - obeys the capitalization rules
+            - doesn't obey the capitalization rules
+          answer: doesn't obey the capitalization rules
 process:
   match:
     0:
