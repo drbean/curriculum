@@ -81,6 +81,9 @@ example:
         If it is in a book, give the name of the book and authors.
 
         I will give extra credit for posts
+
+# speaking
+
 read:
   essay:
     0:
@@ -133,10 +136,108 @@ opinion:
       identifier: Question 11. Express an opinion
       rubric: |+
         In this part of the test, you will give your opinion about a specific topic . Be sure to say as much as you can in the time allowed . You will have 15 (or is it 30??) seconds to prepare . Then you will have 60 seconds to speak.
+
+# writing
+#
+    1:
+      identifier: "Question 8: Write an opinion essay"
+      rubric: |+
+        In this part of the test, you will write an essay in response to a question that asks you to state, explain and support your opinion on an issue.Typically, an effective essay will contain a minimum of 300 words.
+
+        Your response will be scored on
+
+        * whether your opinion is supported with reasons and/or examples;
+        * grammar;
+        * vocabulary; and
+        * organization
+
+        You will have s it 30 minutes to plan, write and revise your essay.
+
+        Question: Do you agree or disagree with the following statement? It is more important to work at a job you enjoy than to make a lot of money. Support your answer with specific reasons and examples.
         
-    
-        
-    
+# writing
+
+word:
+  essay:
+    0:
+      identifier: sentence from picture 1
+      rubric: |+
+        breakfast croissant
+
+        [breakfast croissant](https://www.examenglish.com/TOEIC/images/croissant.jpg)
+    1:
+      identifier: sentence from picture 2
+      rubric: |+
+        clear away
+
+        [clear away](https://www.examenglish.com/TOEIC/images/iStock_000005031231XSmall.jpg)
+    2:
+      identifier: sentence from picture 3
+      rubric: |+
+        hard_hat arm
+
+        [hard_hat arm](https://www.examenglish.com/TOEIC/images/iStock_000003120476XSmall.jpg)
+    3:
+      identifier: sentence from picture 4
+      rubric: |+
+        speak refinery
+
+        [speak refinery/](https://www.examenglish.com/TOEIC/images/iStock_000004418549XSmall.jpg)
+    4:
+      identifier: sentence from picture 5
+      rubric: |+
+        salesman hand
+
+        [salesman hand](https://www.examenglish.com/TOEIC/images/iStock_000003120476XSmall.jpg)
+response:
+  essay:
+    0:
+      identifier: respond to written request 1
+      rubric: |+
+        Directions to testees: Read the email.
+ 
+        | From: George Pinkney
+        | To: Social Committee members
+        | Subject: Meeting
+        | Sent: April 12, 20--
+
+        It is time for a meeting of the Social Committee. We
+        need to start planning the annual year-end party. I
+        would like all members of the committee to meet next
+        Friday morning from 9 to 11 in Conference Room A.
+        Please let know as soon as possible if you are
+        available to attend this meeting.
+
+        | Thank you.
+        | George Pinkney
+        | Social Committee Chair
+
+        Directions to testees: Respond to the email. Respond
+        as if you are a member of the Social Committee. In your
+        email to Pinkney, explain ONE problem and make TWO
+        suggestions.
+    1:
+      identifier: respond to written request 2
+      rubric: |+
+        Directions to testees: Read the email.
+ 
+        | From: Journal of Business News
+        | To: Business professionals
+        | Subject: Subscribe
+        | Sent: December 2, 20--
+
+        Dear Business Professional,
+
+        The *Journal of Business News* brings you all the latest
+        about important developments in the international business
+        world. It is read by thousands of businesspeople just like
+        you in over 40 countries around the world. Subscribe today
+        and receive a 30% discount off the regular price.
+
+        Directions to testees: Respond to the email. Respond
+        as if you are a businessperson interested in subscribing
+        to the _Journal of Business News_. In your email, ask
+        THREE questions.
 
         
     
