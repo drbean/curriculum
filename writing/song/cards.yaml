@@ -1,4 +1,5 @@
 ---
+# 398a847610e51e8714c9dbe5c2e8f4dc68c6246a6e3f4361850a37a2b08d0233
 homework:
   essay:
     0:
@@ -11,131 +12,166 @@ identify:
       quiz:
         - question: Learning Chinese through children's songs
           option:
-            - T.A.
-            - Ting
-            - Emily
-            - Zoe
-            - Paul
-            - MengZi
-            - Lisa
-            - Nina
             - Christina
+            - Emily
+            - Lisa
+            - MengZi
+            - Nina
+            - Paul
+            - T.A.
             - Teresa
-          answer: 
+            - Ting
+            - Zoe
+          answer: Ting
         - question: a powerful song full of vitality about a sad story
           option:
-            - T.A.
-            - Ting
-            - Emily
-            - Zoe
-            - Paul
-            - MengZi
-            - Lisa
-            - Nina
             - Christina
+            - Emily
+            - Lisa
+            - MengZi
+            - Nina
+            - Paul
+            - T.A.
             - Teresa
-          answer: 
+            - Ting
+            - Zoe
+          answer: Emily
         - question: a lazy song's lyrics describes writer's feelings exactly
           option:
-            - T.A.
-            - Ting
-            - Emily
-            - Zoe
-            - Paul
-            - MengZi
-            - Lisa
-            - Nina
             - Christina
+            - Emily
+            - Lisa
+            - MengZi
+            - Nina
+            - Paul
+            - T.A.
             - Teresa
-          answer: 
+            - Ting
+            - Zoe
+          answer: Zoe
         - question: a song in Japanese by a Taiwanese band
           option:
-            - T.A.
-            - Ting
-            - Emily
-            - Zoe
-            - Paul
-            - MengZi
-            - Lisa
-            - Nina
             - Christina
+            - Emily
+            - Lisa
+            - MengZi
+            - Nina
+            - Paul
+            - T.A.
             - Teresa
-          answer: 
+            - Ting
+            - Zoe
+          answer: Paul
         - question: a song best known in a cover version by a famous singer
           option:
-            - T.A.
-            - Ting
-            - Emily
-            - Zoe
-            - Paul
-            - MengZi
-            - Lisa
-            - Nina
             - Christina
+            - Emily
+            - Lisa
+            - MengZi
+            - Nina
+            - Paul
+            - T.A.
             - Teresa
-          answer: 
+            - Ting
+            - Zoe
+          answer: MengZi
         - question: songs are entertaining, relaxing and good for language learners
           option:
-            - T.A.
-            - Ting
-            - Emily
-            - Zoe
-            - Paul
-            - MengZi
-            - Lisa
-            - Nina
             - Christina
+            - Emily
+            - Lisa
+            - MengZi
+            - Nina
+            - Paul
+            - T.A.
             - Teresa
-          answer: 
+            - Ting
+            - Zoe
+          answer: Lisa
         - question: a K-pop group
           option:
-            - T.A.
-            - Ting
-            - Emily
-            - Zoe
-            - Paul
-            - MengZi
-            - Lisa
-            - Nina
             - Christina
+            - Emily
+            - Lisa
+            - MengZi
+            - Nina
+            - Paul
+            - T.A.
             - Teresa
-          answer: 
+            - Ting
+            - Zoe
+          answer: T.A.
         - question: songs are universal, but also a good entry point into an individual culture
           option:
-            - T.A.
-            - Ting
-            - Emily
-            - Zoe
-            - Paul
-            - MengZi
-            - Lisa
-            - Nina
             - Christina
+            - Emily
+            - Lisa
+            - MengZi
+            - Nina
+            - Paul
+            - T.A.
             - Teresa
-          answer: 
-        - question: a popular song by a Taiwanese artist covered by foreign singers
+            - Ting
+            - Zoe
+          answer: Nina
+        - question: a popular song by a present-day Taiwanese artist covered by foreign singers
           option:
-            - T.A.
-            - Ting
-            - Emily
-            - Zoe
-            - Paul
-            - MengZi
-            - Lisa
-            - Nina
             - Christina
+            - Emily
+            - Lisa
+            - MengZi
+            - Nina
+            - Paul
+            - T.A.
             - Teresa
-          answer: 
+            - Ting
+            - Zoe
+          answer: Christina
         - question: a song with replaceable lyrics to learn different vocabulary items
           option:
-            - T.A.
-            - Ting
-            - Emily
-            - Zoe
-            - Paul
-            - MengZi
-            - Lisa
-            - Nina
             - Christina
+            - Emily
+            - Lisa
+            - MengZi
+            - Nina
+            - Paul
+            - T.A.
             - Teresa
-          answer: 
+            - Ting
+            - Zoe
+          answer: Teresa
+slide:
+  essay:
+    0:
+      identifier: 
+      rubric: |+
+        ## presentation slide
+
+        Say what you wrote for homework. But don't read it.
+
+        ( If you didn't do the homework, think of something to say about songs.)
+
+        Keep it simple, stupid (KISS)
+        - [KISS_principle](https://en.wikipedia.org/wiki/KISS_principle)
+
+        On the slide, write 3 or 4 words like titles for the parts of what you will say
+link:
+  essay:
+    0:
+      identifier: novel, movie, song links
+      rubric: |+
+        Please post links for novel, movie, song material you want to use in the midterm exam on Tuesday.
+
+        I have posted a good one about using songs to teach English (or Chinese).
+essay:
+  essay:
+    0:
+      identifier: songs and singers
+      rubric: |+
+        Be critical about songs and singers. Say what the good things are. Say what the *bad* things are.
+
+        Don't just copy and paste from Wikipedia. Use your own words to say what you read, but use expressions like "According to the 'Jay Chou' article on Wikipedia" to show where your information comes from.
+
+        Say what you think.
+        
+    
