@@ -6,7 +6,7 @@ grade:
       rubric: |+
         Course grade ≠ TOEIC score
     
-question:
+part:
   jigsaw:
     0:
       identifier: question identification
