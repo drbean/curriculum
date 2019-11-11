@@ -88,6 +88,32 @@ Put your hand up.
 
 Or, get a student at the front to put his/her hand up while the activity is still going on.
 
+## When you don't understand what page of the book an exercise is about
+
+You should say:
+
+What page is this [exercise [on]]?
+
+## When you don't understand what the right answer is
+
+You should say:
+
+What is the answer [to this [exercise]]?
+
+## When you think your answer is not wrong, but moodle says it is wrong
+
+You should say:
+
+What is wrong with this answer? It looks OK to me.
+
+## Seek and you shall find
+
+Seek and you shall find. Ask and it will be given to you. (Matthew 7:7)
+
+It's *not* the idea that you're not supposed to speak to the teacher.
+
+It *is* the idea that you *are* supposed to speak to the teacher.
+
 # The 8 characteristics of good business communication (8 C's)
 
 ## Clear
