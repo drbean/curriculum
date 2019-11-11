@@ -109,7 +109,7 @@
     story : purpose
     type  : jigsaw
     form  : 0
-    intro : Taiwanese student's purpose
+    intro : purpose of Taiwanese student
     random: 
   -
     topic : audience
@@ -125,8 +125,17 @@
     form  : 0
     intro : presentation focus
     random: 
-  
-  
+
+# tone
+
+  -
+    topic : tone
+    story : advice
+    type  : jigsaw
+    form  : direct
+    intro : directness and tone
+    random: 
+
 # strategy
 
   -
@@ -188,4 +197,3 @@
     form  : 1
     intro : match process and thoughts
     random: 
-  
