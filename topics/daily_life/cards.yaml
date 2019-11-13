@@ -446,6 +446,16 @@ thing:
       treat                : 享受美食
       pill                 : 丸
       get a haircut        : 剪頭髮
+  1:
+    flash:
+      journey  : 旅程
+      healthy  : 健康
+      magazine : 雜誌
+      tear     : 撕裂
+      allow    : 允許
+      pet      : 寵物
+      package  : 包
+      message  : 信息
 should:
   0:
     flash:
