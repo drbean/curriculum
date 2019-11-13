@@ -152,6 +152,16 @@ sky:
       - the stars shine at night                  _星光閃耀，晚上_
 
 sea:
+  0:
+    flash:
+      octopus   : 章魚
+      squid     : 烏賊
+      starfish  : 海星
+      crab      : 螃蟹
+      ocean     : 海洋
+      salt      : 鹽  
+      net       : 捕魚網  
+      fisherman : 漁民
   bingo:
     - octopus squid starfish crab ocean salt net fisherman boat wait deep spider bones head arms legs swim scared waves throw ride fish jump in_the_dark
 flower:
