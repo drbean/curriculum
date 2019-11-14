@@ -5,6 +5,56 @@
 
 # Trying to do something, seeing how it goes, writing about it
 
+## Do something!
+
+Do it. Write about it.
+
+1. plan/intention to do something
+2. do it
+3. write about it
+
+## 1. intention to do something
+
+It's getting cold, but I don't want to pull out my futon yet.
+
+I like to air the bedclothes, but the futon is too heavy to hang up.
+
+I will try covering up with some old sheets which I can hang up.
+
+## 2. do it
+
+I fold up the sheets and attach them to a clothes hanger, which I attach to the bed
+so that I don't kick off the sheets while I'm sleeping.
+
+## 3. did it work
+
+I'm sleeping OK. But I'm waking up early, although my feet are not cold.
+
+## 4. evaluating folded-up sheets
+
+I won't be able to do this much longer as it is getting colder.
+
+However, I think this was a successful experiment
+
+Note: an unsuccessful experiment makes for more interesting reading. It's *good* to make a mistake.
+
+# Students doing the same thing
+
+## Naming
+
+Let's call the plan (or intention) section the *Introduction*
+
+Let's call the doing-it section the *Method*
+
+Let's call what happened (when we did it) section the *Results*
+
+Let's call the evaluating-the-experience section the *Discussion*
+
+## Introduction, Method, Results, Discussion? IMRAD!
+
+- [IMRAD](http://en.wikipedia.org/wiki/IMRAD)
+
+
 ## Deciding if someone is trying to do something.
 
 	- Look for the words, "want", "success", "challenge".
@@ -171,7 +221,9 @@ Questions   |   |   |   |
 
 ## Charlie Parker opinion survey
 
-https://www.youtube.com/watch?v=NcTrx0hL1ag
+- [bebop icon Charlie Parker ](https://www.youtube.com/watch?v=NcTrx0hL1ag)
+
+## Charlie Parker opinion survey content
 
 For what to write in the 4 sections, see the example music survey, p 44,45 of the textbook.
 
