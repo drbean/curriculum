@@ -74,6 +74,17 @@ etiquette:
           answer: False
         - question: It is best to send it as quickly as possible when you still feel what you said is right.
           answer: False
+online:
+  essay:
+    0:
+      identifier: relationships online
+      rubric: |+
+        Write 20~50 words about communicating with someone you only know online.
+
+        * Who is the Internet person?
+        * Where (on what site) did you interact?
+        * When did you communicate?
+        * What did you talk about?
 subject:
   jigsaw:
     0:
