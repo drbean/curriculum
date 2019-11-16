@@ -274,4 +274,117 @@ street:
       identifier: Question 3. Describe a picture
       rubric: |+
          In this part of the test, you will describe the picture on your screen in as much detail as you can . You will have 30 seconds to prepare your response . Then you will have 45 seconds to speak about the picture. Record by clicking the Microphone button in the editor, or attach a sound file, by clicking the Video Camera button in the box to the left. Submit after choosing a good title for the reading (use keywords from the picture!)
-    
+error:
+  jigsaw:
+    0:
+      identifier: the problem with the sentence
+      quiz:
+        - question: The worker speak on the cellphone around the refinery.
+          option:
+            - no problem (=3)
+            - grammar error (=2)
+            - more than one sentence (=2)
+            - has only one or none of the keywords (=1)
+            - hard to understand (=1)
+            - not consistent with the picture (=1)
+          answer: "grammar error (=2)"
+        - question: I saw the man speaking on his phone in front of the refinery.
+          option:
+            - no problem (=3)
+            - grammar error (=2)
+            - more than one sentence (=2)
+            - has only one or none of the keywords (=1)
+            - hard to understand (=1)
+            - not consistent with the picture (=1)
+          answer: not consistent with the picture (=1)
+        - question: There is a man speaking on the phone in front of the refinery.
+          option:
+            - no problem (=3)
+            - grammar error (=2)
+            - more than one sentence (=2)
+            - has only one or none of the keywords (=1)
+            - hard to understand (=1)
+            - not consistent with the picture (=1)
+          answer: no problem (=3)
+        - question: The worker seems to have just got off work, because he is facing the construction site.
+          option:
+            - no problem (=3)
+            - grammar error (=2)
+            - more than one sentence (=2)
+            - has only one or none of the keywords (=1)
+            - hard to understand (=1)
+            - not consistent with the picture (=1)
+          answer: has only one or none of the keywords (=1)
+        - question: He hits my arm with his hard hat
+          option:
+            - no problem (=3)
+            - grammar error (=2)
+            - more than one sentence (=2)
+            - has only one or none of the keywords (=1)
+            - hard to understand (=1)
+            - not consistent with the picture (=1)
+          answer: not consistent with the picture (=1)
+        - question: The man wearing a suit carries a hard hat with his arm.
+          option:
+            - no problem (=3)
+            - grammar error (=2)
+            - more than one sentence (=2)
+            - has only one or none of the keywords (=1)
+            - hard to understand (=1)
+            - not consistent with the picture (=1)
+          answer: grammar error (=2)
+        - question: The man is clearing the way to let him drive his car away.
+          option:
+            - no problem (=3)
+            - grammar error (=2)
+            - more than one sentence (=2)
+            - has only one or none of the keywords (=1)
+            - hard to understand (=1)
+            - not consistent with the picture (=1)
+          answer: no problem (=3)
+        - question: It was a heavy snow day. A man was clearing away snow next to his car.
+          option:
+            - no problem (=3)
+            - grammar error (=2)
+            - more than one sentence (=2)
+            - has only one or none of the keywords (=1)
+            - hard to understand (=1)
+            - not consistent with the picture (=1)
+          answer: more than one sentence (=2)
+        - question: I think the man shovels the snow  near his car so he can go out.
+          option:
+            - no problem (=3)
+            - grammar error (=2)
+            - more than one sentence (=2)
+            - has only one or none of the keywords (=1)
+            - hard to understand (=1)
+            - not consistent with the picture (=1)
+          answer: has only one or none of the keywords (=1)
+        - question: This breakfast includes croissant and there is jam next to it.
+          option:
+            - no problem (=3)
+            - grammar error (=2)
+            - more than one sentence (=2)
+            - has only one or none of the keywords (=1)
+            - hard to understand (=1)
+            - not consistent with the picture (=1)
+          answer: grammar error (=2)
+        - question: Today, I ate a croissant and drank coffee for breakfast.
+          option:
+            - no problem (=3)
+            - grammar error (=2)
+            - more than one sentence (=2)
+            - has only one or none of the keywords (=1)
+            - hard to understand (=1)
+            - not consistent with the picture (=1)
+          answer: not consistent with the picture (=1)
+        - question: Maybe this is a breakfast meal. On the desk are a croissant and honey beside the bread.
+          option:
+            - no problem (=3)
+            - grammar error (=2)
+            - more than one sentence (=2)
+            - has only one or none of the keywords (=1)
+            - hard to understand (=1)
+            - not consistent with the picture (=1)
+          answer: more than one sentence (=2)
+        
