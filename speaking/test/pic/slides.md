@@ -53,9 +53,11 @@ You don't need to add, "in the picture," to many sentences, but it is OK to do i
 
 ## Referring to self
 
+Using "I" talking about a picture is _not recommended._
+
 The answer most expected by raters will not use "I"
 
-If you do say, "I see" (NOT: "I saw") 
+If you do use, "I see" (NOT: "I saw") 
 
 then you can say, "I can't see what she is holding."
 
