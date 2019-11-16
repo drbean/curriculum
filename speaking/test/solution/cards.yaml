@@ -44,7 +44,7 @@ news:
 passport:
   essay:
     0:
-      identifier: 
+      identifier: "Question 10: Propose a solution"
       rubric: |+
         In this part of the test, you will be presented with a problem and asked to propose a solution . You will have 30 seconds to prepare . *Or is 45 seconds preparation time provided???* Then you will have 60 seconds to speak.
 
@@ -57,5 +57,113 @@ passport:
         - propose a way of dealing with the problem.
 
           Now listen to the voice message
-                  
-              
+request:
+  jigsaw:
+    0:
+      identifier: request or advice expressions
+      quiz:
+        - question: "Would you mind doing this?"
+          option:
+            - request
+            - advice
+          answer: request
+        - question: You'd better do this.
+          option:
+            - request
+            - advice
+          answer: advice
+        - question: You should do this.
+          option:
+            - request
+            - advice
+          answer: advice
+        - question: I'm afraid I'm going to have to ask you to do this.
+          option:
+            - request
+            - advice
+          answer: request
+        - question: You're going to have to do this.
+          option:
+            - request
+            - advice
+          answer: request
+        - question: If I were you, I would do this.
+          option:
+            - request
+            - advice
+          answer: advice
+        - question: Why don't you do this?
+          option:
+            - request
+            - advice
+          answer: advice
+example:
+  jigsaw:
+    0:
+      identifier: advice and request examples
+      quiz:
+        - question: In the case of the lost bankcard, the responder asks Marsha Symons to come to the bank.
+          option:
+            - request
+            - advice
+          answer: request
+        - question: In the case of the lost bankcard, the responder suggests Marsha Symons use another (or a friend's) bank card.
+          option:
+            - request
+            - advice
+          answer: advice
+        - question: "In the case of the lost bankcard, the responder tells Marsha Symons the bank closes at 3:30, so she needs to keep that in mind."
+          option:
+            - request
+            - advice
+          answer: advice
+        - question: In the case of the lost bankcard, the responder tells Marsha Symons how to get her card back.
+          option:
+            - request
+            - advice
+          answer: advice
+        - question: In the case of the lost bankcard, the responder gets Marsha Symons's bank card number from her.
+          option:
+            - request
+            - advice
+          answer: request
+        - question: In the case of the lost bankcard, the responder says Marsha Symons needs to think about making time at work to come to the bank, even though she is busy.
+          option:
+            - request
+            - advice
+          answer: advice
+        - question: In the case of the undelivered books, the responder asks for the order number and the name of the books.
+          option:
+            - request
+            - advice
+          answer: request
+        - question: In the case of the undelivered books, the responder asks the caller to call another number.
+          option:
+            - request
+            - advice
+          answer: request
+        - question: In the case of the undelivered books, the responder says the caller needs to be patient.
+          option:
+            - request
+            - advice
+          answer: advice
+        - question: In the case of the undelivered books, the responder suggests borrowing the books from a library (or a friend) until they arrive.
+          option:
+            - request
+            - advice
+          answer: advice
+        - question: In the case of the undelivered books, the responder says there are special procedures the caller should follow to get the books.
+          option:
+            - request
+            - advice
+          answer: advice
+        - question: In the case of the undelivered books, the responder says the caller can check with the post office.
+          option:
+            - request
+            - advice
+          answer: advice
+        - question: In the case of the undelivered books, the responder gets the caller's name and telephone number from him.
+          option:
+            - request
+            - advice
+          answer: request
