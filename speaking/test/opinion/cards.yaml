@@ -13,19 +13,19 @@ donation:
 job:
   jigsaw:
     0:
-      identifier: opinion--speaking or writing 1
+      identifier: job opinion--speaking or writing 1
       quiz:
-        - question: "a low-wage job with lots of vacation time" is in the Speaking test.
-          answer: 
-        - question: "a low-wage job with lots of vacation time" is in the Writing test.
-          answer: 
+        - question: "'a low-wage job with lots of vacation time' is in the Speaking test."
+          answer: True
+        - question: "'a low-wage job with lots of vacation time' is in the Writing test."
+          answer: False
     1:
-      identifier: opinion--speaking or writing 2
+      identifier: job opinion--speaking or writing 2
       quiz:
-        - question: "the best way to find a job" is in the Speaking test.
-          answer: 
-        - question: "the best way to find a job" is in the Writing test.
-          answer: 
+        - question: "'the best way to find a job' is in the Speaking test."
+          answer: False
+        - question: "'the best way to find a job' is in the Writing test."
+          answer: True
         
         
     
