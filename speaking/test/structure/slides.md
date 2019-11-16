@@ -93,3 +93,8 @@ I will give extra credit for posts
 ## GEPT
 
 - [https://www.gept.org.tw/](https://www.gept.org.tw/)
+
+## Vietnamese guy practices with model test
+
+- [https://www.youtube.com/watch?v=DoW23pTPYcM](https://www.youtube.com/watch?v=DoW23pTPYcM)
+
