@@ -66,7 +66,7 @@ You shouldn't have to pay
 
 5. the opinion you agree with
 
-	"I think .."
+	"But, I think .."
 
 You should have to pay
 
@@ -98,3 +98,38 @@ Despite the advantages of a high earning job, I prefer doing work that makes me 
 3. But
 
 Some people like living alone; but, I like living with my family.
+
+## Summary of how to express opinions
+
+1. keywords/key points: "This question is about .."
+2. some facts about the situation: "Some facts about the situation are .."
+3. the opposite opinion you disagree with: "Some people think .."
+4. reasons for and against that opinion: "They say .."
+5. the opinion you agree with: "But, I think .."
+6. reasons for and against that opinion: "I think this because .."
+
+# Court case role play to practice for Speaking Question 11, Writing Question 8
+
+## Court set up
+
+- *Lawyer 1* says yes
+- *Lawyer 2* says no
+
+Judge agrees with Lawyer 1 or Lawyer 2 and gives *reasons*.
+
+## low-wage job with lots of vacation time
+
+- *A* says low-wage job with lots of vacation time is *good*.
+- *B* says high-salary job with not much vacation time is *good*.
+
+*C* agrees with either A or B. And gives reasons.
+
+## Job search--newspaper (bulletin board) ads, web sites, personal recommendations
+
+Discuss and choose 2 of the 3 job search methods: Method 1 and Method 2
+
+- *B* says Method 1 is *good*.
+- *C* says Method 2 is *good*.
+
+*A* agrees with either A or B. And gives reasons.
+
