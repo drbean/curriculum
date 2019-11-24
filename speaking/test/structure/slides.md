@@ -94,9 +94,21 @@ I will give extra credit for posts
 
 - [https://www.gept.org.tw/](https://www.gept.org.tw/)
 
+# models of testing behavior
+
 ## Vietnamese guy practices with model test
 
 Toeic speaking actual test #2-2019
 
 - [https://www.youtube.com/watch?v=DoW23pTPYcM](https://www.youtube.com/watch?v=DoW23pTPYcM)
+
+# language
+
+## hesitation markers, speech fillers
+
+- [speech disfluency](http://en.wikipedia.org/wiki/speech_disfluency)
+- [filler (linguistics) ](https://en.wikipedia.org/wiki/Filler_(linguistics))
+- [um](https://en.wiktionary.org/wiki/um)
+- [er](https://en.wiktionary.org/wiki/er)
+- [let me see](https://en.wiktionary.org/wiki/let_me_see)
 
