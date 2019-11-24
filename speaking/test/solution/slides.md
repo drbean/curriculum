@@ -181,6 +181,25 @@ You can use "Please", or "should"
 	"If we can't [do some helpful thing for you],
 	we won't be able to .."
 
+## [Full Speaking toeic test 01 | Practice Speaking toeic test with Answers ](https://www.youtube.com/watch?v=I-49s5HgVGo)
+
+	Hello, this is Sam Webster. I'm calling about some 
+	books I ordered from your company recently. When I 
+	placed the order, I was told that the books would 
+	arrive within five business days. But now, two weeks 
+	have passed and the books still haven't arrived.
+
+	I need them for a class I'm taking, which begins 
+	next Monday. I will definitely need the books by 
+	then. And I was hoping to have them before then, so 
+	I could have a chance to start reading before the 
+	class begins.
+
+	Is there some way I can find out where the package 
+	with my books is? And how soon it will arrive?
+
+	Thank you.
+
 
 ## The official example 1
 
