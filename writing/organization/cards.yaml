@@ -81,6 +81,9 @@ essay:
     2:
       identifier: week 9 writing in class
       questiontext: 2 long essays, one about a novel or movie and the other about songs or singers.
+    3:
+      identifier: week 12 writing in class
+      questiontext: 2 long essays, one about Taiwan or some aspect of Taiwan and the other about an idol and/or one's ideas about idols
   essay:
     0:
       identifier: essay writing guide
