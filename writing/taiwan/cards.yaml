@@ -1,0 +1,28 @@
+---
+# genre: writing/reading
+
+homework:
+  essay:
+    0:
+      identifier: "Homework: Taiwan"
+      rubric: |+
+        What do you want to say about Taiwan?
+
+        Divide up your 50~60 words into a number of different topics, eg, geography, people, politics, food.:w
+essay:
+  essay:
+    0:
+      identifier: Taiwan or an aspect/feature of Taiwan
+      rubric: |+
+        Use the content you find online about Taiwan, but don't just copy and paste.
+
+        I want to hear what you think, but I also want information from sources. You need to restate what you read in your own words (otherwise it is plagiarism)! And you need to express your own opinion.
+
+        Be warned: I CAN TELL IF SENTENCES HAVE BEEN COPIED FROM THE INTERNET!
+
+        Use headings, for example, in an essay about the Taiwan military:
+
+        * The effects of the Chinese Civil War on Taiwan
+        * Taiwan military purchases from the US
+        * Conscription
+    
