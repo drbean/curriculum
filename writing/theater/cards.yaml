@@ -1,0 +1,28 @@
+---
+# genre: reading
+
+theater:
+  jigsaw:
+    0:
+      identifier: questions
+      quiz:
+        - question: Many different kinds of literature can be used.
+          answer: True
+        - question: The students have to remember the lines they read
+          answer: False
+        - question: Students can read altogether to practice.
+          answer: True
+        - question: "The expression 'The show must go on!' means: Do not make mistakes."
+          answer: False
+essay:
+  essay:
+    0:
+      identifier: a novel or movie
+      rubric: |+
+        Use the content you find online about a novel or movie, but don't just copy and paste.
+
+        I want to hear what you think, but I also want information from sources. You need to restate what you read in your own words (otherwise it is plagiarism)! And you need to express your own opinion.
+
+        Be warned: I CAN TELL IF SENTENCES HAVE BEEN COPIED FROM THE INTERNET!
+        
+    
