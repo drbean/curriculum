@@ -1,0 +1,27 @@
+---
+#genre: writing
+intro:
+  essay:
+    0:
+      identifier: "Homework: idol"
+      rubric: |+
+        What do you want to say about an idol?
+
+        Divide up your 50~60 words into:
+
+        * Who is the idol and what do/did they (he or she) do?
+        * What is the effect on you?
+
+        If you don't have an idol, say why having an idol is a good or bad thing.
+essay:
+  essay:
+    0:
+      identifier: idols
+      rubric: |+
+        Be critical about your idol and idols in general. Say what the good things are. Say what the *bad* things are.
+
+        Don't just copy and paste from Wikipedia. Use your own words to say what you read, but use expressions like "According to the 'Lin Yoga' article on Wikipedia" to show where your information comes from.
+
+        Say what you think.
+        
+    
