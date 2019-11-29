@@ -167,3 +167,38 @@ example:
             - request
             - advice
           answer: request
+mind:
+  jigsaw:
+    0:
+      identifier: mind or afraid?
+      quiz:
+        - question: "You want to ask someone for their name. You say:"
+          option:
+            - Would you mind giving me your name?
+            - I'm afraid I'm going to have to ask you to give me your name.
+          answer: Would you mind giving me your name?
+        - question: "You want to ask someone to give you a call. You say:"
+          option:
+            - Would you mind giving me a call?
+            - I'm afraid I'm going to have to ask you to give me a call.
+          answer: Would you mind giving me a call?
+        - question: "You want to ask someone to tell you his/her secret password. You say:"
+          option:
+            - Would you mind telling me your secret password?
+            - I'm afraid I'm going to have to ask you to tell me your secret password.
+          answer: I'm afraid I'm going to have to ask you to tell me your secret password.
+        - question: "You want to ask someone to tell you the name of the book he/she ordered. You say:"
+          option:
+            - Would you mind telling me the name of the book you ordered?
+            - I'm afraid I'm going to have to ask you to tell me the name of the book you ordered.
+          answer: Would you mind telling me the name of the book you ordered?
+        - question: "You want to ask someone to give you his/her credit card number. You say:"
+          option:
+            - Would you mind giving me your credit card number?
+            - I'm afraid I'm going to have to ask you to give me your credit card number.
+          answer: Would you mind giving me your credit card number?
+        - question: "You want to ask someone to come in person to pick up his/her bank card. You say:"
+          option:
+            - Would you mind coming in person to pick up your bank card?
+            - I'm afraid I'm going to have to ask you to come in person to pick up your bank card.
+          answer: I'm afraid I'm going to have to ask you to come in person to pick up your bank card.
