@@ -1,4 +1,55 @@
 genre: writing
+
+experiment:
+  essay:
+    life:
+      identifier: "Homework: do something and write about it!"
+      rubric: |+
+        BEFORE doing it: a plan, an intention to try to do something
+
+        WHILE doing it: an achievement: success or failure
+
+        AFTER doing it: writing about it, evaluating it
+
+        KISS: Keep it simple, stupid
+        [Wikipedia KISS link](http://en.wikipedia.org/wiki/KISS_principle)
+        
+        Dr Bean's example: using old sheets as bedclothes
+
+        Food is a good topic. Does adding milk to orange juice taste good? Try it!
+
+        Include 4 headings:
+
+        * Introduction: the plan and other ideas
+        * Method: What you did/are going to do
+        * Results: What happened when you did it
+        * Discussion: Evaluation, what you think
+    update:
+      identifier: slides for UPDATE about what happened/is happening next
+      rubric: |+
+        What has happened since you finished trying out your idea?
+
+        How is life different now?
+
+        Slides with 3 headings for a report to the class updating it on your experiment.
+        
+    academic:
+      identifier: "Homework: something academic you tried"
+      rubric: |+
+        Write about something you tried out at school in connection with studying this semester/this week.
+
+        Did you try doing the homework earlier? Or did you try leaving it to the last minute?
+
+        Did you try going to the library?
+
+        Did you try to interact with the teachers? Or did you try avoiding the teachers.
+
+        Did you try not to sleep in class? Or did you try sleeping in class.
+
+        Or write about learning/teaching language!
+
+        Write about it in [IMRAD](http://en.wikipedia.org/wiki/IMRAD) style.
+
 story:
   jigsaw:
     money:
