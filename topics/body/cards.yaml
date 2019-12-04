@@ -1,5 +1,16 @@
 ---
 genre: topics
+health:
+  0:
+    flash:
+      muscle   : 肌肉
+      skin     : 皮膚
+      kick     : 踢
+      toe      : 腳趾
+      wrap     : 包裹
+      blood    : 血液
+      cough    : 咳嗽
+      patient  : 患者
 hair:
   0:
     flash:
