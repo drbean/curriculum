@@ -5,10 +5,51 @@ transaction:
     0:
       identifier: transaction question description
       questiontext: The following questions are about transactions
+purchase:
+  essay:
+    0:
+      identifier: "Homework: routine business transaction process dialog"
+      rubric: |+
+        Write a dialog like Dr Bean's watermelon buying one that includes the Introduction/promotion, Inquiry, Offer/quotation and Order stages
+
+        Identify the 3 stages, like this:
+
+        *  Seller: Watermelon! Buy this watermelon! (Promotion/introduction)
+        *  Buyer: How much is the watermelon? (Inquiry)
+        *  Seller: It's 15NT per kilogram (Offer/quotation)
+        *  Buyer: Give me this one. (Order)
+
+
+        NO PLAGIARISM!
+    1:
+      identifier: "Homework: Introduction, Inquiry, Offer, Order--your story"
+      rubric: |+
+        Write a story about when you bought something. 
+
+        Divide it into 4 lines with the headings: Introduction/promotion, Inquiry, Offer, Order.
+
+        For example:
+
+        ## Introduction/promotion
+
+        I saw a sign advertising shoes.
+
+        ## Inquiry
+
+        I asked if they had jogging shoes, and they showed me some shoes, which I liked. I asked how much they cost.
+
+        ## Offer
+
+        They said the jogging shoes were 200 NT.
+
+        ## Order
+
+        I said, OK, and bought them.
+    
 routine:
   jigsaw:
     0:
-      identifier: order of transaction
+      identifier: order of transaction (the missing words on p 45)
       quiz:
         - question: products
           option:
