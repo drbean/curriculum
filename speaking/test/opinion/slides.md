@@ -133,3 +133,98 @@ Discuss and choose 2 of the 3 job search methods: Method 1 and Method 2
 
 *A* agrees with either A or B. And gives reasons.
 
+# putting in a long time in order to make a good decision 0
+
+## video links
+
+- [[#05 토익스피킹 모범답변] - Model response for TOEIC SPEAKING Actual Test (#05) - 2019.11.18](https://www.youtube.com/watch?v=-XqDD3hE7hM)
+
+
+## putting in a long time in order to make a good decision 0
+
+
+agree
+make
+order
+people
+put
+should
+
+I _____(1) that _____(2) _____(3) _____(4) in a long time in _____(5) to _____(6) a good decision.
+
+## putting in a long time in order to make a good decision 1
+
+my
+opinion
+reasons
+several
+support
+there's
+
+_____(7) _____(8) _____(9) to _____(10) _____(11) _____(12).
+
+## putting in a long time in order to make a good decision 2
+
+all
+decision
+helpful
+it
+make
+most
+
+_____(13) of _____(14) _____(15) is very _____(16) to _____(17) a good _____(18).
+
+## putting in a long time in order to make a good decision 3
+
+
+electronic_store
+example
+laptop_computer
+models
+old
+wanted
+
+For _____(19) two years ago, I _____(20) to buy a _____(21). My old computer was too _____(22) and slow. So I went to a big _____(23) near my house. But there were too many _____(24) And I didn't know what to choose. So I came back home and visited some online web sites.
+
+## putting in a long time in order to make a good decision 4
+
+
+compared
+effort
+information
+regret
+research
+reviews
+
+There were many _____(25) and there was lots of _____(26) online. I _____(27) many things, such as size, weight, and so on.
+
+It took lots of time and _____(28) but I did my _____(29) and after two months I was able to buy a nice computer, and I don't _____(30) it.
+
+## putting in a long time in order to make a good decision 0
+
+
+and
+is
+so
+that
+think
+why
+
+_____(31) _____(32) _____(33) _____(34) I _____(35) _____(36).
+
+## pronunciation
+
+decision decisive
+
+loss lose lost
+
+consequence
+
+choose choice
+
+advance advantage disadvantage
+
+superficial surface
+
+short
+
