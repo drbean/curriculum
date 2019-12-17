@@ -33,6 +33,13 @@ experiment:
 
         Slides with 3 headings for a report to the class updating it on your experiment.
         
+    slide:
+      identifier: slides for presentation about academic research
+      rubric: |+
+        Keywords that could be part of IMRAD essay next week.
+
+        The headings next week will be Introduction, Method, Results, Discussion, but not for this presentation
+        
     academic:
       identifier: "Homework: something academic you tried"
       rubric: |+
@@ -49,6 +56,16 @@ experiment:
         Or write about learning/teaching language!
 
         Write about it in [IMRAD](http://en.wikipedia.org/wiki/IMRAD) style.
+    question:
+      identifier: "2 questions for your attempt to do something"
+      rubric: |+
+        Express in words what question you hoped your action would accomplish
+
+        Dr Bean wanted to try out going to the students to talk one-on-one. What questions should he have asked himself?
+    studentquiz:
+      identifier: "questions for students about your action research"
+      rubric: |+
+        Did the others read your essay? Ask comprehension questions to see if they understood.
 
 story:
   jigsaw:
@@ -131,6 +148,78 @@ story:
             - a one-time event
             - a recurring situation
           answer: a recurring situation
+    1:
+      identifier: NUU student study
+      quiz:
+        - question: Mike
+          option:
+            - a one-time event
+            - a recurring situation
+          answer: a one-time event
+        - question: Lisa
+          option:
+            - a one-time event
+            - a recurring situation
+          answer: a recurring situation
+        - question: Myron
+          option:
+            - a one-time event
+            - a recurring situation
+          answer: a recurring situation
+        - question: MengZi
+          option:
+            - a one-time event
+            - a recurring situation
+          answer: a one-time event
+        - question: Zoe
+          option:
+            - a one-time event
+            - a recurring situation
+          answer: a one-time event
+        - question: Jackson
+          option:
+            - a one-time event
+            - a recurring situation
+          answer: a one-time event
+        - question: Harry
+          option:
+            - a one-time event
+            - a recurring situation
+          answer: a recurring situation
+        - question: Emily
+          option:
+            - a one-time event
+            - a recurring situation
+          answer: a one-time event
+        - question: Ting
+          option:
+            - a one-time event
+            - a recurring situation
+          answer: a recurring situation
+        - question: TA
+          option:
+            - a one-time event
+            - a recurring situation
+          answer: a one-time event
+        - question: Christina
+          option:
+            - a one-time event
+            - a recurring situation
+          answer: a recurring situation
+        - question: Nina
+          option:
+            - a one-time event
+            - a recurring situation
+          answer: a recurring situation
+        - question: Dr Bean
+          option:
+            - a one-time event
+            - a recurring situation
+          answer: a recurring situation
+        
+        
+        
+        
 goal:
   jigsaw:
     0:
