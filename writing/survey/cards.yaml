@@ -1,0 +1,22 @@
+---
+
+# genre: writing
+
+actionresearch:
+  essay:
+    0:
+      identifier: survey_on_moodle_forum
+      rubric: |+
+        Think of a burning issue. Write 2 questions to ask other members of the class their opinion.
+
+        A good issue is the one you wrote about in Week 15, trying something out in or out of school. What do the others think of your experience? Then answer the questions posted by the others.
+
+        Each time you write an answer your grade goes up by 1 point for a maximum of 9.
+    1:
+      identifier: one-on-one,teacher_to_student.question_for_survey_on_moodle_forum
+      rubric: |+
+        1. How important is it that the teacher talk to individual students in the class, rather than to the whole class or groups?
+
+        2. How can the teacher talk one-on-one, because there are so many students in the class?
+    
+    
