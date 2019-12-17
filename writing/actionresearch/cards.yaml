@@ -1,5 +1,34 @@
 genre: writing
 
+essay:
+  essay:
+    0:
+      identifier: daily life action research
+      rubric: |+
+        Act like a researcher examining your own action trying to make some change, trying something out, with the drink experiment, or other experiment in your life.
+
+        I want to see the 4 headings:
+
+        * Introduction
+        * Method
+        * Results
+        * Discussion
+
+        In the _Introduction_ section, write 2 questions that you hoped your action research would answer. In the _Discussion_ section, analyze whether you were able to answer those 2 questions.
+    1:
+      identifier: academic life action research
+      rubric: |+
+        Take the position of a researcher examining your own action trying to make some change, trying something out, with your attempt to manage time, or curb smartphone use, or other experiment in or out of school.
+
+        I want to see the 4 headings:
+
+        * Introduction
+        * Method
+        * Results
+        * Discussion
+
+        In the _Introduction_ section, write 2 questions that you hoped your action research the week before last would answer. In the _Discussion_ section, analyze whether you were able to answer those 2 questions.
+    
 experiment:
   essay:
     life:
