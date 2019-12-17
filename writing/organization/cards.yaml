@@ -84,6 +84,9 @@ essay:
     3:
       identifier: week 12 writing in class
       questiontext: 2 long essays, one about Taiwan or some aspect of Taiwan and the other about an idol and/or one's ideas about idols
+    4:
+      identifier: week 15 writing in class
+      questiontext: 2 long essays about action research, one about daily life and the other about academic life
   essay:
     0:
       identifier: essay writing guide
