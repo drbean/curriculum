@@ -60,6 +60,38 @@ Let's call the evaluating-the-experience section the *Discussion*
 	- Look for the words, "want", "success", "challenge".
 	- Look for difficulties mentioned.
 
+# Topics for academic action research
+
+## Relationships with people
+
+* Friends
+* Teacher/student
+
+## Time
+
+* Time, lack of
+* Time, pressure
+
+## Homework
+
+* Schedule planning
+
+## Outside normal NUU confines
+
+* Non-formal education
+* Extra-curricular activities
+* Work-study student
+
+## Smartphone in class
+
+* Good
+* Bad
+* Ugly
+
+## Use of privileges
+
+* Applying for day off
+
 # Writing notes in preparation for food experiment.
 
 ## questions
@@ -148,7 +180,7 @@ Introduction: What do you want to find out from the people you will interview? W
 
 ## Role of questions
 
-- [Narratives in science education](http://web.nuu.edu.tw/~greg/actionresearch/nature_science.doc)
+- [Narratives in science education](http://web.nuu.edu.tw/~greg/writing/actionresearch/nature_science.doc)
 
 ## fodder
 
