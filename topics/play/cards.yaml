@@ -81,7 +81,18 @@ equipment:
     - use bodies play hula-hoop hooping dance name hard_grass plastic
     - you playing hula_hoop want try how jump_rope like have new use good find
 game:
+  0:
+    flash:
+      chess         : 棋
+      checkers      : 跳棋
+      jacks         : 傑克骨頭
+      marbles       : 彈珠
+      cards         : 牌
+      win           : 贏得
+      lose          : 輸掉比賽
+      cheats        : 作弊
   bingo:
+    - chess checkers jacks marbles cards win lose cheats
     - chess checkers jacks marbles cards win lose cheats race play raining stay_inside piece boring rocks animal_bones throw pick_up
     - hula-hoop slide swing seesaw jump_rope playground sand scratch Jennifer get dirty fun go how did you knee girls school play let's
     - swimming_pool playground zoo aquarium cries gets_hurt sad falls scared ghost monster flashlight storm lightning goldfish cage parrot feed shark lion oolar_bear
