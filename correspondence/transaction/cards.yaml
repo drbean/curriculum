@@ -45,6 +45,8 @@ purchase:
         ## Order
 
         I said, OK, and bought them.
+
+        ## You *must* have the 4 headings.
     
 routine:
   jigsaw:
@@ -267,7 +269,7 @@ definition:
           - a firm order
           - a definite request for something
     1:
-      identifier: 
+      identifier: second 10 definition matches
       pair:
         -
           - value for money
