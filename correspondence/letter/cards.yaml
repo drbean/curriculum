@@ -2170,9 +2170,9 @@ correction:
             - I am now pleased to inform you that we have appointed an excellent candidate, Dianna Verhart.
           answer: I am now pleased to inform you that we have appointed an excellent candidate, Dianna Verhart.
         - question: diana has worked in marketing for over eighteen years and I am sure that she will be a valuable member of team
-          option:
+          answer:
             - Diana has worked in marketing for over eighteen years and I am sure that she will be a valuable member of our team.
-          answer: Diana has worked in marketing for over eighteen years and I am sure that she will be a valuable member of our team.
+            - Diana has worked in marketing for over eighteen years, and I am sure that she will be a valuable member of our team\.
         - question: I like to invite you a short lunchtime reception in conference room 2 next Tuesday 5 February where you will have chance to meet dianna on an informal basis.
           option:
             - I would like to invite you to a short lunchtime reception in Conference Room 2 next Tuesday 5 February, where you will have a chance to meet Dianna on an informal basis.
@@ -2862,3 +2862,116 @@ page:
             - 25
             - 26
           answer: 26
+han:
+  jigsaw:
+    0:
+      identifier: 函 and business letter matching
+      quiz:
+        - question: |+
+            教育部 函
+            機關地址：100台北市中正區中山南路5號
+            傳真：02-23976800
+            聯絡人：莊惠慈
+            聯絡電話：02-7736xxxx
+          option:
+            - body
+            - complimentary close
+            - date
+            - inside address
+            - letterhead
+            - salutation
+            - signature
+            - subject
+          answer: letterhead
+        - question: 受文者：國立聯合大學
+          option:
+            - body
+            - complimentary close
+            - date
+            - inside address
+            - letterhead
+            - salutation
+            - signature
+            - subject
+          answer: inside address
+        - question: 發文日期：中華民國104年6月7日
+          option:
+            - body
+            - complimentary close
+            - date
+            - inside address
+            - letterhead
+            - salutation
+            - signature
+            - subject
+          answer: date
+        - question: 主旨：為瞭解各大學校院國際化辦理情形，惠請填報「大學校院國際化調查表」，並於106年7月30日前備文報部，請 查照。
+          option:
+            - letterhead
+            - date
+            - inside address
+            - salutation
+            - subject
+            - body
+            - complimentary close
+            - signature
+          answer: subject
+        - question: |+
+            說明：
+            1、 旨揭調查表電子檔請逕至「教育部全球資訊網－單位介紹－高等教育司－重要政策－大學國際化專區」項下下載。
+            2、 請參酌範例確實填報各表資料(如無相關資訊亦請填「無」，請勿空白回傳)，並先將已填報完成之表格電子檔回傳至以下電子郵件信箱。
+          option:
+            - body
+            - complimentary close
+            - date
+            - inside address
+            - letterhead
+            - salutation
+            - signature
+            - subject
+          answer: body
+missing:
+  jigsaw:
+    0:
+      identifier: in business letter but not in 函 
+      quiz:
+        - question: body
+          option:
+            - in business letter, but not in 函
+            - in both 函 and business letter
+          answer: in both 函 and business letter
+        - question: complimentary close
+          option:
+            - in business letter, but not in 函
+            - in both 函 and business letter
+          answer: in business letter, but not in 函
+        - question: date
+          option:
+            - in business letter, but not in 函
+            - in both 函 and business letter
+          answer: in both 函 and business letter
+        - question: inside address
+          option:
+            - in business letter, but not in 函
+            - in both 函 and business letter
+          answer: in business letter, but not in 函
+        - question: letterhead
+          option:
+            - in business letter, but not in 函
+            - in both 函 and business letter
+          answer: in both 函 and business letter
+        - question: salutation
+          option:
+            - in business letter, but not in 函
+            - in both 函 and business letter
+          answer: in business letter, but not in 函
+        - question: signature
+          option:
+            - in business letter, but not in 函
+            - in both 函 and business letter
+          answer: in business letter, but not in 函
+        - question: subject
+          option:
+            - in business letter, but not in 函
+            - in both 函 and business letter
+          answer: in both 函 and business letter
