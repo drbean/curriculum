@@ -320,12 +320,17 @@ proposal:
         - I look forward to cooperating with you on this project.
   drag:
     0:
+      identifier: cosmetic proposal scramble
+      sentences:
+        -
+          sentence: I have enclosed the proposal for "Healthy Now," the skin care product which your company plans to market in Taiwan.
+          clozed: I|have|enclosed|the|proposal|for|"Healthy|the|skin|care|product|which|your|company|plans|to|market|in|End
+    1:
       identifier: cosmetic catalogue scramble
       sentences:
         -
           sentence: I have attached the catalogue for "Sephora," the skin care product brand which we market in Taiwan.
           clozed: I|have|attached|the|for|the|skin|care|product|which|we|market|in|End
-         
   jigsaw:
     0:
       identifier: proposal para 1
@@ -357,6 +362,22 @@ proposal:
           option:
            - I look forward to cooperating with you on this project.
           answer: I look forward to cooperating with you on this project.
+    4:
+      identifier: 1_of_3_next_proposal_sentences
+      quiz:
+        - question: Paragraph 2, sentence 1
+          option:
+           - If you like our general approach, I would be happy to discuss the details with you at your convenience.
+          answer: If you like our general approach, I would be happy to discuss the details with you at your convenience.
+        - question: Paragraph 2, sentence 2
+          option:
+           - In any case, I will give you a call within a couple of days to ensure that you have received the proposal.
+          answer: In any case, I will give you a call within a couple of days to ensure that you have received the proposal.
+        - question: Paragraph 3
+          option:
+           - I look forward to cooperating with you on this project.
+          answer: I look forward to cooperating with you on this project.
+        
     relationship:
       identifier: 2 companies' relationship
       quiz:
@@ -523,6 +544,64 @@ grammar:
             - subject
             - verb
           answer: adverbial
+    1:
+      identifier: making_sentences_like_p38
+      quiz:
+        - question: |+
+            1. 'We' are doing something.
+
+            What? 'Plan'.
+
+            Planning what? 'A conference'.
+            
+            Who, what, when, where, why--When? 'Next month'.
+
+            Who, what, when, where, why--Where? 'NUU'. Use the preposition 'at'.
+          answer:
+            - We are planning a conference next month at NUU.
+          incorrect:
+            -
+              error: ^(?!We are planning.*)
+              feedback: Use the words, "We are planning"
+            -
+              error: ^(?!.*a conference.*)
+              feedback: Use the words, "a conference"
+            -
+              error: ^(?!.*next month.*)
+              feedback: Use the words, "next month"
+            -
+              error: ^(?!.*at NUU.*)
+              feedback: Use the words, "at NUU"
+        - question: |+
+            2. 'I' have done something.
+
+            What? 'Attach'.
+
+            Attach what? 'Our proposal'.
+
+            'For' Who, what, when, where, why--What? 'The conference'.
+
+            Who, what, when, where, why--When? 'Next month'.
+
+            Who, what, when, where, why--Where? 'NUU'. Use the preposition 'at'.
+          answer:
+            - I have attached our proposal for the conference next month at NUU.
+          incorrect:
+            -
+              error: ^(?!I have attached.*)
+              feedback: Use the words, "I have attached"
+            -
+              error: ^(?!.*our proposal.*)
+              feedback: Use the words, "our proposal"
+            -
+              error: ^(?!.*for the conference.*)
+              feedback: Use the words, "for the conference"
+            -
+              error: ^(?!.*next month.*)
+              feedback: Use the words, "next month"
+            -
+              error: ^(?!.*at NUU\..*)
+              feedback: Use the words, "at NUU."
 acknowledge:
   match:
     0:
