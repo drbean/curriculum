@@ -5,6 +5,139 @@ promotion:
     0:
       identifier: promotion question description
       questiontext: The following questions are about promotion/introductions
+supplier:
+  essay:
+    0:
+      identifier: supplier_to_your_seller
+      rubric: |+
+        ## Supplier's promotion/introduction targetting your seller
+
+        Last time, you wrote about a purchase you made. Now imagine a supplier had contacted the company/person which sold you the thing you bought. Like this--
+
+        Supplier -> Seller -> You
+
+        Imagine the supplier wanted to supply them with the thing you bought.
+
+        Follow the structure in the book on p47 and the example on p48, but keep it short. Like this--
+
+                We saw your address in X and wanted to know 
+                if you are interested in Y (=doing something).
+
+                We are a large Z company in A and have been 
+                doing business for 50 years.
+
+                Our B product is very popular, and C (=some 
+                other things).
+
+                Please do not hesitate to contact us if you
+                are interested. We are ready to send samples
+                and catalogues on your reply.
+
+                You can contact us through our website, (=http://D)
+                and our email address is E@F.
+
+                Looking forward to hearing from you.
+
+        You can copy and paste my example and just need to substitute for the Z~F symbols and (parenthesized comments.)
+
+        ## No need for headers or the parts of a business letter.
+
+
+
+    
+structure:
+  jigsaw:
+    0:
+      identifier: introduction_structure_keywords
+      quiz:
+        - question: the reader's company
+          option:
+            - step 1a. how the writer found out about the other's company 
+            - step 1b. propose the 2 companies do some business (what business? ie what does the writer wants to sell?)
+            - step 2. description of the writer's company
+            - step 3. selling points of the writer's product
+            - step 4. call to action
+          answer: step 1a. how the writer found out about the other's company 
+        - question: 'would you be interested in ..'
+          option:
+            - step 1a. how the writer found out about the other's company
+            - step 1b. propose the 2 companies do some business (what business? ie what does the writer wants to sell?)
+            - step 2. description of the writer's company
+            - step 3. selling points of the writer's product
+            - step 4. call to action
+          answer: step 1b. propose the 2 companies do some business (what business? ie what does the writer wants to sell?)
+        - question: 'We are a long-established ..'
+          option:
+            - step 1a. how the writer found out about the other's company
+            - step 1b. propose the 2 companies do some business (what business? ie what does the writer wants to sell?)
+            - step 2. description of the writer's company
+            - step 3. selling points of the writer's product
+            - step 4. call to action
+          answer: step 2. description of the writer's company
+        - question: 'Our patented kishebab stick ..'
+          option:
+            - step 1a. how the writer found out about the other's company
+            - step 1b. propose the 2 companies do some business (what business? ie what does the writer wants to sell?)
+            - step 2. description of the writer's company
+            - step 3. selling points of the writer's product
+            - step 4. call to action
+          answer: step 3. selling points of the writer's product
+        - question: 'We can send you ..'
+          option:
+            - step 1a. how the writer found out about the other's company
+            - step 1b. propose the 2 companies do some business (what business? ie what does the writer wants to sell?)
+            - step 2. description of the writer's company
+            - step 3. selling points of the writer's product
+            - step 4. call to action
+          answer: step 4. call to action
+        - question: 'Please contact ..'
+          option:
+            - step 1a. how the writer found out about the other's company
+            - step 1b. propose the 2 companies do some business (what business? ie what does the writer wants to sell?)
+            - step 2. description of the writer's company
+            - step 3. selling points of the writer's product
+            - step 4. call to action
+          answer: step 4. call to action
+        - question: 'We saw your ..'
+          option:
+            - step 1a. how the writer found out about the other's company
+            - step 1b. propose the 2 companies do some business (what business? ie what does the writer wants to sell?)
+            - step 2. description of the writer's company
+            - step 3. selling points of the writer's product
+            - step 4. call to action
+          answer: step 1a. how the writer found out about the other's company
+        - question: 'We suggest establishing a relationship in ..'
+          option:
+            - step 1a. how the writer found out about the other's company
+            - step 1b. propose the 2 companies do some business (what business? ie what does the writer wants to sell?)
+            - step 2. description of the writer's company
+            - step 3. selling points of the writer's product
+            - step 4. call to action
+          answer: step 1b. propose the 2 companies do some business (what business? ie what does the writer wants to sell?)
+        - question: 'We manufacture many kinds of food products.'
+          option:
+            - step 1a. how the writer found out about the other's company
+            - step 1b. propose the 2 companies do some business (what business? ie what does the writer wants to sell?)
+            - step 2. description of the writer's company
+            - step 3. selling points of the writer's product
+            - step 4. call to action
+          answer: step 2. description of the writer's company
+        - question: 'This product is very popular.'
+          option:
+            - step 1a. how the writer found out about the other's company
+            - step 1b. propose the 2 companies do some business (what business? ie what does the writer wants to sell?)
+            - step 2. description of the writer's company
+            - step 3. selling points of the writer's product
+            - step 4. call to action
+          answer: step 3. selling points of the writer's product
+        - question: 'Please do not hesitate to ..'
+          option:
+            - step 1a. how the writer found out about the other's company
+            - step 1b. propose the 2 companies do some business (what business? ie what does the writer wants to sell?)
+            - step 2. description of the writer's company
+            - step 3. selling points of the writer's product
+            - step 4. call to action
+          answer: step 4. call to action
 lollipop:
   jigsaw:
     0:
