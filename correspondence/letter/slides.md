@@ -101,6 +101,13 @@ Include:
 - [https://ws.moe.edu.tw/001/Upload/7/relfile/0/1495/3278ed48-601a-4ea8-8dac-517b1a548a49.pdf](https://ws.moe.edu.tw/001/Upload/7/relfile/0/1495/3278ed48-601a-4ea8-8dac-517b1a548a49.pdf)
 for English name, position]
 
+
+## Internet examples of "U.S. education department letter"
+
+- [Gooogle "U.S. education department letter"](http://www.google.com/search?q=%22U.S.+education+department+letter%22&num=100&gws_rd=ssl&tbm=isch&tbo=u&source=univ&sa=X)
+- [Gooogle "education department letter"](http://www.google.com/search?q=%22education+department+letter%22&num=100&gws_rd=ssl&tbm=isch&tbo=u&source=univ&sa=X)
+
+
 ## 8 Cs
 
 Write down one or two words (or a sentence) identifying the characteristic (or a lack of the characteristic) this way:
