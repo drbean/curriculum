@@ -106,6 +106,8 @@ You should say:
 
 What is wrong with this answer? It looks OK to me.
 
+Can I try it again?
+
 ## Seek and you shall find
 
 Seek and you shall find. Ask and it will be given to you. (Matthew 7:7)
