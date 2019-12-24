@@ -18,5 +18,45 @@ actionresearch:
         1. How important is it that the teacher talk to individual students in the class, rather than to the whole class or groups?
 
         2. How can the teacher talk one-on-one, because there are so many students in the class?
-    
+    2:
+      identifier: classwork survey
+      rubric: |+
+        Write one question with 2 alternatives, eg
+
+        How does this music make you feel--
+
+        * Boring or so-so
+        * Exciting, great
+
+        Students will choose one alternative.
+    3:
+      identifier: classwork survey question
+      rubric: |+
+        The teacher *must* do one-on-one with students.
+
+        * Yes
+        * No
+    4:
+      identifier: response to Dr Bean one-on-one question
+      rubric: |+
+        Every student in the survey homework agreed one-on-one is necessary
+commitment:
+  essay:
+    0:
+      identifier: real response vs manipulated response
+      rubric: |+
+        You will commit to a guess at (a) what students really believe, like--
+
+        * 50% 1st alternative
+        * 50% 2nd alternative
+
+        You will commit to trying to get them to answer in a (b) certain other way, a way that is different than (a)
+
+        * 90% 1st alternative
+        * 10% 2nd alternative
+
+        Write your question and 2 answers, and
+
+        * (a) the percentage supporting each answer
+        * (b) the percentage you want to get supporting each answer while keeping your manipulation secret
     
