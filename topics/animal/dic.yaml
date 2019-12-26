@@ -24,11 +24,11 @@
   - "all"
   - |+
 
-    G: Look at the polar bears!
+    A: Look at the polar bears!
     B: Yeah, they're playing in the water. Which animals do you like the best?
-    G: I like monkeys. They are cute. What about you?
+    A: I like monkeys. They are cute. What about you?
     B: I like lions.
-    G: I don't like lions. They have big claws and teeth. They roar a lot, too.
+    A: I don't like lions. They have big claws and teeth. They roar a lot, too.
     B: Oh, well, that's why I like them.
   - Look at the|Yeah, they're|in the|Which|do you|the|I like|They are|What about you|I like|like lions|They have big|and teeth|They|a lot, too|Oh, well, that's why I|them|End
 -
