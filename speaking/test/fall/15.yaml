@@ -1,0 +1,40 @@
+---
+
+# information
+
+#-
+#  -
+#    topic : information
+#    story : itinerary
+#    type  : jigsaw
+#    form  : 0
+#    intro : San_Antonio
+#    random: 
+#
+#-
+#  -
+#    topic : information
+#    story : itinerary
+#    type  : jigsaw
+#    form  : 1
+#    intro : Chicago
+#    random: 
+#
+#-
+#  -
+#    topic : information
+#    story : itinerary
+#    type  : jigsaw
+#    form  : 2
+#    intro : itinerary
+#    random: 
+
+-
+  -
+    topic : information
+    story : itinerary
+    type  : jigsaw
+    form  : 3
+    intro : problem
+    random: 
+
