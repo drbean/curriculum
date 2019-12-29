@@ -912,16 +912,16 @@ kendall:
       sentences:
         -
           sentence: We are an up-and-coming business, making fresh soups in a paper container.
-          clozed: We|are|an|business|making|fresh|soups|in|a|paper|container|End
+          clozed: We|are|an|business|fresh|soups|in|a|paper|container|End
         -
           sentence: Our soups are sold by major supermarkets around Taiwan.
-          clozed: Our|soups|are|sold|by|major|supermarkets|around|Taiwan|End
+          clozed: Our|soups|are|sold|by|major|supermarkets|around|End
         -
           sentence: Our selling-point is the taste, which is unrivaled by canned soups.
-          clozed: Our|is|the|taste|which|is|by|canned|soups|End
+          clozed: Our|is|the|taste|is|by|canned|soups|End
         -
           sentence: Our range of soups is constantly changing, depending on the season and the popularity of each soup.
-          clozed: Our|range|of|soups|is|changing|depending|on|the|and|the|of|each|soup|End
+          clozed: Our|range|of|soups|is|changing|on|the|and|the|of|each|soup|End
   match:
     0:
       identifier: kendall structure match
