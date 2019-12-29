@@ -41,10 +41,45 @@ supplier:
         You can copy and paste my example and just need to substitute for the Z~F symbols and (parenthesized comments.)
 
         ## No need for headers or the parts of a business letter.
-
-
-
-    
+  jigsaw:
+    0:
+      identifier: good, specific address source 
+      quiz:
+        - question: The address reference more helpful to the supplier looking for feedback about its marketing strategy
+          option:
+            - We saw your address in advertisement this morning on FB
+            - We saw your address on Facebook
+          answer: We saw your address in advertisement this morning on FB
+        - question: The address reference more helpful to the supplier looking for feedback about its marketing strategy
+          option:
+            - We saw your address in Taiwan
+            - We saw your address in your Facebook page
+          answer: We saw your address in your Facebook page
+        - question: The address reference more helpful to the supplier looking for feedback about its marketing strategy
+          option:
+            - We saw your address in Business Weekly
+            - We saw your address in a blog
+          answer: We saw your address in Business Weekly
+        - question: The address reference more helpful to the supplier looking for feedback about its marketing strategy
+          option:
+            - We saw your address on a website
+            - We saw your address in TV advertisements
+          answer: We saw your address in TV advertisements
+        - question: The address reference more helpful to the supplier looking for feedback about its marketing strategy
+          option:
+            - We saw your address in a magazine advertisement
+            - We saw your address on your website
+          answer: We saw your address on your website
+        - question: The address reference more helpful to the supplier looking for feedback about its marketing strategy
+          option:
+            - We saw your address on your website
+            - We saw your address on a website
+          answer: We saw your address on your website
+        - question: The address reference more helpful to the supplier looking for feedback about its marketing strategy
+          option:
+            - We saw your address in an online advertisement
+            - We saw your address in an advertisement on Youtube
+          answer: We saw your address in an advertisement on Youtube
 structure:
   jigsaw:
     0:
@@ -470,6 +505,19 @@ raspberry:
         -
           sentence: We believe this is an excellent opportunity to give every child in Taiwan their own computer.
           clozed: We|believe|this|is|an|excellent|opportunity|to|give|every|child|in|Taiwan|their|own|computer|End
+    1:
+      identifier: raspberry pi contact source
+      sentences:
+        -
+          sentence: From a visit to your website last week, we understand that you are a large distributor of computers in Taiwan.
+          clozed: From|a|visit|to|your|website|last|week|we|understand|that|you|are|a|large|distributor|of|computers|in|Taiwan|End
+    2:
+      identifier: raspberry pi call to action
+      sentences:
+        -
+          sentence: Please do not hesitate to get in touch with us.
+          clozed: Please|do|not|hesitate|to|get|in|touch|with|us|End
+        
   match:
     0:
       identifier: raspberry structure
@@ -1015,6 +1063,16 @@ backpack:
     0:
       identifier: backpack developer, marketer relationship
       quiz:
+        - question: The reader
+          option:
+            - Ms Chen
+            - Mr Wang
+          answer: Mr Wang
+        - question: The writer
+          option:
+            - Ms Chen
+            - Mr Wang
+          answer: Ms Chen
         - question: An important customer
           option:
             - Ms Chen
