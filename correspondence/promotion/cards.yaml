@@ -1138,6 +1138,50 @@ backpack:
             - Ms Chen
             - Mr Wang
           answer: Ms Chen
+    1:
+      identifier: backpack questions
+      quiz:
+        - question: What is the special offer?
+          option:
+            - an exciting backpack for Mr Wang
+            - a discount on large orders
+          answer: a discount on large orders
+        - question: How many times has Ms Chen's company contacted Mr Wang's before?
+          option:
+            - 0
+            - 1
+            - more than 1
+          answer: more than 1
+        - question: Why is Ms Chen contacting Mr Wang?
+          option:
+            - to answer an inquiry
+            - to make an inquiry
+            - to make an order
+            - to promote a product
+          answer: to promote a product
+        - question: What is Ms Chen promoting?
+          option:
+            - A brochure
+            - An important customer
+            - Her backpack
+            - Her company
+            - Mr Wang
+            - The Australian market
+          answer: Her backpack
+        - question: What are the selling points of the product?
+          option:
+            - Developed for the Australian market
+            - Exciting
+            - Contoured shoulder straps
+            - A brochure
+          answer: Contoured shoulder straps
+        - question: What is something Mr Wang could NOT possible do after reading the letter?
+          option:
+            - Delete the email
+            - Order the backpack
+            - Inquire about the pack
+            - Promote the backpack to Ms Chen
+          answer: Promote the backpack to Ms Chen
   drag:
     0:
       identifier: backpack match drag
