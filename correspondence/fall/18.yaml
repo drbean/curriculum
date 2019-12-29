@@ -1,0 +1,87 @@
+---
+
+-
+
+# letter
+
+# curiel
+
+# email
+
+#-
+#  -
+#    topic : email
+#    story : 
+#    type  : 
+#    form  : 
+#    intro : 
+#    random: 
+
+# transaction
+
+  -
+    topic : transaction
+    story : college
+    type  : jigsaw
+    form  : 0
+    intro : school choice--a transaction by student, school
+    random: 1
+
+  -
+    topic : transaction
+    story : college
+    type  : match
+    form  : 0
+    intro : a bad student, school choice--the process
+    random: 
+
+  -
+    topic : transaction
+    story : definition
+    type  : jigsaw
+    form  : 2
+    intro : 4 transaction step contents
+    random: 
+
+# promotion
+
+  -
+    topic : promotion
+    story : raspberry
+    type  : drag
+    form  : 1
+    intro : raspberry pi contact
+    random: 
+  
+  -
+    topic : promotion
+    story : raspberry
+    type  : drag
+    form  : 2
+    intro : raspberry pi call to action
+    random: 
+  
+  -
+    topic : promotion
+    story : kendall
+    type  : match
+    form  : 0
+    intro : soup company promotion 4 steps 
+    random: 
+
+  -
+    topic : promotion
+    story : kendall
+    type  : match
+    form  : 1
+    intro : soup company promotion order
+    random: 
+  
+  -
+    topic : promotion
+    story : kendall
+    type  : drag
+    form  : 0
+    intro : soup company scramble
+    random: 
+  
