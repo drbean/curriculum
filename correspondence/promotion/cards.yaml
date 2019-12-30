@@ -906,7 +906,7 @@ kendall:
 
         I want you to make a quiz question for the other students about the introduction from the Taiwan soup company.
     
-        Write a sentence as the question. Make the options:
+        Write a sentence from the email the Taiwan company sent the Japanese company as the question. Make the options:
 
         - step 1a. source of reader's email address
         - step 1b. aim of message
@@ -1041,6 +1041,49 @@ kendall:
             - No additives
             - Wide variety of tastes
           answer: No additives
+    2:
+      identifier: Taiwan soup company introduction steps
+      quiz:
+        - question: If you are interested in our products, please don't hesitate to get in touch.
+          option:
+            - step 1a. source of reader's email address
+            - step 1b. aim of message
+            - step 2. description of the soup company
+            - step 3. selling points of the fresh soup in a carton, not a can
+            - step 4. call to action
+          answer: step 4. call to action
+        - question: We offer the widest range of delicious soups, so there’s always something to look forward to.
+          option:
+            - step 1a. source of reader's email address
+            - step 1b. aim of message
+            - step 2. description of the soup company
+            - step 3. selling points of the fresh soup in a carton, not a can
+            - step 4. call to action
+          answer: step 3. selling points of the fresh soup in a carton, not a can
+        - question: We are a new company selling fresh soup in a carton. 
+          option:
+            - step 1a. source of reader's email address
+            - step 1b. aim of message
+            - step 2. description of the soup company
+            - step 3. selling points of the fresh soup in a carton, not a can
+            - step 4. call to action
+          answer: step 2. description of the soup company
+        - question: The purpose of this message is to introduce the soup.
+          option:
+            - step 1a. source of reader's email address
+            - step 1b. aim of message
+            - step 2. description of the soup company
+            - step 3. selling points of the fresh soup in a carton, not a can
+            - step 4. call to action
+          answer: step 1b. aim of message
+        - question: We saw from your website that you are a large distributor of Taiwan food products in Japan.
+          option:
+            - step 1a. source of reader's email address
+            - step 1b. aim of message
+            - step 2. description of the soup company
+            - step 3. selling points of the fresh soup in a carton, not a can
+            - step 4. call to action
+          answer: step 1a. source of reader's email address
 
 difference:
   jigsaw:
