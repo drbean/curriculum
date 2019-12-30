@@ -52,7 +52,7 @@
     form  : 1
     intro : raspberry pi contact
     random: 
-  
+
   -
     topic : promotion
     story : raspberry
@@ -60,7 +60,7 @@
     form  : 2
     intro : raspberry pi call to action
     random: 
-  
+
   -
     topic : promotion
     story : kendall
@@ -76,7 +76,7 @@
     form  : 1
     intro : soup company promotion order
     random: 
-  
+
   -
     topic : promotion
     story : kendall
@@ -84,4 +84,4 @@
     form  : 0
     intro : soup company scramble
     random: 
-  
+
