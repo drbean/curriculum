@@ -898,6 +898,26 @@ golf:
         
 
 kendall:
+  essay:
+    0:
+      identifier: fresh soup promotion/introduction
+      rubric: |+
+        In the exam I will ask you to unscramble an introduction a Taiwan soup maker sent to a disctributor of Taiwan food products in Japan about its fresh soups in a carton, seeking their distribution in Japan.
+
+        I want you to make a quiz question for the other students about the introduction from the Taiwan soup company.
+    
+        Write a sentence as the question. Make the options:
+
+        - step 1a. source of reader's email address
+        - step 1b. aim of message
+        - step 2. description of the soup company
+        - step 3. selling points of the fresh soup in a carton, not a can
+        - step 4. call to action
+        
+        Then do the quizzes of the other students.
+
+        The students with most points get 3. Students with few points get 2. Students with no points get 0.
+
   scramble:
     0:
       identifier: kendall's covent garden soup
@@ -1148,7 +1168,7 @@ backpack:
           answer: a discount on large orders
         - question: How many times has Ms Chen's company contacted Mr Wang's before?
           option:
-            - 0
+            - zero
             - 1
             - more than 1
           answer: more than 1
@@ -1170,12 +1190,12 @@ backpack:
           answer: Her backpack
         - question: What are the selling points of the product?
           option:
-            - Developed for the Australian market
+            - The Australian market
             - Exciting
             - Contoured shoulder straps
             - A brochure
           answer: Contoured shoulder straps
-        - question: What is something Mr Wang could NOT possible do after reading the letter?
+        - question: What is something Mr Wang could NOT possibly do after reading the letter?
           option:
             - Delete the email
             - Order the backpack
