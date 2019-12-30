@@ -916,8 +916,6 @@ kendall:
         
         Then do the quizzes of the other students.
 
-        The students with most points get 3. Students with few points get 2. Students with no points get 0.
-
   scramble:
     0:
       identifier: kendall's covent garden soup
