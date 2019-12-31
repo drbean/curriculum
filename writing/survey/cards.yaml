@@ -59,4 +59,21 @@ commitment:
 
         * (a) the percentage supporting each answer
         * (b) the percentage you want to get supporting each answer while keeping your manipulation secret
+bias:
+  essay:
+    0:
+      identifier: biased_survey_experiment
+      rubric: |+
+        Write down the question you are asking and will write about in Week 18.
+
+        The other students have to choose which type of bias you are putting in your questioning. They will choose the type after seeing you ask some students your question and listening to the students' responses.
+
+        Make the options they can choose:
+
+        - non-response bias
+        - acquiescence bias
+        - desirability bias
+        - demand characteristics
+        - observer-expectancy effect
+    
     
