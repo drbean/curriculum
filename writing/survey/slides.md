@@ -5,7 +5,7 @@
 
 # Survey
 
-## class survey activity
+## class survey activity 1
 
 You will ask students to answer your survey question with 2 answers.
 
@@ -21,11 +21,34 @@ You will commit to trying to get them to answer in a (b) certain other way, a wa
 
 You will try to keep secret (avoid letting them guess) what your (a) and (b) commitments are.
 
+## class survey activity 2
+
+We will model (pretend) to carry out a survey.
+You will ask a _sample_ of students to answer your survey question, the question that you are going to write about in Week 18.
+
+You will act in such a way that there is bias in the responses. You can ask another member of your group to act as an accomplice.
+
+The other students have to guess which of the 4 biases you have put into your survey.
+
+* sampling bias
+* acquiescence bias
+* desirability bias
+
+* demand characteristics
+
+* observer-expectancy effect
+
+Try to make it not so clear that it is easy to guess, but clear enough to show there is a right answer.
+
+Students will debate which type of bias is being exhibited.
+
 # Survey bias
 
 ## Types
 
 - [https://help.surveygizmo.com/help/survey-bias ](https://help.surveygizmo.com/help/survey-bias)
+- [http://web.nuu.edu.tw/~greg/writing/survey/bias.html ](http://web.nuu.edu.tw/~greg/writing/survey/bias.html)
+
 
 ## Observer-expectancy effect
 
@@ -40,15 +63,56 @@ In medicine:
 - [double-blind study](https://en.wikipedia.org/wiki/Blinded_experiment)
 - [- placebo](https://www.youtube.com/watch?v=66DtnikQkgI)
 
+## Sampling bias
+
+* sample: the people you ask
+* population: all the people you are interested in 
+
+The sample is supposed to _represent_ the population 
+
+But it may be difficult to get a representative sample.
+
+You ask a sample of the population your question, but the sample is not completely representative
+
+You call up people on their phones and ask them whether they support Korean Fish or Vegetable English, but older people are less likely to have phones and so their views will be _under-represented._
+
+## Non-Response bias
+
+Some (a lot of) people don't answer your questions. Perhaps those people have different ideas.
+
+You ask people who they support, Korean Fish or Vegetable English, but many don't answer.
+
+Perhaps they don't want to tell you they support Vegetable English, because Miaoli is not a DPP area.
+
 ## Response bias
+
+People respond, but their answers are not accurate. They are not revealing the truth about themselves.
 
 ### Acquiescence bias
 
-In general, people want to be agreeable. Often, survey respondents will tell you what you want to hear.
-
 ### Desirability bias
 
+### Demand characteristics
+
+## Acquiescence bias
+
+In general, people want to be agreeable. Often, survey respondents will tell you what you want to hear.
+
+You say, "I'm doing a survey for Korean Fish." They say, "Yes, Korean Fish is OK." But they're just saying it to please you.
+
+## Desirability bias
+
 Survey respondents want to admit to desirable characteristics and deny undesirable characteristics.
+
+People know most people in Taiwan are opposed to mainland China. They don't want to appear to support mainland China, so they also say they are opposed to mainland China, when you ask them. But they in fact support unification with China. They just don't say it.
+ 
+## Demand characteristics.
+
+The survey causes people to think about things in ways they haven't thought of before, and they come up with new answers that may surprise even them.
+
+Dr Bean remembers being asked as a freshman in a survey the subjects that he liked in high school and he was surprised to place English at the top of the list, because he had never liked English in high school.
+
+People asked to choose between Vegetable English and Korean Fish have to make a choice. Perhaps they have never thought about them before. This experience may change the way they think about the two.
 
 ## Avoiding response bias
 
@@ -58,6 +122,8 @@ To avoid response bias:
 *  Make sure your answer options are not leading
 *  Make your survey anonymous
 *  Keep your affiliation secret as this can tip off your respondents on how you wish for them to answer
+
+# Possible biases at work in responses to "Homework: A burning question: what do the others think?"
 
 # Taiwan/US political surveys
 
@@ -106,7 +172,7 @@ Let's put 'The questions you will ask' in the *Method*
 
 Let's put 'The answers they gave' in the *Results*
 
-Let's put 'What it all means for the burning issue' in the *Discussion*
+Let's put 'What it all means for the burning issue' in the *Discussion*. Discuss possible sources of bias in your survey.
 
 ## Introduction, Method, Results, Discussion? IMRAD!
 
