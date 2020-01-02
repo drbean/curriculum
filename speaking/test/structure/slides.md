@@ -112,3 +112,58 @@ Toeic speaking actual test #2-2019
 - [er](https://en.wiktionary.org/wiki/er)
 - [let me see](https://en.wiktionary.org/wiki/let_me_see)
 
+# notes
+
+## words
+
+### pronunciation
+
+write wrote written
+
+favorite
+
+### meaning
+
+confusing/confused
+
+record/recording (noun)
+
+We need to use imagination and information to create complete sentences in the test, so the more information we can write means the more complete sentences we can *tell* in the test.
+
+. . .
+
+tell *someone* *something* eg 
+
+* 'Can you tell me the time?', or
+* 'I told her I loved her.'
+
+say *some sentence* to *someone*
+
+* I said, "No," when she asked.
+
+speak (= utter words), eg
+
+* 'Teachers speak too much and the students don't speak enough.'
+
+talk
+
+ask
+
+## words for speech acts
+
+tell *someone* *something* eg 
+
+* 'Can you tell me the time?', or
+* 'I told her I loved her.'
+
+say *some sentence* to *someone*
+
+* I said, "No," when she asked.
+
+speak (= utter words), eg
+
+* 'Teachers speak too much and the students don't speak enough.'
+
+talk
+
+ask
