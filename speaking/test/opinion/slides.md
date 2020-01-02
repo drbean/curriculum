@@ -228,3 +228,37 @@ superficial surface
 
 short
 
+# interview -- via phone or in person?
+
+## interview -- via phone or in person?
+
+## pronunciation
+
+Some words I didn't understand. Ask me for help if you want to check pronunciation of words not here.
+
+expression
+
+environment
+
+practice
+
+wouldn't
+
+tone
+
+tongue
+
+via
+
+react
+
+allow
+
+observations
+
+applicant
+
+## word use
+
+
+
