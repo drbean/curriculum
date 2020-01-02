@@ -31,5 +31,101 @@ show:
         Children under age 12 get in for free.
 
         For further details visit us online at www.hometogrowwith.net
-
-    
+itinerary:
+  jigsaw:
+    0:
+      identifier: san_antonio
+      quiz:
+        - question: What time does Fairbank arrive in San Antonio
+          option:
+            - 7am
+            - 11am
+            - 6am
+            - 10am
+          answer: 10am
+        - question: What train does he take leaving San Antonio
+          option:
+            - The Express Train
+            - The Blue Mountain Express
+          answer: The Express Train
+    1:
+      identifier: chicago
+      quiz:
+        - question: What time does he arrive in Chicago?
+          option:
+            - 7am
+            - 11am
+            - 6am
+            - 10am
+          answer: 6am
+        - question: What time is the meeting with his friend?
+          option:
+            - 6am
+            - 7am
+            - 10am
+            - 11am
+            - 1pm
+          answer: 1pm
+        - question: Will it be possible for him to meet his friend?
+          option:
+            - Yes
+            - No
+          answer: Yes
+    2:
+      identifier: details
+      quiz:
+        - question: When does he arrive in Chicago?
+          option:
+            - Wednesday, June 20, 7am
+            - Wednesday, June 20, 11am
+            - Friday, June 22 6am
+            - Friday, June 22 10am
+          answer: Wednesday, June 20, 11am
+        - question: When does he leave Chicago?
+          option:
+            - Wednesday, June 20, 7am
+            - Wednesday, June 20, 11am
+            - Friday, June 22 6am
+            - Friday, June 22 10am
+          answer: Wednesday, June 20, 11am
+        - question: What train does he arrive on in Chicago?
+          option:
+            - The Express Train
+            - The Blue Mountain Express
+          answer: The Blue Mountain Express
+        - question: Where is he probably staying in Chicago?
+          option:
+            - Glen Hotel, 230 Main Street
+            - 3 days
+          answer: Glen Hotel, 230 Main Street
+        - question: Transport in Chicago
+          option:
+            - Rental car
+            - The Express Train
+            - The Blue Mountain Express
+          answer: Rental car
+        - question: What is he doing on the 21st?
+          option:
+            - Attending an expo
+            - Departing for Chicago
+          answer: Attending an expo
+    3:
+      identifier: itinerary_problem
+      quiz:
+        - question: The problem with the itinerary
+          option:
+            - He departs San Antonio on Wednesday and arrives on Friday
+            - He departs Chicago on Wednesday and arrives on Friday
+            - He departs and arrives on the same day in San Antonio and Chicago
+          answer: He departs and arrives on the same day in San Antonio and Chicago
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
