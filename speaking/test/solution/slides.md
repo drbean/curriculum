@@ -200,6 +200,93 @@ You can use "Please", or "should"
 
 	Thank you.
 
+# Book delay solution
+
+## A good response
+
+Hello, Mr Webster. Thank you for your call about the books you ordered.
+I'm sorry you've been waiting so long to receive them. I know how important
+those books are you. It seems that there was a delay in sending your package,
+so unfortunately it might be another week before it arrives.
+
+However I am going to send you a new package with the same books. I am going 
+to send it by express mail this afternoon. That way, it should arrive at your
+house in two days, so you will have some time to start reading the books
+before your class begins. Of course, there will be no extra charge for this.
+Thank you very much for your patience. Please let me know if you have more
+questions.
+
+## a good response 1
+
+
+books
+receive
+been
+sorry
+ordered
+call
+
+Hello, Mr Webster. Thank you for your _____(1) about the books you _____(2)
+I'm _____(3) you've _____(4) waiting so long to _____(5) them. I know how important
+those _____(6) are for you.
+
+
+## a good response 1
+
+
+it
+another
+might
+unfortunately
+delay
+seems
+
+It _____(7) that there was a _____(8) in sending your package,
+so _____(9) it _____(10) be _____(11) week before _____(12) arrives.
+
+## a good response 1
+
+
+this
+it
+same
+package
+send
+however
+
+_____(13) I am going to _____(14) you a new _____(15) with the _____(16) books. I am going 
+to send _____(17) by express mail _____(18) afternoon.
+
+## a good response 1
+
+
+begins
+before
+start
+days
+should
+way
+
+That _____(19), it _____(20) arrive at your house in two _____(21), so you will have some time to _____(22) reading the books
+_____(23) your class _____(24).
+
+## a good response 1
+
+
+more
+let
+much
+this
+no
+course
+
+Of _____(25), there will be _____(26) extra charge for _____(27).
+Thank you very _____(28) for your patience. Please _____(29) me know if you have _____(30)
+questions.
+
+
+
+# Lost bank card solution
 
 ## The official example 1
 
@@ -274,6 +361,36 @@ _____(33) back? _____(34) really busy _____(35) and _____(36) need
 you to call me _____(37). I _____(38) go on _____(39) without my
 bank card. This is Marsha Syms at _____(40). Thanks.
 
+
+# Restaurant customer loss on renovation 
+
+## youtube links
+
+- [[토익스피킹 모의고사] - TOEIC SPEAKING Actual Test (#05) - 2019.11.18 ](https://www.youtube.com/watch?v=ewTVqwhlpz8)
+- [[#05 토익스피킹 모범답변] - Model response for TOEIC SPEAKING Actual Test (#05) - 2019.11.18 ](https://www.youtube.com/watch?v=-XqDD3hE7hM)
+
+## pronunciation
+
+dining
+
+environment
+
+period
+
+guest
+
+loss
+
+## better word
+
+them (the manager, the restaurant)
+
+"I heard you.." (the manager)
+
+Finally (There are 2 suggestions)
+
+"spread" a flier on the street
+
 # Plan of work
 
 # Stages--preparation, practice, test
@@ -301,3 +418,13 @@ Repeated 3 times so each person takes one of the 3 roles
 ## Test
 
 Everyone together records their solution proposal for the problem they had.
+
+# Communication-failure repair strategies
+
+* Confirmation checks
+* Clarification requests
+* Comprehension checks
+* Repetitions
+* Recasts
+
+Overt indications of understanding
