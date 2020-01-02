@@ -202,3 +202,18 @@ mind:
             - Would you mind coming in person to pick up your bank card?
             - I'm afraid I'm going to have to ask you to come in person to pick up your bank card.
           answer: I'm afraid I'm going to have to ask you to come in person to pick up your bank card.
+restaurant:
+  essay:
+    0:
+      identifier: restaurant customer loss on renovation
+      rubric: |+
+        Question 10: Propose a solution
+
+        - [[토익스피킹 모의고사] - TOEIC SPEAKING Actual Test (#05) - 2019.11.18 ](https://www.youtube.com/watch?v=ewTVqwhlpz8)
+        - [[#05 토익스피킹 모범답변] - Model response for TOEIC SPEAKING Actual Test (#05) - 2019.11.18 ](https://www.youtube.com/watch?v=-XqDD3hE7hM)
+        
+        The restaurant is closing for a short period to rebuild so it can increase the number of tables, but is worried it will lose customers. Listen to the manager at 10 minutes in to the first link above and the model response at 7:10 minutes into the second link.
+
+        What is your solution to the customer loss problem? In your response, show you recognize the problem.
+
+    
