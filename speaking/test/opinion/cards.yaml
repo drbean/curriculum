@@ -41,9 +41,48 @@ phone:
 
         * Via phone
         * In person
-        
-        
-    
+interview:
+  jigsaw:
+    0:
+      identifier: interview--scare, scary, scared
+      quiz:
+        - question: An interview ____ many people.
+          option:
+            - scares
+            - is scared
+            - is scary
+          answer: scares
+        - question: John ____ of doing interviews.
+          option:
+            - scares
+            - is scared
+            - is scary
+          answer: is scared
+        - question: An interview for a top job ____.
+          option:
+            - scares
+            - is scared
+            - is scary
+          answer: is scary
+        - question: The idea of an interview ____ me.
+          option:
+            - scares
+            - is scared
+            - is scary
+          answer: scares
+        - question: Someone who is not confident ____ of interviews.
+          option:
+            - scares
+            - is scared
+            - is scary
+          answer: is scared
+        - question: Being interviewed by an unfriendly interviewer ____.
+          option:
+            - scares
+            - is scared
+            - is scary
+          answer: is scary
+          
 #disjunct:
 #1. choose one Personally Generally Predictably  , people get married quite late in my country. 
 #2. choose one Clearly Sadly Surprisingly  , we must try and lift people out of poverty to improve standards of living.
