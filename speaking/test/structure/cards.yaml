@@ -401,8 +401,8 @@ opinion:
       identifier: Question 11. Express an opinion
       rubric: |+
         Question: Some people think smoking should be banned in all public places. What is your opinion about smoking in public places? Give reasons for your opinion.
-# writing
-#
+
+writing:
     1:
       identifier: "Question 8: Write an opinion essay"
       rubric: |+
