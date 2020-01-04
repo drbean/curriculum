@@ -2,21 +2,153 @@
 
 -
 
-# letter
+# final 108-1
 
-# curiel
+# email, letter
 
-# email
+-
+  -
+    topic : email
+    story : email
+    type  : description
+    form  : 0
+    intro : Final exam, 108-1
+    random: 
+  -
+    topic : email
+    story : subject
+    type  : jigsaw
+    form  : 2
+    intro : subject lines
+    random: 
+  -
+    topic : letter
+    story : han
+    type  : jigsaw
+    form  : 0
+    intro : parts of 函, p 15
+    random: 
 
-#-
-#  -
-#    topic : email
-#    story : 
-#    type  : 
-#    form  : 
-#    intro : 
-#    random: 
+# memo
 
+  -
+    topic : memo
+    story : memo
+    type  : description
+    form  : 0
+    intro : lists, memo formatting, formality
+    random: 
+  -
+    topic : memo
+    story : formalmemo
+    type  : jigsaw
+    form  : 1
+    intro : memo formality
+    random: 
+  -
+    topic : memo
+    story : formalmemo
+    type  : jigsaw
+    form  : 2
+    intro : memo formality
+    random: 
+  -
+    topic : memo
+    story : list
+    type  : jigsaw
+    form  : 1
+    intro : list formatting
+    random: 
+  -
+    topic : memo
+    story : list
+    type  : jigsaw
+    form  : 2
+    intro : memo formatting
+    random: 
+  -
+    topic : memo
+    story : genre
+    type  : jigsaw
+    form  : exam
+    intro : 3 memo types
+    random: 
+  -
+    topic : memo
+    story : elective
+    type  : essay
+    form  : 0
+    intro : notice from Dr Bean
+    random: 
+  
+
+# coverletter
+
+  -
+    topic : coverletter
+    story : coverletter
+    type  : description
+    form  : 0
+    intro : coverletter questions, Unit 6
+    random: 
+  -
+    topic : coverletter
+    story : article
+    type  : drag
+    form  : 2
+    intro : coverletter
+    random: 
+  -
+    topic : coverletter
+    story : proposal
+    type  : match
+    form  : 0
+    intro : Smart proposal coverletter
+    random: 
+  -
+    topic : coverletter
+    story : proposal
+    type  : drag
+    form  : 2
+    intro : Hair care marketing proposal
+    random: 
+  -
+    topic : coverletter
+    story : attach
+    type  : drag
+    form  : 4
+    intro : attachment scrambles
+    random: 
+  -
+    topic : coverletter
+    story : flowerdew
+    type  : description
+    form  : 0
+    intro : Flowerdew visit, p 42
+    random: 
+  -
+    topic : coverletter
+    story : flowerdew
+    type  : jigsaw
+    form  : 0
+    intro : persons involved in Flowerdew visit
+    random: 
+  
+  -
+    topic : coverletter
+    story : acknowledge
+    type  : match
+    form  : 2
+    intro : acknowledgement structure
+    random: 
+  -
+    topic : coverletter
+    story : acknowledge
+    type  : match
+    form  : 3
+    intro : acknowledgement order
+    random: 
+  
 # transaction
 
   -
