@@ -2,6 +2,8 @@
 % Dr Bean (高來圭) at https://github.com/drbean/curriculum/trunk/correspondence
 % Mon Dec 18 11:08:36 CST 2017
 
+# introduction=promotion
+
 ## New contact structure
 
 The 4 steps
