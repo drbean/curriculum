@@ -213,6 +213,21 @@ move:
             - My husband has received a job offer in the Oxford area, and I am wondering if I can be transferred to the Oxford branch.
           answer: My husband has received a job offer in the Oxford area, and I am wondering if I can be transferred to the Oxford branch.
 elective:
+  essay:
+    0:
+      identifier: Dr Bean electives
+      rubric: |+
+        Dr Bean wants to announce to all students in the school the electives he is teaching next semester.
+
+        Write a notice with To:, From:, and Subject lines and in the body of the notice, say what the notice is about, and list the 3 electives,
+
+        * 中級英文聽說訓練
+        * 動漫中級英文聽說訓練
+        * 多益口說與寫作測驗分析
+
+        At the end, write the call for action. Look at the Chinese notice on p34 for guidance.
+
+        The notice has to be in English, of course, but you don't need to translate the names of the 3 electives into English.
   jigsaw:
     0:
       identifier: elective
@@ -712,20 +727,3 @@ genre:
             - memo
             - note
           answer: note
-elective:
-  essay:
-    0:
-      identifier: Dr Bean electives
-      rubric: |+
-        Dr Bean wants to announce to all students in the school the electives he is teaching next semester.
-
-        Write a notice with To:, From:, and Subject lines and in the body of the notice, say what the notice is about, and list the 3 electives,
-
-        * 中級英文聽說訓練
-        * 動漫中級英文聽說訓練
-        * 多益口說與寫作測驗分析
-
-        At the end, write the call for action. Look at the Chinese notice on p34 for guidance.
-
-        The notice has to be in English, of course, but you don't need to translate the names of the 3 electives into English.
-    
