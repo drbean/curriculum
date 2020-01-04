@@ -496,6 +496,34 @@ bold:
           answer: the writer has to do this 15 times, once for each recipient
 genre:
   jigsaw:
+    exam:
+      identifier: memo types
+      quiz:
+        - question: Informality is associated with--
+          option:
+            - notices
+            - memos
+            - notes
+          answer: notes
+        - question: Addressees are limited to a specific group, or perhaps, persons
+          option:
+            - notices
+            - memos
+            - notes
+          answer: memos
+        - question: Third email, p31
+          option:
+            - notice
+            - memo
+            - note
+          answer: memo
+        - question: Document, p34
+          option:
+            - notice
+            - memo
+            - note
+          answer: notice
+        
     formality:
       identifier: informality
       quiz:
@@ -684,3 +712,20 @@ genre:
             - memo
             - note
           answer: note
+elective:
+  essay:
+    0:
+      identifier: Dr Bean electives
+      rubric: |+
+        Dr Bean wants to announce to all students in the school the electives he is teaching next semester.
+
+        Write a notice with To:, From:, and Subject lines and in the body of the notice, say what the notice is about, and list the 3 electives,
+
+        * 中級英文聽說訓練
+        * 動漫中級英文聽說訓練
+        * 多益口說與寫作測驗分析
+
+        At the end, write the call for action. Look at the Chinese notice on p34 for guidance.
+
+        The notice has to be in English, of course, but you don't need to translate the names of the 3 electives into English.
+    
