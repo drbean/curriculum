@@ -628,6 +628,11 @@ step:
         -
           - 4
           - We look forward to your inquiries about the Raspberry_Pi_Zero.
+  description:
+    0:
+      identifier: step identification
+      questiontext: Identify the promotion step in the following 6 questions of the lines surrounded by **asterisks.**
+    
   jigsaw:
     0:
       identifier: diet drink and promotion steps
