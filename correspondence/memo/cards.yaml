@@ -493,7 +493,7 @@ bold:
     1:
       identifier: bold
       quiz:
-        - question: "On p.33, the bolding (heavy typeface) on T.Cruise's name means T.Cruise:"
+        - question: "On p.33, the bolding (heavy typeface) on T.Cruise's name is done for a special reason. The bolding means T.Cruise:"
           option:
             - Is scheduled to meet Dr Smith at 8:30, June 21
             - Will get special attention at the meeting
