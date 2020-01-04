@@ -3,12 +3,20 @@
 -
   -
     topic : promotion
+    story : raspberry
+    type  : drag
+    form  : 0
+    intro : raspberry scramble review
+    random: 3
+
+-
+  -
+    topic : promotion
     story : kendall
     type  : match
     form  : 0
     intro : soup company promotion 4 steps 
     random: 
-
 
 -
   -
@@ -18,7 +26,6 @@
     form  : 1
     intro : soup company promotion order
     random: 
-
 
 -
   -
@@ -33,11 +40,19 @@
   -
     topic : promotion
     story : backpack
+    type  : jigsaw
+    form  : 1
+    intro : understanding the backpack letter
+    random: 3
+
+-
+  -
+    topic : promotion
+    story : backpack
     type  : drag
     form  : 0
     intro : backpack cloze
     random: 
-
 
 -
   -
