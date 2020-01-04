@@ -106,6 +106,8 @@ You should say:
 
 What is wrong with this answer? It looks OK to me.
 
+## When got the answer wrong, but you want a second chance
+
 Can I try it again?
 
 ## Seek and you shall find
