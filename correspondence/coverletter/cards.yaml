@@ -119,6 +119,9 @@ attach:
       identifier: attach 4 test
       sentences:
         -
+          sentence: Please find attached the catalogue which you requested on July 16.
+          clozed: Please|find|the|catalogue|which|you|requested|on|July|End
+        -
           sentence: Here is the file which you requested.
           clozed: Here|is|the|file|which|you|requested|End
         -
@@ -331,6 +334,13 @@ proposal:
         -
           sentence: I have attached the catalogue for "Sephora," the skin care product brand which we market in Taiwan.
           clozed: I|have|attached|the|for|the|skin|care|product|which|we|market|in|End
+    2:
+      identifier: Hair product proposal
+      sentences:
+        -
+          sentence: I have attached the proposal for "Hairlthy Now," the haircare product which your company plans to market in Taiwan.
+          clozed: I|have|attached|the|proposal|for|the|haircare|product|which|your|company|plans|to|market|in|End
+        
   jigsaw:
     0:
       identifier: proposal para 1
@@ -684,12 +694,22 @@ problem:
           sentence: Sorry for the previous email. I forgot to attach the file to it. Here it is again. Can you confirm that you have received the attachment?
           clozed: Sorry|for|the|previous|email|I|forgot|to|attach|the|file|to|Here|it|is|again|Can|you|confirm|that|you|have|received|the|attachment?
 flowerdew:
+  description:
+    0:
+      identifier: flowerdew story
+      questiontext: The scenario on p 42 describes a situation at NUU Language Center. John Flowerdew is visiting the center.
+
+        The chairperson is Hsiao-fang (Tracy) Cheng.
+
+        'You' are a teacher in the Language Center.
+    
   jigsaw:
     0:
       identifier: flowerdew cover email
       quiz:
         - question: Who is the top linguist?
           option:
+            - Dr Bean
             - Hsiao-fang (Tracy) Cheng
             - John Flowerdew
             - Jennifer Ward
@@ -697,6 +717,7 @@ flowerdew:
           answer: John Flowerdew
         - question: Who is the head of the department?
           option:
+            - Dr Bean
             - Hsiao-fang (Tracy) Cheng
             - John Flowerdew
             - Jennifer Ward
@@ -704,6 +725,7 @@ flowerdew:
           answer: Hsiao-fang (Tracy) Cheng
         - question: Who is the new teacher?
           option:
+            - Dr Bean
             - Hsiao-fang (Tracy) Cheng
             - John Flowerdew
             - Jennifer Ward
@@ -711,6 +733,7 @@ flowerdew:
           answer: Jennifer Ward
         - question: Who is visiting the school?
           option:
+            - Dr Bean
             - Hsiao-fang (Tracy) Cheng
             - John Flowerdew
             - Jennifer Ward
@@ -718,6 +741,7 @@ flowerdew:
           answer: John Flowerdew
         - question: Who will give a speech?
           option:
+            - Dr Bean
             - Hsiao-fang (Tracy) Cheng
             - John Flowerdew
             - Jennifer Ward
@@ -725,6 +749,7 @@ flowerdew:
           answer: John Flowerdew
         - question: Who will email Jennifer?
           option:
+            - Dr Bean
             - Hsiao-fang (Tracy) Cheng
             - John Flowerdew
             - Jennifer Ward
@@ -732,6 +757,7 @@ flowerdew:
           answer: you
         - question: Who will you email?
           option:
+            - Dr Bean
             - Hsiao-fang (Tracy) Cheng
             - John Flowerdew
             - Jennifer Ward
@@ -739,6 +765,7 @@ flowerdew:
           answer: Jennifer Ward
         - question: Who will send the email?
           option:
+            - Dr Bean
             - Hsiao-fang (Tracy) Cheng
             - John Flowerdew
             - Jennifer Ward
@@ -746,13 +773,15 @@ flowerdew:
           answer: you
         - question: Who will show Flowerdew around?
           option:
+            - Dr Bean
             - Hsiao-fang (Tracy) Cheng
             - John Flowerdew
             - Jennifer Ward
             - you
           answer: you
-        - question: Who will receive the email?
+        - question: Who will receive the email you send?
           option:
+            - Dr Bean
             - Hsiao-fang (Tracy) Cheng
             - John Flowerdew
             - Jennifer Ward
@@ -760,6 +789,7 @@ flowerdew:
           answer: Jennifer Ward
         - question: Who will attach something to the email?
           option:
+            - Dr Bean
             - Hsiao-fang (Tracy) Cheng
             - John Flowerdew
             - Jennifer Ward
@@ -767,6 +797,7 @@ flowerdew:
           answer: you
         - question: Who will the attachment in the email be about?
           option:
+            - Dr Bean
             - Hsiao-fang (Tracy) Cheng
             - John Flowerdew
             - Jennifer Ward
@@ -774,6 +805,7 @@ flowerdew:
           answer: John Flowerdew
         - question: Who did Ms Cheng send a document to?
           option:
+            - Dr Bean
             - Hsiao-fang (Tracy) Cheng
             - John Flowerdew
             - Jennifer Ward
@@ -781,6 +813,7 @@ flowerdew:
           answer: you
         - question: Who sent you the attachment to the email?
           option:
+            - Dr Bean
             - Hsiao-fang (Tracy) Cheng
             - John Flowerdew
             - Jennifer Ward
@@ -788,6 +821,7 @@ flowerdew:
           answer: Hsiao-fang (Tracy) Cheng
         - question: Who may or may not Flowerdew speak to?
           option:
+            - Dr Bean
             - Hsiao-fang (Tracy) Cheng
             - John Flowerdew
             - Jennifer Ward
@@ -795,6 +829,7 @@ flowerdew:
           answer: Jennifer Ward
         - question: Who will the email help Jennifer know more about?
           option:
+            - Dr Bean
             - Hsiao-fang (Tracy) Cheng
             - John Flowerdew
             - Jennifer Ward
@@ -802,6 +837,7 @@ flowerdew:
           answer: John Flowerdew
         - question: Whose idea was it to send the email to Jennifer Ward?
           option:
+            - Dr Bean
             - Hsiao-fang (Tracy) Cheng
             - John Flowerdew
             - Jennifer Ward
