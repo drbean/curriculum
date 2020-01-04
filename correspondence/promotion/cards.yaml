@@ -173,6 +173,49 @@ structure:
             - step 3. selling points of the writer's product
             - step 4. call to action
           answer: step 4. call to action
+    1:
+      identifier: more introduction_structure_keywords
+      quiz:
+        - question: 'would you be interested in ..'
+          option:
+            - step 1a. how the writer found out about the other's company
+            - step 1b. propose the 2 companies do some business (what business? ie what does the writer wants to sell?)
+            - step 2. description of the writer's company
+            - step 3. selling points of the writer's product
+            - step 4. call to action
+          answer: step 1b. propose the 2 companies do some business (what business? ie what does the writer wants to sell?)
+        - question: 'Our patented kishebab stick ..'
+          option:
+            - step 1a. how the writer found out about the other's company
+            - step 1b. propose the 2 companies do some business (what business? ie what does the writer wants to sell?)
+            - step 2. description of the writer's company
+            - step 3. selling points of the writer's product
+            - step 4. call to action
+          answer: step 3. selling points of the writer's product
+        - question: 'Please contact ..'
+          option:
+            - step 1a. how the writer found out about the other's company
+            - step 1b. propose the 2 companies do some business (what business? ie what does the writer wants to sell?)
+            - step 2. description of the writer's company
+            - step 3. selling points of the writer's product
+            - step 4. call to action
+          answer: step 4. call to action
+        - question: 'We saw your ..'
+          option:
+            - step 1a. how the writer found out about the other's company
+            - step 1b. propose the 2 companies do some business (what business? ie what does the writer wants to sell?)
+            - step 2. description of the writer's company
+            - step 3. selling points of the writer's product
+            - step 4. call to action
+          answer: step 1a. how the writer found out about the other's company
+        - question: 'We manufacture many kinds of food products.'
+          option:
+            - step 1a. how the writer found out about the other's company
+            - step 1b. propose the 2 companies do some business (what business? ie what does the writer wants to sell?)
+            - step 2. description of the writer's company
+            - step 3. selling points of the writer's product
+            - step 4. call to action
+          answer: step 2. description of the writer's company
 lollipop:
   jigsaw:
     0:
