@@ -301,6 +301,33 @@ definition:
         -
           - acknowledgement
           - the act of confirming the receipt of goods
+    2:
+      identifier: selected definitions
+      quiz:
+          - a complaint
+          - something you say or write when you are not satisfied
+        -
+          - an inquiry
+          - a request for general information
+        -
+          - a discount
+          - a deduction from a bill or amount due
+        -
+          - delivery
+          - the act of sending goods to the designated person
+        -
+          - payment
+          - the amount of money you have to pay for something, and the action of sending the money
+        -
+          - a brochure
+          - a pamphlet or leaflet, especially one giving descriptive information
+        -
+          - advertisement
+          - a public notice or announcement, especially one giving information about goods or services
+        -
+          - acknowledgement
+          - the act of confirming the receipt of goods, or an email
+        
         
         
   jigsaw:
