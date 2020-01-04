@@ -25,7 +25,7 @@
     type  : jigsaw
     form  : 0
     intro : school choice--a transaction by student, school
-    random: 1
+    random: 
 
   -
     topic : transaction
