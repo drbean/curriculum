@@ -697,7 +697,8 @@ flowerdew:
   description:
     0:
       identifier: flowerdew story
-      questiontext: The scenario on p 42 describes a situation at NUU Language Center. John Flowerdew is visiting the center.
+      questiontext: |+
+        The scenario on p 42 describes a situation at NUU Language Center. John Flowerdew is visiting the center.
 
         The chairperson is Hsiao-fang (Tracy) Cheng.
 
