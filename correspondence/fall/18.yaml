@@ -227,7 +227,7 @@
 
   -
     topic : promotion
-    story : part
+    story : step
     type  : description
     form  : 0
     intro : the step of the **asterisked** lines
@@ -235,7 +235,7 @@
  
   -
     topic : promotion
-    story : part
+    story : step
     type  : jigsaw
     form  : 1
     intro : diet drink promotion step
