@@ -303,7 +303,7 @@ definition:
           - the act of confirming the receipt of goods
     2:
       identifier: selected definitions
-      quiz:
+      pair:
         -
           - a complaint
           - something you say or write when you are not satisfied
