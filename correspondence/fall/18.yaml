@@ -159,6 +159,15 @@
 
   -
     topic : transaction
+    story : transaction
+    type  : description
+    form  : 0
+    intro : transaction questions
+    random: 
+  
+
+  -
+    topic : transaction
     story : college
     type  : jigsaw
     form  : 0
@@ -181,8 +190,25 @@
     intro : 4 transaction step contents
     random: 
 
+  -
+    topic : transaction
+    story : definition
+    type  : match
+    form  : 2
+    intro : 8 definitions from p46
+    random: 
+  
+
 # promotion
 
+  -
+    topic : promotion
+    story : structure
+    type  : jigsaw
+    form  : 1
+    intro : identifying the promotion step
+    random: 
+  
   -
     topic : promotion
     story : raspberry
@@ -240,3 +266,11 @@
     intro : soup company scramble
     random: 
 
+  -
+    topic : promotion
+    story : supplier
+    type  : essay
+    form  : 1
+    intro : Supplier introduction
+    random: 
+  
