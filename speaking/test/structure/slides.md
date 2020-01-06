@@ -167,3 +167,16 @@ speak (= utter words), eg
 talk
 
 ask
+
+# [ Final http://web.nuu.edu.tw/~greg/toeic/sample/Full Speaking toeic test 03 _ Practice Speaking toeic test with Answers-64E4yFhUUWQ.mp4](http://web.nuu.edu.tw/~greg/toeic/sample/Full Speaking toeic test 03 _ Practice Speaking toeic test with Answers-64E4yFhUUWQ.mp4)
+
+## pronunication
+
+gym
+
+parents with children
+
+good road*s* available *Sorry, it was a typo in the exam*
+
+proximity
+
