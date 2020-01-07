@@ -170,6 +170,20 @@ ask
 
 # [ Final http://web.nuu.edu.tw/~greg/toeic/sample/Full Speaking toeic test 03 _ Practice Speaking toeic test with Answers-64E4yFhUUWQ.mp4](http://web.nuu.edu.tw/~greg/toeic/sample/Full Speaking toeic test 03 _ Practice Speaking toeic test with Answers-64E4yFhUUWQ.mp4)
 
+## questions about grading
+
+### Check the grades
+
+Rating grade follows the TOEIC Scoring Guide
+
+1.1 ~ 2.11 scales the grade to a grade out of 100
+
+### I made some mistakes. Can you find them
+
+Peggy has a score of 88 in Questions 1 ~ 6.
+
+She is missing a score for 2.1?
+
 ## pronunication and word use Question 1, 2
 
 gym
@@ -217,3 +231,4 @@ getting older = growing up ??
 ### exercise
 
 dumbbell -> working out with weights
+
