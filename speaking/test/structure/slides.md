@@ -170,7 +170,7 @@ ask
 
 # [ Final http://web.nuu.edu.tw/~greg/toeic/sample/Full Speaking toeic test 03 _ Practice Speaking toeic test with Answers-64E4yFhUUWQ.mp4](http://web.nuu.edu.tw/~greg/toeic/sample/Full Speaking toeic test 03 _ Practice Speaking toeic test with Answers-64E4yFhUUWQ.mp4)
 
-## pronunication
+## pronunication and word use Question 1, 2
 
 gym
 
@@ -180,3 +180,40 @@ good road*s* available *Sorry, it was a typo in the exam*
 
 proximity
 
+### job interview
+
+clothes
+
+conservative (the opposite of progressive/radical) and conservation (the opposite of (environmental) degradation)
+
+smile smell
+
+woman women (and man/men)
+
+### restaurant
+
+buffet
+
+## pronunication and word use Question 3
+
+### meeting picture
+
+holding hands ??
+
+tie *on* his neck (a different preposition?)
+
+## pronunication and word use Question 4, 5, 6
+
+### birthdays, age
+
+birthdays *in*& your country or birthdays *of* your country?
+
+getting older = getting old ??
+
+or
+
+getting older = growing up ??
+
+### exercise
+
+dumbbell -> working out with weights
