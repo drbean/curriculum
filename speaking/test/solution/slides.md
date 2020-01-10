@@ -104,7 +104,9 @@ Plus:
 
 	"Is that correct?"
 	"Please confirm that this is correct."
-	"Contact me if I made a mistake here"
+	"Please correct me if I made a mistake."
+	"Please correct me if that is not correct."
+	"Contact me if I made a mistake here."
 
 ## Clarification questions
 
@@ -391,6 +393,71 @@ Finally (There are 2 suggestions)
 
 "spread" a flier on the street
 
+# Full Speaking toeic test 03 _ Practice Speaking toeic test with Answers-64E4yFhUUWQ.mp4
+
+## full text
+
+Hello, I'm calling for Sam Lee from the karate school. I got your message about classes for your son. We give classes for children every Saturday morning from 9:00 to 12:00. Most of the children in this class are nine to ten years old, so your son is the right age. However, the class is very large. There are 16 students in it. We still have room for more students if your son wants to take it. If he doesn't want to be with a large group, I have another suggestion for you. Some of our instructors give private lessons. This might be best for your son if he is very shy. If you are interested in this, please call me back and I will give you the name of some of our instructors who give private lessons.
+
+## Part 1: show that you recognise the problem
+
+
+about
+calling
+from
+from
+give
+got
+
+Hello, I'm _____(31) for Sam Lee _____(32) the karate school. I _____(33) your message _____(34) classes for your son. We _____(35) classes for children every Saturday morning _____(36) 9:00 to 12:00. 
+
+## Part 2: propose a solution
+
+
+are
+if
+is
+of
+still
+this
+
+Most _____(37) the children in _____(38) class _____(39) nine to ten years old, so your son _____(40) the right age. However, the class is very large. There are 16 students in it. We _____(41) have room for more students _____(42) your son wants to take it. 
+
+## Part 2: problems with the solution
+
+A big class is a solution, but there is a problem with this solution: the boy is shy.
+
+another
+for
+have
+if
+suggestion
+
+_____(43) he doesn't want to be with a large group, I _____(44) _____(45) _____(46) _____(47) you. 
+
+## Part 2: solution to problem with the solution
+
+be
+best
+for
+if
+might
+private
+
+Some of our instructors give _____(48) lessons. This _____(49) _____(50) _____(51) _____(52) your son _____(53) he is very shy. 
+
+## Part 2: call to action
+
+will
+I
+and
+back
+please
+interested
+If
+
+_____(54) you are _____(55) in this, _____(56) call me _____(57) _____(58) _____(59) _____(60) give you the name of some of our instructors who give private lessons.
+
 # Plan of work
 
 # Stages--preparation, practice, test
@@ -420,6 +487,8 @@ Repeated 3 times so each person takes one of the 3 roles
 Everyone together records their solution proposal for the problem they had.
 
 # Communication-failure repair strategies
+
+## Types
 
 * Confirmation checks
 * Clarification requests
