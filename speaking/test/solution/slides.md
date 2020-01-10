@@ -458,6 +458,58 @@ If
 
 _____(54) you are _____(55) in this, _____(56) call me _____(57) _____(58) _____(59) _____(60) give you the name of some of our instructors who give private lessons.
 
+# # Full Speaking toeic test 03 _ Practice Speaking toeic test with Answers-64E4yFhUUWQ.mp4
+
+## full text
+
+Hello, this is a message for Ms Peters. I'm calling from Dr Warren's office. You asked for an emergency appointment this morning, but I'm afraid that the doctor is completely booked. He has a very full schedule this morning. However, it would be possible for him to see you later this afternoon. Could you be here at 4:30? Please call back as soon as possible to let me know. If that time isn't good for you, the doctor can see you at 5:30 this afternoon, or I can give you an appointment early tomorrow morning. Please let me know which would work best for you. The doctor can also give you a prescription for pain. If you let me know the name of your pharmacy, we can give the prescription over the phone. Then you can pick it up this morning.
+
+## Part 1: show that you recognise the problem
+
+
+asked
+calling
+message
+office
+
+Hello, this is a _____(61) for Ms Peters. I'm _____(62) from Dr Warren's _____.(63) You _____(64) for an emergency appointment this morning, ...
+
+## Part 2: SAY PROBLEM with dealing with the problem, with possible solution and call to action
+
+afraid
+as_soon_as_possible
+booked
+call_back
+could
+let_me_know
+would_be_possible
+
+but I'm _____(65) that the doctor is completely _____(66) However, it _____(67) for him to see you later this afternoon. _____(68) you be here at 4:30? Please _____(69) _____(70) to _____(71).
+
+## Part 2: A second solution, if there is still a problem
+
+appointment
+good_for_you
+if
+let_me_know
+or
+work_best_for_you
+
+_____(72) that time isn't _____,(73) the doctor can see you at 5:30 this afternoon, _____(74) I can give you an _____(75) early tomorrow morning. Please _____(76) which would _____(77) . 
+
+## Part 2: A fourth solution
+
+
+also
+it
+let_me_know
+over
+prescription
+then
+up
+
+The doctor can _____(78) give you a _____(79) for pain. If you _____(80) the name of your pharmacy, we can give the prescription _____(81) the phone. _____(82) you can pick _____(83) _____(84) this morning.
+
 # Plan of work
 
 # Stages--preparation, practice, test
