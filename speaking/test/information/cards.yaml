@@ -118,13 +118,33 @@ itinerary:
             - He departs Chicago on Wednesday and arrives on Friday
             - He departs and arrives on the same day in San Antonio and Chicago
           answer: He departs and arrives on the same day in San Antonio and Chicago
-        
-        
-        
-        
-        
-        
-        
+    4:
+      identifier: extime meeting
+      quiz:
+        - question: How is Sharon Rosen going to get to her hotel in NY?
+          option:
+            - by taxi
+            - by limousine
+            - by airport bus
+          answer: by limousine
+        - question: By what method would Rosen prefer to get to her hotel?
+          option:
+            - by taxi
+            - by limousine
+            - by airport bus
+          answer: by limousine
+        - question: How may her mood change knowing the way she will have to get to the hotel?
+          option:
+            - From unhappy to happy
+            - From happy to unhappy
+          answer: From happy to unhappy
+        - question: How many meetings are scheduled for the day Rosen arrives?
+          option:
+            - zero
+            - 1
+            - 2
+            - 3
+          answer: 2
         
         
         
