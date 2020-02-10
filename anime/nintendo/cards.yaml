@@ -1,0 +1,35 @@
+---
+genre: anime
+company:
+  jigsaw:
+    0:
+      identifier: company knowledge
+      quiz:
+        - question: What was Nintendo founded as?
+          option:
+            - a flower developer
+            - a playing card company
+            - a sword manufacturer
+            - a taxi company
+            - a video game company
+          answer: a playing card company
+        - question: What was Hiroshi Yamauchi's impression of the United States Playing Card Company, the world's biggest card manufacturer?
+          option:
+            - a favorable one
+            - an unfavorable one
+          answer: an unfavorable one
+        - question: What venture did Nintendo NOT try in its diversification efforts?
+          option:
+            - a taxi company
+            - a chain of love hotels
+            - a TV network
+            - a vacuum cleaner business
+            - a food company selling instant rice
+            - a gun, knife, and other weapons company
+          answer: a gun, knife, and other weapons company
+        - question: What started Nintendo off in the direction it folllows today?
+          option:
+            - Ultra Hand
+            - Color TV-Game console
+            - Game Boy
+          answer: Ultra Hand

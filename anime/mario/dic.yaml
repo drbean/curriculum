@@ -1,0 +1,20 @@
+---
+-
+  - id
+  - description
+  - genre
+  - target
+  - content
+  - unclozeables
+  - percent
+-
+  - mario
+  - Mario & Luigi: Super Anime Brothers
+  - anime
+  - all
+  - |+
+    Mario: Luigi, Luigi!
+    Luigi: Mario. I guess this is farewell, brother. I'll leave the rest to you.
+    Mario: Thank you, brother.
+    Luigi: Nani. Aye, aye.
+    Mario: YOu think you'd actually jump in after me, brother.
