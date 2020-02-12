@@ -471,11 +471,21 @@ garden:
       weeds      : 雜草
       dead       : 死
 environment:
+  0:
+    flash:
+      oil        : 油
+      fix        : 固定
+      pollute    : 污染
+      wave       : 波
+      reduce     : 降低
+      reuse      : 重用
+      recycle    : 回收
+      environment: 環境
   bingo:
     -
-      - Jane, what are you doing?                                                          _簡，你在幹什麼？_
+      - Jane, what are you doing?  _簡，你在幹什麼？_
       - I’m going to recycle these newspapers because I want to help keep the earth clean. _我要回收這些報紙，因為我想幫助保持地球清潔。_
-      - I'm also collecting glass and plastic bottles.                                     _我也收集玻璃和塑料瓶。_
+      - I'm also collecting glass and plastic bottles. _我也收集玻璃和塑料瓶。_
       - I have bottles at home. Why don't I bring them over to your house after school?    _我在家裡有瓶子。 放學後為什麼不把它們帶到你家？_
       - Great, thanks! I also need old books for younger students to read.                 _萬分感謝！ 我還需要老書給年輕的學生閱讀。_
       - That's a great way to reuse books. Yes, I have a few I could give you!             _這是重用圖書的好方法。 是的，我有幾個我可以給你！_
