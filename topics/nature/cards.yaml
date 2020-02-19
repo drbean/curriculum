@@ -481,6 +481,16 @@ environment:
       reuse      : 重用
       recycle    : 回收
       environment: 環境
+  1:
+    flash:
+      compost     : 堆肥
+      valley      : 谷
+      vegetation  : 植被
+      peak        : 峰
+      reduce      : 降低
+      reuse       : 重用
+      recycle     : 回收
+      environment : 環境
   bingo:
     -
       - Jane, what are you doing?  _簡，你在幹什麼？_
