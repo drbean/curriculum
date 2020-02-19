@@ -131,15 +131,14 @@ campingtrip:
 
   0:
     flash:
-      mosquito: .
-      marshmallow: .
-      fire: .
-      hiking: .
-      itchy: .
-      camping: .
-      sleepy: .
-      bite: .
-
+      mosquito    : 蚊子
+      marshmallow : 棉花糖
+      fire        : 火
+      hiking      : 遠足
+      itchy       : 發癢
+      camping     : 露營
+      sleepy      : 困
+      bite        : 咬
 agent:
   bingo:
     -  trip_to_China  how_long stay four_or_five_days package_tour four_days_and_three_nights fly directly Beijing tour_guide airport take hotel sightseeing famous landmarks Summer_Palace Forbidden_City Great_Wall_of_China sounds_great what_sort transport tour_group book trip sure
