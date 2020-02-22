@@ -817,7 +817,7 @@ cruise:
         - I will tell you what is happening.
         - Thank you again for your inquiry about the cruise.
   drag:
-    inquiry_0:
+    0:
       identifier: cruise inquiry 0
       sentences:
         -
@@ -829,7 +829,7 @@ cruise:
         -
           sentence: However my partner has very strict dietary requirements and cannot eat rice, fish and meat.
           clozed: However|my|partner|has|very|strict|dietary|requirements|and|cannot|eat|fish|and|End
-    inquiry_1:
+    1:
       identifier: cruise inquiry 1
       sentences:
         -
@@ -838,7 +838,7 @@ cruise:
         -
           sentence: I am wondering if any special arrangements can be made for Chris.
           clozed: I|am|wondering|if|any|special|arrangements|can|be|made|for|End
-    inquiry_2:
+    2:
       identifier: cruise inquiry 2
       sentences:
         -
@@ -847,7 +847,7 @@ cruise:
         -
           sentence: My friends are also interested in this cruise, but are unable to go on the dates in the advertisement, so I'm wondering if this cruise will be repeated.
           clozed: My|friends|are|also|interested|in|this|but|are|unable|to|go|on|the|dates|in|the|so|I'm|wondering|if|this|cruise|will|be|End
-    inquiry_3:
+    3:
       identifier: cruise inquiry 3
       sentences:
         -
@@ -857,7 +857,7 @@ cruise:
           sentence: As we are now planning our winter activities, I would be grateful if I could receive your reply before August 15.
           clozed: As|we|are|now|planning|our|winter|I|would|be|grateful|if|I|could|receive|your|reply|before|August|End
     
-    0:
+    10:
       identifier: p59 acknowledge
       sentences:
         -
@@ -866,7 +866,7 @@ cruise:
         -
           sentence: Thank you for your interest in this trip.
           clozed: Thank|you|for|your|interest|in|this|trip|End
-    1:
+    11:
       identifier: p59 acknowledge
       sentences:
         -
@@ -875,7 +875,7 @@ cruise:
         -
           sentence: You also_said that your partner is a vegetarian.
           clozed: You|also_said|that|your|partner|is|a|vegetarian|End
-    2:
+    12:
       identifier: p59 acknowledge
       sentences:
         -
@@ -884,7 +884,7 @@ cruise:
         -
           sentence: They are at sea, and it may take a few days for them to reply.
           clozed: They|are|at|and|it|may|take|a|few|days|for|them|to|End
-    3:
+    13:
       identifier: p59 acknowledge
       sentences:
         -
@@ -896,7 +896,7 @@ cruise:
         -
           sentence: I will tell you what is happening.
           clozed: I|will|tell|you|what|is|happening|End
-    4:
+    14:
       identifier: p59 acknowledge
       sentences:
         -
