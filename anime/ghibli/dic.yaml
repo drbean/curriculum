@@ -1,0 +1,89 @@
+---
+-
+  - id
+  - description
+  - genre
+  - target
+  - content
+  - unclozeables
+  - percent
+-
+  - earthsea
+  - Weakest Ghibli film
+  - anime
+  - all
+  - |+
+    Tales from Earthsea follows an exiled prince and a wandering wizard as they navigate a fantasy world. While some scenes in the film look absolutely gorgeous, the overall visual quality of the film lacks consistency. The film still looks like a Studio Ghibli film, but it lacks the sense of life which characterizes other films from the famous animation studio.
+
+    In addition, the plot incorporates elements from several of the EarthSea books and suffers as a result. Tales from Earthsea feels at once loaded with plot points and characters while also starved of depth, since there's not enough time to explore each concept. The sprawling plot and shallow character motivations all end up making Tales from Earthsea the weakest Studio Ghibli film by far.
+---
+-
+  - genre
+  - text
+  - id
+  - target
+  - content
+  - answer
+-
+  - conversation
+  - bruno
+  - 1
+  - all
+  - He would get lunch and kisses by saying 'Good morning' to people, lifting baby carriages and holding babies.
+  - True
+-
+  - conversation
+  - bruno
+  - 2
+  - all
+  - He would not lift baby carriages or hold babies, 'cause he had to do 14 tons of garbage.
+  - False
+-
+  - conversation
+  - bruno
+  - 3
+  - all
+  - When they are working on the garbage, one guy stops to talk and one guy does all the work.
+  - True
+-
+  - conversation
+  - bruno
+  - 4
+  - all
+  - The garbage would not go nowhere when he talked to it, so he stopped working on the truck.
+  - False
+-
+  - conversation
+  - bruno
+  - 5
+  - all
+  - The older guy told him to be proud of going down the block and cleaning the sidewalk.
+  - True
+-
+  - conversation
+  - bruno
+  - 6
+  - all
+  - As he was getting older, people learned that he was going crazy. So, they told him to retire.
+  - False
+-
+  - conversation
+  - bruno
+  - 7
+  - all
+  - On his last day, they were terribly emotional, crying, because he'd been the best.
+  - True
+-
+  - conversation
+  - bruno
+  - 8
+  - all
+  - He cries like a little kid when he hears the truck out the window, because he misses it a little bit.
+  - False
+-
+  - intermediate
+  - dickson
+  - 1
+  - all
+  - ''
+  - False

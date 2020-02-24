@@ -1,0 +1,46 @@
+---
+
+# genre: anime
+
+earthsea:
+  jigsaw:
+    0:
+      identifier: Critique by Studio Ghibli Movies Ranked Worst To Best-0Hn2k0UQpzU.mp4
+      quiz:
+        - question: The reviewer didn't like Tales from Earthsea.
+          answer: False
+        - question: The review has a positive opinion about Tales from Earthsea.
+          answer: False
+        - question: The review expresses a negative opinion of Tales from Earthsea.
+          answer: True
+    1:
+      identifier: Visual quality of the film
+      quiz:
+        - question: The problem with the visual quality of the film--
+          option:
+            - gorgeous
+            - inconsistent
+            - fantastic
+            - no sense of life
+          answer: inconsistent
+    2:
+      identifier: Lacking in Earthsea
+      quiz:
+        - question: Lacking in Earthsea
+          option:
+            - gorgeous scenes
+            - sense of life
+            - shallow character motivations
+            - sprawling plot
+          answer: sense of life
+    3:
+      identifier: Problem in EarthSea
+      quiz:
+        - question: What is NOT a problem with the movie?
+          option:
+            - characters and plot points starved of depth
+            - incorporating elements from several EarthSea books
+            - gorgeous scenes
+          answer: gorgeous scenes
+
+        
