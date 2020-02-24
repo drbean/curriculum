@@ -2,8 +2,6 @@
 
 ## General
 
-- [\[토익스피킹\]\ 스크래치\ 페이퍼\ 사용법\ _\ How\ to\ use\ the\ Scratch\ paper\ -\ TOEIC\ SPEAKING-xk5irxh0K1U.mp4](http://web.nuu.edu.tw/~greg/toeic/sample/\[토익스피킹\]\ 스크래치\ 페이퍼\ 사용법\ _\ How\ to\ use\ the\ Scratch\ paper\ -\ TOEIC\ SPEAKING-xk5irxh0K1U.mp4)
-
 ## [Nintendo](https://www.youtube.com/user/Nintendo)
 
 ### [Mario](https://mario.nintendo.com/)
