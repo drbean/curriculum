@@ -4,10 +4,10 @@ timeclose        : 9999999999
 introformat      : 4
 grade            : 3
 groupmode        : 1
-groupingid       : 128
+# groupingid       : 128
 attempts         : 1
 decimalpoints    : 0
-+overduehandling : 0
+overduehandling  : 0
 shuffleanswers   : 1
 # browsersecurity  : safebrowser
 # safeexambrowser_allowedkeys: e71abb59ffc16b3344b23e826059219f3c4fe70731e1845b77b2faa1ad93bbab
@@ -20,7 +20,7 @@ shuffleanswers   : 1
     type  : drag
     form  : 0
     intro : reference to promotion, expression of interest
-    random: 2
+    random: 1
 -
   -
     topic : inquiry
@@ -36,7 +36,7 @@ shuffleanswers   : 1
     type  : jigsaw
     form  : 0
     intro : golf club story understanding
-    random: 3
+    random: 1
 
 
 
