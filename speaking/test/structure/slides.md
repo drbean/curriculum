@@ -10,13 +10,19 @@ mainfont: latinmodern-math.otf
 #- BoldItalicFont=Font-BoldItalic.otf
 ...
 
+# Corona virus
+
+## TOEIC measures to cope with COVID-19 in France
+
+- [https://www.etsglobal.org/fr/en/blog/news/coronavirus-covid-19-information](https://www.etsglobal.org/fr/en/blog/news/coronavirus-covid-19-information)
+
 # General level issues
 
 # Exams
 
 ## Midterm, final exams
 
-My plan is to try to simulate the TOEIC test experience under exam conditions xcin Week 9, 18 in the computer lab.
+The plan is to simulate the TOEIC test experience under exam conditions in Week 9, 18 in the computer lab.
 
 I will try to grade your answers the way an actual test rater would score you.
 
