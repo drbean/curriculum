@@ -159,8 +159,7 @@ ask
 
 tell *someone* *something* eg 
 
-* 'Can you tell me the time?', or
-* 'I told her I loved her.'
+* Don't tell other students the answer.
 
 say *some sentence* to *someone*
 
@@ -170,9 +169,13 @@ speak (= utter words), eg
 
 * 'Teachers speak too much and the students don't speak enough.'
 
-talk
+talk (=have a conversation)
 
-ask
+* Teachers often tell students to stop talking.
+
+ask (= make a question)
+
+* Students don't ask enough questions.
 
 # [ Final http://web.nuu.edu.tw/~greg/toeic/sample/Full Speaking toeic test 03 _ Practice Speaking toeic test with Answers-64E4yFhUUWQ.mp4](http://web.nuu.edu.tw/~greg/toeic/sample/Full Speaking toeic test 03 _ Practice Speaking toeic test with Answers-64E4yFhUUWQ.mp4)
 
