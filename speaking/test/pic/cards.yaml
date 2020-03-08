@@ -139,7 +139,7 @@ numeric:
       quiz:
         - question: at the bottom
           option:
-            - 0
+            - zero
             - 1
             - 2
             - 3
@@ -149,10 +149,10 @@ numeric:
             - 7
             - 8
             - 9
-          answer: 0
+          answer: zero
         - question: in the middle
           option:
-            - 0
+            - zero
             - 1
             - 2
             - 3
@@ -165,7 +165,7 @@ numeric:
           answer: 5
         - question: at the bottom in the middle
           option:
-            - 0
+            - zero
             - 1
             - 2
             - 3
@@ -178,7 +178,7 @@ numeric:
           answer: 2
         - question: in the bottom right hand corner
           option:
-            - 0
+            - zero
             - 1
             - 2
             - 3
@@ -191,7 +191,7 @@ numeric:
           answer: 3
         - question: in the bottom left hand corner
           option:
-            - 0
+            - zero
             - 1
             - 2
             - 3
@@ -204,7 +204,7 @@ numeric:
           answer: 1
         - question: in the top right hand corner
           option:
-            - 0
+            - zero
             - 1
             - 2
             - 3
@@ -217,7 +217,7 @@ numeric:
           answer: 9
         - question: in the top left hand corner
           option:
-            - 0
+            - zero
             - 1
             - 2
             - 3
@@ -230,7 +230,7 @@ numeric:
           answer: 7
         - question: in the middle on the right
           option:
-            - 0
+            - zero
             - 1
             - 2
             - 3
@@ -243,7 +243,7 @@ numeric:
           answer: 6
         - question: in the middle on the left
           option:
-            - 0
+            - zero
             - 1
             - 2
             - 3
