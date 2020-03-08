@@ -750,7 +750,7 @@ scramble:
 
   drag:
     0:
-      identifier: p56
+      identifier: p56 inquiry question scramble 1~3
       sentences:
         -
           sentence: I was wondering if it would be possible to_arrive a_day late_for the_program
@@ -762,7 +762,7 @@ scramble:
           sentence: I am writing in_response_to an_advertisement regarding job_opportunities for Japanese_speakers
           clozed: I|am|writing|in_response_to|an_advertisement|regarding|job_opportunities|for|Japanese_speakers
     "00":
-      identifier: p56 similar
+      identifier: questions similar to p56 inquiry question scramble 1~3
       sentences:
         -
           sentence: Would it be all right for participants to start one day late on the program.
@@ -774,7 +774,7 @@ scramble:
           sentence: I wish to apply for the job advertised on page 3 of the Taipei Times on Wednesday.
           clozed: I|wish|to|apply|for|the|job|advertised|on|page|of|the|Taipei|Times|on|End
     1:
-      identifier: p56
+      identifier: p56 inquiry question scramble 4~6
       sentences:
         -
           sentence: I am interested in finding out more about your university
@@ -786,7 +786,7 @@ scramble:
           sentence: could you tell me where on your_website I can get a price quote with a_discount
           clozed: could|you|tell|me|where|on|your_website|I|can|get|a|price|quote|with|a_discount
     11:
-      identifier: p56 similar
+      identifier: questions similar to p56 inquiry question scramble 4~6
       sentences:
         -
           sentence: I am interested in finding out how you were able to succeed at such a competitive school.
@@ -798,7 +798,7 @@ scramble:
           sentence: Could you tell me where on your_website I can find details about prices and delivery.
           clozed: Could|you|tell|me|where|on|your_website|I|can|find|details|about|prices|and|End
     2:
-      identifier: p56
+      identifier: p56 inquiry question scramble 7~8
       sentences:
         -
           sentence: Would it be possible for you to add my name to your mailing_list
@@ -807,7 +807,7 @@ scramble:
           sentence: Could you send me your latest catalogue at the above address?
           clozed: Could|you|send|me|your|latest|catalogue|at|the|above|End
     22:
-      identifier: p56 similar
+      identifier: questions similar to p56 inquiry question scramble 7~8
       sentences:
         -
           sentence: Would it be possible for you to include me in your list of sponsors.
