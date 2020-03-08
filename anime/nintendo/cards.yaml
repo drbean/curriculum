@@ -33,3 +33,108 @@ company:
             - Color TV-Game console
             - Game Boy
           answer: Ultra Hand
+gooigi:
+  jigsaw:
+    0:
+      identifier: Mario & Luigi - Super Anime Brothers-jvupK5lHOqU.mp4
+      quiz:
+        - question: Who does not appear in the anime, or only appears very briefly?
+          option:
+            - Egad
+            - Luigi
+            - Luigi Number 2
+            - Mario
+          answer: Egad
+        - question: Luigi was first in the sewer. Who pushed him in?
+          option:
+            - Egad
+            - Luigi
+            - Luigi Number 2
+            - Mario
+            - no-one
+          answer: no-one
+        - question: Mario then got Luigi out. What did Luigi do then?
+          option:
+            - Celebrate
+            - Help Mario out
+            - Melt
+          answer: Melt
+        - question: After the real Luigi appeared, what did he do?
+          option:
+            - Celebrate
+            - Help Mario out
+            - Melt
+          answer: Celebrate
+        - question: Who then pushed Luigi in?
+          option:
+            - Egad
+            - Luigi
+            - Luigi Number 2
+            - the real Mario
+          answer: the real Mario
+        - question: Who then pushed the real Mario in?
+          option:
+            - Egad
+            - Luigi
+            - Luigi Number 2
+            - Mario
+          answer: Luigi Number 2
+        - question: Who then pushed Luigi Number 2 in?
+          option:
+            - a combination of Mario and Luigi
+            - Egad
+            - Luigi
+            - Luigi Number 2
+            - Mario
+          answer: a combination of Mario and Luigi
+plantastrophe:
+  jigsaw:
+    0:
+      identifier: "plantastrophe: https://www.youtube.com/watch?v=\\\_V76VCF7hvc"
+      # identifier: plantastrophe
+      A: You come from outerspace. You capture Peach. Mario fights you. Luigi opens a box which destroys you.
+      B: Mario loves you, but you are captured by Mean Green Mother. Luigi finds a magic box which saves you.
+      C: You run with Mario to save Peach, but are separated from Mario by Mean Green Mother.
+      D: You save Peach before the magic box which Luigi finds destroys Mean Green Mother and the palace
+      quiz:
+        - question: A
+          option:
+            - Luigi
+            - Mario
+            - Mean Green Mother
+            - Princess Peach
+          answer: Mean Green Mother
+        - question: B
+          option:
+            - Luigi
+            - Mario
+            - Mean Green Mother
+            - Princess Peach
+          answer: Princess Peach
+        - question: C
+          option:
+            - Luigi
+            - Mario
+            - Mean Green Mother
+            - Princess Peach
+          answer: Luigi
+        - question: D
+          option:
+            - Luigi
+            - Mario
+            - Mean Green Mother
+            - Princess Peach
+          answer: Mario
+        - question: Mario destroys Mean Green Mother
+          answer: False
+        - question: Luigi finds the magic box.
+          answer: True
+        - question: Mean Green Mother comes from outerspace.
+          answer: True
+        - question: Luigi and Mario together reach Peach.
+          answer: False
+        
+        
+        
+          
+        
