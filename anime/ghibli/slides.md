@@ -62,3 +62,24 @@ starved
 weakest
 
 Tales from Earthsea _____(17) at once loaded with _____(18) and characters while also _____(19) of depth, _____(20) there's not enough time to explore each _____(21). The sprawling plot and _____(22) character motivations all _____(23) making Tales from Earthsea the _____(24) Studio Ghibli film by far.
+
+# Spirited Away
+
+## Summary
+
+A 10-year-old girl has a hard time in the spririt world, working at a bathhouse run by a witch, before returning with her parents to the real world.
+
+## Spirited Away on the Internet
+
+- [Spirited_Away on Wikipedia](http://en.wikipedia.org/wiki/Spirited_Away)
+- [Official Trailer](https://www.youtube.com/watch?v=ByXuk9QqQkk)
+
+
+## Spirited Away critique by All 22 Studio Ghibli Anime Movies Ranked Worst to Best-1WeLvhadP30.mp4
+
+## Trivia questions about Spirited Away
+
+
+[Spirited Away Trivia Questions &amp; Answers](https://www.funtrivia.com/trivia-quiz/Movies/General-Spirited-Away-Info-177065.html)
+[Spirited Away Trivia Questions &amp; Answers](https://www.funtrivia.com/en/Movies/Spirited-Away-9851.html)
+
