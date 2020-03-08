@@ -44,7 +44,354 @@ correspondence:
         -
           - "inquiry: 2. confident close"
           - "promotion: No expression of confidence"
-        
+    confusion:
+      identifier: inquiry-promotion confusion
+      quiz:
+        - question: |+
+                  To: Samsung ( www.samsung@gmail.com  )
+                  From: Sales Manager Best Electric board Supplies ( www.dianqitw@gmail.com )
+                  Subject: Cooperation for Electric board
+
+                  Dear Sales Manager:
+
+              Our company saw your website, we are interested in cooperation with your company develop new products.
+
+              Our company is specialized in developing electric boards and electronic parts, I would be grateful if you could cooperation with our company。
+
+              We are particularly interested in cooperation with your company.
+
+              If our company can do anything to help you in the future, please let out company know.
+
+              Your faithfully,
+          option:
+            - promotion/introduction
+            - inquiry
+          answer: promotion/introduction
+        - question:  We saw your email address on Facebook, you ask if there is a building material company willing to accept the case.We are Happy building material company,we sell building material to our customer.We are willing to accept the case to provide green  building material.We look forward to hearing from you soon.
+          option:
+            - promotion/introduction
+            - inquiry
+          answer: promotion/introduction
+        - question: |+
+            To: Mr.Xi [WinniePooh@gmail.com]
+
+            From: Geng Shuang[woshizigo@gmail.com]
+
+            Subject: Introducing the new game of your company
+
+            As your regular customer , i would like to know more details about your upcoming game.I really really like your company's games that
+            all of them are very fun!!That's why i am also curious about your new game.It would be very grateful if you can send the details to my
+            email !!!
+
+            I look forward to receiving your reply
+
+            Yours faithfully
+          option:
+            - promotion/introduction
+            - inquiry
+          answer: inquiry
+        - question: |+
+            To:top drives (support@hutchgames.com)
+
+            From: Dragon (defa1639@gmail.com)
+
+            Subject:Top Drives' special Legendary Car
+
+            I'm interested in your TopDrives' Legendary Car "Alfa Romeo
+
+            Stelvio Quadrifoglio 2018". Can you provide a activity which have a chance to try this car. Or provide a a large discount to open the high-grades cars packages. Please~
+
+            Thank you in advance for your cooperation in the matter
+
+             Yours faithfully
+          option:
+            - promotion/introduction
+            - inquiry
+          answer: inquiry
+        - question: |+
+            From:      Amy Chen [amy2828smail.nuu.edu.tw]
+
+            To:          Matilda Tsai [matilda2929@smail.nuu.edu.tw]
+
+            Subject: Skin care products-let you have a baby face
+
+            Dear Matilda:
+
+            I am writing about products of skin care.Using good skin care products that you can have a healthy face.Skin care products include eye
+            cream,toning lotion,and facial mask etc.Our products internet site is https://www.beauty.com/tw/beauty/.Thanks for spending your
+            precious time with patient to read my email.
+
+            Regards,
+          option:
+            - promotion/introduction
+            - inquiry
+          answer: promotion/introduction
+        - question: |+
+            To:Kuai Kuai (kk0800@kuai.com.tw)
+
+            From: Tsai Tsai (Tsai.gmail.com.tw)
+
+            Subject: Cooperation Products
+
+            Dear Kuai Kuai :
+
+            I found you at Kuai Kuai official website. I am the largest strawberry maker in Taiwan. And,I want to develop strawberry flavor
+            products with you.I can send some strawberries for you to taste first or let you visit our company.Then, if you are interested, you
+            can contact us after you saw it.
+
+            I look forword to hearing from you.
+
+            Yours faithfully,
+          option:
+            - promotion/introduction
+            - inquiry
+          answer: promotion/introduction
+        - question: |+
+            Union University Golfer
+
+            120 Xinying Road
+
+            Miaoli 360 Taiwan R.O.C
+
+            Tel: 886-0925-132-628
+
+            [131]https://golf-driving-range-366.business.site/
+
+            March 6,2020
+
+            Sales Manager
+
+            Best Golf Supplies
+
+            Xinying 120, Miaoli
+
+            Hialeah, Miami 33013
+            Dear Sales Manager:
+              Would it be possible to send me a copy of your 2020 Summer Catalogue, which I saw advertised in the March edition of Golfing Review? I
+              have a small chain of golfing stores in Taiwan and am inrerested in increasing my product range.
+              I am particularly interested in your range of left-handed  golf clubs -- both irons and woods. These items are becoming increasingly
+              more popular in Taiwan, but are difficult to find.
+              As I am now getting ready to stock my stores for the summer, I would be grateful if I could receive this by July 11.
+              I look forward to hearing from you.
+              Yours faithfully,
+          option:
+            - promotion/introduction
+            - inquiry
+          answer: inquiry
+        - question: |+
+            To: Jenny Smith
+
+            From: Forever Beauty
+
+            Subject lines: An invitation for cooperation
+
+            Dear Ms. Smith:
+
+              We saw your email, jennysmith@outlook.com, on your Youtube channel. We are a cosmetics company,our products include lipstick,
+              foundation and nail polish......etc.
+
+              We watched the video you tried out cosmetics and it was great, so we hope you can also try out our product.We have confidence in them.
+
+              If you are willing to cooperate with us,please contact us at foreverbeauty@gmail.com,or you want to know more about information of our
+            products,can visit our website http://www.foreverbeauty.com .We look forward to hearing from you.
+
+            Yours sincerely,
+
+            Cindy Wilson(Ms.)
+          option:
+            - promotion/introduction
+            - inquiry
+          answer: promotion/introduction
+        - question: |+
+            To:coca cola Sales Manager
+            March 2,2020
+            Would it be possible to send me a copy of your 2020 Spring Catalogue, which I saw advertised
+            in  [101]http://www.coke.com.tw/zh/brand/schweppes/.
+            I am interested in your Sparkling water.As I am now getting ready to buy some of Sparkling water,I would be grateful if
+            I could receive this by May 30.
+            I look forward to hearing from you.
+            Yours faithfully,
+          option:
+            - promotion/introduction
+            - inquiry
+          answer: inquiry
+        - question: |+
+            To: Yu Xuan
+
+                 12345678@gmail.com
+
+                 We are a game company of Humble Bundle.Before, you have subscribed to our games. Now we have many games with special discounts for
+                 your reference.If necessary, our company will process them as soon as possible to provide you with good game quality.Thank you for our
+                 company support.
+
+                 Your sincerely,
+
+            From:  Humble Bundle
+
+                        Humble Bundle@gmail.com
+          option:
+            - promotion/introduction
+            - inquiry
+          answer: promotion/introduction
+        - question: |+
+            To: Happybookstore Manager ([101]Happybookstore@gmail.com.tw)
+            From: XXX YYY (XXX@gmail.com.tw)
+            Subject Line: Inquire about the details of ordering English books.
+
+            Dear Happybookstore Manager,
+
+            I saw English books can be ordered on your website. ([103]https://www.Happybookstore.com.tw/)
+
+            And I am a NUUBM classleader, I need fifty English books for all the classmate. So my purpose is to ask for the details of the books.I
+            would like to ask the price, discounts and when will it be received if ordered?
+
+            Thank you in advance for your help.
+
+            And it is my email, I hope you can reply quickly. Thank you.(XXX@gmail.com.tw)
+
+            Sincerely yours,
+          option:
+            - promotion/introduction
+            - inquiry
+          answer: inquiry
+        - question: |+
+            To: Dear Madam
+
+            From: Roger
+            Subject: Inquiry about Hand Knitted Scarf
+
+            I am writing to enquire about hand knitted scarf. I saw your advertising on Ruten, an online auction website. I have five apparel stores in
+            Taipei, and I want to increase my product range.
+
+            I would appreciate it if you could send me your latest catalogue. I am confident that your hand knitted scarf will be popular.
+
+            The business opportunities are fleeting,so I would be grateful if I could receive it by March 20.
+
+            Please do not hesitate to contact us if you are interested. You can contact me through my email, xji6rum6@yahoo.com.tw.
+
+            I look forward to hearing from you.
+
+            Yours faithfully,
+          option:
+            - promotion/introduction
+            - inquiry
+          answer: inquiry
+        - question: |+
+            CV. NUSANTARA SHOES
+            Street Tanah Baru No. 20
+            JAKARTA
+
+            JAKARTA, 2 MARCH 2020
+
+            CV. ANUGERAH SHOES
+            STREET HAKIM NO. 10
+            KARAWANG
+
+            Dear Sir or Madam,
+
+            I am writing to inquire about the availability of Nike shoes. I have seen the product details on your www.styleshoes.com and I'm very
+            interested in buying one. I appreciate it if you can send me samples so I can test before making a decision. I have confidence in your
+            commitment to quality but part of our procurement process is to test before any purchase. I also appreciate it if you could send me
+            the price of one unit as well as discounts on bulk orders. I need to take a decision in the coming few days so it's really very
+            important that I receive this information as soon as possible. Awaiting your reply.
+
+            Thank you.
+
+            Yours Sincerely,
+
+            Calvin Selena
+          option:
+            - promotion/introduction
+            - inquiry
+          answer: inquiry
+        - question: |+
+                          KEBUKE Mature black tea
+                          No. 191, Section 1, Shangxiang Road,
+                          West District, Taichung City, Taiwan R.O.C
+                          Tel:04-2301-3552
+                          kebukeinc@gmail.com
+            March 7, 2020
+            Best Customers
+
+            No.81, Zhongzheng Road
+
+            Tongluo Township, Miaoli 36641, Taiwan
+            who you are what you do: I am just a customer who loves KEBUKE.
+            purpose of email: I want to ask if there is a new drink launched.
+            specific details: I want to get more information and price of the latest drinks.
+
+          option:
+            - promotion/introduction
+            - inquiry
+          answer: inquiry
+        - question: |+
+            No.53, Fengle 5th St., Beitun Dist., Taichung City 406, Taiwan
+
+            No. 30, Ln. 732, Sec. 2, Fuxing Rd., Daxi Dist., Taoyuan City 335, Taiwan
+
+            Taichung, 1 MARCH 2020
+
+            Dear Sir or Madam,
+
+             I am writing to inquire about the availability of a Professional tennis racket. I have seen the product details on your www.http://www.racket-shop.com.tw and I'm very interested in buying one. If you can arrange for me to test it myself so that I can test it before I make a decision. I have full confidence in your commitment to quality, but we test before any purchase. I would also appreciate it if you could send me a unit price and discount, so it's important to receive this information as soon as possible, waiting for your reply.
+
+             Thank you.
+
+             Yours Sincerely,
+
+             Tom Cruise
+          option:
+            - promotion/introduction
+            - inquiry
+          answer: inquiry
+        - question: |+
+            I am writing to inquire about the durability of the notebook.I saw a notebook on your www.Acer.com  and I want to buy one notebook.Could you please send me your newest quotation?In addition,I want to know your hot models.I would also be grateful if I could receive this by March 10.
+
+            Thank you in advance for your help.
+
+            Yours faithfully,
+          option:
+            - promotion/introduction
+            - inquiry
+          answer: Wrong answer
+        - question: |+
+            To: Sandy [sannndy@gmail.com]
+
+            From: Jenny [jjeenny@gmail.com]
+
+            Subject: Best-selling clothing of the year
+
+            Dear Sandy:
+
+               I am wondering to invite you coming to my clothes store and I will show you the best-selling clothing of the year.
+
+               I would send you latest catalogue, if you interested in something, please call me or come to my store.
+          option:
+            - promotion/introduction
+            - inquiry
+          answer: promotion/introduction
+        - question: |+
+                To: Sales Manager of Apple Inc.
+                      appleinc@gmail.com
+
+                            Phone:0987-752-438
+                From: Benny Tseng(Public relation of TSMC)
+                Subject Line: Interest in your product
+
+            Dear Sales Manager:
+
+              We are the biggest wafer company in Taiwan.
+
+              I would appreciate your sending me your latest catalogue.  I am particularly interesting in your new products. Would it be possible
+              for you to send the new one for me?
+
+              I look forward to hearing from you.
+
+              Your Faithfully,
+          option:
+            - promotion/introduction
+            - inquiry
+          answer: Wrong answer
         
 raspberry:
   jigsaw:
@@ -1057,6 +1404,30 @@ cruise:
 
         Dietary requirements: For example is your partner French, and will they only eat French food? Or, does your partner only eat one meal a day, after midnight?
 
+interested:
+  essay:
+    0:
+      identifier: your inquiry about an interesting product
+      rubric: |+
+        ## Your inquiry
+
+        Write an inquiry about some product that interests you, following the structure described on p. 53, 54.
+        
+        Write the To:, From, and Subject: lines, and include your email address and an email address you find off the Internet for the product you are interested in.
+
+        Make sure you have the 4 parts of an inquiry. Make sure you have:
+
+          - "source of reader's email address"
+          - "who you are what you do"
+          - "purpose of email"
+          - "specific details"
+          - "confident close"
+
+
+
+
+        
+    
 
 boiler:
   jigsaw:
