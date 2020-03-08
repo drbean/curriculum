@@ -1,0 +1,63 @@
+---
+timeopen         : 1
+timeclose        : 9999999999
+introformat      : 4
+gradecat         : 588
+attempts         : 1
+grade            : 3
+groupmode        : 1
+groupingid       : 136
+decimalpoints    : 0
+overduehandling  : 0
+shuffleanswers   : 1
+# browsersecurity  : safebrowser
+# safeexambrowser_allowedkeys: e71abb59ffc16b3344b23e826059219f3c4fe70731e1845b77b2faa1ad93bbab
+
+---
+-
+  content:
+  -
+    topic : inquiry
+    story : correspondence
+    type  : jigsaw
+    form  : confusion
+    intro : Some students do not understand the difference between promotion/introduction and an inquiry
+    random: 5
+-
+  content:
+  -
+    topic : inquiry
+    story : reason
+    type  : jigsaw
+    form  : 0
+    intro : Connect the reason for the inquiry with the question the inquirer asked. Check the meaning of the words you don't know on the Internet.
+    random: 3
+-
+  content:
+  -
+    topic : inquiry
+    story : scramble
+    type  : drag
+    form  : 0
+    intro : As you unscramble the sentences, think about which part of an inquiry they belong to. Eg, Is this an opening or the request?
+    random: 2
+-
+  content:
+  -
+    topic : inquiry
+    story : scramble
+    type  : drag
+    form  : 1
+    intro : These sentences belong to the same part of an inquiry. Which part is that?
+    random: 2
+-
+  content:
+  -
+    topic : inquiry
+    story : scramble
+    type  : drag
+    form  : 2
+    intro : Which part of an inquiry does this sentence belong to?
+    random: 1
+   
+  
