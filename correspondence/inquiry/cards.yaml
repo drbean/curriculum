@@ -44,15 +44,18 @@ correspondence:
         -
           - "inquiry: 2. confident close"
           - "promotion: No expression of confidence"
+  jigsaw:
     confusion:
       identifier: inquiry-promotion confusion
       quiz:
         - question: |+
-                  To: Samsung ( www.samsung@gmail.com  )
-                  From: Sales Manager Best Electric board Supplies ( www.dianqitw@gmail.com )
-                  Subject: Cooperation for Electric board
+            To: Samsung ( www.samsung@gmail.com  )
 
-                  Dear Sales Manager:
+            From: Sales Manager Best Electric board Supplies ( www.dianqitw@gmail.com )
+
+            Subject: Cooperation for Electric board
+
+            Dear Sales Manager:
 
               Our company saw your website, we are interested in cooperation with your company develop new products.
 
@@ -305,19 +308,22 @@ correspondence:
             - inquiry
           answer: inquiry
         - question: |+
-                          KEBUKE Mature black tea
-                          No. 191, Section 1, Shangxiang Road,
-                          West District, Taichung City, Taiwan R.O.C
-                          Tel:04-2301-3552
-                          kebukeinc@gmail.com
-            March 7, 2020
-            Best Customers
+            |              KEBUKE Mature black tea
+            |              No. 191, Section 1, Shangxiang Road,
+            |              West District, Taichung City, Taiwan R.O.C
+            |              Tel:04-2301-3552
+            |              kebukeinc@gmail.com
+            |March 7, 2020
+            |Best Customers
 
-            No.81, Zhongzheng Road
+            |No.81, Zhongzheng Road
 
-            Tongluo Township, Miaoli 36641, Taiwan
+            |Tongluo Township, Miaoli 36641, Taiwan
+
             who you are what you do: I am just a customer who loves KEBUKE.
+
             purpose of email: I want to ask if there is a new drink launched.
+
             specific details: I want to get more information and price of the latest drinks.
 
           option:
@@ -371,23 +377,23 @@ correspondence:
             - inquiry
           answer: promotion/introduction
         - question: |+
-                To: Sales Manager of Apple Inc.
-                      appleinc@gmail.com
+            | To: Sales Manager of Apple Inc.
+            |       appleinc@gmail.com
 
-                            Phone:0987-752-438
-                From: Benny Tseng(Public relation of TSMC)
-                Subject Line: Interest in your product
+            |             Phone:0987-752-438
+            | From: Benny Tseng(Public relation of TSMC)
+            | Subject Line: Interest in your product
 
-            Dear Sales Manager:
+            | Dear Sales Manager:
 
-              We are the biggest wafer company in Taiwan.
+            We are the biggest wafer company in Taiwan.
 
-              I would appreciate your sending me your latest catalogue.  I am particularly interesting in your new products. Would it be possible
+            I would appreciate your sending me your latest catalogue.  I am particularly interesting in your new products. Would it be possible
               for you to send the new one for me?
 
-              I look forward to hearing from you.
+            I look forward to hearing from you.
 
-              Your Faithfully,
+            Your Faithfully,
           option:
             - promotion/introduction
             - inquiry
@@ -917,46 +923,46 @@ reason:
     0:
       identifier: match inquiry, reason
       quiz:
-        - question: 1
+        - question: 1. I would be grateful if you could send me a list of the hotels in Hsinchu.
           option:
-            - A
-            - B
-            - C
-            - D
-            - E
-          answer: D
-        - question: 2
+            - A. My wife and I currently argue over sport or soaps and I would like a set for my den.
+            - B. My current vehicle is being repaired and I need to travel to Kenting.
+            - C. I accidentally shredded the original.
+            - D. My company is sending me there on business for a month.
+            - E. I have to do a shoot on dolphins in Australia next month.
+          answer: D. My company is sending me there on business for a month.
+        - question: 2. How much would it cost to hire a 1.8 Toyota Altis from 3-5 August?
           option:
-            - A
-            - B
-            - C
-            - D
-            - E
-          answer: B
-        - question: 3
+            - A. My wife and I currently argue over sport or soaps and I would like a set for my den.
+            - B. My current vehicle is being repaired and I need to travel to Kenting.
+            - C. I accidentally shredded the original.
+            - D. My company is sending me there on business for a month.
+            - E. I have to do a shoot on dolphins in Australia next month.
+          answer: B. My current vehicle is being repaired and I need to travel to Kenting.
+        - question: 3. I am writing to inquire whether your company produces underwater cameras.
           option:
-            - A
-            - B
-            - C
-            - D
-            - E
-          answer: E
-        - question: 4
+            - A. My wife and I currently argue over sport or soaps and I would like a set for my den.
+            - B. My current vehicle is being repaired and I need to travel to Kenting.
+            - C. I accidentally shredded the original.
+            - D. My company is sending me there on business for a month.
+            - E. I have to do a shoot on dolphins in Australia next month.
+          answer: E. I have to do a shoot on dolphins in Australia next month.
+        - question: 4. Could you please tell me the cost of a Sony KD-65X9300C 4K 65-inch LED television?
           option:
-            - A
-            - B
-            - C
-            - D
-            - E
-          answer: A
-        - question: 5
+            - A. My wife and I currently argue over sport or soaps and I would like a set for my den.
+            - B. My current vehicle is being repaired and I need to travel to Kenting.
+            - C. I accidentally shredded the original.
+            - D. My company is sending me there on business for a month.
+            - E. I have to do a shoot on dolphins in Australia next month.
+          answer: A. My wife and I currently argue over sport or soaps and I would like a set for my den.
+        - question: 5. I would appreciate it if you could send me a copy of your letter dated 4 July.
           option:
-            - A
-            - B
-            - C
-            - D
-            - E
-          answer: C
+            - A. My wife and I currently argue over sport or soaps and I would like a set for my den.
+            - B. My current vehicle is being repaired and I need to travel to Kenting.
+            - C. I accidentally shredded the original.
+            - D. My company is sending me there on business for a month.
+            - E. I have to do a shoot on dolphins in Australia next month.
+          answer: C. I accidentally shredded the original.
 survey:
   jigsaw:
     0:
