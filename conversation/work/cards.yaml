@@ -385,7 +385,7 @@ dickson:
       B: Your daughter, Dee married and had two sons when she was 19, but the marriage broke up after 3 years and she needs to find a good job to support her family. She tells you about the interview. 
       C: You tell your dad, who is in his mid-forties, that the shipyard didn't accept you. He tells you that he can talk to his Uncle Alf, who is a superintendent there. You don't want him to do that. You want to get the job on your own merits.
     0:
-      identifier: dickson 0
+      identifier: 4-person dickson problem
       A: You come from Biloxi and you work for a shipbuilding company there. You are almost 60 and a manager. Sometimes your family asks you to help them get work. Your nephew, Bruce, asks you to let his daughter become an apprentice electrician at the shipyard.
       B: You interviewed Dee when she applied to become an apprentice at the shipyard. There were women working on the ships 30 years before in the war, but you don't want her to work there now. You think the men will harass them and they won't be strong enough.
       C: Your daughter married and had two sons when she was 19, but the marriage broke up after 3 years and she needs to find a good job to support her family. She tells you about the interview with Charles. 
@@ -470,7 +470,7 @@ dickson:
         - question: Alf can't help Dee with the job.
           answer: True
     2:
-      identifier: dickson 2
+      identifier: 3-person dickson problem
       A: You have a daughter, Dee, who needs to get a job, because she is a single parent. You ask your Uncle Alf, a top manager at the shipyard, to help her.
       B: You apply for a job at a shipyard, but the shipyard doesn't want you, because you are a woman. You don't want your dad, Bruce to speak to his uncle, Alf.
       C: Your nephew, Bruce, tells you the shipyard won't give Dee a job. You talk to some people and tell them to give Dee a job even though she is a woman.
