@@ -42,5 +42,54 @@ earthsea:
             - incorporating elements from several EarthSea books
             - gorgeous scenes
           answer: gorgeous scenes
+spirited_away:
+  essay:
+    0:
+      identifier: a Question about Spirited Away
+      rubric: |+
+        What questions would you ask about the anime?
+    
+  jigsaw:
+    0:
+      identifier: Critique by All 22 Studio Ghibli Anime Movies Ranked Worst to Best-1WeLvhadP30.mp4
+      quiz:
+        - question: Spirited Away is ranked in what position by Justin
+          option:
+            - 1
+            - 2
+            - 3
+            - 4
+            - 5
+            - 6
+            - 7
+            - 9
+            - 11
+            - 13
+            - 15
+            - 17
+            - 19
+            - 21
+          answer: 2
+        - question: What Justin likes about the movie
+          option:
+            - knowing what's going to happen early in the movie
+            - a focus on the old world, rather than the new world
+            - what happens to the characters in the movie
+          answer: what happens to the characters in the movie
+        - question: Justin says the movie deserved to win best movie award
+          option:
+            - But it didn't win
+            - It did win
+          answer: It did win
+        - question: Justin evaluates it as
+          option:
+            - Great because of the visual quality
+            - Not so good, because of the story
+            - The best Studio Ghibli movie
+            - One of the studio's best movies
+          answer: One of the studio's best movies
+
+
+        
 
         
