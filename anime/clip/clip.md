@@ -7,6 +7,7 @@
 ### [Mario](https://mario.nintendo.com/)
 
 - [Mario & Luigi - Super Anime Brothers-jvupK5lHOqU.mp4](http://web.nuu.edu.tw/~greg/anime/clip/Mario & Luigi - Super Anime Brothers-jvupK5lHOqU.mp4)
+- [Mario & Luigi's Plumbing Plantastrophe!-_V76VCF7hvc.mp4](http://web.nuu.edu.tw/~greg/anime/clip/Mario\ &\ Luigi\'s\ Plumbing\ Plantastrophe!-_V76VCF7hvc.mp4)
 
 
 ## [Studio Ghibli](http://www.ghibli.jp/)
