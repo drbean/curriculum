@@ -2,10 +2,11 @@
 timeopen         : 1
 timeclose        : 9999999999
 introformat      : 4
+gradecat         : 587
+attempts         : 1
 grade            : 3
 groupmode        : 1
-# groupingid       : 128
-attempts         : 1
+groupingid       : 136
 decimalpoints    : 0
 overduehandling  : 0
 shuffleanswers   : 1
@@ -14,6 +15,45 @@ shuffleanswers   : 1
 
 ---
 -
+  question:
+  -
+    topic : inquiry
+    story : golfer
+    type  : match
+    form  : 0
+    intro : Lady Golfer inquiry structure
+    random: 
+-
+  question:
+  -
+    topic : inquiry
+    story : golfer
+    type  : match
+    form  : 1
+    intro : structure of Best Golf Supplies reply to Lady Golfer
+    random: 
+-
+  question:
+  -
+    topic : inquiry
+    story : golfer
+    type  : match
+    form  : 2
+    intro : Best Golf Supplies reply paragraph structure
+    random: 
+  
+-
+  question:
+  -
+    topic : promotion
+    story : golf
+    type  : drag
+    form  : 0
+    intro : golf: promotion or inquiry?
+    random: 
+  
+-
+  question:
   -
     topic : inquiry
     story : cruise
@@ -21,7 +61,6 @@ shuffleanswers   : 1
     form  : 0
     intro : reference to promotion, expression of interest
     random: 1
--
   -
     topic : inquiry
     story : cruise
@@ -29,7 +68,9 @@ shuffleanswers   : 1
     form  : 1
     intro : reference to promotion, expression of interest
     random: 1
+  attempts: 3
 -
+  question:
   -
     topic : inquiry
     story : golfer
@@ -37,6 +78,55 @@ shuffleanswers   : 1
     form  : 0
     intro : golf club story understanding
     random: 1
+  attempts: 1
+-
+  question:
+  -
+    topic : inquiry
+    story : student
+    type  : assign
+    form  : 0
+    intro : Think of something you might buy. Make an inquiry, but don't send it.
+    random: 
+-
+  question:
+  -
+    topic : inquiry
+    story : correspondence
+    type  : match
+    form  : inquiry
+    intro : Matching the promotion/introduction steps to each step of a product inquiry
+    random: 
+-
+  question:
+  -
+    topic : inquiry
+    story : correspondence
+    type  : match
+    form  : promotion
+    intro : Matching the inquiry steps to each step of a product introduction/promotion
+    random: 
+-
+  question:
+  -
+    topic : inquiry
+    story : golfer
+    type  : match
+    form  : 1
+    intro : structure of Best Golf Supplies reply to Lady Golfer
+    random: 
+-
+  question:
+  -
+    topic : inquiry
+    story : golfer
+    type  : match
+    form  : 2
+    intro : structure of Best Golf Supplies reply to Lady Golfer
+    random: 
+  
+  
+
 
 
 

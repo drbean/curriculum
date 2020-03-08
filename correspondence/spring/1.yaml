@@ -19,8 +19,10 @@ shuffleanswers   : 1
     story : cruise
     type  : drag
     form  : 0
-    intro : reference to promotion, expression of interest
+    intro : reference to cruise advertisement, expression of interest
     random: 1
+    option:
+      attempts: 3
 -
   -
     topic : inquiry
@@ -29,6 +31,8 @@ shuffleanswers   : 1
     form  : 1
     intro : reference to promotion, expression of interest
     random: 1
+    option:
+      attempts: 2
 -
   -
     topic : inquiry
@@ -36,7 +40,7 @@ shuffleanswers   : 1
     type  : jigsaw
     form  : 0
     intro : golf club story understanding
-    random: 1
+    random: 2
 
 
 
