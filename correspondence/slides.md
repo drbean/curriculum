@@ -100,15 +100,29 @@ You should say:
 
 What is the answer [to this [exercise]]?
 
+## When you don't understand why the right answer is right
+
+If you don't understand why the right answer is right, or how to get the right answer,
+
+You should say:
+
+Can you explain (how to get) the answer [to this [exercise]]?
+
 ## When you think your answer is not wrong, but moodle says it is wrong
 
 You should say:
 
 What is wrong with this answer? It looks OK to me.
 
-## When got the answer wrong, but you want a second chance
+## When your got the answer wrong, but you want a second chance
 
 Can I try it again?
+
+## When an exercise you're working on disappears or misbehaves.
+
+You can say:
+
+What's wrong with the exercise (which|that) I was working on?
 
 ## Seek and you shall find
 
