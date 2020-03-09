@@ -28,13 +28,19 @@
 
 [Woman lays bricks](http://www.npr.org/2014/08/01/336889387/female-bricklayer-defied-doubters-to-build-baltimore-landmarks)
 
-## Female electricians
+## Female electricians talk
 
 [Women working as electricians](http://www.youtube.com/watch?v=pbNHHXzXLoU)
 
-What percentage of electricians in the U.S are women?
+[3 women who are electricians](http://www.youtube.com/watch?v=w5HrlIGvLhI)
+
+## What percentage of electricians in the U.S are women?
 
 [A fair deal for women](http://womensenews.org/story/equal-payfair-wage/110412/female-electricians-burn-out-male-dominance)
+
+[What percentage of electricians in the U.K are women?](http://www.electriciancourses4u.co.uk/blog/are-female-electricians-undermined/)
+
+[Percentage of engineers who are women in Taiwan](http://focustaiwan.tw/society/202003080007)
 
 ## Electricians--The job
 
@@ -70,7 +76,7 @@ distances to jobsites.
 
 [https://web.nuu.edu.tw/~greg/conversation/work/soundfile/dickson.mp3](https://web.nuu.edu.tw/~greg/conversation/work/soundfile/dickson.mp3)
 
-## Conversation about Dee Dickson and women electricians
+## Conversation about Dee Dickson and women electricians {.allowframebreaks}
 
 One: What do you think about working as an electrician?
 
@@ -215,7 +221,7 @@ What percentage of electricians in the U.S are women?
 
 ## Finally, at the end of that week I let my dad take me to see Uncle Alf.
 
-- [The semantics of let, or Grant_permission ](https://framenet2.icsi.berkeley.edu/fnReports/data/frame/Grant_permission.xml)
+- [The semantics of let, or Grant_permission ](https://framenet2.icsi.berkeley.edu/fnReports/data/frameIndex.xml?frame=Preventing_or_letting)
 - [Examples of 'let' ](http://verbs.colorado.edu/html_groupings/let-v.html)
 
 Teacher A: Do you let your students speak Chinese?
@@ -284,6 +290,160 @@ Now, I had to do some things a little differently than they did, you know?  I co
 + Is it a popular job?
 + Is it a job mainly for men, or for women?
 + Did you need any special training to get your job?
+
+# Claritza Abreu--receptionist
+
+## Claritza on the Internet
+
+- [Mass High-Tech Women to Watch 2011 ](http://www.youtube.com/watch?v=QMFuy6TMLGA)
+- [Claritza's work experience](https://www.linkedin.com/in/claritzaabreu)
+
+
+## Claritza's story about being a receptionist
+
+- [https://storycorps.org/stories/claritza-abreu-and-gerardo-villacres/](https://storycorps.org/stories/claritza-abreu-and-gerardo-villacres/)
+- [http://web.nuu.edu.tw/~greg/exercises.html ](http://web.nuu.edu.tw/~greg/exercises.html)
+
+- What was her biggest problem?
+- How did she solve that problem?
+
+# Surnames and their spelling
+
+## 1,000 most common surnames in the US
+
+- [1,000 most common names in order, from 1 to 1,000](http://names.mongabay.com/most_common_surnames.htm)
+- [1,000 least common names in order, from 49057 to 49965](https://names.mongabay.com/data/49000.html)
+
+## Non surnames
+
+What is not someone's surname now (or is very uncommon)?
+
+- Apple
+- Banana
+- Peach
+
+- Black
+- Brown
+- White
+- Yellow
+
+Which surname has died out?
+
+- Berry
+- Raspberry
+- Rottenberry or Roddenberry
+- Strawberry
+
+# The receptionist
+
+## Receptionists--The job
+
+answer calls desk duties employee include inquiries office organization
+patients products receive specifically title waiting work
+
+A receptionist is an _____(1) with an
+_____(2)/administrative support position. The _____(3)
+is usually performed in a _____(4) area such as a lobby
+or front office _____(5) of an _____(6) or business.
+The _____(7) "receptionist" indicates the person is
+_____(8) employed by the organization to _____(9) or
+greet any visitors, _____(10), or clients and _____(11)
+telephone _____(12). His/her business _____(13) may
+_____(14) answering visitors' _____(15) about a company
+and its _____(16) or services.
+
+## Receptionists--The job (2)
+
+.. directing visitors to their destinations, sorting and handing out mail, 
+answering incoming calls on multi-line telephones or, earlier in the 20th 
+century, a switchboard, setting appointments, filing, records keeping, 
+keyboarding/data entry and performing a variety of other office tasks, such as 
+faxing or emailing. Some receptionists may also perform bookkeeping or 
+cashiering duties. Some, but not all, offices may expect the receptionist to 
+serve coffee or tea to guests, and to keep the lobby area tidy.
+
+A receptionist may also assume some security guard access control functions for 
+an organization by verifying employee identification, issuing visitor passes, 
+and observing and reporting any unusual or suspicious persons or activities.
+
+## Receptionists--Status and prospects
+
+
+administrative advance careers considered corporation familiarize job
+learn low-ranking office office people receptionists responsibilities smaller
+
+A receptionist position can be _____(1) to be either a
+_____(2), dead-end job, or a glamorous _____(3), with
+opportunities to _____(4) to other positions. Some
+_____(5) may use this type of job to _____(6)
+themselves with _____(7) work, or to _____(8) of other
+positions within a _____(9). While many _____(10)
+continue in the job throughout their _____(11), some
+may advance to other _____(12) jobs, such as secretary.
+In _____(13) businesses, such as a doctor's office, a
+receptionist may also be the _____(14) manager with
+many middle-management-level business _____(15).
+
+# John Doe
+
+## John, Joan and John Doe
+
+http://en.wikipedia.org/wiki/John_Doe
+
+# Speaking
+#
+## Speak as long as possible, eg 3 minutes?
+
+Which group can speak longest about Claritza Abreu and Dee Dickson?
+
+The jobs are very different?
+
+Which job is better paid?
+
+# Questions
+
+## Some job questions 
+
+
+     * Can you describe your current job?
+     * What was your first job?
+     * Do women usually work after they get married in your country?
+     * Think of a job:
+          + Can women do this job or is it better for a man to do it?
+     * Do you think it's acceptable for women to be in the military? Why/why not?
+     * Do you think women and men should be paid the same for the same job?
+     * Do you think women are good bosses?
+          + Are there women bosses in your country?
+     * Would you be upset if your boss was a woman?
+     * What is the name of the job you will probably have when you graduate?
+          + Is it a popular job?
+          + Is it a job mainly for men, or for women?
+          + What is the difference between work and a job?
+     * Would you rather work inside or outside?
+     * What are the qualities a good boss should have?
+     * What are some jobs that some people think only one gender can do, but can be done by either gender?
+ 
+# Grammar/speaking
+
+## Problem, solution, evaluation
+
+[Problem:](https://framenet2.icsi.berkeley.edu/fnReports/data/frameIndex.xml?frame=Predicament )
+
+- And I had a ...
+- She would stand ...
+
+[Solution:](https://framenet2.icsi.berkeley.edu/fnReports/data/frameIndex.xml?frame=Resolve_problem)
+
+
+- So what I did was, I sat down with ...
+- So I sat down ...
+
+[Evaluation:](https://framenet2.icsi.berkeley.edu/fnReports/data/frameIndex.xml?frame=Assessing)
+
+
+- And I got to be an expert ...
+- It was really challenging for me to do that but I ...
+- And um, it sounds funny now, but at the time it was ...
 
 
 # Recording
