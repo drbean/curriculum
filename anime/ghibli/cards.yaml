@@ -45,9 +45,14 @@ earthsea:
 spirited_away:
   essay:
     0:
-      identifier: a Question about Spirited Away
+      identifier: Write and answer some  Questions about Spirited Away
       rubric: |+
-        What questions would you ask about the anime?
+        We looked at the trivia questions at 
+
+        [Spirited Away Trivia Questions Info](https://www.funtrivia.com/trivia-quiz/Movies/General-Spirited-Away-Info-177065.html)
+        [Spirited Away Trivia Questions &amp; Answers](https://www.funtrivia.com/en/Movies/Spirited-Away-9851.html)
+
+        What questions can you ask and answer about the anime?
     
   jigsaw:
     0:
@@ -88,8 +93,90 @@ spirited_away:
             - The best Studio Ghibli movie
             - One of the studio's best movies
           answer: One of the studio's best movies
-
-
-        
-
-        
+    1:
+      identifier: Questions about the plot of Spirited Away
+      quiz:
+        - question: What is Chihiro's name in the spirit world?
+          option:
+            - a harpy
+            - a stink spirit
+            - Boh
+            - Chihiro
+            - Haku
+            - Kamaji
+            - Lin
+            - No-Face
+            - Sen
+            - Yubaba
+            - Zeniba
+          answer: Sen
+        - question: Who is the bathhouse owner, Yubaba's twin sister?
+          option:
+            - a harpy
+            - a stink spirit
+            - Boh
+            - Chihiro
+            - Haku
+            - Kamaji
+            - Lin
+            - No-Face
+            - Sen
+            - Yubaba
+            - Zeniba
+          answer: Zeniba
+        - question: Who swallows bathhouse workers?
+          option:
+            - a harpy
+            - a stink spirit
+            - Boh
+            - Chihiro
+            - Haku
+            - Kamaji
+            - Lin
+            - No-Face
+            - Sen
+            - Yubaba
+            - Zeniba
+          answer: No-Face
+        - question: What is the spirit of a polluted river?
+          option:
+            - a harpy
+            - a stink spirit
+            - Boh
+            - Chihiro
+            - Haku
+            - Kamaji
+            - Lin
+            - No-Face
+            - Sen
+            - Yubaba
+            - Zeniba
+          answer: a stink spirit
+        - question: What does Zeniba mutate into a tiny, fly-like bird?
+          option:
+            - a harpy
+            - a stink spirit
+            - Boh
+            - Chihiro
+            - Haku
+            - Kamaji
+            - Lin
+            - No-Face
+            - Sen
+            - Yubaba
+            - Zeniba
+          answer: a harpy
+        - question: Who does Zeniba mutate into a mouse?
+          option:
+            - a harpy
+            - a stink spirit
+            - Boh
+            - Chihiro
+            - Haku
+            - Kamaji
+            - Lin
+            - No-Face
+            - Sen
+            - Yubaba
+            - Zeniba
+          answer: Boh
