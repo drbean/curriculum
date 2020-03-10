@@ -105,11 +105,16 @@ It's only a matter of time before the corona virus disappears. OR, spreads throu
 
 ## https://www.youtube.com/watch?v=_V76VCF7hvc
 
-[https://www.youtube.com/watch?v=_V76VCF7hvc](https://www.youtube.com/watch?v=_V76VCF7hvc)
-[development version: https://www.youtube.com/watch?v=WH-fW-RGin0](https://www.youtube.com/watch?v=WH-fW-RGin0)
+- [https://www.youtube.com/watch?v=_V76VCF7hvc](https://www.youtube.com/watch?v=_V76VCF7hvc)
+- [development version: https://www.youtube.com/watch?v=WH-fW-RGin0](https://www.youtube.com/watch?v=WH-fW-RGin0)
 
 
 [http://web.nuu.edu.tw/~greg/anime/clip/Mario & Luigi's Plumbing Plantastrophe!-_V76VCF7hvc.mp4](http://web.nuu.edu.tw/~greg/anime/clip/Mario\ &\ Luigi\'s\ Plumbing\ Plantastrophe!-_V76VCF7hvc.mp4)
+
+## Terminal Montage--the animator
+
+- [https://heavy.com/games/2019/08/terminalmontage-something-about-youtube/](https://heavy.com/games/2019/08/terminalmontage-something-about-youtube/)
+
 
 ## Jigsaw
 
@@ -123,4 +128,11 @@ It's only a matter of time before the corona virus disappears. OR, spreads throu
 - Princess Peach
 
 Who are you? Who are the others? What is true about you and them?
+
+Something about Luigi's Mansion
+
+## [https://www.youtube.com/watch?v=I65Z32_yWQY](https://www.youtube.com/watch?v=I65Z32_yWQY)
+
+- [https://www.youtube.com/watch?v=I65Z32_yWQY](https://www.youtube.com/watch?v=I65Z32_yWQY)
+
 
