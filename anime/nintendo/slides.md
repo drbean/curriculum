@@ -22,6 +22,7 @@
 - [Super Mario Bros ](https://duckduckgo.com/?q=super+mario+brothers&ia=web)
 - [Bro](https://duckduckgo.com/?q=bro)
 - [All things Mario](https://www.mariowiki.com)
+- [Cappy](https://www.mariowiki.com/Cappy "Cappy on mariowiki")
 
 ## [Story: Luigi puts Mario in sewer](https://www.youtube.com/watch?v=jvupK5lHOqU)
 
