@@ -1012,9 +1012,11 @@ survey:
   drag:
     0:
       identifier: asu survey
-      sentence: Dear Alumnus, <p> The College of Business is currently conducting a survey which we hope will help in increasing the quality of our courses. We hope to identify the strengths and weaknesses so we can create the best environment possible for our business students. <p> answering the enclosed survey will help us do this, by identifying the progress our graduates have made in their careers. Our students would also be_helped by having an idea of the salaries they can expect. <p> We promise that all information received will only be released in summary statistics. <p> We are eagerly awaiting your reply and would appreciate it arriving before January 31. For your convenience, we are also including a stamped/addressed envelope.
-      
-      clozed: Alumnus|conducting|help|increasing|best|business|answering|careers|be_helped|promise|eagerly|appreciate|convenience|stamped/addressed
+      sentences:
+        -
+          sentence: Dear Alumnus, <p> The College of Business is currently conducting a survey which we hope will help in increasing the quality of our courses. We hope to identify the strengths and weaknesses so we can create the best environment possible for our business students. <p> answering the enclosed survey will help us do this, by identifying the progress our graduates have made in their careers. Our students would also be_helped by having an idea of the salaries they can expect. <p> We promise that all information received will only be released in summary statistics. <p> We are eagerly awaiting your reply and would appreciate it arriving before January 31. For your convenience, we are also including a stamped/addressed envelope.
+          
+          clozed: Alumnus|conducting|help|increasing|best|business|answering|careers|be_helped|promise|eagerly|appreciate|convenience|stamped/addressed
     1:
       identifier: asu survey
       sentences:
@@ -1392,7 +1394,659 @@ cruise:
             - I will tell you what is happening.
             - Thank you again for your inquiry about the cruise.
           answer: You said that your partner is a vegetarian.
-  essay:
+    problem:
+      identifier: problematic inquiry parts in cruise inquiry
+      quiz:
+        - question: |+
+           To: Mr. Terry Shih
+
+           From: Kathy Zheng
+
+           31 July 2020
+
+           I am writing inquire about cruise.
+
+            My partner's likes to eat Taiwanese foods, that he didn't
+           picked eater. But he allergic to shrimp. He eat three meals
+           a day.
+
+           My friends are also interested in this cruise, but are
+           unable to go on the date in the advertisement. I am
+           wondering if this kind of cruise may be repeated.
+
+           I am not a strong swimmer. I am wondering if this is a
+           problem.
+
+           Thank you in advance for your cooperation in this matter.
+
+          option:
+            - No problem with any item
+            - A problem with more than one item
+            - 'A problem with the To:, From: and Subject: lines'
+            - 'A problem with: Reference to source of information about cruise'
+            - 'A problem with: Expression of interest in cruise'
+            - 'A problem with: Dietary accommodation inquiry'
+            - 'A problem with: Cruise repetition inquiry'
+            - 'A problem with: Swimming ability inquiry'
+            - 'A problem with: Confident close'
+          answer: A problem with more than one item
+        - question: |+
+           To: Mr. Terry Shih
+
+           From: Kathy Zheng
+
+           Subject: Cruise inquiry
+
+           31 July 2020
+
+           I am writing inquire about cruise advertised in the Taipei Times.
+
+            My partner's likes to eat Taiwanese foods, that he didn't
+           picked eater. But he allergic to shrimp. He eat three meals
+           a day.
+
+           My friends are also interested in this cruise, but are
+           unable to go on the date in the advertisement. I am
+           wondering if this kind of cruise may be repeated.
+
+           I am not a strong swimmer. I am wondering if this is a
+           problem.
+
+           Thank you in advance for your cooperation in this matter.
+
+          option:
+            - No problem with any item
+            - A problem with more than one item
+            - "A problem with the To:, From: and Subject: lines"
+            - "A problem with: Reference to source of information about cruise"
+            - "A problem with: Dietary accommodation inquiry"
+            - "A problem with: Cruise repetition inquiry"
+            - "A problem with: Swimming ability inquiry"
+            - "A problem with: Confident close"
+          answer: No problem with any item
+        - question: |+
+            To: Mr.Terry Shih
+
+            From: Jack Wu
+
+            Subject: Asking some details and information
+
+            Date: July 31
+
+            Dear Terry Shih:
+
+            I am writing about some questions for the 4-day cruise around the
+            coast of Taiwan with my friend, advertised in the Taipei Times.
+
+            I would appreciate it if you would confirm the following
+            information. First, my friend has very strict dietary
+            requirements, he is a vegetarian, so I am very worried the
+            food on the ship won't be suitable. Second, Other friends
+            of mine are also interested in this cruise, but are unable
+            to go on the date in the advertisement. I am wondering if
+            this kind of cruise may be repeated. Finally, I am not a
+            strong swimmer. I am wondering if this is a problem.
+
+            I would be grateful if you can answer me back as soon as
+            possible.
+
+            I look forward to hearing from you.
+
+            Yours faithfully,
+
+            Jack Wu
+          option:
+            - No problem with any item
+            - A problem with more than one item
+            - "A problem with the To:, From: and Subject: lines"
+            - "A problem with: Reference to source of information about cruise"
+            - "A problem with: Expression of interest in cruise"
+            - "A problem with: Dietary accommodation inquiry"
+            - "A problem with: Cruise repetition inquiry"
+            - "A problem with: Swimming ability inquiry"
+            - "A problem with: Confident close"
+          answer: No problem with any item
+        - question: |+
+            To:           Mr. Terry Shih
+
+            From:      Emily Lin
+
+            Subject:   I am writing to inquire about this cruise and my partner's diet. I have 3 questions. Please answer them.
+
+            Date:       2 August 2020
+
+            I am writing about some questions for the 4-day cruise around the
+            coast of Taiwan with my friend, advertised in the Taipei Times.
+
+            My partner is Taiwanese. She basically eats everything but
+            has meat at every meal. And, she only eats lunch and dinner
+            a day. She likes to drink sugar-free drinks and eat the
+            snacks.
+
+            My friends are also interested in this cruise, but are
+            unable to go on the date in the advertisement. I am
+            wondering if this kind of cruise may be repeated.
+
+            I am not a strong swimmer. I am wondering if this is a
+            problem.
+
+            I look forward to hearing from you.
+
+            Yours sincerely
+
+            Emily Lin
+
+          option:
+            - No problem with any item
+            - A problem with more than one item
+            - "A problem with the To:, From: and Subject: lines"
+            - "A problem with: Reference to source of information about cruise"
+            - "A problem with: Expression of interest in cruise"
+            - "A problem with: Dietary accommodation inquiry"
+            - "A problem with: Cruise repetition inquiry"
+            - "A problem with: Swimming ability inquiry"
+            - "A problem with: Confident close"
+          answer: "A problem with the To:, From: and Subject: lines"
+        - question: |+
+            To:Mr.Terry Shih
+
+            From:Tsai Ya
+
+            Subject:Discuss about dietary in travel
+
+            Date: July 31
+
+            Dear Mr.Terry Shih:
+
+            Hi Terry! I have some demand in travel because my
+            husband's stomach has lots of problem.He can't eat
+            sour,sweet and spicy. Maybe you can cook  poached egg or
+            vegetable.In the drink part,He can't drink
+            wine,soda,coffee,tea and so on.You can just prepare water.
+            However,He is Japanese.If you prepare sushi,he will very
+            happy even give you some tips.Besides this demand,we don't
+            have any problem. Thank you for reading.If you have any
+            question,you can call this number 0933222567.
+
+            Your Sincerely,
+
+            Tsai Ya
+
+          option:
+            - No problem with any item
+            - A problem with more than one item
+            - "A problem with the To:, From: and Subject: lines"
+            - "A problem with: Reference to source of information about cruise"
+            - "A problem with: Expression of interest in cruise"
+            - "A problem with: Dietary accommodation inquiry"
+            - "A problem with: Cruise repetition inquiry"
+            - "A problem with: Swimming ability inquiry"
+            - "A problem with: Confident close"
+          answer: A problem with more than one item
+        - question: |+
+            To: Luxury Cruises Inc.
+
+            From: Kevin Burr
+
+            Date: July 31
+
+            Dear Terry:
+
+            I am writing to enquire if you could tell me about the
+            information of this trip advertised in the Taipei Times. I am worried that our trip can't
+            go well.
+
+            The first question is about the food on the ship. My wife has the gout, so she can't eat the foods which have high cholesterol.
+
+            Second is my friends are also interested in this cruise, but they can't go with us because they have to work on the date. Therefore, I want to know if this kind of cruise may be repeated.
+
+            At last, I am not good at swimming. Is it OK?
+
+            We would be thankful if you can reply in this week.
+
+            I look forward to hearing from you.
+
+            Yours faithfully,
+
+            Kevin Burr
+          option:
+            - No problem with any item
+            - A problem with more than one item
+            - "A problem with the To:, From: and Subject: lines"
+            - "A problem with: Reference to source of information about cruise"
+            - "A problem with: Expression of interest in cruise"
+            - "A problem with: Dietary accommodation inquiry"
+            - "A problem with: Cruise repetition inquiry"
+            - "A problem with: Swimming ability inquiry"
+            - "A problem with: Confident close"
+          answer: No problem with any item
+        - question: |+
+            TO:Luxury Cruises Inc.
+
+            From:Jack
+
+            Subject:Food
+
+            Date:31 July 2020
+
+            I am writing to require about some idea.
+
+            My wife has very strict dietary requirement,she can not eat
+            fish.
+
+            my friends are also interested in this cruise.
+
+            I am not a strong swimmer. I am wondering if this is a
+            problem.
+
+            I look forward to hearing from you.
+
+            Your faithfully
+
+          option:
+            - No problem with any item
+            - A problem with more than one item
+            - "A problem with the To:, From: and Subject: lines"
+            - "A problem with: Reference to source of information about cruise"
+            - "A problem with: Expression of interest in cruise"
+            - "A problem with: Dietary accommodation inquiry"
+            - "A problem with: Cruise repetition inquiry"
+            - "A problem with: Swimming ability inquiry"
+            - "A problem with: Confident close"
+          answer: A problem with more than one item
+        - question: |+
+            To : Terry Shih
+
+            From : KuanLing Lin
+
+            Subject : Some questions about cruise
+
+            Date: July 31 2019
+
+            Dear Mr. Terry Shih :
+
+              I am writing to enquire about this cruise advertised in the Taipei Times.
+
+              My husband and I are interesting in this cruise, but he is Japanese, only eat Japanese food. Would it be possible for you to answer how many Japanese food on the ship?
+
+              And I would also be grateful if you can answer if  The China Rose will be repeat or not, because I can't  go on 1 November.
+
+              Thank you, I look forward to hearing from you.
+
+              Yours sincerely,
+
+          option:
+            - No problem with any item
+            - A problem with more than one item
+            - "A problem with the To:, From: and Subject: lines"
+            - "A problem with: Reference to source of information about cruise"
+            - "A problem with: Expression of interest in cruise"
+            - "A problem with: Dietary accommodation inquiry"
+            - "A problem with: Cruise repetition inquiry"
+            - "A problem with: Swimming ability inquiry"
+            - "A problem with: Confident close"
+          answer: "A problem with: Swimming ability inquiry"
+        - question: |+
+            To:Luxury Cruises Inc.
+
+            From:Sharon Chien
+
+            Subject:Ask for details for The China Rose 4-day cruise
+
+            Date:July 31
+
+            I am writing  this email for asking you some quetion about the cruise advertised in the Taipei Times.
+
+            First,my wife has seafood allergies, I am very worried the
+            food on the trip will not be suitable.
+
+            Second,my friends are also interested in this cruise,but
+            are unable to go on the date in the advertisement.I wonder
+            if there has another trip like this.
+
+            Last, I am not a strong swimmer. I wonder the security
+            about this trip.
+
+            I look forward to hearing from you.
+
+            Yours faithfully,
+
+          option:
+            - No problem with any item
+            - A problem with more than one item
+            - "A problem with the To:, From: and Subject: lines"
+            - "A problem with: Reference to source of information about cruise"
+            - "A problem with: Expression of interest in cruise"
+            - "A problem with: Dietary accommodation inquiry"
+            - "A problem with: Cruise repetition inquiry"
+            - "A problem with: Swimming ability inquiry"
+            - "A problem with: Confident close"
+          answer: No problem with any item
+        - question: |+
+            July 31,2020
+
+            To: Luxury Cruise Inc.
+
+            I am writing to enquire about my partner's dietary
+            requirements.
+
+            My partner is allergic to seafood,and he is not vegetarian.
+
+            I  don't like tomato and eggplant.
+
+            Also I would be grateful if you can match our eating
+            habits.
+
+            Thank you in advance for your help.
+
+            Your sincerely,
+          option:
+            - No problem with any item
+            - A problem with more than one item
+            - "A problem with the To:, From: and Subject: lines"
+            - "A problem with: Reference to source of information about cruise"
+            - "A problem with: Expression of interest in cruise"
+            - "A problem with: Dietary accommodation inquiry"
+            - "A problem with: Cruise repetition inquiry"
+            - "A problem with: Swimming ability inquiry"
+            - "A problem with: Confident close"
+          answer: A problem with more than one item
+        - question: |+
+            To: Luxury Cruises Inc.
+
+            From: Peter Chen
+
+            Subject: Requirements
+
+            Date: July 31, 2020
+
+            According to our book at July 31, there are some limits about
+            dietary because of my partner.
+
+            She is allergic to stale shrimp, and also hate mushroom. Can you accommodate her?
+
+            My friends are also interested in the cruise, but are unable to
+            go on the date in the advertisement. I am wondering if this kind
+            of cruise may be repeated.
+
+            I are not a strong swimmer. I am wondering if this is a problem.
+
+            thx for reading this email and I would be grateful if I could
+            receive your reply.
+
+               Sincerely,
+          option:
+            - No problem with any item
+            - A problem with more than one item
+            - "A problem with the To:, From: and Subject: lines"
+            - "A problem with: Reference to source of information about cruise"
+            - "A problem with: Dietary accommodation inquiry"
+            - "A problem with: Cruise repetition inquiry"
+            - "A problem with: Swimming ability inquiry"
+            - "A problem with: Confident close"
+          answer: "A problem with: Reference to source of information about cruise"
+        - question: |+
+            To: Luxury Cruises Inc.
+
+            Date: 31 July
+
+            From: Sandy
+
+            Subject: Cruise Inquiry
+
+            I am worried about what cruise we will have in the cruise advertised on July 31. Therefore,  I have some notice to tell you.
+
+            My husband has very strict dietary requirements, and he is allergic to seafood. As a result, I am very worried the food on the ship will not be suitable.
+
+            My friend are also interested in this cruise, but are unable to go on the date in advertisement. I am wondering if this kind of cruise may be repeated.
+
+            I am not a stronger swimmer. I am wondering if this is
+            a problem.
+
+            Thank you in advance for your help.
+
+          option:
+            - No problem with any item
+            - A problem with more than one item
+            - "A problem with the To:, From: and Subject: lines"
+            - "A problem with: Reference to source of information about cruise"
+            - "A problem with: Dietary accommodation inquiry"
+            - "A problem with: Cruise repetition inquiry"
+            - "A problem with: Swimming ability inquiry"
+            - "A problem with: Confident close"
+          answer: No problem with any item
+        - question: |+
+            To:  Mr. Terry Shih
+
+            From: YU XUAN
+
+            Subject: Ask cruise details
+
+            Date: July31
+
+            I am writing about my wife allergic to some food.  I would be grateful if you could do not give us sea food.
+
+            My friends are also interested in this cruise,but are able to go on the date in the athe advertisement.I am wondering if this kind of cruise may be repeated.
+
+            I am not a strong swimmer. I am wondering if this a problem.
+
+            Thank you in advance for your help.
+
+          option:
+            - No problem with any item
+            - A problem with more than one item
+            - "A problem with the To:, From: and Subject: lines"
+            - "A problem with: Reference to source of information about cruise"
+            - "A problem with: Dietary accommodation inquiry"
+            - "A problem with: Cruise repetition inquiry"
+            - "A problem with: Swimming ability inquiry"
+            - "A problem with: Confident close"
+          answer: "A problem with: Reference to source of information about cruise"
+        - question: |+
+            From: Luby
+
+            To: Mr. Terry Shih
+
+            Subject: details information
+
+            Date: 31 July 2020
+
+            My husband has very strict dietary requirements. He is 
+            Muslim and doesn't eat pork. so I am very worried the 
+            food on the ship will not be suitable.
+
+            My friends are also interested in this cruise, but are
+            unable to go on the data in the advertisement. I am
+            wondering if this kind of cruise may be repeated.
+
+            I am not a strong swimmer. I am wondering if this is a
+            problem.
+
+            Yours faithfully,
+
+          option:
+            - No problem with any item
+            - A problem with more than one item
+            - "A problem with the To:, From: and Subject: lines"
+            - "A problem with: Reference to source of information about cruise"
+            - "A problem with: Dietary accommodation inquiry"
+            - "A problem with: Cruise repetition inquiry"
+            - "A problem with: Swimming ability inquiry"
+            - "A problem with: Confident close"
+          answer: "A problem with: Reference to source of information about cruise"
+        - question: |+
+            To: Mr. Terry Shih
+
+            From: Sherry2 Chen
+
+            Subject Line: Regarding this sailing tour, I have several questions to ask. Please confirm that my fears are unfounded. Thank you.
+
+            Date: July 31, 2020
+
+            Dear Mr. Terry Shih,
+
+            I saw an advertisement for sailing tours on the website
+            yesterday. I'm interested in this, so my husband and I
+            signed up for this event.  However, we have some questions
+            about this trip, so I wrote this email to ask the answer
+            and confirm.
+
+            My husband has very strict dietary requirement.  He is
+            Taiwanese. He need to eats 4 meals a day
+            (breakfast,lunch,dinner and late night supper).  He must
+            have white rice at every meal, except for breakfast to
+            bread and milk.  And don't serve too much for lunch, dinner
+            and late night supper.  Because of allergie, please do not
+            include seafood and peanuts in meals.
+
+            And my friends are also interested in this cruise, but are
+            unable to go on the date in the advertisement. I am
+            wondering if this kind of cruise may be repeated.
+
+            The last question, I am not a strong swimmer. I am
+            wondering if this is a problem.
+
+            Thank you in advance for your help. And it is my email, I
+            hope you can reply quickly. Thank you.
+          option:
+            - No problem with any item
+            - A problem with more than one item
+            - "A problem with the To:, From: and Subject: lines"
+            - "A problem with: Reference to source of information about cruise"
+            - "A problem with: Expression of interest in cruise"
+            - "A problem with: Dietary accommodation inquiry"
+            - "A problem with: Cruise repetition inquiry"
+            - "A problem with: Swimming ability inquiry"
+            - "A problem with: Confident close"
+          answer: "A problem with the To:, From: and Subject: lines"
+        - question: |+
+            To: Mr. Terry Shin
+
+            From: Roger
+
+            Subject: Inquiry about cruise
+
+            Date: July 31, 2020
+
+            I am writing to enquire about details of the meals on the ship in the cruise I saw your advertising on the booking website. I and my partner are both interested, but my partner has some strict dietary requirements.
+
+            My partner is allergic to seafood. So I wonder if there are any meals on the ship besides seafood. I would appreciate it if you could send me your menu.
+
+            My friends also interested in this cruise, but are unable to go on the date in the advertisement. I am wondering if this kind of cruise may be repeated.
+
+            Besides that I am not a strong swimmer. I am wondering if this is a problem.
+
+            Regarding the above questions, please tell me in detail. I am looking forward to your reply.
+
+            Yours sincerely,
+
+          option:
+            - No problem with any item
+            - A problem with more than one item
+            - "A problem with the To:, From: and Subject: lines"
+            - "A problem with: Reference to source of information about cruise"
+            - "A problem with: Expression of interest in cruise"
+            - "A problem with: Dietary accommodation inquiry"
+            - "A problem with: Cruise repetition inquiry"
+            - "A problem with: Swimming ability inquiry"
+            - "A problem with: Confident close"
+          answer: No problem with any item
+        - question: |+
+            To: Luxury Cruises Inc
+
+            From: Calvin Christo
+
+            Subject: The Luxury Cruises Inquiry
+
+            Date: 31 July 2020
+
+            I am writing with reference to your advertisement about The Luxury Liner The China Rose that will depart from Keelung and will traveling around the coast of Taiwan for 4 days, and I would appreciate it if  you could send me the details about the schedule, destination and any other information for this cruise.
+
+            I would also wanted to ask some questions and requirements related to the cruise, which is:
+
+            My wife is a vegetarian, so i need to ensure if the food on the ship is suitable for her.
+
+            My friends are also interested in this cruise, but they are all unable to go on the date that written on the advertisement. I am wondering if this kind  of cruise may be repeated.
+
+            I am not a strong swimmer, so i am wondering if this is a problem
+
+            Thank you for your understanding, i am very interested in your offer, and i am looking forward to receive your reply soon.
+
+            Calvin Christo
+          option:
+            - No problem with any item
+            - A problem with more than one item
+            - "A problem with the To:, From: and Subject: lines"
+            - "A problem with: Reference to source of information about cruise"
+            - "A problem with: Expression of interest in cruise"
+            - "A problem with: Dietary accommodation inquiry"
+            - "A problem with: Cruise repetition inquiry"
+            - "A problem with: Swimming ability inquiry"
+            - "A problem with: Confident close"
+          answer: No problem with any item
+        - question: |+
+            To: Luxury Cruises Inc.
+
+            From: Penny
+
+            Subject: Ask details about CRUISE THE PACIFIC
+
+            31 July 2020
+
+            I am writing to confirm some information about "CRUISE THE PACIFIC" advertised in the Taipei Times.
+
+            My husband has very strict dietary requirements, so I am
+            very worried the food on the ship will not be suitable.
+
+            My friends are also interested in this cruise, but are
+            unable to go on the date in the advertisement. I am
+            wondering if this kind of cruise may be repeated.
+
+            I am not a strong swimmer. I am wondering if this is a
+            problem.
+
+            I look forward to receiving your reply.
+          option:
+            - No problem with any item
+            - A problem with more than one item
+            - "A problem with the To:, From: and Subject: lines"
+            - "A problem with: Reference to source of information about cruise"
+            - "A problem with: Dietary accommodation inquiry"
+            - "A problem with: Cruise repetition inquiry"
+            - "A problem with: Swimming ability inquiry"
+            - "A problem with: Confident close"
+          answer: "A problem with: Dietary accommodation inquiry"
+        - question: |+
+            To: Staff member
+
+            From: Jimmy
+
+            Subject: Cruise Inquiry
+
+            Date: July 31
+
+            Hello, I’m Jimmy. I want to ask questions about the travel diet.
+
+            My partner is allergic to seafood, especially shrimp. Then he eats vegetarian food and doesn’t eat meat.
+
+            I’m allergic to milk and can’t eat milk-containing ingredients food, because milk can cause allergies to my body.
+
+            I prefer to eat American meals, such as burgers or steaks.
+
+            Thank you for reading, and I hope these requirements have not caused you trouble.
+
+          option:
+            - No problem with any item
+            - A problem with more than one item
+            - "A problem with the To:, From: and Subject: lines"
+            - "A problem with: Reference to source of information about cruise"
+            - "A problem with: Expression of interest in cruise"
+            - "A problem with: Dietary accommodation inquiry"
+            - "A problem with: Cruise repetition inquiry"
+            - "A problem with: Swimming ability inquiry"
+            - "A problem with: Confident close"
+          answer: A problem with more than one item
+  assign:
     0:
       identifier: cruise inquiry
       rubric: |+
