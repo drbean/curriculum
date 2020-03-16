@@ -52,3 +52,9 @@ communication:
             - The direction of the activity will be changed if you speak up.
             - There is an unspoken understanding that students shouldn't say anything in class.
           answer: There is an unspoken understanding that students shouldn't say anything in class.
+virus:
+  url:
+    0:
+      identifier: Advice for kids about COVID-19
+      externalurl: https://www.npr.org/sections/goatsandsoda/2020/02/28/809580453/just-for-kids-a-comic-exploring-the-new-coronavirus
+  
