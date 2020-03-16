@@ -1,0 +1,29 @@
+---
+#-
+#  content:
+#  -
+#    topic : inquiry
+#    story : scramble
+#    type  : drag
+#    form  : 0
+#    intro : As you unscramble the sentences, think about which part of an inquiry they belong to. Eg, Is this an opening or the request?
+#    random: 2
+#-
+#  content:
+#  -
+#    topic : inquiry
+#    story : scramble
+#    type  : drag
+#    form  : 1
+#    intro : These sentences belong to the same part of an inquiry. Which part is that?
+#    random: 2
+#-
+#  content:
+#  -
+#    topic : inquiry
+#    story : scramble
+#    type  : drag
+#    form  : 2
+#    intro : Which part of an inquiry does this sentence belong to?
+#    random: 1
+
