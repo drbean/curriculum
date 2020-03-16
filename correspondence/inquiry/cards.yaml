@@ -836,7 +836,7 @@ scramble:
 acknowledge:
   drag:
     0:
-      identifier: thanking
+      identifier: thanking_an_inquirer
       sentences:
         -
           sentence: Thank you for your letter dated January 12, 2019 regarding the mountain bicycles we advertised in Cycle_Magazine.
@@ -848,7 +848,7 @@ acknowledge:
           sentence: I have received your inquiry dated July 31 regarding our November cruise around Taiwan.
           clozed: I|have|received|your|inquiry|dated|July|regarding|our|November|cruise|around|End
     1:
-      identifier: delay
+      identifier: explaining_delay
       sentences:
         -
           sentence: I am sorry to tell you we have already sold all the mountain bicyles we advertised, and are waiting for further supplies.
@@ -860,7 +860,7 @@ acknowledge:
           sentence: I have contacted our cooking staff about your partner's food requirements, but it may take them a few days to reply.
           clozed: I|have|contacted|our|cooking|about|your|partner's|food|but|it|may|take|them|a|few|days|to|End
     2:
-      identifier: expected date of reply
+      identifier: communicating_expected_date_of_reply
       sentences:
         -
           sentence: We expect to get more mountain bicycles next week, and we will email you when they arrive.
@@ -872,7 +872,7 @@ acknowledge:
           sentence: I should be able to tell you by August 3. I will contact you on that date and tell you what is happening.
           clozed: I|should|be|able|to|tell|you|by|August|I|will|contact|you|on|that|date|tell|you|what|is|End
     3:
-      identifier: polite close
+      identifier: closing_politely
       sentences:
         -
           sentence: We apologize for not having the bicycles in stock, and we hope that this does not cause you too much inconvenience.
@@ -1395,7 +1395,7 @@ cruise:
             - Thank you again for your inquiry about the cruise.
           answer: You said that your partner is a vegetarian.
     problem:
-      identifier: problematic inquiry parts in cruise inquiry
+      identifier: cruise_inquiry_problems
       quiz:
         - question: |+
            To: Mr. Terry Shih
