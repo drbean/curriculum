@@ -10,6 +10,21 @@
 - [http://web.nuu.edu.tw/~greg/work/slides.pdf ](http://web.nuu.edu.tw/~greg/work/slides.pdf)
 - [http://web.nuu.edu.tw/~greg/women/slides.pdf ](http://web.nuu.edu.tw/~greg/women/slides.pdf)
 
+# Women in society
+
+## History
+
+[Women's History Month](https://womenshistorymonth.gov/)
+
+## Politics
+
+[Number of women in US Congress](https://duckduckgo.com/?q=us+congress+number+men+women&ia=web)
+
+## Taiwan
+
+- [Taiwan ranks #1 in Asia, #9 worldwide for gende requality](https://www.taiwannews.com.tw/en/news/3852132)
+- [World-wide gender equality data](https://www.genderindex.org/ranking/)
+
 # Women at work
 
 ## Images for 'women at work'
@@ -74,7 +89,7 @@ distances to jobsites.
 
 [https://storycorps.org/stories/dee-dickson/](https://storycorps.org/stories/dee-dickson/)
 
-[https://web.nuu.edu.tw/~greg/conversation/work/soundfile/dickson.mp3](https://web.nuu.edu.tw/~greg/conversation/work/soundfile/dickson.mp3)
+[https://web.nuu.edu.tw/~greg/work/soundfile/dickson.mp3](https://web.nuu.edu.tw/~greg/work/soundfile/dickson.mp3)
 
 ## Conversation about Dee Dickson and women electricians {.allowframebreaks}
 
@@ -142,6 +157,45 @@ Two: Do you think women make good bosses?
 - "Dee has a knack for getting stuff done right, doesn't she?"
 - "Dee can lift an 80-pound transformer, can't she?"
 
+## YN Questions for A, B, and C
+
+[The cards A, B, C are holding](http://web.nuu.edu.tw/~greg/work/jigsaw_dickson_2.pdf)
+
+A, B, C and D can only say, Yes, No, 'I don't know/It doesn't say using the information on their card.
+
+Your job is to find out who A, B, and C are.
+
+There are 4 names: Alf, Bruce, and Dee.
+
+Answer the questions on the site, http://sac.nuu.edu.tw/cgi-bin/moodle
+
+        - question: Alf is Bruce's uncle.
+        - question: Dee is Alf's niece.
+        - question: Dee heads a single-parent family.
+        - question: The shipyard wants to hire Dee.
+        - question: Dee wants her dad to speak to Alf.
+        - question: Bruce speaks to Alf about Dee.
+        - question: Alf helps Dee with the job.
+
+## YN Questions to ask A, B, and C
+
+Gender
+
+- Not, "What is your gender?"
+
+- But, "Are you male?"
+
+Work
+
+- Not, "What is your job?"
+
+- But, "Are you looking for a job as an electrician?"
+
+Relationships
+
+- Not, "What is your daughter's name?"
+- But, "Do you have a daughter?", "Is your daughter's name/daughter named Dee?
+"
 # Homework about Dee Dickson. Do it before next week.
 
 ## Example statements {.allowframebreaks}
@@ -298,6 +352,12 @@ Now, I had to do some things a little differently than they did, you know?  I co
 - [Mass High-Tech Women to Watch 2011 ](http://www.youtube.com/watch?v=QMFuy6TMLGA)
 - [Claritza's work experience](https://www.linkedin.com/in/claritzaabreu)
 
+## Pronunciation of 'Abreu'
+
+It varies:
+
+[Abreu](https://www.google.com/search?hl=en&q=pronunciation%20abreu)
+
 
 ## Claritza's story about being a receptionist
 
@@ -313,26 +373,38 @@ Now, I had to do some things a little differently than they did, you know?  I co
 
 - [1,000 most common names in order, from 1 to 1,000](http://names.mongabay.com/most_common_surnames.htm)
 - [1,000 least common names in order, from 49057 to 49965](https://names.mongabay.com/data/49000.html)
+- [#4468 Rank of 'Matheson'](https://names.mongabay.com/data/m/MATHESON.html)
 
 ## Non surnames
 
-What is not someone's surname now (or is very uncommon)?
+Names which are common in Chinese are not common in English and vice versa
 
-- Apple
-- Banana
-- Peach
+## Fruit name surnames
 
-- Black
-- Brown
-- White
-- Yellow
+Which of the following is not someone's surname now (or is very, very, very uncommon)?
+
+- [Apple](https://names.mongabay.com/data/a/APPLE.html)
+- [Banana](https://names.mongabay.com/data/b/BANANA.html)
+- [Peach](https://names.mongabay.com/data/p/PEACH.html)
+
+## Color name surnames
+
+Which of the following is not someone's surname now (or is very, very, very uncommon)?
+
+- [Black](https://names.mongabay.com/data/bh/BLACK.html)
+- [Brown](https://names.mongabay.com/data/br/BROWN.html)
+- [Redman](https://names.mongabay.com/data/r/REDMAN.html)
+- [White](https://names.mongabay.com/data/w/WHITE.html)
+- [Yellow](https://names.mongabay.com/data/y/YELLOW.html)
+
+## Berry name surnames
 
 Which surname has died out?
 
-- Berry
-- Raspberry
-- Rottenberry or Roddenberry
-- Strawberry
+- [Berry](https://names.mongabay.com/data/b/BERRY.html) [the fruit](https://duckduckgo.com/?q=berry&ia=images&iax=images)
+- [Raspberry](https://names.mongabay.com/data/r/RASPBERRY.html) [the fruit](https://duckduckgo.com/?q=raspberry&ia=images&iax=images)
+- [Rottenberry or Roddenberry](https://names.mongabay.com/data/ri/RODDENBERRY.html) [the fruit](https://duckduckgo.com/?q=roddenberry&ia=images&iax=images)
+- [Strawberry](https://names.mongabay.com/data/sm/STRAWBERRY.html) [the fruit](https://duckduckgo.com/?q=strawberry&ia=images&iax=images)
 
 # The receptionist
 
@@ -388,7 +460,7 @@ many middle-management-level business _____(15).
 
 ## John, Joan and John Doe
 
-http://en.wikipedia.org/wiki/John_Doe
+[http://en.wikipedia.org/wiki/John_Doe](http://en.wikipedia.org/wiki/John_Doe)
 
 # Speaking
 #
@@ -432,11 +504,22 @@ Which job is better paid?
 - And I had a ...
 - She would stand ...
 
-[Solution:](https://framenet2.icsi.berkeley.edu/fnReports/data/frameIndex.xml?frame=Resolve_problem)
+Predicament 'Frame
+'
+* Who was the Experiencer?
+* What was the undesirable Situation?
+* What was the Explanation if it was expressed?
 
+[Solution:](https://framenet2.icsi.berkeley.edu/fnReports/data/frameIndex.xml?frame=Resolve_problem)
 
 - So what I did was, I sat down with ...
 - So I sat down ...
+
+Resolve_problem 'Frame'
+
+- Who was the Agent?
+- What was the Problem?
+- Were the Means, Degree, Time and Place also expressed.
 
 [Evaluation:](https://framenet2.icsi.berkeley.edu/fnReports/data/frameIndex.xml?frame=Assessing)
 
@@ -445,6 +528,12 @@ Which job is better paid?
 - It was really challenging for me to do that but I ...
 - And um, it sounds funny now, but at the time it was ...
 
+Assessing 'Frame'
+
+- Who was the Assessor?
+- What was the Phenomenon?
+- What was the Value of the Phenomenon?
+- What was the Feature of the Phenomenon on which the Phenomenon was assessed?
 
 # Recording
 
