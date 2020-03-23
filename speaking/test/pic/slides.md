@@ -79,4 +79,23 @@ However, having some structure in mind for your description of the picture *is* 
 
 ## Metonym
 
+An orange, banana and some strange fruit whose name I don't know are all *fruit*.
 
+A truck, bicycle, scooter, horse, airplane are all *vehicles*. Well, I don't know about the horse and airplane.
+
+A piece of metal, a bag, a piece of paper, and an orange are all *things*.
+
+The U.N., Japanese Diet, Australian House of Representatives are all political *organizations*.
+
+*fruit*, *vehicles*, *things* and *organizations* are all METONYMS.
+
+Metonyms are good to know!
+
+A husband, old man, child, corpse are *hyponyms* of person. Well, actually, a corpse is a dead person, but it isn't a person.
+
+If you can say, "A horse is an animal", then you know that:
+
+* 'horse' is a hyponym of 'animal',
+* and 'animal' is a metonym of 'horse'.
+
+If you know the metonym, it doesn't matter if you don't know the hyponym. That's why metonyms are useful.
