@@ -75,9 +75,13 @@ A *short* summary is OK, but not necessary.
 
 However, having some structure in mind for your description of the picture *is* important. Connect everything you say with some point, the *main point* about the picture.
 
+# Metonym
 
+## Definition
 
-## Metonym
+metonym — Noun:1. (grammar) A word that names an object from a single characteristic of it or of a closely related object; a word used in metonymy., 2. (by extension) A concept, idea, or word used to represent, typify, or stand in for a broader set of ideas. https://en.wiktionary.org/wiki/metonym
+
+## Fruit, vehicles, things and organizations
 
 An orange, banana and some strange fruit whose name I don't know are all *fruit*.
 
@@ -88,6 +92,8 @@ A piece of metal, a bag, a piece of paper, and an orange are all *things*.
 The U.N., Japanese Diet, Australian House of Representatives are all political *organizations*.
 
 *fruit*, *vehicles*, *things* and *organizations* are all METONYMS.
+
+## Metonyms for describing pictures
 
 Metonyms are good to know!
 
