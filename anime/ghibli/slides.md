@@ -158,3 +158,7 @@ getting in, Chihiro is shown to still be wearing the hairband No-Face spun for h
 [Spirited Away Trivia Questions &amp; Answers](https://www.funtrivia.com/trivia-quiz/Movies/General-Spirited-Away-Info-177065.html)
 [Spirited Away Trivia Questions &amp; Answers](https://www.funtrivia.com/en/Movies/Spirited-Away-9851.html)
 
+## Spirited Away jigsaw
+
+- [http://web.nuu.edu.tw/~greg/anime/ghibli/quiz_spiritedaway_0.pdf](http://web.nuu.edu.tw/~greg/anime/ghibli/quiz_spiritedaway_0.pdf)
+- [http://web.nuu.edu.tw/~greg/anime/ghibli/jigsaw_spiritedaway_0.pdf](http://web.nuu.edu.tw/~greg/anime/ghibli/jigsaw_spiritedaway_0.pdf)
