@@ -56,20 +56,23 @@ spiritedaway:
   jigsaw:
     0:
       identifier: Spirited Away jigsaw
+      A: You give Chihiro a card with her real name written on it. And ask Yubaba  to free her in exchange for finding her (Yubaba's) son.
+      B: You order Chihiro's parents to be slaughtered, but agree to let Haku find your son and to free Chihiro if she passes a test.
+      C: Yubaba turns your parents into pigs, takes away your real name, which you forget, and requires you to say which pigs are your parents.
       quiz:
-        - question: "A: You give Chihiro a card with her real name written on it. And ask Yubaba  to free her in exchange for finding her (Yubaba's) son."
+        - question: A
           option:
             - Chihiro
             - Haku
             - Yubaba
           answer: Haku
-        - question: "B: You order Chihiro's parents to be slaughtered, but agree to let Haku find your son and to free Chihiro if she passes a test."
+        - question: B
           option:
             - Chihiro
             - Haku
             - Yubaba
           answer: Yubaba
-        - question: "C: Yubaba turns your parents into pigs, takes away your real name, which you forget, and requires you to say which pigs are your parents."
+        - question: C
           option:
             - Chihiro
             - Haku
