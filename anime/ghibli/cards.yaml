@@ -42,7 +42,7 @@ earthsea:
             - incorporating elements from several EarthSea books
             - gorgeous scenes
           answer: gorgeous scenes
-spirited_away:
+spiritedaway:
   essay:
     0:
       identifier: Write and answer some  Questions about Spirited Away
@@ -57,29 +57,40 @@ spirited_away:
     0:
       identifier: Spirited Away jigsaw
       quiz:
-        - question: A: You tell Chihiro to ask for a job in Yubaba's bathhouse. And you give her a card with her real name written on it.
+        - question: "A: You give Chihiro a card with her real name written on it. And ask Yubaba  to free her in exchange for finding her (Yubaba's) son."
           option:
             - Chihiro
             - Haku
             - Yubaba
           answer: Haku
-        - question: B: You order Chihiro's parents to be slaughtered, but agree to let Haku find your son and to free Chihiro if she passes a test.
+        - question: "B: You order Chihiro's parents to be slaughtered, but agree to let Haku find your son and to free Chihiro if she passes a test."
           option:
             - Chihiro
             - Haku
             - Yubaba
           answer: Yubaba
-        - question: C: Yubaba turns your parents into pigs, takes away your real name, which you forget, and requires you to say which pigs are your parents.
+        - question: "C: Yubaba turns your parents into pigs, takes away your real name, which you forget, and requires you to say which pigs are your parents."
           option:
             - Chihiro
             - Haku
             - Yubaba
           answer: Chihiro
-        - question: Chihiro 
-          answer: 
-        
-
-        
+        - question: "Chihiro forgets Haku's name."
+          answer: False
+        - question: Haku helps Chihiro remember the name Yubaba gave her by writing it on a card.
+          answer: False
+        - question: Yubaba orders Chihiro's parents to be slaughtered.
+          answer: True
+        - question: Chihiro's parents are saved from being slaughtered, when Haku says he can help find Yubaba's son.
+          answer: True
+        - question: "Haku offers to find Yubaba's son, if she frees Chihiro."
+          answer: True
+        - question: "Yubaba agrees to let Chihiro go if she agrees to look for her (Yubaba's) son."
+          answer: False
+        - question: Chihiro has to say which pigs are her parents.
+          answer: True
+        - question: Even if she misidentifies her parents, Yubaba will still let her go.
+          answer: False
     critique:
       identifier: Critique by All 22 Studio Ghibli Anime Movies Ranked Worst to Best-1WeLvhadP30.mp4
       quiz:
