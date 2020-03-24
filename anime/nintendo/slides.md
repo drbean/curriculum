@@ -136,4 +136,94 @@ Something about Luigi's Mansion
 
 - [https://www.youtube.com/watch?v=I65Z32_yWQY](https://www.youtube.com/watch?v=I65Z32_yWQY)
 
+# Luigi
+
+## From www.mariowiki.com
+
+- [https://www.mariowiki.com/Luigi](https://www.mariowiki.com/Luigi)
+
+
+## Creation and development
+
+ After observing the two-player competitive and cooperative gameplay of the arcade game Joust, Miyamoto wished to incorporate a similar style of gameplay into his own game. Miyamoto's answer was Luigi, a younger twin brother to Mario, with whom he could compete or cooperate.
+
+## Name
+
+ While Mario's name was base on Mario Segale, Luigi's name is said to have been based on a popular pizzeria near Nintendo of America's headquarters, named Mario & Luigi's; coincidentally, his name was also noted to be similar to the Japanese word 「類似」 (ruiji), meaning "similar", possibly a reference to how Luigi was originally a simple palette swap of Mario.
+
+- [Mario_Lanza](https://www.youtube.com/watch?v=4a3ZzPDvWDE)
+- [「類似」](https://dictionary.goo.ne.jp/word/%E9%A1%9E%E4%BC%BC/)
+- [Luigi_Dallapiccola](https://www.youtube.com/watch?v=5AsaCNqfRAE)
+
+
+## Reception
+
+With the 2-player mode in mind, Nintendo and publishing companies such as Atari gave Luigi immediate publicity, making him the star and center of attention in many advertisements for the game.
+
+# Luigi's Mansion 3
+
+## Story
+
+- [Link](https://www.mariowiki.com/Luigi%27s_Mansion_3)
+
+## Start
+
+upstairs
+first
+take
+mysterious
+owner
+escorted
+vacation
+invited
+
+Luigi, Mario, Princess Peach, and three Toads are _____(1) to a hotel called The Last Resort for a _____(2) party. They are then _____(3) by the _____(4) of the hotel, a _____(5) purple ghost woman called Hellen Gravely, to _____(6) the elevator on the _____(7) floor within the Grand Lobby _____(8) ,
+
+## Rooms
+
+asleep
+quickly
+alongside
+whilst
+room
+fifth
+gang
+
+The _____(9) all stay on the RIP Suites _____(10) floor. Inside his hotel _____(11) , Luigi reads a novel _____(12) laying on a bed _____(13) Polterpup and _____(14) falls _____(15) .
+
+## Scary things
+
+trapped
+missing
+but
+haunted
+screaming
+hears
+rainy
+later
+
+Luigi _____(16) wakes up on a _____(17) night and _____(18) Princess Peach _____(19) , now inside a _____(20) hotel with everyone _____(21) Luigi gone _____(22) , having been _____(23) in paintings by Luigi's nemesis, King Boo. 
+
+## Quiz
+
+Professor E. Gadd discovered the green element known as Goo, then used Luigi’s biological data to create an exceedingly green copy of Luigi.
+
+Professor E. Gadd gives Luigi the upgraded Poltergust G-00, which sports new functions like Slam, Burst, and Suction Shot.
+
+Luigi’s friends have been framed—in actual picture frames. They’re totally trapped until someone saves them!
+
+Polterpup will restore Luigi’s health in exchange for a Gold Bone, which can be purchased using in-game Gold at Professor E. Gadd’s lab.
+
+Helen Gravelly uses special powder makeup known as GheistPaint. Isn’t she gorgeous?
+
+- [Quiz](https://www.mariowiki.com/Luigi's_Mansion_3_Trivia_Quiz)
+
+# Super Mario Bros Super Show
+
+## Episode 1
+
+- [https://www.youtube.com/watch?v=nKqFEV9rA1U](https://www.youtube.com/watch?v=nKqFEV9rA1U)
+
+## The series
+
 
