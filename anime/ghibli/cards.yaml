@@ -53,9 +53,34 @@ spirited_away:
         [Spirited Away Trivia Questions &amp; Answers](https://www.funtrivia.com/en/Movies/Spirited-Away-9851.html)
 
         What questions can you ask and answer about the anime?
-    
   jigsaw:
     0:
+      identifier: Spirited Away jigsaw
+      quiz:
+        - question: A: You tell Chihiro to ask for a job in Yubaba's bathhouse. And you give her a card with her real name written on it.
+          option:
+            - Chihiro
+            - Haku
+            - Yubaba
+          answer: Haku
+        - question: B: You order Chihiro's parents to be slaughtered, but agree to let Haku find your son and to free Chihiro if she passes a test.
+          option:
+            - Chihiro
+            - Haku
+            - Yubaba
+          answer: Yubaba
+        - question: C: Yubaba turns your parents into pigs, takes away your real name, which you forget, and requires you to say which pigs are your parents.
+          option:
+            - Chihiro
+            - Haku
+            - Yubaba
+          answer: Chihiro
+        - question: Chihiro 
+          answer: 
+        
+
+        
+    critique:
       identifier: Critique by All 22 Studio Ghibli Anime Movies Ranked Worst to Best-1WeLvhadP30.mp4
       quiz:
         - question: Spirited Away is ranked in what position by Justin
