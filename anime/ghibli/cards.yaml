@@ -78,7 +78,7 @@ spiritedaway:
             - Haku
             - Yubaba
           answer: Chihiro
-        - question: "Chihiro forgets Haku's name."
+        - question: Chihiro forgets Haku's name.
           answer: False
         - question: Haku helps Chihiro remember the name Yubaba gave her by writing it on a card.
           answer: False
@@ -86,9 +86,11 @@ spiritedaway:
           answer: True
         - question: Chihiro's parents are saved from being slaughtered, when Haku says he can help find Yubaba's son.
           answer: True
-        - question: "Haku offers to find Yubaba's son, if she frees Chihiro."
+        - question: Haku offers to find Yubaba's son, if she frees Chihiro.
           answer: True
-        - question: "Yubaba agrees to let Chihiro go if she agrees to look for her (Yubaba's) son."
+        - question: Yubaba agrees to let Chihiro go if she agrees to look for her (Yubaba's) son.
+          answer: False
+        - question: Chihiro's test is to remember her name
           answer: False
         - question: Chihiro has to say which pigs are her parents.
           answer: True
