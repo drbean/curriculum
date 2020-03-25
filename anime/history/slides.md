@@ -67,3 +67,26 @@ Despite a large marketing budget, heavy editing and heavy promotion, the film wa
 
 	- We can see the whole thing on Netflix, can't we?
 	- We can see the whole thing on Netflix, can we?
+
+# Black Jack
+
+## Black Jack pictures
+
+- [https://osamu-tezuka.fandom.com/wiki/Category:Black_Jack](https://osamu-tezuka.fandom.com/wiki/Category:Black_Jack)
+
+## Black Jack articles
+
+- [https://en.wikipedia.org/wiki/Black_Jack_(manga)](https://en.wikipedia.org/wiki/Black_Jack_(manga))
+- [https://en.wikipedia.org/wiki/Black_Jack_(manga_character)](https://en.wikipedia.org/wiki/Black_Jack_(manga_character))
+
+# 2 Doctors of Darkness
+
+## on youtube
+
+[English subtitles: https://www.youtube.com/watch?v=YZg7zg4M8b8](https://www.youtube.com/watch?v=YZg7zg4M8b8)
+
+The bombing 0:26 
+Black Jack appears 2:24
+
+
+##
