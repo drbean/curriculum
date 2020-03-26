@@ -102,14 +102,14 @@ restaurant:
 salad:
   0:
     flash:
-      dressing  : .
-      lettuce   : .
-      cucumbers : .
-      carrots   : .
-      any:      : .
-      onions    : .
-      put       : .
-      forgot    : .
+      dressing  : 敷料
+      lettuce   : 生菜
+      cucumbers : 黃瓜
+      carrots   : 蘿蔔
+      any:      : 任何
+      onions    : 洋蔥
+      put       : 放
+      forgot    : 忘記
   bingo:
     -
       - Sam is making dinner.                                     _山姆正在做晚餐。_
