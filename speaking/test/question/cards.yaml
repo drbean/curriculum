@@ -20,4 +20,28 @@ vacation:
         4.  How many vacations from work do you take that are a week or more in length?
         5.  Do you have a place you go to regularly for a holiday?
         6.  Tell me about the best vacation you have ever had. 
-    
+tv:
+  forum:
+    0:
+      identifier: Question 4~6. Respond to questions (in role) about watching TV
+      rubric: |+
+        Directions: In this part of the test, you will answer three
+        questions. You will have three seconds to prepare after
+        you hear each question. You will have 15 seconds to
+        respond to Questions 4 and 5, and 30 seconds to respond
+        to Question 6.
+
+        This is the example from 
+        [https://sac.nuu.edu.tw/cgi-bin/moodle/mod/url/view.php?id=5750](https://sac.nuu.edu.tw/cgi-bin/moodle/mod/url/view.php?id=5750)
+
+        Imagine that a Canadian marketing firm is doing
+        research in your country. You have agreed to participate
+        in a telephone interview about television viewing.
+
+        - Question 4: How often do you watch television?
+        - Question 5: What kinds of programmes do you usually watch?
+        - Question 6: Describe your favourite television programme
+
+        Upload ONE sound file of about 60 seconds to the site.
+
+        As there is no class next week, because it is 清明節, do it before April 10, 12pm.
