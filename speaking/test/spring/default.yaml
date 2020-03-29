@@ -1,5 +1,4 @@
 ---
----
 assign:
   introformat      : 4
   duedate          : $(date --date='2020-03-28 14:00:00 +0800' +%s)
@@ -13,7 +12,9 @@ assign:
   requiresubmissionstatement          : 0
   submissiondrafts                    : 0
   assignsubmission_onlinetext_enabled : 0
-  assignsubmission_onlinetext_enabled : 1
+  assignsubmission_file_enabled       : 1
+  assignsubmission_file_maxfiles      : 1
+  assignsubmission_file_maxsizebytes  : 2000
 forum:
   timeopen         : 1
   timeclose        : $(date --date='2020-03-27 12:00:00 +0800' +%s)
