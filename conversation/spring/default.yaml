@@ -1,11 +1,10 @@
 ---
----
 assign:
   introformat      : 4
-  duedate          : $(date --date='2020-03-28 14:00:00 +0800' +%s)
-  cutoffdate       : $(date --date='2020-03-28 14:00:00 +0800' +%s) 
+  duedate          : $(date --date='2020-03-30 12:00:00 +0800' +%s)
+  cutoffdate       : $(date --date='2020-03-30 12:00:00 +0800' +%s) 
   grade            : 9
-  gradecat         : 584
+  gradecat         : 627
   groupmode        : 1
   # groupingid       : 136 
   decimalpoints    : 0
@@ -13,7 +12,9 @@ assign:
   requiresubmissionstatement          : 0
   submissiondrafts                    : 0
   assignsubmission_onlinetext_enabled : 0
-  assignsubmission_onlinetext_enabled : 1
+  assignsubmission_file_enabled       : 1
+  assignsubmission_file_maxfiles      : 1
+  assignsubmission_file_maxsizebytes  : 2000
 forum:
   timeopen         : 1
   timeclose        : $(date --date='2020-03-27 12:00:00 +0800' +%s)
@@ -51,7 +52,7 @@ quiz:
   timeclose        : $(date --date='2020-06-30 14:00:00 +0800' +%s)
   introformat      : 4
   grade            : 3
-  gradecat         : 633
+  gradecat         : 634
   groupmode        : 0
   # groupingid       : 128
   attempts         : 1
