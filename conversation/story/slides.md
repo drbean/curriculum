@@ -3,7 +3,34 @@
 % Fri Dec  8 11:08:37 CST 2017 [github: ](https://github.com/drbean/curriculum/tree/master/conversation)
 
 
+# Storycorps
 
+## Talking about a storycorps story
+
+In the midterm and final exams, I will ask you to talk about a recording on 
+
+- [http://storycorps.org](http://storycorps.org)
+- [https://www.npr.org/series/4516989/storycorps](https://www.npr.org/series/4516989/storycorps)
+
+For homework,
+- choose a story
+- write down the link
+- speak for 30 seconds about the recording
+
+	- Say your name
+	- Say who is talking
+	- Say what they are talking about
+	- Say why it is interesting
+	- Say questions you might ask the people in the recording
+	- Say questions you might ask other people in this class
+	- Say how something in your life was different (or the same)
+	- Perhaps you could relate (tell) the story you hear
+
+You can do this alone. You don't have to have a conversation.
+
+Remember to add the extension, .mp3, .m4a, etc to the end of the file you upload, so Dr Bean can listen to the file.
+
+In class, next week, I will ask you to present the recording to the class.
 
 # Recording
 
