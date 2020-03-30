@@ -456,14 +456,21 @@ In _____(13) businesses, such as a doctor's office, a
 receptionist may also be the _____(14) manager with
 many middle-management-level business _____(15).
 
-# John Doe
+# John Who?
+
+## How do you pronounce this guy's name?
 
 ## John, Joan and John Doe
 
-[http://en.wikipedia.org/wiki/John_Doe](http://en.wikipedia.org/wiki/John_Doe)
+- [http://en.wikipedia.org/wiki/John_Doe](http://en.wikipedia.org/wiki/John_Doe)
+- [https://names.mongabay.com/data/dh/DOE.html](https://names.mongabay.com/data/dh/DOE.html)
+
+- [Jane_Roe](http://en.wikipedia.org/wiki/Jane_Roe)
+- [https://www.lexico.com/definition/jane_roe](https://www.lexico.com/definition/jane_roe)
+
 
 # Speaking
-#
+
 ## Speak as long as possible, eg 3 minutes?
 
 Which group can speak longest about Claritza Abreu and Dee Dickson?
@@ -534,6 +541,132 @@ Assessing 'Frame'
 - What was the Phenomenon?
 - What was the Value of the Phenomenon?
 - What was the Feature of the Phenomenon on which the Phenomenon was assessed?
+
+
+* Tia Smallwood--businesswoman
+
+# Bett
+
+## procedure
+
+- find the soundfile and bett app link on
+- [http://web.nuu.edu.tw/~greg/exercises.html](http://web.nuu.edu.tw/~greg/exercises.html)
+
+# gender
+
+## what percentage of business people in the u.s are women?
+
+what percentage of business people in the u.s are women?
+
+- [Russia, Philippines have most female business leaders, Japan ranks lowest | Reuters ](http://www.reuters.com/article/us-womens-day-business-idUSKCN0WA023)
+
+
+## gender roles on images.google.com
+
+- [gender roles - google search ](http://images.google.com/search?q=gender+roles&num=100&tbm=isch)
+- [friends youtube video](http://www.youtube.com/watch?v=igoc8ftlksi)
+
+# Cloze
+
+## Sexual harassment
+
+
+because frequent harass harassment isolated nature offensive person
+requests serious sex simple unlawful unwelcome verbal women
+
+It is _____(1) to harass an employee _____(2) of that _____(3)'s
+sex. Sexual _____(4) includes _____(5) sexual advances, _____(6)
+for sexual favors, and other _____(7) or physical harassment of a
+sexual _____(8). Harassment can include _____(9) remarks about a
+person's _____(10). For example, it is illegal to _____(11) a
+woman by making offensive comments about _____(12) in general.
+
+Although the law doesn't prohibit _____(13) teasing, or _____(14)
+incidents that are not very _____(15), harassment is illegal when
+it is so _____(16) or severe that it creates a hostile or
+offensive work environment or when it results in an adverse
+employment decision (such as the victim being fired or demoted).
+
+
+## Government body says, No discrimination against mothers
+
+children company decides discriminated employer experience female
+men more mother preschool rejected selectees tells training
+
+Charmaine, a _____(1) of two preschool-age _____(2), says she
+was _____(3) against because her _____(4) would not let her
+join the company's executive _____(5) program. The _____(6)
+says it _____(7) Charmaine because male and _____(8)
+candidates who were selected had better performance or more
+____(9). However, a government investigation reveals that
+Charmaine had _____(10) experience or better performance than
+several _____(11), including both men and women. And, the only
+selectees with _____(12) age children were _____(13). The
+investigator _____(14) that the company discriminated against
+Charmaine and the government _____(15) the company to include
+Charmaine in the program.
+
+# Tia Smallwood
+
+## At storycorps
+
+- [Tia Smallwood talks to her daughter, Christine about the difficulties of being a woman at a school and in a business world dominated by men. ](http://www.npr.org/templates/story/story.php?storyId=87965100)
+
+Studying finance at Rutgers University, she was treated     meanly and unfairly by a teacher, and at her first job interview, the boss    used offensive language with her. She also had to make tough decisions about  her children, her marriage and her career. She wanted to give 100 percent to  all three. But that was not possible.
+
+She says that things were not good in the 1970's when she    was young. But she says men still think the same. The only difference is that they are more careful about how they express themselves, ie they are more     subtle.
+
+## Tia Smallwood's Provocative red dress
+
+http://www.google.com/search?q=red+dress&num=100&um=1&ie=UTF-8&hl=en&tbm=isch&source=og&sa=N&tab=wi
+
+http://radaris.com/p/Tia/Smallwood/
+
+"Did the red dress that the woman wore offend Mr Batchelor?"
+"Who did the red dress that the woman wore offend?"
+"Did the man who interviewed the woman with the red dress offend someone?"
+"What did the woman that Mr Batchelor interviewed wear?"
+* "What did the woman that the man interviewed wear?"
+
+# Questions
+
+## Gender and work--questions from http://www.englishwithjo.com/english-conversation-gender-roles/ {.allowframebreaks}
+
+* What professions are more popular with men?
+* What professions are more popular with women?
+* What are the typical jobs for men and women of your parents' generation?
+* Is it possible for women to join the army in your country?
+* Are there more male or female managers and executives? Can women make effective managers and bosses?
+* Are there different barriers for men and women at work?
+* Are men and women treated equally - and paid equally - at work?
+
+
+
+## Gender and work--questions from http://teflpedia.com/Gender_conversation_questions {.allowframebreaks}
+
+* Why are there generally so few women in top positions?
+* In your country do men, women or both normally do the following jobs: Secretary, clerk, shop assistant, bus driver, train driver, airline pilot, taxi driver, ship's captain, building worker, doctor, primary school teacher, receptionist, prime minister, house wife/husband, nurse, university lecturer.
+* If some of these jobs are generally done by women or men, why is this?
+* Do you think that there are any jobs which only men or only women can or should do?
+* Would you rather work for a male or female boss?
+* Which gender do you think makes the best bosses? Can you give a reason? Have you had any direct experience or is it just an opinion?
+* Would you rather have a male or a female secretary? Why?
+* Does one gender takes more time off from work than another?
+* Is there any legislation in your country which tries to equalise the opportunities which men and women have when they are searching for jobs?  Does it work? If it exists, are there many prosecutions?
+* In your country is it legal to advertise specifically for a man or a woman?
+* Have you ever come across the so-called "glass ceiling" (the point beyond which women don't get promoted)? Do you think it exists or is it an urban myth? Do you know of any top managers in your country that are female? What percentage of the total do you think they are?
+
+# Grammar
+
+## You have these terrible decisions to make: Do you stay home? Do you work? Do you go ..
+
+I was losing my full-time job at NUU. I had these terrible decisions to make:
+
+- Do I leave 台灣?
+- Do I look for a job at another college?
+- Should I stay in 台灣, even if I only have a part-time job and no ARC?
+- Do I look for a job in a 補習班?
+
 
 # Recording
 
