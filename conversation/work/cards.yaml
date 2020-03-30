@@ -380,19 +380,19 @@ pestcontroller:
 dickson:
   assign:
     0:
-      identifier: "Homework:_a_conversation_about_Dee_Dickson,_work"
+      identifier: "Homework: a conversation about Dee Dickson, work"
       rubric: |+
         ## Recording 1 of 16--Conversation
 
         Ask your partner about Dee and work. Talk about what you think about Dee\'s situation.
 
-        30 seconds
-
-        30 seconds. Each person must say what he/she thinks.
-
         30 seconds. Each person must say what he/she thinks.
 
         This is the 1st of 14 conversations. They are worth 40 percent of your grade.
+
+        Upload it before 12:00 next Monday!
+
+        I think I have changed the format of the exercise, and the way I showed you how to upload files may be different than the way you have to do it for this homework. You *must* message me if you have a problem.
 
         Identify yourself. Say, \"I\'m John.\"
 
@@ -572,7 +572,116 @@ dickson:
         - question: Question 4\x3A Dickson. The number of female electricians in the U.S. has increased a lot since the 1960's.
           answer: False
 abreu:
+  assign:
+    0:
+      identifier: "Homework: Talking about work"
+      rubric: |+
+        We listened to 2 women. One was an electrician. One was a receptionist.
+
+        You probably don't want to do either job. What job would you like to have? What is important about a job.
+
+        Ask your partner. Say what you think about work.
+
+        30 seconds. Each person must say what he/she thinks.
+
+        This is the 2nd of 14 conversations. They are worth 40 percent of your grade.
+
+        Upload it before 12:00 next Monday!
+
+        I have changed the format of the exercise, and the way to upload files may be different than the way you have to do it for the previous homework. You *must* message me if you have a problem.
+
+        Identify yourself. Say, \"I\'m John.\"
+
+        ## Uploading files
+
+        Each person in the class must upload a different file. Record by clicking the Microphone button in the editor, or attach a sound file, by clicking the Video Camera button in the box to the left of the Microphone button. Submit after choosing a good title for the reading (use keywords from your conversation!)
+
+        Remember to add the extension, .mp3, .m4a, etc to the end of the file you upload, so Dr Bean can listen to the file. Message me if you have a problem.
+
+    
   jigsaw:
+    problem:
+      identifier: Abreu--the problem
+      quiz:
+        - question: |+
+            Abreu in her new job as a receptionist
+          option:
+            - Experiencer
+            - Situation
+            - Explanation
+          answer: Experiencer
+        - question: |+
+            Visitors give her their names, and she has to record them
+          option:
+            - Experiencer
+            - Situation
+            - Explanation
+          answer: Situation
+        - question: |+
+            She never studied names when she was studying English and names are irregularly spelled in English.
+          option:
+            - Experiencer
+            - Situation
+            - Explanation
+          answer: Explanation
+    solution:
+      identifier: Abreu--the solution
+      quiz:
+        - question: |+
+            Abreu was a person who solved her own problem
+          option:
+            - Agent
+            - Problem
+            - Means
+          answer: Agent
+        - question: |+
+            Learning how to spell names
+          option:
+            - Agent
+            - Problem
+            - Means
+          answer: Problem
+        - question: |+
+            Abreu got her cousin to read names out of the phonebook.
+          option:
+            - Agent
+            - Problem
+            - Means
+          answer: Means
+    evaluation:
+      identifier: Abreu--evaluation of the solution
+      quiz:
+        - question: |+
+            Abreu was the one with ideas about her solution
+          option:
+            - Assessor
+            - Phenomenon
+            - Value
+            - Feature
+        - question: |+
+            What is being assessed is the solution of using the phone book to learn to spell names
+          option:
+            - Assessor
+            - Phenomenon
+            - Value
+            - Feature
+          answer: Wrong answer
+        - question: |+
+            Abreu thought she was successful
+          option:
+            - Assessor
+            - Phenomenon
+            - Value
+            - Feature
+          answer: Value
+        - question: |+
+            She was able to keep her job. This is what allowed to evaluate her solution.
+          option:
+            - Assessor
+            - Phenomenon
+            - Value
+            - Feature
+          answer: Wrong answer
     0:
       identifier: abreu 0
       A: Your aunt, Claritza came to the U.S. in 1990 when you were 10. Her English was very good, but she had a Hispanic accent and she didn't know much about English names. You helped her to learn how to spell names by reading them out of the phone book to her.
@@ -624,7 +733,7 @@ abreu:
       identifier: abreu 1
       A: Your company sells computer services to hospitals. You hired Claritza as a receptionist. Her English is OK, but she has an accent, and you are worried customers like John Doe won't understand her. You listen to the way she takes their names.
       B: You are worried that Joan will fire you if you can't handle customers. You have problems spelling the name of John Doe, a customer. You don't understand his explanation of how to spell his last name. Why does he talk about dead bodies?
-      C: You are John Doe, a hospital administrator. You are a customer of Joan's company. You need computer services at your hospital. You talk to Claritza, Joan's receptionist. You tell her that dead bodies have your name. She doesn't understand.
+      C: You are John Doe, a hospital administrator. You are a customer of Joan's company. You need computer services at your hospital. You talk to Claritza, Joan's receptionist. You tell her that unidentified dead bodies are given your name. She doesn't understand.
       quiz:
         - question: A
           option: 
