@@ -79,9 +79,16 @@ Despite a large marketing budget, heavy editing and heavy promotion, the film wa
 - [https://en.wikipedia.org/wiki/Black_Jack_(manga)](https://en.wikipedia.org/wiki/Black_Jack_(manga))
 - [https://en.wikipedia.org/wiki/Black_Jack_(manga_character)](https://en.wikipedia.org/wiki/Black_Jack_(manga_character))
 
+## Black Jack before disfigurement as a child
+
+- [https://www.youtube.com/watch?v=7SPVn8l0qs8](https://www.youtube.com/watch?v=7SPVn8l0qs8)
+
 # 2 Doctors of Darkness
 
 ## on youtube
+
+[trailer](https://www.youtube.com/watch?v=WpbvN_M7lOM)
+
 
 [English subtitles: https://www.youtube.com/watch?v=YZg7zg4M8b8](https://www.youtube.com/watch?v=YZg7zg4M8b8)
 
