@@ -16,13 +16,13 @@ assign:
   assignsubmission_onlinetext_enabled : 1
 forum:
   timeopen         : 1
-  timeclose        : $(date --date='2020-03-27 12:00:00 +0800' +%s)
-  duedate          : $(date --date='2020-03-27 12:00:00 +0800' +%s)
-  cutoffdate       : $(date --date='2020-03-27 12:00:00 +0800' +%s) 
+  timeclose        : $(date --date='2020-03-30 12:00:00 +0800' +%s)
+  duedate          : $(date --date='2020-03-30 12:00:00 +0800' +%s)
+  cutoffdate       : $(date --date='2020-03-30 12:00:00 +0800' +%s) 
   introformat      : 4
   type             : eachuser
   grade            : 9
-  gradecat         : 652
+  gradecat         : 604
   groupmode        : 0
   # groupingid       : 128
   # attempts         : 1
@@ -51,7 +51,7 @@ quiz:
   timeclose        : $(date --date='2020-06-30 14:00:00 +0800' +%s)
   introformat      : 4
   grade            : 3
-  gradecat         : 633
+  gradecat         : 611
   groupmode        : 0
   # groupingid       : 128
   attempts         : 1
