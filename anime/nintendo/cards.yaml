@@ -45,6 +45,30 @@ gooigi:
         The students with most points get 9 for a homework grade. The students who get the fewest points (with a score of 10 or fewer points) get 7 for a homework grade. And those who don't write or answer any questions get zero.
 
         Finish doing it one hour before the class next week. (Ignore the date appearing on the page. It is wrong.)
+  forum:
+    0:
+      identifier: "Homework: a 3-card scenario about Mario, Luigi and Gooigi"
+      rubric: |+
+        Last week, we worked out who A, B and C were by asking questions based on a scenario Dr Bean wrote about Spirited Away. Now write a scenario about Mario, Luigi and Gooigi describing the [Mario & Luigi - Super Anime Brothers-jvupK5lHOqU.mp4 clip](http://web.nuu.edu.tw/~greg/anime/clip/Mario & Luigi - Super Anime Brothers-jvupK5lHOqU.mp4)
+
+        (If you want to write about different characters and a different story, that is OK).
+
+        Use the questions you wrote last week for homework as a guide.
+
+        Don't name the character you describe on each card. Name them on the other cards. But try to describe how the character on the card is related to the other characters on the other cards. For example, if you have Gooigi on the A card, don't use the name Gooigi, but say he plays Number 2 to a Number 2. Say he pushes Mario (not the real Mario) into the lava. (That's right, isn't it. Wait, I don't think it's right. Can you check?)
+
+        The aim is to create a scenario where students can ask questions and work out who A, B and C are. Also write 2 True/False questions that students have to answer.
+
+        This is a difficult assignment, but I was impressed by the quality of your questions last week and I am looking forward to seeing how you handle it. Message me if you have any questions.
+
+        Check the Spirited Away A, B and C cards that Dr Bean wrote.
+
+        - [http://web.nuu.edu.tw/~greg/anime/ghibli/quiz_spiritedaway_0.pdf](http://web.nuu.edu.tw/~greg/anime/ghibli/quiz_spiritedaway_0.pdf)
+
+        And check the True/False questions
+
+        - [http://web.nuu.edu.tw/~greg/anime/ghibli/jigsaw_spiritedaway_0.pdf](http://web.nuu.edu.tw/~greg/anime/ghibli/jigsaw_spiritedaway_0.pdf)
+
   jigsaw:
     0:
       identifier: Mario & Luigi - Super Anime Brothers-jvupK5lHOqU.mp4
@@ -98,6 +122,129 @@ gooigi:
             - Luigi Number 2
             - Mario
           answer: a combination of Mario and Luigi
+    1:
+      identifier: Not sure how to add the ABC cards
+      A: My brother tries to murder me by pushing me into lava. But I had found a man to take my place beforehand.
+      B: Born to suffer for Luligi. I want to erase the Mario brothers and establish my own era.
+      C: I have had enough of my own image of no.2. I want to use E.gadd's new invention to kill my brother who always is no.1.
+      quiz:
+        - question: A
+          option:
+            - Gooigi
+            - Luigi
+            - Mario
+          answer: Mario
+        - question: B
+          option:
+            - Gooigi
+            - Luigi
+            - Mario
+          answer: Gooigi
+        - question: C
+          option:
+            - Gooigi
+            - Luigi
+            - Mario
+          answer: Luigi
+        - question: |+
+            1.Mario tries to kill Luigi so that he could be no.1.
+          answer: False
+        - question: |+
+            2.There is more than one plot twist in this story.
+          answer: True
+        - question: |+
+            3.Gooigi wants to kill the Mario brothers because he has been pushed into lava by them.
+          answer: False
+    2:
+      identifier: This is what the characters want to say in their minds
+      A: there's always some reason forcing me to be a bad person. I don't want to be born as a no.2, I don't want to be a shadow for someone... I just wanted him... to suffer like I have!!! AM I WRONG??!!
+      B: I know I am always stuck in trouble, though I don't want it to happen. When everybody looks up to you, you have to bear a burden you never wanted, huh?
+      C: With someone's sacrifice, I can fool that guy I hate the most. I hate his color, I hate the shape of his mustache, I have his everything. Fortunately, I AM the smartest, and it will never change. Don't you believe me? 
+      quiz:
+        - question: A
+          option:
+            - Gooigi
+            - Luigi
+            - Mario
+          answer: Gooigi
+        - question: B
+          option:
+            - Gooigi
+            - Luigi
+            - Mario
+          answer: Mario
+        - question: C
+          option:
+            - Gooigi
+            - Luigi
+            - Mario
+          answer: Luigi
+        - question: 1. After beating Gooigi, Luigi says Mario is foolish and pathetic, and he'll show the true meaning of Luigi time at the end of video.
+          answer: True
+        - question: 2. Mario said Luigi was a good brother after he threw Luigi out of the lava.
+          answer: False
+        - question: 3. Gooigi is created by Luigi.
+          answer: False
+    3:
+      identifier: A, B, C
+      A : I am always NO.2, so I create a Guigi to push my brother into the lava, then I will become No.1.
+      B : I hate that I have suffered. Now, I want to kill the Mario brothers and replace them. 
+      C : I found my brother's plan, so I found a man who looks like me to take my place.
+      quiz:
+        - question: A
+          option:
+            - Gooigi
+            - Luigi
+            - Mario
+          answer: Luigi
+        - question: B
+          option:
+            - Gooigi
+            - Luigi
+            - Mario
+          answer: Gooigi
+        - question: C
+          option:
+            - Gooigi
+            - Luigi
+            - Mario
+          answer: Mario
+        - question: 1. Mario created Guigi to kill Luigi.
+          answer: False
+        - question: 2. The Mario Brothers cooperated to defeat Guigi.
+          answer: True
+        - question: 3. The Mario Brothers all died.
+          answer: False
+    4:
+      identifier: some descriptions of the characters
+      A: I'm made for helping Luigi, but it always torments me when I face ordeals alone. Hating being the NO.2 of the NO.2, I push Mario into the lava, so that I can be the only winner and create my own era.
+      B: I'm a plumber. Although I keep myself away from danger, I'm sorry that my brother wants to kill me. Fortunately, we finally reconcile with each other and beat Gooigi together.
+      C: I represent the antagonistic color of what my brother does. Hating always being NO.2, I betray him, he finally forgives me.  To my surprise, my helper wants to kill us.
+      quiz:
+        - question: A
+          option:
+            - Gooigi
+            - Luigi
+            - Mario
+          answer: Gooigi
+        - question: B
+          option:
+            - Gooigi
+            - Luigi
+            - Mario
+          answer: Mario
+        - question: C
+          option:
+            - Gooigi
+            - Luigi
+            - Mario
+          answer: Luigi
+        - question: a. Mario saves the fake Luigi at the begining.
+          answer: True
+        - question: b. The Mario Bros are afraid of Gooigi after learning his plan.
+          answer: False
+        - question: c. The first Luigi is Gooigi.
+          answer: True
 plantastrophe:
   jigsaw:
     0:
