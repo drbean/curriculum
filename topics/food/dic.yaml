@@ -8,7 +8,7 @@
   - unclozeables
   - percent
 -
-  - "salad-0"
+  - "salad-1"
   - "salad"
   - "topics"
   - "all"
@@ -16,9 +16,9 @@
     Sam is making dinner.  He's making a salad.
     First, he cuts two tomatoes. Then, he cuts two cucumbers. Next, he cuts two carrots. He puts them into a bowl. He pours the salad dressing on. Now, it's ready.
     But, wait. Something isn't right. What is it? Oh, no! Sam forgot the lettuce.
-  - Sam|Sam|End
+  - Sam is making|He's making a|First, he cuts two|Then, he|two|Next, he cuts|He puts them|He|the salad|on. Now, it's|But|Something isn't right|is it|Oh, no|Sam|the|End
 -
-  - "salad-1"
+  - "salad-2"
   - "salad"
   - "topics"
   - "all"
@@ -31,7 +31,7 @@
     G: Let's make something else for dinner.
   - End
 -
-  - "salad-2"
+  - "salad-3"
   - "salad"
   - "topics"
   - "all"
