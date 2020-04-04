@@ -32,3 +32,14 @@ thing:
       BICYCLE: 自行車 
       CAR    : 汽車   
       TRUCK  : 卡車   
+problem:
+  0:
+    flash:
+      roof       : 屋頂
+      remain     : 保持
+      respond    : 響應
+      within     : 內  
+      foundation : 基礎
+      improve    : 提高
+      scarce     : 稀缺
+      debate     : 辯論
