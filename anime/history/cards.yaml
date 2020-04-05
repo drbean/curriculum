@@ -7,14 +7,14 @@ alakazam:
       quiz:
         - question: Alakazam is a magic word like Abracadabra
           answer: True
-        - question: The name of the Monkey King in Xīyóu jì in Chinese is--
+        - question: The name of the Monkey King in Xiyou ji in Chinese is--
           option:
             - Alakazam the Great
             - Son Goku
             - Sun Wukong
             - The Monkey King
           answer: Sun Wukong
-        - question: The name of the Monkey King in Saiyūki in Japanese is--
+        - question: The name of the Monkey King in Saiyuki in Japanese is--
           option:
             - Alakazam the Great
             - Son Goku
