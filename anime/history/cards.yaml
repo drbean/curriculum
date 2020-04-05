@@ -1,0 +1,49 @@
+---
+genre: anime
+alakazam:
+  jigsaw:
+    0:
+      identifier: alakazam quiz
+      quiz:
+        - question: Alakazam is a magic word like Abracadabra
+          answer: True
+        - question: The name of the Monkey King in 西遊記 in Chinese is--
+          option:
+            - Alakazam the Great
+            - Son Goku
+            - Sun Wukong
+            - The Monkey King
+          answer: Sun Wukong
+        - question: The name of the Monkey King in 西遊記 in Japanese is--
+          option:
+            - Alakazam the Great
+            - Son Goku
+            - Sun Wukong
+            - The Monkey King
+          answer: Son Goku
+        - question: The name of the Monkey King in the anime's English version is--
+          option:
+            - Alakazam the Great
+            - Son Goku
+            - Sun Wukong
+            - The Monkey King
+          answer: Alakazam the Great
+        - question: The name of the Monkey King in the anime's Japanese version is--
+          option:
+            - Alakazam the Great
+            - Son Goku
+            - Sun Wukong
+            - The Monkey King
+          answer: Son Goku
+        - question: Alakazam was a big hit in the U.S.
+          answer: False
+        - question: Not much money was spent on making the English version
+          answer: False
+        - question: It's ironic that the reception was so different to modern Japanese anime
+          answer: True
+        - question: Many people thought that 'Alakazam the Great' was--
+          option:
+            - overrated
+            - underrated
+          answer: overrated
+        
