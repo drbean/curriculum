@@ -56,3 +56,13 @@ I think YYY is very DDD.
 The story is ... (tell the story, if you are feeling confident).
 
 The production is ... (the look and feel of the film, or details about its making, if you are feeling confident).
+
+# OVA
+
+## Original video animation
+
+[https://en.wikipedia.org/wiki/Original_video_animation](https://en.wikipedia.org/wiki/Original_video_animation)
+
+## Direct-to-video
+
+[https://en.wikipedia.org/wiki/Direct-to-video](https://en.wikipedia.org/wiki/Direct-to-video)
