@@ -1,5 +1,55 @@
 ---
 genre: toeic speaking test
+seminar:
+  essay:
+    0:
+      identifier: "Questions 7~9: Respond to questions using information provided"
+      rubric: |+
+        *Starting and managing your own business*
+
+                Date: May 27
+                Location: Bristol Office Building
+                Seminars: 9am.  Financing your business
+                                Room 210
+                                Martha Ross, Certified Public Accountant
+                          11am. How to promote your own business
+                                Room 212
+                                Howard Brown, Brown Publishers
+                    OR    11am. Planning for profit
+                                Room 318
+                                John Phillips, Phillips Associates
+                          1pm.  Lunch (Not included in registration fee)
+                          2pm.  Sales techniques workshop
+                                Room 246
+                                Helen King, West Side Consultants
+                          4pm.  General discussion
+                Registration fee:
+                          Individuals. $95.00
+                          Members of the Business Information Center, $75.00
+  jigsaw:
+    0:
+      identifier: "Questions 7~9: Respond to questions using information provided"
+      quiz:
+        - question: Question 7. Could you tell me what time the conference starts and how long it will last?
+          option:
+            - 9am and 4pm
+            - May 27 and Bristol Office Building
+            - 9am, 11am, 1pm, 2pm and 4pm
+            - 9am until some time after 4pm
+          answer: 9am until some time after 4pm
+        - question: Question 8: How much does the conference attendance cost?
+          option:
+            - $95
+            - $95 and $75
+            - $95 for individuals and $75 dollars for members of the Business Information Center
+          answer: $95 for individuals and $75 dollars for members of the Business Information Center
+        - question: Question 9: I may not be available for the full day.  Could you give me information about the activities in the morning, before lunchtime?
+          option:
+            - 9am.  Financing your business       Room 210       Martha Ross, Certified Public Accountant
+            - 11am. How to promote your own business      Room 212      Howard Brown, Brown Publishers
+            - There is one activity at 9, Financing your own business, and 2 which you can choose from at 11, How to promote your own business and Planning for profit.
+          answer: There is one activity at 9, Financing your own business, and 2 which you can choose from at 11, How to promote your own business and Planning for profit.
+        
 show:
   essay:
     0:
