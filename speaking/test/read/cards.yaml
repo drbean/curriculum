@@ -21,3 +21,28 @@ toeic:
       identifier: 
       rubric: |+
         Work with a teacher or an experienced specialist for TOEIC exam preparation. For most students, this is the only way to do well in the writing section. You need the feedback that the teacher will provide. Write several tests of the sample that are corrected by a teacher. If you are short of money, at least invest on a teacher or class to prepare for writing and speaking sections of the TOEIC, and then do the listening and reading sections on their own
+prosody:
+  essay:
+    0:
+      identifier: Sentence stress in Question 1~2. Read a text aloud
+      rubric: |+
+        Directions: In this part of the test, you will read aloud the text in the paragraph below. You will have 45 seconds to read the text aloud. Record by clicking the Microphone button in the editor, or attach a sound file, by clicking the Video Camera button in the box to the left. Submit after choosing a good title for the reading (use keywords from the text!)
+
+        [[ENG Ver.] TOEIC SPEAKING TEST REVIEW | with Gwen! #16 | 토익스피킹 문제해설](https://www.youtube.com/watch?v=4Q57QR8HlzQ)
+
+        At the 1:30 point:
+
+                Let's get started with this retirement 
+                ceremony. Mr Jenkins is the most ambitious 
+                colleague I have ever met. I want to say 
+                congratulations to him on his years of 
+                hard work, service and success.
+
+                Now, let's have Mr Jenkins come up to the 
+                stage to give a short talk.
+
+  url:
+    0:
+      identifier: sentence stress at english club
+      externalurl: https://www.englishclub.com/pronunciation/sentence-stress.htm
+  
