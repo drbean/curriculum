@@ -91,6 +91,7 @@ I will give extra credit for posts
 ## ETS in 台灣
 
 - [ETS Preferred Associate in Taiwan](http://www.toeic.com.tw/sw/)
+- [Dates](http://www.toeic.com.tw/sw/tests_info.jsp)
 
 ## IELTS in 台灣
 
@@ -117,6 +118,14 @@ Toeic speaking actual test #2-2019
 - [um](https://en.wiktionary.org/wiki/um)
 - [er](https://en.wiktionary.org/wiki/er)
 - [let me see](https://en.wiktionary.org/wiki/let_me_see)
+
+## Regional standards
+
+TOEIC is incorporating native speakers of English from countries outside the U.S. like Canada, the U.K., Australia and New Zealand, and possible South Africa, but not from other countries where English is an official language, like India, or where the language is spoken widely as a second language, like Germany and Denmark.
+
+## program vs programme
+
+[https://grammarist.com/spelling/program-programme/](https://grammarist.com/spelling/program-programme/)
 
 # notes
 
