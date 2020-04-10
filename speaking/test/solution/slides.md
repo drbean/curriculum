@@ -84,6 +84,44 @@ One change is related to note-taking. Up until now, taking note during the admin
 
 Chinese notes presumably Ok. They're not going to outlaw a language.
 
+# Grammar of problems and solutions
+
+## Problem, solution, evaluation
+
+[Problem:](https://framenet2.icsi.berkeley.edu/fnReports/data/frameIndex.xml?frame=Predicament )
+
+Caller: I was told that the books would arrive within five business days. But now, two weeks have passed and the books still haven't arrived.
+
+Caller: I need them for a class I'm taking, which begins next Monday. 
+
+Predicament 'Frame'
+
+* Who was the Experiencer?
+* What was the undesirable Situation?
+* What was the Explanation if it was expressed?
+
+[Solution:](https://framenet2.icsi.berkeley.edu/fnReports/data/frameIndex.xml?frame=Resolve_problem)
+
+You, the responder: I am going to send you a new package with the same books. 
+
+Resolve_problem 'Frame'
+
+- Who was the Agent?
+- What was the Problem?
+- Were the Means, Degree, Time and Place also expressed.
+
+[Evaluation:](https://framenet2.icsi.berkeley.edu/fnReports/data/frameIndex.xml?frame=Assessing)
+
+You, the responder: That way, it should arrive at your house in two days, so you will have some time to start reading the books before your class begins. 
+
+Assessing 'Frame'
+
+- Who was the Assessor?
+- What was the Phenomenon?
+- What was the Value of the Phenomenon?
+- What was the Feature of the Phenomenon on which the Phenomenon was assessed?
+
+
 ## Your response
 
 In your response, be sure to
