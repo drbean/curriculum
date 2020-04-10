@@ -97,6 +97,12 @@ request:
             - request
             - advice
           answer: advice
+book:
+  jigsaw:
+    0:
+      identifier: book problem frame elements
+      quiz:
+	:e
 example:
   jigsaw:
     0:
@@ -132,6 +138,9 @@ example:
             - request
             - advice
           answer: advice
+    1:
+      identifier: advice and request in the case of the undelivered books
+      quiz:
         - question: In the case of the undelivered books, the responder asks for the order number and the name of the books.
           option:
             - request
