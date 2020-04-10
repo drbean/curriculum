@@ -255,7 +255,7 @@ numeric:
             - 9
           answer: 4
 stall:
-  essay:
+  forum:
     0:
       identifier: homework--stall picture description
       rubric: |+
@@ -268,6 +268,20 @@ stall:
         Send a message to Dr Bean if you don't understand what to do.
 
         Click Participants on the left-hand side of the screen, Find "Dr Bean" on the list. On the "With selected users" menu, click, "Send a message".
+    1:
+      identifier: Homework--another stall picture description
+      rubric: |+
+        In this part of the test, you will describe the picture on your screen in as much detail as you can . You will have 45 seconds to prepare your response . Then you will have 45 seconds to speak about the picture. Record by clicking the Microphone button in the editor, or attach a sound file, by clicking the Video Camera button in the box to the left. Submit after choosing a good title for the reading (use keywords from the picture!)
+
+        [London, England, UK. Fruit stall in Brixton market - Electric Avenue, seen from the platform of Brixton Station](https://www.alamy.com/stock-photo-london-england-uk-fruit-stall-in-brixton-market-electric-avenue-seen-72865871.html)
+
+        Follow the instructions to upload the sound file.
+
+        Send a message to Dr Bean if you don\'t understand what to do.
+
+        Find my name in messages in the top right-hand corner. Down the bottom, there is a box to type a message in.
+
+        Or, click Participants on the left-hand side of the screen, Find \"Dr Bean\" on the list. On the \"With selected users\" menu, click, \"Send a message\".
 street:
   essay:
     0:
