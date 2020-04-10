@@ -1,6 +1,10 @@
 # Model TOEIC Speaking/Writing tests from around the Internet
 
-## General
+## Examinee handbook
+
+- [2019 version](http://web.nuu.edu.tw/~greg/toeic/sample/Examinee+Handbook+-+TOEIC+Speaking+and+Writing-LR.pdf)
+
+## General issues
 
 - [\[토익스피킹\]\ 스크래치\ 페이퍼\ 사용법\ _\ How\ to\ use\ the\ Scratch\ paper\ -\ TOEIC\ SPEAKING-xk5irxh0K1U.mp4](http://web.nuu.edu.tw/~greg/toeic/sample/\[토익스피킹\]\ 스크래치\ 페이퍼\ 사용법\ _\ How\ to\ use\ the\ Scratch\ paper\ -\ TOEIC\ SPEAKING-xk5irxh0K1U.mp4)
 
@@ -65,3 +69,11 @@ The IELTS test experience
 
 or, [IELTS Speaking Interview - Practice for a Score 7](http://web.nuu.edu.tw/~greg/toeic/sample/IELTS\ Speaking\ Interview\ -\ Practice\ for\ a\ Score\ 7-a-v32egDkCM.mp4)
 
+# Sentence stress
+
+## Alice in Wonderland in Chinese and English
+
+Compare the 2 versions
+
+
+[Alice in Wonderland in English _ Stories for Teenagers _ English Fairy Tales-ttBU-kDINz8.mp4](http://web.nuu.edu.tw/~greg/toeic/sample/Alice in Wonderland in English _ Stories for Teenagers _ English Fairy [Tales-ttBU-kDINz8.mp4)
