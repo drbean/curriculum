@@ -45,6 +45,8 @@ Something objective, followed by an inference with a
 
 Imagine the picture is real, here, now!
 
+Don't use the past tense.
+
 Use the present continuous tense with most verbs, except "have", "like", "know", etc
 
 Use simple present with adjectives.
@@ -105,3 +107,22 @@ If you can say, "A horse is an animal", then you know that:
 * and 'animal' is a metonym of 'horse'.
 
 If you know the metonym, it doesn't matter if you don't know the hyponym. That's why metonyms are useful.
+
+# Language
+
+## Grammar
+
+It is amazing that the owner can handle all the customers and respond to their needs or requests at the same time.
+
+## Pronunciation
+
+commodity commodities
+
+[at wiktionary](https://en.wiktionary.org/wiki/commodity)
+
+Where is the stress in the word?
+
+What is a metonym for 'commodity'?
+
+What is a hyponym?
+
