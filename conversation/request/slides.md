@@ -41,3 +41,7 @@ Each person in your group can upload a file, if you can't find your partner and 
 Remember to add the extension, .mp3, .m4a, etc to the end of the file you upload, so Dr Bean can listen to the file.
 
 Upload a file under your own name, if you want to be sure Dr Bean won't make a mistake with your grade.
+
+## Apologizing
+
+https://culturegaps.com/blog/english-phrases-for-apologizing
