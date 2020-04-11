@@ -51,7 +51,7 @@ seminar:
           answer: There is one activity at 9, Financing your own business, and 2 which you can choose from at 11, How to promote your own business and Planning for profit.
         
 show:
-  essay:
+  assign:
     0:
       identifier: "Questions 7~9: Respond to questions using information provided"
       rubric: |+
@@ -81,6 +81,16 @@ show:
         Children under age 12 get in for free.
 
         For further details visit us online at www.hometogrowwith.net
+
+        ## Questions
+
+        Hi! I'm excited about this year's home and garden show. I'd be grateful if you could tell me more about the event.
+
+        Questions:
+
+            7.  What day will the event begin and when will it end?
+            8.  How much are each of the grand prizes worth?
+            9.  I'm a big fan of Helping Hand. When and where will I be able to see the Dawson brothers? Are there any other celebrity guests attending?
 itinerary:
   jigsaw:
     0:
