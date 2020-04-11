@@ -59,5 +59,40 @@ shuffleanswers   : 1
     form  : 2
     intro : Which part of an inquiry does this sentence belong to?
     random: 1
-   
-  
+-
+  content:
+  -
+    topic : ./
+    story : virus
+    type  : url
+    form  : 0
+    intro : Read this humorous public health announcement for kids.
+    random: 
+-
+  content:
+  -
+    topic : inquiry
+    story : survey
+    type  : jigsaw
+    form  : 0
+    intro : Understand what Prof Bentley is doing with his survey.
+    random: 4
+-
+  content:
+  -
+    topic : inquiry
+    story : survey
+    type  : drag
+    form  : 0
+    intro : Think about how the survey fits into the form of an *inquiry*
+    random: 
+-
+  content:
+  -
+    topic : inquiry
+    story : cruise
+    type  : assign
+    form  : 0
+    intro : The cruise liner industry is suffering. This inquiry will make it happy.
+    random: 
+       
