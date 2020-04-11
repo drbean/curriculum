@@ -189,7 +189,7 @@ kind:
             - message of condolence
           answer: thank-you message
 thank:
-  essay:
+  assign:
     0:
       identifier: Token thank you
       rubric: |+
@@ -213,7 +213,7 @@ thank:
         - We will miss you when we graduate.
   drag:
     teacher:
-      identifier: teacher's day drag
+      identifier: teachers day drag
       sentences:
         -
           sentence: It's Teacher's Day, today.
