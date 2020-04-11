@@ -488,7 +488,7 @@ golfer:
           - I look forward ..
           - 4 (polite close)
     1:
-      identifier: sentence-structure matching p62
+      identifier: sentence-structure matching p60 and p62
       pair:
         -
           - Thank you for your letter ...
@@ -503,7 +503,7 @@ golfer:
           - I hope that the information .. further assistance in the future.
           - 3 (polite close)
     2:
-      identifier: sentence-structure matching p62
+      identifier: paragraph-structure matching p60 and p62
       pair:
         -
           - Paragraph 1
@@ -644,7 +644,7 @@ golfer:
             - Best Golf Supplies
           answer: Lady Golfer
     1:
-      identifier: reply timing
+      identifier: Best Golf Supplies replies to the Lady Golfer inquiry
       quiz:
         - question: Did Best Golf Supplies reply in a timely fashion (by Lady Golfer's expectations)?
           option:
@@ -883,9 +883,436 @@ acknowledge:
         -
           sentence: Thank you for your interest in the cruise and please wait for the information from our cooking staff.
           clozed: Thank|you|for|your|interest|in|the|cruise|please|wait|for|the|information|from|our|cooking|End
+  jigsaw:
+    problem:
+      identifier: A problem with the cruise inquiry acknowledgment
+      quiz:
+        - question: |+
+            To: Alex
 
+            From: Luxury Cruises Inc.
 
+            Subject: The enquiry of the cruise
 
+            Date: 1 Auguest 2020
+
+            Thank you for your letter dated 31 July, 2020 enquiring the dietary problem and the others.
+
+            Since the chef hasn't decided what kinds of foods should be prepared, we can't answer the problem immediately.
+
+            But If the menu be determined, we will reply you as soon as we can. It will be determined maybe tomorrow.
+
+            Please do not hesitate to contact me if I can be of further assistance.
+
+            Yours sincerely,
+
+            Luxury Cruises Inc.
+          option:
+            - a good acknowledgment to the cruise inquiry
+            - a problem with the acknowledgment to the cruise inquiry
+          answer: a good acknowledgment to the cruise inquiry
+        - question: |+
+          
+            From:
+
+                  Luxury Cruises Inc
+                  112 Yeh-I Road
+                  Chung-cheng District
+                  Keelung, Taiwan
+
+            To: Michael
+
+            Subject: The Luxury Cruises Inquiry
+
+            I have received your email of 31 July 2020 regarding your
+            inquiry of The Luxury Liner The China Rose, and about the
+            details that you asked;
+
+                1. My wife has an allergy for some seafood, so i need to ensure if the food on the ship is suitable for her.
+                2. My friends are also interested in this cruise, but they are all unable to go on the date that written on the advertisement. I am wondering if this kind  of cruise may be repeated.
+                3. I am not a strong swimmer, so i am wondering if this is a problem
+
+            I apologize that for now i can not answer your questions,
+            due to some of the Cruise details like the Cruise's dishes
+            has not been decided yet, but i will try to provide the
+            details you need as soon as possible.
+
+            I will try to give the details and information you need in
+            2 weeks.
+
+            I am sorry for the inconvenience and even though I was
+            unable to help on this occasion, please feel free to
+            contact me again if you think I can be of assistance to
+            you.
+
+            Daniel Rain
+
+            Sales Manager
+
+          option:
+            - a good acknowledgment to the cruise inquiry
+            - one or more problems with the acknowledgment to the cruise inquiry
+          answer: a good acknowledgment to the cruise inquiry
+        - question: |+
+            To : Lulu Everting
+
+            From : Terry Shih
+
+            Subject :
+
+            Hi, I've received your email last week, and thank you for that to let us your problem.
+
+            Here are the answers of your question :
+
+            First, I wonder your husband's diet. We will do our best to help you with that.
+
+            Second, of course the cruise will be repeated. But the time doesn't sure yet, I will email you again if the date set.
+
+            Last, don't worry about swimming. We will plan a safety advocacy on that time, as long as you follow our directions and there is nothing to worry about.
+
+            Thank you for letting us know the problem again, if you have other problems, please feel easy to let us know.
+
+            Yours faithfully,
+          option:
+            - a good acknowledgment to the cruise inquiry
+            - one or more problems with the acknowledgment to the cruise inquiry
+          answer: one or more problems with the acknowledgment to the cruise inquiry
+        - question: |+
+            TO: Ms.Alice Wang(alicewang@gmail.com)
+
+            FROM: Mr.Terry Shih(terryshih@yahoo.com.tw)
+
+            I am writing to enquire about the cruise.
+
+            I would be grateful if you could send me a list about food.
+
+            I would also be grateful if you could send me other cruises like this.
+
+            I would be grateful if you could tell me number of life
+            jackets .
+
+            Thank you in advance for your help. Please feel free to
+            contact me if I can be of help in the future.
+
+            I was very pleased to receive your question dated 12 March about cruise.
+
+            Because our information about cruise have some change.
+            I will answer your quesion at 24 March.
+
+            If you will be replying after the deadline, I hope this
+            situation will cause you simple.
+
+            Please contact me if you have any question.
+          option:
+            - a good acknowledgment to the cruise inquiry
+            - one or more problems with the acknowledgment to the cruise inquiry
+          answer: one or more problems with the acknowledgment to the cruise inquiry
+        - question: |+
+            To: Kathy Zheng
+
+            From: Mr. Terry Shih
+
+            Subject: acknowledging your cruise inquiry
+
+            Thank you for your cruise inquiry of regarding about your partner's dietary requirements.
+
+            That you say your partner's have allergic to shrimp.
+
+            But the food that will be served has not been decided on.
+
+            We will be able to answer you two days later.
+
+            If you will be replying after the stipulated deadline, the phrase I hope this situation will not cause you any difficulty. Please contact me if you have any questions can be used.
+          option:
+            - a good acknowledgment to the cruise inquiry
+            - one or more problems with the acknowledgment to the cruise inquiry
+          answer: one or more problems with the acknowledgment to the cruise inquiry
+        - question: |+
+            To: Jack Wu
+
+            From: Mr.Terry Shih
+
+            Subject: replying about details and information
+
+            Dear Jack Wu:
+
+            Thank you for letter dated July 31 about the problems of 4-day cruise around the coast of Taiwan.
+
+            Unfortunately, for the dietary problem, I won't able to reply it immediately. Because our menu hasn't decided yet and still in discuss.
+
+            I think that it would be decided in next week. When it has decided, I will reply you as soon as possible.
+
+            Thank you for contact me to these problems. If you have any other questions, please feel free to contact me anytime.
+
+            Yours faithfully,
+
+            Mr.Terry Shih
+          option:
+            - a good acknowledgment to the cruise inquiry
+            - one or more problems with the acknowledgment to the cruise inquiry
+          answer: a good acknowledgment to the cruise inquiry
+        - question: |+
+            To: Vivi
+
+            Subject: Acknowledging the inquiry letter about the cruise's recipe.
+
+            We have received your asking of regarding about food and date details by the trip for Luxury Cruise.
+
+            We are sorry that the kinds of ingredients about our cruise trip doesn't decide yet.
+
+            Our recipe will show in our website next week, and I will call our chef to made a recipe for the guests who allergic with seafood.
+
+            Thank for your asking abour the detail with cruise trip. If you have other questions, please email us.
+
+            From: CRUISE THE PACIFIC
+          option:
+            - a good acknowledgment to the cruise inquiry
+            - one or more problems with the acknowledgment to the cruise inquiry
+          answer: one or more problems with the acknowledgment to the cruise inquiry
+        - question: |+
+            To：Amy Chen
+
+            From：Luxury Cruises Inc
+
+            Subject：About your husband's diet
+
+            Your husband has very strict dietary requirements, so you are very worried the food on the ship will not be suitable.Your friends are also interested in this cruise, but are unable to go on the date in the advertisement. You are wondering if this kind of cruise may be repeated.You are not a strong swimmer. You are wondering if this is a problem.
+
+            I was very pleased to receive your email of regarding your husband's diet.
+
+            I hope this quotation will prove acceptable to you.
+
+            Although was not able to help on this occasion, please contact me again if you feel/think I can be of assistance to you.
+
+            Yours sincerely,
+
+            Luxury Cruises Inc
+          option:
+            - a good acknowledgment to the cruise inquiry
+            - one or more problems with the acknowledgment to the cruise inquiry
+          answer: one or more problems with the acknowledgment to the cruise inquiry
+        - question: |+
+            To:Tsai Ya
+
+            From:Mr.Terry Shih
+
+            Subject:Acknowledging the inquiry letter about the cruise
+
+            Dear Tsai Ya:
+
+            Thank you for your sending of concerning about your husband's dietary requirements. I'm so sorry for replying so late because chef take leave two week and we can't decide the ingredients immediately.I can answer you at next Tuesday.I hope this situation will not cause you any difficulty.Please contact me if you have any question.
+
+            Your sincerely,
+
+            Mr.Terry Shih
+          option:
+            - a good acknowledgment to the cruise inquiry
+            - one or more problems with the acknowledgment to the cruise inquiry
+          answer: a good acknowledgment to the cruise inquiry
+        - question: |+
+            To:Jack
+
+            From:Luxury Cruises Inc.
+
+            21 July 2020
+
+            Thank you for your letter date June 31, 2020 enquiring about cruise.
+
+            I am pleased to supply you with the following information: your cruise problem.
+
+            tomorrow I will be able to answer your  problem.
+
+            I need to ask the right answer first,please contact me if you have any question can be used.
+
+            Your sincerely
+          option:
+            - a good acknowledgment to the cruise inquiry
+            - one or more problems with the acknowledgment to the cruise inquiry
+          answer: one or more problems with the acknowledgment to the cruise inquiry
+        - question: |+
+            Thank you for your problems about meals healthy.
+
+            Because of system delay, I can't find out the question immediately.
+
+            I have received your feedback in 3 hours before. Now, let me answer your suspicions.
+
+            Our dishes all of organic, not only protect environment, but also without agricultural fertilizer. You can use it at ease.
+
+            Finally thank you again for your  contact.
+          option:
+            - a good acknowledgment to the cruise inquiry
+            - one or more problems with the acknowledgment to the cruise inquiry
+          answer: one or more problems with the acknowledgment to the cruise inquiry
+        - question: |+
+            To:Abby
+
+            From:Terry Shih
+
+            Subject:Acknowledging the inquiry letter about the cruise
+
+            I have received your 7/31 concerning about the dietary problem.
+
+            We are very busy so that the food that will be served has not been decised on.
+
+            I will be able to answer you before 8/20.
+
+            I hope this situation will not cause you any difficulty.
+
+            Please contact me if you have any questions.
+          option:
+            - a good acknowledgment to the cruise inquiry
+            - one or more problems with the acknowledgment to the cruise inquiry
+          answer: a good acknowledgment to the cruise inquiry
+        - question: |+
+            ABOUT ACKNOWLEDGING THE INQUIRY LETTER ABOUT THE CRUISE
+
+            July 31 2020
+
+            Dear Luxury Cruises Inc. :
+
+            I am writing with reference to your dietary requirements.
+
+            Can you give my partner a plate of kimchi meal?Because my partner is come from Korea.
+
+            Please answer me on Sunday mornig.
+
+            I look forward to hearing from you.
+
+            yours faithfully,
+
+            Yueci
+          option:
+            - a good acknowledgment to the cruise inquiry
+            - one or more problems with the acknowledgment to the cruise inquiry
+          answer: one or more problems with the acknowledgment to the cruise inquiry
+        - question: |+
+            To: Sherry2 Chen
+
+            From: Mr. Terry Shih
+
+            Subject line: Regarding the question that you asked last week. I would like to tell you why I cannot answer you at this time.
+
+            Dear Sherry2,
+
+            I have received your of July 31 concerning about your husband dietary problem.
+
+            I know your husband has very strict dietary requirement. And he is Taiwanese. He need to eats 4 meatls a day(breakfast lunch dinner and late night supper). He must have white rice at every meal. And he has seafood allergies.
+
+            We have insufficient chefs, if your husband need four meals a day. So we need time to apply for hire a new chef . Thus, we have not yet determined with you your husband's dietary requirements at present.
+
+            The application procedures takes about a week to apply, and I can respond to you in next week.
+
+            I hope this situation will not cause you any difficulty. Please contact me if you have any questions can be used. Thank you.
+
+            Your sincerely,
+
+            Mr. Terry Shih
+          option:
+            - a good acknowledgment to the cruise inquiry
+            - one or more problems with the acknowledgment to the cruise inquiry
+          answer: a good acknowledgment to the cruise inquiry
+        - question: |+
+            To: Roger
+
+            From: Mr. Terry Shin
+
+            Subject: Acknowledging the inquiry about the cruise
+
+            Date: August 1, 2020
+
+            I am very pleased to receive your inquiry dated July 31, 2020 concerning about meals served on the ship.
+
+            I have contacted our cooking staff about your partner's food requirements, but they may have to confirm with the executive chef, it may take them a few days.
+
+            I will respond to your inquiry in five days, if there is any change to the date I will contact you again.
+
+            Thanks again for your inquiry. Please feel free to contact me if you have new problem.
+
+            Yours sincerely,
+
+            Roger
+          option:
+            - a good acknowledgment to the cruise inquiry
+            - one or more problems with the acknowledgment to the cruise inquiry
+          answer: a good acknowledgment to the cruise inquiry
+    0:
+      identifier: acknowledging_vs_replying
+      quiz:
+        - question: The email is unable to answer the query, but may be able to do it later.
+          option:
+            - an acknowledgment to an inquiry
+            - a reply to an inquiry
+          answer: an acknowledgment to an inquiry
+        - question: This email is a good idea, if you have no answers to the query.
+          option:
+            - an acknowledgment to an inquiry
+            - a reply to an inquiry
+          answer: an acknowledgment to an inquiry
+        - question: You answer the inquirer's questions, and the inquirer will be happy.
+          option:
+            - an acknowledgment to an inquiry
+            - a reply to an inquiry
+          answer: a reply to an inquiry
+        - question: You answer the inquirer's questions, but the inquirer won't be happy.
+          option:
+            - an acknowledgment to an inquiry
+            - a reply to an inquiry
+          answer: a reply to an inquiry
+        - question: You have positive things to say.
+          option:
+            - an acknowledgment to an inquiry
+            - a reply to an inquiry
+          answer: a reply to an inquiry
+        - question: You answer the inquirer's question in the negative.
+          option:
+            - an acknowledgment to an inquiry
+            - a reply to an inquiry
+          answer: a reply to an inquiry
+        - question: You include a reference to a follow-up email.
+          option:
+            - an acknowledgment to an inquiry
+            - a reply to an inquiry
+          answer: an acknowledgment to an inquiry
+        - question: You explain a delay and say nothing else.
+          option:
+            - an acknowledgment to an inquiry
+            - a reply to an inquiry
+          answer: an acknowledgment to an inquiry
+        - question: You are not apologetic, but there is a problem, because you cannot answer the question.
+          option:
+            - an acknowledgment to an inquiry
+            - a reply to an inquiry
+          answer: an acknowledgment to an inquiry
+        - question: You acknowledge the inquirer's email and answer their questions.
+          option:
+            - an acknowledgment to an inquiry
+            - a reply to an inquiry
+          answer: a reply to an inquiry
+        - question: You give extra information, after answering their question.
+          option:
+            - an acknowledgment to an inquiry
+            - a reply to an inquiry
+          answer: a reply to an inquiry
+        - question: You are not apologetic, unless you are going to reply after the deadline.
+          option:
+            - an acknowledgment to an inquiry
+            - a reply to an inquiry
+          answer: an acknowledgment to an inquiry
+        - question: You are apologetic, because you are going to reply after their deadline.
+          option:
+            - an acknowledgment to an inquiry
+            - a reply to an inquiry
+          answer: an acknowledgment to an inquiry
+        - question: The email has 4 parts.
+          option:
+            - an acknowledgment to an inquiry
+            - a reply to an inquiry
+          answer: an acknowledgment to an inquiry
+        - question: The email has 3 parts.
+          option:
+            - an acknowledgment to an inquiry
+            - a reply to an inquiry
+          answer: a reply to an inquiry
 combining:
   jigsaw:
     0:
@@ -966,7 +1393,7 @@ reason:
 survey:
   jigsaw:
     0:
-      identifier: survey comprehension questions
+      identifier: ASU survey comprehension questions
       quiz:
         - question: The survey is being carried out to get--
           option:
@@ -1011,7 +1438,7 @@ survey:
           answer: sending the survey back
   drag:
     0:
-      identifier: asu survey
+      identifier: "[A-State](https://www.astate.edu/) survey"
       sentences:
         -
           sentence: Dear Alumnus, <p> The College of Business is currently conducting a survey which we hope will help in increasing the quality of our courses. We hope to identify the strengths and weaknesses so we can create the best environment possible for our business students. <p> answering the enclosed survey will help us do this, by identifying the progress our graduates have made in their careers. Our students would also be_helped by having an idea of the salaries they can expect. <p> We promise that all information received will only be released in summary statistics. <p> We are eagerly awaiting your reply and would appreciate it arriving before January 31. For your convenience, we are also including a stamped/addressed envelope.
@@ -1151,6 +1578,25 @@ step:
             - 4. close expressing confidence the request will be answered.
           answer: 4. close expressing confidence the request will be answered.
 cruise:
+  essay:
+    0:
+      identifier: Homework_cruise_inquiry_acknowledgment
+      rubric: |+
+        ## Homework: acknowledging the inquiry letter about the cruise
+
+        Write the email reply to yourself. Include To:, From:, Subject:
+
+        Mention only the dietary problem/question.. *Don't* mention the other questions.
+        Use the information you gave about your partner's dietary requirements, and the example sentences on p 59, p 60.
+
+        * For the acknowledgement, look at the examples there.
+        * In part 1 also repeat the problems as you described them last week.
+        * Don't answer the question, say why your answer will be delayed in part 2. For example, the food that will be served has not been decided on.
+        * In part 3, say when you will be able to answer.
+        * In part 4, for the polite close, look at the examples on p 59.
+
+        
+    
   scramble:
     0:
       identifier: p59 acknowledge
@@ -2092,7 +2538,7 @@ interested:
 boiler:
   jigsaw:
     0:
-      identifier: boiler comprehension questions
+      identifier: boiler comprehension questions p64
       quiz:
         - question: What kind of message came before this one?
           option:
@@ -2191,7 +2637,7 @@ boiler:
           answer: Mr Jones
   match:
     0:
-      identifier: boiler first half
+      identifier: boiler first half p64
       pair:
         -
           - 1
@@ -2209,7 +2655,7 @@ boiler:
           - 5
           - L. However, under the terms of your payment plan, our first free check is after one year.
     1:
-      identifier: boiler second half
+      identifier: boiler second half p64
       pair:
         -
           - 1
@@ -2224,7 +2670,7 @@ boiler:
           - 4
           - E. Phone our service center if you would like to take advantage of this offer.
     2:
-      identifier: boiler 3rd half
+      identifier: boiler 3rd half p64
       pair:
         -
           - 1
@@ -2510,6 +2956,266 @@ heater:
             - hardware store proprietor
             - heater manufacturer/distributor
           answer: hardware store proprietor
+    problem:
+      identifier: missing/misplaced item from heater inquiry reply
+      quiz:
+        - question: |+
+            Subject: Reply to an inquiry letter about heaters
+
+            To:  Mr. Moore
+
+            From: Nini Wu
+
+            Dear Mr. Moore,
+
+            Thank you for your letter concerning the electric heaters
+            advertised in the South-east Trader.
+
+            I am pleased to send you the illustrated catalogue and a
+            price list. The information to you is on the attached file.
+
+            Alternatively, you may be interested in our newest model,
+            the FZ1. This model emits 15% more heat without consuming
+            any extra fuel. Price and specific terms are printed on the
+            inside cover of the catalogue. And we are offering free
+            trials of this heater, which for any time up to 30 days.
+            This heater would allow you to see the high quality and
+            finish of the product.
+
+            We hope this information is useful to you. Please don't
+            hesitate to contact me if I can be of further assistance.
+
+            Yours sincerely,
+
+            Nini Wu
+          option:
+            - No problem
+            - Problem with acknowledging the inquiry
+            - Problem with answering the inquiry
+            - Problem with giving extra information
+            - Problem with polite, forward-looking close
+          answer: No problem
+        - question: |+
+            To: Mr. James Moore
+
+            From: Jhao Kuan Hsu (Sales Manager)
+
+            Subject: Re: Catalogue and Price List for Heaters
+
+            Dear Mr. James Moore,
+
+            Thank you for your inquiry about our heaters.
+
+            We have a newest model, the FZ1.
+
+            This model emits 15% more heat without consuming any extra
+            fuel. Prices and specific terms are printed on the inside
+            cover of the catalogue.
+
+            And now it is possible to have a free trial of the heater.
+            The trial can be for any time up to 30 days.
+
+            I wonder to konw which kind of Heaters you wnat I send.
+
+            Please reply me again and be sure about which one do you
+            want to have a free trial. Thanks!
+
+            Your sincerely,
+
+            Jhao Kuan Hsu
+
+            Sales Manager
+          option:
+            - No problem
+            - Problem with acknowledging the inquiry
+            - Problem with answering the inquiry
+            - Problem with giving extra information
+            - Problem with polite, forward-looking close
+          answer: Problem with answering the inquiry
+        - question: |+
+            To: Mr. James Moore
+
+            Subject: Reply of Catalogue and Price List for Heaters
+
+            Dear Sir,
+
+            Thank you for contacting our company regarding our products catalogue and price list, we will immediately send the heaters
+            catalogue as soon as possible.
+
+            You might also be interested in our latest heater the FZ1. This model emits 15% more heat without consuming any extra fuel.
+            Prices and specific terms are printed on the inside cover of the catalogue.
+
+            You also have the opportunity for a free trial of the heater. The trial can be for any time up to 30 days. That way you can
+            see the high quality and finish of the product.
+
+            I hope the information I have provided will prove useful to you.
+
+            Yours faithfully,
+
+            Michael Hendrik
+          option:
+            - No problem
+            - Problem with acknowledging the inquiry
+            - Problem with answering the inquiry
+            - Problem with giving extra information
+            - Problem with polite, forward-looking close
+          answer: No problem
+        - question: |+
+            To: Mr. Moore
+
+            From: Sales Manager
+
+            Subject: Heater inquiry reply
+
+            Thank you for your interest in our products
+
+            We want to bring to your attention our newest model, the FZ1. This model emits 15% more that without consuming any extra
+            fuel. Prices and specific terms are printed on the inside cover of the catalogue.
+
+            If you are interested we can let you to have a free trial of the heater. The trial can be for any time up to 30 days. A
+            trial would allow the you to see the high quality and finish of the product. We will give you a discount if you buy in
+            large quantities.
+
+            We hope the information you have received is useful to you. Please do not hesitate to contact us if you need any further
+            information.
+
+            Your faithfully,
+
+            Ada Gan (Ms.)
+          option:
+            - No problem
+            - Problem with acknowledging the inquiry
+            - Problem with answering the inquiry
+            - Problem with giving extra information
+            - Problem with polite, forward-looking close
+          answer: Problem with answering the inquiry
+        - question: |+
+            To: Mr. Moore
+
+            From: Kitty Chuang
+
+            Subject: Reply of heaters inquiry.
+
+            Thank you for your inquiry about our electric heaters. The files of the attachment in this email is our illustrated
+            catalogue and a price list.
+
+            I think you may be interested in our newest model, the FZI. This model emits 15% more heat without consuming any extra
+            fuel. Prices and specific terms are printed on the inside cover of the catalogue.
+
+            Furthermore, it is possible to have a free trial of the heater. The trial can be for any time up to 30 days. A trial would
+            allow the customer to see the high quality and finish of the product.
+
+            Thank you for your original contact. Please contact me if you have any questions of our products. We will contact you as
+            soon as possible.
+          option:
+            - No problem
+            - Problem with acknowledging the inquiry
+            - Problem with answering the inquiry
+            - Problem with giving extra information
+            - Problem with polite, forward-looking close
+          answer: No problem
+        - question: |+
+            To: James Moore (Mr.)
+
+            From: Dylan
+
+            Subject: Catalogue and Price List for Heaters
+
+            Dear James Moore (Mr.),
+
+            I was very pleased to receive your letter regarding our product, I will send the cataloge and price list for heaters. We
+            also decided to give you a free trial of the heater, the trial can be for any time up to 30 days.
+
+            Thank you for your contact.
+          option:
+            - No problem
+            - Problem with acknowledging the inquiry
+            - Problem with answering the inquiry
+            - Problem with giving extra information
+            - Problem with polite, forward-looking close
+          answer: Problem with giving extra information
+        - question: |+
+            To: James Moore (Mr.)
+
+            From: Paul
+
+            Subject: Answering about Catalogue and Price List for Heaters
+
+            Dear Moore,
+
+            Thank you for your interest in our products.
+
+            We know you are interested in our newest product, the FZ1. This heaters emits 15% more heat without consuming any extra
+            fuel. The extra information is printed on the inside cover of
+            the catalouge.
+
+            By the way, it is possible to have a free trial of the heater. The trial can be for any time up to 30 days. The trial must
+            show the high quality of the heater.
+
+            Your sincerely,
+
+            Paul
+
+            Sales Manager
+          option:
+            - No problem
+            - Problem with acknowledging the inquiry
+            - Problem with answering the inquiry
+            - Problem with giving extra information
+            - Problem with polite, forward-looking close
+          answer: Problem with answering the inquiry
+        - question: |+
+            To: Mr. Moore
+
+            From: Andy Wu, Sales Manager of Easten Heater Company
+
+            Subject: Heater inquiry reply
+
+            Thank you for your letter of heater inquiry.I was very pleased to receive your question dated 12 March about cruise.
+
+            I will send a catalogue for you.
+
+            Prices and specific terms are printed on the inside cover of the catalogue.
+
+            I hope the information I have given will prove useful to you.
+
+            Please contact me if I can be of further assistance.
+
+            Yours sincerely,
+
+            Andy Wu
+
+            Sales Manager
+          option:
+            - No problem
+            - Problem with acknowledging the inquiry
+            - Problem with answering the inquiry
+            - Problem with giving extra information
+            - Problem with polite, forward-looking close
+          answer: Problem with giving extra information
+        - question: |+
+            Subject: Catalogue and Price List for Heaters
+
+            Dear Mr Moore,
+
+            Thank you for your letter enquiring about our electric heaters
+
+            We are sorry to tell you the illustrated catalogue and a price list , which don't exist yet.
+
+            We will answer you about next day. because we need wait contractor give us the illustrated catalogue and a price list .
+
+            At last,we are thankful your email.
+
+            Yours faithfully,
+
+            Amada LIN
+          option:
+            - No problem
+            - Problem with acknowledging the inquiry
+            - Problem with answering the inquiry
+            - Problem with giving extra information
+            - Problem with polite, forward-looking close
+          answer: Problem with giving extra information
   scramble:
     0:
       identifier: heater scramble
@@ -2894,9 +3600,23 @@ opening:
           sentence: I am writing to inquire about the 2017 Book Exhibit in Taipei. I would like to know if you are organizing this event.
           clozed: I|am|writing|to|inquire|about|the|2017|Book|Exhibit|in|Taipei|I|would|like|to|know|if|you|are|organizing|this|event.
 reply:
+  assign:
+    0:
+      identifier: "Homework: reply to an inquiry letter about heaters, p 66"
+      rubric: |+
+        ## Homework: reply to an inquiry letter about heaters, p 66
+
+        Write the email reply to Mr Moore. Include To:, From:, Subject:
+
+        Use the information given in the book, and the example sentences in the \"heater inquiry reply\" exercises(, which don't exist yet. Sorry).
+
+        * For the acknowledgement, look at the examples on previous pages.
+        * For the answer to the question, decide what Moore wants you to send him.
+        * For the extra information, use what is written in the book, changing \"the writer\" to \"you\", and \"your\" to \"our\".
+        * For the polite close, look at the examples on previous pages.
   drag:
     0:
-      identifier: reply to inquiry scramble
+      identifier: reply to inquiry p 63 scramble 1, 2, 4
       sentences:
         -
           sentence: Our representative will call on you at midday on Saturday, January 4.
@@ -2908,7 +3628,7 @@ reply:
           sentence: The lens of the C-400 underwater camera can be cleaned by warm water.
           clozed: The|lens|of|the|underwater|camera|can|be|cleaned|by|warm|End
     1:
-      identifier: reply to inquiry scramble p 63
+      identifier: reply_to_inquiry_p_63_scramble_3,_5,_6
       sentences:
         -
           sentence: Our products are available in Sogo stores.
@@ -2920,7 +3640,7 @@ reply:
           sentence: Please fill out the attached form and return it by 15 January, so your order can be processed without delay.
           clozed: Please|fill|out|the|attached|form|and|return|it|by|15|so|your|order|can|be|processed|without|End
     2:
-      identifier: reply to inquiry scramble p 63
+      identifier: reply_to_inquiry_p_63_scramble_7,_8
       sentences:
         -
           sentence: The goods will be dispatched within five days of a firm_order.
@@ -2929,7 +3649,7 @@ reply:
           sentence: We note our records show that payment of invoice_571 is still outstanding.
           clozed: We|note|our|records|show|that|payment|of|invoice_571|is|still|End
     3:
-      identifier: reply to inquiry scramble p 63
+      identifier: reply to inquiry p 63 scramble 9, 10
       sentences:
         -
           sentence: We apologize for any inconvenience which may have been caused.
@@ -2937,4 +3657,12 @@ reply:
         -
           sentence: You can track shipping details on our websites.
           clozed: You|can|track|shipping|details|on|our|End
-
+video:
+  url:
+    0:
+      identifier: Week 5 classroom video--hour 1
+      externalurl: https://youtu.be/-GXdYR-7Yb4
+    1:
+      identifier: Week 5 classroom video--hour 2
+      externalurl: https://youtu.be/giaJiwPmIec
+  
