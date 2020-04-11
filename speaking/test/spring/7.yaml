@@ -1,0 +1,47 @@
+---
+-
+  content:
+  -
+    topic : opinion
+    story : job
+    type  : jigsaw
+    form  : 0
+    intro : which topic is in which section
+    random: 
+-
+  content:
+  -
+    topic : opinion
+    story : job
+    type  : jigsaw
+    form  : 1
+    intro : which topic is in which section
+    random: 
+-
+  content:
+  -
+    topic : opinion
+    story : job
+    type  : jigsaw
+    form  : 2
+    intro : the topics require similar/different responses from examinees
+    random: 
+-
+  content:
+  -
+    topic : opinion
+    story : job
+    type  : jigsaw
+    form  : 3
+    intro : similar/different kinds of topics in the speaking and writing tests
+    random: 
+-
+  content:
+  -
+    topic : information
+    story : show
+    type  : assign
+    form  : 0
+    intro : Listen to Dr Bean read the questions. Upload a soundfile with your answers. If you can't understand the questions, look at the 4th speaking section at https://www.testden.com/TOEIC/speaking.htm
+    random: 
+    
