@@ -138,3 +138,13 @@ I think this is why this comic is so interesting.
 ## Introduction
 
 The story is about a endless train having many magical creatures and environments, traveling through a desolate land. The first season is about a girl named Tulip. With a glowing number on her hand, she begin a adventure on the train.
+
+## Character cards
+
+Kinds: Identity of the character, Relationships with other characters, Events in which the character was involved, States of Mind of the character
+
+Examples:
+Identity: Name, Gender (Male, Female, No Gender), Age, Role, Physical/Psychological Characteristics
+Relationships: Brother/Friend/Employee/Boss/Double of X
+Events: Does something to someone/something, Is X'ed by someone/something, Experiences X
+States of Mind: Character's Feelings, Skills, Knowledge,
