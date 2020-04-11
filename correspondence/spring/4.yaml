@@ -41,5 +41,103 @@ shuffleanswers   : 1
     form  : 22
     intro : Which part of an inquiry does this sentence belong to?
     random: 1
-  
-  
+-
+  content:
+  -
+    topic : inquiry
+    story : cruise
+    type  : jigsaw
+    form  : problem
+    intro : missing_inquiry_part
+    random: 8
+-
+  content:
+  -
+    topic : inquiry
+    story : acknowledge
+    type  : drag
+    form  : 0
+    intro : mountain_bikes,_candy_catalog,_cruise
+    random: 1
+-
+  content:
+  -
+    topic : inquiry
+    story : acknowledge
+    type  : drag
+    form  : 1
+    intro : mountain_bikes,_candy_catalog,_cruise
+    random: 1
+-
+  content:
+  -
+    topic : inquiry
+    story : acknowledge
+    type  : drag
+    form  : 2
+    intro : mountain_bikes,_candy_catalog,_cruise
+    random: 1
+-
+  content:
+  -
+    topic : inquiry
+    story : acknowledge
+    type  : drag
+    form  : 3
+    intro : mountain_bikes,_candy_catalog,_cruise
+    random: 1
+-
+  content:
+  -
+    topic : inquiry
+    story : reply
+    type  : drag
+    form  : 0
+    intro : 4 is difficult
+    random: 1
+-
+  content:
+  -
+    topic : inquiry
+    story : reply
+    type  : drag
+    form  : 1
+    intro : 5 is about an unrechargable battery
+    random: 1
+-
+  content:
+  -
+    topic : inquiry
+    story : reply
+    type  : drag
+    form  : 2
+    intro : Look at the book and google for examples
+    random: 1
+-
+  content:
+  -
+    topic : inquiry
+    story : reply
+    type  : drag
+    form  : 3
+    intro : 10 is about using the app to see when your online order will arrive
+    random: 1
+-
+  content:
+  -
+    topic : inquiry
+    story : acknowledge
+    type  : jigsaw
+    form  : 0
+    intro : look_at_p_59:acknowledgments,_p_60:replies
+    random: 8
+-
+  content:
+  -
+    topic : inquiry
+    story : cruise
+    type  : assign
+    form  : 0
+    intro : acknowledging_your_cruise_inquiry
+    random: 
+    
