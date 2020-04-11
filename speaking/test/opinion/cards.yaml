@@ -15,17 +15,35 @@ job:
     0:
       identifier: job opinion--speaking or writing 1
       quiz:
-        - question: "'a low-wage job with lots of vacation time' is in the Speaking test."
+        - question: "'a low-wage job with lots of vacation time' is in the Speaking test section of the Examinee Handbook."
           answer: True
-        - question: "'a low-wage job with lots of vacation time' is in the Writing test."
+        - question: "'a low-wage job with lots of vacation time' is in the Writing test section of the Examinee Handbook."
           answer: False
     1:
       identifier: job opinion--speaking or writing 2
       quiz:
-        - question: "'the best way to find a job' is in the Speaking test."
+        - question: "'the best way to find a job' is in the Speaking test section of the Examinee Handbook."
           answer: False
-        - question: "'the best way to find a job' is in the Writing test."
+        - question: "'the best way to find a job' is in the Writing test section of the Examinee Handbook."
           answer: True
+    2:
+      identifier: job opinion questions--similar or different 3
+      quiz:
+        - question: "'a low-wage job with lots of vacation time' and 'the best way to find a job' could both be TOEIC speaking and writing topics."
+          answer: True
+        - question: One of the topics--'a low-wage job with lots of vacation time' OR 'the best way to find a job' is better suited than the other as a topic for one of the TOEIC speaking and writing tests.
+          answer: False
+    3:
+      identifier: TOEIC speaking test prep
+      quiz:
+        - question: The conclusion for someone preparing for the TOEIC speaking test from the previous quizzes about questions on the TOEIC speaking and writing tests is--
+          option:
+            - Practicing for the writing test will help you prepare for the speaking test also
+            - Some people who can speak English very well are not very good at writing English
+            - Speaking and writing are different skills
+            - The writing test is more difficult than the speaking test
+          answer: Practicing for the writing test will help you prepare for the speaking test also
+        
 phone:
   essay:
     0:
