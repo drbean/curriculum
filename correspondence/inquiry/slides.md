@@ -31,6 +31,18 @@ Dietary requirements: For example is your partner French, and will they only eat
 
 Do it before Sunday March 6, 8pm.
 
+## Homework: acknowledging the inquiry letter about the cruise
+
+Write the email reply to yourself. Include To:, From:, Subject:
+
+Use the information you gave about your partner's dietary requirements, and the example sentences on p 59, p 60.
+
+* For the acknowledgement, look at the examples there.
+* In part 1 also repeat the problems as you described them last week.
+* Don't answer the question, say why your answer will be delayed in part 2. For example, the food that will be served has not been decided on.
+* In part 3, say when you will be able to answer.
+* In part 4, for the polite close, look at the examples on p 59.
+
 ## Homework: reply to an inquiry letter about heaters, p 66
 
 Write the email reply to Mr Moore. Include To:, From:, Subject:
@@ -60,6 +72,19 @@ Do it before Sunday March 18, 8pm, or Friday March 23, 7AM(!) depending on your 
 ## Scrambled inquiry acknowledgement {.allowframebreaks}
  
 
+- If I cannot tell you by this date, I will contact you again.
+- I have contacted our catering staff about your partner's dietary requirements.
+- I have received your email dated July_31 concerning our November cruise around Taiwan.
+- I should be able to tell you by August_3.
+- I will tell you what is happening.
+- Thank you again for your inquiry about the cruise.
+- Thank you for your interest in this trip.
+- They are at sea, and it may take a few days for them to reply.
+- You also_said that your partner is a vegetarian.
+- You wrote that your partner is allergic to rice.
+ 
+## Unscrambled inquiry acknowledgement {.allowframebreaks}
+ 
 - I have received your email dated July_31 concerning our November cruise around Taiwan.
 - Thank you for your interest in this trip.
 - You wrote that your partner is allergic to rice.
