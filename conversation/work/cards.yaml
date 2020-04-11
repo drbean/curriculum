@@ -658,6 +658,7 @@ abreu:
             - Phenomenon
             - Value
             - Feature
+          answer: Assessor
         - question: |+
             What is being assessed is the solution of using the phone book to learn to spell names
           option:
@@ -665,7 +666,7 @@ abreu:
             - Phenomenon
             - Value
             - Feature
-          answer: Wrong answer
+          answer: Phenomenon
         - question: |+
             Abreu thought she was successful
           option:
@@ -681,7 +682,7 @@ abreu:
             - Phenomenon
             - Value
             - Feature
-          answer: Wrong answer
+          answer: Feature
     0:
       identifier: abreu 0
       A: Your aunt, Claritza came to the U.S. in 1990 when you were 10. Her English was very good, but she had a Hispanic accent and she didn't know much about English names. You helped her to learn how to spell names by reading them out of the phone book to her.
