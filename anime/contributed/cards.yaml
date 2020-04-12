@@ -1,0 +1,45 @@
+---
+character:
+  forum:
+    0:
+      identifier: 5 characters and their traits
+      rubric: |+
+        Write down the name of the character and then below them character traits under these headings:
+
+        - Identity: For example, Name, Gender (Male, Female, No Gender), Age, Role, Physical/Psychological Characteristics
+        - Relationships: For example, Brother/Friend/Employee/Boss/Double of/In love with/Enemy of X
+        - Events: For example, Does something to someone/something, Is X'ed by someone/something, Experiences X
+        - States of Mind: For example, Character's Feelings, Skills, Knowledge,
+infinitytrain:
+  jigsaw:
+    0:
+      identifier: infinity train characters
+      quiz:
+        D: |+
+          # Tulip
+
+          * Identity: A 12 years old girl with glasses--orange-red hair, ponytail, green hoodie, glasses
+          * Relationships: One-One's friend, Atticus's friend
+          * Events: Is stuck inside a train,
+          * State of mind: Realizes: Trying to find a way home and solve a mystery number on her hand
+        B: |+
+          ##One-One
+
+          * Identity: a white, spherical robot with a black stripe that runs down the entire circumference of its body--circle, robot, happy, sad
+          * Relationships: Tulip's friend
+          * Events: following Tulip and try to help her
+          * State of mind: It can split into two parts, each has a different personality. One is happy and positive while the other is sad and thinking negative ways
+        A: |+
+          ##  Atticus
+         
+          * Identity: A Corgi wearing a crown--dog-liking, king of a kingdom in the train
+          * Relationships: Tulip's friend
+          * Events: a giant shadow shows up in his kingdom from time to time
+          * State of mind: wanting to protect his people from the monster
+        C: |+
+          ## The monster
+
+          * Identity: robot, wearing a white mask
+          * Relationships: has related to the train
+          * Events: attack Tulip
+          * State of mind: seems alert to One-One
