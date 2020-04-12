@@ -1,0 +1,56 @@
+---
+#-
+#  content:
+#  -
+#    topic : inquiry
+#    story : heater
+#    type  : jigsaw
+#    form  : problem
+#    intro : Look at the book, p 60 Steps 1~3
+#    random: 
+-
+  content:
+  -
+    topic : goodwill
+    story : critique
+    type  : jigsaw
+    form  : 0
+    intro : Look at 67, 68. Observe the structure
+    random: 6
+-
+  content:
+  -
+    topic : goodwill
+    story : critique
+    type  : jigsaw
+    form  : 2
+    intro : Think of the difference between the 3 types of message; Thank-you, Congratulations, and Condolence
+    random: 
+-
+  content:
+  -
+    topic : goodwill
+    story : thank
+    type  : drag
+    form  : teacher
+    intro : Remember, everyone. I need good evaluations from you, or NUU will fire me.
+    random: 
+-
+  content:
+  -
+    topic : news_good
+    story : goodwill
+    type  : jigsaw
+    form  : 0
+    intro : Goodwill is people. Good news is business, ie, money
+    random: 
+-
+  content:
+  -
+    topic : goodwill
+    story : thank
+    type  : assign
+    form  : 0
+    intro : "'token thank you' has 2 different meanings, 'a thank-you note for a token', or 'not a real thank-you, paying lip [service](https://en.wiktionary.org/wiki/lip_service) to the idea of a thank you.'"
+    random: 
+   
