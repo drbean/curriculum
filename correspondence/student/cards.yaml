@@ -160,7 +160,7 @@ sincere:
   description:
     0:
       identifier: explanation of sincere thanks for book token
-      questiontext: |+
+      rubric: |+
         How can you tell if someone is sincere? You can't.
 
         So Dr Bean's decisions that the thoughts of some students were not sincerely felt are without basis.
