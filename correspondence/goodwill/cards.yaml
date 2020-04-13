@@ -898,9 +898,9 @@ roberts:
           answer: False
         - question: Roberts had a family that included other people besides his wife.
           answer: True
-        - question: Roberts personal comment is about conversations he had with Roberts about his wife.
+        - question: The writer's personal comment is about conversations he had with Roberts about his wife.
           answer: True
-        - question: Roberts personal comment is about conversations he had with Roberts and his wife.
+        - question: The writer's personal comment is about conversations he had with Roberts and his wife.
           answer: False
         - question: The writer offers to help Roberts.
           answer: True
@@ -957,8 +957,11 @@ drbean:
   description:
     0:
       identifier: Dr Bean goodwill
-      questiontext: Dr Bean sends 3 goodwill messages to other teachers in the Language Center.
-    
+      questiontext: |+
+        Dr Bean sends 3 goodwill messages to other teachers in the Language Center. 
+
+       In context X, 'No wonder A' means 'A is not surprising, because of X'  
+
   drag:
     0:
       identifier: Dr Bean goodwill
