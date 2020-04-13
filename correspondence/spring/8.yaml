@@ -53,7 +53,7 @@
     story : drbean
     type  : drag
     form  : 0
-    intro : messages to Language Center teachers. which is which?
+    intro : messages to Language Center teachers. In context X, 'No wonder A' means 'A is not surprising because of X'.
     random: 
 -
   content:
@@ -73,6 +73,49 @@
     form  : 1
     intro : I am not teaching 3 correspondence classes this semester. I was last semester
     random: 
+-
+  content:
+  -
+    topic : invitation
+    story : response
+    type  : match
+    form  : 0
+    intro : possible responses to an invitation: accepting or declining/refusing/rejecting
+    random: 
+-
+  content:
+  -
+    topic : invitation
+    story : response
+    type  : jigsaw
+    form  : 1
+    intro : keywords in response to an invitation: accepting or declining or not clear
+    random: 
+-
+  content:
+  -
+    topic : goodwill
+    story : daniel
+    type  : forum
+    form  : 0
+    intro : Communicating with Daniel
+    random: 
+-
+  content:
+  -
+    topic : student
+    story : sincere
+    type  : description
+    form  : 0
+    intro : How can Dr Bean tell who is sincere? He can't.
+    random: 
+-
+  content:
+  -
+    topic : student
+    story : sincere
+    type  : jigsaw
+    form  : 0
+    intro : Which apppears sincere to Dr Bean? Which doesn't?
+    random: 
   
-  
-
