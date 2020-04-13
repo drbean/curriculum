@@ -1,8 +1,8 @@
 ---
 assign:
   introformat      : 4
-  duedate          : $(date --date='2020-04-04 14:00:00 +0800' +%s)
-  cutoffdate       : $(date --date='2020-04-04 14:00:00 +0800' +%s) 
+  duedate          : $(date --date='2020-04-25 14:00:00 +0800' +%s)
+  cutoffdate       : $(date --date='2020-04-25 14:00:00 +0800' +%s) 
   grade            : 9
   gradecat         : 584
   groupmode        : 1
@@ -17,13 +17,13 @@ assign:
   # assignsubmission_file_maxsizebytes  : 2000
 forum:
   timeopen         : 1
-  timeclose        : $(date --date='2020-03-27 12:00:00 +0800' +%s)
-  duedate          : $(date --date='2020-03-27 12:00:00 +0800' +%s)
-  cutoffdate       : $(date --date='2020-03-27 12:00:00 +0800' +%s) 
+  timeclose        : $(date --date='2020-04-25 14:00:00 +0800' +%s)
+  duedate          : $(date --date='2020-04-25 14:00:00 +0800' +%s)
+  cutoffdate       : $(date --date='2020-04-25 14:00:00 +0800' +%s) 
   introformat      : 4
   type             : eachuser
   grade            : 9
-  gradecat         : 652
+  gradecat         : 584
   groupmode        : 0
   # groupingid       : 128
   # attempts         : 1
@@ -50,9 +50,13 @@ studentquiz:
 quiz:
   timeopen         : 1
   timeclose        : $(date --date='2020-06-30 14:00:00 +0800' +%s)
+  questioncategory : 8_goodwill
+  parentcategory   : 6044
+  categorycontext  : 754
+  infoformat       : 4
   introformat      : 4
   grade            : 3
-  gradecat         : 591
+  gradecat         : 593
   groupmode        : 0
   # groupingid       : 128
   attempts         : 1
@@ -60,4 +64,4 @@ quiz:
   overduehandling : 0
   shuffleanswers   : 1
   # browsersecurity  : safebrowser
-  # safeexambrowser_allowedkeys: e71abb59ffc16b3344b23e826059219f3c4fe70731e1845b77b2faa1ad93bbab
+  # safeexambrowser_allowedkeys: abe8058b8750756520904153b1bdf4b65372214ccc22c97b5d8c38df36e471fe
