@@ -960,7 +960,7 @@ drbean:
       questiontext: |+
         Dr Bean sends 3 goodwill messages to other teachers in the Language Center. 
 
-       In context X, 'No wonder A' means 'A is not surprising, because of X'  
+        In context X, 'No wonder A' means 'A is not surprising, because of X'  
 
   drag:
     0:
@@ -1015,3 +1015,15 @@ drbean:
             - the act/action of the message
             - a forward-looking close of the message
           answer: a forward-looking close of the message
+daniel:
+  forum:
+    0:
+      identifier: thanks/congratulation/condolence message to Daniel
+      rubric: |+
+        Daniel is not here. How does he feel? He doesn't have to come to class. But perhaps he likes coming to class. Perhaps there is something about his situation that you are thankful about.
+
+        Write either a thanks, condolence or congratulations message that he will be able to read on the site. Other students will also be able to read your message. Do it before Week 10.
+
+        I will ask you to come to the front to deliver your message to him via video in Week 10.
+
+        Follow the 3-part format in the book. A 'be-of-good-cheer' message isn't a thanks, condolence or congratulations message. Write a thanks, condolence or congratulations message.
