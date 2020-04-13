@@ -1,0 +1,78 @@
+---
+-
+  content:
+  -
+    topic : goodwill
+    story : condolence
+    type  : drag
+    form  : gept
+    intro : Is this a thank-you, congratulations, or condolences note?
+    random: 
+-
+  content:
+  -
+    topic : goodwill
+    story : condolence
+    type  : drag
+    form  : gept
+    intro : Is this a thank-you, congratulations, or condolences note?
+    random: 
+-
+  content:
+  -
+    topic : goodwill
+    story : roberts
+    type  : jigsaw
+    form  : thanks_structure
+    intro : The 3 things you must include--thanking (the act), a connected thought, a forward-looking close
+    random:
+-
+  content:
+  -
+    topic : goodwill
+    story : roberts
+    type  : jigsaw
+    form  : congratulations_structure
+    intro : The 3 things you must include--congratulating (the act), a connected thought, a forward-looking close
+    random:
+-
+  content:
+  -
+    topic : goodwill
+    story : roberts
+    type  : jigsaw
+    form  : condolences
+    intro : condolences on Robert's wife's death
+    random: 
+  browsersecurity  : safebrowser
+  safeexambrowser_allowedkeys: abe8058b8750756520904153b1bdf4b65372214ccc22c97b5d8c38df36e471fe
+-
+  content:
+  -
+    topic : goodwill
+    story : drbean
+    type  : drag
+    form  : 0
+    intro : messages to Language Center teachers. which is which?
+    random: 
+-
+  content:
+  -
+    topic : goodwill
+    story : drbean
+    type  : jigsaw
+    form  : 0
+    intro : Questions about these messages are in the exam next week
+    random: 
+-
+  content:
+  -
+    topic : goodwill
+    story : drbean
+    type  : jigsaw
+    form  : 1
+    intro : I am not teaching 3 correspondence classes this semester. I was last semester
+    random: 
+  
+  
+
