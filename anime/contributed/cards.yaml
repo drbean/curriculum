@@ -135,4 +135,34 @@ hoozukicoolheadedness:
         \item [Events:] Recruited by  Hoozuki to work in Nyohichichu.
         \item [States of Mind:] Punish Nyohichichu's sinner
       quiz:
-        
+violetevergarden:
+  jigsaw:
+    0:
+      identifier: Violet Evergarden characters
+      C: |+
+        \item [Identity:] Violet Evergarden--a 14-year-old girl, blond hair, blue eyes, mechanical arms, emerald tie pin
+        \item [Relationship:] adopted by the Bougainvilleas.
+        \item [Event:] wants to realize what "love" means.
+        \item [State of mind:] Major Gilbert.
+      D: |+
+        \item [Identity:] Gilbert Bougainvillea--Major, emerald-like eyes, scars on his face
+        \item [Relationship:] Violet's supporter
+        \item [Event:] Says " I love you" to Violet .
+        \item [State of mind:] He loves Violet and he wants her to be a "person", not a " weapon".
+      B: |+
+        \item [Identity:] Claudia Hodgins--red hair,a little pony tail, stubble, Lieutenant Colonel
+        \item [Relationship:] Gilbert's friend, Violet's guardian
+        \item [Event:] He's the highest operator of C·H Postal Company and he hires Violet to let her learn new things.
+        \item [State of mind:] He's worried about Violet. 
+      E: |+
+        \item [Identity:] Luculia Marlborough--long red hair with a braid, green eyes
+        \item [Relationship:] Violet's best friend at school.
+        \item [Event:] Wants to show her appreciation to her brother.
+        \item [State of mind:] Thanks her brother for being alive from the war.
+      A: |+
+        \item [Identity:] Charlotte Eberfreya Drossel--a 14-year-old princess of Drossel, wavy curly hair
+        \item [Relationship:] one of hirer of Violet.
+        \item [Event:] hires Violet to write love letters for her.
+        \item [State of mind:] Loves Prince Damian Baldur Flügel.
+      quiz:
+                
