@@ -14,32 +14,50 @@ infinitytrain:
   jigsaw:
     0:
       identifier: infinity train characters
+      D: |+
+        \item [Identity:] Tulip--A 12 years old girl with glasses--orange-red hair, ponytail, green hoodie, glasses
+        \item [Relationships:] One-One's friend, Atticus's friend
+        \item [Events:] Is stuck inside a train,
+        \item [State of mind:] Realizes: Trying to find a way home and solve a mystery number on her hand
+      B: |+
+        \item [Identity:] One-One--a white, spherical robot with a black stripe that runs down the entire circumference of its body--circle, robot, happy, sad
+        \item [Relationships:] Tulip's friend
+        \item [Events:] following Tulip and try to help her
+        \item [State of mind:] It can split into two parts, each has a different personality. One is happy and positive while the other is sad and thinking negative ways
+      A: |+
+        \item [Identity:] Atticus--A Corgi wearing a crown--dog-liking, king of a kingdom in the train
+        \item [Relationships:] Tulip's friend
+        \item [Events:] a giant shadow shows up in his kingdom from time to time
+        \item [State of mind:] wanting to protect his people from the monster
+      C: |+
+        \item [Identity:] The--robot, wearing a white mask
+        \item [Relationships:] has related to the train
+        \item [Events:] attack Tulip
+        \item [State of mind:] seems alert to One-One
       quiz:
-        D: |+
-          # Tulip
-
-          * Identity: A 12 years old girl with glasses--orange-red hair, ponytail, green hoodie, glasses
-          * Relationships: One-One's friend, Atticus's friend
-          * Events: Is stuck inside a train,
-          * State of mind: Realizes: Trying to find a way home and solve a mystery number on her hand
-        B: |+
-          ##One-One
-
-          * Identity: a white, spherical robot with a black stripe that runs down the entire circumference of its body--circle, robot, happy, sad
-          * Relationships: Tulip's friend
-          * Events: following Tulip and try to help her
-          * State of mind: It can split into two parts, each has a different personality. One is happy and positive while the other is sad and thinking negative ways
-        A: |+
-          ##  Atticus
-         
-          * Identity: A Corgi wearing a crown--dog-liking, king of a kingdom in the train
-          * Relationships: Tulip's friend
-          * Events: a giant shadow shows up in his kingdom from time to time
-          * State of mind: wanting to protect his people from the monster
-        C: |+
-          ## The monster
-
-          * Identity: robot, wearing a white mask
-          * Relationships: has related to the train
-          * Events: attack Tulip
-          * State of mind: seems alert to One-One
+patemainverted:
+  jigsaw:
+    0:
+      identifier: patema inverted characters
+      D: |+
+        \item [Identity:] Patema: Green hair, short hair, braids, white camisole
+        \item [Relationship:] Daughter of the Underground Patriarch
+        \item [Incident:] One who walked on the ceiling and fell into the shaft
+        \item [mental state:] Shocked, Must find the missing Lagos
+      C: |+
+        \item [Identity:] Patema: Green hair, short hair, braids, white camisole
+        \item [Relationship:] Daughter of the Underground Patriarch
+        \item [Incident:] One who walked on the ceiling and fell into the shaft
+        \item [mental state:] Shocked, Must find the missing Lagos
+      B: |+
+        \item [Identity:] Eiji: black hair, black uniform, black tie
+        \item [Relationship:] Aiga people
+        \item [Event:] Merger with Potema is wanted by Izamura
+        \item [Mindset:] Help Potema escape together
+      A: |+
+        \item [Identity:] Izamura--black hair, purple robe, white gloves
+        \item [relationship:] Aiga King
+        \item [Incident:] Potema Discovered
+        \item [Mentality:] Chase Patema and Eiji
+      quiz:
+        
