@@ -85,3 +85,28 @@ lovecomedy:
         \item [Event:] She forces Hachiman to participate in the Service Club, Chiba Village summer camp, and as a Culture Committee Representative. 
         \item [ State of mind:] She enjoys having fun with her students and observing their interactions.
       quiz:
+doraemon:
+  jigsaw:
+    0:
+      identifier: Doraemon characters
+      quiz:
+      C: |+
+        \item [Identity:] Doraemon--a blue robot cat
+        \item [Relationship:] Nobita's best partner
+        \item [Events:] help Nobita to change his life
+        \item [State of mind:] Nobita is so foolish, what am I gonna do with him
+      D: |+
+        \item [Identity:] Nobita--wear long sleeve T-shirts, short pants, glasses
+        \item [Relationship:] Doraemon's best partner, Takeshi, Suneo and Shizuka's friend.
+        \item [Events:] always got zero in the exam, lazy, like to sleep
+        \item [State of mind:] Doraemon can help me with anything
+      A: |+
+        \item [Identity:] Shizuka--wear pink dress, tied double ponytail
+        \item [Relationship:] Nobita, takeshi and Suneo's friend.
+        \item [Events:] take a bath often, play the piano very well
+        \item [State of mind:] boys are foolish
+      B: |+
+        \item [Identity:] Takeshi--very fat, tall and strong
+        \item [Relationship:] Nobita, Suneo and shizuka's friend.
+        \item [Events:] often bully others, singing is hard to hear
+        \item [State of mind:] everyone's stuff is my stuff
