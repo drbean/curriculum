@@ -110,3 +110,29 @@ doraemon:
         \item [Relationship:] Nobita, Suneo and shizuka's friend.
         \item [Events:] often bully others, singing is hard to hear
         \item [State of mind:] everyone's stuff is my stuff
+hoozukicoolheadedness:
+  jigsaw:
+    0:
+      identifier: characters in Hoozuki's Coolheadedness
+      D: |+
+        \item [Identity:] Hoozuki--The strongest ghost of hell.serious,responsibly handle,animals Protection
+        \item [Relationships:] Hoozuki is a subordinate of Enma.
+        \item [Events:] Deal with all kinds of things that happen in hell.
+        \item [States of Mind:] He feel interesting about assuming the office of  real boss.
+      C: |+
+        \item [Identity:] Enma--Don't like to do work.Often hit by Hoozuki.kind,tall
+        \item [Relationships:] The king of hell in japan.
+        \item [Events:] Decide whether people should go to heaven or hell.
+        \item [States of Mind:] Want to make hell a good enough place.Let people get the punishment they deserve.
+      B: |+
+        \item [Identity:] White--The dog in Momotaro.Working in hell now.cute,moron
+        \item [Relationships:] Like playing with Hoozuki.It has three animal partners
+        \item [Events:] Recruited by  Hoozuki to work in Fukusho.
+        \item [States of Mind:] Punish Fukusho's sinner.
+      A: |+
+        \item [Identity:] Mustard--Working in hell now.cute,strong
+        \item [Relationships:] In the heart of the Hoozuki is only an excellent subordinate.
+        \item [Events:] Recruited by  Hoozuki to work in Nyohichichu.
+        \item [States of Mind:] Punish Nyohichichu's sinner
+      quiz:
+        
