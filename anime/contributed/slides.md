@@ -139,6 +139,14 @@ I think this is why this comic is so interesting.
 
 The story is about a endless train having many magical creatures and environments, traveling through a desolate land. The first season is about a girl named Tulip. With a glowing number on her hand, she begin a adventure on the train.
 
+# Fate--the series (Fate series)
+
+# TYPE-MOON page
+
+[https://typemoon.fandom.com/wiki/Fate_series](https://typemoon.fandom.com/wiki/Fate_series)
+
+# Talking about characters
+
 ## Character cards
 
 Kinds: Identity of the character, Relationships with other characters, Events in which the character was involved, States of Mind of the character
