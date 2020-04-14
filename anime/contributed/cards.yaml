@@ -190,4 +190,28 @@ katekyohitman:
         \item [☆Events:] learning , fight ,and growing up with his friends
         \item [☆State of mind:] He wants to become Tsuna's confidant.
       quiz:
-                
+stevenuniverse:
+  jigsaw:
+    0:
+      identifier: Steven Universe Crystal Gems characters
+      A: |+
+        \item [identity:] \emph{Garnet}--three eyes hidden behind a visor, red skin, talker than other members of the crystal gems, gems embedded in the palms, fusion
+        \item [relationship:] fused with sapphire and ruby, the leader of the crystal gems
+        \item [event:] leading the crystal gems to save the world, teaching steven how to control his gem power
+        \item [state of mind:] "they" can see the future, fusion state makes them more powerful, they still have emotions though they don't show up
+      B: |+
+        \item [identity:] \emph{Pearl}--slender, ivory skin, with a pointed nose, her gemston is located on forehead
+        \item [relationship:] a member of the crystal gems
+        \item [event:] she teaches steven human knowledge and takes care of daily life
+        \item [state of mind:] she was suffering from issue of self-worth and her memories, but she's out of negative emotions and loves to make friends
+      C: |+
+        \item [identity:] \emph{Amethyst}--purple skin, as tall as steven sometimes or taller than steven, with a thick and messy long hair, her gemston is located on her chest
+        \item [relationship:] a member of the crystal gems, she is closed to steven than other gems
+        \item [event:] she fights with the crystal gems
+        \item [state of mind:] she was struggling with low self-esteem because she was not strong as Garnet or smart as Peal. With Steven's help, she finds her own place and guides other new gems to know their self-worth
+      D: |+
+        \item [identity:] \emph{Steven}--curly hair, the half-human, pink gem stuck in his navel
+        \item [relationship:] the youngest member of the crystal gems, he has a human girlfriend, Connie, who always cooperate with Steven to fight and save the world
+        \item [event:] he saves the world with the crystal gems and learn the culture knowledge associated with gem people and humans. He is trying to control his gem power from his mother
+        \item [state of mind:] he is optimistic, friendly, outgoing when he was a kid. After he's growing up, he's suffering from anxiety and displaying his fears that the people he's closed to will leave
+      quiz:
