@@ -1,0 +1,128 @@
+---
+
+# midterm
+
+-
+  -
+    topic : structure
+    story : read
+    type  : essay
+    form  : 0
+    intro : 
+    random: 
+-
+  -
+    topic : structure
+    story : read
+    type  : essay
+    form  : 1
+    intro : 
+    random: 
+-
+  -
+    topic : structure
+    story : pic
+    type  : essay
+    form  : 0
+    intro : 
+    random: 
+-
+  -
+    topic : structure
+    story : question
+    type  : essay
+    form  : 0
+    intro : 
+    random: 
+-
+  -
+    topic : structure
+    story : information
+    type  : essay
+    form  : 0
+    intro : 
+    random: 
+-
+  -
+    topic : structure
+    story : solution
+    type  : essay
+    form  : 0
+    intro : 
+    random: 
+-
+  -
+    topic : structure
+    story : opinion
+    type  : essay
+    form  : 0
+    intro : 
+    random: 
+
+# writing
+
+-
+  -
+    topic : structure
+    story : word
+    type  : essay
+    form  : 0
+    intro : 
+    random: 
+-
+  -
+    topic : structure
+    story : word
+    type  : essay
+    form  : 1
+    intro : 
+    random: 
+-
+  -
+    topic : structure
+    story : word
+    type  : essay
+    form  : 2
+    intro : 
+    random: 
+-
+  -
+    topic : structure
+    story : word
+    type  : essay
+    form  : 3
+    intro : 
+    random: 
+-
+  -
+    topic : structure
+    story : word
+    type  : essay
+    form  : 4
+    intro : 
+    random: 
+-
+  -
+    topic : structure
+    story : response
+    type  : essay
+    form  : 0
+    intro : 
+    random: 
+-
+  -
+    topic : structure
+    story : response
+    type  : essay
+    form  : 1
+    intro : 
+    random: 
+-
+  -
+    topic : structure
+    story : opinion
+    type  : essay
+    form  : 1
+    intro : 
+    random: 
+
