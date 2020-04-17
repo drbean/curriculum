@@ -67,6 +67,68 @@
 
 [[#05 토익스피킹 모범답변] - Model response for TOEIC SPEAKING Actual Test (#05) - 2019.11.18](https://www.youtube.com/watch?v=-XqDD3hE7hM)
 
+# Home and garden show
+
+## Link
+
+??
+
+## Information
+
+        Main Street Annual Spring Home and Garden Show
+
+        There's something for everyone's tastes at our 3 day event starting at 8:00 AM Friday, March 17th.
+        We've expanded this year to cover all 6,000 square feet of Mercer Stadium.
+
+        Browse hundreds of stalls with vendors demonstrating and selling all the latest products.
+        Get all the help you need from our eager experts.
+
+        Celebrity guests: Allen Landis, Julie Ty, Ryan Bliss and the Dawson brothers of Helping Hand.
+        Each guest will appear each day for an hour on the center stage.
+
+        Two Grand Prize draws: 
+
+        1.   Win a home renovation worth $10,000.
+        2.   Win a home landscaping makeover worth $5,000.
+
+        Admission at the door: $15 for one day, $25 for 2 days, $35 for 3 days.
+        Children under age 12 get in for free.
+
+        For further details visit us online at www.hometogrowwith.net
+
+## Question 7
+
+Hi! I'm excited about this year's home and garden show. I'd be grateful if you could tell me more about the event.
+
+What day will the event begin and when will it end?
+
+## Question 8
+
+How much are each of the grand prizes worth?
+
+price vs prize
+
+## Question 9
+
+I'm a big fan of Helping Hand. When and where will I be able to see the Dawson brothers? Are there any other celebrity guests attending?
+
+how do you pronounce 'celebrity'
+
+What time will the performers perform?
+
+a. 1-2 pm
+b. Not specified
+
+Will the performances last longer than an hour each day?
+
+a. Yes
+b. Not specified
+
+How many hours will each performer play over the 3 days?
+
+a. 3 hours
+b. Not specified
+
 # Plan of work
 
 ## Individual work as in actual test
