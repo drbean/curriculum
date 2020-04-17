@@ -1,60 +1,114 @@
 ---
 
-# midterm
+# midterm prep. exam week10
 
 -
+  grade: 6
+  content:
   -
-    topic : structure
+    topic : general
     story : read
-    type  : essay
+    type  : forum
     form  : 0
     intro : 
     random: 
 -
+  grade: 6
+  content:
   -
-    topic : structure
+    topic : general
     story : read
-    type  : essay
+    type  : forum
     form  : 1
     intro : 
     random: 
 -
+  grade: 3
+  content:
   -
-    topic : structure
+    topic : general
     story : pic
-    type  : essay
+    type  : forum
     form  : 0
     intro : 
     random: 
 -
+  grade: 3
+  content:
   -
-    topic : structure
+    topic : general
     story : question
-    type  : essay
+    type  : forum
     form  : 0
     intro : 
     random: 
 -
+  grade: 3
+  content:
   -
-    topic : structure
+    topic : general
+    story : question
+    type  : forum
+    form  : 01
+    intro : 
+    random: 
+-
+  grade: 3
+  content:
+  -
+    topic : general
+    story : question
+    type  : forum
+    form  : 02
+    intro : 
+    random: 
+-
+  grade: 3
+  content:
+  -
+    topic : general
     story : information
-    type  : essay
+    type  : forum
     form  : 0
     intro : 
     random: 
 -
+  grade: 3
+  content:
   -
-    topic : structure
+    topic : general
+    story : information
+    type  : forum
+    form  : 0
+    intro : 
+    random: 
+-
+  grade: 3
+  content:
+  -
+    topic : general
+    story : information
+    type  : forum
+    form  : 0
+    intro : 
+    random: 
+-
+  grade: 5
+  content:
+  -
+    topic : general
     story : solution
-    type  : essay
+    type  : forum
     form  : 0
     intro : 
     random: 
 -
+  grade: 5
+  content:
   -
-    topic : structure
+    topic : general
     story : opinion
-    type  : essay
+    type  : forum
     form  : 0
     intro : 
     random: 
@@ -62,66 +116,82 @@
 # writing
 
 -
+  grade: 3
+  content:
   -
-    topic : structure
+    topic : general
     story : word
-    type  : essay
+    type  : forum
     form  : 0
     intro : 
     random: 
 -
+  grade: 3
+  content:
   -
-    topic : structure
+    topic : general
     story : word
-    type  : essay
+    type  : forum
     form  : 1
     intro : 
     random: 
 -
+  grade: 3
+  content:
   -
-    topic : structure
+    topic : general
     story : word
-    type  : essay
+    type  : forum
     form  : 2
     intro : 
     random: 
 -
+  grade: 3
+  content:
   -
-    topic : structure
+    topic : general
     story : word
-    type  : essay
+    type  : forum
     form  : 3
     intro : 
     random: 
 -
+  grade: 3
+  content:
   -
-    topic : structure
+    topic : general
     story : word
-    type  : essay
+    type  : forum
     form  : 4
     intro : 
     random: 
 -
+  grade: 4
+  content:
   -
-    topic : structure
+    topic : general
     story : response
-    type  : essay
+    type  : forum
     form  : 0
     intro : 
     random: 
 -
+  grade: 5
+  content:
   -
-    topic : structure
+    topic : general
     story : response
-    type  : essay
+    type  : forum
     form  : 1
     intro : 
     random: 
 -
+  grade: 5
+  content:
   -
-    topic : structure
+    topic : general
     story : opinion
-    type  : essay
+    type  : forum
     form  : 1
     intro : 
     random: 
