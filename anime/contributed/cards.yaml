@@ -215,3 +215,28 @@ stevenuniverse:
         \item [event:] he saves the world with the crystal gems and learn the culture knowledge associated with gem people and humans. He is trying to control his gem power from his mother
         \item [state of mind:] he is optimistic, friendly, outgoing when he was a kid. After he's growing up, he's suffering from anxiety and displaying his fears that the people he's closed to will leave
       quiz:
+fate:
+  jigsaw:
+    0:
+      identifier: Fate series characters
+      D: |+
+        \item [Identity:] \textit{gilgamesh}--golden hair,red eyes
+        \item [Relationship:] the king of Uruk
+        \item [Event:] lost his best friend and protect his country
+        \item [State of mind:] at first he is arrogant,but after he lost his friend,he became more soft
+      C: |+
+        \item [Identity:] \textit{Enkidu}--green hair,green eyes
+        \item [Relationship:] gilgamesh's  reapon and friend 
+        \item [Event:] killed by god
+        \item [State of mind:] kind,love animals and environment 
+      B: |+
+        \item [Identity:] \textit{Siduri}--brown eyes and hair
+        \item [Relationship:] the sacrifices chief of Uruk
+        \item [Event:] killed by the monster
+        \item [State of mind:] kind and loyalty
+      A: |+
+        \item [Identity:] \textit{Kingu}--green hair,purple eyes
+        \item [Relationship:] the child of Tiamat
+        \item [Event:] sacrifice himself to protect Uruk
+        \item [State of mind:] arrogant,bad
+      quiz: 
