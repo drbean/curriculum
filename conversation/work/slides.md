@@ -543,7 +543,7 @@ Assessing 'Frame'
 - What was the Feature of the Phenomenon on which the Phenomenon was assessed?
 
 
-* Tia Smallwood--businesswoman
+# Tia Smallwood--businesswoman
 
 # Bett
 
@@ -559,6 +559,11 @@ Assessing 'Frame'
 what percentage of business people in the u.s are women?
 
 - [Russia, Philippines have most female business leaders, Japan ranks lowest | Reuters ](http://www.reuters.com/article/us-womens-day-business-idUSKCN0WA023)
+
+Taiwan
+
+- [https://ceoworld.biz/2019/01/21/countries-with-the-most-women-business-owners-as-a-percentage-of-total-business-owners-2018/](https://ceoworld.biz/2019/01/21/countries-with-the-most-women-business-owners-as-a-percentage-of-total-business-owners-2018/)
+- [Women and employment in Taiwan](https://www.brookings.edu/opinions/women-and-employment-in-taiwan/)
 
 
 ## gender roles on images.google.com
@@ -627,6 +632,35 @@ http://radaris.com/p/Tia/Smallwood/
 "Did the man who interviewed the woman with the red dress offend someone?"
 "What did the woman that Mr Batchelor interviewed wear?"
 * "What did the woman that the man interviewed wear?"
+
+## Offense--Frame elements {.allowframebreaks}
+
+Offense: The illegal act.
+
+	* Unfair treatment
+	* Sexual harassment
+
+Perpetrator:	The individual who commits the Offense
+
+	Mr Batchelor, Mr Payne
+
+Victim: The individual harmed by the act
+
+	Tia Smallwood
+
+Non-Core:
+
+Degree: The degree of offense.
+
+	Perhaps not an illegal offense
+
+Punishment: as specified by the statute in which the offense is defined.
+
+	No punishment
+
+Specification: an additional aspect of the main crime being commited.
+
+	Being asked questions in every class
 
 # Questions
 
