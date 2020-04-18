@@ -544,3 +544,55 @@ seixas:
           answer: False
         - question: Louisa eats icecream.
           answer: True
+davis:
+  forum:
+    0:
+      identifier: Homework: talking about emotion
+      rubric: |+
+        Talk for 30 seconds about some time you felt emotional (happy, sad, frightened, angry, etc) about something.
+
+        Talk about the Event, the Experiencer, the Expressor (the action, body part or gesture reflecting your emotional state), the State, the Stimulus
+  jigsaw:
+    0:
+      identifier: Elements of the Emotion by Stimulus frame
+      quiz:
+        - question: ".. that same pound cake is now sitting in front of me."
+          option:
+            - the event
+            - the experiencer
+            - the expressor
+            - the state
+            - the stimulus
+          answer: the event
+        - question: Roman Coley Davis
+          option:
+            - the event
+            - the experiencer
+            - the expressor
+            - the state
+            - the stimulus
+          answer: the experiencer
+        - question: "I cried"
+          option:
+            - the event
+            - the experiencer
+            - the expressor
+            - the state
+            - the stimulus
+          answer: the expressor
+        - question: "I felt loved"
+          option:
+            - the event
+            - the experiencer
+            - the expressor
+            - the state
+            - the stimulus
+          answer: the state
+        - question: the pound cake
+          option:
+            - the event
+            - the experiencer
+            - the expressor
+            - the state
+            - the stimulus
+          answer: the stimulus
