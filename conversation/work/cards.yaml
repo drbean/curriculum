@@ -378,6 +378,22 @@ pestcontroller:
           answer: True
         - question: A and B are not happy.
 dickson:
+  page:
+    0:
+      identifier: Dickson recording cloze
+      rubric: |+
+        Listen to the soundfile:
+
+        - [https://storycorps.org/stories/dee-dickson/](https://storycorps.org/stories/dee-dickson/) OR
+        - [https://web.nuu.edu.tw/~greg/work/soundfile/dickson.mp3](https://web.nuu.edu.tw/~greg/work/soundfile/dickson.mp3)
+
+        Fill in the blanks:
+
+        [http://sac.nuu.edu.tw/cgi-bin/dic/script/dic_cgi.pl?exercise=dickson](http://sac.nuu.edu.tw/cgi-bin/dic/script/dic_cgi.pl?exercise=dickson)
+
+        DO: Ask classmates, Dr Bean to help
+
+        DON'T: Surf the Internet for the transcript! It's there. BUT DON'T USE IT!!
   assign:
     0:
       identifier: "Homework: a conversation about Dee Dickson, work"
@@ -572,6 +588,21 @@ dickson:
         - question: Question 4\x3A Dickson. The number of female electricians in the U.S. has increased a lot since the 1960's.
           answer: False
 abreu:
+  page:
+    0:
+      identifier: Abreu recording cloze
+      rubric: |+
+        Listen to the soundfile:
+
+        [https://storycorps.org/stories/claritza-abreu-and-gerardo-villacres/](https://storycorps.org/stories/claritza-abreu-and-gerardo-villacres/)
+
+        Fill in the blanks:
+
+        [http://sac.nuu.edu.tw/cgi-bin/dic/script/dic_cgi.pl?exercise=abreu](http://sac.nuu.edu.tw/cgi-bin/dic/script/dic_cgi.pl?exercise=abreu)
+
+        DO: Ask classmates, Dr Bean to help
+
+        DON'T: Surf the Internet for the transcript! It's there. BUT DON'T USE IT!!
   assign:
     0:
       identifier: "Homework: Talking about work"
