@@ -1027,3 +1027,12 @@ daniel:
         I will ask you to come to the front to deliver your message to him via video in Week 10.
 
         Follow the 3-part format in the book. A 'be-of-good-cheer' message isn't a thanks, condolence or congratulations message. Write a thanks, condolence or congratulations message.
+video:
+  url:
+    0:
+      identifier: Week 8 classroom video--hour 1
+      externalurl: https://youtu.be/YMYa7x2xV8Y
+    1:
+      identifier: Week 8 classroom video--hour 2
+      externalurl: https://youtu.be/Q6KOTXdMQRw
+
