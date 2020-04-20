@@ -23,4 +23,28 @@
   introformat: 4
   contentformat: 4
   showdescription: 1
+-
+  content:
+  -
+    topic : exam
+    story : jigsaw
+    type  : page
+    form  : 0
+    intro : How to have a conversation, do a quiz with the cards
+    random: 
+  introformat: 4
+  contentformat: 4
+  showdescription: 1
+-
+  content:
+  -
+    topic : exam
+    story : comp
+    type  : page
+    form  : 0
+    intro : How to discuss a Storycorps story with Dr Bean
+    random: 
+  introformat: 4
+  contentformat: 4
+  showdescription: 1
   
