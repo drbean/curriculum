@@ -3,7 +3,7 @@ genre: correspondence
 inquiry:
   description:
     0:
-      identifier: inquiry question header. description
+      identifier: Midterm 108-2
       questiontext: The following questions are about inquiries
     
 correspondence:
@@ -44,6 +44,22 @@ correspondence:
         -
           - "inquiry: 2. confident close"
           - "promotion: No expression of confidence"
+  description:
+    confusion:
+      identifier: The difference between promotion/introduction and an inquiry
+      questiontext: |+
+        The key difference is
+
+        a promoter: you want to *sell* something, so you contact someone who may *buy*
+
+        a person with an inquiry: you are thinking of *buying* something. You ask a *seller* for information.
+
+        Another difference is who has information and who has questions about information
+
+        a promoter: you have *information* about something you sell and you want to *give* it to someone who may buy
+    
+        a person with an inquiry: you want *information* before buying something. You *ask* a seller for that information.
+
   jigsaw:
     confusion:
       identifier: inquiry-promotion confusion
@@ -158,7 +174,7 @@ correspondence:
 
             Tel: 886-0925-132-628
 
-            [131]https://golf-driving-range-366.business.site/
+            https://golf-driving-range-366.business.site/
 
             March 6,2020
 
@@ -169,7 +185,9 @@ correspondence:
             Xinying 120, Miaoli
 
             Hialeah, Miami 33013
+
             Dear Sales Manager:
+
               Would it be possible to send me a copy of your 2020 Summer Catalogue, which I saw advertised in the March edition of Golfing Review? I
               have a small chain of golfing stores in Taiwan and am inrerested in increasing my product range.
               I am particularly interested in your range of left-handed  golf clubs -- both irons and woods. These items are becoming increasingly
@@ -207,9 +225,11 @@ correspondence:
           answer: promotion/introduction
         - question: |+
             To:coca cola Sales Manager
+
             March 2,2020
+
             Would it be possible to send me a copy of your 2020 Spring Catalogue, which I saw advertised
-            in  [101]http://www.coke.com.tw/zh/brand/schweppes/.
+            in  http://www.coke.com.tw/zh/brand/schweppes/.
             I am interested in your Sparkling water.As I am now getting ready to buy some of Sparkling water,I would be grateful if
             I could receive this by May 30.
             I look forward to hearing from you.
@@ -219,31 +239,29 @@ correspondence:
             - inquiry
           answer: inquiry
         - question: |+
-            To: Yu Xuan
+            To: Yu Xuan 12345678@gmail.com
 
-                 12345678@gmail.com
+            We are a game company of Humble Bundle.Before, you have subscribed to our games. Now we have many games with special discounts for
+            your reference.If necessary, our company will process them as soon as possible to provide you with good game quality.Thank you for our
+            company support.
 
-                 We are a game company of Humble Bundle.Before, you have subscribed to our games. Now we have many games with special discounts for
-                 your reference.If necessary, our company will process them as soon as possible to provide you with good game quality.Thank you for our
-                 company support.
+            Your sincerely,
 
-                 Your sincerely,
-
-            From:  Humble Bundle
-
-                        Humble Bundle@gmail.com
+            From:  Humble Bundle Humble Bundle@gmail.com
           option:
             - promotion/introduction
             - inquiry
           answer: promotion/introduction
         - question: |+
-            To: Happybookstore Manager ([101]Happybookstore@gmail.com.tw)
+            To: Happybookstore Manager (Happybookstore@gmail.com.tw)
+
             From: XXX YYY (XXX@gmail.com.tw)
+
             Subject Line: Inquire about the details of ordering English books.
 
             Dear Happybookstore Manager,
 
-            I saw English books can be ordered on your website. ([103]https://www.Happybookstore.com.tw/)
+            I saw English books can be ordered on your website. (https://www.Happybookstore.com.tw/)
 
             And I am a NUUBM classleader, I need fifty English books for all the classmate. So my purpose is to ask for the details of the books.I
             would like to ask the price, discounts and when will it be received if ordered?
@@ -261,6 +279,7 @@ correspondence:
             To: Dear Madam
 
             From: Roger
+
             Subject: Inquiry about Hand Knitted Scarf
 
             I am writing to enquire about hand knitted scarf. I saw your advertising on Ruten, an online auction website. I have five apparel stores in
@@ -280,15 +299,17 @@ correspondence:
             - inquiry
           answer: inquiry
         - question: |+
-            CV. NUSANTARA SHOES
-            Street Tanah Baru No. 20
-            JAKARTA
+            Nike shoes message:
 
-            JAKARTA, 2 MARCH 2020
+                  CV. NUSANTARA SHOES
+                  Street Tanah Baru No. 20
+                  JAKARTA
 
-            CV. ANUGERAH SHOES
-            STREET HAKIM NO. 10
-            KARAWANG
+                  JAKARTA, 2 MARCH 2020
+
+                  CV. ANUGERAH SHOES
+                  STREET HAKIM NO. 10
+                  KARAWANG
 
             Dear Sir or Madam,
 
@@ -308,17 +329,18 @@ correspondence:
             - inquiry
           answer: inquiry
         - question: |+
-            |              KEBUKE Mature black tea
-            |              No. 191, Section 1, Shangxiang Road,
-            |              West District, Taichung City, Taiwan R.O.C
-            |              Tel:04-2301-3552
-            |              kebukeinc@gmail.com
-            |March 7, 2020
-            |Best Customers
+            Kebuke Tea message:
 
-            |No.81, Zhongzheng Road
+                          KEBUKE Mature black tea
+                          No. 191, Section 1, Shangxiang Road,
+                          West District, Taichung City, Taiwan R.O.C
+                          Tel:04-2301-3552
+                          kebukeinc@gmail.com
+                          March 7, 2020
 
-            |Tongluo Township, Miaoli 36641, Taiwan
+                          Best Customers
+                          No.81, Zhongzheng Road
+                          Tongluo Township, Miaoli 36641, Taiwan
 
             who you are what you do: I am just a customer who loves KEBUKE.
 
@@ -377,14 +399,13 @@ correspondence:
             - inquiry
           answer: promotion/introduction
         - question: |+
-            | To: Sales Manager of Apple Inc.
-            |       appleinc@gmail.com
+            To: Sales Manager of Apple Inc.  appleinc@gmail.com Phone:0987-752-438
 
-            |             Phone:0987-752-438
-            | From: Benny Tseng(Public relation of TSMC)
-            | Subject Line: Interest in your product
+            From: Benny Tseng(Public relation of TSMC)
 
-            | Dear Sales Manager:
+            Subject Line: Interest in your product
+
+            Dear Sales Manager:
 
             We are the biggest wafer company in Taiwan.
 
@@ -397,7 +418,7 @@ correspondence:
           option:
             - promotion/introduction
             - inquiry
-          answer: Wrong answer
+          answer: inquiry
         
 raspberry:
   jigsaw:
@@ -1451,6 +1472,19 @@ survey:
           sentence: Dear Alumnus, <p> The School of Business is now conducting a survey which we hope will help in increasing the quality of our courses. We hope to identify the strengths and weaknesses so we can create the best environment possible for our business students. <p> Answering the enclosed survey will help us do this, by identifying the progress our graduates have made in their careers. Our students would also be_helped by having an idea of the salaries they can expect. <p> We promise that all information received will only be released in summary statistics. <p> We are looking_forward to your reply and would ask you to send it before January 31. For your convenience, we are also including a stamped/addressed envelope.
           clozed: School|now|help|increasing|courses|hope|can|best|business|Answering|identifying|careers|be_helped|promise|looking_forward|ask|convenience|stamped/addressed|End
 step:
+  description:
+    0:
+      identifier: Elaine candy letter
+      questiontext: |+
+        Read this letter and answer the following questions.
+
+        I have recently seen your advertisement of candies for the Chinese New Year and learned that you are the largest distributor in Canada.
+
+        I am a sales manager from ABC Candy Company. Our company is a retailers of candies and we are going to sell some candies around the coming Chinese New Year festival.
+
+        I want to inquire the price of the candies which is on your advertisement and the numbers are 27, 58, 96, 102. And how can I get discount for the price?
+
+        Please contact me after you read this letter. Our company looks forward to working work with you.
   jigsaw:
     comprehension:
       identifier: comprehension questions
@@ -1515,15 +1549,15 @@ step:
             - Canadian candy distributor
           answer: ABC Candy Company
     0:
-      identifier: elaine's candy inquiry steps
+      identifier: elaine candy inquiry steps
       quiz:
         - question: |+
            **I have recently seen your advertisement of candies for the Chinese New Year and learned that you are the largest distributor in Canada.**
-           <p>
+
            I am a sales manager from ABC Candy Company. Our company is a retailers of candies and we are going to sell some candies around the coming Chinese New Year festival.
-           <p>
+
            I want to inquire the price of the candies which is on your advertisement and the numbers are 27, 58, 96, 102. And how can I get discount for the price?
-           <p>
+
            Please contact me after you read this letter. Our company looks forward to working work with you.
           option:
             - 1a. Where you heard about the reader's company
@@ -1534,11 +1568,11 @@ step:
           answer: 1a. Where you heard about the reader's company
         - question: |+
            I have recently seen your advertisement of candies for the Chinese New Year and learned that you are the largest distributor in Canada.
-           <p>
+
            **I am a sales manager from ABC Candy Company. Our company is a retailers of candies and we are going to sell some candies around the coming Chinese New Year festival.**
-           <p>
+
            I want to inquire the price of the candies which is on your advertisement and the numbers are 27, 58, 96, 102. And how can I get discount for the price?
-           <p>
+
            Please contact me after you read this letter. Our company looks forward to working work with you.
           option:
             - 1a. Where you heard about the reader's company
@@ -1549,11 +1583,11 @@ step:
           answer: 1b. Some information about the writer's company
         - question: |+
            I have recently seen your advertisement of candies for the Chinese New Year and learned that you are the largest distributor in Canada.
-           <p>
+
            I am a sales manager from ABC Candy Company. Our company is a retailers of candies and we are going to sell some candies around the coming Chinese New Year festival.
-           <p>
+
            **I want to inquire the price of the candies which is on your advertisement and the numbers are 27, 58, 96, 102. And how can I get discount for the price?**
-           <p>
+
            Please contact me after you read this letter. Our company looks forward to working work with you.
           option:
             - 1a. Where you heard about the reader's company
@@ -1564,11 +1598,11 @@ step:
           answer: 2. the actual request/inquiry
         - question: |+
            I have recently seen your advertisement of candies for the Chinese New Year and learned that you are the largest distributor in Canada.
-           <p>
+
            I am a sales manager from ABC Candy Company. Our company is a retailers of candies and we are going to sell some candies around the coming Chinese New Year festival.
-           <p>
+
            I want to inquire the price of the candies which is on your advertisement and the numbers are 27, 58, 96, 102. And how can I get discount for the price?
-           <p>
+
            **Please contact me after you read this letter. Our company really looks forward to working with you.**
           option:
             - 1a. Where you heard about the reader's company
@@ -2694,6 +2728,25 @@ boiler:
           - polite expression
           - boiler 2
 book:
+  description:
+    0:
+      identifier: Asian Restaurants book 
+      questiontext: |+
+        Look at the letter on p65 (p71 in PDF), and answer the following questions 
+  essay:
+    0:
+      identifier: Great Asian Restaurants book
+      rubric: |+
+        Look at the letter on p65 (p71 in PDF). What is the letter that came before this one?
+
+        Write the original letter to Jush Robertson. Follow the format in the book. Make up a story about how you found out about the book, Great Asian Restaurants.
+
+        Don't make up a story about your actual request. The letter on p65 (p71 in PDF) is answering your actual request. What was that request? Write it.
+
+        You don't need to write any specific details that go with your request.
+
+        And you don't need to write letterhead, inside address, salutation, complimentary close, signature, etc. Just write the body of the letter.
+    
   match:
     0:
       identifier: book inquiry reply I
@@ -2757,12 +2810,13 @@ book:
           answer: inquiry
         - question: What kind of message might come after this one?
           option:
-            - inquiry
+            - another inquiry
             - reply to inquiry
-          answer: inquiry
+          answer: another inquiry
         - question: What kind of message is this?
           option:
             - inquiry
+            - an acknowledgment of an inquiry
             - reply to inquiry
           answer: reply to inquiry
         - question: Who is making/who made the inquiry?
