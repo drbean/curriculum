@@ -50,7 +50,7 @@ studentquiz:
 quiz:
   timeopen         : 1
   timeclose        : $(date --date='2020-06-30 14:00:00 +0800' +%s)
-  questioncategory : 8_goodwill
+  questioncategory : 9_inquiry,goodwill
   parentcategory   : 6044
   categorycontext  : 754
   infoformat       : 4
@@ -63,5 +63,9 @@ quiz:
   decimalpoints    : 0
   overduehandling : 0
   shuffleanswers   : 1
-  # browsersecurity  : safebrowser
+  subnet           : 210.60.168.212
+  browsersecurity  : safebrowser
+  # no book
   # safeexambrowser_allowedkeys: abe8058b8750756520904153b1bdf4b65372214ccc22c97b5d8c38df36e471fe
+  # book
+  safeexambrowser_allowedkeys: e71abb59ffc16b3344b23e826059219f3c4fe70731e1845b77b2faa1ad93bbab
