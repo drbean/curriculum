@@ -118,4 +118,21 @@
     form  : 0
     intro : Which apppears sincere to Dr Bean? Which doesn't?
     random: 
-  
+-
+  content:
+  -
+    topic : goodwill
+    story : video
+    type  : url
+    form  : 0
+    intro : Link to Week 8 classroom video on youtube--hour 1
+    random:
+-
+  content:
+  -
+    topic : goodwill
+    story : video
+    type  : url
+    form  : 1
+    intro : Link to Week 8 classroom video on youtube--hour 2
+    random:
