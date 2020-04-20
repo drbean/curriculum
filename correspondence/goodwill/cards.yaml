@@ -188,6 +188,25 @@ kind:
             - congratulations message
             - message of condolence
           answer: thank-you message
+kendall:
+  description:
+    0:
+      identifier: Henry Kendall, top businessman
+      questiontext: |+
+        a thank-you note to Henry Kendall
+  essay:
+    0:
+      identifier: Henry Kendall thank-you note
+      rubric: |+
+        Remember Henry Kendall, the top businessman who visited the Business Management Department at NUU?
+    
+        You are the president of the students' Business Management club. It is your job to send him a thank-you note for the talk he gave to your club.
+
+        Before the talk, you thought being a business person was boring. After his talk, you thought it was very interesting. You want to run your own business too, after you graduate.
+
+        Write the thank-you note. Follow the format in the book.
+
+        There is no need to write letterhead, inside address, salutation, complimentary close, signature, or To:, From:, and Subject lines. Just write the body of the note.
 thank:
   assign:
     0:
