@@ -837,6 +837,44 @@ abreu:
           answer: True
         - question: Claritza asks how to spell `Smith.'
           answer: True
+    3:
+      identifier: abreu 3
+      A: Your aunt, Claritza came to the U.S. when you were 10. Her English was good, but she didn't know how to spell English names. You helped her to learn by reading names out of the phone book to her.
+      B: Your company sells computer services. You hired Claritza as a receptionist. She had studied computers before she came to the U.S. Her English is OK, but you are worried customers won't understand her.
+      C: You are glad that Joan gave you the job, but worried that she will fire you if you can't handle customers. You don't know how to spell customers' last names. You ask Adela your niece for help.
+      quiz:
+        - question: A
+          option: 
+           - Adela
+           - Claritza
+           - Joan
+          answer: Adela
+        - question: B
+          option:
+           - Adela
+           - Claritza
+           - Joan
+          answer: Joan
+        - question: C
+          option:
+           - Adela
+           - Claritza
+           - Joan
+          answer: Claritza
+        - question: Claritza is Adela's aunt.
+          answer: True
+        - question: Joan employs Claritza.
+          answer: True
+        - question: Adela has the problem.
+          answer: False
+        - question: Joan teaches Claritza spelling.
+          answer: False
+        - question: Joan is confident about Claritza.
+          answer: False
+        - question: The problem is spelling.
+          answer: True
+        - question: Adela helps solve the problem
+          answer: True
   compcomp:
     0:
       identifier: abreu 0
