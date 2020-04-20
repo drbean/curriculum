@@ -1,29 +1,212 @@
 ---
-#-
-#  content:
-#  -
-#    topic : inquiry
-#    story : scramble
-#    type  : drag
-#    form  : 0
-#    intro : As you unscramble the sentences, think about which part of an inquiry they belong to. Eg, Is this an opening or the request?
-#    random: 2
-#-
-#  content:
-#  -
-#    topic : inquiry
-#    story : scramble
-#    type  : drag
-#    form  : 1
-#    intro : These sentences belong to the same part of an inquiry. Which part is that?
-#    random: 2
-#-
-#  content:
-#  -
-#    topic : inquiry
-#    story : scramble
-#    type  : drag
-#    form  : 2
-#    intro : Which part of an inquiry does this sentence belong to?
-#    random: 1
 
+# midterm 108-2
+
+# inquiry
+
+-
+  content:
+  -
+    topic : inquiry
+    story : inquiry
+    type  : description
+    form  : 0
+    intro : Midterm 108-2 start
+    random: 
+  
+  -
+    topic : inquiry
+    story : scramble
+    type  : drag
+    form  : 0
+    intro : As you unscramble the sentences, think about which part of an inquiry they belong to. Eg, Is this an opening or the request?
+    random:
+  -
+    topic : inquiry
+    story : scramble
+    type  : drag
+    form  : 1
+    intro : These sentences belong to the same part of an inquiry. Which part is that?
+    random:
+  -
+    topic : inquiry
+    story : scramble
+    type  : drag
+    form  : 2
+    intro : Which part of an inquiry does this sentence belong to?
+    random:
+  -
+    topic : inquiry
+    story : correspondence
+    type  : description
+    form  : confusion
+    intro : confusion about the difference between an inquiry and promotion/introduction
+    random: 
+  -
+    topic : inquiry
+    story : correspondence
+    type  : jigsaw
+    form  : confusion
+    intro : student inquiries and promotion/introductions--Which is which?
+    random: 
+  -
+    topic : inquiry
+    story : survey
+    type  : drag
+    form  : 1
+    intro : Similar to the p57 exercise (p63 of PDF), but not the same
+    random: 
+  -
+    topic : inquiry
+    story : step
+    type  : description
+    form  : 0
+    intro : The letter, with questions following.
+    random: 
+  -
+    topic : inquiry
+    story : step
+    type  : jigsaw
+    form  : comprehension
+    intro : Comprehension questions about the letter
+    random: 
+  -
+    topic : inquiry
+    story : step
+    type  : jigsaw
+    form  : 0
+    intro : Structure of the letter
+    random: 
+  -
+    topic : inquiry
+    story : cruise
+    type  : drag
+    form  : 0
+    intro : reference to cruise advertisement, expression of interest
+    random:
+  -
+    topic : inquiry
+    story : cruise
+    type  : drag
+    form  : 1
+    intro : reference to promotion, expression of interest
+    random: 
+  -
+    topic : inquiry
+    story : cruise
+    type  : match
+    form  : 0
+    intro : cruise inquiry acknowledgment parts
+    random: 
+  -
+    topic : inquiry
+    story : cruise
+    type  : jigsaw
+    form  : 1
+    intro : cruise inquiry acknowledgment structure
+    random: 
+  -
+    topic : inquiry
+    story : book
+    type  : description
+    form  : 0
+    intro : p65 (p71 in PDF)
+    random: 
+  -
+    topic : inquiry
+    story : book
+    type  : match
+    form  : 0
+    intro : the 1st 4 blanks in the p65 (p71 in PDF) book letter 
+    random: 
+  -
+    topic : inquiry
+    story : book
+    type  : match
+    form  : 1
+    intro : the 2nd 5 blanks in the p65 (p71 in PDF) book letter 
+    random: 
+  -
+    topic : inquiry
+    story : book
+    type  : match
+    form  : 2
+    intro : the structure of the p65 (p71 in PDF) book letter 
+    random: 
+  -
+    topic : inquiry
+    story : book
+    type  : jigsaw
+    form  : 0
+    intro : Comprehension questions about the p65 (p71 in PDF) book letter 
+    random: 
+  -
+    topic : inquiry
+    story : heater
+    type  : jigsaw
+    form  : 0
+    intro : Comprehension questions about the p66 (p72 in PDF) heater letter 
+    random: 
+  -
+    topic : inquiry
+    story : book
+    type  : essay
+    form  : 0
+    intro : letter to book publisher
+    random: 
+      
+# goodwill
+
+  -
+    topic : goodwill
+    story : drbean
+    type  : description
+    form  : 0
+    intro : Dr Bean speaks to other teachers
+    random: 
+  -
+    topic : goodwill
+    story : drbean
+    type  : drag
+    form  : 0
+    intro : A thank-you, congratulations, and condolences message
+    random: 
+  -
+    topic : goodwill
+    story : drbean
+    type  : jigsaw
+    form  : 0
+    intro : Which of the 3 messages to David, Tracy and Barry is which?
+    random: 
+  -
+    topic : goodwill
+    story : drbean
+    type  : jigsaw
+    form  : 1
+    intro : Dr Bean did not follow the goodwill message format. Which part is missing in each message?
+    random: 
+  -
+    topic : goodwill
+    story : kendall
+    type  : essay
+    form  : 0
+    intro : a thank-you note following Henry Kendall talk to students
+    random: 
+  
+
+# invitation
+
+  -
+    topic : invitation
+    story : response
+    type  : match
+    form  : 0
+    intro : possible responses to an invitation--accepting or declining/refusing/rejecting
+    random: 
+  -
+    topic : invitation
+    story : response
+    type  : jigsaw
+    form  : 0
+    intro : keywords in response to an invitation--accepting or declining
+    random: 
