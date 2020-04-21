@@ -49,7 +49,7 @@ studentquiz:
 quiz:
   timeopen         : 1
   timeclose        : $(date --date='2020-06-30 14:00:00 +0800' +%s)
-  questioncategory : 7_presentation
+  questioncategory : 9_comp,jigsaw,dic
   parentcategory   : 6098
   categorycontext  : 56
   infoformat       : 4
