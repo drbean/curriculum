@@ -50,6 +50,9 @@ Takeshi,Suneo and Shizuka are Nobita's friends,they are fifth grade students in 
 
 Doraemon will give Nobita useful props when Takeshi and Suneo bully him.
 
+## Characters
+
+[https://en.wikipedia.org/wiki/List_of_Doraemon_characters](https://en.wikipedia.org/wiki/List_of_Doraemon_characters)
 
 # Violet EverGarden
 
@@ -141,7 +144,7 @@ The story is about a endless train having many magical creatures and environment
 
 # Fate--the series (Fate series)
 
-# TYPE-MOON page
+## TYPE-MOON page
 
 [https://typemoon.fandom.com/wiki/Fate_series](https://typemoon.fandom.com/wiki/Fate_series)
 
