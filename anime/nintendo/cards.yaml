@@ -34,6 +34,22 @@ company:
             - Game Boy
           answer: Ultra Hand
 gooigi:
+  page:
+    0:
+      identifier: Mario and Luigi: Super Anime Bros cloze
+      rubric: |+
+        Listen to the soundfile:
+
+        - [Mario & Luigi - Super Anime Brothers-jvupK5lHOqU.mp4](http://web.nuu.edu.tw/~greg/anime/clip/Mario & Luigi - Super Anime Brothers-jvupK5lHOqU.mp4)
+        - [www.youtube.com/watch?v=jvupK5lHOqU](http://www.youtube.com/watch?v=jvupK5lHOqU)
+
+        Fill in the blanks:
+
+        [http://sac.nuu.edu.tw/cgi-bin/dic/script/dic_cgi.pl?exercise=gooigi](http://sac.nuu.edu.tw/cgi-bin/dic/script/dic_cgi.pl?exercise=gooigi)
+
+        DO: Ask classmates, Dr Bean to help
+
+        DON'T: Surf the Internet for the transcript! It's there. BUT DON'T LOOK AT IT!!
   studentquiz:
     0:
       identifier: "Homework: Questions about Mario, Luigi and Gooigi"
