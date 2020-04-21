@@ -1,0 +1,91 @@
+---
+present:
+  forum:
+    0:
+      identifier: Homework-talking about an anime you like
+      rubric: |+
+        ## Talking about an anime
+
+        In the midterm and final exams, I will ask you to talk with me and another person about an anime
+
+        For homework this week,
+
+        - choose an anime
+        - write down the name of the anime as subject
+        - write down the link (if there is one) or a few keywords (if no link) in the message
+        - speak for 30 seconds about it
+
+                - Say your name
+                - Say who are the characters
+                - Say what they do
+                - Say why it is interesting
+                - Say questions you might ask the characters
+                - Say questions you might ask other people in this class
+                - Perhaps you could relate (tell) the story you hear
+
+        You can do this alone. You don't have to have a conversation.
+
+        Upload the file by clicking the video camera button next to the microphone button. Remember to add the extension, .mp3, .m4a, etc to the end of the file you upload, so Dr Bean can listen to the file.
+
+        Listen to what the other students say about their anime. And *message* me if you have problems.
+
+        In class, next week, I will ask you to present the anime to the class. So this homework is preparation for that presentation.
+comp:
+  page:
+    0:
+      identifier: Cooperative-competitive discussion of anime
+      rubric: |+
+        ## Talking to Dr Bean about anime
+
+        This is a cooperative-competitive activity
+
+        With a partner, show/introduce an anime and have a 3-person conversation about it. Ask your partner and Dr Bean questions.
+
+        Dr Bean decides who the winner is based on:
+
+        * who speaks most
+        * who is most *articulate* (talks well) about their anime
+        * who asks/answer most questions
+        * who is interesting/humorous/grammatical
+        * who is most knowledgeable about anime
+        * who is good at conversation
+
+        * The winner gets 3 points
+        * The loser gets 2 points
+
+        ## Find a partner to cooperate/compete with talking to Dr Bean
+
+        Who are you happy both beating or losing to?
+
+        # short presentation
+
+        ## Script
+
+        This is a XXX  anime.
+ 
+        Its name is ....
+ 
+        It was released in YYYY.
+ 
+        It is about 2(3?) ZZZ who AAA BBB CCC.
+ 
+        I think YYY is very DDD.
+ 
+        The story is ... .
+ 
+        The production is ... .
+
+jigsaw:
+  page:
+    0:
+      identifier: Jigsaw activity
+      rubric: |+
+        In a group of 3 (or 4)
+
+        * read the cards
+        * discuss the story (IN ENGLISH)
+        * answer the quiz questions
+
+        See the rules at
+        [http://web.nuu.edu.tw/~greg/cheatsheet.pdf](http://web.nuu.edu.tw/~greg/cheatsheet.pdf)
+
