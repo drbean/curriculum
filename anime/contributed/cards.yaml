@@ -84,12 +84,12 @@ patemainverted:
             - Izamura
             - Patema
           answer: Izamura
-        - question: Weight. positive: Izamura, Eiji, negative: Patema
+        - question: Weight. +ve: Izamura, Eiji, -ve: Patema
           answer: True
         - question: Eiji and Patema are from different worlds.
           answer: True
         - question: Aiga people have negative weight.
-          answer: True
+          answer: False
         - question: Patema falls up to Aiga from underground.
           answer: True
         - question: Eiji fights Izamura alone to help Patema.
