@@ -10,7 +10,7 @@
 -
   - gooigi
   - "Mario & Luigi: Super Anime Brothers"
-  - conversation
+  - anime
   - all
   - |+
     Luigi: Mario, no. Mario, Help me, Mario.
@@ -42,7 +42,7 @@
   - content
   - answer
 -
-  - "conversation"
+  - "anime"
   - "gooigi"
   - 1
   - "all"
