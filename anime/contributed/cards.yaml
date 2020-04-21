@@ -110,6 +110,44 @@ doraemon:
         \item [Relationship:] Nobita, Suneo and shizuka's friend.
         \item [Events:] often bully others, singing is hard to hear
         \item [State of mind:] everyone's stuff is my stuff
+    1:
+      identifier: Doraemon story
+      A: In the future, you marry Nobita, but now you often prefer the company of other kids. Doraemon helps Nobita keep other boys away from you.
+      B: Nobita is jealous when Shizuka is friendly with other boys. You create an invisible wall which only Nobita can pass through to meet her.
+      C: You are lazy and get bad grades, but Shizuka still likes (not loves) you. You have a crush on her. Doraemon helps you keep other boys away.
+      quiz:
+        - question: A
+          option:
+            - Doraemon
+            - Nobita
+            - Shizuka
+          answer: Shizuka
+        - question: B
+          option:
+            - Doraemon
+            - Nobita
+            - Shizuka
+          answer: Doraemon
+        - question: C
+          option:
+            - Doraemon
+            - Nobita
+            - Shizuka
+          answer: Nobita
+        - question: Shizuka loves Nobita
+          answer: False
+        - question: Nobita loves Shizuka.
+          answer: True
+        - question: Doraemon loves Shizuka.
+          answer: False
+        - question: Doraemon helps Nobita with Shizuka.
+          answer: True
+        - question: Doraemon makes Shizuka unattractive.
+          answer: False
+        - question: Nobita is not liked by Shizuka, because lazy.
+          answer: False
+        - question: Shizuka marries Nobita in the future.
+          answer: True
 hoozukicoolheadedness:
   jigsaw:
     0:
