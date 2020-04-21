@@ -134,8 +134,6 @@ doraemon:
             - Nobita
             - Shizuka
           answer: Nobita
-        - question: Shizuka loves Nobita
-          answer: False
         - question: Nobita loves Shizuka.
           answer: True
         - question: Doraemon loves Shizuka.
@@ -144,6 +142,8 @@ doraemon:
           answer: True
         - question: Doraemon makes Shizuka unattractive.
           answer: False
+        - question: Other boys cannot get near Shizuka.
+          answer: True
         - question: Nobita is not liked by Shizuka, because lazy.
           answer: False
         - question: Shizuka marries Nobita in the future.
