@@ -165,6 +165,46 @@ violetevergarden:
         \item [Event:] hires Violet to write love letters for her.
         \item [State of mind:] Loves Prince Damian Baldur Flügel.
       quiz:
+    1:
+      identifier: Violet Evergarden story
+      A: Gilbert asks you to care for Violet after the war, but not to tell her that he is still alive, because of his difficult war relationship with her.
+      B: You ask your friend, Claudia to look after Violet. You told Violet you loved her as the war ended, but you decided not to contact her after.
+      C: Gilbert used you as a war weapon, but treated you tenderly. You now work for Claudia, but are looking for Gilbert. You love him.
+      quiz:
+        - question: A:
+          option:
+            - Claudia
+            - Gilbert
+            - Violet
+          answer: Claudia
+        - luestion: B:
+          option:
+            - Claudia
+            - Gilbert
+            - Violet
+          answer: Gilbert
+        - question: C:
+          option:
+            - Claudia
+            - Gilbert
+            - Violet
+          answer: Violet
+        - question: Violet and Claudia are friends.
+          answer: False
+        - question: Gilbert to Claudia: `Care for Violet.'
+          answer: True
+        - question: Gilbert treated Violet badly.
+          answer: False
+        - question: Gilbert told Violet he loved her.
+          answer: True
+        - question: Gilbert looks for Violet.
+          answer: False
+        - question: Gilbert: `The war is why I do this.' 
+          answer: True
+        - question: Gilbert loves Violet. She loves him.
+          answer: True
+        
+        
 katekyohitman:
   jigsaw:
     0:
