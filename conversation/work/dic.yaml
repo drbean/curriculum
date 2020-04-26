@@ -774,6 +774,32 @@
     A: Wow! You mean you only have one day off?
     B: Yeah. But the resort is beautiful and the pay is good.
 
+-
+  - gooigi
+  - "Mario & Luigi: Super Anime Brothers"
+  - conversation
+  - all
+  - |+
+    Luigi: Mario, no. Mario, Help me, Mario.
+    Mario: Oh, Oh. Luigi, Luigi!
+    Luigi: Mario.
+    Mario: I guess this is farewell, brother. I'll leave the rest to you.
+    Gooigi: Thank you, brother.
+    Mario: Ah! Nani!
+    Luigi: Aye, aye. I didn't think you'd actually jump in after me, brother. I must say, I'm touched. I've got to admit, I'm a bit of a scaredy-cat. I know that better than anyone. But with E. Gadd's latest invention I knew I could FINALLY execute my plan. You were always the fastest and bravest Brother. But you weren't the smartest! And the smartest always win! Now it's time for a new era! An era of Luigi! It's LUIGI Time! Hahahahahaha. Mario?
+    Mario: Luigi you fool. You thought I wouldn't notice? When you came back from E. Gadd last night I saw a glint in your eye. Oh and it was a sinister glint indeed, Luigi. I always knew this Number 2 stuff was getting to you. And it was only a matter of time before you would do something about it. So right before we left for our adventure, I threw Cappy on a man who looked very much like me, The fact that you didn't notice the difference was YOUR blunder Luigi. You were a good brother. But you should have always stayed in the shadows where you belong.
+    Mario and Luigi: Gooigi?
+    Gooigi: Number 1.Number 2. Do you even realise what it's like to be born as a number 2 to a number 2? The things you made me do, Luigi. Go through spikes. Jump in pits. And that drain pipe. That one was the worst of all. But now it's time for YOU to suffer, Luigi! Suffer like I have! Hahahaha!
+    Mario and Luigi: Hehehehehe.
+    Gooigi: What? What's so funny?
+    Mario: Do it.
+    Mario/Luigi: Waaaaahhh!
+    Gooigi: wa, wa, wa, WA!
+    Mario/Luigi: HOOOOOOOOO!!!
+    Mario: I think the world isn't ready for a Gooigi just yet.
+    Luigi: I'll notify E. Gadd of his failure.
+    Luigi: That foolish Mario thinks I'm loyal. Pathetic. Be sure to like, comment and subscribe. And I'll show you all the true meaning of Luigi Time! Hahahahaha! Oh, nani?
+  - Mario|Luigi|Mario and Luigi|Gooigi|E. Gadd
 ---
 -
   - genre
@@ -782,6 +808,13 @@
   - target
   - content
   - answer
+-
+  - "conversation"
+  - "gooigi"
+  - 1
+  - "all"
+  - "Gooigi pushes Mario into the lava."
+  - "True"
 -
   - "intermediate"
   - "kroenke-1"
