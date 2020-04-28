@@ -123,6 +123,44 @@ lovecomedy:
         \item [Event:] She forces Hachiman to participate in the Service Club, Chiba Village summer camp, and as a Culture Committee Representative. 
         \item [ State of mind:] She enjoys having fun with her students and observing their interactions.
       quiz:
+    1:
+      identifier:  Yahari Ore no Seishun Love Comedy wa Machigatteiru story
+      A: You force Hachiman, your student to join Yukino in the Volunteer Service Club to help people with problems, because he thinks people are stupid.
+      B: You are isolated and view people negatively. Shizuka makes you join Yukino and other students to help develop good attitudes about people.
+      C: You are beautiful, but cold. And helpful, but critical. Shizuka made you club leader, but you do not welcome Hachiman when he joins the club.
+      quiz:
+        - question: A
+          option:
+            - Hachiman
+            - Shizuka
+            - Yukino
+          answer: Shizuka
+        - question: B
+          option:
+            - Hachiman
+            - Shizuka
+            - Yukino
+          answer: Hachiman
+        - question: C
+          option:
+            - Hachiman
+            - Shizuka
+            - Yukino
+          answer: Yukino
+        - question: Hachiman is the 1st person to join the club.
+          answer: False
+        - question: Hachiman joins the club to help people with bad attitudes.
+          answer: False
+        - question: Shizuka: `Hachiman may develop good attitudes in the club.''
+          answer: True
+        - question: Hachiman is critical of people.
+          answer: True
+        - question: Yukino welcomes Hachiman when he joins her.
+          answer: False
+        - question: Shizuka: `The club is to help people with problems.'
+          answer: True
+        - question: Yukino may make people feel good and/or feel bad.
+          answer: True
 doraemon:
   jigsaw:
     0:
