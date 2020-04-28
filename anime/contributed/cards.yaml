@@ -84,7 +84,7 @@ patemainverted:
             - Izamura
             - Patema
           answer: Izamura
-        - question: Weight. +ve: Izamura, Eiji, -ve: Patema
+        - question: "Weight. +ve: Izamura, Eiji, -ve: Patema"
           answer: True
         - question: Eiji and Patema are from different worlds.
           answer: True
@@ -151,13 +151,13 @@ lovecomedy:
           answer: False
         - question: Hachiman joins the club to help people with bad attitudes.
           answer: False
-        - question: Shizuka: `Hachiman may develop good attitudes in the club.''
+        - question: "Shizuka: `Hachiman may develop good attitudes in the club.''"
           answer: True
         - question: Hachiman is critical of people.
           answer: True
         - question: Yukino welcomes Hachiman when he joins her.
           answer: False
-        - question: Shizuka: `The club is to help people with problems.'
+        - question: "Shizuka: `The club is to help people with problems.'"
           answer: True
         - question: Yukino may make people feel good and/or feel bad.
           answer: True
@@ -285,19 +285,19 @@ violetevergarden:
       B: You ask your friend, Claudia to look after Violet. You told Violet you loved her as the war ended, but you decided not to contact her after.
       C: Gilbert used you as a war weapon, but treated you tenderly. You now work for Claudia, but are looking for Gilbert. You love him.
       quiz:
-        - question: A:
+        - question: A
           option:
             - Claudia
             - Gilbert
             - Violet
           answer: Claudia
-        - luestion: B:
+        - luestion: B
           option:
             - Claudia
             - Gilbert
             - Violet
           answer: Gilbert
-        - question: C:
+        - question: C
           option:
             - Claudia
             - Gilbert
@@ -305,7 +305,7 @@ violetevergarden:
           answer: Violet
         - question: Violet and Claudia are friends.
           answer: False
-        - question: Gilbert to Claudia: `Care for Violet.'
+        - question: "Gilbert to Claudia: `Care for Violet.'"
           answer: True
         - question: Gilbert treated Violet badly.
           answer: False
@@ -313,7 +313,7 @@ violetevergarden:
           answer: True
         - question: Gilbert looks for Violet.
           answer: False
-        - question: Gilbert: `The war is why I do this.' 
+        - question: "Gilbert: `The war is why I do this.'" 
           answer: True
         - question: Gilbert loves Violet. She loves him.
           answer: True
