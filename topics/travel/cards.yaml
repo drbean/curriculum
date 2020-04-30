@@ -412,6 +412,16 @@ vacation:
       spider   : 蜘蛛   
   1:
     flash:
+      card       : 卡
+      butterfly  : 蝴蝶
+      wrap       : 包裹
+      invite     : 邀請
+      candle     : 蠟燭
+      wall       : 壁
+      soon       : 不久
+      creative   : 創意的
+  2:
+    flash:
       pyramid    : 金字塔
       Brazil     : 巴西
       kangaroo   : 袋鼠
