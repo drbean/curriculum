@@ -149,6 +149,7 @@ sleep:
   bingo:
     - flashlight witch count ghost nightmare real believe silly
     - sleep counts turns_on flashlight something closet ghost walks open door moves screams just cat feels_silly
+    - wake nightmare thought real did dream witch room believed everything back sleep
     - sleep counts sheep CREAK! turns_on flashlight something closet ghost walks open door moves Aaahh! screams just cat feels_silly
     -
       - nightmare  _a bad dream_
@@ -157,7 +158,6 @@ sleep:
       - silly      _childish and bad, but funny_
     - counts_sheep CREAK! turns_on something closet ghost open move Aaahh! screams cat feels_silly
     - flashlight witch count ghost nightmare real believe silly
-    - wake nightmare thought real did dream witch room believed everything back sleep
     -
       - "A: Aaah! _B: Annie! Wake up!_"
       - "A: Oh! I just had a nightmare. I thought it was real. _B: Oh, no! What did you dream about?_"
