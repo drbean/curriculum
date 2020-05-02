@@ -401,6 +401,15 @@ _____(33) back? _____(34) really busy _____(35) and _____(36) need
 you to call me _____(37). I _____(38) go on _____(39) without my
 bank card. This is Marsha Syms at _____(40). Thanks.
 
+# Karate school inquiry
+
+## youtube links
+
+- [Full Speaking toeic test 03 | Practice Speaking toeic test with Answers](https://www.youtube.com/watch?v=64E4yFhUUWQ)
+
+## pronunciation
+
+Hello, I'm calling for Same Lee from the karate school. I got your message about classses for your son. We give classes for children every Saturday morning from 9:00 to 12:00. Mostof the children in thisclassare nine to ten years of age, so your son is the right age. However, the class is very large. There are 16 students in it. Westill have room for morestudents if your son wants to take it. If he doesn't want to be with a large group, I have another suggestion for you. Some of our instructors give private lessons. This might be best for your son if he is very shy. If you are interested in this, please call me back and I will give you the names of some of our instructors who give private lessons.
 
 # Restaurant customer loss on renovation 
 
