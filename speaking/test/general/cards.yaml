@@ -129,7 +129,7 @@ read:
 
         When looking for a place to live, most people think about convenience. If they are parents with children, they want to live near the best schools. They want to have public transportation or good road available to them. They don't want to have to travel far for shopping and entertainment. People also enjoy living near a park or gym so that they have easy access to recreation. And, of course, for the majority of people the most important thing is to live in close proximity to their jobs.
     4:
-      identifier: Question 1. Read a text aloud
+      identifier: Question 2. Read a text aloud
       rubric: |+
         Directions: In this part of the test, you will read aloud the text in the paragraph below. You will have 45 seconds to prepare. Then you will have another 45 seconds to read the text aloud.
 
@@ -145,7 +145,7 @@ read:
       rubric: |+
         Directions: In this part of the test, you will read aloud the text in the paragraph below. You will have 45 seconds to prepare. Then you will have another 45 seconds to read the text aloud.
 
-        Do you like seafood? The Ocean View Restaurant offers the tastiest seafood dishes in town. Relax in our spacious dining room while enjoying spectacular views of the beach and ocean. Choose from a large variety of seafood dishes on our menu or enjoy a little bit of everything at our Sunday evening buffet. At the end of your meal, be sure to try one of our famous desserts. The chocolated cake is simply scrumptious. For a relaxing, delicious meal, visit the Ocean View.
+        Do you like seafood? The Ocean View Restaurant offers the tastiest seafood dishes in town. Relax in our spacious dining room while enjoying spectacular views of the beach and ocean. Choose from a large variety of seafood dishes on our menu or enjoy a little bit of everything at our Sunday evening buffet. At the end of your meal, be sure to try one of our famous desserts. The chocolate cake is simply scrumptious. For a relaxing, delicious meal, visit the Ocean View.
 pic:
   forum:
     0:
@@ -161,7 +161,7 @@ pic:
 
          [https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDHpOnxKqnJJPLlAV4ktbfcQHjiXFQ7bQ-FXHDlUNUDgdkKiRT&s ](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDHpOnxKqnJJPLlAV4ktbfcQHjiXFQ7bQ-FXHDlUNUDgdkKiRT&s)
 
-         [Full Speaking toeic test 03 _ Practice Speaking toeic test with Answers-64E4yFhUUWQ.mp4](http://web.nuu.edu.tw/~greg/toeic/sample/Full%20Speaking%20toeic%20test%2003%20_%20Practice%20Speaking%20toeic%20test%20with%20Answers-64E4yFhUUWQ.mp4)
+         [At the 4:00 point--Full Speaking toeic test 03 _ Practice Speaking toeic test with Answers-64E4yFhUUWQ.mp4](http://web.nuu.edu.tw/~greg/toeic/sample/Full_Speaking_toeic_test_03___Practice_Speaking_toeic_test_with_Answers-64E4yFhUUWQ.mp4)
     2:
       identifier: Question 3. Describe a picture
       rubric: |+
@@ -177,7 +177,7 @@ question:
   description:
     0:
       identifier: Question 4~6. Respond to questions
-      questiontext: |+
+      rubric: |+
         In this part of the test, you will answer three questions . For each question, begin responding immediately after you hear a beep . 3 seconds preparation time is provided. You will have 15 seconds to respond to Questions 4 and 5, and 30 seconds to respond to Question 6 .
   forum:
     0:
@@ -209,17 +209,17 @@ question:
       rubric: |+
         In this part of the test, you will answer three questions . For each question, begin responding immediately after you hear a beep . 3 seconds preparation time is provided. You will have 15 seconds to respond to Questions 4 and 5, and 30 seconds to respond to Question 6 .
     2:
-      identifier: Question 4
+      identifier: Question 4. Respond to questions
       rubric: |+
         Imagine that a marketing firm is doing research in your country. You have agreed to participate in a telephone interview about birthday celebrations.
 
         Question 4: Are birthday celebrations important in your country?
     3:
-      identifier: Question 5
+      identifier: Question 5. Respond to questions
       rubric: |+
         How do people in your country celebrate birthdays?
     4:
-      identifier: Question 6
+      identifier: Question 6. Respond to questions
       rubric: |+
         How do people in your country generally feel about getting older?
     5:
@@ -283,6 +283,7 @@ information:
             1:00-3:00........Planning Discussion (everybody)
             3:00-3:30........Video: The Creation of a Company
             3:30-4:00........Coffee and snacks in the Board Room
+# Question 7: Hello, Sue. I'm preparing for the meeting next Thursday. And I need some information about it. Can you tell me who will speak first, and for how long?
     3:
       identifier: "Questions 8: Respond to questions using information provided"
       rubric: |+
@@ -299,6 +300,7 @@ information:
             1:00-3:00........Planning Discussion (everybody)
             3:00-3:30........Video: The Creation of a Company
             3:30-4:00........Coffee and snacks in the Board Room
+# Question 8: Who is going to give the sales report?
     4:
       identifier: "Questions 9: Respond to questions using information provided"
       rubric: |+
@@ -315,6 +317,7 @@ information:
             1:00-3:00........Planning Discussion (everybody)
             3:00-3:30........Video: The Creation of a Company
             3:30-4:00........Coffee and snacks in the Board Room
+# Question 9: I may have to leave the meeting early. Could you tell me what will happen after lunch?
     5:
       identifier: "Questions 7: Respond to questions using information provided"
       rubric: |+
@@ -401,11 +404,26 @@ solution:
         - propose a way of dealing with the problem.
 
           Now listen to the voice message
+    1:
+      identifier: "Question 10: Propose a solution"
+      rubric: |+
+        In this part of the test, you will be presented with a problem and asked to propose a solution . You will have 45 seconds preparation time. Then you will have 60 seconds to speak.
+
+        Respond as if you work in customer service.
+
+        In your response, be sure to 
+
+        - show that you recognize the problem, and
+
+        - propose a way of dealing with the problem.
+
+          Now listen to the voice message
+# 9:28 Hello. Is this the karate school? I would like some information about karate lessons for my son. I know you give classes for children, but I think they're group classes. My son is very shy and he doesn't do well in groups. Also, I noticed in your ad that your classes started last week. My son really wants to take karate lessons this semester and the only reason we didn't sign up earlier is because we were away on vacation. Do you have a class my son can take? He's ten years old and he has never taken karate lessons before. He has times in the afternoons after school and on Saturdays. My name is Sam Lee and my number is 876-555-9876. Thank you.
 opinion:
   description:
     0:
       identifier: Question 11. Express an opinion
-      questiontext: |+
+      rubric: |+
         In this part of the test, you will give your opinion about a specific topic . Be sure to say as much as you can in the time allowed . You will have 30 seconds to prepare . Then you will have 60 seconds to speak.
   forum:
     0:
@@ -481,21 +499,21 @@ response:
       rubric: |+
         Directions to testees: Read the email.
  
-        | From: George Pinkney
-        | To: Social Committee members
-        | Subject: Meeting
-        | Sent: April 12, 20--
+            From: George Pinkney
+            To: Social Committee members
+            Subject: Meeting
+            Sent: April 12, 20--
 
-        It is time for a meeting of the Social Committee. We
-        need to start planning the annual year-end party. I
-        would like all members of the committee to meet next
-        Friday morning from 9 to 11 in Conference Room A.
-        Please let know as soon as possible if you are
-        available to attend this meeting.
+            It is time for a meeting of the Social Committee. We
+            need to start planning the annual year-end party. I
+            would like all members of the committee to meet next
+            Friday morning from 9 to 11 in Conference Room A.
+            Please let me know as soon as possible if you are
+            available to attend this meeting.
 
-        | Thank you.
-        | George Pinkney
-        | Social Committee Chair
+            Thank you.
+            George Pinkney
+            Social Committee Chair
 
         Directions to testees: Respond to the email. Respond
         as if you are a member of the Social Committee. In your
@@ -506,18 +524,18 @@ response:
       rubric: |+
         Directions to testees: Read the email.
  
-        | From: Journal of Business News
-        | To: Business professionals
-        | Subject: Subscribe
-        | Sent: December 2, 20--
+            From: Journal of Business News
+            To: Business professionals
+            Subject: Subscribe
+            Sent: December 2, 20--
 
-        Dear Business Professional,
+            Dear Business Professional,
 
-        The *Journal of Business News* brings you all the latest
-        about important developments in the international business
-        world. It is read by thousands of businesspeople just like
-        you in over 40 countries around the world. Subscribe today
-        and receive a 30% discount off the regular price.
+            The *Journal of Business News* brings you all the latest
+            about important developments in the international business
+            world. It is read by thousands of businesspeople just like
+            you in over 40 countries around the world. Subscribe today
+            and receive a 30% discount off the regular price.
 
         Directions to testees: Respond to the email. Respond
         as if you are a businessperson interested in subscribing
