@@ -1,5 +1,18 @@
 genre: intermediate
 lerman:
+  forum:
+    0:
+      identifier: Your attitude/feeling about something, or talking about an accomplishment
+      rubric: |+
+        What do you think about eating and food? What is good and bad.
+
+        Or, talk about an accomplishment (achievement). What was:
+
+        - the goal
+        - the circumstances under which the goal was achieved
+        - the degree to which the goal was achieved
+        - the part of the goal that was achieved
+    
   compcomp:
     0:
       identifier: eating disorders
@@ -112,6 +125,27 @@ lerman:
           answer: False
         - question: Josh is dead.
           answer: True
+    2:
+      identifier: Don Lerman questions
+      quiz:
+        - question: Don's father was a competitive eater, too.
+          answer: False
+        - question: Don's father sees Don win the prize.
+          answer: False
+        - question: The prize is for eating food very quickly.
+          answer: True
+        - question: Don's father was not proud of Don.
+          answer: True
+        - question: Don is the mayor.
+          answer: False
+        - question: Don was a `somebody,' but now is a `nobody.'
+          answer: False
+        - question: Don's father is dead.
+          answer: True
+        - question: Don is not proud of his accomplishments.
+          answer: False
+        
+
 tyson:
   compcomp:
     0:
@@ -547,7 +581,7 @@ seixas:
 davis:
   forum:
     0:
-      identifier: Homework: talking about emotion
+      identifier: "Homework: talking about emotion"
       rubric: |+
         Talk for 30 seconds about some time you felt emotional (happy, sad, frightened, angry, etc) about something.
 
