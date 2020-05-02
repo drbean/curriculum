@@ -17,9 +17,9 @@ assign:
   assignsubmission_file_maxsizebytes  : 2000
 forum:
   timeopen         : 1
-  timeclose        : $(date --date='2020-04-27 12:00:00 +0800' +%s)
-  duedate          : $(date --date='2020-04-27 12:00:00 +0800' +%s)
-  cutoffdate       : $(date --date='2020-04-27 12:00:00 +0800' +%s) 
+  timeclose        : $(date --date='2020-04-04 12:00:00 +0800' +%s)
+  duedate          : $(date --date='2020-04-04 12:00:00 +0800' +%s)
+  cutoffdate       : $(date --date='2020-04-04 12:00:00 +0800' +%s) 
   introformat      : 4
   type             : eachuser
   grade            : 9
@@ -50,13 +50,13 @@ studentquiz:
 quiz:
   timeopen         : 1
   timeclose        : $(date --date='2020-06-30 14:00:00 +0800' +%s)
-  questioncategory : 8_food
+  questioncategory : 10_food
   parentcategory   : 6098
   categorycontext  : 56
   infoformat       : 4
   introformat      : 4
   grade            : 3
-  gradecat         : 636
+  # gradecat         : 636
   groupmode        : 0
   # groupingid       : 128
   attempts         : 1
