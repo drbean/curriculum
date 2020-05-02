@@ -47,4 +47,13 @@
   introformat: 4
   contentformat: 4
   showdescription: 1
-  
+-
+  content:
+  -
+    topic : food
+    story : davis
+    type  : forum
+    form  : 0
+    intro : Discussing something you felt
+    random: 
+    
