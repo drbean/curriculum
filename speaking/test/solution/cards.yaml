@@ -102,7 +102,26 @@ book:
     0:
       identifier: book problem frame elements
       quiz:
-	:e
+bankcard:
+  forum:
+    0:
+      identifier: Homework: Question 10. Propose a solution for a bank card not returned by ATM
+      rubric: |+
+        In this part of the test, you will be presented with a problem and asked to propose a solution . You will have 45 seconds preparation time. Then you will have 60 seconds to speak.
+
+        Respond as if you work in customer service.
+
+        In your response, be sure to 
+
+        - show that you recognize the problem, and
+
+        - propose a way of dealing with the problem.
+
+        Now listen to Dr Bean read the voice message in
+        [bankcard.wma](http://web.nuu.edu.tw/~greg/toeic/sample/bankcard.wma)
+        
+        If you can't catch everything he says, read the message in the _Question 10. Propose a solution_ section of the
+        [Examinee_handbook](http://web.nuu.edu.tw/~greg/toeic/sample/Examinee+Handbook+-+TOEIC+Speaking+and+Writing-LR.pdf)
 example:
   jigsaw:
     0:
