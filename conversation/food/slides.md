@@ -108,3 +108,166 @@ A 30-second recording uploaded to moodle before 12pm Monday, everyone.
 * What caused the person to feel emotion?
 * How could another person see emotion was being felt/How was the emotion expressed, eg laughing, crying?
 * What name could be given to the emotional state, eg sadness, joy, regret, relief?
+
+# Championship eating--fast eating
+
+# Don "Moses" Lerman
+
+## Eating contests
+
+[http://en.wikipedia.org/wiki/Competitive_eating](http://en.wikipedia.org/wiki/Competitive_eating)
+
+[https://www.youtube.com/results?q=eating%20contests&hl=en&client=firefox-a&hs=QXO&rls=org.mozilla:en-US:unofficial&channel=fflb&biw=599&bih=644&ie=UTF-8&sa=N&tab=i1](https://www.youtube.com/results?q=eating%20contests&hl=en&client=firefox-a&hs=QXO&rls=org.mozilla:en-US:unofficial&channel=fflb&biw=599&bih=644&ie=UTF-8&sa=N&tab=i1)
+
+[https://www.google.com/search?q=eating+contests&hl=en&client=firefox-a&hs=QXO&tbo=d&rls=org.mozilla:en-US:unofficial&channel=fflb&source=lnms&tbm=isch&sa=X&ei=GajbUJe9IceHkgX-iYBY&ved=0CAoQ_AUoAA&biw=599&bih=644](https://www.google.com/search?q=eating+contests&hl=en&client=firefox-a&hs=QXO&tbo=d&rls=org.mozilla:en-US:unofficial&channel=fflb&source=lnms&tbm=isch&sa=X&ei=GajbUJe9IceHkgX-iYBY&ved=0CAoQ_AUoAA&biw=599&bih=644)
+
+- [http://en.wikipedia.org/wiki/Rudy_Giulani ](http://en.wikipedia.org/wiki/Rudy_Giulani)
+
+
+## Hotdogs, hamburgers, pizzas
+
+68 hotdogs in 10:00
+[https://www.youtube.com/watch?v=qRth_LInVIM](https://www.youtube.com/watch?v=qRth_LInVIM)
+
+- [Nathan Hot Dog Eating Contest introductions](http://www.youtube.com/watch?v=Ytj_ncTVixs)
+
+
+One hamburger meal in 2:58
+[https://www.youtube.com/watch?v=dKjtVqLLLR0](https://www.youtube.com/watch?v=dKjtVqLLLR0)
+
+7,9-year-olds eat one pizza each in 8:00
+[https://www.youtube.com/watch?v=36rnoxonj-0](https://www.youtube.com/watch?v=36rnoxonj-0)
+
+## Simulated eating competition
+
+A: Hot dogs
+
+How many hot dogs can A in each group consume
+(produce by drawing) in one minute?
+
+B: Pizzas
+
+How many pizzas can B in each group consume
+(produce by drawing) in one minute?
+
+C: hamburgers
+
+How many hamburgers can C in each group consume
+(produce by drawing) in one minute?
+
+X: Cups of corn soup
+
+How many cups of corn soup can C in each group consume
+(produce by drawing) in one minute?
+
+## Moses Lerman and matzo ball eating
+
+[http://web.nuu.edu.tw/~greg/conversation/Lerman.html](http://web.nuu.edu.tw/~greg/conversation/Lerman.html)
+
+- [https://www.youtube.com/results?search_query=Don+Lerman ](https://www.youtube.com/results?search_query=Don+Lerman)
+
+- [http://en.wikipedia.org/wiki/Don_Lerman ](http://en.wikipedia.org/wiki/Don_Lerman)
+
+
+- [http://en.wikipedia.org/wiki/Matzah_ball](http://en.wikipedia.org/wiki/Matzah_ball)
+- [Matzo ball soup--Google Images](http://images.google.com/search?num=10&hl=en&site=&tbm=isch&source=hp&biw=419&bih=451&q=matzo+ball+soup&oq=matzo+ba&gs_l=img.3.0.0l5j0i5l3j0i24l2.893.3387.0.6219.8.8.0.0.0.0.73.519.8.8.0...0.0...1ac.1.nEr0pzo2w6A)
+- [Don Lerman and NY Mayor Rudy Guiliani](https://www.shutterstock.com/editorial/image-editorial/donald-lerman-winner-of-the-3rd-annual-matzoh-ball-eating-contest-is-awarded-his-trophy-by-nyc-mayor-rudolph-giuliani-316555a)
+
+## Don Lerman's web page and criticism of him 
+
+- [http://thelermanreport.com](http://thelermanreport.com)
+- [Editorial On My Status In Competitive Eating « The Lerman Report®](http://thelermanreport.com/2010/07/26/editorial-on-my-status-in-competitive-eating/)
+- [Don "Moses" Lerman, Competitive Eater - the Man, the Myth, the Upsetting YouTube Video - Urlesque](http://urlesquerss.tumblr.com/post/79097106/don-moses-lerman-competitive-eater-the-man)
+
+## Don Lerman cloze
+
+alive contest could did Don eating famous(x2) father
+happened mayor proud somebody talks thought wanted wishes
+
+_____(1) Lerman, was a _____(2) competitor in _____(3) 
+contests. He _____(4) about why he _____(5) it. He felt 
+really _____(6), shaking hands with the _____(7) after 
+the _____(8). He had always _____(9) to be famous, but 
+it never _____(10). His _____(11) never _____(12) he 
+would be _____(13). He _____(14) his father was 
+_____(15) so he _____(16) see he is a _____(17).
+
+
+# Nobody, anybody, somebody, everybody
+
+## A nobody, a somebody
+
+- [a nobody](https://www.urbandictionary.com/define.php?term=a%20nobody)
+- [a somebody](https://www.wordreference.com/definition/somebody)
+
+# Talking about eating
+
+## Ideas about eating contests
+
+Read/listen to an account of an eating competition. Dr Bean likes to eat, but can't understand why people would want to try and eat more  than other people and to eat so much that it hurts and you want to stop. Dr Bean thinks it is not good for their bodies. What do you think?
+
+## Eating habits (diets) questions
+
+- Talk about what you have eaten today.
+- What is the most unhealthy eating habit you can think of?
+- What do people need to eat more of?
+- Do you usually eat in a healthy way?
+- What are some different types of diets you have heard of?
+- Do you think your parents ate healthier food at your age than you do? How about your grandparents?
+- Do you eat a lot of small portions or a few large portions of food each day?
+- Do you think people from your country usually eat in a healthy way?
+- What are some things about your eating habits you want to change?
+- Do you think that organic food is much better than normal food or are they about the same?
+- Why is organic food so much more expensive?
+- What is traditional food in your country like? Is it eaten in a healthy way?
+- Do you think that a person’s eating habits affect how long they will live?
+- Do you eat to live, or live to eat?
+
+## I always wanted to be president or a big lawyer or a doctor or something, and it just never happened.  
+
+- [happen](http://verbs.colorado.edu/verb-index/index/H.php)
+
+	- [meanings of occur](http://verbs.colorado.edu/verb-index/vn/occurrence-48.3.php#occurrence-48.3)
+	- [meanings of happen](http://verbs.colorado.edu/html_groupings/happen-v.html)
+
+- [Feelings frame](https://framenet2.icsi.berkeley.edu/fnReports/data/frameIndex.xml?frame=Experiencer_focused_emotion)
+- [Attitude frame](https://framenet2.icsi.berkeley.edu/fnReports/data/frameIndex.xml?frame=Attitude_description)
+- [Accomplishment frame](https://framenet2.icsi.berkeley.edu/fnReports/data/frameIndex.xml?frame=Accomplishment)
+
+
+## He always thought I was a loser (a nobody), but I wish he was alive to see that I'm a somebody. 
+
+- [Desiring frame](https://framenet2.icsi.berkeley.edu/fnReports/data/frameIndex.xml?frame=Desiring)
+
+- [think](http://verbs.colorado.edu/verb-index/index/T.php)
+
+	- [meanings of think (consider)](http://verbs.colorado.edu/verb-index/vn/consider-29.9.php#consider-29.9-2)
+
+- [wish](http://verbs.colorado.edu/verb-index/index/W.php)
+
+- [meanings of wish](http://verbs.colorado.edu/verb-index/vn/wish-62.php#wish-62)
+
+## Difference between "wish" and "hope"
+
+Let's forget about uses like
+
+"When you wish upon a star, makes no difference who you are."
+
+and
+
+"We wish you a Merry Xmas."
+
+Wishing is hoping for magic to happen, but it doesn't and won't happen. Magic doesn't exist.
+
+Say, "I wish I could ..", not "I wish I can .."
+
+## Difference between "wish" and "hope". More about ..
+
+You can say, "Hope you have a good day," but you can't say, "Wish you have a good day."
+
+"I wish you would .. " is used to complain about something. You don't expect the person you're talking to do what you want them to do.
+
+"I wish it would stop raining," means you don't expect it to stop raining. You don't think there is a chance it will stop raining.
+
+"I hope it stops raining this afternoon," means you think there is a chance it will stop raining.
+
