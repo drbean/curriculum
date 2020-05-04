@@ -2,17 +2,21 @@ genre: intermediate
 lerman:
   forum:
     0:
-      identifier: Your attitude/feeling about something, or talking about an accomplishment
+      identifier: Talking about an accomplishment
       rubric: |+
-        What do you think about eating and food? What is good and bad.
-
-        Or, talk about an accomplishment (achievement). What was:
+        Talk about an accomplishment (achievement). What was:
 
         - the goal
         - the circumstances under which the goal was achieved
         - the degree to which the goal was achieved
         - the part of the goal that was achieved
-    
+        - a thing/action with which the goal was achieved
+        - an explanation of why the goal was achievable
+
+        See 
+
+        - [Accomplishment Frame](https://framenet2.icsi.berkeley.edu/fnReports/data/frameIndex.xml?frame=Accomplishment)
+        - [Feelings about success or failure Frame](https://framenet2.icsi.berkeley.edu/fnReports/data/frameIndex.xml?frame=Emotions_success_or_failure)
   compcomp:
     0:
       identifier: eating disorders
@@ -51,10 +55,10 @@ lerman:
           answer: False
   jigsaw:
     0:
-      identifier: contest
+      identifier: matzo ball eating contest
       A: You are a Jewish mother and like to eat soup with matzo balls made of chicken fat and flour. You are a reporter. But now you are in a contest organized by George to eat as many fist-sized matzo balls as possible. 
       B: You are Jewish and you never did anything. But now you are a 'somebody' because you can eat a lot of matzo balls in 5 minutes, much more than Emily, who only ate 6 balls in 5 minutes. However, she is a woman, and 6 balls in 5 minutes equals the woman's record.
-      C: You are the champion matzo ball eater. You are not Jewish, you are black, but you ate 30 matzo balls, 5 more than the second contender, a Jewish man.
+      C: You are the champion matzo ball eater. You are not Jewish, you are black, but you ate 30 matzo balls, 5 more than the second contender, a Jewish man and 5 times the number eaten by the only woman, Emily. George declares you the winner.
       D: You are the organizer of the contest. The winner is Eric, who ate 30 balls. The second placed person was "Moses", who ate 25 balls. Last was the woman, who ate only 6 balls. There isn't a separate event for women in your contest. So she came in last.
       quiz:
         - question: A
@@ -62,30 +66,44 @@ lerman:
            - Emily
            - Eric
            - George
-           - Moses
+           - Don "Moses" Lerman
           answer: Emily
         - question: B
           option: 
            - Emily
            - Eric
            - George
-           - Moses
-          answer: Moses
+           - Don "Moses" Lerman
+          answer: Don "Moses" Lerman
         - question: C
           option: 
            - Emily
            - Eric
            - George
-           - Moses
+           - Don "Moses" Lerman
           answer: Eric
         - question: D
           option: 
            - Emily
            - Eric
            - George
-           - Moses
+           - Don "Moses" Lerman
           answer: George
         - question: Two of the contestants are Jewish.
+          answer: True
+        - question: Don Lerman is Jewish.
+          answer: False
+        - question: The winner is Don Lerman.
+          answer: False
+        - question: The winner is Jewish AND black.
+          answer: False
+        - question: The winner was the woman.
+          answer: False
+        - question: If there were a separate event for women, Emily would be the winner.
+          answer: True
+        - question: The woman came in last.
+          answer: True
+        - question: The winner ate 5 times the number of matzo balls eaten by the person who came in last.
           answer: True
     1:
       identifier: lerman 1
