@@ -164,14 +164,16 @@ How many cups of corn soup can C in each group consume
 
 [http://web.nuu.edu.tw/~greg/conversation/Lerman.html](http://web.nuu.edu.tw/~greg/conversation/Lerman.html)
 
+- [Meet Don 'Moses' Lerman](https://www.youtube.com/watch?v=HACVwHMxwVg)
 - [https://www.youtube.com/results?search_query=Don+Lerman ](https://www.youtube.com/results?search_query=Don+Lerman)
-
 - [http://en.wikipedia.org/wiki/Don_Lerman ](http://en.wikipedia.org/wiki/Don_Lerman)
 
 
 - [http://en.wikipedia.org/wiki/Matzah_ball](http://en.wikipedia.org/wiki/Matzah_ball)
 - [Matzo ball soup--Google Images](http://images.google.com/search?num=10&hl=en&site=&tbm=isch&source=hp&biw=419&bih=451&q=matzo+ball+soup&oq=matzo+ba&gs_l=img.3.0.0l5j0i5l3j0i24l2.893.3387.0.6219.8.8.0.0.0.0.73.519.8.8.0...0.0...1ac.1.nEr0pzo2w6A)
 - [Don Lerman and NY Mayor Rudy Guiliani](https://www.shutterstock.com/editorial/image-editorial/donald-lerman-winner-of-the-3rd-annual-matzoh-ball-eating-contest-is-awarded-his-trophy-by-nyc-mayor-rudolph-giuliani-316555a)
+- [Emily Yoffe: Competing with Don Lerman and other champion eaters](https://www.npr.org/templates/story/story.php?storyId=4627321)
+- [Lerman receives Lifetime Achievement Award](https://www.youtube.com/watch?v=Ejy0NRi5wBE&t=53s)
 
 ## Don Lerman's web page and criticism of him 
 
@@ -270,4 +272,20 @@ You can say, "Hope you have a good day," but you can't say, "Wish you have a goo
 "I wish it would stop raining," means you don't expect it to stop raining. You don't think there is a chance it will stop raining.
 
 "I hope it stops raining this afternoon," means you think there is a chance it will stop raining.
+
+# Needs
+
+## Physical needs
+
+- Food
+- Clothing
+- Shelter
+
+## Psychological needs
+
+- Power
+- Achievement
+- Affiliation
+
+[Need_theory](https://en.wikipedia.org/wiki/Need_theory)
 
