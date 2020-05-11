@@ -581,7 +581,7 @@ smokers:
             - No
           answer: Yes
     tone:
-      identifier: tone in chen's reply
+      identifier: tone in chen reply
       quiz:
         - question: "Dr Bean thinks Chen in his reply on p72 is just being polite. He doesn't have good feelings about the symposium. If this is true, Chen's reply is: (see p80)"
           option:
@@ -727,7 +727,7 @@ smokers:
         - Having you at the conference would make our day.
   drag:
     formal:
-      identifier: formal smokers scramble
+      identifier: smokers scrambled invitation
       sentences:
         -
           sentence: We were wondering if you would like to give a speech at a conference we are organizing?
@@ -744,6 +744,9 @@ smokers:
         -
           sentence: We have pleasure in inviting you to give a speech at our conference.
           clozed: We|have|pleasure|in|inviting|you|to|give|a|speech|at|our|conference|End
+    details:
+      identifier: smokers scrambled invitation details
+      sentences:
         -
           sentence: The conference will be about lung diseases, and because of your fame as a lung specialist, we want you to open the conference.
           clozed: The|conference|will|be|about|and|of|your|fame|as|a|lung|we|want|you|to|open|the|End
@@ -877,20 +880,23 @@ smokers:
           - apology, polite expression of hope for future
 sundry:
   jigsaw:
-    comprehension_questions:
-      identifier: smokers, xmas, dinner--formality, relationships
+    acquaintance:
+      identifier: smokers, xmas, dinner--relationships rejecting/accepting invitations
       quiz:
-        - question: The writer of the Smokers email knows Dr Chen.
+        - question: The writer of the Smokers email on p 71 knows Dr Chen.
           answer: False
-        - question: The writer of the dinner acceptance email knows Al Jalahma.
+        - question: The writer of the dinner acceptance email on p 72 knows Al Jalahma.
           answer: True
         - question: The writer of the Xmas refusal email knows the organizers of the party.
           answer: True
+    formality:
+      identifier: smokers, xmas, dinner--formality rejecting/accepting invitations
+      quiz:
         - question: The text in the Xmas refusal email is less formal than the dinner acceptance email.
           answer: True
         - question: The text in the Xmas refusal email is less formal than the Chen refusal email.
           answer: True
-        - question: The text in the smokers invitation in the book is less formal than the text in the smokers scramble/structure on the site.
+        - question: The text in the smokers invitation in the book on p 71 is less formal than the text in the smokers scramble/structure in 'smokers scrambled invitation' and 'smokers scrambled invitation details' on the site.
           answer: False
 student:
   jigsaw:
