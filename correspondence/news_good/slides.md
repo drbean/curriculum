@@ -42,7 +42,7 @@ You don't need to mention his mother. It is not the company's concern.
 	- Not "I hear your request has been accepted" or "The boss says your request has been accepted". No. Manager Cheng is  representing the company and is making an official company statement. "The company has accepted your request."
 	- Not "I want to tell you good news", or "I have good news". Just say "Your request has been approved" straight away.
 
-# Exam
+# Homework
 
 ## Google scam spam
 
@@ -50,4 +50,6 @@ Your boss, a criminal, wants you to write an email which says the reader is the 
 
 The aim of the email is to get the reader to send his/her credit card number and password.
 
-Write the email. Follow the 3- or 4-paragraph structure in the book.
+Write the email. Follow the 3- or 4-paragraph structure in the book on p 73. Use words from the message on p 75.
+
+No need for headers, addresses, salutations, et cetera.
