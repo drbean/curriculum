@@ -50,22 +50,22 @@ studentquiz:
 quiz:
   timeopen         : 1
   timeclose        : $(date --date='2020-06-30 14:00:00 +0800' +%s)
-  questioncategory : 9_inquiry,goodwill
+  questioncategory : 12_news_good
   parentcategory   : 6044
   categorycontext  : 754
   infoformat       : 4
   introformat      : 4
   grade            : 3
-  gradecat         : 593
+  # gradecat         : 593
   groupmode        : 0
   # groupingid       : 128
-  attempts         : 1
+  attempts         : 2
   decimalpoints    : 0
   overduehandling : 0
   shuffleanswers   : 1
   subnet           : 210.60.168.212
-  browsersecurity  : safebrowser
+  # browsersecurity  : safebrowser
   # no book
   # safeexambrowser_allowedkeys: abe8058b8750756520904153b1bdf4b65372214ccc22c97b5d8c38df36e471fe
   # book
-  safeexambrowser_allowedkeys: e71abb59ffc16b3344b23e826059219f3c4fe70731e1845b77b2faa1ad93bbab
+  # safeexambrowser_allowedkeys: e71abb59ffc16b3344b23e826059219f3c4fe70731e1845b77b2faa1ad93bbab
