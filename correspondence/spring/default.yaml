@@ -63,7 +63,7 @@ quiz:
   decimalpoints    : 0
   overduehandling : 0
   shuffleanswers   : 1
-  subnet           : 210.60.168.212
+  # subnet           : 210.60.168.212
   # browsersecurity  : safebrowser
   # no book
   # safeexambrowser_allowedkeys: abe8058b8750756520904153b1bdf4b65372214ccc22c97b5d8c38df36e471fe
