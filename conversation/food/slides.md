@@ -289,3 +289,117 @@ You can say, "Hope you have a good day," but you can't say, "Wish you have a goo
 
 [Need_theory](https://en.wikipedia.org/wiki/Need_theory)
 
+# Joe Spano, Sr and Joe Spano, Jr
+
+# Restaurants
+
+## Restaurant questions by A (from http://www.esldiscussions.com/r/restaurants.html)
+
+1) What comes to mind when you hear the word ‘restaurant’?
+2) What is your favourite restaurant and why?
+3) Do you like expensive restaurants?
+4) How often do you go to restaurants?
+5) Do you think the ambience is important in restaurants?
+6) What kind of restaurant would you like to open?
+7) What’s the best restaurant name you’ve heard of?
+8) Are you happy with the restaurants in your town?
+9) Is restaurant food the best?
+10) Have you ever complained about the food or service in a restaurant?
+
+## Restaurant questions by B (from http://www.esldiscussions.com/r/restaurants.html)
+
+1) If you could have your own restaurant, what would you call it?
+2) What do you think of fast food restaurants?
+3) Would you go to a romantic restaurant with a friend?
+4) What do you think people study on a restaurant management course?
+5) Do you prefer restaurants that are cheap and cheerful or very fancy?
+6) Do you think you should tip the staff in restaurants?
+7) Would you like to work as a restaurant critic?
+8) What’s the longest you’d wait for a restaurant table?
+9) What’s the most expensive meal you’ve had at a restaurant?
+10) Would you like to eat at a different restaurant every night for the rest of your life?
+
+## Joe Spano, Sr and Joe Spano, Jr's restaurants
+
+Abilene restaurant closes down:
+
+[http://www.reporternews.com/news/2007/nov/06/spanos-restaurant-closes-down](http://www.reporternews.com/news/2007/nov/06/spanos-restaurant-closes-down)
+
+Joe Spano opens restaurant in New Jersey
+
+[http://www.tripadvisor.co.uk/Restaurant_Review-g46745-d1113401-Reviews-Spano_s_Ristorante_Italiano-Point_Pleasant_Beach_New_Jersey.html#REVIEWS](http://www.tripadvisor.co.uk/Restaurant_Review-g46745-d1113401-Reviews-Spano_s_Ristorante_Italiano-Point_Pleasant_Beach_New_Jersey.html#REVIEWS)
+
+## Buffalo Gap Rd, Abilene
+
+[https://maps.google.com/maps?q=Buffalo+Gap+Road,+Abilene,+TX,+United+States&hl=zh-TW&sll=37.0625,-95.677068&sspn=47.483365,82.353516&oq=abilene,+buff&t=h&hnear=Buffalo+Gap+Rd,+Abilene,+Texas&z=12](https://maps.google.com/maps?q=Buffalo+Gap+Road,+Abilene,+TX,+United+States&hl=zh-TW&sll=37.0625,-95.677068&sspn=47.483365,82.353516&oq=abilene,+buff&t=h&hnear=Buffalo+Gap+Rd,+Abilene,+Texas&z=12)
+
+
+## 719 Arnold Ave, Point Pleasant Beach, NJ 08742
+
+[https://maps.google.com/maps?q=719+Arnold+Ave,+Point+Pleasant+Beach,+NJ+08742&hl=zh-TW&sll=32.360686,-99.782784&sspn=0.199231,0.321693&t=h&hnear=719+Arnold+Ave,+Point+Pleasant,+New+Jersey+08742&z=16](https://maps.google.com/maps?q=719+Arnold+Ave,+Point+Pleasant+Beach,+NJ+08742&hl=zh-TW&sll=32.360686,-99.782784&sspn=0.199231,0.321693&t=h&hnear=719+Arnold+Ave,+Point+Pleasant,+New+Jersey+08742&z=16)
+
+## "Closing down a restaurant" cloze {.allowframebreaks}
+
+
+coming
+customers
+dozens
+drive
+enough
+first
+go
+know
+large
+last
+main
+open
+options
+owned
+point.
+quietly
+right
+sad
+see
+shut
+struggling
+tears
+think
+wish
+
+Spano's Italian Restaurant _____(1) closed its doors for the _____(2) time Saturday night. Spano _____(3) down the eatery because he said he could no longer compete with the _____(4) corporate restaurants. "We've been _____(5) for about a year," said Spano. The 29-year-old Spano said he was able to give _____(6) a personal touch but that just wasn't _____(7). When he asked his customers why they hadn't been _____(8), they'd say: "We just didn't _____(9) about it."
+
+"The big boys are out on the _____(10) streets," Spano said. "They're the _____(11) ones you see, and I don't have that luxury at this _____(12). You can _____(13) by my place 20 times, and you won't _____(14) me. You have to _____(15) exactly where you're going." 
+
+It was _____(16) for Spano. "We had some _____(17) in the restaurant this past week," Spano said. "I _____(18) I could stay _____(19) for them." Spano said he will consider his options. Those _____(20) may include a new restaurant. "It would have to be the _____(21) building in the right place," Spano said.
+
+Spano encouraged Abilenians to go to local restaurants. "There are _____(22) of locally _____(23) restaurants in this town," he said. "They're struggling. Find them and _____(24) there."
+
+## Point Pleasant Beach, New Jersey
+
+[http://www.pointpleasantbeach.com/](http://www.pointpleasantbeach.com/)
+[http://en.wikipedia.org/wiki/Point_Pleasant_Beach,_New_Jersey](http://en.wikipedia.org/wiki/Point_Pleasant_Beach,_New_Jersey)
+
+# Vocabulary
+
+##  I never realized before I started working with you, you sure knew how to treat me differently as son and employee.
+
+- I never realized before I started working with you, you sure knew how to treat me differently as son and employee.
+- It wasn't until I started doing it for myself that I realized, okay, this is why they did it the way they did it.
+
+- [The grammar of realize](http://verbs.colorado.edu/verb-index/vn/discover-84.php#discover-84)
+- [The semantics of realize](https://framenet2.icsi.berkeley.edu/fnReports/data/frame/Coming_to_believe.xml)
+
+
+## Guess the fruit
+
+* Color (inside and outside)
+* Shape
+* Size
+* Taste
+* Price
+* Origin: tropical or temperate (European)
+* Harvest time: winter fruit
+* Use
+* Eating style, with a spoon,or biting it
+* Texture
+
