@@ -1,0 +1,156 @@
+---
+-
+  content:
+  -
+    topic : news_good
+    story : repair
+    type  : jigsaw
+    form  : comprehension
+    intro : Comprehension questions about the situation
+    random: 6
+-
+  content:
+  -
+    topic : news_good
+    story : repair
+    type  : jigsaw
+    form  : structure
+    intro : How each sentence fits the structure of a good news message
+    random: 12
+-
+  content:
+  -
+    topic : news_good
+    story : repair
+    type  : match
+    form  : structure
+    intro : How the paragraphs fit the good news message structure
+    random: 
+-
+  content:
+  -
+    topic : news_good
+    story : prize
+    type  : match
+    form  : cloze
+    intro : Fill in the missing words in p 75
+    random: 
+-
+  content:
+  -
+    topic : news_good
+    story : prize
+    type  : match
+    form  : structure
+    intro : The relationship of the p 75 message with the p 73 structure
+    random: 
+  
+-
+  content:
+  -
+    topic : news_good
+    story : prize
+    type  : jigsaw
+    form  : step_1
+    intro : The structure on p 73 and the p 75 congratulations message 
+    random: 6
+-
+  content:
+  -
+    topic : news_good
+    story : prize
+    type  : jigsaw
+    form  : step_2
+    intro : The structure on p 73 and the p 75 congratulations message 
+    random: 6
+-
+  content:
+  -
+    topic : news_good
+    story : prize
+    type  : jigsaw
+    form  : step_3
+    intro : The structure on p 73 and the p 75 congratulations message 
+    random: 6
+-
+  content:
+  -
+    topic : news_good
+    story : prize
+    type  : jigsaw
+    form  : step_4
+    intro : The structure on p 73 and the p 75 congratulations message 
+    random: 6
+-
+  content:
+  -
+    topic : news_good
+    story : prize
+    type  : assign
+    form  : 0
+    intro : A spam scam like the salesperson car prize message
+    random: 
+-
+  content:
+  -
+    topic : news_good
+    story : magazine
+    type  : match
+    form  : cloze
+    intro : Think of how the message is a good news message
+    random: 
+-
+  content:
+  -
+    topic : news_good
+    story : magazine
+    type  : match
+    form  : structure
+    intro : Think of how the message is a good news message
+    random: 
+-
+  content:
+  -
+    topic : news_good
+    story : prize
+    type  : jigsaw
+    form  : step_1
+    intro : The structure on p 73 and the p 75 congratulations message 
+    random: 6
+-
+  content:
+  -
+    topic : news_good
+    story : prize
+    type  : jigsaw
+    form  : step_2
+    intro : The structure on p 73 and the p 75 congratulations message 
+    random: 6
+-
+  content:
+  -
+    topic : news_good
+    story : prize
+    type  : jigsaw
+    form  : step_3
+    intro : The structure on p 73 and the p 75 congratulations message 
+    random: 6
+-
+  content:
+  -
+    topic : news_good
+    story : prize
+    type  : jigsaw
+    form  : step_4
+    intro : The structure on p 73 and the p 75 congratulations message 
+    random: 6
+-
+  content:
+  -
+    topic : news_good
+    story : video
+    type  : url
+    form  : 0
+    intro : Hours 1, 2--week 12
+    random: 
+ 
