@@ -399,7 +399,26 @@ repair:
           - 5
           - polite close
 prize:
+  assign:
+    0:
+      identifier: "Homework: Phishing spam targeting credit card numbers"
+      rubric: |+
+        ## Google scam spam
+        
+        Your boss, a criminal, wants you to write an email which says the reader is the winner of one million dollars in a Google lottery. The reader is not really going to get any money.
+        
+        The aim of the email is to get the reader to send his/her credit card number and password.
+        
+        Write the email. Follow the 3- or 4-paragraph structure in the book on p 73. But Step 3 is not necessary. Use words from the message on p 75, eg, 'all you have to do is'.
+        
+        No need for headers, addresses, salutations, et cetera. Write Steps 1, 2, 4 but keep it short.
+        
+    
   jigsaw:
+    comprehension:
+      identifier: 
+      quiz:
+        
     step_1:
       identifier: good news step 1--the case of the car prize
       quiz:
@@ -1481,4 +1500,9 @@ raise:
             - By keeping up with her work
             - By talking to Human Resources
           answer: By talking to Human Resources
+video:
+  url:
+    0:
+      identifier: Week 12 classroom video--hours 1 and 2
+      externalurl: https://youtu.be/6qH8PuwV1r4
         
