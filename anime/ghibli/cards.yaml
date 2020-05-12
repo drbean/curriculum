@@ -221,3 +221,70 @@ spiritedaway:
             - Yubaba
             - Zeniba
           answer: Boh
+porcorosso:
+  jigsaw:
+    0:
+      identifier: Dubbing of Porco Rosso
+      quiz:
+        - question: 00:28 What are NOT the marks of Miyazaki, according to Kimberley Williams?
+          option:
+            - a precocious young girl
+            - flying
+            - for children
+            - pigs
+          answer: for children
+        - question: Tony Bancroft says at 0::45 says the dubbing process is fascinating because--
+          option:
+            - it's technical
+            - you see the actors make the characters come alive
+            - it's both technical and you see the actors make the characters come alive
+          answer: it's both technical and you see the actors make the characters come alive
+        - question: Cary Elwes at 1:06 says you need respect for what has already been created because--
+          option:
+            - Miyazaki is a great anime maker
+            - you are re-creating a character that has already been created
+          answer: you are re-creating a character that has already been created
+        - question: Michael Keaton at 1:11 (and others later) say it was difficult because--
+          option:
+            - Miyazaki's script didn't fit the English script
+            - the script didn't fit the mouth movements
+            - the script wasn't so good
+          answer: the script didn't fit the mouth movements
+        - question: Susan Egan at 1:51 says it's a cinch capturing hearts while reading the words of the script. She means--
+          option:
+            - It's a cinch
+            - it's not a cinch
+          answer: it's not a cinch
+        - question: The writers, Cindy and Donald Hewitt at 2:02 say they have all this energy and they're having a conversation with--
+          option:
+            - anyone
+            - everyone
+            - no-one
+            - someone
+          answer: no-one
+        - question: Kimberley Williams and others later from 2:04 say it's difficult because
+          option:
+            - it takes talent to play off someone's chemistry
+            - there are other actors there to match or top or come under
+            - there's no one with them to play off their chemistry
+          answer: there's no one with them to play off their chemistry
+        - question: Michael Keaton about 3:05 says he was hesitant (he didn't want to) do it because he would play a pig
+          option:
+            - True
+            - False
+          answer: False
+        - question: What is NOT a reason Susan Egan at 3:22 says she likes Gina, the character she plays?
+          option:
+            - she has a history
+            - she's very deep
+            - she's a beautiful woman in a man's world
+            - who has them wrapped around her little finger
+            - she can tell mobsters to lay off
+            - she sings in French
+          answer: she sings in French
+        - question: Kimberley Williams at 4:30 does NOT say it was--
+          option:
+            - easy
+            - fun
+            - different
+          answer: easy
