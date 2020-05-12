@@ -10,6 +10,12 @@ character:
         - Relationships: For example, Brother/Friend/Employee/Boss/Double of/In love with/Enemy of X
         - Events: For example, Does something to someone/something, Is X'ed by someone/something, Experiences X
         - States of Mind: For example, Character's Feelings, Skills, Knowledge,
+    1:
+      identifier: Another anime
+      rubric: |+
+        Speak for 30 seconds about a different anime. Provide a link.
+
+
 infinitytrain:
   jigsaw:
     0:
@@ -394,3 +400,44 @@ fate:
         \item [Event:] sacrifice himself to protect Uruk
         \item [State of mind:] arrogant,bad
       quiz: 
+cardgame:
+  page:
+    0:
+      identifier: Character card game
+      rubric: |+
+        We have 40 cards: 4 cards each in 10 suits:
+
+        - Violet Evergarden
+        - Steven Universe--Crystal Gems (twice)
+        - Infinity Train
+        - Patema Inverted
+        - Fate
+        - Doraemon
+        - Katekyo Hitman
+        - Hoozuki Coolheadedness
+        - Yahari Ore no Seishun Love Comedy wa Machigatteiru
+
+        The character cards are all at 
+        [http://web.nuu.edu.tw/~greg/anime/contributed/character.html](http://web.nuu.edu.tw/~greg/anime/contributed/character.html)
+
+        What activity can we do with the 40 cards, like finding partner cards? We did that Week 10, when we matched cards, and we played GoFish (but not with the character cards) in Week 10.
+
+        1. Talk about the game.
+
+        1. Change the rules.
+
+        1. Play the game.
+
+        1. Describe to the class how you changed the rules
+studentquiz:
+  studentquiz:
+    0:
+      identifier: "Homework: StudentQuiz Questions about your anime"
+      rubric: |+
+        Write 2~4 questions about your anime and answer other students' questions about their anime.
+
+        For example, describe the identity, relationships, events and state of mind of a character, and students have to choose one out of the 4 characters.
+
+        The students with most points get 9 for a homework grade. The students who get the fewest points (with a score of 10 or fewer points) get 7 for a homework grade. And those who don't write or answer any questions get zero.
+
+        Finish doing it by midday before the class next week. (Ignore the date appearing on the page. It is wrong.)
