@@ -46,4 +46,20 @@ alakazam:
             - overrated
             - underrated
           answer: overrated
+blackjack:
+  jigsaw:
+    0:
+      identifier: blackjack quiz
+      quiz:
+        - question: Black Jack performs the operations at no charge
+          answer: False
+        - question: Black Jack has a doctor's license
+          answer: False
+        - question: Black Jack became a doctor because he was injured and saved by a doctor.
+          answer: True
+        - question: Tezuka Osamu was a doctor, before being a manga artist.
+          answer: True
+        - question: Black Jack cuts off Tomo-chan's arm to save him.
+          answer: True
+        
         
