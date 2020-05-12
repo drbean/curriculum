@@ -1,0 +1,21 @@
+---
+#-
+#  questioncategory : 7_presentation
+#  content:
+#  -
+#    topic : history
+#    story : alakazam
+#    type  : jigsaw
+#    form  : 0
+#    intro : Alakazam trivia quiz
+#    random: 5
+-
+  content:
+  -
+    topic : contributed
+    story : character
+    type  : forum
+    form  : 0
+    intro : Describe the characters under Identity, Relationships, Events, State of mind headings
+    random: 
+    

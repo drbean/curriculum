@@ -1,0 +1,29 @@
+---
+#-
+#  content:
+#  -
+#    topic : contributed
+#    story : cardgame
+#    type  : page
+#    form  : 0
+#    intro : An activity that is fun, but educational, learning to talk in English about anime characters
+#    random: 
+#-
+#  content:
+#  -
+#    topic : contributed
+#    story : studentquiz
+#    type  : studentquiz
+#    form  : 0
+#    intro : Test your anime knowledge. Ask and answer questions
+#    random: 
+-
+  content:
+  -
+    topic : history
+    story : blackjack
+    type  : jigsaw
+    form  : 0
+    intro : What did you learn about Black Jack?
+    random: 
+    

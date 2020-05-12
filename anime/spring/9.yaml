@@ -1,0 +1,38 @@
+---
+-
+  content:
+  -
+    topic : nintendo
+    story : gooigi
+    type  : page
+    form  : 0
+    intro : Listen to the file in the first link, fill in the blanks in the page in the second link
+    random: 
+  introformat: 4
+  contentformat: 4
+  showdescription: 1
+-
+  content:
+  -
+    topic : general
+    story : jigsaw
+    type  : page
+    form  : 0
+    intro : How to have a conversation, do a quiz with the cards
+    random: 
+  introformat: 4
+  contentformat: 4
+  showdescription: 1
+-
+  content:
+  -
+    topic : general
+    story : comp
+    type  : page
+    form  : 0
+    intro : How to discuss an anime with Dr Bean
+    random: 
+  introformat: 4
+  contentformat: 4
+  showdescription: 1
+  

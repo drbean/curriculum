@@ -1,0 +1,20 @@
+---
+#-
+#  content:
+#  -
+#    topic : ghibli
+#    story : spiritedaway
+#    type  : jigsaw
+#    form  : 0
+#    intro : Ask A, B, C YN-questions to do the quiz
+#    random: 
+-
+  content:
+  -
+    topic : nintendo
+    story : gooigi
+    type  : forum
+    form  : 0
+    intro : Dr Bean did it. Now you do it.
+    random: 
+    

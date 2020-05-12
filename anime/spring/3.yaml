@@ -1,0 +1,47 @@
+---
+studentquiz:
+  timeopen         : 1
+  timeclose        : 9999999999
+  introformat      : 4
+  grade            : 3
+  groupmode        : 0
+  # groupingid       : 128
+  # attempts         : 1
+  decimalpoints    : 0
+  overduehandling : 0
+  shuffleanswers   : 1
+  # browsersecurity  : safebrowser
+  # safeexambrowser_allowedkeys: e71abb59ffc16b3344b23e826059219f3c4fe70731e1845b77b2faa1ad93bbab
+quiz:
+  timeopen         : 1
+  timeclose        : 9999999999
+  introformat      : 4
+  grade            : 3
+  groupmode        : 0
+  # groupingid       : 128
+  attempts         : 1
+  decimalpoints    : 0
+  overduehandling : 0
+  shuffleanswers   : 1
+  # browsersecurity  : safebrowser
+  # safeexambrowser_allowedkeys: e71abb59ffc16b3344b23e826059219f3c4fe70731e1845b77b2faa1ad93bbab
+---
+#-
+#  content:
+#  -
+#    topic : ghibli
+#    story : spirited_away
+#    type  : jigsaw
+#    form  : 1
+#    intro : WH questions about the characters in the Spirited_Away_story
+#    random: 3
+-
+  content:
+  -
+    topic : ghibli
+    story : spirited_away
+    type  : studentquiz
+    form  : 0
+    intro : Write and answer student questions about Spirited Away
+    random: 
+  

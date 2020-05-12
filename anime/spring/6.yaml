@@ -1,0 +1,47 @@
+---
+#-
+#  content:
+#  -
+#    topic : nintendo
+#    story : gooigi
+#    type  : jigsaw
+#    form  : 1
+#    intro : Plot twist--a surprising development in a story, eg a bad character is revealed to be a good character
+#    random: 
+#-
+#  content:
+#  -
+#    topic : nintendo
+#    story : gooigi
+#    type  : jigsaw
+#    form  : 2
+#    intro : keywords--to be in someone's shadow, make sacrifices
+#    random: 
+#-
+#  content:
+#  -
+#    topic : nintendo
+#    story : gooigi
+#    type  : jigsaw
+#    form  : 3
+#    intro : keywords--to suffer, to look like someone
+#    random: 
+#-
+#  content:
+#  -
+#    topic : nintendo
+#    story : gooigi
+#    type  : jigsaw
+#    form  : 4
+#    intro : keywords--to be tormented by ordeals. 'Number 2 to a Number 2', be reconciled, betraying a brother
+#    random: 
+-
+  content:
+  -
+    topic : general
+    story : present
+    type  : forum
+    form  : 0
+    intro : Your choice of anime
+    random: 
+    
