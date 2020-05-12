@@ -27,7 +27,15 @@ She is in Japan and working as a
 
 * Presenting about anime
 
-## Classwork activity--Wero's activity
+# Card activities
+
+## Card games
+
+Card games are fun.
+
+If there is a language feature in the game, they are good ways to learn English too.
+
+## Wero's activity matching cards
 
 Wero, following the jigsaw activity last week, proposed a different activity.
 
@@ -36,11 +44,72 @@ character from a given anime and reads out one of the traits. If you think you
 have the card with the same character on it, you can ask for it, by saying the 
 name of the character. The aim is to pair up your cards.
 
-## Classwork activity--Go fish
+Language feature: Reading and listening to character descriptions. Requesting cards
+
+## Variation on matching cards
+
+Place matching cards face-up mixed up.
+
+First person to place their hand over the card wins the point.
+
+## Kim's game
+
+- [Memory training](https://www.wikihow.com/Play-Kims-Game)
+
+Variation:
+
+Matching cards are turned face down and players take turns putting them face up. If they are a pair, they win a point. If not they turn them face down again.
+
+
+## Go fish
 
 [On wikipedia](https://en.wikipedia.org/wiki/Go_Fish)
 
 [Play go fish online](https://cardgames.io/gofish/)
+
+The essence of the game is trying to match cards and asking other players for cards you need to match the cards you have.
+
+## Activity based on Go Fish
+
+Dr Bean suggests:
+
+Like the online game, 4 or 5 suits (ie 4-5 anime with 16-20 cards in total)
+
+4 or 5 players take 2~3 cards each, leaving 8~12 in the pool.
+
+If you have 2 from the same suit (anime), you win a point.
+
+## Go Fish language feature
+
+You ask other players for the character card by name, eg 'Do you have Doraemon?' But if you take a trick you have to make a sentence describing the relationship between Doraemon and the card you have, eg with Shizuka, 'Doraemon helps Nobita with Shizuka'
+
+Before we start the people who wrote the cards name the characters in the anime and describe the relationships.
+
+Language learning value:
+
+- Remembering anime characters
+- understanding/expressing anime story
+- relationships
+
+## Suits
+
+What are 4 suits in a deck of playing cards?
+
+How many cards in a suit?
+
+## Meaning of suit
+
+- [Suit](https://en.wikipedia.org/wiki/Suit_(disambiguation))
+
+- [Suit pictures](https://duckduckgo.com/?q=suit&ia=images&iax=images)
+
+- [Swimsuit pictures](https://duckduckgo.com/?q=swimsuit&ia=images&iax=images)
+
+That hairstyle suits/doesn't suit you.
+
+A heavy jacket is no longer suitable. It's too warm, now.
+
+# Couse structure
 
 ## Homework
 
