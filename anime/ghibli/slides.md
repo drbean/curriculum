@@ -162,3 +162,37 @@ getting in, Chihiro is shown to still be wearing the hairband No-Face spun for h
 
 - [http://web.nuu.edu.tw/~greg/anime/ghibli/quiz_spiritedaway_0.pdf](http://web.nuu.edu.tw/~greg/anime/ghibli/quiz_spiritedaway_0.pdf)
 - [http://web.nuu.edu.tw/~greg/anime/ghibli/jigsaw_spiritedaway_0.pdf](http://web.nuu.edu.tw/~greg/anime/ghibli/jigsaw_spiritedaway_0.pdf)
+
+# Porco Rosso
+
+## Summary
+
+Porco Rosso, an Italian fighter pilot ace turned into a pig, battles air pirates, led by American ace Donald Curtis, in the Mediterranean in the 1920's.
+
+They fight over a woman, Gina. Porco is helped by Fia, a young aircraft engineer.
+
+
+## Porco Rosso on the Internet
+
+- [Porco Rosso on IMDB](https://www.imdb.com/title/tt0104652/)
+- [Porco Rosso on Wikipedia](https://en.wikipedia.org/wiki/Porco_Rosso)
+- [Porco Rosso and Guns](http://www.imfdb.org/wiki/Porco_Rosso)
+
+## Dubbing of Porco Rosso
+
+- [The Making of the American dubbed Porco Rosso-ZMIDDkW_giU.mp4 ](http://web.nuu.edu.tw/~greg/anime/clip/The Making of the American dubbed Porco Rosso-ZMIDDkW_giU.mp4)
+
+- [Michael Keaton as Porco Rosso](https://www.imdb.com/name/nm0000474/)
+- [Susan Egan as Gina](https://www.imdb.com/name/nm0250743/)
+- [Cary Elwes as Donald Curtis](https://www.imdb.com/name/nm0000144/)
+- [Kimberley Williams as Fio](https://www.imdb.com/name/nm0931090/)
+
+- [a cinch](https://en.wiktionary.org/wiki/cinch)
+
+## Answering the quiz--a close listening to dubbing video clip
+
+Dr Bean plays the video clip and stops at each question
+
+Everyone looks at the question and some people make comments
+
+Everyone decided what the answer is and answers the question
