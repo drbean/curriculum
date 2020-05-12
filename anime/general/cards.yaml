@@ -88,4 +88,44 @@ jigsaw:
 
         See the rules at
         [http://web.nuu.edu.tw/~greg/cheatsheet.pdf](http://web.nuu.edu.tw/~greg/cheatsheet.pdf)
-
+gofish:
+  jigsaw:
+    0:
+      identifier: Dr Bean Go Fish variation
+      quiz:
+        - question: What does a suit correspond to?
+          option:
+            - an anime character
+            - an anime
+            - the 4 ways to characterize characters--identity, relationships, events, state of mind
+          answer: an anime
+        - question: How many suits?
+          option:
+            - 1~2
+            - 2~3
+            - 3~4
+            - 4~5
+            - 5~6
+          answer: 4~5
+        - question: How many players in each game?
+          option:
+            - 1~2
+            - 2~3
+            - 3~4
+            - 4~5
+            - 5~6
+          answer: 4~5
+        - question: How many cards in a suit (anime) needed to win a point?
+          option:
+            - 1
+            - 2
+            - 3
+            - 4
+            - 5
+          answer: 2
+        - question: What do you have to do well to win points?
+          option:
+            - Remember the names of characters in an anime
+            - Speak English well
+            - Use English only
+          answer: Remember the names of characters in an anime
