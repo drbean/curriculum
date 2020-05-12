@@ -37,9 +37,9 @@ studentquiz:
   correctanswerquantifier  : 2
   incorrectanswerquantifier: 1
   allowedqtypes            : multichoice,truefalse
-  closesubmissionfrom      : $(date --date='2020-03-24 14:00:00 +0800' +%s)
-  closeansweringfrom       : $(date --date='2020-03-24 14:00:00 +0800' +%s)
-  grade            : 3
+  closesubmissionfrom      : $(date --date='2020-05-12 12:00:00 +0800' +%s)
+  closeansweringfrom       : $(date --date='2020-05-12 12:00:00 +0800' +%s)
+  grade            : 9
   groupmode        : 0
   # groupingid       : 128
   # attempts         : 1
@@ -49,7 +49,7 @@ studentquiz:
 quiz:
   timeopen         : 1
   timeclose        : $(date --date='2020-06-30 14:00:00 +0800' +%s)
-  questioncategory : 9_comp,jigsaw,dic
+  questioncategory : 10_cards
   parentcategory   : 6098
   categorycontext  : 56
   infoformat       : 4
