@@ -86,7 +86,7 @@ Chinese notes presumably Ok. They're not going to outlaw a language.
 
 # Grammar of problems and solutions
 
-## Problem, solution, evaluation
+## Problem, solution, evaluation--books not delivered
 
 [Problem:](https://framenet2.icsi.berkeley.edu/fnReports/data/frameIndex.xml?frame=Predicament )
 
@@ -121,6 +121,40 @@ Assessing 'Frame'
 - What was the Value of the Phenomenon?
 - What was the Feature of the Phenomenon on which the Phenomenon was assessed?
 
+## Problem, solution, evaluation--bank card not returned
+
+[Problem:](https://framenet2.icsi.berkeley.edu/fnReports/data/frameIndex.xml?frame=Predicament )
+
+Caller: This is Marsha Syms. I got my receipt and my money, but then my bank card just didn’t come out.
+
+Caller: I'm leaving for a vacation tonight, and I'm very busy at the office today.
+
+Predicament 'Frame'
+
+* Who was the Experiencer?
+* What was the undesirable Situation?
+* What was the Explanation if it was expressed?
+
+[Solution:](https://framenet2.icsi.berkeley.edu/fnReports/data/frameIndex.xml?frame=Resolve_problem)
+
+You, the responder: ???
+
+Resolve_problem 'Frame'
+
+- Who was the Agent?
+- What was the Problem?
+- Were the Means, Degree, Time and Place also expressed.
+
+[Evaluation:](https://framenet2.icsi.berkeley.edu/fnReports/data/frameIndex.xml?frame=Assessing)
+
+You, the responder: ??
+
+Assessing 'Frame'
+
+- Who was the Assessor?
+- What was the Phenomenon?
+- What was the Value of the Phenomenon?
+- What was the Feature of the Phenomenon on which the Phenomenon was assessed?
 
 ## Your response
 
@@ -409,7 +443,7 @@ bank card. This is Marsha Syms at _____(40). Thanks.
 
 ## pronunciation
 
-Hello, I'm calling for Same Lee from the karate school. I got your message about classses for your son. We give classes for children every Saturday morning from 9:00 to 12:00. Mostof the children in thisclassare nine to ten years of age, so your son is the right age. However, the class is very large. There are 16 students in it. Westill have room for morestudents if your son wants to take it. If he doesn't want to be with a large group, I have another suggestion for you. Some of our instructors give private lessons. This might be best for your son if he is very shy. If you are interested in this, please call me back and I will give you the names of some of our instructors who give private lessons.
+Hello, I'm calling for Same Lee from the karate school. I got your message about classses for your son. We give classes for children every Saturday morning from 9:00 to 12:00. Mostof the children in thisclassare nine to ten years of age, so your son is the right age. However, the class is very large. There are 16 students in it. We still have room for morestudents if your son wants to take it. If he doesn't want to be with a large group, I have another suggestion for you. Some of our instructors give private lessons. This might be best for your son if he is very shy. If you are interested in this, please call me back and I will give you the names of some of our instructors who give private lessons.
 
 # Restaurant customer loss on renovation 
 
@@ -596,3 +630,11 @@ Everyone together records their solution proposal for the problem they had.
 * Recasts
 
 Overt indications of understanding
+
+# Role play
+
+## From Recorded message to Live interaction
+
+First in one role
+
+Second in the other role with the person on the other side
