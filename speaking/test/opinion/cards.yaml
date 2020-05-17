@@ -100,6 +100,22 @@ interview:
             - is scared
             - is scary
           answer: is scary
+note:
+  forum:
+    0:
+      identifier: Question 11. Express an opinion
+      rubric: |+
+        Gwen said not to try writing out sentences on the scratch paper. What do you think?
+
+        Is it better to have a few sentences written out partly or completely? Or is it better to write down only words?
+
+        What is a good way to use the scratch paper?
+
+        Listen to her
+        [note-taking video ](https://www.youtube.com/watch?v=xk5irxh0K1U)
+        again.
+        
+    
           
 #disjunct:
 #1. choose one Personally Generally Predictably  , people get married quite late in my country. 
