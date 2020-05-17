@@ -542,13 +542,15 @@ response:
         to the _Journal of Business News_. In your email, ask
         THREE questions.
 note:
-  essay:
+  forum:
     0:
       identifier: Question 11. Express an opinion
       rubric: |+
         Gwen said not to try writing out sentences on the scratch paper. What do you think?
 
         Is it better to have a few sentences written out partly or completely? Or is it better to write down only words?
+
+        What is a good way to use the scratch paper?
 
         Listen to her
         [note-taking video ](https://www.youtube.com/watch?v=xk5irxh0K1U)
@@ -603,11 +605,19 @@ note:
             - Sentences
             - Solutions
           answer: Solutions
-        - question: Gwen suggests getting the same pen you're given in the test.
-          answer: True
-        
     1:
-      identifier: note incident
+      identifier: Pen you are given to take notes at 7:30
+      quiz:
+        - question: Gwen suggests getting and practicing with the same pen you're given in the test.
+          answer: True
+        - question: The pen is similar to a pen President Trump uses called a 'Sharpie'.
+          answer: True
+        - question: The pen is 'sharp.'
+          answer: False
+        - question: The pen is 'dull' or 'blunt'.
+          answer: True
+    2:
+      identifier: note incident at 8:40
       quiz:
         - question: Did Gwen take the test?
           option:
