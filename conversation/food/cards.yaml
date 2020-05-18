@@ -283,7 +283,72 @@ tyson:
         - question: Ella asks Ms Jones for help.
           answer: False
 spano:
+  forum:
+    0:
+      identifier: Something you realized or did not realize
+      rubric: |+
+        ## Homework: Something you realized or did not realize
+
+        Record a 30-second sound file about realizing or not realizing something.
+
+        Joe Spano Sr. didn't realize he knew how to cook.
+
+        Joe Spano Jr. didn't realize his father would make him wash dishes, when he first started working in the restaurant.  After he started running the restaurant himself, he realized his father was trying to teach him the value of hard work.
+
+        Listen to their [Storycorps conversation](https://www.npr.org/templates/story/story.php?storyId=93845948)
+
+        Dr Bean didn't think being a teacher was a good thing. Only after he started teaching himself, did he realize teaching is very interesting, because it is challenging.
+    
+        - [The grammar of realize](http://verbs.colorado.edu/verb-index/vn/discover-84.php#discover-84)
+        - [The semantics of realize](https://framenet2.icsi.berkeley.edu/fnReports/data/frame/Coming_to_believe.xml)
+
+        [Coming_to_believe frame](https://framenet2.icsi.berkeley.edu/fnReports/data/frameIndex.xml?frame=Coming_to_believe)
+
   jigsaw:
+    coming_to_believe:
+      identifier: "realizing (coming_to_believe) frame"
+      quiz:
+        - question: Who realized his dad was trying to teach him a work ethic by making him wash dishes?
+          option:
+            - the cognizer
+            - the content
+            - the evidence
+            - the topic
+          answer: the cognizer
+        - question: What was the realization that his dad was trying to teach him a work ethic?
+          option:
+            - the cognizer
+            - the content
+            - the evidence
+            - the topic
+          answer: the content
+        - question: Doing it by himself helped the son realize his dad was trying to teach him a work ethic. What role did it play?
+          option:
+            - the cognizer
+            - the content
+            - the evidence
+            - the topic
+          answer: the evidence
+        - question: He realized something about his dad and about a work ethic. What was his dad and what was the work ethic?
+          option:
+            - the cognizer
+            - the content
+            - the evidence
+            - the topic
+          answer: the topic
+    older:
+      identifier: "the older .., the .."
+      quiz:
+        - question: "What does 'the older you get, the smarter your parents get,' mean?"
+          option:
+            - The older people get, the smarter they become, if they are parents.
+            - Younger people undervalue their parents' wisdom, and realize they were wrong later
+          answer: Younger people undervalue their parents' wisdom, and realize they were wrong later
+        - question: "What does 'the older I get, the stronger I was' mean?"
+          option:
+            - I am stronger than I was
+            - I am not as strong as I used to be
+          answer: I am not as strong as I used to be
     0:
       identifier: spano 0
       A: You established an Italian restaurant with your son, Joe, Jr, even though you had never cooked before. When you started, you wanted your son to realize the value of hard work, so you gave him unimportant jobs, like dishwashing, to teach him that. 
@@ -652,3 +717,48 @@ davis:
             - the state
             - the stimulus
           answer: the stimulus
+depression:
+  jigsaw:
+    0:
+      identifier: Making the Poor Mans Meal
+      quiz:
+        - question: The order of preparing potatoes
+          option:
+            - cubing, then peeling, and frying
+            - peeling, cubing, then frying
+            - peeling, frying then cubing
+          answer: peeling, then cubing
+        - question: She had to quit high school, because--
+          option:
+            - couldn't afford clothes
+            - couldn't afford food
+            - couldn't afford tuition
+          answer: couldn't afford clothes
+        - question: Neighborhood children and her relatives visit to--
+          option:
+            - cook for her
+            - eat her cooking
+            - learn how to cook
+          answer: eat her cooking
+        - question: During the Depression, hotdogs were--
+          option:
+            - cheap
+            - expensive
+          answer: cheap
+        - question: Not included is--
+          option:
+            - oil and water
+            - onions
+            - salt
+            - sauce
+          answer: salt
+        - question: A woman came and took some vegetable from her garden. Who said, I didn't think you were so touchy.
+          option:
+            - Clara
+            - the woman
+          answer: the woman
+        - question: A woman came and took some vegetable from her garden. Who said, I am touchy.
+          option:
+            - Clara
+            - the woman
+          answer: Clara
