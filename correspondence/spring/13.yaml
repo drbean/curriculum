@@ -1,0 +1,179 @@
+---
+# magazine
+
+-
+  content:
+  -
+    topic : news_good
+    story : magazine
+    type  : jigsaw
+    form  : step_1
+    intro : The structure on p 73 and the p 76 magazine message 
+    random: 6
+-
+  content:
+  -
+    topic : news_good
+    story : magazine
+    type  : jigsaw
+    form  : step_2
+    intro : The structure on p 73 and the p 76 magazine message 
+    random: 6
+-
+  content:
+  -
+    topic : news_good
+    story : magazine
+    type  : jigsaw
+    form  : step_3
+    intro : The structure on p 73 and the p 76 magazine message 
+    random: 6
+-
+  content:
+  -
+    topic : news_good
+    story : magazine
+    type  : jigsaw
+    form  : step_4
+    intro : The structure on p 73 and the p 76 magazine message 
+    random: 6
+-
+  content:
+  -
+    topic : news_good
+    story : magazine
+    type  : jigsaw
+    form  : 0
+    intro : comprehension questions about magazine letter
+    random: 8
+
+# card
+
+-
+  content:
+  -
+    topic : news_good
+    story : card
+    type  : match
+    form  : cloze
+    intro : credit card approval message--Fill in the blanks
+    random: 
+-
+  content:
+  -
+    topic : news_good
+    story : card
+    type  : match
+    form  : structure
+    intro : credit card message and 4 steps
+    random: 
+  
+-
+  content:
+  -
+    topic : news_good
+    story : card
+    type  : jigsaw
+    form  : step_1
+    intro : The structure on p 73 and the p 77 credit card message 
+    random: 6
+-
+  content:
+  -
+    topic : news_good
+    story : card
+    type  : jigsaw
+    form  : step_2
+    intro : The structure on p 73 and the p 77 credit card message 
+    random: 6
+-
+  content:
+  -
+    topic : news_good
+    story : card
+    type  : jigsaw
+    form  : step_3
+    intro : The structure on p 73 and the p 77 credit card message 
+    random: 6
+-
+  content:
+  -
+    topic : news_good
+    story : card
+    type  : jigsaw
+    form  : step_4
+    intro : The structure on p 73 and the p 77 credit card message 
+    random: 6
+
+# drag
+
+-
+  content:
+  -
+    topic : news_good
+    story : news
+    type  : drag
+    form  : 0
+    intro : Examples of step 1, the good news, scrambled
+    random: 1
+-
+  content:
+  -
+    topic : news_good
+    story : details
+    type  : drag
+    form  : 0
+    intro : Examples of step 2, the details, scrambled
+    random: 2
+
+# transfer
+
+-
+  content:
+  -
+    topic : news_good
+    story : transfer
+    type  : jigsaw
+    form  : 1
+    intro : What step do the starred sentence correspond to?
+    random: 3
+
+# goodwill
+
+-
+  content:
+  -
+    topic : news_good
+    story : goodwill
+    type  : jigsaw
+    form  : 1
+    intro : Goodwill: relationships, Good news: money for the reader
+    random: 8
+-
+  content:
+  -
+    topic : news_good
+    story : transfer
+    type  : assign
+    form  : 0
+    intro : Replying with good news to the request on p78
+    random: 
+-
+  content:
+  -
+    topic : news_good
+    story : video
+    type  : url
+    form  : 1
+    intro : Hour 1, week 13
+    random: 
+-
+  content:
+  -
+    topic : news_good
+    story : video
+    type  : url
+    form  : 2
+    intro : Hour 2, week 13
+    random: 
+  
