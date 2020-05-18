@@ -1,8 +1,8 @@
 ---
 assign:
   introformat      : 4
-  duedate          : $(date --date='2020-04-25 14:00:00 +0800' +%s)
-  cutoffdate       : $(date --date='2020-04-25 14:00:00 +0800' +%s) 
+  duedate          : $(date --date='2020-05-23 14:00:00 +0800' +%s)
+  cutoffdate       : $(date --date='2020-05-23 14:00:00 +0800' +%s) 
   grade            : 9
   gradecat         : 584
   groupmode        : 1
@@ -50,7 +50,7 @@ studentquiz:
 quiz:
   timeopen         : 1
   timeclose        : $(date --date='2020-06-30 14:00:00 +0800' +%s)
-  questioncategory : 12_news_good
+  questioncategory : 13_news_good
   parentcategory   : 6044
   categorycontext  : 754
   infoformat       : 4
