@@ -319,26 +319,44 @@ You can say, "Hope you have a good day," but you can't say, "Wish you have a goo
 9) What’s the most expensive meal you’ve had at a restaurant?
 10) Would you like to eat at a different restaurant every night for the rest of your life?
 
-## Joe Spano, Sr and Joe Spano, Jr's restaurants
+## Joe Spano, Sr and Joe Spano, Jr in Abilene
+
+- [Storycorps conversation](https://www.npr.org/templates/story/story.php?storyId=93845948)
 
 Abilene restaurant closes down:
 
-[http://www.reporternews.com/news/2007/nov/06/spanos-restaurant-closes-down](http://www.reporternews.com/news/2007/nov/06/spanos-restaurant-closes-down)
+[DEADLINK http://www.reporternews.com/news/2007/nov/06/spanos-restaurant-closes-down](http://www.reporternews.com/news/2007/nov/06/spanos-restaurant-closes-down)
+
+Joe Spano cheating on taxes:
+
+- [https://ktxs.com/archive/abilene-city-councilman-addresses-concerns-over-back-taxes](https://ktxs.com/archive/abilene-city-councilman-addresses-concerns-over-back-taxes)
+
+Joe Spano, politician:
+
+- [https://www.youtube.com/watch?v=FYz79kx-EFg](https://www.youtube.com/watch?v=FYz79kx-EFg)
+
+## A different Joe Spano with an Italian restaurant?
 
 Joe Spano opens restaurant in New Jersey
 
 [http://www.tripadvisor.co.uk/Restaurant_Review-g46745-d1113401-Reviews-Spano_s_Ristorante_Italiano-Point_Pleasant_Beach_New_Jersey.html#REVIEWS](http://www.tripadvisor.co.uk/Restaurant_Review-g46745-d1113401-Reviews-Spano_s_Ristorante_Italiano-Point_Pleasant_Beach_New_Jersey.html#REVIEWS)
 
-## Buffalo Gap Rd, Abilene
+## 4534 Buffalo Gap Rd, Abilene, TX 79606
 
-[https://maps.google.com/maps?q=Buffalo+Gap+Road,+Abilene,+TX,+United+States&hl=zh-TW&sll=37.0625,-95.677068&sspn=47.483365,82.353516&oq=abilene,+buff&t=h&hnear=Buffalo+Gap+Rd,+Abilene,+Texas&z=12](https://maps.google.com/maps?q=Buffalo+Gap+Road,+Abilene,+TX,+United+States&hl=zh-TW&sll=37.0625,-95.677068&sspn=47.483365,82.353516&oq=abilene,+buff&t=h&hnear=Buffalo+Gap+Rd,+Abilene,+Texas&z=12)
+- [https://www.google.com/maps/@32.3953778,-99.7621416,3a,75y,270h,90t/data=!3m7!1e1!3m5!1saGQeCKFVGyDmA9lihiuwfw!2e0!6s%2F%2Fgeo3.ggpht.com%2Fcbk%3Fpanoid%3DaGQeCKFVGyDmA9lihiuwfw%26output%3Dthumbnail%26cb_client%3Dmaps_sv.tactile.gps%26thumb%3D2%26w%3D203%26h%3D100%26yaw%3D63.441414%26pitch%3D0%26thumbfov%3D100!7i13312!8i6656](https://www.google.com/maps/@32.3953778,-99.7621416,3a,75y,270h,90t/data=!3m7!1e1!3m5!1saGQeCKFVGyDmA9lihiuwfw!2e0!6s%2F%2Fgeo3.ggpht.com%2Fcbk%3Fpanoid%3DaGQeCKFVGyDmA9lihiuwfw%26output%3Dthumbnail%26cb_client%3Dmaps_sv.tactile.gps%26thumb%3D2%26w%3D203%26h%3D100%26yaw%3D63.441414%26pitch%3D0%26thumbfov%3D100!7i13312!8i6656)
+- [https://maps.google.com/maps?q=Buffalo+Gap+Road,+Abilene,+TX,+United+States&hl=zh-TW&sll=37.0625,-95.677068&sspn=47.483365,82.353516&oq=abilene,+buff&t=h&hnear=Buffalo+Gap+Rd,+Abilene,+Texas&z=12](https://maps.google.com/maps?q=Buffalo+Gap+Road,+Abilene,+TX,+United+States&hl=zh-TW&sll=37.0625,-95.677068&sspn=47.483365,82.353516&oq=abilene,+buff&t=h&hnear=Buffalo+Gap+Rd,+Abilene,+Texas&z=12)
 
+## Spano's Italian Restaurant - Italian - 301 S 11th St, Abilene, TX
+
+[https://www.yelp.com/map/spanos-italian-restaurant-abilene](https://www.yelp.com/map/spanos-italian-restaurant-abilene)
 
 ## 719 Arnold Ave, Point Pleasant Beach, NJ 08742
 
 [https://maps.google.com/maps?q=719+Arnold+Ave,+Point+Pleasant+Beach,+NJ+08742&hl=zh-TW&sll=32.360686,-99.782784&sspn=0.199231,0.321693&t=h&hnear=719+Arnold+Ave,+Point+Pleasant,+New+Jersey+08742&z=16](https://maps.google.com/maps?q=719+Arnold+Ave,+Point+Pleasant+Beach,+NJ+08742&hl=zh-TW&sll=32.360686,-99.782784&sspn=0.199231,0.321693&t=h&hnear=719+Arnold+Ave,+Point+Pleasant,+New+Jersey+08742&z=16)
 
-## "Closing down a restaurant" cloze {.allowframebreaks}
+- [https://www.facebook.com/SpanosRistoranteItaliano/](https://www.facebook.com/SpanosRistoranteItaliano/)
+
+## "Closing down a restaurant" cloze all {.allowframebreaks}
 
 
 coming
@@ -374,6 +392,48 @@ It was _____(16) for Spano. "We had some _____(17) in the restaurant this past w
 
 Spano encouraged Abilenians to go to local restaurants. "There are _____(22) of locally _____(23) restaurants in this town," he said. "They're struggling. Find them and _____(24) there."
 
+## "Closing down a restaurant" cloze 1 {.allowframebreaks}
+
+
+coming
+customers
+enough
+know
+large
+last
+quietly
+shut
+struggling
+
+Spano's Italian Restaurant _____(1) closed its doors for the _____(2) time Saturday night. Spano _____(3) down the eatery because he said he could no longer compete with the _____(4) corporate restaurants. "We've been _____(5) for about a year," said Spano. The 29-year-old Spano said he was able to give _____(6) a personal touch but that just wasn't _____(7). When he asked his customers why they hadn't been _____(8), they'd say: "We just didn't _____(9) about it."
+
+## "Closing down a restaurant" cloze 2 {.allowframebreaks}
+
+drive
+first
+know
+main
+point
+see
+
+"The big boys are out on the _____(10) streets," Spano said. "They're the _____(11) ones you see, and I don't have that luxury at this _____(12). You can _____(13) by my place 20 times, and you won't _____(14) me. You have to _____(15) exactly where you're going." 
+
+## "Closing down a restaurant" cloze 3 {.allowframebreaks}
+
+dozens
+go
+open
+options
+owned
+right
+sad
+tears
+wish
+
+It was _____(16) for Spano. "We had some _____(17) in the restaurant this past week," Spano said. "I _____(18) I could stay _____(19) for them." Spano said he will consider his options. Those _____(20) may include a new restaurant. "It would have to be the _____(21) building in the right place," Spano said.
+
+Spano encouraged Abilenians to go to local restaurants. "There are _____(22) of locally _____(23) restaurants in this town," he said. "They're struggling. Find them and _____(24) there."
+
 ## Point Pleasant Beach, New Jersey
 
 [http://www.pointpleasantbeach.com/](http://www.pointpleasantbeach.com/)
@@ -389,6 +449,18 @@ Spano encouraged Abilenians to go to local restaurants. "There are _____(22) of 
 - [The grammar of realize](http://verbs.colorado.edu/verb-index/vn/discover-84.php#discover-84)
 - [The semantics of realize](https://framenet2.icsi.berkeley.edu/fnReports/data/frame/Coming_to_believe.xml)
 
+[Coming_to_believe frame](https://framenet2.icsi.berkeley.edu/fnReports/data/frameIndex.xml?frame=Coming_to_believe)
+
+## The .., the 
+
+The older you get, the more health problems you have.
+
+
+Can you think of something to say in the form:
+
+	The (more ADJECTIVE|ADJECTIVE-er|NOUN) (I|you|it) VERB, the (more ADJECTIVE|ADJECTIVE-er|NOUN) (I|you|it) VERB.
+
+# Guessing game
 
 ## Guess the fruit
 
@@ -403,3 +475,94 @@ Spano encouraged Abilenians to go to local restaurants. "There are _____(22) of 
 * Eating style, with a spoon,or biting it
 * Texture
 
+ What color is it?
+
+Is it expensive?
+
+ How do you eat it?
+
+# Cooking
+
+## Depression cooking
+
+- [Doing more with less](http://www.morewithlessmom.com/index.php/2013/10/08/great-depression-era-recipes-real-food/)
+- [Great Depression cooking with Clara](http://www.youtube.com/results?search_query=great+depression+cooking+with+clara)
+
+## What is a really simple meal which tastes good?
+
+The simplest meal which appeals is the winner.
+
+- If it doesn't appeal, it can't be the winner.
+- If it isn't simple and cheap, it can't be the winner.
+
+Discuss the meals, choose the winner.
+
+## Poor man's meal competition form
+
+Each pair, 5-6 words each describing 
+
+- ingredients
+- cooking method
+
+## Comparatives
+
+[Grammar](http://en.wikipedia.org/wiki/Comparison_(grammar))
+
+- X-er than
+- more X than ..
+
+Is the one with the fish and rice
+more appealing than the one with eggs and tomatoes?
+
+- I prefer to eat eggs with salt than without.
+- Eggs taste better with salt than without.
+
+## Cooking vocabulary
+
+- fry
+
+- What's the thing that you use to cook fish called?
+- What's the thing that you put in soup to make it taste good [called]?
+
+- What is 烤 in English?
+-
+  * I don't know what that is in English.
+  * Can you describe the process?
+  * What do you use to cook that way?
+
+## Dr Bean's simple meal
+
+- Ingredients: Canned fish, tomatoes, rice, fish, oil, salt
+- Cooking method: No cooking. (Rice was cooked, of course). Just put them together and mix it up.
+
+## Food questions STUDENT A’s QUESTIONS http://www.esldiscussions.com/f/food.html
+
+1) What comes to mind when you hear the word ‘food’?  
+2) How often do you think about food?  
+3) Can you eat anything?  
+4) Can you go without food for a whole day?  
+5) Do you have to watch what you eat?  
+6) What is your favourite breakfast, lunch and dinner?  
+7) Do you think your country’s food is the best?  
+8) Do you think “you are what you eat”?  
+9) What do you think about canned, frozen and processed food?  
+10) What kinds of international cuisine do you like?
+
+
+## Food questions STUDENT B’s QUESTIONS http://www.esldiscussions.com/f/food.html
+
+1) Are you fussy or particular about the food you eat?  
+2) Have your favourite kinds of food changed over the years?  
+3) Do you like fast food and slow food?  
+4) What do you think about food additives?  
+5) Do you care where the food you eat comes from?  
+6) What national dishes from your country would you recommend to the world?  
+7) Do you worry about the rising cost of food?  
+8) Do you think the world’s food will ever run out?  
+9) What do you think of genetically-modified (GM) food?  
+10) Is your food bill big?  
+
+## Internet Food questions
+
+- [http://www.eslpartyland.com/teachers/conversation/cqfood.htm](http://www.eslpartyland.com/teachers/conversation/cqfood.htm)
+- [http://iteslj.org/questions/food.html](http://iteslj.org/questions/food.html)
