@@ -722,10 +722,9 @@ magazine:
     structure:
       identifier: magazine structure
       pair:
-        
         -
-          - good news
           - 1
+          - good news
         -
           - 2
           - details
@@ -836,6 +835,14 @@ magazine:
           answer: False
         - question: Gordon has or is thinking of buying a Toyota Altis.
           answer: True
+        - question: Smith is guessing Gordon has or is thinking of buying a Toyota Altis.
+          answer: False
+        - question: Smith knows Gordon has or is thinking of buying a Toyota Altis, because Gordon told him in his inquiry.
+          answer: True
+        - question: Smith knows Gordon has or is thinking of buying a Toyota Altis, because everyone has that car.
+          answer: False
+        - question: Smith is guessing Gordon has or is thinking of buying a Toyota Altis.
+          answer: False
         - question: Gordon's Toyota Altis may be an older model which needs upkeep.
           answer: True
         - question: Gordon may be looking to do something with his car.
@@ -852,7 +859,7 @@ magazine:
           answer: True
         - question: The discount on two-year membership is $6.
           answer: True
-        - question: Smith says if he doesn't pay quickly he might miss an issue of the magazine.
+        - question: Smith says if Gordon doesn't pay quickly he might miss an issue of the magazine.
           answer: True
         
         
@@ -861,7 +868,7 @@ magazine:
 card:
   match:
     cloze:
-      identifier: card match
+      identifier: card approval message cloze
       pair:
         -
           - 1
@@ -882,7 +889,7 @@ card:
           - 6
           - are happy
     structure:
-      identifier: card structure
+      identifier: card approval message structure
       pair:
         -
           - 1
@@ -1063,9 +1070,10 @@ appeal:
       identifier: lottery news
       sentence:
         - Congratulations on winning the Sports Lottery. You are the winner of one million dollars.
+news:
   drag:
     0:
-      identifier: sales apppeal
+      identifier: good news announcement
       sentences:
         -
           sentence: We are pleased to announce an absolutely free, brand new special offer which you can take advantage of.
@@ -1087,7 +1095,7 @@ details:
         - All you have to do to collect your prize is come to the Sports Lottery office in Taipei with your ID card and your bankbook.
   drag:
     0:
-      identifier: good news details
+      identifier: telling reader actions required to benefit
       sentences:
         -
           sentence: All you have to do to collect your prize is come to the Sports Lottery office in Taipei with your ID card and your bankbook.
@@ -1099,18 +1107,51 @@ details:
           sentence: To get your card, please fill out this form and send it back to us at the above address.
           clozed: To|get|your|please|fill|out|this|form|and|send|it|back|to|us|at|the|above|End
         -
-          sentence: If you wish to have us install this part, please call us at our office tomorrow.
-          clozed: If|you|wish|to|have|us|install|this|please|call|us|at|our|office|End
-        -
           sentence: To receive your card, please fill out the attached form and send it back in the enclosed envelope.
           clozed: To|receive|your|please|fill|out|the|attached|form|and|send|it|back|in|the|enclosed|End
+        -
+          sentence: If you wish to receive this money in your bank account, please send the details of your account to the above address.
+          clozed: If|you|wish|to|receive|this|money|in|your|bank|please|send|the|details|of|your|account|to|the|above|End
+    1:
+      identifier: asking reader for approval to go ahead
+      quiz:
+        
         -
           sentence: If this is acceptable to you, please call us and confirm that fact.
           clozed: If|this|is|acceptable|to|please|call|us|and|confirm|that|End
         -
-          sentence: If you wish to receive this money in your bank account, please send the details of your account to the above address.
-          clozed: If|you|wish|to|receive|this|money|in|your|bank|please|send|the|details|of|your|account|to|the|above|End
+          sentence: If you wish to have us install this part, please call us at our office tomorrow.
+          clozed: If|you|wish|to|have|us|install|this|please|call|us|at|our|office|End
 transfer:
+  assign:
+    0:
+      identifier: Homework--good news for Keats
+      rubric: |+
+        ## Homework: Cheng's reply to Keat's transfer request
+
+        Keats (p78) is not happy, but the reply to him is good news.
+
+        Give the good news in the one-sentence first paragraph.
+
+        In the second paragraph, copy the sentences from the book, changing 'he, his' to 'you, your'.
+
+        In the one-sentence third paragraph, wish him well at the office in Taichung.
+
+        You don't need to mention his mother. It is not the company's concern.
+
+#        ### Points to note: Be careful of the following mistakes, which will cost you.
+#
+#        - Too similar to another's work.
+#        - You say 'Congratulations', or 'I'm proud of you', only when the person you are congratulating already has the good news, and it was given to them by someone else, not you.
+#        - 'We would like to approve your request' means we cannot approve it.
+#        - 'We will allow your request' sounds unfriendly, as if Keats should not be asking for the transfer, but the company will let him go anyway.
+#        - 'I would tell you' ??? You mean, 'I am pleased to tell you'
+#        - Not 'You will be pleased to hear ..'. 'I am pleased to tell you ..'
+#        - Not 'I hear your request has been accepted' or 'The boss says your request has been accepted'. No. Manager Cheng is  representing the company and is making an official company statement. 'The company has accepted your request.'
+#        - Not 'I want to tell you good news', or 'I have good news'. Just say 'Your request has been approved' straight away.
+
+        
+    
   jigsaw:
     0:
       identifier: Keats transfer to Taichung
@@ -1505,4 +1546,10 @@ video:
     0:
       identifier: Week 12 classroom video--hours 1 and 2
       externalurl: https://youtu.be/6qH8PuwV1r4
+    1:
+      identifier: Week 13 classroom video--hour 1
+      externalurl: https://youtu.be/qm0yyZuDrm0
+    2:
+      identifier: Week 13 classroom video--hour 2
+      externalurl: https://youtu.be/ZZpY5NHZJFE
         
