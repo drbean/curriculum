@@ -95,5 +95,19 @@ Despite a large marketing budget, heavy editing and heavy promotion, the film wa
 The bombing 0:26 
 Black Jack appears 2:24
 
+# Walt Disney
 
-##
+## Mickey Mouse gets his start
+
+[Mickey Mouse](https://en.wikipedia.org/wiki/Mickey_Mouse)
+
+- [Steamboat Willie](https://www.youtube.com/watch?v=BBgghnQF6E4)
+
+[Oswald the Rabbit](https://en.wikipedia.org/wiki/Oswald_the_Lucky_Rabbit)
+
+- [Trolley Troubles](https://www.youtube.com/watch?v=c9LmDpMO2k0)
+
+[Mickey and Oswald](https://www.youtube.com/watch?v=Vb4fvc-jK8A)
+
+- [Charles Mintz](https://www.youtube.com/watch?v=YWpL4fSqXNY)
+
