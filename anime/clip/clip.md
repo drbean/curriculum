@@ -1,6 +1,14 @@
 # Anime clips from youtube and around the Internet
 
-## General
+# History
+
+## Tezuka Osamu
+
+## BlackJack -- The 2 doctors of darkness
+
+- [Black Jack - The Two Doctors of Darkness _ English Sub-YZg7zg4M8b8.mp4](http://web.nuu.edu.tw/~greg/anime/clip/Black Jack - The Two Doctors of Darkness _ English Sub-YZg7zg4M8b8.mp4)
+
+# Nintendo
 
 ## [Nintendo](https://www.youtube.com/user/Nintendo)
 
@@ -9,6 +17,7 @@
 - [Mario & Luigi - Super Anime Brothers-jvupK5lHOqU.mp4](http://web.nuu.edu.tw/~greg/anime/clip/Mario & Luigi - Super Anime Brothers-jvupK5lHOqU.mp4)
 - [Mario & Luigi's Plumbing Plantastrophe!-_V76VCF7hvc.mp4](http://web.nuu.edu.tw/~greg/anime/clip/Mario\ &\ Luigi\'s\ Plumbing\ Plantastrophe!-_V76VCF7hvc.mp4)
 
+# Ghibli
 
 ## [Studio Ghibli](http://www.ghibli.jp/)
 
