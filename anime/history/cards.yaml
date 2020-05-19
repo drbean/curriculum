@@ -51,15 +51,60 @@ blackjack:
     0:
       identifier: blackjack quiz
       quiz:
-        - question: Black Jack performs the operations at no charge
+        - question: Tezuka Osamu was a doctor, before being a manga artist, and later an anime producer.
+          answer: True
+    1:
+      identifier: blackjack close listening
+      quiz:
+        - question: At 5:40, Black Jack plans to cut off Tomo-chan's arm and leg to save him.
+          answer: True
+        - question: At 6:29, Black Jack will perform the operations at no charge
           answer: False
-        - question: Black Jack has a doctor's license
+        - question: At 9:37, Black Jack has a doctor's license
           answer: False
-        - question: Black Jack became a doctor because he was injured and saved by a doctor.
+        - question: At 9:47, Black Jack became a doctor because he was injured and saved by a doctor.
           answer: True
-        - question: Tezuka Osamu was a doctor, before being a manga artist.
+        - question: At 10:37, the characters are--
+          option:
+            - enemies of Daedalus
+            - friends of Daedalus
+          answer: enemies of Daedalus
+        - question: At 14:28, the brother and sister's mother was--
+          option:
+            - injured in the Daedalus explosion 
+            - injured at the beach
+            - injured intentionally by Daedalus's enemies
+          answer: injured in the Daedalus explosion 
+        - question: At 16:39, the woman wants the doctor
+          option:
+            - to fix her back
+            - to find a way she can die without her children knowing
+          answer: to find a way she can die without her children knowing
+        - question: At 17:30, the other doctor will help her die and Black Jack will operate
+          option:
+            - a week later and tomorrow night, respectively
+            - tomorrow night and a week later, respectively
+          answer: tomorrow night and a week later, respectively
+        - question: At 17:30, if the other doctor helps her die first, Black Jack can still operate.
+          answer: False
+             
+mickeymouse:
+  jigsaw:
+    0:
+      identifier: Mickey Mouse and Oswald the Rabbit
+      quiz:
+        - question: Oswald the Rabbit preceded Mickey Mouse.
           answer: True
-        - question: Black Jack cuts off Tomo-chan's arm to save him.
+        - question: Disney saw the Winkler studio do Oswald the Rabbit and tried to copy it.
+          answer: False
+        - question: Most of the Winkler staff left to join Disney.
+          answer: False
+        - question: Disney signed a contract with the Winkler studio to do Mickey Mouse.
+          answer: False
+        - question: Disney made Mickey Mouse as a substitute for Oswald the Rabbit.
           answer: True
+        - question: The Winkler studio lost Oswald the Rabbit to Universal.
+          answer: True
+        
         
         
