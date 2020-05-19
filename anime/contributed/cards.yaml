@@ -15,7 +15,23 @@ character:
       rubric: |+
         Speak for 30 seconds about a different anime. Provide a link.
 
+        # Anime presentation
 
+        ## Script
+
+        This is a XXX [company name] anime.
+
+        It's name is [anime name].
+
+        It was released in YYYY.
+
+        It's about 2(3?) ZZZ who AAA BBB CCC.
+
+        I think YYY is very DDD.
+
+        The story is ... (tell the story, if you are feeling confident).
+
+        The production is ... (the look and feel of the film, or details about its making, if you are feeling confident).
 infinitytrain:
   jigsaw:
     0:
