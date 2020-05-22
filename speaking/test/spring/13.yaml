@@ -1,0 +1,20 @@
+---
+#-
+#  content:
+#  -
+#    topic : general
+#    story : handbook
+#    type  : page
+#    form  : 0
+#    intro : Print the handbook for next week. It is homework.
+#    random: 
+-
+  content:
+  -
+    topic : general
+    story : part
+    type  : jigsaw
+    form  : 0
+    intro : Which question is which type (in which part|section)?
+    random: 
+  
