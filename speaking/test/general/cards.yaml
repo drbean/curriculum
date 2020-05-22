@@ -5,7 +5,26 @@ handbook:
     0:
       identifier: 2019 Examinee handbook
       externalurl: http://web.nuu.edu.tw/~greg/toeic/sample/Examinee+Handbook+-+TOEIC+Speaking+and+Writing-LR.pdf
-  
+  page:
+    0:
+      identifier: Homework--print the 2020 Examinee handbook, bring it next week
+      rubric: |+
+        The 2020 handbook is downloadable from
+
+        [https://www.etsglobal.org/fr/en/test-type-family/toeic-speaking-and-writing-tests](https://www.etsglobal.org/fr/en/test-type-family/toeic-speaking-and-writing-tests)
+
+        at
+
+        [https://etswebsiteprod.cdn.prismic.io/etswebsiteprod/87298936-2244-4315-9785-d1b38f091d9a_TOEIC+Speaking+and+Writing+tests+Examinee+Handbook.pdf](https://etswebsiteprod.cdn.prismic.io/etswebsiteprod/87298936-2244-4315-9785-d1b38f091d9a_TOEIC+Speaking+and+Writing+tests+Examinee+Handbook.pdf)
+    
+        Or, from
+
+        [http://web.nuu.edu.tw/~greg/Contents.html](http://web.nuu.edu.tw/~greg/Contents.html)
+
+        at
+
+        [http://web.nuu.edu.tw/~greg/toeic/sample/TOEIC%20Speaking%20and%20Writing%20tests%20Examinee%20Handbook.pdf](http://web.nuu.edu.tw/~greg/toeic/sample/TOEIC%20Speaking%20and%20Writing%20tests%20Examinee%20Handbook.pdf)
+
 instruction:
   description:
     0:
@@ -33,57 +52,57 @@ part:
       quiz:
         - question: Questions 1-2
           option:
-            - Reading a text aloud
             - Describing a picture
+            - Expressing an opinion
+            - Proposing a solution
+            - Reading a text aloud
             - Responding to questions
             - Responding to questions using information provided
-            - Proposing a solution
-            - Expressing an opinion
           answer: Reading a text aloud
         - question: Questions 3
           option:
-            - Reading a text aloud
             - Describing a picture
+            - Expressing an opinion
+            - Proposing a solution
+            - Reading a text aloud
             - Responding to questions
             - Responding to questions using information provided
-            - Proposing a solution
-            - Expressing an opinion
           answer: Describing a picture
         - question: Questions 4-6
           option:
-            - Reading a text aloud
             - Describing a picture
+            - Expressing an opinion
+            - Proposing a solution
+            - Reading a text aloud
             - Responding to questions
             - Responding to questions using information provided
-            - Proposing a solution
-            - Expressing an opinion
           answer: Responding to questions
         - question: Questions 7-9
           option:
-            - Reading a text aloud
             - Describing a picture
+            - Expressing an opinion
+            - Proposing a solution
+            - Reading a text aloud
             - Responding to questions
             - Responding to questions using information provided
-            - Proposing a solution
-            - Expressing an opinion
           answer: Responding to questions using information provided
         - question: Questions 10
           option:
-            - Reading a text aloud
             - Describing a picture
+            - Expressing an opinion
+            - Proposing a solution
+            - Reading a text aloud
             - Responding to questions
             - Responding to questions using information provided
-            - Proposing a solution
-            - Expressing an opinion
           answer: Proposing a solution
         - question: Questions 11
           option:
-            - Reading a text aloud
             - Describing a picture
+            - Expressing an opinion
+            - Proposing a solution
+            - Reading a text aloud
             - Responding to questions
             - Responding to questions using information provided
-            - Proposing a solution
-            - Expressing an opinion
           answer: Expressing an opinion
 example:
   essay:
