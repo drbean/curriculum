@@ -250,3 +250,14 @@ getting older = growing up ??
 
 dumbbell -> working out with weights
 
+# Notes
+
+## Pen
+
+[Sharpie](http://www.google.com.tw/search?q=%22Sharpie%22&num=100&gws_rd=ssl&tbm=isch&tbo=u&source=univ&sa=X)
+
+[President Trump's signature](https://duckduckgo.com/?q=president+trump+signature&ia=images&iax=images)
+
+[SharpieGate](https://www.dailywire.com/news/sharpie-gate-anatomy-most-ludicrous-presidential-frank-camp)
+
+
