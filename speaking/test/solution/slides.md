@@ -435,6 +435,33 @@ _____(33) back? _____(34) really busy _____(35) and _____(36) need
 you to call me _____(37). I _____(38) go on _____(39) without my
 bank card. This is Marsha Syms at _____(40). Thanks.
 
+## Feedback 
+
+Sorry for *your* inconvenience 
+
+. . .
+
+Sorry for the inconvenience
+
+Let me *make clear* your problem first
+
+. . .
+
+Let me check I understand your problem first
+
+*I heard* your card didn't come out
+
+. . .
+
+You said your card didn't come out
+
+*Please give* me your phone number
+
+. . .
+
+- Can I ask you to give me your phone number or,
+- Would you mind giving me your phone number
+
 # Karate school inquiry
 
 ## youtube links
