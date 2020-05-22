@@ -260,5 +260,52 @@ applicant
 
 ## word use
 
+# using scratch paper
 
+## word use
+
+## don't mind
+
+If you can write very quickly, *I don't mind* to write full sentences.
+
+Use *don't mind" when 
+
+- you accept (not negatively, but perhaps not very positively) someone's suggestion you do something.
+- you describe your attitude to something affecting you.
+
+. . .
+
+it might be a good idea
+
+you could
+
+## many/much/a lot of
+
+many time
+
+. . .
+
+much/a lot of
+
+## describing the type of pen you get in the test
+
+- dull (Gwen)
+- blunt (Dr Bean) pen
+
+. . .
+
+pen which has/with a thick tip (LinYa)
+
+[tiptoe](https://en.wikipedia.org/wiki/Tiptoe)
+
+## pronunciation
+
+Some words I didn't understand. Ask me for help if you want to check pronunciation of words not here.
+
+# Job/Work questions
+
+## ESL site questions
+
+- [http://eslpartytown.com/teachers/conversation/cqwork.html](http://eslpartytown.com/teachers/conversation/cqwork.html)
+- [http://iteslj.org/questions/jobs.html](http://iteslj.org/questions/jobs.html)
 
