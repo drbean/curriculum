@@ -1,0 +1,134 @@
+---
+#-
+#  attempts: 1
+#  content:
+#  -
+#    topic : bad_news
+#    story : structure
+#    type  : match
+#    form  : 0
+#    intro : paragraph structure of a bad news message
+#    random: 
+#  
+#-
+#  attempts: 3
+#  content:
+#  -
+#    topic : bad_news
+#    story : news
+#    type  : jigsaw
+#    form  : 0
+#    intro : difference in the structure of good news and bad news messages
+#    random: 8
+#-
+#  content:
+#  -
+#    topic : bad_news
+#    story : sort
+#    type  : description
+#    form  : 0
+#    intro : p 97 scrambled letters
+#    random: 
+#-
+#  content:
+#  -
+#    topic : bad_news
+#    story : sort
+#    type  : jigsaw
+#    form  : 0
+#    intro : Which sentence belongs to which message?
+#    random: 10
+#-
+#  content:
+#  -
+#    topic : bad_news
+#    story : shoe
+#    type  : jigsaw
+#    form  : 1
+#    intro : Which sentence is similar to the scrambled sentence?
+#    random: 
+#-
+#  attempts: 3
+#  content:
+#  -
+#    topic : bad_news
+#    story : shoe
+#    type  : drag
+#    form  : 0
+#    intro : Look at the corresponding sentence on p 97, I think
+#    random: 4
+#-
+#  content:
+#  -
+#    topic : bad_news
+#    story : shoe
+#    type  : match
+#    form  : 0
+#    intro : The shoe sentences extracted from the complete scramble, p 97.
+#    random: 
+#  
+#-
+#  content:
+#  -
+#    topic : bad_news
+#    story : shoe
+#    type  : match
+#    form  : 1
+#    intro : How does the shoe message fit into the bad news message structure?
+#    random: 
+#-
+#  content:
+#  -
+#    topic : bad_news
+#    story : joke
+#    type  : jigsaw
+#    form  : 0
+#    intro : Read the message on p 96, understand it
+#    random: 
+#-
+#  content:
+#  -
+#    topic : bad_news
+#    story : joke
+#    type  : jigsaw
+#    form  : 1
+#    intro : the alternative/solution giving employees hope
+#    random: 
+#-
+#  content:
+#  -
+#    topic : bad_news
+#    story : joke
+#    type  : jigsaw
+#    form  : 2
+#    intro : What is the warning the next sentence is bad news?
+#    random: 
+#-
+#  content:
+#  -
+#    topic : bad_news
+#    story : joke
+#    type  : jigsaw
+#    form  : 4
+#    intro : The tone of the Joke Factory message
+#    random: 
+-
+  content:
+  -
+    topic : bad_news
+    story : joke
+    type  : drag
+    form  : 0
+    intro : Find the corresponding sentence in the book, p 96
+    random: 2
+-
+  content:
+  -
+    topic : bad_news
+    story : joke
+    type  : drag
+    form  : 1
+    intro : Find the corresponding sentence in the book, p 96
+    random: 2
+  
+      
