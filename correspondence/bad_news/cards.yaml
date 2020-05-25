@@ -27,30 +27,40 @@ news:
       quiz:
         - question: The order of the stating of the news is similar in good news and bad news messages.
           answer: False
+        - question: The order of the stating of the news is quite different in good news and bad news messages.
+          answer: True
         - question: The good news is held back but the bad news is told straight away.
+          answer: False
+        - question: The good news is told straight away but the bad news is held back.
+          answer: True
+        - question: The situation in bad news messages does not correspond in any way to the details in good news.
           answer: False
         - question: The situation in bad news messages and the details in good news messages support the news.
           answer: True
+        - question: The situation in bad news messages corresponds to the details in good news messages, and the order is the same.
+          answer: False
         - question: The situation in bad news messages corresponds to the details in good news messages, but the order is reversed.
+          answer: True
+        - question: The situation comes before the news in bad news messages, but the details come after the news in good news messages.
           answer: True
         - question: The situation comes after the news in bad news messages, but the details come before the news in good news messages.
           answer: False
         - question: A polite forward-looking close is common in both good-news and bad-news messages.
           answer: True
+        - question: In good news, the details are described, then the good news is stated. In bad news, it's the opposite. The bad news is stated then the situation is described.
+          answer: False
         - question: In bad news, the situation is described, then the bad news is stated. In good news, it's the opposite. The good news is stated then the details are described.
           answer: True
         - question: "The role of the sales appeal in the good news message and the role of the alternative/solution in the bad news message are somewhat similar: they introduce a new topic."
+          answer: True
+        - question: The sales appeal is less connected to the topic of the good news than the elternative/solution is connected to the bad news.
           answer: True
         - question: The sales appeal is more connected to the topic of the good news than the elternative/solution is connected to the bad news.
           answer: False
         - question: People receiving a bad news message are probably less interested in the alternative/solution than people receiving a good news message are in the sales appeal.
           answer: False
-        
-        
-
-        
-        
-        
+        - question: People receiving a bad news message are probably more interested in the alternative/solution than people receiving a good news message are interested in the sales appeal.
+          answer: True
 sort:
   description:
     0:
@@ -281,10 +291,220 @@ shoe:
           answer: True
         - question: The positive close is the invitation to visit the store.
           answer: True
+    1:
+      identifier: scrambled shoe sentence
+      quiz:
+        - question: 47.  at I'm is largest our say sell shoe size sorry store the to we
+          option:
+            - A
+            - B
+            - C
+            - D
+            - E
+            - F
+            - G
+            - H
+            - I
+            - J
+            - K
+            - L
+            - M
+            - N
+            - O
+            - P
+            - Q
+            - R
+            - S
+            - T
+          answer: B
+        - question: as as customers help is It much our pleasure possible.  to
+          option:
+            - A
+            - B
+            - C
+            - D
+            - E
+            - F
+            - G
+            - H
+            - I
+            - J
+            - K
+            - L
+            - M
+            - N
+            - O
+            - P
+            - Q
+            - R
+            - S
+            - T
+          answer: G
+        - question: and color for is need only style tell The thing to us want.  we what you you
+          option:
+            - A
+            - B
+            - C
+            - D
+            - E
+            - F
+            - G
+            - H
+            - I
+            - J
+            - K
+            - L
+            - M
+            - N
+            - O
+            - P
+            - Q
+            - R
+            - S
+            - T
+          answer: H
+        - question: be could delivered expect in shoes the to two weeks.  You
+          option:
+            - A
+            - B
+            - C
+            - D
+            - E
+            - F
+            - G
+            - H
+            - I
+            - J
+            - K
+            - L
+            - M
+            - N
+            - O
+            - P
+            - Q
+            - R
+            - S
+            - T
+          answer: H
+        - question: be could delivered expect in shoes the to two weeks.  You
+          option:
+            - A
+            - B
+            - C
+            - D
+            - E
+            - F
+            - G
+            - H
+            - I
+            - J
+            - K
+            - L
+            - M
+            - N
+            - O
+            - P
+            - Q
+            - R
+            - S
+            - T
+          answer: H
+        - question: are large of require Sales size small.  that the very you
+          option:
+            - A
+            - B
+            - C
+            - D
+            - E
+            - F
+            - G
+            - H
+            - I
+            - J
+            - K
+            - L
+            - M
+            - N
+            - O
+            - P
+            - Q
+            - R
+            - S
+            - T
+          answer: M
+        - question: 49 a and asked distributor have said shoe shoes.  size they they We
+          option:
+            - A
+            - B
+            - C
+            - D
+            - E
+            - F
+            - G
+            - H
+            - I
+            - J
+            - K
+            - L
+            - M
+            - N
+            - O
+            - P
+            - Q
+            - R
+            - S
+            - T
+          answer: O
+        - question: a and can choose help like.  our Please store style visit we which you you
+          option:
+            - A
+            - B
+            - C
+            - D
+            - E
+            - F
+            - G
+            - H
+            - I
+            - J
+            - K
+            - L
+            - M
+            - N
+            - O
+            - P
+            - Q
+            - R
+            - S
+            - T
+          answer: Q
+        - question: and colors.  has many reasonably-priced Shoes sizes, Stack styles
+          option:
+            - A
+            - B
+            - C
+            - D
+            - E
+            - F
+            - G
+            - H
+            - I
+            - J
+            - K
+            - L
+            - M
+            - N
+            - O
+            - P
+            - Q
+            - R
+            - S
+            - T
+          answer: T
         
   match:
     0:
-      identifier: shoe match
+      identifier: shoe sentence order
       pair:
         -
           - 1.
@@ -346,7 +566,7 @@ shoe:
         -
           - 4. positive close
           - K. Thank you once again ..
-          
+
   drag:
     0:
       identifier: shoe scramble 0
@@ -591,7 +811,7 @@ joke:
         - question: The words, 'of course' are a buffer before good news.
           answer: False
     3:
-      identifier: joke factory approach
+      identifier: joke factory approach to tone
       quiz:
         - question: Which of the 4 approaches does the message use to improve tone?
           option:
@@ -599,6 +819,15 @@ joke:
             - 2. Give clear reasons and explanations
             - 3. Use conditional sentences and suggest hypothetical situations
             - 4. Choose vocabulary with positive connotations
+          answer: 2. Give clear reasons and explanations
+    4:
+      identifier: joke factory approach to tone
+      quiz:
+        - question: Which of the 4 approaches does the message use to improve tone?
+          option:
+            - 1. Avoid saying anything negative
+            - 2. Give clear reasons and explanations
+            - 3. Use no conditional sentences that suggest hypothetical good situations
           answer: 2. Give clear reasons and explanations
   match:
     0:
