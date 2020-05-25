@@ -50,7 +50,7 @@ studentquiz:
 quiz:
   timeopen         : 1
   timeclose        : $(date --date='2020-06-30 14:00:00 +0800' +%s)
-  questioncategory : 13_news_good
+  questioncategory : 14_bad_news
   parentcategory   : 6044
   categorycontext  : 754
   infoformat       : 4
