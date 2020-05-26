@@ -2,7 +2,7 @@
 character:
   forum:
     0:
-      identifier: 5 characters and their traits
+      identifier: "Homework: 4 characters and their traits"
       rubric: |+
         Write down the name of the character and then below them character traits under these headings:
 
@@ -10,6 +10,11 @@ character:
         - Relationships: For example, Brother/Friend/Employee/Boss/Double of/In love with/Enemy of X
         - Events: For example, Does something to someone/something, Is X'ed by someone/something, Experiences X
         - States of Mind: For example, Character's Feelings, Skills, Knowledge,
+
+        Use information from the wikipedia and fandom.com wikis linked from 
+        [http://web.nuu.edu.tw/~greg/anime/contributed/slides.pdf](http://web.nuu.edu.tw/~greg/anime/contributed/slides.pdf)
+
+        Dr Bean will use what you write to make character cards we can use like we did last time. The information you include will also be used on different cards in the Final Exam.
     1:
       identifier: Another anime
       rubric: |+
@@ -457,3 +462,205 @@ studentquiz:
         The students with most points get 9 for a homework grade. The students who get the fewest points (with a score of 10 or fewer points) get 7 for a homework grade. And those who don't write or answer any questions get zero.
 
         Finish doing it by midday before the class next week. (Ignore the date appearing on the page. It is wrong.)
+adventuretime:
+  jigsaw:
+    0:
+      identifier: Adventure Time
+      quiz:
+        - question: Finn
+          option:
+            - a human boy who loves nothing more than going on adventures and saving the day. He wears a hat that covers his extremely long flowing yellow hair
+            - a humanoid ruler over the inhabitants of the Candy Kingdom
+            - frequently steals princesses throughout Ooo to forcefully marry them, Princess Bubblegum being his usual target
+            - has magic powers allowing him to stretch or shrink any part of his body to any shape and size, ranging from becoming gigantic to becoming incredibly small
+          answer: a human boy who loves nothing more than going on adventures and saving the day. He wears a hat that covers his extremely long flowing yellow hair
+        - question: Jake
+          option:
+            - a human boy who loves nothing more than going on adventures and saving the day. He wears a hat that covers his extremely long flowing yellow hair
+            - a humanoid ruler over the inhabitants of the Candy Kingdom
+            - frequently steals princesses throughout Ooo to forcefully marry them, Princess Bubblegum being his usual target
+            - has magic powers allowing him to stretch or shrink any part of his body to any shape and size, ranging from becoming gigantic to becoming incredibly small
+          answer: has magic powers allowing him to stretch or shrink any part of his body to any shape and size, ranging from becoming gigantic to becoming incredibly small
+        - question: Princess Bubblegum
+          option:
+            - a human boy who loves nothing more than going on adventures and saving the day. He wears a hat that covers his extremely long flowing yellow hair
+            - a humanoid ruler over the inhabitants of the Candy Kingdom
+            - frequently steals princesses throughout Ooo to forcefully marry them, Princess Bubblegum being his usual target
+            - has magic powers allowing him to stretch or shrink any part of his body to any shape and size, ranging from becoming gigantic to becoming incredibly small
+          answer: a humanoid ruler over the inhabitants of the Candy Kingdom
+        - question: Ice King
+          option:
+            - a human boy who loves nothing more than going on adventures and saving the day. He wears a hat that covers his extremely long flowing yellow hair
+            - a humanoid ruler over the inhabitants of the Candy Kingdom
+            - frequently steals princesses throughout Ooo to forcefully marry them, Princess Bubblegum being his usual target
+            - has magic powers allowing him to stretch or shrink any part of his body to any shape and size, ranging from becoming gigantic to becoming incredibly small
+          answer: frequently steals princesses throughout Ooo to forcefully marry them, Princess Bubblegum being his usual target
+rick:
+  jigsaw:
+    0:
+      identifier: Rick and Morty characters
+      quiz:
+        - question: Rick
+          option:
+            - horse surgeon
+            - mad scientist
+            - normal boy
+          answer: mad scientist
+        - question: Morty
+          option:
+             - horse surgeon
+             - mad scientist
+             - normal boy
+          answer: normal boy
+futurediary:
+  jigsaw:
+    0:
+      identifier: Future Diary characters
+      quiz:
+        - question: Yukiteru Amano
+          option:
+            - a coward at first, but becomes stronger
+            - powerful and beautiful, but mentally disordered
+            - the god of time and space
+          answer: a coward at first, but becomes stronger
+        - question: Yuno Gasai
+          option:
+            - a coward at first, but becomes stronger
+            - powerful and beautiful, but mentally disordered
+            - the god of time and space
+          answer: powerful and beautiful, but mentally disordered
+toiletboundhanakokun:
+  jigsaw:
+    0:
+      identifier: Toilet-bound Hanako-kun characters
+      quiz:
+        - question: Yashiro Nene
+          option:
+            - a classmate of Minamoto Kou who died  
+            - a junior high school student from a family of exorcists
+            - the leader of the Seven Mysteries
+            - wanted to make boyfriend, but was cursed by a mermaid by accident
+          answer: wanted to make boyfriend, but was cursed by a mermaid by accident
+        - question: Hanako-kun
+          option:
+            - a classmate of Minamoto Kou who died  
+            - a junior high school student from a family of exorcists
+            - the leader of the Seven Mysteries
+            - wanted to make boyfriend, but was cursed by a mermaid by accident
+          answer: the leader of the Seven Mysteries
+        - question: Minamoto Kou
+          option:
+            - a classmate of Minamoto Kou who died  
+            - a junior high school student from a family of exorcists
+            - the leader of the Seven Mysteries
+            - wanted to make boyfriend, but was cursed by a mermaid by accident
+          answer: a junior high school student from a family of exorcists
+        - question: Mitsuba Sousuke
+          option:
+            - a classmate of Minamoto Kou who died  
+            - a junior high school student from a family of exorcists
+            - the leader of the Seven Mysteries
+            - wanted to make boyfriend, but was cursed by a mermaid by accident
+          answer: a classmate of Minamoto Kou who died  
+spongebobsquarepants:
+  jigsaw:
+    0:
+      identifier: SpongeBob SquarePants
+      quiz:
+        - question: SpongeBob SquarePants
+          option:
+            - always mean to SpongeBob and Patrick
+            - childish but optimistic, he always thinks in a positive way
+            - SpongeBob's best friend as well as one of his two neighbors
+          answer: childish but optimistic, he always thinks in a positive way
+        - question: Squidward Tentacles
+          option:
+            - always mean to SpongeBob and Patrick
+            - childish but optimistic, he always thinks in a positive way
+            - SpongeBob's best friend as well as one of his two neighbors
+          answer: always mean to SpongeBob and Patrick
+        - question: Patrick Star
+          option:
+            - always mean to SpongeBob and Patrick
+            - childish but optimistic, he always thinks in a positive way
+            - SpongeBob's best friend as well as one of his two neighbors
+          answer: SpongeBob's best friend as well as one of his two neighbors
+wanderoveryonder:
+  jigsaw:
+    0:
+      identifier: Wander Over Yonder
+      quiz:
+        - question: Wander
+          option:
+            - a horse, a Zbornak
+            - loves to help people, have fun and live free
+            - the lord of an evil empire who tries to kill Wander all the time
+          answer: loves to help people, have fun and live free, and he 
+        - question: Lord Hater
+          option:
+            - a horse, a Zbornak
+            - loves to help people, have fun and live free
+            - the lord of an evil empire who tries to kill Wander all the time
+          answer: the lord of an evil empire who tries to kill Wander all the time
+mickeymouse:
+  jigsaw:
+    0:
+      identifier: Mickey Mouse
+      quiz:
+        - question: Mickey Mouse
+          option:
+            - a cheerful and mischievous “little guy” who must rely on his quick-wit and athleticism to overcome adversity. 
+            - a tall, anthropomorphic dog. Along with not being extremely intelligent, his main flaws are his clumsiness and incompetence, hence his name.
+            - known for her sweet disposition, cartoonishly large head bows, and polka-dotted dresses.
+            - normally depicted wearing a sailor shirt, cap, and a bow tie—but no trousers at all
+            - not anthropomorphic beyond showing a broad range of facial expressions; he is actually represented as a normal dog, lacking speech and the ability to walk upright.
+          answer: a cheerful and mischievous “little guy” who must rely on his quick-wit and athleticism to overcome adversity. 
+        - question: Minnie Mouse
+          option:
+            - a cheerful and mischievous “little guy” who must rely on his quick-wit and athleticism to overcome adversity. 
+            - a tall, anthropomorphic dog. Along with not being extremely intelligent, his main flaws are his clumsiness and incompetence, hence his name.
+            - known for her sweet disposition, cartoonishly large head bows, and polka-dotted dresses.
+            - normally depicted wearing a sailor shirt, cap, and a bow tie—but no trousers at all
+            - not anthropomorphic beyond showing a broad range of facial expressions; he is actually represented as a normal dog, lacking speech and the ability to walk upright.
+          answer: known for her sweet disposition, cartoonishly large head bows, and polka-dotted dresses.
+        - question: Pluto
+          option:
+            - a cheerful and mischievous “little guy” who must rely on his quick-wit and athleticism to overcome adversity. 
+            - a tall, anthropomorphic dog. Along with not being extremely intelligent, his main flaws are his clumsiness and incompetence, hence his name.
+            - known for her sweet disposition, cartoonishly large head bows, and polka-dotted dresses.
+            - normally depicted wearing a sailor shirt, cap, and a bow tie—but no trousers at all
+            - not anthropomorphic beyond showing a broad range of facial expressions; he is actually represented as a normal dog, lacking speech and the ability to walk upright.
+          answer: not anthropomorphic beyond showing a broad range of facial expressions; he is actually represented as a normal dog, lacking speech and the ability to walk upright.
+        - question: Donald Duck
+          option:
+            - a cheerful and mischievous “little guy” who must rely on his quick-wit and athleticism to overcome adversity. 
+            - a tall, anthropomorphic dog. Along with not being extremely intelligent, his main flaws are his clumsiness and incompetence, hence his name.
+            - known for her sweet disposition, cartoonishly large head bows, and polka-dotted dresses.
+            - normally depicted wearing a sailor shirt, cap, and a bow tie—but no trousers at all
+            - not anthropomorphic beyond showing a broad range of facial expressions; he is actually represented as a normal dog, lacking speech and the ability to walk upright.
+          answer: normally depicted wearing a sailor shirt, cap, and a bow tie—but no trousers at all
+        - question: Goofy
+          option:
+            - a cheerful and mischievous “little guy” who must rely on his quick-wit and athleticism to overcome adversity. 
+            - a tall, anthropomorphic dog. Along with not being extremely intelligent, his main flaws are his clumsiness and incompetence, hence his name.
+            - known for her sweet disposition, cartoonishly large head bows, and polka-dotted dresses.
+            - normally depicted wearing a sailor shirt, cap, and a bow tie—but no trousers at all
+            - not anthropomorphic beyond showing a broad range of facial expressions; he is actually represented as a normal dog, lacking speech and the ability to walk upright.
+          answer: a tall, anthropomorphic dog. Along with not being extremely intelligent, his main flaws are his clumsiness and incompetence, hence his name.
+gumball:
+  jigsaw:
+    0:
+      identifier: The Amazing World of Gumball
+      quiz:
+        - question: Gumball Watterson
+          option:
+            - adopted as a pet, sprouted legs and became a full member of the Watterson family
+            - although impatient with her brother, she often tags along with him on his misadventures as a voice of reason
+            - a normal boy living in a creepy world
+          answer: a normal boy living in a creepy world
+        - question: Darwin Watterson
+          option:
+            - adopted as a pet, sprouted legs and became a full member of the Watterson family
+            - although impatient with her brother, she often tags along with him on his misadventures as a voice of reason
+            - a normal boy living in a creepy world
+          answer: adopted as a pet, sprouted legs and became a full member of the Watterson family
