@@ -1,0 +1,47 @@
+---
+genre: anime
+adventuretime:
+  jigsaw:
+    0:
+      identifier: Adventure time questions
+      quiz:
+        - question: The country of origin of Adventure Time
+          option:
+            - Japan
+            - the US
+          answer: the US
+        - question: The short preceding the series became a viral hit after being produced for--
+          option:
+            - Cartoon Network
+            - Netflix
+            - Nicktoons
+            - Youtube
+          answer: Nicktoons
+        - question: The site which commissioned Adventure Time
+          option:
+            - Cartoon Network
+            - Netflix
+            - Nicktoons
+            - Youtube
+          answer: Cartoon Network
+        - question: The series ended in 
+          option:
+            - 2007
+            - 2010
+            - 2016
+            - 2018
+            - 2019
+            - 2020
+          answer: 2018
+        - question: The series was most popular in which of its seasons?
+          option:
+            - 1st
+            - 2nd
+            - 3rd
+            - 4th
+            - 5th
+            - 6th
+            - 7th
+            - 8th
+            - 9th
+          answer: 5th
