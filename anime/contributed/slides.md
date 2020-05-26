@@ -148,6 +148,74 @@ The story is about a endless train having many magical creatures and environment
 
 [https://typemoon.fandom.com/wiki/Fate_series](https://typemoon.fandom.com/wiki/Fate_series)
 
+# Adventure Time
+
+## Adventure Time links
+
+- [https://en.wikipedia.org/wiki/Adventure_Time](https://en.wikipedia.org/wiki/Adventure_Time)
+- [https://adventuretime.fandom.com/wiki/Adventure_Time_with_Finn_and_Jake_Wiki](https://adventuretime.fandom.com/wiki/Adventure_Time_with_Finn_and_Jake_Wiki)
+
+# Rick and Morty
+
+## Rick and Morty links
+
+- [https://en.wikipedia.org/wiki/Rick_and_Morty](https://en.wikipedia.org/wiki/Rick_and_Morty)
+- [https://en.wikipedia.org/wiki/List_of_Rick_and_Morty_characters](https://en.wikipedia.org/wiki/List_of_Rick_and_Morty_characters)
+- [https://rickandmorty.fandom.com/wiki/Rickipedia](https://rickandmorty.fandom.com/wiki/Rickipedia)
+
+# Future Diary
+
+## Future Diary links
+
+- [https://futurediary.fandom.com/wiki/Main_Page](https://futurediary.fandom.com/wiki/Main_Page)
+- [https://en.wikipedia.org/wiki/Future_Diary](https://en.wikipedia.org/wiki/Future_Diary)
+
+# Toilet-bound Hanako-kun
+
+# Toilet-bound Hanako-kun links
+
+- [https://en.wikipedia.org/wiki/Toilet-Bound_Hanako-kun](https://en.wikipedia.org/wiki/Toilet-Bound_Hanako-kun)
+- [https://hanakokun.fandom.com/wiki/Toilet-bound_Hanako-kun](https://hanakokun.fandom.com/wiki/Toilet-bound_Hanako-kun)
+
+# SpongeBob SquarePants
+
+# SpongeBob SquarePants links
+
+- [https://en.wikipedia.org/wiki/SpongeBob_SquarePants](https://en.wikipedia.org/wiki/SpongeBob_SquarePants)
+
+# Wander over Yonder
+
+# Wander over Yonder links
+
+- [https://wanderoveryonder.fandom.com/](https://wanderoveryonder.fandom.com/)
+- [https://en.wikipedia.org/wiki/Wander_Over_Yonder](https://en.wikipedia.org/wiki/Wander_Over_Yonder)
+
+### How to pronounce wander, wonder and yonder
+
+- [https://dictionary.cambridge.org/pronunciation/english/wander](https://dictionary.cambridge.org/pronunciation/english/wander)
+- [https://dictionary.cambridge.org/pronunciation/english/wonder](https://dictionary.cambridge.org/pronunciation/english/wonder)
+- [https://www.youtube.com/watch?v=BZyPFCigsAk](https://www.youtube.com/watch?v=BZyPFCigsAk)
+- [https://dictionary.cambridge.org/pronunciation/english/yonder](https://dictionary.cambridge.org/pronunciation/english/yonder)
+
+# Mickey Mouse
+
+# Mickey Mouse links
+
+- [https://en.wikipedia.org/wiki/Mickey_Mouse](https://en.wikipedia.org/wiki/Mickey_Mouse)
+- [https://disney.fandom.com/wiki/Mickey_Mouse](https://disney.fandom.com/wiki/Mickey_Mouse)
+
+# The Amazing World of Gumball
+
+## The Amazing World of Gumball links
+
+- [https://en.wikipedia.org/wiki/The_Amazing_World_of_Gumball](https://en.wikipedia.org/wiki/The_Amazing_World_of_Gumball)
+- [https://theamazingworldofgumball.fandom.com/](https://theamazingworldofgumball.fandom.com/)
+
+### How to pronounce laugh and character
+
+- [https://dictionary.cambridge.org/pronunciation/english/laugh](https://dictionary.cambridge.org/pronunciation/english/laugh)
+- [https://dictionary.cambridge.org/pronunciation/english/character](https://dictionary.cambridge.org/pronunciation/english/character)
+
 # Talking about characters
 
 ## Character cards
