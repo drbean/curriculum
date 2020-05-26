@@ -16,14 +16,16 @@ assign:
   assignsubmission_onlinetext_enabled : 1
 forum:
   timeopen         : 1
-  timeclose        : $(date --date='2020-04-07 12:00:00 +0800' +%s)
-  duedate          : $(date --date='2020-04-07 12:00:00 +0800' +%s)
-  cutoffdate       : $(date --date='2020-04-07 12:00:00 +0800' +%s) 
+  timeclose        : $(date --date='2020-06-02 12:00:00 +0800' +%s)
+  duedate          : $(date --date='2020-06-02 12:00:00 +0800' +%s)
+  cutoffdate       : $(date --date='2020-06-02 12:00:00 +0800' +%s) 
   introformat      : 4
   type             : eachuser
   grade            : 9
   gradecat         : 604
   groupmode        : 0
+  assessed         : 2
+  scale            : 9
   # groupingid       : 128
   # attempts         : 1
   decimalpoints    : 0
@@ -49,7 +51,7 @@ studentquiz:
 quiz:
   timeopen         : 1
   timeclose        : $(date --date='2020-06-30 14:00:00 +0800' +%s)
-  questioncategory : 13_mickeymouse,blackjack
+  questioncategory : 14_contributed
   parentcategory   : 6098
   categorycontext  : 56
   infoformat       : 4
