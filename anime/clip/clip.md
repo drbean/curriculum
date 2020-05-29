@@ -40,3 +40,9 @@
 
 - [The Making of the American dubbed Porco Rosso-ZMIDDkW_giU.mp4 ](http://web.nuu.edu.tw/~greg/anime/clip/The Making of the American dubbed Porco Rosso-ZMIDDkW_giU.mp4)
 
+# Western anime (cartoons)
+
+## PAW Patrol
+
+- [PAW Patrol _ International Learn To Swim Day _ Rescue Episode! _ PAW Patrol Official & Friends-KUFPRi0FQl8.mp4](http://web.nuu.edu.tw/~greg/anime/clip/PAW Patrol _ International Learn To Swim Day _ Rescue Episode! _ PAW Patrol Official & Friends-KUFPRi0FQl8.mp4)
+
