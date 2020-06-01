@@ -469,7 +469,7 @@ Can you think of something to say in the form:
 * Size
 * Taste
 * Price
-* Structure: seeds, peel (=skin)
+* Structure: seeds, peel (=skin), core
 * Origin: tropical or temperate (European)
 * Harvest time: winter fruit
 * Use
