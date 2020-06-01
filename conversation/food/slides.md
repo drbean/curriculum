@@ -1,6 +1,7 @@
 % Conversation--Food!
 % Dr Bean (高來圭)
-% [Mon 13 Apr 2020 02:08:47 PM CST at github: ](https://github.com/drbean/curriculum/tree/master/conversation)
+% [% [Mon 13 Apr 2020 02:08:47 PM CST at github: ](](https://github.com/drbean/curriculum/tree/master/conversation))
+
 
 
 # Roman Coley Davis
@@ -484,7 +485,66 @@ Is it expensive?
 
 # Depression Cooking
 
-## Depression cooking
+# Manny Diaz
+
+## Diaz pictures
+
+- [Pronunciation of the Diaz family name](http://www.google.com/search?q=pronunciation%20diaz&num=100)
+- [37 West 114th Street](https://maps.google.com/maps?q=37+West+114th+Street,+New+York,+NY,+United+States&hl=zh-TW&ll=40.799809,-73.949425&spn=0.011159,0.020106&sll=37.0625,-95.677068&sspn=47.483365,82.353516&oq=37+West+114&t=h&hnear=37+W+114th+St,+New+York,+10026&z=16&layer=c&cbll=40.800963,-73.951177&panoid=G4xBPuCycyf2Yk3jZqK9mg&cbp=12,270,,0,0)
+
+- [tenement house](http://images.google.com/images?q=%22tenement%20house%22&num=100)
+- [culvert](http://images.google.com/images?q=%22culvert%22&num=100)
+- [The Great Depression](http://images.google.com/images?q=%22Great%20Depression%22&num=100
+
+## Depression food strategies
+
+assistance 
+bathtub 
+building 
+Depression
+dump 
+everybody 
+food 
+grapes
+month 
+neighbor 
+pick 
+Prohibition
+sidewalk 
+sit 
+trucks 
+up 
+used 
+your 
+
+During the _____(1), there was no surplus _____(2) program, but the army used to send in _____(3) now and then and _____(4) food on the street or on the _____(5) under the culvert. And people would come, _____(6) up apples or corn or_____(7).
+
+Everybody _____(8) to run to pick _____(9) the grapes. This was during _____(10), and we would put the grapes in the _____(11) and let it _____(12) for about a _____(13). In this _____(14) there's a kind of a mutual _____(15) society. Everybody helped _____(16) else so you just go to your _____(17) and say, Can I use _____(18) bathtub.
+
+## Depression eating
+
+ate 
+come 
+Diaz 
+drank 
+everybody 
+exchange 
+give 
+money
+month 
+neighbors 
+pig. 
+roast 
+seaman
+sell 
+survive 
+things 
+
+We would _____(1) a quart of wine for 25 cents and we would _____(2) wine to our _____(3). In _____(4) we would get other _____(5) from them. The family of an Italian _____(6), who used to be gone for a _____(7) or so and who'd _____(8) back with a wad of _____(9), would buy a whole _____(10). And we'd _____(11) that pig. And everybody _____(12) from that building with that pig. So _____(13) ate the pig from the Italian guy and everybody _____(14) the wine from the _____(15) family. That's how you _____(16) through a Depression.
+
+# Depression cooking
+
+## Remembering cooking in the Depression
 
 - [Doing more with less](http://www.morewithlessmom.com/index.php/2013/10/08/great-depression-era-recipes-real-food/)
 - [Great Depression cooking with Clara](http://www.youtube.com/results?search_query=great+depression+cooking+with+clara)
@@ -585,6 +645,8 @@ more appealing than the one with eggs and tomatoes?
 - Ingredients: Canned fish, tomatoes, rice, fish, oil, salt
 - Cooking method: No cooking. (Rice was cooked, of course). Just put them together and mix it up.
 
+# Questions
+
 ## Food questions STUDENT A’s QUESTIONS http://www.esldiscussions.com/f/food.html
 
 1) What comes to mind when you hear the word ‘food’?  
@@ -616,3 +678,19 @@ more appealing than the one with eggs and tomatoes?
 
 - [http://www.eslpartyland.com/teachers/conversation/cqfood.htm](http://www.eslpartyland.com/teachers/conversation/cqfood.htm)
 - [http://iteslj.org/questions/food.html](http://iteslj.org/questions/food.html)
+
+## Cooking questions
+
+### Feelings about cooking 
+
+- Do you like to cook?
+- Do you like cooking for other people?
+- Would you like to open a restaurant?
+
+### Internet cooking questions
+
+- [Cooking (beginners)](https://www.eslconversationquestions.com/cooking/)
+- [Cooking (experts)](https://printdiscuss.com/cooking-conversation-questions/)
+- [Eggs](https://esldiscussions.com/e/eggs.html)
+- [Pasta](https://esldiscussions.com/p/pasta.html)
+
