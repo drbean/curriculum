@@ -482,12 +482,60 @@ Is it expensive?
 
  How do you eat it?
 
-# Cooking
+# Depression Cooking
 
 ## Depression cooking
 
 - [Doing more with less](http://www.morewithlessmom.com/index.php/2013/10/08/great-depression-era-recipes-real-food/)
 - [Great Depression cooking with Clara](http://www.youtube.com/results?search_query=great+depression+cooking+with+clara)
+
+## Clara
+
+## touchy
+
+- [https://en.wiktionary.org/wiki/touchy](https://en.wiktionary.org/wiki/touchy)
+- [https://www.urbandictionary.com/define.php?term=touchy](https://www.urbandictionary.com/define.php?term=touchy)
+
+## make oneself at home
+
+[https://www.google.com/search?q=make+oneself+at+home](https://www.google.com/search?q=make+oneself+at+home)
+
+## Woman in Clara's garden 1
+
+Depression
+lady
+neighbors
+one
+own
+yard
+
+The _____(1) was very bad. It was a long _____(2) too. I had a little garden of my _____(3). And a _____(4) came, one of my _____(5) , with a shopping bag. And she was going into my _____(6) , my garden.
+
+## Woman in Clara's garden 2
+
+and
+ask
+give
+going
+know
+says
+well
+where
+
+_____(7) I says, _____(8) are you going? She _____(9) , I'm _____(10) to pick a few things. I says, _____(11) , why don't you _____(12) me? I'll _____(13) them to you, you _____(14). But I don't want you to go there and just take what you want.
+
+## Woman in Clara's garden 2
+
+fill
+hard
+have
+herself
+shopping_bag
+touchy
+
+She was, she came to _____(15) her _____(16) with my [..] my garden. Oh, I didn't think you were so _____(17) . I says, I am touchy. I work _____(18) to _____(19) that garden. She just made _____(20) at home.
+
+
 
 ## What is a really simple meal which tastes good?
 
@@ -507,7 +555,8 @@ Each pair, 5-6 words each describing
 
 ## Comparatives
 
-[Grammar](http://en.wikipedia.org/wiki/Comparison_(grammar))
+- [Grammar](http://en.wikipedia.org/wiki/Comparison_(grammar))
+- [Semantics](https://framenet2.icsi.berkeley.edu/fnReports/data/frameIndex.xml?frame=Evaluative_comparison)
 
 - X-er than
 - more X than ..
