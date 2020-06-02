@@ -463,6 +463,22 @@ studentquiz:
 
         Finish doing it by midday before the class next week. (Ignore the date appearing on the page. It is wrong.)
 adventuretime:
+  match:
+    0:
+      identifier: Adventure Time characters and roles
+      pair:
+        -
+          - protagonist/hero
+          - Finn
+        -
+          - sidekick
+          - Jake
+        -
+          - love interest
+          - Princess Bonnibel Bubblegum
+        -
+          - sometime antagonist
+          - Marceline
   0:
     flash:
       Finn: |+
@@ -518,7 +534,22 @@ adventuretime:
             - has magic powers allowing him to stretch or shrink any part of his body to any shape and size, ranging from becoming gigantic to becoming incredibly small
           answer: frequently steals princesses throughout Ooo to forcefully marry them, Princess Bubblegum being his usual target
 rickandmorty:
-
+  match:
+    0:
+      identifier: Rick and Morty roles
+      pair:
+        -
+          - protagonist/hero
+          - Rick
+        -
+          - sidekick
+          - Morty
+        -
+          - hero's son-in-law
+          - Jerry
+        -
+          - hero's daughter
+          - Beth
   0:
     flash:
       Rick:  |+
@@ -608,6 +639,22 @@ toiletboundhanakokun:
             - wanted to make boyfriend, but was cursed by a mermaid by accident
           answer: a classmate of Minamoto Kou who died  
 spongebobsquarepants:
+  match:
+    0:
+      identifier: Match the role with the Spongebob character
+      pair:
+        -
+          - protagonist/hero/heroine
+          - SpongeBob
+        -
+          - sidekick
+          - Patrick Star
+        -
+          - antagonist/co-worker
+          - Squidward Tentacles
+        -
+          - antagonist/boss
+          - Mr. Krabs (Eugene Krabs)
   0:
     flash:
       SpongeBob: |+
@@ -692,6 +739,22 @@ wanderoveryonder:
             - the lord of an evil empire who tries to kill Wander all the time
           answer: the lord of an evil empire who tries to kill Wander all the time
 mickeymouse:
+  match:
+    0:
+      identifier: Mickey Mouse character roles
+      pair:
+        -
+          - hero
+          - Mickey Mouse
+        -
+          - love interest
+          - Minnie Mouse
+        -
+          - sometime antagonist
+          - Donald Duck
+        -
+          - sidekick
+          - Goofy
   0:
     flash:
       Mickey Mouse: |+
@@ -759,6 +822,33 @@ mickeymouse:
             - not anthropomorphic beyond showing a broad range of facial expressions; he is actually represented as a normal dog, lacking speech and the ability to walk upright.
           answer: a tall, anthropomorphic dog. Along with not being extremely intelligent, his main flaws are his clumsiness and incompetence, hence his name.
 gumball:
+  0:
+    flash:
+      Gumball: |+
+        identity: male, 12 years old, a blue cat boy. He has short legs and he never wears shoes, he always wears a light brown sweater\\\\
+        relationships: the biggest brother of the Watterson family\\\\
+        events: He is the center of the cartoon and the story begins with his perspective\\\\
+        States of minds: He is very imaginative and optimistic, but he also has a very sarcastic nature in the same time\\\\
+      Darwin: |+
+        identity: male, 10 years old, an orange golden fish with arms and legs, He wears green shoes that Gumball gives him\\\\
+        relationships: he is adopted and he is the second kid of the Watterson family, he is also Gumball's best friend\\\\
+        events: he was one of Gumball's pets before he could talk. After he has arms and legs by accident, he becomes one member of the Watterson family\\\\
+        States of minds: he is very happy and positive, he always tries to have a smile. he loves to help people because he desires to see others happy\\\\
+      Anais: |+
+        identity: female, 4 years old, a pink bunny. she has long ears and wears an orange dress\\\\
+        relationships: the youngest member of the Watterson family\\\\
+        events: she is the smartest kid in Elmore. Though she is a genius, she doesn't know how to make friends. She studies higher grade than her two brothers\\\\
+        States of minds: she always keep calm when her siblings or dad stuck in their troubles. She has a naive nature even she is smart, but most of times she is a remarkably cunning strategist\\\\
+      Nicole: |+
+        identity: female, 38 years old, a blue cat\\\\
+        relationships: she is important role of the Watterson family. She is Gumball, Darwin, and Anais's mother\\\\
+        events: she teaches the kids and earns money to raise the family\\\\
+        States of minds: she cares very deeply for her family, but she also suffers from a tremendous amount of emotional stress. She has extremely nasty temper issues when she is mad or her family make troubles\\\\
+      #Richard: |+
+      #  identity: male, 38 years old, a big pink rabbit\\\\
+      #  relationships: Nicole's husband, Gumball, Darwin and Anais's father\\\\
+      #  events: he is the laziest person in Elmore town. He doesn't have a job, and he never use his brain to think, so he makes troubles easily. He is not a good role model for his kids\\\\
+      #  States of minds: He greatly enjoys eating, and he is very childlike, he often shows his childlike behaviors. Although he is lazy and irresponsible, he has a sensitive heart in deep\\\\
   jigsaw:
     0:
       identifier: The Amazing World of Gumball
