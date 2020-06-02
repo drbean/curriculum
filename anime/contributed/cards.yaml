@@ -648,6 +648,28 @@ wanderoveryonder:
             - the lord of an evil empire who tries to kill Wander all the time
           answer: the lord of an evil empire who tries to kill Wander all the time
 mickeymouse:
+  0:
+    flash:
+      Mickey Mouse: |+
+        Identity:  A mouse, wearing red pants\\\\
+        Relationships: Everyone's friends, Minnie Mouse's boy friend \\\\
+        Events: He is always help everyone to solve the problem\\\\
+        States of mind: Everyone is my friend\\\\
+      Minnie Mouse: |+
+        Identity: A mouse, wearing pink dress and a pink bow\\\\
+        Relationships: Mickey Mouse's girl friend, Donald Duck, Goofy's friend\\\\
+        Events: Help everyone to solve problem\\\\
+        States of mind: I like party, I like dance\\\\
+      Donald Duck: |+
+        Identity: A duck, wearing blue clothes, no pants\\\\
+        Relationships: Mickey Mouse, Minnie Mouse, Goofy's friend \\\\
+        Events: Always quarrel with his friends\\\\
+        States of mind: Angry! Angry! Angry!\\\\
+      Goofy:  |+
+        Identity: A dog, wearing orange clothes and blue pants\\\\
+        Relationships: Mickey Mouse, Minnie Mouse, Donald Duck's friend\\\\
+        Events: Always encourage everyone\\\\
+        States of mind: Don't worry, everything will be fine\\\\
   jigsaw:
     0:
       identifier: Mickey Mouse
