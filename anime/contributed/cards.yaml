@@ -495,8 +495,31 @@ adventuretime:
             - frequently steals princesses throughout Ooo to forcefully marry them, Princess Bubblegum being his usual target
             - has magic powers allowing him to stretch or shrink any part of his body to any shape and size, ranging from becoming gigantic to becoming incredibly small
           answer: frequently steals princesses throughout Ooo to forcefully marry them, Princess Bubblegum being his usual target
-rick:
-  jigsaw:
+rickandmorty:
+
+  0:
+    flash:
+      Rick:  |+
+        Identity: crazy scientist . white hair.loneliness\\\\
+        Relationships: grandpa\\\\
+        Events: After his wife died, he closed his heart, but loved his family very much.\\\\
+        States of Mind: smart.warlike.extraordinary.use science as his weapon\\\\
+      Morty: |+
+        Identity: 14 years old,heart hurts easily,not smart\\\\
+        Relationships: grandson\\\\
+        Events: Often adventure with Rick.\\\\
+        States of Mind: Have own moral standards.ordinary\\\\
+      Jerry: |+
+        Identity: egoist.be suppressed by Rick\\\\
+        Relationships: dad\\\\
+        Events: divorce with Beth\\\\
+        States of Mind: cowardly.rely Beth\\\\
+      Beth: |+
+        Identity: A Horse Heart Surgeon\\\\
+        Relationships: mom\\\\
+        Events: Ever since Rick left her, there have been tangled emotions\\\\
+        States of Mind: Proud and fragile\\\\
+jigsaw:
     0:
       identifier: Rick and Morty characters
       quiz:
