@@ -608,6 +608,28 @@ toiletboundhanakokun:
             - wanted to make boyfriend, but was cursed by a mermaid by accident
           answer: a classmate of Minamoto Kou who died  
 spongebobsquarepants:
+  0:
+    flash:
+      SpongeBob: |+
+        Identity: A yellow sea sponge, red tie brown shorts, noisy laugh\\\\
+        Relationships: Patrick's best friend, an employee at the Krusty Krab\\\\
+        Events: always intentionally annoy Squidward, catch jellyfish\\\\
+        States of mind: I love my life, every day is the best day!\\\\
+      Patrick Star: |+
+        Identity: A pink sea star, flowered swim trunk, lives in a stone house, a big foodie  \\\\
+        Relationships: SpongeBob's best friend, Squidward's neighbor\\\\
+        Events: He always makes him and SpongeBob get into trouble, and he has been employed as a short-term employee at the Krusty Krab\\\\
+        States of mind: I'm hungry and what we gonna do today?\\\\
+      Squidward Tentacles:  |+
+        Identity: An octopus with a big nose, brown T-shirt, clarinet \\\\
+        Relationships: SpongeBob and Patrick's neighbor, works as a cashier at the Krusty Krab\\\\
+        Events: He likes to make sarcastic remarks about everything. He loves to play clarinet and makes artworks\\\\
+        States of mind: I will become an artist and a musician...Oh! SpongeBob! Patrick! WHAT ARE YOU DOING? \\\\
+      Mr. Krabs (Eugene Krabs):  |+
+        Identity: a red crab, cunning, stingy, used to serve in the navy \\\\
+        Relationships: SpongeBob and Squidward's employer, Pearl's father, Plankton's competitor\\\\
+        Events: He owns and manages a fast food restaurant Krusty Krab, and he loves his family\\\\
+        States of mind: Money is always the priority. Plankton will never snatch my confidential secret recipe from me.\\\\
   jigsaw:
     0:
       identifier: SpongeBob SquarePants
