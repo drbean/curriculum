@@ -825,25 +825,25 @@ gumball:
   0:
     flash:
       Gumball: |+
-        identity: male, 12 years old, a blue cat boy. He has short legs and he never wears shoes, he always wears a light brown sweater\\\\
-        relationships: the biggest brother of the Watterson family\\\\
-        events: He is the center of the cartoon and the story begins with his perspective\\\\
-        States of minds: He is very imaginative and optimistic, but he also has a very sarcastic nature in the same time\\\\
+        Identity: male, 12 years old, a blue cat boy. Short legs, no shoes, light brown sweater\\\\
+        Relationships: the biggest brother of the Watterson family\\\\
+        Events: He is the center of the cartoon and the story takes his perspective\\\\
+        States of minds: Very imaginative and optimistic, but also very sarcastic at the same time\\\\
       Darwin: |+
-        identity: male, 10 years old, an orange golden fish with arms and legs, He wears green shoes that Gumball gives him\\\\
-        relationships: he is adopted and he is the second kid of the Watterson family, he is also Gumball's best friend\\\\
-        events: he was one of Gumball's pets before he could talk. After he has arms and legs by accident, he becomes one member of the Watterson family\\\\
-        States of minds: he is very happy and positive, he always tries to have a smile. he loves to help people because he desires to see others happy\\\\
+        Identity: male, 10 years old, an orange golden fish with arms, legs, wearing green shoes from Gumball\\\\
+        Relationships: Adopted and the second kid of the Watterson family. Also Gumball's best friend\\\\
+        Events: One of Gumball's pets before he could talk. After getting arms and legs by accident, he becomes one member of the Watterson family\\\\
+        States of minds: Happy and positive, he always tries to have a smile. He loves to help people because he desires to see others happy\\\\
       Anais: |+
-        identity: female, 4 years old, a pink bunny. she has long ears and wears an orange dress\\\\
-        relationships: the youngest member of the Watterson family\\\\
-        events: she is the smartest kid in Elmore. Though she is a genius, she doesn't know how to make friends. She studies higher grade than her two brothers\\\\
-        States of minds: she always keep calm when her siblings or dad stuck in their troubles. She has a naive nature even she is smart, but most of times she is a remarkably cunning strategist\\\\
+        Identity: female, 4 years old, a pink bunny. she has long ears and wears an orange dress\\\\
+        Relationships: the youngest member of the Watterson family\\\\
+        Events: She is the smartest kid in Elmore, a genius. She doesn't know how to make friends. She studies higher grade than her two brothers\\\\
+        States of minds: Always calm when her family has troubles. Naive even while smart, but mostly she is a remarkably cunning strategist\\\\
       Nicole: |+
-        identity: female, 38 years old, a blue cat\\\\
-        relationships: she is important role of the Watterson family. She is Gumball, Darwin, and Anais's mother\\\\
-        events: she teaches the kids and earns money to raise the family\\\\
-        States of minds: she cares very deeply for her family, but she also suffers from a tremendous amount of emotional stress. She has extremely nasty temper issues when she is mad or her family make troubles\\\\
+        Identity: female, 38 years old, a blue cat\\\\
+        Relationships: she has an important role in the Watterson family. She is Gumball, Darwin, and Anais's mother\\\\
+        Events: she teaches the kids and earns money to raise the family\\\\
+        States of minds: she cares very deeply for her family, but she also suffers from a tremendous amount of emotional stress. She has an extremely nasty temper when mad or her family makes trouble\\\\
       #Richard: |+
       #  identity: male, 38 years old, a big pink rabbit\\\\
       #  relationships: Nicole's husband, Gumball, Darwin and Anais's father\\\\
