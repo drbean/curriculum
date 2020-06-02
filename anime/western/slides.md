@@ -5,6 +5,33 @@
 
 # PAW Patrol
 
+## Ryder
+
+- Identity: 10-year-old boy
+- Relationships: Leader of PAW Patrol, hero/protagonist
+- Events: Commands pups to carry out his orders and save Adventure Bay from misfortune
+- States of Mind: Acts like an intelligent adult
+
+## Mayor Humdinger
+
+- Identity: Middle-aged, self-serving politician
+- Relationships: Villian, PAW Patrol's antagonist, arch-rival of Adventure Bay's mayor, leader of worker kitten group
+- Events: Cheats, steals, lies
+- States of Mind: greedy, over-confident
+
+## Skye
+
+- Identity: One of only 2 female characters, helicopter pilot
+- Relationships: Ryder's subordinate/sidekick
+- Events: keeps close eye on emergencies, transport team members, and uses her helicopter's grappling hook to save people
+- States of Mind: Fun-loving, loves flying, smart
+
+## Chase
+
+- Identity: Police dog
+- Relationships: Ryder's subordinate/sidekick
+- Events: Drives different vehicles, acts as lifeguard at beach
+- States of Mind: Mature and serious, athletic and a natural leader
 
 # Talking about characters
 
