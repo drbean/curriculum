@@ -463,6 +463,28 @@ studentquiz:
 
         Finish doing it by midday before the class next week. (Ignore the date appearing on the page. It is wrong.)
 adventuretime:
+  0:
+    flash:
+      Finn: |+
+        Identity: a human boy, wears a hat that covers his extremely long flowing yellow hair \\\\
+        Relationship: Jake's friend\\\\
+        Events: help anyone needs help\\\\
+        States of Mind: brave\\\\
+      Jake: |+
+        Identity: A dog with the power to change shape\\\\
+        Relationships: Finn's friend\\\\
+        Events: has five children\\\\
+        States of Mind: cynical\\\\
+      Princess Bonnibel Bubblegum: |+
+        Identity: Ruler of the Candy Kingdom\\\\
+        Relationships: Marceline's girlfriend\\\\
+        Events: Becomes overprotective of the Candy kingdom, and is removed from power\\\\
+        States of Mind: Knowledgeable\\\\
+      Marceline: |+
+        Identity: a Vampire Queen\\\\
+        Relationships: Bubblegum's girl friend\\\\
+        Events: was taken care of by Simon Petrikov (the Ice King)\\\\
+        States of Mind: mischievous\\\\
   jigsaw:
     0:
       identifier: Adventure Time
