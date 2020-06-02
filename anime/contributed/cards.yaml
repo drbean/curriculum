@@ -586,6 +586,28 @@ spongebobsquarepants:
             - SpongeBob's best friend as well as one of his two neighbors
           answer: SpongeBob's best friend as well as one of his two neighbors
 wanderoveryonder:
+  0:
+    flash:
+      Wander: |+
+        Identity: Male, having a very friendly, kindhearted personality, and he is a universe traveler.\\\\
+        Relationships: Sylvia's best friend, and friend of Lord Hater and Commander Peepers (only on his side)\\\\
+        Events: He clashing against Lord Hater and his armies' evil reign unintentionally.\\\\
+        States of Mind: Believing everyone has a good side. Want to befriend with Lord Hater\\\\
+      Lord Hater: |+
+        Identity: A power-hungry, easy-angered, evil, and a cruel conqueror. \\\\
+        Relationships: Commander Peepers's friend, Wander's, and Sylvia's enemy.\\\\
+        Events: He wants to attack and occupy the whole galaxy but Wander keeps ruining his evil plan. \\\\
+        States of Mind: Trying to kill Wander and become the greatest evil lord in the galaxy.\\\\
+      Sylvia: |+
+        Identity: Very tough and competitive, and sometimes overpowered by her own temper. But caring so much for Wander.\\\\
+        Relationships: Wander's best friend. Lord Hater's, and Commander Peepers's enemy \\\\
+        Events: She is traveling the galaxy with Wander and Lord Hater's show up always bring they into danger.\\\\
+        States of Mind: Not liking Lord Hater and fully aware of Lord Hater's evil doings. \\\\
+      Commander Peepers: |+
+        Identity: Lord Hater's chief advisor, and second-in-command. Very loyalty to Lord Hater.\\\\
+        Relationships: Lord Hater's friend, Wander's, and Sylvia's enemy.\\\\
+        Events: He is helping Lord Hater to conquer a planet but get interrupted by Wander\\\\
+        States of Mind: Dedicated to capturing Wander and Sylvia, mostly in order to gain favor with Hater\\\\
   jigsaw:
     0:
       identifier: Wander Over Yonder
