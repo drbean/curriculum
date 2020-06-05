@@ -70,6 +70,24 @@ The TOEIC listening/reading test this weekend is not good.
 
 You can get good scores on the TOEIC listening/reading test but not be able to speak any English at all!
 
+# Not happy about students not doing a lot of work
+
+## Students safe from failing
+
+If you stay to the end of the course and appear at the final exam, you are guaranteed 70/100
+
+## Homework and classwork important
+
+The classwork exercises are my way of teaching you the content of the course
+
+If you are not doing them, you're not learning what I want to teach.
+
+The homework is also the way to practice for the test. If you're not doing it, you can't improve.
+
+So, I'm making classwork and homework 40 percent of the grade each.
+
+Midterm and final exams are only 20 percent.
+
 # Looking for sample tests
 
 ## Extra credit for students posting links to testing material
