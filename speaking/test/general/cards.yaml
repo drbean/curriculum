@@ -24,6 +24,40 @@ handbook:
         at
 
         [http://web.nuu.edu.tw/~greg/toeic/sample/TOEIC%20Speaking%20and%20Writing%20tests%20Examinee%20Handbook.pdf](http://web.nuu.edu.tw/~greg/toeic/sample/TOEIC%20Speaking%20and%20Writing%20tests%20Examinee%20Handbook.pdf)
+  jigsaw:
+    0:
+      identifier: IDs
+      quiz:
+        - question: passport
+          option:
+            - acceptable
+            - acceptable with other documents
+            - unacceptable
+          answer: acceptable
+        - question: driver's license with photo and signature
+          option:
+            - acceptable
+            - acceptable with other documents
+            - unacceptable
+          answer: acceptable
+        - question: State/national ID with old photo
+          option:
+            - acceptable
+            - acceptable with other documents
+            - unacceptable
+          answer: acceptable with other documents
+        - question: photocopy of acceptable document
+          option:
+            - acceptable
+            - acceptable with other documents
+            - unacceptable
+          answer: unacceptable
+        - question: student ID
+          option:
+            - acceptable
+            - acceptable in support of other document
+            - unacceptable
+          answer: acceptable in support of other document
 
 instruction:
   description:
