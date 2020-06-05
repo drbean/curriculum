@@ -37,13 +37,13 @@ seminar:
             - 9am, 11am, 1pm, 2pm and 4pm
             - 9am until some time after 4pm
           answer: 9am until some time after 4pm
-        - question: Question 8: How much does the conference attendance cost?
+        - question: "Question 8: How much does the conference attendance cost?"
           option:
             - $95
             - $95 and $75
             - $95 for individuals and $75 dollars for members of the Business Information Center
           answer: $95 for individuals and $75 dollars for members of the Business Information Center
-        - question: Question 9: I may not be available for the full day.  Could you give me information about the activities in the morning, before lunchtime?
+        - question: "Question 9: I may not be available for the full day.  Could you give me information about the activities in the morning, before lunchtime?"
           option:
             - 9am.  Financing your business       Room 210       Martha Ross, Certified Public Accountant
             - 11am. How to promote your own business      Room 212      Howard Brown, Brown Publishers
@@ -92,9 +92,57 @@ show:
             8.  How much are each of the grand prizes worth?
             9.  I'm a big fan of Helping Hand. When and where will I be able to see the Dawson brothers? Are there any other celebrity guests attending?
 itinerary:
+  description:
+    0:
+      identifier: San Antonio-Chicago and return trip
+      rubric: |+
+        ## Travel itinerary: John Fairbank, marketing director
+
+        Wednesday June 20
+        Depart
+        San Antonio The Express Train  7:00am
+        Arrive
+        Chicago                        11:00am
+
+        Friday June 22
+        Depart
+        Chicago     Blue Mountain Express 6:00am
+        Arrive
+        San Antonio                       10:00am
+
+        Hotel information
+        Glen Hotel, 230 Main Street
+        Rental car reserved (Chicago train station pick-up)
+
+        Schedule
+        June 21 Attend International Marketing Expo 11:00am
+        June 21 e-Marketing conference              1:00pm
+    1:
+      identifier: "Questions 7: Respond to questions using information provided--Rosen's NY trip"
+      rubric: |+
+            Travel itinerary
+            Sharon Rosen
+            April 12-13
+
+            April 12
+
+            9:00 AM---Flight 321 on Green Air to New York
+            12:00 PM--Arrive New York, taxi to Van Buren Hotel
+            2:00 PM---Meeting with Jonathan Stein and Marianne Brevoort,
+                      ExTime office
+            4:00 PM---Meeting with ExTime Sales team
+
+            April 13
+
+            8:00 AM---Breakfast meeting with Bart Baines, ExTime Sales Manager,
+                      at the Van Buren Hotel
+            9:30 AM---Present quarterly plan to ExTime Board
+            12:00 PM--Lunch with ExTime Board members
+            1:30 PM---Limousine to airport
+            3:00 PM---Flight 765 on Green Air to Miami
   jigsaw:
     0:
-      identifier: san_antonio
+      identifier: chicago, san_antonio trip
       quiz:
         - question: What time does Fairbank arrive in San Antonio
           option:
@@ -181,6 +229,12 @@ itinerary:
     4:
       identifier: extime meeting
       quiz:
+        - question: Which is a more convenient and comfortable way to get round a new city?
+          option:
+            - by taxi
+            - by limousine
+            - by airport bus
+          answer: by limousine
         - question: How is Sharon Rosen going to get to her hotel in NY?
           option:
             - by taxi
@@ -205,6 +259,36 @@ itinerary:
             - 2
             - 3
           answer: 2
+    5:
+      identifier: "Rosen's trip to NY: the limousine--Question 7"
+      quiz:
+        - question: Will there be a limousine to pick her up in NY?
+          option:
+            - Yes
+            - No
+          answer: No
+    6:
+      identifier: "Rosen's trip to NY: the limousine--Question 7"
+      quiz:
+        - question: How many meetings are scheduled for the day Rosen arrives?
+          option:
+            - zero
+            - 1
+            - 2
+            - 3
+          answer: 2
+    7:
+      identifier: "Rosen's trip to NY: the limousine--Question 7"
+      quiz:
+        - question: What is Rosen scheduled to do on April 13?
+          option:
+            - Meet with ExTime sales team
+            - Meet with Stein, Brevoort, Baines and ExTime sales team
+            - Meet early in the morning with ExTime sales manager and later with ExTime Board
+            - Meet Stein, Brevoort, Baines and ExTime sales team, and later Board
+            - Meet with some people and return to Miami in the afternoon
+          answer: Meet early in the morning with ExTime sales manager and later with ExTime Board
+        
         
         
         
