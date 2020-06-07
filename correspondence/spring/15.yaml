@@ -1,0 +1,146 @@
+---
+forum:
+  timeclose        : $(date --date='2026-06-06 14:00:00 +0800' +%s)
+  duedate          : $(date --date='2026-06-06 14:00:00 +0800' +%s)
+  cutoffdate       : $(date --date='2026-06-06 14:00:00 +0800' +%s) 
+quiz:
+  questioncategory : 15_bad-news,complaint
+---
+-
+  content:
+  -
+    topic : bad_news
+    story : scramble
+    type  : drag
+    form  : 1
+    intro : Sentences similar to those on p98, which will be in final exam
+    random: 
+-
+  content:
+  -
+    topic : bad_news
+    story : scramble
+    type  : jigsaw
+    form  : 0
+    intro : Match the sentence with one with a similar structure/function (not words) on p98
+    random: 
+
+-
+  content:
+  -
+    topic : bad_news
+    story : scramble
+    type  : jigsaw
+    form  : 1
+    intro : Sentences similar to those on p98, which will be in final exam
+    random: 5
+-
+  content:
+  -
+    topic : complaint
+    story : paragraph
+    type  : match
+    form  : 0
+    intro : Understanding the structure on p 99
+    random: 
+-
+  content:
+  -
+    topic : complaint
+    story : bad_news
+    type  : match
+    form  : 1
+    intro : How do the steps in a complaint correspond to those in bad news?
+    random: 
+
+-
+  content:
+  -
+    topic : complaint
+    story : bad_news
+    type  : match
+    form  : 0
+    intro : How do the steps in bad news correspond to those in a complaint?
+    random: 
+-
+  content:
+  -
+    topic : complaint
+    story : glass
+    type  : jigsaw
+    form  : 1
+    intro : Is there a threat (bad consequences of failure to help) in the letter?
+    random: 
+-
+  content:
+  -
+    topic : complaint
+    story : threat
+    type  : jigsaw
+    form  : 0
+    intro : Read the 2nd half of the explanation of the 3rd paragraph carefully.
+    random: 
+-
+  content:
+  -
+    topic : complaint
+    story : glass
+    type  : match
+    form  : 0
+    intro : Look at the structure on p 99
+    random: 
+-
+  content:
+  -
+    topic : complaint
+    story : glass
+    type  : jigsaw
+    form  : 1
+    intro : What is the complaint?
+    random: 
+-
+  content:
+  -
+    topic : complaint
+    story : drink
+    type  : drag
+    form  : 0
+    intro : First half of Newman complaint
+    random: 
+-
+  content:
+  -
+    topic : complaint
+    story : drink
+    type  : drag
+    form  : 1
+    intro : Second half of Newman complaint
+    random: 
+-
+  content:
+  -
+    topic : complaint
+    story : homework
+    type  : forum
+    form  : 0
+    intro : A different submission format
+    random: 
+-
+  content:
+  -
+    topic : complaint
+    story : video
+    type  : url
+    form  : 0
+    intro : Hour 1, week 15
+    random: 
+-
+  content:
+  -
+    topic : complaint
+    story : video
+    type  : url
+    form  : 1
+    intro : Hour 2, week 15
+    random: 
+
