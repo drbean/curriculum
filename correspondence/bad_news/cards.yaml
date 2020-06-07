@@ -1049,6 +1049,94 @@ report:
     
         It doesn't have to be long and there is no need for To:, From:, Subject:, etc lines.
 scramble:
+  jigsaw:
+    0:
+      identifier: Matching similar sentences with scrambled  p 98 sentences\h
+      quiz:
+        - question: $1000 cash company individual of on or orders Our policy requires less
+          option:
+            - 1
+            - 2
+            - 3
+            - 4
+            - 5
+            - 6
+            - 7
+          answer: 7
+        - question: allows being company days discounts of on orders Our paid policy thirty within delivered
+          option:
+            - 1
+            - 2
+            - 3
+            - 4
+            - 5
+            - 6
+            - 7
+          answer: 6
+        - question: a days earlier eligible for make percent purchase Returning ten ten would you your
+          option:
+            - 1
+            - 2 and 3
+            - 4 and 5
+            - 6 and 7
+          answer: 4 and 5
+        - question: appreciated be could days earlier if It online our service ten use would you
+          option:
+            - 1
+            - 2
+            - 3
+            - 4
+            - 5
+            - 6
+            - 7
+          answer: Wrong answer
+        - question: of price purchase quality reflect the The will you your
+          option:
+            - 1
+            - 2
+            - 3
+            - 4
+            - 5
+            - 6
+            - 7
+          answer: 3
+        - question: a expensive fact for In looking more washer we were
+          option:
+            - 1
+            - 2 and 3
+            - 4 and 5
+            - 6 and 7
+          answer: 2 and 3
+        - question: a cheap discount find little students this Wouldn't
+          option:
+            - 1
+            - 2
+            - 3
+            - 4
+            - 5
+            - 6
+            - 7
+          answer: 1
+        - question: boring class Don't find students this
+          option:
+            - 1
+            - 2
+            - 3
+            - 4
+            - 5
+            - 6
+            - 7
+          answer: 1
+        - question: an Aren't class eight-o'clock students unhappy with
+          option:
+            - 1
+            - 2
+            - 3
+            - 4
+            - 5
+            - 6
+            - 7
+          answer: 1
   scramble:
     0:
       identifier: scramble
@@ -1473,5 +1561,10 @@ tone:
               feedback: Use the words, "the invoice"
       1:
          identifier: tone improvement guideline
+video:
+  url:
+    0:
+      identifier: Week 14 classroom video--hour 1
+      externalurl: https://youtu.be/JFc13dNQCrE
          
 
