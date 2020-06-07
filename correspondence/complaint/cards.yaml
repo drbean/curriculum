@@ -31,13 +31,13 @@ bad_news:
           - bad news
         -
           - resulting damage
-          - non-existent (first)
+          - non-existent in bad news (first)
         -
           - request
           - alternative/solution
         -
           - threat
-          - non-existent (second)
+          - non-existent in bad news (second)
         -
           - polite close
           - positive close
@@ -98,7 +98,7 @@ page:
         Follow the structure on p 105 of the PDF and look at the example of the complaint on p 106. There is no need for salutation and complimentary close.
     
 homework:
-  essay:
+  forum:
     0:
       identifier: "Homework: complaint"
       rubric: |+
@@ -114,14 +114,328 @@ homework:
         * threat
         * polite close
 
-        Make up dates and detailed facts (names and numbers) for the background and complaint. For example, exact order number, dates, quantity.
+        Make up dates and *detailed* facts (names and numbers) for the background and complaint. For example, exact order number, dates, quantity.
 
         Write only the Subject line and the 4 paragraphs.
 
         No need for letterhead, addresses, salutation, etc
+damage:
+  description:
+    0:
+      identifier: Resulting damage
+      questiontext: 'Resulting damage' isn't the physical damage (eg, to the dolls), but the 'cost' or 'inconvenience' as a result of the thing you're complaining about (eg, you can't play with/sell the dolls, because they're broken.) As Michael Bridges says, 'We have a number of customers who have placed firm orders with us for these glasses and keeping them waiting is *DAMAGING* our reputation.'
+  jigsaw:
+    0:
+      identifier: Spot the complaint specifying 'resulting damage'
+      quiz:
+        - question: |+
+            Order Number769/Food
 
-    
-        
+            I am writing to complain about the food that I take-away
+            meats and vegetable. On 1 June 2020 I take-away from your
+            restaurant. Order Number is 769.
+            However, when I came home and eat dinner. I taste the meat
+            was badly undercooked and the vegetable overcooked. It
+            cause me diarrhea. This is a terrible experience.
+            I think you should give me a reasonable compensation. If
+            not, I will post to the Internet.
+            Thank you in advance for your cooperation in this matter.
+          option:
+            - includes resulting damage
+            - doesn't include resulting damage
+          answer: includes resulting damage
+        - question: |+
+            Subject: GAME problem(BUG)
+
+            I am writing to complain about the BUG you fixed. On Nov 11
+            you came to fix my account
+            , and it was working. But now, 4 days later, it is crash
+            again, and it is same problem as before.
+
+            However, I paid this game is not to be a BUGtester, and you
+            didn't do a good job.
+
+            I hope you can debug it again, or you can refund,  If you
+            didin't do one of them,I will tell everyone not buy your
+            games forever.
+
+            Thank you in advance for your cooperation in this matter.
+          option:
+            - includes resulting damage
+            - doesn't include resulting damage
+          answer: doesn't include resulting damage
+        - question: |+
+            I am writing to complain about food delivery.
+
+            On April 14 I ordered the delivery of pork chop rice from
+            your restaurant.
+
+            When the meal came and I was going to eat it, I found that
+            I got chicken cutlet rice.
+
+            I hope you will pay attention to the correct meal the next
+            time you deliver,And I will be very happy if you can
+            refund.
+
+            If your reply is unacceptable, I will put this incident
+            online.
+
+            Thank you for your reading.
+          option:
+            - includes resulting damage
+            - doesn't include resulting damage
+          answer: doesn't include resulting damage
+        - question: |+
+            I am writing to complain about the speed of the internet we
+            had. On 13 July 2019, the internet became very slow even no
+            signal. At that time, your engineer said that it will be
+            repaired as soon as possible.
+
+            However, until today, 15 July 2019, the internet still have
+            some problem that it will disconnect sometimes. This cause
+            us great trouble. Our children can't do the online homework
+            and I can't search for the data that I need to do my
+            report.
+
+            I will appreciate if you can completely solve this problem
+            and then informing us.
+
+          option:
+            - includes resulting damage
+            - doesn't include resulting damage
+          answer: includes resulting damage
+        - question: |+
+            Subject: TV problem
+
+            I am writing to complain about the TV you fixed. On June 1
+            you came to fix my TV, and it was working. But now, 4 days
+            later, it is broken again, and it is same problem as
+            before.
+
+            However, I paid you to fix the TV, but you didn't do a good
+            job.
+
+            I hope you can come back to fix it again, or you can
+            refund, I will find another engineer. If you didin't do one
+            of them, i will sue you.
+
+            Thank you in advance for your cooperation in this matter.
+          option:
+            - includes resulting damage
+            - doesn't include resulting damage
+          answer: doesn't include resulting damage
+        - question: |+
+            Subject: Order Number 200525/Printing Paper
+
+            I am writing to complain about the printing paper I ordered. On
+            25 May 2020 I ordered a box of high-quality printing paper from
+            you, and I paid the highest price.
+
+            However, when I received the goods, I found the quality of the
+            printing paper was very terrible. This prevented me from
+            completing the work as planned. Only five days left until the
+            deadline.
+
+            I would appreciate it if you can re-send me the high-quality
+            printing paper in 2 days. Otherwise I will never buy your
+            products again, and I will post this matter on the Internet.
+
+            Thank you in advance for your cooperation in this matter.
+          option:
+            - includes resulting damage
+            - doesn't include resulting damage
+          answer: includes resulting damage
+        - question: |+
+            I am writing to complain about the situation of the meal I
+            ordered. On 4 June 2020 I ordered from you a Beef and
+            Vegetable risotto ( order number as above  ). The clerk
+            checked the order and the quality of the meal before giving
+            me it.
+
+            However, I was very unhappy when I got home and opened the
+            meal. I found that the meat was badly undercooked and the
+            vegetable overcooked. No food was edible, so I had to go
+            out and buy other foods.
+
+            I would appreciate you contacting me and refunding the
+            money for the meal. If you don’t contact me within three
+            days, I will send a complaint mail to your company and give
+            your restaurant a negative comment on the community
+            website.
+
+            Thank you in advance for your cooperation in this matter.
+          option:
+            - includes resulting damage
+            - doesn't include resulting damage
+          answer: includes resulting damage
+        - question: |+
+            5 June 2020
+
+            Subject: Order Number 3064/Meals
+
+            I'm writing to complain about the take-away meals of your
+            restaurant I ordered. On 4 June 2020 I ordered Big Mac from
+            the restaurant.
+
+            However, when I took the burger a bite, I found that the
+            meat was badly undercooked and the vegetable overcooked.
+
+            I would appreciate that you can do something to make up my
+            cost or sent me new and well-cooked meals.
+
+            Thank you in advance for your cooperation in this matter.
+          option:
+            - includes resulting damage
+            - doesn't include resulting damage
+          answer: doesn't include resulting damage
+        - question: |+
+            I am writing to complain about the t-shirt that I bought in your department store in Leganes on 4th January for Christmas.The t-shirt was perfectly at the shop,but,when I arrived at my house,I found it with holes and dirty.
+
+            I would appreciate it if I could exchange these clothes and get new and better clothes.If I don't get it,I will be forced to take legal action.
+
+            I hope we can have a best transaction.
+          option:
+            - includes resulting damage
+            - doesn't include resulting damage
+          answer: doesn't include resulting damage
+        - question: |+
+            Subject: Order Number 2020/ Printing Paper
+
+            Good morning sir,
+
+            I ordered 1000 sheets of the top price printing paper with
+            you on May 2, 2020, but you just sent some poor quality
+            paper, not the paper I ordered.
+
+            Because of your negligence, I was unable to complete the
+            customer's order as scheduled, and this made me feel very
+            angry also made me have to pay a penalty.
+
+            Please reply to me as soon as possible before noon tomorrow
+            and tell me what you will do, otherwise I will file a
+            complaint with you in court and ask you for a fee.
+
+            Thank you for taking the time to read this message and hope
+            you reply as soon as possible.
+
+          option:
+            - includes resulting damage
+            - doesn't include resulting damage
+          answer: includes resulting damage
+        - question: |+
+            I am writing to complain about the food we order. On 5 June
+            2020 we order from your restaurant.
+
+            At the time, you assure us that you will give us the best
+            quality even take-away.
+
+            However,When I got home,I found the meat was badly
+            undercooked and the vegetable overcooked.I feel so bad.
+
+            We would appreciate your restaurant.Then,We hope you can
+            give me a explanation or refund.Otherwise we will no longer
+            order.
+
+          option:
+            - includes resulting damage
+            - doesn't include resulting damage
+          answer: includes resulting damage
+        - question: |+
+            4 June 2020
+
+            Subject： Order Number 123/food
+
+            I am writing to complain about take-away food. On 3 June I
+            take away meat and vegetable from your restaurant.
+
+            However, when I go home, the meat was badly undercooked and
+            the vegetable overcooked.
+
+            I would appreciate that if  you can give me
+            your  restaurant discount, otherwise I won't go to your
+            restaurant again.
+
+            Thank you in advance for your cooperation in this matter.
+          option:
+            - includes resulting damage
+            - doesn't include resulting damage
+          answer: doesn't include resulting damage
+        - question: |+
+            I'm writing to complain about the quality of the china
+            dolls I ordered. On 8 July 2012 I ordered from you 25 china
+            dolls. At that time, you promised all your customers that
+            you would check before them sold and also these delivery.
+
+            However, when I have received, I found the box had not been
+            taped properly and the dolls without protected. Therefore,
+            all the dolls were damaged when they arrived at my house.
+            These china dolls are the presents that I want to give to
+            my students who will graduate these days. I have ordered
+            the china dolls since last month, and also accepted you
+            could delay one week.
+
+            I wish you could give me some ways to slove this serious
+            problem in these three days. If you cannot delivery in this
+            week, maybe I should change other supplier and ask for the
+            sorry cash from you.
+
+            Thank you in advance for your cooperation in this matter.
+          option:
+            - includes resulting damage
+            - doesn't include resulting damage
+          answer: doesn't include resulting damage
+        - question: |+
+            6 June 2020
+
+            Subject: Order Number 12/Cellphone
+
+            I am writing to complain about the delivery of Indonesia
+            cellphones that I ordered. On June 1, I ordered 12
+            cellphones from you.
+
+            Even so, after I received the item not as I expected, from
+            12 cellphones there was some damage such as blisters on the
+            side of the cellphone, the cellphone screen was broken, and
+            the box was not closed with a seal.
+
+            I wish I could exchange a few broken cellphones and get a
+            new one. if I don't get what I want I will report this
+            incident to the authorities.
+
+            Thank you for your cooperation and understanding.
+          option:
+            - includes resulting damage
+            - doesn't include resulting damage
+          answer: doesn't include resulting damage
+        - question: |+
+            Complaint date: 6 June 2020
+
+            Order date: 2 June 2020
+
+            Quantity: one
+
+            Subject line: Order Number 666 / TV
+
+            I am writing to complain about your company's engineer came
+            to fix my TV. On 2 June 2020 we hire the engineer fix my
+            TV. But he did not do a good job and now it is not working
+            again. It is the same problem as before. At that time, you
+            assured us that you can fix it.
+
+            However, the TV is still not available now. This has
+            prevented me from watching dramas and news for several
+            days. It makes me anxious.
+
+            I hope that you can send another engineer to repair the TV
+            today.Also, if the engineer is still not well repaired my
+            TV, we will not go to your company to repair it next time.
+            And I will tell the court.
+
+            Thank you in advance for your cooperation in this matter.
+          option:
+            - includes resulting damage
+            - doesn't include resulting damage
+          answer: includes resulting damage
 paragraph:
   match:
     0:
@@ -359,6 +673,22 @@ glass:
             - Yes
             - No
           answer: Yes
+    1:
+      identifier: threat in glass letter on p 100
+      quiz:
+        - question: Is there are threat in the glass letter?
+          option:
+            - Yes
+            - No
+          answer: Yes
+        - question: If there is a threat in the letter, in which paragraph is it?
+          option:
+            - 1
+            - 2
+            - 3
+            - 4
+            - No threat
+          answer: 4
 sweater:
   drag:
     0:
@@ -1902,4 +2232,12 @@ peach:
         -
           - 8
           - Thank you in advanc ..
+video:
+  url:
+    0:
+      identifier: Week 15 classroom video--hour 1
+      externalurl: https://youtu.be/NqHezCxVhTA
+    1:
+      identifier: Week 15 classroom video--hour 2
+      externalurl: https://youtu.be/4jF71mNTSjg
       
