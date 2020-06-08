@@ -520,6 +520,42 @@ diaz:
           answer: True
         - question: The Russos sell the meat to the Johnsons.
           answer: False
+    1:
+      identifier: Manny Diaz and life during the Depression
+      quiz:
+        - question: Tenement life was pretty good during the Depression
+          answer: False
+        - question: Diaz says there was a government food program to help those without money.
+          answer: False
+        - question: Army trucks dumped food at the side of the road.
+          answer: True
+        - question: Diaz says the food was surplus food that could not be sold and was going bad.
+          answer: False
+        - question: Food that was especially important for the Diaz family was grapes.
+          answer: True
+        - question: Diaz's family made wine with the grapes.
+          answer: True
+        - question: Even though there were grapes in the bathtub, they still used it to take a bath.
+          answer: False
+        - question: They couldn't take a bath because of the wine.
+          answer: False
+        - question: They used to ask the Mutual Assistance Society if it was OK to take a bath.
+          answer: False
+        - question: They used to ask a neighbor if it was OK to use their bathtub.
+          answer: True
+        - question: They used to sell the wine and give it to neighbors.
+          answer: True
+        - question: They didn't get anything like money or food in exchange for the wine.
+          answer: False
+        - question: The Diaz family ate the pig of the Italian seaman's family.
+          answer: True
+        - question: What helped them survive was the mutual assistance society that formed in the building.
+          answer: True
+        - question: Everybody felt poor, because everyone was poor.
+          answer: False
+        
+
+        
 douglas:
   jigsaw:
     0:
@@ -727,7 +763,7 @@ depression:
             - cubing, then peeling, and frying
             - peeling, cubing, then frying
             - peeling, frying then cubing
-          answer: peeling, then cubing
+          answer: peeling, cubing, then frying
         - question: She had to quit high school, because--
           option:
             - couldn't afford clothes
