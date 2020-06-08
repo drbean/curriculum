@@ -1,0 +1,35 @@
+---
+forum:
+  timeclose        : $(date --date='2026-06-15 14:00:00 +0800' +%s)
+  duedate          : $(date --date='2026-06-15 14:00:00 +0800' +%s)
+  cutoffdate       : $(date --date='2026-06-15 14:00:00 +0800' +%s) 
+quiz:
+  questioncategory : 16_health,news,appreciation
+---
+-
+  content:
+  -
+    topic : health
+    story : postal
+    type  : jigsaw
+    form  : 0
+    intro : Reliance frame
+    random: 
+-
+  content:
+  -
+    topic : intercultural
+    story : preciado
+    type  : jigsaw
+    form  : 0
+    intro : Stimulate_emotion frame
+    random:
+-
+  content:
+  -
+    topic : intercultural
+    story : preciado
+    type  : jigsaw
+    form  : 1
+    intro : Stimulate_emotion frame
+    random:
