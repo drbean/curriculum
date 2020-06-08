@@ -487,14 +487,28 @@ Is it expensive?
 
 # Manny Diaz
 
+## Diaz on Storycorps
+
+- [https://storycorps.org/stories/manny-diaz-and-blanca-vazquez/](https://storycorps.org/stories/manny-diaz-and-blanca-vazquez/)
+
 ## Diaz pictures
+
+[The Great Depression](http://images.google.com/images?q=%22Great%20Depression%22&num=100)
 
 - [Pronunciation of the Diaz family name](http://www.google.com/search?q=pronunciation%20diaz&num=100)
 - [37 West 114th Street](https://maps.google.com/maps?q=37+West+114th+Street,+New+York,+NY,+United+States&hl=zh-TW&ll=40.799809,-73.949425&spn=0.011159,0.020106&sll=37.0625,-95.677068&sspn=47.483365,82.353516&oq=37+West+114&t=h&hnear=37+W+114th+St,+New+York,+10026&z=16&layer=c&cbll=40.800963,-73.951177&panoid=G4xBPuCycyf2Yk3jZqK9mg&cbp=12,270,,0,0)
 
-- [tenement house](http://images.google.com/images?q=%22tenement%20house%22&num=100)
+- [tenement house](http://images.google.com/images?q=%22tenement%20house%22&num=100) [tenement history](https://www.history.com/topics/immigration/tenements)
 - [culvert](http://images.google.com/images?q=%22culvert%22&num=100)
-- [The Great Depression](http://images.google.com/images?q=%22Great%20Depression%22&num=100
+- [pillow case](http://www.google.com.tw/search?q=%22pillow+case%22&num=100&gws_rd=ssl&tbm=isch&tbo=u&source=univ&sa=X)
+- [crush](http://www.google.com.tw/search?q=%22crush%22&num=100&gws_rd=ssl&tbm=isch&tbo=u&source=univ&sa=X)
+- [burlap bag](http://www.google.com.tw/search?q=%22burlap+bag%22&num=100&gws_rd=ssl&tbm=isch&tbo=u&source=univ&sa=X)
+- [yeast](http://www.google.com.tw/search?q=%22yeast%22&num=100&gws_rd=ssl&tbm=isch&tbo=u&source=univ&sa=X)
+- [ferment](http://www.google.com.tw/search?q=%22ferment%22&num=100&gws_rd=ssl&tbm=isch&tbo=u&source=univ&sa=X)
+- [mutual assistance society](http://www.google.com.tw/search?q=%22mutual+assistance+society%22&num=100&gws_rd=ssl&tbm=isch&tbo=u&source=univ&sa=X)
+- [incapacitated](http://www.google.com.tw/search?q=%22incapacitated%22&num=100&gws_rd=ssl&tbm=isch&tbo=u&source=univ&sa=X)
+- [wad](http://www.google.com.tw/search?q=%22wad%22&num=100&gws_rd=ssl&tbm=isch&tbo=u&source=univ&sa=X)
+- [difference between roast and bake](https://duckduckgo.com/?q=difference+roast+bake&ia=web)
 
 ## Depression food strategies
 
@@ -541,6 +555,13 @@ survive
 things 
 
 We would _____(1) a quart of wine for 25 cents and we would _____(2) wine to our _____(3). In _____(4) we would get other _____(5) from them. The family of an Italian _____(6), who used to be gone for a _____(7) or so and who'd _____(8) back with a wad of _____(9), would buy a whole _____(10). And we'd _____(11) that pig. And everybody _____(12) from that building with that pig. So _____(13) ate the pig from the Italian guy and everybody _____(14) the wine from the _____(15) family. That's how you _____(16) through a Depression.
+
+## Getting something, Alternatives
+
+- [Semantics of getting something](https://framenet2.icsi.berkeley.edu/fnReports/data/frameIndex.xml?frame=Getting_scenario)
+- [Semantics of receiving something](https://framenet2.icsi.berkeley.edu/fnReports/data/frameIndex.xml?frame=Receiving_scenario)
+- [Semantics of alternatives](https://framenet2.icsi.berkeley.edu/fnReports/data/frameIndex.xml?frame=Alternatives)
+
 
 # Depression cooking
 
