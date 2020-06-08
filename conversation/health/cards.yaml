@@ -65,3 +65,30 @@ viviano:
           answer: True
         - question: Dana's daughter thinks what her mother is doing is terrible.
           answer: False
+postal:
+  jigsaw:
+    0:
+      identifier: COVID-19 patients dependent on postal workers for medicines, supplies
+      quiz:
+        - question: |+
+            We're like a *lifeline*
+          option:
+            - Protagonist
+            - Means or Intermediary
+            - Benefit
+          answer: Means or Intermediary
+        - question: |+
+            Getting people *their medicines, their supplies*
+          option:
+            - Protagonist
+            - Means or Intermediary
+            - Benefit
+          answer: Benefit
+        - question: |+
+            I had a *customer* recently on my route pass away. 
+          option:
+            - Protagonist
+            - Means or Intermediary
+            - Benefit
+          answer: Protagonist
+        
