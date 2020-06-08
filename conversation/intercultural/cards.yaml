@@ -1040,7 +1040,42 @@ difference:
             - Kiss them
             - Hug them
           answer: Hug them
-        
+preciado:
+  jigsaw:
+    0:
+      identifier: Preciado Sr--his regret
+      quiz:
+        - question: |+
+            Not being able to become a teacher
+          option:
+            - the Experiencer
+            - the Result
+            - the Stimulus
+          answer: the Stimulus
+        - question: |+
+            Regret
+          option:
+            - the Experiencer
+            - the Result
+            - the Stimulus
+          answer: the Result
+    1:
+      identifier: Preciado Sr--his feeling of pride
+      quiz:
+        - question: |+
+            Seeing his son graduate from Stanford
+          option:
+            - the Experiencer
+            - the Result
+            - the Stimulus
+          answer: the Stimulus
+        - question: |+
+            It’s like a little bit of me there. It gives me a lot of pride.
+          option:
+            - the Experiencer
+            - the Result
+            - the Stimulus
+          answer: the Result
         
         
         

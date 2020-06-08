@@ -7,7 +7,40 @@
 - [Getting people to give way](https://travel.stackexchange.com/questions/85277/how-to-politely-ask-people-from-east-asia-to-give-way)
 - [Accidental bodily contact in train in England and apologizing for it](https://books.google.com.tw/books?id=WbKKFKUNQLYC&pg=PT35&lpg=PT35&dq=%22bodily+contact%22+train+apologize&source=bl&ots=-Z29hM55-o&sig=zBTtXD8Q4QsB9SX7QG7QVdG4AP4&hl=zh-TW&sa=X&ved=2ahUKEwjY0-mmrtXeAhVMPHAKHbEzCikQ6AEwBHoECAUQAQ#v=onepage&q=%22bodily%20contact%22%20train%20apologize&f=false)
 
+# Francisco ”Frankie” Preciado Jr. and Francisco Preciado Sr.
 
+## Link
+
+[https://storycorps.org/stories/francisco-and-frankie-preciado-160513/](https://storycorps.org/stories/francisco-and-frankie-preciado-160513/)
+
+## Transcript
+
+FP Jr: Since I was around nine or ten, I would come sometimes with you to help you on campus.
+
+FP Sr: I remember I told you that one day, you were going to go here to Stanford.
+
+FP Jr: That really stuck with me. And when I also would go with mom to clean houses, I saw the hard work and that set the example for me. So because of you, I applied.
+
+FP Sr: And then, you told us that you had been accepted but you were worried that, “Financially dad, I don’t know if I can go because I don’t have the money.” And I told you, “Your mom and I will do whatever needs to be done.”
+
+FP Jr: When I was on campus, I knew that on Mondays and Fridays you would clean the fountains around 1:15pm, so I would make sure that I would walk that way to go and see you, and check in to see how things were going.
+
+FP Sr: It was a routine, and my friends there at work, they always would tell me, “Oh I saw your son over here, or I’ve seen him over there.” It was like I had extra eyes watching over you.
+
+FP Jr: Do you remember what I told you my graduation day?
+
+FP Sr: Of course. You said, “Dad, this diploma is for you. And I still joke, because we have the diploma at home on the wall, and I go, “No, you can’t take that with you. You told me that was mine, I’m keeping it.”
+
+FP Jr: Reflecting about your life, do you have any regrets?
+
+FP Sr: Yes, I do have one major regret. I was actually going to college to be a teacher, but I had financial problems, so I had to leave school and get a full-time job. And sometimes, I still think about being able to be a teacher, but I feel to me that it’s too late. And to see my son go to Stanford, it’s like a little bit of me there. It gives me a lot of pride.
+
+## Pride and regret
+
+FP Sr: Yes, I do have one major regret. I was actually going to college to be a teacher, but I had financial problems, so I had to leave school and get a full-time job. And sometimes, I still think about being able to be a teacher, but I feel to me that it’s too late. And to see my son go to Stanford, it’s like a little bit of me there. It gives me a lot of pride.
+
+- [https://framenet2.icsi.berkeley.edu/fnReports/data/frameIndex.xml?frame=Experiencer_focused_emotion](https://framenet2.icsi.berkeley.edu/fnReports/data/frameIndex.xml?frame=Experiencer_focused_emotion)
+- [https://framenet2.icsi.berkeley.edu/fnReports/data/frameIndex.xml?frame=Stimulate_emotion](https://framenet2.icsi.berkeley.edu/fnReports/data/frameIndex.xml?frame=Stimulate_emotion)
 
 # Recording
 
