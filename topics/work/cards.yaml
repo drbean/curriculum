@@ -29,7 +29,7 @@ job:
       teacher        : 老師
       waiter         : 服務員
       dentist        : 牙醫
-  2:
+  1:
     flash:
       photographer     : 攝影師
       pilot            : 飛行員
@@ -39,6 +39,23 @@ job:
       astronaut        : 宇航員
       sailor           : 水手
       business person  : 商務人士
+  2:
+    flash:
+      firefighter    : 消防隊員
+      cartoonist     : 漫畫家
+      publisher      : 發布者
+      soldier        : 士兵
+      army           : 軍隊
+      drummer        : 鼓手
+      medical worker : 醫務工作者
+      factory worker : 工廠員工
+
+
+
+
+
+
+
 
 
 
