@@ -107,4 +107,18 @@ While reading the text, try to understand it. And divide it into paragraphs. Pic
 	has always been, A *happy guest* is our 
 	greatest treasure.
 
+# Alice in Wonderland--In Chinese and English
 
+## Youtube links
+
+In English:
+
+- [https://www.youtube.com/watch?v=ttBU-kDINz8](https://www.youtube.com/watch?v=ttBU-kDINz8)
+
+In Chinese:
+
+- [https://www.youtube.com/watch?v=wWif5WuB0to](https://www.youtube.com/watch?v=wWif5WuB0to)
+
+## Waveforms
+
+In English (above) and Chinese (below):
