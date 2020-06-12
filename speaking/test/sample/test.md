@@ -37,6 +37,8 @@
 
 - [\[#05\ 토익스피킹\ 모범답변\]\ -\ Model\ response\ for\ TOEIC\ SPEAKING\ Actual\ Test\ \(#05\)\ -\ 2019.11.18--XqDD3hE7hM.mp4](http://web.nuu.edu.tw/~greg/toeic/sample/\[%2305\ 토익스피킹\ 모범답변\]\ -\ Model\ response\ for\ TOEIC\ SPEAKING\ Actual\ Test\ \%28%2305%29\ -\ 2019.11.18--XqDD3hE7hM.mp4)
 
+- [\[#11\ 토익스피킹\ 모범답변\]\ -\ Model\ response\ for\ TOEIC\ SPEAKING\ Actual\ Test\ \(#11\)\ -\ 20.02.17-BNhZQE9BHsk.mp4](http://web.nuu.edu.tw/~greg/toeic/sample/\[%2311\ 토익스피킹\ 모범답변\]\ -\ Model\ response\ for\ TOEIC\ SPEAKING\ Actual\ Test\ \%28%2311%29\ -\ 20.02.17-BNhZQE9BHsk.mp4)
+
 - [2020년\ 5월\ 시험\ 복원!\ #토익스피킹\ 모의고사!\ -\ TOEIC\ SPEAKING\ Actual\ Test-5CP3PPb1K2g.mp4](http://web.nuu.edu.tw/~greg/toeic/sample/2020-5_TOEIC_SPEAKING_Actual_Test-5CP3PPb1K2g.mp4)
 
 ### [Jenny Cha](https://www.youtube.com/channel/UCnLyZZgF9BQtayaWnPmNKWQ)
@@ -77,5 +79,9 @@ or, [IELTS Speaking Interview - Practice for a Score 7](http://web.nuu.edu.tw/~g
 
 Compare the 2 versions
 
+- [Alice in Wonderland in English _ Stories for Teenagers _ English Fairy Tales-ttBU-kDINz8.mp4](http://web.nuu.edu.tw/~greg/toeic/sample/Alice_in_Wonderland_in_English___Stories_for_Teenagers___English_Fairy_Tales-ttBU-kDINz8.mp4)
+- [alice_in_wonderland_in_chinese-wWif5WuB0to.mp4](http://web.nuu.edu.tw//~greg/toeic/sample/alice_in_wonderland_in_chinese-wWif5WuB0to.mp4)
 
-[Alice in Wonderland in English _ Stories for Teenagers _ English Fairy Tales-ttBU-kDINz8.mp4](http://web.nuu.edu.tw/~greg/toeic/sample/Alice in Wonderland in English _ Stories for Teenagers _ English Fairy [Tales-ttBU-kDINz8.mp4)
+Together
+
+[english-chinese.ogg](http://web.nuu.edu.tw/~greg/toeic/sample/english-chinese.ogg)
