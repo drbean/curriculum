@@ -4,6 +4,8 @@
 
 # Body contact
 
+## Body contact
+
 - [Getting people to give way](https://travel.stackexchange.com/questions/85277/how-to-politely-ask-people-from-east-asia-to-give-way)
 - [Accidental bodily contact in train in England and apologizing for it](https://books.google.com.tw/books?id=WbKKFKUNQLYC&pg=PT35&lpg=PT35&dq=%22bodily+contact%22+train+apologize&source=bl&ots=-Z29hM55-o&sig=zBTtXD8Q4QsB9SX7QG7QVdG4AP4&hl=zh-TW&sa=X&ved=2ahUKEwjY0-mmrtXeAhVMPHAKHbEzCikQ6AEwBHoECAUQAQ#v=onepage&q=%22bodily%20contact%22%20train%20apologize&f=false)
 
@@ -35,7 +37,25 @@ FP Jr: Reflecting about your life, do you have any regrets?
 
 FP Sr: Yes, I do have one major regret. I was actually going to college to be a teacher, but I had financial problems, so I had to leave school and get a full-time job. And sometimes, I still think about being able to be a teacher, but I feel to me that it’s too late. And to see my son go to Stanford, it’s like a little bit of me there. It gives me a lot of pride.
 
+# Pride and regret
+
+
 ## Pride and regret
+
+
+able
+and
+bit
+financial
+late
+pride
+regret
+teacher
+
+FP Sr: Yes, I do have one major _____(1) . I was actually going to college to be a _____(2) , but I had _____(3) problems, so I had to leave school _____(4) get a full-time job. And sometimes, I still think about being _____(5) to be a teacher, but I feel to me that it’s too _____(6) . And to see my son go to Stanford, it’s like a little _____(7) of me there. It gives me a lot of _____(8) .
+
+
+## Pride and regret--Experiencer-focused emotion ond/r Stimulated emotion
 
 FP Sr: Yes, I do have one major regret. I was actually going to college to be a teacher, but I had financial problems, so I had to leave school and get a full-time job. And sometimes, I still think about being able to be a teacher, but I feel to me that it’s too late. And to see my son go to Stanford, it’s like a little bit of me there. It gives me a lot of pride.
 
