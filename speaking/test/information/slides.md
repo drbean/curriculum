@@ -129,6 +129,32 @@ How many hours will each performer play over the 3 days?
 a. 3 hours
 b. Not specified
 
+
+# Computer classes
+
+## Question 7--Word processing for beginners
+
+Monday and Wednesday at 5-6:30 or 7-8:30
+
+Why 'and' and 'or?'
+
+
+## Question 8--Cost of class
+
+- $250
+- session
+
+## Question 9--Classes on the weekend
+
+- adults
+- advanced
+
+There is no word-processing class for beginners on Saturday, but does that mean she can't choose a class on Saturday?
+
+Is it a good idea to mention that there is no word-processing class for beginners on Saturday?
+
+Should you mention all the classes and all the times on Saturday?
+
 # Plan of work
 
 ## Individual work as in actual test
