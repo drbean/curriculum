@@ -77,6 +77,21 @@ A *short* summary is OK, but not necessary.
 
 However, having some structure in mind for your description of the picture *is* important. Connect everything you say with some point, the *main point* about the picture.
 
+# Planning the opening of a site
+
+## [#11 토익스피킹 모범답변] - Model response for TOEIC SPEAKING Actual Test (#11) - 20.02.17-BNhZQE9BHsk.mp4
+
+- [\[#11\ 토익스피킹\ 모범답변\]\ -\ Model\ response\ for\ TOEIC\ SPEAKING\ Actual\ Test\ \(#11\)\ -\ 20.02.17-BNhZQE9BHsk.mp4](http://web.nuu.edu.tw/~greg/toeic/sample/\[%2311\ 토익스피킹\ 모범답변\]\ -\ Model\ response\ for\ TOEIC\ SPEAKING\ Actual\ Test\ \%28%2311%29\ -\ 20.02.17-BNhZQE9BHsk.mp4)
+
+## Words
+
+- [air duct](http://www.google.com.tw/search?q=%22air+duct%22&num=100)
+- [shelf](http://www.google.com.tw/search?q=%22shelf%22&num=100)
+- [gesture](http://www.google.com.tw/search?q=%22gesture%22&num=100)
+- [scarf](http://images.google.com.tw/search?q=%22scarf%22&num=100)
+- [counter](http://images.google.com.tw/search?q=%22counter%22&num=100)
+
+
 # Metonym
 
 ## Definition
