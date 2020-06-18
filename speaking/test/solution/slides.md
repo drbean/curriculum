@@ -618,6 +618,72 @@ up
 
 The doctor can _____(78) give you a _____(79) for pain. If you _____(80) the name of your pharmacy, we can give the prescription _____(81) the phone. _____(82) you can pick _____(83) _____(84) this morning.
 
+# [#11 토익스피킹 모범답변] - Model response for TOEIC SPEAKING Actual Test (#11) - 20.02.17
+
+## An embarrassment of riches
+
+- [https://en.wikipedia.org/wiki/Embarrassment_of_riches](https://en.wikipedia.org/wiki/Embarrassment_of_riches)
+
+## full text--problem
+
+| I have one last thing to discuss with you at this sales manager meeting. 
+| As you know our customers are greatly satisfied with our monthly promotions that offer shoes at reasonable prices.
+| And next month we are going to hold a special promotion on running shoes.
+| We have several different models to present to the customers.
+| However we have limited space to display the running shoes.
+| 
+| It sounds like we will have to make a choice on which shoes should go on display, considering the popularity and profit margin we will be making.
+| 
+| That is the point. How should we choose which running shoes models to display at the store during the promotion?
+| I hope to hear an idea from all of you after the meeting.
+| Please leave me a message by tomorrow.
+| Thank you.
+
+## full text--solution part 1
+
+| Hello. This is Gwen.
+| I heard we are going to hold a special promotion on running shoes.
+| However, there is a problem, because there are too many models.
+| And you don't know which ones to choose for display.
+| So you'd like to get some help with this matter.
+| First of all, I'm sorry to hear about the situation.
+| However, I'm happy to say there is a way to help you out.
+
+## full text--solution part 2
+
+| After looking into the situation, I came up with the following suggestions:
+| I think it is a good idea to do a survey and choose more popular ones.
+| That should be helpful.
+| Moreover, why don't we display cheaper shoes.
+| That should be helpful to sell more.
+| Those are my suggestions.
+| If you need more help, feel free to call me back any time.
+| Bye.
+
+## Feedback
+
+Lix: 0:21
+
+I think you can choose the higher XXXX or cheap items *preferentially*.
+
+- [pronunciation preferentially](http://www.google.com.tw/search?q=%22pronunciation+preferentially%22&num=100)
+
+Ethan:
+
+Advertising the promotion is a good idea, but it is not a good solution to the problem of choosing the shoes to display.
+
+Myron:
+
+This is my suggest (not suggest, but XXXX)
+
+Patrick:
+
+I heard that we're gonna hold a (gonna?) special promotion on running shoes
+
+But XXXX on which shoes we should choose.
+
+*Although* However?
+
 # Plan of work
 
 # Stages--preparation, practice, test
