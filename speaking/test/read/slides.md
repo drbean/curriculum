@@ -107,7 +107,20 @@ While reading the text, try to understand it. And divide it into paragraphs. Pic
 	has always been, A *happy guest* is our 
 	greatest treasure.
 
-# Alice in Wonderland--In Chinese and English
+# Sentence stress, word stress in Alice in Wonderland
+
+## Alice in Wonderland in Chinese and English
+
+Compare the 2 versions
+
+- [Alice in Wonderland in English _ Stories for Teenagers _ English Fairy Tales-ttBU-kDINz8.mp4](http://web.nuu.edu.tw/~greg/toeic/sample/Alice_in_Wonderland_in_English___Stories_for_Teenagers___English_Fairy_Tales-ttBU-kDINz8.mp4)
+- [alice_in_wonderland_in_chinese-wWif5WuB0to.mp4](http://web.nuu.edu.tw//~greg/toeic/sample/alice_in_wonderland_in_chinese-wWif5WuB0to.mp4)
+
+Together
+
+[english-chinese.ogg](http://web.nuu.edu.tw/~greg/toeic/sample/english-chinese.ogg)
+
+Which sounds louder to you? The English sounds louder to me.
 
 ## Youtube links
 
@@ -122,3 +135,6 @@ In Chinese:
 ## Waveforms
 
 In English (above) and Chinese (below):
+
+[waveform.aup](http://web.nuu.edu.tw/~greg/toeic/sample/waveform.aup)
+
