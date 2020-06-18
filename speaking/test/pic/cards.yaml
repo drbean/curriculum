@@ -414,4 +414,57 @@ error:
             - hard to understand (=1)
             - not consistent with the picture (=1)
           answer: more than one sentence (=2)
+planning:
+  jigsaw:
+    0:
+      identifier: foreground, background of picture
+      quiz:
+        - question: |+
+            There are 2 people in the foreground.
+          option:
+            - True
+            - False
+          answer: True
+        - question: |+
+            There is some kind of air duct in the background.
+          option:
+            - True
+            - False
+          answer: True
+        - question: There is a coffee cup in the background.
+          answer: False
+        - question: There are some shelves in the foreground.
+          answer: False
+    1:
+      identifier: timing of Question 3--describe a picture
+      quiz:
+        - question: |+
+            How long do you have to prepare your response?
+          option:
+            - 30 seconds
+            - 45 seconds
+            - 60 seconds
+          answer: 45 seconds
+        - question: |+
+            How long do you have to speak about the picture?
+          option:
+            - 30 seconds
+            - 45 seconds
+            - 60 seconds
+          answer: 45 seconds
+    2:
+      identifier: preparing response to Question 3--describe a picture
+      quiz:
+        - question: It is NOT a good idea to use a more general word for something if you don't know the name of it, eg 'pipe' or 'tube' for 'air duct.'
+          answer: False
+        - question: It is a good idea to write down the name of things you can see.
+          answer: True
+        - question: It is NOT a good idea to lay out the names on paper in an arrangement that matches that of the picture.
+          answer: False
+        - question: It is a good idea to practice the names for parts of a picture beforehand.
+          answer: True
+        - question: It is a good idea to write out in full the sentences you intend to read.
+          answer: False
+        
+        
         
