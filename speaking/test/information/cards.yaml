@@ -178,7 +178,7 @@ itinerary:
           option:
             - Yes
             - No
-          answer: Yes
+          answer: No
     2:
       identifier: details
       quiz:
@@ -288,8 +288,42 @@ itinerary:
             - Meet Stein, Brevoort, Baines and ExTime sales team, and later Board
             - Meet with some people and return to Miami in the afternoon
           answer: Meet early in the morning with ExTime sales manager and later with ExTime Board
-        
-        
-        
-        
-        
+class:
+  forum:
+    0:
+      identifier: Homework: Computer classes
+      rubric: |+
+        ## Questions 7, 8, 9: Answering questions with information provided starts on this video file at 8:00.
+
+        - [Full Speaking toeic test 02 | Practice Speaking toeic test with Answers-E4ElMkCLoY.mp4](http://web.nuu.edu.tw/~greg/toeic/sample/Full Speaking toeic test 02 | Practice Speaking toeic test with Answers-E4ElMkCLoY.mp4)
+
+        You can also see it on youtube at
+        [https://www.youtube.com/watch?v=z5pwiOM7-Hw](https://www.youtube.com/watch?v=z5pwiOM7-Hw)
+    
+        Record your answers on a 1-minute (15 seconds + 15 seconds + 30 seconds) sound file and upload it to the forum. Choose a title which describes the training program or the woman's questions.
+
+        Note she has a non-American accent. Probably she's British.
+  jigsaw:
+    0:
+      identifier: Question 7, 8, 9
+      quiz:
+        - question: When can the woman take a word-processing class for beginners?
+          option:
+            - Monday and Wednesday 5-6:30 or 7-8:30
+            - Tuesday and Thursday 5-7
+            - Internet for adults Saturday 9:00-12
+            - Internet for children Saturday 10:30-12
+            - Saturday 1:4
+          answer: Monday and Wednesday 5-6:30 or 7-8:30
+        - question: How much does it cost to take a word-processing class?
+          option:
+            - $250 for 8-week session
+            - $250 for 8-week session, plus books and materials an extra $50
+          answer: $250 for 8-week session, plus books and materials an extra $50
+        - question: The woman may not be able to take a class during the week. She wants information about Saturday classes.
+          option:
+            - Internet for adults Saturday 9:00-12 - Internet for children Saturday 10:30-12 - Word processing (advanced) Saturday 1:4
+            - Internet for adults Saturday 9:00-12 - Internet for children Saturday 10:30-12
+            - Word processing (advanced) Saturday 1:4
+            - Internet for adults Saturday 9:00-12 - Word processing (advanced) Saturday 1:4
+          answer: Internet for adults Saturday 9:00-12 - Internet for children Saturday 10:30-12 - Word processing (advanced) Saturday 1:4
