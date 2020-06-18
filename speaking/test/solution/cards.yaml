@@ -243,5 +243,289 @@ restaurant:
         The restaurant is closing for a short period to rebuild so it can increase the number of tables, but is worried it will lose customers. Listen to the manager at 10 minutes in to the first link above and the model response at 7:10 minutes into the second link.
 
         What is your solution to the customer loss problem? In your response, show you recognize the problem.
+shoe:
+  forum:
+    0:
+      identifier: "Homework: Proposing a solution--Choosing which shoes to display"
+      rubric: |+
+        Listen to the problem, at
+        [http://web.nuu.edu.tw/~greg/toeic/sample/%5B%2311%20%ED%86%A0%EC%9D%B5%EC%8A%A4%ED%94%BC%ED%82%B9%20%EB%AA%A8%EB%B2%94%EB%8B%B5%EB%B3%80%5D%20-%20Model%20response%20for%20TOEIC%20SPEAKING%20Actual%20Test%20%28%2311%29%20-%2020.02.17-BNhZQE9BHsk.mp4](http://web.nuu.edu.tw/~greg/toeic/sample/%5B%2311%20%ED%86%A0%EC%9D%B5%EC%8A%A4%ED%94%BC%ED%82%B9%20%EB%AA%A8%EB%B2%94%EB%8B%B5%EB%B3%80%5D%20-%20Model%20response%20for%20TOEIC%20SPEAKING%20Actual%20Test%20%28%2311%29%20-%2020.02.17-BNhZQE9BHsk.mp4)
+        or
+        [https://www.youtube.com/watch?v=BNhZQE9BHsk](https://www.youtube.com/watch?v=BNhZQE9BHsk)
 
-    
+        And listen to the sample response.
+
+        Do something similar, following the structure of the sample response.
+
+        0. Say hello.
+        1. Spend 20 seconds showing you recognize the problem.
+        2. Make a comment about the situation, eg "It is actually good we have too many shoe models."
+        3. Claim that a solution exists, eg "I believe we can solve this problem."
+        4. Say what you did to arrive at a solution, and announce the solution, eg "I have thought of what we can do, and I came up with the following answer."
+        5. State your solution.
+        6. Evaluate your solution, eg "I think this will help ..."
+        7. Say that this is your solution, eg "This is what I would do. This is my solution."
+        8. Offer continued help, eg "Feel free to contact me if you want more."
+        9. Say good-bye.
+
+        And do the classwork for Week 14, if you didn't do it already. It will help you practice the structure above. 
+  jigsaw:
+    0:
+      identifier: promotion display choices--the problem
+      quiz:
+        - question: I have one last thing to discuss with you at this sales manager meeting.
+          option:
+            - leadup/background to problem
+            - the problem
+            - steps toward a solution
+            - instructions to employees
+          answer: leadup/background to problem
+        - question: As you know our customers are greatly satisfied with our monthly promotions that offer shoes at reasonable prices.
+          option:
+            - background to problem
+            - the problem
+            - steps toward a solution
+            - instructions to employees
+          answer: background to problem
+        - question: And next month we are going to hold a special promotion on running shoes.
+          option:
+            - background to problem
+            - the problem
+            - steps toward a solution
+            - instructions to employees
+          answer: background to problem
+        - question: We have several different models to present to the customers.
+          option:
+            - background to problem
+            - the problem
+            - steps toward a solution
+            - instructions to employees
+          answer: background to problem
+        - question: However we have limited space to display the running shoes.
+          option:
+            - background to problem
+            - the problem
+            - steps toward a solution
+            - instructions to employees
+          answer: the problem
+        - question: It sounds like we will have to make a choice on which shoes should go on display, considering the popularity and profit margin we will be making.
+          option:
+            - background to problem
+            - the problem
+            - steps toward a solution
+            - instructions to employees
+          answer: steps toward a solution
+        - question: How should we choose which running shoes models to display at the store during the promotion?
+          option:
+            - background to problem
+            - the problem
+            - steps toward a solution
+            - instructions to employees
+          answer: the problem
+        - question: I hope to hear an idea from all of you after the meeting. Please leave me a message by tomorrow.
+          option:
+            - background to problem
+            - the problem
+            - steps toward a solution
+            - instructions to employees
+          answer: instructions to employees
+    1:
+      identifier: promotion display choices--the solution
+      quiz:
+        - question: Hello. This is Gwen.
+          option:
+            - establishing_contact
+            - confirmation check, showing you recognize the problem
+            - comments about the situation
+            - claim that a solution exists
+            - account of work to find a solution, announcement that a solution follows
+            - a solution
+            - evaluation of the solution
+            - sign-posting solutions "Solutions that-a-way"
+            - offer of continued help
+            - parting
+          answer: establishing_contact
+        - question: I heard we are going to hold a special promotion on running shoes.
+          option:
+            - establishing_contact
+            - confirmation check, showing you recognize the problem
+            - comments about the situation
+            - claim that a solution exists
+            - account of work to find a solution, announcement that a solution follows
+            - a solution
+            - evaluation of the solution
+            - sign-posting solutions "Solutions that-a-way"
+            - offer of continued help
+            - parting
+          answer: confirmation check, showing you recognize the problem
+        - question: However, there is a problem, because there are too many models.
+          option:
+            - establishing_contact
+            - confirmation check, showing you recognize the problem
+            - comments about the situation
+            - claim that a solution exists
+            - account of work to find a solution, announcement that a solution follows
+            - a solution
+            - evaluation of the solution
+            - sign-posting solutions "Solutions that-a-way"
+            - offer of continued help
+            - parting
+          answer: confirmation check, showing you recognize the problem
+        - question: And you don't know which ones to choose for display.
+          option:
+            - establishing_contact
+            - confirmation check, showing you recognize the problem
+            - comments about the situation
+            - claim that a solution exists
+            - account of work to find a solution, announcement that a solution follows
+            - a solution
+            - evaluation of the solution
+            - sign-posting solutions "Solutions that-a-way"
+            - offer of continued help
+            - parting
+          answer: confirmation check, showing you recognize the problem
+        - question: So you'd like to get some help with this matter.
+          option:
+            - establishing_contact
+            - confirmation check, showing you recognize the problem
+            - comments about the situation
+            - claim that a solution exists
+            - account of work to find a solution, announcement that a solution follows
+            - a solution
+            - evaluation of the solution
+            - sign-posting solutions "Solutions that-a-way"
+            - offer of continued help
+            - parting
+          answer: confirmation check, showing you recognize the problem
+        - question: First of all, I'm sorry to hear about the situation.
+          option:
+            - establishing_contact
+            - confirmation check, showing you recognize the problem
+            - comments about the situation
+            - claim that a solution exists
+            - account of work to find a solution, announcement that a solution follows
+            - a solution
+            - evaluation of the solution
+            - sign-posting solutions "Solutions that-a-way"
+            - offer of continued help
+            - parting
+          answer: comments about the situation
+        - question: However, I'm happy to say there is a way to help you out.
+          option:
+            - establishing_contact
+            - confirmation check, showing you recognize the problem
+            - comments about the situation
+            - claim that a solution exists
+            - account of work to find a solution, announcement that a solution follows
+            - a solution
+            - evaluation of the solution
+            - sign-posting solutions "Solutions that-a-way"
+            - offer of continued help
+            - parting
+          answer: claim that a solution exists
+        - question: After looking into the situation, I came up with the following suggestions--
+          option:
+            - establishing_contact
+            - confirmation check, showing you recognize the problem
+            - comments about the situation
+            - claim that a solution exists
+            - account of work to find a solution, announcement that a solution follows
+            - a solution
+            - evaluation of the solution
+            - sign-posting solutions "Solutions that-a-way"
+            - offer of continued help
+            - parting
+          answer: account of work to find a solution, announcement that a solution follows
+        - question: I think it is a good idea to do a survey and choose more popular ones.
+          option:
+            - establishing_contact
+            - confirmation check, showing you recognize the problem
+            - comments about the situation
+            - claim that a solution exists
+            - account of work to find a solution, announcement that a solution follows
+            - a solution
+            - evaluation of the solution
+            - sign-posting solutions "Solutions that-a-way"
+            - offer of continued help
+            - parting
+          answer: a solution
+        - question: That should be helpful.
+          option:
+            - establishing_contact
+            - confirmation check, showing you recognize the problem
+            - comments about the situation
+            - claim that a solution exists
+            - account of work to find a solution, announcement that a solution follows
+            - a solution
+            - evaluation of the solution
+            - sign-posting solutions "Solutions that-a-way"
+            - offer of continued help
+            - parting
+          answer: evaluation of the solution
+        - question: Moreover, why don't we display cheaper shoes.
+          option:
+            - establishing_contact
+            - confirmation check, showing you recognize the problem
+            - comments about the situation
+            - claim that a solution exists
+            - account of work to find a solution, announcement that a solution follows
+            - a solution
+            - evaluation of the solution
+            - sign-posting solutions "Solutions that-a-way"
+            - offer of continued help
+            - parting
+          answer: a solution
+        - question: That should be helpful to sell more.
+          option:
+            - establishing_contact
+            - confirmation check, showing you recognize the problem
+            - comments about the situation
+            - claim that a solution exists
+            - account of work to find a solution, announcement that a solution follows
+            - a solution
+            - evaluation of the solution
+            - sign-posting solutions "Solutions that-a-way"
+            - offer of continued help
+            - parting
+          answer: evaluation of the solution
+        - question: Those are my suggestions.
+          option:
+            - establishing_contact
+            - confirmation check, showing you recognize the problem
+            - comments about the situation
+            - claim that a solution exists
+            - account of work to find a solution, announcement that a solution follows
+            - a solution
+            - evaluation of the solution
+            - sign-posting solutions "Solutions that-a-way"
+            - offer of continued help
+            - parting
+          answer: sign-posting solutions "Solutions that-a-way"
+        - question: If you need more help, feel free to call me back any time.
+          option:
+            - establishing_contact
+            - confirmation check, showing you recognize the problem
+            - comments about the situation
+            - claim that a solution exists
+            - account of work to find a solution, announcement that a solution follows
+            - a solution
+            - evaluation of the solution
+            - sign-posting solutions "Solutions that-a-way"
+            - offer of continued help
+            - parting
+          answer: offer of continued help
+        - question: Bye.
+          option:
+            - establishing_contact
+            - confirmation check, showing you recognize the problem
+            - comments about the situation
+            - claim that a solution exists
+            - account of work to find a solution, announcement that a solution follows
+            - a solution
+            - evaluation of the solution
+            - sign-posting solutions "Solutions that-a-way"
+            - offer of continued help
+            - ending contact
+          answer: ending contact
+
+
