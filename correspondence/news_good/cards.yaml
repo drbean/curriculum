@@ -146,6 +146,54 @@ point:
         
 repair:
   jigsaw:
+    structure:
+      identifier: Match each paragraph of the car repair message on p 74 (p80 of the PDF) with the structure of a good news message on p73 (p79 of the PDF)
+      quiz:
+        - question: |+
+            paragraph 1
+          option:
+            - good news
+            - details
+            - sales appeal
+            - useful information
+            - polite close
+          answer: good news
+        - question: |+
+            paragraph 2
+          option:
+            - good news
+            - details
+            - sales appeal
+            - useful information
+            - polite close
+          answer: details
+        - question: |+
+            paragraph 3
+          option:
+            - good news
+            - details
+            - sales appeal
+            - useful information
+            - polite close
+          answer: sales appeal
+        - question: |+
+            paragraph 4
+          option:
+            - good news
+            - details
+            - sales appeal
+            - useful information
+            - polite close
+          answer: useful information
+        - question: |+
+            paragraph 5
+          option:
+            - good news
+            - details
+            - sales appeal
+            - useful information
+            - polite close
+          answer: polite close
     step_1:
       identifier: good news step 1--the case of the car repair
       quiz:
@@ -279,6 +327,20 @@ repair:
             - Come to the shop on Sunday.
             - Pay $1,500.
           answer: Call the shop.
+    short:
+      identifier: "repair shop structure: true/false--Short version"
+      quiz:
+        - question: "'It is not going to cost as much as we told you,' is the good news."
+          answer: True
+        - question: "'A different starter motor is $2,000,' is the details."
+          answer: True
+        - question: "'We will fix your engine and exhaust for $1,100,' is the details."
+          answer: False
+        - question: "'The shop is open on Sundays,' is the useful information."
+          answer: True
+        - question: "'Thank you. We are always happy to help' is the polite close."
+          answer: True
+        
     structure:
       identifier: "repair shop structure: true/false"
       quiz:
