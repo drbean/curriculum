@@ -1022,7 +1022,7 @@ sweater:
               feedback: Use the words, "(hearing from you)"
             
     20:
-      identifier: example 
+      identifier: example of order, acknowledgment, cancellation
       quiz:
         - question: sweater email p 115
           option:
@@ -1081,7 +1081,7 @@ sweater:
             - order, cancellation, acknowledgment
           answer: order, acknowledgment, cancellation
     24:
-      identifier: 1st 3 parts
+      identifier: 1st 3 parts of an order message
       quiz:
         - question: What is the best order for these 3 parts of an order message?
           option:
@@ -1093,7 +1093,7 @@ sweater:
             - Source of knowledge about supplier, Self-introduction, Mention of order
           answer: Self-introduction, Source of knowledge about supplier, Mention of order
     25:
-      identifier: 2nd 3 parts
+      identifier: 2nd 3 parts of an order message
       quiz:
         - question: What is the best order for these 3 parts of an order message?
           option:
@@ -1105,7 +1105,7 @@ sweater:
             - Pricing details, Order, Deadline
           answer: Order, Pricing details, Deadline
     26:
-      identifier: 3rd 3 parts
+      identifier: 3rd 3 parts of an order message
       quiz:
         - question: What is the best order for these 3 parts of an order message?
           option:
@@ -1264,7 +1264,7 @@ cancel:
       pair:
         -
           - subject line
-          - "'Cancellation of ..:'"
+          - "Cancellation of Order Numbers SX126/F &SX128/F"
         -
           - reference to initial order
           - "'On May 26, I ..'"
@@ -1299,7 +1299,7 @@ cancel:
           - "'Could you please ..'"
           - request confirmation
     3:
-      identifier: cancel word match
+      identifier: sweater order cancellation word match
       pair:
         -
           - with reference to
@@ -1356,6 +1356,14 @@ cancel:
         -
           sentence: I seek your understanding in this matter and hope we can do business in the future.
           clozed: I|seek|your|understanding|in|this|matter|and|hope|we|can|do|business|in|the|future|End
+video:
+  url:
+    0:
+      identifier: Week 16 classroom video--hour 1
+      externalurl: https://youtu.be/53795bfUO_o
+    1:
+      identifier: Week 17 classroom video--hour 1
+      externalurl: https://youtu.be/KgKV3bIbrS8
         
         
         
