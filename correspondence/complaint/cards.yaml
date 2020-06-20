@@ -123,10 +123,10 @@ damage:
   description:
     0:
       identifier: Resulting damage
-      questiontext: 'Resulting damage' isn't the physical damage (eg, to the dolls), but the 'cost' or 'inconvenience' as a result of the thing you're complaining about (eg, you can't play with/sell the dolls, because they're broken.) As Michael Bridges says, 'We have a number of customers who have placed firm orders with us for these glasses and keeping them waiting is *DAMAGING* our reputation.'
+      questiontext: "'Resulting damage' isn't the physical damage (eg, to the dolls), but the 'cost' or 'inconvenience' as a result of the thing you're complaining about (eg, you can't play with/sell the dolls, because they're broken.) As Michael Bridges says, 'We have a number of customers who have placed firm orders with us for these glasses and keeping them waiting is *DAMAGING* our reputation.'"
   jigsaw:
     0:
-      identifier: Spot the complaint specifying 'resulting damage'
+      identifier: Spot the complaint specifying resulting damage
       quiz:
         - question: |+
             Order Number769/Food
@@ -502,6 +502,15 @@ threat:
             - a prediction that something bad will happen to the reader
             - an intention, reported to the reader, to hurt him/her unless some condition is met
           answer: an intention, reported to the reader, to hurt him/her unless some condition is met
+    00:
+      identifier: definition of a threat
+      quiz:
+        - question: A threat is--
+          option:
+            - a promise to do something to hurt someone
+            - a prediction that something bad will happen to the reader
+            - an intention, reported to the reader, to hurt him/her unless some condition is met
+          answer: an intention, reported to the reader, to hurt him/her unless some condition is met
     1:
       identifier: threat examples
       quiz:
@@ -625,6 +634,78 @@ glass:
           - polite close
         
   jigsaw:
+    structure:
+      identifier: The structure of the glass complaint on p 100 (p106 of PDF)
+      quiz:
+        - question: |+
+            First sentence in paragraph 1: I am writing ..
+          option:
+            - background
+            - complaint
+            - resulting damage
+            - request
+            - threat
+            - polite close
+          answer: Wrong answer
+        - question: |+
+            Second sentence in paragraph 1: On 12 June 2015 ..
+          option:
+            - background
+            - complaint
+            - resulting damage
+            - request
+            - threat
+            - polite close
+          answer: Wrong answer
+        - question: |+
+            Third sentence in paragraph 1: At that time ..
+          option:
+            - background
+            - complaint
+            - resulting damage
+            - request
+            - threat
+            - polite close
+          answer: Wrong answer
+        - question: |+
+            First sentence in paragraph 2: However, to date ..
+          option:
+            - background
+            - complaint
+            - resulting damage
+            - request
+            - threat
+            - polite close
+          answer: Wrong answer
+        - question: |+
+            Second sentence in paragraph 2: We have a number of ..
+          option:
+            - background
+            - complaint
+            - resulting damage to reputation
+            - request
+            - threat
+            - polite close
+          answer: Wrong answer
+        - question: |+
+            First sentence in paragraph 3: We would appreciate ..
+          option:
+            - background
+            - complaint
+            - resulting damage
+            - request
+            - threat
+            - polite close
+          answer: Wrong answer
+            Second sentence in paragraph 3: Also, if delivery ..
+          option:
+            - background
+            - complaint
+            - resulting damage
+            - request
+            - threat
+            - polite close
+          answer: Wrong answer
     0:
       identifier: glass comprehension
       quiz:
@@ -882,8 +963,58 @@ drink:
         -
           - Thank you again for contacting us and please let me know if we can help further.
           - forward-looking close
+    paragraphreply:
+      identifier: drink paragraph reply strucure
+      pair:
+        -
+          - Paragraph 1--Thank you for your letter date 14 August 2015 concerning the temporary workers you have recently received from us. We appreciate you bringing this matter to our attention.
+          - acknowledgement of contact and appreciation of complaint action
+        -
+          - Paragraph 2--We are sorry that the staff sent to you over the last two months have not met your expectations. Employees have a number of options open to them and this is why they have become more unrealiable.
+          - acceptance of responsibility and reason for problem
+        -
+          - Paragraph 3--We have checked and will be checking on people later this week to ensure they still intend to go to work. Hopefully you will be satisfied with there performances.
+          - report of efforts to prevent problems in future
+        -
+          - Paragraph 4--Thank you again for contacting us and please let me know if we can help further.
+          - forward-looking close
           
   jigsaw:
+    paragraphreply:
+      identifier: drink paragraph reply strucure
+      quiz:
+        - question: |+
+	    Paragraph 1--Thank you for your letter date 14 August 2015 concerning the temporary workers you have recently received from us. We appreciate you bringing this matter to our attention.
+          option:
+	    - acknowledgement of contact and appreciation of complaint action
+	    - acceptance of responsibility and reason for problem
+	    - report of efforts to prevent problems in future
+	    - forward-looking close
+          answer: Wrong answer
+        - question: |+
+            Paragraph 2--We are sorry that the staff sent to you over the last two months have not met your expectations. Employees have a number of options open to them and this is why they have become more unrealiable.
+          option:
+            - acknowledgement of contact and appreciation of complaint action
+            - acceptance of responsibility and reason for problem
+            - report of efforts to prevent problems in future
+            - forward-looking close
+          answer: Wrong answer
+        - question: |+
+            Paragraph 3--We have checked and will be checking on people later this week to ensure they still intend to go to work. Hopefully you will be satisfied with there performances.
+          option: 
+            - acknowledgement of contact and appreciation of complaint action
+            - acceptance of responsibility and reason for problem
+            - report of efforts to prevent problems in future
+            - forward-looking close
+          answer: Wrong answer
+        - question: |+
+            Paragraph 4--Thank you again for contacting us and please let me know if we can help further.
+          option:
+            - acknowledgement of contact and appreciation of complaint action
+            - acceptance of responsibility and reason for problem
+            - report of efforts to prevent problems in future
+            - forward-looking close
+          answer: Wrong answer
     comprehension:
       identifier: drink comprehension
       quiz:
@@ -897,7 +1028,18 @@ drink:
           answer: False
         - question: The threat is workers that are not up to standard
           answer: False
-        - question: There is no polite close. This shows the state of mind of the writer.
+        - question: |+
+            Which of the 6 steps in the complaint structure is missing?
+          option:
+            - background
+            - complaint
+            - damage
+            - request
+            - threat
+            - polite close
+            - None of the 6 steps is missing
+          answer: polite close
+        - question: The absence of the polite close shows the state of mind of the writer.
           answer: True
         
     0:
@@ -1671,7 +1813,101 @@ reply:
         -
           - step 3
           - forward-looking close
-
+  jigsaw:
+    structure:
+      identifier: the structure of a reply to a complaint, accepting or rejecting the claim
+      quiz:
+        - question: |+
+            step 1
+          option:
+            - acknowledgement of contact and appreciation of complaint action
+            - acceptance of responsibility and reason for problem and promise to make up for damage
+            - non-acceptance of responsibility and reason for decision
+            - forward-looking close
+          answer: Wrong answer
+        - question: |+
+            step 2a--accepting claim
+          option:
+            - acknowledgement of contact and appreciation of complaint action
+            - acceptance of responsibility and reason for problem and promise to make up for damage
+            - non-acceptance of responsibility and reason for decision
+            - forward-looking close
+          answer: Wrong answer
+        - question: |+
+            step 2b--rejecting claim
+          option:
+            - acknowledgement of contact and appreciation of complaint action
+            - acceptance of responsibility and reason for problem and promise to make up for damage
+            - non-acceptance of responsibility and reason for decision
+            - forward-looking close
+          answer: Wrong answer
+        - question: |+
+            step 3
+          option:
+            - acknowledgement of contact and appreciation of complaint action
+            - acceptance of responsibility and reason for problem and promise to make up for damage
+            - non-acceptance of responsibility and reason for decision
+            - forward-looking close
+          answer: Wrong answer
+    0:
+      identifier: step 2a parts
+      quiz:
+        - question: |+
+            If you are at fault, say so.
+          option:
+            - acceptance of responsibility
+            - promise to make up for damage
+            - reason for problem
+            - report of efforts to prevent problems in future
+          answer: acceptance of responsibility
+        - question: |+
+            Explain why the problem happened
+          option:
+            - acceptance of responsibility
+            - promise to make up for damage
+            - reason for problem
+            - report of efforts to prevent problems in future
+          answer: acceptance of responsibility
+        - question: |+
+            Tell you will give the reader what they wanted
+          option:
+            - acceptance of responsibility
+            - promise to make up for damage
+            - reason for problem
+            - report of efforts to prevent problems in future
+          answer: promise to make up for damage
+        - question: |+
+            Say what you are doing to stop recurrence of the problem
+          option:
+            - acceptance of responsibility
+            - promise to make up for damage
+            - reason for problem
+            - report of efforts to prevent problems in future
+          answer: report of efforts to prevent problems in future
+    1:
+      identifier: step 2b parts
+      quiz:
+        - question: |+
+            You are not taking responsibility
+          option:
+            - non-acceptance of responsibility
+            - reason for decision
+            - concession to maintain good relationship
+          answer: non-acceptance of responsibility
+        - question: |+
+            Clearly explain why you are not taking responsibility
+          option:
+            - non-acceptance of responsibility
+            - reason for decision
+            - concession to maintain good relationship
+          answer: reason for decision
+        - question: |+
+            Offer something as a token of regret
+          option:
+            - non-acceptance of responsibility
+            - reason for decision
+            - concession to maintain good relationship
+          answer: non-acceptance of responsibility
 bank:
   match:
     0:
@@ -2192,6 +2428,91 @@ mango:
           answer: However, the reason for this was a typhoon recently hit in Taiwan as well as unseasonably high temperatures.
 
 peach:
+  jigsaw:
+    0:
+      identifier: peach order complaint
+      quiz:
+        - question: |+
+            I am writing to complain about a ticket I ordered on your website on Sunday.
+          option:
+            - background
+            - complaint
+            - resulting damage
+            - request
+            - threat
+            - polite close
+          answer: Wrong answer
+        - question: |+
+            The website said I had successfully ordered the ticket. 
+          option:
+            - background
+            - complaint
+            - resulting damage
+            - request
+            - threat
+            - polite close
+          answer: Wrong answer
+        - question: |+
+            However, I have not received an email with the e-ticket. 
+          option:
+            - background
+            - complaint
+            - resulting damage
+            - request
+            - threat
+            - polite close
+          answer: Wrong answer
+        - question: |+
+            In addition, the website closed the page which had the order number on it.  
+          option:
+            - background
+            - complaint
+            - resulting damage
+            - request
+            - threat
+            - polite close
+          answer: Wrong answer
+        - question: |+
+            Accordingly, I don't have an order number for the ticket. 
+          option:
+            - background
+            - complaint
+            - resulting damage
+            - request
+            - threat
+            - polite close
+          answer: Wrong answer
+        - question: |+
+            I would appreciate you informing me if I have the ticket or not.  
+          option:
+            - background
+            - complaint
+            - resulting damage
+            - request
+            - threat
+            - polite close
+          answer: Wrong answer
+        - question: |+
+            If the ticket cannot be sent to me by the end of this month, I will have to book a flight on a different airline.  
+          option:
+            - background
+            - complaint
+            - resulting damage
+            - request
+            - threat
+            - polite close
+          answer: Wrong answer
+        - question: |+
+            Thank you in advance for helping me with this problem.
+          option:
+            - background
+            - complaint
+            - resulting damage
+            - request
+            - threat
+            - polite close
+          answer: Wrong answer
+
   scramble:
     0:
       identifier: peach
