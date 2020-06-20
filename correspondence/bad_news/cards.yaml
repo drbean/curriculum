@@ -1192,28 +1192,28 @@ scramble:
       quiz:
         - question: 1
           option:
-            - it/ we/ earlier/ appreciate/ if/ could/ return/ in/ purchase/ your/days/ ten/ you
+            - it/ we/ would / in / appreciate/ if/ could/ return/ in/ purchase/ your/days/ ten/ you
             - you/ discount/ our/ percent/ a/ would/ service/ eligible/using/ online/ make/ for/ fifteen
             - that/ orders/ paid/ all/ being/ policy/ of/ company/our/ requires/ be/ within/ thirty/ days/ products/ delivered
             - discounts/$1000 or more/ our/ orders/ on/ policy/company/ allows/ individual/ of
           answer: you/ discount/ our/ percent/ a/ would/ service/ eligible/using/ online/ make/ for/ fifteen
         - question: 2
           option:
-            - it/ we/ earlier/ appreciate/ if/ could/ return/ in/ purchase/ your/days/ ten/ you
+            - it/ we/ would / in / appreciate/ if/ could/ return/ in/ purchase/ your/days/ ten/ you
             - you/ discount/ our/ percent/ a/ would/ service/ eligible/using/ online/ make/ for/ fifteen
             - that/ orders/ paid/ all/ being/ policy/ of/ company/our/ requires/ be/ within/ thirty/ days/ products/ delivered
             - discounts/$1000 or more/ our/ orders/ on/ policy/company/ allows/ individual/ of
           answer: discounts/$1000 or more/ our/ orders/ on/ policy/company/ allows/ individual/ of
         - question: 3
           option:
-            - it/ we/ earlier/ appreciate/ if/ could/ return/ in/ purchase/ your/days/ ten/ you
+            - it/ we/ would / in / appreciate/ if/ could/ return/ in/ purchase/ your/days/ ten/ you
             - you/ discount/ our/ percent/ a/ would/ service/ eligible/using/ online/ make/ for/ fifteen
             - that/ orders/ paid/ all/ being/ policy/ of/ company/our/ requires/ be/ within/ thirty/ days/ products/ delivered
             - discounts/$1000 or more/ our/ orders/ on/ policy/company/ allows/ individual/ of
-          answer: it/ we/ earlier/ appreciate/ if/ could/ return/ in/ purchase/ your/days/ ten/ you
+          answer: it/ we/ would / in / appreciate/ if/ could/ return/ in/ purchase/ your/days/ ten/ you
         - question: 4
           option:
-            - it/ we/ earlier/ appreciate/ if/ could/ return/ in/ purchase/ your/days/ ten/ you
+            - it/ we/ would / in / appreciate/ if/ could/ return/ in/ purchase/ your/days/ ten/ you
             - you/ discount/ our/ percent/ a/ would/ service/ eligible/using/ online/ make/ for/ fifteen
             - that/ orders/ paid/ all/ being/ policy/ of/ company/our/ requires/ be/ within/ thirty/ days/ products/ delivered
             - discounts/$1000 or more/ our/ orders/ on/ policy/company/ allows/ individual/ of
