@@ -1,6 +1,16 @@
 ---
 genre: correspondence
 structure:
+  jigsaw:
+    0:
+      identifier: bad news message order
+      quiz:
+        - question: What is the order of the parts of a bad news message on p94 (p100 of PDF)
+          option:
+            - alternative/solution, situation, bad news
+            - bad news, alternative/solution, situation
+            - situation, bad news, alternative/solution
+          answer: situation, bad news, alternative/solution
   match:
     0:
       identifier: bad news structure
@@ -754,6 +764,25 @@ herbal:
         -
           - 4. positive close
           - S. These last 22 years ..
+    2:
+      identifier: Identifying the clozed herbal sentences
+      pair:
+        -
+          - we have enjoyed serving many ..
+          - C. Over that time,
+        -
+          - large number of shopping malls ..
+          - J. However, with the ..
+        -
+          - we hope we will continue to see ..
+          - N. My husband and I ..
+        -
+          - an experience I will cherish forever ..
+          - S. These last 22 years ..
+
+        
+
+        
   description:
     0:
       identifier: herbal scramble
@@ -1137,6 +1166,58 @@ scramble:
             - 6
             - 7
           answer: 1
+    1:
+      identifier: Matching spoken sentences with first 3 scrambled  p 98 sentences\h
+      quiz:
+        - question: 1
+          option:
+            - nine/ wouldn’t/ a/ people/ early/ some/ little/ find/ o’clock?
+            - actually/ cheaper/ we/ looking/ a/ something/ were/ for/ little.
+            - quality/ does/ I/ the/ of/ reflect/ price/ paid/ washer/ not/ the.
+          answer: quality/ does/ I/ the/ of/ reflect/ price/ paid/ washer/ not/ the.
+        - question: 2
+          option: 
+            - nine/ wouldn’t/ a/ people/ early/ some/ little/ find/ o’clock?
+            - actually/ cheaper/ we/ looking/ a/ something/ were/ for/ little.
+            - quality/ does/ I/ the/ of/ reflect/ price/ paid/ washer/ not/ the.
+          answer: nine/ wouldn’t/ a/ people/ early/ some/ little/ find/ o’clock?
+        - question: 3
+          option:
+            - nine/ wouldn’t/ a/ people/ early/ some/ little/ find/ o’clock?
+            - actually/ cheaper/ we/ looking/ a/ something/ were/ for/ little.
+            - quality/ does/ I/ the/ of/ reflect/ price/ paid/ washer/ not/ the.
+          answer: actually/ cheaper/ we/ looking/ a/ something/ were/ for/ little.
+    2:
+      identifier: Matching spoken sentences with 2nd 4 scrambled  p 98 sentences\h
+      quiz:
+        - question: 1
+          option:
+            - it/ we/ earlier/ appreciate/ if/ could/ return/ in/ purchase/ your/days/ ten/ you
+            - you/ discount/ our/ percent/ a/ would/ service/ eligible/using/ online/ make/ for/ fifteen
+            - that/ orders/ paid/ all/ being/ policy/ of/ company/our/ requires/ be/ within/ thirty/ days/ products/ delivered
+            - discounts/$1000 or more/ our/ orders/ on/ policy/company/ allows/ individual/ of
+          answer: you/ discount/ our/ percent/ a/ would/ service/ eligible/using/ online/ make/ for/ fifteen
+        - question: 2
+          option:
+            - it/ we/ earlier/ appreciate/ if/ could/ return/ in/ purchase/ your/days/ ten/ you
+            - you/ discount/ our/ percent/ a/ would/ service/ eligible/using/ online/ make/ for/ fifteen
+            - that/ orders/ paid/ all/ being/ policy/ of/ company/our/ requires/ be/ within/ thirty/ days/ products/ delivered
+            - discounts/$1000 or more/ our/ orders/ on/ policy/company/ allows/ individual/ of
+          answer: discounts/$1000 or more/ our/ orders/ on/ policy/company/ allows/ individual/ of
+        - question: 3
+          option:
+            - it/ we/ earlier/ appreciate/ if/ could/ return/ in/ purchase/ your/days/ ten/ you
+            - you/ discount/ our/ percent/ a/ would/ service/ eligible/using/ online/ make/ for/ fifteen
+            - that/ orders/ paid/ all/ being/ policy/ of/ company/our/ requires/ be/ within/ thirty/ days/ products/ delivered
+            - discounts/$1000 or more/ our/ orders/ on/ policy/company/ allows/ individual/ of
+          answer: it/ we/ earlier/ appreciate/ if/ could/ return/ in/ purchase/ your/days/ ten/ you
+        - question: 4
+          option:
+            - it/ we/ earlier/ appreciate/ if/ could/ return/ in/ purchase/ your/days/ ten/ you
+            - you/ discount/ our/ percent/ a/ would/ service/ eligible/using/ online/ make/ for/ fifteen
+            - that/ orders/ paid/ all/ being/ policy/ of/ company/our/ requires/ be/ within/ thirty/ days/ products/ delivered
+            - discounts/$1000 or more/ our/ orders/ on/ policy/company/ allows/ individual/ of
+          answer: that/ orders/ paid/ all/ being/ policy/ of/ company/our/ requires/ be/ within/ thirty/ days/ products/ delivered
   scramble:
     0:
       identifier: scramble
