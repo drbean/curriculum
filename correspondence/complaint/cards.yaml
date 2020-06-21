@@ -697,6 +697,7 @@ glass:
             - threat
             - polite close
           answer: Wrong answer
+        - question: |+
             Second sentence in paragraph 3: Also, if delivery ..
           option:
             - background
@@ -984,12 +985,12 @@ drink:
       identifier: drink paragraph reply strucure
       quiz:
         - question: |+
-	    Paragraph 1--Thank you for your letter date 14 August 2015 concerning the temporary workers you have recently received from us. We appreciate you bringing this matter to our attention.
+            Paragraph 1--Thank you for your letter date 14 August 2015 concerning the temporary workers you have recently received from us. We appreciate you bringing this matter to our attention.
           option:
-	    - acknowledgement of contact and appreciation of complaint action
-	    - acceptance of responsibility and reason for problem
-	    - report of efforts to prevent problems in future
-	    - forward-looking close
+            - acknowledgement of contact and appreciation of complaint action
+            - acceptance of responsibility and reason for problem
+            - report of efforts to prevent problems in future
+            - forward-looking close
           answer: Wrong answer
         - question: |+
             Paragraph 2--We are sorry that the staff sent to you over the last two months have not met your expectations. Employees have a number of options open to them and this is why they have become more unrealiable.
