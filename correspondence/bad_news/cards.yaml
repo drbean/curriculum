@@ -518,6 +518,42 @@ shoe:
       pair:
         -
           - 1.
+          - A. Dear Miss Robinson
+        -
+          - 2.
+          - R. I am writing about an enquiry you made about size 49 shoes.
+        -
+          - 3.
+          - P. Thank you for considering Shack’s Shoe Products for your footwear needs.
+        -
+          - 4.
+          - T. Shack’s Shoe Products has a wide selection of different sizes, styles, and colors; all at competitive prices.
+        -
+          - 5.
+          - M. However, the demand for such a large size is very low.
+        -
+          - 6.
+          - B. Unfortunately, the largest size we keep in stock is size 47.
+        -
+          - 7.
+          - O. We have made enquires at our supplier though, and they have informed us that it is possible to order size 49 shoes.
+        -
+          - 8.
+          - H. All we would require would be for you to give us the style and color and delivery could take place in two weeks.
+        -
+          - 9.
+          - Q. Please come into our store and we would be happy to help you choose the style that suits you best.
+        -
+          - 10.
+          - K. Thank you, once again, for choosing Shack’s Shoe Products.
+        -
+          - 11. 
+          - D. Yours sincerely
+    1:
+      identifier: shoe sentence order
+      pair:
+        -
+          - 1.
           - A. Dear Miss ..
         -
           - 2.
@@ -549,7 +585,7 @@ shoe:
         -
           - 11. 
           - D. Your sincerely
-    1:
+    2:
       identifier: shoe structure
       pair:
         -
@@ -715,55 +751,49 @@ herbal:
       pair:
         -
           - 1.
-          - I
+          - I. Dear Customers
         -
           - 2.
-          - F
+          - F. Jenny’s Herbal Foods has now been open for 22 years.
         -
           - 3.
-          - C
+          - C. Over that time, we have been pleased to serve many customers, and we have made many new friends.
         -
           - 4.
-          - G
+          - J. However, with the high number of supermarkets and hypermarkets opening up in the area, it has become increasingly more difficult for us to remain competitive.
         -
           - 5.
-          - J
+          - E. Therefore, it is with great regret that we have decided to close the store as of 1 September.
+        -
+          - 5.
+          - N. My husband and I will still continue to live in the area and we hope we will still see lots of our old friends in and around the town.
         -
           - 6.
-          - E
-        -
-          - 6.
-          - N
+          - S. These last 22 years have brought memories that I will cherish forever and we thank each and every one of you for these.
         -
           - 7.
-          - S
-        -
-          - 8.
-          - L
+          - L. Yours faithfully
     1:
       identifier: structure
       pair:
         -
           - 1. situation
-          - F. Jenny's Herbal Foods ..
+          - F. Jenny’s Herbal Foods has now been open for 22 years.
         -
           - 1. situation
-          - C. Over that time, ..
+          - C. Over that time, we have been pleased to serve many customers, and we have made many new friends.
         -
           - 1. situation
-          - G. We are always ..
-        -
-          - 1. situation
-          - J. However, with the ..
+          - J. However, with the high number of supermarkets and hypermarkets opening up in the area, it has become increasingly more difficult for us to remain competitive.
         -
           - 2. bad news
-          - E. Therefore. it is with ..
+          - E. Therefore, it is with great regret that we have decided to close the store as of 1 September.
         -
           - 3. alternative
-          - N. My husband and I ..
+          - N. My husband and I will still continue to live in the area and we hope we will still see lots of our old friends in and around the town.
         -
           - 4. positive close
-          - S. These last 22 years ..
+          - S. These last 22 years have brought memories that I will cherish forever and we thank each and every one of you for these.
     2:
       identifier: Identifying the clozed herbal sentences
       pair:
@@ -804,6 +834,21 @@ herbal:
         -
           sentence: Running the store has been an experience I will cherish forever and we thank all of you for patronizing it.
           clozed: Running|the|store|has|been|an|experience|I|will|cherish|and|we|thank|all|of|you|for|patronizing|End
+covid19:
+  essay:
+    0:
+      identifier: Firing staff at China Airlines
+      rubric: |+
+        You work in the Personnel Department at China Airlines. Your boss asks you to write a letter in English to foreign pilots and other foreign staff, telling them the company is firing them because COVID-19 is preventing the airline from flying passengers to foreign countries.
+
+        Follow the structure on p94, p100 of the PDF, and use as example the similar message on p 96, p102 of PDF. Use the same words if they are appropriate.
+
+        * Explain the situation 
+        * Use a buffer, 'Unfortunately', 'As a result', etc.
+        * Announce the bad news, eg 'The company is firing you'.
+        * Suggest an alternative
+        * Write a positive close
+    
 joke:
   jigsaw:
     0:
@@ -879,17 +924,17 @@ joke:
       identifier: para 1 joke sentence restatements
       sentences:
         -
-          sentence: You probably know the Taiwanese economy has not been doing well recently.
-          clozed: You|probably|know|the|Taiwanese|economy|has|not|been|doing|well|recently|End
+          sentence: As you probably know, the Taiwanese economy has not been doing well recently.
+          clozed: As|you|probably|the|Taiwanese|economy|has|not|been|doing|well|End
         -
-          sentence: As a result our company and other companies have been hurt.
-          clozed: As|a|result|our|company|and|other|companies|have|been|hurt|End
+          sentence: As a result, our company and other companies have been hurt.
+          clozed: As|a|our|company|other|companies|have|been|End
         -
           sentence: We have sold less and less each month for the last six months.
-          clozed: We|have|sold|less|and|less|each|month|for|the|last|six|months|End
+          clozed: We|have|sold|less|and|less|each|for|the|last|six|End
         -
-          sentence: Because of this we have to do some things that we don't want to do.
-          clozed: Because|of|this|we|have|to|do|some|things|that|we|don't|want|to|do|End
+          sentence: Because of this, we have to do some things that we don't want to do.
+          clozed: Because|of|we|have|to|do|some|things|that|we|want|to|End
     1:
       identifier: para 2 joke sentence restatements
       sentences:
@@ -1167,7 +1212,7 @@ scramble:
             - 7
           answer: 1
     1:
-      identifier: Matching spoken sentences with first 3 scrambled  p 98 sentences\h
+      identifier: Matching spoken sentences with first 3 scrambled  p 98 sentences (p104 0f PDF)
       quiz:
         - question: 1
           option:
@@ -1188,7 +1233,7 @@ scramble:
             - quality/ does/ I/ the/ of/ reflect/ price/ paid/ washer/ not/ the.
           answer: actually/ cheaper/ we/ looking/ a/ something/ were/ for/ little.
     2:
-      identifier: Matching spoken sentences with 2nd 4 scrambled  p 98 sentences\h
+      identifier: Matching spoken sentences with 2nd 4 scrambled  p 98 sentences (p104 0f PDF)
       quiz:
         - question: 1
           option:
@@ -1235,25 +1280,25 @@ scramble:
       sentences:
         -
           sentence: Wouldn't people find nine o'clock a little early?
-          clozed: Wouldn't|people|find|nine|o'clock|a|little|early|End
+          clozed: Wouldn't|people|find|nine|o'clock|a|little|End
         -
           sentence: Actually, we were looking for something a little cheaper.
-          clozed: Actually|we|were|looking|for|something|a|little|cheaper|End
+          clozed: Actually|we|were|looking|for|something|a|little|End
         -
           sentence: The quality of the washer does not reflect the price I paid.
-          clozed: The|quality|of|the|washer|does|not|reflect|the|price|I|paid|End
+          clozed: The|quality|of|the|washer|does|not|reflect|the|price|I|End
         -
-          sentence: We would appreciate it if you could return your purchase ten days earlier.
-          clozed: We|would|appreciate|it|if|you|could|return|your|purchase|ten|days|earlier|End
+          sentence: We would appreciate it if you could return your purchase in ten days.
+          clozed: We|would|appreciate|it|if|you|could|return|your|purchase|ten|End
         -
           sentence: Using our online service would make you eligible for a fifteen percent discount.
-          clozed: Using|our|online|service|would|make|you|eligible|for|a|fifteen|percent|discount|End
+          clozed: Using|our|online|service|would|make|you|eligible|for|a|fifteen|percent|End
         -
           sentence: Our company policy requires all orders be paid within thirty days of being delivered.
-          clozed: Our|company|policy|requires|all|orders|be|paid|within|thirty|days|of|being|delivered|End
+          clozed: Our|company|policy|requires|all|orders|be|paid|within|thirty|days|of|being|End
         -
           sentence: Our company policy allows discounts on individual orders of $1000_or_more.
-          clozed: Our|company|policy|allows|discounts|on|individual|orders|of|$1000_or_more|End
+          clozed: Our|company|policy|allows|discounts|on|individual|orders|of|End
     1:
       identifier: bad news scramble 1
       sentences:
