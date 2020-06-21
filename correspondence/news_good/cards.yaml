@@ -2,6 +2,31 @@
 genre: correspondence
 student:
   jigsaw:
+    0:
+      identifier: students keats transfer message
+      quiz:
+        - question: |+
+            Congratulations,your request has been approved. The company has accepted your request.
+
+            You have arranged care during the day, but cannot afford 24-hour care. Therefore, it is necessary for you to move back to your native Taichung. As you enjoy working for this organization, you loathe to leave. Are there any vacancies in Taichung that you would be able,to transfer to?
+
+            Wish you well at the office in Taichung.
+          option:
+            - good good-news message
+            - not-good good-news message
+          answer: not-good good-news message
+        - question: |+
+            I am pleased to tell you that your request has been approved.
+
+            You can take up the position of Account Manager in Taichung on 10 September. In addition, your salary and all other benefits will  remain unchanged.
+
+            You can finish in Taipei on  3 September and have a week's paid leave.
+
+            I wish you well at the office in Taichung.
+          option:
+            - good good-news message
+            - not-good good-news message
+          answer: good good-news message
     transfer:
       identifier: students keats transfer message
       quiz:
@@ -147,7 +172,7 @@ point:
 repair:
   jigsaw:
     structure:
-      identifier: Match each paragraph of the car repair message on p 74 (p80 of the PDF) with the structure of a good news message on p73 (p79 of the PDF)
+      identifier: Match each paragraph of the car repair message on p 74, p80 of the PDF, with the structure of a good news message on p73, p79 of the PDF
       quiz:
         - question: |+
             paragraph 1
@@ -288,7 +313,7 @@ repair:
             - 4th or 5th
             - 5th only
           answer: 1st or 2nd
-        - question: How does the structure of the email announcing the new quotation differ from that on p73? 
+        - question: How does the structure of the email announcing the new quotation differ from that on p73, p79 of PDF? 
           option:
             - The announcement of the good news is delayed.
             - There are no reasons for the good news in the first paragraph.
@@ -399,12 +424,26 @@ repair:
          
   drag:
     0:
+      identifier: original car repair cloze p74--p80 of PDF
+      sentences:
+        -
+          sentence: |+
+            Dear Mr. Tin
+            The quotation we sent to you on 3 July has been overestimated. Therefore, please find the details of our revised quotation.
+            We have managed to find a starting motor for your car for $2,000 instead_of the $4,000 quoted earlier. This means the total cost of fixing your vehicle is now only $6,500.
+            Whilst we are fixing your car, would you like us to tune your engine and check for exhaust emissions ? We would be pleased to do this at the discounted price of $1,100 (instead of the usual $1,500). Please call our office if you require this service.
+            Please note that our garage is now open on Sunday between 8:00 a.m. and 5:00 p.m. We are pleased to be able to offer a more convenient service.
+            Thank you for choosing ABC Motor Repairs. Our staff is always happy to help with your motoring needs.
+            Sincerely
+          clozed: |+
+            overestimated|revised|instead_of|quoted|tune|emissions|discounted|note|offer|END
+    1:
       identifier: alternate car repair cloze 1
       sentences:
         -
           sentence: "It is not going to cost as much for the repairs to your car as we thought, because we have found a cheaper starter motor than the one we were going to install. <p> We have been able to find a Nippon Denso starter motor for your car for $2,000, less than the $4,000 Bosch starter motor we told you about. This means our quotation for fixing your vehicle will now only be $6,500. If the Nippon Denso starter motor is acceptable to you, please call us and confirm that fact. <p> While we are replacing the starter motor, would you like us to fix your radiator, which is leaking ..."
           clozed: cost|cheaper|install|able|Bosch|told|quotation|will|fact|replacing|radiator|End
-    1:
+    2:
       identifier: alternate car repair cloze 2
       sentences:
         -
@@ -735,14 +774,14 @@ prize:
       identifier: alternative cloze
       sentences:
         -
-          sentence: Congratulations! You have been chosen as "Salesperson of the Month". You were named because of your deals, which made much money for the company in February. In appreciation of your hard work, we are offering you a new iPad.
-          clozed: chosen|Month|named|because of|deals|money|February|appreciation|offering|iPad|End
+          sentence: Congratulations! You have been chosen as "Salesperson of the Month ". You were named because of your deals, which made much money for the company in February. In appreciation of your hard work, we are offering you a new iPad.
+          clozed: chosen|Month|named|deals|money|appreciation|offering|End
         -
           sentence: To get this prize, come to the Human Relations department tomorrow. Mr Headingly, Vice-President for Sales wishes to meet you. There will be a photo opportunity. So we ask you to wear your best suit.
-          clozed: get|prize|come|Human Relations|tomorrow|Sales|meet|photo|wear|suit|End
+          clozed: get|prize|come|tomorrow|Sales|meet|photo|wear|End
         -
-          sentence: You should think about installing the company's website as your home page on your new iPad. All deals concluded through your iPad on the company's website will allow customers a 10% discount.
-          clozed: think|installing|company|home page|deals|iPad|website|allow|customers|discount|End
+          sentence: You should think about installing the company's website as your home_page on your new iPad. All deals concluded through your iPad on the company's website will allow customers a 10% discount.
+          clozed: think|installing|home_page|deals|iPad|website|allow|customers|End
         -
           sentence: Thanks again. We are so glad that you made so much business for us in February. We hope you can be top salesperson again in the months ahead, and even "Salesperson of the Year" in December. We look forward to many years of happy selling.
           clozed: glad|business|February|hope|top|again|ahead|December|look forward|selling|End
@@ -883,7 +922,7 @@ magazine:
         
 
     0:
-      identifier: understanding the magazine good news
+      identifier: understanding the magazine good news--part 1
       quiz:
         - question: The letter is a reply to an inquiry.
           answer: True
@@ -895,6 +934,9 @@ magazine:
           answer: False
         - question: Gordon paid $18 for the magazine.
           answer: False
+    1:
+      identifier: understanding the magazine good news--part 2
+      quiz:
         - question: Gordon has or is thinking of buying a Toyota Altis.
           answer: True
         - question: Smith is guessing Gordon has or is thinking of buying a Toyota Altis.
@@ -909,6 +951,9 @@ magazine:
           answer: True
         - question: Gordon may be looking to do something with his car.
           answer: True
+    2:
+      identifier: understanding the magazine good news--part 3
+      quiz:
         - question: Readers submit content for the magazine which editors may include in it.
           answer: True
         - question: Readers have no input into the magazine.
@@ -1218,13 +1263,13 @@ transfer:
     0:
       identifier: Keats transfer to Taichung
       quiz:
-        - question: Why is this exercise on page 78 in Unit 9 Good News Correspondence
+        - question: Why is this transfer request on page 78 in Unit 9--Good News Correspondence?
           option:
-            - Keats' message is bad news for Cheng but good news for Keats.
+            - The message from Keats is bad news for Cheng but good news for Keats.
             - Keats wants to be transferred to Taichung.
             - Keats mother can't look after herself, so Keats wants to look after her.
-            - Cheng's message to Keats is not good news for Cheng, but it is good for Keats.
-          answer: Cheng's message to Keats is not good news for Cheng, but it is good for Keats.
+            - Cheng's reply to Keats will not be good news for Cheng, but it will be good news for Keats.
+          answer: Cheng's reply to Keats will not be good news for Cheng, but it will be good news for Keats.
         - question: What is bad for the company about the news Keats gives Chung.
           option:
             - His mother can't look after herself.
