@@ -548,11 +548,13 @@ pen:
         
         
 sweater:
-  description:
+  essay:
     0:
-      identifier: sweater header
-      questiontext: |+
-        The following questions are about the sweater order on p 121,122,123. Charlie Stevenson cancelled his order, but then he realized he made a mistake and now he wants to 'cancel his cancellation'.
+      identifier: cancelling the sweater order cancellation
+      rubric: |+
+        The following exercise is about the sweater order on p 121,122,123 of PDF. Charlie Stevenson cancelled his order, but then he realized he made a mistake and now he wants to 'cancel his cancellation'.
+
+        Here is what he wants to say in Chinese. Write the message for him. There is no need for headers, etc.
 
         * 我寫的是與9月11日生產的24件棉質毛衣的訂單SX126F_和_SX128F有關。
         * 由於棉花導致皮膚癌的報導，我於9月16日取消了此訂單。
@@ -562,6 +564,8 @@ sweater:
         * 你能否確認收到這條消息後再確認一下。
         * 我期待著在未來與您開展更多業務。
         * 對於由此造成的不便，我深表歉意。
+
+        Follow the structure on p114, p120 of PDF. Look at the cancellation on p115, p121 of PDF.
   drag:
     uncancel:
       identifier: sweater uncancel order
@@ -658,7 +662,7 @@ sweater:
           - And I business doing forward future. in look more the to with you
         
     0:
-      identifier: correction sweater
+      identifier: correction sweater language problems
       pair:
         -
           - I am the owner of Super Sweaters and now have eight branches around Taiwan (and hopefully more in the near future). 
@@ -1287,16 +1291,16 @@ cancel:
       identifier: cotton cancel structure
       pair:
         -
-          - "'I am writing ..'"
+          - "'I am writing with reference to the above order,..'"
           - initial order
         -
-          - "'Unfortunately ..'"
+          - "'Unfortunately owing, to the recent report in Which magazine showing how cotton can cause skin cancer,..'"
           - cancellation
         -
-          - "'It is unclear ..'"
+          - "'It is unclear at the moment whether long-term demand for wool products will also be affected.'"
           - look to future
         -
-          - "'Could you please ..'"
+          - "'Could you please confirm that you have received this message?'"
           - request confirmation
     3:
       identifier: sweater order cancellation word match
