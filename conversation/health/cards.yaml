@@ -91,4 +91,48 @@ postal:
             - Means or Intermediary
             - Benefit
           answer: Protagonist
+    1:
+      identifier: postal 1
+      A: Your co-worker, Evette tells you about a sick person who died from COVID-19. You don't know how you would react if something like that happened to you.
+      B: You tell Craig, a co-worker, about Ada who had COVID-19, and how you cried when someone told you Ada had died. You didn't expect to be so affected.
+      C: You had COVID-19 and were getting medicine through the mail. Evette delivered the mail to you. Before you died, you asked someone to say goodbye to her for you.
+      quiz:
+        - question: |+
+            A
+          option:
+            - Ada
+            - Craig
+            - Evette
+          answer: Craig
+        - question: |+
+            B
+          option:
+            - Ada
+            - Craig
+            - Evette
+          answer: Evette
+        - question: |+
+            C
+          option:
+            - Ada
+            - Craig
+            - Evette
+          answer: Ada
+        - question: A person Evette was delivering mail to died.
+          answer: True
+        - question: A person Craig was delivering mail to died.
+          answer: False
+        - question: Ada was dependent on Evette for medicine delivery.
+          answer: True
+        - question: Evette cried when she learned Ada had died.
+          answer: True
+        - question: "Craig: I would cry if that happened to me."
+          answer: False
+        - question: Evette was not surprised she cried.
+          answer: False
+        - question: Craig and Evette got COVID-19.
+          answer: False
+        
+        
+        
         
