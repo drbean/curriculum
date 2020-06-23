@@ -886,28 +886,28 @@ spongebobsquarepants:
           option:
             - Spongebob
             - Patrick Star
-            - Squidward Tentacles
+            - Squidward
             - Mr Krabs
-          answer: Squidward Tentacles
+          answer: Squidward
         - question: B
           option:
             - Spongebob
             - Patrick Star
-            - Squidward Tentacles
+            - Squidward
             - Mr Krabs
           answer: Spongebob
         - question: C
           option:
             - Spongebob
             - Patrick Star
-            - Squidward Tentacles
+            - Squidward
             - Mr Krabs
           answer: Patrick Star
         - question: D
           option:
             - Spongebob
             - Patrick Star
-            - Squidward Tentacles
+            - Squidward
             - Mr Krabs
           answer: Mr Krabs
         - question: Mr Krabs manages the Krusty Krab, but is not the owner.
