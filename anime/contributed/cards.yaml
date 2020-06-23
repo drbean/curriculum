@@ -1187,7 +1187,7 @@ gumball:
     flash:
       Gumball: |+
         Identity: male, 12 years old, a blue cat boy. Short legs, no shoes, light brown sweater\\\\
-        Relationships: the biggest brother of the Watterson family\\\\
+        Relationships: older brother of Darwin and Anais\\\\
         Events: He is the center of the cartoon and the story takes his perspective\\\\
         States of minds: Very imaginative and optimistic, but also very sarcastic at the same time\\\\
       Darwin: |+
@@ -1197,7 +1197,7 @@ gumball:
         States of minds: Happy and positive, he always tries to have a smile. He loves to help people because he desires to see others happy\\\\
       Anais: |+
         Identity: female, 4 years old, a pink bunny. she has long ears and wears an orange dress\\\\
-        Relationships: the youngest member of the Watterson family\\\\
+        Relationships: the youngest member of the Watterson family. Gumball and Darwin are her older brothers\\\\
         Events: She is the smartest kid in Elmore, a genius. She doesn't know how to make friends. She studies higher grade than her two brothers\\\\
         States of minds: Always calm when her family has troubles. Naive even while smart, but mostly she is a remarkably cunning strategist\\\\
       Nicole: |+
@@ -1254,7 +1254,7 @@ gumball:
             - a normal boy living in a creepy world
           answer: adopted as a pet, sprouted legs and became a full member of the Watterson family
     2:
-      identifier: The Amazing World of Gumball--name the character
+      identifier: The Amazing World of Gumball
       quiz:
         - question: A
           option:
@@ -1284,6 +1284,18 @@ gumball:
             - Anais
             - Nicole
           answer: Gumball
+        - question: Darwin is Gumball's brother
+          answer: True
+        - question: Darwin is Nicole's son from a previous marriage to a fish.
+          answer: False
+        - question: Darwin doesn't look like Gumball or Anias.
+          answer: True
+        - question: Gumball looks like his mother.
+          answer: True
+        - question: Anias looks like her mother, too.
+          answer: False
+        - question: Anias is smarter than her brothers.
+          answer: True
 phineasandferb:
   match:
     0:
