@@ -68,3 +68,63 @@ pawpatrol:
         Relationships: Ryder's subordinate/sidekick\\\\
         Events: Drives different vehicles, acts as lifeguard at beach\\\\
         States of Mind: Mature and serious, athletic and a natural leader\\\\
+  jigsaw:
+    0:
+      identifier: PAW Patrol cards
+      quiz:
+      A: |+
+        Ryder: |+
+          Identity: 10-year-old boy\\\\
+          Relationships: Leader of PAW Patrol, hero/protagonist\\\\
+          Events: Commands pups to carry out his orders and save Adventure Bay from misfortune\\\\
+          States of Mind: Acts like an intelligent adult\\\\
+      D: |+
+        Mayor Humdinger: |+
+          Identity: Middle-aged, self-serving politician\\\\
+          Relationships: Villian, PAW Patrol's antagonist, arch-rival of Adventure Bay's mayor, leader of worker kitten group\\\\
+          Events: Cheats, steals, lies\\\\
+          States of Mind: greedy, over-confident\\\\
+      B: |+
+        Skye: |+
+          Identity: One of only 2 female characters, helicopter pilot\\\\
+          Relationships: Ryder's subordinate/sidekick\\\\
+          Events: keeps close eye on emergencies, transport team members, and uses her helicopter's grappling hook to save people\\\\
+          States of Mind: Fun-loving, loves flying, smart\\\\
+      C: |+
+        Chase: |+
+          Identity: Police dog\\\\
+          Relationships: Ryder's subordinate/sidekick\\\\
+          Events: Drives different vehicles, acts as lifeguard at beach\\\\
+          States of Mind: Mature and serious, athletic and a natural leader\\\\
+    2:
+      identifier: PAW Patrol--name the character
+      quiz:
+        - question: A
+          option:
+            - Ryder
+            - Mayor Humdinger
+            - Skye
+            - Chase
+          answer: Ryder
+        - question: B
+          option:
+            - Ryder
+            - Mayor Humdinger
+            - Skye
+            - Chase
+          answer: Skye
+        - question: C
+          option:
+            - Ryder
+            - Mayor Humdinger
+            - Skye
+            - Chase
+          answer: Chase
+        - question: D
+          option:
+            - Ryder
+            - Mayor Humdinger
+            - Skye
+            - Chase
+          answer: Mayor Humdinger
+        
