@@ -1,5 +1,28 @@
 ---
 character:
+  studentquiz:
+    0:
+      identifier: "Homework: StudentQuiz Questions about your anime"
+      rubric: |+
+        Write 2~4 questions about your anime and answer other students' questions about their anime.
+
+        For example, describe the identity, relationships, events and state of mind of a character, and students have to choose one out of the 4 characters.
+
+        The students with most points get 9 for a homework grade. The students who get the fewest points (with a score of 10 or fewer points) get 7 for a homework grade. And those who don't write or answer any questions get zero.
+
+        Finish doing it by midday before the class next week. (Ignore the date appearing on the page. It is wrong.)
+    1:
+      identifier: "Homework: StudentQuiz Questions about your anime"
+      rubric: |+
+        Write 2~4 questions about your anime and answer other students' questions about their anime.
+
+        For example, describe the identity, relationships, events and state of mind of a character, and students have to choose one out of the 4 characters. Or write True/False questions about the story.
+
+        The students with most points get 9 for a homework grade. The students who get the fewest points (with a score of 10 or fewer points) get 7 for a homework grade. And those who don't write or answer any questions get zero.
+
+        To do other student's quiz questions, Dr Bean has to approve them. I will try to look regularly at the quiz, but you can send me a message asking me to do that.
+
+        Finish doing it by midday before the class next week. (Ignore the date appearing on the page. It is wrong.)
   forum:
     0:
       identifier: "Homework: 4 characters and their traits"
@@ -462,6 +485,18 @@ studentquiz:
         The students with most points get 9 for a homework grade. The students who get the fewest points (with a score of 10 or fewer points) get 7 for a homework grade. And those who don't write or answer any questions get zero.
 
         Finish doing it by midday before the class next week. (Ignore the date appearing on the page. It is wrong.)
+    1:
+      identifier: "Homework: StudentQuiz Questions about your anime"
+      rubric: |+
+        Write 2~4 questions about your anime and answer other students' questions about their anime.
+
+        For example, describe the identity, relationships, events and state of mind of a character, and students have to choose one out of the 4 characters. Or write True/False questions about the story.
+
+        The students with most points get 9 for a homework grade. The students who get the fewest points (with a score of 10 or fewer points) get 7 for a homework grade. And those who don't write or answer any questions get zero.
+
+        To do other student's quiz questions, Dr Bean has to approve them. I will try to look regularly at the quiz, but you can send me a message asking me to do that.
+
+        Finish doing it by midday before the class next week. (Ignore the date appearing on the page. It is wrong.)
 adventuretime:
   match:
     0:
@@ -503,6 +538,33 @@ adventuretime:
         States of Mind: mischievous\\\\
   jigsaw:
     0:
+      identifier: Adventure Time cards
+      quiz:
+      A: |+
+        Finn: |+
+          Identity: a human boy, wears a hat that covers his extremely long flowing yellow hair \\\\
+          Relationship: Jake's friend\\\\
+          Events: help anyone needs help\\\\
+          States of Mind: brave\\\\
+      B: |+
+        Jake: |+
+          Identity: A dog with the power to change shape\\\\
+          Relationships: Finn's friend\\\\
+          Events: has five children\\\\
+          States of Mind: cynical\\\\
+      C: |+
+        Princess Bonnibel Bubblegum: |+
+          Identity: Ruler of the Candy Kingdom\\\\
+          Relationships: Marceline's girlfriend\\\\
+          Events: Becomes overprotective of the Candy kingdom, and is removed from power\\\\
+          States of Mind: Knowledgeable\\\\
+      D: |+
+        Marceline: |+
+          Identity: a Vampire Queen\\\\
+          Relationships: Bubblegum's girl friend\\\\
+          Events: was taken care of by Simon Petrikov (the Ice King)\\\\
+          States of Mind: mischievous\\\\
+    1:
       identifier: Adventure Time
       quiz:
         - question: Finn
@@ -533,6 +595,37 @@ adventuretime:
             - frequently steals princesses throughout Ooo to forcefully marry them, Princess Bubblegum being his usual target
             - has magic powers allowing him to stretch or shrink any part of his body to any shape and size, ranging from becoming gigantic to becoming incredibly small
           answer: frequently steals princesses throughout Ooo to forcefully marry them, Princess Bubblegum being his usual target
+    2:
+      identifier: Adventure Time--name the character
+      quiz:
+        - question: A
+          option:
+            - Finn
+            - Jake
+            - Princess Bubblegum
+            - Marceline
+          answer: Finn
+        - question: B
+          option:
+            - Finn
+            - Jake
+            - Princess Bubblegum
+            - Marceline
+          answer: Jake
+        - question: C
+          option:
+            - Finn
+            - Jake
+            - Princess Bubblegum
+            - Marceline
+          answer: Princess Bubblegum
+        - question: D
+          option:
+            - Finn
+            - Jake
+            - Princess Bubblegum
+            - Marceline
+          answer: Marceline
 rickandmorty:
   match:
     0:
@@ -572,8 +665,36 @@ rickandmorty:
         Relationships: mom\\\\
         Events: Ever since Rick left her, there have been tangled emotions\\\\
         States of Mind: Proud and fragile\\\\
-jigsaw:
+  jigsaw:
     0:
+      identifier: Rick and Morty cards
+      quiz:
+      D: |+
+          Rick:  |+
+            Identity: crazy scientist . white hair.loneliness\\\\
+            Relationships: grandpa\\\\
+            Events: After his wife died, he closed his heart, but loved his family very much.\\\\
+            States of Mind: smart.warlike.extraordinary.use science as his weapon\\\\
+      B: |+
+          Morty: |+
+            Identity: 14 years old,heart hurts easily,not smart\\\\
+            Relationships: grandson\\\\
+            Events: Often adventure with Rick.\\\\
+            States of Mind: Have own moral standards.ordinary\\\\
+      C: |+
+          Jerry: |+
+            Identity: egoist.be suppressed by Rick\\\\
+            Relationships: dad\\\\
+            Events: divorce with Beth\\\\
+            States of Mind: cowardly.rely Beth\\\\
+      A: |+
+          Beth: |+
+            Identity: A Horse Heart Surgeon\\\\
+            Relationships: mom\\\\
+            Events: Ever since Jerry left her, there have been tangled emotions\\\\
+            States of Mind: Proud and fragile\\\\
+      
+    1:
       identifier: Rick and Morty characters
       quiz:
         - question: Rick
@@ -588,6 +709,37 @@ jigsaw:
              - mad scientist
              - normal boy
           answer: normal boy
+    2:
+      identifier: Rick and Morty--name the character
+      quiz:
+        - question: A
+          option:
+            - Rick
+            - Morty
+            - Jerry
+            - Beth
+          answer: Beth
+        - question: B
+          option:
+            - Rick
+            - Morty
+            - Jerry
+            - Beth
+          answer: Morty
+        - question: C
+          option:
+            - Rick
+            - Morty
+            - Jerry
+            - Beth
+          answer: Jerry
+        - question: D
+          option:
+            - Rick
+            - Morty
+            - Jerry
+            - Beth
+          answer: Rick
 futurediary:
   jigsaw:
     0:
@@ -679,6 +831,34 @@ spongebobsquarepants:
         States of mind: Money is always the priority. Plankton will never snatch my confidential secret recipe from me.\\\\
   jigsaw:
     0:
+      identifier: Spongebob Squarepants cards
+      quiz:
+      A: |+
+        SpongeBob: |+
+          Identity: A yellow sea sponge, red tie brown shorts, noisy laugh\\\\
+          Relationships: Patrick's best friend, an employee at the Krusty Krab\\\\
+          Events: always intentionally annoy Squidward, catch jellyfish\\\\
+          States of mind: I love my life, every day is the best day!\\\\
+      B: |+
+        Patrick Star: |+
+          Identity: A pink sea star, flowered swim trunk, lives in a stone house, a big foodie  \\\\
+          Relationships: SpongeBob's best friend, Squidward's neighbor\\\\
+          Events: He always makes him and SpongeBob get into trouble, and he has been employed as a short-term employee at the Krusty Krab\\\\
+          States of mind: I'm hungry and what we gonna do today?\\\\
+      C: |+
+        Squidward Tentacles:  |+
+          Identity: An octopus with a big nose, brown T-shirt, clarinet \\\\
+          Relationships: SpongeBob and Patrick's neighbor, works as a cashier at the Krusty Krab\\\\
+          Events: He likes to make sarcastic remarks about everything. He loves to play clarinet and makes artworks\\\\
+          States of mind: I will become an artist and a musician...Oh! SpongeBob! Patrick! WHAT ARE YOU DOING? \\\\
+      D: |+
+        Mr. Krabs (Eugene Krabs):  |+
+          Identity: a red crab, cunning, stingy, used to serve in the navy \\\\
+          Relationships: SpongeBob and Squidward's employer, Pearl's father, Plankton's competitor\\\\
+          Events: He owns and manages a fast food restaurant Krusty Krab, and he loves his family\\\\
+          States of mind: Money is always the priority. Plankton will never snatch my confidential secret recipe from me.\\\\
+        
+    1:
       identifier: SpongeBob SquarePants
       quiz:
         - question: SpongeBob SquarePants
@@ -699,7 +879,54 @@ spongebobsquarepants:
             - childish but optimistic, he always thinks in a positive way
             - SpongeBob's best friend as well as one of his two neighbors
           answer: SpongeBob's best friend as well as one of his two neighbors
+    2:
+      identifier: SpongeBob SquarePants--name the character
+      quiz:
+        - question: A
+          option:
+            - Spongebob
+            - Patrick Star
+            - Squidward Tentacles
+            - Mr Krabs
+          answer: Squidward Tentacles
+        - question: B
+          option:
+            - Spongebob
+            - Patrick Star
+            - Squidward Tentacles
+            - Mr Krabs
+          answer: Spongebob
+        - question: C
+          option:
+            - Spongebob
+            - Patrick Star
+            - Squidward Tentacles
+            - Mr Krabs
+          answer: Patrick Star
+        - question: D
+          option:
+            - Spongebob
+            - Patrick Star
+            - Squidward Tentacles
+            - Mr Krabs
+          answer: Mr Krabs
 wanderoveryonder:
+  match:
+    0:
+      identifier: Wander over Yonder characters and roles
+      pair:
+        -
+          - protagonist
+          - Wander
+        -
+          - antagonist/villain/arch-enemy
+          - Lord Hater
+        -
+          - sidekick
+          - Sylvia
+        -
+          - antagonist's henchman
+          - Commander Peepers
   0:
     flash:
       Wander: |+
@@ -724,6 +951,34 @@ wanderoveryonder:
         States of Mind: Dedicated to capturing Wander and Sylvia, mostly in order to gain favor with Hater\\\\
   jigsaw:
     0:
+      identifier: Wander over Yonder cards
+      quiz:
+      D: |+
+        Wander: |+
+          Identity: Male, having a very friendly, kindhearted personality, and he is a universe traveler.\\\\
+          Relationships: Sylvia's best friend, and friend of Lord Hater and Commander Peepers (only on his side)\\\\
+          Events: He clashing against Lord Hater and his armies' evil reign unintentionally.\\\\
+          States of Mind: Believing everyone has a good side. Want to befriend with Lord Hater\\\\
+      C: |+
+        Lord Hater: |+
+          Identity: A power-hungry, easy-angered, evil, and a cruel conqueror. \\\\
+          Relationships: Commander Peepers's friend, Wander's, and Sylvia's enemy.\\\\
+          Events: He wants to attack and occupy the whole galaxy but Wander keeps ruining his evil plan. \\\\
+          States of Mind: Trying to kill Wander and become the greatest evil lord in the galaxy.\\\\
+      B: |+
+        Sylvia: |+
+          Identity: Very tough and competitive, and sometimes overpowered by her own temper. But caring so much for Wander.\\\\
+          Relationships: Wander's best friend. Lord Hater's, and Commander Peepers's enemy \\\\
+          Events: She is traveling the galaxy with Wander and Lord Hater's show up always bring they into danger.\\\\
+          States of Mind: Not liking Lord Hater and fully aware of Lord Hater's evil doings. \\\\
+      A: |+
+        Commander Peepers: |+
+          Identity: Lord Hater's chief advisor, and second-in-command. Very loyalty to Lord Hater.\\\\
+          Relationships: Lord Hater's friend, Wander's, and Sylvia's enemy.\\\\
+          Events: He is helping Lord Hater to conquer a planet but get interrupted by Wander\\\\
+          States of Mind: Dedicated to capturing Wander and Sylvia, mostly in order to gain favor with Hater\\\\
+
+    1:
       identifier: Wander Over Yonder
       quiz:
         - question: Wander
@@ -738,6 +993,37 @@ wanderoveryonder:
             - loves to help people, have fun and live free
             - the lord of an evil empire who tries to kill Wander all the time
           answer: the lord of an evil empire who tries to kill Wander all the time
+    2:
+      identifier: Wander over Yonder--name the character
+      quiz:
+        - question: A
+          option:
+            - Wander
+            - Lord Hater
+            - Sylvia
+            - Commander Peepers
+          answer: Commander Peepers
+        - question: B
+          option:
+            - Wander
+            - Lord Hater
+            - Sylvia
+            - Commander Peepers
+          answer: Sylvia
+        - question: C
+          option:
+            - Wander
+            - Lord Hater
+            - Sylvia
+            - Commander Peepers
+          answer: Lord Hater
+        - question: D
+          option:
+            - Wander
+            - Lord Hater
+            - Sylvia
+            - Commander Peepers
+          answer: Wander
 mickeymouse:
   match:
     0:
@@ -779,6 +1065,34 @@ mickeymouse:
         States of mind: Don't worry, everything will be fine\\\\
   jigsaw:
     0:
+      identifier: Mickey Mouse cards
+      quiz:
+      B: |+
+        Mickey Mouse: |+
+          Identity:  A mouse, wearing red pants\\\\
+          Relationships: Everyone's friends, Minnie Mouse's boy friend \\\\
+          Events: He is always help everyone to solve the problem\\\\
+          States of mind: Everyone is my friend\\\\
+      A: |+
+        Minnie Mouse: |+
+          Identity: A mouse, wearing pink dress and a pink bow\\\\
+          Relationships: Mickey Mouse's girl friend, Donald Duck, Goofy's friend\\\\
+          Events: Help everyone to solve problem\\\\
+          States of mind: I like party, I like dance\\\\
+      D: |+
+        Donald Duck: |+
+          Identity: A duck, wearing blue clothes, no pants\\\\
+          Relationships: Mickey Mouse, Minnie Mouse, Goofy's friend \\\\
+          Events: Always quarrel with his friends\\\\
+          States of mind: Angry! Angry! Angry!\\\\
+      C: |+
+        Goofy:  |+
+          Identity: A dog, wearing orange clothes and blue pants\\\\
+          Relationships: Mickey Mouse, Minnie Mouse, Donald Duck's friend\\\\
+          Events: Always encourage everyone\\\\
+          States of mind: Don't worry, everything will be fine\\\\
+        
+    1:
       identifier: Mickey Mouse
       quiz:
         - question: Mickey Mouse
@@ -821,7 +1135,54 @@ mickeymouse:
             - normally depicted wearing a sailor shirt, cap, and a bow tie—but no trousers at all
             - not anthropomorphic beyond showing a broad range of facial expressions; he is actually represented as a normal dog, lacking speech and the ability to walk upright.
           answer: a tall, anthropomorphic dog. Along with not being extremely intelligent, his main flaws are his clumsiness and incompetence, hence his name.
+    2:
+      identifier: Mickey Mouse--name the character
+      quiz:
+        - question: A
+          option:
+            - Mickey Mouse
+            - Minnie Mouse
+            - Donald Duck
+            - Goofy
+          answer: Minnie Mouse
+        - question: B
+          option:
+            - Mickey Mouse
+            - Minnie Mouse
+            - Donald Duck
+            - Goofy
+          answer: Mickey Mouse
+        - question: C
+          option:
+            - Mickey Mouse
+            - Minnie Mouse
+            - Donald Duck
+            - Goofy
+          answer: Goofy
+        - question: D
+          option:
+            - Mickey Mouse
+            - Minnie Mouse
+            - Donald Duck
+            - Goofy
+          answer: Donald Duck
 gumball:
+  match:
+    0:
+      identifier: Gumball characters and roles
+      pair:
+        -
+          - protagonist
+          - Gumball
+        -
+          - sidekick
+          - Darwin
+        -
+          - protagonist's sister
+          - Anais
+        -
+          - protagonist's mother
+          - Nicole
   0:
     flash:
       Gumball: |+
@@ -851,6 +1212,33 @@ gumball:
       #  States of minds: He greatly enjoys eating, and he is very childlike, he often shows his childlike behaviors. Although he is lazy and irresponsible, he has a sensitive heart in deep\\\\
   jigsaw:
     0:
+      identifier: The Amazing World of Gumball cards
+      quiz:
+      D: |+
+        Gumball: |+
+          Identity: male, 12 years old, a blue cat boy. Short legs, no shoes, light brown sweater\\\\
+          Relationships: the biggest brother of the Watterson family\\\\
+          Events: He is the center of the cartoon and the story takes his perspective\\\\
+          States of minds: Very imaginative and optimistic, but also very sarcastic at the same time\\\\
+      A: |+
+        Darwin: |+
+          Identity: male, 10 years old, an orange golden fish with arms, legs, wearing green shoes from Gumball\\\\
+          Relationships: Adopted and the second kid of the Watterson family. Also Gumball's best friend\\\\
+          Events: One of Gumball's pets before he could talk. After getting arms and legs by accident, he becomes one member of the Watterson family\\\\
+          States of minds: Happy and positive, he always tries to have a smile. He loves to help people because he desires to see others happy\\\\
+      B: |+
+        Anais: |+
+          Identity: female, 4 years old, a pink bunny. she has long ears and wears an orange dress\\\\
+          Relationships: the youngest member of the Watterson family\\\\
+          Events: She is the smartest kid in Elmore, a genius. She doesn't know how to make friends. She studies higher grade than her two brothers\\\\
+          States of minds: Always calm when her family has troubles. Naive even while smart, but mostly she is a remarkably cunning strategist\\\\
+      C: |+
+        Nicole: |+
+          Identity: female, 38 years old, a blue cat\\\\
+          Relationships: she has an important role in the Watterson family. She is Gumball, Darwin, and Anais's mother\\\\
+          Events: she teaches the kids and earns money to raise the family\\\\
+          States of minds: she cares very deeply for her family, but she also suffers from a tremendous amount of emotional stress. She has an extremely nasty temper when mad or her family makes trouble\\\\
+    1:
       identifier: The Amazing World of Gumball
       quiz:
         - question: Gumball Watterson
@@ -865,7 +1253,54 @@ gumball:
             - although impatient with her brother, she often tags along with him on his misadventures as a voice of reason
             - a normal boy living in a creepy world
           answer: adopted as a pet, sprouted legs and became a full member of the Watterson family
+    2:
+      identifier: The Amazing World of Gumball--name the character
+      quiz:
+        - question: A
+          option:
+            - Gumball
+            - Darwin
+            - Anais
+            - Nicole
+          answer: Darwin
+        - question: B
+          option:
+            - Gumball
+            - Darwin
+            - Anais
+            - Nicole
+          answer: Anais
+        - question: C
+          option:
+            - Gumball
+            - Darwin
+            - Anais
+            - Nicole
+          answer: Nicole
+        - question: D
+          option:
+            - Gumball
+            - Darwin
+            - Anais
+            - Nicole
+          answer: Gumball
 phineasandferb:
+  match:
+    0:
+      identifier: Phineas and Ferb characters and roles
+      pair:
+        -
+          - protagonist
+          - Phineas Flynn
+        -
+          - sidekick
+          - Ferb Fletcher
+        -
+          - antagonist
+          - Candace Flynn
+        -
+          - antagonist to Dr. Doofenshmirtz
+          - Perry the Platypus
   0:
     flash:
       Phineas Flynn: |+
@@ -888,7 +1323,83 @@ phineasandferb:
         Relationships: The only pet of the Flynn-Fletcher family. He lives a double life as a spy.\\\\
         Events: He engages in daily battles with Dr. Heinz Doofenshmirtz(his nemesis).\\\\
         State of mind: He don't want expose his secret identity because he will be compelled to leave his family.\\\\
+  jigsaw:
+    0:
+      identifier: Phineas and Herb cards
+      quiz:
+      A: |+
+        Phineas Flynn: |+
+          Identity: Triangle head, wearing orange striped T-shirts, blue eyes, and red hair.\\\\
+          Relationships: His step-brother, Ferb, is his best friend. Candace Flynn's little brother.\\\\
+          Events: He and his brother, Ferb, in order to make fun in summer, they usually create extraordinary inventions in their back yard.\\\\
+          State of mind: Just Carpe diem.\\\\
+      C: |+
+        Ferb Fletcher: |+
+          Identity: rectangle head, wearing purple suspenders, blue eyes, and green hair.\\\\
+          Relationships: His step-brother, Phineas, is his best friend. Candace Flynn's little brother.\\\\
+          Events: Ferb and his step-brother, Phineas Flynn, spend their days during summer vacation from school striving to have fun. \\\\
+          State of mind: Just Carpe diem.\\\\
+      B: |+
+        Candace Flynn: |+
+          Identity: Long neck, red shirt, white skirt, blue eyes, and orange hair\\\\
+          Relationships: Phineas and Ferb's big sister.\\\\
+          Events: Her time is usually occupied by attempting to get her younger brother and stepbrother in trouble with her mother.\\\\
+          State of mind: She want her two younger brothers get busted by their mom.\\\\
+      D: |+
+        Perry the Platypus: |+
+          Identity: A platypus, also called Agent-P. \\\\
+          Relationships: The only pet of the Flynn-Fletcher family. He lives a double life as a spy.\\\\
+          Events: He engages in daily battles with Dr. Heinz Doofenshmirtz(his nemesis).\\\\
+          State of mind: He don't want expose his secret identity because he will be compelled to leave his family.\\\\
+    2:
+      identifier: Phineas and Ferb--name the character
+      quiz:
+        - question: A
+          option:
+            - Phineas Flynn
+            - Ferb Fletcher
+            - Candace Flynn
+            - Perry the Platypus
+          answer: Phineas Flynn
+        - question: B
+          option:
+            - Phineas Flynn
+            - Ferb Fletcher
+            - Candace Flynn
+            - Perry the Platypus
+          answer: Candace Flynn
+        - question: C
+          option:
+            - Phineas Flynn
+            - Ferb Fletcher
+            - Candace Flynn
+            - Perry the Platypus
+          answer: Ferb Fletcher
+        - question: D
+          option:
+            - Phineas Flynn
+            - Ferb Fletcher
+            - Candace Flynn
+            - Perry the Platypus
+          answer: Perry the Platypus
+
 nogamenolife:
+  match:
+    0:
+      identifier: No Game No Life--characters, roles
+      pair:
+        -
+          - Hero
+          - Sora
+        -
+          - Heroine
+          - Shiro
+        -
+          - Sidekick
+          - Stephanie Dola
+        -
+          - Antagonist
+          - Tet
   0:
     flash:
       Sora: |+
@@ -911,3 +1422,77 @@ nogamenolife:
         Relationships: One True God\\\\
         Events: Shiro and Sora defeat him in a chess game. He summons them to Disboard, to 'save Imanity'. To challenge Tet, one must collect chess pieces from 16 races.\\\\
         States of Mind: You were born in the wrong world! I'll let you be reborn in the world you should've been born in! The game board: Disboard! Everything in this world is decided by simple games. \\\\
+  jigsaw:
+    0:
+      identifier: No Game, No Life cards
+      quiz:
+      D: |+
+        Sora: |+
+          Identity: An eighteen-year-old male, Maroon hair, Yellow shirt\\\\
+          Relationships: Shiro‘s step-brother, Stephanie Dola's friend\\\\
+          Events: A gamer along with his step-sister Shiro, with whom he forms 『　』 or Blank. Excels at strategies. Hates life, dedicated only to gaming. Arrogant, manipulative, cunning, but loves Shiro\\\\
+          States of Mind: Summoned to Disboard, decides with Shiro to uphold their undefeated reputation as Blank and defeat Tet.\\\\
+      A: |+
+        Shiro: |+
+          Identity: An eleven-year-old girl, White hair\\\\
+          Relationships: Sora's step-sister, Stephanie Dola's friend\\\\
+          Events: Excels at logic but has difficulty understanding emotions or behavior, relying on Sora to help her defeat beings with emotions such as Tet in their chess match. \\\\
+          States of Mind: Summoned to Disboard, decides with Sora to uphold their undefeated reputation as Blank and defeat Tet.\\\\
+      C: |+
+        Stephanie Dola: |+
+          Identity: A teenage girl, Short red hair\\\\
+          Relationships: Princess, granddaughter to the king of Elkia\\\\
+          Events: Has explicit knowledge but lacks the intuition to win games. Her grandfather also lost games, giving up Elkia's land. When Sora and Shiro are crowned, she becomes their prime minister\\\\
+          States of Mind: She strives to restore the honor of her grandfather and humanity.\\\\
+      B: |+
+        Tet: |+
+          Identity: An old deus in a beret and red hoodie\\\\
+          Relationships: One True God\\\\
+          Events: Shiro and Sora defeat him in a chess game. He summons them to Disboard, to 'save Imanity'. To challenge Tet, one must collect chess pieces from 16 races.\\\\
+          States of Mind: You were born in the wrong world! I'll let you be reborn in the world you should've been born in! The game board: Disboard! Everything in this world is decided by simple games. \\\\
+    2:
+      identifier: No Game, No Life
+      quiz:
+        - question: A
+          option:
+             - Sora
+             - Shiro
+             - Stephanie Dola
+             - Tet
+          answer:  Shiro
+        - question: B
+          option:
+             - Sora
+             - Shiro
+             - Stephanie Dola
+             - Tet
+          answer:  Tet
+        - question: C
+          option:
+             - Sora
+             - Shiro
+             - Stephanie Dola
+             - Tet
+          answer:  Stephanie Dola
+        - question: D
+          option:
+             - Sora
+             - Shiro
+             - Stephanie Dola
+             - Tet
+          answer:  Sora
+        - question: Sora \& Shiro are step-brother and step sister
+          answer: True
+        - question: Sora \& Shiro form Blank with Tet.
+          answer: False
+        - question: Sora, Shiro beat Tet at chess.
+          answer: True
+        - question: Tet is a god.
+          answer: True
+        - question: Stephanie Dola is a princess.
+          answer: True
+        - question: Stephanie Dola makes Sora \& Shiro her prime minister
+          answer: False
+        - question: Stephanie Dola is a better gamer than Sora \& Shiro
+          answer: False
+          
