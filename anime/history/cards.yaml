@@ -87,7 +87,28 @@ blackjack:
           answer: tomorrow night and a week later, respectively
         - question: At 17:30, if the other doctor helps her die first, Black Jack can still operate.
           answer: False
-             
+    2:
+      identifier: The fates of Black Jack patient and 2 children
+      quiz:
+        - question: At 19:21, Pinoco gives Black Jack information about Dr Kiriko
+          answer: True
+        
+        - question: At 20:48, Dr Kiriko prevents Black Jack from saving the woman's life
+          answer: False
+        - question: At 21:29, Black Jack prevents Dr Kiriko from ending the woman's life
+          answer: True
+        - question: At 21:50, Dr Kiriko suggests he expects to be paid for his treatment of the woman
+          answer: True
+        - question: At 22:09, Dr Kiriko bets Black Jack he can't fix her back.
+          answer: False
+        - question: At 22:07, Black Jack puts money down for the bet.
+          answer: True
+        - question: At 23:59, Black Jack tells the children the operation was successful.
+          answer: True
+        - question: At 25:18, Black Jack learns his operation was unsuccessful.
+          answer: False
+        - question: At 25:18, the death of the mother and her 2 children is unconnected to Black Jack's treatment.
+          answer: True
 mickeymouse:
   jigsaw:
     0:
