@@ -120,6 +120,16 @@ mall:
       safe     : 安全
       size     : 尺寸
       large    : 大
+  1:
+    flash:
+      guess      : 猜測
+      fashion    : 時尚
+      raincoat   : 雨衣
+      soft       : 柔軟的
+      wife       : 妻子
+      fox        : 狐狸
+      difficult  : 難
+      pick       : 挑
   3:
     flash:
       gift           : 禮品
