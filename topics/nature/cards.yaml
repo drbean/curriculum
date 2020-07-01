@@ -388,6 +388,16 @@ ant:
       - Was there _something else_ you wanted?
 
 picnic:
+  0:
+    flash:
+      lunch  : 午餐
+      litter : 垃圾
+      hungry : 飢餓
+      empty  : 空的
+      picnic : 野餐
+      throw  : 扔
+      spoil  : 破壞 
+      lazy   : 懶   
   bingo:
     -
       - This is a good spot.                                  _這是一個好去處。_
