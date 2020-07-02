@@ -1076,8 +1076,46 @@ preciado:
             - the Result
             - the Stimulus
           answer: the Result
-        
-        
-        
+    2:
+      identifier: preciado 2
+      A: Your dad, Francisco works as a groundskeeper at Stanford University, where you are a student. You meet him on campus and Graham tells him when he sees you.
+      B: You are a groundskeeper at Stanford. You tell your co-worker, Francisco when you see his son, Frankie, a student there. He tells you he's proud of him.
+      C: You wanted to be a teacher, but you had to drop out and you became a groundskeeper at Stanford. You want Frankie to achieve what you didn't.
+      quiz:
+        - question: |+
+            A
+          option:
+            - Francisco
+            - Frankie
+            - Graham
+          answer: Frankie
+        - question: |+
+            B
+          option:
+            - Francisco
+            - Frankie
+            - Graham
+          answer: Graham
+        - question: |+
+            C
+          option:
+            - Francisco
+            - Frankie
+            - Graham
+          answer: Francisco
+        - question: Graham doesn't know his co-worker's son is a Stanford student.
+          answer: False
+        - question: Francisco and Frankie are father and son.
+          answer: True
+        - question: Frankie tries not to be seen with his father on campus.
+          answer: False
+        - question: Graham tells Francisco when he sees his son.
+          answer: True
+        - question: Francisco wanted his son to become a groundskeeper also.
+          answer: False
+        - question: Frankie will probably make more money than his dad in his job.
+          answer: True
+        - question: The dad regrets not being able to be a teacher, but is proud of his son.
+          answer: True
         
         
