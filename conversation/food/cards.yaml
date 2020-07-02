@@ -56,7 +56,7 @@ lerman:
         - question: Not many people recover from eating disorders.
           answer: False
         - question: One form of treatment is talking to other people with the same problem.
-          answer: False
+          answer: True
   jigsaw:
     0:
       identifier: matzo ball eating contest
