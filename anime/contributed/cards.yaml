@@ -922,8 +922,8 @@ spongebobsquarepants:
           answer: True
         - question: Mr Krabs is friendly, generous and open.
           answer: False
-        - question: Mr Krabs wants to hire a 3rd worker, but has no money.
-          answer: False
+        #- question: Mr Krabs wants to hire a 3rd worker, but has no money.
+        #  answer: False
 wanderoveryonder:
   match:
     0:
@@ -1519,6 +1519,6 @@ nogamenolife:
           answer: True
         - question: Stephanie Dola makes Sora \& Shiro her prime minister
           answer: False
-        - question: Stephanie Dola is a better gamer than Sora \& Shiro
-          answer: False
+        #- question: Stephanie Dola is a better gamer than Sora \& Shiro
+        #  answer: False
           
