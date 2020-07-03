@@ -46,6 +46,10 @@ adventuretime:
             - 9th
           answer: 5th
 pawpatrol:
+  url:
+    0:
+      identifier: PAW Patrol: Pups save a shark
+      externalurl: http://sac.nuu.edu.tw/cgi-bin/dic/script/dic_cgi.pl/login?exercise=pawpatrol
   0:
     flash:
       Ryder: |+
