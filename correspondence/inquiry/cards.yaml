@@ -59,6 +59,17 @@ correspondence:
         a promoter: you have *information* about something you sell and you want to *give* it to someone who may buy
     
         a person with an inquiry: you want *information* before buying something. You *ask* a seller for that information.
+    alternative:
+      identifier: The difference between promotion/introduction and an inquiry
+      quiz: |+
+        The key difference is:
+
+          A promoter wants to sell something, so he/she contacts someone
+          who may buy
+
+          A person with an inquiry is thinking of buying something.
+          He/she asks a seller for information.
+
 
   jigsaw:
     confusion:
@@ -1852,7 +1863,7 @@ cruise:
     1:
       identifier: inquiry acknowledging structure
       quiz:
-        - question: "Which sentence is not represented in the 4-stage inquiry acknowledgement structure: 1 (acknowledging arrival of email and thanks), 2 (reason for delay), 3 (expected reply date and promise of reply), 4 (polite close)"
+        - question: "Which sentence is not represented in the 4-stage inquiry acknowledgement structure: 1 (acknowledging arrival of email and thanks), 2 (reason for delay), 3 (expected reply date and promise of reply), 4 (polite close)" |+ |+
           option:
             - I have received your email dated July_31, concerning our November cruise around Taiwan.
             - Thank you for your interest in this trip.
@@ -2733,6 +2744,22 @@ book:
       identifier: Asian Restaurants book 
       questiontext: |+
         Look at the letter on p65 (p71 in PDF), and answer the following questions 
+
+        The next questions are about the reply to an inquiry on p 65 (p71
+        of the PDF). A shorter version of that reply follows.
+
+        Thank you for your inquiry about "Great Asian Restaurants".
+
+        The closest bookstore to you is:
+        Eslite, 臺北市信義區松德路196號B1
+
+        However, we would be happy for you to order directly from us.
+
+        At the moment we have a special promotion. Order 10 books from us
+        and get one free.
+
+        We hope this helps. Feel free to contact us again.
+
   essay:
     0:
       identifier: Great Asian Restaurants book
@@ -2904,9 +2931,90 @@ book:
             - book buyer
             - book publisher
           answer: book buyer
-        
+    1:
+      identifier: book inquiry reply structure
+      quiz:
+        #What step in the structure is the first paragraph?
+        #
+        #Thank you for your inquiry about "Great Asian Restaurants".
+        #
+        #      Select one:
+        #        a. acknowledging message
+        #        b. answering inquiry
+        #        c. different answer to inquiry
+        #        d. extra information
+        #        e. polite close
+        #
+        #        QUESTION 16
+        #
+        #        What step in the structure is the second paragraph?
+        #
+        #      The closest bookstore to you is:
+        #        Eslite, 臺北市信義區松德路196號B1
+        #
+        #      Select one:
+        #        a. acknowledging message
+        #        b. answering inquiry
+        #        c. different answer to inquiry
+        #        d. extra information
+        #        e. polite close
+        #
+        #What step in the structure is the third paragraph?
+        #
+        #However, we would be happy for you to order directly from us.
+        #
+        #      Select one:
+        #        a. acknowledging message
+        #        b. answering inquiry
+        #        c. different answer to inquiry
+        #        d. extra information
+        #        e. polite close
+        #
+        #        QUESTION 18
+        #
+        #        What step in the structure is the fourth paragraph?
+        #
+        #        At the moment we have a special promotion. Order 10 books from us
+        #        and get one free.
+        #
+        #      Select one:
+        #        a. acknowledging message
+        #        b. answering inquiry
+        #        c. different answer to inquiry
+        #        d. extra information
+        #        e. polite close
+        #
+        #        QUESTION 19
+        #
+        #        What step in the structure is the fifth paragraph?
+        #
+        #        We hope this helps. Feel free to contact us again.
+        #
+        #      Select one:
+        #        a. acknowledging message
+        #        b. answering inquiry
+        #        c. different answer to inquiry
+        #        d. extra information
+        #        e. polite close
 heater:
   jigsaw:
+    00:
+      identifier: heater inquiry message type
+      quiz:
+        - question: |+
+            What kind of message is the heater letter on p66 (p72 in PDF), a shorter version of which follows:
+
+            I am interested in the electric heaters you are advertising in the South-East Trader.
+
+            Please send a catalog and price list.
+          option:
+            - memo
+            - coverletter
+            - promotion/introduction
+            - inquiry
+            - acknowledgement of inquiry
+            - reply to inquiry
+          answer: inquiry
     0:
       identifier: heater inquiry comprehension questions
       quiz:
