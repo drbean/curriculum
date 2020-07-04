@@ -1,5 +1,60 @@
----
+ --
 # genre: correspondence
+#problem:
+#There is a problem with the structure of the following invitation
+#and acceptance/rejection messages, as outlined on p69 (p75 of PDF).
+#
+#QUESTION 27
+#
+#We're having a party.
+#Please come.
+#Tell us if you can come. Email me tonight.
+#
+#Where is the problem?
+#
+#Select one:
+#a. say what the event is and when
+#b. invite them
+#c. ask for a reply and give a deadline.
+#
+#QUESTION 28
+#
+#We invite you to join us to celebrate our daughter's first
+#birthday, on June 13, 2pm at our home.
+#We look forward to seeing you there.
+#
+#Where is the problem?
+#
+#Select one:
+#a. say what the event is and when
+#b. invite them
+#c. ask for a reply and give a deadline.
+#
+#QUESTION 29
+#
+#Thank you very much for the invitation.
+#Thank you. Thank you.
+#
+#Where is the problem?
+#
+#Select one:
+#a. thank them
+#b. accept and say you look forward to the event
+#c. thank them again
+#
+#QUESTION 30
+#
+#Thanks for the invitation.
+#But I can't come.
+#Sorry.
+#
+#Where is the problem?
+#
+#Select one:
+#a. thank them
+#b. decline by giving a reason; apologize and say you are disappointed
+#c. apologize again.
+
 response:
   match:
     0:
