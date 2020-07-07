@@ -19,7 +19,7 @@
 
 - [Full Speaking toeic test 03 _ Practice Speaking toeic test with Answers-64E4yFhUUWQ.mp4](http://web.nuu.edu.tw/~greg/toeic/sample/Full_Speaking_toeic_test_03___Practice_Speaking_toeic_test_with_Answers-64E4yFhUUWQ.mp4)
 
-- [Full Speaking toeic test 04 _ Practice Speaking toeic test with Answers-bdkVufiNBt0.mp4](http://web.nuu.edu.tw/~greg/toeic/sample/Full_Speaking_toeic_test_04___Practice_Speaking_toeic_test_with_Answers-bdkVufiNBt0.mp4)
+- [Full Speaking toeic test 04 _ Practice Speaking toeic test with Answers-bdkVufiNBt0.mp4](http://web.nuu.edu.tw/~greg/toeic/sample/bdkVufiNBt0.mp4)
 
 
 ###  [gwentube.com](http://gwentube.com)
@@ -31,7 +31,7 @@
 
 - [[토익스피킹 모의고사] - TOEIC SPEAKING Actual Test (#01) - 2019.10.21-J4ck5pfjyEY.mp4 ](http://web.nuu.edu.tw/~greg/toeic/sample/\[토익스피킹\ 모의고사]\ -\ TOEIC\ SPEAKING\ Actual\ Test\ (#01)\ -\ 2019.10.21-J4ck5pfjyEY.mp4)
 
-- [[토익스피킹 모의고사] - TOEIC SPEAKING Actual Test (#04) - 2019.11.11-I0w20_R5om8.mp4 ](http://web.nuu.edu.tw/~greg/toeic/sample/[토익스피킹 모의고사] - TOEIC SPEAKING Actual Test (#04) - 2019.11.11-I0w20_R5om8.mp4)
+- [[토익스피킹 모의고사] - TOEIC SPEAKING Actual Test (#04) - 2019.11.11-I0w20_R5om8.mp4 ](http://web.nuu.edu.tw/~greg/toeic/sample/[토익스피킹\ 모의고사]\ -\ TOEIC\ SPEAKING\ Actual\ Test\ (#04)\ -\ 2019.11.11-I0w20_R5om8.mp4)
 
 - [\[토익스피킹\ 모의고사\]\ -\ TOEIC\ SPEAKING\ Actual\ Test\ \(#05\)\ -\ 2019.11.18-ewTVqwhlpz8.mp4](http://web.nuu.edu.tw/~greg/toeic/sample/\[토익스피킹\ 모의고사\]\ -\ TOEIC\ SPEAKING\ Actual\ Test\ %28%2305%29\ -\ 2019.11.18-ewTVqwhlpz8.mp4)
 
