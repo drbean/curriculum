@@ -69,6 +69,10 @@ instruction:
     1:
       identifier: Final, part 2
       questiontext: |+
+        [http://web.nuu.edu.tw/~greg/toeic/sample/Full%20Speaking%20toeic%20test%2004%20_%20Practice%20Speaking%20toeic%20test%20with%20Answers-bdkVufiNBt0.mp4](http://web.nuu.edu.tw/~greg/toeic/sample/Full_Speaking_toeic_test_04___Practice_Speaking_toeic_test_with_Answers-bdkVufiNBt0.mp4)
+    1:
+      identifier: Final, part 2
+      questiontext: |+
         [http://web.nuu.edu.tw/~greg/toeic/sample/Full%20Speaking%20toeic%20test%2004%20_%20Practice%20Speaking%20toeic%20test%20with%20Answers-bdkVufiNBt0.mp4](http://web.nuu.edu.tw/~greg/toeic/sample/Full%20Speaking%20toeic%20test%2004%20_%20Practice%20Speaking%20toeic%20test%20with%20Answers-bdkVufiNBt0.mp4)
 
     
@@ -194,7 +198,7 @@ read:
 
         When you go to a job interview, it is important to make a good impression. The first thing the interviewer will observe about you is your clothes, so dress in a neat, conservative outfit. Dark colors are best. Men should wear simple ties, and women should not wear short skirts. The way you behave is equally important. Enter the room with confidence. Look the interviewer in the eye while shaking hands. Don't forget to smile pleasantly at the same time. Introduce yourself in a clear voice.
     6:
-      identifier: Question 1. Read a text aloud
+      identifier: Question 2. Read a text aloud
       rubric: |+
         Directions: In this part of the test, you will read aloud the text in the paragraph below. You will have 45 seconds to prepare. Then you will have another 45 seconds to read the text aloud.
 
@@ -230,7 +234,7 @@ question:
   description:
     0:
       identifier: Question 4~6. Respond to questions
-      rubric: |+
+      questiontext: |+
         In this part of the test, you will answer three questions . For each question, begin responding immediately after you hear a beep . 3 seconds preparation time is provided. You will have 15 seconds to respond to Questions 4 and 5, and 30 seconds to respond to Question 6 .
   forum:
     0:
@@ -440,7 +444,60 @@ information:
             12:00 PM--Lunch with ExTime Board members
             1:30 PM---Limousine to airport
             3:00 PM---Flight 765 on Green Air to Miami
+    8:
+      identifier: "Questions 7: Respond to questions using information provided"
+      rubric: |+
+            Business Management Seminar Schedule
+            Tuesday, July 16
+            Chicago Meeting Hall
 
+            ------------- ---------------------------------------- -------------
+            9-10 am.......Opening Remarks..........................Gary Tucker
+            10-11 am......Saving Time with Conference Calls........Melissa Cobb
+            11 am - 12 pm.Fairly Coordinating Shift Schedules......Jeffrey Blair
+            12 - 1 pm.....Lunch*
+            1 -2 pm.......Designating Tasks for Maximum Efficiency.Jeffrey Blair
+            2 -3 pm.......Closing Remarks..........................Emmett Lee
+            ------------- ---------------------------------------- -------------
+
+            * Catered by Bridgette's Sandwich Shop
+# When will the seminar begin and end?
+    9:
+      identifier: "Questions 8: Respond to questions using information provided"
+      rubric: |+
+            Business Management Seminar Schedule
+            Tuesday, July 16
+            Chicago Meeting Hall
+
+            ------------- ---------------------------------------- -------------
+            9-10 am       Opening Remarks                          Gary Tucker
+            10-11 am      Saving Time with Conference Calls        Melissa Cobb
+            11 am - 12 pm Fairly Coordinating Shift Schedules      Jeffrey Blair
+            12 - 1 pm     Lunch*
+            1 -2 pm       Designating Tasks for Maximum Efficiency Jeffrey Blair
+            2 -3 pm       Closing Remarks                          Emmett Lee
+            ------------- ---------------------------------------- -------------
+
+            * Catered by Bridgette's Sandwich Shop
+# Someone told me that Emmett Lee will talk about Saving Time with Conference Calls. Is that right?
+    10:
+      identifier: "Questions 9: Respond to questions using information provided"
+      rubric: |+
+            Business Management Seminar Schedule
+            Tuesday, July 16
+            Chicago Meeting Hall
+
+            ------------- ---------------------------------------- -------------
+            9-10 am       Opening Remarks                          Gary Tucker
+            10-11 am      Saving Time with Conference Calls        Melissa Cobb
+            11 am - 12 pm Fairly Coordinating Shift Schedules      Jeffrey Blair
+            12 - 1 pm     Lunch*
+            1 -2 pm       Designating Tasks for Maximum Efficiency Jeffrey Blair
+            2 -3 pm       Closing Remarks                          Emmett Lee
+            ------------- ---------------------------------------- -------------
+
+            * Catered by Bridgette's Sandwich Shop
+# Which sessions are supposed to be led by Jeffrey Blair?
 solution:
   forum:
     0:
@@ -472,11 +529,13 @@ solution:
 
           Now listen to the voice message
 # 9:28 Hello. Is this the karate school? I would like some information about karate lessons for my son. I know you give classes for children, but I think they're group classes. My son is very shy and he doesn't do well in groups. Also, I noticed in your ad that your classes started last week. My son really wants to take karate lessons this semester and the only reason we didn't sign up earlier is because we were away on vacation. Do you have a class my son can take? He's ten years old and he has never taken karate lessons before. He has times in the afternoons after school and on Saturdays. My name is Sam Lee and my number is 876-555-9876. Thank you.
+# Full Speaking toeic test 04 _ Practice Speaking toeic test with Answers-bdkVufiNBt0.mp4$
+# Hello, this is Barbara Peters. I'm a patient of Dr Warren. I have a dental emergency. I mean, I think it is an emergency. Anyhow, my tooth has been bothering me since yesterday. It started to ache a little in the afternoon. Then the pain got so bad at night, that I didn't sleep well. Would the doctor have time to see me today. I have an important meeting this afternoon, so I would really like to see him this morning, if possible. The pain is really bad. It's bothering me a lot and just keeps getting worse. My job is not too far from your office. I can be there in 15 minutes. if I take a cab. Here is my cell phone number, 342-555-0965. Again, my name is Barbara Peters. I know the doctor's schedule is really full, but I really hope he can help me this morning. Thanks.
 opinion:
   description:
     0:
       identifier: Question 11. Express an opinion
-      rubric: |+
+      questiontext: |+
         In this part of the test, you will give your opinion about a specific topic . Be sure to say as much as you can in the time allowed . You will have 30 seconds to prepare . Then you will have 60 seconds to speak.
   forum:
     0:
