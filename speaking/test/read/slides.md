@@ -3,8 +3,6 @@
 % Fri 20 Sep 2019 11:31:18 AM CST http://github.com/drbean/curriculum/master/speaking
 
 
-# [Official Examinee handbook](https://www.etsglobal.org/content/download/828/12618/version/5/file/Examinee+Handbook+-+TOEIC+Speaking+and+Writing-LR.pdf )
-
 # Sentence stress and word stress
 
 ## Sentence stress
