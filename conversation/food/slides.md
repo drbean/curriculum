@@ -562,7 +562,6 @@ We would _____(1) a quart of wine for 25 cents and we would _____(2) wine to our
 - [Semantics of receiving something](https://framenet2.icsi.berkeley.edu/fnReports/data/frameIndex.xml?frame=Receiving_scenario)
 - [Semantics of alternatives](https://framenet2.icsi.berkeley.edu/fnReports/data/frameIndex.xml?frame=Alternatives)
 
-
 # Depression cooking
 
 ## Remembering cooking in the Depression
