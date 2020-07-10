@@ -51,6 +51,12 @@ Downloaded from[https://www.youtube.com/watch?v=kcgY7AIa1F0](https://www.youtube
 
 https://www.youtube.com/watch?v=Yija3fvgUAg
 
+### [English Club](https://www.englishclub.com)
+
+- [Practice TOEIC Speaking test](https://www.englishclub.com/esl-exams/ets-toeic-practice-speaking.htm)
+- [Sentence stress](https://www.englishclub.com/pronunciation/sentence-stress.htm)
+
+
 ## Writing
 
 - [speaking-writing-sample-tests.pdf ](http://web.nuu.edu.tw/~greg/toeic/sample/speaking-writing-sample-tests.pdf)
