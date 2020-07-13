@@ -1,0 +1,97 @@
+---
+
+# invitation
+
+#-
+#  content:
+#  -
+#    topic : invitation
+#    story : reply
+#    type  : jigsaw
+#    form  : accept
+#    intro : Key invitation acceptance expressions
+#    random: 4
+#-
+#  content:
+#  -
+#    topic : invitation
+#    story : reply
+#    type  : jigsaw
+#    form  : reject
+#    intro : Key invitation rejection expressions
+#    random: 4
+#-
+#  content:
+#  -
+#    topic : invitation
+#    story : roberts
+#    type  : jigsaw
+#    form  : graduation
+#    intro : p 70 invitation questions
+#    random: 5
+#  attempts: 2
+#-
+#  content:
+#  -
+#    topic : invitation
+#    story : dinner
+#    type  : jigsaw
+#    form  : genre
+#    intro : p 72--Invitation, acceptance, rejection
+#    random: 
+#-
+#  content:
+#  -
+#    topic : invitation
+#    story : dinner
+#    type  : jigsaw
+#    form  : comprehension_questions
+#    intro : p 72 letter questions
+#    random: 5
+#  attempts: 2
+-
+  content:
+  -
+    topic : invitation
+    story : dinner
+    type  : match
+    form  : book
+    intro : missing pronouns on p 72 dinner message
+    random:   
+-
+  content:
+  -
+    topic : invitation
+    story : dinner
+    type  : match
+    form  : dinner_structure
+    intro : structure on p 69. dinner message on p 72
+    random: 
+-
+  content:
+  -
+    topic : invitation
+    story : smokers
+    type  : jigsaw
+    form  : genre
+    intro : p 71 letter type
+    random: 
+-
+  content:
+  -
+    topic : invitation
+    story : smokers
+    type  : jigsaw
+    form  : smokers
+    intro : p 71 letter structure
+    random: 
+-
+  content:
+  -
+    topic : invitation
+    story : smokers
+    type  : jigsaw
+    form  : comprehension
+    intro : p 71 letter comprehension
+    random: 5
+  attempts: 2

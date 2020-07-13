@@ -1,0 +1,145 @@
+---
+#-
+#  content:
+#  -
+#    topic : invitation
+#    story : smokers
+#    type  : jigsaw
+#    form  : close_reading
+#    intro : courteous=polite, sincere=telling the truth. It is difficult to be both courteous and sincere.
+#    random: 
+#-
+#  content:
+#  -
+#    topic : invitation
+#    story : smokers
+#    type  : jigsaw
+#    form  : tone
+#    intro : Dr Bean thinks Chen is courteous, but not sincere? What does Smokers, Inc think?
+#    random: 
+#-
+#  content:
+#  -
+#    topic : invitation
+#    story : smokers
+#    type  : jigsaw
+#    form  : reply
+#    intro : Let us assume Chen is not interested in the symposium. He is just being polite.
+#    random: 10
+#-
+#  content:
+#  -
+#    topic : invitation
+#    story : smokers
+#    type  : jigsaw
+#    form  : chen
+#    intro : There are 6 possible answers and 7 questions. One of the answers is right twice.
+#    random: 
+#-
+#  content:
+#  -
+#    topic : invitation
+#    story : smokers
+#    type  : match
+#    form  : chen_structure
+#    intro : Match the paragraph with the structure on p 69 when rejecting an invitation
+#    random: 
+#-
+#  content:
+#  -
+#    topic : news_good
+#    story : point
+#    type  : jigsaw
+#    form  : 0
+#    intro : Read p 73, Step 1 carefully
+#    random: 4
+#-
+#  content:
+#  -
+#    topic : news_good
+#    story : point
+#    type  : jigsaw
+#    form  : 1
+#    intro : Read p 73, Step 2 carefully
+#    random: 4
+#-
+#  content:
+#  -
+#    topic : news_good
+#    story : point
+#    type  : jigsaw
+#    form  : 2
+#    intro : Read p 73, Step 3 carefully
+#    random: 4
+#-
+#  content:
+#  -
+#    topic : news_good
+#    story : point
+#    type  : jigsaw
+#    form  : 3
+#    intro : Read p 73, Step 4 carefully
+#    random: 4
+#-
+#  content:
+#  -
+#    topic : news_good
+#    story : repair
+#    type  : jigsaw
+#    form  : step_1
+#    intro : Read p 74 and think about Good News step 1
+#    random: 4
+#-
+#  content:
+#  -
+#    topic : news_good
+#    story : repair
+#    type  : jigsaw
+#    form  : step_2
+#    intro : Read p 74 and think about Good News step 2
+#    random: 4
+#-
+#  content:
+#  -
+#    topic : news_good
+#    story : repair
+#    type  : jigsaw
+#    form  : step_3
+#    intro : Read p 74 and think about Good News step 3
+#    random: 4
+#-
+#  content:
+#  -
+#    topic : news_good
+#    story : repair
+#    type  : jigsaw
+#    form  : step_4
+#    intro : Read p 74 and think about Good News step 4
+#    random: 4
+#-
+#  content:
+#  -
+#    topic : news_good
+#    story : repair
+#    type  : match
+#    form  : cloze
+#    intro : p 74 car repair cloze
+#    random: 
+-
+  content:
+  -
+    topic : goodwill
+    story : daniel
+    type  : url
+    form  : 0
+    intro : Messages from classmates to Daniel
+    random: 
+-
+  content:
+  -
+    topic : goodwill
+    story : video
+    type  : url
+    form  : 2
+    intro : Second hour--week 11
+    random: 

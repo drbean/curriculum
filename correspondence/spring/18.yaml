@@ -1,0 +1,229 @@
+---
+quiz:
+  subnet           : 210.60.168.212
+  browsersecurity  : safebrowser
+  safeexambrowser_allowedkeys: e71abb59ffc16b3344b23e826059219f3c4fe70731e1845b77b2faa1ad93bbab
+  timeopen         : $(date --date='2020-06-22 10:15:00 +0800' +%s)
+  timeclose        : $(date --date='2020-06-22 12:00:00 +0800' +%s)
+  attempts         : 1
+  grade            : 100
+  questioncategory : 18_final
+---
+-
+  content:
+  -
+    topic : exam
+    story : header
+    type  : description
+    form  : 0
+    intro : Final 108-2 start
+    random: 
+  -
+    topic : news_good
+    story : repair
+    type  : jigsaw
+    form  : structure
+    intro : Match each paragraph of the car repair message on p 74, p80 of the PDF, with the structure of a good news message on p73, p79 of the PDF
+    random: 
+  -
+    topic : news_good
+    story : repair
+    type  : drag
+    form  : 0
+    intro : A repeat of a classroom exercise--original car repair cloze p74--p80 of PDF
+    random:
+  -
+    topic : news_good
+    story : prize
+    type  : drag
+    form  : 0
+    intro : Check the similar Salesperson of the Year exercise, p75, p81 of PDF
+    random: 
+  -
+    topic : news_good
+    story : magazine
+    type  : jigsaw
+    form  : 0
+    intro : Why is the letter on p76, p82 of the PDF, good news.
+    random: 
+  -
+    topic : news_good
+    story : student
+    type  : jigsaw
+    form  : 0
+    intro : Look at the transfer request on p76, p84 of PDF.
+    random: 
+  -
+    topic : news_good
+    story : transfer
+    type  : jigsaw
+    form  : 0
+    intro : Why is the reply to the transfer request, p76, p84 of PDF, good news.
+    random: 
+  
+  
+  -
+    topic : bad_news
+    story : structure
+    type  : match
+    form  : 0
+    intro : the structure of bad news messages, p94, p100 of PDF
+    random: 
+  
+  -
+    topic : bad_news
+    story : joke
+    type  : drag
+    form  : 0
+    intro : Each sentence means the same as the corresponding sentence in the 1st paragraph, p96, p102 of PDF
+    random: 
+  
+  -
+    topic : bad_news
+    story : sort
+    type  : description
+    form  : 0
+    intro : The following questions are about the scrambled shoe and herbal letters on p97, p103 of PDF
+    random: 
+  
+  -
+    topic : bad_news
+    story : shoe
+    type  : match
+    form  : 0
+    intro : A repeat of a classroom exercise--shoe sentence order, p97, p103 of PDF.
+    random: 
+  -
+    topic : bad_news
+    story : shoe
+    type  : jigsaw
+    form  : 0
+    intro : the shoe message in terms of the structure, p94, p100 0f PDF
+    random: 
+  -
+    topic : bad_news
+    story : herbal
+    type  : match
+    form  : 1
+    intro : Check the bad news structure on p94, p96 of PDF.
+    random: 
+  -
+    topic : bad_news
+    story : herbal
+    type  : match
+    form  : 0
+    intro : Check the bad news structure on p94, p96 of PDF.
+    random: 
+  -
+    topic : bad_news
+    story : scramble
+    type  : jigsaw
+    form  : 1
+    intro : Wait until you hear Dr Bean read the sentences before choosing the answers
+    random: 
+  -
+    topic : bad_news
+    story : scramble
+    type  : jigsaw
+    form  : 2
+    intro : Wait until you hear Dr Bean read the sentences before choosing the answers
+    random: 
+  -
+    topic : bad_news
+    story : scramble
+    type  : drag
+    form  : 0
+    intro : Did you listen to Dr Bean read the answers?
+    random: 
+  -
+    topic : bad_news
+    story : covid19
+    type  : essay
+    form  : 0
+    intro : Airlines have been hit hard by COVID-19 and have laid off staff.
+    random: 
+  
+  -
+    topic : complaint
+    story : threat
+    type  : jigsaw
+    form  : 00
+    intro : Choose the *best* definition of threat, p99, p105 of PDF
+    random: 
+  -
+    topic : complaint
+    story : threat
+    type  : jigsaw
+    form  : 2
+    intro : Be careful choosing the right answer. Look at the definitions in the previous question.
+    random: 
+  -
+    topic : complaint
+    story : sweater
+    type  : drag
+    form  : 0
+    intro : Look carefully at p100, p106 of PDF. These sentences are almost word-for-word the same as the sentences in Paragraph 1 there.
+    random: 
+  -
+    topic : complaint
+    story : sweater
+    type  : drag
+    form  : 1
+    intro : Look carefully at p100, p106 of PDF. These sentences are almost word-for-word the same as the sentences in Paragraph 2 there.
+    random: 
+  -
+    topic : complaint
+    story : sweater
+    type  : drag
+    form  : 2
+    intro : Look carefully at p100, p106 of PDF. These sentences are almost word-for-word the same as the sentences in Paragraph 3 there.
+    random: 
+  -
+    topic : complaint
+    story : drink
+    type  : match
+    form  : reply
+    intro : Check TOPCAT reply on p108, p114 of PDF to Newman complaint on p102, p108 of PDF against the structure of replies to complaints on p104, p110 of PDF
+    random: 
+  -
+    topic : order
+    story : sweater
+    type  : match
+    form  : 1
+    intro : The order on p116, p122 of PDF. The structure of an order on p110, p116 of PDF.
+    random: 
+  -
+    topic : order
+    story : sweater
+    type  : match
+    form  : 0
+    intro : 5 of these sentences are OK. 7 are not OK. The right words are not used.
+    random: 
+  -
+    topic : order
+    story : sweater
+    type  : match
+    form  : 2
+    intro : The acknowledgment of the sweater order on p117, p123 of PDF. The structure of order acknowledgments on p113, p119 of PDF.
+    random: 
+  -
+    topic : order
+    story : cancel
+    type  : jigsaw
+    form  : 0
+    intro : Stevenson read in a magazine that cotton causes skin cancer, so he cancels his order on p115, p121 of PDF. See the structure, p114, p120 of PDF.
+    random: 
+  -
+    topic : order
+    story : cancel
+    type  : match
+    form  : 2
+    intro : The cancellation of the sweater order on p115, p121 of PDF. The structure of order cancellations on p114, p120 of PDF.
+    random: 
+  -
+    topic : order
+    story : sweater
+    type  : essay
+    form  : 0
+    intro :
+    random: 

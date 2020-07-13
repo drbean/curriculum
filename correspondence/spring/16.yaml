@@ -1,0 +1,291 @@
+---
+forum:
+  timeclose        : $(date --date='2026-06-06 14:00:00 +0800' +%s)
+  duedate          : $(date --date='2026-06-06 14:00:00 +0800' +%s)
+  cutoffdate       : $(date --date='2026-06-06 14:00:00 +0800' +%s) 
+quiz:
+  questioncategory : 16_complaint
+---
+#-
+#  grade: 0
+#  content:
+#  -
+#    topic : complaint
+#    story : damage
+#    type  : description
+#    form  : 0
+#    intro : what is 'resulting damage'
+#    random: 
+#-
+#  content:
+#  -
+#    topic : complaint
+#    story : damage
+#    type  : jigsaw
+#    form  : 0
+#    intro : Student complaints with/without 'resulting damage'
+#    random: 7
+#-
+#  content:
+#  -
+#    topic : complaint
+#    story : drink
+#    type  : match
+#    form  : structure
+#    intro : How does it fit the structure on p99?
+#    random: 
+#-
+#  content:
+#  -
+#    topic : complaint
+#    story : drink
+#    type  : jigsaw
+#    form  : comprehension
+#    intro : Understanding the complaint. TOPCAT's reply is in final exam.
+#    random: 
+#-
+#  content:
+#  -
+#    topic : complaint
+#    story : reply
+#    type  : match
+#    form  : 0
+#    intro : Step 2a--choosing to accept the claim. Step 2B--choosing to reject the claim.
+#    random: 
+#-
+#  content:
+#  -
+#    topic : complaint
+#    story : reply
+#    type  : match
+#    form  : 1
+#    intro : Step 2a--choosing to accept the claim. Step 2B--choosing to reject the claim.
+#    random: 
+#-
+#  content:
+#  -
+#    topic : order
+#    story : order
+#    type  : jigsaw
+#    form  : context
+#    intro : understanding the context of an order
+#    random: 
+#-
+#  content:
+#  -
+#    topic : order
+#    story : order
+#    type  : match
+#    form  : 0
+#    intro : understanding the structure of an order
+#    random: 
+#-
+#  content:
+#  -
+#    topic : order
+#    story : order
+#    type  : match
+#    form  : 1
+#    intro : typical order sentences
+#    random: 
+#-
+#  content:
+#  -
+#    topic : order
+#    story : sweater
+#    type  : match
+#    form  : 1
+#    intro : the structure of the p116 sweater order in terms of the steps on p110
+#    random: 
+#-
+#  attempts: 2
+#  content:
+#  -
+#    topic : order
+#    story : sweater
+#    type  : jigsaw
+#    form  : 0
+#    intro : grammar mistakes in the order 1
+#    random: 1
+#-
+#  attempts: 2
+#  content:
+#  -
+#    topic : order
+#    story : sweater
+#    type  : jigsaw
+#    form  : 1
+#    intro : grammar mistakes in the order 2
+#    random: 1
+#-
+#  attempts: 2
+#  content:
+#  -
+#    topic : order
+#    story : sweater
+#    type  : jigsaw
+#    form  : 2
+#    intro : grammar mistakes in the order 3
+#    random: 1
+#-
+#  attempts: 2
+#  content:
+#  -
+#    topic : order
+#    story : sweater
+#    type  : jigsaw
+#    form  : 3
+#    intro : grammar mistakes in the order 4
+#    random: 1
+#-
+#  content:
+#  -
+#    topic : order
+#    story : sweater
+#    type  : jigsaw
+#    form  : 20
+#    intro : order, acknowledgment, cancellation
+#    random: 
+#-
+#  content:
+#  -
+#    topic : order
+#    story : sweater
+#    type  : jigsaw
+#    form  : 21
+#    intro : order, acknowledgment, cancellation
+#    random: 
+#-
+#  content:
+#  -
+#    topic : order
+#    story : sweater
+#    type  : jigsaw
+#    form  : 24
+#    intro : order of order parts
+#    random: 
+#-
+#  content:
+#  -
+#    topic : order
+#    story : sweater
+#    type  : jigsaw
+#    form  : 25
+#    intro : order of order parts
+#    random: 
+#-
+#  content:
+#  -
+#    topic : order
+#    story : sweater
+#    type  : jigsaw
+#    form  : 26
+#    intro : order of order parts
+#    random: 
+#-
+#  content:
+#  -
+#    topic : complaint
+#    story : reply
+#    type  : jigsaw
+#    form  : 0
+#    intro : Translating between 2a in book and on site
+#    random: 
+#-
+#  content:
+#  -
+#    topic : complaint
+#    story : reply
+#    type  : jigsaw
+#    form  : 1
+#    intro : Translating between 2b in book and on site
+#    random: 
+#-
+#  attempts: 2
+#  content:
+#  -
+#    topic : order
+#    story : sweater
+#    type  : jigsaw
+#    form  : 10
+#    intro : Grammar correction of sweater order acknowledgment 1
+#    random: 1
+#-
+#  attempts: 2
+#  content:
+#  -
+#    topic : order
+#    story : sweater
+#    type  : jigsaw
+#    form  : 11
+#    intro : Grammar correction of sweater order acknowledgment 2
+#    random: 1
+#-
+#  attempts: 2
+#  content:
+#  -
+#    topic : order
+#    story : sweater
+#    type  : jigsaw
+#    form  : 12
+#    intro : Grammar correction of sweater order acknowledgment 3
+#    random: 1
+#-
+#  attempts: 2
+#  content:
+#  -
+#    topic : order
+#    story : sweater
+#    type  : jigsaw
+#    form  : 13
+#    intro : Grammar correction of sweater order acknowledgment 4
+#    random: 1
+#-
+#  attempts: 2
+#  content:
+#  -
+#    topic : order
+#    story : sweater
+#    type  : jigsaw
+#    form  : 14
+#    intro : Grammar correction of sweater order acknowledgment 5
+#    random: 1
+#-
+#  attempts: 2
+#  content:
+#  -
+#    topic : order
+#    story : sweater
+#    type  : jigsaw
+#    form  : 15
+#    intro : Grammar correction of sweater order acknowledgment 6
+#    random: 1
+#-
+#  attempts: 2
+#  content:
+#  -
+#    topic : order
+#    story : sweater
+#    type  : jigsaw
+#    form  : 16
+#    intro : Grammar correction of sweater order acknowledgment 7
+#    random: 1
+#-
+#  attempts: 2
+#  content:
+#  -
+#    topic : order
+#    story : sweater
+#    type  : jigsaw
+#    form  : 17
+#    intro : Grammar correction of sweater order acknowledgment 8
+#    random: 1
+-
+  content:
+  -
+    topic : order
+    story : video
+    type  : url
+    form  : 0
+    intro : Hour 1, week 16
+    random: 

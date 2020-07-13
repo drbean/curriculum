@@ -1,0 +1,137 @@
+---
+forum:
+  timeclose        : $(date --date='2026-06-06 14:00:00 +0800' +%s)
+  duedate          : $(date --date='2026-06-06 14:00:00 +0800' +%s)
+  cutoffdate       : $(date --date='2026-06-06 14:00:00 +0800' +%s) 
+quiz:
+  questioncategory : 17_exam_prep
+---
+#-
+#  content:
+#  -
+#    topic : news_good
+#    story : repair
+#    type  : drag
+#    form  : 0
+#    intro : Check the answers to the original exercise which is on the exam next week.
+#    random: 
+#-
+#  content:
+#  -
+#    topic : news_good
+#    story : repair
+#    type  : drag
+#    form  : 1
+#    intro : Check the answers to the original exercise which is on the exam next week.
+#    random: 
+#-
+#  content:
+#  -
+#    topic : news_good
+#    story : prize
+#    type  : drag
+#    form  : 0
+#    intro : The original SalesPerson of the Year exercise is also on the exam.
+#    random: 
+#-
+#  content:
+#  -
+#    topic : bad_news
+#    story : herbal
+#    type  : drag
+#    form  : 0
+#    intro : Understand the sentences. Questions about the herbal store bad news are on the exam.
+#    random:
+#-
+#  content:
+#  -
+#    topic : bad_news
+#    story : herbal
+#    type  : match
+#    form  : 2
+#    intro : Understand the sentences. Questions about the herbal store bad news are on the exam.
+#    random: 
+#-
+#  attempts: 1
+#  content:
+#  -
+#    topic : bad_news
+#    story : scramble
+#    type  : jigsaw
+#    form  : 1
+#    intro : Remember the sentences. Unscrambling them is on the exam.
+#    random: 
+#-
+#  attempts: 1
+#  content:
+#  -
+#    topic : bad_news
+#    story : scramble
+#    type  : jigsaw
+#    form  : 2
+#    intro : Remember the sentences. Unscrambling them is on the exam.
+#    random: 
+#-
+#  content:
+#  -
+#    topic : complaint
+#    story : threat
+#    type  : jigsaw
+#    form  : 0
+#    intro : There will be questions about threats on the exam.
+#    random: 
+#-
+#  content:
+#  -
+#    topic : complaint
+#    story : threat
+#    type  : jigsaw
+#    form  : 1
+#    intro : Similar threats and non-threats are on the exam.
+#    random: 
+#-
+#  content:
+#  -
+#    topic : order
+#    story : cancel
+#    type  : jigsaw
+#    form  : 0
+#    intro : After ordering the sweaters, Charlie Stevenson cancels the order.
+#    random: 
+#-
+#  content:
+#  -
+#    topic : order
+#    story : sweater
+#    type  : jigsaw
+#    form  : 28
+#    intro : Look at the structure on p114
+#    random: 
+#-
+#  content:
+#  -
+#    topic : order
+#    story : sweater
+#    type  : jigsaw
+#    form  : 29
+#    intro : Look at the structure on p114
+#    random: 
+#-
+#  content:
+#  -
+#    topic : order
+#    story : cancel
+#    type  : match
+#    form  : 3
+#    intro : key words in p114 cancellation
+#    random: 
+-
+  content:
+  -
+    topic : order
+    story : video
+    type  : url
+    form  : 1
+    intro : Hour 1, week 17
+    random: 
+
