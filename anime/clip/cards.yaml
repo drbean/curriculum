@@ -1,0 +1,24 @@
+---
+genre: anime
+select:
+  essay:
+    0:
+      identifier: Selecting anime to do
+      rubric: |+
+        Give a link to an anime we can do in class.
+
+        Introduce the anime in a short 30~60 word essay, like this.
+
+             This is a XXX  anime.
+
+             Its name is ....
+
+             It was released in YYYY.
+
+             It iss about 2(3?) ZZZ who AAA BBB CCC.
+
+             I think YYY is very DDD.
+
+             The story is ... .
+
+             The production is ... .
