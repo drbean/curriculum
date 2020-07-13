@@ -1,0 +1,11 @@
+---
+-
+  content:
+  -
+    topic : story
+    story : storycorps
+    type  : forum
+    form  : 0
+    intro : Another Storycorps story
+    random: 
+  

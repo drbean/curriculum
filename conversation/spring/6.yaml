@@ -1,0 +1,48 @@
+---
+#-
+#  content:
+#  -
+#    topic : work
+#    story : smallwood
+#    type  : jigsaw
+#    form  : 1
+#    intro : treatment of women
+#    random: 
+-
+  content:
+  -
+    topic : story
+    story : storycorps
+    type  : forum
+    form  : 0
+    intro : Talking about a story
+    random: 
+#-
+#  content:
+#  -
+#    topic : work
+#    story : abreu
+#    type  : jigsaw
+#    form  : problem
+#    intro : Predicament frame elements
+#    random: 
+#-
+#  content:
+#  -
+#    topic : work
+#    story : abreu
+#    type  : jigsaw
+#    form  : solution
+#    intro : Resolve problem frame elements
+#    random: 
+#-
+#  content:
+#  -
+#    topic : work
+#    story : abreu
+#    type  : jigsaw
+#    form  : evaluation
+#    intro : Assessing frame elements
+#    random: 
+  
+  

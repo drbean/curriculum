@@ -1,0 +1,18 @@
+---
+forum:
+  timeclose        : $(date --date='2026-06-06 14:00:00 +0800' +%s)
+  duedate          : $(date --date='2026-06-06 14:00:00 +0800' +%s)
+  cutoffdate       : $(date --date='2026-06-06 14:00:00 +0800' +%s) 
+quiz:
+  questioncategory : 18_exam
+---
+-
+  content:
+  -
+    topic : food
+    story : lerman
+    type  : page
+    form  : 0
+    intro : Filling in the blanks
+    random: 
+

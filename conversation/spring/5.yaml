@@ -1,0 +1,80 @@
+---
+assign:
+  introformat      : 4
+  duedate          : $(date --date='2020-03-30 12:00:00 +0800' +%s)
+  cutoffdate       : $(date --date='2020-03-30 12:00:00 +0800' +%s) 
+  grade            : 9
+  gradecat         : 627
+  groupmode        : 1
+  # groupingid       : 136 
+  decimalpoints    : 0
+  overduehandling  : 0  
+  requiresubmissionstatement          : 0
+  submissiondrafts                    : 0
+  assignsubmission_onlinetext_enabled : 0
+  assignsubmission_onlinetext_enabled : 1
+forum:
+  timeopen         : 1
+  timeclose        : $(date --date='2020-03-30 12:00:00 +0800' +%s)
+  duedate          : $(date --date='2020-03-30 12:00:00 +0800' +%s)
+  cutoffdate       : $(date --date='2020-03-30 12:00:00 +0800' +%s) 
+  introformat      : 4
+  type             : eachuser
+  grade            : 9
+  groupmode        : 0
+  # groupingid       : 128
+  # attempts         : 1
+  decimalpoints    : 0
+  overduehandling : 0
+  shuffleanswers   : 1
+studentquiz:
+  introformat      : 4
+  questionquantifier       : 4
+  approvedquantifier       : 0
+  ratequantifier           : 3
+  correctanswerquantifier  : 2
+  incorrectanswerquantifier: 1
+  allowedqtypes            : multichoice,truefalse
+  closesubmissionfrom      : $(date --date='2020-03-24 14:00:00 +0800' +%s)
+  closeansweringfrom       : $(date --date='2020-03-24 14:00:00 +0800' +%s)
+  grade            : 3
+  groupmode        : 0
+  # groupingid       : 128
+  # attempts         : 1
+  decimalpoints    : 0
+  overduehandling : 0
+  shuffleanswers   : 1
+quiz:
+  timeopen         : 1
+  timeclose        : $(date --date='2020-06-30 14:00:00 +0800' +%s)
+  introformat      : 4
+  grade            : 3
+  gradecat         : 633
+  groupmode        : 0
+  # groupingid       : 128
+  attempts         : 1
+  decimalpoints    : 0
+  overduehandling : 0
+  shuffleanswers   : 1
+  # browsersecurity  : safebrowser
+  # safeexambrowser_allowedkeys: e71abb59ffc16b3344b23e826059219f3c4fe70731e1845b77b2faa1ad93bbab
+---
+#-
+#  content:
+#  -
+#    topic : work
+#    story : abreu
+#    type  : jigsaw
+#    form  : 1
+#    intro : Questions about Claritza, John Doe and Joan
+#    random: 
+-
+  content:
+  -
+    topic : work
+    story : abreu
+    type  : assign
+    form  : 0
+    intro : Just talk for 30 seconds. You don't need to prepare anything written. Don't write anything down!
+    random: 
+    

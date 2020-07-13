@@ -1,0 +1,20 @@
+---
+-
+  content:
+  -
+    topic : food
+    story : lerman
+    type  : jigsaw
+    form  : 2
+    intro : Questions about Don Lerman
+    random: 
+-
+  content:
+  -
+    topic : food
+    story : lerman
+    type  : forum
+    form  : 0
+    intro : 30 seconds about food or about an achievement
+    random: 
+  
