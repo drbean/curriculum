@@ -1,0 +1,41 @@
+---
+
+# opinion
+
+-
+  -
+    topic : opinion
+    story : job
+    type  : jigsaw
+    form  : 0
+    intro : opinion question in both tests 0
+    random:
+
+-
+  -
+    topic : opinion
+    story : job
+    type  : jigsaw
+    form  : 1
+    intro : opinion question in both tests 1
+    random:
+
+-
+  -
+    topic : request
+    story : offer
+    type  : jigsaw
+    form  : 0
+    intro : request or offer
+    random:
+
+#-
+#  -
+#    topic : opinion
+#    story : job
+#    type  : forum
+#    form  : 0
+#    intro : notes for debate
+#    random: 
+
+

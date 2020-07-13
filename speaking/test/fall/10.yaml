@@ -1,0 +1,33 @@
+---
+
+## solution
+#
+#-
+#  -
+#    topic : solution
+#    story : request
+#    type  : jigsaw
+#    form  : 0
+#    intro : "Which is more face-threatening: a request or advice"
+#    random: 
+#
+#-
+#  -
+#    topic : solution
+#    story : example
+#    type  : jigsaw
+#    form  : 0
+#    intro : Is the responder asking the caller to do something, or telling them what they can/should do?
+#    random: 
+
+# pic
+
+-
+  -
+    topic : pic
+    story : error
+    type  : jigsaw
+    form  : 0
+    intro : Page 19 of the Examinee Handbook for the Scoring Guide
+    random: 
+
