@@ -1,0 +1,152 @@
+---
+forum:
+  timeclose        : $(date --date='2026-06-17 15:00:00 +0800' +%s)
+  duedate          : $(date --date='2026-06-17 15:00:00 +0800' +%s)
+  cutoffdate       : $(date --date='2026-06-17 15:00:00 +0800' +%s) 
+quiz:
+  questioncategory : 17_final
+---
+# final
+
+# Full Speaking toeic test 04 _ Practice Speaking toeic test with Answers-bdkVufiNBt0.mp4
+# 제니차 토익스피킹 모의고사 - 8회 [ TOEIC Speaking Actual Test 8  ]-XzrXaySbJSs.mp4
+
+#-
+#  grade: 0
+#  content:
+#    -
+#      topic : general
+#      story : instruction
+#      type  : description
+#      form  : 1
+#      intro : final, week 17, 108-2
+#      random: 
+#-
+#  content:
+#    -
+#      topic : general
+#      story : read
+#      type  : forum
+#      form  : 5
+#      intro : text 1, job interview advice
+#      random: 
+#-
+#  content:
+#    -
+#      topic : general
+#      story : read
+#      type  : forum
+#      form  : 6
+#      intro : text 2, ocean view restaurant
+#      random: 
+#-
+#  content:
+#    -
+#      topic : general
+#      story : pic
+#      type  : forum
+#      form  : 2
+#      intro : woman, man meeting
+#      random: 
+#-
+#  grade: 0
+#  content:
+#    -
+#      topic : general
+#      story : question
+#      type  : description
+#      form  : 0
+#      intro : question directions
+#      random: 
+-
+  content:
+    -
+      topic : general
+      story : question
+      type  : forum
+      form  : 5
+      intro : popular physical exercise
+      random: 
+#-
+#  content:
+#    -
+#      topic : general
+#      story : question
+#      type  : forum
+#      form  : 6
+#      intro : you and exercise
+#      random: 
+#-
+#  content:
+#    -
+#      topic : general
+#      story : question
+#      type  : forum
+#      form  : 7
+#      intro : encouraging exercise
+#      random: 
+#-
+#  grade: 0
+#  content:
+#    -
+#      topic : general
+#      story : information
+#      type  : description
+#      form  : 0
+#      intro : Management seminar
+#      random: 
+#-
+#  content:
+#    -
+#      topic : general
+#      story : information
+#      type  : forum
+#      form  : 8
+#      intro : Managememnt seminar times
+#      random: 
+#-
+#  content:
+#    -
+#      topic : general
+#      story : information
+#      type  : forum
+#      form  : 9
+#      intro : Emmett Lee on conference calls
+#      random: 
+#-
+#  content:
+#    -
+#      topic : general
+#      story : information
+#      type  : forum
+#      form  : 10
+#      intro : Jeffrey Blair sessions
+#      random: 
+#-
+#  content:
+#    -
+#      topic : general
+#      story : solution
+#      type  : forum
+#      form  : 0
+#      intro : Doctor, nurse reply to medical emergency
+#      random: 
+-
+  grade: 0
+  content:
+    -
+      topic : general
+      story : opinion
+      type  : description
+      form  : 0
+      intro : Opinion directions
+      random: 
+-
+  content:
+    -
+      topic : general
+      story : opinion
+      type  : forum
+      form  : 2
+      intro : Smoking in public
+      random: 

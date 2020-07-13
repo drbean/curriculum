@@ -1,0 +1,36 @@
+---
+forum:
+  timeclose        : $(date --date='2026-06-12 12:00:00 +0800' +%s)
+  duedate          : $(date --date='2026-06-12 12:00:00 +0800' +%s)
+  cutoffdate       : $(date --date='2026-06-12 12:00:00 +0800' +%s) 
+quiz:
+  questioncategory : 16_pic
+---
+-
+  content:
+  -
+    topic : pic
+    story : planning
+    type  : jigsaw
+    form  : 0
+    intro : fore means to the front
+    random: 
+-
+  content:
+  -
+    topic : pic
+    story : planning
+    type  : jigsaw
+    form  : 1
+    intro : the answer is on p14 of the Examinee Handbook
+    random: 
+-
+  content:
+  -
+    topic : pic
+    story : planning
+    type  : jigsaw
+    form  : 2
+    intro : how to prepare your response
+    random: 
+

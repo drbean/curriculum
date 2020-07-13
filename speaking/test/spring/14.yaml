@@ -1,0 +1,45 @@
+---
+forum:
+  timeclose        : $(date --date='2026-06-05 12:00:00 +0800' +%s)
+  duedate          : $(date --date='2026-06-05 12:00:00 +0800' +%s)
+  cutoffdate       : $(date --date='2026-06-05 12:00:00 +0800' +%s) 
+quiz:
+  questioncategory : 14_shoe_promotion_solution,id_handbook
+---
+#-
+#  content:
+#  -
+#    topic : solution
+#    story : shoe
+#    type  : jigsaw
+#    form  : 0
+#    intro : The steps in the description of the problem
+#    random: 
+#-
+#  content:
+#  -
+#    topic : solution
+#    story : shoe
+#    type  : jigsaw
+#    form  : 1
+#    intro : The steps in the solution proposed by Gwen
+#    random: 
+#-
+#  content:
+#  -
+#    topic : general
+#    story : handbook
+#    type  : jigsaw
+#    form  : 0
+#    intro : Understanding ID requirements, Handbook p 7,8
+#    random: 
+-
+  content:
+  -
+    topic : solution
+    story : shoe
+    type  : forum
+    form  : 0
+    intro : Be careful--the problem is how to choose which shoes to display
+    random: 
+

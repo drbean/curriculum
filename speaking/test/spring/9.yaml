@@ -1,0 +1,91 @@
+---
+
+# midterm: week 10
+
+# opinion
+
+-
+  content:
+  -
+    topic : opinion
+    story : phone
+    type  : forum
+    form  : 0
+    intro : phone interview from http://web.nuu.edu.tw/~greg/toeic/sample/%EC%A0%9C%EB%8B%88%EC%B0%A8%20%ED%86%A0%EC%9D%B5%EC%8A%A4%ED%94%BC%ED%82%B9%20%EB%AA%A8%EC%9D%98%EA%B3%A0%EC%82%AC%20-%208%ED%9A%8C%20%5B%20TOEIC%20Speaking%20Actual%20Test%208%20%5D-XzrXaySbJSs.mp4
+    random: 
+  	
+# writing
+
+-
+  content:
+  -
+    topic : writing
+    story : picture
+    type  : forum
+    form  : 0
+    intro : 
+    random: 
+-
+  content:
+  -
+    topic : writing
+    story : picture
+    type  : forum
+    form  : 1
+    intro : 
+    random: 
+-
+  content:
+  -
+    topic : writing
+    story : picture
+    type  : forum
+    form  : 2
+    intro : 
+    random: 
+-
+  content:
+  -
+    topic : writing
+    story : picture
+    type  : forum
+    form  : 3
+    intro : 
+    random: 
+-
+  content:
+  -
+    topic : writing
+    story : picture
+    type  : forum
+    form  : 4
+    intro : 
+    random: 
+-
+  content:
+  -
+    topic : writing
+    story : response
+    type  : forum
+    form  : 0
+    intro : 
+    random: 
+-
+  content:
+  -
+    topic : writing
+    story : response
+    type  : forum
+    form  : 1
+    intro : 
+    random: 
+-
+  content:
+  -
+    topic : writing
+    story : opinion
+    type  : forum
+    form  : 1
+    intro : 
+    random: 
+

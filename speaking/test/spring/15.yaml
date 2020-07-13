@@ -1,0 +1,73 @@
+---
+forum:
+  timeclose        : $(date --date='2026-06-12 12:00:00 +0800' +%s)
+  duedate          : $(date --date='2026-06-12 12:00:00 +0800' +%s)
+  cutoffdate       : $(date --date='2026-06-12 12:00:00 +0800' +%s) 
+quiz:
+  questioncategory : 15_information--itinerary
+---
+#-
+#  content:
+#  -
+#    topic : information
+#    story : itinerary
+#    type  : description
+#    form  : 0
+#    intro : the San Antonio--Chicago trip
+#    random: 
+#-
+#  content:
+#  -
+#    topic : information
+#    story : itinerary
+#    type  : jigsaw
+#    form  : 0
+#    intro : Leaving San Antonio and arriving in San Antonio
+#    random: 
+#-
+#  content:
+#  -
+#    topic : information
+#    story : itinerary
+#    type  : jigsaw
+#    form  : 1
+#    intro : arriving in Chicago, meeting a friend
+#    random: 
+#-
+#  content:
+#  -
+#    topic : information
+#    story : itinerary
+#    type  : jigsaw
+#    form  : 2
+#    intro : details of the Chicago trip
+#    random: 
+#-
+#  content:
+#  -
+#    topic : information
+#    story : class
+#    type  : jigsaw
+#    form  : 0
+#    intro : Full Speaking toeic test 02 | Practice Speaking toeic test with Answers-E4ElMkCLoY.mp4  
+#    random: 
+#-
+#  content:
+#  -
+#    topic : information
+#    story : itinerary
+#    type  : description
+#    form  : 1
+#    intro : the NY trip
+#    random: 
+-
+  content:
+  -
+    topic : information
+    story : class
+    type  : forum
+    form  : 0
+    intro : Taking computer classes
+    random: 
+
+

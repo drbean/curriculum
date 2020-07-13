@@ -1,0 +1,30 @@
+---
+#-
+#  content:
+#  -
+#    topic : solution
+#    story : news
+#    type  : jigsaw
+#    form  : 0
+#    intro : Words predicting good/bad news
+#    random: 
+-
+  content:
+  -
+    topic : solution
+    story : example
+    type  : jigsaw
+    form  : 0
+    intro : What is advice? What is a request?
+    random: 
+-
+  content:
+  -
+    topic : solution
+    story : mind
+    type  : jigsaw
+    form  : 0
+    intro : "'Would you mind'--an easy request. 'I'm afraid I'm going to have to'--a difficult request"
+    random: 
+  
+    
