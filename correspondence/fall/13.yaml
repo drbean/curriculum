@@ -1,0 +1,21 @@
+---
+
+# coverletter
+
+-
+  -
+    topic : coverletter
+    story : proposal
+    type  : drag
+    form  : 0
+    intro : proposal sentence scramble
+    random: 
+-
+  -
+    topic : coverletter
+    story : proposal
+    type  : drag
+    form  : 1
+    intro : catalog sentence scramble
+    random: 
+

@@ -1,0 +1,44 @@
+---
+
+# coverletter
+
+-
+  -
+    topic : coverletter
+    story : grammar
+    type  : jigsaw
+    form  : 1
+    intro : creating SVOA conference sentence
+    random: 
+
+# transaction
+
+-
+  -
+    topic : transaction
+    story : college
+    type  : jigsaw
+    form  : 0
+    intro : school choice--a transaction by student, school
+    random: 3
+
+-
+  -
+    topic : transaction
+    story : college
+    type  : match
+    form  : 0
+    intro : a bad student, school choice--the process
+    random: 
+
+# promotion
+
+-
+  -
+    topic : promotion
+    story : supplier
+    type  : jigsaw
+    form  : 0
+    intro : the address source report more useful to supplier
+    random: 4
+

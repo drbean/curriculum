@@ -1,0 +1,47 @@
+---
+
+# transaction
+
+#-
+#  -
+#    topic : transaction
+#    story : definition
+#    type  : match
+#    form  : 1
+#    intro : Matching the second 10 definitions again
+#    random: 
+#
+
+# coverletter
+
+-
+  -
+    topic : coverletter
+    story : grammar
+    type  : jigsaw
+    form  : 1
+    intro : Making a sentence from parts
+    random: 1
+
+
+#-
+#  -
+#    topic : coverletter
+#    story : proposal
+#    type  : jigsaw
+#    form  : 4
+#    intro : Review of Smart proposal sentences
+#    random: 1
+
+
+# promotion
+
+#-
+#  -
+#    topic : promotion
+#    story : structure
+#    type  : jigsaw
+#    form  : 0
+#    intro : promotion keywords and structure
+#    random: 5
+

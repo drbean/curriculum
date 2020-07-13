@@ -1,0 +1,137 @@
+---
+
+## 8cs
+#
+#-
+#  -
+#    topic : 8cs
+#    story : 4c_match
+#    type  : match
+#    form  : 0
+#    intro : match the C with the keyword
+#    random: 
+#-
+#  -
+#    topic : 8cs
+#    story : 4c_match
+#    type  : match
+#    form  : 1
+#    intro : match the 2nd 4 Cs with the keyword
+#    random: 
+#-
+#  -
+#    topic : 8cs
+#    story : 4c_match
+#    type  : match
+#    form  : 2
+#    intro : match all 8 Cs with the keyword
+#    random: 
+#
+#-
+#  -
+#    topic : 8cs
+#    story : problem
+#    type  : jigsaw
+#    form  : 0
+#    intro : Which of the 8cs is the problem?
+#    random: 
+#
+## audience
+#
+#-
+#  -
+#    topic : audience
+#    story : interest
+#    type  : jigsaw
+#    form  : 0
+#    intro : Understand the importance of interests
+#    random: 
+#
+#-
+#  -
+#    topic : audience
+#    story : knowledge
+#    type  : jigsaw
+#    form  : 0
+#    intro : Understand how knowledge affects understanding
+#    random: 
+#-
+#  -
+#    topic : audience
+#    story : purpose
+#    type  : jigsaw
+#    form  : 0
+#    intro : Understand why purpose determines what the reader will do with the email
+#    random: 
+#
+#-
+#  -
+#    topic : audience
+#    story : point_of_view
+#    type  : jigsaw
+#    form  : 0
+#    intro : Understand how views of a subject affect the reader
+#    random: 
+#
+#-
+#  -
+#    topic : audience
+#    story : relationship_with_writer
+#    type  : jigsaw
+#    form  : 0
+#    intro : Understand how relationships change the way a message is written
+#    random:
+#
+#-
+#  -
+#    topic : audience
+#    story : style
+#    type  : jigsaw
+#    form  : 0
+#    intro : Understand how a writer's preferences affect the style
+#    random: 
+
+-
+  -
+    topic : audience
+    story : style
+    type  : jigsaw
+    form  : 2
+    intro : One element of style is formality/informality
+    random: 
+
+-
+  -
+    topic : audience
+    story : style
+    type  : jigsaw
+    form  : 1
+    intro : Understand how writer/reader's ideas of style may differ and be a problem
+    random: 
+
+#-
+#  -
+#    topic : audience
+#    story : student
+#    type  : jigsaw
+#    form  : 0
+#    intro : Students' answers for homework question about audience points
+#    random: 
+#-
+#  -
+#    topic : audience
+#    story : student
+#    type  : jigsaw
+#    form  : 1
+#    intro : Students' answers for homework question about audience points
+#    random: 
+#-
+#  -
+#    topic : audience
+#    story : student
+#    type  : jigsaw
+#    form  : 2
+#    intro : Students' answers for homework question about audience points
+#    random: 
+
+
