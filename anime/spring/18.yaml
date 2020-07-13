@@ -1,0 +1,17 @@
+---
+studentquiz:
+  closesubmissionfrom      : $(date --date='2020-06-09 12:00:00 +0800' +%s)
+  closeansweringfrom       : $(date --date='2020-06-09 12:00:00 +0800' +%s)
+quiz:
+  questioncategory : 18_final
+---
+-
+  content:
+  -
+    topic : western
+    story : pawpatrol
+    type  : url
+    form  : 0
+    intro : Check the captions on http://youtu.be/KUFPRi0FQl8
+    random: 
+
