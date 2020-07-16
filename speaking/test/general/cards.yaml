@@ -346,9 +346,9 @@ information:
             3:00-4:00    Tea and pastries in the outdoor garden
 
             * Special discount: Buy your tickets by May 15 and pay $20.
-# I'm interested in taking the tour of the Botanical Gardens on June 5th, but I'm not sure exactly where I should go. Can you tell me where the tour begins?
-# Can you tell me how much the tickets for the tour cost?
-# I understand that the tour lasts for several hours and I'm afraid I might get hungry in that time. Will any meals be served during the tour?
+# Question 7: I'm interested in taking the tour of the Botanical Gardens on June 5th, but I'm not sure exactly where I should go. Can you tell me where the tour begins?
+# Question 8:  Can you tell me how much the tickets for the tour cost?
+# Question 9:  I understand that the tour lasts for several hours and I'm afraid I might get hungry in that time. Will any meals be served during the tour?
     2:
       identifier: "Questions 7: Respond to questions using information provided"
       rubric: |+
