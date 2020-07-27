@@ -5,43 +5,6 @@
 
 # Survey
 
-## class survey activity 1
-
-You will ask students to answer your survey question with 2 answers.
-
-You will commit to a guess at (a) what students really believe, like:
-
-* 50% 1st alternative
-* 50% 2nd alternative
-
-You will commit to trying to get them to answer in a (b) certain other way, a way that is different than (a)
-
-* 90% 1st alternative
-* 10% 2nd alternative
-
-You will try to keep secret (avoid letting them guess) what your (a) and (b) commitments are.
-
-## class survey activity 2
-
-We will model (pretend) to carry out a survey.
-You will ask a _sample_ of students to answer your survey question, the question that you are going to write about in Week 18.
-
-You will act in such a way that there is bias in the responses. You can ask another member of your group to act as an accomplice.
-
-The other students have to guess which of the 4 biases you have put into your survey.
-
-* sampling bias
-* acquiescence bias
-* desirability bias
-
-* demand characteristics
-
-* observer-expectancy effect
-
-Try to make it not so clear that it is easy to guess, but clear enough to show there is a right answer.
-
-Students will debate which type of bias is being exhibited.
-
 # Survey bias
 
 ## Types
@@ -177,6 +140,47 @@ Let's put 'What it all means for the burning issue' in the *Discussion*. Discuss
 ## Introduction, Method, Results, Discussion? IMRAD!
 
 - [IMRAD](http://en.wikipedia.org/wiki/IMRAD)
+
+# class activity
+
+## class survey activity 1
+
+You will ask students to answer your survey question with 2 answers.
+
+You will commit to a guess at (a) what students really believe, like:
+
+* 50% 1st alternative
+* 50% 2nd alternative
+
+You will commit to trying to get them to answer in a (b) certain other way, a way that is different than (a)
+
+* 90% 1st alternative
+* 10% 2nd alternative
+
+You will try to keep secret (avoid letting them guess) what your (a) and (b) commitments are.
+
+## class survey activity 2
+
+We will model (pretend) to carry out a survey.
+You will ask a _sample_ of students to answer your survey question, the question that you are going to write about in Week 18.
+
+You will act in such a way that there is bias in the responses. You can ask another member of your group to act as an accomplice.
+
+The other students have to guess which of the 4 biases you have put into your survey.
+
+* sampling bias
+* acquiescence bias
+* desirability bias
+
+* demand characteristics
+
+* observer-expectancy effect
+
+Try to make it not so clear that it is easy to guess, but clear enough to show there is a right answer.
+
+Students will debate which type of bias is being exhibited.
+
+# keywords
 
 ## Deciding if someone is trying to do something.
 
