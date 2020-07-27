@@ -36,6 +36,7 @@ actionresearch:
 
         * Yes
         * No
+
     4:
       identifier: response to Dr Bean one-on-one question
       rubric: |+
@@ -75,5 +76,71 @@ bias:
         - desirability bias
         - demand characteristics
         - observer-expectancy effect
-    
-    
+write-up:
+  essay:
+    0:
+      identifier: Week 16 survey write-up
+      rubric: |+
+        I *must* have the 4 subheadings.
+
+        I *must* have 2 meta-questions in the Introduction. (eg Does the survey show whether Vegetable English or Korean Fish is going to be next ROC president?)
+
+        I *must* have 3 references at the end.
+
+        IMRAD + references.
+
+        ### Introduction
+
+        * Why the questions you asked the others are important
+        * *TWO* meta-questions you have about what you are going to find from the others' answers
+
+        ### Method
+
+        * Your *sample* (the others) and their relationship to the *population* (eg Taiwan voters) you are interested in
+        * Your 2 questions
+        * When and how they answered your 2 questions
+
+        ### Results
+
+        * The answers you got to your questions from the others. They are in the [Homework: A burning question: what do the others think?  ](https://sac.nuu.edu.tw/cgi-bin/moodle/mod/forum/view.php?id=5250)
+
+        ### Discussion
+
+        * What the others' answers mean
+        * The answers to the *TWO* meta-questions you asked in the Introduction
+        * Generalizing from your sample to a population
+        * Survey bias problems (look at
+          [http://web.nuu.edu.tw/~greg/writing/survey/slides.pdf) ](http://web.nuu.edu.tw/~greg/writing/survey/slides.pdf))
+
+
+        ### References
+
+        https://help.surveygizmo.com/help/survey-bias 
+
+        etc
+in-exam:
+  essay:
+    0:
+      identifier: Second in-exam survey
+      rubric: |+
+        Following the same format as the Week 16 survey write-up, another survey conducted in class. For example, about the other action research topic you did.
+
+        But any topic is OK, as long as you don't write the same essay as the first survey.
+
+        In the first 20 minutes, you will upload 2 questions each with 2 answers to the forum. For example,
+
+                President Trump is a good president.
+
+                * Yes
+                * No
+
+                Do you support the assassination of the Iranian general?
+
+                * Yes
+                * No
+
+        The questions must be Yes/No questions or questions with only 2 answers (ie, no WH-questions).
+
+        In the next 20 minutes, you will answer everyone else's questions.
+
+        Every 30 minutes, I will ask you to submit what you have done so far even if it is only a sketch. You can then continue to edit the essay.
