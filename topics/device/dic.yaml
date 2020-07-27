@@ -149,20 +149,19 @@
     G: I bought it online at an electronics website.
     B: I'm not very good at using a computer. Is it hard to buy things online?
     G: It's really easy. All you do is go to the website, and choose the item you want to look at.
+  - Hey|Steve|Look|MP3|player|Wow|It|Where|electronics|veryi|at|computer|Is|to|things|It's|All|is|to|and|the|do|you want|at|There|so|to|from|the||After|what|click|"Check Out"|That|seem|about|for|Of course|hurry|can|Do|when|No|have|for it|with|credit
 -
   - "online-1"
   - "Online--An easy way to shop"
   - "topics"
   - "all"
   - |+
-    G: There are so many items to choose from on the website! After you choose what you want to buy, you click on the "Check Out" button.
+    G: There are so many items to choose from on the website. After you choose what you want to buy, you click on the "Check Out" button.
     B: That does seem easy!
     G: Yes, it is. It only takes about a week for your item to come. Of course, if you're in a hurry, you can pay more to get it sent faster.
     B: Do you pay for the item when it comes?
     G: No, you have to pay for it online with a credit card.
-  # - Hey|Steve|Look|MP3|player|Wow|It|Where|electronics|very|computer|things|It's|All|you want|at\.|There|After|what|click|"Check Out"|That|seem|about|for|Of course|hurry|can|Do|when|No|have|for it|with|credit
-  - non_existent
-  - 100
+  - There|so|to|from|the|After|what|to|click|"Check Out"|That|seem|it|It|about|for|to||Of course|in|hurry|can|to|sent|Do|for|when|No|have|for it|with|credit|End
 
 -
   - "online-2"
@@ -188,6 +187,22 @@
     B: Do you pay for the item when it comes?
     G: No, you have to pay for it online with a credit card.
   - There|so|to|from|the|After|what|click|Check Out|That|seem|it|It|about|for|to|Of course|in|hurry|can|to|sent|Do|for|when|No|have|for it|with|credit|End
+-
+  - "online-4"
+  - "Online--An easy way to shop"
+  - "topics"
+  - "all"
+  - |+
+    G: Hey, Steve. Look at my new MP3.
+    B: Wow! It looks cool! Where'd you buy it?
+    G: I bought it online at an Internet website.
+    B: I'm not very good at using a computer. Is it hard to buy things online?
+    G: It's really easy. All you do is go to the website, and choose the item you want to look at. There are so many items to choose from on the website! After you choose what you want to buy, you click on the "Check Out" button.
+    B: That does seem easy!
+    G: Yes, it is. It only takes about a week for your item to come. Of course, if you're in a hurry, you can pay more to get it sent faster.
+    B: Do you pay for the item when it comes?
+    G: No, you have to pay for it online with a credit card.
+  - Hey|Steve|Look|MP3|Wow|It|Where'd|you|Internet|I'm|very|at|computer|Is|to|things|It's|All|is|to|and|the|you want|at|There|so|to|from|the|After|what|to|click|Check Out|That|seem|it|It|about|for|to|Of course|in|hurry|can|to|sent|Do|for|when|No|have|for it|with|credit|End
 
 
 ---
