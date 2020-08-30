@@ -1,6 +1,6 @@
 ### The pitch
 
-I am offering an academic paper editing service, "the next best thing to a journal editor at your side ON your side."
+I am offering an academic paper editing service, "the next best thing to a journal editor at your side *ON* your side."
 
 Let me edit your paper. I do a good job because of
 
@@ -10,17 +10,17 @@ iii) my desire to understand even difficult material.
 
 ### Testimonials
 
-I, Hsiao-fang Cheng, former chairperson of Language Center, have asked Greg to proofread quite a few academic papers. He is a master proofreader and consultant. If you need someone to help with your English writing, contact him right away.--程小芳
+* I, Hsiao-fang Cheng, former chairperson of Language Center, have asked Greg to proofread quite a few academic papers. He is a master proofreader and consultant. If you need someone to help with your English writing, contact him right away.--程小芳
 
-I am very satisfied with the proofreading and editing work done by Greg. He is excellent in making claims strong and spotting Chinese English sentences. In addition, he spent time discussing with the author the parts which were unclear. I highly recommend Greg's professionalism in editing.--呂宜玲
+* I am very satisfied with the proofreading and editing work done by Greg. He is excellent in making claims strong and spotting Chinese English sentences. In addition, he spent time discussing with the author the parts which were unclear. I highly recommend Greg's professionalism in editing.--呂宜玲
 
-I appreciate Greg's editing ability and discussions of English grammar--董東錦
+* I appreciate Greg's editing ability and discussions of English grammar--董東錦
 
 Please feel free to [contact me](mailto:drbean@freeshell.org), just to say, "Hello", even if you don't want me to edit your work.
 
 ### Supporting documents
 
-NUU 語文中心's promotion of me on its Facebook page at [https://www.facebook.com/nuulc/photos/英文論文編輯服務你在寫英文論文嗎需要專業人士幫你校稿嗎需要英文寫作諮商嗎聯合大學語文中心提供付費英文論文編輯服務由外籍教師且母語為英語的專業人士協助您修改出高品/346777209352544/](https://www.facebook.com/nuulc/posts/346777299352535/)
+- NUU 語文中心's promotion of me on its Facebook page at [https://www.facebook.com/nuulc/photos/英文論文編輯服務你在寫英文論文嗎需要專業人士幫你校稿嗎需要英文寫作諮商嗎聯合大學語文中心提供付費英文論文編輯服務由外籍教師且母語為英語的專業人士協助您修改出高品/346777209352544/](https://www.facebook.com/nuulc/posts/346777299352535/)
 
 - See my resume at [ResumE.html](ResumE.html)
 - See my thoughts on the work of the editor at [http://drbean.sdf.org/sentence_and_text.pdf](http://drbean.sdf.org/sentence_and_text.pdf)
