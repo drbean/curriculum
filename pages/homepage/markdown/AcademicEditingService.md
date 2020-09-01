@@ -8,6 +8,8 @@ i) my English language skills (see my old GRE scores in my resume),
 ii) the care with which I express myself, and
 iii) my desire to understand even difficult material.
 
+NUU 語文中心's promotion of me on its Facebook page at [https://www.facebook.com/nuulc/photos/英文論文編輯服務你在寫英文論文嗎需要專業人士幫你校稿嗎需要英文寫作諮商嗎聯合大學語文中心提供付費英文論文編輯服務由外籍教師且母語為英語的專業人士協助您修改出高品/346777209352546/](https://www.facebook.com/nuulc/posts/346777299352535/)
+
 ### Testimonials
 
 * I, Hsiao-fang Cheng, former chairperson of Language Center, have asked Greg to proofread quite a few academic papers. He is a master proofreader and consultant. If you need someone to help with your English writing, contact him right away.--程小芳
@@ -19,8 +21,6 @@ iii) my desire to understand even difficult material.
 Please feel free to [contact me](mailto:drbean@freeshell.org), just to say, "Hello", even if you don't want me to edit your work.
 
 ### Supporting documents
-
-- NUU 語文中心's promotion of me on its Facebook page at [https://www.facebook.com/nuulc/photos/英文論文編輯服務你在寫英文論文嗎需要專業人士幫你校稿嗎需要英文寫作諮商嗎聯合大學語文中心提供付費英文論文編輯服務由外籍教師且母語為英語的專業人士協助您修改出高品/346777209352544/](https://www.facebook.com/nuulc/posts/346777299352535/)
 
 - See my resume at [ResumE.html](ResumE.html)
 - See my thoughts on the work of the editor at [http://drbean.sdf.org/sentence_and_text.pdf](http://drbean.sdf.org/sentence_and_text.pdf)
