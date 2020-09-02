@@ -14,6 +14,16 @@ direction:
       school       : 學校
   1:
     flash:
+      bakery        : 麵包店 
+      drugstore     : 藥店   
+      hotel         : 旅館   
+      bank          : 銀行   
+      bookstore     : 書店   
+      beauty parlor : 美容院 
+      fruit store   : 水果店 
+      cram school   : 補習班 
+  2:
+    flash:
       The mouse is next to the robot   : Benny Bounce is in front of the tree
       Becky Bounce is behind the tree  : The mouse is behind the elephant
       Bobby Bounce is next to the tree : The mouse is next to the cupcake
