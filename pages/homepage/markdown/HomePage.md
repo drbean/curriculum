@@ -7,9 +7,6 @@ css: |+
   div.column{display: inline-block; vertical-align: top; width: 50%;}
 ...
 
-HomePage
-========
-
 - [AcademicEditingService ](AcademicEditingService.html)
 
 - [ClassContent](http://web.nuu.edu.tw/~greg/Contents.html)
