@@ -1,3 +1,5 @@
+% Home Page of Dr Bean
+
 HomePage
 ========
 
