@@ -13,9 +13,9 @@ But in Japanese you can't use both senses in the same sentence, apparently.
 
 	'America fought with England and with Germany during WWII.'
 
-autoantonym — Noun: 1. (rare) A word that has two opposing meanings. https://en.wiktionary.org/wiki/autoantonymActually, 
+autoantonym — Noun: 1. (rare) A word that has two opposing meanings. https://en.wiktionary.org/wiki/autoantonym
 
-Orwell didn't join the International Column and his problem with communism dates from that time, according to Wikipedia.
+Actually, Orwell didn't join the International Column and his problem with communism dates from that time, according to Wikipedia.
 
 Back to [WobblyEnglish](WobblyEnglish.html)
 
