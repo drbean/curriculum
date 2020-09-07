@@ -1,11 +1,4 @@
 % Home Page of Dr Bean
----
-css: |+
-  code{white-space: pre-wrap;}
-  span.smallcaps{font-variant: small-caps;}
-  span.underline{text-decoration: underline;}
-  div.column{display: inline-block; vertical-align: top; width: 50%;}
-...
 
 - [AcademicEditingService ](AcademicEditingService.html)
 
