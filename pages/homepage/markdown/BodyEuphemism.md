@@ -18,6 +18,30 @@ I think this could be called a way of talking about his body that is not provoca
 
 * Two
 
-Seminal bluesman Robert Johnson, in *Walking Blues* sings:
+'from head to toe' and its variants appear in song lyrics.
 
-	
+In 1928, Bessie Smith sang:
+
+	It starts at my forehead and goes clean down to my toes
+	It starts at my forehead and goes clean down to my toes
+	Oh, how I'm sufferin' gypsy, nobody by the good Lord knows
+
+The same year, Blind Lemon Jefferson sang:
+
+	She got Elgin movement from her head down to her toe
+	She got Elgin movement from her head down to her toe
+	And she can break in on a dollar, man most anywhere she go
+
+In 1947, Bing Crosby sang:
+
+	For my Girl's an Irish girl, from her head down to her toes
+	And no care in the world will harry me, when she promises to marry me
+	My sweet little Irish Rose
+
+And it continues to the present day, apparently.
+
+[https://www.lyrics.land/down-to-my-toes-lyrics](https://www.lyrics.land/down-to-my-toes-lyrics)
+
+None of the above uses of 'head to toe' in lyrics is euphemism, I think. But Blind Lemon Jefferson's could be innuendo.
+
+Return to [WobblyEnglish](WobblyEnglish.html)
