@@ -1,9 +1,10 @@
 % Home Page of Dr Bean
 
 - [AcademicEditingService ](AcademicEditingService.html)
-
-- [ClassContent](http://web.nuu.edu.tw/~greg/Contents.html)
-- [SelfIntroduction](SelfIntroduction.html)
+<!-- end of list -->
+  -   [ClassContent](http://web.nuu.edu.tw/~greg/Contents.html)
+  -   [SelfIntroduction](SelfIntroduction.html)
+<!-- end of list -->
 
 - [ThePracticeofTeaching](ThePracticeofTeaching.html)
   -   [TeachingMethodology](TeachingMethodology.html)
@@ -20,9 +21,10 @@
 - [LettersOfRecommendation](LettersOfRecommendation.html)
 - [CoverLetter](CoverLetter.html)
 - [MyHobbies](MyHobbies.html)
-- [WobbyEnglish](WobbyEnglish.html)
+- [WobblyEnglish](WobblyEnglish.html)
 - [KoreA](KoreA.html)
 - [Demo lesson slides](pc/index.html) Present continuous as a future tense.
+<!-- end of list -->
 
 TODO: under construction
 :   E learning
