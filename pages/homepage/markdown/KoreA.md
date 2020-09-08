@@ -8,5 +8,7 @@ in 1988, until 1998, leaving as the
 [1997 Asian financial crisis](http://en.wikipedia.org/wiki/1997_Asian_financial_crisis)
 wound down.
 
+* [KotesolHistory](KotesolHistory.html)
+
 Back to [HomePage](HomePage.html)
 
