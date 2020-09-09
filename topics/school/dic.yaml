@@ -246,14 +246,18 @@
   - "topics"
   - "all"
   - |+
-
+    G: Did you finish your homework for English class?
+    B: Homework? There wasn't any homework.
+    G: We had to finish reading a book and then write a 200-word essay on it.
+    B: I don't think Ms Jones gave us any homework. I always write what I have to do in my notebook. Did she really tell us to write an essay?
+    G: Yes. Look, here's my essay. See?
     B: Oh, no! What am I going to do? We've only got 10 minutes before class starts.
     G: I don't know. Maybe Ms Jones will let you hand it in tomorrow.
     B: Hey, let me copy your essay. I'll change a few words. Ms Jones will never know.
     G: No, I'm sorry. That's not the right thing to do.
     B: Oh, come on! I thought you were my friend.
     G: I am your friend. That's why I'm not letting you copy my work!
-  - Oh|What|going|do|We've|got 10|before|starts|I don't|Maybe Ms Jones|let|hand|in|Hey|me|your|I'll|a few|Ms Jones|know|No, I'm|That's|the|to do|Oh|on|I thought|were|your|That's|I'm not|you|work|End
+  - Did|finish|for English|There wasn't|We|finish|then|a 200-word|on it|I don't|Ms Jones|us any|I always|what I|do in my|Did|really|us to write an essay|Look|here's|See|Oh|What|going|do|We've|got 10|before|starts|I don't|Maybe Ms Jones|let|hand|in|Hey|me|your|I'll|a few|Ms Jones|know|No, I'm|That's|the|to do|Oh|on|I thought|were|your|That's|I'm not|you|work|End
 -
   - "badday-1"
   - "badday-1"
