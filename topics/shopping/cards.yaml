@@ -9,8 +9,8 @@ supermarket:
       shopping cart: 購物車
       push:          推
       fresh:         新鮮
-      sale:          銷售
-      cheap:         賤
+      sale:          特别提供
+      cheap:         便宜
   bingo:
     - coins fruit vegetables shopping_cart push sale cheap bananas expensive fresh
     - goes supermarket sale gets shopping_cart fruit fresh pears where vegetables peppers pays coins
