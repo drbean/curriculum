@@ -19,5 +19,5 @@ Test Tasks
 <li><a href="http://drbean.sdf.org/toeic/writing.pdf">TOEIC writing test</a>
 <li><a href="http://drbean.sdf.org/toeic/request.pdf">TOEIC writing test--request</a>
 </ul>
-<a href="http://web.nuu.edu.tw/~greg/toeic/sample/test.html">Model tests</a>
+<a href="http://drbean.sdf.org/toeic/test.html">Model tests</a>
 
