@@ -6,6 +6,7 @@
 
 -   [ClassContent](http://web.nuu.edu.tw/~greg/Contents.html)
 -   [SelfIntroduction](SelfIntroduction.html)
+-   [TOEIC](TOEIC.html)
 
 <!-- end of list -->
 
