@@ -66,10 +66,22 @@
   - "all"
   - |+
     The man had a problem with his computer at the office. He could not use it all day. The woman asks him if it was because of a virus. The man says he opened a file that had a virus.
+    The woman tells him he must be careful about opening files in his email, because they may have viruses which can crash your computer.
+    The man says it was an accident. He didn't know the file, which came from someone he didn't know, had a virus. He says he'll be more careful next time.
+    A repairman came to the office and worked all day to repair the computer. But the man is worried he lost some of his work.
+    The woman says his work is probably still on the computer and she can help him get it back. She says he should use backup files, just in case it happens again.
+  - had|with his computer|could|use|all|The woman|if it was because of a|says he|that had|The woman|tells|he|must|about opening|email|because|may|viruses|can|crash|computer|The man says|didn't know|which|someone|had|he'll|careful|next|repairman|came|office|worked|all|day|repair|computer|But|the man|is worried|lost|work|The woman says|work|is probably|still|the computer|she|help|get|back|She says|should|backup|just in|it|happens|again|End
+-
+  - "virus-3"
+  - "virus"
+  - "topics"
+  - "all"
+  - |+
+    The man had a problem with his computer at the office. He could not use it all day. The woman asks him if it was because of a virus. The man says he opened a file that had a virus.
     The woman tells him he must be careful about opening files in his email.
   - had|with his computer|all|it was|of a|that had|he|about|email|End
 -
-  - "virus-3"
+  - "virus-4"
   - "virus"
   - "topics"
   - "all"
