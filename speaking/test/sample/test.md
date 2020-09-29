@@ -56,6 +56,9 @@ https://www.youtube.com/watch?v=Yija3fvgUAg
 - [Practice TOEIC Speaking test](https://www.englishclub.com/esl-exams/ets-toeic-practice-speaking.htm)
 - [Sentence stress](https://www.englishclub.com/pronunciation/sentence-stress.htm)
 
+### Other parts of the Internet
+
+[https://www.youtube.com/watch?v=6o_dMx-3NLA](https://www.youtube.com/watch?v=6o_dMx-3NLA)
 
 ## Writing
 
