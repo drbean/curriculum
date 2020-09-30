@@ -3,3 +3,14 @@ genre: topics
 spelling:
   bingo:
     - Benny_Bounce spell Julia alphabet song dialogue order telephone_number list bicycle truck apple ruler car crayon pig pencil sheep banana hen orange toy_chest hoop
+alphabet:
+  0:
+    flash:
+      abcde: fghij
+      defgh: ijklm
+      ghijk: lmnop
+      jklmn: opqrs
+      mnopq: rstuv
+      pqrst: uvwxy
+      stuvw: xyz
+      qrstu: vwxyz
