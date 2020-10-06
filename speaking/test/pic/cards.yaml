@@ -293,7 +293,7 @@ sentence:
     0:
       identifier: Saying something about sentence pictures
       rubric: |+
-        Look at the following 5 pictures. Identify problems with the sentences in the following questions. (The score for each answer is the score this answer would have received in the TOEIC *Writing* test.)
+        Look at the following 5 pictures. Identify problems with the sentences in the following questions. (The score for each answer is the score this answer would have received in the TOEIC *Writing* test. Note the keywords which must be used in the sentences.)
 
         * [breakfast croissant](https://www.examenglish.com/TOEIC/images/croissant.jpg)
         * [clear away](https://www.examenglish.com/TOEIC/images/iStock_000005031231XSmall.jpg)
