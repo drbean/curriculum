@@ -64,7 +64,7 @@ quiz:
     story : planning
     type  : jigsaw
     form  : 0
-    intro : 'Foreground', 'background' words to use describing PICTURE, Which picture
+    intro : Foreground, background: words to use describing PICTURE, Which picture
     random: 
 -
   content:
