@@ -1,0 +1,79 @@
+---
+forum:
+  timeclose        : $(date --date='2026-06-17 15:00:00 +0800' +%s)
+  duedate          : $(date --date='2026-06-17 15:00:00 +0800' +%s)
+  cutoffdate       : $(date --date='2026-06-17 15:00:00 +0800' +%s) 
+quiz:
+  questioncategory : pic
+---
+
+# 3 Describe a picture
+
+-
+  content:
+  -
+    topic : pic
+    story : planning
+    type  : jigsaw
+    form  : 1
+    intro : The time you have to prepare and the time you have to speak about the picture
+    random: 
+
+-
+  content:
+  -
+    topic : pic
+    story : numeric
+    type  : jigsaw
+    form  : 0
+    intro : naming parts of a picture, eg, the bottom left hand corner
+    random: 
+-
+  content:
+  -
+    topic : pic
+    story : numeric
+    type  : jigsaw
+    form  : 1
+    intro : identifying picture regions, with the numeric keyboard as example
+    random: 
+-
+  score: 0
+  content:
+  -
+    topic : pic
+    story : sentence
+    type  : description
+    form  : 0
+    intro : The pictures that the sentences in the following question are about.
+    random: 
+-
+  content:
+  -
+    topic : pic
+    story : error
+    type  : jigsaw
+    form  : 0
+    intro : Identify the error in each of the descriptions of the pictures in the previous question. Note the score the answers would have received on the TOEIC *Writing* Test.
+    random: 
+
+-
+  content:
+  -
+    topic : pic
+    story : planning
+    type  : jigsaw
+    form  : 0
+    intro : 'Foreground', 'background' words to use describing PICTURE, Which picture
+    random: 
+-
+  content:
+  -
+    topic : pic
+    story : planning
+    type  : jigsaw
+    form  : 2
+    intro : How to prepare your description of a picture PICTURE, Which picture
+    random: 
+
+
