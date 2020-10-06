@@ -11,5 +11,5 @@ Some attempts to see English wobble, benefiting from conversations on the ##Engl
 * [AutoAntonym](AutoAntonym.html)
 * [LetCausative](LetCausative.html)
 * [OEDReaders](OEDReaders.html)
-
+* [SentenceStress](SentenceStress.html)--Speech aspires to poetry
 Return to [HomePage](HomePage.html)
