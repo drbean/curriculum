@@ -50,7 +50,7 @@ studentquiz:
   shuffleanswers   : 1
 quiz:
   timeopen         : 1
-  timeclose        : $(date --date='2020-06-30 14:00:00 +0800' +%s)
+  timeclose        : $(date --date='2020-12-31 23:59:00 +0800' +%s)
   # questioncategory : 13_opinion,general
   # parentcategory   : 6103
   # categorycontext  : 51958
