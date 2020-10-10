@@ -12,4 +12,6 @@ Some attempts to see English wobble, benefiting from conversations on the ##Engl
 * [LetCausative](LetCausative.html)
 * [OEDReaders](OEDReaders.html)
 * [SentenceStress](SentenceStress.html)--Speech aspires to poetry
+* [JoJoe](JoJoe.html) Jo--a girl's name, Joe--a boy's name
+
 Return to [HomePage](HomePage.html)
