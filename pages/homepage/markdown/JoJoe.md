@@ -12,3 +12,27 @@ tinsoldier:
 
 'Jojo' is another girl's name, but no 'Joe-joe' for boys.
 
+### 'girl' and 'gueule'
+
+After writing about Jo vs Joe, I remembered my French teacher asking us to think about the word, 'girl' and it was universally acknowledged it had a pretty sound.
+
+Then he asked what we thought about the French word, 'gueule', which we learned meant gullet (but actually means mouth?), and we were shocked to realize we had always thought it had an ugly sound, despite being (almost?) the same sound as that of 'girl'.
+
+We had never connected 'girl' and 'gueule'.
+
+I don't know what our French teacher's intention was in doing this. Perhaps he was making a Saussurean point about the arbitrariness of the sign.
+
+Tintle:
+
+	"girl" does not sound like like "gueule" at all
+
+Voxel:
+
+	Tintle: Depends on accent, I guess
+
+Tintle:
+
+	Well, maybe
+
+Back to [WobblyEnglish](WobblyEnglish.html)
+
