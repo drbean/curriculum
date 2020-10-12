@@ -1,7 +1,7 @@
 ---
 genre: toeic speaking test
 seminar:
-  essay:
+  description:
     0:
       identifier: "Questions 7~9: Respond to questions using information provided"
       rubric: |+
@@ -98,28 +98,30 @@ itinerary:
       rubric: |+
         ## Travel itinerary: John Fairbank, marketing director
 
-        Wednesday June 20
-        Depart
-        San Antonio The Express Train  7:00am
-        Arrive
-        Chicago                        11:00am
+                Wednesday June 20
+                Depart
+                San Antonio The Express Train  7:00am
+                Arrive
+                Chicago                        11:00am
 
-        Friday June 22
-        Depart
-        Chicago     Blue Mountain Express 6:00am
-        Arrive
-        San Antonio                       10:00am
+                Friday June 22
+                Depart
+                Chicago     Blue Mountain Express 6:00am
+                Arrive
+                San Antonio                       10:00am
 
-        Hotel information
-        Glen Hotel, 230 Main Street
-        Rental car reserved (Chicago train station pick-up)
+                Hotel information
+                Glen Hotel, 230 Main Street
+                Rental car reserved (Chicago train station pick-up)
 
-        Schedule
-        June 21 Attend International Marketing Expo 11:00am
-        June 21 e-Marketing conference              1:00pm
+                Schedule
+                June 21 Attend International Marketing Expo 11:00am
+                June 21 e-Marketing conference              1:00pm
     1:
       identifier: "Questions 7: Respond to questions using information provided--Rosen NY trip"
       rubric: |+
+        ## Information about Rosen's NY trip
+
             Travel itinerary
             Sharon Rosen
             April 12-13
