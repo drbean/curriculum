@@ -90,10 +90,10 @@ quiz:
   content:
   -
     topic : information
-    story : description
-    type  : essay
+    story : itinerary
+    type  : description
     form  : 1
-    intro : Information about Sharon Rosen's trip to NY
+    intro : Information about Sharon Rosen\'s trip to NY
     random: 
 -
   content:
@@ -102,7 +102,7 @@ quiz:
     story : itinerary
     type  : jigsaw
     form  : 4
-    intro : Rosen's transport, meetings: comprehension questions in preparation for Question 7~9
+    intro : Rosen\'s transport, meetings: comprehension questions in preparation for Question 7~9
     random: 
 -
   content:
