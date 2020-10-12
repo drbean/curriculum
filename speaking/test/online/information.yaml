@@ -10,11 +10,12 @@ quiz:
 # 7–9 Respond to questions using information provided
 
 -
+  grade: 0
   content:
   -
     topic : information
     story : seminar
-    type  : essay
+    type  : description
     form  : 0
     intro : The information for the following questions about a seminar
     random: 
@@ -39,7 +40,7 @@ quiz:
     random: 
 
 -
-  score: 0
+  grade: 0
   content:
   -
     topic : information
@@ -86,7 +87,7 @@ quiz:
     random: 
 
 -
-  score: 0
+  grade: 0
   content:
   -
     topic : information
