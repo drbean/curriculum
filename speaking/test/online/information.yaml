@@ -10,6 +10,16 @@ quiz:
 # 7–9 Respond to questions using information provided
 
 -
+  content:
+  -
+    topic : information
+    story : slides
+    type  : url
+    form  : 0
+    intro : Typical sets of information for Questions 7~9, and typical questions about that information
+    random: 
+
+-
   grade: 0
   content:
   -
@@ -85,6 +95,8 @@ quiz:
     form  : 3
     intro : What is the problem with the itinerary's timing, points of departure and destinations?
     random: 
+
+# https://www.youtube.com/watch?v=R6CTc6-Qk8M
 
 -
   grade: 0
