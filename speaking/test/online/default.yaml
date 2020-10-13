@@ -1,8 +1,8 @@
 ---
 assign:
   introformat      : 4
-  duedate          : $(date --date='2020-04-17 12:00:00 +0800' +%s)
-  cutoffdate       : $(date --date='2020-04-17 12:00:00 +0800' +%s) 
+  duedate          : $(date --date='2026-04-17 12:00:00 +0800' +%s)
+  cutoffdate       : $(date --date='2026-04-17 12:00:00 +0800' +%s) 
   grade            : 9
   gradecat         : 647
   groupmode        : 1
@@ -16,10 +16,10 @@ assign:
   assignsubmission_file_maxfiles      : 1
   assignsubmission_file_maxsizebytes  : 2000
 forum:
-  timeopen         : $(date --date='2020-05-22 12:00:00 +0800' +%s)
-  timeclose        : $(date --date='2020-05-22 12:00:00 +0800' +%s)
-  duedate          : $(date --date='2020-05-22 12:00:00 +0800' +%s)
-  cutoffdate       : $(date --date='2020-05-22 12:00:00 +0800' +%s) 
+  timeopen         : $(date --date='2026-05-22 12:00:00 +0800' +%s)
+  timeclose        : $(date --date='2026-05-22 12:00:00 +0800' +%s)
+  duedate          : $(date --date='2026-05-22 12:00:00 +0800' +%s)
+  cutoffdate       : $(date --date='2026-05-22 12:00:00 +0800' +%s) 
   introformat      : 4
   type             : eachuser
   assessed         : 1
@@ -39,8 +39,8 @@ studentquiz:
   correctanswerquantifier  : 2
   incorrectanswerquantifier: 1
   allowedqtypes            : multichoice,truefalse
-  closesubmissionfrom      : $(date --date='2020-03-24 14:00:00 +0800' +%s)
-  closeansweringfrom       : $(date --date='2020-03-24 14:00:00 +0800' +%s)
+  closesubmissionfrom      : $(date --date='2026-03-24 14:00:00 +0800' +%s)
+  closeansweringfrom       : $(date --date='2026-03-24 14:00:00 +0800' +%s)
   grade            : 3
   groupmode        : 0
   # groupingid       : 128
