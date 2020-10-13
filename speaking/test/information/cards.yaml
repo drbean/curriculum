@@ -146,14 +146,60 @@ itinerary:
     0:
       identifier: chicago, san_antonio trip
       quiz:
-        - question: What time does Fairbank arrive in San Antonio
+        - question: |+
+            ## Travel itinerary: John Fairbank, marketing director
+
+                Wednesday June 20
+                Depart
+                San Antonio The Express Train  7:00am
+                Arrive
+                Chicago                        11:00am
+
+                Friday June 22
+                Depart
+                Chicago     Blue Mountain Express 6:00am
+                Arrive
+                San Antonio                       10:00am
+
+                Hotel information
+                Glen Hotel, 230 Main Street
+                Rental car reserved (Chicago train station pick-up)
+
+                Schedule
+                June 21 Attend International Marketing Expo 11:00am
+                June 21 e-Marketing conference              1:00pm
+
+            Question 7: What time does Fairbank arrive in San Antonio?
           option:
             - 7am
             - 11am
             - 6am
             - 10am
           answer: 10am
-        - question: What train does he take leaving San Antonio
+        - question: |+
+            ## Travel itinerary: John Fairbank, marketing director
+
+                Wednesday June 20
+                Depart
+                San Antonio The Express Train  7:00am
+                Arrive
+                Chicago                        11:00am
+
+                Friday June 22
+                Depart
+                Chicago     Blue Mountain Express 6:00am
+                Arrive
+                San Antonio                       10:00am
+
+                Hotel information
+                Glen Hotel, 230 Main Street
+                Rental car reserved (Chicago train station pick-up)
+
+                Schedule
+                June 21 Attend International Marketing Expo 11:00am
+                June 21 e-Marketing conference              1:00pm
+
+            Question 7: What train does he take leaving San Antonio
           option:
             - The Express Train
             - The Blue Mountain Express
