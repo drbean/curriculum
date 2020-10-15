@@ -11,6 +11,13 @@ supermarket:
       fresh:         新鮮
       sale:          特别提供
       cheap:         便宜
+  2:
+    flash:
+      # I love : fruit
+      Did you get a ...? : cart
+      I have a lot of ... in my pocket : coins
+      This fruit is very .... : fresh
+      Did you see the ... at the supermarket today? : sale
   bingo:
     - coins fruit vegetables shopping_cart push sale cheap bananas expensive fresh
     - goes supermarket sale gets shopping_cart fruit fresh pears where vegetables peppers pays coins
