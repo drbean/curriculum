@@ -123,30 +123,17 @@ itinerary:
                 June 21 Attend International Marketing Expo 11:00am
                 June 21 e-Marketing conference              1:00pm
     1:
-      identifier: "Questions 7: Respond to questions using information provided--Rosen NY trip"
+      identifier: Questions 7~9: Respond to questions using information provided--Rosen's NY trip
       rubric: |+
-        ## Information about Rosen's NY trip
+        The following questions are about Rosen's trip to NY on business.
 
-            Travel itinerary
-            Sharon Rosen
-            April 12-13
+        In the actual test, you read the information like in the following questions, but you don't read the questions, you listen to them, as if someone is speaking to you on the telephone.
 
-            April 12
+        And you don't choose the answer from a number of alternatives. You speak your answer into the microphone.
 
-            9:00 AM---Flight 321 on Green Air to New York
-            12:00 PM--Arrive New York, taxi to Van Buren Hotel
-            2:00 PM---Meeting with Jonathan Stein and Marianne Brevoort,
-                      ExTime office
-            4:00 PM---Meeting with ExTime Sales team
+        You have 45 seconds to study the schedule.
 
-            April 13
-
-            8:00 AM---Breakfast meeting with Bart Baines, ExTime Sales Manager,
-                      at the Van Buren Hotel
-            9:30 AM---Present quarterly plan to ExTime Board
-            12:00 PM--Lunch with ExTime Board members
-            1:30 PM---Limousine to airport
-            3:00 PM---Flight 765 on Green Air to Miami
+        Then you have 15 seconds to answer the first 2 questions, and 30 seconds to answer the 3rd question. 
   jigsaw:
     0:
       identifier: chicago, san_antonio trip
