@@ -360,7 +360,7 @@ itinerary:
             - 3
           answer: 2
     5:
-      identifier: "Rosen's trip to NY: the limousine--Question 7"
+      identifier: Rosen's trip to NY: the limousine--Question 7
       quiz:
         - question: |+
             ## Information about Rosen's NY trip
@@ -391,7 +391,7 @@ itinerary:
             - No
           answer: No
     6:
-      identifier: "Rosen's trip to NY: the meetings--Question 8"
+      identifier: Rosen's trip to NY: the meetings--Question 8
       quiz:
         - question: |+
             ## Information about Rosen's NY trip
@@ -424,7 +424,7 @@ itinerary:
             - 3
           answer: 2
     7:
-      identifier: "Rosen's trip to NY: April 13--Question 9"
+      identifier: Rosen's trip to NY: April 13--Question 9
       quiz:
         - question: |+
             ## Information about Rosen's NY trip
