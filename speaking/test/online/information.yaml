@@ -96,8 +96,6 @@ quiz:
     intro : What is the problem with the itinerary's timing, points of departure and destinations?
     random: 
 
-# https://www.youtube.com/watch?v=R6CTc6-Qk8M
-
 -
   grade: 0
   content:
@@ -106,7 +104,7 @@ quiz:
     story : itinerary
     type  : description
     form  : 1
-    intro : Information about Sharon Rosen's trip to NY
+    intro : Answering questions about Sharon Rosen's business trip to NY
     random: 
 -
   content:
@@ -115,7 +113,7 @@ quiz:
     story : itinerary
     type  : jigsaw
     form  : 4
-    intro : Rosen's transport, meetings: comprehension questions in preparation for Question 7~9
+    intro : Rosen's transport, meetings: warm-up questions preparing for Questions 7~9
     random: 
 -
   content:
