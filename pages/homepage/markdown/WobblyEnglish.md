@@ -15,5 +15,6 @@ Some attempts to see English wobble, benefiting from conversations on the ##Engl
 * [JoJoe](JoJoe.html) Jo--a girl's name, Joe--a boy's name
 * [PresentPerfect](PresentPerfect.html) Present, Present perfect and past in Japanese and English
 * [TheGuy](TheGuy.html) *The* guy from San Antonio or *a* guy from San Antonio
+* [InTransitive ](InTransitive.html) Transitive and intransitive: What is the difference?
 
 Return to [HomePage](HomePage.html)
