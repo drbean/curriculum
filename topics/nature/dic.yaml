@@ -246,6 +246,33 @@
     M: Good idea. And let's come back with friends next week and clean up this spot some more.
   - lazy|bottles|glass|friends|clean|End
 -
+  - "recycle-0"
+  - "recycle-0"
+  - "topics"
+  - "all"
+  - |+
+    M: Hi, Jane! Have you heard about the new laws to help people recycle?
+    W: I heard about them on the news last night. I don't think I like them.
+    M: The government wants to keep the environment clean by recycling paper, metal and glass instead of throwing these things away.
+    W: But who wants to pay an extra 50 cents time you buy a cup of coffee? That's a lot of money!
+    M: 50 cents? It's only five cents for a paper cup.
+    W: I thought it was 50 cents!
+    M: No, it's only five cents. Don't worry. And you can get your money back when you return the cup.
+    W: That's fair. Well, maybe the government is right, after all. I'll return all the paper coffee cups I use from now on.
+    M: Good! We all need to recycle. It helps to keep the environment clean.
+  - Hi, Jane! Have|about|laws|people|them|last|don't|The|wants|the|by|metal|and|instead|these|But|wants|an|50 cents|you|cup|coffee|That's|of|50 cents|It's|five cents|thought|50 cents|it's|five cents|Don't|And|get|back|you|the|That's|Well|the|is|after|I'll|all|cups|from|Good|We|need|It|to|the|clean|End
+-
+  - "recycle-1"
+  - "recycle-1"
+  - "topics"
+  - "all"
+  - |+
+    M: Hi, Jane! Have you heard about the new laws to help people recycle?
+    W: I heard about them on the news last night. I don't think I like them.
+    M: The government wants to keep the environment clean by recycling paper, metal and glass instead of throwing these things away.
+    W: But who wants to pay an extra 50 cents time you buy a cup of coffee? That's a lot of money!
+  - Hi, Jane! Have|about|laws|people|them|last|don't|The|wants|the|by|metal|and|instead|these|But|wants|an|50 cents|you|cup|coffee|That's|of|50 cents|It's|five cents|thought|50 cents|it's|five cents|Don't|And|get|back|you|the|That's|Well|the|is|after|I'll|all|cups|from|Good|We|need|It|to|the|clean|End
+-
   - "rose-0"
   - "rose-0"
   - "topics"
