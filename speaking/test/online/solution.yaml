@@ -7,157 +7,80 @@ quiz:
   questioncategory : solution
 ---
 
-# 7–9 Respond to questions using information provided
+# Question 10. Propose a solution
 
 -
   content:
   -
-    topic : information
+    topic : solution
     story : slides
     type  : url
     form  : 0
-    intro : Typical sets of information for Questions 7~9, and typical questions about that information
+    intro : Typical problems presented in Question 10, and how to handle them
     random: 
 
-#-
-#  grade: 0
-#  content:
-#  -
-#    topic : information
-#    story : seminar
-#    type  : description
-#    form  : 0
-#    intro : The information for the following questions about a seminar
-#    random: 
-#-
-#  content:
-#  -
-#    topic : information
-#    story : seminar
-#    type  : jigsaw
-#    form  : 0
-#    intro : Questions 7-9 about the seminar in the previous question
-#    random: 
-#
-#-
-#  content:
-#  -
-#    topic : information
-#    story : show
-#    type  : assign
-#    form  : 0
-#    intro : Information for questions 7-9 about a home and garden show
-#    random: 
-#
-#-
-#  grade: 0
-#  content:
-#  -
-#    topic : information
-#    story : itinerary
-#    type  : description
-#    form  : 0
-#    intro : Information for questions 7-9 about a travel itinerary
-#    random: 
-#-
-#  content:
-#  -
-#    topic : information
-#    story : itinerary
-#    type  : jigsaw
-#    form  : 0
-#    intro : questions about departing San Antonio
-#    random: 
-#-
-#  content:
-#  -
-#    topic : information
-#    story : itinerary
-#    type  : jigsaw
-#    form  : 1
-#    intro : questions about schedule in Chicago
-#    random: 
-#-
-#  content:
-#  -
-#    topic : information
-#    story : itinerary
-#    type  : jigsaw
-#    form  : 2
-#    intro : details about the travel itinerary
-#    random: 
-#-
-#  content:
-#  -
-#    topic : information
-#    story : itinerary
-#    type  : jigsaw
-#    form  : 3
-#    intro : What is the problem with the itinerary's timing, points of departure and destinations?
-#    random: 
-
 -
-  grade: 0
   content:
   -
-    topic : information
-    story : itinerary
-    type  : description
-    form  : 1
-    intro : Answering questions about Sharon Rosen's business trip to NY
+    topic : solution
+    story : news
+    type  : jigsaw
+    form  : 0
+    intro : "Thinking ahead: Can you see good news or bad coming up with the first words people say?"
     random: 
 -
   content:
   -
-    topic : information
-    story : itinerary
-    type  : jigsaw
-    form  : 4
-    intro : "Rosen's transport, meetings: warm-up questions preparing for Questions 7~9"
+    topic : solution
+    story : passport
+    type  : essay
+    form  : 0
+    intro : What is your solution to this problem? In the actual test, you speak, but here try writing notes, or sentences you could use.
     random: 
 -
   content:
   -
-    topic : information
-    story : itinerary
+    topic : solution
+    story : request
     type  : jigsaw
-    form  : 5
-    intro : "Question 7: Transport in NY City"
+    form  : 0
+    intro : A *request* and *advice* are similar, and so easily confused. Be accurate and clear when presenting solutions.
     random: 
 -
   content:
   -
-    topic : information
-    story : itinerary
-    type  : jigsaw
-    form  : 6
-    intro : "Question 8: Meetings on day of arrival"
+    topic : solution
+    story : bankcard
+    type  : essay
+    form  : 0
+    intro : What is your solution to this problem in the Examinee Handbook? In the actual test, you speak, but here try writing notes, or sentences you could use.
     random: 
 -
   content:
   -
-    topic : information
-    story : itinerary
+    topic : solution
+    story : request
     type  : jigsaw
-    form  : 7
-    intro : "Question 9: Schedule on April 13"
+    form  : bankcard
+    intro : A *request* and *advice* are similar, and so easily confused. When is the responder to the lost bankcard problem giving advice and when are they requesting something?
+    random: 
+-
+  content:
+  -
+    topic : solution
+    story : request
+    type  : jigsaw
+    form  : book
+    intro : A *request* and *advice* are similar, and so easily confused. When is the responder to the missing book problem giving advice and when are they requesting something?
+    random: 
+-
+  content:
+  -
+    topic : solution
+    story : mind
+    type  : jigsaw
+    form  : 0
+    intro : "'Would you mind giving me your name?' is a polite request. 'I'm afraid I'm going to have to ..' is a strong statement."
     random: 
 
-#-
-#  content:
-#  -
-#    topic : information
-#    story : class
-#    type  : forum
-#    form  : 0
-#    intro : Information about computer classes for Questions 7~9
-#    random: 
-#-
-#  content:
-#  -
-#    topic : information
-#    story : class
-#    type  : jigsaw
-#    form  : 0
-#    intro : Questions 7~9 about class schedule, cost, Saturday classes
-#    random: 
+
