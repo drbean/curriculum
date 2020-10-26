@@ -248,11 +248,9 @@ restaurant:
 shoe:
   essay:
     0:
-      identifier: "Homework: Proposing a solution--Choosing which shoes to display"
+      identifier: "Proposing a solution--Choosing which shoes to display"
       rubric: |+
         Listen to the problem, at
-        [http://web.nuu.edu.tw/~greg/toeic/sample/%5B%2311%20%ED%86%A0%EC%9D%B5%EC%8A%A4%ED%94%BC%ED%82%B9%20%EB%AA%A8%EB%B2%94%EB%8B%B5%EB%B3%80%5D%20-%20Model%20response%20for%20TOEIC%20SPEAKING%20Actual%20Test%20%28%2311%29%20-%2020.02.17-BNhZQE9BHsk.mp4](http://web.nuu.edu.tw/~greg/toeic/sample/%5B%2311%20%ED%86%A0%EC%9D%B5%EC%8A%A4%ED%94%BC%ED%82%B9%20%EB%AA%A8%EB%B2%94%EB%8B%B5%EB%B3%80%5D%20-%20Model%20response%20for%20TOEIC%20SPEAKING%20Actual%20Test%20%28%2311%29%20-%2020.02.17-BNhZQE9BHsk.mp4)
-        or
         [https://www.youtube.com/watch?v=BNhZQE9BHsk](https://www.youtube.com/watch?v=BNhZQE9BHsk)
 
         And listen to the sample response.
@@ -270,7 +268,7 @@ shoe:
         8. Offer continued help, eg "Feel free to contact me if you want more."
         9. Say good-bye.
 
-        And do the classwork for Week 14, if you didn't do it already. It will help you practice the structure above. 
+        Before providing your solution, do the following exercises about the structure. They will help you practice the structure above. 
   jigsaw:
     0:
       identifier: promotion display choices--the problem
