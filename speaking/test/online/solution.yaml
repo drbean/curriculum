@@ -101,16 +101,16 @@ quiz:
     intro : |+
       Gwen, in her solution to the problem, follows a structure with 10 steps that you can also use to make it easy to do a good job with Question 10. The 10 steps are:
 
-        * establishing_contact
-        * confirmation check, showing you recognize the problem
-        * comments about the situation
-        * claim that a solution exists
-        * account of work to find a solution, announcement that a solution follows
-        * a solution
-        * evaluation of the solution
-        * sign-posting solutions Solutions that-a-way
-        * offer of continued help
-        * parting
+              * establishing_contact
+              * confirmation check, showing you recognize the problem
+              * comments about the situation
+              * claim that a solution exists
+              * account of work to find a solution, announcement that a solution follows
+              * a solution
+              * evaluation of the solution
+              * sign-posting solutions Solutions that-a-way
+              * offer of continued help
+              * parting
     random: 
 -
   content:
@@ -120,7 +120,7 @@ quiz:
     type  : jigsaw
     form  : 0
     intro : |+
-      What structure does the manager use in her presentation of the problem? There are 4 steps:
+      What structure does the manager use in her presentation of the problem? The 4 steps are:
 
       * leadup/background to problem
       * the problem
@@ -135,7 +135,7 @@ quiz:
     type  : jigsaw
     form  : 1
     intro : |+
-      Gwen's solution follows 10 steps:
+      The 10 steps of Gwen's solution are:
 
       - establishing_contact
       - confirmation check, showing you recognize the problem
