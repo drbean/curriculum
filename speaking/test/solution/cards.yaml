@@ -246,7 +246,7 @@ restaurant:
 
         What is your solution to the customer loss problem? In your response, show you recognize the problem.
 shoe:
-  forum:
+  essay:
     0:
       identifier: "Homework: Proposing a solution--Choosing which shoes to display"
       rubric: |+
