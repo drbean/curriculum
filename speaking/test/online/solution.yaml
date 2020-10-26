@@ -80,7 +80,75 @@ quiz:
     story : mind
     type  : jigsaw
     form  : 0
-    intro : "'Would you mind giving me your name?' is a polite request. 'I'm afraid I'm going to have to ..' is a strong statement."
+    intro : "'Would you mind giving me your name?' is a polite request. 'I'm afraid I'm going to have to ..' is a warning the speaker is about to make the listener unhappy."
+    random: 
+-
+  content:
+  -
+    topic : solution
+    story : restaurant
+    type  : essay
+    form  : 0
+    intro : In the actual test, you speak into the microphone. Here, write down notes you might use, or sentences you might speak.
+    random:
+-
+  content:
+  -
+    topic : solution
+    story : shoe
+    type  : essay
+    form  : 0
+    intro : |+
+      Gwen, in her solution to the problem, follows a structure with 10 steps that you can also use to make it easy to do a good job with Question 10. The 10 steps are:
+
+        * establishing_contact
+        * confirmation check, showing you recognize the problem
+        * comments about the situation
+        * claim that a solution exists
+        * account of work to find a solution, announcement that a solution follows
+        * a solution
+        * evaluation of the solution
+        * sign-posting solutions Solutions that-a-way
+        * offer of continued help
+        * parting
+    random: 
+-
+  content:
+  -
+    topic : solution
+    story : shoe
+    type  : jigsaw
+    form  : 0
+    intro : |+
+      What structure does the manager use in her presentation of the problem? There are 4 steps:
+
+      * leadup/background to problem
+      * the problem
+      * steps toward a solution
+      * instructions to employees
+    random: 
+-
+  content:
+  -
+    topic : solution
+    story : shoe
+    type  : jigsaw
+    form  : 1
+    intro : |+
+      Gwen's solution follows 10 steps:
+
+      - establishing_contact
+      - confirmation check, showing you recognize the problem
+      - comments about the situation
+      - claim that a solution exists
+      - account of work to find a solution, announcement that a solution follows
+      - a solution
+      - evaluation of the solution
+      - sign-posting solutions "Solutions that-a-way ->"
+      - offer of continued help
+      - parting
+
+      Which sentence represents which step?
     random: 
 
 
