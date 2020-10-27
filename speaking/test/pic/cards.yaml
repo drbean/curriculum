@@ -1,4 +1,10 @@
 ---
+genre: toeic speaking test
+slides:
+  url:
+    0:
+      identifier: "Slides for Question 3. Describe a picture"
+      externalurl: http://drbean.sdf.org/toeic/pic.pdf
 numeric:
   jigsaw:
     0:
