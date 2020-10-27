@@ -13,8 +13,55 @@ quiz:
   content:
   -
     topic : read
+    story : slides
+    type  : url
+    form  : 0
+    intro : Typical reading passages that appear in the test, and advice about reading
+    random: 
+-
+  content:
+  -
+    topic : read
+    story : vacation
+    type  : forum
+    form  : 0
+    intro : Read the passage from the [Official_handbook](https://etswebsiteprod.cdn.prismic.io/etswebsiteprod/87298936-2244-4315-9785-d1b38f091d9a_TOEIC+Speaking+and+Writing+tests+Examinee+Handbook.pdf), stressing the important words, and maintaining the rhythm. 
+    random: 
+-
+  content:
+  -
+    topic : read
+    story : toeic
+    type  : forum
+    form  : 0
+    intro : "Read the instructions for Question 1~2: Read a text aloud, and record your reading of the text. This is NOT the kind of text that will appear in the test."
+    random: 
+-
+  content:
+  -
+    topic : read
+    story : toeic
+    type  : forum
+    form  : 1
+    intro : "Read the instructions for Question 1~2: Read a text aloud, and record your reading of the text. This is NOT the kind of text that will appear in the test."
+    random: 
+
+-
+  content:
+  -
+    topic : read
     story : prosody
     type  : url
     form  : 0
-    intro : Gone France. Sell car
+    intro : Sell car, Gone France. The rhythm of English. Understand this explanation of sentence stress so you can read a text like a native speaker.
     random: 
+-
+  content:
+  -
+    topic : read
+    story : prosody
+    type  : forum
+    form  : 0
+    intro : Having read the explanation of sentence stress, you are now ready to practice reading like a native speaker. Listen to Gwen from [gwentube.com](http://gwentube.com) show how to read like a native speaker. Then try reading it yourself.
+    random: 
+
