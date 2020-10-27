@@ -1,11 +1,16 @@
 ---
 genre: toeic speaking test
+slides:
+  url:
+    0:
+      identifier: "Slides for Question 11. Express an opinion"
+      externalurl: http://drbean.sdf.org/toeic/opinion.pdf
 donation:
   essay:
     0:
       identifier: Question 11. Express an opinion
       rubric: |+
-        In this part of the test, you will give your opinion about a specific topic . Be sure to say as much as you can in the time allowed . You will have 15 (or is it 30??) seconds to prepare . Then you will have 60 seconds to speak.
+        In this part of the test, you will give your opinion about a specific topic . Be sure to say as much as you can in the time allowed . You will have 30 seconds to prepare . Then you will have 60 seconds to speak.
 
         ### Question
 
