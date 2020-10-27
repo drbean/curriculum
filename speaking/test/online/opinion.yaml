@@ -72,6 +72,24 @@ quiz:
     form  : 0
     intro : In the test, you present your opinion orally, ie you speak it. Here, instead, write words or sentences you might use when in the actual test.
     random: 
+-
+  content:
+  -
+    topic : opinion
+    story : interview
+    type  : jigsaw
+    form  : 0
+    intro : The previous question asked for your opinion of interviews. Practice the use of the words, 'scare', 'scary' and 'scared' with the word, 'interview'.
+    random: 
+-
+  content:
+  -
+    topic : opinion
+    story : note
+    type  : forum
+    form  : 0
+    intro : What is your opinion about using the scratch paper to take notes in the test? Read what others think about using the scratch paper.
+    random: 
 
 
 
