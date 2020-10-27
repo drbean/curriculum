@@ -1,6 +1,6 @@
 ---
 vacation:
-  essay:
+  forum:
     0:
       identifier: vacation suggestion
       rubric: |+
@@ -10,17 +10,23 @@ vacation:
 
         The Blue Valley Inn prides itself  on  the  *personal  attention*  it  provides  for  every  guest. The Blue Valley motto has always been, A *happy guest* is our greatest treasure.
 toeic:
-  essay:
+  forum:
     0:
       identifier: Question 1~2. Read a text aloud
       rubric: |+
-        Directions: In this part of the test, you will read aloud the text in the paragraph below. You will have 45 seconds to read the text aloud. Record by clicking the Microphone button in the editor, or attach a sound file, by clicking the Video Camera button in the box to the left. Submit after choosing a good title for the reading (use keywords from the text!)
+        Directions: In this part of the test, you will read aloud the text in the paragraph below. You will have 45 seconds to read the text aloud.
+
+        Record your reading at the moodle site by clicking the Microphone button in the editor, or attach a sound file, by clicking the Video Camera button in the box to the left. Submit after choosing a good title for the reading (use keywords from the text!)
 
         "For most people, there is quite a strong correlation among the four language skills. Over time, however, if you practice reading and listening much more often than you practice speaking and writing, then the correlation may change, and the TOEIC Listening and Reading tests will not be a good measure of your speaking and writing ability. While the TOEIC Listening and Reading tests are indirect measures of speaking and writing proficiency, the TOEIC Speaking and Writing tests are more direct measures of productive skills."
     1:
       identifier: 
       rubric: |+
-        Work with a teacher or an experienced specialist for TOEIC exam preparation. For most students, this is the only way to do well in the writing section. You need the feedback that the teacher will provide. Write several tests of the sample that are corrected by a teacher. If you are short of money, at least invest on a teacher or class to prepare for writing and speaking sections of the TOEIC, and then do the listening and reading sections on their own
+        Directions: In this part of the test, you will read aloud the text in the paragraph below. You will have 45 seconds to read the text aloud.
+
+        Record your reading at the moodle site by clicking the Microphone button in the editor, or attach a sound file, by clicking the Video Camera button in the box to the left. Submit after choosing a good title for the reading (use keywords from the text!)
+
+        "Working with a teacher or an experienced specialist for TOEIC exam preparation is, for most students, the only way to do well in the writing section. You need the feedback that the teacher will provide. Write several tests of the sample that are corrected by a teacher. If you are short of money, at least invest in a teacher or class to prepare for the writing and speaking sections of the TOEIC, and then do the listening and reading sections on your own."
 prosody:
   essay:
     0:
