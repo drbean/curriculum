@@ -1,0 +1,21 @@
+---
+forum:
+  timeclose        : $(date --date='2026-06-17 15:00:00 +0800' +%s)
+  duedate          : $(date --date='2026-06-17 15:00:00 +0800' +%s)
+  cutoffdate       : $(date --date='2026-06-17 15:00:00 +0800' +%s) 
+quiz:
+  questioncategory : opinion
+---
+
+# Question 11. Express an opinion
+
+-
+  content:
+  -
+    topic : opinion
+    story : slides
+    type  : url
+    form  : 0
+    intro : Typical topics on which you may be expected to have an opinion, and ways to express that opinion.
+    random: 
+
