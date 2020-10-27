@@ -18,4 +18,61 @@ quiz:
     form  : 0
     intro : Typical topics on which you may be expected to have an opinion, and ways to express that opinion.
     random: 
+-
+  content:
+  -
+    topic : opinion
+    story : donation
+    type  : essay
+    form  : 0
+    intro : In the test, you hear, as well as read, the topic about which you are expected to express an opinion, and you have to present a spoken response, ie you respond orally. Here, instead, write down notes or sentences which you might deliver aloud in the actual test.
+    random: 
+-
+  content:
+  -
+    topic : opinion
+    story : job
+    type  : jigsaw
+    form  : 0
+    intro : There are questions about jobs in the test examples in the official TOEIC Speaking and Writing Examinee Handbook. Why are they in both speaking and writing tests? And what does this tell us about ways you can prepare for the tests?
+    random: 
+-
+  content:
+  -
+    topic : opinion
+    story : job
+    type  : jigsaw
+    form  : 1
+    intro : There are questions about jobs in the test examples in the official TOEIC Speaking and Writing Examinee Handbook. Why are they in both speaking and writing tests? And what does this tell us about ways you can prepare for the tests?
+    random: 
+-
+  content:
+  -
+    topic : opinion
+    story : job
+    type  : jigsaw
+    form  : 2
+    intro : There are questions about jobs in the test examples in the official TOEIC Speaking and Writing Examinee Handbook, which are quite similar. Why are the questions in both speaking and writing tests similar? And what does this tell us about ways you can prepare for the tests?
+    random: 
+-
+  content:
+  -
+    topic : opinion
+    story : job
+    type  : jigsaw
+    form  : 3
+    intro : The question about jobs in the official TOEIC Speaking Examinee Handbook could be a question in the TOEIC *Writing* Test. What does this tell us about ways you can prepare for the tests?
+    random: 
+-
+  content:
+  -
+    topic : opinion
+    story : phone
+    type  : essay
+    form  : 0
+    intro : In the test, you present your opinion orally, ie you speak it. Here, instead, write words or sentences you might use when in the actual test.
+    random: 
+
+
+
 
