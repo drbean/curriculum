@@ -61,6 +61,13 @@ transport:
       - "A: What time will the bus arrive? _B: It will get here around 4:30._"
 
 bicycle:
+  0:
+    flash:
+      "A: Why do you want to go on a bicycle trip?" : "B: It's an environmentally friendly way to travel."
+      "A: What kind of equipment will you need?" : "B: I need road maps and strong bags and other things."
+      "A: Are you traveling with another person?" : "B: Yes, I am going with a friend of mine."
+      "A: What do you have to do to prepare?" : "I need to ride a lot and get some equipment."
+
   bingo:
     - bicycle equipment road_map travel person tire learn_how_to_ride flat air tent environmentally-friendly Europe in_order_to fit_and_strong bags clothes food need planning_to_go trip
     -
