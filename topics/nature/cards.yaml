@@ -154,6 +154,16 @@ sky:
 sea:
   0:
     flash:
+      octopus   : octopus.jpg
+      squid     : squid.jpg
+      starfish  : starfish.jpg
+      crab      : jonah-crab-on-sand.jpg
+      ocean     : ocean.jpg
+      salt      : salt.jpg
+      net       : net.jpg
+      fisherman : fisherman.jpg
+  1:
+    flash:
       octopus   : 章魚
       squid     : 烏賊
       starfish  : 海星
