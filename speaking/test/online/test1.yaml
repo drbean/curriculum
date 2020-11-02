@@ -8,23 +8,23 @@ quiz:
 ---
 # https://www.youtube.com/watch?v=1GxvlP4EhW4 Speaking toeic test 03 with Answers--Nhan Nguyen
 
--
-  content:
-  -
-    topic : general
-    story : introduction
-    type  : forum
-    form  : 0
-    intro : Logging on
-    random: 
-
+#-
+#  content:
+#  -
+#    topic : general
+#    story : introduction
+#    type  : forum
+#    form  : 0
+#    intro : Logging on
+#    random: 
+#
 -
   content:
   -
     topic : general
     story : read
-    type  : 3
-    form  : forum
+    type  : forum
+    form  : 3
     intro : '[https://www.youtube.com/watch?v=1GxvlP4EhW4 Speaking toeic test 03 with Answers--Nhan Nguyen](https://www.youtube.com/watch?v=1GxvlP4EhW4)'
     random: 
 -
@@ -32,8 +32,8 @@ quiz:
   -
     topic : general
     story : read
-    type  : 4
-    form  : forum
+    type  : forum
+    form  : 4
     intro : '[https://www.youtube.com/watch?v=1GxvlP4EhW4 Speaking toeic test 03 with Answers--Nhan Nguyen](https://www.youtube.com/watch?v=1GxvlP4EhW4)'
     random: 
 -
@@ -112,7 +112,7 @@ quiz:
   content:
   -
     topic : general
-    story : option
+    story : opinion
     type  : forum
     form  : 1
     intro : '[https://www.youtube.com/watch?v=1GxvlP4EhW4 Speaking toeic test 03 with Answers--Nhan Nguyen](https://www.youtube.com/watch?v=1GxvlP4EhW4)'
