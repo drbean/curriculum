@@ -205,12 +205,14 @@ read:
         Directions: In this part of the test, you will read aloud the text in the paragraph below. You will have 45 seconds to prepare. Then you will have another 45 seconds to read the text aloud.
     3:
       identifier: Question 1. Read a text aloud
+# https://www.youtube.com/watch?v=1GxvlP4EhW4 Speaking toeic test 03 with Answers--Nhan Nguyen
       rubric: |+
         Directions: In this part of the test, you will read aloud the text in the paragraph below. You will have 45 seconds to prepare. Then you will have another 45 seconds to read the text aloud.
 
         When looking for a place to live, most people think about convenience. If they are parents with children, they want to live near the best schools. They want to have public transportation or good road available to them. They don't want to have to travel far for shopping and entertainment. People also enjoy living near a park or gym so that they have easy access to recreation. And, of course, for the majority of people the most important thing is to live in close proximity to their jobs.
     4:
       identifier: Question 2. Read a text aloud
+# https://www.youtube.com/watch?v=1GxvlP4EhW4 Speaking toeic test 03 with Answers--Nhan Nguyen
       rubric: |+
         Directions: In this part of the test, you will read aloud the text in the paragraph below. You will have 45 seconds to prepare. Then you will have another 45 seconds to read the text aloud.
 
@@ -236,6 +238,7 @@ pic:
          In this part of the test, you will describe the picture on your screen in as much detail as you can . You will have 45 seconds to prepare your response . Then you will have 45 seconds to speak about the picture.
     1:
       identifier: Question 3. Describe a picture
+# https://www.youtube.com/watch?v=1GxvlP4EhW4 Speaking toeic test 03 with Answers--Nhan Nguyen
       rubric: |+
          In this part of the test, you will describe the picture on your screen in as much detail as you can . You will have 45 seconds to prepare your response . Then you will have 45 seconds to speak about the picture.
 
