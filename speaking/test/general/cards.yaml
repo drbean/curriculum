@@ -187,12 +187,14 @@ read:
   forum:
     0:
       identifier: Question 1. Read a text aloud
+# https://www.youtube.com/watch?v=VGPZxuDIpYE Speaking toeic test 01 with Answers--Nhan Nguyen 
       rubric: |+
         Directions: In this part of the test, you will read aloud the text in the paragraph below. You will have 45 seconds to prepare. Then you will have another 45 seconds to read the text aloud.
 
         Hi. This is Myra Peters, calling about my appointment with Dr. Jones. I have a three o'clock appointment scheduled for this afternoon. Unfortunately, I won't be able to keep it because of an important meeting at work. So, I'll need to reschedule. I was hoping to come in sometime next week. Any time Monday, Tuesday, or Wednesday afternoon would work for me. I hope the doctor has some time available on one of those days. Please call me back and let me know.
     1:
       identifier: Question 2. Read a text aloud
+# https://www.youtube.com/watch?v=VGPZxuDIpYE Speaking toeic test 01 with Answers--Nhan Nguyen 
       rubric: |+
         Directions: In this part of the test, you will read aloud the text in the paragraph below. You will have 45 seconds to prepare. Then you will have another 45 seconds to read the text aloud.
 
@@ -229,6 +231,7 @@ pic:
   forum:
     0:
       identifier: Question 3. Describe a picture
+# https://www.youtube.com/watch?v=VGPZxuDIpYE Speaking toeic test 01 with Answers--Nhan Nguyen 
       rubric: |+
          In this part of the test, you will describe the picture on your screen in as much detail as you can . You will have 45 seconds to prepare your response . Then you will have 45 seconds to speak about the picture.
     1:
@@ -261,6 +264,7 @@ question:
   forum:
     0:
       identifier: Question 4~6. Respond to questions
+# https://www.youtube.com/watch?v=VGPZxuDIpYE Speaking toeic test 01 with Answers--Nhan Nguyen 
       rubric: |+
         In this part of the test, you will answer three questions . For each question, begin responding immediately after you hear a beep . 3 seconds preparation time is provided. You will have 15 seconds to respond to Questions 4 and 5, and 30 seconds to respond to Question 6 .
 
@@ -269,6 +273,7 @@ question:
         Question 4: What sports do you enjoy playing?
     01:
       identifier: Question 4~6. Respond to questions
+# https://www.youtube.com/watch?v=VGPZxuDIpYE Speaking toeic test 01 with Answers--Nhan Nguyen 
       rubric: |+
         In this part of the test, you will answer three questions . For each question, begin responding immediately after you hear a beep . 3 seconds preparation time is provided. You will have 15 seconds to respond to Questions 4 and 5, and 30 seconds to respond to Question 6 .
 
@@ -277,6 +282,7 @@ question:
         Question 5: How often do you usually play sports?
     02:
       identifier: Question 4~6. Respond to questions
+# https://www.youtube.com/watch?v=VGPZxuDIpYE Speaking toeic test 01 with Answers--Nhan Nguyen 
       rubric: |+
         In this part of the test, you will answer three questions . For each question, begin responding immediately after you hear a beep . 3 seconds preparation time is provided. You will have 15 seconds to respond to Questions 4 and 5, and 30 seconds to respond to Question 6 .
 
@@ -328,6 +334,7 @@ information:
   forum:
     0:
       identifier: "Questions 7~9: Respond to questions using information provided"
+# https://www.youtube.com/watch?v=VGPZxuDIpYE Speaking toeic test 01 with Answers--Nhan Nguyen 
       rubric: |+
         ### Directions
 
@@ -526,7 +533,8 @@ information:
 solution:
   forum:
     0:
-      identifier: "Question 10: Propose a solution"
+      identifier: "Question 10: Propose a solution--A customer ordered a book which has not arrived"
+# https://www.youtube.com/watch?v=VGPZxuDIpYE Speaking toeic test 01 with Answers--Nhan Nguyen 
       rubric: |+
         In this part of the test, you will be presented with a problem and asked to propose a solution . You will have 45 seconds preparation time. Then you will have 60 seconds to speak.
 
@@ -565,6 +573,7 @@ opinion:
   forum:
     0:
       identifier: Question 11. Express an opinion
+# https://www.youtube.com/watch?v=VGPZxuDIpYE Speaking toeic test 01 with Answers--Nhan Nguyen 
       rubric: |+
         In this part of the test, you will give your opinion about a specific topic . Be sure to say as much as you can in the time allowed . You will have 30 seconds to prepare . Then you will have 60 seconds to speak.
 
