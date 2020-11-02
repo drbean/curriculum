@@ -361,6 +361,7 @@ information:
 # Question 9:  I understand that the tour lasts for several hours and I'm afraid I might get hungry in that time. Will any meals be served during the tour?
     2:
       identifier: "Questions 7: Respond to questions using information provided"
+# https://www.youtube.com/watch?v=1GxvlP4EhW4 Speaking toeic test 03 with Answers--Nhan Nguyen
       rubric: |+
 
             Meeting Agenda
@@ -378,6 +379,7 @@ information:
 # Question 7: Hello, Sue. I'm preparing for the meeting next Thursday. And I need some information about it. Can you tell me who will speak first, and for how long?
     3:
       identifier: "Questions 8: Respond to questions using information provided"
+# https://www.youtube.com/watch?v=1GxvlP4EhW4 Speaking toeic test 03 with Answers--Nhan Nguyen
       rubric: |+
 
             Meeting Agenda
@@ -395,6 +397,7 @@ information:
 # Question 8: Who is going to give the sales report?
     4:
       identifier: "Questions 9: Respond to questions using information provided"
+# https://www.youtube.com/watch?v=1GxvlP4EhW4 Speaking toeic test 03 with Answers--Nhan Nguyen
       rubric: |+
 
             Meeting Agenda
@@ -552,6 +555,7 @@ solution:
           Now listen to the voice message
     1:
       identifier: "Question 10: Propose a solution"
+# https://www.youtube.com/watch?v=1GxvlP4EhW4 Speaking toeic test 03 with Answers--Nhan Nguyen
       rubric: |+
         In this part of the test, you will be presented with a problem and asked to propose a solution . You will have 45 seconds preparation time. Then you will have 60 seconds to speak.
 
@@ -583,6 +587,7 @@ opinion:
         Question: Many people prefer driving their own cars, while others would rather use public transportation. Which do you prefer? Explain why.
     1:
       identifier: Question 11. Express an opinion
+# https://www.youtube.com/watch?v=1GxvlP4EhW4 Speaking toeic test 03 with Answers--Nhan Nguyen
       rubric: |+
         Question: Some people prefer to take a job that pays a high salary even if they don't like the job. What is your opinion about accepting a job you don't like because it pays a high salary? Give reasons for your opinion.
     2:
