@@ -1,0 +1,122 @@
+---
+forum:
+  timeclose        : $(date --date='2026-06-17 15:00:00 +0800' +%s)
+  duedate          : $(date --date='2026-06-17 15:00:00 +0800' +%s)
+  cutoffdate       : $(date --date='2026-06-17 15:00:00 +0800' +%s) 
+quiz:
+  questioncategory : test0
+---
+# https://www.youtube.com/watch?v=VGPZxuDIpYE Speaking toeic test 01 with Answers--Nhan Nguyen
+
+-
+  content:
+  -
+    topic : general
+    story : introduction
+    type  : forum
+    form  : 0
+    intro : Logging on
+    random: 
+
+-
+  content:
+  -
+    topic : general
+    story : read
+    type  : 0
+    form  : forum
+    intro : [https://www.youtube.com/watch?v=VGPZxuDIpYE Speaking toeic test 01 with Answers--Nhan Nguyen](https://www.youtube.com/watch?v=VGPZxuDIpYE)
+    random: 
+-
+  content:
+  -
+    topic : general
+    story : read
+    type  : 1
+    form  : forum
+    intro : [https://www.youtube.com/watch?v=VGPZxuDIpYE Speaking toeic test 01 with Answers--Nhan Nguyen](https://www.youtube.com/watch?v=VGPZxuDIpYE)
+    random: 
+-
+  content:
+  -
+    topic : general
+    story : pic
+    type  : forum
+    form  : 0
+    intro : [https://www.youtube.com/watch?v=VGPZxuDIpYE Speaking toeic test 01 with Answers--Nhan Nguyen](https://www.youtube.com/watch?v=VGPZxuDIpYE)
+    random: 
+-
+  content:
+  -
+    topic : general
+    story : question
+    type  : forum
+    form  : 0
+    intro : [https://www.youtube.com/watch?v=VGPZxuDIpYE Speaking toeic test 01 with Answers--Nhan Nguyen](https://www.youtube.com/watch?v=VGPZxuDIpYE)
+    random: 
+-
+  content:
+  -
+    topic : general
+    story : question
+    type  : forum
+    form  : 01
+    intro : [https://www.youtube.com/watch?v=VGPZxuDIpYE Speaking toeic test 01 with Answers--Nhan Nguyen](https://www.youtube.com/watch?v=VGPZxuDIpYE)
+    random: 
+-
+  content:
+  -
+    topic : general
+    story : question
+    type  : forum
+    form  : 02
+    intro : [https://www.youtube.com/watch?v=VGPZxuDIpYE Speaking toeic test 01 with Answers--Nhan Nguyen](https://www.youtube.com/watch?v=VGPZxuDIpYE)
+    random: 
+-
+  content:
+  -
+    topic : general
+    story : information
+    type  : forum
+    form  : 0
+    intro : [https://www.youtube.com/watch?v=VGPZxuDIpYE Speaking toeic test 01 with Answers--Nhan Nguyen](https://www.youtube.com/watch?v=VGPZxuDIpYE)
+    random: 
+-
+  content:
+  -
+    topic : general
+    story : information
+    type  : forum
+    form  : 0
+    intro : [https://www.youtube.com/watch?v=VGPZxuDIpYE Speaking toeic test 01 with Answers--Nhan Nguyen](https://www.youtube.com/watch?v=VGPZxuDIpYE)
+    random: 
+-
+  content:
+  -
+    topic : general
+    story : information
+    type  : forum
+    form  : 0
+    intro : [https://www.youtube.com/watch?v=VGPZxuDIpYE Speaking toeic test 01 with Answers--Nhan Nguyen](https://www.youtube.com/watch?v=VGPZxuDIpYE)
+    random: 
+-
+  content:
+  -
+    topic : general
+    story : solution
+    type  : forum
+    form  : 0
+    intro : [https://www.youtube.com/watch?v=VGPZxuDIpYE Speaking toeic test 01 with Answers--Nhan Nguyen](https://www.youtube.com/watch?v=VGPZxuDIpYE)
+    random: 
+-
+  content:
+  -
+    topic : general
+    story : option
+    type  : forum
+    form  : 0
+    intro : [https://www.youtube.com/watch?v=VGPZxuDIpYE Speaking toeic test 01 with Answers--Nhan Nguyen](https://www.youtube.com/watch?v=VGPZxuDIpYE)
+    random: 
+
+
+
