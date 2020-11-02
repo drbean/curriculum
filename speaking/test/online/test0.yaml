@@ -25,7 +25,7 @@ quiz:
     story : read
     type  : 0
     form  : forum
-    intro : [https://www.youtube.com/watch?v=VGPZxuDIpYE Speaking toeic test 01 with Answers--Nhan Nguyen](https://www.youtube.com/watch?v=VGPZxuDIpYE)
+    intro : '[https://www.youtube.com/watch?v=VGPZxuDIpYE Speaking toeic test 01 with Answers--Nhan Nguyen](https://www.youtube.com/watch?v=VGPZxuDIpYE)'
     random: 
 -
   content:
@@ -34,7 +34,7 @@ quiz:
     story : read
     type  : 1
     form  : forum
-    intro : [https://www.youtube.com/watch?v=VGPZxuDIpYE Speaking toeic test 01 with Answers--Nhan Nguyen](https://www.youtube.com/watch?v=VGPZxuDIpYE)
+    intro : '[https://www.youtube.com/watch?v=VGPZxuDIpYE Speaking toeic test 01 with Answers--Nhan Nguyen](https://www.youtube.com/watch?v=VGPZxuDIpYE)'
     random: 
 -
   content:
@@ -43,7 +43,7 @@ quiz:
     story : pic
     type  : forum
     form  : 0
-    intro : [https://www.youtube.com/watch?v=VGPZxuDIpYE Speaking toeic test 01 with Answers--Nhan Nguyen](https://www.youtube.com/watch?v=VGPZxuDIpYE)
+    intro : '[https://www.youtube.com/watch?v=VGPZxuDIpYE Speaking toeic test 01 with Answers--Nhan Nguyen](https://www.youtube.com/watch?v=VGPZxuDIpYE)'
     random: 
 -
   content:
@@ -52,7 +52,7 @@ quiz:
     story : question
     type  : forum
     form  : 0
-    intro : [https://www.youtube.com/watch?v=VGPZxuDIpYE Speaking toeic test 01 with Answers--Nhan Nguyen](https://www.youtube.com/watch?v=VGPZxuDIpYE)
+    intro : '[https://www.youtube.com/watch?v=VGPZxuDIpYE Speaking toeic test 01 with Answers--Nhan Nguyen](https://www.youtube.com/watch?v=VGPZxuDIpYE)'
     random: 
 -
   content:
@@ -61,7 +61,7 @@ quiz:
     story : question
     type  : forum
     form  : 01
-    intro : [https://www.youtube.com/watch?v=VGPZxuDIpYE Speaking toeic test 01 with Answers--Nhan Nguyen](https://www.youtube.com/watch?v=VGPZxuDIpYE)
+    intro : '[https://www.youtube.com/watch?v=VGPZxuDIpYE Speaking toeic test 01 with Answers--Nhan Nguyen](https://www.youtube.com/watch?v=VGPZxuDIpYE)'
     random: 
 -
   content:
@@ -70,7 +70,7 @@ quiz:
     story : question
     type  : forum
     form  : 02
-    intro : [https://www.youtube.com/watch?v=VGPZxuDIpYE Speaking toeic test 01 with Answers--Nhan Nguyen](https://www.youtube.com/watch?v=VGPZxuDIpYE)
+    intro : '[https://www.youtube.com/watch?v=VGPZxuDIpYE Speaking toeic test 01 with Answers--Nhan Nguyen](https://www.youtube.com/watch?v=VGPZxuDIpYE)'
     random: 
 -
   content:
@@ -79,7 +79,7 @@ quiz:
     story : information
     type  : forum
     form  : 0
-    intro : [https://www.youtube.com/watch?v=VGPZxuDIpYE Speaking toeic test 01 with Answers--Nhan Nguyen](https://www.youtube.com/watch?v=VGPZxuDIpYE)
+    intro : '[https://www.youtube.com/watch?v=VGPZxuDIpYE Speaking toeic test 01 with Answers--Nhan Nguyen](https://www.youtube.com/watch?v=VGPZxuDIpYE)'
     random: 
 -
   content:
@@ -88,7 +88,7 @@ quiz:
     story : information
     type  : forum
     form  : 0
-    intro : [https://www.youtube.com/watch?v=VGPZxuDIpYE Speaking toeic test 01 with Answers--Nhan Nguyen](https://www.youtube.com/watch?v=VGPZxuDIpYE)
+    intro : '[https://www.youtube.com/watch?v=VGPZxuDIpYE Speaking toeic test 01 with Answers--Nhan Nguyen](https://www.youtube.com/watch?v=VGPZxuDIpYE)'
     random: 
 -
   content:
@@ -97,7 +97,7 @@ quiz:
     story : information
     type  : forum
     form  : 0
-    intro : [https://www.youtube.com/watch?v=VGPZxuDIpYE Speaking toeic test 01 with Answers--Nhan Nguyen](https://www.youtube.com/watch?v=VGPZxuDIpYE)
+    intro : '[https://www.youtube.com/watch?v=VGPZxuDIpYE Speaking toeic test 01 with Answers--Nhan Nguyen](https://www.youtube.com/watch?v=VGPZxuDIpYE)'
     random: 
 -
   content:
@@ -106,7 +106,7 @@ quiz:
     story : solution
     type  : forum
     form  : 0
-    intro : [https://www.youtube.com/watch?v=VGPZxuDIpYE Speaking toeic test 01 with Answers--Nhan Nguyen](https://www.youtube.com/watch?v=VGPZxuDIpYE)
+    intro : '[https://www.youtube.com/watch?v=VGPZxuDIpYE Speaking toeic test 01 with Answers--Nhan Nguyen](https://www.youtube.com/watch?v=VGPZxuDIpYE)'
     random: 
 -
   content:
@@ -115,7 +115,7 @@ quiz:
     story : option
     type  : forum
     form  : 0
-    intro : [https://www.youtube.com/watch?v=VGPZxuDIpYE Speaking toeic test 01 with Answers--Nhan Nguyen](https://www.youtube.com/watch?v=VGPZxuDIpYE)
+    intro : '[https://www.youtube.com/watch?v=VGPZxuDIpYE Speaking toeic test 01 with Answers--Nhan Nguyen](https://www.youtube.com/watch?v=VGPZxuDIpYE)'
     random: 
 
 
