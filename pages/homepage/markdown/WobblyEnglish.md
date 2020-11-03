@@ -17,5 +17,6 @@ Some attempts to see English wobble, benefiting from conversations on the ##Engl
 * [TheGuy](TheGuy.html) *The* guy from San Antonio or *a* guy from San Antonio
 * [InTransitive ](InTransitive.html) Transitive and intransitive: What is the difference?
 * [ErgativeVerb](ErgativeVerb.html) Challenge: Find 2 in/transitive verbs which go together
+* [TheDealWithWeal](TheDealWithWeal.html) How to pronounce the obsolete word, 'weal'
 
 Return to [HomePage](HomePage.html)
