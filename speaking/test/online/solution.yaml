@@ -7,7 +7,12 @@ quiz:
   questioncategory : solution
 ---
 
-# Question 10. Propose a solution
+section:
+  name: Question 10. Propose a solution
+  summary: Solving problems
+---
+
+# 
 
 -
   content:

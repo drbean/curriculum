@@ -7,7 +7,12 @@ quiz:
   questioncategory : pic
 ---
 
-# 3 Describe a picture
+section:
+  name: Question 3 Describe a picture
+  summary: Describing pictures
+---
+
+# 
 
 -
   content:

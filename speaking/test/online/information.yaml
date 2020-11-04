@@ -7,7 +7,10 @@ quiz:
   questioncategory : information
 ---
 
-# 7–9 Respond to questions using information provided
+section:
+  name: Question 7–9 Respond to questions using information provided
+  summary: Answering questions
+---
 
 -
   content:

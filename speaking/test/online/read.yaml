@@ -7,7 +7,10 @@ quiz:
   questioncategory : read
 ---
 
-# 1–2 Read a text aloud
+section:
+  name: Question 1–2 Read a text aloud
+  summary: How to read a text
+---
 
 -
   content:

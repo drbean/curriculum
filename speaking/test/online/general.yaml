@@ -1,4 +1,4 @@
----
+--
 forum:
   timeclose        : $(date --date='2026-06-17 15:00:00 +0800' +%s)
   duedate          : $(date --date='2026-06-17 15:00:00 +0800' +%s)
@@ -6,7 +6,11 @@ forum:
 quiz:
   questioncategory : 17_final
 ---
-# general issues
+
+section:
+  name: The TOEIC Speaking Test
+  summary: The structure of the test and how to approach doing it
+---
 
 -
   content:
