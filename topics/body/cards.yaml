@@ -291,6 +291,16 @@ sick:
 part:
   0:
     flash:
+      leg    : leg.jpg
+      arm    : arm.jpg
+      hand   : hand.jpg
+      foot   : foot.jpg
+      legs   : legs.jpg
+      arms   : arms.jpg
+      hands  : hands.jpg
+      feet   : feet.jpg
+  00:
+    flash:
       leg    : 腿     
       arm    : 臂     
       hand   : 手     
