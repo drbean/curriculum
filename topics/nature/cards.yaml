@@ -99,6 +99,16 @@ igloo:
 sky:
   0:
     flash:
+      stars    : stars.jpg
+      moon     : moon.jpg
+      shine    : shine.jpg
+      an alien : alien.jpg
+      bright   : bright.jpg
+      anything : anything.jpg
+      rise     : rise.jpg
+      wish     : wish.jpg
+  1:
+    flash:
       stars    : 星
       moon     : 月亮
       shine    : 閃耀
