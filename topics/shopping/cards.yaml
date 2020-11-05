@@ -3,6 +3,16 @@ genre: topics
 supermarket:
   0:
     flash:
+      fruit:         fruit.jpg
+      vegetables:    vegetables.jpg
+      coins:         coins.jpg
+      shopping cart: cart.jpg
+      push:          push.png
+      fresh:         fresh.jpg
+      sale:          sale.jpg
+      cheap:         cheap.jpg
+  1:
+    flash:
       fruit:         水果
       vegetables:    蔬菜
       coins:         硬幣
