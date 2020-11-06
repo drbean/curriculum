@@ -9,7 +9,10 @@ quiz:
 
 section:
   name: Question 11. Express an opinion
-  summary: Expressing opinions
+  summary: |+
+    1. What the issue is
+    2. What people say
+    3. What I think
 ---
 
 -
