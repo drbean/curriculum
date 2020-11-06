@@ -1,0 +1,13 @@
+---
+forum:
+  timeclose        : $(date --date='2026-06-17 15:00:00 +0800' +%s)
+  duedate          : $(date --date='2026-06-17 15:00:00 +0800' +%s)
+  cutoffdate       : $(date --date='2026-06-17 15:00:00 +0800' +%s) 
+quiz:
+  questioncategory : pic
+---
+
+section:
+  name: Question 4~6. Respond to questions
+  summary: Answer questions about practices and customs in your daily life and in your country
+---
