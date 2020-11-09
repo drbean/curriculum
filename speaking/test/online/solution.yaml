@@ -23,6 +23,15 @@ section:
     form  : 0
     intro : Typical problems presented in Question 10, and how to handle them
     random: 
+-
+  content:
+  -
+    topic : solution
+    story : call_center
+    type  : forum
+    form  : 0
+    intro : Your experience calling a call center with a problem
+    random: 
 
 -
   content:
