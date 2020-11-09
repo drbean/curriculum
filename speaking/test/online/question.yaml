@@ -11,3 +11,32 @@ section:
   name: Question 4~6. Respond to questions
   summary: Answer questions about practices and customs in your daily life and in your country
 ---
+
+-
+  content:
+  -
+    topic : question
+    story : slides
+    type  : url
+    form  : 0
+    intro : Typical topics that appear in Questions 7~9, and typical questions about those topics
+    random: 
+-
+  content:
+  -
+    topic : question
+    story : vacation
+    type  : forum
+    form  : 0
+    intro : Questions about vacation that you take or have had
+    random: 
+-
+  content:
+  -
+    topic : question
+    story : tv
+    type  : forum
+    form  : 0
+    intro : Questions about watching television
+    random: 
+
