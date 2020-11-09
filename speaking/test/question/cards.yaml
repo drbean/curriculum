@@ -5,7 +5,7 @@ call_center:
       identifier: problem call experience
       rubric: "Questions 4-6: Respond to questions\n\nHave you ever called a company, or a school, or other organization about a problem? Speak for 15 seconds about that experience, answering who, what, when, where questions.\n\nThen for another 15 seconds describe what the problem was.\n\nThen for a further 30 seconds describe the response of the organization, or the solution to the problem.\n\nIf you don't have such an experience, make up a story about something that could have happened.\n\nUpload ONE sound file of about 60 seconds to the site."
 vacation:
-  essay:
+  forum:
     0:
       identifier: Question 4~6. Respond to questions (in role)
       rubric: |+
@@ -43,5 +43,3 @@ tv:
         - Question 6: Describe your favourite television programme
 
         Upload ONE sound file of about 60 seconds to the site.
-
-        As there is no class next week, because it is 清明節, do it before April 10, 12pm.
