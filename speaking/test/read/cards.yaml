@@ -23,7 +23,15 @@ toeic:
 
         Record your reading at the moodle site by clicking the Microphone button in the editor, or attach a sound file, by clicking the Video Camera button in the box to the left. Submit after choosing a good title for the reading (use keywords from the text!)
 
-        "For most people, there is quite a strong correlation among the four language skills. Over time, however, if you practice reading and listening much more often than you practice speaking and writing, then the correlation may change, and the TOEIC Listening and Reading tests will not be a good measure of your speaking and writing ability. While the TOEIC Listening and Reading tests are indirect measures of speaking and writing proficiency, the TOEIC Speaking and Writing tests are more direct measures of productive skills."
+            For most people, there is quite a strong correlation among the four 
+            language skills. Over time, however, if you practice reading and 
+            listening much more often than you practice speaking and writing, 
+            then the correlation may change, and the TOEIC Listening and 
+            Reading tests will not be a good measure of your speaking and 
+            writing ability. While the TOEIC Listening and Reading tests are 
+            indirect measures of speaking and writing proficiency, the TOEIC 
+            Speaking and Writing tests are more direct measures of productive 
+            skills.
     1:
       identifier: 
       rubric: |+
