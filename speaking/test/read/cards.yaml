@@ -17,7 +17,7 @@ vacation:
 toeic:
   forum:
     0:
-      identifier: Question 1~2. Read a text aloud
+      identifier: Reading a text about the TOEIC
       rubric: |+
         Directions: In this part of the test, you will read aloud the text in the paragraph below. You will have 45 seconds to read the text aloud.
 
@@ -33,17 +33,23 @@ toeic:
             Speaking and Writing tests are more direct measures of productive 
             skills.
     1:
-      identifier: 
+      identifier: A text about how to prepare for the TOEIC
       rubric: |+
         Directions: In this part of the test, you will read aloud the text in the paragraph below. You will have 45 seconds to read the text aloud.
 
         Record your reading at the moodle site by clicking the Microphone button in the editor, or attach a sound file, by clicking the Video Camera button in the box to the left. Submit after choosing a good title for the reading (use keywords from the text!)
 
-        "Working with a teacher or an experienced specialist for TOEIC exam preparation is, for most students, the only way to do well in the writing section. You need the feedback that the teacher will provide. Write several tests of the sample that are corrected by a teacher. If you are short of money, at least invest in a teacher or class to prepare for the writing and speaking sections of the TOEIC, and then do the listening and reading sections on your own."
+            Working with a teacher or an experienced specialist for TOEIC exam 
+            preparation is, for most students, the only way to do well in the 
+            writing section. You need the feedback that the teacher will 
+            provide. Write several tests of the sample that are corrected by a 
+            teacher. If you are short of money, at least invest in a teacher or 
+            class to prepare for the writing and speaking sections of the 
+            TOEIC, and then do the listening and reading sections on your own.
 prosody:
-  essay:
+  forum:
     0:
-      identifier: Sentence stress in Question 1~2. Read a text aloud
+      identifier: "Sentence rhythm: choosing which words to stress"
       rubric: |+
         Directions: In this part of the test, you will read aloud the text in the paragraph below. You will have 45 seconds to read the text aloud. Record by clicking the Microphone button in the editor, or attach a sound file, by clicking the Video Camera button in the box to the left. Submit after choosing a good title for the reading (use keywords from the text!)
 
