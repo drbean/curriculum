@@ -182,6 +182,16 @@ sea:
       salt      : 鹽  
       net       : 捕魚網  
       fisherman : 漁民
+  2:
+    flash:
+      salt      : salt.jpg
+      crab       : jonah-crab-on-sand.jpg
+      salt1     : salt.jpg
+      crab1      : jonah-crab-on-sand.jpg
+      salt2     : salt.jpg
+      crab2      : jonah-crab-on-sand.jpg
+      salt3     : salt.jpg
+      crab3      : jonah-crab-on-sand.jpg
   bingo:
     - octopus squid starfish crab ocean salt net fisherman boat
     - fisherman big throw net ocean waits pulls boat fish octopus starfish
