@@ -9,7 +9,10 @@ quiz:
 
 section:
   name: Question 10. Propose a solution
-  summary: Understanding a caller's problem, developing a solution and presenting that solution
+  summary: |+
+    1. Understanding a caller's problem,
+    2. developing a solution and
+    3. presenting that solution
 ---
 
 # 
