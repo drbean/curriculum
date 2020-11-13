@@ -267,13 +267,35 @@ read:
       rubric: |+
         Directions: In this part of the test, you will read aloud the text in the paragraph below. You will have 45 seconds to prepare. Then you will have another 45 seconds to read the text aloud.
 
-        When you go to a job interview, it is important to make a good impression. The first thing the interviewer will observe about you is your clothes, so dress in a neat, conservative outfit. Dark colors are best. Men should wear simple ties, and women should not wear short skirts. The way you behave is equally important. Enter the room with confidence. Look the interviewer in the eye while shaking hands. Don't forget to smile pleasantly at the same time. Introduce yourself in a clear voice.
+            When you go to a job interview, it is 
+            important to make a good impression. The 
+            first thing the interviewer will observe 
+            about you is your clothes, so dress in a 
+            neat, conservative outfit. Dark colors are 
+            best. Men should wear simple ties, and 
+            women should not wear short skirts. The way 
+            you behave is equally important. Enter the 
+            room with confidence. Look the interviewer 
+            in the eye while shaking hands. Don't 
+            forget to smile pleasantly at the same 
+            time. Introduce yourself in a clear voice.
     6:
       identifier: Question 2. Read a text aloud
       rubric: |+
         Directions: In this part of the test, you will read aloud the text in the paragraph below. You will have 45 seconds to prepare. Then you will have another 45 seconds to read the text aloud.
 
-        Do you like seafood? The Ocean View Restaurant offers the tastiest seafood dishes in town. Relax in our spacious dining room while enjoying spectacular views of the beach and ocean. Choose from a large variety of seafood dishes on our menu or enjoy a little bit of everything at our Sunday evening buffet. At the end of your meal, be sure to try one of our famous desserts. The chocolate cake is simply scrumptious. For a relaxing, delicious meal, visit the Ocean View.
+            Do you like seafood? The Ocean View 
+            Restaurant offers the tastiest seafood 
+            dishes in town. Relax in our spacious 
+            dining room while enjoying spectacular 
+            views of the beach and ocean. Choose from a 
+            large variety of seafood dishes on our menu 
+            or enjoy a little bit of everything at our 
+            Sunday evening buffet. At the end of your 
+            meal, be sure to try one of our famous 
+            desserts. The chocolate cake is simply 
+            scrumptious. For a relaxing, delicious 
+            meal, visit the Ocean View.
 pic:
   forum:
     0:
@@ -316,27 +338,39 @@ question:
       rubric: |+
         In this part of the test, you will answer three questions . For each question, begin responding immediately after you hear a beep . 3 seconds preparation time is provided. You will have 15 seconds to respond to Questions 4 and 5, and 30 seconds to respond to Question 6 .
 
-        Imagine that a research firm is doing a telephone survey of people in your city. You have agreed to answer some questions about sports.
+            Imagine that a research firm is doing a 
+            telephone survey of people in your city. 
+            You have agreed to answer some questions 
+            about sports.
 
-        Question 4: What sports do you enjoy playing?
+            Question 4: What sports do you enjoy playing?
     01:
       identifier: Question 5. Respond to questions
 # https://www.youtube.com/watch?v=VGPZxuDIpYE Speaking toeic test 01 with Answers--Nhan Nguyen 
       rubric: |+
         In this part of the test, you will answer three questions . For each question, begin responding immediately after you hear a beep . 3 seconds preparation time is provided. You will have 15 seconds to respond to Questions 4 and 5, and 30 seconds to respond to Question 6 .
 
-        Imagine that a research firm is doing a telephone survey of people in your city. You have agreed to answer some questions about sports.
+            Imagine that a research firm is doing a 
+            telephone survey of people in your city. 
+            You have agreed to answer some questions 
+            about sports.
 
-        Question 5: How often do you usually play sports?
+            Question 5: How often do you usually play 
+            sports?
     02:
       identifier: Question 6. Respond to questions
 # https://www.youtube.com/watch?v=VGPZxuDIpYE Speaking toeic test 01 with Answers--Nhan Nguyen 
       rubric: |+
         In this part of the test, you will answer three questions . For each question, begin responding immediately after you hear a beep . 3 seconds preparation time is provided. You will have 15 seconds to respond to Questions 4 and 5, and 30 seconds to respond to Question 6 .
 
-        Imagine that a research firm is doing a telephone survey of people in your city. You have agreed to answer some questions about sports.
+            Imagine that a research firm is doing a 
+            telephone survey of people in your city. 
+            You have agreed to answer some questions 
+            about sports.
 
-        Question 6: Do you think it is important for children to play sports? Why or why not?
+            Question 6: Do you think it is important 
+            for children to play sports? Why or why 
+            not?
     1:
       identifier: Question 4~6. Respond to questions
       rubric: |+
@@ -346,29 +380,36 @@ question:
       rubric: |+
         Imagine that a marketing firm is doing research in your country. You have agreed to participate in a telephone interview about birthday celebrations.
 
-        Question 4: Are birthday celebrations important in your country?
+            Question 4: Are birthday celebrations 
+            important in your country?
     3:
       identifier: Question 5. Respond to questions
       rubric: |+
-        How do people in your country celebrate birthdays?
+
+            How do people in your country celebrate 
+            birthdays?
     4:
       identifier: Question 6. Respond to questions
       rubric: |+
-        How do people in your country generally feel about getting older?
+
+            How do people in your country generally 
+            feel about getting older?
     5:
       identifier: Question 4
       rubric: |+
         Imagine that a marketing firm is doing research in your country. You have agreed to participate in a telephone interview about physical exercise.
 
-        Question 4: What forms of physical exercise are popular in your country.
+            Question 4: What forms of physical exercise 
+            are popular in your country.
     6:
       identifier: Question 5
       rubric: |+
-        How do you normally get exercise?
+            How do you normally get exercise?
     7:
       identifier: Question 6
       rubric: |+
-        How can people be encouraged to get enough physical exercise?
+            How can people be encouraged to get enough 
+            physical exercise?
 
 information:
   description:
@@ -629,16 +670,27 @@ opinion:
       rubric: |+
         In this part of the test, you will give your opinion about a specific topic . Be sure to say as much as you can in the time allowed . You will have 30 seconds to prepare . Then you will have 60 seconds to speak.
 
-        Question: Many people prefer driving their own cars, while others would rather use public transportation. Which do you prefer? Explain why.
+            Question: Many people prefer driving their 
+            own cars, while others would rather use 
+            public transportation. Which do you prefer? 
+            Explain why.
     1:
       identifier: Question 11. Express an opinion
 # https://www.youtube.com/watch?v=1GxvlP4EhW4 Speaking toeic test 03 with Answers--Nhan Nguyen
       rubric: |+
-        Question: Some people prefer to take a job that pays a high salary even if they don't like the job. What is your opinion about accepting a job you don't like because it pays a high salary? Give reasons for your opinion.
+            Question: Some people prefer to take a job 
+            that pays a high salary even if they don't 
+            like the job. What is your opinion about 
+            accepting a job you don't like because it 
+            pays a high salary? Give reasons for your 
+            opinion.
     2:
       identifier: Question 11. Express an opinion
       rubric: |+
-        Question: Some people think smoking should be banned in all public places. What is your opinion about smoking in public places? Give reasons for your opinion.
+            Question: Some people think smoking should 
+            be banned in all public places. What is 
+            your opinion about smoking in public 
+            places? Give reasons for your opinion.
 
 writing:
     1:
@@ -655,7 +707,11 @@ writing:
 
         You will have 30 minutes to plan, write and revise your essay.
 
-        Question: Do you agree or disagree with the following statement? It is more important to work at a job you enjoy than to make a lot of money. Support your answer with specific reasons and examples.
+            Question: Do you agree or disagree with the 
+            following statement? It is more important 
+            to work at a job you enjoy than to make a 
+            lot of money. Support your answer with 
+            specific reasons and examples.
         
 # writing
 
