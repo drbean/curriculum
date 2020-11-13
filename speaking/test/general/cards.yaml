@@ -191,14 +191,36 @@ read:
       rubric: |+
         Directions: In this part of the test, you will read aloud the text in the paragraph below. You will have 45 seconds to prepare. Then you will have another 45 seconds to read the text aloud.
 
-        Hi. This is Myra Peters, calling about my appointment with Dr. Jones. I have a three o'clock appointment scheduled for this afternoon. Unfortunately, I won't be able to keep it because of an important meeting at work. So, I'll need to reschedule. I was hoping to come in sometime next week. Any time Monday, Tuesday, or Wednesday afternoon would work for me. I hope the doctor has some time available on one of those days. Please call me back and let me know.
+            Hi. This is Myra Peters, calling about my 
+            appointment with Dr. Jones. I have a three 
+            o'clock appointment scheduled for this 
+            afternoon. Unfortunately, I won't be able to 
+            keep it because of an important meeting at 
+            work. So, I'll need to reschedule. I was 
+            hoping to come in sometime next week. Any 
+            time Monday, Tuesday, or Wednesday afternoon 
+            would work for me. I hope the doctor has some 
+            time available on one of those days. Please 
+            call me back and let me know.
     1:
       identifier: Question 2. Read a text aloud
 # https://www.youtube.com/watch?v=VGPZxuDIpYE Speaking toeic test 01 with Answers--Nhan Nguyen 
       rubric: |+
         Directions: In this part of the test, you will read aloud the text in the paragraph below. You will have 45 seconds to prepare. Then you will have another 45 seconds to read the text aloud.
 
-        Our speaker tonight is Mr. John Wilson, who has just returned from traveling in South America. Mr. Wilson spent his trip photographing scenes of small-town life across the continent. His work is well known around the world, and his photography has been featured in numerous newspapers, magazines and books. Tonight he will share with us photographs and stories from his recent trip and will answer any questions you may have. Due to time constraints, we ask you to hold your questions until the end of the talk.
+            Our speaker tonight is Mr. John Wilson, who 
+            has just returned from traveling in South 
+            America. Mr. Wilson spent his trip 
+            photographing scenes of small-town life 
+            across the continent. His work is well known 
+            around the world, and his photography has 
+            been featured in numerous newspapers, 
+            magazines and books. Tonight he will share 
+            with us photographs and stories from his 
+            recent trip and will answer any questions you 
+            may have. Due to time constraints, we ask you 
+            to hold your questions until the end of the 
+            talk.
     2:
       identifier: Question 1. Read a text aloud
       rubric: |+
@@ -209,14 +231,37 @@ read:
       rubric: |+
         Directions: In this part of the test, you will read aloud the text in the paragraph below. You will have 45 seconds to prepare. Then you will have another 45 seconds to read the text aloud.
 
-        When looking for a place to live, most people think about convenience. If they are parents with children, they want to live near the best schools. They want to have public transportation or good road available to them. They don't want to have to travel far for shopping and entertainment. People also enjoy living near a park or gym so that they have easy access to recreation. And, of course, for the majority of people the most important thing is to live in close proximity to their jobs.
+            When looking for a place to live, most 
+            people think about convenience. If they are 
+            parents with children, they want to live 
+            near the best schools. They want to have 
+            public transportation or good road 
+            available to them. They don't want to have 
+            to travel far for shopping and 
+            entertainment. People also enjoy living 
+            near a park or gym so that they have easy 
+            access to recreation. And, of course, for 
+            the majority of people the most important 
+            thing is to live in close proximity to 
+            their jobs.
     4:
       identifier: Question 2. Read a text aloud
 # https://www.youtube.com/watch?v=1GxvlP4EhW4 Speaking toeic test 03 with Answers--Nhan Nguyen
       rubric: |+
         Directions: In this part of the test, you will read aloud the text in the paragraph below. You will have 45 seconds to prepare. Then you will have another 45 seconds to read the text aloud.
 
-        Whether you're visiting the city for business or pleasure, High Towers Hotel is the place to stay. All our rooms are clean and spacious with comfortable beds and pleasant views of the city. We are conveniently located in the center of the city, near stores, museums and offices. For the enjoyment of our guests, we have a swimming pool and exercise room. The hotel restaurant is one of the best in the city. Tourists and businesspeople alike choose the High Towers Hotel time after time.
+            Whether you're visiting the city for 
+            business or pleasure, High Towers Hotel is 
+            the place to stay. All our rooms are clean 
+            and spacious with comfortable beds and 
+            pleasant views of the city. We are 
+            conveniently located in the center of the 
+            city, near stores, museums and offices. For 
+            the enjoyment of our guests, we have a 
+            swimming pool and exercise room. The hotel 
+            restaurant is one of the best in the city. 
+            Tourists and businesspeople alike choose 
+            the High Towers Hotel time after time.
     5:
       identifier: Question 1. Read a text aloud
       rubric: |+
