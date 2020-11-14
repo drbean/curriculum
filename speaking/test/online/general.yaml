@@ -57,7 +57,7 @@ section:
   -
     topic : general
     story : grade
-    type  : essay
+    type  : forum
     form  : 0
     intro : Test score and life success--not connected
     random: 

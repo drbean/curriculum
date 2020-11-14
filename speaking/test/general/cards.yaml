@@ -106,11 +106,13 @@ instruction:
 
     
 grade:
-  essay:
+  forum:
     0:
-      identifier: test score & course grade
+      identifier: test score & life success
       rubric: |+
-        Course grade ≠ TOEIC score
+        Career success ≠ TOEIC score
+
+        What do you think about the importance of getting a good TOEIC speaking score?
     
 part:
   jigsaw:
