@@ -37,16 +37,6 @@ section:
   -
     topic : general
     story : handbook
-    type  : page
-    form  : 0
-    intro : Instructions to print the book
-    random: 
-
--
-  content:
-  -
-    topic : general
-    story : handbook
     type  : jigsaw
     form  : 0
     intro : Identifying self at test site--What is un/acceptable
