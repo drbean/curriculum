@@ -6,7 +6,7 @@ slides:
       identifier: "Slides about the TOEIC Speaking Test in General"
       externalurl: http://drbean.sdf.org/toeic/general.pdf
 introduction:
-  forum:
+  page:
     0:
       identifier: 'Welcome: course arrangements'
       rubric: |+
