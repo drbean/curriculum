@@ -1,5 +1,10 @@
 ---
 # genre: toeic speaking
+slides:
+  url:
+    0:
+      identifier: "Slides about the TOEIC Speaking Test in General"
+      externalurl: http://drbean.sdf.org/toeic/general.pdf
 introduction:
   forum:
     0:
