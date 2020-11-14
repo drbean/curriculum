@@ -56,7 +56,7 @@ handbook:
 [http://web.nuu.edu.tw/~greg/toeic/sample/Examinee+Handbook+-+TOEIC+Speaking+and+Writing-LR.pdf](http://web.nuu.edu.tw/~greg/toeic/sample/Examinee+Handbook+-+TOEIC+Speaking+and+Writing-LR.pdf)
   jigsaw:
     0:
-      identifier: IDs
+      identifier: IDs at test site
       quiz:
         - question: passport
           option:
