@@ -56,23 +56,6 @@ section:
   content:
   -
     topic : general
-    story : instruction
-    type  : description
-    form  : 0
-    intro : Practice test
-    random: 
-  -
-    topic : general
-    story : instruction
-    type  : description
-    form  : 1
-    intro : Practice test
-    random: 
-
--
-  content:
-  -
-    topic : general
     story : grade
     type  : essay
     form  : 0
