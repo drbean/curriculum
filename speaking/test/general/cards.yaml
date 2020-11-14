@@ -174,7 +174,7 @@ part:
             - Responding to questions using information provided
           answer: Expressing an opinion
 example:
-  essay:
+  forum:
     0:
       identifier: "extra credit: other practice tests"
       rubric: |+
