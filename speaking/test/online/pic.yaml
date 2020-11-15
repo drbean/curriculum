@@ -43,7 +43,7 @@ section:
     intro : identifying picture regions, with the numeric keyboard as example
     random: 
 -
-  score: 0
+  grade: 0
   content:
   -
     topic : pic
