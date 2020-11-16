@@ -24,7 +24,7 @@ forum:
   type             : eachuser
   assessed         : 1
   grade            : 9
-  gradecat         : 686
+  # gradecat         : 686
   groupmode        : 0
   # groupingid       : 128
   # attempts         : 1
@@ -49,8 +49,8 @@ studentquiz:
   overduehandling : 0
   shuffleanswers   : 1
 quiz:
-  timeopen         : 1
-  timeclose        : $(date --date='2026-06-17 15:00:00 +0800' +%s)
+  # timeopen         : 1
+  # timeclose        : $(date --date='2026-06-17 15:00:00 +0800' +%s)
   questioncategory : pic
   parentcategory   : 4
   categorycontext  : 25
