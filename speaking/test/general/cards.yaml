@@ -856,13 +856,13 @@ note:
     1:
       identifier: Pen you are given to take notes at 7:30
       quiz:
-        - question: Gwen suggests getting and practicing with the same pen you're given in the test.
+        - question: Gwen suggests getting and practicing with the same pen you’re given in the test.
           answer: True
-        - question: The pen is similar to a pen President Trump uses called a 'Sharpie'.
+        - question: The pen is similar to a pen President Trump uses called a ’Sharpie’.
           answer: True
-        - question: The pen is 'sharp.'
+        - question: The pen is ’sharp.’
           answer: False
-        - question: The pen is 'dull' or 'blunt'.
+        - question: The pen is ’dull’ or ’blunt’.
           answer: True
     2:
       identifier: note incident at 8:40
