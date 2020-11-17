@@ -4,7 +4,7 @@ assign:
   duedate          : $(date --date='2026-04-17 12:00:00 +0800' +%s)
   cutoffdate       : $(date --date='2026-04-17 12:00:00 +0800' +%s) 
   grade            : 9
-  gradecat         : 647
+  # gradecat         : 647
   groupmode        : 1
   # groupingid       : 136 
   decimalpoints    : 0
