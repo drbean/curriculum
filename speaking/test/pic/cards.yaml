@@ -299,20 +299,41 @@ sentence:
     0:
       identifier: Saying something about sentence pictures
       rubric: |+
-        Look at the following 5 pictures. Identify problems with the sentences in the following questions. (The score for each answer is the score this answer would have received in the TOEIC *Writing* test. Note the keywords which must be used in the sentences.)
+        Look at the following 5 pictures. Identify problems with the sentences in the following questions. (The score for each answer is the score this answer would have received in the TOEIC *Writing* test. Note the *keywords*. In the TOEIC Writing test, the keywords must be used in the sentences. There is no requirement you use keywords in the *Speaking* test.)
 
-        * [breakfast croissant](https://www.examenglish.com/TOEIC/images/croissant.jpg)
-        * [clear away](https://www.examenglish.com/TOEIC/images/iStock_000005031231XSmall.jpg)
-        * [hard_hat arm](https://www.examenglish.com/TOEIC/images/iStock_000003120476XSmall.jpg)
-        * [speak refinery/](https://www.examenglish.com/TOEIC/images/iStock_000004418549XSmall.jpg) 
-        * [salesman hand](https://www.examenglish.com/TOEIC/images/iStock_000010498624XSmall.jpg)
+        Try writing sentences before you look at the following question.
+
+        ![breakfast croissant](https://www.examenglish.com/TOEIC/images/croissant.jpg)
+
+        keywords: breakfast croissant
+
+        ![clear away](https://www.examenglish.com/TOEIC/images/iStock_000005031231XSmall.jpg)
+
+        key words: clear away
+
+        ![hard_hat arm](https://www.examenglish.com/TOEIC/images/iStock_000003120476XSmall.jpg)
+
+        key words: hard_hat arm
+
+        ![speak refinery/](https://www.examenglish.com/TOEIC/images/iStock_000004418549XSmall.jpg)
+
+        key words: speak refinery
+
+        ![salesman hand](https://www.examenglish.com/TOEIC/images/iStock_000010498624XSmall.jpg)
+
+        key words: salesman hand
     
 error:
   jigsaw:
     0:
       identifier: the problem with the sentence
       quiz:
-        - question: The worker speak on the cellphone around the refinery.
+        - question: |+
+            ![speak refinery](https://www.examenglish.com/TOEIC/images/iStock_000004418549XSmall.jpg)
+
+            key words: speak refinery
+
+            The worker speak on the cellphone around the refinery.
           option:
             - no problem (=3)
             - grammar error (=2)
@@ -321,16 +342,12 @@ error:
             - hard to understand (=1)
             - not consistent with the picture (=1)
           answer: "grammar error (=2)"
-        - question: I saw the man speaking on his phone in front of the refinery.
-          option:
-            - no problem (=3)
-            - grammar error (=2)
-            - more than one sentence (=2)
-            - has only one or none of the keywords (=1)
-            - hard to understand (=1)
-            - not consistent with the picture (=1)
-          answer: not consistent with the picture (=1)
-        - question: There is a man speaking on the phone in front of the refinery.
+        - question: |+
+            ![speak refinery](https://www.examenglish.com/TOEIC/images/iStock_000004418549XSmall.jpg)
+
+            key words: speak refinery
+
+            There is a man speaking on the phone in front of the refinery.
           option:
             - no problem (=3)
             - grammar error (=2)
@@ -339,7 +356,26 @@ error:
             - hard to understand (=1)
             - not consistent with the picture (=1)
           answer: no problem (=3)
-        - question: The worker seems to have just got off work, because he is facing the construction site.
+        - question: |+
+            ![hard_hat arm](https://www.examenglish.com/TOEIC/images/iStock_000003120476XSmall.jpg)
+
+            key words: hard_hat arm
+
+            I saw the man speaking on his phone in front of the refinery.
+          option:
+            - no problem (=3)
+            - grammar error (=2)
+            - more than one sentence (=2)
+            - has only one or none of the keywords (=1)
+            - hard to understand (=1)
+            - not consistent with the picture (=1)
+          answer: not consistent with the picture (=1)
+        - question: |+
+            ![hard_hat arm](https://www.examenglish.com/TOEIC/images/iStock_000003120476XSmall.jpg)
+
+            key words: hard_hat arm
+
+            The worker seems to have just got off work, because he is facing the construction site.
           option:
             - no problem (=3)
             - grammar error (=2)
@@ -348,7 +384,12 @@ error:
             - hard to understand (=1)
             - not consistent with the picture (=1)
           answer: has only one or none of the keywords (=1)
-        - question: He hits my arm with his hard hat
+        - question: |+
+            ![hard_hat arm](https://www.examenglish.com/TOEIC/images/iStock_000003120476XSmall.jpg)
+
+            key words: hard_hat arm
+
+            He hits my arm with his hard hat
           option:
             - no problem (=3)
             - grammar error (=2)
@@ -357,7 +398,12 @@ error:
             - hard to understand (=1)
             - not consistent with the picture (=1)
           answer: not consistent with the picture (=1)
-        - question: The man wearing a suit carries a hard hat with his arm.
+        - question: |+
+            ![hard_hat arm](https://www.examenglish.com/TOEIC/images/iStock_000003120476XSmall.jpg)
+
+            key words: hard_hat arm
+
+            The man wearing a suit carries a hard hat with his arm.
           option:
             - no problem (=3)
             - grammar error (=2)
@@ -366,7 +412,12 @@ error:
             - hard to understand (=1)
             - not consistent with the picture (=1)
           answer: grammar error (=2)
-        - question: The man is clearing the way to let him drive his car away.
+        - question: |+
+            ![clear away](https://www.examenglish.com/TOEIC/images/iStock_000005031231XSmall.jpg)
+
+            key words: clear away
+
+            The man is clearing the way to let him drive his car away.
           option:
             - no problem (=3)
             - grammar error (=2)
@@ -375,7 +426,12 @@ error:
             - hard to understand (=1)
             - not consistent with the picture (=1)
           answer: no problem (=3)
-        - question: It was a heavy snow day. A man was clearing away snow next to his car.
+        - question: |+
+            ![clear away](https://www.examenglish.com/TOEIC/images/iStock_000005031231XSmall.jpg)
+
+            key words: clear away
+
+            It was a heavy snow day. A man was clearing away snow next to his car.
           option:
             - no problem (=3)
             - grammar error (=2)
@@ -384,7 +440,12 @@ error:
             - hard to understand (=1)
             - not consistent with the picture (=1)
           answer: more than one sentence (=2)
-        - question: I think the man shovels the snow  near his car so he can go out.
+        - question: |+
+            ![clear away](https://www.examenglish.com/TOEIC/images/iStock_000005031231XSmall.jpg)
+
+            key words: clear away
+
+            I think the man shovels the snow  near his car so he can go out.
           option:
             - no problem (=3)
             - grammar error (=2)
@@ -393,7 +454,12 @@ error:
             - hard to understand (=1)
             - not consistent with the picture (=1)
           answer: has only one or none of the keywords (=1)
-        - question: This breakfast includes croissant and there is jam next to it.
+        - question: |+
+            ![breakfast croissant](https://www.examenglish.com/TOEIC/images/croissant.jpg)
+
+            keywords: breakfast croissant
+
+            This breakfast includes croissant and there is jam next to it.
           option:
             - no problem (=3)
             - grammar error (=2)
@@ -402,7 +468,12 @@ error:
             - hard to understand (=1)
             - not consistent with the picture (=1)
           answer: grammar error (=2)
-        - question: Today, I ate a croissant and drank coffee for breakfast.
+        - question: |+
+            ![breakfast croissant](https://www.examenglish.com/TOEIC/images/croissant.jpg)
+
+            keywords: breakfast croissant
+
+            Today, I ate a croissant and drank coffee for breakfast.
           option:
             - no problem (=3)
             - grammar error (=2)
@@ -411,7 +482,12 @@ error:
             - hard to understand (=1)
             - not consistent with the picture (=1)
           answer: not consistent with the picture (=1)
-        - question: Maybe this is a breakfast meal. On the desk are a croissant and honey beside the bread.
+        - question: |+
+            ![breakfast croissant](https://www.examenglish.com/TOEIC/images/croissant.jpg)
+
+            keywords: breakfast croissant
+
+            Maybe this is a breakfast meal. On the desk are a croissant and honey beside the bread.
           option:
             - no problem (=3)
             - grammar error (=2)
