@@ -12,7 +12,15 @@ section:
   summary: Naming the parts of a picture, the things in them and the relationships between them
 ---
 
-# 
+-
+  content:
+  -
+    topic : pic
+    story : slides
+    type  : url
+    form  : 0
+    intro : How to think about ways to approach describing a picture
+    random: 
 
 -
   content:
