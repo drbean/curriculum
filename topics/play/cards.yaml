@@ -84,6 +84,16 @@ equipment:
 game:
   0:
     flash:
+      chess         : chess.jpg
+      checkers      : checkers.jpg
+      jacks         : jacks.jpg
+      marbles       : marbles.jpg
+      cards         : cards.jpg
+      win           : win.jpg
+      lose          : lose.jpg
+      cheats        : cheats.jpg
+  1:
+    flash:
       chess         : 棋
       checkers      : 跳棋
       jacks         : 傑克骨頭
