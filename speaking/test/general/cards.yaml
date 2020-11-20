@@ -896,8 +896,8 @@ note:
             - He wrote notes which weren't English
             - He wrote sentences, rather than words
           answer: He wrote notes before the test started
-        - question: Gwen thought there was no way he would be kicked out.
-          answer: False
+        - question: Gwen thought there was no way he could avoid being kicked out.
+          answer: True
 ielts:
   jigsaw:
     0:
