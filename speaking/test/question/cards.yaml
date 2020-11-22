@@ -4,6 +4,25 @@ slides:
     0:
       identifier: "Slides for Question 4. Respond to questions"
       externalurl: http://drbean.sdf.org/toeic/question.pdf
+topic:
+  jigsaw:
+    0:
+      identifier: Topics that might/might not appear for Questions 4~6
+      quiz:
+        - question: |+
+            Which one of the following topics is NOT likely to appear in this section?
+          option:
+            - School subjects which people study in high school
+            - The role of the stock market in your country
+            - Efforts which people take to protect the environment
+          answer: The role of the stock market in your country
+        - question: |+
+            Which one of the following topics IS likely to appear in the test?
+          option:
+            - Recreation in the evening after work
+            - You and other people's political views
+            - Attitudes to foreigners in your country
+          answer: Recreation in the evening after work
 vacation:
   forum:
     0:
