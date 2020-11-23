@@ -263,9 +263,9 @@ numeric:
 stall:
   forum:
     0:
-      identifier: homework--stall picture description
+      identifier: Recording a stall picture description
       rubric: |+
-        homework--stall picture description
+        Recording a stall picture description
 
         Look at the fruit stall picture in "Question 3:describe a picture". Take 45 seconds to decide what to say. Record a 45-second description.
 
@@ -275,7 +275,7 @@ stall:
 
         Click Participants on the left-hand side of the screen, Find "Dr Bean" on the list. On the "With selected users" menu, click, "Send a message".
     1:
-      identifier: Homework--another stall picture description
+      identifier: Recording another stall picture description
       rubric: |+
         In this part of the test, you will describe the picture on your screen in as much detail as you can . You will have 45 seconds to prepare your response . Then you will have 45 seconds to speak about the picture. Record by clicking the Microphone button in the editor, or attach a sound file, by clicking the Video Camera button in the box to the left. Submit after choosing a good title for the reading (use keywords from the picture!)
 
