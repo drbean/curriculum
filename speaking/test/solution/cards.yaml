@@ -185,7 +185,7 @@ book:
 bankcard:
   essay:
     0:
-      identifier: "Homework: Question 10. Propose a solution for a bank card not returned by ATM"
+      identifier: "Question 10. Propose a solution for a bank card not returned by ATM"
       rubric: |+
         In this part of the test, you will be presented with a problem and asked to propose a solution . You will have 45 seconds preparation time. Then you will have 60 seconds to speak.
 
