@@ -15,7 +15,7 @@ CJKmainfontoptions:
 
 # The fruit stall/stand picture
 
-# Thoughts on listening to the homework
+# Thoughts on listening to your recordings
 
 ## Describe, not create a story
 
