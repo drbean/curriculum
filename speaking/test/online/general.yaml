@@ -89,21 +89,22 @@ section:
     story : note
     type  : jigsaw
     form  : 0
-    intro : Using notes to speak well in test. Before doing this quiz, watch Gwen's explanation at ??
+    intro : |+
+      Using notes to speak well in test. Before doing this quiz, watch Gwen's explanation of the scratch paper at [https://www.youtube.com/watch?v=xk5irxh0K1U](https://www.youtube.com/watch?v=xk5irxh0K1U)
     random: 
   -
     topic : general
     story : note
     type  : jigsaw
     form  : 1
-    intro : Pen with full tip you get
+    intro : Pen with full tip you get. Listen from the 7:30 point to Gwen--[https://www.youtube.com/watch?v=xk5irxh0K1U](https://  +www.youtube.com/watch?v=xk5irxh0K1U)
     random: 
   -
     topic : general
     story : note
     type  : jigsaw
     form  : 2
-    intro : Note-taking incident in test
+    intro : Note-taking incident in test. Listen from the 8:40 point to Gwen--[https://www.youtube.com/watch?v=xk5irxh0K1U](https://  +www.youtube.com/watch?v=xk5irxh0K1U)
     random: 
   
 
