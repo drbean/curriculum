@@ -836,13 +836,13 @@ note:
             - Question 3. Describe a picture
             - Questions 4, 5, 6. Answer questions
           answer: Question 3. Describe a picture
-        - question: How many words in 45 secs?
+        - question: How many words does Gwen say you should you try to write in 45 secs?
           option:
             - 1~5
             - 6~10
             - 11~15
           answer: 6~10
-        - question: When to take notes in Question 10. Propose a solution
+        - question: When to take notes in Part 5, Question 10. Propose a solution?
           option:
             - before listening
             - while listening
