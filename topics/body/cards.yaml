@@ -313,6 +313,16 @@ part:
 move:
   0:
     flash:
+      touch  : touch.jpg
+      walk   : walk.png
+      jump   : jump.jpg
+      run    : run.png
+      floor  : floor.jpg
+      window : window.jpg
+      door   : door.jpg
+      wall   : wall.jpg
+  1:
+    flash:
       touch  : 觸摸
       walk   : 步行
       jump   : 跳
@@ -321,3 +331,14 @@ move:
       window : 窗口
       door   : 門
       wall   : 壁
+  2:
+    flash:
+      stand up : stand-up.jpg
+      sit down: sit_down.png
+      read: read.jpg
+      open: open.jpg
+      close: close.jpg
+      look: look.jpg
+      put down: put_down.jpg
+      pick up: pick-up.jpg
+
