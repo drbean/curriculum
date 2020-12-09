@@ -192,3 +192,10 @@ holiday:
       - "A: Do you know who we are? _B: Well, that's difficult. Your costumes cover your faces._"
       - "A: Thanks for the candy, and happy Halloween! _B: Happy Halloween! Have fun celebrating!_"
     - Happy_Holidays! Merry_Christmas! holiday country example New_Year's_Day Halloween July_4 costumes customs fireworks princess flag vacation hiking party celebrate Trick_or_treat!
+music:
+  0:
+    flash:
+      "W: Have you heard about the music festival next summer?":  "M: I think I did hear someone talking about it."
+      "M: Are you planning on going?": "W: I'll go if I can get tickets."
+      "W: I heard that people are going to line up overnight to get tickets.": "M: I don't think I want to line up all night long!"
+      "M: Do you know how much the tickets are going to cost?": "W: I'm not sure, but I think each ticket will be about 75 dollars."
