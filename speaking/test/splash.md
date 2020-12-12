@@ -1,7 +1,5 @@
 % Splash page
 
-![toeic](splash.jpeg){ width=100% height=100% }
-
 <style>
 body {
   background-image: url('splash.jpeg');
