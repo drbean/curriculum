@@ -11,9 +11,9 @@ body {
 }
 </style>
 
-You're convinced the TOEICC® Speaking Test is a worthwhile test
+You're convinced the TOEIC® Speaking Test is a worthwhile test
 
-You've listened to TOEICC®tests on youtube
+You've listened to TOEIC®tests on youtube
 
 Now click through to record your response to test questions on this site
 
