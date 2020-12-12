@@ -8,12 +8,14 @@ body {
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-size: cover;
+  font-family: arial,helvetica,courier;
+  font-size: 24px;
 }
 </style>
 
-You're convinced the TOEIC(td) Speaking Test is a worthwhile test
+You're convinced the TOEICC® Speaking Test is a worthwhile test
 
-You've listened to actual tests on youtube
+You've listened to TOEICC®tests on youtube
 
 Now click through to record your response to test questions on this site
 
