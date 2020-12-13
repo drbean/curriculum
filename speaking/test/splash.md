@@ -12,11 +12,11 @@ body {
 }
 </style>
 
-You're convinced the TOEIC® Speaking Test is a worthwhile test
+Upload your responses to TOEIC® tests on youtube!
 
-You've listened to TOEIC® tests on youtube
+Do quizzes about test content!
 
-Now click through to record your response to test questions on this site
+And more!
 
-[Let's go](https://toeic.moodlecloud.com)
+[Go!](https://toeic.moodlecloud.com)
 
