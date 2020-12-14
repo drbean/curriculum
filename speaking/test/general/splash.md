@@ -19,15 +19,15 @@ body {
 }
 
 #content {
-  flex: 0 0 240px;
+  flex: 0 0 360px;
 }
 </style>
 
 <div id="container">
   <div id="content">
-Upload your responses to TOEIC® tests on youtube!
+Do TOEIC® Speaking tests!
 
-Do quizzes about test content!
+Do quizzes about TOEIC® Speaking tests!
 
 And more!
 
