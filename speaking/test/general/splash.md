@@ -7,7 +7,7 @@ body {
   background-attachment: fixed;
   background-size: cover;
   font-family: arial,helvetica,courier;
-  font-size: 24px;
+  font-size: 32px;
   color: blue;
 }
 
@@ -31,7 +31,7 @@ Do quizzes about TOEIC® Speaking tests!
 
 And more!
 
-[Go!](https://toeic.moodlecloud.com)
+[Do it!](https://toeic.moodlecloud.com)
   </div>
 </div>
 
