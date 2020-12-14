@@ -12,7 +12,7 @@ body {
 }
 
 #container {
-  color: white;
+  color: red;
   display: flex;
   justify-content: center;
   align-items: center;
