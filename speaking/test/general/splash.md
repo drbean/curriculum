@@ -2,7 +2,7 @@
 
 <style>
 body {
-  background-image: url('man_2.jpeg');
+  background-image: url('splash.png');
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-size: cover;
