@@ -10,7 +10,7 @@ Some attempts to see English wobble, benefiting from conversations on the ##Engl
 * [NuisancePassive](NuisancePassive.html)
 * [AutoAntonym](AutoAntonym.html)
 * [LetCausative](LetCausative.html)
-* [OEDReaders](OEDReaders.html)
+* [OEDReaders](OEDReaders.html) The good, the bad, the indifferent, and the dishonourable
 * [SentenceStress](SentenceStress.html)--Speech aspires to poetry
 * [JoJoe](JoJoe.html) Jo--a girl's name, Joe--a boy's name
 * [PresentPerfect](PresentPerfect.html) Present, Present perfect and past in Japanese and English
