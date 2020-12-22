@@ -8,7 +8,7 @@ And qutebrowser's,
 
 	'Please wait, while qutebrowser is being installed' (from memory).
 
-But nodejs gets it right with,
+But nodejs and pandoc get it right by not messing with the Setup Wizard's default text,
 
 	'Please wait, while the Setup Wizard installs nodejs' (from memory).
 
@@ -46,5 +46,25 @@ I don't think so.
 	'Please wait, while we work on your browser.'
 
 is good.
+
+I  think the continuous tense is not right if the expression means, 'Do X until Y is finished'. But I can't think of a good expression which shows this.
+
+Anyway, this is what the idea of 'aspect' is about.
+
+	'Please use the coupons while they remain valid'
+
+But 'remain' isn't an action verb which can be used in continuous tense.
+
+	'I listen to podcasts while I'm going to work'
+
+is OK, because it doesn't mean listen to them until you get to work. It means 2 things happening at the same time.
+
+	'Please remain seated while the inspector checks tickets.'
+
+But
+
+	'Please remain seated while the inspector is checking tickets.'
+
+doesn't seem wrong.
 
 Return to [WobblyEnglish](WobblyEnglish.html)
