@@ -102,6 +102,13 @@ game:
       win           : 贏得
       lose          : 輸掉比賽
       cheats        : 作弊
+  2:
+    flash:
+      My favorite game is m......: marbles
+      Do you want to play ch... (5 letters): chess
+      I don't like to .....: lose
+      He won the game of ch...... (8 letters): checkers
+      Keri plays c.... (5 letters) with her sister: cards
   bingo:
     - chess checkers jacks marbles cards win lose cheats
     - chess checkers jacks marbles cards win lose cheats race play raining stay_inside piece boring rocks animal_bones throw pick_up
