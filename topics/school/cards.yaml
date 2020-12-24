@@ -270,6 +270,14 @@ report:
       - Ms Dessard is a French language teacher, not a history teacher.                                 _Dessard女士是法國語文老師，不是一個歷史老師。_
       - Ms Dessard said that if we wanted to understand the language, we should understand the culture. _Dessard女士說，如果我們想了解的語言，我們應該理解文化。_
 sports:
+  0:
+    flash:
+      I will be very ....... this afternoon. : busy
+      I usually go ....... every Wednesday. : swimming
+      There was a thunderstorm ....... the night. : during
+      Have you made any plans for the .......? : weekend
+      Do you have ....... money to buy the book? : enough
+      John is on the school chess ....... this year : team
   bingo:
     -
       - Will you play any sports this school year?                                   _你會在這個學年玩任何運動嗎？_
