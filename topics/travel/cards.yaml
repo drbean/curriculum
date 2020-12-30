@@ -138,6 +138,16 @@ campingtrip:
 
   0:
     flash:
+      mosquito    : mosquito.jpg
+      marshmallow : marshmallow.jpg
+      fire        : fire.jpg
+      hiking      : hiking.jpg
+      itchy       : itchy.jpg
+      camping     : camping.jpg
+      sleepy      : sleepy.jpg
+      bite        : bite.jpg
+  1:
+    flash:
       mosquito    : 蚊子
       marshmallow : 棉花糖
       fire        : 火
