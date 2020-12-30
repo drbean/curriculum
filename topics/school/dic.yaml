@@ -205,10 +205,27 @@
     B: I want to be a teacher. I think I would like to help children learn.
     G: Well, you know, teachers work very hard, and they are not paid much money.
     B: I don't care about money. Teaching is an important job.
-  - What|want|you|Mark|to be|I would|children|Well, you|work|hard|and|paid much|I don't|about|Teaching|important|like Ms Kim. She|fun. I didn't|that I would|until I|Now|is my|If you|math, you'll|it well|I got|A on the|last week. With|to be a|too. But I|English
+    G: What subject do you want to teach?
+    B: I want to teach mathematics, like Ms Kim. She makes learning fun.
+    B: I didn't know that I would like math so much until I joined her class. Now, mathematics is my favorite subject.
+    G: If you want to teach math, you'll have to work hard and learn it well.
+    B: No problem! I got an A on the mathematics examination last week. With good teachers like Ms Kim, learning is easy.
+    G: I want to be a teacher, too. But I want to teach English, not math!
+  - What|want|you|Mark|to be|I would|to|children|Well, you|work|hard|and|are|paid much|I don't|about|Teaching|important|like Ms Kim. She|fun. I didn't|that I would|until I|Now|is my|If you|math, you'll|it well|I got|A on the|last week. With|to be a|too. But I|English
 -
   - "teacher-1"
   - "teacher-1"
+  - "topics"
+  - "all"
+  - |+
+    G: What do you want to be when you grow up, Mark?
+    B: I want to be a teacher. I think I would like to help children learn.
+    G: Well, you know, teachers work very hard, and they are not paid much money.
+    B: I don't care about money. Teaching is an important job.
+  - What|want|you|Mark|to be|I would|to|children|Well, you|work|hard|and|are|paid much|I don't|about|Teaching|important|like Ms Kim. She|fun. I didn't|that I would|until I|Now|is my|If you|math, you'll|it well|I got|A on the|last week. With|to be a|too. But I|English
+-
+  - "teacher-2"
+  - "teacher-2"
   - "topics"
   - "all"
   - |+
@@ -218,7 +235,7 @@
     G: If you want to teach math, you'll have to work hard and learn it well.
     B: No problem! I got an A on the mathematics examination last week. With good teachers like Ms Kim, learning is easy.
     G: I want to be a teacher, too. But I want to teach English, not math!
-  - What|want|you|Mark|to be|I would|children|Well, you|work|hard|and|paid much|I don't|about|Teaching|important|like Ms Kim. She|fun. I didn't|that I would|until I|Now|is my|If you|math, you'll|it well|I got|A on the|last week. With|to be a|too. But I|English
+  - What|want|you|Mark|to be|I would|to|children|Well, you|work|hard|and|are|paid much|I don't|about|Teaching|important|like Ms Kim. She|fun. I didn't|that I would|until I|Now|is my|If you|math, you'll|it well|I got|A on the|last week. With|to be a|too. But I|English
 -
   - "home-0"
   - "home-0"
