@@ -301,6 +301,13 @@ principal:
       - I knew that I could do a lot of good as a principal.                 _我知道我可以做一個很好的校長。_
       - I had been planning to do that for some time.                        _我一直計劃這樣做一段時間。_
 teacher:
+  0:
+    flash:
+      Bill is very good at ... He likes numbers.: mathematics
+      "'Exam' is the short form of the word '....'": examination
+      What is your favorite .... in school?: subject
+      My brother is looking for a .... in the city.: job
+      Please .... us for lunch tomorrow afternoon.: join
   bingo:
     -
       - I want to be a teacher. I think I would like to help children learn.   _我想成為一名教師。 我想我想幫助孩子學習。_
