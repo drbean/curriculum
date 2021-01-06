@@ -341,4 +341,13 @@ move:
       look: look.jpg
       put down: put_down.jpg
       pick up: pick-up.jpg
-
+  3:
+    flash:
+      1. window: open_window.jpg
+      1. vase: vase.png
+      1. dog: dog.jpg
+      1. car: car_door.jpg
+      2. window: open_window.jpg
+      2. vase: vase.png
+      2. dog: dog.jpg
+      2. car: car_door.jpg
