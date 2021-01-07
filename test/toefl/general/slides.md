@@ -28,3 +28,18 @@ Last is the Writing section.
 You will complete two writing tasks in 50 minutes by typing your responses into the computer.
 In the first task, you will read a passage and listen to a short lecture, then write your response. You will have 20 minutes to write your response.
 In the second task, you will be asked your opinion on an issue and you will have 30 minutes to write your response.
+
+
+Practice online
+
+The TOEFL® program is offering an exclusive discount on additional official preparation materials to participants in the “TOEFL Test Preparation: The Insider’s Guide” course.
+
+Receive 25% off any TOEFL® Practice Online products at www.ets.org/toefl/shoptestprep(opens new window) through June 14, 2022 by using the following promotional code during checkout:
+
+TOEFLM202012edX 
+
+For targeted practice of the Reading section, we recommend the Reading and Listening Practice Tests. 
+
+Be sure to check the technical requirements before ordering.
+
+All TOEFL® Practice Online products give you the experience of the real TOEFL iBT® test. They are scored by computer, and results are available within 24 hours.
