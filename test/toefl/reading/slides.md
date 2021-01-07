@@ -49,4 +49,37 @@ Answer choice B is incorrect because it states a fact about the Cretaceous extin
 
 Answer choice D is incorrect because it does not relate specifically to the idea of why scientists have always been interested in this particular mass extinction. Rather, it relates to the first sentence of the paragraph discussing the harm that large impacts can cause. That information is important, but it is not the reason why the author talks about the suddenness of the dinosaur extinctions.
 
+Reference questions
+
+Reference Questions
+
+
+Reference questions look similar to Vocabulary questions. A word or phrase is highlighted in the passage, and you are asked what that word refers to.
+
+Usually the word is a pronoun, like “she,” “they” or “it”.
+
+It could also be a relative pronoun, like “which,” “that” or “whom”.
+
+Here's an example of a Reference question, including the excerpt from the passage with the highlighted word.
+
+In classic research Paul Ekman took photographs of people exhibiting the emotions of anger, disgust, fear, happiness, and sadness. He then asked people around the world to indicate what emotions were being depicted in them.
+
+
+The word "them" in the passage refers to:
+
+A.   emotions
+
+B.    people
+
+C.   photographs
+
+D.   cultures
+
+The answer is C, photographs.
+
+
+The sample question is from page 233 of The Official Guide to the TOEFL® Test, Fifth Edition
+
+
+
 
