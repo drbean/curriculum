@@ -82,4 +82,28 @@ The sample question is from page 233 of The Official Guide to the TOEFL® Test, 
 
 
 
+Practice
+Pick two of the following activities and complete them on your own. These activities are based on the tips presented in the Inside the TOEFL® Test videos.
 
+Do an online search to find a list of common Greek and Latin roots, such as 60+ Greek and Latin Prefixes Arranged by Meaning(opens new window). Pick 5 roots, and find the definitions of at least 3 words that use each root.
+Select an article such as "The Heartbreak That May Have Inspired the Telegraph"(opens new window) about Samuel Morse, and outline the main points using one of the outline formats shown at the end of the Prose Summary/Fill in a Table video.
+Using "The Heartbreak That May Have Inspired the Telegraph"(opens new window), find all of the pronouns that aren’t "he" (since most of those obviously refer to Samuel Morse), and determine what nouns they refer to. For example, in this excerpt, you can find the pronoun "it" and determine that it refers to "the invention".
+Soon, all types of news and messages were being tapped out across the country. The invention transformed communication, business, and the idea of news. It sped up the world, cutting the delivery of a message from Washington, D.C., to New Haven from four days to under four seconds.
+
+If you’re looking to practice more and would like additional reading materials that have some similarities to TOEFL® Reading passages in tone and content, here are a few examples (the links will take you outside of the course and the edX platform): 
+
+Articles about archaeology from Smithsonian Magazine:
+
+http://www.smithsonianmag.com/history/archaeology/(opens new window)
+News articles about science and culture from National Geographic:
+
+http://news.nationalgeographic.com/(opens new window)
+An Encyclopedia Britannica article about the history and techniques of mountain climbing:
+
+http://www.britannica.com/topic/mountaineering(opens new window)
+Also, check out these reading survival guides from a university in Australia:
+
+https://www.student.uwa.edu.au/__data/assets/pdf_file/0005/2495696/IE5-Reading-in-English.pdf
+(opens new window)
+https://www.student.uwa.edu.au/__data/assets/pdf_file/0011/2748143/TN3-Read-Effectively.pdf
+(opens new window)
