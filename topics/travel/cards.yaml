@@ -102,6 +102,7 @@ camping:
     - dry wood gather stay wild tents set_up enjoyable meal compass map hiking trails fishing_pole cast line river contest clean scale fries fire
 campingtrip:
   bingo:
+    - mosquito marshmallows fire hiking itchy bite camping sleepy dark fishing grasshopper ant spider eating wash_the_dishes make_breakfast brush_your_teeth 
     - mosquito marshmallows fire hiking itchy bite camping sleepy dark fishing grasshopper ant spider eating wash_the_dishes make_breakfast brush_your_teeth chocolate candy name tree plant sick real snack food big small hot brown hit flies_away wash_your_face bug walk mountain leg stick cold wet scary lost_in_the_forest
     -
       - A mosquito is a small insect which sucks blood.              _蚊子是一種吸蟲的小蟲子。_
@@ -156,6 +157,16 @@ campingtrip:
       camping     : 露營
       sleepy      : 困
       bite        : 咬
+  2:
+    flash:
+      mosquito    : mosquito.jpg
+      bitingmosquito: bitingmosquito.jpg
+      marshmallow : marshmallow.jpg
+      brownmarshmallow : brownmarshmallow.jpg
+      brownmarshmallow2 : brownmarshmallow2.jpg
+      fire        : fire.jpg
+      itchy       : itchy.jpg
+      camping     : camping.jpg
 agent:
   bingo:
     -  trip_to_China  how_long stay four_or_five_days package_tour four_days_and_three_nights fly directly Beijing tour_guide airport take hotel sightseeing famous landmarks Summer_Palace Forbidden_City Great_Wall_of_China sounds_great what_sort transport tour_group book trip sure
