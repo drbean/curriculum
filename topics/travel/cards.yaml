@@ -101,6 +101,12 @@ camping:
     - family leisure activities enjoy movies museums sports together probably chance whole entertainment da_Vinci reminded smile feeling mysterious Mona_Lisa make_up stories grabs
     - dry wood gather stay wild tents set_up enjoyable meal compass map hiking trails fishing_pole cast line river contest clean scale fries fire
 campingtrip:
+  0:
+    flash:
+      George. Wake up. : I'm sleepy. What time is it?
+      Let's go hiking. It's a beautiful day to go hiking. : I just want to sleep. Can we go tomorrow?
+      Go wash your face. I'll make breakfast. :  All right.
+
   bingo:
     - mosquito marshmallows fire hiking itchy bite camping sleepy dark fishing grasshopper ant spider eating wash_the_dishes make_breakfast brush_your_teeth 
     - mosquito marshmallows fire hiking itchy bite camping sleepy dark fishing grasshopper ant spider eating wash_the_dishes make_breakfast brush_your_teeth chocolate candy name tree plant sick real snack food big small hot brown hit flies_away wash_your_face bug walk mountain leg stick cold wet scary lost_in_the_forest
