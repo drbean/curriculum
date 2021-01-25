@@ -1,3 +1,117 @@
+% TOEFL -- General issue
+% Dr Bean (高來圭)
+% Mon, Dec 28, 2020 12:42:55 PM http://github.com/drbean/curriculum/master/toefl
+
+---
+mainfont: latinmodern-math.otf
+#mainfontoptions: 
+#- BoldFont=Font-Bold.otf
+#- ItalicFont=Font-Italic.otf
+#- BoldItalicFont=Font-BoldItalic.otf
+...
+
+# Coronavirus (COVID-19) and TOEFL®
+
+## TOEFL® measures to cope with COVID-19 in the Asia-Pacific
+
+- [https://www.ets.org/s/cv/toefl/asia-pacific/](https://www.ets.org/s/cv/toefl/asia-pacific/)
+
+# The opportunity to teach TOEFL®
+
+## Acceptance of invitation
+
+I am very happy to have been given this opportunity to teach TOEFL®. I think it
+is a good test because the questions replicate the kind of experience you will 
+have in American and other English-speaking countries' classrooms.
+
+I haven't done the test (I did the GRE 30 years ago) so if you have done the 
+test I would appreciate you telling me and the other students what you thought 
+of it.
+
+# Exams
+
+## Midterm, final exams
+
+The plan is to simulate the TOEIC test experience under exam conditions in Week 9, 18 in the computer lab.
+
+I will try to grade your answers the way an actual test rater would score you.
+
+# Looking for sample tests
+
+## Extra credit for students posting links to testing material
+
+Please post links to online TOEIC, TOEFL and IELTS speaking/writing tests
+
+Or books with TOEIC speaking/writing tests.
+
+In the subject line, 2~3 word description, eg Testden test
+
+In the message itself, write the link, eg http:example.com/test/practice_test.pdf
+
+If it is in a book, give the name of the book and authors.
+
+I will give extra credit for posts
+
+# Tests in 台灣
+
+## ETS in 台灣
+
+- [ETS Preferred Associate in Taiwan](http://www.toeic.com.tw/sw/)
+- [Dates](http://www.toeic.com.tw/sw/tests_info.jsp)
+
+## IELTS in 台灣
+
+- [台灣IELTS雅思官方考試中心](http://ieltstaiwan.org)
+
+## GEPT
+
+- [https://www.gept.org.tw/](https://www.gept.org.tw/)
+
+We need to use imagination and information to create complete sentences in the test, so the more information we can write means the more complete sentences we can *tell* in the test.
+
+. . .
+
+tell *someone* *something* eg 
+
+* 'Can you tell me the time?', or
+* 'I told her I loved her.'
+
+say *some sentence* to *someone*
+
+* I said, "No," when she asked.
+
+speak (= utter words), eg
+
+* 'Teachers speak too much and the students don't speak enough.'
+
+talk
+
+ask
+
+## words for speech acts
+
+tell *someone* *something* eg 
+
+* Don't tell other students the answer.
+
+say *some sentence* to *someone*
+
+* I said, "No," when she asked.
+
+speak (= utter words), eg
+
+* 'Teachers speak too much and the students don't speak enough.'
+
+talk (=have a conversation)
+
+* Teachers often tell students to stop talking.
+
+ask (= make a question)
+
+* Students don't ask enough questions.
+
+# [ Final http://web.nuu.edu.tw/~greg/toeic/sample/Full Speaking toeic test 03 _ Practice Speaking toeic test with Answers-64E4yFhUUWQ.mp4](http://web.nuu.edu.tw/~greg/toeic/sample/Full Speaking toeic test 03 _ Practice Speaking toeic test with Answers-64E4yFhUUWQ.mp4)
+
 The TOEFL Test has four sections, Reading, Listening, Speaking, and Writing. All four sections are completed in one testing session, with three hours of testing time.
 
 The first section is Reading.
