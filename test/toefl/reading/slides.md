@@ -1,3 +1,21 @@
+% TOEFL -- Reading
+% Dr Bean (高來圭)
+% Mon, Jan 25, 2021 12:09:51 PM https://github.com/drbean/curriculum/trunk/test/toefl
+
+---
+mainfont: latinmodern-math.otf
+#mainfontoptions: 
+#- BoldFont=Font-Bold.otf
+#- ItalicFont=Font-Italic.otf
+#- BoldItalicFont=Font-BoldItalic.otf
+...
+
+# Other sources besides http://courses.edx.org
+
+[A-plus reading passages 01-70](http://aplus163.com/training/reads/tpoid/1/)
+
+
+
 The first section of the TOEFL iBT®  test is the Reading section.
 
 This section uses reading passages from university-level textbooks that introduce a topic. The passages may have been changed slightly to make them appropriate for testing purposes, but they are real academic materials.
