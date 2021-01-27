@@ -101,7 +101,7 @@ camping:
     - family leisure activities enjoy movies museums sports together probably chance whole entertainment da_Vinci reminded smile feeling mysterious Mona_Lisa make_up stories grabs
     - dry wood gather stay wild tents set_up enjoyable meal compass map hiking trails fishing_pole cast line river contest clean scale fries fire
 campingtrip:
-  0:
+  00:
     flash:
       George. Wake up. : I'm sleepy. What time is it?
       Let's go hiking. It's a beautiful day to go hiking. : I just want to sleep. Can we go tomorrow?
@@ -389,6 +389,14 @@ europe:
       - I wish I could go with you! _Don't feel bad. I'll buy you a souvenir._
       - Here at home, I'll collect some seashells from the beach for you. _Thanks_
 lascruces:
+  0:
+    flash:
+      ... is the opposite direction of north. : south
+      Kuala Lumpur is the capital ... of Malaysia. : city
+      I like eating ... and raisins for a snack. : nuts
+      The post office is ... down this street. You cannot miss it. : directly
+      People eat breakfast in the ... : morning
+      People have dinnter in the ... : evening
   bingo:
     -
       - There aren't any classes on Monday! We have a three-day weekend!  _That's right! Do you have any special plans?_
