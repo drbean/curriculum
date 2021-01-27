@@ -21,6 +21,16 @@ icecream:
 job:
   0:
     flash:
+      firefighter    : firefighter.jpg
+      policeofficer  : policeofficer.jpg
+      doctor         : doctor.jpg
+      nurse          : nurse.jpg
+      chef           : chef.jpg
+      teacher        : teacher.jpg
+      waiter         : waiter.jpg
+      dentist        : dentist.jpg
+  1:
+    flash:
       fire fighter   : 消防員
       police officer : 警官
       doctor         : 醫生
@@ -29,7 +39,7 @@ job:
       teacher        : 老師
       waiter         : 服務員
       dentist        : 牙醫
-  1:
+  2:
     flash:
       photographer     : 攝影師
       pilot            : 飛行員
@@ -39,7 +49,7 @@ job:
       astronaut        : 宇航員
       sailor           : 水手
       business person  : 商務人士
-  2:
+  3:
     flash:
       firefighter    : 消防隊員
       cartoonist     : 漫畫家
