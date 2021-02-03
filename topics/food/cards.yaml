@@ -102,11 +102,21 @@ restaurant:
 salad:
   0:
     flash:
+      dressing  : dressing.jpg
+      lettuce   : lettuce.jpg
+      cucumbers : cucumber.jpg
+      carrots   : carrot.jpg
+      any       : any.jpg
+      onions    : onion.jpg
+      put       : put.jpg
+      forgot    : forgot.jpg
+  1:
+    flash:
       dressing  : 敷料
       lettuce   : 生菜
       cucumbers : 黃瓜
       carrots   : 蘿蔔
-      any:      : 任何
+      any       : 任何
       onions    : 洋蔥
       put       : 放
       forgot    : 忘記
