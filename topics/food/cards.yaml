@@ -122,6 +122,15 @@ salad:
       forgot    : 忘記
   bingo:
     -
+      - dressing  _敷料_
+      - lettuce   _生菜_
+      - cucumbers _黃瓜_
+      - carrots   _蘿蔔_
+      - any       _任何_
+      - onions    _洋蔥_
+      - put       _放_
+      - forgot    _忘記_
+    -
       - Sam is making dinner.                                     _山姆正在做晚餐。_
       - Sam's making a salad.                                     _Sam正在做沙拉。_
       - First, Sam cuts two tomatoes.                             _首先，山姆切兩個西紅柿。_
