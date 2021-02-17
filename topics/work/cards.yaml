@@ -41,6 +41,16 @@ job:
       dentist        : 牙醫
   2:
     flash:
+      photographer     : photographer.jpg
+      photographer-2   : photographer-2.jpg
+      pilot            : pilot.jpg
+      pilot-2          : pilot-2.jpg
+      musician         : musician.jpg
+      singer           : singer.jpg
+      dancer           : dancer.jpg
+      astronaut        : astronaut.jpg
+  3:
+    flash:
       photographer     : 攝影師
       pilot            : 飛行員
       musician         : 音樂家
@@ -49,7 +59,7 @@ job:
       astronaut        : 宇航員
       sailor           : 水手
       business person  : 商務人士
-  3:
+  4:
     flash:
       firefighter    : 消防隊員
       cartoonist     : 漫畫家
