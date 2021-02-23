@@ -389,6 +389,29 @@ europe:
       - I wish I could go with you! _Don't feel bad. I'll buy you a souvenir._
       - Here at home, I'll collect some seashells from the beach for you. _Thanks_
 lascruces:
+  match:
+    0:
+      identifier: las cruces vocab
+      pair:
+        -
+          - south
+          - It only takes 4 hours if you use the freeway and drive directly ... 
+        -
+          - morning
+          - We're going on Saturday ...
+        -
+          - city
+          - My family is taking a trip to Las Cruces, a ... near the Mexican border.
+        -
+          - evening
+          - We'll be back on Monday ...
+        -
+          - directly
+          - It only takes 4 hours if you use the freeway and drive ... south.
+        -
+          - nuts
+          - Las Cruces is famous for its ...
+
   0:
     flash:
       ... is the opposite direction of north. : south
