@@ -120,6 +120,58 @@ salad:
       onions    : 洋蔥
       put       : 放
       forgot    : 忘記
+  match:
+    0:
+      identifier: reverse bingo food.salad.2
+      pair:
+        -
+          - any
+          - any
+        -
+          - carrots
+          - carrots
+        -
+          - dinner
+          - dinner
+        -
+          - forgot
+          - forgot
+        -
+          - good
+          - good
+        -
+          - get
+          - get
+        -
+          - have
+          - have
+        -
+          - home
+          - home
+        -
+          - lettuce
+          - lettuce
+        -
+          - make
+          - make
+        -
+          - OK
+          - OK
+        -
+          - onions
+          - onions
+        -
+          - salad
+          - salad
+        -
+          - something
+          - something
+        -
+          - store
+          - store
+        -
+          - tomatoes
+          - tomatoes
   bingo:
     -
       - dressing  _敷料_
@@ -149,6 +201,7 @@ salad:
       - Oh, no! I forgot the lettuce!                 _不好了！ 我忘了生菜！_
       - No lettuce? Well, we can't make a salad now.  _沒有生菜？ 好吧，我們現在不能做沙拉。_
       - Let's make something else for dinner.         _讓我們做一些別的晚餐。_
+    - baby bad buy carrots cut didn't eat farmers good grew idea kept most people pieces rot small started use want
     -
       - Many farmers grew big carrots.                        _任何農民都生長大胡蘿蔔。_
       - Some big carrots started to rot.                      _一些大胡蘿蔔開始腐爛。_
