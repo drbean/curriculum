@@ -362,6 +362,16 @@ problem:
 thing:
   0:
     flash:
+      pencil-case      : pencil-case.jpg
+      backpack         : backpack.jpg
+      lunch-box        : lunch-box.jpg
+      felt-pen         : felt-pen.jpg
+      scissors         : scissors.jpg
+      pencil-sharpener : pencil-sharpener.jpg
+      box-of-paints    : box-of-paints.jpg
+      glue-stick       : glue-stick.jpg
+  1:
+    flash:
       pencil case      : 鉛筆盒
       backpack         : 背包
       lunch box        : 便當盒
@@ -370,7 +380,7 @@ thing:
       pencil sharpener : 卷筆刀
       box of paints    : 一盒油漆
       glue stick       : 膠棒
-  1:
+  2:
     flash:
       eraser      : 橡皮
       book        : 書
