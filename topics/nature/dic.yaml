@@ -308,11 +308,28 @@
     M: Not really. The leaves used to be very green. Now, most of them have turned brown.
     W: Well, I think your rose bush needs some fertilizer.
     M: OK. What sort of fertilizer do you think I should use?
-    W: This liquid fertilizer is very good. 
+    W: This liquid fertilizer is very good. It will help make your rose leaves green again. Then the plant should produce roses quite soon. The fertilizer costs about ten dollars.
+    M: How long will it take for my rose bush to recover?
+    W: About two weeks, I think.
+    M: Great. I'll take it. Thank you so much for your help.
+    W: You're welcome.
   - Excuse|Ma'am|with|rose|It used|pink|But|doesn't|any|all|I see|That|seem|Do|leaves|plant|healthy|Not really|The|used|be|Now|of|turned|Well|your|needs|OK|What|of|do|should|This|is|good|It|make|rose|green|Then|should|roses|soon|The|costs|dollars|How|it|for my|bush|recover|About|I think|Great|I'll|it|Thank|much|your|You're welcome|end
 -
   - "rose-1"
   - "rose-1"
+  - "topics"
+  - "all"
+  - |+
+    M: Excuse me, Ma'am. I have a problem with my rose bush. It used to produce a lot of pink roses. But now it doesn't produce any roses at all.
+    W: I see. That does seem like a problem. Do the leaves on the plant look healthy?
+    M: Not really. The leaves used to be very green. Now, most of them have turned brown.
+    W: Well, I think your rose bush needs some fertilizer.
+    M: OK. What sort of fertilizer do you think I should use?
+    W: This liquid fertilizer is very good. 
+  - Excuse|Ma'am|with|rose|It used|pink|But|doesn't|any|all|I see|That|seem|Do|leaves|plant|healthy|Not really|The|used|be|Now|of|turned|Well|your|needs|OK|What|of|do|should|This|is|good|It|make|rose|green|Then|should|roses|soon|The|costs|dollars|How|it|for my|bush|recover|About|I think|Great|I'll|it|Thank|much|your|You're welcome|end
+-
+  - "rose-2"
+  - "rose-2"
   - "topics"
   - "all"
   - |+

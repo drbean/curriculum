@@ -456,14 +456,44 @@ recycle:
       "M: Don't worry. You can get your money back when you return the cup." : "W: That's fair."
       "W: Maybe the government is right. Anyway, I'll return all the paper coffee cups I use from now on." : "M: Good! We all need to recycle to keep the environment clean."
 rose:
-  bingo:
-    -
-      - My rose bush used to produce a lot of pink roses. But now it doesn't. _That does seem like a problem._
-      - Do the leaves on the plant look healthy? _Not really. Most of them have turned brown._
-      - What sort of fertilizer do you think I should use? _This liquid fertilizer is very good._
-      - The fertilizer costs about ten dollars.  _Great. I'll take it._
-      - How long will it take for my rose bush to recover?  _About two weeks, I think._
-      - Thank you so much for your help. _You're welcome._
+  match:
+    0:
+      identifier: nature rose cloze
+      pair:
+        -
+          - My rose ... used to produce a lot of pink roses. 
+          - bush
+        -
+          - I have a ... with my rose bush. 
+          - problem
+        -
+          - This ... fertilizer is very good. 
+          - liquid
+        -
+          - How long will it take for my rose bush to ...?
+          - recover
+        -
+          - Well, I think your rose bush needs some ...
+          - fertilizer
+        -
+          - It used to ... a lot of pink roses. 
+          - produce
+        
+
+        
+
+        
+
+        
+        
+  flash:
+    0:
+      "M: My rose bush used to produce a lot of pink roses. But now it doesn't." : "W: That does seem like a problem."
+      "W: Do the leaves on the plant look healthy?" : "M: Not really. Most of them have turned brown."
+      "M: What sort of fertilizer do you think I should use?" : "W: This liquid fertilizer is very good."
+      "W: The fertilizer costs about ten dollars." : "M: Great. I'll take it."
+      "M: How long will it take for my rose bush to recover?" : "W: About two weeks, I think."
+      "M: Thank you so much for your help." : "W: You're welcome."
 photo:
   bingo:
     -
