@@ -394,23 +394,23 @@ lascruces:
       identifier: las cruces vocab
       pair:
         -
-          - south
           - It only takes 4 hours if you use the freeway and drive directly ... 
+          - south
         -
-          - morning
           - We're going on Saturday ...
+          - morning
         -
-          - city
           - My family is taking a trip to Las Cruces, a ... near the Mexican border.
+          - city
         -
-          - evening
           - We'll be back on Monday ...
+          - evening
         -
-          - directly
           - It only takes 4 hours if you use the freeway and drive ... south.
+          - directly
         -
-          - nuts
           - Las Cruces is famous for its ...
+          - nuts
 
   0:
     flash:
