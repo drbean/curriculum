@@ -15,6 +15,7 @@ Some attempts to see English wobble, benefiting from conversations on the ##Engl
 * [JoJoe](JoJoe.html) Jo--a girl's name, Joe--a boy's name
 * [PresentPerfect](PresentPerfect.html) Present, Present perfect and past in Japanese and English
 * [TheGuy](TheGuy.html) *The* guy from San Antonio or *a* guy from San Antonio
+* [TheDefaultReferenceOfThe](TheDefaultReferenceOfThe.html) The reference in 'the store'. Which store? *All/many* stores.
 * [InTransitive ](InTransitive.html) Transitive and intransitive: What is the difference?
 * [ErgativeVerb](ErgativeVerb.html) Challenge: Find 2 in/transitive verbs which go together
 * [TheDealWithWeal](TheDealWithWeal.html) How to pronounce the obsolete word, 'weal'
