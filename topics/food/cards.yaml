@@ -122,56 +122,32 @@ salad:
       forgot    : 忘記
   match:
     0:
-      identifier: reverse bingo food.salad.2
+      identifier: column/row 
       pair:
-        -
-          - any
-          - any
-        -
-          - carrots
-          - carrots
-        -
-          - dinner
-          - dinner
-        -
-          - forgot
-          - forgot
-        -
-          - good
-          - good
-        -
-          - get
-          - get
-        -
-          - have
-          - have
-        -
-          - home
-          - home
-        -
-          - lettuce
-          - lettuce
-        -
-          - make
-          - make
-        -
-          - OK
-          - OK
-        -
-          - onions
-          - onions
-        -
-          - salad
-          - salad
-        -
-          - something
-          - something
-        -
-          - store
-          - store
-        -
-          - tomatoes
-          - tomatoes
+       -
+         - any
+         - column A, row 1.
+       -
+         - carrots
+         - column B, row 4.
+       -
+         - cucumbers
+         - column B, row 2.
+       -
+         - dressing
+         - column A, row 4.
+       -
+         - forgot
+         - column A, row 2.
+       -
+         - lettuce
+         - column B, row 1.
+       -
+         - onions
+         - column A, row 3.
+       -
+         - put
+         - column B, row 3.
   bingo:
     -
       - dressing  _敷料_
@@ -202,6 +178,8 @@ salad:
       - No lettuce? Well, we can't make a salad now.  _沒有生菜？ 好吧，我們現在不能做沙拉。_
       - Let's make something else for dinner.         _讓我們做一些別的晚餐。_
     - baby bad buy carrots cut didn't eat farmers good grew idea kept most people pieces rot small started use want
+    - any carrots dinner forgot good get have home lettuce make OK onions salad something store tomatoes
+
     -
       - Many farmers grew big carrots.                        _任何農民都生長大胡蘿蔔。_
       - Some big carrots started to rot.                      _一些大胡蘿蔔開始腐爛。_
