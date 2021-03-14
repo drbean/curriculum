@@ -52,7 +52,7 @@ Those two senses of suckle: "to nurse a baby at the breast" and "to nurse from t
 I guess it's ergative (labile), rather than an antonym, because the meanings are the same, whereas in cleave the meanings are quite opposite.
 
 tinsoldier
-:	nurse — Verb: 1. (transitive) To breastfeed: to feed (a baby) at the breast; to suckle., 2. (intransitive) To breastfeed: to be fed at the breast., 3. (transitive) To care for (someone), especially in sickness; to tend to., 4. to treat kindly and with extra car
+:	nurse — Verb: 1. (transitive) To breastfeed: to feed (a baby) at the breast; to suckle., 2. (intransitive) To breastfeed: to be fed at the breast., 3. (transitive) To care for (someone), especially in sickness; to tend to., 4. to treat kindly and with extra care
 
 
 Return to [WobblyEnglish](WobblyEnglish.html)
