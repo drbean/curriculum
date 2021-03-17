@@ -327,6 +327,28 @@ date:
       - Saturday afternoon                           _週六下午_
       - Maybe you can have coffee afterwards         _也許你可以有咖啡之後_
 play:
+  match:
+    0:
+      identifier: keyword pairs in text
+      pair:
+        -
+          - I heard about it in class ...
+          - yesterday
+        -
+          - Are you going to the school ... on Saturday?
+          - play
+        -
+          - Can you ... what the school play is?
+          - guess
+        -
+          - Let's go ... so we get good seats.
+          - early
+        -
+          - This is the drama club's ... play of the year.
+          - first
+        -
+          - Ms Martin, our English ..., told us all about it.
+          - teacher
   bingo:
     -
       - Are you going to the school play on Saturday night? _I didn't know there was going to be a play on Saturday night._

@@ -190,10 +190,35 @@
     B: Yes, I heard about it in English class yesterday. I think it will be really good.
     G: Who told you about it?
     B: Ms. Martin, our English teacher, told us all about it. This is the drama club's first play of the year.
+-
+  - "play-1"
+  - "play-1"
+  - "topics"
+  - "all"
+  - |+
+    G: What is the play about? I hope it's nothing boring.
+    B: Can you guess what it is?
+    G: Oh, come on. Tell me please!
+    B: It's the Sound of Music.
+    G: Really? I watched the Sound of Music on TV last month! It's very good! Are you sure?
+    B: Of course I'm sure. That's what Ms Martin said. Would you like to watch the play with me on Saturday night?
+    G: That would be great! Let's go early so we get good seats!
   - Are|to the|on|Saturday|The|I didn't|there|to be|Saturday night|Yes|about|in English class|I think|will|really|Who|about|Ms. Martin|English|told|all|it|This|drama club's|of|What|the|about|it's nothing|Can|what|is|Oh|on|me|It's the Sound of Music|the Sound of Music|TV|It's|good|Are|sure|Of|I'm|that's|Ms. Martin|Would|to|the|with|Saturday|That|be|Let's|so we|seats|End
 -
   - "play-1"
   - "play-1"
+  - "topics"
+  - "all"
+  - |+
+    B: Are you going to the school play on Saturday night?
+    G: The school play? I didn't know there was going to be a play on Saturday night.
+    B: Yes, I heard about it in English class yesterday. I think it will be really good.
+    G: Who told you about it?
+    B: Ms. Martin, our English teacher, told us all about it. This is the drama club's first play of the year.
+  - Are|to the|on|Saturday|The|I didn't|there|to be|Saturday night|Yes|about|in English class|I think|will|really|Who|about|Ms. Martin|English|told|all|it|This|drama club's|of|What|the|about|it's nothing|Can|what|is|Oh|on|me|It's the Sound of Music|the Sound of Music|TV|It's|good|Are|sure|Of|I'm|that's|Ms. Martin|Would|to|the|with|Saturday|That|be|Let's|so we|seats|End
+-
+  - "play-2"
+  - "play-2"
   - "topics"
   - "all"
   - |+
