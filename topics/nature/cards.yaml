@@ -540,6 +540,16 @@ garden:
 
   0:
     flash:
+      potatoes   : potatoes.jpg
+      seeds      : seeds.jpg
+      caterpillar: caterpillar.png
+      daisy      : daisy.jpg
+      because    : because.jpg
+      shovel     : shovel.png
+      weeds      : weeds.jpg
+      dead       : dead.jpg
+  1:
+    flash:
       potatoes   : 土豆
       seeds      : 種子
       caterpillar: 毛蟲
