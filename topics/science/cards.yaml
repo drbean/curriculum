@@ -20,6 +20,28 @@ online:
       - You have to pay for it online with a credit card.                           _你必須用信用卡在網上支付費用。_
 
 water:
+  match:
+    0:
+      identifier: boiling water words in text
+      pair:
+        -
+          - gas
+          - This ... is lighter than the water around it.
+        -
+          - disappear
+          - This gas rises to the top and ... into the air.
+        -
+          - escape
+          - All the bubbles try to ... at once.
+        -
+          - boil
+          - When it starts to ..., the liquid turns into a gas.
+        -
+          - bubbles
+          - Where do the ... come from in boiling water?
+        -
+          - drop
+          - After a while, every ... of the water is gone.
   bingo:
     -
       - Where do the bubbles come from when you boil water?       _當你煮水時，氣泡從哪裡來？_
