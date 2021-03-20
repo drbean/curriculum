@@ -86,3 +86,5 @@ Like road conditions, or some event on the mountain.
 "The weather was rainy" sounds wrong, but "the rainy weather" is OK. And, "It was rainy" is OK.
 
 Thanks to commenters on the ##English channel on the freenode IRC network. Comments there.
+
+Back to [WobblyEnglish](WobblyEnglish.html)
