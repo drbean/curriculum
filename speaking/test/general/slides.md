@@ -14,7 +14,7 @@ mainfont: latinmodern-math.otf
 
 ## TOEIC measures to cope with COVID-19 in France
 
-- [https://www.etsglobal.org/fr/en/blog/news/coronavirus-covid-19-information](https://www.etsglobal.org/fr/en/blog/news/coronavirus-covid-19-information)
+- [https://www.etsglobal.org/fr/en/blog/news/covid-19-and-curfew-information-on-test-sessions](https://www.etsglobal.org/fr/en/blog/news/covid-19-and-curfew-information-on-test-sessions)
 
 # General level issues
 
@@ -22,11 +22,11 @@ mainfont: latinmodern-math.otf
 
 ## Midterm, final exams
 
-The plan is to simulate the TOEIC test experience under exam conditions in Week 9, 18 in the computer lab.
+This course to some degree simulates the TOEIC test experience, which is done on a computer with headphones.
 
-I will try to grade your answers the way an actual test rater would score you.
+Try to grade your answers the way an actual test rater would score you.
 
-Don't be depressed about the course if they are low.
+Don't be depressed about your English if the scores are low.
 
 # Scores
 
@@ -37,9 +37,9 @@ Don't be depressed about the course if they are low.
 A struggling student:
 
 * Tries hard
-* Does all homework
-* In class each week
-* Performs _badly_ on TOEIC practice test Week 9, 18
+* Does homework
+* Accesses course each week
+* Performs _badly_ on TOEIC practice tests
 
 ⇒ A good grade
 
@@ -49,10 +49,10 @@ A returnee from the US where he/she went at age of 7 years:
 
 * Doesn't try hard
 * Does no homework
-* Not in class each week
+* Not accessing the course each week
 * _Aces_ TOEIC practice test Week 9, 18
 
-⇒ Not a good grade, might even fail
+⇒ ot good, might even fail on real test
 
 ## Moral of the story: test success does not equal life success
 
@@ -64,9 +64,9 @@ Look at me! I am an example of superior testing performance, but low life succes
 
 ## But TOEIC speaking/writing test is a good test
 
-The TOEIC listening/reading test this weekend is not good.
+The TOEIC listening/reading test is not good.
 
-- [Page 4 of TOEIC Speaking/Writing Examinee Handbook ](https://www.etsglobal.org/content/download/828/12618/version/5/file/Examinee+Handbook+-+TOEIC+Speaking+and+Writing-LR.pdf)
+- [Page 4 of TOEIC Speaking/Writing Examinee Handbook ](http://web.nuu.edu.tw/~greg/toeic/sample/TOEIC Speaking and Writing tests Examinee Handbook.pdf)
 
 You can get good scores on the TOEIC listening/reading test but not be able to speak any English at all!
 
