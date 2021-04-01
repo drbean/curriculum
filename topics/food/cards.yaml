@@ -253,8 +253,17 @@ balance:
       - "Man: What do you usually eat? _Woman: I only eat salads now._"
       - "Woman: So, what should I eat? _Man: You need some protein and carbohydrates, some cereals, fruits and vegetables, some bread or rice, also milk and dairy products, and some meat._"
 lunch:
-  0:
-    flash:
+  flash:
+    0:
+      cheese sandwich :  cheesesandwich.jpg
+      ham sandwich    :  hamsandwich.jpg
+      orange juice    :  orangejuice.jpg
+      cupcake         :  cupcake.jpg
+      hot dog         :  hotdog.png
+      yogurt          :  yogurt.jpg
+      apple           :  apple.jpg
+      banana          :  banana.jpg
+    1:
       cheese sandwich :  奶酪三明治
       ham sandwich    :  火腿三明治
       orange juice    :  橙汁
