@@ -19,6 +19,8 @@
   -   [DiscussionSyllabus](DiscussionSyllabus.html)
   -   [CompositionSyllabus](CompositionSyllabus.html)
   -   [Listening exercises](http://web.nuu.edu.tw/~greg/DictationExercises.html)
+  -   [PenpalSetup](PenpalSetup.html) Setting up a penpal program
+  -   [InternetPromise](InternetPromise.html) Language Lab Redux
 - [CurriculumVitae](CurriculumVitae.html)
 - [ChinMin](ChinMin.html)
 - [MyHealth](MyHealth.html)
