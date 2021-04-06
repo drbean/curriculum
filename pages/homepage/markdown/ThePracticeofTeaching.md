@@ -6,20 +6,20 @@ title: 'ThePracticeofTeaching'
 
 +-----------------------------------+-----------------------------------+
 |                                   |                                   |
-| Some conceptual issues and points |[TeachingDiary](TeachingDiary.html)|
+| Some conceptual issues and points |[TeacherDiary](TeacherDiary.html)  |
 | of view about why I like teaching |                                   |
 | languages and think it is         |                                   |
 | important:                        |                                   |
 |                                   |                                   |
-| [TeachingPhilosophy](TeachingPhil |                                   |
-| osophy.html)                      |                                   |
+| [TeachingPhilosophy](             |                                   |
+| TeachingPhilosophy.html)          |                                   |
 |                                   |                                   |
-| -   [ThinkingAndDoing](ThinkingAn |                                   |
-| dDoing.html)                      |                                   |
+| -   [ThinkingAndDoing](           |                                   |
+| ThinkingAndDoing.html)            |                                   |
 |                                   |                                   |
 | [BurnOut](BurnOut.html)           |                                   |
 |                                   |                                   |
-| [ClassroomWikiLinks](ClassroomWik |                                   |
-| iLinks.html)                      |                                   |
+| [ClassroomWikiLinks](             |                                   |
+| ClassroomWikiLinks.html)          |                                   |
 |                                   |                                   |
 +-----------------------------------+-----------------------------------+
