@@ -61,3 +61,26 @@ They will feel uncertainty that they are taking a big risk if their grade is goi
 
 It will be difficult for me to answer the questions they may ask. I may not be satisfied with the questions they want to ask. We will have to negotiate the questions.
 
+3/25
+
+: The students are doing some quick writing. I will do some thinking about experimentation. These are the control group. I didn't talk about experimentation. I asked them to write some comments about their writing. Writing about writing.
+
+I need this partly because I have put this in the midterm exam. The midterm is made up of 50 percent grammar, 50 percent of mindmap, essay, comments on the essay.
+
+I can ask them to comment without asking them to make this a focus, without putting them in the driver's seat, suggesting they are in the driver's seat. Some may put them in the seat. But that's to be expected, if experimentation is the right way to learn.
+
+I then did Exercise 4 of Chapter 8, page 110: Concepts usable to discuss housing.
+
+I got them first however to read with a partner and then read with a different partner, but add the things they didn't write in the 10-minute quick writing.
+
+I'm not getting them to write an essay again, a different essay, as a watercolor painter.
+
+What does this have to do with the experiment? I think I need to give an account of what I was doing.
+
+How are the two groups different?
+
+I said five minutes before the end, 'Stop. Draw a line, and write a very short comment about your essay. And I will reply.'
+
+↑ 'A dialogue about your essay', I wrote on the board.
+
+I can't say anything I wrote.
