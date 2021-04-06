@@ -57,7 +57,7 @@ Is the invitation to experiment with their learning or with their writing?
 
 I will need to be very crystal clear and very convincing with what the invitation is because if I am going to be providing feedback, this feedback will be most likely what is being recorded as their grade in the course.
 
-They will feel uncertainty that they are taking a big risk if their grade is goign to be determined by whether an experiment is successful or not. Perhaps they will prefer safety, the status quo.
+They will feel uncertainty that they are taking a big risk if their grade is going to be determined by whether an experiment is successful or not. Perhaps they will prefer safety, the status quo.
 
 It will be difficult for me to answer the questions they may ask. I may not be satisfied with the questions they want to ask. We will have to negotiate the questions.
 
@@ -73,7 +73,7 @@ I then did Exercise 4 of Chapter 8, page 110: Concepts usable to discuss housing
 
 I got them first however to read with a partner and then read with a different partner, but add the things they didn't write in the 10-minute quick writing.
 
-I'm not getting them to write an essay again, a different essay, as a watercolor painter.
+I'm now getting them to write an essay again, a different essay, as a watercolor painter.
 
 What does this have to do with the experiment? I think I need to give an account of what I was doing.
 
@@ -88,14 +88,14 @@ I can't say anything I wrote.
 
 3/31
 
-: ### The Writing Song
+: #### The Writing Song
 
 | Gotta, gotta try to succeed
 | Maybe if we think hard we will succeed
 | Let's experiment, try things out and see
 | Let's talk about it, ask questions and find out
 
-### Bad habits
+#### Bad habits
 
 | A bad habit I have
 | A bad habit I tried to break but couldn't
