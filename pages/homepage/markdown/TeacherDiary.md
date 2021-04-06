@@ -108,3 +108,25 @@ I can't say anything I wrote.
 | A good habit I have
 |  ----------
 | A good habit I will try out
+
+4/1
+
+: What is the progress of the experiment?
+
+Think I'll have to do a chant with the B class.
+
+What is the experimental treatment?
+
+I was thinking before/during the lesson that I am changing it to dialogue about process. A conversation, they ask questions.
+
+This is because of the difficulty of getting them to respond, or make a commitment.
+
+Which reminds me of college psychology experiment where it was impossible to realize the experimental conditions.
+
+_Is this a reference to my college graduation thesis? I wasn't sure if subjects got the answer to the puzzle I set._
+
+I was able to get some to express what they want. I was at first upset that they didn't understand. They asked me to teach them things: 'How to write a paragraph,' or they said things like, 'You're a good teacher,' rather than asked YN questions. 'How do you say this in English?' would have been a good question?
+
+Some students asked for evaluations of their grammar and I thought this was good.
+
+Do I need to start thinking about having someone else grade papers with midterm coming up.
