@@ -83,4 +83,23 @@ I said five minutes before the end, 'Stop. Draw a line, and write a very short c
 
 ↑ 'A dialogue about your essay', I wrote on the board.
 
+
 I can't say anything I wrote.
+
+3/31
+
+: ### The Writing Song
+
+| Gotta, gotta try to succeed
+| Maybe if we think hard we will succeed
+| Let's experiment, try things out and see
+| Let's talk about it, ask questions and find out
+
+### Bad habits
+
+| A bad habit I have
+| A bad habit I tried to break but couldn't
+| A habit I am ashamed of
+| A good habit I have
+|  ----------
+| A good habit I will try out
