@@ -11,7 +11,7 @@
 
 <!-- end of list -->
 
-- [ThePracticeofTeaching](ThePracticeofTeaching.html)
+- [ThePracticeofTeaching](ThePracticeofTeaching.html) Emotional rocket science for people with high EQ
   -   [TeachingMethodology](TeachingMethodology.html)
   -   [SpeakingSyllabus](SpeakingSyllabus.html)
   -   [WorldAffairsSyllabus](WorldAffairsSyllabus.html)

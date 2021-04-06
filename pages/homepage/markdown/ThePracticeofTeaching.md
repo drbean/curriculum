@@ -1,25 +1,12 @@
 ---
-title: 'ThePracticeofTeaching - Kwiki'
+title: 'ThePracticeofTeaching'
 ---
 
+
+
 +-----------------------------------+-----------------------------------+
-| ::: {.navigation}                 | ::: {.navigation}                 |
-| ::: {#title_pane}                 | ::: {#logo_pane}                  |
-| ThePracticeofTeaching             | ![Kwiki                           |
-| =====================             | Logo](http://momotaro/home/greg/h |
-| :::                               | tml/pics/P1010091cut.JPG "Kwiki") |
-|                                   | :::                               |
-| ::: {#status_pane}                |                                   |
-| ::: {.status}                     | \                                 |
-| :::                               |                                   |
-| :::                               | ::: {#widgets_pane}               |
-| :::                               | ::: {.widgets}                    |
-|                                   | :::                               |
-| -------------------------------   | :::                               |
-|                                   | :::                               |
-| ::: {#content_pane}               |                                   |
-| ::: {.wiki}                       |                                   |
-| Some conceptual issues and points |                                   |
+|                                   |                                   |
+| Some conceptual issues and points |[TeachingDiary](TeachingDiary.html)|
 | of view about why I like teaching |                                   |
 | languages and think it is         |                                   |
 | important:                        |                                   |
@@ -34,11 +21,5 @@ title: 'ThePracticeofTeaching - Kwiki'
 |                                   |                                   |
 | [ClassroomWikiLinks](ClassroomWik |                                   |
 | iLinks.html)                      |                                   |
-| :::                               |                                   |
-| :::                               |                                   |
 |                                   |                                   |
-| -------------------------------   |                                   |
-|                                   |                                   |
-| ::: {.navigation}                 |                                   |
-| :::                               |                                   |
 +-----------------------------------+-----------------------------------+
