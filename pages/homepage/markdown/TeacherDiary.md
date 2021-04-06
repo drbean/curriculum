@@ -90,10 +90,15 @@ I can't say anything I wrote.
 
 : #### The Writing Song
 
-| Gotta, gotta try to succeed
-| Maybe if we think hard we will succeed
-| Let's experiment, try things out and see
-| Let's talk about it, ask questions and find out
+| Gotta, gotta
+| Try to succeed
+| Maybe if we think hard
+| We will succeed
+
+| Let's experiment
+| Try things out and see
+| Let's talk about it
+| Ask questions and find out
 
 #### Bad habits
 
