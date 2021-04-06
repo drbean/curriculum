@@ -91,14 +91,14 @@ I can't say anything I wrote.
 : #### The Writing Song
 
 | Gotta, gotta
-| Try to succeed
+|    Try to succeed
 | Maybe if we think hard
-| We will succeed
-
+|    We will succeed
+| 
 | Let's experiment
-| Try things out and see
+|    Try things out and see
 | Let's talk about it
-| Ask questions and find out
+|    Ask questions and find out
 
 #### Bad habits
 
