@@ -130,3 +130,56 @@ I was able to get some to express what they want. I was at first upset that they
 Some students asked for evaluations of their grammar and I thought this was good.
 
 Do I need to start thinking about having someone else grade papers with midterm coming up.
+
+4/5
+
+: Tell them I want to keep the books.
+
+4/14
+
+: Louis wants to talk to me.
+
+4/26
+
+: Strange how I am so eager to read my email and so slow to look at my students' essays.
+
+5/4
+
+: I'm going to tell my class about the experiment. Why? Because I'm worried about being unable to realize the experimental conditions--having the students try things out and see. Or because B class did better on the 2-way written roleplay conversation (_of Rinvolucri_) between the pro-lifer and pro-choicer?
+
+In any case I open up the Pandora's box of self-fulfilling prophecy (=Hawthorne effect, etc) Interestingly other classes social psychology book had stuff on self-fulfilling prophecy in Chinese (saw it proctoring their exams).
+
+5/6,5?
+
+: No space for dialogue in book. Did it here with JoJo.
+
+~~~~
+Dr Bean: Do you think the fetus has life?
+
+Jojo:    No. Because I have to spend much money.
+         Why do you want to the bady has life
+
+Dr Bean: No! Do you think the fetus is alive?
+         Are you taking a pro-choice position JoJo? If
+         you are, I'll take a pro-life one.
+
+JoJo:    I am taking a pro-choice position.
+         Because I think that the way is right for the
+         child.
+
+Dr Bean: I don't think you should let the baby die.
+         Everyone has the right to life. Even mothers
+         can't take that away from their children.
+
+JoJo:    Of course. I think that I can sad. But I
+         don't know how the future if the child to
+         life.
+~~~~
+
+5/12
+
+: I wonder if they even understood what experimenting would mean.
+
+I have been thinking about how would I teach action research. Will email ARLIST, other lists.
+
+"I am interested in thoughts, references on teaching (encouraging/  ) action research by students. I teach English in Taiwan to junior college students and I am "
