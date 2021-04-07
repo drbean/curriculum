@@ -357,6 +357,28 @@ play:
       - Are you sure? _Of course I'm sure. That's what Ms Martin said._
       - Would you like to watch the play with me on Saturday night? _That would be great!_
 tomcruise:
+  match:
+    0:
+      identifier: Tom Cruise words
+      pair:
+        -
+          - famous
+          - Tom Cruise is a .... actor.
+        -
+          - actor
+          - The girl doesn't think Tom Cruise is a good .....
+        -
+          - movie
+          - Are you going to the new Tom Cruise .... tonight?
+        -
+          - handsome
+          - Most girls think Tom Cruise is .....
+        -
+          - haircut
+          - The boy got a .... to try to look more like Tom Cruise.
+        -
+          - sleepy
+          - The girl thinks Tom Cruise always looks .....
   bingo:
     -
       - Are you going to the new Tom Cruise movie tonight? _I don't know. It looks kind of boring._
