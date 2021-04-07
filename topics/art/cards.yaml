@@ -329,7 +329,7 @@ date:
 play:
   match:
     0:
-      identifier: keyword pairs in text
+      identifier: keyword pairs in *play* text
       pair:
         -
           - I heard about it in class ...
