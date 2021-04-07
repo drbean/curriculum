@@ -204,7 +204,7 @@ I remember suggesting to the experimental A class they experiment with the secon
 
 Most appropriate with problem-solution rhetorical patterns. But the textbook didn't use it, suggesting it as something to look out for and I didn't either, writing comments in exercise books. I changed it so it did.
 
-Real/Unreal. But is it a pragmatic, interpersonal thing. What is the meaning?
+Real/Unreal. But is it a pragmatic, interpersonal thing? What is the meaning?
 
 No date
 
@@ -212,3 +212,63 @@ No date
 
 | Problem: How to learn English
 | Solution:  .  .   . .
+
+## New chapter New experiment
+
+12/3
+
+: The teacher as language learner
+
+My example is Tim Newfield's pointing the finger to left-hand side of the board or right-hand side of the board to answer as class.
+
+I have been thinking about it since the ETA-ROC conference 11/11-13.
+
+Tried it on 11/25 with 4C and they wouldn't do it, answering questions about:
+
+| 1    2    3    4    5
+| dislike             like
+
+things in the teaching situation, like roll call, lectures, films
+
+Then tried it on 12/2 with 3C for A and B on page 51 of Expressways knockout quiz. One person representing each group.
+
+But changed it when it was difficult to get them to reflect rest of group's opinions by getting them to come to the board physically. Then I had to cut stragglers off.
+
+12/3
+
+: I tried it with 3D, same actitivity, different class and it worked!!
+
+Selected 1/4 as group's representatives and got them to stand up and gave them 2-choice multiple-choice questions. People were wrong had to sit down. No-one was really wrong, but I made some people who were slow or something site down.
+
+I had about 8 questions in book and I made another five. (Listen Expressways p51).
+
+How does this show teacher is language learner? By incorporation into repertoire? By making of mistakes before getting right?
+
+12/14
+
+: But then on 12/10 with 3D, a different actitivity, Listen p68, it didn't work. I think I made everyone stand up, not just representatives.
+
+12/14
+
+: I think I have found the question I want to present on: How to get students to speak in class.
+
+And I thought a lot more about it after waking up early this morning, but it doesn't come to me now.
+
+12/15
+
+: I have to write about what happened in 3D on 12/10 when I tried to get them to speak English.
+
+12/23 **What happened?**
+
+: The day before 12/10 I had been unhappy about how an attempt to give my 3D students pictures cut from a Carrefour catalog had been getting them to do p66 of Expressways II had been disappointing.
+
+I gave each 2 or 3 people in a group 3 of 4 different cards as I remember. The dialogue involved comparing shopping items, one being bigger/quieter/better, etc but also being more expensive.
+
+They didn't do anything with the pictures, even thought there was perhaps a comparison involved. I collected the cards (which had been intended originally with matches to find matches).
+
+Then with 3D I just gave out the cards and asked people to find someone in the room with the match, after I had done the dialogue (listen, repeat and erase).
+
+And they found their partners. Some came up to the front and asked me what to do with them. It was as if they wanted to practice using English. I said they could do the dialogue with their items. And they did them for me, one pair at a time.
+
+Not every pair came up to me. Many were just standing up at the back of the room, just talking.
+
