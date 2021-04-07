@@ -188,7 +188,11 @@ I have been thinking about how would I teach action research. Will email ARLIST,
 
 : Well the experiment is over. At least, the two classes have finished and are about to do the final.
 
-Thus ends the _______. Not with a bang but a whimper. I was intending on 5/12~9 to record the invitation to experiment with "If we put watchdogs in the street, there would be less thievery," ie, second conditional.
+Thus ends the _______. Not with a bang but a whimper. I was intending on 5/12~9 to record the invitation to experiment with
+
+	"If we put watchdogs in the street, there would be less thievery,"
+
+ie, second conditional.
 
 But although I did 5/13 B class, I forgot to record 5/19 A class.
 
