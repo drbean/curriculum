@@ -183,3 +183,28 @@ JoJo:    Of course. I think that I can sad. But I
 I have been thinking about how would I teach action research. Will email ARLIST, other lists.
 
 "I am interested in thoughts, references on teaching (encouraging/  ) action research by students. I teach English in Taiwan to junior college students and I am "
+
+5/24
+
+: Well the experiment is over. At least, the two classes have finished and are about to do the final.
+
+Thus ends the _______. Not with a bang but a whimper. I was intending on 5/12~9 to record the invitation to experiment with "If we put watchdogs in the street, there would be less thievery," ie, second conditional.
+
+But although I did 5/13 B class, I forgot to record 5/19 A class.
+
+In the both classes, there was very little uptake of the second conditional in the first essay and probably the second essay (which I didn't check as I wanted to give the books to the studens so they could look at them prior to the finals. I didn't think it inappropriate that they only got feedback on their first attempts, because this was going to be the topic of the final exam. It was more of their own work than if I had commented on a final draft. Though I don't know if these comments would have had much effect anyway.)
+
+Anyway the second conditional:
+
+I remember suggesting to the experimental A class they experiment with the second conditional.
+
+Most appropriate with problem-solution rhetorical patterns. But the textbook didn't use it, suggesting it as something to look out for and I didn't either, writing comments in exercise books. I changed it so it did.
+
+Real/Unreal. But is it a pragmatic, interpersonal thing. What is the meaning?
+
+No date
+
+: Problem-solution essay continuation
+
+| Problem: How to learn English
+| Solution:  .  .   . .
