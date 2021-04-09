@@ -272,3 +272,142 @@ And they found their partners. Some came up to the front and asked me what to do
 
 Not every pair came up to me. Many were just standing up at the back of the room, just talking.
 
+**Why was I excited by this incident**
+
+I guess because more than I expected happened. They came up to me and asked me what to do next. They were motivated.
+
+**Why did it work?**
+
+Perhaps because they met new people, got up to walk around, didn't know what was happening.
+
+**What didn't work?**
+
+Not everyone was asking or wanted to do the dialogue.
+
+**What will I do as a result?**
+
+1/10
+
+: This is about finger pointing on 12/23, 12/24.
+
+It worked! I used the tape, of the dimes, in the book. I read questions, checked off the right answers in the textbook, I was well prepared. I gave Xmas prize.
+
+Perhaps the listening questions about dimes, nickels, quarters in Expressways II was the right level.
+
+### Next semester
+
+5/16
+
+: I have stopped getting them to point (or respond as class). Why? Was it too difficult to get them to respond?
+
+## Following year, 2000?
+
+3/4
+
+: On February 23,24 I gave 3C, 3D for homework. Write 3 lines about 'how I can get (make) you to speak English'.
+
+This is what they wrote:
+
+3C 8605
+
+Amy	305 1. watch video	2. play funny games	3. listen to tape
+Fanny	323 1. in class interesting	2. play game	3. sing the song
+桃	354 1. You can have test in every class	2. practicing conversation	3. practicing speaking English
+Tammy	317 1. Please teacher speak more clean	2. Speak slow please	3. don't change seat in class, please
+Winniw	329 1. Give me present please	2. Sing English song	3. See English movie
+Sherry	348 1. please speak English slowly	2. please speak some Cheasesnes (Chinese?)	3. say some story
+Victoria	316 1. Don't change our seat every time	2. Speaking cleaner	3. Speaking interest
+Stacy	352 1. choose seat by ourself	2. good friend make a group	3. You try hard already
+Rosa	324 1. It is interesting in class	2. 	3. 
+Aline	321 1. sing a song 	2. interesting	3. no boring
+Lina	331 1. You can speak Chinese and English in class	2. You can speak slowly with us.	3. 
+
+Muriel	311
+
+: 1. Singing the songs
+2. playing the games
+3. listening tape
+
+Bobo	303
+
+: 1. playing games
+2. singing songs
+3. listening tape
+4. watching TV
+
+Ruby	313
+
+: 1. play funny game
+2. listening tape
+3. watch video
+
+Jill	345
+
+: 1. Don't play games
+2. listening tape
+3. watch video
+
+Linda	306
+
+: 1. Don't play games
+2. 
+3. 
+
+Warren	304
+
+: 1. Speak cleaner and loudly
+2. One seat (please don't change the seat in one conversation class. It's boring)
+3. Write the words what you say on the board, please.
+
+楊	310
+
+: 1. Speak easy
+2. Don't change seat. Use one on class
+3. Speak loudly
+4. Speak slowly
+
+Annie	320
+
+: 1. Sir please speak slowly
+2. Please teach more easy word
+3. Please don't change seat
+
+Carolyn	309
+
+: 1. Don't change the seats again and again
+2. Speak clear
+3. Be more interesting
+
+Rachel	314
+
+: 1. Sir you can sing with us
+2. watching video
+3. play game
+
+Rebecca	315
+
+: 1. Don't much team activity
+2. You can teach much pop music
+3. 
+
+Lora	326
+
+: 1. Listen to tape
+2. Talk with classmate. Use English
+3. Write English letter
+
+Sarah	302
+
+: 1. Speak conversation with paner (partner)
+2. Looking for a story than read and speak that
+3. Read the conversation book
+
+Coral	308
+
+: 1. Play English game
+2. Watch English movies
+3. Listen to English music.
+
+
+
+
