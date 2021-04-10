@@ -1,4 +1,70 @@
-f
+---
+# genre: toefl
+dummy:
+  jigsaw:
+    0:
+      identifier: False question
+      quiz:
+        - question: The answer to this question is False.
+          answer: False
+slides:
+  url:
+    0:
+      identifier: "Slides about taking the TOEFL Speaking Test"
+      externalurl: http://drbean.sdf.org/toefl/general.pdf
+introduction:
+  forum:
+    0:
+      identifier: 'Welcome: course arrangements'
+      rubric: |+
+        Welcome to Teach yourself TOEFL
+
+        What can you do on this site? You can practice recording your answers to TOEFL questions, listen to TOEFL test material, learn about the TOEFL test procedure, do quizzes. And more.
+
+        0. You're on the site and can look at some of the material, but without creating a username and password you can't do the quizzes, upload recordings, or write essays.
+        1. To do that, you need to create an account with a password, and then enrol yourself in the Teach Yourself TOEFL course.
+
+        ## Creating an account
+
+        2. Click the Log in button in the top right hand corner, and click the Create new account button at the bottom of the Login page.
+        3. Read (or do not read) and consent to the Privacy and Cookies Policies.
+        4. Choose a Username and Password, and enter an Email address.
+        5. Click on the link in the email sent to your Email address to confirm you want the account created.
+
+        ## Enrolling yourself in the Teach Yourself TOEFL course
+
+        6. Then, login with your Username and Password and on the top page of the Teach Yourself TOEFL Speaking course, in the top right hand corner, you will see a gearwheel.
+        7. Click that gearwheel, and click the Enrol me in this course button which will appear.
+        8. Then in the Enrolment key textbox which appears, type in the key, which is the word, toeic.
+
+        ## Welcome again to Teach yourself TOEFL Speaking.
+
+        9. Familiarize yourself with the different questions in the TOEFL Speaking test.
+
+        10. And do the practice tests at the end.
+
+        If you have problems with the site, you can send me a message on the site.
+
+        Click 'Participants' in the top left-hand corner, find my name (Dr Bean) among the list of students, And then on \"With Selected Users\", choose \"Send a message\"
+
+        The course covers listening, speaking, writing even though students will probably do the TOEFL Writing Test together with the Speaking Test, and speaking and writing do go hand-in-hand. Students feel a greater need to practice speaking, but writing probably has a greater influence on their career success.
+
+handbook:
+  url:
+    0:
+      identifier: The TOEFL iBT® Test Prep Planner
+      externalurl: https://www.ets.org/s/toefl/pdf/toefl_student_test_prep_planner.pdf
+  page:
+    0:
+      identifier: Print the TOEFL iBT® Test Prep Planner, consult it while using the site
+      rubric: |+
+        The TOEFL iBT® Test Prep Planner is downloadable at
+
+        [https://www.ets.org/s/toefl/pdf/toefl_student_test_prep_planner.pdf](ettps://www.ets.org/s/toefl/pdf/toefl_student_test_prep_planner.pdf)
+	or
+
+        [http://web.nuu.edu.tw/~greg/toefl/toefl_student_test_prep_planner.pdf](http://web.nuu.edu.tw/~greg/toefl/toefl_student_test_prep_planner.pdf)
+
 1. The four sections of the TOEFL iBT® test are Reading, Listening, Speaking and Writing.
 
 
