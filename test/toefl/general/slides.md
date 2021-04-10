@@ -18,21 +18,23 @@ mainfont: latinmodern-math.otf
 
 # The opportunity to teach TOEFL®
 
-## Acceptance of invitation
+## On setting up this online course
 
-I am very happy to have been given this opportunity to teach TOEFL®. I think it
-is a good test because the questions replicate the kind of experience you will 
-have in American and other English-speaking countries' classrooms.
+I am very happy to have been given this opportunity to develop a teach-yourself TOEFL® site. I think it is a good test because the questions replicate the kind of experience you will have in American and other English-speaking countries' classrooms.
+
+The test will give you an idea of how difficult studying at an American university will be. If you can do the test successfully, you will be able to do well in American classrooms. If you struggle with the test, you will find studying in the US difficult too.
+
+Your results on the test are not just a gatekeeping device used by schools to arbitrarily decide whether to admit you or reject you. They also are useful for you telling you how prepared you are for studying in an English language environment.
 
 I haven't done the test (I did the GRE 30 years ago) so if you have done the 
 test I would appreciate you telling me and the other students what you thought 
 of it.
 
-# Exams
+# Practice tests
 
-## Midterm, final exams
+## Midterm, final tests
 
-The plan is to simulate the TOEIC test experience under exam conditions in Week 9, 18 in the computer lab.
+The plan is to simulate the TOEIC test experience under test conditions at certain points of the course on the Internet.
 
 I will try to grade your answers the way an actual test rater would score you.
 
@@ -42,15 +44,13 @@ I will try to grade your answers the way an actual test rater would score you.
 
 Please post links to online TOEIC, TOEFL and IELTS speaking/writing tests
 
-Or books with TOEIC speaking/writing tests.
+Or books with TOEFL speaking/writing tests.
 
 In the subject line, 2~3 word description, eg Testden test
 
 In the message itself, write the link, eg http:example.com/test/practice_test.pdf
 
 If it is in a book, give the name of the book and authors.
-
-I will give extra credit for posts
 
 # Tests in 台灣
 
