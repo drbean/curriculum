@@ -408,6 +408,11 @@ Coral	308
 2. Watch English movies
 3. Listen to English music.
 
+3/14
 
+: 
 
-
+| Practitioners just do it; 
+| Reflective practitioners think about what they do
+| Theorist-practitioners talk about what they do
+| Practicing theorists just talk about what they haven't done
