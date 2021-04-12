@@ -408,6 +408,91 @@ Coral	308
 2. Watch English movies
 3. Listen to English music.
 
+Mandy	333
+
+: 1. watch movie
+2. sing song
+3. easy talk conversation
+
+Molly	307
+
+: 1. You could teach us to sing popular song
+2. You could look video like 007 series
+3. You could say small story.
+
+Mavies	332
+
+: 1. sing song
+2. watch movies
+3. play games
+
+Angel	340
+
+: 1. play games
+2. watch movies
+3. sing songs
+
+蔡	336
+
+: 1. Homework too much
+2. Play game
+3. Listen to English music
+
+Whitney	339
+
+: 1. Don't speak too quickly
+2. Don't change the seat too many times
+3. See the movie
+
+Mark	3??
+
+: 1. sing English song
+2. Say English story
+3. Play interest game
+
+Emily	335
+
+: 1. play game
+2. watch TV
+3. listen to English music
+
+Eva	334
+
+: I think
+
+1. see English movie
+2. read magazine
+3. say something use English
+
+Tina	344
+
+: 1. You could see English groam TV
+2. read magazine
+3. listen tape
+
+Jane	349
+
+: 1. Look video
+2. Sing English songs
+3. Read English story books.
+
+Kelly	330
+
+: 1. Play interesting game
+2. See English movies
+3. Say some story
+4. Sing pop English song
+5. Write letter teacher's friend (pen friend)
+
+Charlotte	3??
+
+: 1. You teach us forever
+2. Don't play games
+3. Please speak English slowly
+
+
+
+
 	2012 Note: more will add if time + 3D
 	There are 3 more pages.
 
