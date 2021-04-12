@@ -497,13 +497,43 @@ Then I did quiz similar to matchlines on p135 but got answers wrong.
 
 Questions were like:
 
-| Is this yours?            No, his is over there.
-| Is this his coat?         Yes. It isn't mine.
-| I think that's our dog    No. It's not.
-| over there.
-| Are these her children?
+	Is this yours?            No, his is over there.
+	Is this his coat?         Yes. It isn't mine.
+	I think that's our dog    No. It's not.
+	over there.
+	Are these her children?
 
 I got at least one wrong but collected answers ~~in groups~~ by individuals. (Or did I send people to front?) I was confused at end.
 
+### Results for Liking English, Japanese
 
+Questions were:
+
+	1. Do you like learning English?
+
+	2. Do you like learning Japanese?
+
+	3. Will you contine to learn English and Japanese after you graduate?
+
+Table: 3C 
+
+                        Question 1     Question 2       Question 3 (E and J)
+--------------------   -------------  --------------   ----------------------
+Area 1 (12 students)    8               8              5 and 3
+Area 2 (11 students)    7               9              8 and 3
+Area 3 (11 students)    9               11             10 and 1
+Area 4 (11 students)    4               8              9 and 2
+Total (45 students)     28              36             32 and 9
+
+Table: 3D 
+
+                        Question 1     Question 2       Question 3 (E and J)
+--------------------   -------------  --------------   ----------------------
+Area 1 (10 students)    2               4              2 and 2
+Area 2 (12 students)    3               4              5 and 3
+Area 3 (11 students)    5               6              6 and 2
+Area 4 (11 students)    3               ?              0 and 2
+Total (45 students)     13              18             10 and 15
+
+_The 3D totals for Questions 2,3 seem wrong_
 
