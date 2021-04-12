@@ -408,6 +408,9 @@ Coral	308
 2. Watch English movies
 3. Listen to English music.
 
+	2012 Note: more will add if time + 3D
+	There are 3 more pages.
+
 3/14
 
 : 
@@ -416,3 +419,91 @@ Coral	308
 | Reflective practitioners think about what they do
 | Theorist-practitioners talk about what they do
 | Practicing theorists just talk about what they haven't done
+
+### Journal for 3/8,9 done 3/14
+
+I did the same thing as before. A story about Momoko from a picture book. I have to try to remember what happened or write sooner.
+
+Before 3/8, I realized I had to give roles to everyone (see the message I sent to TESL-L), so I did this in class with 3C. I think I talked to the end of the first hour about roles using OHP (This is new thing I am using in ~~most~~ many classes)
+
+5/16
+
+: ### Journal 9 for 5/10,11 ~~started~~ written 5/16
+
+This is late. I finished Journal 8 on 5/14!! But I do have better recordings. This can be used to crosscheck later.
+
+### Started recording at start
+
+3C 5/10 Started with part of song,
+
+| Gotta gotta try to succeed
+| Maybe if we try hard we will succeed
+| Let's talk about it, Help each other
+| Ask questions and find out
+
+People were absent and drifting in because of Red Cross blood donations. Whether they sang along or not is debatable. I was satisfied however. I enjoyed it. This was more teaching music than teaching English so I'll leave it at that.
+
+Then I started talking about how language learning can be rewarding **and** discouraging. This led into question 1 for a class survey:
+
+	Do you find learning English rewarding (mostly)?
+
+(I've forgotten exact wording.) And question 2:
+
+	Do you find learning Japanese rewarding (mostly)?
+
+I think I tried to elicit a third, but couldn't (Can you think of a question, Lora, that you'd like to ask all of the class/know the answer for?).
+
+So third question was:
+
+	Will you contine to learn Japanese and English after you graduate?
+
+I think I then divided class into cooperative learning group seating arrangement and asked them to find how many out of four in their groups. This was about end of first hour.
+
+During break, I drew up a class survey answer grid. In second hour I explained grid. Each of three groups in an area had responsibility to find out how many in the area for one question *of three*.
+
+They did it better than last time. I was able to note some groups (eg in area D) were not doing work and "urge" them to find out and write up. I don't think I ~~took~~ gave participation points. Third groups divided their answers up into English and Japanese.
+
+Then on to p134, Whose things are these. Did some direct method stuff with three people's textbooks. Then into dialogue and book's sock, sneakers. Walfman? became things I sought out in class and tried to incorporate, but not successfully (as usual).
+
+I did this me & them, A & B, and then got them to do it in pairs, but I've forgotten if I gave them participation points. I think I did. I did in 3D.
+
+I told them this would be the homework, six lines rather than four. Same rubric 3,2. I didn't talk about grammar, though probably will use it to grade.
+
+I've forgotten the end. Did I give quiz or not? I don't think so. How did I end?
+
+Remembered after doing 3D journal. I did charing? They had to sign circular and send around the area. Did it twice.
+
+: 3D 5/11 written 5/16
+
+Turned tape on, started with same song written on the board. Seemed more people there. Mostly quiet, but some singing I think. I think it was shorter than 3C
+
+Then went on to like-language quiz (_survey_?). I think I changed from 'find rewarding' to 'liked.' I couldn't get any other questions, so went with same questions as 3C. I stressed number out of four in group and urged them to do it, but didn't give participation points, I think.
+
+Did we finish this by end of first hour? I don't think so, but am not sure. Did I call break 1-2 minutes early? Things are getting hazy. I can't remember ~~anything~~ much about getting students to survey other groups in area. The more I think, the more comes back. I wrote ~~things~~ grid on board. I had to get down and mix to get them to ask other ~~members~~ groups. I think I did a participation point thing (or at least I should have). Actually this would have been difficult in middle of activity (fairness considering), so perhaps I just did it for dialogue.
+
+[I think my mind must have been on automatic pilot for this lesson. I forgot where I put my pens. At the end I forgot to give homework. I couldn't write down participation points at end for appropriate groups. I ~~did it~~ wrote points after another class. The end of the hour crept up on me and I can remember having trouble getting all my stuff together and getting out to the next class.]
+
+I forgot to turn the tape recorder on in second hour too. Turned it on \____ minutes into the hour.
+
+After writing down class survey results I was surprised how few liked English and little more Japanese. I talked about this with them. More in 3C liked English. What did they say? I checked that groups in fact didn't like English.
+
+I guess we then started up p134 dialogue. I didn't do direct method with textbook first, but tried to incorporate things in classroom into dialog illustration. (Not successfully. One student didn't want me to use their sneakers.)
+
+Substitution drills in pairs with participation points starting at back right hand corner.
+
+~~Then~~ That's right. I forgot I did Action Chains from Jim Wingate's Getting Beginners to Talk (Prentice Hall) (_an object passed around the room with a connected spoken statement_). I don't think they understood why. Once nothing written on paper. Not all returned.
+
+Then I did quiz similar to matchlines on p135 but got answers wrong.
+
+Questions were like:
+
+| Is this yours?            No, his is over there.
+| Is this his coat?         Yes. It isn't mine.
+| I think that's our dog    No. It's not.
+| over there.
+| Are these her children?
+
+I got at least one wrong but collected answers ~~in groups~~ by individuals. (Or did I send people to front?) I was confused at end.
+
+
+
