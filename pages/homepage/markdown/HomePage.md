@@ -22,6 +22,7 @@
   -   [PenpalSetup](PenpalSetup.html) An email penpal program
   -   [InternetPromise](InternetPromise.html) Language Lab Redux
   -   [ProblemGrading](ProblemGrading.html) Immovable object vs irresistible force
+  -   [CLTversusClassManagement](CLTversusClassManagement.html) CLT vs students. Students win.
 - [CurriculumVitae](CurriculumVitae.html)
 - [ChinMin](ChinMin.html)
 - [MyHealth](MyHealth.html)
