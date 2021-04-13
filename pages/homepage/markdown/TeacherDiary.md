@@ -490,11 +490,64 @@ Charlotte	3??
 2. Don't play games
 3. Please speak English slowly
 
+3D 8605
 
+Eva	447
 
+: 1. Let me know vocabulary mean
+2. Speak English slowly
+3. repeat to exercise
+
+Sandy	403
+
+: 1. We don't understand when you speak English. Because teacher speak so quickly and some ことば so difficult ... so ... try to speak slowly or write on blackboard when we don't know what's that mean.
+2. 
+3. 
+
+Rose	410
+
+: 1. Speak easy English
+2. Speak slowly
+3. 
+
+Heidi	439
+
+: 1. Just do it! Don't usually angry
+2. Now is so nice
+3. Speak English slowly down.
+
+Lulu	422
+
+: 1. Speak English slowly please.
+2. Use easy English to teach us
+3. The reading teacher can speak with us.
+
+Katy	419
+
+: 1. 樂(たの)しい in class.
+2. I don't know "how you can make me speak English in class."
+3. or use easy words to teach us.
+
+Ray	411
+
+: 1. Happy in class
+2. I don't know how you can make me speak English.
+3. or use easy words teach us.
+
+Brian	1232
+
+: 1. Speak English slowly please.
+2. Use easy English to teach us
+3. The reading teacher can speak with us
+
+Candy	408
+
+: 1. Dear teacher, I don't like change my seat (席: せき) and you say I don't understand. Maybe you can explain grammar or we can out loud my English.
+2. 
+3. 
 
 	2012 Note: more will add if time + 3D
-	There are 3 more pages.
+	There are 2 more pages.
 
 3/14
 
