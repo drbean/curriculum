@@ -11,7 +11,7 @@
 
 <!-- end of list -->
 
-- [ThePracticeofTeaching](ThePracticeofTeaching.html) Emotional rocket science for people with high EQ
+- [ThePracticeofTeaching](ThePracticeofTeaching.html) High-EQ rocket science
   -   [TeachingMethodology](TeachingMethodology.html)
   -   [SpeakingSyllabus](SpeakingSyllabus.html)
   -   [WorldAffairsSyllabus](WorldAffairsSyllabus.html)
@@ -19,8 +19,9 @@
   -   [DiscussionSyllabus](DiscussionSyllabus.html)
   -   [CompositionSyllabus](CompositionSyllabus.html)
   -   [Listening exercises](http://web.nuu.edu.tw/~greg/DictationExercises.html)
-  -   [PenpalSetup](PenpalSetup.html) Setting up a penpal program
+  -   [PenpalSetup](PenpalSetup.html) An email penpal program
   -   [InternetPromise](InternetPromise.html) Language Lab Redux
+  -   [ProblemGrading](ProblemGrading.html) Immovable object vs irresistible force
 - [CurriculumVitae](CurriculumVitae.html)
 - [ChinMin](ChinMin.html)
 - [MyHealth](MyHealth.html)
