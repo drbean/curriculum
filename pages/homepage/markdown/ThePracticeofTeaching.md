@@ -14,7 +14,7 @@ title: 'ThePracticeofTeaching'
 | [TeachingPhilosophy](             |                                   |
 | TeachingPhilosophy.html)          |                                   |
 |                                   |                                   |
-| -   [ThinkingAndDoing](           |                                   |
+| -   [ThinkingAndDoing](           |[JournalOne](JournalOne.html)      |
 | ThinkingAndDoing.html)            |                                   |
 |                                   |                                   |
 | [BurnOut](BurnOut.html)           |                                   |
