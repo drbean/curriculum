@@ -1,5 +1,7 @@
 % Second week of getting them to do it
 
+### Conversation classes 3/1,2 written 3/2
+
 I can leave out the fourth year class I think. There I am not particularly trying to concentrate on getting them to think about language.
 
 I think I first got them into groups and wrote up the dialogue in the book, _Transformations_ with 12 content words (banking) in Chinese. We did listen-and-repeat a couple of times. Rather I took one role, they took other.
