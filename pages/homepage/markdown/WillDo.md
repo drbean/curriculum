@@ -18,9 +18,11 @@ Is that the same as,
 
 	'We had to do with black and white, 14-inch monitors'?
 
+And,  You can't say, 'I'll do' to mean 'I'm good enough', I don't think.
+
 'I do' is the grammatical use of do as an auxiliary.
 
-And it's intransitive. Usually it's not. Not 'Do!' but 'Do it!'
+And in this case, it's intransitive. Usually it's not. Not 'Do!' but 'Do it!'
 
 Is the 'it'll do' also the auxiliary use?
 
