@@ -27,3 +27,4 @@ Then there's the idiom:
 	A: Can you mail this for me?
 	B: Will do.
 
+Meaning, 'I'll do it'
