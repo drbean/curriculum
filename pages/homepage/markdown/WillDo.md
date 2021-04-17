@@ -10,6 +10,14 @@ I don't think that would be said. 'Was B good enough? Did B do a good job?'
 
 But here B is not doing anything. A is saying B is good enough, in their eyes.
 
+Someone suggested,
+
+	'It will have to do'
+
+Is that the same as,
+
+	'We had to do with black and white, 14-inch monitors'?
+
 'I do' is the grammatical use of do as an auxiliary.
 
 And it's intransitive. Usually it's not. Not 'Do!' but 'Do it!'
