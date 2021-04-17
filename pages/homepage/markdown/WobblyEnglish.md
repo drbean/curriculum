@@ -26,5 +26,6 @@ Some attempts to see English wobble, benefiting from conversations on the ##Engl
 * [JustGetThereJustOnFoot](JustGetThereJustOnFoot.html) "Just Do" vs "Do Just"
 * [WeatherIt](WeatherIt.html) The 'it' in 'It's raining'--Is it a dummy pronoun?
 * [GoOntheMove](GoOntheMove.html) "On the move", "on the go": What is the difference
+* [WillDo](WillDo.html) Strange use of 'do'
 
 Return to [HomePage](HomePage.html)
