@@ -1,4 +1,4 @@
-% Ambiguity of 'just not' or 'not just
+% Ambiguity of 'just not' or 'not just'
 
 tinsoldier
 
