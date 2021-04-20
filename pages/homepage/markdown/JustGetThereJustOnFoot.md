@@ -132,5 +132,6 @@ The other sentence says that all other means of transport will get you there. Al
 
 Thanks to ##English channel commenters for helping with this.
 
+Read [NotJustAPrettyFace](NotJustAPrettyFace.html)
 
 Return to [WobblyEnglish](WobblyEnglish.html)

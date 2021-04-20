@@ -38,3 +38,7 @@ Disambiguating with,
 Perhaps.
 
 In Japanese, disambiguating is done by marking the enemy as topic, I think I read.
+
+Read [JustGetThereJustOnFoot](JustGetThereJustOnFoot.html)
+
+Back to [WobblyEnglish](WobblyEnglish.html)
