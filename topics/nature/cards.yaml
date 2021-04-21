@@ -478,14 +478,12 @@ rose:
         -
           - It used to ... a lot of pink roses. 
           - produce
-        
-
-        
-
-        
-
-        
-        
+        -
+          - '1'
+          - '1'
+        -
+          - '2'
+          - '2'
   flash:
     0:
       "M: My rose bush used to produce a lot of pink roses. But now it doesn't." : "W: That does seem like a problem."

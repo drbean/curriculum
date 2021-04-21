@@ -42,6 +42,12 @@ water:
         -
           - drop
           - After a while, every ... of the water is gone.
+        -
+          - '1'
+          - '1'
+        -
+          - '2'
+          - '2'
   bingo:
     -
       - Where do the bubbles come from when you boil water?       _當你煮水時，氣泡從哪裡來？_

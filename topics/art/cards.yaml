@@ -349,6 +349,12 @@ play:
         -
           - Ms Martin, our English ..., told us all about it.
           - teacher
+        -
+          - '1'
+          - '1'
+        -
+          - '2'
+          - '2'
   bingo:
     -
       - Are you going to the school play on Saturday night? _I didn't know there was going to be a play on Saturday night._
@@ -379,6 +385,13 @@ tomcruise:
         -
           - sleepy
           - The girl thinks Tom Cruise always looks .....
+        -
+          - '1'
+          - '1'
+        -
+          - '2'
+          - '2'
+        
   bingo:
     -
       - Are you going to the new Tom Cruise movie tonight? _I don't know. It looks kind of boring._
