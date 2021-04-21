@@ -503,6 +503,38 @@ photo:
       - There is an outdoor exhibit going on right now. _Really?_
       - Would you like to go with me? _Sure. How about Sunday morning?_
 garden:
+  match:
+    1:
+      identifier: garden position
+      pair:
+        -
+          - top right hand corner.
+          - weeds
+        -
+          - in the middle on the right.
+          - potatoes
+        -
+          - bottom right hand corner.
+          - dead
+        -
+          - in the middle at the top.
+          - daisies
+        -
+          - right in the middle.
+          - 'dead '
+        -
+          - in the middle at the bottom.
+          - caterpillar
+        -
+          - top left hand corner.
+          - because
+        -
+          - in the middle on the left.
+          - shovel
+        -
+          - bottom left hand corner.
+          - seeds
+        
   bingo:
     -
       - Lori is in her garden.                     _Lori在她的花園裡。_
