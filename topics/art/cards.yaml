@@ -429,6 +429,34 @@ twain:
       - Then he said. "I'm so proud to have you on the train, sir."  _然後他說。 "我很高興有你在火車上，先生。"_
       - "Oh? Who am I, I asked. General McClellan.                _哦，我是誰？ 我問。 麥克萊倫將軍。_"
 mask:
+  match:
+    0:
+      identifier: mask picture match
+      pair:
+        -
+          - mask.jpg
+          - mask
+        -
+          - square.png
+          - square
+        -
+          - hands.jpg
+          - hands
+        -
+          - fold.jpg
+          - fold
+        -
+          - scissors.png
+          - scissors
+        -
+          - shapes.png
+          - shapes
+        -
+          - sticky.jpg
+          - sticky
+        -
+          - show.jpg
+          - show
   flash:
     0:
       mask     : 面具
