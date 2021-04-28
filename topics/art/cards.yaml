@@ -400,6 +400,28 @@ tomcruise:
       - Most girls think he's handsome. _None of my friends think he is good looking at all._
       - Hey! I just got a haircut to try to look more like him! _Well, that explains why I don't like your new haircut!_
 craft:
+  match:
+    0:
+      identifier: craft keywords in text
+      pair:
+        -
+          - necklace
+          - Tom made a bead ... for his sister.
+        -
+          - transparent
+          - We string the beads on ... plastic wire.
+        -
+          - pretty
+          - Oh, those earrings are very ...
+        -
+          - beads
+          - We're learning to make jewelry from ... this week.
+        -
+          - earrings
+          - I made a pair of ... for you too, Mom.
+        -
+          - plastic
+          - We string the beads on transparent ... wire.
   bingo:
     -
       - Look at what I'm wearing. _ Well, you're wearing a blue T-shirt and jeans._
