@@ -429,8 +429,8 @@ twain:
       - Then he said. "I'm so proud to have you on the train, sir."  _然後他說。 "我很高興有你在火車上，先生。"_
       - "Oh? Who am I, I asked. General McClellan.                _哦，我是誰？ 我問。 麥克萊倫將軍。_"
 mask:
-  0:
-    flash:
+  flash:
+    0:
       mask     : 面具
       square   : 正方形
       hands    : 手
