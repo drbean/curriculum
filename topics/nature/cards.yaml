@@ -509,31 +509,31 @@ garden:
       pair:
         -
           - top right hand corner.
-          - weeds
-        -
-          - in the middle on the right.
-          - potatoes
-        -
-          - bottom right hand corner.
-          - dead
-        -
-          - in the middle at the top.
           - daisies
         -
-          - right in the middle.
-          - 'dead '
-        -
-          - in the middle at the bottom.
-          - caterpillar
-        -
-          - top left hand corner.
+          - in the middle on the right.
           - because
         -
-          - in the middle on the left.
+          - bottom right hand corner.
+          - weeds
+        -
+          - in the middle at the top.
+          - caterpillar
+        -
+          - right in the middle.
+          - seeds
+        -
+          - in the middle at the bottom.
           - shovel
         -
+          - top left hand corner.
+          - 'because '
+        -
+          - in the middle on the left.
+          - potatoes
+        -
           - bottom left hand corner.
-          - seeds
+          - dead
         
   bingo:
     -
