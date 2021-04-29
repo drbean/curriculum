@@ -239,6 +239,34 @@ fun:
       - I told you so.                                               _我已經告訴過你了_
 
 toy:
+  match:
+    0:
+      identifier: 
+      pair:
+        -
+          - skateboard.jpg
+          - skateboard
+        -
+          - scooter.jpg
+          - scooter
+        -
+          - robot.jpg
+          - robot
+        -
+          - rollerblades.jpg 
+          - roller blades
+        -
+          - basketball.jpg
+          - basketball
+        -
+          - videogame.jpg
+          - video game
+        -
+          - jigsawpuzzle.jpg
+          - jigsaw puzzle
+        -
+          - baseballbat.png
+          - baseball bat
   0:
     flash:
       skateboard   : 滑板
