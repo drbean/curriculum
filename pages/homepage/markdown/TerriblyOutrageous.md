@@ -95,6 +95,23 @@ faux outrage figures prominently.
 
 It quotes Kate Fox, "righteous indignation is one of our [=the English people's] favourite national pastimes, but the feelings expressed are nonetheless genuine”
 
+I think I have a scenario where 'Outrageous!' is a compliment, but it depends on the existence of faux outrage.
+
+Is faux outrage a thing or is it just an accusation directed at those who are returning in kind attacks you have made against them?
+
+| A: That's complete and utter faux outrage!
+| B: Who are you accusing of faux outrage?!
+| A: Oh, yeh!? See how you like it!
+| B: Outrageous!
+
+| Michael Halliday: English is a topic-comment language, kind of.
+| Grammarian: (excitedly feels faux outrage) Outrageous!
+| Michael Halliday: (feels proud) Yeh.
+
+The Chinese student, not having a couple of published papers under his belt, felt 'clouds hanging over him' after inadvertently challenging a tenet of the discipline of social anthropology (my guess).
+
+ Asking other students what 'outrageous' meant, they probably said he had inadvertently challenged a tenet of the discipline of social anthropology, rather than that the prof was complimenting him on his iconoclasm.
+
 Thanks to ##English on the freenode IRC network for comments.
 
 Back to [WobblyEnglish](WobblyEnglish.html)
