@@ -103,9 +103,11 @@ I think I have a scenario where 'Outrageous!' is a compliment, but it depends on
 
 Is faux outrage a thing or is it just an accusation directed at those who are returning in kind attacks you have made against them?
 
+Because people don't say what they mean and mean what they say, I think we can say it exists.
+
 | A: That's complete and utter faux outrage!
-| B: Who are you accusing of faux outrage?!
-| A: Oh, yeh!? See how you like it!
+| B: Who are you attributing faux outrage to?! You're the one!
+| A: Oh, yeh!? See how you like it! Faux outrage!
 | B: Outrageous!
 
 
