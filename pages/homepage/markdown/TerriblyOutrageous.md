@@ -16,11 +16,13 @@ Adam [Schiff](https://en.wikipedia.org/wiki/Adam_Schiff)
 | Melania: You're terrible (smiles)
 | Trump: (Feels proud) Nah.
 
+
 In an alternative scenario,
 
 | Trump: So funny to see little Adam Schitt ..
 | Pelosi: You're terrible!
 | Democrat camp: (Uproar).
+
 
 'You're terrible' is only mild disapproval of action which warrants a greater response.
 
@@ -31,6 +33,7 @@ I was wondering if 'outrageous' is used similarly.
 | A: Those department stores, the prices are a rip-off!
 | B: Outrageous!
 
+
 Ambiguously, are the comment or the prices outrageous?
 
 "When I had to defend my fieldwork project, one of the professors said 'outrageous' two times.  This may have been the first time in history that something like this was said at a place like Oxford."
@@ -39,6 +42,7 @@ Ambiguously, are the comment or the prices outrageous?
 
 | Student: In China, we don't elect the party, the party elects us.
 | Prof: Outrageous.
+
 
 "You're outrageous" could be covert praise?
 
@@ -104,9 +108,11 @@ Is faux outrage a thing or is it just an accusation directed at those who are re
 | A: Oh, yeh!? See how you like it!
 | B: Outrageous!
 
+
 | Michael Halliday: English is a topic-comment language, kind of.
 | Grammarian: (excitedly feels faux outrage) Outrageous!
 | Michael Halliday: (feels proud) Yeh.
+
 
 The Chinese student, not having a couple of published papers under his belt, felt 'clouds hanging over him' after inadvertently challenging a tenet of the discipline of social anthropology (my guess).
 
