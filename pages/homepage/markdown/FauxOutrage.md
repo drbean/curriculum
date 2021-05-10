@@ -1,4 +1,4 @@
-% 'It's an outrage' versus 'You're outrageous'
+% 'It's an outrage' versus 'You're terrible'
 
 Making a distinction that doesn't exist.
 
@@ -15,6 +15,7 @@ Adam [Schiff](https://en.wikipedia.org/wiki/Adam_Schiff)
 | Trump: So funny to see little Adam Schitt ..
 | Melania: You're terrible (smiles)
 | Trump: (Feels proud) Nah.
+| <br>
 
 
 In an alternative scenario,
@@ -22,6 +23,7 @@ In an alternative scenario,
 | Trump: So funny to see little Adam Schitt ..
 | Pelosi: You're terrible!
 | Democrat camp: (Uproar).
+| <br>
 
 
 'You're terrible' is only mild disapproval of action which warrants a greater response.
@@ -32,7 +34,7 @@ I was wondering if 'outrageous' is used similarly.
 
 | A: Those department stores, the prices are a rip-off!
 | B: Outrageous!
-
+| <br>
 
 Ambiguously, are the comment or the prices outrageous?
 
@@ -40,9 +42,9 @@ Ambiguously, are the comment or the prices outrageous?
 
 [https://www.readingthechinadream.com/xiang-biao-excerpts-from-self-as-method.html](https://www.readingthechinadream.com/xiang-biao-excerpts-from-self-as-method.html)
 
-| Student: In China, we don't elect the party, the party elects us.
+| Student: In China, we don't elect a party, the party elects us.
 | Prof: Outrageous.
-
+| <br>
 
 "You're outrageous" could be covert praise?
 
@@ -109,11 +111,13 @@ Because people don't say what they mean and mean what they say, I think we can s
 | B: Who are you attributing faux outrage to?! You're the one!
 | A: Oh, yeh!? See how you like it! Faux outrage!
 | B: Outrageous!
+| <br>
 
 
 | Michael Halliday: English is a topic-comment language, kind of.
 | Grammarian: (excitedly feels faux outrage) Outrageous!
 | Michael Halliday: (feels proud) Yeh.
+| <br>
 
 
 The Chinese student, not having a couple of published papers under his belt, felt 'clouds hanging over him' after inadvertently challenging a tenet of the discipline of social anthropology (my guess).
