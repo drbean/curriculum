@@ -94,3 +94,5 @@ So, 'come on' because like Japanese, 'come' is used for a
 result that feels familiar or preferred and not 'go', 
 because that is used for results that are dispreferred or,
 in some way, 'out'.
+
+Back to [WobblyEnglish](WobblyEnglish.html)
