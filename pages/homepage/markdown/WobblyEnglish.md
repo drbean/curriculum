@@ -30,6 +30,7 @@ Some attempts to see English wobble, benefiting from conversations on the ##Engl
 * [WillDo](WillDo.html) Strange use of 'do'
 * [AKnowledgeableAcknowledgment](AKnowledgeableAcknowledgment.html) The spelling of '-dgeable', '-dgment'
 * [UnaccountablyUncountable](UnaccountablyUncountable.html) Quirks of the un/countable distinction 
-* [TerriblyOutrageous](TerriblyOutrageous.html) Outrageous--the opposite of damning with faint praise
+* [FauxOutrage](FauxOutrage.html) Outrageous--Not damning with faint praise, but praising with strong 'Damn'
+* [ComeAndGo](ComeAndGo.html) Change as movement on timeline with close/far ends
 
 Return to [HomePage](HomePage.html)
