@@ -175,6 +175,13 @@ dishwasher:
       - That sounds easy to use. How much does it cost?                _這聽起來很容易上手。 它要多少錢？_
       - It's on sale this week for \$400.                               _它本週的售價為\$400元。_
 sale:
+  match:
+    0:
+      identifier: sale translations
+      pair:
+        -
+          - sale
+          - 大賤賣
   bingo:
     -
       - We are having a summer sale. Everything is 50 percent off the normal price. _Really? Everything?_
