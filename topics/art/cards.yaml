@@ -422,6 +422,27 @@ craft:
         -
           - plastic
           - We string the beads on transparent ... wire.
+    1:
+      identifier: craft translations
+      pair:
+        -
+          - necklace
+          - 項鍊
+        -
+          - transparent
+          - 透明
+        -
+          - pretty
+          - 漂亮
+        -
+          - beads
+          - 珠子
+        -
+          - earrings
+          - 耳環
+        -
+          - plastic
+          - 塑料
   bingo:
     -
       - Look at what I'm wearing. _ Well, you're wearing a blue T-shirt and jeans._
