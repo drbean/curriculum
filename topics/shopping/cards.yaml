@@ -182,6 +182,27 @@ sale:
         -
           - sale
           - 大賤賣
+    1:
+      identifier: sale conversation continuations
+      pair:
+        -
+          - "W: We are having a summer sale. Everything is 50 percent off the normal price."
+          -  "M: Really? Everything?"
+        -
+          - "W: Everything is on sale, including sunglasses, hats and bags."
+          - "M: I do need some new sunglasses."
+        -
+          - "M: What is the price of these? There is no price tag on them."
+          - "W: There's no price tag on them because they're mine!"
+        -
+          - "M: Where did you get these sunglasses?"
+          - "W: Actually, I got them for 15 dollars at Super Glasses."
+        -
+          - "M: There is a Super Glasses store in this mall, isn't there?"
+          - "W: Yes, but let me show you the sunglasses we have on sale." 
+        -
+          - "W: Let me show you the sunglasses we have on sale."
+          - "M: No, thanks. I think I'll just go to Super Glasses!" 
   bingo:
     -
       - We are having a summer sale. Everything is 50 percent off the normal price. _Really? Everything?_
