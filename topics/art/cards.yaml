@@ -500,6 +500,27 @@ mask:
         -
           - show.jpg
           - show
+    3:
+      identifier: bingo.mask.3
+      pair:
+        -
+          - Many people like masks.
+          - 許多人喜歡面具。
+        -
+          - People tell stories with masks.
+          - 人們用面具講故事。
+        -
+          - Masks can be big or small.
+          - 面具可以大或小。
+        -
+          - People can wear very small masks on their hands.
+          - 人們可以在他們的手上戴上非常小的面具。
+        -
+          - Some masks are bigger than people.
+          - 一些面具比人大。
+        -
+          - People can hide behind very big masks.
+          - 人們可以躲在非常大的面具後面。
   flash:
     0:
       mask     : 面具
