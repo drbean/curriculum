@@ -474,6 +474,37 @@ twain:
 mask:
   match:
     0:
+      identifier: position matching mask 0, now 1
+      pair:
+        
+        -
+          - top right hand corner.
+          - scissors
+        -
+          - in the middle on the right.
+          - fold
+        -
+          - bottom right hand corner.
+          - shapes
+        -
+          - in the middle at the top.
+          - nothing
+        -
+          - right in the middle.
+          - hands
+        -
+          - in the middle at the bottom.
+          - mask
+        -
+          - top left hand corner.
+          - show
+        -
+          - in the middle on the left.
+          - square
+        -
+          - bottom left hand corner.
+          - sticky
+    1:
       identifier: mask picture match
       pair:
         -
