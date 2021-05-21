@@ -32,5 +32,6 @@ Some attempts to see English wobble, benefiting from conversations on the ##Engl
 * [UnaccountablyUncountable](UnaccountablyUncountable.html) Quirks of the un/countable distinction 
 * [FauxOutrage](FauxOutrage.html) Outrageous--Not damning with faint praise, but praising with strong 'Damn'
 * [ComeAndGo](ComeAndGo.html) Change as movement on timeline with close/far ends
+* [TakeThisOpportunity](TakeThisOpportunity.html) Recognition/appreciation of other's role in speakers' action
 
 Return to [HomePage](HomePage.html)
