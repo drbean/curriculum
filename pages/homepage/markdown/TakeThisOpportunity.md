@@ -5,11 +5,12 @@ On
 , there are 108 hits for 'giving me the opportunity' and 33 for 'giving me the chance', many associated with acts of thanking.
 
 The difference is:
+
 | opportunity: formal,
 | chance: informal?
 <br>
 
-I think talking about a chance/opportunity provided by someone else is a recognition/appreciation of someone else's role in something the speaker's doing.
+I think talking about a chance/opportunity provided by someone else to do something is a recognition/appreciation of someone else's role in something the speaker's doing.
 
 So a kind of causative, like 'let'.
 
@@ -30,8 +31,14 @@ Or,
 	'When in Beijing, we didn't get the chance to visit the Great Wall.'
 
 Recognition of some outside actor helping or preventing something the speaker did/didn't do?
-'
+
+But no outside actor is evident.
+
 	'When in Beijing, we weren't able to visit the Great Wall'
+
+is similar.  But not, 
+
+	'When in Beijing, (they) did/didn't let us visit the Great Wall'
 
 What about a tour operator saying,
 
@@ -43,7 +50,6 @@ A tourist says,
 	'We didn't get the chance to pat the lions on the head.'
 	'We weren't allowed to pat the lions on the head.'
 	'They didn't let us pat the lions on the head.'
-
 
 What about, 
 
