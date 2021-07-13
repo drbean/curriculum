@@ -4,7 +4,7 @@ Contemporary approaches to the teaching of English emphasize the instrumentality
 
 If this was in part a result of modern developments in the understanding of language, it was also a reaction to the failure of traditional approaches to teaching which were based on more academically-oriented understandings of scholars interested in language as a thing in itself, intent on stripping away from the study of language everything which was not language, and intent not to see language as a means to an end, but rather to regard language study as an end in itself.
 
-Traditional approaches to teaching language (like audiolingualism) failed to involve learners who, while motivated to learn and perhaps academically oriented, were not interested in a scholarly understanding of language as a thing in itself, not in strippign away from the study of language everything which was not language.
+Traditional approaches to teaching language (like audiolingualism) failed to involve learners who, while motivated to learn and perhaps academically oriented, were not interested in a scholarly understanding of language as a thing in itself, not in stripping away from the study of language everything which was not language.
 
 But while the contemporary approaches have been successful with the traditional type of language student, the increasing pressure put on education systems in East Asia and elsewhere to give all students a basic competence in English, eg the ability to carry out conversations in the language, has presented a challenge. With lower-level students unmotivated to learn, the communicative approach is a call to subvert the curriculum.
 
@@ -20,4 +20,6 @@ But when as part of a cooperative-learning-based, testing-focused approach adopt
 
 Instead he instituted a heavy dose of _assessment_ to instil a sense of accountability, to impress upon students the necessity of speaking English and to inculcate groupwork ideals.
 
-But reversion was always a step back to take two steps forward.
+But he never tried testing pairs (except as an exam procedure) for classroom management reasons. (Focusing on pairs was incompatible with control of the whole class).
+
+Reversion was always a step back to take two steps forward.
