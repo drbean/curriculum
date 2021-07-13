@@ -546,8 +546,142 @@ Candy	408
 2. 
 3. 
 
-	2012 Note: more will add if time + 3D
-	There are 2 more pages.
+Jean 418
+
+1. Speak English slowly
+2. I don't know, but now is very good
+3. teaches grammar
+
+Fanny 428
+
+1. Speak English slowly
+2. Use easy English teach us
+3. Usually take exercise
+
+Sandia 436
+
+1. Please teacher speaks English  slowly & I not question. Teacher is good teacher.
+
+Cindy 420
+
+Teacher I hope teacher teach me. When you can speak to slowly & teach interesting things or easy conversation. But you is very good teacher. I am very like. PS I look forward to teacher's change. Cindy
+
+Vicky 432
+
+1. Uses easy English teach us
+2. Usually tak exercise
+3. Speak English slowly.
+
+Sara 405
+
+1. Speak English slowly
+2. Uses easy English teach us
+3. I don't know but now is very good.
+
+Joy 417
+
+1. You can let us stand up then let us speak English. I think if you do this one, that's OK.
+
+MiuMiu 429
+
+1. Sometimes can use Chinese to explain
+2. Play easy game
+3. sing song
+
+Sabrina 406
+
+1. Play some interesting game
+2. repeat after you
+3. one by one conversation
+
+Lynn 427
+
+1. Teacher when you speaking English the speed is so quickly. Then we always don't understand your mean and questions.
+
+Penny 413
+
+1. Use easy English to us
+2. It usually talk to us
+3. Let's speak English slowly
+
+Joyes 444
+
+Teacher: You teach us very good! I very like this subject. I hope you can say some easy world. Because I don't understand. Thanks Very Thanks.
+
+Karen 407
+
+Please teacher speaks English slowly. Please use easy vocabulary.
+
+Maggie 448
+
+1. Teacher you speak English so quickly.
+2. Sometimes we don't know teacher's English mean. So you can explain
+3. Teacher's game. I don't understand so I am feel boring.
+
+Ruby 415
+
+1. You can speak easy English to us.
+2. できるだけ let me understand your mean. Because my English is not good. Teacher, Thank you very much
+
+Renee 450
+
+Dear teacher, My English is very bad, but I am very good student, so I hope you don't frie (fail?) me. Sometimes I don'T know what are you saying because you speak English too fast. Very very thank you very much.
+
+Meka 438
+
+Dear teacher you look like Mr Bean, so very cute. You teach conversation in our class. We are very happy. Teacher teach very hard and very fun. I very like it. But you sometimes speak too fast. We don't understand. You can use some easy Japeness (Japanese) to write up some important words and then play it again. I hope teacher can often play very fun games in our class. Thank you. Thank you teach our class. I very like you. You so cute.
+
+Stady 446
+
+Dear teacher, We are very happy. Because you teach very very great. Sometimes you speak too fast we don't know. So you can slow down OK. Thank you verry very much.
+
+Angela 412
+
+1. YOur teaching is vivid and fine.
+2. You are kind to people modest.
+3. You are able to give us proper amount of exercise.
+
+Mark 1213
+
+1. take to (talk?) very each English
+2. spend English please.
+3. play the game
+
+Rita 401
+
+Teacher when you speaking English the speed is so quickly, that we always don't understand your mean and questions (Lynn 427 dupe)
+
+June 442
+
+Teacher when you speaking English, the speed is so quickly that we always don't understand your mean and questions (Lynn 427 dupe)
+
+Rosa 449
+
+1. Bring more candies next time
+2. You are able to give us proper amount of exercise
+3. Your exam will be as easy as before
+
+Mayli 443
+
+1. Uses easy English teach us
+2. It usually talk exercise
+3. Speak English slowly
+
+Ellen 431
+
+1. To practice conversation
+2. Use easy English teach us.
+
+Ivy 424
+
+1. Uses easy English teach us
+2. It usually take exercise
+3. Speak English slowly.
+
+Connie 425
+
+Teacher when you speaking English the speed sometimes is so quickly. We are play game in class. This is teacher's 方法.
+
 
 3/14
 
