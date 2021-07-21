@@ -6,7 +6,7 @@ I played the 3 tapes 3 times. I don't think they really had a good idea of which
 
 Then what happened? This was after listening to their own tapes in areas or before?
 
-I don't know if this was --after-- next or near the end, but I felt the need for another quiz. This was improvised. The week before I hadn't done any quiz. Getting them to record again rather than working on a quiz was probably the reason for this. I want--ed-- to continue with quizzes. I'm grading each week and posting continuing grade situation on the wall.
+I don't know if this was ~~after~~ next or near the end, but I felt the need for another quiz. This was improvised. The week before I hadn't done any quiz. Getting them to record again rather than working on a quiz was probably the reason for this. I want~~ed~~ to continue with quizzes. I'm grading each week and posting continuing grade situation on the wall.
 
 The quiz: 
 
@@ -16,7 +16,7 @@ The quiz:
 
 Give yourself a score out of 3.
 
-Probably before this I talked about recording again for homework. "I'm afraid I won't be able to work this weekend." p96. Names on tapes, tape boxes, etc. I started by thinking, Make their own situation--Expressways find drill--but suddenly changed my mind to keep in step with 3D, who had done only one drill instead of all 5 like 3C, and because I hadn't prepared them for doing guided role play rather than just drill. Although they did it last semester in class when I --gave them the-- went round and graded it.
+Probably before this I talked about recording again for homework. "I'm afraid I won't be able to work this weekend." p96. Names on tapes, tape boxes, etc. I started by thinking, Make their own situation~~Expressways find drill~~but suddenly changed my mind to keep in step with 3D, who had done only one drill instead of all 5 like 3C, and because I hadn't prepared them for doing guided role play rather than just drill. Although they did it last semester in class when I ~~gave them the~~ went round and graded it.
 
 These questions were similar to the discussion questions, which I didn't think they did. This was getting close to the end. I just collected them. I had the idea of totalling the score with 
 
@@ -45,7 +45,7 @@ Generally the same course of events, but I did only 1 listening exercise, p95 at
 | quiz
 | homework
 
-I can't remember exactly what I wrote or the --exact actual-- order)
+I can't remember exactly what I wrote or the ~~exact actual~~ order)
 
 I talked about how I was "impressed" by the tapes. Why can't you do that in class, I asked. I talked about intonation. How they went:
 
@@ -61,16 +61,16 @@ I also talked about right grammar (plural object pronouns)
 
 (Didn't talk about someone with good intonation as I did in 3C mentioning Linda, who wasn't there in 3C as it turned out.)
 
-Then said areas would play tapes, others would listen & --answer-- (discuss) think about 3 questions:
+Then said areas would play tapes, others would listen & ~~answer~~ (discuss) think about 3 questions:
 
 1. intonation
 2. grammar
 3. fluency (hesitancy: gave example)
 
 
-(or was that for the quiz on the 3 tapes. --Perhaps-- I think I didn't have any questions/ask them to discuss)
+(or was that for the quiz on the 3 tapes. ~~Perhaps~~ I think I didn't have any questions/ask them to discuss)
 
-This went better than 3C. I assigned 4 people in areas to handle the players. Others were to listen, draw closer perhaps. Although player operators were --not-- slow, didn't seek out tapes, finally snatches of conversation were heard in 4 corners. I then stopped them and did the quiz. Same as before, except order of tapes was different and number 1 was best.
+This went better than 3C. I assigned 4 people in areas to handle the players. Others were to listen, draw closer perhaps. Although player operators were ~~not~~ slow, didn't seek out tapes, finally snatches of conversation were heard in 4 corners. I then stopped them and did the quiz. Same as before, except order of tapes was different and number 1 was best.
 
 It required all my concentration to play tapes. I did second listening exercise, talked about next week's homework, collected homework and ended. Lots more homework collected.
 
@@ -87,7 +87,7 @@ Then I started to say, Give score of
 
 but notedsomeone (CArl?) changing answers so stopped and collected quiz slips.
 
-According to what student wrote in --book--, questions for consideration during listening in areas were 
+According to what student wrote in ~~book~~, questions for consideration during listening in areas were 
 
 1. Does my voice sound funny
 2. How can I do better
