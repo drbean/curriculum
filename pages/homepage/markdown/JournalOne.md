@@ -39,7 +39,9 @@ Then I gave them homework. Three lines. How can I make you speak English. (I was
 
 I told them at start to bring tapes next week, but they will only need one per two people. I think I told first class I will not accept late homework. I don't think I told second.
 
-_See experimentation book for answers_
+_See 
+[StudentExpectations](StudentExpectations.html)
+for homework answers_
 
 ### Plan for 3/1-2
 
@@ -48,3 +50,15 @@ Continue with talking about language (I never considered job to be conversationa
 1. Read Chinese and English children's book to them. Short talk about listening to Yoko read. Suggest easy children's book in English.
 2. Imagine reading to friend.
 3. Talk about reading dialogue from book using Walkman.
+
+| Read
+| [JournalZero](JournalZero.html)
+| [JournalOne](JournalOne.html)
+| [JournalTwo](JournalTwo.html)
+| [JournalThree](JournalThree.html)
+| [JournalFour](JournalFour.html)
+| [JournalFive](JournalFive.html)
+| [JournalSix](JournalSix.html)
+| [JournalEight](JournalEight.html)
+| [JournalNine](JournalNine.html)
+| [JournalTen](JournalTen.html)

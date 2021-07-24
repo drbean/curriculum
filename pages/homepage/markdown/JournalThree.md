@@ -1,5 +1,7 @@
 % JournalThree 2000, March 8-9 written on March 14
 
+I did the same thing as before. A/The story about Momotaro from a picture book. I have to try to remember what happened or write sooner. Before March 8, I realized I had to give roles to everyone (see the message I sent to TESL-L). So I did this in class with 3C. I think I talked to the end of the first hour about roles using OHP (This is new thing I am using in ~~most~~ many classes)
+
 ### 3C
 
 ## Roles
@@ -42,3 +44,15 @@ Homework: They did tapes and 3C did more than 3D. Perhaps they are more willing 
 3. We feel so boring.
 4. We don't know what do you say.
 5. We don't know you speak.
+
+| Read
+| [JournalZero](JournalZero.html)
+| [JournalOne](JournalOne.html)
+| [JournalTwo](JournalTwo.html)
+| [JournalThree](JournalThree.html)
+| [JournalFour](JournalFour.html)
+| [JournalFive](JournalFive.html)
+| [JournalSix](JournalSix.html)
+| [JournalEight](JournalEight.html)
+| [JournalNine](JournalNine.html)
+| [JournalTen](JournalTen.html)

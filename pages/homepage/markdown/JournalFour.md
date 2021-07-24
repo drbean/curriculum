@@ -133,3 +133,14 @@ Sandy: Because make ours アクセントよくになります. Because we don't 
 
 31/46,8 books
 
+| Read
+| [JournalZero](JournalZero.html)
+| [JournalOne](JournalOne.html)
+| [JournalTwo](JournalTwo.html)
+| [JournalThree](JournalThree.html)
+| [JournalFour](JournalFour.html)
+| [JournalFive](JournalFive.html)
+| [JournalSix](JournalSix.html)
+| [JournalEight](JournalEight.html)
+| [JournalNine](JournalNine.html)
+| [JournalTen](JournalTen.html)

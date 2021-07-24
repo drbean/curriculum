@@ -32,3 +32,14 @@ Table: Seating charts all classes
 131-124|   221-224|   321-324|  421-424
 131-134|   231-234|   331-334|  431-434
 
+| Read
+| [JournalZero](JournalZero.html)
+| [JournalOne](JournalOne.html)
+| [JournalTwo](JournalTwo.html)
+| [JournalThree](JournalThree.html)
+| [JournalFour](JournalFour.html)
+| [JournalFive](JournalFive.html)
+| [JournalSix](JournalSix.html)
+| [JournalEight](JournalEight.html)
+| [JournalNine](JournalNine.html)
+| [JournalTen](JournalTen.html)
