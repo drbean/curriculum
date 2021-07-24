@@ -11,7 +11,7 @@
 
 <!-- end of list -->
 
-- [ThePracticeofTeaching](ThePracticeofTeaching.html) High-EQ rocket science
+- [ThePracticeofTeaching](ThePracticeofTeaching.html) List of High-EQ rocket science writings
   -   [TeachingMethodology](TeachingMethodology.html)
   -   [SpeakingSyllabus](SpeakingSyllabus.html)
   -   [WorldAffairsSyllabus](WorldAffairsSyllabus.html)
