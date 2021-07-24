@@ -11,15 +11,24 @@ title: 'ThePracticeofTeaching'
 | languages and think it is         |                                   |
 | important:                        |[JournalZero](JournalZero.html)    |
 |                                   |                                   |
-| [TeachingPhilosophy](             |                                   |
+| [TeachingPhilosophy](             |[JournalOne](JournalOne.html)      |
 | TeachingPhilosophy.html)          |                                   |
+|                                   |[JournalTwo](JournalTwo.html)      |
+| -   [ThinkingAndDoing](           |                                   |
+| ThinkingAndDoing.html)            |[JournalThree](JournalThree.html)  |
 |                                   |                                   |
-| -   [ThinkingAndDoing](           |[JournalOne](JournalOne.html)      |
-| ThinkingAndDoing.html)            |                                   |
+| [BurnOut](BurnOut.html)           |[JournalFour](JournalFour.html)    |
 |                                   |                                   |
-| [BurnOut](BurnOut.html)           |                                   |
-|                                   |                                   |
-| [ClassroomWikiLinks](             |                                   |
+| [ClassroomWikiLinks](             |[JournalFive](JournalFive.html)    |
 | ClassroomWikiLinks.html)          |                                   |
+|                                   |[JournalSix](JournalSix.html)      |
+|                                   |                                   |
+|                                   |[JournalSeven](JournalSeven.html)  |
+|                                   |                                   |
+|                                   |[JournalEight](JournalEight.html)  |
+|                                   |                                   |
+|                                   |[JournalNinen](JournalNinen.html)  |
+|                                   |                                   |
+|                                   |[JournalTen](JournalTen.html)      |
 |                                   |                                   |
 +-----------------------------------+-----------------------------------+
