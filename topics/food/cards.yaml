@@ -275,6 +275,16 @@ lunch:
 candy:
   0:
     flash:
+      lollipop   : lollipop.png
+      candy bar  : candybar.jpg
+      cookie     : cookie.jpg
+      jelly bean : jellybean.jpg
+      popsicle   : popsicle.jpg
+      caramel    : caramel.jpg
+      chewing gum  : chewinggum.jpg
+      ice cream  : icecream.jpg
+  1:
+    flash:
       lollipop   : 棒糖
       candy bar  : 糖果條
       cookie     : 曲奇餅
