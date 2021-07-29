@@ -552,6 +552,23 @@ mask:
         -
           - People can hide behind very big masks.
           - 人們可以躲在非常大的面具後面。
+    4:
+      identifier: Unit 18 Masks quiz B 1
+      pair:
+        -
+          - "B: I made something for you."
+          - "G: A mask! It's so pretty."
+        -
+          - "B: Put it on. Let's see how it looks."
+          - "G: OK." 
+        -
+          - "G: Does it look good?"
+          - "B: Yes, I think so."
+        -
+          - "B: Do you like it?"
+          - "G: Yes, I love it."
+          
+                   
   flash:
     0:
       mask     : 面具
