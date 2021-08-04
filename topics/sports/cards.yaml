@@ -117,7 +117,55 @@ marathon:
       - She did quite well!                                         _她做的相當不錯！_
       - She was not the fastest runner, but she was in the top 50.  _她不是跑得最快的人，但她在排名前50位。_
 summer:
+  match:
+    0:
+      identifier: Summer olympics continuations
+      pair:
+        -
+          - What have you been doing? You look tired. 
+          - I stayed up late last night to watch the Olympics.
+        -
+          - We won a gold medal for men's basketball. 
+          - That's great!
+        -
+          - What about gymnastics? 
+          - The men's team didn't do very well.
+        -
+          - Have you been watching the Olympics? 
+          - No, but I saw the opening ceremony.
+    1:
+      identifier: Summer sports vocab
+      pair:
+        -
+          - medal
+          - 勳章
+        -
+          - baseball
+          - 棒球
+        -
+          - silver
+          - 銀
+        -
+          - ceremony
+          - 儀式
+        -
+          - tired
+          - 疲勞的
+        -
+          - women
+          - 女性
+        -
+          - Olympics
+          - 奧運會
+        -
+          - gymnastics
+          - 體操
   bingo:
+    -
+      - What have you been doing? You look tired. _I stayed up late last night to watch the Olympics._
+      - We won a gold medal for men's basketball. _That's great!_
+      - What about gymnastics? _The men's team didn't do very well._
+      - Have you been watching the Olympics? _No, but I saw the opening ceremony._
     -
       - What have you been doing? You look tired. _I stayed up late last night to watch the Olympics._
       - We won a gold medal for men's basketball. _That's great! What about gymnastics?_
