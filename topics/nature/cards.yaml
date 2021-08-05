@@ -44,6 +44,7 @@ weather:
 season:
   bingo:
     - season melt cherry/cherries igloo rake honey colors cool
+    - artist paints many outside ice sun favorite summer season melt cherries igloo rake honey colors cool
     - cool out tree sees red cherry pink flower happy honey
     - season spring summer fall/autumn winter melt cherry/cherries igloo rake honey colors bee flower tree girl fly sit eat see hungry pick banana yummy snow hot cool cold warm
     - know house snow igloo build cold think warm keep dry strong stand watch summer melt
@@ -74,6 +75,16 @@ season:
       - My favorite season is summer.      _我最喜歡的季節是夏天。_
   0:
     flash:
+      cherries : cherries.png
+      igloo    : igloo.jpg
+      rake     : rake.jpg
+      honey    : honey.jpg
+      melts    : melts.jpg
+      colors   : colors.jpg
+      season   : season.jpg
+      cool     : cool.jpg
+  1:
+    flash:
       cherries : 櫻桃
       igloo    : 雪屋
       rake     : 耙
@@ -82,7 +93,7 @@ season:
       colors   : 顏色
       season   : 季節
       cool     : 涼
-  1:
+  2:
     flash:
       tree          : 樹
       flower        : 花
