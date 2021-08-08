@@ -6,7 +6,7 @@
   - target
   - content
   - unclozeables
-  - percent
+  - percent/parts of speech
 -
   - "racquetball-0"
   - "Racquetball"
@@ -49,6 +49,12 @@
     G: The men's team didn't do so well. But the women's team won the silver medal.
     B: I haven't had much time to watch, but I saw the opening ceremony.
   - Hi, Alice|What|you|You look|up|last|to|the Olympics|We won|for men's basketball|We|the|for|tennis|That's|What|gymnastics|The|didn't do|well. But the|won the|I haven't|much|to|but I|the opening|What|you been|this|I've|playing|and taking|I like|watch|I can|and|your|and|some time. When|you usually|We have|this|Why|and|us|in the|Sure! Just|me|what|the game|See|later|Bye|End
+  -
+    noun: night medal medal team team time ceremony 
+    verb: have been doing stayed watch won had watch saw 
+    ad:   tired late gold silver women's great men's women's 
+    other: about so 
+    
 -
   - "summer-1"
   - "Summer sports"
@@ -60,12 +66,11 @@
     G: I like to watch baseball. Maybe I can come and watch your team play some time. When do you usually play?
     B: We have a game this weekend. Why don't you come and watch us play in the park?
     G: Sure! Just let me know what time the game starts. See you later.
-  - What|you been|this|I've|playing|and taking|I like|watch|I can|and|your|and|some time. When|you usually|We have|this|Why|and|us|in the|Sure! Just|me|what|the game|See|later|Bye|End
+  - What|you been|this|I've|playing|and taking|I like|watch|I can|and|your|some time. When|you usually|We have|this|Why|and|us|in the|Sure! Just|me|what|the game|See|later|Bye|End
   -
-    - summer baseball swimming lessons baseball team game weekend park time
-    - have doing been come watch play do play don't come watch know let starts
-    - 
-    - to you
+    noun: summer baseball swimming lessons baseball team game weekend park time
+    verb: have doing been come watch play do play don't come watch play know let starts
+    other: to maybe you
 -
   - "olympics-0"
   - "The Olympics"
