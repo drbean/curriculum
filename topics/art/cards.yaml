@@ -567,6 +567,22 @@ mask:
         -
           - "B: Do you like it?"
           - "G: Yes, I love it."
+    5:
+      identifier: Unit 18 Masks quiz C 3
+      pair:
+        -
+          - "B: Did you make this bird?"
+          - "G: Yes, I did."
+        -
+          - "B: What animal shapes can you make?"
+          - "G: I can make fish, insects and birds."
+        -
+          - "B: Can you show me how to make a bird?"
+          - "G: Sure."
+        -
+          - "B: Do we need scissors?"
+          - "G: No, we don't." 
+        
           
                    
   flash:
