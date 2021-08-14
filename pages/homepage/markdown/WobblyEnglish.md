@@ -1,15 +1,15 @@
 % Wobbly English
 
-Some attempts to see English wobble, benefiting from conversations on the ##English channel on the freenode IRC network.
+Some attempts to see English wobble, benefiting from conversations on the ##English channel on the libera IRC chat network.
 
-* [CanConfirm](CanConfirm.html)
-* [FightWith](FightWith.html)
-* [BodyEuphemism](BodyEuphemism.html)
+* [CanConfirm](CanConfirm.html) Come on. Are you confirming or not?
+* [FightWith](FightWith.html) On whose side are they?
+* [BodyEuphemism](BodyEuphemism.html) 'Body' as a suggestive word
 * [PassiveMarriage](PassiveMarriage.html)
 * [LeavePassive](LeavePassive.html)
 * [NuisancePassive](NuisancePassive.html)
-* [AutoAntonym](AutoAntonym.html)
-* [LetCausative](LetCausative.html)
+* [AutoAntonym](AutoAntonym.html) One Word--Two opposite meanings
+* [LetCausative](LetCausative.html) Let 'er rip! Let 'em have it! Let there be light!
 * [OEDReaders](OEDReaders.html) The good, the bad, the indifferent, and the dishonourable
 * [SentenceStress](SentenceStress.html)--Speech aspires to poetry
 * [JoJoe](JoJoe.html) Jo--a girl's name, Joe--a boy's name
@@ -18,6 +18,7 @@ Some attempts to see English wobble, benefiting from conversations on the ##Engl
 * [TheDefaultReferenceOfThe](TheDefaultReferenceOfThe.html) The reference in 'the store'. Which store? *All/many* stores.
 * [InTransitive ](InTransitive.html) Transitive and intransitive: What is the difference?
 * [ErgativeVerb](ErgativeVerb.html) Challenge: Find 2 in/transitive verbs which go together
+* [GettingLaid](GettingLaid.html) Boswell teaches Dr Johnson how to describe liaisons
 * [NurseryNursingSchoolHome ](NurseryNursingSchoolHome.html) Nursing in the nursery, at home and at school
 * [TheDealWithWeal](TheDealWithWeal.html) How to pronounce the obsolete word, 'weal'
 * [WhileAspect](WhileAspect.html) Wait, while we check your ID, OR while we are checking your ID?
