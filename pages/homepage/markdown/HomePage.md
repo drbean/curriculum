@@ -23,6 +23,7 @@
   -   [InternetPromise](InternetPromise.html) Language Lab Redux
   -   [ProblemGrading](ProblemGrading.html) Immovable object vs irresistible force
   -   [CLTversusClassManagement](CLTversusClassManagement.html) CLT vs students. Students win.
+  -   [Games](Games.html) Game Theory for Teachers (Let's just say Activities)
 - [CurriculumVitae](CurriculumVitae.html)
 - [ChinMin](ChinMin.html)
 - [MyHealth](MyHealth.html)
