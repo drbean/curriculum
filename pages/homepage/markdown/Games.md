@@ -22,8 +22,10 @@ non-language reasons, which is
 also important.
 
 See [WhatIsBingo](WhatIsBingo.html)
+Bingo!
 
 Read about
-[FlashCards](FlashCards.html)
+[FlashCards](FlashCards.html) It's in/on 
+the cards
 
 Back to [HomePage](HomePage.html)
