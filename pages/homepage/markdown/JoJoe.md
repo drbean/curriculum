@@ -12,6 +12,13 @@ tinsoldier:
 
 'Jojo' is another girl's name, but no 'Joe-joe' for boys.
 
+#### Personal disclosure
+
+I think I first encountered 'Jo' as a 
+girl's name as a boy in Louisa May Alcott's 
+_Little Women_, and I thought it odd for 
+a girl to have that name.
+
 ### 'girl' and 'gueule'
 
 After writing about Jo vs Joe, I remembered my French teacher asking us to think about the word, 'girl' and it was universally acknowledged it had a pretty sound.
