@@ -17,6 +17,9 @@ Read about
 Read how to
 [SlowFeedCards](SlowFeedCards.html)
 
+See my perl flash card script
+[https://github.com/drbean/ttb/trunk/cards/flash.pl](https://github.com/drbean/ttb/trunk/cards/flash.pl)
+
 Back to [Games](Games.html)
 
 Back to [HomePage](HomePage.html)
