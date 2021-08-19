@@ -308,6 +308,16 @@ activity:
 
   0:
     flash:
+      stuffed animal: stuffed_animal.jpg
+      video game    : video_game.jpg
+      break         : break.jpg
+      doll          : doll.jpg
+      comic book    : comic_book.jpg
+      share         : share.jpg
+      important     : important.jpg
+      cartoon       : cartoon.jpg
+  1:
+    flash:
       stuffed animal: 填充玩具動物
       video game    : 視頻遊戲
       break         : 打破

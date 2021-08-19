@@ -172,7 +172,9 @@
     It's raining. Logan can't play outside. He doesn't know what to do.
     He doesn't want to watch cartoons. They're not fun. He doesn't want to read a comic book either. He read all of them last week.
     What can he do? He can play a video game! That's what he'll do.
-  - Logan|End
+  - raining|outside|what|do|cartoons|fun|read|comic|book|all|them|video|game|End
+  - raining.verb|outside.ad|what.other|do.verb|cartoons.noun|fun.ad|read.verb|comic.noun|book.noun|all.other|them.other|video.noun|game.noun|End
+      
 -
   - "activity-2"
   - "activity-2"
