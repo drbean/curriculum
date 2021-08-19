@@ -210,7 +210,13 @@
     M: Good idea. Walking always makes me hungry. I'm ready for lunch.
     W: We can sit here on the grass. Oh no! Someone forgot to throw these empty paper bags away. There is litter everywhere!
     M: Why do people always leave litter around? It's not a nice thing to do. It spoils other people's picnics.
-  - This|spot|Let's|and|next|river|idea|Walking|me|I'm|for|We|here|grass|Oh|Someone forgot|these|bags|There|everywhere|Why|people|around|It's|thing|It spoils|people's|End
+  - This|a|spot|Let's|and|next|river|idea|Walking|me|I'm|for|We|here|grass|Oh|Someone forgot|these|bags|There|everywhere|Why|people|around|It's|thing|It spoils|people's|End
+  -
+    noun: picnic lunch litter litter picnics 
+    verb: is stop have makes can sit throw is to leave do 
+    ad:   good Good always hungry ready empty paper always nice other 
+    other: our to the on the no to not to 
+    
 -
   - "picnic-1"
   - "picnic-1"
