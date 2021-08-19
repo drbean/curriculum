@@ -515,7 +515,7 @@ photo:
       - Would you like to go with me? _Sure. How about Sunday morning?_
 garden:
   match:
-    0:
+    00:
       identifier: garden position
       pair:
         -
