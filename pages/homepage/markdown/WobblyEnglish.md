@@ -44,6 +44,7 @@ Some attempts to see English wobble, benefiting from conversations on the ##Engl
 * [TakeThisOpportunity](TakeThisOpportunity.html) Recognition/appreciation of other's role in speakers' action
 * [ModifierScope](ModifierScope.html) Free software and beer
 * [SubjectVerbDisagreement](SubjectVerbDisagreement.html) Coat and tie is required
+* [ThatsItThere](ThatsItThere.html) Finding something: "There it is" or "That's it there"?
 
 
 Return to [HomePage](HomePage.html)
