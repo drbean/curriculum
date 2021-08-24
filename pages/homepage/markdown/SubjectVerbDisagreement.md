@@ -53,6 +53,11 @@ I actually wrote without forethought:
 
 in [SlowFeedCards](SlowFeedCards.html).
 
+And in [ThatsItThere](ThatsItThere.html), I wrote
+
+	 The scissors is not the topic, but it 
+	 previously was the topic.
+
 This flexibility matches that with 'there 
 is/there are' constructions.
 
