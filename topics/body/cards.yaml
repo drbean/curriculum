@@ -237,6 +237,16 @@ blood:
 feature:
   0:
     flash:
+      clean : clean.jpg
+      dirty : dirty.jpg
+      happy : happy.jpg
+      sad   : sad.jpg
+      fat   : fat.jpg
+      thin  : thin.jpg
+      big   : big.jpg
+      small : small.jpg
+  1:
+    flash:
       clean : 清潔 
       dirty : 臟
       happy : 快樂
@@ -245,7 +255,7 @@ feature:
       thin  : 瘦
       big   : 大
       small : 小
-  1:
+  2:
     flash:
       tall     : 高
       short    : 短
