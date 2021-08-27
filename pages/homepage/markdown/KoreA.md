@@ -9,6 +9,7 @@ in 1988, until 1998, leaving as the
 wound down.
 
 * [KotesolHistory](KotesolHistory.html)
+* [OryangPraise](OryangPraise.html)
 
 Back to [HomePage](HomePage.html)
 
