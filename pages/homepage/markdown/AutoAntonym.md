@@ -1,4 +1,5 @@
-::: {.container}
+% Same word--2 opposite meanings
+
 ### belie
 
 wkalt in the \#\#english channel on the freenode irc network, brought up
@@ -132,4 +133,7 @@ drbean
     position that children are the chief beneficiaries?
 
     I'm confused.
+
+    An editor would change 'argue' to 'disagree,' arguing (!) bad word choice 
+    only understandable because of the context?
 :::
