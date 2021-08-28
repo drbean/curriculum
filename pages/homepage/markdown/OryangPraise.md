@@ -4,7 +4,7 @@ In the late 1980s or early 1990s, Oryang Kwon published (in a KOTESOL/AETK publi
 
 In a subsequent issue[^attack], Carol Kim[^carolkim] attacked the article, citing the inordinateness, the unreasonableness of doing what Prof Kwon was suggesting foreign teachers do, even though this was kind of beside the point, because that was actually what he was saying, that teachers were doing more than could be expected from them.
 
-Apparently, judging from the responses to the article Prof Kwon had some suggestions (rather than advice?) about what teachers could do. I had forgotten about this aspect of the article, perhaps because fitting it in with the praise of the teachers who did more than could be expected, and the hope all expat teachers could be like this was difficult? Thinking about it now, I see the relationship of this suggestion aspect of the article to the praise and hope parts quite like the "what has been said," "what has been done," "what you can do" framework of Candlin and Nunan's series of teacher research preparation textbooks. But perhaps this assuming that he was in the position of being able to tell teachers what they could do, and the generally authoritarian nature of Korean culture is what set her off.
+Apparently, judging from the responses to the article Prof Kwon had some suggestions (rather than advice?) about what teachers could do. I had forgotten about this aspect of the article, perhaps because fitting it in with the praise of the teachers who did more than could be expected, and the hope all expat teachers could be like this was difficult[^difficult]? Thinking about it now, I see the relationship of this suggestion aspect of the article to the praise and hope parts quite like the "what has been said," "what has been done," "what you can do" framework of (possibly) Longman's  *Language Teaching: a Scheme for Teacher Education* series of the period.
 
 Anyway, the attack was followed by a storm (a flurry?) of responses[^responses] in support of the two parties and an accompanying discussion of expectations of expat teachers and Korean students.
 
@@ -14,29 +14,33 @@ But although the effect of the piece was to push back at the notion foreign teac
 
 Subsequently, argument around the point morphed into a discussion about expectations[^expectations].
 
-John Holstein, editor of the AETK Newsletter, published his own piece, arguing for a misunderstanding of Prof Kwon's hope that every teacher could be like this. In the issue after Carol Kim's attack, Jack Large said it had been his idea, not Prof Kwon's, to use the word, 'expectation' in the title to the article. Such wording would have encouraged such a misinterpretation. But I think if it was a misunderstanding, it was a willful misunderstanding. Hoping is not expecting[^expect]. As I remember, there was no ambiguity. Prof Kwon was hoping, not expecting.
+John Holstein, editor of the AETK Newsletter, participated in this discussion,publishing his own piece, in which he argued for a misunderstanding of Prof Kwon's hope that every teacher could be like this. But I think if a misunderstanding was involved, it was a willful misunderstanding. Hoping is not expecting[^expect]. As I remember, there was no ambiguity. Prof Kwon was hoping, not expecting. So, I didn't quite agree.
 
-[^expect]: `Expect` is polysemous. Expectations can be desired outcomes, just things you want to happen, ie hopes, as in 'lowered expectations', as well as things where you have greater (or lesser) control over the other people involved. Teachers expect (ie, require) students to do homework, but also expect (ie, predict) some won't do homework. If you're expecting, you're pregnant. And if you're expecting guests for dinner, you're not just hoping they turn up, or expecting them to turn up,you *know* they're going to turn up, and they know you're waiting for them.
+Talking with him later, I didn't express disagreement with his point of view. I did remind him of the expression, 
+'Your wish[^wish] is my command'
+He said that if he had thought of it, he would have used it.
+
+[^wish]: The expression is associated with the djinn in Aladdin's lamp, but this doesn't appear to be the origin of the phrase. The earliest reference I could find on 
+google books
+was to an 1846 play in which these lines appear.
+
+	Richard Burton's translation of 1,001 Nights appeared in 18XX and doesn't appear to contain these lines. 
+
+[^expect]: `Expect` is polysemous. Expectations can be desired outcomes, just things you want to happen, ie hopes, as in teachers' lowered expectations of students, as well as things where you have greater (or lesser) control over the other people involved. Teachers expect (ie, require) students to do homework, but also expect (ie, predict) some won't do homework. If you're expecting, you're pregnant. And if you're expecting guests for dinner, you're not just hoping they turn up, or expecting them to turn up, you *know* they're going to turn up, and they know you're waiting for them.
 
 	`Wish` is also polysemous. If you wish it would stop raining, you expect it won't stop raining. You don't think there is any chance of it stopping. But if you wish someone a Merry Christmas, you're *not* expecting them not to have a good Christmas.
 
 	As for `hope` and `expect`, if you hope it stops raining, you think there is some chance of it stopping, but if you expect it to stop raining, you think there is only some chance it will *not* stop raining.
 
-Talking with him later, I reminded him of the saying, 
-Your wish is my command
-He said that if he had thought of it, he would have used it.
+I like to think she and Prof Kwon were expemplifying the problems of intercultural communication, and in particular the Tony Jones[^tonyjones] Principle[^principle] of Intercultural Communication (and Dr Bean Principle of InterPersonal Communication) that intentions, motivations and feelings are never aligned.
 
-The context is different. The genie's role is to do the impossible and is not really misinterpreting the wish of . In this case,
-
-I like to think she was operating at another level. I don't think she wanted to argue about what teachers should be doing, as much as to engage seriously in intercultural communication.  exemplifying the Tony Jones Principle of Intercultural Communication (and Dr Bean Principle of InterPersonal Communication) that intentions, motivations and feelings are never aligned.
-
-Some time after, Prof Kwon told me his article had been reprinted in a TESOL Interest Section newsletter, probably the TEFL IS one.
+Some time after, Prof Kwon told me his article had been reprinted in a TESOL Interest Section newsletter[^tesol], probably the TEFL IS one, no doubt reassuring him that Carol Kim's views did not represent the views of representative EFL teachers.
 
 [^praise]: The article was actually printed in the December 1991 issue of the *AETK Newsletter*, according to the following responses, but this issue is not archived at
 [http://kotesol.org](http://kotesol.org). 
-This is kind of convenient as it allows us to read into it our own interpretations of the incident, like a crystal ball. Such is the case in many controversies, where combatants argue past each other.
+This is kind of convenient as it allows us to read into it our own interpretations of the incident, like a crystal ball. There are no facts, only interpretations, and people only ever talk past each other.
 
-	For example, I don't remember Prof Kwon having suggestions/advice for expat teachers in the article. I must not have been present at the original keynote address at the October 1991 KATE conference, or at least I've forgotten it, although I thought I attended all KATE conferences before 1992.
+	For example, I didn't remember Prof Kwon having suggestions/advice for expat teachers in the article. I don't remember hearing him deliver the original address. I must not have been present at the original keynote address at the October 1991 KATE conference, or I've forgotten it, although I thought I attended all KATE conferences before 1992.
 
 [^attack]: In the April 1992 issue, of the *AETK Newsletter* Vol. 11 No.2, archived at
 http://kotesol.org/AETK_92--11-2.pdf
@@ -47,14 +51,40 @@ http://kotesol.org/AETK_92--11-2.pdf
 
 	In recent years I have tried searching the Internet for what became of her, but never turned anything up. Good keywords for her are hard to find.
 
-[^responses]: Arch Gilchrist, letter to the editor, in 
-[AETK Newsletter, vol 11, no 3, June 1992](http://kotesol.org/AETK_92--11-3.pdf)
+[^difficult]: You're doing more than can be expected? Here's some more you can do.
+
+[^responses]: *In support of Prof Kwon:*
+
+	Arch Gilchrist, letter to the editor, in 
+[AETK Newsletter, vol 11, no 3, June 1992](https://koreatesol.org/sites/default/files/pdf/AETK_92--11-4.pdf)
 
 	Jack Large, A response to Carol Kim's critique .., in 
-[AETK Newsletter, vol 11, no 3, June 1992](http://kotesol.org/AETK_92--11-3.pdf)
+[AETK Newsletter, vol 11, no 3, June 1992](https://koreatesol.org/sites/default/files/pdf/AETK_92--11-4.pdf)
 
-Tony Jones was the Director of Studies at the British Council in the early/mid 1990's, responsible for its ELT program. I had a good relationship with him. He gave a talk to the AETK/KOTESOL Seoul chapter, but he never became involved in AETK/KOTESOL.
+	*In support of Carol Kim:*
 
-Tony Jones' Principle of Intercultural Communication was his mock-academic, semi-serious observation about the inability of people with different cultural backgrounds to understand each other's intentions, motivations and feelings, despite the appearance communication is taking place smoothly. It's impossible for people from different cultures to understand each other, because intentions, motivations and feelings are never aligned.
+	Nadra Selmy, letter to the editor, in
+[AETK Newsletter, vol 11, no 4, October 1992](https://koreatesol.org/sites/default/files/pdf/AETK_92--11-4.pdf)
 
-I think the problem is not just limited to intercultural communication. Even for people in familial relationships, intentions, motivations and feelings are never aligned, despite the perception we are all on the same page. Most clearly these perceptions are a mistake when communicating interculturally,  but they are equally illusional interacting with people we are close with.
+	Virginia Martin, A question of expectations, in
+[AETK Newsletter, vol 11, no 4, October 1992](https://koreatesol.org/sites/default/files/pdf/AETK_92--11-4.pdf)
+
+	*In support of both Prof Kwon and Carol Kim:*
+
+	John Holstein, Great expectations and the facts of life: Whither .., in
+[AETK Newsletter, vol 12, no 1, December 1992](https://koreatesol.org/sites/default/files/pdf/AETK_92--11-4.pdf)
+
+[^expectations]: Christoper South, Mitigating circumstances, in 
+[AETK Newsletter, vol 11, no 2, June 1992](https://koreatesol.org/sites/default/files/pdf/AETK_92--11-4.pdf)
+
+	James Brown, The biggest problems TESOL members see .., in
+[AETK Newsletter, vol 11, no 4, October 1992](https://koreatesol.org/sites/default/files/pdf/AETK_92--11-4.pdf)
+
+	John Holstein, Great expectations and the facts of life: Whither .., in
+[AETK Newsletter, vol 12, no 1, December 1992](http://kotesol.org/AETK_92--12-1.pdf)
+
+[^tonyjones]: Tony Jones was the Deputy Director of Studies at the British Council in the early/mid 1990's, responsible for its ELT program. I had a good relationship with him. He gave a talk to the AETK/KOTESOL Seoul chapter, but he never became involved in AETK/KOTESOL.
+
+[^principle]: Tony Jones' Principle of Intercultural Communication was his mock-academic, semi-serious observation about the inability of people with different cultural backgrounds to understand each other's intentions, motivations and feelings, despite the appearance communication is taking place smoothly. It's impossible for people from different cultures to understand each other, because intentions, motivations and feelings are never aligned.
+
+	I think his principle does not just apply in intercultural communication. Even for people in familial relationships, intentions, motivations and feelings are never aligned, despite the perception we are all on the same page. Most clearly these perceptions are a mistake when communicating interculturally,  but they are equally illusional interacting with people we are close with, and language plays a role in fostering these illusions. All communication is intercultural communication.
