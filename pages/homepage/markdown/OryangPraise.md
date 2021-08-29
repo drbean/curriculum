@@ -8,9 +8,9 @@ Apparently, judging from the responses to the article Prof Kwon had some suggest
 
 Anyway, the attack was followed by a storm (a flurry?) of responses[^responses] in support of the two parties and an accompanying discussion of expectations of expat teachers and Korean students.
 
-I don't think anyone understood what her motivation for the attack was. I guess it came as an unpleasant surprise to Prof Kwon, leaving him "scratching his head", in the words of one of the responses. Was she attacking Prof Kwon for venturing to characterize the work of the foreign teacher? Anyway this was the impression I think she made on readers, saying, impolitely expressed, Don't tell me what to do, or alternatively, of 'biting the hand that feeds it'.
+I don't think anyone understood what her motivation for the attack was. Prof Kwon always gave the impression he would never let a fear of ruffling feathers prevent him from speaking his mind on an issue, but I can't believe he intended to work foreign teachers up. Perhaps, his intention was to present some ideas that he was thinking of implementing at his school and to ask people what they thought. So, it probably came as an unpleasant surprise to Prof Kwon, leaving him "scratching his head", in the words of one of the responses. Was she attacking Prof Kwon for venturing to characterize the work of the foreign teacher? Anyway this was the impression I think she made on readers, saying, impolitely expressed, Don't tell me what to do, or alternatively, of 'biting the hand that feeds it'.
 
-But although the effect of the piece was to push back at the notion foreign teachers are only in Korea at the pleasure of their hosts, I don't think this was her intention in writing. As I see it, the attack was a vehicle, as she prepared to leave Korea, for her to get off her chest some of her feelings about how a teacher (like a housewife)'s work is never done^[Is the way I express this inappropriate or sexist?]. But perhaps I am wrong and it was more targeted at the situation in Korea. Intercultural relationships in Korea have been described from the viewpoint of foreigners as "walking on eggshells," so was she expressing dissatisfaction with the assumptions and expectations foreigners confront in Korea?
+But although the effect of the piece was to push back at the notion foreign teachers are only in Korea at the pleasure of their hosts, I don't think this was her intention in writing. As I see it, the attack was a vehicle, as she prepared to leave Korea, for her to get off her chest some of her feelings about how a teacher (like a housewife)'s work is never done^[Is the way I express this inappropriate or sexist?]. But perhaps I am wrong and it was more targeted at the situation in Korea. Intercultural relationships in Korea have been described from the viewpoint of foreigners as "walking on eggshells," so was she expressing dissatisfaction with the assumptions and expectations foreigners confront in Korea, as she prepared to leave Korea?
 
 Subsequently, argument around the point morphed into a discussion about expectations[^expectations].
 
@@ -76,6 +76,8 @@ http://kotesol.org/AETK_92--11-2.pdf
 
 [^expectations]: Christoper South, Mitigating circumstances, in 
 [AETK Newsletter, vol 11, no 2, June 1992](https://koreatesol.org/sites/default/files/pdf/AETK_92--11-4.pdf)
+
+	my letter
 
 	James Brown, The biggest problems TESOL members see .., in
 [AETK Newsletter, vol 11, no 4, October 1992](https://koreatesol.org/sites/default/files/pdf/AETK_92--11-4.pdf)
