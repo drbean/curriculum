@@ -21,6 +21,17 @@ cooking:
       fork    : 叉子   
       sick    : 生病   
       hotdog  : 熱狗   
+  flash:
+    4:
+      sick: top right hand corner.
+      cup of coffee : in the middle on the right.
+      cake: bottom right hand corner.
+      happy: in the middle at the top.
+      plate: right in the middle.
+      hotdog: in the middle at the bottom.
+      angry: top left hand corner.
+      glass of iced tea: in the middle on the left.
+      cupcake: bottom left hand corner.
   bingo:
     - toast apron cupcake cook plate fork sick hotdog 
     -
@@ -35,6 +46,16 @@ cooking:
       - "G: What are you making? _B: I'm making soup and salad._"
       - "B: I'm making soup and salad. _G: That sounds great._"
       - "G: Do you need some help? _B: No thanks, but I need two plates and two forks._"
+    -
+      - top right hand corner.	_sick_
+      - in the middle on the right.  _cup of coffee_
+      - bottom right hand corner.	_cake_
+      - in the middle at the top.	_happy_
+      - right in the middle.	_plate_
+      - in the middle at the bottom.	_hotdog_
+      - top left hand corner.	_angry_
+      - in the middle on the left. 	_glass of iced tea_
+      - bottom left hand corner.	_cupcake_
     - hotdogs really year game fifty_nine sick five same 2007 many can eat
     - toast apron cupcake cook plate fork sick hotdog spaghetti soda soup salad breakfast lunch dinner dessert bake cookies food eat 2008 2007 2013 year 59 67 69
     - Jack cook toast cupcakes hotdogs dessert cookies sick apron lunch ready soup salad great help plates forks boy poor
