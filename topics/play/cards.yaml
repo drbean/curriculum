@@ -326,6 +326,38 @@ activity:
       share         : 分享
       important     : 重要
       cartoon       : 動畫片
-ocean:
     bingo:
       - afraid thirsty sunscreen sweat family beach swimming lunch put_on drink scary movie protect 
+  match:
+    4:
+      identifier: unit 19 9-pic position
+      pair:
+        -
+          - top right hand corner.
+          - boy waching cartoons
+        -
+          - in the middle on the right.
+          - stuffed bear in room
+        -
+          - bottom right hand corner.
+          - stuffed bear by itself
+        -
+          - in the middle at the top.
+          - boy playing video game
+        -
+          - right in the middle.
+          - stuffed rabbit
+        -
+          - in the middle at the bottom.
+          - video game controller
+        -
+          - top left hand corner.
+          - boy reading comic book
+        -
+          - in the middle on the left.
+          - stuffed dog
+        -
+          - bottom left hand corner.
+          - broken glass doll
+
+ocean:
