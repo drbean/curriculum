@@ -3,6 +3,16 @@ genre: topics
 cooking:
   0:
     flash:
+      toast   : toast.jpg
+      apron   : apron.jpg
+      cupcake : cupcake.jpg
+      cook    : cook.jpg
+      plate   : plate.jpg
+      fork    : fork.jpg
+      sick    : sick.jpg
+      hotdog  : hotdog.jpg
+  1:
+    flash:
       toast   : 烤麵包 
       apron   : 圍裙   
       cupcake : 杯形餅 
