@@ -50,6 +50,16 @@ camera:
       - The man says you can buy a good printer and print digital photos at home.                     _男人說你可以買一台好的打印機，並在家打印數碼照片。_
       - The man says you can store more than 700 photos on one CD.                                    _該人說您可以在一張CD上存儲超過700張照片。_
 online:
+  flash:
+    0:
+      website     : 網站
+      item        : 物品
+      button      : 按鈕
+      online      : 在線的
+      choose      : 選擇
+      easy        : 簡單
+      click       : 點擊
+      check out   : 查看
   bingo:
     -
     -
