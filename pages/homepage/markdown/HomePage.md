@@ -32,7 +32,7 @@
 - [CoverLetter](CoverLetter.html)
 - [MyHobbies](MyHobbies.html)
 - [WobblyEnglish](WobblyEnglish.html)
-- [KoreA](KoreA.html)
+- [KoreA](KoreA.html) 1986-1998
 
 <!-- end of list -->
 
