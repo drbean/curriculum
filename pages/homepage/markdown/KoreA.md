@@ -8,8 +8,8 @@ in 1988, until 1998, leaving as the
 [1997 Asian financial crisis](http://en.wikipedia.org/wiki/1997_Asian_financial_crisis)
 wound down.
 
-* [KotesolHistory](KotesolHistory.html)
-* [OryangPraise](OryangPraise.html)
+* [KotesolHistory](KotesolHistory.html) AETK/KOTESOL 1990-1993
+* [OryangPraise](OryangPraise.html) Korean/expat teacher communication
 
 Back to [HomePage](HomePage.html)
 
