@@ -8,24 +8,24 @@ Apparently, judging from the responses to the article Prof Kwon had some suggest
 
 Anyway, the attack was followed by a series of responses[^responses] in support of the two parties that partially merged with a parallel discussion of expectations[^expectations] of expat teachers and Korean students that started in the same issue as the attack.
 
-I don't think anyone understood what her motivation for the attack was. Speculating about Prof Kwon's for writing the article, he always gave the impression he would never let a fear of ruffling feathers prevent him from speaking his mind on an issue, but I can't believe he expected to work foreign teachers up with his suggestions. Perhaps, his intention was to present some ideas that he had for ways to replicate the experience of the students with the pioneering teachers in a framework for the ordinary teachers that followed and to ask people what they thought. So, it probably came as an unpleasant surprise to Prof Kwon, leaving him "scratching his head", in the words of one of the responses. 
+Speculating about Prof Kwon's motivation for writing the article, he always gave the impression he would never let a fear of ruffling feathers prevent him from speaking his mind on an issue, but I can't believe he expected to work foreign teachers up with his suggestions. Perhaps his intention was to present some ideas that he had for ways to replicate the experience of the students with the pioneering teachers in a framework for the ordinary teachers that followed them and to ask people what they thought. So, the attack probably came as an unpleasant surprise to Prof Kwon, leaving him "scratching his head", in the words of one of the responses. 
 
-Was she attacking Prof Kwon for venturing to characterize the work of the foreign teacher? Anyway this was the impression I think she made on readers, saying, impolitely expressed, Don't tell me what to do, or alternatively, of 'biting the hand that feeds it'.
+I don't think anyone understood what the motivation for the attack was. Was Prof Kwon being attacked for venturing to characterize the work of the foreign teacher? Anyway this was the impression I think she made on readers, saying, impolitely expressed, Don't tell me what to do, or alternatively, of 'biting the hand that feeds it'.
 
-But although the effect of here article was to push back at the notion foreign teachers are only in Korea at the pleasure of their hosts, was this her intention in writing? Or was the attack a vehicle for her to get off her chest some of her feelings about how a teacher (like a housewife)'s work is never done^[Is the way I express this inappropriate or sexist?]? Or was it more targeted at the situation in Korea. Intercultural relationships in Korea have been described from the viewpoint of foreigners as "walking on eggshells," so was she expressing dissatisfaction with the assumptions and expectations foreigners confront in Korea, as a parting shot, as she prepared to leave Korea?
+But although the effect of her article was to push back at the notion foreign teachers are only in Korea at the pleasure of their hosts, was this her intention in writing? Or was the attack a vehicle for her to get off her chest some of her feelings about how a teacher (like a housewife)'s work is never done^[Is the way I express this inappropriate or sexist?]? Or was it more targeted at the situation in Korea. Intercultural relationships in Korea have been described from the viewpoint of foreigners as "walking on eggshells," so was she expressing dissatisfaction with the assumptions and expectations foreigners confront in Korea, in a parting shot, as she prepared to leave Korea?
 
 John Holstein, editor of the AETK Newsletter, participated in this discussion, publishing his own article, in which he argued for a misunderstanding of Prof Kwon's hope that every teacher could be like this. But I think if a misunderstanding was involved, it was a willful misunderstanding. Hoping is not expecting[^expect]. As I remember, there was no ambiguity. Prof Kwon was hoping, not expecting. So, I didn't quite agree.
 
 Talking with him later, I didn't express disagreement with his point of view. I reminded him of the expression, 
-'Your wish is my command[^expression]'
+'Your wish is my command.'[^expression]
 He said that if he had thought of it, he would have used it.
 
 I like to think she and Prof Kwon were expemplifying the problems of intercultural communication, and in particular the Tony Jones[^tonyjones] Principle[^principle] of Intercultural Communication (and Dr Bean Principle of InterPersonal Communication) that intentions, motivations and feelings are never aligned.
 
-Some time after, Prof Kwon told me his article had been reprinted in a TESOL Interest Section newsletter[^tesol], probably the TEFL IS one, showing that Carol Kim's views of the article did not represent the views of representative EFL teachers.
+Some time after, Prof Kwon told me his article had been reprinted in a TESOL Interest Section newsletter[^tesol], probably the TEFL IS one, which must have reassured him that Carol Kim's views of the article were not in line with the views of representative EFL teachers.
 
-[^praise]: The article was actually printed in the December 1991 issue of the *AETK Newsletter*, according to the following responses, but this issue is not archived at
-[https://koreatesol.org/sites/default/files/pdf/AETK_92--11-1.pdf](https://koreatesol.org/sites/default/files/pdf/AETK_92--11-1.pdf)
+[^praise]: The article, *Koreans' expectations ...*, was actually printed in the December 1991 issue of the *AETK Newsletter*, according to the following responses, but this issue is not archived at
+[https://koreatesol.org/sites/default/files/pdf/AETK_92--11-1.pdf](https://koreatesol.org/sites/default/files/pdf/AETK_92--11-1.pdf).
 This is good as it allows us to read into it our own interpretations of the incident, like a crystal ball. There are no facts, only interpretations, and people only ever talk past each other.
 
 	For example, I didn't remember Prof Kwon having suggestions/advice for expat teachers in the article. I don't remember hearing him deliver the original address. I must not have been present at the original keynote address at the October 1991 KATE conference, or I've forgotten it, although I thought I attended all KATE conferences before 1992.
@@ -83,19 +83,32 @@ This is good as it allows us to read into it our own interpretations of the inci
 	John Holstein, Great expectations and the facts of life: Whither .., in
 [AETK Newsletter, vol 12, no 1, December 1992](http://kotesol.org/AETK_92--12-1.pdf)
 
-[^expect]: Reading the article now, I see he was not saying there was a misunderstanding. He was saying 'expect' has different meanings, and if used in one common sense implying some degree of obligation, expat teachers might react with some resentment.
+	Whether this in fact a different stream to that started by Prof Kwon can be debated.
 
-	`Expect` is polysemous. Expectations can be desired outcomes, just things you want to happen, ie hopes, as in teachers' lowered expectations of students, as well as things where you have greater (or lesser) control over the other people involved. Teachers expect (ie, require) students to do homework, but also expect (ie, predict) some won't do homework. If you're expecting, you're pregnant. And if you're expecting guests for dinner, you're not just hoping they turn up, or expecting them to turn up, you know they're going to turn up, and they know you're waiting for them.
+[^expect]: Reading the article now, I see he was not saying there was a misunderstanding. He was saying 'expect' has different meanings, and if used in one common sense implying some degree of obligation, expat teachers might react with some resentment. He was establishing conditions under which the article would be read in a negative way.
+
+	`Expect` is polysemous. Expectations can be desired outcomes, just things you want to happen, ie hopes, as in teachers' lowered expectations of students. Teachers had hopes for student achievement that were not fulfilled, and they're now looking for less from them.
+
+	`Expect` can also be used to refer to situations where the cooperation of the other people/things involved is the focus. Teachers expect (ie, require) students to do homework, but also expect (ie, predict) some won't do homework.
+
+	Some other uses of `expect`: If you're expecting, you're pregnant. And if you're expecting guests for dinner, you're not just hoping they turn up, or expecting them to turn up, you know they're going to turn up, and they know you're waiting for them.
 
 	`Wish` is also polysemous. If you wish it would stop raining, you expect it won't stop raining. You don't think there is any chance of it stopping. But if you wish someone a Merry Christmas, you're *not* expecting them not to have a good Christmas.
 
 	As for `hope` and `expect`, if you hope it stops raining, you think there is some chance of it stopping, but if you expect it to stop raining, you think there is only some chance it will *not* stop raining.
 
+	How do expectations develop? If someone gives you something you hoped for, perhaps (or starts acting toward you in a certain way) often enough, you start to take getting it for granted. It becomes an expectation. That's just psychology.
+
+	    Student: Why isn't the teacher responding to my inordinate request?
+	    The teacher's always responded to my inordinate requests.
+
 [^expression]: The expression is associated with the djinn in Aladdin's lamp, but this doesn't appear to be the origin of the phrase. The earliest reference I could find on 
-google books
+[google books](https://books.google.com/ngrams/graph?content=your+wish+is+my+command&year_start=1800&year_end=2019)
 was to an 1846 play in which these lines appear.
 
-	Richard Burton's translation of 1,001 Nights appeared in 18XX and doesn't appear to contain these lines.of the article 
+	| As I in your esteem would still maintain
+	| The rank and place a gentleman should hold,
+	| Your wish is my command.
 
 [^tonyjones]: Tony Jones was the Deputy Director of Studies at the British Council in the early/mid 1990's, responsible for its ELT program. I had a good relationship with him. He gave a talk to the AETK/KOTESOL Seoul chapter, but he never became involved in AETK/KOTESOL.
 
@@ -103,9 +116,8 @@ was to an 1846 play in which these lines appear.
 
 	I think his principle does not just apply in intercultural communication. Even for people in familial relationships, intentions, motivations and feelings are never aligned, despite the perception we are all on the same page. Most clearly these perceptions are a mistake when communicating interculturally, but they are equally illusional interacting with people we are close with, and language plays a role in fostering these illusions. All communication is intercultural communication.
 
-\^tesol: The article as it appeared in the TESOL publication is not at the 
-TESOL TEFL IS newsletter archive. 
-http://tesol.org/
-http://www.tesol.org/read-and-publish/newsletters-other-publications/interest-section-newsletters/eflis-newsletter
-http://newsmanager.commpartners.com/tesoleflis/issues/
-The first publication there dates from 2011, but I thought I remembered issues being archived from 1997.
+[^tesol]: The article as it appeared in a TESOL publication is not at the 
+[TESOL TEFL IS newsletter archive](http://www.tesol.org/read-and-publish/newsletters-other-publications/interest-section-newsletters/eflis-newsletter)
+The oldest publication there dates from 2011, but I thought I remembered issues archived there dating from 1997.
+
+Back to [KoreA](KoreA.html)
