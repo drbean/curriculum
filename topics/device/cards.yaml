@@ -59,8 +59,18 @@ online:
       choose      : 選擇
       easy        : 簡單
       click       : 點擊
-      check out   : 查看
+      check out   : 簽出
+    1:
+      "W: Let's eat lunch here.": "M: Yes, this is a good spot to eat."
+      "W: Look at all those empty cans here.": "M: Why don't people throw their cans in the trash when they leave?"
+      "W: There are many bottles near the river.": "M: People should not leave glass bottles lying around like that."
+      "W: Let's pick up the litter when we leave.": "M: Good idea. And let's come back next week and clean up more."
+      "G: Hey, Steve. Look at my new smartphone.": "B: Wow! It looks cool"
+      "B: Where did you buy it?.": "G: I bought it online."
+      "B: Is it hard to buy things online?": "G: It's really easy."
+      "B: Do you pay for the item when it comes?": "G: No, you have to pay for it online with a credit card."
   bingo:
+    -
     -
     -
     -
