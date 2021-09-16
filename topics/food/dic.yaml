@@ -100,7 +100,13 @@
     Jack loves to cook. For breakfast, he makes five pieces of toast. He eats them all.
     For lunch, he eats three cupcakes. For dinner, he makes three hotdogs. He eats them all.
     For dessert, he bakes ten cookies, but he can't eat any more food. He feels sick. He ate too much. Poor Jack!
-  - Jack|to|For|he makes|pieces|He|them all|For|he eats three|For dinner, he makes three|He eats them|For|he|ten|but he can't eat any more|He feels|He ate|much|Poor Jack|End
+  - Jack|to|For|he makes|pieces of|He|them all|For|he eats three|For dinner, he makes three|He eats them|For|he|ten|but he can't eat any more|He feels|He ate|much|Poor Jack|End
+  -
+    noun: breakfast toast lunch cupcakes hotdogs dessert cookies 
+    verb: loves cook eats bakes 
+    ad: five sick 
+    other: all too 
+    
 -
   - "cooking-2"
   - "cooking-2"
