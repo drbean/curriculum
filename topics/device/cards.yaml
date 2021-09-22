@@ -71,8 +71,17 @@ online:
       "B: Do you pay for the item when it comes?": "G: No, you have to pay for it online with a credit card."
   bingo:
     -
-    -
-    -
+      - Your MP3 player looks cool!                                                 _你的MP3播放器看起來很酷！_
+      - I bought it online at an electronics website.                               _我在網上買了它在一個電子網站。_
+      - I'm not very good at using a computer.                                      _我不是在使用電腦很好。_
+      - Is it hard to buy things online?                                            _它是很難在網上買東西？_
+      - All you do is go to the website, and choose the item you want.              _所有你要做的是去的網站，並選擇您想要的項目。_
+      - After you choose what you want to buy, you click on the "Check Out" button. _在您選擇您想要買什麼，你點擊了“退房”按鈕。_
+      - It takes about a week for your item to come.                                _大約需要一個星期您的物品來。_
+      - If you're in a hurry, you can pay more to get it sent faster.               _如果你趕時間，你可以多得到它發送更快。_
+      - Do you pay for the item when it comes?                                      _物品來時您是否為物品付款_
+      - You have to pay for it online with a credit card.                           _你必須用信用卡在網上支付費用。_
+
     -
       - "G: Hey, Steve. Look at my new smartphone. _B: Wow! It looks cool! Where did you buy it?_"
       - "B: Is it hard to buy things online? _G: It's really easy._"
