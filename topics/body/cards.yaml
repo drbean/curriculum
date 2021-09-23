@@ -257,6 +257,16 @@ feature:
       small : 小
   2:
     flash:
+      tall     : tall.jpg
+      short    : short.jpg
+      beautiful: beautiful.jpg
+      ugly     : ugly.jpg
+      young    : young.jpg
+      old      : old.jpg
+      strong   : strong.jpg
+      weak     : weak.jpg
+  3:
+    flash:
       tall     : 高
       short    : 短
       beautiful: 美麗
