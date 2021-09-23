@@ -119,7 +119,8 @@
     B: I'm making soup and salad.
     A: That sounds great. Do you need some help?
     B: No thanks, but I need two plates and two forks.
-  - Why|you|an|I'm making|for us. It's almost|What are you|I'm making|and|That sounds|Do you|some|No|but I need|End
+  - are.verb wearing.verb apron.noun lunch.noun ready.ad making.verb soup.noun salad.noun great.ad need.verb help.noun thanks.other two.ad plates.noun forks.noun End
+# - Why|you|an|I'm making|for us. It's almost|What are you|I'm making|and|That sounds|Do you|some|No|but I need|End
 -
   - "cooking-3"
   - "cooking-3"
