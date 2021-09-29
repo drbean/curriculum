@@ -289,6 +289,19 @@
     Rachel is on vacation in Brazil. She sees many things there. She goes into the jungle. It's hot. There are many bugs. There are also many birds. Rachel hears a noise. She walks toward it. What is it? It's a beautiful waterfall.
   - vacation.noun jungle.noun birds.noun noise.noun waterfall.noun End
 -
+  - pyramid-2
+  - "pyramid 2"
+  - "topics"
+  - "all"
+  - |+
+    A: Let's go on a vacation. Where do you want to go?
+    B: I want to go to Australia. I want to see kangaroos.
+    A: Well, I don't want to go there.
+    B: OK. Where do you want to go?
+    A: Egypt. I want to see the pyramids.
+    B: Yes, that would be really nice.
+  - go.verb vacation.noun do.verb want.verb australia.noun kangaroos.noun want.verb there.ad where.other egypt.noun pyramids.noun would.verb nice.ad End
+-
   - frisco-0
   - "Visit Frisco City!"
   - "topics"
