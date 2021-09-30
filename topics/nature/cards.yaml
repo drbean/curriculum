@@ -86,6 +86,16 @@ season:
       cool     : cool.jpg
   1:
     flash:
+      rake : rakestandard.jpg
+      other rake : rakeother.jpg
+      comb : comb.jpg
+      hair brush : hairbrush.png
+      paint brush : paintbrush.jpg
+      chinese brush : chinesebrush.jpg
+      broom : broom.jpg
+      other broom  : broomother.jpg
+  2:
+    flash:
       cherries : 櫻桃
       igloo    : 雪屋
       rake     : 耙
@@ -94,7 +104,7 @@ season:
       colors   : 顏色
       season   : 季節
       cool     : 涼
-  2:
+  3:
     flash:
       tree          : 樹
       flower        : 花
