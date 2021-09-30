@@ -1,6 +1,22 @@
 ---
 genre: topics
 pyramid:
+  match:
+    0:
+      identifier: pyramid-2 conversation
+      pair:
+        -
+          - "A: Let's go on a vacation. Where do you want to go?" 
+          - "B: I want to go to Australia. I want to see kangaroos."
+        -
+          - "B: Where do you want to go?"
+          - "A: Egypt. I want to see the pyramids." 
+        -
+          - "A: I don't want to go to Australia."
+          - "B: OK. Where do you want to go?"
+        -
+          - "A: I want to go to Egypt. I want to see the pyramids."
+          - "B: Yes, that would be really nice."
   bingo:
     - let's go on vacation this summer Egypt many pyramids Australia very big lots kangaroos careful in jungle animals bugs
     - let's go on a vacation this summer Egypt has many pyramids Australia is very big lots kangaroos be careful in jungle there animals bugs
