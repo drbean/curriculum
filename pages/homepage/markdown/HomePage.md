@@ -28,6 +28,7 @@
 - [ChinMin](ChinMin.html)
 - [MyHealth](MyHealth.html)
 - [MyDocuments](MyDocuments.html)
+- [MyPics](http://drbean.sdf.org/pics) A bag of my & other people's photos
 - [LettersOfRecommendation](LettersOfRecommendation.html)
 - [CoverLetter](CoverLetter.html)
 - [MyHobbies](MyHobbies.html)
