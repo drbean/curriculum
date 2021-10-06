@@ -29,14 +29,33 @@
   - "topics"
   - "all"
   - |+
-    Gold has been a part of many cultures for centuries. People made coins and jewelry with gold.
-    Gold is a soft metal. It is easy to shape into sheets, long wires or rings. People sometimes mix gold with other metals. This makes the gold harder. Then it can be made into beautiful jewelry.
-    Why do we value gold so much? It has a special color. No other metal is a bright yellow. We also value gold because it is rare. A rare thing is hard to find. Even after hundreds of years, gold is still a precious metal now. It is still valued for its beauty. It is still rare.
+    We also value gold because it is rare. A rare thing is hard to find. Even after hundreds of years, gold is still a precious metal now. It is still valued for its beauty. It is still rare.
     Today, banks store gold in the form of bars. Its value is more than 600 dollars per ounce. Gold is more useful now than ever before.
   - Gold|of|cultures for centuries|People|coins and|with|is a soft|It is|to shape|sheets|wires|rings|People|mix|other|This|the|Then|can|made into|Why|we|so much|No other|is|bright|We|because it is|thing|to find|Even|of years|is|precious|now|It is|for its|It|still|Today|store|in|form|bars|Its|is|600 dollars per ounce|is|now|ever before|End
+  -
+    noun: we gold metal it hundreds metal beauty banks gold value gold 
+    verb: do value value is is valued is 
+    ad:   yellow rare rare hard still rare more more useful 
+    other: also after the of than than
+    
 -
   - "gold-2"
   - "Gold 2"
+  - "topics"
+  - "all"
+  - |+
+    Why do we value gold so much? It has a special color. No other metal is a bright yellow. We also value gold because it is rare. A rare thing is hard to find. Even after hundreds of years, gold is still a precious metal now. It is still valued for its beauty. It is still rare.
+    Today, banks store gold in the form of bars. Its value is more than 600 dollars per ounce. Gold is more useful now than ever before.
+  - Why|we|so much|No other|is|bright|We|because it is|thing|to find|Even|of years|is|precious|now|It is|for its|It|still|Today|store|in|form|bars|Its|is|600 dollars per ounce|is|now|ever before|End
+  -
+    noun: we gold metal it hundreds metal beauty banks gold value gold 
+    verb: do value value is is valued is 
+    ad:   yellow rare rare hard still rare more more useful 
+    other: also after the of than than
+    
+-
+  - "gold-3"
+  - "Gold 3"
   - "topics"
   - "all"
   - |+
@@ -45,8 +64,8 @@
     A: People sometimes mix gold with other metals. This makes the gold harder.
     B: If the gold is harder, the jewelry is stronger. But now, gold is also used in computers.
 -
-  - "gold-3"
-  - "Gold 3"
+  - "gold-4"
+  - "Gold 4"
   - "topics"
   - "all"
   - |+
