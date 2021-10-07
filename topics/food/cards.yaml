@@ -22,6 +22,16 @@ cooking:
       sick    : 生病   
       hotdog  : 熱狗   
   flash:
+    1:
+      sick: top right hand corner.
+      cup of coffee : in the middle on the right.
+      cake: bottom right hand corner.
+      happy: in the middle at the top.
+      plate: right in the middle.
+      hotdog: in the middle at the bottom.
+      angry: top left hand corner.
+      glass of iced tea: in the middle on the left.
+      cupcake: bottom left hand corner.
     4:
       sick: top right hand corner.
       cup of coffee : in the middle on the right.
@@ -46,6 +56,16 @@ cooking:
       - "G: What are you making? _B: I'm making soup and salad._"
       - "B: I'm making soup and salad. _G: That sounds great._"
       - "G: Do you need some help? _B: No thanks, but I need two plates and two forks._"
+    -
+      - 1c.	_a sick boy_
+      - 2c.  _a cup of coffee_
+      - 3c.	_a cake_
+      - 1b.	_a happy boy_
+      - 2b.	_a plate with knife and fork_
+      - 3b.	_a hotdog_
+      - 1a.	_an angry boy_
+      - 2a. 	_a glass of iced tea_
+      - 3a.	_a cupcake_
     -
       - top right hand corner.	_sick_
       - in the middle on the right.  _cup of coffee_
