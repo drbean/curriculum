@@ -196,6 +196,16 @@ sleep:
       believe    : 相信
       silly      : 愚蠢
 haunted:
+  flash:
+    0:
+      haunted   : 鬧鬼
+      believe   : 相信
+      joking    : 開玩笑
+      furniture : 家具
+      ghost     : 鬼
+      beach     : 海灘
+      picture   : 圖片
+      wall      : 牆
   bingo:
     -
       - I'm visiting a haunted house this afternoon.                           _我今天下午參觀鬼屋。_
@@ -212,13 +222,13 @@ haunted:
       - Whew, I'm glad to hear that!                                           _噢，我很高興聽到這個消息！_
       - Sure, I'll come with you.                                              _當然，我會跟你一起去。_
     -
-      - It's raining! I wanted to go swimming!  _You can come with me to a haunted house if you like._
-      - What is the haunted house like?  _It's really dark, with old furniture and pictures on the walls._
-      - Where is the haunted house? _The house is in the old forest._
-      - The house is full of ghosts. _You're joking, right?_
-      - I thought you didn't believe in ghosts!  _Well, I don't really believe in ghosts, but ..._
-      - The old house isn't really haunted.  _I'm glad to hear that!_
-      - Do you want to come? _Sure, I'll come with you._
+      - "A: It's raining! I wanted to go swimming!  _B: You can come with me to a haunted house if you like._"
+      - "A: What is the haunted house like?  _B: It's really dark, with old furniture and pictures on the walls._"
+      - "A: Where is the haunted house? _B: The house is in the old forest._"
+      - "B: The house is full of ghosts. _A: You're joking, right?_"
+      - "B: I thought you didn't believe in ghosts!  _A: Well, I don't really believe in ghosts, but ..._"
+      - "B: The old house isn't really haunted.  _A: I'm glad to hear that!_"
+      - "B: Do you want to come? _A: Sure, I'll come with you._"
     -
       - The boy invites the girl to visit a haunted house with him.                 _這個男孩邀請女孩和他一起去找一個鬧鬼的房子。_
       - The girl asks what the house is like.                                       _女孩問這個房子是什麼樣的。_
