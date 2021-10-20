@@ -302,6 +302,14 @@
     B: Yes, that would be really nice.
   - go.verb vacation.noun do.verb want.verb australia.noun kangaroos.noun want.verb there.ad where.other egypt.noun pyramids.noun would.verb nice.ad End
 -
+  - pyramid-3
+  - "pyramid 3"
+  - "topics"
+  - "all"
+  - |+
+    The Great Pyramid of Giza is very big. It is in Egypt. It was built for a king. It is one of the most important places in the world. A long time ago, people used large, square rocks to build it, but no one really knows how they made the pyramid.
+  - pyramid.noun big.ad Egypt.noun built.verb king.noun one.noun important.ad world.noun used.verb square.ad rocks.noun build.verb one.noun knows.verb pyramid.noun End
+-
   - frisco-0
   - "Visit Frisco City!"
   - "topics"
