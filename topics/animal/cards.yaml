@@ -1,6 +1,16 @@
 ---
 genre: topics
 animals:
+  flash:
+    0:
+      bear         : bear.jpg
+      camel        : camel.jpg
+      flamingo     : flamingo.jpg
+      hippopotamus : hippopotamus.jpg
+      gorilla      : gorilla.jpg
+      parrot       : parrot.jpg
+      snake        : snake.jpg
+      zebra        : zebra.jpg
   0:
     flash:
       owl      :  1。貓頭鷹
