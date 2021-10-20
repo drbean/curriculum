@@ -45,6 +45,16 @@ clothes:
       jeans    : 牛仔褲
       socks    : 襪子
       blouse   : 襯衫
+  1:
+    flash:
+      shoes    : shoes.jpg
+      keys     : keys.jpg
+      backpack : backpack.jpg
+      pencil   : pencil.jpg
+      pen      : pen.jpg
+      jeans    : jeans.jpg
+      socks    : socks.jpg
+      blouse   : blouse.jpg
   3:
     flash:
       rent    : 出租   
