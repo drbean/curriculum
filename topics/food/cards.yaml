@@ -21,6 +21,38 @@ cooking:
       fork    : 叉子   
       sick    : 生病   
       hotdog  : 熱狗   
+  match:
+    0:
+      identifier: unit 2 quiz 9-card grid
+      pair:
+        -
+          - top left hand corner.
+          - an angry boy
+        -
+          - in the middle at the top.
+          - a happy boy
+        -
+          - top right hand corner.
+          - a sick boy
+        -
+          - in the middle on the left.
+          - a glass of iced tea
+        -
+          - right in the middle.
+          - a plate with knife and fork
+        -
+          - in the middle on the right.
+          - a cup of coffee
+        -
+          - bottom left hand corner.
+          - a cupcake
+        -
+          - in the middle at the bottom.
+          - a hotdog
+        -
+          - bottom right hand corner.
+          - a big cake
+        
   flash:
     1:
       sick: top right hand corner.
