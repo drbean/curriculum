@@ -3,7 +3,7 @@ genre: toeic speaking test
 slides:
   url:
     0:
-      identifier: "Slides for Question 3. Describe a picture"
+      identifier: "Slides for Question 3-4. Describe a picture"
       externalurl: http://drbean.sdf.org/toeic/pic.pdf
 numeric:
   jigsaw:
@@ -267,7 +267,7 @@ stall:
       rubric: |+
         Recording a stall picture description
 
-        Look at the fruit stall picture in "Question 3:describe a picture". Take 45 seconds to decide what to say. Record a 45-second description.
+        Look at the fruit stall picture in "Question 3-4:describe a picture". Take 45 seconds to decide what to say. Record a 45-second description.
 
         Follow the instructions to upload the sound file.
 
@@ -291,7 +291,7 @@ stall:
 street:
   essay:
     0:
-      identifier: Question 3. Describe a picture
+      identifier: Question 3-4. Describe a picture
       rubric: |+
          In this part of the test, you will describe the picture on your screen in as much detail as you can . You will have 30 seconds to prepare your response . Then you will have 45 seconds to speak about the picture. Record by clicking the Microphone button in the editor, or attach a sound file, by clicking the Video Camera button in the box to the left. Submit after choosing a good title for the reading (use keywords from the picture!)
 sentence:
@@ -518,7 +518,7 @@ planning:
         - question: There are some shelves in the foreground.
           answer: False
     1:
-      identifier: timing of Question 3--describe a picture
+      identifier: timing of Question 3-4--describe a picture
       quiz:
         - question: |+
             How long do you have to prepare your response?
@@ -535,7 +535,7 @@ planning:
             - 60 seconds
           answer: 45 seconds
     2:
-      identifier: preparing response to Question 3--describe a picture
+      identifier: preparing response to Question 3-4--describe a picture
       quiz:
         - question: It is NOT a good idea to use a more general word for something if you don't know the name of it, eg 'pipe' or 'tube' for 'air duct.'
           answer: False
