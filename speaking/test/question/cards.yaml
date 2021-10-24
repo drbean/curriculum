@@ -2,12 +2,12 @@
 slides:
   url:
     0:
-      identifier: "Slides for Question 4~6. Respond to questions"
+      identifier: "Slides for Question 5~7. Respond to questions"
       externalurl: http://drbean.sdf.org/toeic/question.pdf
 topic:
   jigsaw:
     0:
-      identifier: Topics that might/might not appear for Questions 4~6
+      identifier: Topics that might/might not appear for Questions 5~7
       quiz:
         - question: |+
             Which one of the following topics is NOT likely to appear in this section?
@@ -26,9 +26,9 @@ topic:
 vacation:
   forum:
     0:
-      identifier: Question 4~6. Respond to questions (in role)
+      identifier: Question 5~7. Respond to questions (in role)
       rubric: |+
-        In this part of the test, you will answer three questions . For each question, begin responding immediately after you hear a beep . 3 seconds preparation time is provided. You will have 15 seconds to respond to Questions 4 and 5, and 30 seconds to respond to Question 6 .
+        In this part of the test, you will answer three questions . For each question, begin responding immediately after you hear a beep . 3 seconds preparation time is provided. You will have 15 seconds to respond to Questions 5 and 6, and 30 seconds to respond to Question 7 .
 
         Choose 2 or 3 keywords from your answers as titles for your submission.
 
@@ -40,38 +40,38 @@ vacation:
 
             Questions:
 
-            4.  How many vacations from work do you 
+            5.  How many vacations from work do you 
                 take that are a week or more in length?
 
-            5.  Do you have a place you go to regularly 
+            6.  Do you have a place you go to regularly 
                 for a holiday?
 
-            6.  Tell me about the best vacation you 
+            7.  Tell me about the best vacation you 
                 have ever had. 
 tv:
   forum:
     0:
-      identifier: Question 4~6. Respond to questions (in role) about watching TV
+      identifier: Question 5~7. Respond to questions (in role) about watching TV
       rubric: |+
         Directions: In this part of the test, you will answer three
         questions. You will have three seconds to prepare after
         you hear each question. You will have 15 seconds to
-        respond to Questions 4 and 5, and 30 seconds to respond
-        to Question 6.
+        respond to Questions 5 and 6, and 30 seconds to respond
+        to Question 7.
 
         This is the example from the
-        [Examinee Handbook](https://etswebsiteprod.cdn.prismic.io/etswebsiteprod/87298936-2244-4315-9785-d1b38f091d9a_TOEIC+Speaking+and+Writing+tests+Examinee+Handbook.pdf)
+        [Examinee Handbook](https://www.ets.org/s/toeic/pdf/speaking-writing-examinee-handbook.pdf)
 
             Imagine that a Canadian marketing firm is 
             doing research in your country. You have 
             agreed to participate in a telephone 
             interview about television viewing.
 
-            - Question 4: How often do you watch 
+            - Question 5: How often do you watch 
               television?
-            - Question 5: What kinds of programmes do 
+            - Question 6: What kinds of programmes do 
               you usually watch?
-            - Question 6: Describe your favourite 
+            - Question 7: Describe your favourite 
               television programme
 
         Upload ONE sound file of about 60 seconds to the site.
