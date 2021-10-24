@@ -8,7 +8,7 @@ quiz:
 ---
 
 section:
-  name: Question 4~6. Respond to questions
+  name: Question 5~7. Respond to questions
   summary: Answer questions about practices and customs in your daily life and in your country
 ---
 
@@ -19,7 +19,7 @@ section:
     story : slides
     type  : url
     form  : 0
-    intro : Typical topics that appear in Questions 7~9, and typical questions about those topics
+    intro : Typical topics that appear in Questions 5~7, and typical questions about those topics
     random: 
 -
   content:
@@ -46,7 +46,7 @@ section:
     story : topic
     type  : jigsaw
     form  : 0
-    intro : Questions 4~6 are about non-controversial issues that everyone will have experience of in their daily lives
+    intro : Questions 5~7 are about non-controversial issues that everyone will have experience of in their daily lives
     random: 
 
 
