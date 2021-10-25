@@ -32,7 +32,7 @@ Do quizzes about TOEIC® Speaking tests!
 
 And more!
 
-[Do it!](https://toeic.moodlecloud.com)
+[Do it!](https://etest.moodlecloud.com)
 
   </div>
 </div>
