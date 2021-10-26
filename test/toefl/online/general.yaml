@@ -46,26 +46,6 @@ section:
   content:
   -
     topic : general
-    story : handbook
-    type  : jigsaw
-    form  : 0
-    intro : Identifying self at test site--What the Examinee Handbook on pp 7-8 says is un/acceptable
-    random: 
-
--
-  content:
-  -
-    topic : general
-    story : grade
-    type  : forum
-    form  : 0
-    intro : Test score and life success--not connected
-    random: 
-
--
-  content:
-  -
-    topic : general
     story : part
     type  : jigsaw
     form  : 0
