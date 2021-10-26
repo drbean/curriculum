@@ -10,6 +10,15 @@ mainfont: latinmodern-math.otf
 #- BoldItalicFont=Font-BoldItalic.otf
 ...
 
+# Official TOEFL®  web sites
+
+ETS:
+[https://www.ets.org/toefl/test-takers/](https://www.ets.org/toefl/test-takers/)
+
+edX:
+[https://www.edx.org/course/toefl-test-preparation-the-insiders-guide](https://www.edx.org/course/toefl-test-preparation-the-insiders-guide)
+
+
 # Coronavirus (COVID-19) and TOEFL®
 
 ## TOEFL® measures to cope with COVID-19 in the Asia-Pacific
