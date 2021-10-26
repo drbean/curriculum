@@ -33,11 +33,11 @@ introduction:
 
         ## Enrolling yourself in the Teach Yourself TOEFL course
 
-        6. Then, login with your Username and Password and on the top page of the Teach Yourself TOEFL Speaking course, in the top right hand corner, you will see a gearwheel.
+        6. Then, login with your Username and Password and on the top page of the Teach Yourself TOEFL course, in the top right hand corner, you will see a gearwheel.
         7. Click that gearwheel, and click the Enrol me in this course button which will appear.
         8. Then in the Enrolment key textbox which appears, type in the key, which is the word, toeic.
 
-        ## Welcome again to Teach yourself TOEFL Speaking.
+        ## Welcome again to Teach yourself TOEFL
 
         9. Familiarize yourself with the different questions in the TOEFL Speaking test.
 
@@ -61,69 +61,74 @@ handbook:
         The TOEFL iBT® Test Prep Planner is downloadable at
 
         [https://www.ets.org/s/toefl/pdf/toefl_student_test_prep_planner.pdf](ettps://www.ets.org/s/toefl/pdf/toefl_student_test_prep_planner.pdf)
+
 	or
 
-        [http://web.nuu.edu.tw/~greg/toefl/toefl_student_test_prep_planner.pdf](http://web.nuu.edu.tw/~greg/toefl/toefl_student_test_prep_planner.pdf)
+        [http://drbean.sdf.org/toefl/toefl_student_test_prep_planner.pdf](http://drbean.sdf.org/toefl/toefl_student_test_prep_planner.pdf)
 
-1. The four sections of the TOEFL iBT® test are Reading, Listening, Speaking and Writing.
-
-
-True
-False
+overview:
+  jigsaw:
+    0:
+      identifier: Test structure knowledge quiz
+      quiz: |+
+        - question: 1. The four sections of the TOEFL iBT® test are Reading, Listening, Speaking and Writing.
+          answer: True
+        - question: |+
+            2. How long is the scheduled break during the TOEFL iBT test?        
+          option:
+            - 2 minutes
+            - 5 minutes
+            - 10 minutes
+            - 15 minutes
 unanswered
-2. How long is the scheduled break during the TOEFL iBT test?
+          answer: 10 minutes
+        - question: |+
+            3. How many tasks are in the Speaking section of the TOEFL iBT test?
+          option:
+            - 1
+            - 2
+            - 3
+            - 4
+          answer: 4
+        - question: |+
+            4. What is the total time allowed for the two questions in the Writing section of the TOEFL iBT test?
+          option:
+            - 20 minutes
+            - 30 minutes
+            - 40 minutes
+            - 50 minutes
+          answer: 50 minutes
+  page:
+    0:
+      identifier: Overview of the 4 test sections
+      content: |+
+        The TOEFL Test has four sections, Reading, Listening, Speaking, and Writing. All four sections are completed in one testing session, with three hours of testing time.
 
+        The first section is Reading.
 
-2 minutes
-5 minutes
-10 minutes
-15 minutes
-unanswered
-3. How many tasks are in the Speaking section of the TOEFL iBT test?
+        The Reading section has three or four passages of about 700 words each.
+        For each passage, you will answer 10 multiple choice questions.
+        You will have 54 to 72 minutes to complete the Reading section. During that time, you can return to previous questions to review or change your answers.
+        Next, is the Listening section.
 
+        For this section, you will wear a headset to hear the conversations and lectures.
+        There are 2 or 3 conversations. Each is about 3 minutes long and has 5 multiple choice questions.
+        There are 3 or 4 lectures, each of those about 3 to 5 minutes long and has 6 multiple choice questions.
+        In the Listening section, you will only hear the conversations and lectures one time. Also, you must answer the questions in the order that they are presented. In this section, you can't go back to previous questions.
+        You will have 41 to 57 minutes to complete the section.
+        You probably noticed that in the Reading and Listening sections, the testing time and number of questions can vary. That is because every test includes some extra questions that are being evaluated by ETS for use in future tests and do not count toward your score.
 
-1
-2
-3
-4
-unanswered
-4. What is the total time allowed for the two questions in the Writing section of the TOEFL iBT test?
+        So, your test will either have extra Reading questions or extra Listening questions, but never both. And you won't know which questions are the extra ones, so make sure you do your best on all of them.
 
+        After the Listening section, there is a required 10-minute break. So use the time to have some water or a snack and refresh yourself for the rest of the test.
 
-20 minutes
-30 minutes
-40 minutes
-50 minutes
-unanswered
-SubmitSome problems have options such as save, reset, hints, or show answer. These options follow the Submit button.gg
+        After the break is the Speaking section.
 
-The TOEFL Test has four sections, Reading, Listening, Speaking, and Writing. All four sections are completed in one testing session, with three hours of testing time.
+        The Speaking section has four tasks and takes about 17 minutes to complete.
+        Some tasks require you to listen to part of a conversation or lecture, so you will continue to use your headset. Some also require you to read a short passage.
+        For each task, you will be asked a question and will be given a short time to prepare your response. Then, you will speak into the microphone on your headset for 45 to 60 seconds, depending on the question.
+        Last is the Writing section.
 
-The first section is Reading.
-
-The Reading section has three or four passages of about 700 words each.
-For each passage, you will answer 10 multiple choice questions.
-You will have 54 to 72 minutes to complete the Reading section. During that time, you can return to previous questions to review or change your answers.
-Next, is the Listening section.
-
-For this section, you will wear a headset to hear the conversations and lectures.
-There are 2 or 3 conversations. Each is about 3 minutes long and has 5 multiple choice questions.
-There are 3 or 4 lectures, each of those about 3 to 5 minutes long and has 6 multiple choice questions.
-In the Listening section, you will only hear the conversations and lectures one time. Also, you must answer the questions in the order that they are presented. In this section, you can't go back to previous questions.
-You will have 41 to 57 minutes to complete the section.
-You probably noticed that in the Reading and Listening sections, the testing time and number of questions can vary. That is because every test includes some extra questions that are being evaluated by ETS for use in future tests and do not count toward your score.
-
-So, your test will either have extra Reading questions or extra Listening questions, but never both. And you won't know which questions are the extra ones, so make sure you do your best on all of them.
-
-After the Listening section, there is a required 10-minute break. So use the time to have some water or a snack and refresh yourself for the rest of the test.
-
-After the break is the Speaking section.
-
-The Speaking section has four tasks and takes about 17 minutes to complete.
-Some tasks require you to listen to part of a conversation or lecture, so you will continue to use your headset. Some also require you to read a short passage.
-For each task, you will be asked a question and will be given a short time to prepare your response. Then, you will speak into the microphone on your headset for 45 to 60 seconds, depending on the question.
-Last is the Writing section.
-
-You will complete two writing tasks in 50 minutes by typing your responses into the computer.
-In the first task, you will read a passage and listen to a short lecture, then write your response. You will have 20 minutes to write your response.
-In the second task, you will be asked your opinion on an issue and you will have 30 minutes to write your response.
+        You will complete two writing tasks in 50 minutes by typing your responses into the computer.
+        In the first task, you will read a passage and listen to a short lecture, then write your response. You will have 20 minutes to write your response.
+        In the second task, you will be asked your opinion on an issue and you will have 30 minutes to write your response.
