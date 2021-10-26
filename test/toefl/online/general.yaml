@@ -29,7 +29,7 @@ section:
     story : handbook
     type  : url
     form  : 0
-    intro : Links for the official TOEIC Speaking Handbook
+    intro : Links for the official TOEFL Handbook
     random: 
 
 -
@@ -39,7 +39,7 @@ section:
     story : slides
     type  : url
     form  : 0
-    intro : The 6 different kinds of questions in the test and topics which do not fall into any of the 6 questions types.
+    intro : The different kinds of questions in the test and topics which do not fall into any of the 6 questions types.
     random: 
 
 -
