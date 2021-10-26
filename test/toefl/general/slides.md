@@ -43,7 +43,7 @@ of it.
 
 ## Midterm, final tests
 
-The plan is to simulate the TOEIC test experience under test conditions at certain points of the course on the Internet.
+The plan is to simulate the TOEFL test experience under test conditions at certain points of the course on the Internet.
 
 I will try to grade your answers the way an actual test rater would score you.
 
@@ -51,7 +51,7 @@ I will try to grade your answers the way an actual test rater would score you.
 
 ## Extra credit for students posting links to testing material
 
-Please post links to online TOEIC, TOEFL and IELTS speaking/writing tests
+Please post links to online TOEFL and IELTS speaking/writing tests
 
 Or books with TOEFL speaking/writing tests.
 
@@ -65,8 +65,8 @@ If it is in a book, give the name of the book and authors.
 
 ## ETS in 台灣
 
-- [ETS Preferred Associate in Taiwan](http://www.toeic.com.tw/sw/)
-- [Dates](http://www.toeic.com.tw/sw/tests_info.jsp)
+- [TOEFL in Taiwan](https://www.ets.org/toefl/contact/test-takers/taiwan)
+- [Locations and Dates](https://v2.ereg.ets.org/ereg/public/workflowmanager/schlWorkflow?_p=TEL)
 
 ## IELTS in 台灣
 
@@ -75,6 +75,10 @@ If it is in a book, give the name of the book and authors.
 ## GEPT
 
 - [https://www.gept.org.tw/](https://www.gept.org.tw/)
+
+# Verbs meaning to communicate 
+
+## Student use of *tell*
 
 We need to use imagination and information to create complete sentences in the test, so the more information we can write means the more complete sentences we can *tell* in the test.
 
@@ -119,7 +123,9 @@ ask (= make a question)
 
 * Students don't ask enough questions.
 
-# [ Final http://web.nuu.edu.tw/~greg/toeic/sample/Full Speaking toeic test 03 _ Practice Speaking toeic test with Answers-64E4yFhUUWQ.mp4](http://web.nuu.edu.tw/~greg/toeic/sample/Full Speaking toeic test 03 _ Practice Speaking toeic test with Answers-64E4yFhUUWQ.mp4)
+# Material from the edX TOEFL® Test Preparation: The Insider’s Guide
+
+## Introduction to the TOEFL test
 
 The TOEFL Test has four sections, Reading, Listening, Speaking, and Writing. All four sections are completed in one testing session, with three hours of testing time.
 
@@ -128,6 +134,7 @@ The first section is Reading.
 The Reading section has three or four passages of about 700 words each.
 For each passage, you will answer 10 multiple choice questions.
 You will have 54 to 72 minutes to complete the Reading section. During that time, you can return to previous questions to review or change your answers.
+
 Next, is the Listening section.
 
 For this section, you will wear a headset to hear the conversations and lectures.
@@ -145,24 +152,12 @@ After the break is the Speaking section.
 
 The Speaking section has four tasks and takes about 17 minutes to complete.
 Some tasks require you to listen to part of a conversation or lecture, so you will continue to use your headset. Some also require you to read a short passage.
+
 For each task, you will be asked a question and will be given a short time to prepare your response. Then, you will speak into the microphone on your headset for 45 to 60 seconds, depending on the question.
+
 Last is the Writing section.
 
 You will complete two writing tasks in 50 minutes by typing your responses into the computer.
 In the first task, you will read a passage and listen to a short lecture, then write your response. You will have 20 minutes to write your response.
 In the second task, you will be asked your opinion on an issue and you will have 30 minutes to write your response.
 
-
-Practice online
-
-The TOEFL® program is offering an exclusive discount on additional official preparation materials to participants in the “TOEFL Test Preparation: The Insider’s Guide” course.
-
-Receive 25% off any TOEFL® Practice Online products at www.ets.org/toefl/shoptestprep(opens new window) through June 14, 2022 by using the following promotional code during checkout:
-
-TOEFLM202012edX 
-
-For targeted practice of the Reading section, we recommend the Reading and Listening Practice Tests. 
-
-Be sure to check the technical requirements before ordering.
-
-All TOEFL® Practice Online products give you the experience of the real TOEFL iBT® test. They are scored by computer, and results are available within 24 hours.
