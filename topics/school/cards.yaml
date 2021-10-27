@@ -335,6 +335,16 @@ home:
       - Some people feel that public schools give a sense of community.                           _有些人覺得公立學校有社區意識。_
       - In the end, parents must decide if home schooling is the right choice for their children. _最後，父母必須決定家庭教育是否是他們孩子的正確選擇。_
 homework:
+  flash:
+    0:
+      homework : 在家工作
+      minutes  : 分鐘
+      notebook : 筆記本
+      word     : 單詞
+      essay    : 散文
+      copy     : 復制
+      look     : 看看
+      see      : 看得到
   1:
     flash:
       "G: Did you finish your homework for English class?"                                : "B: Homework? There wasn't any homework."
