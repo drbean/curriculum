@@ -1,128 +1,88 @@
 ---
-practice:
+timing:
   jigsaw:
     0:
       identifier: keeping track of time
       quiz:
-        
-During the Reading section, you should spend no more than 18 minutes on each passage and its related questions.  As you practice, you will see how much time you typically need to read each passage and how much time you typically need to answer the questions. Once you figure this out, you can adjust how much time you need to give yourself.
+        - question: |+
+            The text says, "During the Reading section, you should spend no more than 18 minutes on each passage and its related questions.  As you practice, you will see how much time you typically need to read each passage and how much time you typically need to answer the questions. Once you figure this out, you can adjust how much time you need to give yourself." What is the main idea of this passage?
+          option:
+            - You need to answer all the questions on each passage in 18 minutes, because after that time the next passage is presented.
+            - When practicing, if you find you are spending more than 18 minutes on each passage, you need to speed up.
+            - You can compare the time you take on each passage in practice with the 18 minutes required, and then adjust that time.
+          answer: When practicing, if you find you are spending more than 18 minutes on each passage, you need to speed up.
+strategy:
+  jigsaw:
+    0:
+      identifier: Efficient reading
+      quiz:
+        - question: |+
+            0. The text says, "It's a good idea to begin by focusing on the big picture." What does this mean you should do?
+          option:
+            - Take a step back and look at the text from a wider perspective.
+            - Find illustrations in the text which help to explain it.
+            - Narrow one's view of a big topic so its focus is clearly seen.
+          answer: Take a step back and look at the text from a wider perspective.
+        - question: |+
+            1. Which of the following techniques may be helpful when approaching a TOEFL iBT® Reading passage?
+          option:
+            -  Skimming
+            -  Scanning
+            -  Taking notes
+            -  All the above
+          answer: All the above
+        - question: |+
+            2. In the Reading section, you will be able to see the passage as you answer each question.
+          answer: True
+        - question: 3. In the Reading section, you can return to previous questions to review and change your answers.
+          answer: True
 
-Quiz
-
-1. Which of the following techniques may be helpful when approaching a TOEFL iBT® Reading passage?
-
-
-
-
-Skimming  
-
-Scanning  
-
-Taking notes  
-
-All the above  
- 
-unanswered  
- 
-
-2. In the Reading section, you will be able to see the passage as you answer each question.
-
-
-
-
-True  
-
-False  
- 
-unanswered  
- 
-
-
-3. In the Reading section, you can return to previous questions to review and change your answers.
-
-
-
-
-True  
-
-False  
-
-factual/neg factual questions
-
-1. Factual Information questions ask you to recognize information explicitly stated in the text. This information can include:
-
-
-
-
-  Major ideas  
-
-  Supporting details  
-
-  Definitions  
-
-  All the above  
-   
-  unanswered  
-   
-
-
-  2. In a Negative Factual question, 3 out of 4 answers are correct and only one answer choice is incorrect.
-
-
-
-
-  True  
-
-  False  
-   
-  unanswered  
-   
-
-
-  3. Negative Factual Information questions contain the words "NOT" or "EXCEPT" in capital letters.
-
-
-
-
-  True  
-
-  False  
+factual:
+  jigsaw:
+    0:
+      identifier: Factual Information and Negative Factual Information questions
+      quiz:
+        - question: 0. Factual Information questions may ask you to recognize ideas not explicitly stated in the text.
+          answer: False
+        - question: |+
+            "1. Factual Information questions ask you to recognize information explicitly stated in the text. This information can include:"
+          option:
+            - Major ideas  
+            - Supporting details  
+            - Definitions  
+            - All the above  
+          answer: All the above
+      - question: 2. In a Negative Factual question, 3 out of 4 answers are correct and only one answer choice is incorrect.
+        answer: True
+      - question: 3. Negative Factual Information questions contain the words "NOT" or "EXCEPT" in capital letters.
+        answer: True
   
-rhetorical purpose questions
-
-1. An Inference question could ask you to identify information that is not explicitly stated.
-
-
-
-
-True  
-
-False  
- 
-unanswered  
- 
-2. Inference questions usually include the words "exactly", "directly" or "precisely".
-
-
-
-
-True  
-
-False  
- 
-unanswered  
- 
-3. Rhetorical Purpose questions ask why an author has presented a piece of information.
-
-
-
-
-True  
-
-False  
- 
-unanswered  
- 
+inference:
+  jigsaw:
+    0:
+      identifier: Inference questions asking about information/ideas not explicitly stated
+      quiz:
+        - question: 1. An Inference question could ask you to identify information that is not explicitly stated.
+          answer: True
+        - question: 2. Inference questions usually include the words "exactly", "directly" or "precisely".
+          answer: False
+        - question: |+
+            The words "infer," "imply" or "suggest" indicate the question is about information not actually in the passage.
+          answer: True
+purpose:
+  jigsaw:
+    0:
+      identifier: Rhetorical purpose questions asking about author purpose/choice 
+      quiz:
+        - question: 3. Rhetorical Purpose questions ask why an author has presented a piece of information.
+          answer: True
+        - question: |+
+            "Rhetorical purpose questions are like inference questions. The difference is:"
+          option:
+            - Rhetorical purpose questions ask you to infer something about the writer's intentions.
+            - Inference questions ask you to infer something not stated in the text.
+            - Both types of questions ask you to 'read between the lines.'
+          answer: Rhetorical purpose questions ask you to infer something about the writer's intentions.
 
 vocab
 
