@@ -9,7 +9,7 @@ timing:
           option:
             - You need to answer all the questions on each passage in 18 minutes, because after that time the next passage is presented.
             - When practicing, if you find you are spending more than 18 minutes on each passage, you need to speed up.
-            - You can compare the time you take on each passage in practice with the 18 minutes required, and then adjust that time.
+            - You can compare the time you take on each passage in practice with the 18 minutes required, but you are allowed to adjust that time.
           answer: When practicing, if you find you are spending more than 18 minutes on each passage, you need to speed up.
 strategy:
   jigsaw:
@@ -83,94 +83,83 @@ purpose:
             - Inference questions ask you to infer something not stated in the text.
             - Both types of questions ask you to 'read between the lines.'
           answer: Rhetorical purpose questions ask you to infer something about the writer's intentions.
-
-vocab
-
-1. Vocabulary questions ask you to identify the meanings of words or phrases as they are used in a reading passage. 
-
-
-
-
-True  
-
-False  
- 
-unanswered  
- 
-2. Academic vocabulary words can be used across many fields of study. Specialized vocabulary words are specific to one field. Which kind of words are tested in the Reading section? 
-
-
-
-
-Academic  
-
-Specialized  
-
-Both  
-
-Neither 
-
-
-Reference quiz
-
-1. Reference questions ask you to verify what information is true and what information is not true in a passage.
-
-
-
-
-True  
-
-False  
- 
-unanswered  
- 
-2. Reference questions ask you what a word or phrase is referring to.
-
-
-
-
-True  
-
-False 
-
-Sentence simplification
-
-
-
-1. Sentence Simplification questions ask you to identify a sentence that has essentially the same meaning as a sentence from a reading passage. 
-
-
-
-
-True  
-
-False  
- 
-unanswered  
- 
-2. For Sentence Simplification questions the correct answer choice: 
-
-
-
-
-May leave out minor or unimportant details  
-
-Restates the most important information in a simpler way  
-
-All the above  
- 
-unanswered  
- 
-
-insert text questions
-
-The Insert Text questions are designed to show that you understand the logical order of ideas in a reading passage. 
-True  
-
-False  
- 
-unanswered  
- 
+vocab:
+  jigsaw:
+    0:
+      identifier: Word/phrase meanings
+      quiz:
+        - question: 0. It might be difficult to find the position of the words whose meanings you are asked. The reason? They are not highlighted in the accompanying reading passage.
+          answer: False
+        - question: 1. Vocabulary questions ask you to identify the meanings of words or phrases as they are used in a reading passage. 
+          answer: True
+        - question: |+
+            2. Academic vocabulary words can be used across many fields of study. Specialized vocabulary words are specific to one field. Which kind of words are tested in the Reading section?            
+          option:
+            - Academic  
+            - Specialized  
+            - Both  
+            - Neither 
+          answer: Academic
+        - question:  3. "arbitrary", "capacity", "fluctuate", "relatively" are specialized words you are not expected to know.
+          answer: False
+        - question:  4. "cadence" (Music) "monopolies" (Business) "desertification" (Earth "Science") "cetaceans" (Biology) are specialized words in the respective subjects, whose meanings you may have to guess.
+          answer: False
+reference:
+  jigsaw:
+    0:
+      identifier: The connection of words/phrases in different sentences
+      quiz:
+        - question: 1. Reference questions ask you to verify what information is true and what information is not true in a passage.
+          answer: False
+        - question: 2. Reference questions ask you what a word or phrase is referring to.
+          answer: True
+equivalences:
+  jigsaw:
+    0:
+      identifier: Identifying sentences with similar meaning
+      quiz:
+        - question: |+
+            0. Phrases characteristic of sentence simplification questions are--
+          option:
+            - "According to the paragraph," or "Paragraph X answers which of the following?"
+            - phrases like "closest in meaning" or "the author means." 
+            - "Which of the sentences below best expresses the essential information in the following sentence?"
+            - All the above  
+          answer: "Which of the sentences below best expresses the essential information in the following sentence?"
+        - question: 1. Sentence Simplification questions ask you to identify a sentence that has essentially the same meaning as a sentence from a reading passage. 
+          answer: True
+        - question: |+
+            2. For Sentence Simplification questions the correct answer choice--
+          option:
+            - May leave out minor or unimportant details
+            - Restates the most important information in a simpler way  
+            - All the above 
+          answer: All the above
+        - question: 3. A sentence which changes the meaning of the quoted sentence cannot be the right answer to a Sentence Simplification question.
+          answer: True
+        - question: 4. Answering a Sentence Simplification question requires you to do "what" to the essential and inessential parts of a sentence?
+          option:
+            - Mix them up
+            - Distinguish them
+            - Relate them
+          answer: Distinguish them
+        - question: 5. Cause/effect relationships and conclusions based on evidence will appear in the question, but not in the sentence which is the right answer.
+          answer: False
+        - question: |+
+            6. What determines whether a sentence is the right answer?
+          option:
+            - Examples
+            - Parentheses
+            - Numbers/dates
+            - Ideas
+          answer: Ideas
+order:
+  jigsaw:
+    0:
+      identifier: Understanding logical order by inserting text
+      quiz:
+        - question: The Insert Text questions are designed to show that you understand the logical order of ideas in a reading passage. 
+          answer: True
 
 summary, table questions
 1. The Prose Summary questions are designed to show that you recognize contradictory ideas in a reading passage.
