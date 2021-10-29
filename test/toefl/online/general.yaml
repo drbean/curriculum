@@ -8,7 +8,7 @@ quiz:
 ---
 
 section:
-  name: The TOEIC Speaking Test
+  name: The TOEFL Test
   summary: The structure of the test and how to approach doing it
 ---
 
@@ -29,7 +29,7 @@ section:
     story : handbook
     type  : url
     form  : 0
-    intro : Links for the official TOEFL Handbook
+    intro : Links for the official TOEFL Prep Planner and Handbook
     random: 
 
 -
@@ -59,53 +59,33 @@ section:
     story : slides
     type  : url
     form  : 0
-    intro : The different kinds of questions in the test and topics which do not fall into any of the 6 questions types.
+    intro : Course introduction, Web resources
     random: 
 
--
-  content:
-  -
-    topic : general
-    story : part
-    type  : jigsaw
-    form  : 0
-    intro : Identifying the 11 questions (6 parts) in the Speaking test
-    random: 
-
--
-  content:
-  -
-    topic : general
-    story : example
-    type  : forum
-    form  : 0
-    intro : Call for links to practice tests online
-    random: 
-
--
-  content:
-  -
-    topic : general
-    story : note
-    type  : jigsaw
-    form  : 0
-    intro : |+
-      Using notes to speak well in test. Before doing this quiz, watch Gwen's explanation of the scratch paper at [https://www.youtube.com/watch?v=xk5irxh0K1U](https://www.youtube.com/watch?v=xk5irxh0K1U)
-    random: 
-  -
-    topic : general
-    story : note
-    type  : jigsaw
-    form  : 1
-    intro : Pen with full tip you get. Listen from the 7:30 point to Gwen--[https://www.youtube.com/watch?v=xk5irxh0K1U](https://  +www.youtube.com/watch?v=xk5irxh0K1U)
-    random: 
-  -
-    topic : general
-    story : note
-    type  : jigsaw
-    form  : 2
-    intro : Note-taking incident in test. Listen from the 8:40 point to Gwen--[https://www.youtube.com/watch?v=xk5irxh0K1U](https://  +www.youtube.com/watch?v=xk5irxh0K1U)
-    random: 
+    #-
+    #  content:
+    #  -
+    #    topic : general
+    #    story : note
+    #    type  : jigsaw
+    #    form  : 0
+    #    intro : |+
+    #      Using notes to speak well in test. Before doing this quiz, watch Gwen's explanation of the scratch paper at [https://www.youtube.com/watch?v=xk5irxh0K1U](https://www.youtube.com/watch?v=xk5irxh0K1U)
+    #    random: 
+    #  -
+    #    topic : general
+    #    story : note
+    #    type  : jigsaw
+    #    form  : 1
+    #    intro : Pen with full tip you get. Listen from the 7:30 point to Gwen--[https://www.youtube.com/watch?v=xk5irxh0K1U](https://  +www.youtube.com/watch?v=xk5irxh0K1U)
+    #    random: 
+    #  -
+    #    topic : general
+    #    story : note
+    #    type  : jigsaw
+    #    form  : 2
+    #    intro : Note-taking incident in test. Listen from the 8:40 point to Gwen--[https://www.youtube.com/watch?v=xk5irxh0K1U](https://  +www.youtube.com/watch?v=xk5irxh0K1U)
+    #    random: 
   
 
 
