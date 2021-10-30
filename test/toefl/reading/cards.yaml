@@ -166,70 +166,46 @@ order:
           answer: False
         - question: 3. A good way to do Insert Text questions is to look for words which are repeated from the text.
           answer: True
+
+summary:
+  jigsaw:
+    0:
+      identifier: Prose Summary questions
+      quiz:
+        - question: 0. This question requires choosing the 3 most important ideas of the passage.
+          answer: True
+        - question: 1. The Prose Summary questions are designed to show that you recognize contradictory ideas in a reading passage.
+          answer: False
+        - question: 2. When answering Prose Summary questions, you will need to select the three answer choices that express the most important ideas in the passage.
+          answer: True
+        - question: |+
+            3. Prose Summary questions are worth how many points?
+          option:
+            - 1
+            - 2
+            - 3
+            - 4
+          answer: 2
+        - question: 3. The sentences you choose for the summary have to be in the right order.
+          answer: False
+        - question: 4. After you finish this reading passage and do the next one, you cannot change your answer to this question.
+          answer: False
+        - question: 5. You score 2 points for 3 correct sentences, 1 for 2 correct sentences, and 0 for 1 correct one.
+          answer: True
+table:
+  jigsaw:
+    0:
+      identifier: Fill in Table questions
+      quiz:
+        - question: 0. One item might fit in two categories.
+          answer: False
+        - question: 1. For Prose Summary and Fill in a Table questions, your answers do not have to be in a particular order.
+          answer: True
+        - question: 2. Each reading passage will have both a Prose Summary and a Fill in a Table question.
+          answer: False
+        - question: The Fill in the Table questions require deciding what an item is.
+          answer: True
         
-
-summary, table questions
-1. The Prose Summary questions are designed to show that you recognize contradictory ideas in a reading passage.
-
-
-
-
-True  
-
-False  
- 
-unanswered  
- 
-2. When answering Prose Summary questions, you will need to select the three answer choices that express the most important ideas in the passage.
-
-
-
-
-True  
-
-False  
- 
-unanswered  
- 
-3. Prose Summary questions are worth how many points?
-
-
-
-
-1  
-
-2  
-
-3  
-
-4  
- 
-unanswered  
- 
-4. For Prose Summary and Fill in a Table questions, your answers do not have to be in a particular order.
-
-
-
-
-True  
-
-False  
- 
-unanswered  
- 
-5. Each reading passage will have both a Prose Summary and a Fill in a Table question.
-
-
-
-
-True  
-
-False  
- 
-unanswered  
- 
-
-Reading practice test directions
 
 Reading Practice Test Directions
 
