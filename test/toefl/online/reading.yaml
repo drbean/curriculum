@@ -8,233 +8,97 @@ quiz:
 ---
 
 section:
-  name: The TOEFL Test
-  summary: The structure of the test and how to approach doing it
+  name: Reading: The first section of the TOEFL iBT® Test
+  summary: 3, 4 700-word reading passages with 10 questions each
 ---
 
 -
   content:
   -
-    topic : general
-    story : introduction
-    type  : page
-    form  : 0
-    intro : Logging on to the site
-    random: 
-
--
-  content:
-  -
-    topic : general
-    story : handbook
-    type  : page
-    form  : 0
-    intro : Links for the official TOEFL Prep Planner and Handbook
-    random: 
-
--
-  content:
-  -
-    topic : general
-    story : handbook
-    type  : url
-    form  : 0
-    intro : Links for the official TOEFL Prep Planner and Handbook
-    random: 
-
--
-  content:
-  -
-    topic : general
-    story : overview
-    type  : page
-    form  : 0
-    intro : The 4 sections of the test and what to expect in them
-    random: 
-
--
-  content:
-  -
-    topic : general
-    story : overview
+    topic : reading
+    story : timing
     type  : jigsaw
     form  : 0
-    intro : Check your understanding of the overview
+    intro : Allow 18 minutes for each passage
     random: 
 
 -
   content:
   -
-    topic : general
-    story : slides
-    type  : url
+    topic : reading
+    story : strategy
+    type  : jigsaw
     form  : 0
-    intro : Course introduction, Web resources
+    intro : Strategies used by the good reader
     random: 
 
-    #-
-    #  content:
-    #  -
-    #    topic : general
-    #    story : note
-    #    type  : jigsaw
-    #    form  : 0
-    #    intro : |+
-    #      Using notes to speak well in test. Before doing this quiz, watch Gwen's explanation of the scratch paper at [https://www.youtube.com/watch?v=xk5irxh0K1U](https://www.youtube.com/watch?v=xk5irxh0K1U)
-    #    random: 
-    #  -
-    #    topic : general
-    #    story : note
-    #    type  : jigsaw
-    #    form  : 1
-    #    intro : Pen with full tip you get. Listen from the 7:30 point to Gwen--[https://www.youtube.com/watch?v=xk5irxh0K1U](https://  +www.youtube.com/watch?v=xk5irxh0K1U)
-    #    random: 
-    #  -
-    #    topic : general
-    #    story : note
-    #    type  : jigsaw
-    #    form  : 2
-    #    intro : Note-taking incident in test. Listen from the 8:40 point to Gwen--[https://www.youtube.com/watch?v=xk5irxh0K1U](https://  +www.youtube.com/watch?v=xk5irxh0K1U)
-    #    random: 
-  
+-
+  content:
+  -
+    topic : reading
+    story : factual
+    type  : jigsaw
+    form  : 0
+    intro : What the text says
+    random: 
 
+-
+  content:
+  -
+    topic : reading
+    story : inference
+    type  : jigsaw
+    form  : 0
+    intro : What the text does not say but you should understand
+    random: 
 
-#-
-#  grade: 0
-#  content:
-#    -
-#      topic : general
-#      story : instruction
-#      type  : description
-#      form  : 1
-#      intro : final, week 17, 108-2
-#      random: 
-#-
-#  content:
-#    -
-#      topic : general
-#      story : read
-#      type  : forum
-#      form  : 5
-#      intro : text 1, job interview advice
-#      random: 
-#-
-#  content:
-#    -
-#      topic : general
-#      story : read
-#      type  : forum
-#      form  : 6
-#      intro : text 2, ocean view restaurant
-#      random: 
-#-
-#  content:
-#    -
-#      topic : general
-#      story : pic
-#      type  : forum
-#      form  : 2
-#      intro : woman, man meeting
-#      random: 
-#-
-#  grade: 0
-#  content:
-#    -
-#      topic : general
-#      story : question
-#      type  : description
-#      form  : 0
-#      intro : question directions
-#      random: 
-#-
-#  content:
-#    -
-#      topic : general
-#      story : question
-#      type  : forum
-#      form  : 5
-#      intro : popular physical exercise
-#      random: 
-#-
-#  content:
-#    -
-#      topic : general
-#      story : question
-#      type  : forum
-#      form  : 6
-#      intro : you and exercise
-#      random: 
-#-
-#  content:
-#    -
-#      topic : general
-#      story : question
-#      type  : forum
-#      form  : 7
-#      intro : encouraging exercise
-#      random: 
-#-
-#  grade: 0
-#  content:
-#    -
-#      topic : general
-#      story : information
-#      type  : description
-#      form  : 0
-#      intro : Management seminar
-#      random: 
-#-
-#  content:
-#    -
-#      topic : general
-#      story : information
-#      type  : forum
-#      form  : 8
-#      intro : Managememnt seminar times
-#      random: 
-#-
-#  content:
-#    -
-#      topic : general
-#      story : information
-#      type  : forum
-#      form  : 9
-#      intro : Emmett Lee on conference calls
-#      random: 
-#-
-#  content:
-#    -
-#      topic : general
-#      story : information
-#      type  : forum
-#      form  : 10
-#      intro : Jeffrey Blair sessions
-#      random: 
-#-
-#  content:
-#    -
-#      topic : general
-#      story : solution
-#      type  : forum
-#      form  : 0
-#      intro : Doctor, nurse reply to medical emergency
-#      random: 
-#-
-#  grade: 0
-#  content:
-#    -
-#      topic : general
-#      story : opinion
-#      type  : description
-#      form  : 0
-#      intro : Opinion directions
-#      random: 
-#-
-#  content:
-#    -
-#      topic : general
-#      story : opinion
-#      type  : forum
-#      form  : 2
-#      intro : Smoking in public
-#      random: 
+-
+  content:
+  -
+    topic : reading
+    story : purpose
+    type  : jigsaw
+    form  : 0
+    intro : Why the text says what it says
+    random: 
+
+-
+  content:
+  -
+    topic : reading
+    story : vocab
+    type  : url
+    form  : 0
+    intro : The words in the text
+    random: 
+
+-
+  content:
+  -
+    topic : reading
+    story : reference
+    type  : jigsaw
+    form  : 0
+    intro : The words referred to by different words 
+    random: 
+
+-
+  content:
+  -
+    topic : reading
+    story : equivalences
+    type  : jigsaw
+    form  : 0
+    intro : Sentence simplification questions
+    random: 
+
+-
+  content:
+  -
+    topic : reading
+    story : order
+    type  : jigsaw
+    form  : 0
+    intro : Understanding relationships between sentences
+    random: 
+
