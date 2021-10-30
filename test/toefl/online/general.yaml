@@ -27,6 +27,16 @@ section:
   -
     topic : general
     story : handbook
+    type  : page
+    form  : 0
+    intro : Links for the official TOEFL Prep Planner and Handbook
+    random: 
+
+-
+  content:
+  -
+    topic : general
+    story : handbook
     type  : url
     form  : 0
     intro : Links for the official TOEFL Prep Planner and Handbook
