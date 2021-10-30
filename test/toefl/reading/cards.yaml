@@ -107,7 +107,7 @@ vocab:
 reference:
   jigsaw:
     0:
-      identifier: The connection of words/phrases in different sentences
+      identifier: The connections between words/phrases in different sentences
       quiz:
         - question: 1. Reference questions ask you to verify what information is true and what information is not true in a passage.
           answer: False
@@ -158,8 +158,15 @@ order:
     0:
       identifier: Understanding logical order by inserting text
       quiz:
-        - question: The Insert Text questions are designed to show that you understand the logical order of ideas in a reading passage. 
+        - question: Every reading passage has one Insert Text question.
           answer: True
+        - question: 1. The Insert Text questions are designed to show that you understand the logical order of ideas in a reading passage. 
+          answer: True
+        - question: 2. A good way to do Insert Text questions is to ignore the pronouns.
+          answer: False
+        - question: 3. A good way to do Insert Text questions is to look for words which are repeated from the text.
+          answer: True
+        
 
 summary, table questions
 1. The Prose Summary questions are designed to show that you recognize contradictory ideas in a reading passage.
