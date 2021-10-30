@@ -9,7 +9,7 @@ quiz:
 
 section:
   name: Reading: The first section of the TOEFL iBT® Test
-  summary: 3, 4 700-word reading passages with 10 questions each
+  summary: 3 or 4 700-word reading passages with 10 questions each
 ---
 
 -
@@ -100,5 +100,25 @@ section:
     type  : jigsaw
     form  : 0
     intro : Understanding relationships between sentences
+    random: 
+
+-
+  content:
+  -
+    topic : reading
+    story : summary
+    type  : jigsaw
+    form  : 0
+    intro : Recognizing misinterpretations and minor points
+    random: 
+
+-
+  content:
+  -
+    topic : reading
+    story : table
+    type  : jigsaw
+    form  : 0
+    intro : Categorizing features of text entities
     random: 
 
