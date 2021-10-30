@@ -52,10 +52,10 @@ factual:
             - Definitions  
             - All the above  
           answer: All the above
-      - question: 2. In a Negative Factual question, 3 out of 4 answers are correct and only one answer choice is incorrect.
-        answer: True
-      - question: 3. Negative Factual Information questions contain the words "NOT" or "EXCEPT" in capital letters.
-        answer: True
+        - question: 2. In a Negative Factual question, 3 out of 4 answers are correct and only one answer choice is incorrect.
+          answer: True
+        - question: 3. Negative Factual Information questions contain the words "NOT" or "EXCEPT" in capital letters.
+          answer: True
   
 inference:
   jigsaw:
@@ -121,8 +121,8 @@ equivalences:
         - question: |+
             0. Phrases characteristic of sentence simplification questions are--
           option:
-            - "According to the paragraph," or "Paragraph X answers which of the following?"
-            - phrases like "closest in meaning" or "the author means." 
+            - "'According to the paragraph,' or 'Paragraph X answers which of the following?'"
+            - "phrases like 'closest in meaning' or 'the author means.'" 
             - "Which of the sentences below best expresses the essential information in the following sentence?"
             - All the above  
           answer: "Which of the sentences below best expresses the essential information in the following sentence?"
