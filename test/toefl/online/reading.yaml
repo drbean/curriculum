@@ -127,7 +127,7 @@ section:
   -
     topic : reading
     story : test
-    type  : page
+    type  : description
     form  : 0
     intro : Explanation of reading question test procedure
     random: 
