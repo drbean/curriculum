@@ -8,7 +8,7 @@ quiz:
 ---
 
 section:
-  name: Reading: The first section of the TOEFL iBT® Test
+  name: "Reading: The first section of the TOEFL iBT® Test"
   summary: 3 or 4 700-word reading passages with 10 questions each
 ---
 
@@ -89,7 +89,7 @@ section:
     story : equivalences
     type  : jigsaw
     form  : 0
-    intro : Sentence simplification questions
+    intro : Sentence Simplification questions
     random: 
 
 -
@@ -150,5 +150,55 @@ section:
     type  : description
     form  : 1
     intro : About paragraph 3
+    random: 
+
+-
+  content:
+  -
+    topic : reading
+    story : test
+    type  : jigsaw
+    form  : 1
+    intro : Rhetorical purpose & Vocabulary questions
+    random: 
+
+-
+  content:
+  -
+    topic : reading
+    story : test
+    type  : description
+    form  : 2
+    intro : About paragraph 4
+    random: 
+
+-
+  content:
+  -
+    topic : reading
+    story : test
+    type  : jigsaw
+    form  : 2
+    intro : Sentence simplification & Negative Factual Information questions
+    random: 
+
+-
+  content:
+  -
+    topic : reading
+    story : test
+    type  : description
+    form  : 3
+    intro : About paragraph 4
+    random: 
+
+-
+  content:
+  -
+    topic : reading
+    story : test
+    type  : jigsaw
+    form  : 3
+    intro : Insert Text & Prose Summary questions
     random: 
 
