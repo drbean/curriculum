@@ -70,7 +70,7 @@ overview:
   jigsaw:
     0:
       identifier: Test structure knowledge quiz
-      quiz: |+
+      quiz:
         - question: 1. The four sections of the TOEFL iBT® test are Reading, Listening, Speaking and Writing.
           answer: True
         - question: |+
