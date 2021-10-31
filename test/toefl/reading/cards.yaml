@@ -225,9 +225,14 @@ test:
           Your performance on this practice test is not a predictor of how you might perform on the actual TOEFL iBT® test. 
 
           Your scores for this practice test will show correct vs. incorrect choices. You will also see an explanation for why each answer choice is correct or incorrect. Scores and scoring information are for preparation use only; they are not official or scaled scores.
+    1:
+      identifier: ## Questions 4 through 6
+      questiontext: 
+            ## About paragraph 3
+
   jigsaw:
     0:
-      identifier: Pastoralism
+      identifier: Pastoralism. Questions 1-3
       quiz:
         - question: |+
             ## Pastoralism in Ancient Inner Eurasia
@@ -249,9 +254,10 @@ test:
             - avoid eating plant foods
             - move from place to place frequently
           answer: move from place to place frequently
+    1:
+      identifier: Pastoralism. Questions 4~6
+      quiz:
         - question: |+
-
-            ## Questions 4 through 6
 
             ### Paragraph 3
 
