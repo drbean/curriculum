@@ -129,7 +129,7 @@ section:
     story : test
     type  : description
     form  : 0
-    intro : Explanation of reading question test procedure
+    intro : "Directions: Read the passage. Then answer the questions. Give yourself 18 minutes to complete this practice set."
     random: 
 
 -
@@ -139,6 +139,16 @@ section:
     story : test
     type  : jigsaw
     form  : 0
-    intro : Directions: Read the passage. Then answer the questions. Give yourself 18 minutes to complete this practice set.
+    intro : About paragraph 1, 2
+    random: 
+
+-
+  content:
+  -
+    topic : reading
+    story : test
+    type  : description
+    form  : 1
+    intro : About paragraph 3
     random: 
 
