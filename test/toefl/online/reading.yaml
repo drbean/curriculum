@@ -67,7 +67,7 @@ section:
   -
     topic : reading
     story : vocab
-    type  : url
+    type  : jigsaw
     form  : 0
     intro : The words in the text
     random: 
@@ -127,7 +127,7 @@ section:
   -
     topic : reading
     story : test
-    type  : description
+    type  : page
     form  : 0
     intro : "Directions: Read the passage. Then answer the questions. Give yourself 18 minutes to complete this practice set."
     random: 
