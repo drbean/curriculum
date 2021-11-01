@@ -2,8 +2,29 @@
 provenance:
   description:
     0:
-      identifier: Question type description and Pastoralism test souce
-      questiontext: Where do they come from?
+      identifier: Question type description and Pastoralism test source
+      questiontext: |+
+        Where do they come from?
+
+        [Efficient reading, or How to approach a Reading Passage](https://learning.edx.org/course/course-v1:ETSx+TOEFLx+3T2020/block-v1:ETSx+TOEFLx+3T2020+type@sequential+block@2b1c21019ca34da3b550f8be8bbaba83/block-v1:ETSx+TOEFLx+3T2020+type@vertical+block@74ab95b8133042b78ec67f77b132f4b9)
+
+        [Features of Academic Reading](https://learning.edx.org/course/course-v1:ETSx+TOEFLx+3T2020/block-v1:ETSx+TOEFLx+3T2020+type@sequential+block@7d8daa0e60644d9f94e660d713484c5b/block-v1:ETSx+TOEFLx+3T2020+type@vertical+block@cc2980c2485c4b23b677200f6b1cd0ba)
+
+        [Factual/Negative Factual Questions](https://learning.edx.org/course/course-v1:ETSx+TOEFLx+3T2020/block-v1:ETSx+TOEFLx+3T2020+type@sequential+block@06265f71efc24e9abf2093a455703e8e/block-v1:ETSx+TOEFLx+3T2020+type@vertical+block@4e61067349b94638a41031d1545cb79a)
+
+        [Inference and Rhetorical Purpose Questions](https://learning.edx.org/course/course-v1:ETSx+TOEFLx+3T2020/block-v1:ETSx+TOEFLx+3T2020+type@sequential+block@0eb11d6db58d4a77950eae0c8bb59f35/block-v1:ETSx+TOEFLx+3T2020+type@vertical+block@c54f1249a9714231a7046f389461ea9c)
+
+        [Vocabulary Questions](https://learning.edx.org/course/course-v1:ETSx+TOEFLx+3T2020/block-v1:ETSx+TOEFLx+3T2020+type@sequential+block@e56443d43cf94ddd9978a615f11698fb/block-v1:ETSx+TOEFLx+3T2020+type@vertical+block@49162b9fd23f44f2af5cdc07756df007)
+
+        [Reference Questions](https://learning.edx.org/course/course-v1:ETSx+TOEFLx+3T2020/block-v1:ETSx+TOEFLx+3T2020+type@sequential+block@65b6ccfcf9ae4ec1a7b27fd174437250/block-v1:ETSx+TOEFLx+3T2020+type@vertical+block@bbc7491f59924e05b3f337e2be9c6882)
+
+        [Sentence Simplification Questions](https://learning.edx.org/course/course-v1:ETSx+TOEFLx+3T2020/block-v1:ETSx+TOEFLx+3T2020+type@sequential+block@d4f11cc137074360b590be50acf91af0/block-v1:ETSx+TOEFLx+3T2020+type@vertical+block@a269fc1742074cd7943022e9ca9a15e9)
+
+        [Insert Text Questions](https://learning.edx.org/course/course-v1:ETSx+TOEFLx+3T2020/block-v1:ETSx+TOEFLx+3T2020+type@sequential+block@8b29e3b5fbc04dee81823e29938423a9/block-v1:ETSx+TOEFLx+3T2020+type@vertical+block@53a4ed5c5d1144e2af68875a96ec38d1)
+
+        [Prose Summary and Fill in a Table Questions](https://learning.edx.org/course/course-v1:ETSx+TOEFLx+3T2020/block-v1:ETSx+TOEFLx+3T2020+type@sequential+block@f7d9a3b7995743d19961b805104bf8ee/block-v1:ETSx+TOEFLx+3T2020+type@vertical+block@3f014f9f214a422c97fce0ea3c882a4e)
+
+        [Pastoralism Reading Practice Test](https://learning.edx.org/course/course-v1:ETSx+TOEFLx+3T2020/block-v1:ETSx+TOEFLx+3T2020+type@sequential+block@8c020126bd354c878673c1248ff5a14b/block-v1:ETSx+TOEFLx+3T2020+type@vertical+block@22ec8eeef7a14951a07fbe8008ef01cc)
     
 timing:
   jigsaw:
