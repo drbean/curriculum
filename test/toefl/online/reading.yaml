@@ -146,7 +146,7 @@ section:
   content:
   -
     topic : reading
-    story : test
+    story : pastoralism
     type  : jigsaw
     form  : 0
     intro : About paragraph 1, 2
@@ -166,7 +166,7 @@ section:
   content:
   -
     topic : reading
-    story : test
+    story : pastoralism
     type  : jigsaw
     form  : 1
     intro : Rhetorical purpose & Vocabulary questions
@@ -186,7 +186,7 @@ section:
   content:
   -
     topic : reading
-    story : test
+    story : pastoralism
     type  : jigsaw
     form  : 2
     intro : Sentence simplification & Negative Factual Information questions
@@ -206,7 +206,7 @@ section:
   content:
   -
     topic : reading
-    story : test
+    story : pastoralism
     type  : jigsaw
     form  : 3
     intro : Insert Text & Prose Summary questions
