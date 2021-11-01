@@ -13,6 +13,7 @@ section:
 ---
 
 -
+  grade: 0
   content:
   -
     topic : reading
@@ -153,6 +154,7 @@ section:
     random: 
 
 -
+  grade: 0
   content:
   -
     topic : reading
@@ -173,6 +175,7 @@ section:
     random: 
 
 -
+  grade: 0
   content:
   -
     topic : reading
@@ -193,6 +196,7 @@ section:
     random: 
 
 -
+  grade: 0
   content:
   -
     topic : reading
