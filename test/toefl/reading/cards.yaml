@@ -238,7 +238,7 @@ test:
   page:
     0:
       identifier: Reading Practice Test Directions
-      content: |+
+      rubric: |+
         This section measures your ability to understand academic passages in English.
 
         There is one passage in this practice test. Give yourself 18 minutes to read the passage and answer the questions about it.
@@ -255,15 +255,15 @@ test:
   description:
     1:
       identifier: ## Questions 4 through 6
-      questiontext: 
+      questiontext: |+
             ## About paragraph 3
     2:
       identifier: ## Questions 7 through 8
-      questiontext: 
+      questiontext: |+
             ## About paragraph 4
     3:
       identifier: ## Questions 9 through 10
-      questiontext: 
+      questiontext: |+
             ## About paragraph 4 and about the whole passage
 pastoralism:
   jigsaw:
