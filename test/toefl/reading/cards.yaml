@@ -254,15 +254,15 @@ test:
           Your scores for this practice test will show correct vs. incorrect choices. You will also see an explanation for why each answer choice is correct or incorrect. Scores and scoring information are for preparation use only; they are not official or scaled scores.
   description:
     1:
-      identifier: ## Questions 4 through 6
+      identifier: Questions 4 through 6
       questiontext: |+
             ## About paragraph 3
     2:
-      identifier: ## Questions 7 through 8
+      identifier: Questions 7 through 8
       questiontext: |+
             ## About paragraph 4
     3:
-      identifier: ## Questions 9 through 10
+      identifier: Questions 9 through 10
       questiontext: |+
             ## About paragraph 4 and about the whole passage
 pastoralism:
