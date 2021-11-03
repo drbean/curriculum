@@ -333,14 +333,14 @@ part:
 move:
   0:
     flash:
-      touch  : touch.jpg
-      walk   : walk.png
-      jump   : jump.jpg
-      run    : run.png
-      floor  : floor.jpg
-      window : window.jpg
-      door   : door.jpg
-      wall   : wall.jpg
+      someone touching something  : touch.jpg
+      someone walking   : walk.png
+      someone jumping   : jump.jpg
+      someone runing    : run.png
+      a floor  : floor.jpg
+      a window : window.jpg
+      a door   : door.jpg
+      a wall   : wall.jpg
   1:
     flash:
       touch  : 觸摸
