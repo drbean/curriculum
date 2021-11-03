@@ -286,6 +286,20 @@
   - "topics"
   - "all"
   - |+
+    B: Oh, no! What am I going to do? We've only got 10 minutes before class starts.
+    G: I don't know. Maybe Ms Jones will let you hand it in tomorrow.
+    B: Hey, let me copy your essay. I'll change a few words. Ms Jones will never know.
+    G: No, I'm sorry. That's not the right thing to do.
+    B: Oh, come on! I thought you were my friend.
+    G: I am your friend. That's why I'm not letting you copy my work!
+#  - Did|finish|for English|There wasn't|We|finish|then|a 200-word|on it|I don't|Ms Jones|us any|I always|what I|do in my|Did|really|us to write an essay|Look|here's|See|Oh|What|going|do|We've|got 10|before|starts|I don't|Maybe Ms Jones|let|hand|in|Hey|me|your|I'll|a few|Ms Jones|know|No, I'm|That's|the|to do|Oh|on|I thought|were|your|That's|I'm not|you|work|End
+  - no.other to.other only.ad minutes.noun class.noun know.verb will.verb you.noun it.noun tomorrow.noun let.verb copy.verb essay.noun change.verb words.noun will.verb never.ad sorry.ad not.other right.ad thing.noun come.verb you.noun my.ad friend.noun am.noun why.other letting.verb copy.verb my.ad End
+-
+  - "homework-2"
+  - "homework-2"
+  - "topics"
+  - "all"
+  - |+
     G: Did you finish your homework for English class?
     B: Homework? There wasn't any homework.
     G: We had to finish reading a book and then write a 200-word essay on it.
