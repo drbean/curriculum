@@ -88,20 +88,30 @@ attitude:
     0:
       identifier: Listening Quiz 5
       quiz:
+        - question: 1. Attitude questions ask you to share your feelings about a topic.
+          answer: False
+        - question: 2. A speaker’s tone of voice cannot help you answer an Attitude question.
+          answer: False
 organization:
   jigsaw:
     0:
-      identifier: Listening Quiz 5
+      identifier: Listening Quiz 6
       quiz:
+        - question: Organization questions ask you to show understanding of how a lecture is structured. 
+          answer: True
 connecting:
   jigsaw:
     0:
-      identifier: Listening Quiz 5
+      identifier: Listening Quiz 7
       quiz:
+        - question: 1. Connecting Content questions measure your understanding of the relationships among ideas in a conversation or lecture.
+          answer: True
+        - question: 2. Connecting Content questions may ask you to make a prediction based on what was stated in a conversation or lecture.
+          answer: True
 inference:
   jigsaw:
     0:
-      identifier: Listening Quiz 5
+      identifier: Listening Quiz 8
       quiz:
 test:
   jigsaw:
