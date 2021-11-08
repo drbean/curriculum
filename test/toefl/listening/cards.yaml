@@ -79,7 +79,7 @@ function:
     0:
       identifier: Listening Quiz 4
       quiz:
-        - question: 1. Function questions can include phrases like: "What does the professor mean when he says … ?" or "Why does the student say … ?"
+        - question: 1. Function questions can include phrases like: "What does the professor mean when he says ... ?" or "Why does the student say ... ?"
           answer: True
         - question: 2. A Function question may ask you to determine what a speaker was trying to accomplish by saying a particular thing.
           answer: True
@@ -90,7 +90,7 @@ attitude:
       quiz:
         - question: 1. Attitude questions ask you to share your feelings about a topic.
           answer: False
-        - question: 2. A speaker’s tone of voice cannot help you answer an Attitude question.
+        - question: 2. A speaker's tone of voice cannot help you answer an Attitude question.
           answer: False
 organization:
   jigsaw:
@@ -123,9 +123,73 @@ inference:
     0:
       identifier: Listening Quiz 8
       quiz:
+        - question: Inference questions can ask you to predict outcomes based on information presented in a conversation or lecture. 
+          answer: True
 test:
   jigsaw:
-    0:
+    journalism:
+      identifier: "Listening Practice Test: Part 1~3"
+      quiz:
+        - question: |+
+            What is the conversation mainly about? 
+          option:
+            - A. The advantages and disadvantages of a career in journalism
+            - B. Topics the student could write about for the school newspaper
+            - C. Comparing a major in journalism to other majors
+            - D. Preparing for a career in journalism
+          answer: Wrong
+        - question: |+
+            Why does the advisor discourage the student from transferring to another university? 
+          option:
+            - A. His current university is highly respected by newspaper editors.
+            - B. His current university will soon offer a major in journalism.
+            - C. He does not need to major in journalism in order to work as a reporter.
+            - D. He has a promising future on the staff of his current university's newspaper.
+          answer: Wrong
+        - question: |+
+            According to the advisor, how do newspaper editors evaluate an applicant for a reporting position? Choose 2 answers.
+
+              A. They ask the applicant to present ideas for news stories.
+              B. They ask the applicant to write a news story.
+              C. They review the applicant's university course work.
+              D. They review a sample of the applicant's published articles.
+          option:
+            - A, B
+            - B, C
+            - C, D
+            - D, A
+            - A, C
+            - B, D
+
+          answer: Wrong
+        - question: |+
+            What points does the advisor make when she suggests that the student report on a local court case? Choose 2 answers.
+
+            A. It will help him begin to develop expertise in his field of interest.  
+            B. It will bring him in contact with people who might help him find a job.  
+            C. It will be a way for him to gain experience writing about business and technology.  
+            D. It will allow him to inform students and faculty about an issue affecting their university.  
+
+          option:
+            - A, B
+            - B, C
+            - C, D
+            - D, A
+            - A, C
+            - B, D
+          answer: Wrong
+        - question: |+
+            What does the student imply when he says this-- 
+          option:
+            - A. He was surprised by the amount of effort required to write a newspaper article.
+            - B. He feels that some of the editor’s changes were unnecessary.
+            - C. He does not want to take credit that he does not deserve.
+            - D. He will try to make sure his future articles are more accurate.
+          answer: Wrong
+    psychology:
+      identifier: "Listening Practice Test: Part 1~3"
+      quiz:
+    microclimate:
       identifier: "Listening Practice Test: Part 1~3"
       quiz:
         
