@@ -128,7 +128,7 @@ inference:
 test:
   jigsaw:
     journalism:
-      identifier: "Listening Practice Test: Part 1~3"
+      identifier: "Listening Practice Test: Part 1"
       quiz:
         - question: |+
             What is the conversation mainly about? 
@@ -187,10 +187,65 @@ test:
             - D. He will try to make sure his future articles are more accurate.
           answer: Wrong
     psychology:
-      identifier: "Listening Practice Test: Part 1~3"
+      identifier: "Listening Practice Test: Part 2"
       quiz:
+        - question: |+
+            What is the lecture mainly about?
+          option:
+            - A. The differences between imagination and perception
+            - B. Cognitive functions that improve decision making
+            - C. Cognitive functions that assist in problem solving
+            - D. Common limitations with regard to several cognitive functions
+          answer: Wrong
+        - question: |+
+            Why does the professor mention a study with a word list? 
+          option:
+            - A. To illustrate a type of mistake that people make when recalling details
+            - B. To offer an example of a well-designed study in cognitive psychology
+            - C. To demonstrate the limited effect imagination has on memory
+            - D. To prove that imagination leads to poor decision making
+          answer: Wrong
+        - question: |+
+            What was demonstrated by the study on perception that the professor mentions? 
+          option:
+            - A. People who misheard sentences were most likely to make poor decisions.
+            - B. Decision making is ultimately influenced by many factors.
+            - C. The brain can automatically supply details that were not actually perceived.
+            - D. Words that are heard last are the most easily remembered.
+          answer: Wrong
+        - question: |+
+            Why does the professor mention the area where the optic nerve connects to the back of the eye? 
+          option:
+            - A. To explain why many people do not understand the concept of blind spots
+            - B. To illustrate how visual blind spots interfere with the processing of written words
+            - C. To explain the origin of a concept that is used in the study of cognition
+            - D. To show how visual perception works
+          answer: Wrong
+        - question: |+
+            What point does the professor make about imagination? 
+          option:
+            - A. It is inadequate for accurately predicting future events.
+            - B. It is difficult to study with experiments.
+            - C. It is a process that is unrelated to perception or memory.
+            - D. It is a relatively new area of study in cognition.
+          answer: Wrong
+        - question: |+
+            Listen again to part of the lecture. Then answer the question.
+            Professor
+            So, um, Peter, suppose I ask you to imagine a lunch salad. No problem, right? But I bet you imagined specific ingredients. Did yours have tomatoes? Onion? Lettuce? Mine did.
+            Narrator
+            Why does the professor say this:
+            Professor
+            Did yours have tomatoes? Onion? Lettuce? Mine did.
+
+          option:
+            - A. To find out if Peter followed her instructions
+            - B. To illustrate a point she wants to make about imagination
+            - C. To point out that all salads have some ingredients in common
+            - D. To show the relation between memory and imagination
+          answer: Wrong
     microclimate:
-      identifier: "Listening Practice Test: Part 1~3"
+      identifier: "Listening Practice Test: Part 3"
       quiz:
         
         
