@@ -108,6 +108,16 @@ connecting:
           answer: True
         - question: 2. Connecting Content questions may ask you to make a prediction based on what was stated in a conversation or lecture.
           answer: True
+        - question: |+
+            You WON'T be asked to--
+          option:
+            - identify steps in a process
+            - identify cause/effect relationships
+            - fill in a table
+            - classify items into categories
+            - find inconsistencies in speaker statements
+            - make a prediction
+          answer: find inconsistencies in speaker statements
 inference:
   jigsaw:
     0:
