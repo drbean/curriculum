@@ -247,6 +247,72 @@ test:
     microclimate:
       identifier: "Listening Practice Test: Part 3"
       quiz:
+        - question: |+
+            What is the lecture mainly about?
+          option:
+            - A. Difficulties animals have in regulating their body temperatures
+            - B. How people can affect animals’ microclimates
+            - C. Ways of identifying different types of microclimates
+            - D. The importance of microclimates to some animals
+          answer: Wrong
+        - question: |+
+            What two factors does the professor say can affect a microclimate? Choose 2 answers.
+
+              A. The size of the animal population in the area
+              B. The number of other microclimates in the area
+              C. The elevation of the land where the microclimate is located
+              D. Human activity in the area where the microclimate is located
+          option:
+            - A, B
+            - B, C
+            - C, D
+            - D, A
+            - A, C
+            - B, D
+          answer: Wrong
+        - question: |+
+            What point does the professor make when she mentions squirrels?
+          option:
+            - A. Studying squirrels has helped biologists identify different microclimates.
+            - B. Mammals have more than one way of regulating their body temperature.
+            - C. Smaller animals have more success than larger animals in adapting to different microclimates.
+            - D. Squirrels do not rely on microclimates as much as other mammals do.
+          answer: Wrong
+        - question: |+
+            What does the professor imply about reptiles and microclimates?
+          option:
+            - A. Microclimates can be both helpful and harmful to reptiles.
+            - B. Microclimates are one of the many ways reptiles control their body temperature.
+            - C. Many reptiles position themselves in microclimates when waiting for their prey.
+            - D. Many reptiles spend most of their time in one type of microclimate.
+          answer: Wrong
+        - question: |+
+            According to the professor, how do decomposing leaves affect microclimates?
+          option:
+            - A. Decomposing leaves form layers that prevent sunlight from warming the ground below the leaves.
+            - B. Decomposing leaves insulate burrows, keeping the burrows cool.
+            - C. Decomposing leaves generate heat, creating a warm microclimate.
+            - D. Decomposing leaves bring moisture to dry microclimates.
+          answer: Wrong
+        - question: |+
+            Narrator Listen again to part of the lecture. Then answer the question.
+            Professor
+            So for small mammals, microclimates can make a big difference—they rely on microclimates for survival.
+            Student
+            So cold-blooded animals, like reptiles—they can’t control their own body temperature, so I can imagine the effect a microclimate would have on them ...
+            Narrator
+            Why does the student say this:
+            Student
+            So I can imagine the effect a microclimate would have on them ...
+
+            Why does the student say this: 
+
+        option:
+          - A. To refer to a well-known misconception about reptiles
+          - B. To indicate that he understands the professor’s explanations
+          - C. To provide an example that may be an exception to the professor’s statement
+          - D. To indicate that there is more than one explanation for a phenomenon
+        answer: Wrong
         
         
 
