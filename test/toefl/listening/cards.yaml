@@ -1,9 +1,9 @@
 ---
 provenance:
-  description:
+  page:
     0:
-      identifier: Question type description and journalism, psychology and microclimate test sources
-      questiontext: |+
+      identifier: Question types and journalism, psychology and microclimate test sources
+      rubric: |+
         Where do they come from?
 
         [How to Approach a TOEFL iBT® Listening Passage](https://learning.edx.org/course/course-v1:ETSx+TOEFLx+3T2020/block-v1:ETSx+TOEFLx+3T2020+type@sequential+block@62af1ea74d7f4d49b0008668c16c8c32/block-v1:ETSx+TOEFLx+3T2020+type@vertical+block@62c946ac1ac948d78c81245a2fe6d0a)
