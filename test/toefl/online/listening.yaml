@@ -26,193 +26,109 @@ section:
 -
   content:
   -
-    topic : reading
-    story : timing
+    topic : listening
+    story : approach
     type  : jigsaw
     form  : 0
-    intro : Allow 18 minutes for each passage
+    intro : 3.2 How to Approach a TOEFL iBT® Listening Passage
     random: 
 
 -
   content:
   -
-    topic : reading
-    story : strategy
+    topic : listening
+    story : gist
     type  : jigsaw
     form  : 0
-    intro : Strategies used by the good reader
+    intro : 3.3 Gist-Content and Gist-Purpose
     random: 
 
 -
   content:
   -
-    topic : reading
-    story : factual
+    topic : listening
+    story : detail
     type  : jigsaw
     form  : 0
-    intro : What the text says
+    intro : 3.4 Detail Questions
     random: 
 
 -
   content:
   -
-    topic : reading
+    topic : listening
+    story : function
+    type  : jigsaw
+    form  : 0
+    intro : 3.5 Function Questions
+    random: 
+
+-
+  content:
+  -
+    topic : listening
+    story : attitude
+    type  : jigsaw
+    form  : 0
+    intro : 3.6 Attitude Questions
+    random: 
+
+-
+  content:
+  -
+    topic : listening
+    story : organization
+    type  : jigsaw
+    form  : 0
+    intro : 3.7 Organization Questions
+    random: 
+
+-
+  content:
+  -
+    topic : listening
+    story : connecting
+    type  : jigsaw
+    form  : 0
+    intro : 3.8 Connecting Content Questions
+    random: 
+
+-
+  content:
+  -
+    topic : listening
     story : inference
     type  : jigsaw
     form  : 0
-    intro : What the text does not say but you should understand
+    intro : 3.9 Inference Questions
     random: 
 
 -
   content:
   -
-    topic : reading
-    story : purpose
-    type  : jigsaw
-    form  : 0
-    intro : Why the text says what it says
-    random: 
-
--
-  content:
-  -
-    topic : reading
-    story : vocab
-    type  : jigsaw
-    form  : 0
-    intro : The words in the text
-    random: 
-
--
-  content:
-  -
-    topic : reading
-    story : reference
-    type  : jigsaw
-    form  : 0
-    intro : The words referred to by different words 
-    random: 
-
--
-  content:
-  -
-    topic : reading
-    story : equivalences
-    type  : jigsaw
-    form  : 0
-    intro : Sentence Simplification questions
-    random: 
-
--
-  content:
-  -
-    topic : reading
-    story : order
-    type  : jigsaw
-    form  : 0
-    intro : Understanding relationships between sentences
-    random: 
-
--
-  content:
-  -
-    topic : reading
-    story : summary
-    type  : jigsaw
-    form  : 0
-    intro : Recognizing misinterpretations and minor points
-    random: 
-
--
-  content:
-  -
-    topic : reading
-    story : table
-    type  : jigsaw
-    form  : 0
-    intro : Categorizing features of items in the text
-    random: 
-
--
-  content:
-  -
-    topic : reading
+    topic : listening
     story : test
-    type  : page
-    form  : 0
-    intro : "Directions: Read the passage. Then answer the questions. Give yourself 18 minutes to complete this practice set."
-    random: 
-
--
-  content:
-  -
-    topic : reading
-    story : pastoralism
     type  : jigsaw
-    form  : 0
-    intro : About paragraph 1, 2
+    form  : journalism
+    intro : A student discusses a journalism career with advisor
     random: 
 
 -
-  grade: 0
   content:
   -
-    topic : reading
+    topic : listening
     story : test
-    type  : description
-    form  : 1
-    intro : About paragraph 3
-    random: 
-
--
-  content:
-  -
-    topic : reading
-    story : pastoralism
     type  : jigsaw
-    form  : 1
-    intro : Rhetorical purpose & Vocabulary questions
+    form  : psychology 
+    intro : A lecture on mental processes and their failings
     random: 
 
 -
-  grade: 0
   content:
   -
-    topic : reading
+    topic : listening
     story : test
-    type  : description
-    form  : 2
-    intro : About paragraph 4
-    random: 
-
--
-  content:
-  -
-    topic : reading
-    story : pastoralism
     type  : jigsaw
-    form  : 2
-    intro : Sentence simplification & Negative Factual Information questions
+    form  : microclimate
+    intro : A lecture on the use animals make of microclimates
     random: 
-
--
-  grade: 0
-  content:
-  -
-    topic : reading
-    story : test
-    type  : description
-    form  : 3
-    intro : About paragraph 4
-    random: 
-
--
-  content:
-  -
-    topic : reading
-    story : pastoralism
-    type  : jigsaw
-    form  : 3
-    intro : Insert Text & Prose Summary questions
-    random: 
-
