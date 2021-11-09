@@ -1,0 +1,218 @@
+---
+forum:
+  # timeclose        : $(date --date='2026-06-17 15:00:00 +0800' +%s)
+  # duedate          : $(date --date='2026-06-17 15:00:00 +0800' +%s)
+  # cutoffdate       : $(date --date='2026-06-17 15:00:00 +0800' +%s) 
+quiz:
+  questioncategory : listening
+---
+
+section:
+  name: "Listening: The second section"
+  summary: 2 or 3 3-minute conversations and 3 or 4 5-minute lectures in 41~57 minutes
+---
+
+-
+  grade: 0
+  content:
+  -
+    topic : listening
+    story : provenance
+    type  : description
+    form  : 0
+    intro : https://www.edx.org/course/toefl-test-preparation-the-insiders-guide
+    random: 
+
+-
+  content:
+  -
+    topic : reading
+    story : timing
+    type  : jigsaw
+    form  : 0
+    intro : Allow 18 minutes for each passage
+    random: 
+
+-
+  content:
+  -
+    topic : reading
+    story : strategy
+    type  : jigsaw
+    form  : 0
+    intro : Strategies used by the good reader
+    random: 
+
+-
+  content:
+  -
+    topic : reading
+    story : factual
+    type  : jigsaw
+    form  : 0
+    intro : What the text says
+    random: 
+
+-
+  content:
+  -
+    topic : reading
+    story : inference
+    type  : jigsaw
+    form  : 0
+    intro : What the text does not say but you should understand
+    random: 
+
+-
+  content:
+  -
+    topic : reading
+    story : purpose
+    type  : jigsaw
+    form  : 0
+    intro : Why the text says what it says
+    random: 
+
+-
+  content:
+  -
+    topic : reading
+    story : vocab
+    type  : jigsaw
+    form  : 0
+    intro : The words in the text
+    random: 
+
+-
+  content:
+  -
+    topic : reading
+    story : reference
+    type  : jigsaw
+    form  : 0
+    intro : The words referred to by different words 
+    random: 
+
+-
+  content:
+  -
+    topic : reading
+    story : equivalences
+    type  : jigsaw
+    form  : 0
+    intro : Sentence Simplification questions
+    random: 
+
+-
+  content:
+  -
+    topic : reading
+    story : order
+    type  : jigsaw
+    form  : 0
+    intro : Understanding relationships between sentences
+    random: 
+
+-
+  content:
+  -
+    topic : reading
+    story : summary
+    type  : jigsaw
+    form  : 0
+    intro : Recognizing misinterpretations and minor points
+    random: 
+
+-
+  content:
+  -
+    topic : reading
+    story : table
+    type  : jigsaw
+    form  : 0
+    intro : Categorizing features of items in the text
+    random: 
+
+-
+  content:
+  -
+    topic : reading
+    story : test
+    type  : page
+    form  : 0
+    intro : "Directions: Read the passage. Then answer the questions. Give yourself 18 minutes to complete this practice set."
+    random: 
+
+-
+  content:
+  -
+    topic : reading
+    story : pastoralism
+    type  : jigsaw
+    form  : 0
+    intro : About paragraph 1, 2
+    random: 
+
+-
+  grade: 0
+  content:
+  -
+    topic : reading
+    story : test
+    type  : description
+    form  : 1
+    intro : About paragraph 3
+    random: 
+
+-
+  content:
+  -
+    topic : reading
+    story : pastoralism
+    type  : jigsaw
+    form  : 1
+    intro : Rhetorical purpose & Vocabulary questions
+    random: 
+
+-
+  grade: 0
+  content:
+  -
+    topic : reading
+    story : test
+    type  : description
+    form  : 2
+    intro : About paragraph 4
+    random: 
+
+-
+  content:
+  -
+    topic : reading
+    story : pastoralism
+    type  : jigsaw
+    form  : 2
+    intro : Sentence simplification & Negative Factual Information questions
+    random: 
+
+-
+  grade: 0
+  content:
+  -
+    topic : reading
+    story : test
+    type  : description
+    form  : 3
+    intro : About paragraph 4
+    random: 
+
+-
+  content:
+  -
+    topic : reading
+    story : pastoralism
+    type  : jigsaw
+    form  : 3
+    intro : Insert Text & Prose Summary questions
+    random: 
+
