@@ -66,3 +66,6 @@ quiz:
   shuffleanswers   : 1
   # browsersecurity  : safebrowser
   # safeexambrowser_allowedkeys: e71abb59ffc16b3344b23e826059219f3c4fe70731e1845b77b2faa1ad93bbab
+page:
+  contentformat   : 4
+  introformat     : 4
