@@ -148,10 +148,10 @@ test:
         - question: |+
             According to the advisor, how do newspaper editors evaluate an applicant for a reporting position? Choose 2 answers.
 
-              A. They ask the applicant to present ideas for news stories.
-              B. They ask the applicant to write a news story.
-              C. They review the applicant's university course work.
-              D. They review a sample of the applicant's published articles.
+            * A. They ask the applicant to present ideas for news stories.
+            * B. They ask the applicant to write a news story.
+            * C. They review the applicant's university course work.
+            * D. They review a sample of the applicant's published articles.
           option:
             - A, B
             - B, C
@@ -164,10 +164,10 @@ test:
         - question: |+
             What points does the advisor make when she suggests that the student report on a local court case? Choose 2 answers.
 
-            A. It will help him begin to develop expertise in his field of interest.  
-            B. It will bring him in contact with people who might help him find a job.  
-            C. It will be a way for him to gain experience writing about business and technology.  
-            D. It will allow him to inform students and faculty about an issue affecting their university.  
+            * A. It will help him begin to develop expertise in his field of interest.  
+            * B. It will bring him in contact with people who might help him find a job.  
+            * C. It will be a way for him to gain experience writing about business and technology.  
+            * D. It will allow him to inform students and faculty about an issue affecting their university.  
 
           option:
             - A, B
@@ -179,6 +179,12 @@ test:
           answer: Wrong
         - question: |+
             What does the student imply when he says this-- 
+
+            Student:  
+
+                To be honest, the article got lots of 
+                editing. In fact, I barely recognized 
+                a couple of paragraphs
           option:
             - A. He was surprised by the amount of effort required to write a newspaper article.
             - B. He feels that some of the editor's changes were unnecessary.
@@ -263,10 +269,10 @@ test:
         - question: |+
             What two factors does the professor say can affect a microclimate? Choose 2 answers.
 
-              A. The size of the animal population in the area
-              B. The number of other microclimates in the area
-              C. The elevation of the land where the microclimate is located
-              D. Human activity in the area where the microclimate is located
+            * A. The size of the animal population in the area
+            * B. The number of other microclimates in the area
+            * C. The elevation of the land where the microclimate is located
+            * D. Human activity in the area where the microclimate is located
           option:
             - A, B
             - B, C
@@ -300,17 +306,26 @@ test:
             - D. Decomposing leaves bring moisture to dry microclimates.
           answer: Wrong
         - question: |+
-            Narrator Listen again to part of the lecture. Then answer the question.
-            Professor
-            So for small mammals, microclimates can make a big difference--they rely on microclimates for survival.
-            Student
-            So cold-blooded animals, like reptiles--they can't control their own body temperature, so I can imagine the effect a microclimate would have on them ...
-            Narrator
-            Why does the student say this:
-            Student
-            So I can imagine the effect a microclimate would have on them ...
+            Listen again to part of the lecture. Then answer the question.
 
-            Why does the student say this: 
+            Professor:
+
+                So for small mammals, microclimates can 
+                make a big difference--they rely on 
+                microclimates for survival.
+
+            Student:
+
+                So cold-blooded animals, like reptiles--
+                they can't control their own body 
+                temperature, so I can imagine the effect a 
+                microclimate would have on them ...
+
+            Why does the student say this:
+
+            Student:
+
+                So I can imagine the effect a microclimate would have on them ...
 
           option:
             - A. To refer to a well-known misconception about reptiles
