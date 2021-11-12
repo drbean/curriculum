@@ -1,0 +1,134 @@
+---
+forum:
+  # timeclose        : $(date --date='2026-06-17 15:00:00 +0800' +%s)
+  # duedate          : $(date --date='2026-06-17 15:00:00 +0800' +%s)
+  # cutoffdate       : $(date --date='2026-06-17 15:00:00 +0800' +%s) 
+quiz:
+  questioncategory : listening
+---
+
+section:
+  name: "Listening: The second section"
+  summary: 2 or 3 3-minute conversations and 3 or 4 5-minute lectures in 41~57 minutes
+---
+
+-
+  grade: 0
+  content:
+  -
+    topic : listening
+    story : provenance
+    type  : page
+    form  : 0
+    intro : https://www.edx.org/course/toefl-test-preparation-the-insiders-guide
+    random: 
+
+-
+  content:
+  -
+    topic : listening
+    story : approach
+    type  : jigsaw
+    form  : 0
+    intro : 3.2 How to Approach a TOEFL iBT® Listening Passage
+    random: 
+
+-
+  content:
+  -
+    topic : listening
+    story : gist
+    type  : jigsaw
+    form  : 0
+    intro : 3.3 Gist-Content and Gist-Purpose
+    random: 
+
+-
+  content:
+  -
+    topic : listening
+    story : detail
+    type  : jigsaw
+    form  : 0
+    intro : 3.4 Detail Questions
+    random: 
+
+-
+  content:
+  -
+    topic : listening
+    story : function
+    type  : jigsaw
+    form  : 0
+    intro : 3.5 Function Questions
+    random: 
+
+-
+  content:
+  -
+    topic : listening
+    story : attitude
+    type  : jigsaw
+    form  : 0
+    intro : 3.6 Attitude Questions
+    random: 
+
+-
+  content:
+  -
+    topic : listening
+    story : organization
+    type  : jigsaw
+    form  : 0
+    intro : 3.7 Organization Questions
+    random: 
+
+-
+  content:
+  -
+    topic : listening
+    story : connecting
+    type  : jigsaw
+    form  : 0
+    intro : 3.8 Connecting Content Questions
+    random: 
+
+-
+  content:
+  -
+    topic : listening
+    story : inference
+    type  : jigsaw
+    form  : 0
+    intro : 3.9 Inference Questions
+    random: 
+
+-
+  content:
+  -
+    topic : listening
+    story : test
+    type  : jigsaw
+    form  : journalism
+    intro : A student discusses a journalism career with advisor
+    random: 
+
+-
+  content:
+  -
+    topic : listening
+    story : test
+    type  : jigsaw
+    form  : psychology 
+    intro : A lecture on mental processes and their failings
+    random: 
+
+-
+  content:
+  -
+    topic : listening
+    story : test
+    type  : jigsaw
+    form  : microclimate
+    intro : A lecture on the use animals make of microclimates
+    random: 
