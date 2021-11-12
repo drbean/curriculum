@@ -52,7 +52,7 @@ section:
     story : provenance
     type  : url
     form  : 4
-    intro : 4.3 Independent speaking question 1: approach tips
+    intro : "4.3 Independent speaking question 1: approach tips"
   -
     topic : speaking
     story : opinion
@@ -73,7 +73,7 @@ section:
     story : provenance
     type  : url
     form  : 6
-    intro : 4.4 Integrated speaking question 2: approach tips
+    intro : "4.4 Integrated speaking question 2: approach tips"
   -
     topic : speaking
     story : campus
