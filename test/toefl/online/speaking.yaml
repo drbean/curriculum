@@ -8,127 +8,94 @@ quiz:
 ---
 
 section:
-  name: "Listening: The second section"
-  summary: 2 or 3 3-minute conversations and 3 or 4 5-minute lectures in 41~57 minutes
+  name: "Speaking: The third more-difficult(?) section"
+  summary: 1 TOEIC-type opinion question, 3 responses to texts, conversations in 17 minutes
 ---
 
 -
-  grade: 0
   content:
   -
-    topic : listening
+    topic : speaking
     story : provenance
-    type  : page
+    type  : url
     form  : 0
-    intro : https://www.edx.org/course/toefl-test-preparation-the-insiders-guide
-    random: 
-
--
-  content:
+    intro : 4.2 About the speaking section
   -
-    topic : listening
-    story : approach
-    type  : jigsaw
-    form  : 0
-    intro : 3.2 How to Approach a TOEFL iBT® Listening Passage
-    random: 
-
--
-  content:
+    topic : speaking
+    story : provenance
+    type  : url
+    form  : 1
+    intro : 4.2 Talking to a computer
   -
-    topic : listening
-    story : gist
+    topic : speaking
+    story : provenance
+    type  : url
+    form  : 2
+    intro : 4.2 Timing and approach
+  -
+    topic : speaking
+    story : start
     type  : jigsaw
     form  : 0
-    intro : 3.3 Gist-Content and Gist-Purpose
-    random: 
+    intro : Understanding the requirements
 
 -
   content:
   -
-    topic : listening
-    story : detail
+    topic : speaking
+    story : provenance
+    type  : url
+    form  : 3
+    intro : 4.3 Independent question 1
+  -
+    topic : speaking
+    story : provenance
+    type  : url
+    form  : 4
+    intro : 4.3 Independent speaking question 1: approach tips
+  -
+    topic : speaking
+    story : opinion
     type  : jigsaw
     form  : 0
-    intro : 3.4 Detail Questions
-    random: 
-
+    intro : Understanding question 1, the TOEIC-type opinion question
+  
 -
   content:
   -
-    topic : listening
-    story : function
+    topic : speaking
+    story : provenance
+    type  : url
+    form  : 5
+    intro : 4.4 Integrated question 2
+  -
+    topic : speaking
+    story : provenance
+    type  : url
+    form  : 6
+    intro : 4.4 Integrated speaking question 2: approach tips
+  -
+    topic : speaking
+    story : campus
     type  : jigsaw
     form  : 0
-    intro : 3.5 Function Questions
-    random: 
-
--
-  content:
+    intro : Speaking about a conversation's relation to text
   -
-    topic : listening
-    story : attitude
-    type  : jigsaw
-    form  : 0
-    intro : 3.6 Attitude Questions
-    random: 
-
--
-  content:
+    topic : speaking
+    story : provenance
+    type  : url
+    form  : 7
+    intro : 4.5 Integrated Questions 3 and 4
   -
-    topic : listening
-    story : organization
-    type  : jigsaw
-    form  : 0
-    intro : 3.7 Organization Questions
-    random: 
-
--
-  content:
+    topic : speaking
+    story : provenance
+    type  : url
+    form  : 8
+    intro : Question 3--relating info from text to conversation
   -
-    topic : listening
-    story : connecting
-    type  : jigsaw
-    form  : 0
-    intro : 3.8 Connecting Content Questions
-    random: 
-
--
-  content:
-  -
-    topic : listening
-    story : inference
-    type  : jigsaw
-    form  : 0
-    intro : 3.9 Inference Questions
-    random: 
-
--
-  content:
-  -
-    topic : listening
-    story : test
-    type  : jigsaw
-    form  : journalism
-    intro : A student discusses a journalism career with advisor
-    random: 
-
--
-  content:
-  -
-    topic : listening
-    story : test
-    type  : jigsaw
-    form  : psychology 
-    intro : A lecture on mental processes and their failings
-    random: 
-
--
-  content:
-  -
-    topic : listening
-    story : test
-    type  : jigsaw
-    form  : microclimate
-    intro : A lecture on the use animals make of microclimates
-    random: 
+    topic : speaking
+    story : provenance
+    type  : url
+    form  : 9
+    intro : Question 4--summarizing concepts from lecture
+  
