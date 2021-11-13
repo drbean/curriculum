@@ -84,3 +84,11 @@ scoring:
           answer: False
         - question:  "2. In the Independent Writing question, the raters are evaluating three main things: development, organization, and language use."
           answer: False
+      identifier: Writing Practice Test: Question Type 1
+test:
+ forum:
+   0:
+     identifier: Your lecture summary
+     rubric: |+
+       Upload here your summary of the lecture and the professor's disagreements with the text
+   
