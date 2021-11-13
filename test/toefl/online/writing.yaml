@@ -127,6 +127,44 @@ section:
     type  : jigsaw
     form  : 0
     intro : What the essay scorers are looking for
-    random: 
-  
 
+-
+  content:
+  -
+    topic : writing
+    story : provenance
+    type  : url
+    form  : 10
+    intro : How to do the writing test
+-
+  content:
+  -
+    topic : writing
+    story : provenance
+    type  : url
+    form  : 11
+    intro : Summarizing a lecture and points of difference with text
+-
+  content:
+  -
+    topic : writing
+    story : test
+    type  : forum
+    form  : 0
+    intro : Alternative essay submission page
+-
+  content:
+  -
+    topic : writing
+    story : provenance
+    type  : url
+    form  : 12
+    intro : Traveling to a foreign country-What do you think?
+-
+  content:
+  -
+    topic : writing
+    story : test
+    type  : forum
+    form  : 1
+    intro : Alternative essay submission page
