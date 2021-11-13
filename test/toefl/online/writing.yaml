@@ -15,87 +15,118 @@ section:
 -
   content:
   -
-    topic : speaking
+    topic : writing
     story : provenance
     type  : url
     form  : 0
-    intro : 4.2 About the speaking section
+    intro : 5.2 About the Writing Section
+-
+  content:
   -
-    topic : speaking
-    story : provenance
-    type  : url
-    form  : 1
-    intro : 4.2 Talking to a computer
-  -
-    topic : speaking
-    story : provenance
-    type  : url
-    form  : 2
-    intro : 4.2 Timing and approach
-  -
-    topic : speaking
+    topic : writing
     story : start
     type  : jigsaw
     form  : 0
-    intro : Understanding the requirements
+    intro : One integrated and one independent essay
+  
+-
+  content:
+  -
+    topic : writing
+    story : provenance
+    type  : url
+    form  : 1
+    intro : 5.3 Integrated Writing Question 1
+-
+  content:
+  -
+    topic : writing
+    story : provenance
+    type  : url
+    form  : 2
+    intro : Approach tips
+-
+  content:
+  -
+    topic : writing
+    story : provenance
+    type  : url
+    form  : 3
+    intro : Time management
+-
+  content:
+  -
+    topic : writing
+    story : integrated
+    type  : jigsaw
+    form  : 0
+    intro : Relating conversation to text
+  
+-
+  content:
+  -
+    topic : writing
+    story : provenance
+    type  : url
+    form  : 4
+    intro : 5.4 Independent Writing Question 2
+-
+  content:
+  -
+    topic : writing
+    story : provenance
+    type  : url
+    form  : 5
+    intro : "5.4 Independent Writing Question 2: Approach Tips"
+-
+  content:
+  -
+    topic : writing
+    story : provenance
+    type  : url
+    form  : 6
+    intro : "5.4 Independent Writing Question 2: Time management"
+-
+  content:
+  -
+    topic : writing
+    story : independent
+    type  : jigsaw
+    form  : 0
+    intro : The 3-paragraph essay--about your opinion of an issue
 
 -
   content:
   -
-    topic : speaking
-    story : provenance
-    type  : url
-    form  : 3
-    intro : 4.3 Independent question 1
-  -
-    topic : speaking
-    story : provenance
-    type  : url
-    form  : 4
-    intro : "4.3 Independent speaking question 1: approach tips"
-  -
-    topic : speaking
-    story : opinion
-    type  : jigsaw
-    form  : 0
-    intro : Understanding question 1, the TOEIC-type opinion question
-  
--
-  content:
-  -
-    topic : speaking
-    story : provenance
-    type  : url
-    form  : 5
-    intro : 4.4 Integrated question 2
-  -
-    topic : speaking
-    story : provenance
-    type  : url
-    form  : 6
-    intro : "4.4 Integrated speaking question 2: approach tips"
-  -
-    topic : speaking
-    story : campus
-    type  : jigsaw
-    form  : 0
-    intro : Speaking about a conversation's relation to text
-  -
-    topic : speaking
+    topic : writing
     story : provenance
     type  : url
     form  : 7
-    intro : 4.5 Integrated Questions 3 and 4
+    intro : "5.5 How the Writing Section is Scored: How Integrated Question 1 is Scored"
+-
+  content:
   -
-    topic : speaking
+    topic : writing
     story : provenance
     type  : url
     form  : 8
-    intro : Question 3--relating info from text to conversation
+    intro : "5.5 How the Writing Section is Scored: How Independent Question 2 is Scored"
+-
+  content:
   -
-    topic : speaking
+    topic : writing
     story : provenance
     type  : url
     form  : 9
-    intro : Question 4--summarizing concepts from lecture
+    intro : "5.5 How the Writing Section is Scored: Writing Rubrics"
+-
+  content:
+  -
+    topic : writing
+    story : scoring
+    type  : jigsaw
+    form  : 0
+    intro : What the essay scorers are looking for
+    random: 
   
+
