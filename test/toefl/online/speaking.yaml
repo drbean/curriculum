@@ -20,18 +20,24 @@ section:
     type  : url
     form  : 0
     intro : 4.2 About the speaking section
+-
+  content:
   -
     topic : speaking
     story : provenance
     type  : url
     form  : 1
     intro : 4.2 Talking to a computer
+-
+  content:
   -
     topic : speaking
     story : provenance
     type  : url
     form  : 2
     intro : 4.2 Timing and approach
+-
+  content:
   -
     topic : speaking
     story : start
@@ -47,12 +53,16 @@ section:
     type  : url
     form  : 3
     intro : 4.3 Independent question 1
+-
+  content:
   -
     topic : speaking
     story : provenance
     type  : url
     form  : 4
     intro : "4.3 Independent speaking question 1: approach tips"
+-
+  content:
   -
     topic : speaking
     story : opinion
@@ -68,30 +78,40 @@ section:
     type  : url
     form  : 5
     intro : 4.4 Integrated question 2
+-
+  content:
   -
     topic : speaking
     story : provenance
     type  : url
     form  : 6
     intro : "4.4 Integrated speaking question 2: approach tips"
+-
+  content:
   -
     topic : speaking
     story : campus
     type  : jigsaw
     form  : 0
     intro : Speaking about a conversation's relation to text
+-
+  content:
   -
     topic : speaking
     story : provenance
     type  : url
     form  : 7
     intro : 4.5 Integrated Questions 3 and 4
+-
+  content:
   -
     topic : speaking
     story : provenance
     type  : url
     form  : 8
     intro : Question 3--relating info from text to conversation
+-
+  content:
   -
     topic : speaking
     story : provenance
