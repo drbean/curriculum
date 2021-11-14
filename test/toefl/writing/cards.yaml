@@ -91,4 +91,10 @@ test:
      identifier: Your lecture summary
      rubric: |+
        Upload here your summary of the lecture and the professor's disagreements with the text
+ :
+   1:
+     identifier: Your travel essay
+     rubric: |+
+       "Upload here your thoughts on which broadens the mind more: travel abroad, or travel at home"
+   
    
