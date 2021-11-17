@@ -11,6 +11,15 @@ animals:
       parrot       : parrot.jpg
       snake        : snake.jpg
       zebra        : zebra.jpg
+    1:
+      penguin     : penguin.jpg
+      polar bear  : polarbear.jpg
+      dolphin     : dolphin.jpg
+      whale       : whale.jpg
+      fish        : fish.jpg
+      octopus     : octopus.jpg
+      shark       : shark.jpg
+      squid       : squid.png
   0:
     flash:
       owl      :  1。貓頭鷹
