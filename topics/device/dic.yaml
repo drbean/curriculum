@@ -61,17 +61,18 @@
   - "topics"
   - "all"
   - |+
-    A: I had a big problem at the office today!
-    B: What happened?
-    A: I could not use my computer all day!
-    B: Was it because of a virus?
-    A: Yes, I opened a file that had a virus.
-    B: Oh no! You must be careful when you open files in your email. A virus can make your whole computer crash.
-    A: It was an accident! I didn't know the file had a virus. I'll be more careful next time.
-    B: What did you do next?
+#    A: I had a big problem at the office today!
+#    B: What happened?
+#    A: I could not use my computer all day!
+#    B: Was it because of a virus?
+#    A: Yes, I opened a file that had a virus.
+#    B: Oh no! You must be careful when you open files in your email. A virus can make your whole computer crash.
+#    A: It was an accident! I didn't know the file had a virus. I'll be more careful next time.
+#    B: What did you do next?
     A: I asked a computer repairman to come to the office. He worked all day to repair my computer. But the real problem is that I may have lost some of my work.
     B: Don't worry. Your work is probably still on your computer. I can help you get it back. Next time, make sure you have backup files. Just in case it happens again.
-  - I had|at the|What|not|computer all|Was it|of a|Yes. I|that had|Oh|You|be|in|email|can|your|computer crash|It|an|I didn't|the|had|I'll be|next|you do|computer repairman|to the|He|all|to|computer|But|real|is that|have|some of|Don't|Your|is probably|your computer. I can|get|back. Next|make|have backup|Just in|it|again|End
+  - asked.verb to.other come.verb office.noun worked.verb day.noun repair.verb my.ad the.other problem.noun may.verb lost.verb my.ad work.noun worry.verb work.noun still.ad on.other help.verb you.noun it.noun time.noun sure.ad you.noun files.noun case.other happens.verb End.other
+# - I had|at the|What|not|computer all|Was it|of a|Yes. I|that had|Oh|You|be|in|email|can|your|computer crash|It|an|I didn't|the|had|I'll be|next|you do|computer repairman|to the|He|all|to|computer|But|real|is that|have|some of|Don't|Your|is probably|your computer. I can|get|back. Next|make|have backup|Just in|it|again|End
 -
   - "virus-2"
   - "virus"
