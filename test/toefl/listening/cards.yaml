@@ -150,6 +150,17 @@ test:
             - D. Preparing for a career in journalism
           answer: Wrong
         - question: |+
+            What kind of question is this question about the topic of the conversation?
+          option:
+            - a 3.3 gist question
+            - a 3.4 detail question
+            - a 3.5 function question
+            - a 3.6 attitude question
+            - a 3.7 organization question
+            - a 3.8 connecting question
+            - a 3.9 inference question
+          answer: a 3.3 gist question
+        - question: |+
             Why does the advisor discourage the student from transferring to another university? 
           option:
             - A. His current university is highly respected by newspaper editors.
@@ -157,6 +168,17 @@ test:
             - C. He does not need to major in journalism in order to work as a reporter.
             - D. He has a promising future on the staff of his current university's newspaper.
           answer: Wrong
+        - question: |+
+            What kind of question is this question about university transfer?
+          option:
+            - a 3.3 gist question
+            - a 3.4 detail question
+            - a 3.5 function question
+            - a 3.6 attitude question
+            - a 3.7 organization question
+            - a 3.8 connecting question
+            - a 3.9 inference question
+          answer: a 3.4 detail question
         - question: |+
             According to the advisor, how do newspaper editors evaluate an applicant for a reporting position? Choose 2 answers.
 
@@ -171,6 +193,17 @@ test:
             - D, A
             - A, C
             - B, D
+        - question: |+
+            What kind of question is this question about applicant evaluation?
+          option:
+            - a 3.3 gist question
+            - a 3.4 detail question
+            - a 3.5 function question
+            - a 3.6 attitude question
+            - a 3.7 organization question
+            - a 3.8 connecting question
+            - a 3.9 inference question
+          answer: a 3.4 detail question
 
           answer: Wrong
         - question: |+
@@ -190,6 +223,17 @@ test:
             - B, D
           answer: Wrong
         - question: |+
+            What kind of question is this question about local court reporting?
+          option:
+            - a 3.3 gist question
+            - a 3.4 detail question
+            - a 3.5 function question
+            - a 3.6 attitude question
+            - a 3.7 organization question
+            - a 3.8 connecting question
+            - a 3.9 inference question
+          answer: a 3.8 connecting question
+        - question: |+
             What does the student imply when he says this-- 
 
             Student:  
@@ -203,6 +247,17 @@ test:
             - C. He does not want to take credit that he does not deserve.
             - D. He will try to make sure his future articles are more accurate.
           answer: Wrong
+        - question: |+
+            What kind of question is this question about changes to the student's article?
+          option:
+            - a 3.3 gist question
+            - a 3.4 detail question
+            - a 3.5 function question
+            - a 3.6 attitude question
+            - a 3.7 organization question
+            - a 3.8 connecting question
+            - a 3.9 inference question
+          answer: a 3.5 function question
     psychology:
       identifier: "3.11 Listening Practice Test: Part 2"
       quiz:
