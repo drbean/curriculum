@@ -270,6 +270,17 @@ test:
             - D. Common limitations with regard to several cognitive functions
           answer: Wrong
         - question: |+
+            What kind of question is this question about lecture topic?
+          option:
+            - a 3.3 gist question
+            - a 3.4 detail question
+            - a 3.5 function question
+            - a 3.6 attitude question
+            - a 3.7 organization question
+            - a 3.8 connecting question
+            - a 3.9 inference question
+          answer: a 3.3 gist question
+        - question: |+
             Why does the professor mention a study with a word list? 
           option:
             - A. To illustrate a type of mistake that people make when recalling details
@@ -277,6 +288,17 @@ test:
             - C. To demonstrate the limited effect imagination has on memory
             - D. To prove that imagination leads to poor decision making
           answer: Wrong
+        - question: |+
+            What kind of question is this question about word lists?
+          option:
+            - a 3.3 gist question
+            - a 3.4 detail question
+            - a 3.5 function question
+            - a 3.6 attitude question
+            - a 3.7 organization question
+            - a 3.8 connecting question
+            - a 3.9 inference question
+          answer: a 3.7 organization question
         - question: |+
             What was demonstrated by the study on perception that the professor mentions? 
           option:
@@ -286,6 +308,17 @@ test:
             - D. Words that are heard last are the most easily remembered.
           answer: Wrong
         - question: |+
+            What kind of question is this question about misheard sentences?
+          option:
+            - a 3.3 gist question
+            - a 3.4 detail question
+            - a 3.5 function question
+            - a 3.6 attitude question
+            - a 3.7 organization question
+            - a 3.8 connecting question
+            - a 3.9 inference question
+          answer: a 3.4 detail question
+        - question: |+
             Why does the professor mention the area where the optic nerve connects to the back of the eye? 
           option:
             - A. To explain why many people do not understand the concept of blind spots
@@ -294,6 +327,17 @@ test:
             - D. To show how visual perception works
           answer: Wrong
         - question: |+
+            What kind of question is this question about blind spots?
+          option:
+            - a 3.3 gist question
+            - a 3.4 detail question
+            - a 3.5 function question
+            - a 3.6 attitude question
+            - a 3.7 organization question
+            - a 3.8 connecting question
+            - a 3.9 inference question
+          answer: a 3.7 organization question
+        - question: |+
             What point does the professor make about imagination? 
           option:
             - A. It is inadequate for accurately predicting future events.
@@ -301,6 +345,17 @@ test:
             - C. It is a process that is unrelated to perception or memory.
             - D. It is a relatively new area of study in cognition.
           answer: Wrong
+        - question: |+
+            What kind of question is this question about applicant evaluation?
+          option:
+            - a 3.3 gist question
+            - a 3.4 detail question
+            - a 3.5 function question
+            - a 3.6 attitude question
+            - a 3.7 organization question
+            - a 3.8 connecting question
+            - a 3.9 inference question
+          answer: a 3.4 detail question
         - question: |+
             Listen again to part of the lecture. Then answer the question.
 
@@ -316,6 +371,17 @@ test:
 
                 Did yours have tomatoes? Onion? Lettuce? Mine did.
 
+        - question: |+
+            What kind of question is this question about salad imagining?
+          option:
+            - a 3.3 gist question
+            - a 3.4 detail question
+            - a 3.5 function question
+            - a 3.6 attitude question
+            - a 3.7 organization question
+            - a 3.8 connecting question
+            - a 3.9 inference question
+          answer: a 3.5 function question
           option:
             - A. To find out if Peter followed her instructions
             - B. To illustrate a point she wants to make about imagination
@@ -334,6 +400,17 @@ test:
             - D. The importance of microclimates to some animals
           answer: Wrong
         - question: |+
+            What kind of question is this question about lecture topic?
+          option:
+            - a 3.3 gist question
+            - a 3.4 detail question
+            - a 3.5 function question
+            - a 3.6 attitude question
+            - a 3.7 organization question
+            - a 3.8 connecting question
+            - a 3.9 inference question
+          answer: a 3.3 gist question
+        - question: |+
             What two factors does the professor say can affect a microclimate? Choose 2 answers.
 
             * A. The size of the animal population in the area
@@ -349,6 +426,17 @@ test:
             - B, D
           answer: Wrong
         - question: |+
+            What kind of question is this question about microclimate factors?
+          option:
+            - a 3.3 gist question
+            - a 3.4 detail question
+            - a 3.5 function question
+            - a 3.6 attitude question
+            - a 3.7 organization question
+            - a 3.8 connecting question
+            - a 3.9 inference question
+          answer: a 3.4 detail question
+        - question: |+
             What point does the professor make when she mentions squirrels?
           option:
             - A. Studying squirrels has helped biologists identify different microclimates.
@@ -356,6 +444,17 @@ test:
             - C. Smaller animals have more success than larger animals in adapting to different microclimates.
             - D. Squirrels do not rely on microclimates as much as other mammals do.
           answer: Wrong
+        - question: |+
+            What kind of question is this question about squirrels?
+          option:
+            - a 3.3 gist question
+            - a 3.4 detail question
+            - a 3.5 function question
+            - a 3.6 attitude question
+            - a 3.7 organization question
+            - a 3.8 connecting question
+            - a 3.9 inference question
+          answer: a 3.9 inference question
         - question: |+
             What does the professor imply about reptiles and microclimates?
           option:
@@ -365,6 +464,17 @@ test:
             - D. Many reptiles spend most of their time in one type of microclimate.
           answer: Wrong
         - question: |+
+            What kind of question is this question about reptiles and microclimates?
+          option:
+            - a 3.3 gist question
+            - a 3.4 detail question
+            - a 3.5 function question
+            - a 3.6 attitude question
+            - a 3.7 organization question
+            - a 3.8 connecting question
+            - a 3.9 inference question
+          answer: a 3.8 connecting question
+        - question: |+
             According to the professor, how do decomposing leaves affect microclimates?
           option:
             - A. Decomposing leaves form layers that prevent sunlight from warming the ground below the leaves.
@@ -372,6 +482,17 @@ test:
             - C. Decomposing leaves generate heat, creating a warm microclimate.
             - D. Decomposing leaves bring moisture to dry microclimates.
           answer: Wrong
+        - question: |+
+            What kind of question is this question about microclimates under leaves?
+          option:
+            - a 3.3 gist question
+            - a 3.4 detail question
+            - a 3.5 function question
+            - a 3.6 attitude question
+            - a 3.7 organization question
+            - a 3.8 connecting question
+            - a 3.9 inference question
+          answer: a 3.4 detail question
         - question: |+
             Listen again to part of the lecture. Then answer the question.
 
@@ -400,3 +521,14 @@ test:
             - C. To provide an example that may be an exception to the professor's statement
             - D. To indicate that there is more than one explanation for a phenomenon
           answer: Wrong
+        - question: |+
+            What kind of question is this question about the student's comment?
+          option:
+            - a 3.3 gist question
+            - a 3.4 detail question
+            - a 3.5 function question
+            - a 3.6 attitude question
+            - a 3.7 organization question
+            - a 3.8 connecting question
+            - a 3.9 inference question
+          answer: a 3.5 function question
