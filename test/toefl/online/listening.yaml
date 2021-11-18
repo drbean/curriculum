@@ -13,17 +13,6 @@ section:
 ---
 
 -
-  grade: 0
-  content:
-  -
-    topic : listening
-    story : provenance
-    type  : page
-    form  : 0
-    intro : https://www.edx.org/course/toefl-test-preparation-the-insiders-guide
-    random: 
-
--
   content:
   -
     topic : listening
@@ -47,12 +36,30 @@ section:
   content:
   -
     topic : listening
+    story : provenance
+    type  : url
+    form  : 1
+    intro : Watch and then do Listening Quiz 2
+    random: 
+-
+  content:
+  -
+    topic : listening
     story : gist
     type  : jigsaw
     form  : 0
     intro : 3.3 Gist-Content and Gist-Purpose
     random: 
 
+-
+  content:
+  -
+    topic : listening
+    story : provenance
+    type  : url
+    form  : 2
+    intro : Watch and then do Listening Quiz 3
+    random: 
 -
   content:
   -
@@ -67,12 +74,30 @@ section:
   content:
   -
     topic : listening
+    story : provenance
+    type  : url
+    form  : 3
+    intro : Watch and then do Listening Quiz 4
+    random: 
+-
+  content:
+  -
+    topic : listening
     story : function
     type  : jigsaw
     form  : 0
     intro : 3.5 Function Questions
     random: 
 
+-
+  content:
+  -
+    topic : listening
+    story : provenance
+    type  : url
+    form  : 4
+    intro : Watch and then do Listening Quiz 5
+    random: 
 -
   content:
   -
@@ -87,12 +112,30 @@ section:
   content:
   -
     topic : listening
+    story : provenance
+    type  : url
+    form  : 5
+    intro : Watch and then do Listening Quiz 6
+    random: 
+-
+  content:
+  -
+    topic : listening
     story : organization
     type  : jigsaw
     form  : 0
     intro : 3.7 Organization Questions
     random: 
 
+-
+  content:
+  -
+    topic : listening
+    story : provenance
+    type  : url
+    form  : 6
+    intro : Watch and then do Listening Quiz 7
+    random: 
 -
   content:
   -
@@ -107,12 +150,30 @@ section:
   content:
   -
     topic : listening
+    story : provenance
+    type  : url
+    form  : 7
+    intro : Watch and then do Listening Quiz 8
+    random: 
+-
+  content:
+  -
+    topic : listening
     story : inference
     type  : jigsaw
     form  : 0
     intro : 3.9 Inference Questions
     random: 
 
+-
+  content:
+  -
+    topic : listening
+    story : provenance
+    type  : url
+    form  : 8
+    intro : Listen and do Practice Test 1
+    random: 
 -
   content:
   -
@@ -127,12 +188,30 @@ section:
   content:
   -
     topic : listening
+    story : provenance
+    type  : url
+    form  : 9
+    intro : Listen and do Practice Test 2
+    random: 
+-
+  content:
+  -
+    topic : listening
     story : test
     type  : jigsaw
     form  : psychology 
     intro : A lecture on mental processes and their failings
     random: 
 
+-
+  content:
+  -
+    topic : listening
+    story : provenance
+    type  : url
+    form  : 10
+    intro : Listen and do Practice Test 3
+    random: 
 -
   content:
   -
