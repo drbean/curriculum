@@ -139,7 +139,7 @@ inference:
 test:
   jigsaw:
     journalism:
-      identifier: "3.11 Listening Practice Test: Part 1"
+      identifier: "3.11 Listening Test: Part 1 questions"
       quiz:
         - question: |+
             What is the conversation mainly about? 
@@ -193,6 +193,7 @@ test:
             - D, A
             - A, C
             - B, D
+          answer: Wrong
         - question: |+
             What kind of question is this question about applicant evaluation?
           option:
@@ -204,8 +205,6 @@ test:
             - a 3.8 connecting question
             - a 3.9 inference question
           answer: a 3.4 detail question
-
-          answer: Wrong
         - question: |+
             What points does the advisor make when she suggests that the student report on a local court case? Choose 2 answers.
 
@@ -259,7 +258,7 @@ test:
             - a 3.9 inference question
           answer: a 3.5 function question
     psychology:
-      identifier: "3.11 Listening Practice Test: Part 2"
+      identifier: "3.11 Listening Test: Part 2 questions"
       quiz:
         - question: |+
             What is the lecture mainly about?
@@ -370,7 +369,12 @@ test:
             Professor:
 
                 Did yours have tomatoes? Onion? Lettuce? Mine did.
-
+          option:
+            - A. To find out if Peter followed her instructions
+            - B. To illustrate a point she wants to make about imagination
+            - C. To point out that all salads have some ingredients in common
+            - D. To show the relation between memory and imagination
+          answer: Wrong
         - question: |+
             What kind of question is this question about salad imagining?
           option:
@@ -382,14 +386,8 @@ test:
             - a 3.8 connecting question
             - a 3.9 inference question
           answer: a 3.5 function question
-          option:
-            - A. To find out if Peter followed her instructions
-            - B. To illustrate a point she wants to make about imagination
-            - C. To point out that all salads have some ingredients in common
-            - D. To show the relation between memory and imagination
-          answer: Wrong
     microclimate:
-      identifier: "3.11 Listening Practice Test: Part 3"
+      identifier: "3.11 Listening Test: Part 3 questions"
       quiz:
         - question: |+
             What is the lecture mainly about?
