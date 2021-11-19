@@ -19,7 +19,7 @@ section:
     story : provenance
     type  : url
     form  : 0
-    intro : 4.2 About the speaking section
+    intro : Watch this and the following videos and then do Speaking Quiz 1
 -
   content:
   -
@@ -27,7 +27,7 @@ section:
     story : provenance
     type  : url
     form  : 1
-    intro : 4.2 Talking to a computer
+    intro : Watch this and the following videos and then do Speaking Quiz 1
 -
   content:
   -
@@ -35,7 +35,7 @@ section:
     story : provenance
     type  : url
     form  : 2
-    intro : 4.2 Timing and approach
+    intro : Watch this video and then do Speaking Quiz 1
 -
   content:
   -
