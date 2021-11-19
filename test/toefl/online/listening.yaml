@@ -172,7 +172,7 @@ section:
     story : provenance
     type  : url
     form  : 8
-    intro : Listen and do Practice Test 1
+    intro : Listen and then answer Practice Test 1 questions
     random: 
 -
   content:
@@ -191,7 +191,7 @@ section:
     story : provenance
     type  : url
     form  : 9
-    intro : Listen and do Practice Test 2
+    intro : Listen and then answer Practice Test 2 questions
     random: 
 -
   content:
@@ -210,7 +210,7 @@ section:
     story : provenance
     type  : url
     form  : 10
-    intro : Listen and do Practice Test 3
+    intro : Listen and then answer Practice Test 3 questions
     random: 
 -
   content:
