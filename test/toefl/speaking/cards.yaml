@@ -2,13 +2,13 @@
 provenance:
   url:
     0:
-      identifier: about speaking section
+      identifier: 4.2 About Speaking Section
       externalurl: "[About the speaking section](https://learning.edx.org/course/course-v1:ETSx+TOEFLx+3T2020/block-v1:ETSx+TOEFLx+3T2020+type@sequential+block@47205b3c566b4e40b83041bc62f7d5e3/block-v1:ETSx+TOEFLx+3T2020+type@vertical+block@75d8da18dc95405abfbe4cfc5ef40544)"
     1:
-      identifier: talking to computer
+      identifier: 4.2 Talking to Computer
       externalurl: "[Talking to a computer](https://learning.edx.org/course/course-v1:ETSx+TOEFLx+3T2020/block-v1:ETSx+TOEFLx+3T2020+type@sequential+block@47205b3c566b4e40b83041bc62f7d5e3/block-v1:ETSx+TOEFLx+3T2020+type@vertical+block@e6992e458d114bf693ed562ee3a68062)"
     2:
-      identifier: timing and approach
+      identifier: 4.2 Timing and approach
       externalurl: "[Timing and approach](https://learning.edx.org/course/course-v1:ETSx+TOEFLx+3T2020/block-v1:ETSx+TOEFLx+3T2020+type@sequential+block@47205b3c566b4e40b83041bc62f7d5e3/block-v1:ETSx+TOEFLx+3T2020+type@vertical+block@6a6c9f7603d6450db3eaff84a4687fb4)"
     3:
       identifier: independent question
