@@ -65,6 +65,37 @@ clothes:
       fur     : 毛皮   
       polite  : 有禮貌 
       wallet  : 錢包   
+  match:
+    0:
+      identifier: Listening Time, Unit 3, p 20--9 pics
+      pair:
+        -
+          - top left hand corner.
+          - Janet
+        -
+          - in the middle on the left.
+          - Peter
+        -
+          - bottom left hand corner.
+          - Sally
+        -
+          - in the middle at the top.
+          - a pen
+        -
+          - right in the middle.
+          - a pair of jeans
+        -
+          - in the middle at the bottom.
+          - a blouse
+        -
+          - top right hand corner.
+          - a clothes store
+        -
+          - in the middle on the right.
+          - a bedroom
+        -
+          - bottom right hand corner.
+          - a kitchen or an office?
   bingo:
     - shoes keys backpack pencil pen jeans socks blouse 
     - pink blouse wearing jeans socks shoes keys looks drawer not door floor can't find under bed
