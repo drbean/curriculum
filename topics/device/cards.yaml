@@ -4,6 +4,17 @@ cell_phones:
   bingo:
     - airplane cell_phone check contact cost doughnut explain freeway message middle missing other receive short sister strawberry_jam text useful
 virus:
+# identifier: unit 26 chinese-english keywords
+  flash:
+    0:
+      accident : 事故
+      virus    : 病毒
+      file     : 文件
+      office   : 辦公室
+      careful  : 小心
+      repair   : 修理
+      crash    : 碰撞
+      problem  : 問題
   bingo:
     -
       - Was the problem because of a virus?                               _是問題，因為病毒？_
