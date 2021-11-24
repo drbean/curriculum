@@ -97,6 +97,17 @@ lesson:
       - Jason has to give _information_ about himself.
       - Your _level_ is how good you are at a thing.
 marathon:
+    flash:
+      identifier: 
+      quiz:
+        marathon   : 馬拉松
+        runners    : 跑步者
+        difficult  : 難的
+        fifty      : 五十
+        race       : 競走
+        lucky      : 幸運的
+        entire     : 全部的
+        watch      : 看
   1:
     flash:
       # "A: Did you watch the Boston marathon?" : "B: Yes, I went to Boston to see it."
