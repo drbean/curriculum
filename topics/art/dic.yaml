@@ -472,7 +472,9 @@
     It is big! What is it? She thinks it's an instrument, but which one?
     Is it a clarinet? No. Is it a horn? No. Is it a drum? No.
     Surprise! It's a violin! It is beautiful. Maria is happy. She loves music.
-  - Maria is|Today is her|She has one|It is|What is it|She|it's an|but which one|Is it a|No. Is it a|No. Is it a|No|Surprise|It's a|It is beautiful|Maria is happy|She loves|End
+#  - Maria is|Today is her|She has one|It is|What is it|She|it's an|but which one|Is it a|No. Is it a|No. Is it a|No|Surprise|It's a|It is beautiful|Maria is happy|She loves|End
+  - happy.ad birthday.noun present.noun big.ad thinks.verb instrument.noun clarinet.noun horn.noun drum.noun violin.noun music.noun End
+
 -
   - "music-2"
   - "music-2"

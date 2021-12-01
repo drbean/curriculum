@@ -132,6 +132,16 @@ art:
 
 
 music:
+  flash:
+    0:
+      clarinet    : clarinet.jpg
+      instruments : instruments.jpg
+      music       : music.png
+      violin      : violin.jpg
+      concert     : concert.jpg
+      practice    : practice.jpg
+      musician    : musician.jpg
+      orchestra   : orchestra.jpg
   0:
     flash:
         clarinet    : 單簧管
@@ -143,6 +153,7 @@ music:
         musician    : 音樂家
         orchestra   : 樂隊
   bingo:
+    - clarinet instruments music violin concert practice musician orchestra piano many times week tonight theater good sister plays school 
     -
       - People who write music are called composers.                                              _誰寫的音樂人被稱為作曲家。_
       - Most of the time, composers writes their music down in the form of notes.                 _大多數時候，作曲家以音符的形式寫入他們的音樂了。_
