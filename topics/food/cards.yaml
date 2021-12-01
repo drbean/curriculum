@@ -52,6 +52,36 @@ cooking:
         -
           - bottom right hand corner.
           - a big cake
+    1:
+      identifier: intermediate class seating
+      pair:
+        -
+          - front left hand corner.
+          - Stark
+        -
+          - in the middle at the front.
+          - Jimmy and Alvin
+        -
+          - front right hand corner.
+          - the teacher
+        -
+          - in the middle on the left.
+          - Claire and Lucy
+        -
+          - right in the middle.
+          - Connie, Sharon and Miumiu
+        -
+          - in the middle on the right.
+          - Martin and Abu
+        -
+          - back left hand corner.
+          - nobody
+        -
+          - in the middle at the back.
+          - Tiffany and Trista
+        -
+          - back right hand corner.
+          - Jack
         
   flash:
     1:
@@ -76,6 +106,7 @@ cooking:
       cupcake: bottom left hand corner.
   bingo:
     - toast apron cupcake cook plate fork sick hotdog 
+    - Chris uses fork eat spaghetti all food your plate please Jennifer having hotdog soda lunch Jim very sick can't go school today
     -
       - For breakfast, Jack makes five pieces of toast. He eats them all.    _對於早餐，傑克製作五塊烤麵包片。 他吃了他們_
       - For lunch, Jack eats three cupcakes.                                 _吃午飯時，傑克吃三杯蛋糕。_
