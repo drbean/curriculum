@@ -115,6 +115,16 @@ marathon:
       "A: You are so lucky! Which part of the marathon did you see?" : "B: I watched the entire race, from start to finish."
       "A: I don't know how the runners can finish the whole race. It's so long and difficult! I could never do something like that." : "B: I tried to run a marathon once. It was really difficult. I just can't run like my friend can."
       "A: Yes, running a marathon is not an easy thing to do. By the way, how did your friend do in the race?" : "B: She did quite well! She was not the fastest runner, but she was in the top 50."
+  2:
+    flash:
+      "A: Did you watch the Boston marathon?" : "B: Yes, I went to Boston to see it."
+      "A: You were in Boston for the marathon?" : "B: That's right. My friend is a runner."
+      "B: I went there to watch her run. We traveled to Boston together" : "A: You are so lucky!"
+      "A: Which part of the marathon did you see?" : "B: I watched the entire race, from start to finish."
+
+      "A: I don't know how the runners can finish the whole race. It's so long and difficult! I could never do something like that." : "B: I tried to run a marathon once. It was really difficult."
+      "B: I just can't run like my friend can." : "A: Yes, running a marathon is not an easy thing to do."
+      "A:  By the way, how did your friend do in the race?" : "B: She did quite well! She was not the fastest runner, but she was in the top 50."
 
   bingo:
     -
