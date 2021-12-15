@@ -411,11 +411,11 @@
     B: What do you have to do in order to go on a bicycle trip.
     A: Before the trip, I'll need to ride my bicycle a lot. That will make me fit and strong. I also need to get some equipment.
     B: What kind of equipment will you need?
-  - I'm|trip|Europe|Why|want to|on a|It's|environmentally|way|What|you|to do|to go|the trip|I'll|to|my|a lot. That|make|fit and|I also|to|some|What|of|will you|road|of the|I am|bags to carry|I need|all these|on my|Are you|person|Yes, I|with a|of mine. He|trips|I could|on a|Well|get|many
-    #- planning.verb on.other bicycle.noun around.other do.verb you.noun go.verb bicycle.noun an.other friendly.ad to.other travel.verb do.verb have.verb in.other order.other on.other bicycle.noun before.other need.verb ride.verb bicycle.noun will.verb me.noun strong.ad need.verb get.verb equipment.noun kind.noun equipment.noun need.verb End
+  - planning.verb on.other bicycle.noun around.other do.verb you.noun go.verb bicycle.noun an.other friendly.ad to.other travel.verb do.verb have.verb in.other order.other on.other bicycle.noun before.other need.verb ride.verb bicycle.noun will.verb me.noun strong.ad need.verb get.verb equipment.noun kind.noun equipment.noun need.verb End
+#  - I'm|trip|Europe|Why|want to|on a|It's|environmentally|way|What|you|to do|to go|the trip|I'll|to|my|a lot. That|make|fit and|I also|to|some|What|of|will you|road|of the|I am|bags to carry|I need|all these|on my|Are you|person|Yes, I|with a|of mine. He|trips|I could|on a|Well|get|many
 -
-  - bicycle-1
-  - "bicycle-1"
+  - bicycle-2
+  - "bicycle-2"
   - "topics"
   - "all"
   - |+
@@ -431,8 +431,8 @@
     B: I wish I could go on a bicycle trip, too! Well, don't get too many flat tires!
   - I'm|trip|Europe|Why|want to|on a|It's|environmentally|way|What|you|to do|to go|the trip|I'll|to|my|a lot. That|make|fit and|I also|to|some|What|of|will you|road|of the|I am|bags to carry|I need|all these|on my|Are you|with|person|Yes, I|with a|of mine. He|trips|I could|on a|trip|Well|get|many|End
 -
-  - bicycle-2
-  - "bicycle-2"
+  - bicycle-1
+  - "bicycle-1"
   - "topics"
   - "all"
   - |+
@@ -440,7 +440,8 @@
     B: Are you traveling with another person?
     A: Yes, I am going with a friend of mine. He likes bicycle trips.
     B: I wish I could go on a bicycle trip, too! Well, don't get too many flat tires!
-  - I'm|trip|Europe|Why|want to|on a|It is|environmentally|way|What|you|to do|to go|the trip|I'll|to|my|a lot. That|make|fit and|I also|to|some|What|of|will you|road|of the|I am|bags to carry|I need|all these|on my|Are you|person|Yes, I|with a|of mine. He|trips|I could|on a|Well|get|many
+  - need.verb maps.noun countries.noun going.verb visit.verb need.verb strong.ad clothes.noun food.noun to.other carry.verb things.noun bicycle.noun traveling.verb another.ad am.verb going.verb friend.noun likes.verb bicycle.noun wish.verb go.verb bicycle.noun too.other don't.verb too.other flat.ad tires.noun End
+#  - road|of the|I am|bags to carry|I need|all these|on my|Are you|person|Yes, I|with a|of mine. He|trips|I could|on a|Well|get|many
 -
   - car-0
   - "car-0"
