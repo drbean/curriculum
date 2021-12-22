@@ -99,7 +99,7 @@ lesson:
 marathon:
   flash:
     identifier: 
-    quiz:
+    0:
       marathon   : 馬拉松
       runners    : 跑步者
       difficult  : 難的
