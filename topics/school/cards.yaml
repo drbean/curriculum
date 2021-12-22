@@ -406,6 +406,16 @@ thing:
 subject:
   0:
     flash:
+      English            : English.jpg
+      science            : science.jpg
+      math               : math.jpg
+      physical education : physicaleducation.jpg
+      geography          : geography.jpg
+      art                : art.jpg
+      reading            : reading.jpg
+      history            : history.jpg
+  1:
+    flash:
       English            : 英語
       science            : 科學
       math               : 數學
