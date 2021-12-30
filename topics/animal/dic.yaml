@@ -23,13 +23,13 @@
   - "topics"
   - "all"
   - |+
-
     A: Look at the polar bears!
     B: Yeah, they're playing in the water. Which animals do you like the best?
     A: I like monkeys. They are cute. What about you?
     B: I like lions.
     A: I don't like lions. They have big claws and teeth. They roar a lot, too.
     B: Oh, well, that's why I like them.
+  - polar.ad bears.noun playing.verb water.noun animals.noun like.verb best.ad monkeys.noun cute.ad lions.noun don't.verb claws.noun roar.verb like.verb End
   - Look at the|Yeah, they're|in the|Which|do you|the|I like|They are|What about you|I like|like lions|They have big|and teeth|They|a lot, too|Oh, well, that's why I|them|End
 -
   - "zoo-3"

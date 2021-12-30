@@ -230,6 +230,22 @@ zoo:
       tail    : 尾巴
       zebra   : 斑馬
       crane   : 鸛
+  match:
+    0:
+      identifier: zoo conversation--unit 5
+      pair:
+        -
+          - "A: Look at the polar bears!"
+          - "B: Yeah, they're playing in the water."
+        -
+          - "B: Which animals do you like the best?"
+          - "A: I like monkeys. They are cute."
+        -
+          - "A: What about you? What animals do you like best?"
+          - "B: I like lions."
+        -
+          - "A: I don't like lions. They have big claws and teeth. They roar a lot, too."
+          - "B: Oh, well, that's why I like them."
   bingo:
     - shark zoo monkey zebra roars claws zookeeper polar_bear beach aquarium museum food swims afraid lion snow cool ice rain house cold home
     - shark zoo monkey zebra roars claws zookeeper polar_bear
