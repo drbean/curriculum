@@ -533,7 +533,7 @@ planning:
             - 30 seconds
             - 45 seconds
             - 60 seconds
-          answer: 45 seconds
+          answer: 30 seconds
     2:
       identifier: preparing response to Question 3-4--describe a picture
       quiz:
