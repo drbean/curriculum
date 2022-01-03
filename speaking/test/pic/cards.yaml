@@ -267,7 +267,7 @@ stall:
       rubric: |+
         Recording a stall picture description
 
-        Look at the fruit stall picture in "Question 3-4:describe a picture". Take 45 seconds to decide what to say. Record a 45-second description.
+        Look at the fruit stall picture in "Question 3-4:describe a picture". Take 45 seconds to decide what to say. Record a 30-second description.
 
         Follow the instructions to upload the sound file.
 
@@ -277,7 +277,7 @@ stall:
     1:
       identifier: Recording another stall picture description
       rubric: |+
-        In this part of the test, you will describe the picture on your screen in as much detail as you can . You will have 45 seconds to prepare your response . Then you will have 45 seconds to speak about the picture. Record by clicking the Microphone button in the editor, or attach a sound file, by clicking the Video Camera button in the box to the left. Submit after choosing a good title for the reading (use keywords from the picture!)
+        In this part of the test, you will describe the picture on your screen in as much detail as you can . You will have 45 seconds to prepare your response . Then you will have 30 seconds to speak about the picture. Record by clicking the Microphone button in the editor, or attach a sound file, by clicking the Video Camera button in the box to the left. Submit after choosing a good title for the reading (use keywords from the picture!)
 
         [London, England, UK. Fruit stall in Brixton market - Electric Avenue, seen from the platform of Brixton Station](https://www.alamy.com/stock-photo-london-england-uk-fruit-stall-in-brixton-market-electric-avenue-seen-72865871.html)
 
@@ -293,7 +293,7 @@ street:
     0:
       identifier: Question 3-4. Describe a picture
       rubric: |+
-         In this part of the test, you will describe the picture on your screen in as much detail as you can . You will have 30 seconds to prepare your response . Then you will have 45 seconds to speak about the picture. Record by clicking the Microphone button in the editor, or attach a sound file, by clicking the Video Camera button in the box to the left. Submit after choosing a good title for the reading (use keywords from the picture!)
+         In this part of the test, you will describe the picture on your screen in as much detail as you can . You will have 45 seconds to prepare your response . Then you will have 30 seconds to speak about the picture. Record by clicking the Microphone button in the editor, or attach a sound file, by clicking the Video Camera button in the box to the left. Submit after choosing a good title for the reading (use keywords from the picture!)
 sentence:
   description:
     0:
