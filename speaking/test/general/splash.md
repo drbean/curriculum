@@ -26,9 +26,9 @@ body {
 <div id="container">
   <div id="content">
 
-Do TOEIC® Speaking tests!
+Do TOEIC® Speaking and TOEFL® tests!
 
-Do quizzes about TOEIC® Speaking tests!
+Upload Speaking and Writing responses!
 
 And more!
 
