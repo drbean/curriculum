@@ -1,7 +1,7 @@
 % Home Page of Dr Bean
 
 - [AcademicEditingService ](AcademicEditingService.html)
-- [TOEIC® Speaking Test practice site](toeic)
+- [TOEFL® and TOEIC® Speaking Test site](toeflic)
 
 <!-- end of list -->
 
