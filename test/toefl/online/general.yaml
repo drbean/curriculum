@@ -17,7 +17,7 @@ section:
   -
     topic : general
     story : introduction
-    type  : page
+    type  : forum
     form  : 0
     intro : Logging on to the site
     random: 
@@ -40,7 +40,7 @@ section:
   -
     topic : general
     story : handbook
-    type  : page
+    type  : forum
     form  : 0
     intro : Links for the official TOEFL Prep Planner and Handbook
     random: 
@@ -60,7 +60,7 @@ section:
   -
     topic : general
     story : overview
-    type  : page
+    type  : forum
     form  : 0
     intro : The 4 sections of the test and what to expect in them
     random: 
