@@ -19,7 +19,7 @@ slides:
       identifier: "Slides about taking the TOEFL Test"
       externalurl: http://drbean.sdf.org/toefl/general.pdf
 introduction:
-  page:
+  forum:
     0:
       identifier: 'Welcome: course arrangements'
       rubric: |+
