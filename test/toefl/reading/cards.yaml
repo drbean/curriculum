@@ -268,7 +268,7 @@ test:
 teotihuacan:
   jigsaw:
     0:
-      identifier: The Rise of Teotihuacan. Questions 1-3
+      identifier: The Rise of Teotihuacan. Questions 1-10
       quiz:
         - question: |+
             ## The Rise of Teotihuacá (from https://www.ets.org/s/toefl/pdf/reading_practice_sets.pdf)
