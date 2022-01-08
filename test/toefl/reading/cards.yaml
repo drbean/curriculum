@@ -338,10 +338,10 @@ teotihuacan:
         - question: |+
             7. Select the TWO answer choices that are mentioned in paragraph 5 as being features of Teotihuacán that may have attracted immigrants to the city. To receive credit, you must select TWO answers.
 
-            - A.The prosperity of the elite
-            - B.Plenty of available housing
-            - C.Opportunities for well-paid agricultural employment
-            - D.The presence of one or more religious shrines
+            * A.The prosperity of the elite
+            * B.Plenty of available housing
+            * C.Opportunities for well-paid agricultural employment
+            * D.The presence of one or more religious shrines
           options:
             - A, B
             - A, C
@@ -349,58 +349,48 @@ teotihuacan:
             - B, C
             - B, D
             - C, D
-            answer: A, D
-          - question: 8. In paragraph 6, the author discusses "The thriving obsidian operation," in order to:
-            options:
-              - A.explain why manufacturing was the main industry of Teotihuacán
-              - B.give an example of an industry that took very little time to develop in Teotihuacán
-              - C.illustrate how several factors influenced each other to make Teotihuacán a powerful and wealthy city
-              - D.explain how a successful industry can be a source of wealth and a source of conflict at the same time
-            answer: C.illustrate how several factors influenced each other to make Teotihuacán a powerful and wealthy city
-          - question: |+
-              9. In paragraph 1 of the passage, there is a missing sentence. The paragraph is repeated below and shows four letters (A, B, C, and D) that indicate where the following sentence could be added.
+          answer: A, D
+        - question: 8. In paragraph 6, the author discusses "The thriving obsidian operation," in order to--
+          options:
+            - A.explain why manufacturing was the main industry of Teotihuacán
+            - B.give an example of an industry that took very little time to develop in Teotihuacán
+            - C.illustrate how several factors influenced each other to make Teotihuacán a powerful and wealthy city
+            - D.explain how a successful industry can be a source of wealth and a source of conflict at the same time
+          answer: C.illustrate how several factors influenced each other to make Teotihuacán a powerful and wealthy city
+        - question: |+
+            9. In paragraph 1 of the passage, there is a missing sentence. The paragraph is repeated below and shows four letters (A, B, C, and D) that indicate where the following sentence could be added.
 
-              In fact, artifacts and pottery from Teotihuacán have been discovered in sites as faraway as the Mayan lowlands, the Guatemalan highlands, northern Mexico, and the Gulf Coast of Mexico.
+            In fact, artifacts and pottery from Teotihuacán have been discovered in sites as faraway as the Mayan lowlands, the Guatemalan highlands, northern Mexico, and the Gulf Coast of Mexico.
 
-              Where would the sentence best fit?
+            Where would the sentence best fit?
 
-              The city of Teotihuacán, which lay about 50 kilometers northeast of modern-day Mexico  City, began its growth by 200 -100 B.C. At its height, between about A.D. 150 and 700, it probably had a population of more than 125,000 people and covered at least 20 square kilometers. (A) It had over 2,000 apartment complexes, a great market, a large number of industrial workshops, an administrative center, a number of massive religious edifices, and a regular grid pattern of streets and buildings. (B) Clearly, much planning and central control were involved in the expansion and ordering of this great metropolis. (C) Moreover, the city had economic and perhaps religious contacts with most parts of Mesoamerica (modernCentral America and Mexico). (D)
-            options:
-              - A.Option A
-              - B.Option B
-              - C.Option C
-              - D.Option D
-            answer: D.Option D
-          - question: |+
-              10. Directions: An introductory sentence for a brief summary of the passage is provided below. Complete the summary by selecting the THREE answer choices that express the most important ideas in the passage. Some sentences do not belong in the summary because they express ideas that are not presented in the passage or are minor ideas in the passage. This question is worth 2 points.
+            The city of Teotihuacán, which lay about 50 kilometers northeast of modern-day Mexico  City, began its growth by 200 -100 B.C. At its height, between about A.D. 150 and 700, it probably had a population of more than 125,000 people and covered at least 20 square kilometers. (A) It had over 2,000 apartment complexes, a great market, a large number of industrial workshops, an administrative center, a number of massive religious edifices, and a regular grid pattern of streets and buildings. (B) Clearly, much planning and central control were involved in the expansion and ordering of this great metropolis. (C) Moreover, the city had economic and perhaps religious contacts with most parts of Mesoamerica (modernCentral America and Mexico). (D)
+          options:
+            - A.Option A
+            - B.Option B
+            - C.Option C
+            - D.Option D
+          answer: D.Option D
+        - question: |+
+            10. Directions: An introductory sentence for a brief summary of the passage is provided below. Complete the summary by selecting the THREE answer choices that express the most important ideas in the passage. Some sentences do not belong in the summary because they express ideas that are not presented in the passage or are minor ideas in the passage. This question is worth 2 points.
 
-              Introductory sentence: Where is it?
+            Introductory sentence: Where is it?
 
-              A.The number and sophistication of the architectural, administrative, commercial, and religious features of Teotihuacán indicate the existence of centralized planning and control.
-              B.Teotihuacán may have developed its own specific local religion as a result of the cultural advances made possible by the city's great prosperity.
-              C.Several factors may account for Teotihuacán's extraordinary development, including its location, rich natural resources, irrigation potential, intelligent elite, and the misfortune of rival communities.
-              D.As a result of its large number of religious shrines, by the first century A.D., Teotihuacán became the most influential religious center in all of Mesoamerica.
-              E.In many important areas, from the obsidian industry to religious tourism, Teotihuacán's success and prosperity typified the classic positive feedback cycle.
-              F.Although many immigrants settled in Teotihuacán between A.D. 150 and 700, the increasing threat of coerced labor discouraged further settlement and limited Teotihuacán's population growth.
-            options:
-              - C, A, B
-              - B, A, D
-              - D, E, F
-              - A, C, E
-              - F, A, B
-              - A, B, E
-              - B, E, D
-            answer: q
-
-
-
-
-
-
-
-
-
-
+            A.The number and sophistication of the architectural, administrative, commercial, and religious features of Teotihuacán indicate the existence of centralized planning and control.
+            B.Teotihuacán may have developed its own specific local religion as a result of the cultural advances made possible by the city's great prosperity.
+            C.Several factors may account for Teotihuacán's extraordinary development, including its location, rich natural resources, irrigation potential, intelligent elite, and the misfortune of rival communities.
+            D.As a result of its large number of religious shrines, by the first century A.D., Teotihuacán became the most influential religious center in all of Mesoamerica.
+            E.In many important areas, from the obsidian industry to religious tourism, Teotihuacán's success and prosperity typified the classic positive feedback cycle.
+            F.Although many immigrants settled in Teotihuacán between A.D. 150 and 700, the increasing threat of coerced labor discouraged further settlement and limited Teotihuacán's population growth.
+          options:
+            - C, A, B
+            - B, A, D
+            - D, E, F
+            - A, C, E
+            - F, A, B
+            - A, B, E
+            - B, E, D
+          answer: A, C, E
 pastoralism:
   jigsaw:
     0:
