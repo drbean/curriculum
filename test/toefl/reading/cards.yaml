@@ -322,14 +322,14 @@ teotihuacan:
             - D.Its economy relied heavily on agriculture.
           answer: A.It was a fairly small city until that date.
         - question: 5. Which of the following allowed Teotihuacán to have 'a competitive edge over its neighbors'?
-          options:
+          option:
             - A.A well-exploited and readily available commodity
             - B.The presence of a highly stable elite class
             - C.Knowledge derived directly from the Olmecs about the art of toolmaking
             - D.Scarce natural resources in nearby areas such as those located in what are now the Guatemalan and Mexican highlands
           answer: A.A well-exploited and readily available commodity
         - question: 6. According to paragraph 4, what has recent research on obsidian tools found at Olmecsites shown?
-          options:
+          option:
             - A.Obsidian's value was understood only when Teotihuacán became an important city.
             - B.The residents of Teotihuacán were sophisticated toolmakers.
             - C.The residents of Teotihuacán traded obsidian with the Olmecs as early as 400 B.C.
@@ -342,7 +342,7 @@ teotihuacan:
             * B.Plenty of available housing
             * C.Opportunities for well-paid agricultural employment
             * D.The presence of one or more religious shrines
-          options:
+          option:
             - A, B
             - A, C
             - A, D
@@ -351,7 +351,7 @@ teotihuacan:
             - C, D
           answer: A, D
         - question: 8. In paragraph 6, the author discusses "The thriving obsidian operation," in order to--
-          options:
+          option:
             - A.explain why manufacturing was the main industry of Teotihuacán
             - B.give an example of an industry that took very little time to develop in Teotihuacán
             - C.illustrate how several factors influenced each other to make Teotihuacán a powerful and wealthy city
@@ -365,7 +365,7 @@ teotihuacan:
             Where would the sentence best fit?
 
             The city of Teotihuacán, which lay about 50 kilometers northeast of modern-day Mexico  City, began its growth by 200 -100 B.C. At its height, between about A.D. 150 and 700, it probably had a population of more than 125,000 people and covered at least 20 square kilometers. (A) It had over 2,000 apartment complexes, a great market, a large number of industrial workshops, an administrative center, a number of massive religious edifices, and a regular grid pattern of streets and buildings. (B) Clearly, much planning and central control were involved in the expansion and ordering of this great metropolis. (C) Moreover, the city had economic and perhaps religious contacts with most parts of Mesoamerica (modernCentral America and Mexico). (D)
-          options:
+          option:
             - A.Option A
             - B.Option B
             - C.Option C
@@ -376,13 +376,13 @@ teotihuacan:
 
             Introductory sentence: Where is it?
 
-            A.The number and sophistication of the architectural, administrative, commercial, and religious features of Teotihuacán indicate the existence of centralized planning and control.
-            B.Teotihuacán may have developed its own specific local religion as a result of the cultural advances made possible by the city's great prosperity.
-            C.Several factors may account for Teotihuacán's extraordinary development, including its location, rich natural resources, irrigation potential, intelligent elite, and the misfortune of rival communities.
-            D.As a result of its large number of religious shrines, by the first century A.D., Teotihuacán became the most influential religious center in all of Mesoamerica.
-            E.In many important areas, from the obsidian industry to religious tourism, Teotihuacán's success and prosperity typified the classic positive feedback cycle.
-            F.Although many immigrants settled in Teotihuacán between A.D. 150 and 700, the increasing threat of coerced labor discouraged further settlement and limited Teotihuacán's population growth.
-          options:
+            * A.The number and sophistication of the architectural, administrative, commercial, and religious features of Teotihuacán indicate the existence of centralized planning and control.
+            * B.Teotihuacán may have developed its own specific local religion as a result of the cultural advances made possible by the city's great prosperity.
+            * C.Several factors may account for Teotihuacán's extraordinary development, including its location, rich natural resources, irrigation potential, intelligent elite, and the misfortune of rival communities.
+            * D.As a result of its large number of religious shrines, by the first century A.D., Teotihuacán became the most influential religious center in all of Mesoamerica.
+            * E.In many important areas, from the obsidian industry to religious tourism, Teotihuacán's success and prosperity typified the classic positive feedback cycle.
+            * F.Although many immigrants settled in Teotihuacán between A.D. 150 and 700, the increasing threat of coerced labor discouraged further settlement and limited Teotihuacán's population growth.
+          option:
             - C, A, B
             - B, A, D
             - D, E, F
