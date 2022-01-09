@@ -535,66 +535,72 @@ library:
     0:
       identifier: Library Tour detail and inference questions
       quiz:
-Directions: Listen to Track 1. Give yourself 10 minutes to complete this practice set.
+        - question: |+
+            Directions: Listen to Track 1. Give yourself 10 minutes to complete this practice set.
+
+              View transcript
+
+            Directions: Answer the questions.
+
+              Why does the student come to the library?
+          option:
+            - A.To learn about the library's resources
+            - B.To ask about interlibrary loans
+            - C.To attend the new student orientation
+            - D.To start work on a research project
+          answer: A.To learn about the library's resources
+        - question: |+
+            Why does the librarian point out the history section to the student?
+          option:
+            - A.She wants to point out the closest area containing copy machines.
+            - B.She assumes that he will need to do research there.
+            - C.The student is looking for a book he used at his last school.
+            - D.Students sometimes mistakenly assume that the section contains literature books.
+          answer: B.She assumes that he will need to do research there.
+        - question: |+
+            What does the student imply about the interlibrary loan service at his last school?
+          option:
+            - A.He never used it.
+            - B.He came to appreciate it.
+            - C.It was inconvenient.
+            - D.It was expensive.
+          answer: C.It was inconvenient.
+        - question: |+
+            What does the student need to do before he can use any rare books?
+
+            Choose 2 answers.
+
+            A.Purchase a card
+            B.Obtain permission
+            C.Put on gloves
+            D.Try interlibrary loan first
+          option:
+            - A, B
+            - A, C
+            - A, D
+            - B, C
+            - B, D
+            - C, D
+          answer: B, C
+    1:
+      identifier: Library Tour function question
+      quiz:
+        - question: |+
+            Listen to Track 2.
 
 
-View transcript ▶
+            View transcript ▶
 
-Directions: Answer the questions.
+          Which sentence best expresses what the librarian means when she says this:
 
-Why does the student come to the library?
-
-A.To learn about the library's resources
-B.To ask about interlibrary loans
-C.To attend the new student orientation
-D.To start work on a research project
-Why does the librarian point out the history section to the student?
-
-A.She wants to point out the closest area containing copy machines.
-B.She assumes that he will need to do research there.
-C.The student is looking for a book he used at his last school.
-D.Students sometimes mistakenly assume that the section contains literature books.
-What does the student imply about the interlibrary loan service at his last school?
-
-A.He never used it.
-B.He came to appreciate it.
-C.It was inconvenient.
-D.It was expensive.
-What does the student need to do before he can use any rare books?
-
-Choose 2 answers.
-
-A.Purchase a card
-B.Obtain permission
-C.Put on gloves
-D.Try interlibrary loan first
-Listen to Track 2.
-
-
-View transcript ▶
-
-Which sentence best expresses what the librarian means when she says this:
-
-Librarian: Yup, that's the idea!
-
-A.I wish this were true.
-B.That is not a very good idea.
-C.Thanks for your suggestion.
-D.That is what we intended.
-
-Directions: Answer the questions. 
-1. Why does the student come to the library?
-A To learn about the library’s resourcesB To ask about interlibrary loansC To attend the new student orientationD To start work on a research project
-2. Why does the librarian point out the history section to the student?
-A She wants to point out the closest area containing copy machines.B She assumes that he will need to do research there.C The student is looking for a book he used at his last school.D Students sometimes mistakenly assume that the section contains literature books.
-3. What does the student imply about the interlibrary loan service at his last school?
-A He never used it.B He came to appreciate it.C It was inconvenient.D It was expensive.
-4. What does the student need to do before he can use any rare books? Choose 2 answers.
-A Purchase a cardB Obtain permissionC Put on glovesD Try interlibrary loan first
-5. Listen to Track 2
-Narrator    Listen again to part of the conversation, then answer the question.Student     I’ll have all the resources, all the books and information I need right here in one place!Librarian  Yup, that’s the idea! 
-Which sentence best expresses what the librarian means when she says this: 
-Librarian  Yup, that’s the idea! A I wish this were true. B That is not a very good idea. C Thanks for your suggestion. D That is what we intended. 
+            Librarian: Yup, that's the idea!
+              
+          option:
+            - A.I wish this were true.
+            - B.That is not a very good idea.
+            - C.Thanks for your suggestion.
+            - D.That is what we intended.
+          answer: Wrong answer
 
 What is the lecture mainly about? 
 A The importance of creating believable characters in plays B The influence of the literature of “realism” on French theater C A successful standard formula for writing plays D A famous example of a well-made play  
