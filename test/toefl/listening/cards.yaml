@@ -601,25 +601,73 @@ library:
             - C.Thanks for your suggestion.
             - D.That is what we intended.
           answer: Wrong answer
+play:
+  jigsaw:
+    0:
+      identifier: The well-made play Questions 1-6
+      quiz:
+        - question: |+
+            1. What is the lecture mainly about? 
+          option:
+            - A The importance of creating believable characters in plays 
+            - B The influence of the literature of “realism” on French theater 
+            - C A successful standard formula for writing plays 
+            - D A famous example of a well-made play  
+          answer: C A successful standard formula for writing plays
+        - question: |+
+            2. According to the professor, why did some playwrights write the end of a play before the 
+            beginning? 
+          option:
+            - A To produce multiple scripts as quickly as possible 
+            - B To prevent the audience from using logic to guess the ending 
+            - C To avoid writing endings similar to those of other plays 
+            - D To ensure that the plot would develop in a logical manner  
+          answer: D To ensure that the plot would develop in a logical manner  
+        - question: |+
+            3. Why does the professor mention a conversation between two servants?
+          option:
+            - A To give examples of typical characters in a well-made play 
+            - B To show how background information might be revealed in a well-made play 
+            - C To explain why Romeo and Juliet can be considered a well-made play 
+            - D To explain how playwrights develop the obligatory scene of a well-made play  
+          answer: B To show how background information might be revealed in a well-made play 
+        - question: |+
+            4. According to the professor, what dramatic elements are typically included in a well-
+            made play to help move the plot forward? Choose 2 answers. 
 
-What is the lecture mainly about? 
-A The importance of creating believable characters in plays B The influence of the literature of “realism” on French theater C A successful standard formula for writing plays D A famous example of a well-made play  
-2. According to the professor, why did some playwrights write the end of a play before the 
-beginning? 
-A To produce multiple scripts as quickly as possible B To prevent the audience from using logic to guess the ending C To avoid writing endings similar to those of other plays D To ensure that the plot would develop in a logical manner  
-3. Why does the professor mention a conversation between two servants? A To give examples of typical characters in a well-made play B To show how background information might be revealed in a well-made play C To explain why Romeo and Juliet can be considered a well-made play D To explain how playwrights develop the obligatory scene of a well-made play  
-4. According to the professor, what dramatic elements are typically included in a well-
-made play to help move the plot forward? Choose 2 answers. 
-A A series of major changes in the hero’s apparent chances of success B The introduction of new characters midway through the play C Information known to the audience but not to the main characters D The movement of major characters from one setting to another 
- 5. What does the professor imply about the obligatory scene and the denouement? 
-A The difference between them might be unclear to some people. B Both are useful techniques for developing realistic characters. C The denouement usually occurs within the obligatory scene. D The obligatory scene is usually less exciting than the denouement.  
-  
- 
-Copyright © 2021 by Educational Testing Service. All rights reserved. ETS, the ETS logo, TOEFL and TOEFL iBT are registered trademarks of Educational Testing 
-Service (ETS) in the United States and other countries. IN ENGLISH WITH CONFIDENCE is a trademark of ETS. 
-6. Listen to Track 4. 
-Narrator    Listen again to part of the lecture, then answer the question. 
- 
-Professor  This is the inciting incident. It sets off the plot of the play.  
-Why does the professor say this:  
-Professor  It sets off the plot of the play.  A To help students understand the meaning of a new term B To indicate that his point is not related to the main topic of the lecture C To emphasize one element of a play over all others D To begin to summarize the main points of the lecture 
+            * A A series of major changes in the hero’s apparent chances of success 
+            * B The introduction of new characters midway through the play 
+            * C Information known to the audience but not to the main characters 
+            * D The movement of major characters from one setting to another 
+          option:
+            - A, B
+            - A, C
+            - A, D
+            - B, C
+            - B, D
+            - C, D
+          answer: A, C
+        - question: |+
+            5. What does the professor imply about the obligatory scene and the denouement? 
+          option:
+            - A The difference between them might be unclear to some people. 
+            - B Both are useful techniques for developing realistic characters. 
+            - C The denouement usually occurs within the obligatory scene. 
+            - D The obligatory scene is usually less exciting than the denouement.  
+          answer: B Both are useful techniques for developing realistic characters. 
+        - question: |+
+            6. Listen to Track 4. 
+
+            Narrator    Listen again to part of the lecture, then answer the question. 
+             
+            Professor  This is the inciting incident. It sets off the plot of the play.  
+
+            Why does the professor say this:  
+
+            Professor  It sets off the plot of the play.
+          option:
+            - A To help students understand the meaning of a new term 
+            - B To indicate that his point is not related to the main topic of the lecture 
+            - C To emphasize one element of a play over all others 
+            - D To begin to summarize the main points of the lecture 
+          answer: A To help students understand the meaning of a new term 
