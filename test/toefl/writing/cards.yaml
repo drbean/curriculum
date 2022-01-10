@@ -45,21 +45,21 @@ provenance:
 start:
   jigsaw:
     0:
-      identifier: Writing quiz 1
+      identifier: Writing quiz 0
       quiz:
         - question: 1. The Writing section contains two essay questions and takes 50 minutes to complete.
-          answer: False
+          answer: True
         - question: 2. For the Integrated Writing question you will read a passage and listen to a short lecture before writing your response.
-          answer: False
+          answer: True
         - question: 3. For the Independent Writing question you will give your opinion on an issue.
-          answer: False
+          answer: True
 integrated:
   jigsaw:
     0:
-      identifier: Writing Quiz 2
+      identifier: Writing Quiz 1
       quiz:
         - question: 1. In Question 1, you will be asked to combine information from a reading passage and a lecture.
-          answer: False
+          answer: True
         - question: 2. The main idea of a reading passage can usually be found in the last paragraph.
           answer: False
 independent:
@@ -68,22 +68,22 @@ independent:
       identifier: Writing Quiz 3
       quiz:
         - question:  1. The Independent Writing question will ask your opinion about an issue.
-          answer: False
+          answer: True
         - question: 2. In the Independent Writing question, you will be expected to use specific reasons and examples to support your opinion.
-          answer: False
+          answer: True
         - question: 3. You should avoid using an outline when you are preparing your essay.
           answer: False
         - question:  4. Using memorized material in your responses will result in a low score.
-          answer: False
+          answer: True
 scoring:
   jigsaw:
     0:
       identifier: Writing Quiz 4
       quiz:
         - question: 1. Your responses in the Writing section are each given an overall score from 0-5.
-          answer: False
+          answer: True
         - question:  "2. In the Independent Writing question, the raters are evaluating three main things: development, organization, and language use."
-          answer: False
+          answer: True
       identifier: Writing Practice Test: Question Type 1
 test:
  forum:
