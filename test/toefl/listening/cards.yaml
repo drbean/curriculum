@@ -600,7 +600,7 @@ library:
             - B.That is not a very good idea.
             - C.Thanks for your suggestion.
             - D.That is what we intended.
-          answer: Wrong answer
+          answer: D.That is what we intended.
 play:
   jigsaw:
     0:
