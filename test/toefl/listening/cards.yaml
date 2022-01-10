@@ -148,7 +148,7 @@ test:
             - B. Topics the student could write about for the school newspaper
             - C. Comparing a major in journalism to other majors
             - D. Preparing for a career in journalism
-          answer: Wrong
+          answer: D. Preparing for a career in journalism
         - question: |+
             What kind of question is this question about the topic of the conversation?
           option:
@@ -167,7 +167,7 @@ test:
             - B. His current university will soon offer a major in journalism.
             - C. He does not need to major in journalism in order to work as a reporter.
             - D. He has a promising future on the staff of his current university's newspaper.
-          answer: Wrong
+          answer: C. He does not need to major in journalism in order to work as a reporter.
         - question: |+
             What kind of question is this question about university transfer?
           option:
@@ -193,7 +193,7 @@ test:
             - D, A
             - A, C
             - B, D
-          answer: Wrong
+          answer: B, D
         - question: |+
             What kind of question is this question about applicant evaluation?
           option:
@@ -220,7 +220,7 @@ test:
             - D, A
             - A, C
             - B, D
-          answer: Wrong
+          answer: D, A
         - question: |+
             What kind of question is this question about local court reporting?
           option:
@@ -245,7 +245,7 @@ test:
             - B. He feels that some of the editor's changes were unnecessary.
             - C. He does not want to take credit that he does not deserve.
             - D. He will try to make sure his future articles are more accurate.
-          answer: Wrong
+          answer: C. He does not want to take credit that he does not deserve.
         - question: |+
             What kind of question is this question about changes to the student's article?
           option:
@@ -267,7 +267,7 @@ test:
             - B. Cognitive functions that improve decision making
             - C. Cognitive functions that assist in problem solving
             - D. Common limitations with regard to several cognitive functions
-          answer: Wrong
+          answer: D. Common limitations with regard to several cognitive functions
         - question: |+
             What kind of question is this question about lecture topic?
           option:
@@ -286,7 +286,7 @@ test:
             - B. To offer an example of a well-designed study in cognitive psychology
             - C. To demonstrate the limited effect imagination has on memory
             - D. To prove that imagination leads to poor decision making
-          answer: Wrong
+          answer: A. To illustrate a type of mistake that people make when recalling details
         - question: |+
             What kind of question is this question about word lists?
           option:
@@ -305,7 +305,7 @@ test:
             - B. Decision making is ultimately influenced by many factors.
             - C. The brain can automatically supply details that were not actually perceived.
             - D. Words that are heard last are the most easily remembered.
-          answer: Wrong
+          answer: C. The brain can automatically supply details that were not actually perceived.
         - question: |+
             What kind of question is this question about misheard sentences?
           option:
@@ -324,7 +324,7 @@ test:
             - B. To illustrate how visual blind spots interfere with the processing of written words
             - C. To explain the origin of a concept that is used in the study of cognition
             - D. To show how visual perception works
-          answer: Wrong
+          answer: C. To explain the origin of a concept that is used in the study of cognition
         - question: |+
             What kind of question is this question about blind spots?
           option:
@@ -343,7 +343,7 @@ test:
             - B. It is difficult to study with experiments.
             - C. It is a process that is unrelated to perception or memory.
             - D. It is a relatively new area of study in cognition.
-          answer: Wrong
+          answer: A. It is inadequate for accurately predicting future events.
         - question: |+
             What kind of question is this question about applicant evaluation?
           option:
@@ -374,7 +374,7 @@ test:
             - B. To illustrate a point she wants to make about imagination
             - C. To point out that all salads have some ingredients in common
             - D. To show the relation between memory and imagination
-          answer: Wrong
+          answer: B. To illustrate a point she wants to make about imagination
         - question: |+
             What kind of question is this question about salad imagining?
           option:
@@ -396,7 +396,7 @@ test:
             - B. How people can affect animals' microclimates
             - C. Ways of identifying different types of microclimates
             - D. The importance of microclimates to some animals
-          answer: Wrong
+          answer: D. The importance of microclimates to some animals
         - question: |+
             What kind of question is this question about lecture topic?
           option:
@@ -422,7 +422,7 @@ test:
             - D, A
             - A, C
             - B, D
-          answer: Wrong
+          answer: C, D
         - question: |+
             What kind of question is this question about microclimate factors?
           option:
@@ -441,7 +441,7 @@ test:
             - B. Mammals have more than one way of regulating their body temperature.
             - C. Smaller animals have more success than larger animals in adapting to different microclimates.
             - D. Squirrels do not rely on microclimates as much as other mammals do.
-          answer: Wrong
+          answer: B. Mammals have more than one way of regulating their body temperature.
         - question: |+
             What kind of question is this question about squirrels?
           option:
@@ -460,7 +460,7 @@ test:
             - B. Microclimates are one of the many ways reptiles control their body temperature.
             - C. Many reptiles position themselves in microclimates when waiting for their prey.
             - D. Many reptiles spend most of their time in one type of microclimate.
-          answer: Wrong
+          answer: A. Microclimates can be both helpful and harmful to reptiles.
         - question: |+
             What kind of question is this question about reptiles and microclimates?
           option:
@@ -479,7 +479,7 @@ test:
             - B. Decomposing leaves insulate burrows, keeping the burrows cool.
             - C. Decomposing leaves generate heat, creating a warm microclimate.
             - D. Decomposing leaves bring moisture to dry microclimates.
-          answer: Wrong
+          answer: C. Decomposing leaves generate heat, creating a warm microclimate.
         - question: |+
             What kind of question is this question about microclimates under leaves?
           option:
@@ -518,7 +518,7 @@ test:
             - B. To indicate that he understands the professor's explanations
             - C. To provide an example that may be an exception to the professor's statement
             - D. To indicate that there is more than one explanation for a phenomenon
-          answer: Wrong
+          answer: B. To indicate that he understands the professor's explanations
         - question: |+
             What kind of question is this question about the student's comment?
           option:
