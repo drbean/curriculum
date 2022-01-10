@@ -38,7 +38,7 @@ provenance:
 start:
   jigsaw:
     0:
-      identifier: Speaking Quiz 1
+      identifier: Speaking Quiz 0
       quiz:
         - question: |+
             "1. All of the following are true about the Speaking section EXCEPT:"
@@ -49,12 +49,12 @@ start:
             - All questions are integrated questions that include a reading passage
           answer: All questions are integrated questions that include a reading passage
         - question: 2. During the preparation time for each response, there is a clock that indicates how much preparation time remains.
-          answer: False
+          answer: True
 
 opinion:
   jigsaw:
     0:
-      identifier: Speaking Quiz 2
+      identifier: Speaking Quiz 1
       quiz:
         - question: 1. The Independent Speaking question asks about unfamiliar topics.
           answer: False
@@ -64,7 +64,7 @@ opinion:
             - Take brief notes
             - Organize your thoughts
             - Rehearse a memorized response
-          answer: Wrong
+          answer: Rehearse a memorized response
         - question: |+
             "3. In question 1, you will be asked to:"
           option:
@@ -72,14 +72,14 @@ opinion:
             - Define words that you heard in a lecture
             - Summarize a speaker's opinion on a topic
             - Combine information from a reading passage and conversation
-          answer: Wrong
+          answer: Explain your preference when given two situations or opinions
 campus:
   jigsaw:
     0:
-      identifier: Speaking Quiz 3
+      identifier: Speaking Quiz 2
       quiz:
         - question: 1. In question 2, you will be asked to speak about a campus-related topic.
-          answer: False
+          answer: True
         - question: |+
             "2. In question 2, how much time do you have to speak your response?"
           option:
@@ -87,7 +87,7 @@ campus:
             - 30 seconds
             - 60 seconds
             - 90 seconds
-          answer: Wrong
+          answer: 60 seconds
         - question: |+
             "3. In question 2, you will be asked to:"
           option:
@@ -95,14 +95,14 @@ campus:
             - Compare a speaker's opinion to information in a reading passage
             - Describe an event that is familiar to you
             - Fill in a table based on information from a lecture
-          answer: Wrong
+          answer: Compare a speaker's opinion to information in a reading passage
 academic:
   jigsaw:
     0:
-      identifier: Speaking quiz 4
+      identifier: Speaking quiz 3, 4
       quiz:
         - question: 1. In questions 3 and 4, you will be asked to speak about content from academic courses.
-          answer: False
+          answer: True
         - question: 2. To do well on questions 3 and 4, you need to have in-depth knowledge of several academic subjects, especially the life sciences and physical sciences.
           answer: False
         - question: |+
@@ -112,14 +112,14 @@ academic:
             - Describe a person who is familiar to you
             - Interpret the results of a research study
             - Read a passage aloud using proper pronunciation
-          answer: Wrong
+          answer: Explain how an example in a lecture supports or illustrates a term or concept from a reading passage
 scoring:
   jigsaw:
     0:
       identifier: Speaking Quiz 5
       quiz:
         - question: 1. In the Speaking section, raters evaluate your delivery, language use and topic development.
-          answer: False
+          answer: True
         - question: |+
             "2. What is a rubric?"
           option:
@@ -127,7 +127,7 @@ scoring:
             - An incorrect answer choice
             - A grammar rule
             - A scoring guide
-          answer: Wrong
+          answer: A scoring guide
         - question: |+
             "3. Which of the following is a characteristic of good speaking delivery?"
           option:
@@ -135,7 +135,7 @@ scoring:
             - Natural speaking pace
             - Clear and fluid speech
             - All of the above
-          answer: Wrong
+          answer: All of the above
         - question: |+
             "4. Each Speaking response is scored holistically, which means:"
           option:
@@ -143,4 +143,4 @@ scoring:
             - More than one rater evaluates it
             - Raters do not have to use a scoring guide
             - It gets an overall score based on various features
-          answer: Wrong
+          answer: It gets an overall score based on various features
