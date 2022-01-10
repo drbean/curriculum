@@ -144,3 +144,35 @@ scoring:
             - Raters do not have to use a scoring guide
             - It gets an overall score based on various features
           answer: It gets an overall score based on various features
+independent:
+  forum:
+    risk:
+        identifier: Taking risks or being cautious
+        rubric: |+
+          Directions: You will now be asked to give your opinion about a familiar topic. Give yourself 15 seconds to prepare your response. Then record yourself speaking for 45 seconds.
+
+          https://www.ets.org/s/toefl/audio/adventurous_or_cautious.mp3
+
+            Some people enjoy taking risks and trying new things. Others are not adventurous; they are cautious and prefer to avoid danger. Which behavior do you think is better?
+
+            Explain why.
+
+          * Preparation Time: 15 seconds
+          * Response Time: 45 seconds
+    place:
+      identifier: Place to visit in your country
+      rubric: |+
+        https://www.ets.org/s/toefl/audio/friends_from_another_country.mp3
+
+        Transcript: If friends from another country were going to spend time in your country, what city or place would you suggest they visit? Using details and examples, explain why.
+    fun:
+      identifier: More fun at home or in a restaurant?
+      rubric: |+
+        Directions: You will now be asked to give your opinion about a familiar topic. Give yourself 15 seconds to prepare your response. Then record yourself speaking for 45 seconds.  
+
+          Some people think it is more fun to spend time with friends in restaurants or cafés. 
+
+          Others think it is more fun to spend time with friends at home. Which do you think is better? Explain why.  
+
+        * Preparation Time: 15 seconds 
+        * Response Time: 45 seconds 

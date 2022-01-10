@@ -69,7 +69,32 @@ section:
     type  : jigsaw
     form  : 0
     intro : Understanding question 1, the TOEIC-type opinion question
-  
+
+-
+  content:
+  -
+    topic : speaking
+    story : independent
+    type  : type
+    form  : risk
+    intro : Upload your response at 'Add a new discussion topic'
+-
+  content:
+  -
+    topic : speaking
+    story : independent
+    type  : type
+    form  : place
+    intro : Upload your response at 'Add a new discussion topic'
+-
+  content:
+  -
+    topic : speaking
+    story : independent
+    type  : type
+    form  : fun
+    intro : Upload your response at 'Add a new discussion topic'
+
 -
   content:
   -
