@@ -20,7 +20,6 @@ section:
     type  : forum
     form  : 0
     intro : Logging on to the site
-    random: 
 
 -
   content:
@@ -30,10 +29,9 @@ section:
     type  : url
     form  : 0
     intro : |+
-      An excellent prep source from ETS, but to have speaking/writing responses machine-graded you have to pay ETS 50 US dollars, and you are locked out of the course after six weeks.
+      An excellent prep source from ETS, but unless you pay ETS 50 US dollars, you won't have your speaking/writing responses graded (by a machine) and you are locked out of the course after six weeks.
 
-      The course on the site here is mostly a clone of that ETS edX course.
-    random: 
+      The course on the site here mostly uses material from that ETS edX course and other ETS sites.
 
 -
   content:
@@ -43,7 +41,6 @@ section:
     type  : forum
     form  : 0
     intro : Links for the official TOEFL Prep Planner and Handbook
-    random: 
 
 -
   content:
@@ -53,7 +50,6 @@ section:
     type  : url
     form  : 0
     intro : Links for the official TOEFL Prep Planner and Handbook
-    random: 
 
 -
   content:
@@ -63,7 +59,6 @@ section:
     type  : forum
     form  : 0
     intro : The 4 sections of the test and what to expect in them
-    random: 
 
 -
   content:
@@ -73,7 +68,6 @@ section:
     type  : jigsaw
     form  : 0
     intro : Check your understanding of the overview
-    random: 
 
 -
   content:
@@ -83,7 +77,6 @@ section:
     type  : url
     form  : 0
     intro : Course introduction, Web resources
-    random: 
 
     #-
     #  content:
@@ -94,21 +87,18 @@ section:
     #    form  : 0
     #    intro : |+
     #      Using notes to speak well in test. Before doing this quiz, watch Gwen's explanation of the scratch paper at [https://www.youtube.com/watch?v=xk5irxh0K1U](https://www.youtube.com/watch?v=xk5irxh0K1U)
-    #    random: 
     #  -
     #    topic : general
     #    story : note
     #    type  : jigsaw
     #    form  : 1
     #    intro : Pen with full tip you get. Listen from the 7:30 point to Gwen--[https://www.youtube.com/watch?v=xk5irxh0K1U](https://  +www.youtube.com/watch?v=xk5irxh0K1U)
-    #    random: 
     #  -
     #    topic : general
     #    story : note
     #    type  : jigsaw
     #    form  : 2
     #    intro : Note-taking incident in test. Listen from the 8:40 point to Gwen--[https://www.youtube.com/watch?v=xk5irxh0K1U](https://  +www.youtube.com/watch?v=xk5irxh0K1U)
-    #    random: 
   
 
 
@@ -121,7 +111,6 @@ section:
 #      type  : description
 #      form  : 1
 #      intro : final, week 17, 108-2
-#      random: 
 #-
 #  content:
 #    -
@@ -130,7 +119,6 @@ section:
 #      type  : forum
 #      form  : 5
 #      intro : text 1, job interview advice
-#      random: 
 #-
 #  content:
 #    -
@@ -139,7 +127,6 @@ section:
 #      type  : forum
 #      form  : 6
 #      intro : text 2, ocean view restaurant
-#      random: 
 #-
 #  content:
 #    -
@@ -148,7 +135,6 @@ section:
 #      type  : forum
 #      form  : 2
 #      intro : woman, man meeting
-#      random: 
 #-
 #  grade: 0
 #  content:
@@ -158,7 +144,6 @@ section:
 #      type  : description
 #      form  : 0
 #      intro : question directions
-#      random: 
 #-
 #  content:
 #    -
@@ -167,7 +152,6 @@ section:
 #      type  : forum
 #      form  : 5
 #      intro : popular physical exercise
-#      random: 
 #-
 #  content:
 #    -
@@ -176,7 +160,6 @@ section:
 #      type  : forum
 #      form  : 6
 #      intro : you and exercise
-#      random: 
 #-
 #  content:
 #    -
@@ -185,7 +168,6 @@ section:
 #      type  : forum
 #      form  : 7
 #      intro : encouraging exercise
-#      random: 
 #-
 #  grade: 0
 #  content:
@@ -195,7 +177,6 @@ section:
 #      type  : description
 #      form  : 0
 #      intro : Management seminar
-#      random: 
 #-
 #  content:
 #    -
@@ -204,7 +185,6 @@ section:
 #      type  : forum
 #      form  : 8
 #      intro : Managememnt seminar times
-#      random: 
 #-
 #  content:
 #    -
@@ -213,7 +193,6 @@ section:
 #      type  : forum
 #      form  : 9
 #      intro : Emmett Lee on conference calls
-#      random: 
 #-
 #  content:
 #    -
@@ -222,7 +201,6 @@ section:
 #      type  : forum
 #      form  : 10
 #      intro : Jeffrey Blair sessions
-#      random: 
 #-
 #  content:
 #    -
@@ -231,7 +209,6 @@ section:
 #      type  : forum
 #      form  : 0
 #      intro : Doctor, nurse reply to medical emergency
-#      random: 
 #-
 #  grade: 0
 #  content:
@@ -241,7 +218,6 @@ section:
 #      type  : description
 #      form  : 0
 #      intro : Opinion directions
-#      random: 
 #-
 #  content:
 #    -
@@ -250,4 +226,3 @@ section:
 #      type  : forum
 #      form  : 2
 #      intro : Smoking in public
-#      random: 
