@@ -3,6 +3,7 @@ forum:
   # timeclose        : $(date --date='2026-06-17 15:00:00 +0800' +%s)
   # duedate          : $(date --date='2026-06-17 15:00:00 +0800' +%s)
   # cutoffdate       : $(date --date='2026-06-17 15:00:00 +0800' +%s) 
+  grade            : 5
 quiz:
   questioncategory : writing
 ---
