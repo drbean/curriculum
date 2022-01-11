@@ -62,6 +62,90 @@ integrated:
           answer: True
         - question: 2. The main idea of a reading passage can usually be found in the last paragraph.
           answer: False
+  forum:
+    ecocertification:
+      identifier: Writing Practice Test: Question Type 1
+      rubric: |+
+        Directions: Give yourself 3 minutes to read the passage.
+
+        Reading Time: 3 minutes
+
+          In an effort to encourage ecologically sustainable forestry practices, an international organization started issuing certifications to wood companies that meet high ecological standards by conserving resources and recycling materials. Companies that receive this certification can attract customers by advertising their products as "ecocertified." Around the world, many wood companies have adopted new, ecologically friendly practices in order to receive ecocertification. However, it is unlikely that wood companies in the United States will do the same, for several reasons.
+
+          First, American consumers are exposed to so much advertising that they would not value or even pay attention to the ecocertification label. Because so many mediocre products are labeled "new" or "improved," American consumers do not place much trust in advertising claims in general.
+
+          Second, ecocertified wood will be more expensive than uncertified wood because in order to earn ecocertification, a wood company must pay to have its business examined by a certification agency. This additional cost gets passed on to consumers. American consumers tend to be strongly motivated by price, and therefore they are likely to choose cheaper uncertified wood products. Accordingly, American wood companies will prefer to keep their prices low rather than obtain ecocertification.
+
+          Third, although some people claim that it always makes good business sense for American companies to keep up with the developments in the rest of the world, this argument is not convincing. Pursuing certification would make sense for American wood companies only if they marketed most of their products abroad. But that is not the case—American wood businesses sell most of their products in the United States, catering to a very large customer base that is satisfied with the merchandise.
+
+        Directions: Read the transcript. (You will hear this rather than read it in the actual test)
+
+        Narrator:  Now listen to part of a lecture on the topic you just read about.
+
+          Professor Well, despite what many people say, there's good reason to think that many American wood companies will eventually seek ecocertification for their wood products. First off, consumers in the United States don't treat all advertising the same. They distinguish between advertising claims that companies make about their own products and claims made by independent certification agencies. Americans have a lot of confidence in independent consumer agencies. Thus, ecologically minded Americans are likely to react very favorably to wood products ecologically certified by an independent organization with an international reputation for trustworthiness.
+
+          Second point—of course it's true that American consumers care a lot about price—who doesn't? But studies of how consumers make decisions show that price alone determines consumers' decisions only when the price of one competing product is much higher or lower than another. When the price difference between two products is small—say, less than five percent, as is the case with certified wood— Americans often do choose on factors other than price. And Americans are becoming increasingly convinced of the value of preserving and protecting the environment.
+
+          And third, U.S. wood companies should definitely pay attention to what's going on in the wood business internationally, not because of foreign consumers, but because of foreign competition. As I just told you, there's a good chance that many American consumers will be interested in ecocertified products. And guess what, if American companies are slow capturing those customers, you can be sure that foreign companies will soon start crowding into the American market, offering ecocertified wood that domestic companies don't.
+
+    computervoting:
+      identifier: Writing Practice Set 3 (Integrated): Passage, Lecture, and Question 
+      rubric: |+
+           Directions: Give yourself 3 minutes to read the passage.  
+
+           Reading Time: 3 minutes  Critics say that current voting systems used in the United States are inefficient and often lead to 
+             the inaccurate counting of votes. Miscounts can be especially damaging if an election is closely 
+             contested. Those critics would like the traditional systems to be replaced with far more efficient 
+             and trustworthy computerized voting systems.  In traditional voting, one major source of inaccuracy is that people accidentally vote for the 
+             wrong candidate. Voters usually have to find the name of their candidate on a large sheet of 
+             paper containing many names—the ballot—and make a small mark next to that name. People 
+             with poor eyesight can easily mark the wrong name. The computerized voting machines have an 
+           easy-to-use touch-screen technology: to cast a vote, a voter needs only to touch the candidate’s 
+             name on the screen to record a vote for that candidate; voters can even have the computer 
+             magnify the name for easier viewing.  Another major problem with old voting systems is that they rely heavily on people to count the 
+             votes. Officials must often count up the votes one by one, going through every ballot and 
+             recording the vote. Since they have to deal with thousands of ballots, it is almost inevitable that 
+             they will make mistakes. If an error is detected, a long and expensive recount has to take place. 
+             In contrast, computerized systems remove the possibility of human error, since all the vote 
+             counting is done quickly and automatically by the computers.  Finally some people say it is too risky to implement complicated voting technology nationwide. 
+             But without giving it a thought, governments and individuals alike trust other complex computer 
+             technology every day to be perfectly accurate in banking transactions as well as in the 
+             communication of highly sensitive information.   
+
+           Directions: Here is the transcript.  
+              
+             Narrator  Now listen to part of a lecture on the topic you just read about.  
+             
+             Professor  While traditional voting systems have some problems, it’s doubtful that 
+             computerized voting will make the situation any better. Computerized voting may 
+             seem easy for people who are used to computers. But what about people who 
+             aren’t? People who can’t afford computers, people who don’t use them on a 
+             regular basis—these people will have trouble using computerized voting 
+             machines. These voters can easily cast the wrong vote or be discouraged from 
+             voting altogether because of fear of technology. Furthermore, it’s true that 
+             humans make mistakes when they count up ballots by hand. But are we sure that 
+             computers will do a better job? After all, computers are programmed by humans, 
+             so “human error” can show up in mistakes in their programs. And the errors 
+             caused by these defective programs may be far more serious. The worst a human 
+             official can do is miss a few ballots. But an error in a computer program can result 
+             in thousands of votes being miscounted or even permanently removed from the 
+             record. And in many voting systems, there is no physical record of the votes, so a 
+             computer recount in the case of a suspected error is impossible! As for our trust of 
+           computer technology for banking and communications, remember one thing: 
+             these systems are used daily and they are used heavily. They didn’t work 
+             flawlessly when they were first introduced. They had to be improved on and 
+             improved on until they got as reliable as they are today. But voting happens only 
+             once every two years nationally in the United States and not much more than 
+             twice a year in many local areas. This is hardly sufficient for us to develop 
+             confidence that computerized voting can be fully trusted.  
+
+           Directions: Give yourself 20 minutes to plan and write your response. Your response is judged 
+             on the quality of the writing and on how well it presents the points in the lecture and their 
+             relationship to the reading passage. Typically, an effective response will be 150 to 225 words. 
+             You may view the reading passage while you respond.  
+
+           Response time: 20 minutes  Question: Summarize the points made in the lecture, being sure to explain how they cast doubt 
+             on specific points made in the reading passage. 
 independent:
   jigsaw:
     0:
@@ -75,6 +159,23 @@ independent:
           answer: False
         - question:  4. Using memorized material in your responses will result in a low score.
           answer: True
+  forum:
+    advertising:
+      identifier: Writing Practice Set 2 (Independent): Question
+      rubric: |+
+        Directions: Read the question below. Give yourself 30 minutes to plan, write, and revise your 
+          essay. Typically, an effective response will contain a minimum of 300 words.  
+
+        Reading Time: 30 minutes  
+
+        Question: Do you agree or disagree with the following statement?  
+
+          Television advertising directed toward young children (aged two to five) should not be allowed. 
+           
+          Use specific reasons and examples to support your answer. 
+           
+
+    
 scoring:
   jigsaw:
     0:
@@ -84,7 +185,6 @@ scoring:
           answer: True
         - question:  "2. In the Independent Writing question, the raters are evaluating three main things: development, organization, and language use."
           answer: True
-      identifier: Writing Practice Test: Question Type 1
 test:
  forum:
    0:

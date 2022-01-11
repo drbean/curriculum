@@ -42,6 +42,15 @@ section:
   content:
   -
     topic : writing
+    story : test
+    type  : forum
+    form  : 0
+    intro : Alternative summary submission page
+
+-
+  content:
+  -
+    topic : writing
     story : provenance
     type  : url
     form  : 2
@@ -149,10 +158,28 @@ section:
   content:
   -
     topic : writing
-    story : test
+    story : integrated
     type  : forum
-    form  : 0
-    intro : Alternative summary submission page
+    form  : ecocertification
+    intro : The prospects for company ecocertification acceptance in the US
+-
+  content:
+  -
+    topic : writing
+    story : integrated
+    type  : forum
+    form  : computervoting
+    intro : "Using computers to vote or using paper: Which is better?"
+
+-
+  content:
+  -
+    topic : writing
+    story : independent
+    type  : forum
+    form  : advertising
+    intro : TV advertising directed at children: OK or not?
+
 -
   content:
   -
