@@ -300,6 +300,21 @@
   - "topics"
   - "all"
   - |+
+    W: But who wants to pay an extra 50 cents every time you buy a cup of coffee? That's a lot of money!
+    M: 50 cents? It's only five cents for a paper cup.
+    W: I thought it was 50 cents!
+    M: No, it's only five cents. Don't worry. And you can get your money back when you return the cup.
+    W: That's fair. Well, maybe the government is right, after all. I'll return all the paper coffee cups I use from now on.
+    M: Good! We all need to recycle. It helps to keep the environment clean.
+  - who.noun to.other pay.verb extra.ad every.ad time.noun buy.verb of.other lot.ad money.noun only.ad for.other paper.noun cup.noun it.noun was.verb no.other only.ad worry.verb you.noun can.verb your.ad money.noun when.other return.verb cup.noun fair.ad maybe.ad government.noun right.ad all.noun return.verb the.other paper.noun coffee.noun use.verb now.ad on.other all.noun to.other recycle.verb helps.verb keep.verb environment.noun End
+  - only.ad for.other paper.noun cup.noun it.noun was.verb no.other only.ad worry.verb you.noun can.verb your.ad money.noun when.other return.verb cup.noun fair.ad maybe.ad government.noun right.ad all.noun return.verb the.other paper.noun coffee.noun use.verb now.ad on.other all.noun to.other recycle.verb helps.verb keep.verb environment.noun End
+  - Hi, Jane! Have|about|laws|people|them|last|don't|The|wants|the|by|metal|and|instead|these|But|wants|an|50 cents|you|cup|coffee|That's|of|50 cents|It's|five cents|thought|50 cents|it's|five cents|Don't|And|get|back|you|the|That's|Well|the|is|after|I'll|all|cups|from|Good|We|need|It|to|the|clean|End
+-
+  - "recycle-3"
+  - "recycle-3"
+  - "topics"
+  - "all"
+  - |+
     The government plans to make people pay an extra charge for plastic containers at drink stores. It wants to protect the environment.
     The woman is upset at the charge of 50 NT per container, but the man says it's not 50 NT, it's 5 NT. And he says you get the money back when you return the container.
     The woman says she will take back all the containers she uses from now on. The man says that's good, because it's good to recycle.
