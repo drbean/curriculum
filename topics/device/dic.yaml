@@ -25,6 +25,22 @@
   - "topics"
   - "all"
   - |+
+    M: How do you send messages that way?
+    W: I just use the keys to type a short message. Then I press the send button. It's cheaper than making a phone call.
+    M: That's a great idea! You can save both time and money that way.
+    W: Right. All my friends usually send me text messages now.
+    M: Thanks for telling me about this. I'll have to try it!
+    W: You're welcome. I think you'll find it useful.
+  - do.verb send.verb messages.noun way.noun just.ad use.verb the.other to.other message.noun the.other button.noun than.other making.verb phone.noun great.ad idea.noun can.verb both.other time.noun money.noun way.noun my.ad friends.noun send.verb me.noun messages.noun for.other me.noun about.other have.verb try.verb it.noun welcome.ad think.verb find.verb useful.ad d
+  - "my|How|you|doing|We|in|of|freeway|I'm|using|Haven't|done|No|my|to|other people|Now|can|and|text|It's|that|keys|type a short|Then|press|send|cheaper|call|That's|save|Right|All|usually|now|Thanks|telling|this|I'll|to|You're|you'll|it|End"
+  # - non_existent
+  # - 100
+-
+  - "message-2"
+  - "Cell phone messages"
+  - "topics"
+  - "all"
+  - |+
     W: I'm checking my mail.
     M: How are you doing that? We are in the middle of the freeway!
     W: I'm using my phone. Haven't you ever done that?
