@@ -350,6 +350,6 @@ matching cards do appear in the last
 feed, feed 7.
 
 See my perl flash card script
-[https://github.com/drbean/ttb/trunk/cards/flash.pl](https://github.com/drbean/ttb/trunk/cards/flash.pl)
+[https://github.com/drbean/ttb/blob/master/cards/flash.pl](https://github.com/drbean/ttb/blob/master/cards/flash.pl)
 
 Back to [FlashCards](FlashCards.html)
