@@ -55,6 +55,6 @@ creates a different game/activity, eg
 
 See my perl script for creating bingo 
 cards
-[https://github.com/drbean/ttb/trunk/cards/bingo/bingo.pl](https://github.com/drbean/ttb/trunk/cards/bingo/bingo.pl)
+[https://github.com/drbean/ttb/blob/master/cards/bingo/bingo.pl](https://github.com/drbean/ttb/blob/master/cards/bingo/bingo.pl)
 
 Back to [Games](Games.html)
