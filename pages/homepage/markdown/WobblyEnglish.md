@@ -31,6 +31,8 @@ Some attempts to see English wobble, benefiting from conversations on the ##Engl
 * [PresentPerfect](PresentPerfect.html) Present, Present perfect and past in Japanese and English
 * [TheGuy](TheGuy.html) *The* guy from San Antonio or *a* guy from San Antonio
 * [TheDefaultReferenceOfThe](TheDefaultReferenceOfThe.html) The reference in 'the store'. Which store? *All/many* stores.
+* [ArticleRole](ArticleRole.html) 'The' with nouns in topic position, 'a' with nouns in other positions
+* [FallRainVersusRainFall](FallRainVersusRainFall.html) A parallel to article use in a topic-comment language
 * [InTransitive ](InTransitive.html) Transitive and intransitive: What is the difference?
 * [ErgativeVerb](ErgativeVerb.html) Challenge: Find 2 in/transitive verbs which go together
 * [GettingLaid](GettingLaid.html) Boswell teaches Dr Johnson how to describe liaisons
