@@ -34,7 +34,7 @@ Imagine a telephone conversation between
 someone at school where it has just 
 stopped raining, so they're going to go 
 home and someone at home, where it has 
-not just been not raining, but it has 
+not been raining, and it has 
 not appeared likely to rain.
 
 	A: It's stopped raining. I'm 
