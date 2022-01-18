@@ -28,4 +28,21 @@ or
 
 I can't see a reason to choose one or the other.
 
+PS: Five months later
+
+I need to retract this, or refine it.
+
+The boss gave me his old laptop. Six months previously I had borrowed a laptop from my old school and had found four plastic bags which fit neatly inside each other and fit that laptop nicely.
+I was rummaging through a big cardboard box filled with plastic bags looking for that plastic bag to put the boss's laptop in. I saw a brightly colored plastic bag. I realized that it was the bag I was looking for.
+
+I said:
+
+	That's it there!
+
+That is, the second case, where I said the scissors (or the bag) is not the topic.
+
+I was actively looking for it, so it is not correct to say, it was 'on the mind previously, but now something else is happening.' But it is correct to say, 'Something is seen whose relevance is not immediately apparent.'
+
+Perhaps?
+
 Back to [WobblyEnglish](WobblyEnglish.html)
