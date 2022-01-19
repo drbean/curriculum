@@ -55,6 +55,17 @@ clothes:
       jeans    : jeans.jpg
       socks    : socks.jpg
       blouse   : blouse.jpg
+  flash:
+    4:
+      a dress: dress.jpg
+      a hat: hat.jpg
+      a jacket: jacket.jpg
+      a pair of pants: pants.jpg
+      a set of underwear: underwear.jpg
+      a shirt: shirt.jpg
+      a skirt: skirt.jpg
+      two suits: suit.jpg
+
   3:
     flash:
       rent    : 出租   
@@ -106,7 +117,7 @@ clothes:
     - pink blouse wear jeans white socks keys drawer door floor bed looking_for Molly shoes backpack pencil pen correct picture barbecue
     - backpack thanks mom nice pocket pens pencils color red
     - mom bought thanks new nice color red Jimmy favorite dad girl small_pocket pens_and_pencils
-    - mom bought thanks new nice color red Jimmy favorite dad girl small_pocket pens_and_pencils blue_jeans soft wore brown stop_buying at_first
+    - mom bought thanks new nice color red Jimmy favorite dad girl small pocket pens pencils blue jeans soft wore brown stop buying first
     - broken erase mistake nice better Bill dog green blue digging backyard mouth wear kitchen office under book sister maybe no_idea
     - keys shoes backpack blouse pencil pens erase mistake nice better nowadays maybe no_idea brown usually two soft very stopped
 greeting:
