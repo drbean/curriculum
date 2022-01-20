@@ -199,4 +199,12 @@ music:
       "M: Are you planning on going?": "W: I'll go if I can get tickets."
       "W: I heard that people are going to line up overnight to get tickets.": "M: I don't think I want to line up all night long!"
       "M: Do you know how much the tickets are going to cost?": "W: I'm not sure, but I think each ticket will be about 75 dollars."
-
+    1:
+      lineup : lineup.jpg
+      line : line.jpg
+      ticket : ticket.jpg
+      'lineup ' : lineup.jpg
+      'line '  : line.jpg
+      'ticket ' : ticket.jpg
+      'line1'  : line.jpg
+      'ticket1' : ticket.jpg
