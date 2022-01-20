@@ -271,6 +271,25 @@ responsibility:
   bingo:
     - responsibility expensive companionship decision expenses route diamond_ring care toy remind creature living feed walk understand vet locked_up license shots dog_food family_decision mowing_lawns
 pet:
+  flash:
+    0:
+      a parrot : parrot.jpg
+      two friends : friends.jpg
+      a woman feeding a dog : feed.jpg
+      a cage : cage.png
+      someone bathing a dog : bathe.jpg
+      six pets : pets.jpg
+      a dog in a store : store.jpg
+      a goldfish : goldfish.jpg
+    1:
+      Diane wants to buy :  a new pet.
+      She goes to the : pet store.
+      There are many animals in : the cages.
+      "She sees a puppy. 'No, puppies": sleep too much, she says.
+      "Then, she sees a parrot. 'No, parrots" : talk too much, she says.
+      She wants a small and : quiet animal.
+      "She sees a goldfish. 'Yes, I want" : a goldfish.'
+
   bingo:
     - parrot friends feed cage bathe pets store goldfish dirty dog people buy things lives big glass bowl two cats three
     - wants pet goes store animals cages puppy sleep parrot talk much quiet goldfish
