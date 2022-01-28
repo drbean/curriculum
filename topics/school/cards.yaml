@@ -406,14 +406,14 @@ thing:
 subject:
   0:
     flash:
-      English            : English.jpg
-      science            : science.jpg
-      math               : math.jpg
-      physical education : physicaleducation.jpg
-      geography          : geography.jpg
-      art                : art.jpg
-      reading            : reading.jpg
-      history            : history.jpg
+      English letters and sentences           : English.jpg
+      four people doing science            : science.jpg
+      four math signs              : math.jpg
+      two kids in a physical education (PE) class: physicaleducation.jpg
+      the geography of city lights         : geography.jpg
+      four people doing art                : art.jpg
+      three kids reading            : reading.jpg
+      a picture of an event in history            : history.jpg
   1:
     flash:
       English            : 英語
