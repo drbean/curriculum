@@ -37,39 +37,31 @@ home and someone at home, where it has
 not been raining, and it has 
 not appeared likely to rain.
 
-	A: It's stopped raining. I'm 
-	coming home.
+	A: It's stopped raining. I'm coming home.
 	B: It's raining there?
 
 versus
 
-	A: The rain has stopped. I'm 
-	coming home.
-	B: What rain? It's not raining 
-	here.
+	A: The rain has stopped. I'm coming home.
+	B: What rain? It's not raining here.
 
 Switching around B's response produces 
 an anomalous conversation.
 
-	A: It's stopped raining. I'm 
-	coming home.
-	B: What rain? It's not raining 
-	here.
+	A: It's stopped raining. I'm coming home.
+	B: What rain? It's not raining here.
 
-	A: Well, it is, or WAS, raining
-	here.
+	A: Well, it is, or WAS, raining here.
 
 versus
 
-	A: The rain has stopped. I'm 
-	coming home.
+	A: The rain has stopped. I'm coming home.
 	B: It's raining there?
 
-	A: Yeh. It was. It didn't rain
-	there?
+	A: Yeh. It was. It didn't rain there?
 
 The first switch seems more anomalous 
-that the second.
+than the second. Or does it?
 
 Putting 'the rain' in the topic position 
 at the start of the sentence, like in 
@@ -91,6 +83,14 @@ Rather than
 
 But, 
 [A hard rain's gonna fall](https://en.wikipedia.org/wiki/A_Hard_Rain%27s_a-Gonna_Fall)
+
+	A hard rain's gonna fall
+
+Not perhaps today or tomorrow, but you'll shiver in your boots when it does.
+
+	It's going to rain hard.
+
+So, you'd better wear your boots.
 
 And
 [A horse walks into a police station](https://www.bbc.co.uk/newsround/29553477)
