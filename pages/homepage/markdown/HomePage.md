@@ -5,19 +5,19 @@
 
 <!-- end of list -->
 
--   [ClassContent](http://web.nuu.edu.tw/~greg/Contents.html)
+-   [ClassContent](Contents.html)
 -   [SelfIntroduction](SelfIntroduction.html)
 -   [TOEIC](TOEIC.html)
 
 <!-- end of list -->
 
 - [ThePracticeofTeaching](ThePracticeofTeaching.html) List of High-EQ rocket science writings
-  -   [TeachingMethodology](TeachingMethodology.html)
-  -   [SpeakingSyllabus](SpeakingSyllabus.html)
+  -   [TeachingMethodology](TeachingMethodology.html) How to teach
+  -   [SpeakingSyllabus](SpeakingSyllabus.html) How to teach speaking
   -   [WorldAffairsSyllabus](WorldAffairsSyllabus.html)
   -   [ConversationSyllabus](ConversationSyllabus.html)
   -   [DiscussionSyllabus](DiscussionSyllabus.html)
-  -   [CompositionSyllabus](CompositionSyllabus.html)
+  -   [CompositionSyllabus](CompositionSyllabus.html) How to teach composition
   -   [Listening exercises](http://web.nuu.edu.tw/~greg/DictationExercises.html)
   -   [PenpalSetup](PenpalSetup.html) An email penpal program
   -   [InternetPromise](InternetPromise.html) Language Lab Redux
@@ -29,11 +29,11 @@
 - [MyHealth](MyHealth.html)
 - [MyDocuments](MyDocuments.html)
 - [MyPics](http://drbean.sdf.org/pics) A bag of my & other people's photos
-- [LettersOfRecommendation](LettersOfRecommendation.html)
+- [LettersOfRecommendation](LettersOfRecommendation.html) From the horse's mouth
 - [CoverLetter](CoverLetter.html)
 - [MyHobbies](MyHobbies.html)
-- [WobblyEnglish](WobblyEnglish.html)
-- [KoreA](KoreA.html) 1986-1998
+- [WobblyEnglish](WobblyEnglish.html) Language isn't logical
+- [KoreA](KoreA.html) 1986-1998 highpoints recollected
 
 <!-- end of list -->
 
