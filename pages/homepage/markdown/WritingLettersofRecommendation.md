@@ -22,10 +22,3 @@ should be one for the subject of
 the letter too: an exercise in
 self-reflection, and questioning
 who they are.
-
--   [LetterForJoyce](LetterForJoyce.html)
--   [LetterForKevin](LetterForKevin.html)
--   [LetterForJessica](LetterForJessica.html)
--   [LetterForSweety](LetterForSweety.html)
--   [LetterForStella](LetterForStella.html)
--   [LetterForMyron](LetterForMyron.html)
