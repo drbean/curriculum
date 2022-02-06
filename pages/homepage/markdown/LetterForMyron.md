@@ -17,8 +17,10 @@ NUU program, talking about his liking for the Australian lifestyle,
 he impressed with a maturity, an articulateness, a communicativeness
 that exceeded that of the other students.
 
-He has also continued to engage with me over the two years since the class 
+He has also continued to engage with me over the 18 months since the class 
 ended, showing a consistency in his interest in intercultural communication.
+
+Finally, he is easy-going and gets along with other people.
 
 You can't go wrong choosing him. Grab hold of him and don't let
 him go.
