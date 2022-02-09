@@ -374,15 +374,14 @@ problem:
       - "Girl: Why do you need to see my assignment? _Boy: I'm having a problem with number 15, and I wanted to check something._"
 thing:
   0:
-    flash:
-      pencil-case      : pencil-case.jpg
-      backpack         : backpack.jpg
-      lunch-box        : lunch-box.jpg
-      felt-pen         : felt-pen.jpg
-      scissors         : scissors.jpg
-      pencil-sharpener : pencil-sharpener.jpg
-      box-of-paints    : box-of-paints.jpg
-      glue-stick       : glue-stick.jpg
+      a pencil-case      : pencil-case.jpg
+      a backpack         : backpack.jpg
+      a lunch-box        : lunch-box.jpg
+      a felt-pen         : felt-pen.jpg
+      a pair of scissors         : scissors.jpg
+      a pencil-sharpener : pencil-sharpener.jpg
+      a box-of-paints    : box-of-paints.jpg
+      a glue-stick       : glue-stick.jpg
   1:
     flash:
       pencil case      : 鉛筆盒
