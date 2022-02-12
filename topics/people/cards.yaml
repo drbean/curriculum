@@ -50,3 +50,51 @@ family:
       - "G:  Thanks for coming to the party, Carlos.  B:  You’re welcome, Maria." 
       - "B:  Who is the girl next to your grandmother?  G:  That is my cousin, Gabby. It is her birthday."
       - "B:  Who is the boy near Gabby? He looks cute.  G:  That is my brother, Eddie. He is 4 years old."
+relationship:
+  match:
+    0:
+      identifier: 3-generation extended family relationships
+      pair:
+        -
+          - Sandra Thomson
+          - Your mother is Fiona. Your father is Ned.
+        -
+          - Maria James
+          - Your husband is Steven. Your sons-in-law are Ned and ?? You have 3 grandchildren, Sandra, Rick and Nina.
+        -
+          - Steven James
+          - You have 2 daughters and 3 grandchildren.
+        -
+          - Vicki Richards
+          - Your sister is Fiona. You have one daughter.
+        -
+          - Tom Richards
+          - Your brothers-in-law are Ned and Jack. Your brother-in-law is Ned. You are the mystery man, ie discoverable.
+        -
+          - Rick Thomson
+          - Your sister is Sandra. Your cousin is Michael.
+        -
+          - Janet Thomson
+          - Your husband is Bill. You have 4 grandchildren.
+        -
+          - Jack Thomson
+          - Your father is Bill. Your wife is Tina.
+        -
+          - Bill Thomson
+          - You are discoverable. You have 2 daughters-in-law, Fiona and Tina.
+        -
+          - Tina Thomson
+          - You are discoverable. Your father-in-law and mother-in-law are Bill Thomson and Janet Thomson.
+        -
+          - Ned Thomson
+          - You are married to Fiona. Your brother is Jack.
+        -
+          - Fiona Thomson
+          - You have one daughter and one son.
+        -
+          - Michael Thomson
+          - You are a student at Chinmin College.
+        -
+          - Erin Thomson
+          - You are a student at Yale University. Your brother goes to Chinmin.
+        
