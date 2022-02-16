@@ -481,13 +481,15 @@
   - "topics"
   - "all"
   - |+
-    G: What are you doing today?
+    G: ...
     B: I'm busy.
-    G: Why?
+    G: ...
     B: I have to practice the clarinet. I am playing in an orchestra tonight.
-    G: Wow! I didn't know you are a musician. Can I come to the concert? I want to hear you play.
+    G: ...
     B: Sure! That would be great!
-  - What|you|today|I'm|Why|I have to|the|I am|in an|tonight|Wow|didn't|you are a|Can I|to the|I want to|you|Sure! That would be|End
+#  - What|you|today|I'm|Why|I have to|the|I am|in an|tonight|Wow|didn't|you are a|Can I|to the|I want to|you|Sure! That would be|End
+  - are.verb doing.verb busy.ad practice.verb clarinet.noun playing.verb orchestra.noun know.verb musician.noun come.verb concert.noun hear.verb play.verb great.ad End
+
 -
   - "music-3"
   - "music-3"
@@ -497,7 +499,8 @@
     Artie Shaw was a musician. He played the clarinet. He was very good. People loved him. They went to his concerts. They danced. They had a lot of fun. 
 
     But this made Artie mad. He did not want people to dance. He wanted them to listen. People danced to his music anyway.
-  - Artie Shaw was a|He played the|He was very|People|him|They went to his|They danced|They|a lot of|this|Artie|He did not|people to|He wanted them to|People danced to his|anyway|End
+    # - Artie Shaw was a|He played the|He was very|People|him|They went to his|They danced|They|a lot of|this|Artie|He did not|people to|He wanted them to|People danced to his|anyway|End
+  - musician.noun clarinet.noun good.ad loved.verb concerts.noun had.verb fun.noun but.other made.verb mad.ad want.verb dance.verb listen.verb music.noun End
 
 -
   - "talent-0"
