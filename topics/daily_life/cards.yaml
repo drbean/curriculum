@@ -32,8 +32,18 @@ cleaning:
     - broom mop vacuum trash stinky sweep turn_on dust kitchen_floor living_room wash empty bag spill/spills/spilled everywhere smell fridge old_chicken go_bad/went_bad a_long_time bug beetle cricket ant bee fly insect caterpillar moth sting/stung
     - rip/rips/ripped/ripping forget/forgot/forgotten feed_the_dog clean_the_house a_pot_of_spaghetti slip/slips/slipped/slipping bucket soap messy throw_away just_joking help play_soccer_in_the_park closet/closets old_clothes come_when_you_are_done busy_day dirty_dishes wash/washes/washed/washing sounds_good remember
 calendar:
+  flash:
+    0:
+      Monday    : 星期一, the 1st day
+      Tuesday   : 星期二, the 2nd day
+      Wednesday : 星期三, the 3rd day
+      Thursday  : 星期四, the 4th day
+      Friday    : 星期五, the 5th day
+      Saturday  : 星期六, the 6th day
+      Sunday    : 星期七, the 7th day
+          
   bingo:
-    - January February March April May June July August September October November December Monday Tuesday Wednesday Thursday Friday Saturday Sunday birthday
+    - January Fe: 星期: 星期: 星期bruary March April May June July August September October November December Monday Tuesday Wednesday Thursday Friday Saturday Sunday birthday
 clothes:
   0:
     flash:
@@ -47,14 +57,14 @@ clothes:
       blouse   : 襯衫
   1:
     flash:
-      shoes    : shoes.jpg
-      keys     : keys.jpg
-      backpack : backpack.jpg
-      pencil   : pencil.jpg
-      pen      : pen.jpg
-      jeans    : jeans.jpg
-      socks    : socks.jpg
-      blouse   : blouse.jpg
+      a pair of shoes    : shoes.jpg
+      some keys     : keys.jpg
+      a backpack : backpack.jpg
+      a pencil   : pencil.jpg
+      a pen      : pen.jpg
+      a pair of jeans    : jeans.jpg
+      a pair of socks    : socks.jpg
+      a blouse   : blouse.jpg
   flash:
     4:
       a dress: dress.jpg
