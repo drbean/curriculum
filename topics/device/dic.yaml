@@ -131,6 +131,7 @@
     W: Wow! I've seen those in the store. They cost a lot of money. Can you afford to buy one?
     M: They do cost a lot of money. But I really enjoy watching TV. I think it's much more fun to watch TV shows on a big screen.
     W: I've never watched TV on a big screen. Do you think the quality of the picture is good?
+  - thinking.verb buying.verb big.ad screen.noun seen.verb in.other the.other lot.ad money.noun you.noun afford.verb buy.verb do.verb lot.ad money.noun really.ad enjoy.verb think.verb more.ad watch.verb on.other big.ad screen.noun never.ad watched.verb big.ad screen.noun you.noun the.other quality.noun picture good.ad End.other
   - I'm|about|Wow|I've|those|store|They cost|Can|one|They|cost|of|But I|watching TV|it's much|to|TV shows|a big|I've|TV on|Do|think|of the|is|Yes, the|is|When you|soccer games|like you|right|on|field|When|the TV|over to|your|Then|watching TV on|with you|I have|some|to|the TV|It will|a few|I can|to|it|End
 -
   - "tv-1"
@@ -156,7 +157,7 @@
     M: Yes, the quality is great. When you watch soccer games, you feel like you are right there on the field.
     W: When you buy the TV, can I come over to your house? Then, I can enjoy watching TV on the big screen with you!
     M: I have to save some money to buy the TV first. It will be a few months!
-  - I'm|about|Wow|I've|those|store|They cost|Can|one|But I|watching|it's|TV shows|think|Yes|When you|soccer games|right|field|When|over to|your|Then|watching TV on|with you|I have|some|to|the TV|It will|a few|I can|to|it
+  - think|Yes|When you|soccer games|right|field|When|over to|your|Then|watching TV on|with you|I have|some|to|the TV|It will|a few|I can|to|it
 -
   - camera-0
   - "A new camera"
