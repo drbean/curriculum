@@ -132,6 +132,52 @@ art:
 
 
 music:
+  match:
+    1:
+      identifier: music 3x3 quiz pics
+      pair:
+        -
+          - top left hand corner.
+          - a boy playing a drum
+        -
+          - in the middle at the top.
+          - a boy playing a clarinet
+        -
+          - top right hand corner.
+          - a boy rapping
+        -
+          - in the middle on the left.
+          - a sick boy
+        -
+          - right in the middle.
+          - a happy boy
+        -
+          - in the middle on the right.
+          - a disturbed/worried boy
+        -
+          - bottom left hand corner.
+          - a clarinet
+        -
+          - in the middle at the bottom.
+          - a piano
+        -
+          - bottom right hand corner.
+          - a violin
+    2:
+      identifier: Artie Shaw sentence match
+      pair:
+        -
+          - Artie Shaw ..
+          - was a musician.
+        -
+          - People ..
+          - loved him.
+        -
+          - He did not want people ..
+          - to dance.
+        -
+          - He wanted them ..
+          - to listen.
   flash:
     0:
       clarinet    : clarinet.jpg
@@ -142,14 +188,14 @@ music:
       practice    : practice.jpg
       musician    : musician.jpg
       orchestra   : orchestra.jpg
-  0:
+  3:
     flash:
         clarinet    : 單簧管
         instruments : 樂器
         music       : 音樂
         violin      : 小提琴
         concert     : 音樂會
-        practice    : 實踐
+        practice    : 練習
         musician    : 音樂家
         orchestra   : 樂隊
   bingo:
@@ -166,7 +212,7 @@ music:
     - Artie_Shaw musician played clarinet very_good loved danced concerts a_lot_of_fun mad did_not_want listen anyway
     - practice concert violin clarinet instrument horn drum music orchestra musician play dance worried sad hole wood brother trip money nice buy guitar piano saxophone sing broken trumpet flute
     - practice concert violin clarinet instrument horn drum music orchestra musician
-    - practice orchestra musician play clarinet flute tonight boy girl What_are_you_doing_today? Wow! Can_I_come_to_the_concert? Sure! That_would_be_great! Artie_Shaw Rebecca sister theater
+    - practice orchestra musician play clarinet flute tonight boy girl Wow! Sure! Great! 
     - Artie_Shaw musician played clarinet very_good loved danced concerts a_lot_of_fun mad did_not_want listen anyway violin horn drum practice guitar orchestra Maria present
     - instrument wood practice orchestra play piano clarinet violin guitar worried songs broken hole fell
     - instrument wood practice orchestra play piano clarinet violin guitar worried songs broken hole fell sorry next_week head hurts buy darker expensive
