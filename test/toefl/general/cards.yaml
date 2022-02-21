@@ -13,6 +13,8 @@ dummy:
       quiz:
         - question: The answer to this question is False.
           answer: False
+        - question: The answer to this question is True.
+          answer: False
 slides:
   url:
     0:
