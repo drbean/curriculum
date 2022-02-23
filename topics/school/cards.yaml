@@ -282,6 +282,13 @@ sports:
       A sentence using a word from Unit 22: busy, swimming, during, weekend, enough, team
   bingo:
     -
+      - I will be very ....... this afternoon. _busy_
+      - I usually go ....... every Wednesday. _swimming_
+      - There was a thunderstorm ....... the night. _during_
+      - Have you made any plans for the .......? _weekend_
+      - Do you have ....... money to buy the book? _enough_
+      - John is on the school chess ....... this year _team_
+    -
       - Will you play any sports this school year?                                   _你會在這個學年玩任何運動嗎？_
       - I want to play hockey. But I'm not sure if I will have enough time.          _我想玩曲棍球。 但我不知道我是否有足夠的時間。_
       - I'm on the school soccer team. I'm also going to take up swimming.           _我在學校足球隊。 我也要去游泳。_
@@ -407,13 +414,13 @@ subject:
   0:
     flash:
       English letters and sentences           : English.jpg
-      four people doing science            : science.jpg
-      four math signs              : math.jpg
-      two kids in a physical education (PE) class: physicaleducation.jpg
-      the geography of city lights         : geography.jpg
-      four people doing art                : art.jpg
-      three kids reading            : reading.jpg
-      a picture of an event in history            : history.jpg
+      people doing science            : science.jpg
+      math signs              : math.jpg
+      kids in a PE class: physicaleducation.jpg
+      "geography: city lights"         : geography.jpg
+      people doing art                : art.jpg
+      kids reading            : reading.jpg
+      a picture from history            : history.jpg
   1:
     flash:
       English            : 英語
