@@ -34,6 +34,16 @@ virus:
       - A repairman came to the office and worked all day to repair the computer.                 _一名修理工來到辦公室，整天都在修理電腦。_
       - The woman says the man should use back-up files, just in case the computer crashes again. _那個女人說這個男人應該使用備份文件，以免電腦再次崩潰。_
 tv:
+  flash:
+    0:
+      TV screen    : 電視屏幕
+      enjoy        : 喜歡
+      never        : 絕不
+      quality      : 質量
+      afford       : 買得起
+      living room  : 客廳
+      soccer       : 足球
+      field        : 場地
   match:
     0:
       identifier: big screen TV match
