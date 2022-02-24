@@ -239,32 +239,43 @@ test:
     0:
       identifier: Reading Practice Test Directions
       rubric: |+
-        This section measures your ability to understand academic passages in English.
+        This section measures your ability to understand academic passages 
+        in English.
 
-        There is one passage in this practice test. Give yourself 18 minutes to read the passage and answer the questions about it.
+        There is one passage in this practice test. Give yourself 18 
+        minutes to read the passage and answer the questions about it.
 
-        You may look back at the passage when answering the questions. You can skip questions and go back to them later as long as there is time remaining.
+        You may look back at the passage when answering the questions. You 
+        can skip questions and go back to them later as long as there is 
+        time remaining.
 
         ## Please note:
 
-          The practice questions are real TOEFL iBT® test questions, but the testing experience has been adapted for presentation in this course.
+          The practice questions are real TOEFL iBT® test questions, but 
+          the testing experience has been adapted for presentation in this 
+          course.
 
-          Your performance on this practice test is not a predictor of how you might perform on the actual TOEFL iBT® test. 
+          Your performance on this practice test is not a predictor of how 
+          you might perform on the actual TOEFL iBT® test. 
 
-          Your scores for this practice test will show correct vs. incorrect choices. You will also see an explanation for why each answer choice is correct or incorrect. Scores and scoring information are for preparation use only; they are not official or scaled scores.
+          Your scores for this practice test will show correct vs. 
+          incorrect choices. You will also see an explanation for why each 
+          answer choice is correct or incorrect. Scores and scoring 
+          information are for preparation use only; they are not official 
+          or scaled scores.
   description:
     1:
       identifier: Questions 4 through 6
       questiontext: |+
-            ## About paragraph 3
+        ## About paragraph 3
     2:
       identifier: Questions 7 through 8
       questiontext: |+
-            ## About paragraph 4
+        ## About paragraph 4
     3:
       identifier: Questions 9 through 10
       questiontext: |+
-            ## About paragraph 4 and about the whole passage
+        ## About paragraph 4 and about the whole passage
 teotihuacan:
   jigsaw:
     0:
