@@ -16,8 +16,17 @@ tree:
       - Visitors who enter national parks must take care not to damage the trees.                _進入國家公園的遊客必須注意不要破壞樹木。_
     - forest entrance_fee several visitor damage hundred fir,_cedar_and_pine national_park reserve North_America needle evergreen deciduous fall_(autumn) depressing Xmas_tree wood
 weather:
-  0:
-    flash:
+  flash:
+    0:
+      rainbow  : rainbow.jpg
+      lightning: lightning.jpg
+      storm    : storm.jpg
+      clouds   : cloud.jpg
+      windy    : windy.jpg
+      sky      : sky.jpg
+      weather  : weather.jpg
+      forecast : forecast.jpg
+    1:
       rainbow  : 彩虹
       lightning: 閃電
       storm    : 風暴
@@ -28,6 +37,7 @@ weather:
       forecast : 預報
   bingo:
     - rainbow lightning storm clouds windy rainy sky forecast weather
+    - it is very windy outside the weather lovely today warm and sunny sky blue I watched forecast on TV this morning
     - rainbow lightning storm clouds windy rainy hot cold snow sunglasses typhoon ice sky forecast weather TV this_morning blue light sunlight sun go/goes swimming_pool slides beach soccer_ball ice_cream picnic_basket tree
     - rainbow lightning storm clouds windy sky weather forecast
     - window weather sky clouds raining likes stops rainbow pretty
