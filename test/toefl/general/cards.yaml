@@ -5,7 +5,7 @@ provenance:
     0:
       identifier: "TOEFL® Test Preparation: The Insider’s Guide"
       externalurl: https://learning.edx.org/course/course-v1:ETSx+TOEFLx+3T2020/home
-  
+
 dummy:
   jigsaw:
     0:
@@ -90,7 +90,7 @@ handbook:
     0:
       identifier: The TOEFL iBT® Test Prep Planner
       externalurl: https://www.ets.org/s/toefl/pdf/toefl_student_test_prep_planner.pdf
-  forum:
+  page:
     0:
       identifier: Print the TOEFL iBT® Test Prep Planner, consult it while using the site
       rubric: |+
@@ -110,7 +110,7 @@ overview:
         - question: 1. The four sections of the TOEFL iBT® test are Reading, Listening, Speaking and Writing.
           answer: True
         - question: |+
-            2. How long is the scheduled break during the TOEFL iBT test?        
+            2. How long is the scheduled break during the TOEFL iBT test?
           option:
             - 2 minutes
             - 5 minutes
