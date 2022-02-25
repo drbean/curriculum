@@ -238,7 +238,7 @@ test:
   page:
     0:
       identifier: Reading Practice Test Directions
-      rubric: |+
+      content: |+
         This section measures your ability to understand academic passages 
         in English.
 
