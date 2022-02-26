@@ -186,14 +186,14 @@ scoring:
         - question:  "2. In the Independent Writing question, the raters are evaluating three main things: development, organization, and language use."
           answer: True
 test:
- forum:
-   0:
-     identifier: Your lecture summary
-     rubric: |+
-       Upload here your summary of the lecture and the professor's disagreements with the text
-   1:
-     identifier: Your travel essay
-     rubric: |+
-       Upload here your thoughts on which broadens the mind more--travel abroad, or travel at home
+  forum:
+    0:
+      identifier: Your lecture summary
+      rubric: |+
+        Upload here your summary of the lecture and the professor's disagreements with the text
+    1:
+      identifier: Your travel essay
+      rubric: |+
+        Upload here your thoughts on which broadens the mind more--travel abroad, or travel at home
    
    
