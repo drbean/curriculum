@@ -72,3 +72,4 @@ page:
 url:
   # display         : 1 # RESOURCELIB_DISPLAY_EMBED
   display         : 3 # RESOURCELIB_DISPLAY_NEW
+  introformat     : 4
