@@ -20,7 +20,7 @@ section:
     story : provenance
     type  : url
     form  : 0
-    intro : 5.2 About the Writing Section
+    intro : 2 diifferent types of writing task
 -
   content:
   -
@@ -37,7 +37,7 @@ section:
     story : provenance
     type  : url
     form  : 1
-    intro : 5.3 Integrated Writing Question 1
+    intro : Relating differences in written/spoken messages
 -
   content:
   -
