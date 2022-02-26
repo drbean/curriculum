@@ -37,7 +37,7 @@ section:
     story : provenance
     type  : url
     form  : 1
-    intro : Relating differences in written/spoken messages
+    intro : Summarizing differences between written/spoken messages
 -
   content:
   -
@@ -54,7 +54,7 @@ section:
     story : provenance
     type  : url
     form  : 2
-    intro : Approach tips
+    intro : Structure, scoring, sample response
 -
   content:
   -
