@@ -69,3 +69,5 @@ quiz:
 page:
   contentformat   : 4
   introformat     : 4
+url:
+  display         : 1 # RESOURCELIB_DISPLAY_EMBED
