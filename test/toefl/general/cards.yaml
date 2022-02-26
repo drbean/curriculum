@@ -93,7 +93,7 @@ handbook:
   page:
     0:
       identifier: Print the TOEFL iBT® Test Prep Planner, consult it while using the site
-      rubric: |+
+      content: |+
         The TOEFL iBT® Test Prep Planner is downloadable at
 
         [https://www.ets.org/s/toefl/pdf/toefl_student_test_prep_planner.pdf](https://www.ets.org/s/toefl/pdf/toefl_student_test_prep_planner.pdf)
