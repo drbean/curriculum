@@ -788,11 +788,6 @@ pastoralism:
             - B, E, D
           answer: A, B, E
 influenza:
-  jigsaw:
-    0:
-      identifier: 
-      quiz:
-        - question: |+
   page:
     0:
       identifier: Influenza--environmental and genetic risk factors
