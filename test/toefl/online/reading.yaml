@@ -235,3 +235,23 @@ section:
     form  : 0
     intro : Geological evidence and the extinction of the dinosaurs
     random:
+
+-
+  content:
+  -
+    topic : reading
+    story : influenza
+    type  : page
+    form  : 0
+    intro : A topic likely on TOEFL tests in the COVID-19 era
+    random: 
+-
+  content:
+  -
+    topic : reading
+    story : influenza
+    type  : jigsaw
+    form  : 0
+    intro : Understanding medicine in terms of the TOEFL test
+    random: 
+
