@@ -1489,56 +1489,56 @@ feeding:
         - question: |+
             4. What can be inferred from the passage about the practice of animal parents feeding their young? 
           option:
-            (A) It is unknown among fish.
-            (B) It is unrelated to the size of the young. 
-            (C) It is dangerous for the parents.
-            (D) It is most common among mammals. 
+            - (A) It is unknown among fish.
+            - (B) It is unrelated to the size of the young. 
+            - (C) It is dangerous for the parents.
+            - (D) It is most common among mammals. 
           answer: (D) It is most common among mammals.
         - question: |+
             5. The word "provisioning" in line 13 is closest in meaning to  
           option:
-            (A) supplying
-            (B) preparing
-            (C) building
-            (D) expanding 
+            - (A) supplying
+            - (B) preparing
+            - (C) building
+            - (D) expanding 
           answer: (A) supplying
         - question: |+
             6. According to the passage, how do some insects make sure their young have food? 
           option:
-            (A) By storing food near their young. 
-            (B) By locating their nests or cells near spiders and caterpillars. 
-            (C) By searching for food some distance from their nest. 
-            (D) By gathering food from a nearby water source. 
+            - (A) By storing food near their young. 
+            - (B) By locating their nests or cells near spiders and caterpillars. 
+            - (C) By searching for food some distance from their nest. 
+            - (D) By gathering food from a nearby water source. 
           answer: (A) By storing food near their young. 
         - question: |+
             7. The highlighted word "edge" in the third paragraph is closest in meaning to  
           option:
-            (A) opportunity
-            (B) advantage
-            (C) purpose
-            (D) rest 
+            - (A) opportunity
+            - (B) advantage
+            - (C) purpose
+            - (D) rest 
           answer: (B) advantage
         - question: |+
             8. The highlighted word "it" in the third paragraph refers to 
           option:
-            (A) feeding
-            (B) moment
-            (C) young animal
-            (D) size 
+            - (A) feeding
+            - (B) moment
+            - (C) young animal
+            - (D) size 
           answer: (C) young animal
         - question: |+
             9. According to the passage, animal young are most defenseless when 
           option:
-            (A) their parents are away searching for food 
-            (B) their parents have many young to feed 
-            (C) they are only a few days old 
-            (D) they first become independent 
+            - (A) their parents are away searching for food 
+            - (B) their parents have many young to feed 
+            - (C) they are only a few days old 
+            - (D) they first become independent 
           answer: (D) they first become independent 
         - question: |+
             10. The highlighted word "shielded" in the third paragraph is closest in meaning to 
           option:
-            (A) raised
-            (B) protected
-            (C) hatched
-            (D) valued 
+            - (A) raised
+            - (B) protected
+            - (C) hatched
+            - (D) valued 
           answer: (B) protected
