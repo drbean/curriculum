@@ -1239,6 +1239,174 @@ influenza:
             - "Genetic Characteristics: B E G, Non-Genetic factors:   A D"
             - "Genetic Characteristics: F   D, Non-Genetic factors: B A G"
             - "Genetic Characteristics: A C E, Non-Genetic factors: D   F"
-            - "Genetic Characteristics: A   C, Non-Genetic factors: E F D"
+            - "Genetic Characteristics: B   C, Non-Genetic factors: F E D"
             - "Genetic Characteristics: A   C, Non-Genetic factors: D F G"
           answer: "Genetic Characteristics: A   C, Non-Genetic factors: D F G"
+grammar:
+  page:
+    0:
+      identifier: Grammar and language creation
+      content: |+
+        #### The Creators of Grammar
+
+        No student of a foreign language needs to be told that grammar is 
+        complex.  By changing word sequences and by adding a range of 
+        auxiliary verbs and suffixes, we are able to communicate tiny 
+        variations in meaning.  We can turn a statement into a question, state 
+        whether an action has taken place or is soon to take place, and 
+        perform many other word tricks to convey subtle differences in 
+        meaning.  Nor is this complexity inherent to the English language.  
+        All languages, even those of so-called 'primitive' tribes have clever 
+        grammatical components.  The Cherokee pronoun system, for example, can 
+        distinguish between 'you and I', 'several other people and I' and 
+        'you, another person and I'.  In English, all these meanings are 
+        summed up in the one, crude pronoun 'we'.  _Grammar is universal and 
+        plays a part in every language, no matter how widespread it is._  So 
+        the question which has baffled many linguists is - who created 
+        grammar?
+
+        At first, it would appear that this question is impossible to answer.  
+        To find out how grammar is created, someone needs to be present at the 
+        time of a language's creation, documenting its emergence.  Many 
+        historical linguists are able to trace modern complex languages back 
+        to earlier languages, but in order to answer the question of how 
+        complex languages are actually formed, the researcher needs to observe 
+        how languages are started from scratch.  Amazingly, however, this is 
+        possible.
+
+        Some of the most recent languages evolved due to the Atlantic slave 
+        trade.  At that time, slaves from a number of different ethnicities 
+        were forced to work together under colonizer's rule.  Since they had 
+        no opportunity to learn each other's languages, they developed a 
+        make-shift language called a pidgin.  Pidgins are strings of words 
+        copied from the language of the landowner.  They have little in the 
+        way of grammar, and in many cases it is difficult for a listener to 
+        deduce when an event happened, and who did what to whom.  [A] Speakers 
+        need to use circumlocution in order to make their meaning understood.  
+        [B] Interestingly, however, all it takes for a pidgin to become a 
+        complex language is for a group of children to be exposed to it at the 
+        time when they learn their mother tongue.  [C] Slave children did not 
+        simply copy the strings of words uttered by their elders, they adapted 
+        their words to create a new, expressive language.  [D] Complex grammar 
+        systems which emerge from pidgins are termed creoles, and they are 
+        invented by children.
+
+        Further evidence of this can be seen in studying sign languages for 
+        the deaf.  Sign languages are not simply a series of gestures; they 
+        utilise the same grammatical machinery that is found in spoken 
+        languages.  Moreover, there are many different languages used 
+        worldwide. The creation of one such language was documented quite 
+        recently in Nicaragua. Previously, all deaf people were isolated from 
+        each other, but in 1979 a new government introduced schools for the 
+        deaf.  Although children were taught speech and lip reading in the 
+        classroom, in the playgrounds they began to invent their own sign 
+        system, using the gestures that they used at home.  It was basically a 
+        pidgin.  Each child used the signs differently, and there was no 
+        _consistent_ grammar.  However, children who joined the school later, 
+        when this inventive sign system was already around, developed a quite 
+        different sign language.  Although it was based on the signs of the 
+        older children, the younger children's language was more fluid and 
+        compact, and it utilised a large range of grammatical devices to 
+        clarify meaning.  What is more, all the children used the signs in the 
+        same way.  A new creole was born.
+
+        Some linguists believe that many of the world's most established 
+        languages were creoles at first.  The English past tense -ed ending 
+        may have evolved from the verb 'do'.  'It ended' may once have been 
+        'It end-did'.  Therefore it would appear that even the most widespread 
+        languages were partly created by children.  Children appear to have 
+        innate grammatical machinery in their brains, which springs to life 
+        when they are first trying to make sense of the world around them.  
+        Their minds can serve to create logical, complex structures, even when 
+        there is no grammar present for them to copy.
+  jigsaw:
+    0:
+      identifier: Questions about 'Grammar and the creation of language'
+      quiz:
+        - question: |+
+            1  In paragraph 1, why does the writer include information about the Cherokee language?
+          option:
+            - A To show how simple, traditional cultures can have complicated grammar structures
+            - B To show how English grammar differs from Cherokee grammar
+            - C To prove that complex grammar structures were invented by the Cherokees.
+            - D To demonstrate how difficult it is to learn the Cherokee language
+          answer: A To show how simple, traditional cultures can have complicated grammar structures
+        - question: |+
+            2  What can be inferred about the slaves' pidgin language?
+          option:
+            - A It contained complex grammar.
+            - B It was based on many different languages.
+            - C It was difficult to understand, even among slaves.
+            - D It was created by the land-owners.
+          answer: C It was difficult to understand, even among slaves.
+        - question: |+
+            "3  All the following sentences about Nicaraguan sign language are true EXCEPT:"
+          option:
+            - A The language has been created since 1979.
+            - B The language is based on speech and lip reading.
+            - C The language incorporates signs which children used at home.
+            - D The language was perfected by younger children.
+          answer: B The language is based on speech and lip reading.
+        - question: |+
+            4  In paragraph 3, where can the following sentence be placed?
+
+            'It included standardised word orders and grammatical 
+            markers that existed in neither the pidgin language, nor 
+            the language of the colonizers.'
+          option:
+            - A
+            - B
+            - C
+            - D
+          answer: D
+        - question: |+
+            5  'From scratch' in paragraph 2 is closest in meaning to:
+          option:
+            - A from the very beginning
+            - B in simple cultures
+            - C by copying something else
+            - D by using written information
+          answer: A from the very beginning
+        - question: |+
+            6  'Make-shift' in paragraph 3 is closest in meaning to:
+          option:
+            - A complicated and expressive
+            - B simple and temporary
+            - C extensive and diverse
+            - D private and personal
+          answer: B simple and temporary
+        - question: |+
+            7  Which sentence is closest in meaning to the highlighted sentence?
+
+            `Grammar is universal and plays a part in every language, 
+            no matter how widespread it is.`
+          option:
+            - A All languages, whether they are spoken by a few people or a lot of people, contain grammar.
+            - B Some languages include a lot of grammar, whereas other languages contain a little.
+            - C Languages which contain a lot of grammar are more common that languages that contain a little.
+            - D The grammar of all languages is the same, no matter where the languages evolved.
+          answer: A All languages, whether they are spoken by a few people or a lot of people, contain grammar.
+        - question: |+
+            8  All of the following are features of the new Nicaraguan sign language EXCEPT:
+          option:
+            - A All children used the same gestures to show meaning.
+            - B The meaning was clearer than the previous sign language.
+            - C The hand movements were smoother and smaller.
+            - D New gestures were created for everyday objects and activities.
+          answer: D New gestures were created for everyday objects and activities.
+        - question: |+
+            9  Which idea is presented in the final paragraph?
+          option:
+            - A English was probably once a creole.
+            - B The English past tense system is inaccurate.
+            - C Linguists have proven that English was created by children.
+            - D Children say English past tenses differently from adults.
+          answer: A English was probably once a creole.
+        - question: |+
+            10  Look at the word 'consistent' in paragraph 4. This word could best be replaced by which of the following?
+          option:
+            - A natural
+            - B predictable
+            - C imaginable
+            - D uniform
+          answer: D uniform
