@@ -1410,3 +1410,135 @@ grammar:
             - C imaginable
             - D uniform
           answer: D uniform
+
+feeding:
+  page:
+    0:
+      identifier: Parents feeding their young
+      content: |+
+        http://golshanlc.com/wp-content/uploads/2019/07/A-Collection-of-TOEFL-Reading-Comprehension-Tests.pdf
+
+        PRACTICE TEST 01 
+        May 2004  
+        Question 1-10 
+
+        All mammals feed their young. Beluga whale mothers, for example, 
+        nurse their calves for some twenty months, until they are about to 
+        give birth again and their young are able to find their own food. 
+        The behavior of feeding of the young is built into the reproductive 
+        system. It is a nonelective part of parental care and the defining 
+        feature of a mammal, the   most important thing that mammals-- 
+        whether marsupials, platypuses, spiny anteaters, or placental 
+        mammals -- have in common. 
+
+        But not all animal parents, even those that _tend_ their offspring to 
+        the point of hatching or birth, feed their young. Most egg-guarding 
+        fish do not, for the simple reason that their young are so much 
+        smaller than the parents and eat food that is also much smaller 
+        than the food eaten by adults. In reptiles, the crocodile mother 
+        protects her young after they have hatched and takes them down to 
+        the water, where they will find food, but she does not actually 
+        feed them. Few insects feed their young after hatching, but some 
+        make other arrangement, provisioning their cells and nests with 
+        caterpillars and spiders that they have paralyzed with their venom 
+        and stored in a state of suspended animation so that their larvae 
+        might have a supply of fresh food when they hatch. 
+                 
+        For animals other than mammals, then, feeding is not intrinsic to 
+        parental care. Animals add it to their reproductive strategies to 
+        give them an _edge_ in their lifelong quest for descendants. The most 
+        vulnerable moment in any animal's life is when it first finds 
+        itself completely on its own, when it must forage and fend for 
+        itself. Feeding postpones that moment until a young animal has 
+        grown to such a size that _it_ is better able to cope. Young that are 
+        fed by their parents become nutritionally independent at a much 
+        greater fraction of their full adult size. And in the meantime 
+        those young are _shielded_ against the vagaries of fluctuating of 
+        difficult-to-find supplies. Once a species does take the step of 
+        feeding its young, the young become totally dependent on the extra 
+        effort. If both parents are removed, the young generally do no 
+        survive. 
+  jigsaw:
+    0:
+      identifier: Questions about animals feeding their young
+      quiz:
+        - question: |+
+            1. What does the passage mainly discuss? 
+          option:
+            - (A) The care that various animals give to their offspring. 
+            - (B) The difficulties young animals face in obtaining food. 
+            - (C) The methods that mammals use to nurse their young. 
+            - (D) The importance among young mammals of becoming independent. 
+          answer: (C) The methods that mammals use to nurse their young. 
+        - question: |+
+            2. The author lists various animals in line 5 to 
+          option:
+            - (A) contrast the feeding habits of different types of mammals 
+            - (B) describe the process by which mammals came to be defined 
+            - (C) emphasize the point that every type of mammal feeds its own young 
+            - (D) explain why a particular feature of mammals is nonelective 
+          answer: (C) emphasize the point that every type of mammal feeds its own young
+        - question: |+
+            3. The highlighted word "tend" in the second paragraph is closest in meaning to  
+          option:
+            - (A) sit on
+            - (B) move
+            - (C) notice
+            - (D) care for 
+          answer: (D) care for 
+        - question: |+
+            4. What can be inferred from the passage about the practice of animal parents feeding their young? 
+          option:
+            (A) It is unknown among fish.
+            (B) It is unrelated to the size of the young. 
+            (C) It is dangerous for the parents.
+            (D) It is most common among mammals. 
+          answer: (D) It is most common among mammals.
+        - question: |+
+            5. The word "provisioning" in line 13 is closest in meaning to  
+          option:
+            (A) supplying
+            (B) preparing
+            (C) building
+            (D) expanding 
+          answer: (A) supplying
+        - question: |+
+            6. According to the passage, how do some insects make sure their young have food? 
+          option:
+            (A) By storing food near their young. 
+            (B) By locating their nests or cells near spiders and caterpillars. 
+            (C) By searching for food some distance from their nest. 
+            (D) By gathering food from a nearby water source. 
+          answer: (A) By storing food near their young. 
+        - question: |+
+            7. The highlighted word "edge" in the third paragraph is closest in meaning to  
+          option:
+            (A) opportunity
+            (B) advantage
+            (C) purpose
+            (D) rest 
+          answer: (B) advantage
+        - question: |+
+            8. The highlighted word "it" in the third paragraph refers to 
+          option:
+            (A) feeding
+            (B) moment
+            (C) young animal
+            (D) size 
+          answer: (C) young animal
+        - question: |+
+            9. According to the passage, animal young are most defenseless when 
+          option:
+            (A) their parents are away searching for food 
+            (B) their parents have many young to feed 
+            (C) they are only a few days old 
+            (D) they first become independent 
+          answer: (D) they first become independent 
+        - question: |+
+            10. The highlighted word "shielded" in the third paragraph is closest in meaning to 
+          option:
+            (A) raised
+            (B) protected
+            (C) hatched
+            (D) valued 
+          answer: (B) protected
