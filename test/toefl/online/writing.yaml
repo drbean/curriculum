@@ -162,13 +162,38 @@ section:
     type  : forum
     form  : ecocertification
     intro : The prospects for company ecocertification acceptance in the US
+
 -
   content:
   -
     topic : writing
-    story : integrated
+    story : computervoting
+    type  : page
+    form  : passage
+    intro : A text arguing computer voting is better than using paper
+-
+  content:
+  -
+    topic : writing
+    story : computervoting
+    type  : page
+    form  : lecture
+    intro : A lecture arguing the opposite--that paper is better
+-
+  content:
+  -
+    topic : writing
+    story : computervoting
+    type  : page
+    form  : question
+    intro : Summarizing how the professor rebuts the text's arguments
+-
+  content:
+  -
+    topic : writing
+    story : computervoting
     type  : forum
-    form  : computervoting
+    form  : 0
     intro : "Using computers to vote or using paper: Which is better?"
 
 -
