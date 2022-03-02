@@ -31,6 +31,7 @@ forum:
   decimalpoints    : 0
   overduehandling : 0
   shuffleanswers   : 1
+  showdescription : 1
 studentquiz:
   introformat      : 4
   questionquantifier       : 4
@@ -66,6 +67,7 @@ quiz:
   shuffleanswers   : 1
   # browsersecurity  : safebrowser
   # safeexambrowser_allowedkeys: e71abb59ffc16b3344b23e826059219f3c4fe70731e1845b77b2faa1ad93bbab
+  showdescription : 1
 page:
   contentformat   : 4
   introformat     : 4
