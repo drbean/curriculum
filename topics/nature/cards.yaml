@@ -35,6 +35,16 @@ weather:
       sky      : 天空
       weather  : 天氣
       forecast : 預報
+    2:
+      Greg looks out : the window.
+      The weather is : bad today.
+      He looks at : the sky.
+      There are black : clouds and lightning.
+      It is also : raining.
+      Greg likes : it when it rains.
+      When the rain stops : there will be a rainbow.
+      He thinks rainbows : are very pretty.
+
   bingo:
     - rainbow lightning storm clouds windy rainy sky forecast weather
     - it is very windy outside the weather lovely today warm and sunny sky blue I watched forecast on TV this morning

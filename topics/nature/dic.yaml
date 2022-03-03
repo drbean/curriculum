@@ -539,6 +539,7 @@
   - |+
     Greg looks out the window. The weather is bad today. He looks at the sky. There are black clouds. There is lightning, too. It is also raining.
     Greg likes it when it rains. When the rain stops, there will be a rainbow. He thinks rainbows are very pretty.
+  - window.noun weather.noun sky.noun clouds.noun raining.noun likes.verb stops.verb rainbow.noun rainbows.noun pretty.ad End
   - Greg looks out the|The|is bad today|He looks at the|There are black|There is lightning, too|It is also|Greg|it when it rains. When the rain|there will be a|He thinks|are very|End
 -
   - "weather-2"
