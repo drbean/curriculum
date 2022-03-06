@@ -8,13 +8,14 @@ I haven't asked the authors of these papers if it was OK to publicize my involve
 
 ##### Materials science
 
-[Development of a real-time machine vision system for functional textile fabric defect detection using a deep YOLOv4 model](https://journals.sagepub.com/doi/abs/10.1177/00405175211034241)
+* [Development of a real-time machine vision system for functional textile fabric defect detection using a deep YOLOv4 model](https://journals.sagepub.com/doi/abs/10.1177/00405175211034241)
 
-[Hybrid Sol-Gel-Derived Method for the Synthesis of Silicon Rubber Composites with h-BN for Characteristic Applications in ElastomericThermal Pads](https://journals.sagepub.com/doi/abs/10.1177/00405175211069867)
+* [Hybrid Sol-Gel-Derived Method for the Synthesis of Silicon Rubber Composites with h-BN for Characteristic Applications in ElastomericThermal Pads](https://journals.sagepub.com/doi/abs/10.1177/00405175211069867)
 
 ##### Education
 
-[Dissertation: Validation of The Quick Letter Name Knowledge Assessment for Use in School-aged EFL Learners](https://hdl.handle.net/11296/am9ew5)
+* [Dissertation: Validation of The Quick Letter Name Knowledge Assessment for Use in School-aged EFL Learners](https://hdl.handle.net/11296/am9ew5)
 
-[What do nurses say about their English language needs for patient care and their ESP coursework: The case of Taiwanese nurses](https://www.sciencedirect.com/science/article/pii/S0889490617303654)
+* [What do nurses say about their English language needs for patient care and their ESP coursework: The case of Taiwanese nurses](https://www.sciencedirect.com/science/article/pii/S0889490617303654)
 
+Others have been accepted, but have not appeared, or have appeared in relatively obscure places.
