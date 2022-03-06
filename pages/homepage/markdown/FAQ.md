@@ -20,14 +20,15 @@ Proofreading Approach
   ~ I find it difficult to describe what I'm doing when I am editing.
 
   It is hard to think about what one is doing when one is so 
-  concentrated on the text itself and on how the problems it 
-  presents can be solved that one loses consciousness of anything 
+  concentrated on the *text* itself and on how the *problems* it 
+  presents can be solved that one loses consciousness of everything 
   else.
 
   The focus is so much on the product, it is difficult to say
   anything about the process.
 
-  I know I am very critical top-down and bottom-up. Reading like 
+  I know I am very critical top-down and bottom-up. Typically,
+  I make changes to almost every line of a text. Reading like 
   a journal editor trying to follow the argument, I think:
 
 	  "Is this what a native-speaking researcher
@@ -39,7 +40,8 @@ Proofreading Approach
   Then I use my resources as an experienced editor to solve the 
   particular problem at hand.
 
-  Besides being critical, I am magnanimous about style. I think:
+  While I am critical, it is important not to overcorrect. In style
+  cases for example. I think:
 
           "Even though a native speaker might not have used
           this turn of phrase here, it has an appeal about it,
@@ -55,4 +57,7 @@ Acceptable File Formats
 
     That said, my order of preferences is:
 
-    * text or markdown files.
+    * [plain text](https://en.wikipedia.org/wiki/Plain_text)
+or [markdown](https://en.wikipedia.org/wiki/Markdown) files
+    * [latex](https://en.wikipedia.org/wiki/LaTeX) documents
+    * [MS Word](https://en.wikipedia.org/wiki/Microsoft_Word) files
