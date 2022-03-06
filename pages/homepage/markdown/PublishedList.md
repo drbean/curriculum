@@ -18,4 +18,4 @@ I haven't asked the authors of these papers if it was OK to publicize my involve
 
 * [What do nurses say about their English language needs for patient care and their ESP coursework: The case of Taiwanese nurses](https://www.sciencedirect.com/science/article/pii/S0889490617303654)
 
-Others have been accepted, but have not appeared, or have appeared in relatively obscure places.
+This is not all the papers I have edited, of course. Others have been accepted, but have not appeared, or have appeared in relatively obscure places, or have not been published.
