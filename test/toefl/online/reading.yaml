@@ -13,6 +13,16 @@ section:
 ---
 
 -
+  content:
+  -
+    topic : reading
+    story : strategy
+    type  : drag
+    form  : 0
+    intro : Transcribing the lecture
+    random: 
+
+-
   grade: 0
   content:
   -
