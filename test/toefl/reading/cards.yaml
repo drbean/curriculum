@@ -45,7 +45,7 @@ strategy:
       sentences:
         -
           sentence: Today we're going to talk about how to approach the TOEFL iBT Reading passage.  Good reading techniques will give you the best chance to do well on the TOEFL reading section.  It's a good idea to begin by focusing on the big picture.  What topic is going to be discussed in the passage?  Before you begin to read, take a look at the title, and the illustration at the beginning of the passage. If there is one.
-          clozed: Today|we're|going|to|talk|about|how|to|approach|the|TOEFL|iBT|Reading|passage|Good|reading|techniques|will|give|you|the|best|chance|to|do|well|on|the|TOEFL|reading|section|It's|a|good|idea|to|begin|by|focusing|on|the|big|picture|What|topic|is|going|to|be|discussed|in|the|passage|Before|you|begin|to|read|take|a|look|at|the|title|and|the|illustration|at|the|beginning|of|the|passage|If|there|is|one
+          clozed: Today|we're|going|to|talk|about|how|to|approach|the|TOEFL|iBT|Reading|passage|Good|reading|techniques|will|give|you|the|best|chance|to|do|well|on|the|TOEFL|reading|section|It's|a|good|idea|to|begin|by|focusing|on|the|big|picture|What|topic|is|going|to|be|discussed|in|the|passage?|Before|you|begin|to|read|take|a|look|at|the|title|and|the|illustration|at|the|beginning|of|the|passage|If|there|is|one
         
   jigsaw:
     0:
