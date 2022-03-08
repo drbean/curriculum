@@ -46,6 +46,16 @@ section:
   -
     topic : listening
     story : gist
+    type  : drag
+    form  : 0
+    intro : "Dictation: what did they say?"
+    random: 
+
+-
+  content:
+  -
+    topic : listening
+    story : gist
     type  : jigsaw
     form  : 0
     intro : 3.3 Gist-Content and Gist-Purpose

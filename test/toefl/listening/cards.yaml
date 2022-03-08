@@ -9,7 +9,7 @@ provenance:
     0:
       identifier: 3.2 How to Approach a TOEFL iBT® Listening Passage
       externalurl: https://learning.edx.org/course/course-v1:ETSx+TOEFLx+3T2020/block-v1:ETSx+TOEFLx+3T2020+type@sequential+block@62af1ea74d7f4d49b0008668c16c8c32/block-v1:ETSx+TOEFLx+3T2020+type@vertical+block@62c946ac1ac948d78c81245a2fe6d0a
-    
+
     1:
       identifier: 3.3 Gist-Content and Gist-Purpose
       externalurl: https://learning.edx.org/course/course-v1:ETSx+TOEFLx+3T2020/block-v1:ETSx+TOEFLx+3T2020+type@sequential+block@4545028788794b4fa42c87d8d665da3a/block-v1:ETSx+TOEFLx+3T2020+type@vertical+block@fb684c7debfe456d8394d40f148dc1bc
@@ -62,6 +62,24 @@ approach:
           answer: There may be visuals of chalkboards or illustrations on the screen while you listen
 
 gist:
+  drag:
+    0:
+      identifier: Coach-student conversation
+      sentences:
+        -
+          sentence: |+
+            MALE COACH: Hi, Elizabeth.
+            FEMALE STUDENT: Hey, Coach.
+          clozed: Hi|Elizabeth|Hey|Coach
+        -
+          sentence: |+
+            FEMALE STUDENT: Hey, Coach.  I just thought I'd stop by to see what I missed while I was gone.
+            MALE COACH: Well, we've been working real hard on our plan for the next game ...  I've asked Susan to go over it with you before practice this afternoon, so you'll know what we're doing.
+          clozed: |+
+            I|just|thought|I'd|stop|by|to|see|what|I|missed|while|I|was|gone|Well|we've|been|working|real|hard|on|our|plan|for|the|next|game|I've|asked|Susan|to|go|over|it|with|you|before|practice|this|afternoon|so|you'll|know|what|we're|doing|End
+        
+        
+        
   jigsaw:
     0:
       identifier: 3.3 Listening quiz 2
@@ -592,7 +610,7 @@ library:
           Which sentence best expresses what the librarian means when she says this:
 
             Librarian: Yup, that's the idea!
-              
+
           option:
             - A.I wish this were true.
             - B.That is not a very good idea.
@@ -657,7 +675,7 @@ play:
             6. Listen to Track 4. 
 
             Narrator    Listen again to part of the lecture, then answer the question. 
-             
+
             Professor  This is the inciting incident. It sets off the plot of the play.  
 
             Why does the professor say this:  
