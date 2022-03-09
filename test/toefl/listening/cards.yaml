@@ -70,13 +70,21 @@ gist:
           sentence: |+
             MALE COACH: Hi, Elizabeth.
             FEMALE STUDENT: Hey, Coach.
-          clozed: Hi|Elizabeth|Hey|Coach
+          clozed: Hi Elizabeth Hey Coach End
         -
           sentence: |+
             FEMALE STUDENT: Hey, Coach.  I just thought I'd stop by to see what I missed while I was gone.
             MALE COACH: Well, we've been working real hard on our plan for the next game ...  I've asked Susan to go over it with you before practice this afternoon, so you'll know what we're doing.
           clozed: |+
-            I|just|thought|I'd|stop|by|to|see|what|I|missed|while|I|was|gone|Well|we've|been|working|real|hard|on|our|plan|for|the|next|game|I've|asked|Susan|to|go|over|it|with|you|before|practice|this|afternoon|so|you'll|know|what|we're|doing|End
+            I just thought I'd stop by to see what I missed while I was gone Well we've been working real hard on our plan for the next game I've asked Susan to go over it with you before practice this afternoon so you'll know what we're doing End
+        -
+      sentence: |+
+        MALE COACH: By the way, how did your brother's wedding go?
+        FEMALE STUDENT: Oh, it was beautiful.  And the whole family was there.  I saw aunts and uncles and cousins I hadn't seen in years.
+      clozed: |+
+        MALE COACH: By the way how did your brother's wedding go
+        FEMALE STUDENT: Oh it was beautiful  And the whole family was there  I saw aunts and uncles and cousins I hadn't seen in years End
+      
         
         
         
