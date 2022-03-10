@@ -491,8 +491,17 @@ picnic:
       - "W: Look, there are many bottles over there near the river. _M: People should clean up and not leave glass bottles lying around like that._"
       - "W: Let's pick up the empty cans and bottles when we leave. _M: Good idea. And let's come back next week and clean up some more._"
 recycle:
-  1:
-    flash:
+  flash:
+    0:
+      environment  : 環境
+      extra        : 額外的
+      recycle      : 回收
+      money        : 錢
+      return       : 返回
+      government   : 政府
+      reuse        : 重複使用
+      reduce       : 減少
+    1:
       "M: Have you heard about the new laws to help people recycle?": "W: I heard about them on the news last night."
       "W: Who wants to pay an extra 50 cents every time you buy a cup of coffee?" : "M: 50 cents? It's only five cents for a paper cup."
       "M: Don't worry. You can get your money back when you return the cup." : "W: That's fair."
