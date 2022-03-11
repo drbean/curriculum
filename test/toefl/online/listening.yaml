@@ -113,6 +113,15 @@ section:
   -
     topic : listening
     story : attitude
+    type  : drag
+    form  : 0
+    intro : "Dictation: what did they say?"
+    random: 
+-
+  content:
+  -
+    topic : listening
+    story : attitude
     type  : jigsaw
     form  : 0
     intro : 3.6 Attitude Questions
