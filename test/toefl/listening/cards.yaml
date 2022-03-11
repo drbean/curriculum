@@ -159,6 +159,36 @@ function:
         - question: 2. A Function question may ask you to determine what a speaker was trying to accomplish by saying a particular thing.
           answer: True
 attitude:
+  drag:
+    0:
+      identifier: Prof's attitude to detective novel
+      sentences:
+        -
+          sentence: |+
+            PROFESSOR: Today I'd like to introduce you to a novel that um
+            some critics consider the finest detective novel ever written.
+            Um, it was also the first.
+            We're talking about The Moonstone
+            by Wilkie Collins.
+          clozed: Today I'd like to introduce you to a novel that um some critics consider the finest detective novel ever written  Um it was also the first  We're talking about The Moonstone by Wilkie Collins End
+        -
+          sentence: |+
+            Now, um, there are other detective stories that preceded
+            The Moonstone historically-Um, notably uh the work of Poe ...
+            um, Edgar Allen Poe's stories,
+            such as "The Murders in the Rue Morgue" and ...
+            um, "The Purloined Letter."
+            
+          clozed: Now um there are other detective stories that preceded The Moonstone historically-Um notably uh the work of Poe   um Edgar Allen Poe's stories such as "The Murders in the Rue Morgue" and   um "The Purloined Letter" End
+        -
+          sentence: |+
+            Now these were short stories that featured a detective ...
+            uh, probably the first to do that.
+            But The Moonstone, which follows them by about twenty years-
+            it was published in 1868- uh,
+            this is the first full-length detective novel ever written.
+            
+          clozed: Now these were short stories that featured a detective   uh probably the first to do that  But The Moonstone which follows them by about twenty years- it was published in 1868- uh this is the first full-length detective novel ever written End
   jigsaw:
     0:
       identifier: 3.6 Listening Quiz 5
