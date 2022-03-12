@@ -216,9 +216,18 @@ section:
   -
     topic : listening
     story : test
-    type  : jigsaw
-    form  : journalism
-    intro : A student discusses a journalism career with advisor
+    type  : page
+    form  : 0
+    intro : A conversation about a campus issue
+    random: 
+-
+  content:
+  -
+    topic : listening
+    story : journalism
+    type  : drag
+    form  : 0
+    intro : "Dictation: what did they say about a journalism career?"
     random: 
 
 -
