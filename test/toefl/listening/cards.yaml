@@ -189,6 +189,28 @@ attitude:
             this is the first full-length detective novel ever written.
             
           clozed: Now these were short stories that featured a detective   uh probably the first to do that  But The Moonstone which follows them by about twenty years- it was published in 1868- uh this is the first full-length detective novel ever written End
+        -
+          sentence: |+
+            Now, in The Moonstone- if you read it as ...
+            uh, come to it as uh, a contemporary reader-
+            what's interesting is that most of the features you find
+            in almost any detective novel are in fact already present.
+          clozed: Now in The Moonstone if you read it as   uh come to it as uh a contemporary reader what's interesting is that most of the features you find in almost any detective novel are in fact already present End
+        -
+          sentence: |+
+            Umh, it's hard at this juncture to read this novel
+            and realize that no one had ever done that before,
+            because it all seems so strikingly familiar.
+          clozed: Umh it's hard at this juncture to read this novel and realize that no one had ever done that before because it all seems so strikingly familiar End
+        -
+          sentence: |+
+            It's, it's really a wonderful novel and I recommend it,
+            even just as a fun book to read, if you've never read it.
+            
+          clozed: It's it's really a wonderful novel and I recommend it even just as a fun book to read if you've never read it End
+
+
+        
   jigsaw:
     0:
       identifier: 3.6 Listening Quiz 5
@@ -198,6 +220,76 @@ attitude:
         - question: 2. A speaker's tone of voice cannot help you answer an Attitude question.
           answer: False
 organization:
+  drag:
+    0:
+      identifier: "Organization of lecture: seeing the point"
+      sentences:
+        -
+          sentence: |+
+            PROFESSOR: So, now Cuff arrives.
+            Uh, Cuff is the man who's coming to solve the mystery,
+            and-and again he has a lot of the characteristics that
+            future detectives throughout the history of this genre 
+            will have.
+          clozed: So now Cuff arrives  Uh Cuff is the man who's coming to solve the mystery andand again he has a lot of the characteristics that future detectives throughout the history of this genre will have End
+        -
+          sentence: |+
+            Um, He has a hobby that he's obsessive about-in this ...
+            uh, in this case, it's the love of roses.
+            He's a fanatic about the breeding of roses;
+          clozed: Um He has a hobby that he's obsessive aboutin this   uh in this case it's the love of roses  He's a fanatic about the breeding of roses
+        -
+          sentence: |+
+            uh Sherlock Holmes and his violin,
+            uh a lot of those later classic detective heroes
+            have this kind of outside interest that they uh ...
+            they go to as a kind of antidote to the evil
+            and misery they encounter in their daily lives.
+            
+          clozed: uh Sherlock Holmes and his violin uh a lot of those later classic detective heroes have this kind of outside interest that they uh   they go to as a kind of antidote to the evil and misery they encounter in their daily lives End
+        -
+          sentence: |+
+            Now, um, these detective heroes .. um..
+            they have this characteristic of being smart, incredibly smart,
+            but of not appearing to be smart.
+            And uh most importantly,
+            from uh a kind of existential point of view,
+            these detectives see things that other people do not see.
+          clozed: Now um these detective heroes  um  they have this characteristic of being smart incredibly smart but of not appearing to be smart  And uh most importantly from uh a kind of existential point of view these detectives see things that other people do not see End
+        -
+          sentence: |+
+            And that's why the detective is such an important figure,
+            I think, in our modern imagination.
+          clozed: And that's why the detective is such an important figure I think in our modern imagination End
+        -
+          sentence: |+
+            Um, In the case of The Moonstone-
+            um I don't want to say too much here and spoil it for you-
+            but the clue that's key to ...
+            the solving of the crime is a smeared bit of paint
+            in a doorway.
+          clozed: Um In the case of The Moonstone um I don't want to say too much here and spoil it for you but the clue that's key to   the solving of the crime is a smeared bit of paint in a doorway End
+        -
+          sentence: |+
+            Um, of course, the regular police have missed this paint
+            smear or made some sort of unwarranted assumption about it.
+          clozed: Um of course the regular police have missed this paint smear or made some sort of unwarranted assumption about it End
+        -
+          sentence: |+
+            Cuff sees this smear of paint - um this paint,
+            the place where the paint is smeared - 
+            and realizes that from this one smear of paint
+            you can actually deduce the whole situation ...
+            um, the whole world.
+          clozed: Cuff sees this smear of paint um this paint the place where the paint is smeared and realizes that from this one smear of paint you can actually deduce the whole situation   um the whole world End
+        -
+          sentence: |+
+            And - And that's what the hero in a detective novel like this ...
+            brings to it that the other characters don't-
+            it's um it's this ability to see meaning
+            where others see no meaning
+            and to bring order ... to where uh it seems there is no order.
+          clozed: And And that's what the hero in a detective novel like this   brings to it that the other characters don't it's um it's this ability to see meaning where others see no meaning and to bring order  to where uh it seems there is no order
   jigsaw:
     0:
       identifier: 3.7 Listening Quiz 6
@@ -224,6 +316,70 @@ connecting:
             - make a prediction
           answer: find inconsistencies in speaker statements
 inference:
+  drag:
+    0:
+      identifier: Novel lecture Inferences
+      sentences:
+        -
+          sentence: |+
+            PROFESSOR: Um, so in The Moonstone, as I said,
+            uh, Collins did much to establish the conventions
+            of the detective genre.
+          clozed: Um so in The Moonstone as I said uh Collins did much to establish the conventions of the detective genre End
+        -
+          sentence: |+
+            Uh, I'm not gonna go into the plot at length,
+            but, you know, the basic setup is ...
+            um, there's this diamond of great uh ..
+            of great value, uh, a country house,
+            uh, the diamond mysteriously disappears
+            in the middle of the night,
+          clozed: Uh I'm not gonna go into the plot at length but you know the basic setup is   um there's this diamond of great uh   of great value uh a country house uh the diamond mysteriously disappears in the middle of the night End
+        -
+          sentence: |+ 
+            um, the local police are brought in,
+            in an attempt to solve the crime,
+            and they mess it up completely, uh,
+            and then the true hero of the book arrives.
+            That's Sergeant Cuff.
+          clozed: um the local police are brought in in an attempt to solve the crime and they mess it up completely uh and then the true hero of the book arrives  That's Sergeant Cuff End
+        -
+          sentence: |+ 
+            Now, Cuff, this extraordinarily important character um ...
+            well, let me try to give you a sense of who Sergeant Cuff is,
+            by first describing the regular police.
+            And uh this is the dynamic that you're going to see
+            throughout the history of the detective novel,
+          clozed: Now Cuff this extraordinarily important character um   well let me try to give you a sense of who Sergeant Cuff is by first describing the regular police  And uh this is the dynamic that you're going to see throughout the history of the detective novel End
+        -
+          sentence: |+ 
+            um, where you have the regular cops-who are well-meaning,
+            but officious and bumblingly inept-and uh they are countered
+            by a figure who's eccentric, analytical, brilliant, and ...
+            and able to solve the crime.
+          clozed: um where you have the regular copswho are wellmeaning but officious and bumblingly ineptand uh they are countered by a figure who's eccentric analytical brilliant and   and able to solve the crime End
+        -
+          sentence: |+ 
+            So, uh first the regular police get called in
+            to solve the mystery-
+            Um, in this case, detective, uh, Superintendent Seegrave.
+          clozed: So uh first the regular police get called in to solve the mystery Um in this case detective uh Superintendent Seegrave End
+        -
+          sentence: |+ 
+            Um, in this case, detective, uh, Superintendent Seegrave.
+            When Superintendent Seegrave comes in,
+            uh he orders his minions around, uh they bumble,
+            and they actually make a mess of the investigation,
+          clozed: Um in this case detective uh Superintendent Seegrave  When Superintendent Seegrave comes in uh he orders his minions around uh they bumble and they actually make a mess of the investigation End
+        -
+          sentence: |+ 
+            uh which you'll see repeated-
+            um, you'll see this pattern repeated,
+            particularly in the Sherlock Holmes stories
+            of a few years later where, uh, Inspector Lestrade,
+            this well-meaning idiot, is always countered, uh,
+            by Sherlock Holmes, who's a genius.
+          clozed: uh which you'll see repeated um you'll see this pattern repeated particularly in the Sherlock Holmes stories of a few years later where uh Inspector Lestrade this well meaning idiot is always countered uh by Sherlock Holmes who's a genius End
   jigsaw:
     0:
       identifier: 3.9 Listening Quiz 8
