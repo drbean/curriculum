@@ -141,6 +141,15 @@ section:
   -
     topic : listening
     story : organization
+    type  : drag
+    form  : 0
+    intro : "Dictation: what did they say?"
+    random: 
+-
+  content:
+  -
+    topic : listening
+    story : organization
     type  : jigsaw
     form  : 0
     intro : 3.7 Organization Questions
@@ -173,6 +182,15 @@ section:
     type  : url
     form  : 7
     intro : Watch and then do Listening Quiz 8
+    random: 
+-
+  content:
+  -
+    topic : listening
+    story : inference
+    type  : drag
+    form  : 0
+    intro : "Dictation: what did they say?"
     random: 
 -
   content:
