@@ -387,9 +387,88 @@ inference:
         - question: Inference questions can ask you to predict outcomes based on information presented in a conversation or lecture. 
           answer: True
 test:
-  jigsaw:
-    journalism:
-      identifier: "3.11 Listening Test: Part 1 questions"
+  page:
+    0:
+      identifier: Listening Practice Test Directions
+      content: |+
+        Listening Practice Test: Part 1
+        Narrator
+        Listen to a conversation between a student and his faculty advisor.
+journalism:
+  drag:
+    0:
+      identifier: Prof-student journalism discussion
+      sentences:
+        -
+          sentence: |+
+            Professor:
+            Hi, Steve. I scheduled this appointment 'cause it's been a while since we touched base.
+            Student:
+            I know. I've been really busy. A friend of mine works on the school paper. He asked me if I'd like to try reporting. So I did, and I really love it.
+            Professor:
+            Hey, that sounds great.
+          clozed: Hi Steve I scheduled this appointment 'cause it's been a while since we touched base  I know I've been really busy A friend of mine works on the school paper He asked me if I'd like to try reporting So I did and I really love it  Hey that sounds great End
+        -
+          sentence: |+ 
+            Student:
+            Yeah, the first article I wrote, it was a profile of the chemistry professor, the one who was named teacher of the year. My article ran on the front page. When I saw my name, I mean, my byline, in print, I was hooked. Now I know this is what I want to do - be a reporter.
+            Professor:
+            Isn't it great to discover something that you really enjoy? And I read that article, too. It was very good.
+          clozed: Yeah the first article I wrote it was a profile of the chemistry professor the one who was named teacher of the year My article ran on the front page When I saw my name I mean my byline in print I was hooked Now I know this is what I want to do be a reporter  Isn't it great to discover something that you really enjoy And I read that article too It was very good   End
+        -
+          sentence: |+ 
+            Student:
+            To be honest, the article got lots of editing. In fact, I barely recognized a couple of paragraphs. But the editor explained why the changes were made. I learned a lot, and my second article didn't need nearly as many changes.
+            Professor:
+            Sounds like you've got a real knack for this.
+          clozed: To be honest the article got lots of editing In fact I barely recognized a couple of paragraphs But the editor explained why the changes were made I learned a lot and my second article didn't need nearly as many changes  Sounds like you've got a real knack for this End
+        -
+          sentence: |+ 
+            Student:
+            Yeah. Anyway, I'm glad you scheduled this meeting 'cause I wanna change my major to journalism now.
+            Professor:
+            Um. The university doesn't offer a major in journalism.
+            Student:
+            Oh no!
+            Professor:
+            But—
+            Student:
+            I-I mean … should I transfer to another school? Or major in English?
+          clozed: Yeah Anyway I'm glad you scheduled this meeting 'cause I wanna change my major to journalism now  Um The university doesn't offer a major in journalism  Oh no   But  I I mean  should I transfer to another school Or major in English End
+        -
+          sentence: |+ 
+            Professor:
+            "Well, wait a minute. Let me explain why the major isn't offered. Editors at newspapers … editors … I mean, when you apply for a reporting job, editors look at two things: they wanna see clips, you know, some of your published articles. They'll also want you to try out. They'll give you an assignment, like, um, covering a press conference or some other event, then see if you can craft a story about it, accurately, on deadline."
+          clozed: Well wait a minute Let me explain why the major isn't offered Editors at newspapers  editors  I mean when you apply for a reporting job editors look at two things they wanna see clips you know some of your published articles They'll also want you to try out They'll give you an assignment like um covering a press conference or some other event then see if you can craft a story about it accurately on deadline  End
+        -
+          sentence: |+ 
+            Student:
+            So they don’t even look at my major?
+            Professor:
+            It’s not that they don’t look at it … it’s … well, having a degree in something other than journalism should actually work to your advantage.
+            Student: How?
+            Professor:
+            Most journalists specialize these days. They only write about science, or business, or technology, for example. Is there a type of reporting you think you might like to specialize in?
+          clozed: So they don't even look at my major  It's not that they don't look at it  it's  well having a degree in something other than journalism should actually work to your advantage  How  Most journalists specialize these days They only write about science or business or technology for example Is there a type of reporting you think you might like to specialize in
+        -
+          sentence: |+ 
+            Student:
+            Well, I think it’d be really cool to cover the Supreme Court. I mean, their decisions affect so many people.
+            Professor:
+            That’s really a goal worth striving for. So, why not continue majoring in political science? And, as electives, you could take some pre-law classes, like constitutional law. And as for your work on the student newspaper, maybe they’d let you cover some local court cases, ones that students and professors here would wanna read about.
+          clozed: Well I think it’d be really cool to cover the Supreme Court I mean their decisions affect so many people  That’s really a goal worth striving for So why not continue majoring in political science And as electives you could take some prelaw classes like constitutional law And as for your work on the student newspaper maybe they’d let you cover some local court cases ones that students and professors here would wanna read about End
+        -
+          sentence: |+ 
+            Student:
+            Do you know of any?
+            Professor:
+            Well, I do, actually. There’s a case involving this computer software program that one of our professors wrote. The district court’s deciding if the university’s entitled to any of the professor’s profits.
+            Student:
+            Wow. I’ll definitely follow up on that.
+          clozed: Do you know of any  Well I do actually There’s a case involving this computer software program that one of our professors wrote The district court’s deciding if the university’s entitled to any of the professor’s profits  Wow I’ll definitely follow up on that End
+  jigsaw: 
+    0:
+      identifier: "311 Listening Test: Part 1 questions"
       quiz:
         - question: |+
             What is the conversation mainly about? 
@@ -885,7 +964,7 @@ play:
             4. According to the professor, what dramatic elements are typically included in a well-
             made play to help move the plot forward? Choose 2 answers. 
 
-            * A A series of major changes in the hero’s apparent chances of success 
+            * A A series of major changes in the hero's apparent chances of success 
             * B The introduction of new characters midway through the play 
             * C Information known to the audience but not to the main characters 
             * D The movement of major characters from one setting to another 
