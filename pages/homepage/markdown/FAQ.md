@@ -2,6 +2,7 @@
 
 NCKU has an [internal academic editing service][1]
 staffed by foreign teachers associated with the university, 
+NDHU also has one[3].
 
 Researchers can choose from a list of available teacher/editors 
 the one they wish to edit their manuscript. And the teacher/editors
@@ -10,6 +11,7 @@ editors.
 
 [1]: https://flc.ncku.edu.tw/p/412-1144-17900.php?Lang=en
 [2]: https://flc.ncku.edu.tw/p/412-1144-22614.php?Lang=zh-tw
+[3]: https://rc040.ndhu.edu.tw/p/412-1077-6015.php?Lang=zh-tw
 
 Two of the items that I thought were good questions were 
 *Proofreading Approach* and *Acceptable File Formats*.
@@ -28,7 +30,7 @@ Proofreading Approach
   anything about the process.
 
   I know I am very critical top-down and bottom-up. Typically,
-  I make changes to almost every line of a text. Reading like 
+  I make changes in almost every line of a text. Reading like 
   a journal editor trying to follow the argument, I think:
 
 	  "Is this what a native-speaking researcher
@@ -61,3 +63,4 @@ Acceptable File Formats
 or [markdown](https://en.wikipedia.org/wiki/Markdown) files
     * [latex](https://en.wikipedia.org/wiki/LaTeX) documents
     * [MS Word](https://en.wikipedia.org/wiki/Microsoft_Word) files
+
