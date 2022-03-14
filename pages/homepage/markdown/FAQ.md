@@ -2,7 +2,7 @@
 
 NCKU has an [internal academic editing service][1]
 staffed by foreign teachers associated with the university, 
-NDHU also has one[3].
+[NDHU][3] also has one.
 
 Researchers can choose from a list of available teacher/editors 
 the one they wish to edit their manuscript. And the teacher/editors
