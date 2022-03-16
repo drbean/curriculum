@@ -2,8 +2,17 @@
 ---
 genre: topics
 direction:
-  0:
-    flash:
+  flash:
+    0:
+      hospital     : hospital.jpg
+      restaurant   : restaurant.jpg
+      supermarket  : supermarket.jpg
+      firehouse   : firehouse.jpg
+      toystore    : toystore.jpg
+      candystore  : candystore.jpg
+      movietheater: movietheater.jpg
+      school       : school.jpg
+    1:
       hospital     : 醫院
       restaurant   : 餐廳
       supermarket  : 超級市場
@@ -12,8 +21,7 @@ direction:
       candy store  : 糖果店
       movie theater: 電影院
       school       : 學校
-  1:
-    flash:
+    2:
       bakery        : 麵包店 
       drugstore     : 藥店   
       hotel         : 旅館   
@@ -22,12 +30,20 @@ direction:
       beauty parlor : 美容院 
       fruit store   : 水果店 
       cram school   : 補習班 
-  2:
-    flash:
+    3:
       The mouse is next to the robot   : Benny Bounce is in front of the tree
       Becky Bounce is behind the tree  : The mouse is behind the elephant
       Bobby Bounce is next to the tree : The mouse is next to the cupcake
       The mouse is behind the door     : The mouse is in front of the blackboard
+    4:
+      The mouse is next to: the robot
+      Benny Bounce is in front of: the tree
+      Becky Bounce is behind: the tree
+      The mouse is behind: the elephant
+      Bobby Bounce is next: to the tree
+      The mouse is next to: the cupcake
+      The mouse is behind: the door
+      The mouse is in front of: the blackboard
 store:
   bingo:
     - hospital restaurant bank supermarket fire-house bakery beauty-parlor bookstore hotel drugstore toy-store candy-store movie-theater
