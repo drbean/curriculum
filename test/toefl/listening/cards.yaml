@@ -389,11 +389,17 @@ inference:
 test:
   page:
     0:
-      identifier: Listening Practice Test Directions
+      identifier: Listening Practice Test 1 Directions
       content: |+
         Listening Practice Test: Part 1
         Narrator
         Listen to a conversation between a student and his faculty advisor.
+    1:
+      identifier: Listening Practice Test 2 Directions
+      content: |+
+        Listening Practice Test: Part 2
+        Narrator
+        Listen to part of a lecture in a psychology class.
 journalism:
   drag:
     0:
@@ -600,7 +606,19 @@ journalism:
             - a 3.8 connecting question
             - a 3.9 inference question
           answer: a 3.5 function question
-    psychology:
+psychology:
+  drag:
+    0:
+      identifier: Psychology lecture on memory/perception mistakes
+      sentences:
+        -
+          sentence: |+
+            Professor:
+            We've said that the term "cognition" refers to mental states like knowing and believing, and to mental processes that we use to arrive at those states. So, for example, reasoning is a cognitive process. So is perception - we use information that we perceive through our senses to help us make decisions, to arrive at beliefs and so on. And then there are memory and imagination, which relate to the knowledge of things that happened in the past or may happen in the future.
+            clozed: We've said that the term cognition refers to mental states like knowing and believing and to mental processes that we use to arrive at those states So for example reasoning is a cognitive process So is perception we use information that we perceive through our senses to help us make decisions to arrive at beliefs and so on And then there are memory and imagination which relate to the knowledge of things that happened in the past or may happen in the future
+
+  jigsaw:
+    0:
       identifier: "3.11 Listening Test: Part 2 questions"
       quiz:
         - question: |+

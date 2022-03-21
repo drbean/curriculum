@@ -244,8 +244,27 @@ section:
   -
     topic : listening
     story : test
+    type  : page
+    form  : 1
+    intro : A psychology lecture
+    random: 
+-
+  content:
+  -
+    topic : listening
+    story : psychology
+    type  : drag
+    form  : 0
+    intro : "Dictation: what did the prof say about blind spots and mistaken memories"
+    random: 
+
+-
+  content:
+  -
+    topic : listening
+    story : psychology
     type  : jigsaw
-    form  : psychology 
+    form  : 0 
     intro : A lecture on mental processes and their failings
     random: 
 
