@@ -454,7 +454,7 @@ journalism:
             So they don't even look at my major?
             <br>
             Professor:
-            It’s not that they don’t look at it … it’s … well, having a degree in something other than journalism should actually work to your advantage.
+            It's not that they don't look at it - it's - well, having a degree in something other than journalism should actually work to your advantage.
             <br>
             Student: How?
             <br>
@@ -464,11 +464,11 @@ journalism:
         -
           sentence: |+ 
             Student:
-            Well, I think it’d be really cool to cover the Supreme Court. I mean, their decisions affect so many people.
+            Well, I think it'd be really cool to cover the Supreme Court. I mean, their decisions affect so many people.
             <br>
             Professor:
-            That’s really a goal worth striving for. So, why not continue majoring in political science? And, as electives, you could take some pre-law classes, like constitutional law. And as for your work on the student newspaper, maybe they’d let you cover some local court cases, ones that students and professors here would wanna read about.
-          clozed: Well I think it’d be really cool to cover the Supreme Court I mean their decisions affect so many people  That’s really a goal worth striving for So why not continue majoring in political science And as electives you could take some prelaw classes like constitutional law And as for your work on the student newspaper maybe they’d let you cover some local court cases ones that students and professors here would wanna read about End
+            That's really a goal worth striving for. So, why not continue majoring in political science? And, as electives, you could take some pre-law classes, like constitutional law. And as for your work on the student newspaper, maybe they'd let you cover some local court cases, ones that students and professors here would wanna read about.
+          clozed: Well I think it'd be really cool to cover the Supreme Court I mean their decisions affect so many people  That's really a goal worth striving for So why not continue majoring in political science And as electives you could take some pre-law classes like constitutional law And as for your work on the student newspaper maybe they'd let you cover some local court cases ones that students and professors here would wanna read about End
         -
           sentence: |+ 
             Student:
@@ -476,9 +476,10 @@ journalism:
             <br>
             Professor:
             Well, I do, actually. There’s a case involving this computer software program that one of our professors wrote. The district court’s deciding if the university’s entitled to any of the professor’s profits.
+            <br>
             Student:
             Wow. I’ll definitely follow up on that.
-          clozed: Do you know of any  Well I do actually There’s a case involving this computer software program that one of our professors wrote The district court’s deciding if the university’s entitled to any of the professor’s profits  Wow I’ll definitely follow up on that End
+          clozed: Do you know of any  Well I do actually There's a case involving this computer software program that one of our professors wrote The district court's deciding if the university's entitled to any of the professor’s profits  Wow I’ll definitely follow up on that End
   jigsaw: 
     0:
       identifier: "311 Listening Test: Part 1 questions"
