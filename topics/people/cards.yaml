@@ -1,5 +1,16 @@
 ---
 genre: topics
+position:
+  flash:
+    0:
+#     identifier: Elementary seating positions
+      Willy is sitting : behind Joey
+      Joey is sitting : in front of Willy
+      Andy is sitting : in front of Wilson
+      Wilson is sitting : behing Andy
+      Sean is sitting : next to Bonnie
+      Casper is sitting behind : Sean
+      Bonnie is sitting : next to Sean
 namecard:
   match:
     0:
