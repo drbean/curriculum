@@ -1,5 +1,32 @@
 ---
 genre: topics
+namecard:
+  match:
+    0:
+      identifier: student info for self-introduction
+      pair:
+        -
+          - Casper
+          - I'm Casper ~~~~~~~~~. I'm ~~~~ years old. I go to ~~~~~~~~~~~ Elementary School. I'm in Grade ~~~~.
+        -
+          - Sean
+          - I'm Sean ~~~~~~~~~. I'm ~~~~ years old. I go to ~~~~~~~~~~~ Elementary School. I'm in Grade ~~~~.
+        -
+          - Bonnie
+          - I'm Bonnie ~~~~~~~~~. I'm ~~~~ years old. I go to ~~~~~~~~~~~ Elementary School. I'm in Grade ~~~~.
+        -
+          - Andy
+          - I'm Andy ~~~~~~~~~. I'm ~~~~ years old. I go to ~~~~~~~~~~~ Elementary School. I'm in Grade ~~~~.
+        -
+          - Wilson
+          - I'm Wilson ~~~~~~~~~. I'm ~~~~ years old. I go to ~~~~~~~~~~~ Elementary School. I'm in Grade ~~~~.
+        -
+          - Joey
+          - I'm Joey ~~~~~~~~~. I'm ~~~~ years old. I go to ~~~~~~~~~~~ Elementary School. I'm in Grade ~~~~.
+        -
+          - Willy
+          - I'm Willy ~~~~~~~~~. I'm ~~~~ years old. I go to ~~~~~~~~~~~ Elementary School. I'm in Grade ~~~~.
+        
 fan:
   0:
     flash:
