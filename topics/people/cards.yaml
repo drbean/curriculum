@@ -37,6 +37,33 @@ namecard:
         -
           - Willy
           - I'm Willy ~~~~~~~~~. I'm ~~~~ years old. I go to ~~~~~~~~~~~ Elementary School. I'm in Grade ~~~~.
+    1:
+      identifier: student info for self-introduction
+      pair:
+        -
+          - ~~~~~~
+          - I'm ~~~~~~ ~~~~~~~~~. I'm ~~~~ years old. I go to ~~~~~~~~~~~~~~~~~~~~~~ Elementary School. I'm in Grade ~~~~.
+        -
+          - Justin
+          - I'm Justin ~~~~~~~~~. I'm ~~~~ years old. I go to ~~~~~~~~~~~~~~~~~~~~~~ Elementary School. I'm in Grade ~~~~.
+        -
+          - Ping
+          - I'm Ping ~~~~~~~~~. I'm ~~~~ years old. I go to ~~~~~~~~~~~~~~~~~~~~~~ Elementary School. I'm in Grade ~~~~.
+        -
+          - Roy
+          - I'm Roy ~~~~~~~~~. I'm ~~~~ years old. I go to ~~~~~~~~~~~~~~~~~~~~~~ Elementary School. I'm in Grade ~~~~.
+        -
+          - Elsa
+          - I'm Elsa ~~~~~~~~~. I'm ~~~~ years old. I go to ~~~~~~~~~~~~~~~~~~~~~~ Elementary School. I'm in Grade ~~~~.
+        -
+          - Neil
+          - I'm Neil ~~~~~~~~~. I'm ~~~~ years old. I go to ~~~~~~~~~~~~~~~~~~~~~~ Elementary School. I'm in Grade ~~~~.
+        -
+          - Wayne
+          - I'm Wayne ~~~~~~~~~. I'm ~~~~ years old. I go to ~~~~~~~~~~~~~~~~~~~~~~ Elementary School. I'm in Grade ~~~~.
+        -
+          - Jessica
+          - I'm Jessica ~~~~~~~~~. I'm ~~~~ years old. I go to ~~~~~~~~~~~~~~~~~~~~~~ Elementary School. I'm in Grade ~~~~.
         
 fan:
   0:
