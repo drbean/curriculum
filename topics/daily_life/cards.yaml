@@ -15,8 +15,27 @@ rubrics:
   bingo:
     - what_was_that new_words unit_8 look picture/pictures write correct blank/blanks listen match track_50 listening_passage best_answer question check conversation response each statements true false  circle read again dictation thing place
 sleep:
+  flash:
+    0:
+      flashlight  : flashlight.jpg
+      witch       : witch.jpg
+      count       : count.jpg
+      ghost       : ghost.jpg
+      nightmare   : nightmare.jpg
+      real        : real.jpg
+      believe     : believe.jpg
+      silly       : silly.jpg
+    1:
+      flashlight  : 手電筒
+      witch       : 巫婆
+      count       : 數數
+      ghost       : 鬼
+      nightmare   : 惡夢
+      real        : 真實的
+      believe     : 相信
+      silly       : 愚蠢的
   bingo:
-    - flashlight witch count ghost/ghosts nightmare real believe silly sheep cat watch wake_up go_to_sleep dream_about don't_be_afraid don't_worry under_the_bed behind_the_door in_the_bathroom in_the_closet playing_a_game watching_a_movie looking_for_a_ghost 
+    - flashlight witch count ghost/ghosts nightmare real believe silly do you I had last night stop it you're being are saw one
     - scary_witch black_hat old_house borrow halloween scared kids pumpkins scream dream a_ghost a_rainbow/two_rainbows a_storm the_sun a_picnic_basket a_swimming_pool rainy windy a_monster a_sheep/two_sheep feel_better count_numbers bad_boy
     - flashlight witch count ghost nightmare real believe silly last night stop you're being saw one sleep cat dream what_was_that
     - Kim can't sleep sheep counts creak turns_on flashlight something closet ghost walks moves aaahh screams just cat feels silly
