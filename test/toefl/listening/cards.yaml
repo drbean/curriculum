@@ -466,7 +466,7 @@ journalism:
             <br>
             Professor:
             Most journalists specialize these days. They only write about science, or business, or technology, for example. Is there a type of reporting you think you might like to specialize in?
-          clozed: So they don't even look at my major  It's not that they don't look at it  it's  well having a degree in something other than journalism should actually work to your advantage  How  Most journalists specialize these days They only write about science or business or technology for example Is there a type of reporting you think you might like to specialize in
+          clozed: So they don't even look at my major  It's not that they don't look at it  it's  well having a degree in something other than journalism should actually work to your advantage  How  Most journalists specialize these days They only write about science or business or technology for example Is there a type of reporting you think you might like to specialize in End
         -
           sentence: |+ 
             Student:
@@ -481,14 +481,14 @@ journalism:
             Do you know of any?
             <br>
             Professor:
-            Well, I do, actually. There’s a case involving this computer software program that one of our professors wrote. The district court’s deciding if the university’s entitled to any of the professor’s profits.
+            Well, I do, actually. There's a case involving this computer software program that one of our professors wrote. The district court's deciding if the university's entitled to any of the professor's profits.
             <br>
             Student:
-            Wow. I’ll definitely follow up on that.
-          clozed: Do you know of any  Well I do actually There's a case involving this computer software program that one of our professors wrote The district court's deciding if the university's entitled to any of the professor’s profits  Wow I’ll definitely follow up on that End
+            Wow. I'll definitely follow up on that.
+          clozed: Do you know of any  Well I do actually There's a case involving this computer software program that one of our professors wrote The district court's deciding if the university's entitled to any of the professor's profits  Wow I'll definitely follow up on that End
   jigsaw: 
     0:
-      identifier: "311 Listening Test: Part 1 questions"
+      identifier: "Questions for 3.11 Listening Test: Part 1"
       quiz:
         - question: |+
             What is the conversation mainly about? 
