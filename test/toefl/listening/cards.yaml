@@ -784,7 +784,9 @@ psychology:
             - a 3.8 connecting question
             - a 3.9 inference question
           answer: a 3.5 function question
-    microclimate:
+microclimate:
+  jigsaw:
+    0:
       identifier: "3.11 Listening Test: Part 3 questions"
       quiz:
         - question: |+
