@@ -229,6 +229,15 @@ section:
     form  : 0
     intro : "Dictation: what did they say about a journalism career?"
     random: 
+-
+  content:
+  -
+    topic : listening
+    story : journalism
+    type  : jigsaw
+    form  : 0
+    intro : Answer the questions about the prof-student conference
+    random: 
 
 -
   content:
