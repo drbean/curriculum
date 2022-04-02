@@ -291,8 +291,26 @@ section:
   -
     topic : listening
     story : test
+    type  : page
+    form  : 2
+    intro : A lecture about animals in their environment
+    random: 
+-
+  content:
+  -
+    topic : listening
+    story : microclimate
+    type  : drag
+    form  : 0
+    intro : "Dictation: what did the prof say about how animals regulate temperature"
+    random: 
+-
+  content:
+  -
+    topic : listening
+    story : microclimate
     type  : jigsaw
-    form  : microclimate
+    form  : 0
     intro : A lecture on the use animals make of microclimates
     random: 
 
