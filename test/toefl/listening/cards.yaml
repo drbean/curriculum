@@ -237,7 +237,7 @@ organization:
             Um, He has a hobby that he's obsessive about - in this ...
             uh, in this case, it's the love of roses.
             He's a fanatic about the breeding of roses;
-          clozed: Um He has a hobby that he's obsessive about in this   uh in this case it's the love of roses  He's a fanatic about the breeding of roses
+          clozed: Um He has a hobby that he's obsessive about in this   uh in this case it's the love of roses  He's a fanatic about the breeding of roses End
         -
           sentence: |+
             uh Sherlock Holmes and his violin,
@@ -289,7 +289,7 @@ organization:
             it's um it's this ability to see meaning
             where others see no meaning
             and to bring order ... to where uh it seems there is no order.
-          clozed: And And that's what the hero in a detective novel like this   brings to it that the other characters don't it's um it's this ability to see meaning where others see no meaning and to bring order  to where uh it seems there is no order
+          clozed: And And that's what the hero in a detective novel like this   brings to it that the other characters don't it's um it's this ability to see meaning where others see no meaning and to bring order  to where uh it seems there is no order End
   jigsaw:
     0:
       identifier: 3.7 Listening Quiz 6
@@ -632,8 +632,8 @@ psychology:
           clozed: So perceiving remembering imagining are all internal mental processes that lead to knowing or believing  Yet each of these processes has limitations and can lead us to hold mistaken beliefs or make false predictions  Take memory for example End
         -
           sentence: |+
-            Maybe you've heard of studies in which people hear a list of related words — um, let's say a list of different kinds of fruit. After hearing this list, they're presented with several additional words. In this case, we'll say the additional words were "blanket" and "cherry." Neither of these words was on the original list. And while people will claim correctly that "blanket" was not on the original list, they’ll also claim, incorrectly, that the word "cherry" was on the list.
-          clozed:  Maybe you've heard of studies in which people hear a list of related words um let's say a list of different kinds of fruit After hearing this list they're presented with several additional words In this case we'll say the additional words were blanket and cherry Neither of these words was on the original list And while people will claim correctly that blanket was not on the original list theyll also claim incorrectly that the word cherry was on the list End
+            Maybe you've heard of studies in which people hear a list of related words — um, let's say a list of different kinds of fruit. After hearing this list, they're presented with several additional words. In this case, we'll say the additional words were "blanket" and "cherry." Neither of these words was on the original list. And while people will claim correctly that "blanket" was not on the original list, they'll also claim, incorrectly, that the word "cherry" was on the list.
+          clozed:  Maybe you've heard of studies in which people hear a list of related words um let's say a list of different kinds of fruit After hearing this list they're presented with several additional words In this case we'll say the additional words were blanket and cherry Neither of these words was on the original list And while people will claim correctly that blanket was not on the original list they'll also claim incorrectly that the word cherry was on the list End
         -
           sentence: |+
             Most people are convinced they heard the word "cherry" on the original list. Why do they make such a simple mistake? Well, we think because the words on the list were so closely related, the brain stored only the gist of what it heard, for example, that all the items on the list were types of fruit. When we tap our memory, our brains often fill in details, and quite often these details are actually false.
@@ -642,16 +642,16 @@ psychology:
           sentence: |+
             We also see this "fill-in" phenomenon with perception.
             <br>
-            Perception is the faculty that allows us to process information in the present, as we take it in via our senses. Again, studies have shown that people will "fill in" information that they thought they perceived, even when they didn't. For example, experiments have been done where a person hears a sentence, but it's missing the word that logically completes it. They'll claim to hear that word even though it was never said. So if I were to say, 'The Sun rises in the …' and then fail to complete the sentence, people will often claim to have heard the word "east."
+            Perception is the faculty that allows us to process information in the present, as we take it in via our senses. Again, studies have shown that people will "fill in" information that they thought they perceived, even when they didn't. For example, experiments have been done where a person hears a sentence, but it's missing the word that logically completes it. They'll claim to hear that word even though it was never said. So if I were to say, "The Sun rises in the …" and then fail to complete the sentence, people will often claim to have heard the word "east."
             
           clozed: We also see this fill-in phenomenon with perception  Perception is the faculty that allows us to process information in the present as we take it in via our senses Again studies have shown that people will fill in information that they thought they perceived even when they didn't For example experiments have been done where a person hears a sentence but it's missing the word that logically completes it They'll claim to hear that word even though it was never said So if I were to say The Sun rises in the and then fail to complete the sentence people will often claim to have heard the word east End
         -
           sentence: |+
-            In cognitive psychology we have a phrase for this kind of inaccurate "filling in" of details. It's called a "blind spot." The term originally referred to the place in our eyes where the optic nerve connects the back of the eye to the brain. There are no photoreceptors in the area where the nerve connects to the eye, so that particular area of the eye is incapable of detecting images—it produces a blind spot in our field of vision. We aren't aware of it because the brain fills in what it thinks belongs in the image, so the picture always appears complete to us.
+            In cognitive psychology we have a phrase for this kind of inaccurate "filling in" of details. It's called a "blind spot." The term originally referred to the place in our eyes where the optic nerve connects the back of the eye to the brain. There are no photoreceptors in the area where the nerve connects to the eye, so that particular area of the eye is incapable of detecting images — it produces a blind spot in our field of vision. We aren't aware of it because the brain fills in what it thinks belongs in the image, so the picture always appears complete to us.
           clozed: In cognitive psychology we have a phrase for this kind of inaccurate filling in of details It's called a blind spot The term originally referred to the place in our eyes where the optic nerve connects the back of the eye to the brain There are no photoreceptors in the area where the nerve connects to the eye so that particular area of the eye is incapable of detecting images it produces a blind spot in our field of vision We aren't aware of it because the brain fills in what it thinks belongs in the image so the picture always appears complete to us End
         -
           sentence: |+
-            But the term "blind spot" has also taken on a more general meaning—it refers to people being unaware of a bias that may affect their judgment about a subject.
+            But the term "blind spot" has also taken on a more general meaning — it refers to people being unaware of a bias that may affect their judgment about a subject.
             <br>
             And the same blind spot phenomenon that affects memory and perception also affects imagination. Imagination is a faculty that some people use to anticipate future events in their lives. But the ease with which we imagine details can lead to unrealistic expectations and can bias our decisions.
           clozed: But the term blind spot has also taken on a more general meaning it refers to people being unaware of a bias that may affect their judgment about a subject And the same blind spot phenomenon that affects memory and perception also affects imagination Imagination is a faculty that some people use to anticipate future events in their lives But the ease with which we imagine details can lead to unrealistic expectations and can bias our decisions End
