@@ -12,64 +12,64 @@ section:
   summary: 1 TOEIC-type opinion question, 3 responses to texts, conversations in 17 minutes
 ---
 
-#-
-#  content:
-#  -
-#    topic : speaking
-#    story : provenance
-#    type  : url
-#    form  : 0
-#    intro : Watch this and the following videos and then do Speaking Quiz 1
-#-
-#  content:
-#  -
-#    topic : speaking
-#    story : provenance
-#    type  : url
-#    form  : 1
-#    intro : Watch this and the following videos and then do Speaking Quiz 1
-#-
-#  content:
-#  -
-#    topic : speaking
-#    story : provenance
-#    type  : url
-#    form  : 2
-#    intro : Watch this video and then do Speaking Quiz 1
-#-
-#  content:
-#  -
-#    topic : speaking
-#    story : start
-#    type  : jigsaw
-#    form  : 0
-#    intro : Understanding the requirements
-#
-#-
-#  content:
-#  -
-#    topic : speaking
-#    story : provenance
-#    type  : url
-#    form  : 3
-#    intro : 4.3 Independent question 1
-#-
-#  content:
-#  -
-#    topic : speaking
-#    story : provenance
-#    type  : url
-#    form  : 4
-#    intro : "4.3 Independent speaking question 1: approach tips"
-#-
-#  content:
-#  -
-#    topic : speaking
-#    story : opinion
-#    type  : jigsaw
-#    form  : 0
-#    intro : Understanding question 1, the TOEIC-type opinion question
-#
+-
+  content:
+  -
+    topic : speaking
+    story : provenance
+    type  : url
+    form  : 0
+    intro : Watch this and the following videos and then do Speaking Quiz 1
+-
+  content:
+  -
+    topic : speaking
+    story : provenance
+    type  : url
+    form  : 1
+    intro : Watch this and the following videos and then do Speaking Quiz 1
+-
+  content:
+  -
+    topic : speaking
+    story : provenance
+    type  : url
+    form  : 2
+    intro : Watch this video and then do Speaking Quiz 1
+-
+  content:
+  -
+    topic : speaking
+    story : start
+    type  : jigsaw
+    form  : 0
+    intro : Understanding the requirements
+
+-
+  content:
+  -
+    topic : speaking
+    story : provenance
+    type  : url
+    form  : 3
+    intro : 4.3 Independent question 1
+-
+  content:
+  -
+    topic : speaking
+    story : provenance
+    type  : url
+    form  : 4
+    intro : "4.3 Independent speaking question 1: approach tips"
+-
+  content:
+  -
+    topic : speaking
+    story : opinion
+    type  : jigsaw
+    form  : 0
+    intro : Understanding question 1, the TOEIC-type opinion question
+
 -
   content:
   -
@@ -95,52 +95,52 @@ section:
     form  : fun
     intro : Upload your response at 'Add a new discussion topic'
 
-#-
-#  content:
-#  -
-#    topic : speaking
-#    story : provenance
-#    type  : url
-#    form  : 5
-#    intro : 4.4 Integrated question 2
-#-
-#  content:
-#  -
-#    topic : speaking
-#    story : provenance
-#    type  : url
-#    form  : 6
-#    intro : "4.4 Integrated speaking question 2: approach tips"
-#-
-#  content:
-#  -
-#    topic : speaking
-#    story : campus
-#    type  : jigsaw
-#    form  : 0
-#    intro : Speaking about a conversation's relation to text
-#-
-#  content:
-#  -
-#    topic : speaking
-#    story : provenance
-#    type  : url
-#    form  : 7
-#    intro : 4.5 Integrated Questions 3 and 4
-#-
-#  content:
-#  -
-#    topic : speaking
-#    story : provenance
-#    type  : url
-#    form  : 8
-#    intro : Question 3--relating info from text to conversation
-#-
-#  content:
-#  -
-#    topic : speaking
-#    story : provenance
-#    type  : url
-#    form  : 9
-#    intro : Question 4--summarizing concepts from lecture
-#  
+-
+  content:
+  -
+    topic : speaking
+    story : provenance
+    type  : url
+    form  : 5
+    intro : 4.4 Integrated question 2
+-
+  content:
+  -
+    topic : speaking
+    story : provenance
+    type  : url
+    form  : 6
+    intro : "4.4 Integrated speaking question 2: approach tips"
+-
+  content:
+  -
+    topic : speaking
+    story : campus
+    type  : jigsaw
+    form  : 0
+    intro : Speaking about a conversation's relation to text
+-
+  content:
+  -
+    topic : speaking
+    story : provenance
+    type  : url
+    form  : 7
+    intro : 4.5 Integrated Questions 3 and 4
+-
+  content:
+  -
+    topic : speaking
+    story : provenance
+    type  : url
+    form  : 8
+    intro : Question 3--relating info from text to conversation
+-
+  content:
+  -
+    topic : speaking
+    story : provenance
+    type  : url
+    form  : 9
+    intro : Question 4--summarizing concepts from lecture
+  
