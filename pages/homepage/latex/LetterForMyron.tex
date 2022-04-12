@@ -21,6 +21,13 @@
 
 \documentclass[11pt, a4paper]{letter} % Set the font size (10pt, 11pt and 12pt) and paper size (letterpaper, a4paper, etc)
 
+\usepackage{fontspec}
+\usepackage{xeCJK}
+\setmainfont{Linux Libertine O}[Scale=MatchLowercase]
+\setCJKmainfont{NotoSansCJK-Regular.ttc}[
+	               Path = /usr/share/fonts/noto/,
+		                      ]
+
 \input{structure.tex} % Include the file that specifies the document structure
 
 %\longindentation=0pt % Un-commenting this line will push the closing "Sincerely," and date to the left of the page
@@ -46,7 +53,7 @@
 %	HEADER CONTENTS
 %----------------------------------------------------------------------------------------
 
-\logo{/home/User/curriculum/pages/homepage/latex/160px-National_United_University_logo.svg.png} % Logo filename, your logo should have square dimensions (i.e. roughly the same width and height), if it does not, you will need to adjust spacing within the HEADER STRUCTURE block in structure.tex (read the comments carefully!)
+\logo{/home/owuser/curriculum/pages/homepage/latex/160px-National_United_University_logo.svg.png} % Logo filename, your logo should have square dimensions (i.e. roughly the same width and height), if it does not, you will need to adjust spacing within the HEADER STRUCTURE block in structure.tex (read the comments carefully!)
 
 \headerlineone{NATIONAL UNITED} % Top header line, leave blank if you only want the bottom line
 
@@ -97,7 +104,7 @@ You can't go wrong choosing him. Grab hold of him and don't let
 him go.
 
 \closing{Sincerely,\\
-\includegraphics[width=2in,height=1.65cm]{/home/User/curriculum/pages/homepage/latex/signature.png} }
+\includegraphics[width=2in,height=1.65cm]{/home/owuser/curriculum/pages/homepage/latex/signature.png} }
 %----------------------------------------------------------------------------------------
 %	OPTIONAL FOOTNOTE
 %----------------------------------------------------------------------------------------
