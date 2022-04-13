@@ -4,14 +4,14 @@ genre: topics
 direction:
   flash:
     0:
-      hospital     : hospital.jpg
+      hospital     : hospital_1.jpg
       restaurant   : restaurant.jpg
       supermarket  : supermarket.jpg
       firehouse   : firehouse.jpg
       toystore    : toystore.jpg
       candystore  : candystore.jpg
       movietheater: movietheater.jpg
-      school       : school.jpg
+      school       : school_1.jpg
     1:
       hospital     : 醫院
       restaurant   : 餐廳
