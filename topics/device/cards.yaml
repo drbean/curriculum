@@ -3,6 +3,17 @@ genre: topics
 cell_phones:
   bingo:
     - airplane cell_phone check contact cost doughnut explain freeway message middle missing other receive short sister strawberry_jam text useful
+message:
+  flash:
+    0:
+      receive     : 收到
+      check       : 查看
+      message     : 信息
+      cell phone  : 手機
+      useful      : 有用
+      middle      : 中間
+      freeway     : 高速公路
+      button      : 按鈕
 virus:
 # identifier: unit 26 chinese-english keywords
   flash:
