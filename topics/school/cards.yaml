@@ -330,6 +330,23 @@ teacher:
       - If you want to teach math, you'll have to work hard and learn it well. _如果你想教數學，你必須努力學習。_
       - No problem! I got an A on the mathematics examination last week.       _沒問題！ 我上周有一個數學考試A。_
       - I want to be a teacher, too. But I want to teach English, not math!    _我也想成為一名老師。 但我想教英語，而不是數學！_
+  match:
+    0:
+      identifier: teacher dream match
+      pair:
+        -
+          - "G: What do you want to be when you grow up, Mark?"
+          - "B: I want to be a teacher. I think I would like to help children learn."
+        -
+          - "G: You know, teachers work very hard, and they are not paid much money."
+          - "B: I don't care about money. Teaching is an important job."
+        -
+          - "G: What subject do you want to teach?"
+          - "B: I want to teach mathematics, like Ms Kim. She makes learning fun."
+        -
+          - "G: If you want to teach math, you'll have to work hard and learn it well."
+          - "B: No problem! I got an A on the mathematics examination last week."
+
 home:
   bingo:
     -
