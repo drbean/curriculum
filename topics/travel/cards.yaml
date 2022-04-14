@@ -81,8 +81,17 @@ transport:
       - "A: What time will the bus arrive? _B: It will get here around 4:30._"
 
 bicycle:
-  0:
-    flash:
+ flash:
+   0:
+    bicycle        : 自行車
+    equipment      : 設備
+    person         : 人
+    map            : 地圖
+    travel         : 旅行
+    tire           : 胎
+    physically fit : 身體健康
+    carry          : 攜帶
+   1:
       "A: Why do you want to go on a bicycle trip?" : "B: It's an environmentally friendly way to travel."
       "A: What kind of equipment will you need?" : "B: I need road maps and strong bags and other things."
       "A: Are you traveling with another person?" : "B: Yes, I am going with a friend of mine."
