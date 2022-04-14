@@ -247,6 +247,7 @@ zoo:
           - "A: I don't like lions. They have big claws and teeth. They roar a lot, too."
           - "B: Oh, well, that's why I like them."
   bingo:
+    - shark zoo monkey zebra roars claws zookeeper polar-bear angry lion lives very cold places work bears have big
     - shark zoo monkey zebra roars claws zookeeper polar_bear beach aquarium museum food swims afraid lion snow cool ice rain house cold home
     - shark zoo monkey zebra roars claws zookeeper polar_bear
     - are zoo zebras go aquarium shark swims glass mouth teeth afraid feeds it says
@@ -256,7 +257,6 @@ zoo:
     - horse zebra monkey tiger lion shark polar_bear cat
     - sometimes warm cold places snow ice help keep cool
     - make have do glass mouth teeth gone water playing cute warm feet black_and_white swing pick_bugs orange pick_bugs stripes horses feed cage hungry you're_welcome
-    - shark zoo monkey zebra roars claws zookeeper polar\\\\\_bear angry lion lives very cold places work bears have big
     - zoo aquarium museum shark swims close glass opens mouth teeth many screams afraid feeds away gone says man first
     - look polar_bear they're playing water which animals like best monkeys cute lions don't big claws teeth roar a_lot that's why what_about_you
     - polar_bear zoos sometimes too_warm Why_is_this? cold places snow ice zookeepers make help keep cool animal have many what problem with
