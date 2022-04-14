@@ -16,6 +16,37 @@ tree:
       - Visitors who enter national parks must take care not to damage the trees.                _進入國家公園的遊客必須注意不要破壞樹木。_
     - forest entrance_fee several visitor damage hundred fir,_cedar_and_pine national_park reserve North_America needle evergreen deciduous fall_(autumn) depressing Xmas_tree wood
 weather:
+  match:
+    0:
+      identifier: Unit 7 quiz weather picture 3x3 grid position
+      pair:
+        -
+          - top left hand corner.
+          - a nice sunny day
+        -
+          - in the middle at the top.
+          - a rainbow
+        -
+          - top right hand corner.
+          - lightning
+        -
+          - in the middle on the left.
+          - a playground
+        -
+          - right in the middle.
+          - a swimming pool
+        -
+          - in the middle on the right.
+          - the beach
+        -
+          - bottom left hand corner.
+          - ice cream in glasses
+        -
+          - in the middle at the bottom.
+          - a soccer ball
+        -
+          - bottom right hand corner.
+          - a picnic basket with lunch inside
   flash:
     0:
       rainbow  : rainbow.jpg
@@ -55,6 +86,12 @@ weather:
       The rainbow goes : across the sky.
       Some people look for : the end of the rainbow.
       No one can find the end of the rainbow : because it is just light.
+    5:
+      "After a storm, there is a ~~~~~~~~~~." : rainbow
+      "I hope the ~~~~~~~~~~~ is nice today." : weather
+      "Don't go outside. The ~~~~~~~~~~~ is scary." : lightning
+      "A ~~~~~~~~~~~ is coming." : storm
+      It is very ~~~~~~~~~~~ outside today. : windy
   bingo:
     - rainbow lightning storm clouds windy rainy sky forecast weather
     - it is very windy outside the weather lovely today warm and sunny sky blue I watched forecast on TV this morning
