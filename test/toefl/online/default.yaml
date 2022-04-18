@@ -61,7 +61,7 @@ quiz:
   # gradecat         : 633
   groupmode        : 0
   # groupingid       : 128
-  attempts         : 1
+  attempts         : 5
   decimalpoints    : 0
   overduehandling : 0
   shuffleanswers   : 1
