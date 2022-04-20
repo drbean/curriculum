@@ -44,6 +44,14 @@ direction:
       The mouse is next to: the cupcake
       The mouse is behind: the door
       The mouse is in front of: the blackboard
+    5:
+      Where's the toy store? : It's next to the candy store.
+      Where's the hospital? : It's across from (in front of) the movie theater.
+      Where's the school? : It's next to the restaurant.
+      Where's the restaurant? : It's next to the school.
+      Where's the candy store? : It's next to the toy store.
+      Where's the movie theater? : It's across from (in front of) the hospital.
+
 store:
   bingo:
     - hospital restaurant bank supermarket fire-house bakery beauty-parlor bookstore hotel drugstore toy-store candy-store movie-theater
