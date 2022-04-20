@@ -17,8 +17,8 @@ namecard:
       identifier: student info for self-introduction
       pair:
         -
-          - Casper
-          - I'm Casper ~~~~~~~~~. I'm ~~~~ years old. I go to ~~~~~~~~~~~ Elementary School. I'm in Grade ~~~~.
+          - ~~~~~~
+          - I'm ~~~~~~ ~~~~~~~~~. I'm ~~~~ years old. I go to ~~~~~~~~~~~ Elementary School. I'm in Grade ~~~~.
         -
           - Sean
           - I'm Sean ~~~~~~~~~. I'm ~~~~ years old. I go to ~~~~~~~~~~~ Elementary School. I'm in Grade ~~~~.
@@ -64,7 +64,30 @@ namecard:
         -
           - Jessica
           - I'm Jessica ~~~~~~~~~. I'm ~~~~ years old. I go to ~~~~~~~~~~~~~~~~~~~~~~ Elementary School. I'm in Grade ~~~~.
-        
+    2:
+      identifier: student namecards
+      pair:
+        -
+          - Lucy
+          - Claire
+        -
+          - Abu
+          - Alvin
+        -
+          - MiuMiu
+          - Stark
+        -
+          - Martin
+          - Sharon
+        -
+          - Trista
+          - ~~~~~~
+        -
+          - Jimmy
+          - Jack
+        -
+          - Tiffany
+          - Connie
 fan:
   0:
     flash:
