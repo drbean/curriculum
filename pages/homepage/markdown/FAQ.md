@@ -42,6 +42,16 @@ Proofreading Approach
   Then I use my resources as an experienced editor to solve the 
   particular problem at hand.
 
+  But I am also very critical of my own edits. A fresh 
+  re-read will often evoke the response, 'What was I 
+  thinking?'
+
+  I often use 
+  [https://books.google.com/ngrams](https://books.google.com/ngrams)
+  to see which of two wordings is more used. For example, 
+  'higher fitness' or 'greater fitness'. Which do you think 
+  is more used?
+
   While I am critical, it is important not to overcorrect. In style
   cases for example. I think:
 
