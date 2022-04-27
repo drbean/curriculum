@@ -55,3 +55,23 @@ direction:
 store:
   bingo:
     - hospital restaurant bank supermarket fire-house bakery beauty-parlor bookstore hotel drugstore toy-store candy-store movie-theater
+  flash:
+    0:
+      bakery         : bakery.jpg
+      drugstore      : drugstore.jpg
+      hotel          : hotel.jpg
+      bank           : bank.jpg
+      bookstore      : bookstore.jpg
+      beauty parlor  : beautyparlor.jpg 美容院
+      meat market    : meatmarket.jpg
+      shoe store     : shoestore.jpg
+    1:
+      bakery         : 麵包店
+      drugstore      : 藥店  
+      hotel          : 酒店  
+      bank           : 銀行  
+      bookstore      : 書店  
+      beauty parlor  : 美容院
+      meat market    : 肉類市場
+      shoe store     : 鞋店
+
