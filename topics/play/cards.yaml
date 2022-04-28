@@ -183,10 +183,24 @@ sleep:
     - hard_time count_sheep close_your_eyes jumping boring help good sleep
     -  hard sleeping people sheep eyes think jumping count boring good
     - scared silly flashlight witch ghost believe tree house monster screaming
-
-    
-  0:
-    flash:
+  match:
+    0:
+      identifier: dupe for reverse bingo 
+      pair:
+        -
+          - nightmare
+          - _a bad dream_
+        -
+          - real 
+          - _not just something you think, but something you can see and touch_ 
+        -
+          - believe 
+          - _to think something is real, or true_ 
+        -
+          - silly 
+          - _childish and bad, but funny_ 
+  flash:
+    1:
       flashlight : 手電筒
       witch      : 巫婆
       count      : 計數
