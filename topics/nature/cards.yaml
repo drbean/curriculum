@@ -562,7 +562,7 @@ rose:
           - My rose ... used to produce a lot of pink roses. 
           - bush
         -
-          - I have a ... with my rose bush. 
+          - That does seem like a ....
           - problem
         -
           - This ... fertilizer is very good. 
@@ -577,11 +577,21 @@ rose:
           - It used to ... a lot of pink roses. 
           - produce
         -
-          - '1'
-          - '1'
+          - Now it doesn't produce any ... at all.
+          - roses
         -
-          - '2'
-          - '2'
+          - The ... used to be very green.
+          - leaves
+  flash:
+    0:
+      bush        : 灌木 
+      problem     : 問題
+      liquid      : 液體
+      recover     : 恢復
+      fertilizer  : 肥料
+      produce     : 生產
+      roses       : 玫瑰
+      leaves      : 樹葉
   flash:
     0:
       "M: My rose bush used to produce a lot of pink roses. But now it doesn't." : "W: That does seem like a problem."
