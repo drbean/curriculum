@@ -184,7 +184,7 @@ sleep:
     -  hard sleeping people sheep eyes think jumping count boring good
     - scared silly flashlight witch ghost believe tree house monster screaming
   match:
-    0:
+    2:
       identifier: dupe for reverse bingo 
       pair:
         -
@@ -200,6 +200,11 @@ sleep:
           - silly 
           - _childish and bad, but funny_ 
   flash:
+    0:
+      Many people : have a hard time sleeping.
+      Some people : count sheep.
+      The sheep : are jumping.
+      Counting sheep : helps people go to sleep.
     1:
       flashlight : 手電筒
       witch      : 巫婆
