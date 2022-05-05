@@ -184,6 +184,36 @@ sleep:
     -  hard sleeping people sheep eyes think jumping count boring good
     - scared silly flashlight witch ghost believe tree house monster screaming
   match:
+    0:
+      identifier: Unit 8 quiz sleep picture 3x3 grid position
+      pair:
+        -
+          - top left hand corner.
+          - Lori
+        -
+          - in the middle at the top.
+          - a ghost
+        -
+          - top right hand corner.
+          - a tree at night
+        -
+          - in the middle on the left.
+          - Jack
+        -
+          - right in the middle.
+          - a witch
+        -
+          - in the middle on the right.
+          - a bed in a bedroom
+        -
+          - bottom left hand corner.
+          - Mark
+        -
+          - in the middle at the bottom.
+          - a black and white cat
+        -
+          - bottom right hand corner.
+          - a scary old house
     2:
       identifier: dupe for reverse bingo 
       pair:
@@ -201,19 +231,28 @@ sleep:
           - _childish and bad, but funny_ 
   flash:
     0:
+      flashlight  : flashlight.jpg
+      witch       : witch.jpg
+      count       : count.jpg
+      ghost       : ghost.jpg
+      nightmare   : nightmare.jpg
+      real        : real.jpg
+      believe     : believe.jpg
+      silly       : silly.jpg
+    1:
       Many people : have a hard time sleeping.
       Some people : count sheep.
       The sheep : are jumping.
       Counting sheep : helps people go to sleep.
-    1:
+    2:
       flashlight : 手電筒
       witch      : 巫婆
-      count      : 計數
+      count      : 計數, or 數數
       ghost      : 鬼
       nightmare  : 惡夢
-      real       : 真實
+      real       : 真實的
       believe    : 相信
-      silly      : 愚蠢
+      silly      : 愚蠢的
 haunted:
   flash:
     0:
