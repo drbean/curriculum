@@ -592,8 +592,7 @@ rose:
       produce     : 生產
       roses       : 玫瑰
       leaves      : 樹葉
-  flash:
-    0:
+    1:
       "M: My rose bush used to produce a lot of pink roses. But now it doesn't." : "W: That does seem like a problem."
       "W: Do the leaves on the plant look healthy?" : "M: Not really. Most of them have turned brown."
       "M: What sort of fertilizer do you think I should use?" : "W: This liquid fertilizer is very good."
