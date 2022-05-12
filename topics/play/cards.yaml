@@ -64,8 +64,8 @@ puzzle:
       - Now, word puzzles are in most newspapers, and a lot of people love doing them.  _現在，填字遊戲，在大多數的報紙，很多人喜歡做他們。_
 
 equipment:
-  0:
-    flash:
+  flash:
+    0:
       hula-hoop    : 呼啦圈
       slide        : 滑坡
       swing        : 鞦韆
@@ -74,6 +74,15 @@ equipment:
       playground   : 操場
       sand         : 砂
       scratch      : 刮
+    1:
+      hula-hoop    : hulahoop.jpg
+      slide        : slide.jpg
+      swing        : swing.jpg
+      seesaw       : seesaw.jpg
+      jump rope    : jumprope.jpg
+      playground   : playground.jpg
+      sand         : sand.jpg
+      scratch      : scratch.jpg
   bingo:
     - hula-hoop slide swing seesaw jump_rope playground sand scratch
     - go playground play swings down slide on seesaw up scratch knee sand soft
