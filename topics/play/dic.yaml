@@ -273,7 +273,8 @@
   - "all"
   - |+
     Jeff and Jackie go to the playground. First, they play on the swings. Next, they go down the slide. Jeff wants to go on the seesaw. He goes up and down.
-    Suddenly, he falls. "Are you OK? Did you scratch your knee?" Jackie asks. "No, I'm OK," says Jeff. "The sand is very soft."
+    Suddenly, he falls. 'Are you OK? Did you scratch your knee?' Jackie asks. 'No, I'm OK,' says Jeff. 'The sand is very soft.'
+  - go.verb playground.noun play.verb swings.noun down.ad slide.noun on.other seesaw.noun up.ad down.ad scratch.verb knee.noun sand.noun soft.ad End
   - Jeff and Jackie|to the|First, they|on the|Next, they go|the|Jeff wants to go|the|He goes|and|Suddenly, he falls|Are you OK|Did you|your|Jackie asks|No, I'm OK|says Jeff|The|is very|End
 -
   - equipment-2
