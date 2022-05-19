@@ -299,11 +299,9 @@ pet:
       She wants a small and : quiet animal.
       "She sees a goldfish. 'Yes, I want" : a goldfish.'
     3:
-      "Boy: Hi, Mary. What are you doing?":  "Mary: I'm feeding my goldfish."
-      "Mary: I'm going to bathe my goldfish. He's dirty.":  "Boy: Wait."
+      "Boy: Hi, Mary. What are you doing?":  "Mary: I'm feeding my goldfish. Then, I'm going to bathe him. He's dirty."
       "Boy: Don't do that! Don't bathe your goldfish.": "Mary: Why not? What's the problem?"
-      "Mary: Why not? What's the problem?": "Boy: You can't bathe goldfish. The soap is bad for them."
-      "Boy: You can't bathe goldfish because the soap is bad for them.": "Mary: Oh! Thanks for telling me. I don't want to hurt my fish."
+      "Boy: Soap is bad for goldfish": "Mary: Oh! Thanks for telling me. I don't want to hurt my fish."
     4:
       "Do you have a dog or" : "a cat?"
       "What about a" : "parrot?"
