@@ -42,14 +42,36 @@ Proofreading Approach
   Then I use my resources as an experienced editor to solve the 
   particular problem at hand.
 
-  But I am also very critical of my own edits. A fresh 
-  re-read will often evoke the response, 'What was I 
-  thinking?'
+  But I am also very critical of myself. Re-reading my changes
+  later, I will often think, 'What was I thinking? It
+  seemed like an improvement at the time,' and I will have to
+  try again.
 
-  I often use 
+  Getting the use of technical *terminology*, or the *terms of 
+  art* of the subject area of the paper, correct is something 
+  that non-expert native speakers of English cannot be 
+  relied on to do.
+
+  I once changed the phrase, 'a [feature] trending 
+  south-southwest' in a geology paper, because I thought 
+  'trend' is a noun, not a verb. The author had to correct me.
+
+  In a materials science paper, the process by which a chemical was 
+  prepared was detailed. Two chemical compounds were 
+  combined 'under rapid stirring'? 'Under rapid stirring'? 
+  I changed it to 'while being stirred rapidly.' I then 
+  looked it up on the Internet,
+  [under stirring][4]
+  [4]: https://www.google.com/search?hl=en&q=%27under%20stirring%27
+
+  Google has made academic editing a lot easier!
+
+  I sometimes use 
   [https://books.google.com/ngrams](https://books.google.com/ngrams)
   to see which of two wordings is more used. For example, 
-  'higher fitness' or 'greater fitness'. Which do you think 
+  comparing the degree to which two alternative approaches
+  satisfy some criteria, would you use the expressions, 
+  'higher fitness' or 'greater fitness'? Which do you think 
   is more used?
 
   While I am critical, it is important not to overcorrect. In style
