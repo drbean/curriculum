@@ -11,7 +11,7 @@ Chinese communism.
 Wait. I think it was a different magazine
 [China Pictorial][2]
 [2]: https://archive.org/details/ChinaPictorial/CP1969-01/page/n37/mode/2up
-Anyway, it was like a picture magazine,
+Anyway, it was like a glossy picture magazine,
 but printed, not on glossy paper, but
 on matt paper.
 
