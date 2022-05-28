@@ -8,6 +8,13 @@ in the 1950/60's coming in the mail and
 having vaguely sympathetic views of 
 Chinese communism.
 
+Wait. I think it was a different magazine
+[China Pictorial][2]
+[2]: https://archive.org/details/ChinaPictorial/CP1969-01/page/n37/mode/2up
+Anyway, it was like a picture magazine,
+but printed, not on glossy paper, but
+on matt paper.
+
 This experience undoubtedly is connected 
 to my interest in Chinese characters, 
 but, after visiting China in 1992 in an 
