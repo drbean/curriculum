@@ -1,7 +1,9 @@
 % China--the new Asian threat?
 
 My mother did a semester of Chinese and 
-I can remember China Reconstructs
+I can remember
+[China Reconstructs][1]
+[1]: https://www.marxists.org/subject/china/china-reconstructs/index.htm
 in the 1950/60's coming in the mail and 
 having vaguely sympathetic views of 
 Chinese communism.
