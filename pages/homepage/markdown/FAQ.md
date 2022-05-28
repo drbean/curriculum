@@ -47,10 +47,10 @@ Proofreading Approach
   seemed like an improvement at the time,' and I will have to
   try again.
 
-  Getting the use of technical *terminology*, or the *terms of 
-  art* of the subject area of the paper, correct is something 
-  that non-expert native speakers of English cannot be 
-  relied on to do.
+  Editing sentences containing technical *terminology*, or 
+  the *terms of art* of the subject area of the paper, is 
+  something that non-expert native speakers of English 
+  cannot be relied on to do correctly.
 
   I once changed the phrase, 'a [feature] trending 
   south-southwest' in a geology paper, because I thought 
@@ -69,13 +69,15 @@ Proofreading Approach
   I sometimes use 
   [https://books.google.com/ngrams](https://books.google.com/ngrams)
   to see which of two wordings is more used. For example, 
-  comparing the degree to which two alternative approaches
-  satisfy some criteria, would you use the expressions, 
-  'higher fitness' or 'greater fitness'? Which do you think 
-  is more used?
+  talking about the degree to which two competing alternatives 
+  approach some ideal value, you can talk about their 
+  'fitness.' But would you use the expressions, 'higher 
+  fitness' or 'greater fitness'? Which do you think is more 
+  used? Check it on
+  [https://books.google.com/ngrams](https://books.google.com/ngrams)
 
-  While I am critical, it is important not to overcorrect. In style
-  cases for example. I think:
+  While I am critical, it is important not to correct what 
+  is not wrong. In style cases for example. I think:
 
           "Even though a native speaker might not have used
           this turn of phrase here, it has an appeal about it,
