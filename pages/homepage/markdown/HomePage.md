@@ -35,6 +35,7 @@
 - [WobblyEnglish](WobblyEnglish.html) Language isn't logical
 - [KoreA](KoreA.html) 1986-1998 highpoints recollected
 - [ChinA](ChinA.html) 1992-2092 A replay of Japan 1868-1945?
+- [WittySayings](WittySayings.html) Levity is the soul of wit
 
 <!-- end of list -->
 
