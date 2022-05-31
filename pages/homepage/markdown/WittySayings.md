@@ -1,4 +1,8 @@
+% Wit twits
+% Dr Bean and others
 % From the signatures attached to my emails
+
+# Witty, perhaps, but not funny
 
 Witty, perhaps, but not funny,
 I think. I don't have the comic 
@@ -9,4 +13,3 @@ or the ability to amaze of
 [Sacha Baron Cohen][2]
 [2]: https://en.wikipedia.org/wiki/Sacha_Baron_Cohen
 The jaw drops, but no laughs come out.
-
