@@ -10,23 +10,23 @@ water:
       identifier: boiling water words in text
       pair:
         -
-          - gas
           - This ... is lighter than the water around it.
+          - gas
         -
-          - disappear
           - This gas rises to the top and ... into the air. [not 'escape']
+          - disappear
         -
-          - escape
           - All the bubbles try to ... at once.
+          - escape
         -
-          - boil
           - When it starts to ..., the liquid turns into a gas.
+          - boil
         -
-          - bubbles
           - Where do the ... come from in boiling water?
+          - bubbles
         -
-          - drop
           - After a while, every ... of the water is gone.
+          - drop
   bingo:
     -
       - Where do the bubbles come from when you boil water?       _當你煮水時，氣泡從哪裡來？_
