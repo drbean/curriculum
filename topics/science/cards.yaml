@@ -27,6 +27,27 @@ water:
         -
           - After a while, every ... of the water is gone.
           - drop
+    1:
+      identifier: book keyword match
+      pair:
+        -
+          - I finished reading that book ,,,
+          - yesterday
+        -
+          - Make sure you arrive ... for class tomorrow.
+          - early
+        -
+          - My mother works as a science ...
+          - teacher
+        -
+          - Can you ... where I will be going on holiday this summer?
+          - guess
+        -
+          - The young man and his wife are going to have their ... baby
+          - first
+        -
+          - Would you like to watch a ... at the theater next week?
+          - play
   bingo:
     -
       - Where do the bubbles come from when you boil water?       _當你煮水時，氣泡從哪裡來？_
