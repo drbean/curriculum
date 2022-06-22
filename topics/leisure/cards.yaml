@@ -174,10 +174,48 @@ hangout:
       - Do you want to play paintball in the park? _No, let's not do that. Let's stay at home today._
       - Are you doing anything on Sunday? _Yes, I'm helping my mom bake a fruitcake._
 hobby:
+  match:
+    0:
+      identifier: Building .. Unit 1
+      pair:
+        -
+          - "A: Do you have a hobby?" 
+          - "B: Yes, I do. I like to ride my bicycle."
+        -
+          - "A: What are you doing?"
+          - "B: I'm drawing a picture."
+        -
+          - "A: Am I doing this right?"
+          - "B: Yes, you are. Good job."
+        -
+          - "A: Can you show me how to do that dance?"
+          - "B: Sure. Put your right foot in. Put your right foot out."
+        -
+          - "A: I don't have any hobbies."
+          - "B: I don't have any, either."
+        -
+          - "A: I like to draw."
+          - "B: @hat kind of things do you draw?"
+        -
+          - "A: I like to ride bicycles."
+          - "B: Can you fix your own bicycle?"
+        -
+          - "A: I like to read."
+          - "B: have you read Harry Potter?"
+  flash:
+    1:
+      a boy listening to music     : 一個男孩聽音樂
+      a girl taking a picture      : 一個女孩拍照的
+      a girl drawing on a bench    : 一個女孩在長凳
+      a girl reading a magazine    : 一個讀雜誌的女
+      a girl dancing               : 一個女孩跳舞
+      a boy catching butterflies   : 一個男孩捉蝴蝶
+      a girl riding a bicycle      : 騎自行車的女孩
+      someone not doing anything   : 有人甚麼都不做
   bingo:
     -
       - This is a picture of friends doing their hobbies.    _這是朋友做自己愛好的照片。_
-      - There’s Katie on the bench, drawing a picture.       _板凳上有凱蒂，畫了一張照片。_
+      - There’s Katie ion the bench, drawing a picture.       _板凳上有凱蒂，畫了一張照片。_
       - Sam is catching butterflies by the fence.            _山姆正在籬笆上捉蝴蝶。_
       - Dan is listening to music on the slide.              _丹正在幻燈片上聽音樂。_
       - Sarah is dancing under the jungle gym.               _莎拉在叢林健身房下跳舞。_
