@@ -201,7 +201,7 @@ hobby:
           - "B: Can you fix your own bicycle?"
         -
           - "A: I like to read."
-          - "B: have you read Harry Potter?"
+          - "B: Have you read Harry Potter?"
   flash:
     1:
       a boy listening to music     : 一個男孩聽音樂
@@ -212,10 +212,19 @@ hobby:
       a boy catching butterflies   : 一個男孩捉蝴蝶
       a girl riding a bicycle      : 騎自行車的女孩
       someone not doing anything   : 有人甚麼都不做
+    2:
+      a boy listening to music     : listening.jpg
+      a girl taking a picture      : photographing.jpg
+      a girl drawing on a bench    : drawing.jpg
+      a girl reading a magazine    : reading.jpg
+      a girl dancing               : dancing.jpg
+      a boy catching butterflies   : catching.jpg
+      a tree to sit under          : tree.jpg
+      a jungle gym to climb on     : junglegym.jpg
   bingo:
     -
       - This is a picture of friends doing their hobbies.    _這是朋友做自己愛好的照片。_
-      - There’s Katie ion the bench, drawing a picture.       _板凳上有凱蒂，畫了一張照片。_
+      - There's Katie on the bench, drawing a picture.       _板凳上有凱蒂，畫了一張照片。_
       - Sam is catching butterflies by the fence.            _山姆正在籬笆上捉蝴蝶。_
       - Dan is listening to music on the slide.              _丹正在幻燈片上聽音樂。_
       - Sarah is dancing under the jungle gym.               _莎拉在叢林健身房下跳舞。_
