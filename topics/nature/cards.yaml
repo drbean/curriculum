@@ -107,6 +107,7 @@ weather:
     - rainbow lightning storm clouds windy rainy hot cold snow typhoon ice sky forecast weather outside TV lovely warm sunny blue 
     - windy rainy hot cold snow day blue sky rainbow Greg window weather bad black clouds lightning pretty stops very likes
     - rubber boots wearing outside sun need wear forecast windy look_like you'll_see storm rain boy how weather bad raindrop big don't
+    - sun rainbows storm end find raindrops sky light made come out goes across no-one knows after from makes where does look for
     - sun rainbows storm end find raindrops sky light made come_out goes_across no_one_knows just look_for lightning windy forecast scary beautiful
 season:
   bingo:
@@ -141,8 +142,8 @@ season:
       - It is very cool outside today.     _今天很涼的戶外_
       - Ice melts in the sun.              _冰在陽光下融化。_
       - My favorite season is summer.      _我最喜歡的季節是夏天。_
-  0:
-    flash:
+  flash:
+    0:
       cherries : cherries.png
       igloo    : igloo.jpg
       rake     : rake.jpg
@@ -151,8 +152,7 @@ season:
       colors   : colors.jpg
       season   : season.jpg
       cool     : cool.jpg
-  1:
-    flash:
+    1:
       rake : rakestandard.jpg
       'rake ' : rakeother.jpg
       comb : comb.jpg
@@ -161,8 +161,7 @@ season:
       'brush  ' : chinesebrush.jpg
       broom : broom.jpg
       'broom '  : broomother.jpg
-  2:
-    flash:
+    2:
       cherries : 櫻桃
       igloo    : 雪屋
       rake     : 耙
@@ -171,8 +170,7 @@ season:
       colors   : 顏色
       season   : 季節
       cool     : 涼
-  3:
-    flash:
+    3:
       tree          : 樹
       flower        : 花
       sees          : 看到
