@@ -128,8 +128,8 @@ mall:
       - There are over 520 stores in the mall.                                  _商場有520多家商店。_
       - The Mall of America has an aquarium, roller coasters and even a school. _美國購物中心有一個水族館，過山車甚至一所學校。_
       - The Mall of America is a really fun place to visit.                     _美國購物中心是一個非常有趣的地方。_
-  0:
-    flash:
+  flash:
+    0:
       pair     : 對
       perfect  : 完善
       cute     : 可愛
@@ -138,8 +138,7 @@ mall:
       safe     : 安全
       size     : 尺寸
       large    : 大
-  1:
-    flash:
+    1:
       guess      : 猜測
       fashion    : 時尚
       raincoat   : 雨衣
@@ -148,8 +147,7 @@ mall:
       fox        : 狐狸
       difficult  : 難
       pick       : 挑
-  3:
-    flash:
+    3:
       gift           : 禮品
       mall           : 購物中心
       bakery         : 麵包店
@@ -158,6 +156,11 @@ mall:
       aquarium       : 水族館
       baseball bat   : 棒球棒
       send           : 發送
+    4:
+      "G: What can we do at the mall?" : "B: We can ride the roller coaster and go to the aquarium."
+      "G: What should we do first?" : "B: Let's ride the roller coaster. It's so much fun!"
+      "G: The roller coaster is fun, but I want to go to the aquarium." : "B: I have an idea. Let's ride the roller coaster first. Then we can go to the aquarium."
+      "G: That's a great idea. Let's go." : "B: OK. Let's go."
 
 store:
   bingo:
