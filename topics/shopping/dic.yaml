@@ -28,6 +28,7 @@
     G: The roller coaster is fun, but I want to go to the aquarium.
     B: I have an idea. Let's ride the roller coaster first. Then we can go to the aquarium.
     G: That's a great idea. Let's go.
+  - should.verb do.verb ride.verb coaster.noun so.adverb fun.adjective aquarium.noun idea.noun ride.verb first.adverb can.verb go.verb great.adjective go.verb End
   - What|we|first|Let's|the roller|It's|much|The roller coaster is fun, but I want to go to the|I have an|Let's|the roller coaster|Then|we|to the aquarium|That's a|idea|Let's|End
 -
   - mall-7
