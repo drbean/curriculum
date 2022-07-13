@@ -8,6 +8,21 @@
   - unclozeables
   - percent
 -
+  - "hobby-0"
+  - "hobby 0"
+  - "topics"
+  - "all"
+  - |+
+    G: What are you doing, Gavin?
+    B: I'm catching bugs. It's my hobby.
+    G: What's your favorite thing to catch.
+    B: I like to catch butterflies.
+    B: Do you have any hobbies, Julia?
+    G: Of course. I like to go surfing and draw pictures.
+    B: That's nice. What's your favorite thing to draw.
+    G: I like to draw horses. I'm very good at it.
+  - What.preposition are.verb you.pronoun doing.verb catching.verb bugs.noun my.pronoun hobby.noun your.pronoun favorite.adjective thing.noun catch.verb like.verb butterflies.noun have.verb any.adjective hobbies.noun course.adverb go.verb surfing.noun draw.verb pictures.noun nice.adjective your.pronoun thing.noun draw.verb like.verb draw.verb horses.noun very.adverb good.adjective at.preposition it.pronoun End
+-
   - "amusementpark-0"
   - "amusementpark 0"
   - "topics"

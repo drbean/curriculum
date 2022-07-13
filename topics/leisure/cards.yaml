@@ -202,6 +202,21 @@ hobby:
         -
           - "A: I like to read."
           - "B: Have you read Harry Potter?"
+    1:
+      identifier: Listening 2 .. Unit 1
+      pair:
+        -
+          - "G: What are you doing, Gavin?"
+          - "B: I'm catching bugs. It's my hobby."
+        -
+          - "G: What's your favorite thing to catch."
+          - "B: I like to catch butterflies."
+        -
+          - "B: Do you have any hobbies, Julia?"
+          - "G: Of course. I like to go surfing and draw pictures."
+        -
+          - "B: That's nice. What's your favorite thing to draw."
+          - "G: I like to draw horses. I'm very good at it."
   flash:
     1:
       a boy listening to music     : 一個男孩聽音樂
