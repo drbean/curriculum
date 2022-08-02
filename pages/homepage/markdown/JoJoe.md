@@ -19,6 +19,8 @@ girl's name as a boy in Louisa May Alcott's
 _Little Women_, and I thought it odd for 
 a girl to have that name.
 
+I thought Jody was a girl's name also, but it is actually a name both boys and girls have, like Chris.
+
 ### 'girl' and 'gueule'
 
 After writing about Jo vs Joe, I remembered my French teacher asking us to think about the word, 'girl' and it was universally acknowledged it had a pretty sound.
