@@ -142,8 +142,34 @@ family:
           - She looks happy.
         -
           - Who do you take after?
-          - I look like my mom, but I act/behave like my dad?
-        
+          - I look like my mom, but I act/behave like my dad.
+    1:
+      identifier: family picture relationships
+      pair:
+        -
+          - my family--the first person on the left
+          - my mother
+        -
+          - my family--the second person on the left
+          - me
+        -
+          - my family--the third person from the left
+          - my sister
+        -
+          - my family--the fourth person from the left
+          - my father
+        -
+          - my family--the first person on the right
+          - my dad
+        -
+          - my cousin's family--the person on the left
+          - my uncle
+        -
+          - my cousin's family--the person in the middle
+          - my cousin
+        -
+          - my cousin's family--the person on the right
+          - my aunt
   bingo:
     -
       - "(B) What does your uncle look like? _(G) He is tall and handsome._"
@@ -152,7 +178,7 @@ family:
       - "(B) Who is the boy next to your grandmother? _(G) That is my cousin._"
       - "(B) Does your sister look like you? _(G) No, she has brown hair and blue eyes._"
     -
-      - "G:  Thanks for coming to the party, Carlos.  B:  You’re welcome, Maria." 
+      - "G:  Thanks for coming to the party, Carlos.  B:  You're welcome, Maria." 
       - "B:  Who is the girl next to your grandmother?  G:  That is my cousin, Gabby. It is her birthday."
       - "B:  Who is the boy near Gabby? He looks cute.  G:  That is my brother, Eddie. He is 4 years old."
 relationship:
