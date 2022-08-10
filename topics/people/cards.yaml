@@ -127,6 +127,23 @@ baby:
       - "G: I had to help change diapers and feed her. _B: I hope I never have to change a diaper!_"
       - "G: What do you like most about your new brother? _B: He's really cute, and everyone says he looks like me, but with darker hair._"
 family:
+  match:
+    0:
+      identifier: family conversation pairing
+      pair:
+        -
+          - This is my grandfather.
+          - He looks kind.
+        -
+          - What does your brother look like?
+          - My brother is very handsome.
+        -
+          - That is my mother.
+          - She looks happy.
+        -
+          - Who do you take after?
+          - I look like my mom, but I act/behave like my dad?
+        
   bingo:
     -
       - "(B) What does your uncle look like? _(G) He is tall and handsome._"
