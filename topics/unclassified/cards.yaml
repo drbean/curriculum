@@ -28,10 +28,10 @@ thing:
       bicycle: 自行車 
       car    : 汽車   
       truck  : 卡車   
-      SHEEP  : 羊 
-      BICYCLE: 自行車 
-      CAR    : 汽車   
-      TRUCK  : 卡車   
+      cow         : 奶牛
+      scissors    : 剪刀
+      pineapple   : 菠蘿
+      motorcycle  : 摩托車
 problem:
   0:
     flash:
