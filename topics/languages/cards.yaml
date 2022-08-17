@@ -4,8 +4,8 @@ spelling:
   bingo:
     - Benny_Bounce spell Julia alphabet song dialogue order telephone_number list bicycle truck apple ruler car crayon pig pencil sheep banana hen orange toy_chest hoop
 alphabet:
-  0:
-    flash:
+  flash:
+    0:
       abcde: fghij
       defgh: ijklm
       ghijk: lmnop
@@ -14,3 +14,5 @@ alphabet:
       pqrst: uvwxy
       stuvw: xyz
       qrstu: vwxyz
+  bingo:
+    - a b c d e f g h i j k l m n o p q r s t u v w x y z
