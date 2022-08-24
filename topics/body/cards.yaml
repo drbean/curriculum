@@ -1,8 +1,8 @@
 ---
 genre: topics
 health:
-  0:
-    flash:
+  flash:
+    0:
       muscle   : 肌肉
       skin     : 皮膚
       kick     : 踢
@@ -12,8 +12,8 @@ health:
       cough    : 咳嗽
       patient  : 患者
 hair:
-  0:
-    flash:
+  flash:
+    0:
       curly    :  捲曲
       straight :  直行
       wavy     :  波浪
@@ -235,8 +235,8 @@ blood:
       - "G: Why can't two different blood types mix? _M: It is very dangerous to mix two different blood types. Your blood cells may begin to stick together._"
       - "M: If you are given the wrong type of blood in a hospital, you could die. _G: So, that's why blood types must be matched in the hospital._"
 feature:
-  0:
-    flash:
+  flash:
+    0:
       clean : clean.jpg
       dirty : dirty.jpg
       happy : happy.jpg
@@ -245,8 +245,7 @@ feature:
       thin  : thin.jpg
       big   : big.jpg
       small : small.jpg
-  1:
-    flash:
+    1:
       clean : 清潔 
       dirty : 臟
       happy : 快樂
@@ -255,8 +254,7 @@ feature:
       thin  : 瘦
       big   : 大
       small : 小
-  2:
-    flash:
+    2:
       tall     : tall.jpg
       short    : short.jpg
       beautiful: beautiful.jpg
@@ -265,8 +263,7 @@ feature:
       old      : old.jpg
       strong   : strong.jpg
       weak     : weak.jpg
-  3:
-    flash:
+    3:
       tall     : 高
       short    : 短
       beautiful: 美麗
@@ -309,8 +306,8 @@ sick:
       - "A: You should stay in bed today. _B: OK. I guess you’re right._"
       - "A: Do you need to go to the hospital? _B: My mom is a nurse. She’ll take care of me._"
 part:
-  0:
-    flash:
+  flash:
+    0:
       one leg    : leg.jpg
       one arm    : arm.jpg
       one hand   : hand.jpg
@@ -319,8 +316,16 @@ part:
       two arms   : arms.jpg
       two hands  : hands.jpg
       two feet   : feet.jpg
-  00:
-    flash:
+    1:
+      one leg    : 一條腿
+      one arm    : 一隻手臂
+      one hand   : 一隻手
+      one foot   : 一隻腳
+      two legs   : 兩條腿
+      two arms   : 兩條手臂
+      two hands  : 兩隻手
+      two feet   : 兩隻腳
+    00:
       leg    : 腿     
       arm    : 臂     
       hand   : 手     
@@ -331,8 +336,8 @@ part:
       feet   : 一些腳     
   bingo:
 move:
-  0:
-    flash:
+  flash:
+    0:
       someone touching something  : touch.jpg
       someone walking   : walk.png
       someone jumping   : jump.jpg
@@ -341,8 +346,7 @@ move:
       a window : window.jpg
       a door   : door.jpg
       a wall   : wall.jpg
-  1:
-    flash:
+    1:
       touch  : 觸摸
       walk   : 步行
       jump   : 跳
@@ -351,8 +355,7 @@ move:
       window : 窗口
       door   : 門
       wall   : 壁
-  2:
-    flash:
+    2:
       stand up : stand-up.jpg
       sit down: sit_down.png
       read: read.jpg
@@ -361,8 +364,7 @@ move:
       look: look.jpg
       put down: put_down.jpg
       pick up: pick-up.jpg
-  3:
-    flash:
+    3:
       1. window: open_window.jpg
       1. vase: vase.png
       1. dog: dog.jpg
