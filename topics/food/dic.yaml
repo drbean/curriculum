@@ -100,12 +100,13 @@
     Jack loves to cook. For breakfast, he makes five pieces of toast. He eats them all.
     For lunch, he eats three cupcakes. For dinner, he makes three hotdogs. He eats them all.
     For dessert, he bakes ten cookies, but he can't eat any more food. He feels sick. He ate too much. Poor Jack!
+  - loves.verb cook.verb breakfast.noun five.adjective toast.noun eats.verb all.adverb lunch.noun eats.verb cupcakes.noun dinner.noun hotdogs.noun eats.verb all.adverb dessert.noun bakes.verb cookies.noun food.noun sick.adjective too.adverb End
   - Jack|to|For|he makes|pieces of|He|them all|For|he eats three|For dinner, he makes three|He eats them|For|he|ten|but he can't eat any more|He feels|He ate|much|Poor Jack|End
   -
     noun: breakfast toast lunch cupcakes hotdogs dessert cookies 
     verb: loves cook eats bakes 
-    ad: five sick 
-    other: all too 
+    adjective: five sick 
+    adverb: all too 
     
 -
   - "cooking-2"
@@ -119,7 +120,7 @@
     B: I'm making soup and salad.
     A: That sounds great. Do you need some help?
     B: No thanks, but I need two plates and two forks.
-  - are.verb wearing.verb apron.noun lunch.noun ready.ad making.verb soup.noun salad.noun great.ad need.verb help.noun thanks.other two.ad plates.noun forks.noun End
+  - are.verb wearing.verb apron.noun lunch.noun ready.adjective making.verb soup.noun salad.noun great.adjective need.verb help.noun thanks.verb two.adjective plates.noun forks.noun End
 # - Why|you|an|I'm making|for us. It's almost|What are you|I'm making|and|That sounds|Do you|some|No|but I need|End
 -
   - "cooking-3"
@@ -130,6 +131,7 @@
     Do you like hotdogs? Some people really like hotdogs. Every year, there is a hotdog eating game.
     In 2008, two men ate fifty nine hotdogs. Did they get sick? No, one of them ate five more.
     The same man ate sixty six hotdogs in 2007. How many hotdogs can you eat?
+  - hotdogs.noun really.adverb year.noun game.noun fifty.adjective nine.adjective sick.adjective five.adjective same.adjective 2007.noun many.adjective can.verb eat.verb End
   - Do you like|Some people|like hotdogs|Every|there is a hotdog eating|In 2008, two men ate|hotdogs|Did they get|No, one of them ate|more|The|man ate sixty six hotdogs in|How|hotdogs|you|End
   -
     noun: hodogs year game 2007 
@@ -147,6 +149,7 @@
     Fred is very busy. He cooks all day. He cuts vegetables with a knife. Then he puts them in a pot.
     He puts a little bit of salt on them. He doesn't want them to be too salty.
     He also watches them closely. He doesn't want to burn them. Fred is a good chef.
+  - chef.noun works.verb restaurant.noun crowded.adjective busy.adjective all.determiner day.noun vegetables.noun knife.noun pot.noun little.adjective salt.noun want.verb too.adverb salty.adjective watches.verb closely.adverb burn.verb good.adjective End
   - Fred is a|He|at a|It is very|Fred is very|He cooks|He cuts|with a|Then he puts them in a|He puts a|bit of|on them|He doesn't|them to be|He also|them|He doesn't want to|them. Fred is a|chef|End
 -
   - "restaurant-2"

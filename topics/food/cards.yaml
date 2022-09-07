@@ -105,15 +105,15 @@ cooking:
       glass of iced tea: in the middle on the left.
       cupcake: bottom left hand corner.
     4:
-      sick: top right hand corner.
-      cup of coffee : in the middle on the right.
-      cake: bottom right hand corner.
-      happy: in the middle at the top.
-      plate: right in the middle.
-      hotdog: in the middle at the bottom.
-      angry: top left hand corner.
-      glass of iced tea: in the middle on the left.
-      cupcake: bottom left hand corner.
+      a sick boy: top right hand corner.
+      a cup of coffee : in the middle on the right.
+      a cake: bottom right hand corner.
+      a happy boy: in the middle at the top.
+      a plate: right in the middle.
+      a hotdog: in the middle at the bottom.
+      an angry boy: top left hand corner.
+      2 glasses of iced tea: in the middle on the left.
+      a cupcake: bottom left hand corner.
   bingo:
     - toast apron cupcake cook plate fork sick hotdog 
     - Chris uses fork eat spaghetti all food your plate please Jennifer having hotdog soda lunch Jim very sick can't go school today
@@ -124,6 +124,8 @@ cooking:
       - For dessert, Jack bakes ten cookies, but he can't eat any more food. _對於甜點，傑克烘烤十個餅乾，但他不能再吃任何食物。_
       - Jack feels sick. He ate too much. Poor Jack!                         _傑克感到噁心 他吃得太多了 可憐的傑克_
     - are wearing apron lunch ready making soup salad great need help thanks two plates forks
+    -  Why wearing an apron I'm lunch for us It's almost ready What are you making soup salad That sounds great Do some help No thanks but I need plates and two forks
+
     -
       - "G: Why are you wearing an apron? _B: I'm making lunch for us._"
       - "G: What are you making? _B: I'm making soup and salad._"
@@ -193,8 +195,8 @@ cooking:
       - bicycle            _自行車_
 
 restaurant:
-  0:
-    flash:
+  flash:
+    0:
       knife      : 刀
       chef       : 廚師
       restaurant : 餐廳
@@ -203,8 +205,24 @@ restaurant:
       burn       : 燒傷
       crowded    : 擠
       free       : 免費
+    1:
+      knife      : knife.jpg
+      chef       : chef.jpg
+      restaurant : restaurant.jpg
+      napkin     : napkin.jpg
+      tasty      : tasty.jpg
+      burn       : burn.jpg
+      crowded    : crowded.jpg
+      free       : free.jpg
+    2:
+      1:  Did you burn your toast? It smells like smoke.
+      2:  This park is very crowded. There are too many people here.
+      3:  These potato chips are very tasty.
+      4:  We got dessert for free with our dinner.
   bingo:
     - knife chef restaurant napkin tasty burn crowded free
+    - are burn chips crowded dessert Did dinner for free got here is It like many our park people potato smells smoke tasty There These This toast too very We with you your
+
     -
       - "M: Are you ready to order, Holly? _W:  No, not yet._"
       - "W: What are you going to have, Doug? _M: I’m going to order beef with vegetables and rice, and a soda._"
