@@ -219,6 +219,22 @@ restaurant:
       2:  This park is very crowded. There are too many people here.
       3:  These potato chips are very tasty.
       4:  We got dessert for free with our dinner.
+  match:
+    5:
+      identifier: bad restaurant conversation
+      pair:
+        -
+          - "A: Did you go to that new restaurant?"
+          - "B: Yes, I did. It wasn't good though."
+        -
+          - "B: The restaurant was very crowded and my napkin was dirty."
+          - "A: That's too bad."
+        -
+          - "A: What did you eat?"
+          - "B: Chicken, but the chef burned it. It wasn't tasty."
+        -
+          - "A: Oh, no! Did you get a free dessert?"
+          - "B: Yes, I got some ice cream."
   bingo:
     - knife chef restaurant napkin tasty burn crowded free
     - are burn chips crowded dessert Did dinner for free got here is It like many our park people potato smells smoke tasty There These This toast too very We with you your

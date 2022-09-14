@@ -159,10 +159,11 @@
   - |+
     A: Did you go to that new restaurant?
     B: Yes, I did. It wasn't good though. It was very crowded and my napkin was dirty.
-    A: That's too bad. So, what did you eat?
-    B: I ate chicken, but the chef burned it. It wasn't very tasty.
+    A: That's too bad. What did you eat?
+    B: chicken, but the chef burned it. It wasn't tasty.
     A: Oh, no! Did you get a free dessert?
     B: Yes, I got some ice cream.
+  - new.adjective restaurant.noun did.verb crowded.adjective napkin.noun dirty.adjective too.adverb bad.adjective did.verb eat.verb chicken.noun burned.verb tasty.adjective get.verb dessert.noun ice.noun cream.noun End
   - Did you go to that|Yes|It wasn't good though. It was very|and my|was|That's|So, what|you|I ate|but the chef|it|It wasn't very|Oh, no! Did you|a free|Yes I got some|End
 
 -
