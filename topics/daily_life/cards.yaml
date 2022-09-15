@@ -42,10 +42,10 @@ calendar:
       Sunday    : 星期七, the 7th day
           
   bingo:
-    - January Fe: 星期: 星期: 星期bruary March April May June July August September October November December Monday Tuesday Wednesday Thursday Friday Saturday Sunday birthday
+    - January February March April May June July August September October November December Monday Tuesday Wednesday Thursday Friday Saturday Sunday birthday
 clothes:
-  0:
-    flash:
+  flash:
+    0:
       shoes    : 鞋
       keys     : 按鍵
       backpack : 背包
@@ -54,8 +54,7 @@ clothes:
       jeans    : 牛仔褲
       socks    : 襪子
       blouse   : 襯衫
-  1:
-    flash:
+    1:
       a pair of shoes    : shoes.jpg
       some keys     : keys.jpg
       a backpack : backpack.jpg
@@ -64,7 +63,6 @@ clothes:
       a pair of jeans    : jeans.jpg
       a pair of socks    : socks.jpg
       a blouse   : blouse.jpg
-  flash:
     4:
       a dress: dress.jpg
       a hat: hat.jpg
@@ -75,8 +73,7 @@ clothes:
       a skirt: skirt.jpg
       two suits: suit.jpg
 
-  3:
-    flash:
+    3:
       rent    : 出租   
       crowded : 擠     
       stretch : 伸展   
@@ -85,8 +82,26 @@ clothes:
       fur     : 毛皮   
       polite  : 有禮貌 
       wallet  : 錢包   
+    5:
+      1: My feet are cold. I need to wear socks.
+      2: I like to write with a pen.
+      3: Sam bought a new pair of jeans.
+      4: Your white blouse is very pretty.
   match:
     0:
+      identifier: backpack conversation
+      pair:
+        -
+          - "G: Hi, Jimmy. I like your backpack."
+          - "B: Thanks. It's new. My mom bought it for me."
+        -
+          - "G: What is this small pocket for?"
+          - "B: It's for pens and pencils."
+        -
+          - "G: I like the color of your backpack, too."
+          - "B: Thanks, red is my favorite color."
+
+    00:
       identifier: Listening Time, Unit 3, p 20--9 pics
       pair:
         -
@@ -118,6 +133,7 @@ clothes:
           - a kitchen or an office?
   bingo:
     - shoes keys backpack pencil pen jeans socks blouse 
+    - my feet are cold I need wear socks like to write with pen Sam bought a new pair of jeans your white blouse is very pretty
     - feet cold need wear socks like write pen Sam bought new pair jeans your white blouse very pretty
     - pink blouse wearing jeans socks shoes keys looks drawer not door floor can't find under bed
     - pink blouse wear jeans white socks keys drawer door floor bed looking_for backpack pocket pens_and_pencils color blue brown soft broken erase_mistakes dog something_in_its_mouth digging_in_the_backyard shopping school kitchen office book sister's_room

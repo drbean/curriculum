@@ -112,6 +112,7 @@
     But, she can't find her keys! She looks in the drawer. They're not there.
     She looks by the door. She looks on the floor. She can't find them!
     She looks under her bed. There they are!
+  - pink.adjective blouse.noun wearing.verb jeans.noun socks.noun shoes.noun can't.verb keys.noun looks.verb drawer.noun not.adverb looks.verb door.noun floor.noun find.verb under.preposition bed.noun End
   - Today, Molly is wearing her|She is|her new|and white|She is wearing her favorite|too|But, she can't|find her|She|in the|They're|there|She|by the|She looks on the|She can't|them|She looks|her|There they are|End
   -
     noun: blouse jeans socks shoes keys drawer door floor bed 
@@ -131,7 +132,7 @@
     B: It's for pens and pencils.
     G: I like the color of your backpack, too.
     B: Thanks, red is my favorite color.
-  - backpack.noun thanks.other mom.noun nice.ad pocket.noun pens.noun pencils.noun color.noun red.ad End
+  - backpack.noun thanks.other mom.noun nice.adjective pocket.noun pens.noun pencils.noun color.noun red.adjective End
     # - Hi, Jimmy. I like your|It's new. My|bought it for me|It's really|What is this small|for|It's for|and|I like the|of your backpack, too|Thanks|is my favorite|End
 -
   - "clothes-3"
