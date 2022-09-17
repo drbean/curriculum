@@ -103,6 +103,18 @@ you are ambitious.
 * But it's not something you can decide to
 be.
 
+# Things you can and can't be.
+
+Be quiet!
+Be polite.
+Be careful.
+Be ..
+
+Be gentlemen!
+Be afraid, be very afraid
+Don't worry, be happy.
+Be tall.
+
 # language
 
 ## hesitation markers, speech fillers
