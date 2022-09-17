@@ -1,7 +1,6 @@
-% How to learn English in 3 easy steps
-	What 3 sayings tell you about the process
+% What we learn about learning English from 3 sayings
 % Dr Bean (高來圭)
-% Sat, Sep 17, 2022 10:38:37 AM http://github.com/drbean/curriculum/master/speaking
+% Sat, Sep 17, 2022 10:38:37 AM http://github.com/drbean/curriculum/master/lecture
 
 
 ---
@@ -65,24 +64,44 @@ mainfont: latinmodern-math.otf
 
 ![William Smith Clark (1826-1886)](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.k6rTO2_oL7nOsSyygkzCXAAAAA%26pid%3DApi&f=1)
 
-# Kuroda Kiyotaka
+# Kuroda Kiyotaka (黒田清隆, 1840-1900)
 
-![黒田清隆, 1840-1900](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.hEr8wFae__2K82lL4rP-YwHaE8%26pid%3DApi&f=1)
+![Before](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fjref.com%2Fattachments%2Fkuroda-kiyotaka02-jpg.20767%2F&f=1&nofb=1) ![After](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.hEr8wFae__2K82lL4rP-YwHaE8%26pid%3DApi&f=1)
+
 
 # Amherst College
 
-![Amherst](/home/owuser/curriculum/lecture/media/amherst.png)
+![Amherst](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.5TuaNh3aHZ71fGD55nktAwHaEs%26pid%3DApi&f=1)
 ![Amherst](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse3.mm.bing.net%2Fth%3Fid%3DOIP.n6PczlR0q28jYlA2Ia7BNgAAAA%26pid%3DApi&f=1)
 
 # Japan map
 
-[Meiji expansion](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi1.wp.com%2Fbravesapworld.weebly.com%2Fuploads%2F4%2F2%2F3%2F6%2F42363865%2F5873655_orig.jpg&f=1&nofb=1)
+![Meiji expansion](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi1.wp.com%2Fbravesapworld.weebly.com%2Fuploads%2F4%2F2%2F3%2F6%2F42363865%2F5873655_orig.jpg&f=1&nofb=1)
 
 
 # Clark statue
 
 ![Boys, Be Ambitious](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse4.mm.bing.net%2Fth%3Fid%3DOIP.8Qmw_1_HAlbcq1fFmxH17wHaFj%26pid%3DApi&f=1)
 
+# Being ambitious
+
+|	I want to do something big!
+|	I want to do something great!
+|	I want to do something wonderful!
+|	I want to be famous.
+
+# You! Be ambitious!
+
+* Doesn't make sense.
+
+* You're either ambitious or not ambitious.
+
+* Perhaps your parents expected great things
+of you, and as a result of that influence
+you are ambitious.
+
+* But it's not something you can decide to
+be.
 
 # language
 
