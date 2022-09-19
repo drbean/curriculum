@@ -239,6 +239,10 @@ equivalents for new words.
 
 Different strokes for different folks!
 
+# Turn on, Tune in, Drop out
+
+# Timothy Leary
+
 
 # language
 
