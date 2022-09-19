@@ -136,6 +136,8 @@ Toeic speaking actual test #2-2019
 - [um](https://en.wiktionary.org/wiki/um)
 - [er](https://en.wiktionary.org/wiki/er)
 - [let me see](https://en.wiktionary.org/wiki/let_me_see)
+- [那个](https://www.digmandarin.com/confusing-chinese-n-word.html)
+- [silence as a hesitation marker](http://www.teachlanguage.ecnu.edu.cn/EN/Y2011/V1/I4/44)
 
 ## Regional standards
 
