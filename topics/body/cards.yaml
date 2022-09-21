@@ -335,6 +335,7 @@ part:
       hands  : 一些手     
       feet   : 一些腳     
   bingo:
+    - one-arm two-arms one-hand two-hands one-leg two-legs one-foot two-feet one-head two-ears two-eyes one-nose one-mouth two-shoulders two-knees ten-toes
 move:
   flash:
     0:
