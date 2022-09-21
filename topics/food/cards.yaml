@@ -235,6 +235,22 @@ restaurant:
         -
           - "A: Oh, no! Did you get a free dessert?"
           - "B: Yes, I got some ice cream."
+    6:
+      identifier: Chinese restaurant cut-up
+      pair:
+        -
+          - A long time ago, people ..
+          - .. could order anything they wanted.
+        -
+          - Some people wanted hot food, but ..
+          - .. other people wanted cold food.
+        -
+          - People had to wait a long ..
+          - .. time for their food.
+        -
+          - The chefs are still very busy, but ..
+          - .. they only have to make chicken now.
+        
   bingo:
     - knife chef restaurant napkin tasty burn crowded free
     - are burn chips crowded dessert Did dinner for free got here is It like many our park people potato smells smoke tasty There These This toast too very We with you your
