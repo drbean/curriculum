@@ -10,6 +10,11 @@ mainfont: latinmodern-math.otf
 #- BoldItalicFont=Font-BoldItalic.otf
 ...
 
+# Ideas
+
+developed for 北岡真理 for a ヤマハ英語教室
+newsletter in 大阪, about 2010
+
 # Corona virus
 
 ## Good news, Bad news joke
@@ -63,6 +68,13 @@ mainfont: latinmodern-math.otf
 
 ![森有礼, 1847-1889](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.LjwUso6YYUEari9FMpM-HgHaJn%26pid%3DApi&f=1) ![森有礼](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.D5KMls1_UFhEFip3TZU_dwHaKY%26pid%3DApi&f=1)
 
+# Mori Arinori
+
+* 1865, studied in England
+* 1875, Marriage agreement
+* 1885, Minister of Education
+* 1889, Killed by nationalists
+
 # William S Clark
 
 ![William Smith Clark (1826-1886)](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.k6rTO2_oL7nOsSyygkzCXAAAAA%26pid%3DApi&f=1)
@@ -79,7 +91,12 @@ mainfont: latinmodern-math.otf
 
 ![Before](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fjref.com%2Fattachments%2Fkuroda-kiyotaka02-jpg.20767%2F&f=1&nofb=1) ![After](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.jkQeN45RQzq4cQSppzj5owAAAA%26pid%3DApi&f=1)
 
-Kuroda Kiyotaka 
+# Kuroda Kiyotaka 
+
+1869, Fought in Meiji wars
+1870-1872, Oversaw Hokkaido development
+1888-, Japanese prime minister
+1900, Died
 
 # Amherst College
 
@@ -221,6 +238,12 @@ You must be successful, whatever the cost?
 
 Even if it ruins your life?
 
+# Riddle
+
+* Question: Why will you never starve in the desert?
+* Answer: Because of all the sandwiches (=sand which is)
+  there.
+
 # Best interpretation of a riddle
 
 Achieving success takes a long time.
@@ -243,10 +266,10 @@ earlier success.
 Success encourages you and often
 leads to more success.
 
-    "The first task the students do
-    should be one they are likely to do 
-    well. This is because nothing 
-    succeeds like success."
+    "The first quiz the students do
+    should be one they can answer
+    well. Why? Because the teacher knows 'nothing 
+    succeeds like success'."
 
 # My interpretation for language learning
 
