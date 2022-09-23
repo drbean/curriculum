@@ -1,6 +1,6 @@
 % What 3 sayings teach us about learning English
 % Dr Bean (高來圭)
-% http://drbean.freeshell.org/saying.html
+% http://drbean.sdf.org/saying.html
 
 ---
 mainfont: latinmodern-math.otf
@@ -93,10 +93,10 @@ newsletter in 大阪, about 2010
 
 # Kuroda Kiyotaka 
 
-1869, Fought in Meiji wars
-1870-1872, Oversaw Hokkaido development
-1888-, Japanese prime minister
-1900, Died
+* 1869, Fought in Meiji wars
+* 1870-1872, Oversaw Hokkaido development
+* 1888-, Japanese prime minister
+* 1900, Died
 
 # Amherst College
 
@@ -162,7 +162,7 @@ The adjective describes behavior
 rather than state of mind,
 or physical characteristic.
 
-If 'being X' is weird, then
+If 'You are being X' is weird, then
 'Be X' as a command is weird, too.
 
 # Boys and girls, be ambitious.
