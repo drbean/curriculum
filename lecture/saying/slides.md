@@ -165,6 +165,9 @@ or physical characteristic.
 If 'You are being X' is weird, then
 'Be X' as a command is weird, too.
 
+In psychology, the distinction is
+between traits and states.
+
 # Boys and girls, be ambitious.
 
 What does it mean?
