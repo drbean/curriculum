@@ -1,206 +1,101 @@
-# This is a sample Vroom input file. It should help you get started.
+% Culture--a 5 week course
+% Dr Bean (高來圭)
+% http://drbean.sdf.org/culture.html
+
+---
+mainfont: latinmodern-math.otf
+#mainfontoptions: 
+#- BoldFont=Font-Bold.otf
+#- ItalicFont=Font-Italic.otf
+#- BoldItalicFont=Font-BoldItalic.otf
+...
+
 #
-# Edit this file with your content. Then run `vroom --vroom` to start
-# the show!
-#
-# See `perldoc Vroom::Vroom` for complete details.
-#
----- config
-# Basic config options.
-title: Intercultural communication
-indent: 5
-height: 18
-width: 69
-skip: 0
 
-# The following options are for Gvim usage.
-# vim: gvim
-# fuopt: maxhorz,maxvert
-# guioptions: egmLtT
-# guicursor: a:blinkon0-ver25-Cursor
-# guifont: Bitstream_Vera_Sans_Mono:h18
+* Intercultural communication
+* Cross-cultural differences
+* The multicultural society
+* Business and culture
+* Taiwan culture in the world
 
----- center
-Intercultural communication
+# Culture: The 5th skill
 
-by Dr Bean
-
-(Use the Space bar to go forward, and the Backspace key ←  to go back).
-
-----
-== Culture: The 5th skill
 + Reading
 + Writing
 + Listening
 + Speaking
 + 5 Intercultural skills
 
-----
-== Aim of the class
+# Michael Byram
 
-I want you to show me you can become good intercultural
-communicators.
+[Lecture](https://www.youtube.com/watch?v=A3F423Qd2MA)
 
-----
-== What is intercultural communication?
+# English students attitude to France
 
-It's more than language.
-It's not how well you speak English.
+The English (many, but not all) look 
+down on the French, so they don't want 
+to study le français in school.
 
-You can speak Chinese and communicate with people from
-somewhere else.
+# Japanese students attitude to China
 
-It's not about how to speak.
-It's about what to say.
+The Japanese (many, but not all) look 
+down on the Chinese, and they don't want 
+to (but have to) study 漢文 in school.
 
-It's an intercultural communication problem, when:
+# Taiwanese students attitude to Korea
 
-You understand what they SAID, but
-you don't understand what they MEANT.
+Some Taiwanese don't like
+Koreans, and they wouldn't want 
+to study 한글 in school.
 
-----
-== Experience
+# Byram's 5 savoirs
 
-Communicating with someone from a different culture
-is very interesting.
+On the exam
 
-You have to forget the rules you learned to communicate
-and learn new rules.
+* Savoir 1: interested, not ethnocentric
+* Savoir 2: knowledgeable about other 
+  culture 
+* Savoir 3: understanding
+* Savoir 4: quick to learn
+* Savoir 4: critical
 
-This is very confusing. You don't know if you are making
-cultural mistakes. You don't know what impression you are
-making.
+# Which topic
 
-I think the experience of uncertainty is very important.
-
-----
-== Examples of intercultural relationships
-
-+ Taiwanese-American
-+ Taiwanese-Japanese
-+ Taiwanese-mainland Chinese
-+ Han-aboriginal
-+ Hakka-Minnan
-+ 本生-外生
-+ Male-Female
-+ Taiwanese-Guest worker from Thailand, Philippines
-+ Taiwanese-Guest worker from US, England
-
-----
-== American culture
-
-I am not going to teach you about American culture.
-The textbook has very good information.
+* Intercultural communication
+* Cross-cultural differences
+* The multicultural society
+* Business and culture
+* Taiwan culture in the world
 
 
-----
-== Grades
 
-+* Homework. Each week write a 50 word message on
-http://elearning.nuu.edu.tw
-And write another 50 words in comment on other
-messages.
-
-I will close the discussion board at 8am each 
-Friday morning. I want to read all the homework
-and give grades before the class.
-
-+* Exams.
-  * Week 4, 9, 13, 18
-    * 2 2-page essays on intercultural communication
-
-+* Classwork
- ??????
-
-----
-== Grade computation
-* Classwork: 20 percent
-* Homework: 60 percent
-* Exams: 20 percent
-
-----
-== Textbook
-	
-	* Beyond Language: Cross cultural communication
-	Levine and Adelman, Pearson/Longman
-	ISBN 0-13-094855-1
-
-----
-== Ugly American
+# Ugly American
 
 http://www.google.com/search?q=ugly%20american&num=100
 
-----
-== Ugly American videos
+# Ugly American videos
 
-http://web.nuu.edu.tw/~greg/intercultural/uglyamericanvideos.html
+[The ugly American abroad](file:///C:/home/owuser/curriculum/intercultural/uglyamericanvideos.html)
 
-----
-== Ugly American accosts woman in Saigon (Ho Chi Min 
-City), Vietnam
-
-BLOCKED!?!
-
-http://www.youtube.com/watch?v=PKXbDXmzwnk
-http://ida08.files.wordpress.com/2009/11/vietnam-girl.jpg
-
-BLOCKED!?!
-
-----
-== Accosting Dialog
-
-    Burt: Wait. I am American. USA. I look for Vietnamese wife?
-       Wife. I USA husband. And I have yacht. You understand 'yacht.'
-    Alex: He wants to marry you. Here's the ring.
-    Burt: Look. I'll show you. See this ring? You put this ring.
-       Take this ring. You put it on this finger.
-    Woman: Why?
-    Burt: Then, we get married. Yes? You like? And then we have
-       babies.
-    Woman: (Embarrassed smile)
-    Bob: Okay, [?????]
-    Burt: Okay. Let's go. kid.
-
-----
-== Unacceptable
-
-      I think that men's behavior is rude. I do 
-      not like the ugly American. 
-      
-      I think most Americans feel shame and anger 
-      at this video. 
-
-----
-== Understandable
-
-      Americans are usually friendly. So they 
-      accost the woman.
-
-      They think maybe it is not polite but 
-      their meaning is not bad!
-
-----
-== Discussion of Ugly American
+# Discussion of Ugly American
 
 Decide whether you support 
 'Unacceptable' or 'Understandable'
 
-Think about Double Standards.
-http://www.urbandictionary.com/define.php?term=double+standards
+Think about
+[Double Standards](http://www.urbandictionary.com/define.php?term=double+standards)
 
-Report your reasons for thinking what you thought about. Say
-what you think. Say what you think Americans think.
+Report your reasons for thinking what 
+you thought about. Say what you think. 
 
-The essays which report most get most points.
+Say what you think Americans think.
 
-----
-== Differing views
+# Differing views
 
 Unacceptable			Understandable
 Doris (ridiculous)		Stella (The American men mean no offense)
 
-----
-== Differing views
+# Differing views
 
 Sally Mil Eva
 UNACCEPTABLE		Cheer	UNDERSTANDABLE
@@ -209,73 +104,15 @@ Mandy   Anita                  Lin Yvonne
      Jay Cindy
       Jennifer
 
-----
-== Interviews
+# Interviews
 
 Pink:Stella and Blue:Cindy interview each other.
 Orange:Lin and Black:Anita interview each other.
 Purple:Assistants and Judges
 
-----
-== Criticism of participants in
-Vietnam hotel incident and Chinese airport/bar incident
+# culture as the water round the fish
 
-Your criticism was good. I think you showed
-Savoir 5 (savoir s'engager) or critical cultural awareness
-
-The person who showed or did not show the savoir, however, was you,
-not the person in the incidents, who you were criticizing.
-
-It is very difficult/almost impossible to judge from
-intercultural communication incidents who is a good
-intercultural communicator, and who has the 5 savoirs.
-
-The 5 savoirs are abilities or attitudes, ie mental (psychological)
-states.
-
-It is easier to judge whether people have the 5 savoirs from what
-they say about the incidents, when they talk about them.
-
-The 5 savoirs are what people think.
-
-Not what you SAY, but what you THINK.
-
-----
-== The importance of incidents or problems
-
-When intercultural communication goes easily, and there is
-no problem, then it is difficult to tell whether someone
-is a good intercultural communicator or not.
-
-Perhaps one of the participants is a good intercultural
-communicator and is making the communication situation easy
-for the other person, who is a bad intercultural communicator.
-
-When there is a problem for one of the participants
-good intercultural communicators will be able to solve
-their problems.
-
-The existence of a communication problem shows one, or both,
-participants don't have all of the 5 savoirs.
-
-Or perhaps it just shows one of the participants is attempting
-something which is difficult.
-
-----
-== Intercultural communication competence
-
-The course is not about what you should or shouldn't do in
-intercultural situations
-
-We are not going to judge ugly Americans or ugly Asian tourists
-in Thailand.
-
-We are going to judge ourselves.
-
-----
-culture shock
-
-A fish out of water.
+A fish out of water
 
 What a wonderful country (
 after one month)
@@ -283,210 +120,139 @@ after one month)
 They do everything the wrong way here. It is very irritating (
 after 7 months)
 
-----
-Culture as iceberg, island (unseen beneath water)
+# Culture as iceberg, island (unseen beneath water)
 
-http://web.nuu.edu.tw/~greg/intercultural/M_1_2_2_-Cultural-iceberg-and-Byrams-framework4.ppt
+file:///home/owuser/curriculum/intercultural/M_1_2_2_-Cultural-iceberg-and-Byrams-framework4.ppt
 
-----
-== German-American misunderstanding about smiling
+# German-American misunderstanding about smiling
 
  http://odeo.com/episodes/13604823-Intercultural-Non-verbal-communication-The-Business-Spotlight-podcast-for-Tuesday-26-June-2007
 
-----
-== Communication misunderstanding
+# Communication misunderstanding
 
 Is there likely to be miscommunication,
 when A says the following:
 
 If B is not a Westerner, is B likely to misunderstand?
 
-----
-== A says: 'You must come for dinner.'
-
+# A says: 'You must come for dinner.'
 
 +B:Westerner thinks: 			'A is not inviting me for dinner.'
 
-
 B:Non-Westerner thinks:			'A is about to invite me for dinner.'
 
-----
-== A says: 'You must come for dinner.'
+# A says: 'You must come for dinner.'
 
 
 B:Westerner thinks: 	→→→→→→		'A is not inviting me for dinner.'
 
-
 B:Non-Westerner thinks:	→→→→→→		'A is about to invite me for dinner.'
 
-
-
-----
-== A says: 'Good job.'
-
+# A says: 'Good job.'
 
 +B(Westerner & Non-Westerner) thinks: →	'A thinks I did a good job.'
 
-
-----
-== A says: 'Your dress. Very interesting.'
+# A says: 'Your dress. Very interesting.'
 
 
 +B:Westerner thinks: 			'A thinks the dress is terrible.'
 
-
 B:Non-Westerner thinks:			'A likes the dress.'
 
-
-----
-== A says: 'Your dress. Very interesting.'
-
+# A says: 'Your dress. Very interesting.'
 
 
 B:Westerner thinks: 	→→→→→→→		'A thinks the dress is terrible.'
 
-
 B:Non-Westerner thinks:	→→→→→→→		'A likes the dress.'
 
-
-----
-== A says: 'How do you do?/How are you?/How are you going?'
-
+# A says: 'How do you do?/How are you?/How are you going?'
 
 +B(Westerner & Non-Westerner) thinks: →	'A is greeting me, not asking about me.'
 
-
-----
-== A says: 'You are very brave (deciding to cycle around the world.)
-
+# A says: 'You are very brave (deciding to cycle around the world.)
 
 +B:Westerner thinks: 			'A thinks I have a lot of courage.'
 
-
 B:Non-Westerner thinks:			'A thinks I am crazy.'
 
-
-----
-== A says: 'You are very brave (deciding to cycle around the world.)
-
+# A says: 'You are very brave (deciding to cycle around the world.)
 
 B:Westerner thinks: 			'A thinks I have a lot of courage.'
                           	╲╱
                           	╱╲
 B:Non-Westerner thinks:			'A thinks I am crazy.'
 
-
-----
-== A says: 'Your work is not bad.'
-
+# A says: 'Your work is not bad.'
 
 +B:Westerner thinks: 			'A thinks my work is good.'
 
-
 B:Non-Westerner thinks:			'A thinks my work is poor.'
 
-
-----
-== A says: 'Your work is not bad.'
-
+# A says: 'Your work is not bad.'
 
 B:Westerner thinks:    →→→→→→		'A thinks my work is good.'
 
-
 B:Non-Westerner thinks:	→→→→→→		'A thinks my work is poor.'
 
-
-----
-== A says: 'With the greatest/all due respect, I'm telling you ....'
-
+# A says: 'With the greatest/all due respect, I'm telling you ....'
 
 +B:Westerner thinks: 			'A is listening to what I am saying.'
 
-
 B:Non-Westerner thinks:			'A thinks I am an idiot.'
 
-
-----
-== A says: 'With the greatest/all due respect, I'm telling you ....'
-
+# A says: 'With the greatest/all due respect, I'm telling you ....'
 
 B:Westerner thinks: 			'A is listening to what I am saying.'
 				╲╱
 				╱╲
 B:Non-Westerner thinks:			'A thinks I am an idiot.'
 
-
-----
-== A says: 'Oh, by the way, blah blah ....'
-
+# A says: 'Oh, by the way, blah blah ....'
 
 +B:Westerner thinks: 			'A thinks she has something important to say.'
 
-
 B:Non-Westerner thinks:			'A thinks she is not saying anything important.'
 
-
-----
-== A says: 'Oh, by the way, blah blah ....' (Easy version)
-
+# A says: 'Oh, by the way, blah blah ....' (Easy version)
 
 +B:Westerner thinks: 			'A has something important to say.'
 
-
 B:Non-Westerner thinks:			'A is not going to saying anything important.'
 
-
-----
-== A says: 'Oh, by the way, blah blah ....'
-
+# A says: 'Oh, by the way, blah blah ....'
 
 B:Westerner thinks: 	→->→->→->→	'A thinks she has something important to say.'
 
-
 B:Non-Westerner thinks:	→->→->→->→	'A thinks she is not saying anything important.'
 
-
-----
-== A says: 'I hear what you say.'
-
+# A says: 'I hear what you say.'
 
 +B:Westerner thinks: 		'A agrees with me.'
 
-
 B:Non-Westerner thinks:		'A disagrees with me and doesn't want to listen to my ideas.'
 
-
-----
-== A says: 'I hear what you say.'
-
+# A says: 'I hear what you say.'
 
 B:Westerner thinks: 		'A agrees with me.'
 			╲╱
 			╱╲
 B:Non-Westerner thinks:		'A disagrees with me and doesn't want to listen to my ideas.'
 
-
-----
-== A says: 'No offense, but ...'
-
+# A says: 'No offense, but ...'
 
 +B:Westerner thinks:    		'A is going to say something offensive.'
 
-
 B:Non-Westerner thinks:			'A is NOT going to offend me.'
 
-
-----
-== A says: 'No offense, but ...'
-
+# A says: 'No offense, but ...'
 
 B:Westerner thinks:    →→→→→→		'A is going to say something offensive.'
 
-
 B:Non-Westerner thinks:	→→→→→→		'A is NOT going to offend me.'
 
+# Looking down on someone
 
-----
 What does lifting your head up when you make eye contact mean?
 
 In the West it is insulting. It means the person you are looking at
@@ -499,16 +265,14 @@ did this to me.
 
 If you can explain this to me you have Savoir 4.
 
-----
-If you were Andrew would you mind?
+# If you were Andrew would you mind?
 
 Yes                                         No
    Eva Mil             Cindy               Jay
    Miru Mandy         Jill Stella
    Lin Sally          Doris Cheer
 
-----
-Judging Andrew and the Hakka couple
+# Judging Andrew and the Hakka couple
 
 Suppose Andrew had a complaint and he asked you (the court)
 for a judgement, what would be your judgement?
@@ -521,8 +285,7 @@ Hakka couple                                                Andrew
                         Cheer:50       Eva:70 Miru:70
                         Doris:50       Stella:70
 
-----
-Secret language gone wrong
+# Secret language gone wrong
 
 http://web.nuu.edu.tw/~greg/intercultural/eunice2.mp3
 
@@ -530,9 +293,7 @@ What is she talking about?
 
 Listen and fill in the blanks for homework.
 
-----
-== Cross-cultural understanding and Intercultural 
-understanding
+# Cross-cultural and Intercultural 
 
 Cross-cultural: about cultural differences and
 		similarities
@@ -540,8 +301,7 @@ Cross-cultural: about cultural differences and
 Intercultural: about communication between people 
 		from different cultures
 
-----
-== Cross-cultural
+# Cross-cultural
 
 Cross-cultural:	eg, In the US, people act this way, 
 		say these things.
@@ -552,8 +312,7 @@ Cross-cultural:	eg, In the US, people act this way,
 		ie, cultural differences
 		http://en.wikipedia.org/wiki/Love
 
-----
-== Intercultural
+# Intercultural
 
 Intercultural:	eg, Vietnamese-Americans communicate
 		with their children across 
@@ -566,9 +325,7 @@ Intercultural:	eg, Vietnamese-Americans communicate
 		ie communication between people 
 		from different cultures
 
-----
-== Test: Which message is intercultural,
-		which is cross-cultural?
+# Test: intercultural or cross-cultural?
 
 A: Theresa is like the mothers in Asian that can't 
    say love easily but she expresse her love to her 
@@ -586,7 +343,8 @@ B: In my opinion, this mom has the very big
    not too well.In fact,they love each other.It's 
    wonderful.
 
------
+#
+
 == 75-100 word essay on smiling, neck rings & foot-binding
 Due Monday March 25, 8pm
 
@@ -611,9 +369,7 @@ similar to something that is not strange?
 
 Press the Space bar. Look at the following slides.
 
------
-== Another 75-100 word essay on smiling
-Due Monday April 1, 8pm
+# == A 75-100 word essay on smiling
 
 On Tuesday during the exam, Cheer banged her leg 
 against a desk. This certainly hurt her. Everyone 
@@ -651,46 +407,41 @@ similar to something that is not strange?
 
 Use the words "sympathy" and "sincerity."
 
-Press the Space bar. Look at the following slides.
+#Range of positions in savoir 1: Taiwan/Western-centric
 
-----
-==Range of positions in savoir 1: Taiwan/Western-centric
+|Taiwan-centric      vs       Western-centric
+|    Eva Jay
+|       Cindy              Stella      Dr Bean
+|     Miru Jill        Anita        Doris
+|     Yvonne Mandy     Cheer Lin   Jennifer
+|                                  Sally
 
-Taiwan-centric      vs       Western-centric
-    Eva Jay
-       Cindy              Stella      Dr Bean
-     Miru Jill        Anita        Doris
-     Yvonne Mandy     Cheer Lin   Jennifer
-                                  Sally
-----
-==Range of positions in savoir 2: Sympathizing in the West
+#Range of positions in savoir 2: Sympathizing in the West
 
-Knowledge of Western responses to injury
-    Less knowledge   vs    More knowledge
-    Jay  Mil Cindy Anita  Miru
-      Doris   Stella    Yvonne
-    Eva    Lin      Sally    Mandy
-      Jennifer     Cheer
+|Knowledge of Western responses to injury
+|    Less knowledge   vs    More knowledge
+|    Jay  Mil Cindy Anita  Miru
+|      Doris   Stella    Yvonne
+|    Eva    Lin      Sally    Mandy
+|      Jennifer     Cheer
 
-----
-==Examples of savoir 3: Understanding the strange
+#Examples of savoir 3: Understanding the strange
 
-Understanding the strange in terms of the ordinary
-    Less understanding   vs    More understanding
-        Jay                     Cindy
-            Eva  Anita Cheer     Miru Mil
-        Sally Stella    Yvonne     Jennifer
-           Lin    Doris       Mandy Jill
+| Understanding the strange in terms of the ordinary
+|    Less understanding   vs    More understanding
+|        Jay                     Cindy
+|            Eva  Anita Cheer     Miru Mil
+|        Sally Stella    Yvonne     Jennifer
+|           Lin    Doris       Mandy Jill
 
------
-== Range of positions on Hakka/Minnan differences paying
+# Positions on Hakka/Minnan differences paying
 
-     No difference      vs     Big difference
-
-  Miru                      Stella    Frank
-  Doris              Yvonne   Sally
-                              Mandy Lin
-                     Mil     Anita Eva
+|     No difference      vs     Big difference
+|
+|  Miru                      Stella    Frank
+|  Doris              Yvonne   Sally
+|                              Mandy Lin
+|                     Mil     Anita Eva
 
 ---- skip
 == 5 Savoirs
@@ -722,8 +473,8 @@ http://wandering-taiwan.blogspot.com/2010/09/stinky-tofu.html
 
 + Critical cultural awareness (savoir s'engager):
 
-----
-== Savoir 1
+# Savoir 1
+
 Curiosity and openness, readiness to suspend 
 disbelief about other cultures and belief about 
 one's own. Not being ethnocentric.
@@ -736,8 +487,8 @@ who has a different set of values, beliefs and
 behaviors(, which can be painful.) This can be
 called the ability to decenter.
   
-----
-== Savoir 2
+# Savoir 2
+
 Knowledge (savoirs):
 Of cultural differences:
 how people in different countries 
@@ -748,8 +499,8 @@ Eg,
 http://en.wikipedia.org/wiki/Smiling#Cultural_differences
 http://en.wikipedia.org/wiki/Love#Cultural_views
 
-----
-== Savoir 3
+# Savoir 3
+
 Skills of interpreting and relating (savoir comprendre):
 Ability to interpret a document or event from 
 another culture, to explain it and relate it to 
@@ -765,9 +516,8 @@ http://images.google.com/images?q=%22Indians%20eating%20with%20hands%22&num=100
 http://images.google.com/images?q=%22eating%20with%20hands%22&num=100
 http://images.google.com/images?q=%22eating%20pizza%22&num=100
 
+# Savoir 4
 
-----
-== Savoir 4
 Skills of discovery and interaction (savoir apprendre/faire):
 Ability to acquire new knowledge of a culture and 
 cultural practices and the ability to operate 
@@ -775,8 +525,8 @@ knowledge, attitudes and skills under the
 constraints of real-time communication and 
 interaction.
 
-----
-== Savoir 5
+# Savoir 5
+
 Critical cultural awareness (savoir s'engager):
 An ability to evaluate, critically and on the 
 basis of explicit criteria, perspectives, 
@@ -786,8 +536,8 @@ cultures and countries.
 Neck rings, foot binding, high heels, eating with hands.
 Some are OK. Which ones?
 
-----
-== 5 Savoirs
+# 5 Savoirs
+
 These 5 competences are from Byram, Gribkova and 
 Starkey (2002) "Developing the intercultural 
 dimension in language teaching: A practical 
@@ -795,11 +545,9 @@ introduction for teachers." Council of Europe. You
 can download it from 
 http://www.coe.int/t/dg4/linguistic/Source/Guide_dimintercult_EN.pdf 
 
-----
-== http://www.international-studies.aau.dk/f-2007/slides/ICC-model.ppt
+# http://www.international-studies.aau.dk/f-2007/slides/ICC-model.ppt
 
-----
-== Interview activity
+# Interview activity
 
 Interview questions on board
 Tables' champions to front
@@ -809,14 +557,12 @@ Reasons on card
 
 Dr Bean listens to reasons and chooses winner
 
-----
-== Minnan tenant and Hakka landlord
+# Minnan tenant and Hakka landlord
 
 http://web.nuu.edu.tw/~greg/intercultural/monica1.txt
 http://web.nuu.edu.tw/~greg/intercultural/monica1.mp3
 
-----
-== Essay about secret language use by Andrew and Hakka landlord
+# Essay about secret language use by Andrew and Hakka landlord
 
 You listened to the essay by Monica. She was critical of 
 both Andrew, who is not Hakka, and the Hakka landlord,
@@ -832,8 +578,7 @@ Say something good. Say something bad.
 Have you ever used a language that other people didn't understand?
 What was good about that? What was bad about that?
 
-----
-== Exam 1,2 competition
+# Exam 1,2 competition
 
 Are you or your partner a better intercultural competitor.
 I will listen to you interview each other about the 5 savoirs
@@ -847,8 +592,7 @@ and I will decide.
 |       |        |                                |       |                              |       |   |   |
 |       |        |                                |       |                              |       |   |   |
 
-----
-== Intercultural competence interview
+# Intercultural competence interview
 
 Everyone interviews Black and Blue's candidate
 and decides who gets selected
@@ -856,10 +600,7 @@ and decides who gets selected
 Everyone interviews Pink and Purple's candidate
 and decides who gets selected
 
-
-
-----
-== Exam 1
+# Exam 1
 
 	2 1-page essays ( 2x150 words ) on
 	Intercultural Communicative Competence
@@ -891,8 +632,7 @@ essays at 6:50 pm and 7:35 pm.
 I want to talk to you about your essays
 too. I want you to ask me for advice.
 
-----
-== Keywords (simpler explanation)
+# Keywords (simpler explanation)
 
 Use these words in the exam:
 
@@ -909,8 +649,8 @@ Use these words in the exam:
 	It is necessary to be or have all of these.
 	They are good
 	'SHOULD' is a keyword.
-----
-== Exam grading
+
+# Exam grading
 
 991: No 5's, no 1's. Only a few 4's.
 001: 3 5's, no 1's. Many 4's.
@@ -927,16 +667,14 @@ Not intercultural communication
 Google translation    : 2
 No Savoirs 1-5        : not 5
 
-----
-== An intercultural experience
+# An intercultural experience
 
 A representative from each group will stand up
 and tell a story about an intercultural meeting.
 
 Who showed which of the 5 savoirs?
 
-----
-== Ugly Americans accost Vietnamese woman
+# Ugly Americans accost Vietnamese woman
 
 The woman and I grew up in the same sort of culture,
 so I think she felt not good.
@@ -947,8 +685,7 @@ but we couldn't understand it.
 
 So I was angry with what he did to the woman.
 
-----
-== Ugly Americans accost Vietnamese woman
+# Ugly Americans accost Vietnamese woman
 
 Maybe the Americans were just kidding. They were 
 curious about the Asian woman, and wanted to 
@@ -961,8 +698,7 @@ so embarrassed.
 But, maybe, next time, we can learn to bring more 
 humor to our understanding of their behavior.
 
-----
-== German-American misunderstanding about smiling
+# German-American misunderstanding about smiling
 
 Americans like smiling to express their 
 friendliness, but this leads to misunderstanding 
@@ -973,8 +709,7 @@ In my opinion, Americans can explain why they are
 smiling when meeting. Perhaps one day, Germans 
 will think these strange things aren't strange.
 
-----
-== German-American misunderstanding about smiling
+# German-American misunderstanding about smiling
 
 Communication between 2 different cultures can be 
 very exciting or very frustrating.
@@ -987,8 +722,7 @@ But try not to be too critical when unpleasantness
 occurs. With more understanding, things feel 
 better.
 
-----
-== Asian Mom in US
+# Asian Mom in US
 
 An example of cultural communication which may be 
 misunderstood in the US is the Asian mother taking 
@@ -1002,8 +736,7 @@ might feel discomfort with this.
 But no matter where we are, we should respect, 
 rather than reject, cultural behavior like this.
 
-----
-== Different European customs
+# Different European customs
 
 https://en.wikibooks.org/wiki/National_Etiquette_Differences_in_Europe
 
@@ -1050,14 +783,12 @@ Finally,everybody to laugh me too~~.
 
 It’s very embarrassing.
 
-----
-== Dr Bean: You'll be wanting to leave now.
+# Dr Bean: You'll be wanting to leave now.
 
 http://web.nuu.edu.tw/~greg/intercultural/leaving1.wav
 http://web.nuu.edu.tw/~greg/DictationExercises
 
-----
-== Similar stories (1)
+# Similar stories (1)
 
 板名：  	Hakka-Minnan stories
 篇號/總數： 	12 / 27
@@ -1074,8 +805,7 @@ can learn many things from daily life. Many ways
 can contact different cultures. There are 
 something funny.
 
-----
-== Similar stories (2)
+# Similar stories (2)
 
 板名：  	Hakka-Minnan stories
 篇號/總數： 	17 / 27
@@ -1092,8 +822,7 @@ can learn many things from daily life. Many ways
 can contact different cultures. There are 
 something funny.
 
-----
-== Same story as last week
+# Same story as last week
 
 Each country has the different language and each 
 area also has the different culture. Formerly had 
@@ -1137,8 +866,7 @@ The writer think the real reason was they didn't
 want  the writer to laugh at their pronunciation, 
 the way they had laughed at the writer's.
 
-----
-== Exam 2: 5 jigsaws
+# Exam 2: 5 jigsaws
 
 The Ugly Americans with Vietnamese woman
 Mr Chen and Mr Smith's misunderstanding of objections
@@ -1146,14 +874,11 @@ Different reactions to Cheer's hurting her leg
 Frank and his father-in-law in supermarket
 German, American and Taiwanese smiles
 
-
-----
-== Homework before Exam 2
+# Homework before Exam 2
 
 An explanation of Savoir 1, 2, 3 and 5 with an example
 
-----
-== Exam 2 Analyzing 2 stories in terms of the 5 savoirs
+# Exam 2 Analyzing 2 stories in terms of the 5 savoirs
 
 1. Frank and his father-in-law. Summarize and analyze the story in terms of the
 	five savoirs. Show me you have the 5 savoirs.
@@ -1162,9 +887,8 @@ An explanation of Savoir 1, 2, 3 and 5 with an example
 	five savoirs. Show me you have the 5 savoirs.
 	NOT the same story as in Exam 1.
 
-----
-== 1. Another person's story
-	
+# 1. Another person's story
+
 It doesn't have to be the Hakka story, or the Minnan story.
 You can choose another story.
 I think Hakka-Minnan intercultural communication is the
@@ -1176,9 +900,8 @@ Use subheadings: Savoir 1, 2, 3 ,4, 5
 Say which person you think has more of the 5 savoirs.
 Explain why you think that.
 
-----
-== 2. Your story
-	
+# 2. Your story
+
 It has to be a story about intercultural communication that
 happened to you. It can be a story you put on elearning, but
 NOT the same story as in Exam 1.
@@ -1217,8 +940,7 @@ Savoir 4:
 
 Savoir 5:
 
-----
-== Hakka man shopping with Minnan father-in-law
+# Hakka man shopping with Minnan father-in-law
 
 Frank Liu (劉發州) N9561766 tells a story about Hakka-Minnan
 intercultural miscommunication.
@@ -1248,16 +970,14 @@ of Frank's analysis.
 
 + 5. Which of the 5 savoirs does Frank show.
 
-----
-== Taiwanese refusing offer of payment
+# Taiwanese refusing offer of payment
 
 I offered to pay for a new lock after
 someone tried to break into my room.
 
 The (Hakka) landlady refused very intensely.
 
-----
-== Another Taiwanese refusing offer of payment
+# Another Taiwanese refusing offer of payment
 
 I offered to pay an app developer for the noodles 
 we had for lunch.
@@ -1266,8 +986,8 @@ I use his app a lot. I admire him.
 
 The (Minnan?) developer refused very intensely.
 
-----
-== Another 75-100 word essay on Frank, father-in-law fighting over who pays
+# Another 75-100 word essay on Frank, father-in-law fighting over who pays
+
 Due Monday April 15, 8pm
 
 You listened to Frank's story about an intercultural 
@@ -1325,8 +1045,7 @@ similar to something that is not strange?
 
 Press the Space bar. Look at the following slides.
 
-----
-== Reactions to Frank's story 1: Father-in-law is not poor
+# Reactions to Frank's story 1: Father-in-law is not poor
 
 I don't think the father-in-law was poor. Frank says,
 speaking for his father-in-law:
@@ -1339,28 +1058,24 @@ Frank is not saying the father-in-law was poor. Frank is saying
 he made his father-in-law think his son-in-law thought he 
 was poor.
 
-----
-== Reactions to Frank's story 2: Who pays for parties?
+# Reactions to Frank's story 2: Who pays for parties?
 
 In the West, often guests will bring a plate of food to a party.
 
 In the Minnan dinner party, will the head of the family pay?
 In the Hakka dinner party, will the costs be shared?
 
-----
-== Lack of Savoir 5: No criticism of Frank, father-in-law
+# Lack of Savoir 5: No criticism of Frank, father-in-law
 
 Only Jill said: The father-in-law should give Frank pay opportunities
 
-----
-== Savoir 3: Understanding
+# Savoir 3: Understanding
 
 Despite some apparent differences, the strange cultural
 behavior shown by the other person is understandable
 in terms of something I already know in my culture.
 
-----
-== Savoir 3: Melissa's story of classmates learning Hakka
+# Savoir 3: Melissa's story of classmates learning Hakka
 
 A: Hakka and Minnan are the same.
 B: What do you mean? Melissa wanted to learn Minnan, but 
@@ -1370,8 +1085,7 @@ just like they had laughed at her.
 The Hakka and Minnan students are just the same.
 B: I see.
 
-----
-== Savoir 3: DrBean's story of class not asking questions
+# Savoir 3: DrBean's story of class not asking questions
 
 A: DrBean and Jenteh students are the same.
 B: What do you mean? DrBean likes asking questions,
@@ -1381,8 +1095,7 @@ the Miaoli store when he goes to buy eggs.
 DrBean and his students are just the same.
 B: I see.
 
-----
-== Savoir 3: Frank's story of shopping with Minnan father-in-law
+# Savoir 3: Frank's story of shopping with Minnan father-in-law
 
 A: Hakka and Minnan are the same.
 
@@ -1423,8 +1136,7 @@ Savage: But you 'eat' the body and 'drink' the blood
 
 Westerner: I see.
 
-----
-== Exam 3 Analyzing Frank's stories in terms of the 5 savoirs
+# Exam 3 Analyzing Frank's stories in terms of the 5 savoirs
 
 1. Who has more of the 5 savoirs:
 	  Frank or his father-in-law?
@@ -1436,8 +1148,7 @@ Westerner: I see.
 	The other one must be different to any dialog on
 	elearning.
 
-----
-== Savoir 3: Seeing something disturbing is understandable
+# Savoir 3: Seeing something disturbing is understandable
 
   R
 A -> I (Me or my culture)
@@ -1448,8 +1159,8 @@ I -> B
 
 "If I were A, I would have done the same."
 
-----
-== Savoir 3: Travis's realization he would be supporting in-laws
+# Savoir 3: Travis's realization he would be supporting in-laws
+
 		if he married the Philippine woman
 
                          onus of looking after
@@ -1462,8 +1173,7 @@ Travis                 -------------------> his parents&family
                          onus of looking after
                          relatives
 
-----
-== Savoir 3: Girlfriend breaks up with Travis
+# Savoir 3: Girlfriend breaks up with Travis
 
                   break up with
 girlfriend   ------------------->  Travis
@@ -1473,8 +1183,7 @@ is the same thing as
 Travis      ------------------->  Philippine girlfriend
                  break up with
 
-----
-== Savoir 3: QianHui's boss's preferential treatment of relative
+# Savoir 3: QianHui's boss's preferential treatment of relative
 
              lax attitude
 Boss      ------------------->  Boss's relative
@@ -1484,16 +1193,14 @@ is the same thing as
 QianHui   ------------------->  QianHui's relative
 (as boss)    lax attitude
 
-----
-== Which shows Savoir 3? A?
+# Which shows Savoir 3? A?
 
 If I were Frank, I would try to convince my father-in-law that the younger
 person should pay the money to show respect. If I were the father-in-law, I
 would let Frank know what I thought. After that they would understand each
 other and would be able to decide who should pay the money.
 
-----
-== Which shows Savoir 3? B?
+# Which shows Savoir 3? B?
 
 I am Hakka. So I can understand why Frank wanted to pay. I think that Frank
 thinks he has a job and he is younger than his father-in-law, so he should pay
@@ -1505,8 +1212,7 @@ treats Frank just like his kids. Besides being a member of his family, Frank is
 a guest too. Frank's father-in-law thinks he is host, so he should pay.
 Therefore I can understand Frank's father-in-law too.
 
-----
-== Which Savoir 3 essay got 3/3  
+# Which Savoir 3 essay got 3/3  
 
 A. We feel strange that American eat food with a fork.
 Because Chinese people eat food with chopsticks. But we also
@@ -1517,8 +1223,7 @@ example, Chinese, meeting others for the first time, will
 shake hands or nod to each other.  However when Koreans
 meet, they will bow and greet each other
 
-----
-== Which Savoir 3 essay got 2/3
+# Which Savoir 3 essay got 2/3
 
 A. Asian people have a proverb, Western people also have a
 similar proverb. I think this is a kind of thinking usually
@@ -1536,9 +1241,7 @@ It's a remote and unique custom. Most of us think it's ugly.
 That is the difference of aesthetics between the ''long
 necks'' and we.
 
-
-----
-== Allophones in other languages become phonemically different
+# Allophones in other languages become phonemically different
 
 In English the pronunciation of /p/ in 'pan' and 'span' is different.
 In the first, it is aspirated. In the second it is not. But they are 
@@ -1552,8 +1255,7 @@ But to Koreans and Indians (and Chinese), they are different sounds.
 In Korean, voicing is not phonemic, but aspiration is. In English voicing is
 phonemic. But aspiration may not be.
 
-----
-== Culture--the difference between emic and etic approaches
+# Culture--the difference between emic and etic approaches
 
 Parallel to the distinction between phonemics and phonetics in language,
 there is a distinction between emic and etic approaches to culture.
@@ -1564,8 +1266,7 @@ The etic approach is the view of an outsider operating at a different level
 than the insider. 
 eg Foot binding keeps women dependent on men.
 
-----
-== Language and identity
+# Language and identity
 
 Identity is 
 	cultural identity: which cultural group do you feel you are member of
@@ -1579,16 +1280,14 @@ Language, Culture, Identity -- 3 different things, connected but not the same
 
 To look at someone just through their culture is a big mistake
 
-----
-== http://www.coe.int/t/dg4/linguistic/Source/Guide_dimintercult_EN.pdf 
+# http://www.coe.int/t/dg4/linguistic/Source/Guide_dimintercult_EN.pdf 
 
 Chinese and identity p 9 (p 5 in book)
 critical cultural awareness p 13 (p 9 in book)
 
 == http://www.coe.int/t/dg4/linguistic/Source/Guide_dimintercult_EN.pdf 
 
-----
-== Savoir 2: Cultural knowledge
+# Savoir 2: Cultural knowledge
 
 Just as language knowledge is necessary to communicate
 Savoir 2 (cultural knowledge) is also necessary
@@ -1599,8 +1298,7 @@ Language: linguistic knowlege (eg grammar, vocabulary, pronunciation)
  V
 Culture: cultural knowledge (eg lifestyles, social interaction, material culture)
 
-----
-== Savoir 4: Cultural savoir-faire
+# Savoir 4: Cultural savoir-faire
 
 Just as language knowledge is necessary to communicate
 Savoir 2 (cultural knowledge) is also necessary
@@ -1634,14 +1332,12 @@ Ethnocentrism
 
 The Dutch community does many things backwards.
 
-
 ----
 Ethnocentrism
 
 The Belgian church (the Roman Catholic Church), that the
 Dutch and French-speaking communities belonged to
 traditionally, is the one true church.
-
 
 ----
 Ethnocentrism in Belgium
@@ -1666,8 +1362,7 @@ After returning home to Canada:
 Ex-tourist: Hey, that man is dumping his trash in the river.
 (Thinks: That man is a dirty man.)
 
-----
-== The intercultural observer
+# The intercultural observer
 
 + Stay a week in the foreign culture and
 	be able to write an article.
@@ -1676,8 +1371,7 @@ Ex-tourist: Hey, that man is dumping his trash in the river.
 + Stay 20 years in the foreign culture and
 	not be able to say anything at all.
 
-----
-== Ideas about Americans, about Hakka
+# Ideas about Americans, about Hakka
 
 Americans are X.
 Americans do X.
@@ -1704,8 +1398,7 @@ What kind of evidence is necessary to dis/prove a generalization?
 Which of the 5 savoirs does someone with stereotypes of
 the other group not have?
 
-----
-Dr Bean's generalizations about students in Korea
+# Dr Bean's generalizations about students in Korea
 and Taiwan
 
 Korean students are more interested in learning English
@@ -1713,8 +1406,7 @@ than Taiwanese students.
 
 What kind of evidence would disprove that generalization?
 
-----
-== Prejudice
+# Prejudice
 
 Prejudice is coming to conclusions about an affair without evidence
 
@@ -1727,15 +1419,14 @@ Every belief or conclusion has to be changeable.
 Prejudice has come to mean a bad attitude to a different cultural
 group.
 
-----
-== Are Americans/Taiwanese prejudiced?
+# Are Americans/Taiwanese prejudiced?
+
 Obama is president.
 "I don't want Asians/Blacks/Hispanics living in my neighborhood."
 
 Older Hakka woman: Minnan women make irascible (angry) brides.
 
-----
-== Discussion of sterotypes and prejudice
+# Discussion of sterotypes and prejudice
 
 Beyond Language p 173
 
@@ -1744,13 +1435,11 @@ Don't be 3,4 books talking to each other.
 
 Have a conversation.
 
-----
-Dr Bean's story about losing his bicycle
+# Dr Bean's story about losing his bicycle
 
 Savoir 5: It's OK. Some people steal bicycles.
 
-----
-Comparison of 'Another encounter with foreigner'
+# Comparison of 'Another encounter with foreigner'
 
 Compare V9741024 and V9741036
 Who got 3, who got 2? Why?
@@ -1761,15 +1450,13 @@ Who got 3, who got 2? Why?
 Compare V9941011 and V9941073
 Who got 3, who got 2? Why?
 
-----
-== Savoir 5
+# Savoir 5
 
 Compare Conclusion to V9841001 and V9841068
 
 Compare conclusion to U9616041 and V9741041
 
-----
-== Exam 3
+# Exam 3
 
 1. Another encounter with foreigner
 
@@ -1787,8 +1474,7 @@ I want a judgement 60:40, or 10:90.
 No 50:50. A low grade for 'I'm OK. You're OK. Everyone
 has their reasons, justifications.'
 
-----
-Eunice's story--a timeline
+# Eunice's story--a timeline
 
 1. Arrives at the party
 2. Is born in Hsinchu to a Hakka family
@@ -1806,14 +1492,12 @@ A's relationships become known to B and C, two older Hakka women
 Doesn't know what to do
 B and C arrive at the party
 
-----
-Eunice's story--True and False
+# Eunice's story--True and False
 
 Eunice is known to B and C before she arrives at the party
 Eunice doesn't want B and C to gossip about A. 
 
-----
-= Eunice's criticism--Savoir 5
+# = Eunice's criticism--Savoir 5
 
 No one thought it was OK to talk Hakka to say bad things.
 
@@ -1849,8 +1533,7 @@ Minnan students' judgements
 60 70 80 90 100
  1  3  1  3  0
 
-----
-== Hakka vs Minan judgements 
+# Hakka vs Minan judgements 
 
 4|o
  |  x      xo
@@ -1860,8 +1543,7 @@ Minnan students' judgements
  |-------------------
  |60 70 80 90 100
 
-----
-== Eunice vs Hakka women--Savoir 5
+# Eunice vs Hakka women--Savoir 5
 
 Eunice accuses Hakka women.
 Your judgement:
@@ -1869,14 +1551,12 @@ Your judgement:
 Hakka women                                 Eunice
           DrBean(30)
 
-----
-== Eunice--Savoir 4
+# Eunice--Savoir 4
 
 Eunice has Savoir 4, showing that she understands
 Frank has Savoir 4, asking his wife
 
-----
-== Interview questions about Savoir 4
+# Interview questions about Savoir 4
 
 What would you do if ..?
 Have you ever ...? What did you do?
@@ -1885,8 +1565,7 @@ If you have a problem, like .. , what would you do?
 What have you learned about ..?
 If .. happened to you, what would you learn?
 
-----
-== Essay about Eunice and Savoirs 4 and 5
+# Essay about Eunice and Savoirs 4 and 5
 
 Write a 75-100 word essay about Eunice's story.
 
@@ -1907,13 +1586,11 @@ That is Savoir 5.
 
 Now tell me your reasons for your judgements.
 
-----
-Immigration in the US
+# Immigration in the US
 
 http://web.nuu.edu.tw/~greg/intercultural/illegalalienvideos.selected.html
 
-----
-Speaking a language other people don't understand
+# Speaking a language other people don't understand
 
 Many Americans are unhappy about the use of languages other than
 English in the US.
@@ -1922,7 +1599,8 @@ See http://web.nuu.edu.tw/~greg/privatelangue.html
 See http://web.nuu.edu.tw/~greg/intercultural/speaklanguagevideos.html
 See http://web.nuu.edu.tw/~greg/intercultural/privatelangue.html
 
-----
+#
+
 Savoir 5 and people speaking a language a third party
 doesn't understand
 
@@ -1931,8 +1609,7 @@ both sides point of view.
 
 Have an opinion.
 
-----
-Week 14 Homework
+# Week 14 Homework
 
 If you don't have an opinion
 a) make up an opinion
@@ -1945,8 +1622,7 @@ i. the video or soundfile,
 ii. Savoir 5
 iii. a secret language
 
-----
-Week 15 Homework
+# Week 15 Homework
 
 	Using Hakka to say things Eunice doesn't think should be said
 
@@ -1954,23 +1630,20 @@ Hakka women talking about Eunice's          ->      Eunice
 friend in a language she was not
 thought to understand
 
-
 Students in class speaking Chinese,            ->     Dr Bean
 a language Dr Bean does not
 understand
 
 	Using Chinese, saying things DrBean doesn't think should be said
 
-----
-== How Dr Bean feels about the students speaking Chinese
+# How Dr Bean feels about the students speaking Chinese
 
 + He feels the same way that Eunice felt about the Hakka speakers.
 
 + He has no respect for the students. Japanese, Korean, mainland
 Chinese students are 'eating his students' lunch.'
 
-----
-== Message best capturing Dr Bean's feeling
+# Message best capturing Dr Bean's feeling
 
 In Dr Bean's position, I would feel a sense of distance
 with students.
@@ -1980,8 +1653,7 @@ they still speak English in front of my face, so I
 think that I would feel awful very much, and I would
 feel not to be respected.
 
-----
-== Foreigners speaking English in Japan
+# Foreigners speaking English in Japan
 
 Some young foreign people met, some German,
 some native English speakers, in Japan. One
@@ -1995,8 +1667,7 @@ foreigners to speak Japanese.
 
 Should the people speak Japanese or not?
 
-----
-== Why students feel they must speak Chinese
+# Why students feel they must speak Chinese
 
 "We just speak Chinese to express what I want to say."
 Is what you want to say worth saying? If it is not said,
@@ -2004,8 +1675,7 @@ what will be the loss?
 
 + Is what I am saying worth saying?
 
-----
-== Criticisms of the homework
+# Criticisms of the homework
 
 1. In the diagrams, where is the R and R'?
 
@@ -2016,8 +1686,7 @@ You are the Hakka speakers. You should say,
 "If I were the Hakka speakers, I would .. " 
 Or,
 "If the Hakka speakers were in the class, they would ..."
-----
-Week 15 Homework Evaluation
+# Week 15 Homework Evaluation
 
 I liked the stories, but I wasn't happy
 with the judgements you made.
@@ -2030,8 +1699,7 @@ What was WRONG about your action/thoughts?
 What was RIGHT about THEIR action/thoughts?
 What was WRONG about THEIR action/thoughts?
 
-----
-Chinese as a private language
+# Chinese as a private language
 
 What Dr Bean said:
 http://web.nuu.edu.tw/~greg/intercultural/chineseinclass.txt
@@ -2041,14 +1709,12 @@ What language SHOULD you speak?
 
 (Use the Space bar to go forward, and the Backspace key ←  to go back).
 
-----
-Keywords
+# Keywords
 
 The keywords are "But," "although," "On the other hand,".
 Use them.
 
-----
-Savoir 5: Being Critical
+# Savoir 5: Being Critical
 
 Look at what Monica said about Andrew and the
 Hakka couple:
@@ -2067,16 +1733,14 @@ http://web.nuu.edu.tw/~greg/intercultural/eunice2.txt
 woman who I know, who is my friend."
 "So, um, I think it's funny." 
 
-----
-Thinking like a lawyer, or a judge
+# Thinking like a lawyer, or a judge
 
 You need to argue that both sides are right
 and both sides are wrong.
 
 Balance the 2 points of view.
 
-----
-== Self evaluation of your own intercultural competence
+# Self evaluation of your own intercultural competence
 
 	Evaluate your attitudes and ability as an 
 	   intercultural communicator.
@@ -2095,8 +1759,7 @@ f. Ask questions of the presenters. Ask them to justify claims.
 g. Compare own judgements with Dr Bean's judgements. Discuss.
 h. Rate the presenters' intercultural competence.
 
-----
-== Thinking about evaluation of own intercultural communication
+# Thinking about evaluation of own intercultural communication
 
 	1. Evaluate your attitudes and ability as an 
 	   intercultural communicator.
@@ -2112,8 +1775,7 @@ Savoir 3, Savoir 5 are most difficult to write about.
 See Dr Bean's self-evaluation
 http://web.nuu.edu.tw/~greg/intercultural/self-eval.txt
 
-----
-== Exam 4
+# Exam 4
 
 	2. A fourth intercultural experience
 	A .... .... encounter
@@ -2129,7 +1791,6 @@ Draw a Savoir 3 diagram
 
 Stating what R is is important. Saying how it
 is similar to R' is important.
-
 
 	2. Essay about Chinese-using students and Dr Bean
 	
@@ -2160,8 +1821,7 @@ Dr Bean wants you to argue with him. Please be critical of him.
 
 Please be critical of yourself.
 
-----
-Classroom language
+# Classroom language
 
 Should the teacher use the national, standard language, or
 the language the students speak?
@@ -2179,24 +1839,26 @@ This was the start of bilingual education in the US.
 This is not the same as 'bilingual kindergartens'
 in Taiwan.
 
-----
+#
+
 Should teachers use the language of their students, 
 or the national, standard language, to teach?
 
 In the US, eg Chinese, Spanish (or Ebonics, ie Black English)
 For Black English vocabulary see http://urbandictionary.com
 
-----
+#
+
 Should teachers use Hakka or Minnan to teach in Taiwan?
 Dr Bean wants to know.
 
 Or should they use Mandarin? Or Vietnamese (for the children
 of Vietnamese mothers)?
 
-----
+#
+
 Should teachers use the language of their students, 
 or the national, standard language, to teach?
-
 
 Try to take a balanced position. Express both points
 of view
@@ -2204,6 +1866,5 @@ Use the words, 'but,' 'although,' 'On the other hand,'
 Disagree with partners.
 Say, What do you think?
 
-----
-== The End
+# The End
 
