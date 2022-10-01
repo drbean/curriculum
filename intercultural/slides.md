@@ -28,7 +28,11 @@ mainfont: latinmodern-math.otf
 
 # Michael Byram
 
-[Lecture](https://www.youtube.com/watch?v=A3F423Qd2MA)
+[Lecture](https://www.youtube.com/watch?v=fMoesr2Oz-s)
+
+* at 33:30
+* at 34:40
+* at 37:50
 
 # English students attitude to France
 
@@ -40,7 +44,7 @@ to study le français in school.
 
 The Japanese (many, but not all) look 
 down on the Chinese, and they don't want 
-to (but have to) study 漢文 in school.
+to (but they have to) study 漢文 in school.
 
 # Taiwanese students attitude to Korea
 
@@ -57,9 +61,11 @@ On the exam
   culture 
 * Savoir 3: understanding
 * Savoir 4: quick to learn
-* Savoir 4: critical
+* Savoir 5: critical
 
 # Which topic
+
+::: nonincremental
 
 * Intercultural communication
 * Cross-cultural differences
@@ -67,11 +73,10 @@ On the exam
 * Business and culture
 * Taiwan culture in the world
 
+:::
 
+# [The Ugly American](http://www.google.com/search?q=ugly%20american&num=100)
 
-# Ugly American
-
-http://www.google.com/search?q=ugly%20american&num=100
 
 # Ugly American videos
 
@@ -92,17 +97,17 @@ Say what you think Americans think.
 
 # Differing views
 
-Unacceptable			Understandable
-Doris (ridiculous)		Stella (The American men mean no offense)
+| Unacceptable			Understandable
+| Doris (ridiculous)		Stella (The Americans mean no offense)
 
 # Differing views
 
-Sally Mil Eva
-UNACCEPTABLE		Cheer	UNDERSTANDABLE
-Miru      Doris               Stella Jill
-Mandy   Anita                  Lin Yvonne
-     Jay Cindy
-      Jennifer
+| Sally Mil Eva
+| UNACCEPTABLE		Cheer	UNDERSTANDABLE
+| Miru      Doris               Stella Jill
+| Mandy   Anita                  Lin Yvonne
+|      Jay Cindy
+|       Jennifer
 
 # Interviews
 
@@ -114,11 +119,9 @@ Purple:Assistants and Judges
 
 A fish out of water
 
-What a wonderful country (
-after one month)
+After one month: What a wonderful country!
 
-They do everything the wrong way here. It is very irritating (
-after 7 months)
+After 7 months: They do everything the wrong way here. It is very irritating!
 
 # Culture as iceberg, island (unseen beneath water)
 
