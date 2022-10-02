@@ -64,6 +64,17 @@ c. The multicultural society
 d. Business and culture
 e. Taiwan culture in the world
 
+# Indian head bobble
+
+[What do they mean?](https://www.youtube.com/watch?v=Uj56IPJOqWE)
+
+1. "Come here"
+1. "Continue/go on!"
+1. "Maybe"
+1. "No"
+1. "What's up?", or "Want to do something?"
+1. "Yes"
+
 
 # Michael Byram
 
