@@ -26,6 +26,45 @@ mainfont: latinmodern-math.otf
 + Speaking
 + 5 Intercultural skills
 
+# Indian head bobble/shake/wobble/movement
+
+a. Intercultural communication
+b. Cross-cultural differences
+c. The multicultural society
+d. Business and culture
+e. Taiwan culture in the world
+
+# Indian head bobble
+
+[What do they mean?](https://www.youtube.com/watch?v=Uj56IPJOqWE)
+
+a. Intercultural communication
+b. Cross-cultural differences
+c. The multicultural society
+d. Business and culture
+e. Taiwan culture in the world
+
+# Indian head bobble
+
+[6 hilarious problems](https://www.youtube.com/watch?v=v_mkvLDRpbs)
+
+a. Intercultural communication
+b. Cross-cultural differences
+c. The multicultural society
+d. Business and culture
+e. Taiwan culture in the world
+
+# Indian head bobble
+
+[Indian awareness](https://www.youtube.com/watch?v=iEZ-Ltyf7UU)
+
+a. Intercultural communication
+b. Cross-cultural differences
+c. The multicultural society
+d. Business and culture
+e. Taiwan culture in the world
+
+
 # Michael Byram
 
 [Lecture](https://www.youtube.com/watch?v=fMoesr2Oz-s)
@@ -59,7 +98,7 @@ On the exam
 * Savoir 1: interested, not ethnocentric
 * Savoir 2: knowledgeable about other 
   culture 
-* Savoir 3: understanding
+* Savoir 3: understanding, can compare/contrast
 * Savoir 4: quick to learn
 * Savoir 5: critical
 
@@ -74,6 +113,120 @@ On the exam
 * Taiwan culture in the world
 
 :::
+
+# Scholarship interview simulation
+
+A committee of 6 Taiwanese government & 
+company representatives has money 
+for students to live overseas.
+
+It will give some to all, but more to 
+students with greater intercultural 
+communicative competence.
+
+# You, as students
+
+Choose which country to go to, but 
+convince the committee you have
+the 5 intercultural skills.
+
+The 'beans' you get from the committee
+are your grade for the class.
+
+# Beans
+
+For each of the 5 intercultural skills
+plus English ability, each committee 
+member decides to award either 2 or 3 
+beans.
+
+Then each of the 6 committee members hands over
+a total of 10, 11, 13, 14, 16, or 17 
+beans.
+
+# Beans
+
+The 'beans' you get from the committee
+are your grade for the class.
+
+# On return
+
+You join the committee and award 'beans' 
+to following students.
+
+# Committee questions
+
+* Why do you want to go there?
+* How much do you know about their 
+  customs?
+* Why would life there be interesting?
+* How well will you be able to relate 
+  strange customs to Taiwanese culture?
+* Will it be easy for you to fit in?
+* Will you be able to justify your 
+  opinions about life there?
+
+# Dr Bean answers questions
+
+# Savoir 1--Interest
+
+* Likes Taiwan
+* Feels free
+* Expatriate
+* Counter culture representative
+
+# Right commitee respone
+
+* 2 beans
+
+# Savoir 2--Knowledge
+
+* Been here for 20 years
+* Not much idea about family life
+* Would like to study calligraphy
+
+# Right commitee respone
+
+* 2 beans
+
+# Savoir 3--Comparison/contrast
+
+Sees parallels
+
+* Christmas and Chinese New Year
+   * Family gathering
+   * Eating
+   * Gifts
+   * Not really religious
+
+Sees differences
+
+* Learning foreign languages
+* Parents attitude to children's 
+  education
+  
+# Right commitee respone
+
+* 3 beans
+
+# Savoir 4--Quick to learn, adept
+
+* Careful, rather than masterly
+
+# Right commitee respone
+
+* 2 or 3 beans
+
+# Savoir 5--Critical
+
+* Cultural relativism
+    * judgments impossible
+        * 2 sides to every question
+        * double standards
+
+# Right commitee respone
+
+* 2 beans
 
 # [The Ugly American](http://www.google.com/search?q=ugly%20american&num=100)
 
@@ -97,23 +250,17 @@ Say what you think Americans think.
 
 # Differing views
 
-| Unacceptable			Understandable
-| Doris (ridiculous)		Stella (The Americans mean no offense)
+    Unacceptable			Understandable
+    Doris (ridiculous)		Stella (The Americans mean no offense)
 
 # Differing views
 
-| Sally Mil Eva
-| UNACCEPTABLE		Cheer	UNDERSTANDABLE
-| Miru      Doris               Stella Jill
-| Mandy   Anita                  Lin Yvonne
-|      Jay Cindy
-|       Jennifer
-
-# Interviews
-
-Pink:Stella and Blue:Cindy interview each other.
-Orange:Lin and Black:Anita interview each other.
-Purple:Assistants and Judges
+     Sally Mil Eva
+     UNACCEPTABLE		Cheer	UNDERSTANDABLE
+     Miru      Doris               Stella Jill
+     Mandy   Anita                  Lin Yvonne
+          Jay Cindy
+           Jennifer
 
 # culture as the water round the fish
 
