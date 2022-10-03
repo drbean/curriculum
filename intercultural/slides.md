@@ -186,9 +186,13 @@ to following students.
 * Expatriate
 * Counter culture representative
 
-# Right commitee respone
+# Right committee response
 
 * 2 beans
+
+I talk about how I'm in a bubble 
+isolated from, and not 
+having an interest in Taiwan culture.
 
 # Savoir 2--Knowledge
 
@@ -196,13 +200,19 @@ to following students.
 * Not much idea about family life
 * Would like to study calligraphy
 
-# Right commitee respone
+# Right committee response
 
 * 2 beans
 
+I talk about what I DON'T know about and 
+what I would like to know about, but not 
+about what I DO know about.
+
 # Savoir 3--Comparison/contrast
 
-Sees parallels
+# Savoir 3--Comparison/contrast
+
+Sees parallels, compares 2 events
 
 * Christmas and Chinese New Year
    * Family gathering
@@ -210,37 +220,64 @@ Sees parallels
    * Gifts
    * Not really religious
 
-Sees differences
+# Savoir 3--Comparison/contrast
+
+Distinguishes differences
 
 * Learning foreign languages
-* Parents attitude to children's 
+* Parents' attitude to children's 
   education
   
-# Right commitee respone
+# Right committee response
 
 * 3 beans
 
+I can interpret Taiwanese culture in 
+terms of my own culture.
+
 # Savoir 4--Quick to learn, adept
 
-* Careful, rather than masterly
+* Careful (passive), rather than 
+  masterly (active)
+* Patient, accept ambiguity/confusion
 
-# Right commitee respone
+# Right committee response
 
 * 2 or 3 beans
+
+Good communicator learners are not 
+afraid of making mistakes. In the other 
+culture, they LIKE making mistakes, and 
+learn from their mistakes.
 
 # Savoir 5--Critical
 
 * Cultural relativism
-    * judgments impossible
+    * good/bad judgments impossible
         * 2 sides to every question
-        * double standards
+	* [double standards](http://www.urbandictionary.com/define.php?term=double+standards)
 
-# Right commitee respone
+# Right committee response
 
 * 2 beans
 
-# [The Ugly American](http://www.google.com/search?q=ugly%20american&num=100)
+I AVOID making judgments and have 
+REASONS for doing that.
 
+# Homework
+
+* Savoir 1. Think of a country to go to. Why?
+* Savoir 2. Find out some cultural facts/way of 
+  life in that country.
+* Savoir 3. Interpret those facts in 
+  terms of Taiwanese culture.
+* Savoir 4. Think about communication 
+  problems (NOT language problems) 
+  there. How would you solve them?
+* Savoir 5. What is good/bad about the culture? 
+  What are your criteria?
+
+# [The Ugly American](http://www.google.com/search?q=ugly%20american&num=100)
 
 # Ugly American videos
 
@@ -281,7 +318,18 @@ After one month: What a wonderful country!
 
 After 7 months: They do everything the wrong way here. It is very irritating!
 
-# Culture as iceberg, island (unseen beneath water)
+It's like the air. We're not aware of 
+the air. When we're drowning we are 
+aware.
+
+The other culture teaches us that.
+
+# Culture as iceberg
+
+![90% is under 
+water](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.pinimg.com%2Foriginals%2F87%2Fce%2Fb7%2F87ceb7717fa9836124b0ed2b9bb41fa2.jpg&f=1&nofb=1&ipt=fa09eaac3f746df40a39e7714197009b24f7ffa4fe043c4aa190bddd2cfd7b6a&ipo=images)
+
+# Other savoir activities
 
 file:///home/owuser/curriculum/intercultural/M_1_2_2_-Cultural-iceberg-and-Byrams-framework4.ppt
 
