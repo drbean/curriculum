@@ -277,6 +277,11 @@ REASONS for doing that.
 * Savoir 5. What is good/bad about the culture? 
   What are your criteria?
 
+# Other savoir activities
+
+* http://cslw.eu/toolkit/
+* https://sp.intercultural.ro/m1_2-cultural-iceberg-and-byrams-framework/
+
 # [The Ugly American](http://www.google.com/search?q=ugly%20american&num=100)
 
 # Ugly American videos
@@ -328,10 +333,6 @@ The other culture teaches us that.
 
 ![90% is under 
 water](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.pinimg.com%2Foriginals%2F87%2Fce%2Fb7%2F87ceb7717fa9836124b0ed2b9bb41fa2.jpg&f=1&nofb=1&ipt=fa09eaac3f746df40a39e7714197009b24f7ffa4fe043c4aa190bddd2cfd7b6a&ipo=images)
-
-# Other savoir activities
-
-file:///home/owuser/curriculum/intercultural/M_1_2_2_-Cultural-iceberg-and-Byrams-framework4.ppt
 
 # German-American misunderstanding about smiling
 
