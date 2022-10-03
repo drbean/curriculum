@@ -139,7 +139,8 @@ communicative competence.
 
 Choose which country to go to, but 
 convince the committee you have
-the 5 intercultural skills.
+the 5 intercultural skills (and can 
+speak English).
 
 The 'beans' you get from the committee
 are your grade for the class.
@@ -148,22 +149,24 @@ are your grade for the class.
 
 For each of the 5 intercultural skills
 plus English ability, each committee 
-member decides to award either 2 or 3 
+member decides to award either
+[2 or 3](file:///C:/home/owuser/curriculum/intercultural/eval_savoir.pdf)
 beans.
 
 Then each of the 6 committee members hands over
 a total of 10, 11, 13, 14, 16, or 17 
 beans.
 
-# Beans
+# [Beans](http://drbean.sdf.org/topics/seventeen_bean.pdf)
 
 The 'beans' you get from the committee
 are your grade for the class.
 
 # On return
 
-You join the committee and award 'beans' 
-to following students.
+You join the committee and award your 
+remaining 'beans' (not the beans you got 
+from the committee) to following students.
 
 # Committee questions
 
@@ -277,10 +280,14 @@ REASONS for doing that.
 * Savoir 5. What is good/bad about the culture? 
   What are your criteria?
 
+# Byram book
+
+[DEVELOPING THE INTERCULTURAL DIMENSION IN LANGUAGE TEACHING](file:///C:/home/owuser/curriculum/intercultural/Guide_dimintercult_EN.pdf)
+
 # Other savoir activities
 
-* http://cslw.eu/toolkit/
-* https://sp.intercultural.ro/m1_2-cultural-iceberg-and-byrams-framework/
+* [http://cslw.eu/toolkit/](http://cslw.eu/toolkit/)
+* [https://sp.intercultural.ro/m1_2-cultural-iceberg-and-byrams-framework/](https://sp.intercultural.ro/m1_2-cultural-iceberg-and-byrams-framework/)
 
 # [The Ugly American](http://www.google.com/search?q=ugly%20american&num=100)
 
