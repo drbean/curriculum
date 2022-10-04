@@ -26,6 +26,11 @@ mainfont: latinmodern-math.otf
 + Speaking
 + 5 Intercultural skills
 
+# Non-verbal communication
+
+* [Yes and no](https://en.wiktionary.org/wiki/yes_and_no)
+* [The words, yes and no](https://en.wikipedia.org/wiki/Yes_and_no)
+
 # Indian head bobble/shake/wobble/movement
 
 a. Intercultural communication
