@@ -229,6 +229,14 @@ relationship:
           - Erin Thomson
           - You are a student at Yale University. Your brother goes to Chinmin.
   flash:
+    0:
+      Melanie: first on left
+      Mel: second from left
+      Sarah: third from left
+      Dan: fourth from left
+      Fred: third from right
+      Katie: second from right
+      Nancy: first on right
     1:
       A: My sister is named Sarah. She's third from the left in my family's picture.
       B: I'm standing on the left. My husband is Dan. My sister is Nancy.

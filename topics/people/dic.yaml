@@ -109,6 +109,20 @@
     B:  Well, he is 8 years old, and I am 12. And he wears glasses. But we always look happy!
   - whole.adjective here.adverb today.adverb all.determiner see.verb soccer.noun You.pronoun after.preposition Do.verb both.determiner hair.noun face.noun looks.verb his.pronoun look.verb cousin.noun there.adverb is.verb think.verb like.preposition so.adverb Well.adverb old.adjective glasses.noun always.adverb happy.adjective End
 -
+  - "family-3"
+  - "family-3"
+  - "topics"
+  - "all"
+  - |+
+    B:  Our teacher looks very kind.
+    G:  Yes, she is. She's my aunt.
+    B:  I see. You look like her.
+    G:  Really? Everyone tells me I take after my mother.
+    B:  What does your mother look like?
+    G:  She is short. She looks young. 
+    B:  Then you must look like both of them.
+  - teacher.noun looks.verb she.pronoun my.pronoun aunt.noun see.verb like.preposition Really.adverb tells.verb take.verb mother.noun does.verb like.preposition short.adjective young.adjective must.verb both.determiner End
+-
   - "relationship-0"
   - "relationship-0"
   - "topics"
