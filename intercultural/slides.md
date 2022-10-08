@@ -170,8 +170,11 @@ are your grade for the class.
 # On return
 
 You join the committee and award your 
-remaining 'beans' (not the beans you got 
+remaining 'beans' (NOT the beans you got 
 from the committee) to following students.
+
+* Keep the beans you were AWARDED separate.
+Don't lose them. They are your grade.
 
 # Committee questions
 
@@ -184,6 +187,41 @@ from the committee) to following students.
 * Will it be easy for you to fit in?
 * Will you be able to justify your 
   opinions about life there?
+
+# Simulation procedure--3 stages
+
+# Interview
+
+* Interviewee-interviewers talk about 
+the culture. Interviewers ask about &
+interviewee tries to show the 5 savoirs 
+and English ability.
+
+* Interviewers award beans, totaling 60~100.
+
+# Metamorphosis
+
+## Interviewee-to-interviewer
+
+* Interviewee joins the committee, 
+  becoming an interviewER.
+
+## Interviewer-to-interviewee
+
+* Interviewer 1 leaves for an interview 
+  with the next committee and committee 
+  member 1 from the committee on the 
+  other side comes to be interviewed.
+
+# Interviewers!
+
+Are you ready to listen and ask 
+questions?
+
+# Interviewees!
+
+Are you ready to talk about the 
+culture/country you have chosen?
 
 # Dr Bean answers questions
 
