@@ -164,6 +164,8 @@ beans.
 
 # [Beans](http://drbean.sdf.org/topics/seventeen_bean.pdf)
 
+Make sure you get 6 beans from all committee members.
+
 The 'beans' you get from the committee
 are your grade for the class.
 
@@ -185,6 +187,7 @@ Don't lose them. They are your grade.
 * How well will you be able to relate 
   strange customs to Taiwanese culture?
 * Will it be easy for you to fit in?
+* How will you solve communication problems?
 * Will you be able to justify your 
   opinions about life there?
 
@@ -213,6 +216,59 @@ and English ability.
   member 1 from the committee on the 
   other side comes to be interviewed.
 
+# Awarding beans
+
+Each committee member has only 6 
+different value beans for the 6 
+interviewees.
+
+# Awarding beans
+
+Each committee member has no choice 
+about the beans to be awarded the last
+interviewee.
+
+# Awarding beans
+
+Keep in mind how many more interviewees 
+remain. Try to predict how well they 
+will do.
+
+# 2 sets of beans
+
+Some committees only have 5 members.
+
+I will give an extra set of beans to
+one member.
+
+When that member leaves, give the 
+remaining beans in the set (maybe only 
+1) to another member to give to 
+interviewees.
+
+# [Initial groups](http://drbean.sdf.org/intercultural/session0.txt)
+
+::: nonincremental
+
+* Leave belongings in the bag racks!
+* Find other members.
+* Arrange chairs in a circle.
+* Check
+	* understanding of procedure
+	* own role in next step
+* Practice questions, statements.
+
+:::
+
+# [First interview](http://drbean.sdf.org/intercultural/session1.txt)
+
+::: nonincremental
+
+* Interviewee moves to next group
+* Greets/is greeted by interviewers
+
+:::
+
 # Interviewers!
 
 Are you ready to listen and ask 
@@ -222,6 +278,41 @@ questions?
 
 Are you ready to talk about the 
 culture/country you have chosen?
+
+# Savoir 1--Interest
+
+* Why do you want to go there?
+* Why would life there be interesting?
+* Other questions
+
+# Savoir 2--Knowledge
+
+* How much do you know about their 
+  customs?
+* What do you know about their 
+  customs?
+* Other questions
+
+# Savoir 3--Comparison/contrast
+
+* What are some strange customs in that 
+  place?
+* How well can you relate strange 
+  customs to Taiwanese culture?
+* Other questions
+
+# Savoir 4--Quick to learn, adept
+
+* Will it be easy for you to fit in?
+* How will you solve communication problems?
+* Other questions
+
+# Savoir 5--Critical
+
+* What is good and bad about the place?
+* Why do you think so?
+* Can you justify your opinions about life there?
+* Other questions
 
 # Dr Bean answers questions
 
