@@ -314,17 +314,17 @@ culture/country you have chosen?
 * Can you justify your opinions about life there?
 * Other questions
 
-# [2nd interviews](file:///C:/home/User/curriculum/intercultural/session2.txt)
+# [2nd interviews](http://drbean.sdf.org/intercultural/session2.txt)
 
-# [3rd interviews](file:///C:/home/User/curriculum/intercultural/session3.txt)
+# [3rd interviews](http://drbean.sdf.org/intercultural/session3.txt)
 
-# [4th interviews](file:///C:/home/User/curriculum/intercultural/session4.txt)
+# [4th interviews](http://drbean.sdf.org/intercultural/session4.txt)
 
-# [5th interviews](file:///C:/home/User/curriculum/intercultural/session5.txt)
+# [5th interviews](http://drbean.sdf.org/intercultural/session5.txt)
 
-# [6th interviews](file:///C:/home/User/curriculum/intercultural/session6.txt)
+# [6th interviews](http://drbean.sdf.org/intercultural/session6.txt)
 
-# [7th interviews](file:///C:/home/User/curriculum/intercultural/session7.txt)
+# [7th interviews](http://drbean.sdf.org/intercultural/session7.txt)
 
 # Dr Bean answers questions
 
