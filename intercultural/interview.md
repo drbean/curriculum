@@ -35,7 +35,7 @@ are your grade for the class.
 For each of the 5 intercultural skills
 plus English ability, each committee 
 member decides to award either
-[2 or 3](file:///C:/home/owuser/curriculum/intercultural/eval_savoir.pdf)
+[2 or 3](http://drbean.sdf.org/intercultural/eval_savoir.pdf)
 beans.
 
 Then each of the 6 committee members hands over
