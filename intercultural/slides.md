@@ -428,7 +428,7 @@ REASONS for doing that.
 
 # Byram book
 
-[DEVELOPING THE INTERCULTURAL DIMENSION IN LANGUAGE TEACHING](file:///C:/home/owuser/curriculum/intercultural/Guide_dimintercult_EN.pdf)
+[DEVELOPING THE INTERCULTURAL DIMENSION IN LANGUAGE TEACHING](http://drbean.sdf.org/intercultural/Guide_dimintercult_EN.pdf)
 
 # Other savoir activities
 
