@@ -374,3 +374,12 @@ move:
       2. vase: vase.png
       2. dog: dog.jpg
       2. car: car_door.jpg
+    4:
+      window: open_window.jpg
+      close: close.jpg
+      walk: walk.png
+      vase: vase.png
+      dog: dog.jpg
+      car: car_door.jpg
+      look: look.jpg
+      door: door.jpg
