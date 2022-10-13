@@ -245,4 +245,25 @@ relationship:
       E: My cousins are named Mel and Sarah.
       F: My wife is Nancy. My brother-in-law is Dan and my sister-in-law is Melanie.
       G: My brother is Mel. My mother is Melanie. My cousin is Katie.
-        
+      :
+  battleship:
+    0:
+      Mel:
+        prompt: Is Mel A's B?
+        Melanie: son
+        Mel: self
+        Sarah: brother
+        Dan: son
+        Fred: nephew
+        Katie: cousin
+        Nancy: nephew
+      Melanie:
+        prompt: Is Melanie A's B?
+        Melanie: self
+        Mel: mother
+        Sarah: mother
+        Dan: wife
+        Fred: sister-in-law
+        Katie: aunt
+        Nancy: sister
+          
