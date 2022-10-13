@@ -188,8 +188,7 @@ music:
       practice    : practice.jpg
       musician    : musician.jpg
       orchestra   : orchestra.jpg
-  3:
-    flash:
+    3:
         clarinet    : 單簧管
         instruments : 樂器
         music       : 音樂
