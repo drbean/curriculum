@@ -134,6 +134,39 @@ art:
 music:
   match:
     1:
+      identifier: violin birthday present
+      pair:
+        -
+          - Maria ...
+          - ... is happy.
+        -
+          - Today ...
+          - ... is her birthday.
+        -
+          - She has one ...
+          - ... present.
+        -
+          - It is ...
+          - ... big!
+        -
+          - What ...
+          - ... is it?
+        -
+          - She thinks it's ...
+          - ... an instrument, but which one?
+        -
+          - Is ...
+          - ... it a clarinet? No.
+        -
+          - Is it ...
+          - ... a horn? No.
+        -
+          - Is it a ...
+          - ... drum? No.
+        -
+          - Surprise! It's a violin! It is beautiful. ...
+          - ... Maria is happy. She loves music.
+    2:
       identifier: music 3x3 quiz pics
       pair:
         -
@@ -163,7 +196,7 @@ music:
         -
           - bottom right hand corner.
           - a violin
-    2:
+    3:
       identifier: Artie Shaw sentence match
       pair:
         -
@@ -200,6 +233,7 @@ music:
   bingo:
     - clarinet instruments music violin concert practice musician orchestra piano many times week tonight theater good sister plays school 
     - I practice piano many times week There concert tonight at theater Rebecca is a good musician My sister plays violin in the school orchestra
+    - Maria happy today her birthday she has one present big what it thinks an instrument but which a clarinet horn drum no surprise it's violin is beautiful loves music
     -
       - People who write music are called composers.                                              _誰寫的音樂人被稱為作曲家。_
       - Most of the time, composers writes their music down in the form of notes.                 _大多數時候，作曲家以音符的形式寫入他們的音樂了。_
