@@ -19,8 +19,8 @@ icecream:
   bingo:
     - over fifty spicy_food ice_cream job makes old some dessert throws good bad big cold hot doctor veterinarian dentist nurse teeth teacher hospital police_officer care interesting crooked animals people
 job:
-  0:
-    flash:
+  flash:
+    0:
       firefighter    : firefighter.jpg
       policeofficer  : policeofficer.jpg
       doctor         : doctor.jpg
@@ -29,8 +29,7 @@ job:
       teacher        : teacher.jpg
       waiter         : waiter.jpg
       dentist        : dentist.jpg
-  1:
-    flash:
+    1:
       fire fighter   : 消防員
       police officer : 警官
       doctor         : 醫生
@@ -39,8 +38,7 @@ job:
       teacher        : 老師
       waiter         : 服務員
       dentist        : 牙醫
-  2:
-    flash:
+    2:
       photographer     : photographer.jpg
       photographer-2   : photographer-2.jpg
       pilot            : pilot.jpg
@@ -49,8 +47,7 @@ job:
       singer           : singer.jpg
       dancer           : dancer.jpg
       astronaut        : astronaut.jpg
-  3:
-    flash:
+    3:
       photographer     : 攝影師
       pilot            : 飛行員
       musician         : 音樂家
@@ -59,8 +56,7 @@ job:
       astronaut        : 宇航員
       sailor           : 水手
       business person  : 商務人士
-  4:
-    flash:
+    4:
       firefighter    : 消防隊員
       cartoonist     : 漫畫家
       publisher      : 發布者
@@ -85,6 +81,8 @@ job:
 
 
   bingo:
+    - firefighter policeofficer doctor nurse chef teacher waiter dentist touch walk jump run floor window door wall      
+    - firefighter policeofficer doctor nurse chef teacher waiter dentist 
     - fire_fighter police_officer doctor nurse chef teacher waiter dentist photographer pilot musician singer dancer astronaut
     - firefighter cartoonist publisher army drummer medical soldier factory
     -
