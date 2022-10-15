@@ -435,6 +435,55 @@ REASONS for doing that.
 * [http://cslw.eu/toolkit/](http://cslw.eu/toolkit/)
 * [https://sp.intercultural.ro/m1_2-cultural-iceberg-and-byrams-framework/](https://sp.intercultural.ro/m1_2-cultural-iceberg-and-byrams-framework/)
 
+# Government organizations creating 'soft power' internationally
+
+# The British Council
+
+![British Council](https://www.britishcouncil.org/)
+
+# The German Goethe Institut
+
+[Goethe Institut](https://www.goethe.de/en/index.html)
+
+# The French Alliance Francaise
+
+[Alliance Francaise](https://af-france.fr/en)
+
+# The Spanish Instituto Cervantes
+
+[Instituto Cervantes](https://www.cervantes.es/default.htm)
+
+# The U.S. Bureau of Educational and Cultural Affairs
+
+![US cultural exchanges](https://eca.state.gov/)
+
+# Key soft US power topics
+
+[Key topics](https://www.state.gov/key-topics-bureau-of-educational-and-cultural-affairs/)
+
+# Learning English
+
+[American English](http://americanenglish.state.gov/)
+
+# Mainland China's Confucius Institutes
+
+Chinese-funded "cultural centers" on college campuses in US, Europe, everywhere
+
+# 孔子課堂
+# Teaching Chinese, creating soft power
+
+![Abandoned!](http://sites.asiasociety.org/confuciusclassroom/)
+
+[Keep your money!](https://asiasociety.org/china-learning-initiatives/update-asia-societys-chinese-language-program)
+
+
+
+# Confucius Institutes face resistance
+
+https://www.nas.org/reports/after-confucius-institutes/full-report
+
+# The Ugly Chinese
+
 # [The Ugly American](http://www.google.com/search?q=ugly%20american&num=100)
 
 # Ugly American videos
