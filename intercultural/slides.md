@@ -470,19 +470,45 @@ REASONS for doing that.
 Chinese-funded "cultural centers" on college campuses in US, Europe, everywhere
 
 # 孔子課堂
+
 # Teaching Chinese, creating soft power
 
 ![Abandoned!](http://sites.asiasociety.org/confuciusclassroom/)
 
 [Keep your money!](https://asiasociety.org/china-learning-initiatives/update-asia-societys-chinese-language-program)
 
-
-
 # Confucius Institutes face resistance
 
-https://www.nas.org/reports/after-confucius-institutes/full-report
+[孔子學院 returns to US colleges through back door](https://www.nas.org/reports/after-confucius-institutes/full-report)
+
+
+# Which topic
+
+::: nonincremental
+
+* Intercultural communication
+* Cross-cultural differences
+* The multicultural society
+* Business and culture
+* Taiwan culture in the world
+
+:::
+
+# Some Americans don't support Taiwan against China
+
+58.1% of voters believe the U.S. military should defend Taiwan.
+
+# Trump 
+
+* Thinks China will invade Taiwan "sooner rather than later."
+* Compares Taiwan to the
+[tip of his pen](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse2.mm.bing.net%2Fth%3Fid%3DOIP.mDOcTkkNg_KtMzmTEdT6OQHaEb%26pid%3DApi&f=1&ipt=b5d1872b27ca40039d94c6032b6438cb72ba60dac8a05c1ccbb117fe1ee96228&ipo=images)
+, while China is his large desk.
+
+https://www.facebook.com/watch/?v=201640871238923
 
 # The Ugly Chinese
+
 
 # [The Ugly American](http://www.google.com/search?q=ugly%20american&num=100)
 
