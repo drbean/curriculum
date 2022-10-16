@@ -1,0 +1,71 @@
+\documentclass[a4paper]{article}
+\usepackage[T1]{fontenc}
+% \usepackage[absolute,noshowtext,showboxes]{textpos}
+\usepackage[absolute,showboxes]{textpos}
+% \textblockorigin{0.00cm}{1.75cm}
+% \textblockorigin{0.00cm}{0.00cm}
+% \textblockorigin{0.08cm}{1.04cm}
+\textblockorigin{0.08cm}{0.04cm} %HPLaserJet5000LE
+\usepackage{texdraw}
+\pagestyle{empty}
+\setlength{\unitlength}{1cm}
+\newcommand{\mycard}{%
+\hspace{-0.4cm}\begin{tabular}{ l p{0.7cm} p{0.7cm} p{0.7cm} p{0.7cm} p{0.7cm} p{0.7cm} p{0.7cm} r  }
+\texttt{Topic:} & \multicolumn{3}{r}{Promoters} & \multicolumn{4}{c}{Detractors} \\
+              & & & & & & \\
+Person  & 1   & 2   & 3   & 4   & 5   & 6   & 7   \\ \hline
+              & & & & & & \\
+\texttt{Comments}      & Many or Few & Many or Few & Many or Few & Many or Few & Many or Few & Many or Few & Many or Few \\
+              & & & & & & \\
+\texttt{Ideas}       & Good or Weak & Good or Weak & Good or Weak & Good or Weak & Good or Weak & Good or Weak & Good or Weak \\
+              & & & & & & \\
+\texttt{English}     & Lots or Not & Lots or Not & Lots or Not & Lots or Not & Lots or Not & Lots or Not & Lots or Not \\ \hline
+& & & & & & \\
+\texttt{Total}         & \_/4 & \_/4 & \_/4 & \_/4 & \_/4 & \_/4 & \_/4 \\
+\end{tabular}
+}
+
+\begin{document}
+\fontfamily{hlst}\fontseries{b}\fontshape{n}\selectfont
+
+\begin{textblock}{8}(0,0)
+\textblocklabel{picture1}
+\mycard{}
+\end{textblock}
+
+\begin{textblock}{8}(8,0)
+\textblocklabel{picture2}
+\mycard{}
+\end{textblock}
+
+\begin{textblock}{8}(0,4)
+\textblocklabel{picture3}
+\mycard{}
+\end{textblock}
+
+\begin{textblock}{8}(8,4)
+\textblocklabel{picture4}
+\mycard
+\end{textblock}
+
+\begin{textblock}{8}(0,8)
+\textblocklabel{picture5}
+\mycard
+\end{textblock}
+
+\begin{textblock}{8}(8,8)
+\textblocklabel{picture6}
+\mycard
+\end{textblock}
+
+\begin{textblock}{8}(0,12)
+\textblocklabel{picture7}
+\mycard
+\end{textblock}
+
+\begin{textblock}{8}(8,12)
+\textblocklabel{picture8}
+\mycard
+\end{textblock}
+
+\end{document}
