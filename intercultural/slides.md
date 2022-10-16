@@ -443,15 +443,15 @@ REASONS for doing that.
 
 # The German Goethe Institut
 
-[Goethe Institut](https://www.goethe.de/en/index.html)
+![Goethe Institut](https://www.goethe.de/en/index.html)
 
 # The French Alliance Francaise
 
-[Alliance Francaise](https://af-france.fr/en)
+![Alliance Francaise](https://af-france.fr/en)
 
 # The Spanish Instituto Cervantes
 
-[Instituto Cervantes](https://www.cervantes.es/default.htm)
+![Instituto Cervantes](https://www.cervantes.es/default.htm)
 
 # The U.S. Bureau of Educational and Cultural Affairs
 
@@ -463,7 +463,7 @@ REASONS for doing that.
 
 # Learning English
 
-[American English](http://americanenglish.state.gov/)
+![American English](http://americanenglish.state.gov/)
 
 # Mainland China's Confucius Institutes
 
@@ -475,11 +475,11 @@ Chinese-funded "cultural centers" on college campuses in US, Europe, everywhere
 
 ![Abandoned!](http://sites.asiasociety.org/confuciusclassroom/)
 
-[Keep your money!](https://asiasociety.org/china-learning-initiatives/update-asia-societys-chinese-language-program)
+![Keep your money!](https://asiasociety.org/china-learning-initiatives/update-asia-societys-chinese-language-program)
 
 # Confucius Institutes face resistance
 
-[孔子學院 returns to US colleges through back door](https://www.nas.org/reports/after-confucius-institutes/full-report)
+![孔子學院 returns to US colleges through back door](https://www.nas.org/reports/after-confucius-institutes/full-report)
 
 
 # Which topic
@@ -494,6 +494,8 @@ Chinese-funded "cultural centers" on college campuses in US, Europe, everywhere
 
 :::
 
+# Motivating the simulation
+
 # Some Americans don't support Taiwan against China
 
 58.1% of voters believe the U.S. military should defend Taiwan.
@@ -503,9 +505,121 @@ Chinese-funded "cultural centers" on college campuses in US, Europe, everywhere
 * Thinks China will invade Taiwan "sooner rather than later."
 * Compares Taiwan to the
 [tip of his pen](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse2.mm.bing.net%2Fth%3Fid%3DOIP.mDOcTkkNg_KtMzmTEdT6OQHaEb%26pid%3DApi&f=1&ipt=b5d1872b27ca40039d94c6032b6438cb72ba60dac8a05c1ccbb117fe1ee96228&ipo=images)
-, while China is his large desk.
+, while China is his
+[large desk.](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse2.mm.bing.net%2Fth%3Fid%3DOIP.7rGQ4sZ29L2ahRLg4EdMvQHaFF%26pid%3DApi&f=1&ipt=460f91a0a37b144f217c7430d8ffae9b8da203f97abc079f4383d3d869692167&ipo=images)
 
-https://www.facebook.com/watch/?v=201640871238923
+# John Bolton says Trump doesn't value Taiwan
+
+[Trump advisor critical](https://www.facebook.com/watch/?v=201640871238923)
+
+# Simulation: US reaction to Taiwan lecture
+
+A lecturer talks about Taiwanese culture
+to an audience of both friendly and
+critical/unfriendly Americans.
+
+Unlike China, Taiwan welcomes criticism 
+and dissent.
+
+# Lecturers
+
+The 7 members of one group choose 
+one topic that each will lecture on to 
+auditors in one of the other 6 groups.
+
+# Topics
+
+Groups choose controversial topics 
+that can generate dissent.
+
+::: nonincremental
+
+* Taiwan education
+* Night markets
+* Taiwan politics
+
+:::
+
+They prepare scripts from
+[wikipedia](http://en.wikipedia.org)
+
+# Promoters and detractors
+
+::: nonincremental
+
+* *Promoters*: half the audience agree
+  with the speaker, think the topic is 
+  good.
+* *Detractors*: half the audience don't 
+  think the topic is good or disagree
+  with the speaker.
+
+:::
+
+# Simulation procedure--3 stages
+
+# Lecture
+
+* Lecturer reads one sentence. Waits.
+* Audience comments.
+* Lecturer reads next sentence. Waits.
+* Audience comments.
+
+# Example
+
+*Lecturer*
+
+	Taiwanese night markets 
+	are street markets in Taiwan 
+	that operate in urban or 
+	suburban areas.
+
+*Promoter*
+
+	Night markets are great.
+
+*Detractor*
+
+	I don't think so.
+
+# Beans
+
+* Lecturers award 2, 3 or 4 beans.
+* Lecturers return to group.
+
+# Next lecture
+
+* The next group becomes lecturers
+
+* The promoters become detractors and the 
+detractors become promoters.
+
+# Beans
+
+This time, the speaker awards beans to 
+the 7 in the audience.
+
+# Beans
+
+The
+[2, 3 or 4](http://drbean.sdf.org/intercultural/eval_auditor.pdf)
+beans are not for the 5 intercultural skills,
+and not for agreeing/disagreeing with 
+the speaker.
+
+They are for number of comments, good 
+ideas and English ability.
+
+# [Beans](http://drbean.sdf.org/topics/four_three_two_bean.pdf)
+
+Make sure each of the 7 in the audience 
+get one note.
+
+The total 'beans' you get after the 7 lectures
+are your grade for the class.
+
+# [First lecture](http://drbean.sdf.org/intercultural/session1.txt)
+
 
 # The Ugly Chinese
 
