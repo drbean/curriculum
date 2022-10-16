@@ -512,6 +512,10 @@ Chinese-funded "cultural centers" on college campuses in US, Europe, everywhere
 
 [Trump advisor critical](https://www.facebook.com/watch/?v=201640871238923)
 
+# US Confucius Institute gives China the bird
+
+https://www.politico.com/news/magazine/2022/04/24/confucius-institutes-china-new-mexico-00027287
+
 # Simulation: US reaction to Taiwan lecture
 
 A lecturer talks about Taiwanese culture
