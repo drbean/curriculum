@@ -435,27 +435,27 @@ REASONS for doing that.
 * [http://cslw.eu/toolkit/](http://cslw.eu/toolkit/)
 * [https://sp.intercultural.ro/m1_2-cultural-iceberg-and-byrams-framework/](https://sp.intercultural.ro/m1_2-cultural-iceberg-and-byrams-framework/)
 
-# Government organizations creating 'soft power' internationally
+# Government organizations projecting 'soft power' internationally
 
 # The British Council
 
-![British Council](https://www.britishcouncil.org/)
+![Lectures](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.U9axg9dzcFSp_dNAiJTmMwHaEI%26pid%3DApi&f=1&ipt=408bea721c60e97da139388577b6c6db0290041010a02d9db80aabb7de7b1cf2&ipo=images)
 
 # The German Goethe Institut
 
-![Goethe Institut](https://www.goethe.de/en/index.html)
+![People](https://www.goethe.de/resources/files/jpg879/gruppe1web-formatkey-jpg-w1966.jpg)
 
 # The French Alliance Francaise
 
-![Alliance Francaise](https://af-france.fr/en)
+![Events](https://i.ytimg.com/vi/GGtUaKFvdl4/maxresdefault.jpg)
 
 # The Spanish Instituto Cervantes
 
-![Instituto Cervantes](https://www.cervantes.es/default.htm)
+![Culture](https://lifestyle.inquirer.net/files/2015/04/t0420libro_feat6_2-660x880.jpg)
 
 # The U.S. Bureau of Educational and Cultural Affairs
 
-![US cultural exchanges](https://eca.state.gov/)
+[US cultural exchanges](https://eca.state.gov/)
 
 # Key soft US power topics
 
@@ -463,24 +463,39 @@ REASONS for doing that.
 
 # Learning English
 
-![American English](http://americanenglish.state.gov/)
+[American English](http://americanenglish.state.gov/)
 
 # Mainland China's Confucius Institutes
 
 Chinese-funded "cultural centers" on college campuses in US, Europe, everywhere
 
-# 孔子課堂
+# 漢辦, 孔子學院, 孔子課堂
 
-# Teaching Chinese, creating soft power
+[HanBan](http://confuciusucc.com/hanbanconfucius-institute-headquarters/)
 
-![Abandoned!](http://sites.asiasociety.org/confuciusclassroom/)
+# Teaching Chinese, projecting soft power
 
-![Keep your money!](https://asiasociety.org/china-learning-initiatives/update-asia-societys-chinese-language-program)
+[Abandoned!](http://sites.asiasociety.org/confuciusclassroom/)
+
+[Keep your money!](https://asiasociety.org/china-learning-initiatives/update-asia-societys-chinese-language-program)
 
 # Confucius Institutes face resistance
 
-![孔子學院 returns to US colleges through back door](https://www.nas.org/reports/after-confucius-institutes/full-report)
+[孔子學院 money returns to US colleges through back door](https://www.nas.org/reports/after-confucius-institutes/full-report)
 
+# Taiwan
+
+[Ministry of Culture](https://www.moc.gov.tw/)
+
+[Ministry of Foreign Affairs](http://www.mofa.gov.tw)
+
+# Taiwan Economic and Cultural Affairs Office--New York
+
+[Work, Learning Chinese, Oceanology](https://www.edutwny.org/news_english)
+
+# [Taipei Cultural Center in NY](https://tccny.moc.gov.tw/)
+
+![Ministry of Culture entity](https://mocfile.moc.gov.tw/banner/small/ebfb27d3-7b69-47be-a8f8-e1f769e16826.jpg?0,398,0,166)
 
 # Which topic
 
@@ -494,7 +509,19 @@ Chinese-funded "cultural centers" on college campuses in US, Europe, everywhere
 
 :::
 
+# US, mainland China, Taiwan's approach
+
+Not 'sexy' (ie not interesting)
+
+# The simulation 
+
+Promoters and detractors debate Taiwan culture.
+
 # Motivating the simulation
+
+* American political conflict
+* Chinese reaction to dissent--suppression
+* Taiwanese welcoming of criticism in US
 
 # Some Americans don't support Taiwan against China
 
@@ -504,7 +531,9 @@ Chinese-funded "cultural centers" on college campuses in US, Europe, everywhere
 
 * Thinks China will invade Taiwan "sooner rather than later."
 * Compares Taiwan to the
-[tip of his pen](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse2.mm.bing.net%2Fth%3Fid%3DOIP.mDOcTkkNg_KtMzmTEdT6OQHaEb%26pid%3DApi&f=1&ipt=b5d1872b27ca40039d94c6032b6438cb72ba60dac8a05c1ccbb117fe1ee96228&ipo=images)
+[tip](https://i0.wp.com/media.globalnews.ca/videostatic/754/819/GNABIGAILBIMMAN_tnb_2_848x480_1585637443568.jpg?w=1040&quality=70&strip=all)
+of his
+[pen](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse2.mm.bing.net%2Fth%3Fid%3DOIP.mDOcTkkNg_KtMzmTEdT6OQHaEb%26pid%3DApi&f=1&ipt=b5d1872b27ca40039d94c6032b6438cb72ba60dac8a05c1ccbb117fe1ee96228&ipo=images)
 , while China is his
 [large desk.](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse2.mm.bing.net%2Fth%3Fid%3DOIP.7rGQ4sZ29L2ahRLg4EdMvQHaFF%26pid%3DApi&f=1&ipt=460f91a0a37b144f217c7430d8ffae9b8da203f97abc079f4383d3d869692167&ipo=images)
 
@@ -512,9 +541,27 @@ Chinese-funded "cultural centers" on college campuses in US, Europe, everywhere
 
 [Trump advisor critical](https://www.facebook.com/watch/?v=201640871238923)
 
-# US Confucius Institute gives China the bird
+# Uyghur
 
-https://www.politico.com/news/magazine/2022/04/24/confucius-institutes-china-new-mexico-00027287
+[Woman with child](https://i1.wp.com/asiaexpertsforum.org/wp-content/uploads/2022/10/Uyghur_people_-_women_and_kid-e1664842807945.jpg?w=679&ssl=1)
+
+# Uyghur UN report
+
+[News](https://news.un.org/en/story/2022/08/1125932)
+
+[The report](https://www.ohchr.org/en/documents/country-reports/ohchr-assessment-human-rights-concerns-xinjiang-uyghur-autonomous-region)
+
+# Foremost American critic of China on Uyghur
+
+[UN report comments](https://asiaexpertsforum.org/james-millward-un-report-uyghur-detention-camps-xinjiang-china/)
+
+# American staff at Confucius Institute plays trick
+
+[Invites Millward to lecture](https://www.politico.com/news/magazine/2022/04/24/confucius-institutes-china-new-mexico-00027287)
+
+# China authoritarian, Taiwan accepting dissent
+
+[Visiting NTU professor critical of progress of integration of indigenous Taiwanese?](https://speech.ntu.edu.tw/ntuspeech/Video/id-3220)
 
 # Simulation: US reaction to Taiwan lecture
 
@@ -539,7 +586,7 @@ that can generate dissent.
 ::: nonincremental
 
 * Taiwan education
-* Night markets
+* [Night markets](https://en.wikipedia.org/wiki/Night_markets_in_Taiwan)
 * Taiwan politics
 
 :::
@@ -571,7 +618,7 @@ They prepare scripts from
 
 # Example
 
-*Lecturer*
+*Lecturer (reading from Wikipedia)*
 
 	Taiwanese night markets 
 	are street markets in Taiwan 
@@ -622,7 +669,29 @@ get one note.
 The total 'beans' you get after the 7 lectures
 are your grade for the class.
 
-# [First lecture](http://drbean.sdf.org/intercultural/session1.txt)
+# [First lecture](http://drbean.sdf.org/intercultural/session11.txt)
+# [Second lecture](http://drbean.sdf.org/intercultural/session12.txt)
+
+# Homework
+
+Members of the group:
+
+* choose easy cultural topic 
+* decide if different opinions are possible
+* find wikipedia article
+* practice reading sentences
+
+# Possible topics
+
+* Night markets
+* Education system
+* NUU
+* Political system
+* Taipei
+* Food
+* Traffic
+* Cars, motorcycles
+* Miaoli
 
 
 # The Ugly Chinese
