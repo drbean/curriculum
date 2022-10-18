@@ -457,6 +457,8 @@ REASONS for doing that.
 
 [US cultural exchanges](https://eca.state.gov/)
 
+Was [USIA](https://en.wikipedia.org/wiki/United_States_Information_Agency)
+
 # Key soft US power topics
 
 [Key topics](https://www.state.gov/key-topics-bureau-of-educational-and-cultural-affairs/)
@@ -573,9 +575,18 @@ Unlike China, Taiwan welcomes criticism
 and dissent.
 
 # Lecturers
+You are from the Taiwan Economic and 
+Cultural Affairs Office in New York and 
+are giving a talk about some aspect of 
+Taiwan culture to a group of Americans.
 
-The 7 members of one group choose 
-one topic that each will lecture on to 
+# Auditors
+Some of the Americans support Taiwan. 
+Some of them are opposed to Taiwan.
+
+# Lecturers
+All 7 members in your group will lecture 
+on the same topic to the American 
 auditors in one of the other 6 groups.
 
 # Topics
@@ -591,19 +602,22 @@ that can generate dissent.
 
 :::
 
-They prepare scripts from
+Prepare scripts from
 [wikipedia](http://en.wikipedia.org)
 
 # Promoters and detractors
 
+You are Americans at a talk about Taiwan
+
 ::: nonincremental
 
-* *Promoters*: half the audience agree
-  with the speaker, think the topic is 
+* *Promoters*: Half the audience agree
+  with the speaker and think the topic is 
   good.
-* *Detractors*: half the audience don't 
-  think the topic is good or disagree
-  with the speaker.
+* *Detractors*: Half the audience don't 
+  support Taiwan. They don't think the 
+  topic is good and they disagree with 
+  the speaker.
 
 :::
 
@@ -635,7 +649,9 @@ They prepare scripts from
 
 # Beans
 
-* Lecturers award 2, 3 or 4 beans.
+* Lecturers pay all Americans 2, 3 or 4 
+  beans, depending on how active they 
+  were.
 * Lecturers return to group.
 
 # Next lecture
@@ -693,6 +709,9 @@ Members of the group:
 * Cars, motorcycles
 * Miaoli
 
+# Other topics
+
+[http://drbean.sdf.org/intercultural/topics.txt](http://drbean.sdf.org/intercultural/topics.txt)
 
 # The Ugly Chinese
 
@@ -2490,6 +2509,12 @@ of view
 Use the words, 'but,' 'although,' 'On the other hand,'
 Disagree with partners.
 Say, What do you think?
+
+# Business and culture
+
+# How to build a good company culture
+
+[15 steps](https://teambuilding.com/blog/improve-company-culture)
 
 # The End
 
