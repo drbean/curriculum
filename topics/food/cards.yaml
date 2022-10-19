@@ -220,6 +220,21 @@ restaurant:
       3:  These potato chips are very tasty.
       4:  We got dessert for free with our dinner.
   match:
+    0:
+      identifier: restaurant ordering
+      pair:
+        -
+          - Are you ready to order?
+          - No, not yet. I need a little more time.
+        -
+          - May I have something to drink?
+          - Of course. What can I get you?
+        -
+          - What would you like for dessert?
+          - I'd like some ice cream, please.
+        -
+          - Can I bring you something to drink?
+          - Sure. That would be great.
     5:
       identifier: bad restaurant conversation
       pair:
