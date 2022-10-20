@@ -437,6 +437,17 @@ REASONS for doing that.
 
 # Government organizations projecting 'soft power' internationally
 
+Propaganda (宣傳) or not propaganda?
+
+# Comparing
+
+One country influencing opinions in other countries
+
+* Europe
+* the US
+* mainland China
+* Taiwan
+
 # The British Council
 
 ![Lectures](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.U9axg9dzcFSp_dNAiJTmMwHaEI%26pid%3DApi&f=1&ipt=408bea721c60e97da139388577b6c6db0290041010a02d9db80aabb7de7b1cf2&ipo=images)
@@ -575,16 +586,22 @@ Unlike China, Taiwan welcomes criticism
 and dissent.
 
 # Lecturers
-You are from the Taiwan Economic and 
-Cultural Affairs Office in New York and 
-are giving a talk about some aspect of 
-Taiwan culture to a group of Americans.
+
+You are Taiwanese. You work at the 
+Taiwan Economic and Cultural Affairs 
+Office in New York. You give talks 
+about Taiwan culture to
+groups of Americans.
 
 # Auditors
-Some of the Americans support Taiwan. 
-Some of them are opposed to Taiwan.
+
+You are American.
+
+Some of you support Taiwan. 
+Some of you are opposed to Taiwan.
 
 # Lecturers
+
 All 7 members in your group will lecture 
 on the same topic to the American 
 auditors in one of the other 6 groups.
@@ -599,11 +616,13 @@ that can generate dissent.
 * Taiwan education
 * [Night markets](https://en.wikipedia.org/wiki/Night_markets_in_Taiwan)
 * Taiwan politics
+* [Smartphone use](http://ccis.dcat.nycu.edu.tw/word/11-06.pdf)
 
 :::
 
 Prepare scripts from
 [wikipedia](http://en.wikipedia.org)
+or other sources
 
 # Promoters and detractors
 
@@ -694,8 +713,10 @@ Members of the group:
 
 * choose easy cultural topic 
 * decide if different opinions are possible
-* find wikipedia article
-* practice reading sentences
+* find wikipedia or other article
+* find good sentences
+* practice reading those sentences
+* share the sentences with the group
 
 # Possible topics
 
@@ -708,6 +729,7 @@ Members of the group:
 * Traffic
 * Cars, motorcycles
 * Miaoli
+* [Smartphone use](http://ccis.dcat.nycu.edu.tw/word/11-06.pdf)
 
 # Other topics
 
