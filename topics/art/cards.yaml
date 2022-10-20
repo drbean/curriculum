@@ -211,6 +211,21 @@ music:
         -
           - He wanted them ..
           - to listen.
+    4:
+      identifier: q-a sentence pair match
+      pair:
+        -
+          - "A: What are you doing today?"
+          - "B: I'm busy. I have to practice the clarinet." 
+        -
+          - "A: Why do you have to practice the clarinet?"
+          - "B: I am playing in an orchestra tonight."
+        -
+          - "A: Wow! Are you a musician?"
+          - "B: Yes, I'm a musician."
+        -
+          - "A: Can I come to the concert to hear you play?"
+          - "B: Sure! That would be great!"
   flash:
     0:
       clarinet    : clarinet.jpg
@@ -230,6 +245,16 @@ music:
         practice    : 練習
         musician    : 音樂家
         orchestra   : 樂隊
+    4:
+       "G：你今天在做什麼？"            : "G: What are you doing today?"             
+       "B：我很忙。"                    : "B: I'm busy."                             
+       "G：為什麼？"                    : "G: Why?"                                  
+       "B：我必須練習單簧管。"          : "B: I have to practice the clarinet."      
+       "B：我今晚在管弦樂隊演奏。"      : "B: I am playing in an orchestra tonight." 
+       "G：哇！ 我不知道你是個音樂家。" : "G: Wow! I didn't know you are a musician."
+       "G：我可以來聽音樂會嗎？"        : "G: Can I come to the concert?"            
+       "G：我想听你演奏。"              : "G: I want to hear you play."              
+       "B：當然！ 那很好啊！"           : "B: Sure! That would be great!"            
   bingo:
     - clarinet instruments music violin concert practice musician orchestra piano many times week tonight theater good sister plays school 
     - I practice piano many times week There concert tonight at theater Rebecca is a good musician My sister plays violin in the school orchestra
