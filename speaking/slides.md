@@ -26,6 +26,18 @@ Literally, but also a metaphor
 * Where is attention of everyone assumed
 to be
 
+# The turn
+
+.. 到那个时候，政治家、我们的政治理论家、政治思想家们该怎么对待这个问题？施展。
+
+施展：实际上刚才刚升已经部分地替我回应了周濂兄令我很不满意的回答。 ..
+
+# Translated
+
+When that happens, how should our politicians, political theorists and political thinkers deal with the problem? Shi Zhan, your turn.　　
+ 
+Shi Zhan:  In fact, just now Gangsheng gave a partial response on my behalf to Zhou Lian’s answer to my question, which left me very dissatisfied.
+
 # Church event--mass
 
 [Sanctus bell ringing](https://www.youtube.com/watch?v=Bh5R76GfbYE)
