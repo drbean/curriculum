@@ -235,6 +235,36 @@ restaurant:
         -
           - Can I bring you something to drink?
           - Sure. That would be great.
+    1:
+      identifier: Is Y having X, or will Y order X?
+      pair:
+        -
+          - Al
+          - a steak
+        -
+          - Bill
+          - rice
+        -
+          - Di
+          - vegetables
+        -
+          - Eve
+          - chicken
+    2:
+      identifier: Does Y know X?
+      pair:
+        -
+          - Al
+          - Al
+        -
+          - Bill
+          - Bill
+        -
+          - Di
+          - Di
+        -
+          - Eve
+          - Eve
     5:
       identifier: bad restaurant conversation
       pair:
