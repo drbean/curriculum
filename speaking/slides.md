@@ -1,20 +1,41 @@
----- config
-# Basic config options.
-title: Speaking
-indent: 5
-height: 18
-width: 50
-skip: 0
+% Speaking
+% Dr Bean (高來圭)
+% http://drbean.sdf.org/presentation.html
 
----- center
-English Speaking!
+---
+mainfont: latinmodern-math.otf
+#mainfontoptions: 
+#- BoldFont=Font-Bold.otf
+#- ItalicFont=Font-Italic.otf
+#- BoldItalicFont=Font-BoldItalic.otf
+...
 
-by Dr Bean
+# Terminology
 
-(hint: press the spacebar)
+* the floor
+	* who owns it
+	* who has it
+	* who gives it to/takes it from who
+		* un/willingly
+* your turn
 
-----
-== Organization
+# Church event--mass
+
+[Sanctus bell ringing](https://www.youtube.com/watch?v=Bh5R76GfbYE)
+[How to ring: 1:35](https://www.youtube.com/watch?v=bEyCKVVSj-g)
+
+People can't see or have gone to sleep 
+and need a
+[wake-up call](https://adoremus.org/2005/03/sanctus-bells/)
+
+# The floor
+
+Literally, but also a metaphor
+
+* Where is attention of everyone assumed
+to be
+
+# Organization
 
 * Types of speech
 +* Public speaking to an audience
@@ -27,8 +48,7 @@ by Dr Bean
 	* At start of class one student comes to front and answers questions
 +* Self-introductions
 
-----
-== 4 4-week sessions
+# 4 4-week sessions
 
 *  First year:
   * Weeks 1-4: Names -- a speech
@@ -40,8 +60,7 @@ by Dr Bean
   * Each week a mixture of topics
     * Week 1: Our feelings about public speaking and our hopes for the course.
 
-----
-== Homework
+# Homework
 
 * First year--Listening to speakers
 
@@ -65,8 +84,7 @@ Then record the location on elearning: 'Recordings'
 
 Do it before 8am Thursday Week 2.
 
-----
-== Homework Week 1
+# Homework Week 1
 
   * Week 1--_30 seconds_ IMPROVISED speech about giving a speech.
   	What do you think about giving a speech.
@@ -80,15 +98,13 @@ Do it before 8am Thursday Week 2.
     * Because it's improvised, it's OK to say, Uhm, Ah, and to pause to think.
    +* Plagiarism
 
-----
-== Grading
+# Grading
 
 * Classwork: 40 percent
 * Homework: 40 percent
 * Exams: 20 percent
  
-----
-== Reagan and Gates reading scripts
+# Reagan and Gates reading scripts
 
 * Look at Reagan. He doesn't pause. He almost knows his script by heart.
       http://www.youtube.com/watch?v=yt1fYSAChxs
@@ -96,8 +112,7 @@ Do it before 8am Thursday Week 2.
 * Look at Gates. He tells a joke or two, like Reagan. He's reading his speech too!
       http://www.youtube.com/watch?v=AP5VIhbJwFs
 
-----
-== Debates
+# Debates
 
 http://en.wikipedia.org/wiki/Debate
 
@@ -216,8 +231,7 @@ Are dogs better than cats?
 Do you agree to legitimate prostitute?
 Should women  be controlled their dressing by their men?
 
-----
-== Homework--Week 1
+# Homework--Week 1
 
 ----
 Content of sound file
@@ -261,8 +275,7 @@ No links to the album. Link directly to the sound file.
 + Late links. Do it before 12pm Wednesday.
 
 
-----
-== Presentations on speaking to learn from
+# Presentations on speaking to learn from
 Jean on fears
       http://www.wretch.cc/album/show.php?i=tsmc019152&b=3&f=1546219783&p=0
 Nelson on organization
@@ -277,8 +290,7 @@ On fears
 On knowing what to do
 	http://www.wretch.cc/album/show.php?i=peichi721&b=1&f=1704519326&p=1
 
-----
-== Saturdays business presentations with Michael
+# Saturdays business presentations with Michael
 
 Thank you, or
 Thanks for your attention, or
@@ -288,8 +300,7 @@ Thanks for your listening
 http://www.google.com/search?q=%22thank%20you%20for%20your%20listening%22&num=100
 http://www.google.com/search?q=%22thanks%20for%20your%20listening%22&num=100
 
-----
-== Week 2 Homework--Self introductions
+# Week 2 Homework--Self introductions
 
 	* My life in 30 seconds
 		- DON'T write it down
@@ -304,8 +315,7 @@ http://www.google.com/search?q=%22thanks%20for%20your%20listening%22&num=100
 	* http://www.youtube.com/watch?v=dydGuB4kFfU
 	* http://www.youtube.com/watch?v=vCfBM4gL2zY&feature=related
 
-----
-== Self-introductions: points to note
+# Self-introductions: points to note
 
 Sharon: Don't read it. We want to see you looking at us.
 
@@ -313,8 +323,7 @@ Sharon: Don't read it. We want to see you looking at us.
 Shally: Make it louder. I have been giving you 2. I will start giving you 1.
 Michelle: Make a FLA0022 album and put all your soundfiles in it.
 
-----
-== Self-introductions to learn from
+# Self-introductions to learn from
 + Cindy on stress and optimism
 	http://www.wretch.cc/album/show.php?i=zzl727&b=1&f=1715608302&p=0
 + Ivy on outdoor life
@@ -345,8 +354,7 @@ Good webcam videos, bad webcam videos, ugly webcam videos
         <li>Adam	<a href="http://youtu.be/XIcpLQj0Hpc">http://youtu.be/XIcpLQj0Hpc</a>
 
 
-----
-== Week 3  Debate scoring
+# Week 3  Debate scoring
 
 * The scores for the debates are:
 +	* Winners: 3
@@ -370,8 +378,7 @@ So I judged in favor of Edith.
 
 I want to hear why the SPEECH is better than the other speech.
 
-----
-== Elearning announcement of result before Monday
+# Elearning announcement of result before Monday
 
 Black vs Blue debate Week 12
 
@@ -387,8 +394,7 @@ Vote: 3.5: 1.5
 Yes votes: Eleven, Moto, Kiki
 No votes: Irin, Lucy
 
-----
-== Job interviews
+# Job interviews
 
 	* http://www.youtube.com/watch?v=gy6eOkYwBS8
 	* http://www.youtube.com/watch?v=Q6mz_yn6em0&feature=related
@@ -396,8 +402,7 @@ No votes: Irin, Lucy
 	* http://www.youtube.com/watch?v=rvSJ6kh5D_o&feature=related
 	* http://www.youtube.com/watch?v=auj3tnTrHso&feature=related
 	
-----
-== Week 4 Homework
+# Week 4 Homework
 
 A 1-minute interview
 
@@ -426,8 +431,7 @@ A interviews B, B interviews C, C interviews D, D interviews A.
 		Under the interviewEE's name:
 		Title: Jessica asks Steven about photography
 
-----
-== Interview Homework
+# Interview Homework
 
 To end:
 	the interviewEE can say: Thanks for your interest.
@@ -440,8 +444,7 @@ To end:
 	the interviewer and interviewee DON'T say to the camera:
 				Thank you for your attention.
 
-----
-== Good interviews:
+# Good interviews:
 
 http://www.wretch.cc/album/show.php?i=ala3183454ta&b=2&f=1913988260&p=0
 http://www.youtube.com/watch?v=zKpn3TYNPCA&feature=youtu.be
@@ -461,16 +464,14 @@ We don't need to pretend anything. It's not a role play.
 The interviewER want to find out something about the interviewEE.
 The interviewEE wants to reveal something to the interviewER in conversation. 
 
-----
-== Good webcam recording
+# Good webcam recording
 
 Both interviewer and interviewee are in view, and looking at each other.
 
 This means they have to sit close together and a bit further away from the
 camera than for just a single person.
 
-----
-== On elearning
+# On elearning
 
 Then record the location on elearning: 'Recordings'
 標題:  	Week 1: Dr Bean 193001 Welcome to FLA0007
@@ -478,8 +479,7 @@ Then record the location on elearning: 'Recordings'
 
 
 
-----
-== Bad interviews:
+# Bad interviews:
 
 Police questions: Invasion of privacy.
 One-way interviews: The interviewee is giving up information.
@@ -495,8 +495,7 @@ Scripted interviews: ones where the interviewer is not listening
 Forced interviews: The interviewee is forced to answer questions
 	unwillingly.
 
-----
-== Interesting:
+# Interesting:
 http://www.urbandictionary.com/define.php?term=interesting
 
 * Don't read it, minus 1 point:
@@ -519,13 +518,11 @@ to previous answer: Rita
 
 Link is to the album, not the MP3 file, minus 1 point: Emily
 
-----
-== NOT a job interview!
+# NOT a job interview!
 
 http://www.wretch.cc/album/show.php?i=tady35&b=3&f=1256475820&p=0
 
-----
-== Good interviews--Bad interviews of people unknown to you
+# Good interviews--Bad interviews of people unknown to you
 
 http://twins.guptara.net/
 http://www.youtube.com/watch?v=Gi7t6vavLIo
@@ -539,29 +536,25 @@ Interviewers: DO take a playful, antagonistic stance
 	        but DO ask an easier question if the interviewee
 		   can't cope.
 
-----
-== Good interviews--Bad interviews of people known to you
+# Good interviews--Bad interviews of people known to you
 
 https://www.youtube.com/watch?v=toiwxitbGyA&feature=youtu.be
 https://www.youtube.com/watch?v=yvIls2oLphI&feature=youtu.be
 https://www.youtube.com/watch?v=piSW6op8G58
 
-----
-== Week 6
+# Week 6
 Week 6 Debate by B's
 Week 6 Recordings--Another presentation
 	with 9-12 words
 	3 lines of 3-4 words
 
-----
-== Presentation 2
+# Presentation 2
 	Title:     Writing software
 	Difficult: Computer languages
 	Fun:       Relaxation from teaching
 	Work:      Useful in classroom
 
-----
-== Interview recordings Week 8
+# Interview recordings Week 8
 
 The interviews MUST be about the week 6 recordings.
 Make questions using the points of the slides.
@@ -580,8 +573,7 @@ C's will interview C's in the next group
 
 The interviewER will get the grade!
 
-----
-== Pairings
+# Pairings
 
 Chelsea interviews Kathy
 Kathy interviews Eva
@@ -627,8 +619,7 @@ Emily2 interviews Abby
 Abby interviews Alan
 Alan interviews Sophie
 
-----
-== Round 1
+# Round 1
 
 Front: Black Blue Brown Gray Green
 Chelsea interviews Kathy
@@ -638,8 +629,7 @@ Joe interviews Hank
 
 After, Chelsea and Joe go to other end.
 
-----
-== Round 2
+# Round 2
 
 Front: Black Blue Brown Gray Green
 Kathy interviews Eva
@@ -649,8 +639,7 @@ Hank interviews Emily2
 
 After, Kathy and Hank go to other end.
 
-----
-== Round 3
+# Round 3
 
 Front: Black Blue Brown Gray Green
 Eva interviews Maggie
@@ -660,8 +649,7 @@ Emily2 interviews Abby
 
 After, Eva and Emily2 go to other end.
 
-----
-== Round 4
+# Round 4
 
 Front: Black Blue Brown Gray Green
 Maggie interviews Jimmy
@@ -671,8 +659,7 @@ Abby interviews Alan
 
 After, Maggie and Abby go to other end.
 
-----
-== Round 5
+# Round 5
 
 Front: Black Blue Brown Gray Green
 Jimmy interviews Joey
@@ -683,8 +670,7 @@ Alan interviews Sophie
 After, Jimmy and Alan go to other end.
 
 
-----
-== Round 6
+# Round 6
 
 Front: Black Blue Brown Gray Green
 Sophie interviews Amy
@@ -694,8 +680,7 @@ Joey interviews Elly
 
 After, Sophie and Joey go to other end.
 
-----
-== Round 7
+# Round 7
 
 Front: Black Blue Brown Gray Green
 Amy interviews Melissa
@@ -705,8 +690,7 @@ Elly interviews Jessica
 
 After, Amy and Elly go to other end.
 
-----
-== Round 8
+# Round 8
 
 Front: Black Blue Brown Gray Green
 Melissa interviews Luke
@@ -716,8 +700,7 @@ Jessica interviews Edison
 
 After, Melissa and Jessica go to other end.
 
-----
-== Round 9
+# Round 9
 
 Front: Black Blue Brown Gray Green
 Luke interviews Cathy
@@ -727,8 +710,7 @@ Edison interviews Donna
 
 After, Luke and Edison go to other end.
 
-----
-== Round 10
+# Round 10
 
 Front: Black Blue Brown Gray Green
 Cathy interviews Ivy1
@@ -738,8 +720,7 @@ Donna interviews Kumiko
 
 After, Cathy and Donna go to other end.
 
-----
-== Round 11
+# Round 11
 
 Front: Black Blue Brown Gray Green
 Kumiko interviews Rachel
@@ -749,8 +730,7 @@ Ivy1 interviews Frances
 
 After, Kumiko and Ivy1 go to other end.
 
-----
-== Round 12
+# Round 12
 
 Front: Black Blue Brown Gray Green
 Rachel interviews Tracy
@@ -760,8 +740,7 @@ Frances interviews Peggy
 
 After, Rachel and Frances go to other end.
 
-----
-== Round 13
+# Round 13
 
 Front: Black Blue Brown Gray Green
 Tracy interviews Nina
@@ -771,8 +750,7 @@ Peggy interviews Jacinta
 
 After, Tracy and Peggy go to other end.
 
-----
-== Round 14
+# Round 14
 
 Front: Black Blue Brown Gray Green
 Nina interviews Emily1
@@ -782,8 +760,7 @@ Jacinta interviews Andy
 
 After, Nina and Jacinta go to other end.
 
-----
-== Round 15
+# Round 15
 
 Front: Black Blue Brown Gray Green
 Emily1 interviews Molly
@@ -793,8 +770,7 @@ Andy interviews Aska
 
 After, Emily1 and Andy go to other end.
 
-----
-== Round 16
+# Round 16
 
 Front: Black Blue Brown Gray Green
 Aska interviews Nancy
@@ -804,8 +780,7 @@ Molly interviews Ivy2
 
 After, Aska and Molly go to other end.
 
-----
-== Round 17
+# Round 17
 
 Front: Black Blue Brown Gray Green
 Nancy interviews Anita
@@ -815,8 +790,7 @@ Ivy2 interviews Vivi
 
 After, Nancy and Ivy2 go to other end.
 
-----
-== Round 18
+# Round 18
 
 Front: Black Blue Brown Gray Green
 Anita interviews Vera
@@ -826,8 +800,7 @@ Vivi interviews Tina
 
 After, Anita and Vivi go to other end.
 
-----
-== Round 19
+# Round 19
 
 Front: Black Blue Brown Gray Green
 Vera interviews ~
@@ -837,8 +810,7 @@ Tina interviews Bruce
 
 After, Vera and Tina go to other end.
 
-----
-== Round 20
+# Round 20
 
 Front: Black Blue Brown Gray Green
 ~ interviews Joe
@@ -877,8 +849,7 @@ Is there an air of electricity in the room?
 
 Grades will range from 2-5.
 
-----
-== Exam 1 -- First Round
+# Exam 1 -- First Round
 First roundtable: Black, White present
 
 Green, Gray, Brown, Blue, BLACK
@@ -888,8 +859,7 @@ After speaking, Black, and White leave
 their 'rooms,' moving to the back or front.
 Everyone else stays in the same place
 
-----
-== Exam 1 -- Second Round
+# Exam 1 -- Second Round
 Second roundtable: Blue and Red present
 
 White, Green, Gray, Brown, BLUE
@@ -899,29 +869,25 @@ After, Blue and Red leave
 their 'rooms,' moving to the back or front.
 Everyone else stays in the same place
 
-----
-== Exam 1 -- Third Round
+# Exam 1 -- Third Round
 Third roundtable: Brown and Purple
 
 Red, White, Green, Gray, BROWN
 Blue, Black, Orange, Pink, PURPLE
 
-----
-== Exam 1 -- Fourth Round
+# Exam 1 -- Fourth Round
 Fourth roundtable: Gray and Pink
 
 Purple, Red, White, Green, GRAY
 Brown, Blue, Black, Orange, PINK
 
-----
-== Exam 1 -- Fifth Round
+# Exam 1 -- Fifth Round
 Fourth roundtable: Green and Orange
 
 Pink, Purple, Red, White, GREEN
 Gray, Brown, Blue, Black, ORANGE
 
-----
-== Debates in Week 4
+# Debates in Week 4
 
 We will also do debates. It is D's turn.
 
@@ -933,8 +899,7 @@ Jimmy and Chelsea
 Abby and Bruce
 Molly and Maggie
 
-----
-== Slide Presentations: Week 6 homework
+# Slide Presentations: Week 6 homework
 
 9 words or more: 3 words per line
 
@@ -967,8 +932,7 @@ http://www.wretch.cc/album/show.php?i=kathy112999&b=2&f=1790102635&p=4
 http://www.wretch.cc/album/show.php?i=noPINKon&b=46&f=1566796277&p=4
 
 
-----
-== Slides to learn from
+# Slides to learn from
 
 The 9 words hit it: They describe the presentation
 as it divides into 3 sections.
@@ -977,14 +941,12 @@ The first word is the title, the next 4 words
 describe 4 effects of the thing referred to
 in the title. The 4 things are equally important.
 
-----
-== Good dummy interview -- Bad dummy interview
+# Good dummy interview -- Bad dummy interview
 
 http://www.youtube.com/watch?v=igSiFH-SVHg
 http://www.youtube.com/watch?v=tbhXMTzaZJgddk
 
-----
-== Week 7 Interview Homework
+# Week 7 Interview Homework
 
 - It has to be about the content of the slides
 the interviewEE posted in Week 6 and presented about.
@@ -1023,8 +985,7 @@ They were bad because:
 
 http://1.bp.blogspot.com/-sVWeHcwEYSo/TjJiB_91PtI/AAAAAAAAFJQ/HhQFPpdZli4/s320/Roderick+Chats+with+Nicole+1.JPG
 
-----
-== Debates Week 7 by C
+# Debates Week 7 by C
 
 Black & Blue 
 Brown & Gray
@@ -1032,8 +993,7 @@ Green & White
 Red & Purple
 Pink & Orange
 
-----
-== Debates Week 8
+# Debates Week 8
 
 By D
 
@@ -1049,8 +1009,7 @@ Red & White
 Purple & Pink
 Orange & Black
 
-----
-== Exam Week 9
+# Exam Week 9
 
 Interview of the corresponding member of the next team
 about one presentation of the interviewee on wretch.cc
@@ -1107,8 +1066,7 @@ to speak, they lose points.
 
 We will not do debates after the interviews.
 
-----
-== Exam Two 
+# Exam Two 
 
 There are 4 rooms:
 
@@ -1160,8 +1118,7 @@ to memorize questions.
 6. Have fun. Listen to what your partner says.
 Don't be two tape recorders talking to each other.
 
-----
-== Exam Two -- Round 1 interviews with C
+# Exam Two -- Round 1 interviews with C
 
 White Purple BrownBrown		Gray Black Brown Orange
 FRONT LEFT ROOM			FRONT RIGHT ROOM
@@ -1174,8 +1131,7 @@ RedC→BrownBrownC (Jo->Kiki)	BlackBlackC→BlueBlueC (Emily)
 GrayC, BlackBlackC leave to be interviewed in other Right Room
 RedC, WhiteC leave to be interviewed in other Left Room
 
-----
-== Exam Two -- Round 2 interviews with C
+# Exam Two -- Round 2 interviews with C
 
 White Purple BrownBrown		Gray Black Brown Orange
 FRONT LEFT ROOM			FRONT RIGHT ROOM
@@ -1188,8 +1144,7 @@ YellowC→WhiteC (Fenny)		GreenC→GrayC (Michelle)
 BrownC, GreenC leave to be interviewed in other Right Room
 PurpleC, YellowC leave to be interviewed in other Left Room
 
-----
-== Exam Two -- Round 3 interviews with C
+# Exam Two -- Round 3 interviews with C
 
 White Purple BrownBrown		Gray Black Brown Orange
 FRONT LEFT ROOM			FRONT RIGHT ROOM
@@ -1202,8 +1157,7 @@ PinkC→PurpleC (Tiffany)		BlueC→BrownC (Luby)
 OrangeC, BlueC leave to be interviewed in other Right Room
 BrownBrownC, PinkC leave to be interviewed in other Left Room
 
-----
-== Exam Two -- Round 4 interviews with C
+# Exam Two -- Round 4 interviews with C
 
 White Purple BrownBrown		Gray Black Brown Orange
 Pink Yellow Red 		FRONT RIGHT ROOM
@@ -1217,8 +1171,7 @@ Allen interviews someone
 Everyone returns to the original positions
 
 
-----
-== Exam Two -- Round 5 interviews with B
+# Exam Two -- Round 5 interviews with B
 
 White Purple BrownBrown		Gray Black Brown Orange
 FRONT LEFT ROOM			FRONT RIGHT ROOM
@@ -1231,8 +1184,7 @@ RedB→BrownBrownB (Mico→Eleven)	BlackBlackB→BlueBlueB (Sandy)
 GrayB, BlackBlackB leave to be interviewed in other Right Room
 RedB, WhiteB leave to be interviewed in other Left Room
 
-----
-== Exam Two -- Round 6 interviews with B
+# Exam Two -- Round 6 interviews with B
 
 White Purple BrownBrown		Gray Black Brown Orange
 FRONT LEFT ROOM			FRONT RIGHT ROOM
@@ -1245,8 +1197,7 @@ YellowB→WhiteB (Lucy)		GreenB→GrayB (Jean)
 BrownB, GreenB leave to be interviewed in other Right Room
 PurpleB, YellowB leave to be interviewed in other Left Room
 
-----
-== Exam Two -- Round 7 interviews with B
+# Exam Two -- Round 7 interviews with B
 
 White Purple BrownBrown		Gray Black Brown Orange
 FRONT LEFT ROOM			FRONT RIGHT ROOM
@@ -1259,8 +1210,7 @@ PinkB→PurpleB (Jessica)		BlueB→BrownB (Nana)
 OrangeB, BlueB leave to be interviewed in other Right Room
 BrownBrownB, PinkB leave to be interviewed in other Left Room
 
-----
-== Exam Two -- Round 8 interviews with B
+# Exam Two -- Round 8 interviews with B
 
 White Purple BrownBrown		Gray Black Brown Orange
 Pink Yellow Red 		FRONT RIGHT ROOM
@@ -1273,8 +1223,7 @@ Someone interviews Cloud
 
 Everyone returns to the original positions again
 
-----
-== Exam Two -- Round 9 interviews with A
+# Exam Two -- Round 9 interviews with A
 
 White Purple BrownBrown		Gray Black Brown Orange
 FRONT LEFT ROOM			FRONT RIGHT ROOM
@@ -1287,8 +1236,7 @@ RedA→BrownBrownA (Cindy→Irin)	BlackBlackA→BlueBlueA (Sophia)
 GrayA, BlackBlackA leave to be interviewed in other Right Room
 RedA, WhiteA leave to be interviewed in other Left Room
 
-----
-== Exam Two -- Round 10 interviews with A
+# Exam Two -- Round 10 interviews with A
 
 White Purple BrownBrown		Gray Black Brown Orange
 FRONT LEFT ROOM			FRONT RIGHT ROOM
@@ -1301,8 +1249,7 @@ YellowA→WhiteA (Amberly)	GreenA→GrayA (Carol)
 BrownA, GreenA leave to be interviewed in other Right Room
 PurpleA, YellowA leave to be interviewed in other Left Room
 
-----
-== Exam Two -- Round 11 interviews with A
+# Exam Two -- Round 11 interviews with A
 
 White Purple BrownBrown		Gray Black Brown Orange
 FRONT LEFT ROOM			FRONT RIGHT ROOM
@@ -1315,8 +1262,7 @@ PinkA→PurpleA (Ting)		BlueA→BrownA (Candy)
 OrangeA, BlueA leave to be interviewed in other Right Room
 BrownBrownA, PinkA leave to be interviewed in other Left Room
 
-----
-== Exam Two -- Round 12 interviews with A
+# Exam Two -- Round 12 interviews with A
 
 White Purple BrownBrown		Gray Black Brown Orange
 Pink Yellow Red 		FRONT RIGHT ROOM
@@ -1328,8 +1274,7 @@ Cloud interviews Allen
 
 Everyone returns to the original positions
 
-----
-== Discussion in A, B, C groups
+# Discussion in A, B, C groups
 
 LEFT			RIGHT
 
@@ -1340,8 +1285,7 @@ Red & BrownBrown	Brown & BlackBlack
 Yellow & White		BlueBlue & Orange
 			Green & Gray
 
-----
-== Discussion in A, B, C groups
+# Discussion in A, B, C groups
 
 LEFT			RIGHT
 
@@ -1352,19 +1296,16 @@ Purple & Red		Blue & Brown
 BrownBrown & Yellow	BlackBlack & BlueBlue
 			Orange & Green
 
-----
-== Interesting interviews
+# Interesting interviews
 
 	http://www.emmytvlegends.org/interviews/people/
 	Timothy Leary
 	http://www.youtube.com/watch?v=TN2Dw94VIkE
 
 
-----
-== Presentation recognizing an opposite point of view
+# Presentation recognizing an opposite point of view
 
-----
-== 'On the other hand' and 'But' -- choose one, not two
+# 'On the other hand' and 'But' -- choose one, not two
 	Shopping online is convenient, cheap, and
 	interesting.
 	ON THE OTHER HAND/BUT, it is also dangerous, because
@@ -1372,8 +1313,7 @@ BrownBrown & Yellow	BlackBlack & BlueBlue
 
 Not, 'But, on the other hand, it ..'
 
-----
-== 'On the other hand' and 'But' -- different meanings
+# 'On the other hand' and 'But' -- different meanings
 
 'On the other hand' is used when giving reasons to choose one
 of 2 different viewpoints.
@@ -1386,14 +1326,12 @@ http://images.google.com/search?tbm=isch&hl=en&source=hp&biw=896&bih=739&q=sleep
 
 Not, 'On the other hand, I don't like it ..'
 
-----
-== Improvising, impromptu speech, ad-libbing
+# Improvising, impromptu speech, ad-libbing
 
 Like Rowan Atkinson: http://www.youtube.com/watch?v=c3ZExwG8ndk
 I want you to try ad libbing. See the speech starting at 02:00
 
-----
-== Week 11 homework--A report of the debate
+# Week 11 homework--A report of the debate
 
 Following Luke's homework in Week 10, where he described differing
 reactions to his soundfile about whether it's good to graduate or not,
@@ -1403,8 +1341,7 @@ A report of the debate you listened to in Week 11. Make it to some extent
 unwritten.  If I don't hear you thinking as you talk, I will cut your grade.
 If it sounds like you're reading it, I won't give you a full score.
 
-----
-== Discussion of the debate
+# Discussion of the debate
 
 The topic is important. What is your opinion on the topic?
 But your discussion should be about the debate, rather than topic itself.
@@ -1412,8 +1349,7 @@ But your discussion should be about the debate, rather than topic itself.
 Important: discussing the debate: Who won? Was it a good debate?
 Important: Recognizing the validity of opposite points of view.
 
-----
-== Discussion of the debate homework
+# Discussion of the debate homework
 
 4 points?
 
@@ -1425,8 +1361,7 @@ Important: Recognizing the validity of opposite points of view.
 * Conclusion
 
 
-----
-== Deciding whether the text is being read
+# Deciding whether the text is being read
 
 To some extent the scores are arbitrary. 50 percent 2's, 50 percent 3's.
 
@@ -1459,8 +1394,7 @@ If they jump around, then they are probably not reading it.
 If they swing sideways, back and forth, then they probably are reading it.
 
 
-----
-== Which is the better response
+# Which is the better response
 
 Both are good talks, but one is a better response to what
 happened the week before.
@@ -1468,8 +1402,7 @@ happened the week before.
 Henry: http://www.youtube.com/watch?v=gNPfJxhcXzs
 Rita : https://www.youtube.com/watch?v=g3-zktt8AUY
 
-----
-== Which is the better response
+# Which is the better response
 
 
 
@@ -1496,21 +1429,18 @@ if we just bought a smartphone.
 Conclusion: Whatever we used HTC or Iphone, I think each of HTC and
 Iphone has its pros and cons. Maybe different people have different views.------
 
-----
-== Hecklers
+# Hecklers
 
 	* Bill Clinton putting down a heckler
 	http://www.youtube.com/watch?v=JGTQZnC-6a4
 
-----
-== Third session debates
+# Third session debates
 
 Each week 2 (two) debates.
 
 So they need to be shorter than before.
 
-----
-== Week 13 Exam Presentations (or Skits)
+# Week 13 Exam Presentations (or Skits)
 
 Front Room: Orange, Pink, Purple, Red, White
 Back Room: Black, Blue, Brown, Gray, Green
@@ -1521,8 +1451,7 @@ other room.
 After every 5 rounds, we will take a break and
 presenters who have moved return to their groups.
 
-----
-== Rounds 1-5: A
+# Rounds 1-5: A
 
 		Back		Front
 
@@ -1532,8 +1461,7 @@ Round 3: Ivy2		Jacinta
 Round 4: Cathy		Alan
 Round 5: Eva		Kumiko
 
-----
-== Rounds 6-10: B
+# Rounds 6-10: B
 
 		Back		Front
 
@@ -1543,8 +1471,7 @@ Round 8: Frances		Tracy
 Round 9: Joey		Vivi
 Round 10: Donna		Anita
 
-----
-== Rounds 11-15: C
+# Rounds 11-15: C
 
 		Back		Front
 
@@ -1554,8 +1481,7 @@ Round 13: Nancy		Ivy1
 Round 14: Emily2		Aska
 Round 15: Nina		Andy
 
-----
-== Rounds 16-20: D
+# Rounds 16-20: D
 
 		Back		Front
 
@@ -1578,8 +1504,7 @@ has been made public before the exam.
 
 An example list would be the list of debate topics below.
 
-----
-== Exam 4 procedure
+# Exam 4 procedure
 
 First the D's, then the C's, then the B's, and finally the A's.
 
@@ -1596,8 +1521,7 @@ So in Round 1, Sophie and Abby are presenting. Nina and Ivy1 are preparing.
 At the end, Dr Bean calls out Rachel and Emily2's names.
 And in Round 2, Nina and Ivy1 are presenting. Rachel and Emily2 are preparing.
 
-----
-== Rounds 1-5: D
+# Rounds 1-5: D
 
 		Back		Front
 
@@ -1607,8 +1531,7 @@ Round 3: Rachel		Emily2
 Round 4: Molly		Vera
 Round 5: ~			Donna
 
-----
-== Rounds 6-10: C
+# Rounds 6-10: C
 
 		Back		Front
 
@@ -1618,8 +1541,7 @@ Round 8: Vivi		Aska
 Round 9: Peggy		Andy
 Round 10: Tina		Jessica
 
-----
-== Rounds 11-15: B
+# Rounds 11-15: B
 
 		Back		Front
 
@@ -1629,8 +1551,7 @@ Round 13: Nancy		Amy
 Round 14: Elly		Joe
 Round 15: Joey		Anita
 
-----
-== Rounds 16-20: D
+# Rounds 16-20: D
 
 		Back		Front
 
@@ -1640,8 +1561,7 @@ Round 18: Alan		Kumiko
 Round 19: Jacinta		Chelsea
 Round 20: Eva		Tracy
 
-----
-== Week 15 topics
+# Week 15 topics
 
 
 | Cellphone  | Reading      | Movies      | Uniforms        | Sport       |
@@ -1663,8 +1583,7 @@ Round 20: Eva		Tracy
 | E-Shopping | Cooking      |             |                 |             |
 
 
-----
-== Week 16 topics
+# Week 16 topics
 
 
 
@@ -1682,8 +1601,7 @@ Round 20: Eva		Tracy
 |               |            | Coffee     |                  |                 |
 
 
-----
-== Week 17 topics
+# Week 17 topics
 
 
 
@@ -1701,8 +1619,7 @@ Round 20: Eva		Tracy
 |            | introduction |               |             | _market |
 |            |              |               |             | _food   |
 
-----
-== All topics
+# All topics
 
 
 Angry Birds   
@@ -1791,8 +1708,7 @@ Winter vacation
 Winter vacation     
 Work        
 
-----
-== Judging debate performance
+# Judging debate performance
 
 http://www.youtube.com/watch?v=DmcuEaixVBs
 
@@ -1806,8 +1722,7 @@ the mid to low 70's.
 If the first speech had the content of the second, it would be in
 the mid-90's.
 
-----
-== Week 10
+# Week 10
 
 Round 1
 
@@ -1827,8 +1742,7 @@ Purple and Red
 YellowYellow and Yellow
 White and Pink
 
-----
-== Connections Week 10
+# Connections Week 10
 
 White	→	Pink	→	Gray	→	Black
 ↑							↓
@@ -1836,8 +1750,7 @@ Yellow		Purple	←	Green		Blue
 ↑			↓		↑		↓
 YellowYellow ←	Red				Brown
 
-----
-== Connections Week 10 Round 1 by A
+# Connections Week 10 Round 1 by A
 
 White		Pink	→	Gray		Black
 ↑							↓
@@ -1845,8 +1758,7 @@ Yellow		Purple	←	GreenA&B	Blue
 
 YellowYellow ←	Red		GreenC&D ←	Brown
 
-----
-== Connections Week 10 Round 2 by B
+# Connections Week 10 Round 2 by B
 
 White	→	Pink		Gray	→	Black
 
@@ -1854,8 +1766,7 @@ Yellow		Purple		Green		Blue
 ↑			↓		↑		↓
 YellowYellow	Red		BrownC&D	BrownA&B
 
-----
-== Connections Week 11
+# Connections Week 11
 
 White	→	Pink	→	Gray	→	Black
 ↑							↓
@@ -1863,8 +1774,7 @@ Yellow		Purple	←	Green		Blue
 ↑			↓		↑		↓
 YellowYellow ←	Red		└		Brown
 
-----
-== Connections Week 11 Round 1 by A
+# Connections Week 11 Round 1 by A
 
 White		Pink	→	Gray		Black
 ↑							↓
@@ -1874,8 +1784,7 @@ YellowYellow 	RedA&B		└		Brown
 	↑
 	└	RedC&D
 
-----
-== Connections Week 11 Round 2 by B
+# Connections Week 11 Round 2 by B
 
 White	→	Pink		Gray	→	Black
 
@@ -1898,8 +1807,7 @@ Yellow		Purple	←	Green		Blue
 ↑			↓		↑		↓
 YellowYellow ←	Red		└		Brown
 
-----
-== Connections Week 12 Round 1 by A
+# Connections Week 12 Round 1 by A
 
 White		Pink	→	Gray		Black
 	↑						↓
@@ -1909,8 +1817,7 @@ YellowC&D 		Red		└		Brown
 	↑
 YellowYellow
 
-----
-== Connections Week 12 Round 2 by B
+# Connections Week 12 Round 2 by B
 
 White	→	Pink		Gray	→	Black
 
@@ -1933,8 +1840,7 @@ Yellow		Purple	←	Green		Blue
 ↑			↓		↑		↓
 YellowYellow ←	Red		└		Brown
 
-----
-== Connections Week 13 Round 1 by C
+# Connections Week 13 Round 1 by C
 
 White		Pink	→	Gray		Black
 	↑						↓
@@ -1944,8 +1850,7 @@ YellowYellow ←	Red				BlueC&D
 							↓
 							Brown
 
-----
-== Week 13 Debate competition
+# Week 13 Debate competition
 
 Round 2
 The division of the Left and Right sides for the second round of debates into 
@@ -1955,8 +1860,7 @@ Round 3
 
 Left side versus Right side
 
-----
-== Connections Week 13 Round 4 by D
+# Connections Week 13 Round 4 by D
 
 White	→	Pink		Gray	→	BlackA&B
 
@@ -1964,8 +1868,7 @@ Yellow		Purple		Green		BlackC&D
 	↑		↓		↑		↓
 YellowYellow	Red		Brown		Blue
 
-----
-== Week 12 class discussion of Exams
+# Week 12 class discussion of Exams
 
 Lucas's idea of a debate competition for Exam3
 Different champions debate in each round.
@@ -1992,27 +1895,23 @@ Recommendations to Dr Bean for Exam 3 presentations
 
 Eg	Different speakers in each round (total 9 speakers)
 
-----
-== Recommendations/Concerns in Week 12 for Debate Contest
+# Recommendations/Concerns in Week 12 for Debate Contest
 
 1. FrontRight: Need for Rehearsals
 2. BackLeft  : Fairness
 3. FrontLeft : Length (should be short)
 
-----
-== Fairness
+# Fairness
 
 Either move WhiteA&B to Left
 Or, Weight votes, so 20 Left votes equals 24 Right Votes.
 
-----
-== Exam 3 Roundtable discussions
+# Exam 3 Roundtable discussions
 
 Same as Exam 1 procedure
 http://web.nuu.edu.tw/~greg/speaking/0028.html
 
-----
-== Exam 3 Debate competition
+# Exam 3 Debate competition
 
 Preliminary Round
 
@@ -2022,8 +1921,7 @@ Yellow		Purple	←	Green		Blue
 ↑			↓		↑		↓
 YellowYellow ←	Red		└		Brown
 
-----
-== Connections Week 14 Round 1
+# Connections Week 14 Round 1
 
 White →	 PinkA&B		PinkC&D → Gray		Black
 							↓
@@ -2031,19 +1929,16 @@ Yellow		Purple		Green		Blue
 ↑			↓		↑
 YellowYellow 	Red		└		Brown
 
-----
-== Semifinals
+# Semifinals
 
 	o Left: Far Left with Middle Left
 	  (White, Yellow & Yellow) with (Pink, Purple & Red)
 	o FrontRight with BackRight
 
-----
-== Finals
+# Finals
 	Left with Right
 
-----
-== Topics for Debates
+# Topics for Debates
 
 1. Women should not wear high heels.
 2. We should drink water before we go to bed.
@@ -2161,15 +2056,13 @@ YellowYellow 	Red		└		Brown
 
 96. Is it better to work abroad than to work in Taiwan.
 
-----
-== Presentations for Exam3
+# Presentations for Exam3
 
 Required activity in many graduate school classes in the US.
 
 I did one in each class in the courses I took.
 
-----
-== Public meetings
+# Public meetings
 
 Deciding on a recommendation
 
@@ -2190,8 +2083,7 @@ II. Further discussion in areas:
 III. Presentation by area spokespersons:
 IV. Summary of class's opinions
 
-----
-== Week 12 group discussion of Week 11 recordings
+# Week 12 group discussion of Week 11 recordings
 
 1. Did you listen to each others' recordings? Discuss
 2. After listening, what questions did you want to ask?
@@ -2200,8 +2092,7 @@ IV. Summary of class's opinions
 	Don't reveal the topic of discussion.
 5. Class guesses what topic each group chose.
 
-----
-== Week 10 group discussion of presentation preparation
+# Week 10 group discussion of presentation preparation
 
 The final exam is 4 weeks away. What would other 
 people be interested in hearing us speak about?
@@ -2212,8 +2103,7 @@ people be interested in hearing us speak about?
 2. Group tells each student which they think is a more 
    interesting presentation.
 
-----
-== Week 11 roundtable discussion rehash
+# Week 11 roundtable discussion rehash
 
 http://www.wretch.cc/album/show.php?i=ksandy1024&b=3&f=1555426070&p=0
 
@@ -2238,16 +2128,14 @@ plus reflections on the results
 4. D's topic
 	- reflections
 
-----
-== Gina=3A_My_second_hometown=2DSanyi
+# Gina=3A_My_second_hometown=2DSanyi
 
 
 Topic:  My second hometown-Sanyi(三義)
 + There have many views attract tourists 
 + Epically In the May days, there have the tong blossom(油桐花) and firefly festival
 
-----
-== N9561714 Wesley: How to choose a good friend?
+# N9561714 Wesley: How to choose a good friend?
 
 Four criteria of virtue that help you choose a reliable good friend.
 
@@ -2259,8 +2147,7 @@ Four criteria of virtue that help you choose a reliable good friend.
 
 + 4.      Honesty
 
-----
-== N9561722 Ann's homework
+# N9561722 Ann's homework
 
 Topic: Storm
 
@@ -2270,16 +2157,14 @@ Topic: Storm
 
 + 2.Natural balance
  		 	   		  
-----
-== Love the earth : N9561759 Jill Ku
+# Love the earth : N9561759 Jill Ku
 
 + key words:
 + serious change
 + temperature
 + how to treat it?
 
-----
-== N9561741  Rita
+# N9561741  Rita
 
 
 
@@ -2288,8 +2173,7 @@ topic:food
 + contents:spicy
 
 
-----
-== N9561717  Nina 
+# N9561717  Nina 
 
 
 Topic: Introduce my master
@@ -2298,15 +2182,13 @@ Topic: Introduce my master
 
 + Conclusion: To become my dream
 
-----
-== Kimmy N9561706 Topic: shopping online
+# Kimmy N9561706 Topic: shopping online
 
 topic:  shopping online
 + advantage:convenient
 + disadvantage:safety
 
-----
-== N9461735-Jack
+# N9461735-Jack
 
 Topic: Jack become a Kappa.
 
@@ -2315,16 +2197,14 @@ Topic: Jack become a Kappa.
 + The different=20
 
 
-----
-== Ivy N9561757
+# Ivy N9561757
 
 Strawberry
 + Advantages: Strawberries are rich in vitamin C. and good to our skin whiten=
 ing.
 + Disadvantages: If eat too much will suffer from diarrhea.
 
-----
-== Sophie N9561761 Going to study abroad
+# Sophie N9561761 Going to study abroad
 
 
 Topic: Going to study abroad
@@ -2335,8 +2215,7 @@ Topic: Going to study abroad
 
 + Disadvantages: 1. Spending much money
                
-----
-== n9561715 Luby How to save money
+# n9561715 Luby How to save money
 
 How to save money
 
@@ -2351,8 +2230,7 @@ How to save money
 
 4.To record cost detail on the notebook.
 
-----
-== Stella.(N9361758-Stella)
+# Stella.(N9361758-Stella)
 
 My speech topic is " Night Markets ".
 
@@ -2370,30 +2248,26 @@ My speech topic is " Night Markets ".
 
 + (7)I really like...
 
-----
-== Cara  N9561756 
+# Cara  N9561756 
 
 Go to natural landscapes
 =C2=A0
 + Advantages: With amazing sceneries
 + Disadvantages: Sceneries Destroyed by people=0A=0A=0A      
 
-----
-== Eunice N9561762 My Brother's Big Day
+# Eunice N9561762 My Brother's Big Day
 
 + 1. First live band concer in Hsin-Chu city
 + 2. Propose to his futrue wife 
  		 	   		  
-----
-== Edith  N9561711
+# Edith  N9561711
 
                     topic: about my hobby
  
 + would learn something from many kinds of movies 
  
  		 	   		  
-----
-== N9561726 Fanny
+# N9561726 Fanny
 
 Topic:
 Starting a business
@@ -2406,8 +2280,7 @@ It is the opportunity to be responsible.
 + Disadvantage:
 Perhaps the business will fail.=0A=0A=0A      
 
-----
-== The good presentation
+# The good presentation
 
 Baldoni says:
 
@@ -2423,14 +2296,12 @@ It is exciting, lively, spontaneous (not too rehearsed).
 
 There are questions and answers.
 
-----
-== Homework Week 11
+# Homework Week 11
 
 Not enough points. or no title on album. Rita, Fanny, 
 No expression of personal opinion: Ivy
 
-----
-== Homework 12
+# Homework 12
 
 An interview of the person in the next group.
 This will help them prepare for the presentation in 
@@ -2447,9 +2318,7 @@ The interviewEE gets the grade. The interviewee is responsible
 for uploading the soundfile into his or her wretch.cc album,
 and putting the link on elearning.nuu.edu.tw
 
-----
-== Homework 13
+# Homework 13
 
 No homework for the presentations in Week 13
-----
-== The End
+# The End
