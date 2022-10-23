@@ -19,6 +19,13 @@ mainfont: latinmodern-math.otf
 		* un/willingly
 * your turn
 
+# The floor
+
+Literally, but also a metaphor
+
+* Where is attention of everyone assumed
+to be
+
 # Church event--mass
 
 [Sanctus bell ringing](https://www.youtube.com/watch?v=Bh5R76GfbYE)
@@ -28,12 +35,11 @@ People can't see or have gone to sleep
 and need a
 [wake-up call](https://adoremus.org/2005/03/sanctus-bells/)
 
-# The floor
+# Presentation similarity
 
-Literally, but also a metaphor
-
-* Where is attention of everyone assumed
-to be
+Listeners don't understand what's 
+happening, so need wake-up calls
+or signposting
 
 # Organization
 
