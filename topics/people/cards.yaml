@@ -228,6 +228,54 @@ relationship:
         -
           - Erin Thomson
           - You are a student at Yale University. Your brother goes to Chinmin.
+    1:
+      identifier: Is Mel Y's X?
+      pair:
+        -
+          - Melanie
+          - son
+        -
+          - Mel
+          - self
+        -
+          - Sarah
+          - brother
+        -
+          - Dan
+          - son
+        -
+          - Fred
+          - nephew
+        -
+          - Katie
+          - cousin
+        -
+          - Nancy
+          - nephew
+    2:
+      identifier: Is Melanie Y's X?
+      pair:
+        -
+          - Melanie
+          - self
+        -
+          - Mel
+          - mother
+        -
+          - Sarah
+          - mother
+        -
+          - Dan
+          - wife
+        -
+          - Fred
+          - sister-in-law
+        -
+          - Katie
+          - aunt
+        -
+          - Nancy
+          - sister
   flash:
     0:
       Melanie: first on left
