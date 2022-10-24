@@ -265,6 +265,9 @@ restaurant:
         -
           - Eve
           - Eve
+        -
+          - Fred
+          - Fred
     5:
       identifier: bad restaurant conversation
       pair:
