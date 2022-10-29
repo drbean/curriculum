@@ -10,14 +10,59 @@ mainfont: latinmodern-math.otf
 #- BoldItalicFont=Font-BoldItalic.otf
 ...
 
+# Signposting
+
+Listeners, like drivers, get lost.
+
+They need help with signs & signals.
+
+# Help finding way
+
+![Can't get there from here](http://www.sharepointconfig.com/wp-content/uploads/2010/03/signpost-direction.jpg)
+
+# Lost driver
+
+|  A: Where am I?
+|  B: This is 南投.
+|  A: How do I get to 花蓮 from here?
+|  B: You can't get there from here.
+
+[南投-花蓮](https://www.rome2rio.com/map/Nantou/Hualien-City)
+
+# Signals in church event--mass
+
+* [Sanctus bell ringing](https://www.youtube.com/watch?v=Bh5R76GfbYE)
+* [How to ring: 1:35](https://www.youtube.com/watch?v=bEyCKVVSj-g)
+
+People can't see or have gone to sleep 
+and need a
+[wake-up call](https://adoremus.org/2005/03/sanctus-bells/)
+
+# Presentation similarity
+
+Listeners don't understand what
+you're saying, so they need wake-up calls
+or signposting
+
+# Talking about the talk
+
+You need to understand & talk about
+2 different things:
+
+* the *subject* of your talk
+	* *What* you're talking about, AND
+* the *presentation (贈送)* of your talk
+	* How you *give* the talk
+
 # Terminology
 
-* the floor
-	* who owns it
-	* who has it
+* the *floor*
+	* who owns it--the moderator
+	* who has it--the presenter
 	* who gives it to/takes it from who
-		* un/willingly
-* your turn
+		* un/willingly--a questioner
+
+* your *turn*
 
 # The floor
 
@@ -28,30 +73,111 @@ to be
 
 # The turn
 
+The person everyone expects to speak
+has the *floor.*
+
+It's their *turn*
+
+The person who has the *floor* can give 
+the next person the *floor* by 
+introducing them.
+
+# Turns on the floor
+
+1. Moderator
+2. Group A
+	1. Presenter I
+	2. Presenter II
+	3. ...
+3. Group B
+
+# Part A: introducing the presenter
+
+# Ways to give someone a turn
+
+* Short introduction
+* Long introduction
+
+# Simple turn
+
 .. 到那个时候，政治家、我们的政治理论家、政治思想家们该怎么对待这个问题？施展。
 
 施展：实际上刚才刚升已经部分地替我回应了周濂兄令我很不满意的回答。 ..
 
 # Translated
 
-When that happens, how should our politicians, political theorists and political thinkers deal with the problem? Shi Zhan, your turn.　　
+When that happens, how should [=they] deal with the problem? Shi Zhan, your turn.　　
  
 Shi Zhan:  In fact, just now Gangsheng gave a partial response on my behalf to Zhou Lian’s answer to my question, which left me very dissatisfied.
 
-# Church event--mass
+# Big-deal introduction
 
-[Sanctus bell ringing](https://www.youtube.com/watch?v=Bh5R76GfbYE)
-[How to ring: 1:35](https://www.youtube.com/watch?v=bEyCKVVSj-g)
+* Summarize to wrap up your part.
+* Introduce the next topic.
+* Praise & name the next speaker.
 
-People can't see or have gone to sleep 
-and need a
-[wake-up call](https://adoremus.org/2005/03/sanctus-bells/)
+# Summaries to conclude your talk
 
-# Presentation similarity
+	So, in conclusion, if global 
+	warming ..
 
-Listeners don't understand what's 
-happening, so need wake-up calls
-or signposting
+	Well, that was a brief 
+	introduction to ..
+
+# Introducing the next speaker's topic
+
+With a question:
+
+	What if blah-blah-blah?
+
+	How often do you yada-yada-yada?
+
+# Giving the next speaker the cue to speak.
+
+Look at them and name them.
+
+# Quiz I
+
+From the handout:
+
+	Carmen Chen's going to talk 
+	about ..
+
+1. Summarizing one's own part
+2. Introducing the next speaker's part
+3. Cuing the next speaker
+
+# Quiz II
+
+From the handout:
+
+	Now I would like to call on 
+	Mike ..
+
+1. Summarizing one's own part
+2. Introducing the next speaker's part
+3. Cuing the next speaker
+
+# Quiz III
+
+From the handout:
+
+	I would like to introduce Dr 
+	Lee, who's going to ..
+
+1. Summarizing one's own part
+2. Introducing the next speaker's part
+3. Cuing the next speaker
+
+# Practicing yielding the floor.
+
+	"OK, I showed bla-bla-bla."
+	"Now II will talk about 
+	yada-yada-yada."
+	"Go, II!"
+
+# Part B: Getting started
+
 
 # Organization
 
