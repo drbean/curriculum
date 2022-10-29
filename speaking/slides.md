@@ -126,7 +126,7 @@ Shi Zhan:  In fact, just now Gangsheng gave a partial response on my behalf to Z
 
 # Introducing the next speaker's topic
 
-With a question:
+Perhaps, with a question:
 
 	What if blah-blah-blah?
 
@@ -207,6 +207,43 @@ The topic of the talk:
 * the geology of Italy
 * some topic about Italy in which geology plays
 a part
+
+# Quiz V
+
+From the handout:
+
+"First, I'll give an overview of the geology of Peru.
+Then, Michelle will talk about attractions. Finally,
+John will present entertainment."
+
+The topic of the talk:
+
+* Geology, attractions and entertainment in Peru
+* Peru as a tourist destination
+
+# Quiz VI
+
+From the handout:
+
+"Our group will present the geology, tourist attractions,
+cuisine and entertainment in Italy."
+
+The topic of the talk:
+
+* Geology, attractions, cuisine and entertainment in Italy
+* Italy as a tourist destination
+
+# Talking about the talk--signposts for lost
+listeners
+
+You need to understand the structure of your
+talk & be able to talk about what you are
+doing/saying.
+
+# Part C. During and ending the presentation
+
+Moving through & ending the talk
+
 
 
 * Types of speech
