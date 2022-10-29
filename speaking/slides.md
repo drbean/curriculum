@@ -106,9 +106,9 @@ introducing them.
 
 # Translated
 
-When that happens, how should [=they] deal with the problem? Shi Zhan, your turn.　　
+When that happens, how should [=they] deal with the problem? Shi Zhan, your turn.
  
-Shi Zhan:  In fact, just now Gangsheng gave a partial response on my behalf to Zhou Lian’s answer to my question, which left me very dissatisfied.
+Shi Zhan:  In fact, just now Gangsheng gave a partial response on my behalf to Zhou Lian's answer to my question, which left me very dissatisfied.
 
 # Big-deal introduction
 
@@ -135,6 +135,8 @@ With a question:
 # Giving the next speaker the cue to speak.
 
 Look at them and name them.
+
+	Shi Zhan, your turn.
 
 # Quiz I
 
@@ -176,10 +178,36 @@ From the handout:
 	yada-yada-yada."
 	"Go, II!"
 
+# Organization
+
+# "Tell them what you're going to say, say it; then tell them what you said."
+
+* Say what you're going to say.
+* Give the talk.
+* Say what you said.
+
 # Part B: Getting started
 
+# Say what you're going to say.
 
-# Organization
+1-3 sentences with information about the talk
+
+* "In this talk, .."
+* "I will begin by .."
+* "First, .. Second/Then .. Finally"
+
+# Quiz IV
+
+From the handout:
+
+"I will begin by outlining the geology of Italy."
+
+The topic of the talk:
+
+* the geology of Italy
+* some topic about Italy in which geology plays
+a part
+
 
 * Types of speech
 +* Public speaking to an audience
