@@ -54,6 +54,8 @@ You need to understand & talk about
 * the *presentation (贈送)* of your talk
 	* How you *give* the talk
 
+You need to talk about that.
+
 # Terminology
 
 * the *floor*
@@ -178,7 +180,7 @@ From the handout:
 	yada-yada-yada."
 	"Go, II!"
 
-# Organization
+# Organization/structure
 
 # "Tell them what you're going to say, say it; then tell them what you said."
 
@@ -204,8 +206,8 @@ From the handout:
 
 The topic of the talk:
 
-* the geology of Italy
-* some topic about Italy in which geology plays
+1. the geology of Italy
+2. some topic about Italy in which geology plays
 a part
 
 # Quiz V
@@ -218,8 +220,8 @@ John will present entertainment."
 
 The topic of the talk:
 
-* Geology, attractions and entertainment in Peru
-* Peru as a tourist destination
+1. Peru as a tourist destination
+1. Geology, attractions and entertainment in Peru
 
 # Quiz VI
 
@@ -230,8 +232,8 @@ cuisine and entertainment in Italy."
 
 The topic of the talk:
 
-* Geology, attractions, cuisine and entertainment in Italy
-* Italy as a tourist destination
+1. Geology, attractions, cuisine and entertainment in Italy
+1. Italy as a tourist destination
 
 # Talking about the talk--signposts for lost
 listeners
@@ -240,11 +242,98 @@ You need to understand the structure of your
 talk & be able to talk about what you are
 doing/saying.
 
-# Part C. During and ending the presentation
+# Moving through a talk
 
-Moving through & ending the talk
+You need to be able to
 
+* change topics and
+* add to and subtract from
+the speech *on the fly*.
 
+# Topic change
+
+* "Now, let's look at .."
+* "Moving to the next topic, .."
+* "Going back to .."
+
+# Not doing all
+
+the parts of the
+speech you prepared,
+
+because it's too long.
+
+* "Moving along now, .."
+* "If you're interested in this, look at .."
+
+# Adding some extra details
+
+to your prepared
+speech because it's too short.
+
+"Let me say some more about this, .."
+
+# Ending the talk
+
+How do you signal you're ending the presentation?
+
+* "Well"
+* "OK"
+* "So"
+
+And then you just say what you said. As a summary
+of course.
+
+# Part C. During the presentation, ending the presentation
+ 
+# Quiz VII
+
+From the handout:
+
+"Now let’s turn to taboos in Rome."
+
+The speaker's purpose:
+
+1. changing topics
+1. adding or subtracting material
+1. ending the talk
+
+# Quiz VIII
+
+From the handout:
+
+"Moving on, I would like to talk about gourmet food in the city."
+
+The speaker's purpose:
+
+1. changing topics
+1. adding or subtracting material
+1. ending the talk
+
+# Quiz IX
+
+From the handout:
+
+"I’d just like to go back to the previous slide."
+
+The speaker's purpose:
+
+1. changing topics
+1. adding or subtracting material
+1. ending the talk
+
+# Quiz X
+
+From the handout:
+
+"To sum up, then, the United Kingdom is definitely a place you want
+to visit one day."
+
+The speaker's purpose:
+
+1. changing topics
+1. adding or subtracting material
+1. ending the talk
 
 * Types of speech
 +* Public speaking to an audience
