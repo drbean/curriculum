@@ -245,10 +245,14 @@ doing/saying.
 # Moving through a talk
 
 You need to be able to
+*think on your feet*
 
 * change topics and
 * add to and subtract from
-the speech *on the fly*.
+the speech
+
+*on the fly*. That's _NOT_
+*walk and chew gum*.
 
 # Topic change
 
