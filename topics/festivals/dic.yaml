@@ -31,6 +31,7 @@
     B: No, thanks. I don't want to wear a dress.
     G: Well, I have some really big glasses and a wig. You can wear them.
     B: OK!
+  - are.verb dressed.verb pirate.noun Halloween.noun celebrate.verb forgot.verb costume.noun dress.noun girl.noun don't.verb want.verb some.adjective glasses.noun wig.noun them End
   - Why|you|like a|It's|I want to|it|Oh, I|Too|I don't have a|Well, I have a|you can|You can be a|No, thanks. I|to wear a dress|Well, I have|really big|and a|You can wear|OK|End
 -
   - "costume-3"
@@ -41,6 +42,7 @@
     A long time ago, people in Egypt wore wigs. They wore them to keep the sun off of their heads. This kept their skin from turning red.
     Later, people wore them to stay clean. Wigs kept bugs out of their hair.
     Today, people with no hair wear wigs. People also wear them when they dress up in costumes.
+  - long.adjective Egypt.noun wigs.noun wore.verb sun.noun heads.noun skin.noun turning.verb red.adjective people.noun clean.adjective bugs.noun hair.noun no.determiner hair.noun wear.verb dress.verb up.adverb costumes.noun End
   - time ago, people in|wore|wigs|They|them to keep the|off of their|This kept their|from|Later|wore them to stay|Wigs kept|out of their|Today, people with|wear wigs. People also|them|when they|in|End
 
 -
@@ -69,6 +71,16 @@
     W: When Dad gets home from work.
   - Anyway|English|is a|for your|The whole|will be|All your aunts, uncles|cousins|I haven't|the|in a long|Well|you'll see|them|Now|up and|ready|OK|When|we|When|gets|from|End
 -
+  - "tomato-0"
+  - "tomato"
+  - "topics"
+  - "all"
+  - |+
+    Today is a very special day. It's my mother's birthday.
+    Wil you help me decorate the house for Halloween.
+    My grandpa moved here a long time ago.
+    This is my favorite festival because there are fireworks.
+-
   - "tomato-1"
   - "tomato"
   - "topics"
@@ -88,7 +100,8 @@
     B: A long time ago. It was in the morning.
     A: It's six o'clock now. You're not even at the front yet. What are you waiting for?
     B: I want to buy tickets to the music festival.
-  - Hi, Larry. What|you|I'm|in|I see. Wow, this|is really|When|you|here|A long time|It was in the|It's|now|You're not|at the|yet|What are you|I want to buy|to the|End
+#  - Hi, Larry. What|you|I'm|in|I see. Wow, this|is really|When|you|here|A long time|It was in the|It's|now|You're not|at the|yet|What are you|I want to buy|to the|End
+  - are.verb doing.verb standing.verb line.noun line.noun long.adjective did.verb get.verb ago.adverb morning.noun six.adjective even.adverb front.noun waiting.verb tickets.noun music.noun festival.noun End
 -
   - "tomato-3"
   - "tomato"
@@ -98,7 +111,8 @@
     Every year, there is a tomato festival in Spain. It starts with music. People dance. There are also fireworks and parades.
     Then, many trucks come that are filled with tomatoes. People take the tomatoes and throw them at each other.
     It is the world's biggest food fight. It is a big mess. After the festival, people clean the town.
-  - Every|there is a tomato|in|It starts with|People|There are also|and|Then, many|come that are|with|People|the tomatoes and|them at|It is the|biggest|fight. It is a big|After the festival, people|the|End
+  - year.noun festival.noun Spain.noun music.noun dance.verb fireworks.noun parades.noun trucks.noun filled.verb tomatoes.noun take.verb throw.verb each.adjective other.adjective world's.noun food.noun mess.noun clean.verb town.noun End
+  #- Every|there is a tomato|in|It starts with|People|There are also|and|Then, many|come that are|with|People|the tomatoes and|them at|It is the|biggest|fight. It is a big|After the festival, people|the|End
 -
   - "holiday-0"
   - "holiday"

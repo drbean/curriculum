@@ -19,8 +19,21 @@ party:
     - poster invitation band prepare decorations practice design decorate making write draw color paint count measure paste cut fantastic pizza Jello hamburger
     - Sally Mark Anna birthday August CD invitation_card friend mine reply conversation building as_soon_as_possible movies information inviting questions thirteen theater apartment leave/left/left
 tomato:
-  0:
-    flash:
+  match:
+    0:
+      identifier: sentence match
+      pair:
+        -
+          - "A: Hi, Larry. What are you doing?"
+          - "B: I'm standing in line."
+        -
+          - "A: I see. Wow, this line is really long. When did you get here?"
+          - "B: A long time ago. It was in the morning."
+        -
+          - "A: It's six o'clock now. You're not even at the front yet. What are you waiting for?"
+          - "B: I want to buy tickets to the music festival."
+  flash:
+    0:
       colorful  : 充滿色彩
       fireworks : 煙花
       line      : 線
@@ -29,7 +42,29 @@ tomato:
       ago       : 前
       decorate  : 裝飾
       festival  : 節
+    1:
+      colorful  : colorful.jpg
+      fireworks : fireworks.jpg
+      line      : line.png
+      meal      : meal.jpg
+      special   : special.jpg
+      ago       : ago.jpg
+      decorate  : decorate.jpg
+      festival  : festival.jpg
+    2:
+      "Every year, there is a .." : .. tomato festival in Spain.
+      It starts with .. : .. music and people dance.
+      There are also fireworks .. : .. and parades.
+      "Then, many trucks come that are .." : .. filled with tomatoes.
+      People take the tomatoes .. : .. and throw them at each other.
+      It is the world's .. : .. biggest food fight.
+      The result is .. : ..  a big mess.
+      "After the festival, people .." : .. clean the town.
   bingo:
+    - is a big festival today So Molly decorates her house She puts colorful lights up also makes meal special Then she goes outside parade There music playing People are dancing in the street crowded It lot of fun At night fireworks light sky great
+    - biggest clean come dance each festival fight filled fireworks food many mess music other parades people Spain starts take throw tomato tomatoes town trucks world's year
+
+    - Today very special day It's mother's birthday Will you help me decorate the house for Halloween My grandpa moved here a long time ago This is my favorite festival because there are fireworks
     - colorful fireworks line meal ago decorate festival concert parade birthday dancing trucks outside music crowded waiting morning front food_fight big_mess clean special long mad angry shapes show lights mom sand_paintings
     - colorful fireworks line meal special ago decorate festival today mother birthday Halloween grandpa moved favorite Molly house lights outside knife
     - Larry stand line really long ago morning six_o'clock even front wait buy ticket music_festival What_are_you_doing? I_see Wow! When_did_you_get_here? time evening
@@ -59,6 +94,7 @@ costume:
     - costume wig glasses pirate holiday celebrate crown princess
     - Danielle costume_party pink_dress very_pretty puts very_long blond straight crown gold many_colors ready princess beautiful finally
     - Danielle costume_party ready pink_dress is pretty puts_on wig long blond_and_straight crown gold colors princess pirate Halloween celebrate dress glasses 
+    - costume wig glasses pirate holiday celebrate Danielle party pink pretty puts long blond straight crown gold colors ready princess beautiful finally heads skin red clean bugs hair dress sun keep
     - heads skin turn_red stay_clean bugs hair dress_up costumes sun keep
     - heads skin turn_red stay_clean bugs hair dress_up birthday purple paint blue sad Dave celebrate move_away vampire pretty Jessie Kate Sarah parrot
     - princess birthday crown king pirate glasses paint color dress_up_as gold celebrate favorite holiday sad Mary John blond long good_idea look_great
