@@ -190,4 +190,20 @@
     M:  Order a salad. Then you can eat something for dessert.
     W:  Great idea! OK, let's order.
   - ready.adjective order.verb yet.adverb going.verb have.verb order.verb beef.noun vegetables.noun rice.noun soda.noun sounds.verb good.adjective meal.noun hungry.adjective salad.noun eat.verb something.noun dessert.noun idea.noun order.verb End
+-
+  - "restaurant-5"
+  - "restaurant-5"
+  - "topics"
+  - "all"
+  - |+
+    M:  Is this your first time eating out at Alfredo's? 
+    W:  No, I often come here with my cousin. 
+    M:  Would you like a menu, or are you ready to order? 
+    W:  I'm ready. I'd like the fish special. 
+    M:  That comes with vegetables, and bread or rice.
+    W:  I'd like brown rice, but no vegetables, please.
+    M:  What would you like to drink?
+    W:  I'll have a glass of water with ice.
+  - first.adjective out.adverb often.adverb cousin.noun you.pronoun menu.noun ready.adjective order.verb fish.noun vegetables.noun bread.noun rice.noun rice.noun vegetables.noun would.verb drink.verb water.noun ice.noun End
+
 
