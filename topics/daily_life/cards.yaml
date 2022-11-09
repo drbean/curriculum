@@ -101,7 +101,7 @@ clothes:
           - "G: I like the color of your backpack, too."
           - "B: Thanks, red is my favorite color."
 
-    00:
+    7:
       identifier: Listening Time, Unit 3, p 20--9 pics
       pair:
         -
@@ -131,6 +131,21 @@ clothes:
         -
           - bottom right hand corner.
           - a kitchen or an office?
+    6:
+      identifier: jean sentence split
+      pair:
+        -
+          - Do you know why ..
+          - .. jeans are usually blue?
+        -
+          - At first, there were two ..
+          - .. colors of jeans. Brown and blue.
+        -
+          - Brown jeans were not soft, but ..
+          - .. blue jeans were very soft.
+        -
+          - So, people stopped ..
+          - .. buying brown jeans.
   bingo:
     - shoes keys backpack pencil pen jeans socks blouse 
     - my feet are cold I need wear socks like to write with pen Sam bought a new pair of jeans your white blouse is very pretty
@@ -138,6 +153,9 @@ clothes:
     - pink blouse wearing jeans socks shoes keys looks drawer not door floor can't find under bed
     - pink blouse wear jeans white socks keys drawer door floor bed looking_for backpack pocket pens_and_pencils color blue brown soft broken erase_mistakes dog something_in_its_mouth digging_in_the_backyard shopping school kitchen office book sister's_room
     - know jeans blue brown colors work were soft stopped buying
+    - know blue brown colors work were soft stopped buying backpack thanks mom nice pocket pens pencils color red pink blouse jeans white socks keys
+    - Do you know why jeans are usually blue At first there were two colors of and Men wore them to work not but very soft So people stopped buying brown 
+
     - pink blouse wear jeans white socks keys drawer door floor bed looking_for Molly shoes
     - pink blouse wear jeans white socks keys drawer door floor bed looking_for Molly shoes backpack pencil pen correct picture barbecue
     - backpack thanks mom nice pocket pens pencils color red
