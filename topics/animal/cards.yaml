@@ -200,8 +200,8 @@ bird:
 
 
 zoo:
-  0:
-    flash:
+  flash:
+    0:
       a shark     : shark_1.jpg
       a zoo scene : zoo.jpg
       a monkey    : monkey.jpg
@@ -210,8 +210,7 @@ zoo:
       a claw     : claw.png
       a zookeeper with giraffe: zookeeper.jpg
       a polar bear with baby bear: polarbear_1.jpg
-  1:
-    flash:
+    1:
       shark     : 鯊魚
       zoo       : 動物園
       monkey    : 猴
@@ -220,8 +219,7 @@ zoo:
       claws     : 爪
       zookeeper : 動物園管理員
       polar bear: 北極熊
-  2:
-    flash:
+    2:
       exhibit : 展示
       lamb    : 小羊羔
       barn    : 穀倉
@@ -231,6 +229,24 @@ zoo:
       zebra   : 斑馬
       crane   : 鸛
   match:
+    0:
+      identifier: Do Y X?
+      pair:
+        -
+          - sharks
+          - live in water
+        -
+          - monkeys
+          - live in trees
+        -
+          - polar bears
+          - roar
+        -
+          - zebras
+          - have claws
+        -
+          - zoo keepers
+          - eat people
     2:
       identifier: zoo conversation--unit 5
       pair:
