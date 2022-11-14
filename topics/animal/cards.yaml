@@ -230,7 +230,9 @@ zoo:
       crane   : 鸛
   match:
     0:
-      identifier: Do Y X?
+      identifier: Do animals do this?
+      y: animal
+      x: action
       pair:
         -
           - sharks
@@ -238,6 +240,26 @@ zoo:
         -
           - monkeys
           - live in trees
+        -
+          - polar bears
+          - roar
+        -
+          - zebras
+          - have claws
+        -
+          - zoo keepers
+          - eat people
+    1:
+      identifier: Do animals do this?
+      y: animal
+      x: action
+      pair:
+        -
+          - sharks
+          - 
+        -
+          - monkeys
+          - 
         -
           - polar bears
           - roar
