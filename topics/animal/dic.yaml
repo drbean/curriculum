@@ -8,6 +8,16 @@
   - unclozeables
   - percent
 -
+  - "zoo-0"
+  - "A day at the zoo"
+  - "topics"
+  - "all"
+  - |+
+    The angry lion roars.
+    Polar bears live in very cold places.
+    Zoo keepers work at zoos.
+    Bears have big claws.
+-
   - "zoo-1"
   - "A day at the zoo"
   - "topics"
