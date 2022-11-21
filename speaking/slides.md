@@ -88,10 +88,14 @@ introducing them.
 
 1. Moderator
 2. Group A
+	0. Introduction of Topic
 	1. Presenter I
 	2. Presenter II
 	3. ...
 3. Group B
+	0. Introduction of Topic
+	1. Presenter I
+	...
 
 # Part A: introducing the presenter
 
@@ -173,6 +177,8 @@ From the handout:
 2. Introducing the next speaker's part
 3. Cuing the next speaker
 
+# Turn taking practice--3 times
+
 # Practicing yielding the floor.
 
 	"OK, I showed bla-bla-bla."
@@ -180,13 +186,85 @@ From the handout:
 	yada-yada-yada."
 	"Go, II!"
 
+# Time #0
+
+* Chinese
+* Order of speakers
+* Discussion within group
+	* What will be easy
+	* What will be difficult
+
+# Time #1
+
+* English
+* Speaking to a phone, recording it
+
+~~~~~~~~~~~~~
+
+    "Speaker: I'm going to talk about the geology of Italy.
+    Group: Cut!
+    Speaker: So, that's the geology of Italy.
+    What about Italian tourist attractions?
+    Michelle? (Hands Michelle phone)"
+
+    "Michelle: I'm going to talk about Italian tourist attractions."
+    Group: Cut!"
+    ..
+
+~~~~~~~~~~~~~
+
+# Discussion of Time #1
+
+* Chinese
+* Listen to the recording
+
+	* What went well
+	* What could have been better
+
+# Time #2
+
+* English
+* The same as Time #1, but speaking to the group, not phone
+
+~~~~~~~~~~~~~
+
+    "Speaker: I'm going to talk about the geology of Italy.
+    Group: Cut!
+    Speaker: So, that's the geology of Italy.
+    What about Italian tourist attractions?
+    Michelle? (Looks at Michelle)
+
+    Michelle: I'm going to talk about Italian tourist attractions.
+    Group: Cut!
+    .."
+
+~~~~~~~~~~~~~
+
+# Discussion of Time #2
+
+* Chinese
+* Talk about what was said
+
+	* What went well
+	* What could have been better
+
+# Time #3
+
+* English
+* The same as Time #2, but looking at the other groups (not your own group)
+
+	* They're not listening to you!
+
+	But will people be listening to you
+	when you do it in front of the whole class?
+
 # Organization/structure
 
 # "Tell them what you're going to say, say it; then tell them what you said."
 
-* Say what you're going to say.
+* Summarize/introduce what you're going to say.
 * Give the talk.
-* Say what you said.
+* Summarize what you said.
 
 # Part B: Getting started
 
@@ -202,7 +280,7 @@ From the handout:
 
 From the handout:
 
-"I will begin by outlining the geology of Italy."
+	"I will begin by outlining the geology of Italy."
 
 The topic of the talk:
 
@@ -214,9 +292,9 @@ a part
 
 From the handout:
 
-"First, I'll give an overview of the geology of Peru.
-Then, Michelle will talk about attractions. Finally,
-John will present entertainment."
+	"First, I'll give an overview of the geology of Peru.
+	Then, Michelle will talk about attractions. Finally,
+	John will present entertainment."
 
 The topic of the talk:
 
@@ -227,13 +305,93 @@ The topic of the talk:
 
 From the handout:
 
-"Our group will present the geology, tourist attractions,
-cuisine and entertainment in Italy."
+	"Our group will present the geology, tourist attractions,
+	cuisine and entertainment in Italy."
 
 The topic of the talk:
 
 1. Geology, attractions, cuisine and entertainment in Italy
 1. Italy as a tourist destination
+
+# Practice of full presentation--3 times
+
+# Time #0
+
+* Chinese
+* Making sure everyone knows what to say
+
+	"What are you going to say, Michelle?"
+
+* Discussion within group
+
+	* What will be easy
+	* What will be difficult
+
+# Time #1
+
+* English
+* Speaking to a phone, recording it
+
+~~~~~~~~~~~~~
+
+    "Speaker: I'm going to talk about the geology of Italy.
+    There's a long line of mountains down Italy, just like in Taiwan.
+    ..
+    Speaker: So, that's the geology of Italy.
+    What about Italian tourist attractions?
+    Michelle? (Hands Michelle phone)"
+
+    "Michelle: I'm going to talk about Italian tourist attractions."
+    There are many things to do and see in Italy.
+    ..
+
+~~~~~~~~~~~~~
+
+# Discussion of Time #1
+
+* Chinese
+* Listen to the recording
+
+	* What went well
+	* What could have been better
+
+# Time #2
+
+* English
+* The same as Time #1, but speaking to the group, not phone
+
+~~~~~~~~~~~~~
+
+    "Speaker: I'm going to talk about the geology of Italy.
+    There's a long line of mountains down Italy, just like in Taiwan.
+    ..
+    Speaker: So, that's the geology of Italy.
+    What about Italian tourist attractions?
+    Michelle? (Looks at Michelle)
+
+    Michelle: I'm going to talk about Italian tourist attractions.
+    There are many things to do and see in Italy.
+    .."
+
+~~~~~~~~~~~~~
+
+# Discussion of Time #2
+
+* Chinese
+* Talk about what was said
+
+	* What went well
+	* What could have been better
+
+# Time #3
+
+* English
+* The same as Time #2, but looking at the other groups (not your own group)
+
+They're not listening to you!
+
+* But will people be listening to you
+when you do it in front of the whole class?
 
 # Talking about the talk--signposts for lost
 listeners
@@ -294,7 +452,7 @@ of course.
 
 From the handout:
 
-"Now let’s turn to taboos in Rome."
+	"Now let’s turn to taboos in Rome."
 
 The speaker's purpose:
 
@@ -306,7 +464,7 @@ The speaker's purpose:
 
 From the handout:
 
-"Moving on, I would like to talk about gourmet food in the city."
+	"Moving on, I would like to talk about gourmet food in the city."
 
 The speaker's purpose:
 
@@ -318,7 +476,7 @@ The speaker's purpose:
 
 From the handout:
 
-"I’d just like to go back to the previous slide."
+	"I’d just like to go back to the previous slide."
 
 The speaker's purpose:
 
@@ -330,8 +488,8 @@ The speaker's purpose:
 
 From the handout:
 
-"To sum up, then, the United Kingdom is definitely a place you want
-to visit one day."
+	"To sum up, then, the United Kingdom is definitely a place you want
+	to visit one day."
 
 The speaker's purpose:
 
@@ -339,6 +497,11 @@ The speaker's purpose:
 1. adding or subtracting material
 1. ending the talk
 
+# The end of the presentation workshop, November 2022
+
+# Course slides, Spring semester 2015
+
+# 
 * Types of speech
 +* Public speaking to an audience
 +* Panel discussions
