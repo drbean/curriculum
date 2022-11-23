@@ -40,9 +40,42 @@ badday:
       right way     : 走對了路, 正確的方法
       miss the bus   : 錯過公共汽車
       leave   : 離開
+  match:
+    0:
+      identifier: Does Tom/the bus do Y?
+      x: action
+      y: person/thing
+      pair:
+        -
+          - is late
+          - Tom
+        -
+          - put clothes on
+          - Tom
+        -
+          - run to the bus stop
+          - Tom
+        -
+          - run over Tom
+          - the bus
+        -
+          - catch the bus
+          - Tom
+        -
+          - chase the bus
+          - Tom
+        -
+          - run to school
+          - Tom
+        
+        
+        
+
   bingo:
+    - again be bus can't catch chases clothes eight fast late leaving no not now o'clock puts run school stop takes Tom too up wakes will
     - early chase fingers wrong never way miss leave
     - wakes_up eight late puts clothes runs bus_stop too_late leaving chases bus fast catch run school
+    - again be bus can't catch chases clothes eight fast late leaving no not now o'clock puts run school stop takes Tom too up wakes will
     - wrong OK finger play piano too bad happened door closed hope better fine
     - first_day school hard new_teacher scary meet things make better early morning leave time miss school_bus late eat breakfast feel_good
     - early chase burn_my_fingers wrong_way never miss_the_bus leave wakes_up eight_o'clock clothes bus_stop too_late leaving can't_catch_it run_to_school ouch fine scary school_bus licks_his_fingers festival holiday walk_home on_time follow_me ready great_party hot_pot movie_theater we're_lost
@@ -280,21 +313,6 @@ sports:
       John is on the school chess ....... this year : team
       Your sentence using a word from Unit 22: busy, swimming, during, weekend, enough, team
       A sentence using a word from Unit 22: busy, swimming, during, weekend, enough, team
-  1:
-忙碌的
-   週末
-   期間
-   游泳的
-   足夠的
-   接受或開始
-   看起來像
-busy
-weekend
-during
-swimming
-enough
-take up
-seem like
   bingo:
     -
       - I will be very ....... this afternoon. _busy_
