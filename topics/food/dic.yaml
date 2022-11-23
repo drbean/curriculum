@@ -205,5 +205,19 @@
     M:  What would you like to drink?
     W:  I'll have a glass of water with ice.
   - first.adjective out.adverb often.adverb cousin.noun you.pronoun menu.noun ready.adjective order.verb fish.noun vegetables.noun bread.noun rice.noun rice.noun vegetables.noun would.verb drink.verb water.noun ice.noun End
+-
+  - "restaurant-6"
+  - "restaurant-6"
+  - "topics"
+  - "all"
+  - |+
+    W:  Would you like to see a menu?
+    M:  No, thank you. I know what I want to order.
+    W:  OK. What would you like?
+    M:  I'd like some beef and vegetables. 
+    W:  Would you like some rice with that?
+    M:  No, thanks, but I'd like a glass of water, please.
+  - like.verb menu.noun thank.verb know.verb order.verb would.verb beef.noun vegetables.noun you.pronoun rice.noun that.pronoun thanks.verb glass.noun water.noun End
+
 
 

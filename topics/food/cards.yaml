@@ -268,6 +268,32 @@ restaurant:
         -
           - Fred
           - Fred
+    3:
+      identifier: Does the person mention X?
+      x: person
+      y: word
+      pair:
+        -
+          - Alfredo's
+          - man
+        -
+          - menu
+          - man
+        -
+          - vegetables
+          - man
+        -
+          - bread
+        -
+          - rice
+          - man
+        -
+          - cousin
+          - woman
+        -
+          - ice
+          - woman
+        
     5:
       identifier: bad restaurant conversation
       pair:
@@ -284,6 +310,27 @@ restaurant:
           - "A: Oh, no! Did you get a free dessert?"
           - "B: Yes, I got some ice cream."
     6:
+      identifier: Does the woman ask about this? Does the man want this?
+      y: person
+      x: food
+      pair:
+        -
+          - woman
+          - menu
+        -
+          - man
+          - beef
+        -
+          - man
+          - vegetables
+        -
+          - woman
+          - rice
+        -
+          - man
+          - glass of water
+        
+    7:
       identifier: Chinese restaurant cut-up
       pair:
         -
