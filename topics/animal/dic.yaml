@@ -25,7 +25,7 @@
   - |+
     Kevin and Carla are at the zoo. They see polar bears and zebras first. Next, they go to the aquarium. They see a shark. It swims close to the glass.
     The shark opens its mouth. It has so many teeth! Carla screams. She's afraid of the shark. A man feeds the shark, and it swims away. 'Don't be afraid. The shark is gone,' Kevin says.
-  - are.verb zoo.noun zebras.noun go.verb aquarium.noun shark.noun swims.verb glass.noun mouth.noun teeth.noun afraid.ad feeds.verb it.noun afraid.ad says.verb End
+  - are.verb zoo.noun zebras.noun go.verb aquarium.noun shark.noun swims.verb glass.noun mouth.noun teeth.noun afraid.adjective feeds.verb it.noun afraid.adjective says.verb End
   - Kevin and Carla|at the|They see polar bears and|first|Next, they|to the|They see a|It|close to the|The shark opens its|It has so many|Carla screams|She's|of the shark. A man|the shark, and|swims away|Don't be|The shark is gone|Kevin|End
 -
   - "zoo-2"
