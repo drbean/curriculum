@@ -284,6 +284,40 @@ zoo:
         -
           - "A: I don't like lions. They have big claws and teeth. They roar a lot, too."
           - "B: Oh, well, that's why I like them."
+    3:
+      identifier: Does the boy/girl like this animal (the best)?
+      y: person
+      x: animal
+      pair:
+        -
+          - the girl
+          - polar bears
+        -
+          - the girl
+          - lions
+        -
+          - the boy
+          - monkeys
+        -
+          - the boy
+          - sharks
+    4:
+      identifier: Do these animals live in this place?
+      x: place
+      y: animal
+      pair:
+        -
+          - monkeys
+          - in trees
+        -
+          - polar bears
+          - in water
+        -
+          - sharks
+          - in water
+        -
+          - zebras
+          - on land
   bingo:
     - shark zoo monkey zebra roars claws zookeeper polar-bear angry lion lives very cold places work bears have big
     - shark zoo monkey zebra roars claws zookeeper polar_bear beach aquarium museum food swims afraid lion snow cool ice rain house cold home
