@@ -19,6 +19,7 @@ Some attempts to see English wobble, benefiting from conversations on the ##Engl
 * [FauxOutrage](FauxOutrage.html) Outrageous--Not damning with faint praise, but praising with quaint 'Damn'
 * [AutoAntonym](AutoAntonym.html) One Word--Two opposite meanings
 * [PrancingPony](PrancingPony.html) Disparaging a politician--How is it done?
+* [AfterAll](AfterAll.html) Solving a dilemma
 
 #### Grammar
 
