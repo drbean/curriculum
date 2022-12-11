@@ -1,7 +1,8 @@
 % Speech aspires to poetry, poetry aspires to song
 
 Here's a good explanation of why speech aspires to poetry, poetry aspires to 
-song. https://www.englishclub.com/pronunciation/sentence-stress.htm
+song.
+[https://www.englishclub.com/pronunciation/sentence-stress.htm](https://www.englishclub.com/pronunciation/sentence-stress.htm)
 
 It says,
 
