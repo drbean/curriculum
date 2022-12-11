@@ -45,4 +45,22 @@ I was actively looking for it, so it is not correct to say, it was 'on the mind 
 
 Perhaps?
 
+On another occasion, when the thing I was looking for (a small plastic cover to a razor blade cartridge) was actually in my hand before I found it, I didn't say anything at all.
+
+On the relation between `There it is!` and `It IS there!`
+
+( Perhaps we can formalize real world relationships using grammatical relationships.)
+
+On a different occasion, going down the hill from the school, I realized I didn't have my hat. I understood I had either never put it on in the morning, leaving for school, or I had left it in the classroom.
+
+I thought I had better go back to the classroom to check that it wasn't there. Seeing it in the classroom, I said:
+
+	It IS there!
+
+I had reason to believe I might find it where I did find it. 
+
+The only difference between the 2 situations is my state of mind, and the search activity that that prompted.
+.
+What is the grammatical relationship between `There it is!` and `It IS there!`
+
 Back to [WobblyEnglish](WobblyEnglish.html)
