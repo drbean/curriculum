@@ -59,8 +59,8 @@ I thought I had better go back to the classroom to check that it wasn't there. S
 
 I had reason to believe I might find it where I did find it. 
 
-The only difference between the 2 situations is my state of mind, and the search activity that that prompted.
-.
+The only difference between the 2 situations is my state of mind, and the search activity that that prompted?
+
 What is the grammatical relationship between `There it is!` and `It IS there!`
 
 Back to [WobblyEnglish](WobblyEnglish.html)
