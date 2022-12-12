@@ -40,7 +40,7 @@
 
 <!-- end of list -->
 
-- [Demo lesson slides](pc/index.html) Present continuous as a future tense.
+- [LectureS](LectureS.html) Speaker stands, audience sits for short lesson/course
 
 TODO: under construction
 :   E learning
