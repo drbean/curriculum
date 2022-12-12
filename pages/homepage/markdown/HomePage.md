@@ -40,7 +40,7 @@
 
 <!-- end of list -->
 
-- [LectureS](LectureS.html) Speaker stands, audience sits for short lesson/course
+- [LecturesCourses](LecturesCourses.html) Speaker stands, audience sits for short lesson/course
 
 TODO: under construction
 :   E learning
