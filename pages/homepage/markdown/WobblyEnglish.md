@@ -20,6 +20,8 @@ Some attempts to see English wobble, benefiting from conversations on the ##Engl
 * [AutoAntonym](AutoAntonym.html) One Word--Two opposite meanings
 * [PrancingPony](PrancingPony.html) Disparaging a politician--How is it done?
 * [AfterAll](AfterAll.html) Solving a dilemma
+* [BeliesAnyClaim](BeliesAnyClaim.html) The use of 'belie'
+* [ReadyWillingAbleAndCapable](ReadyWillingAbleAndCapable.html) Ready Willing and Able, or Capable?
 
 #### Grammar
 
