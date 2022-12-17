@@ -1,0 +1,14 @@
+---
+fullname: Teach yourself English with Dr Bean
+shortname: drbean
+summary: Learn English while preparing for TOEIC, TOEFL tests
+participant:
+  admin: Ed Min drbean@freeshell.org 12qw12qw
+  drbean: Dr Bean drbean+drbean@freeshell.org 12qw12qw
+course:
+  - 
+    - toeic
+    - backup-moodle2-course-2-toeic-20210327-0709-nu-nf.mbz
+  - 
+    - toefl
+    - moosh_backup_course_2_toefl_2022-05-17-nu.mbz
