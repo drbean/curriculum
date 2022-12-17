@@ -20,6 +20,6 @@ A synonym is
 ['give the lie to'](https://en.wiktionary.org/wiki/give_the_lie_to#English),
 though the wiktionary example there has as object a speech act, rather than a putative real-life event.
 
-Perhaps I am wrong and the prosecutors's use of the word is not incorrect.
+Perhaps I am wrong and the prosecutors' use of the word is not incorrect.
 
 Return to [WobblyEnglish](WobblyEnglish.html)
