@@ -14,7 +14,7 @@ I haven't asked the authors of these papers if it was OK to publicize my involve
 
 ##### Design
 
-* [Applying Kansei Engineering to the Design of Headwear with Traditional Shape Features](https://www.emerald.com/insight/content/doi/10.1108/IJCST-08-2021-0118/full/html)
+* [Applying Kansei Engineering to the Design of Headwear with Traditional Shape Features](https://www.semanticscholar.org/paper/Applying-Kansei-engineering-to-the-design-of-pieces-Tsai-Hsu/38b7e047b4356ef2f31b164d6e18d7629c1852b5)
 
 ##### Education
 
