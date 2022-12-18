@@ -15,6 +15,10 @@ course:
 authentication:
   registerauth: email-based self-registration
 enrolments:
+  site:
+    guest access: 
+      - Users.permissions.user_policies.autologinguests
+      - Authentication.manage_authentication.guestloginbutton.show
   course:
     enrolled users:
       enrolment methods:
