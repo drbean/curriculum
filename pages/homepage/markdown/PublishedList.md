@@ -12,6 +12,10 @@ I haven't asked the authors of these papers if it was OK to publicize my involve
 
 * [Hybrid Sol-Gel-Derived Method for the Synthesis of Silicon Rubber Composites with h-BN for Characteristic Applications in ElastomericThermal Pads](https://journals.sagepub.com/doi/abs/10.1177/00405175211069867)
 
+##### Design
+
+* [Applying Kansei Engineering to the Design of Headwear with Traditional Shape Features](https://www.emerald.com/insight/content/doi/10.1108/IJCST-08-2021-0118/full/html)
+
 ##### Education
 
 * [Dissertation: Validation of The Quick Letter Name Knowledge Assessment for Use in School-aged EFL Learners](https://hdl.handle.net/11296/am9ew5)
