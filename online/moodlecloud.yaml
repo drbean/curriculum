@@ -12,3 +12,11 @@ course:
   - 
     - toefl
     - moosh_backup_course_2_toefl_2022-05-17-nu.mbz
+authentication:
+  registerauth: email-based self-registration
+enrolments:
+  course:
+    enrolled users:
+      enrolment methods:
+        guest access: enrol_guest|status: Yes
+        self enrolments: eye
