@@ -8,9 +8,11 @@ Politics trumps the law.
 
 In the spirit of checks/balances, what trumps politics and is trumped by the law?
 
+
 | Politics > law
 | Law > everyday life
 | Life > politics
+
 
 Or is it morality?
 
