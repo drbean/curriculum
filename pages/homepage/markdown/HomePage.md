@@ -38,6 +38,7 @@
 - [InUsWeTrust](InUsWeTrust.html) The US: thoughts from abroad
 - [WittySayings](WittySayings.html) Levity is the soul of wit
 - [InterNet](InterNet.html) Is the Internet on? Are we on the line?
+- [LanguageAndThought](LanguageAndThought.html) They do very well together
 
 <!-- end of list -->
 
