@@ -39,6 +39,7 @@
 - [WittySayings](WittySayings.html) Levity is the soul of wit
 - [InterNet](InterNet.html) Is the Internet on? Are we on the line?
 - [LanguageAndThought](LanguageAndThought.html) They do very well together
+- [CategoryTheory](CategoryTheory.html) Mind map math
 
 <!-- end of list -->
 
