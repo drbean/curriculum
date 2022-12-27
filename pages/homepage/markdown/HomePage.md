@@ -36,7 +36,7 @@
 - [KoreA](KoreA.html) 1986-1998 highpoints recollected
 - [ChinA](ChinA.html) 1992-2092 A replay of Japan 1868-1945?
 - [InUsWeTrust](InUsWeTrust.html) The US: thoughts from abroad
-- [WittySayings](WittySayings.html) Levity is the soul of wit
+- [HumorMyHumors](HumorMyHumors.html) Levity is the soul of wit
 - [InterNet](InterNet.html) Is the Internet on? Are we on the line?
 - [LanguageAndThought](LanguageAndThought.html) They do very well together
 - [CategoryTheory](CategoryTheory.html) Mind map math
