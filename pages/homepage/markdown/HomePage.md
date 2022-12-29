@@ -26,13 +26,14 @@
   -   [Games](Games.html) Game Theory for Teachers (Let's just say Activities)
 - [CurriculumVitae](CurriculumVitae.html)
 - [ChinMin](ChinMin.html)
-- [MyHealth](MyHealth.html)
-- [MyDocuments](MyDocuments.html)
+- [MyHealth](MyHealth.html) Hospital reports
+- [MyDocuments](MyDocuments.html) Certificate pics
 - [MyPics](http://drbean.sdf.org/pics) A bag of my & other people's photos
 - [LettersOfRecommendation](LettersOfRecommendation.html) From the horse's mouth
 - [CoverLetter](CoverLetter.html)
 - [MyHobbies](MyHobbies.html)
 - [WobblyEnglish](WobblyEnglish.html) Language isn't logical
+- [ChineseJapaneseKorean](ChineseJapaneseKorean.html) My other languages
 - [KoreA](KoreA.html) 1986-1998 highpoints recollected
 - [ChinA](ChinA.html) 1992-2092 A replay of Japan 1868-1945?
 - [InUsWeTrust](InUsWeTrust.html) The US: thoughts from abroad
