@@ -38,4 +38,11 @@ In the first case it is a
 and in the second it is a
 [conjunct](http://en.wikipedia.org/wiki/Conjunct).
 
+An instance from
+[a liberal law prof](https://balkin.blogspot.com/2022/12/comments-on-levinsonfest-voting-rights.html)
+
+Law students are treated to theory in law school, but they are destined to be dealing with practice after leaving law school.
+
+`The practical question, perhaps, is the extent to which law students, who aspire, *after all*, to being practicing lawyers and who therefore must take courts and judges with special seriousness, should be taught _only_ the "law" as enunciated by the courts.` 
+
 Back to [WobblyEnglish](WobblyEnglish.html)
