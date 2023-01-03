@@ -11,3 +11,5 @@ Also, teaching does thia, according to the wikipedia article.
 However, such activity can be offensive to people in the environment who hear the speaker and respond to their questions, only to have their advice, sympathy and concern being ignored.
 
 Is that why teachers get a lot of disrespect?
+
+Back to the [InterNet](InterNet.html)
