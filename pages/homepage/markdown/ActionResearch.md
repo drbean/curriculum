@@ -1,0 +1,7 @@
+% Life: a scientific experiment
+
+What happens when we think the unexamined life is not worth living, if we live it as a scientific experiment?
+
+- [DifferentStudy](DifferentStudy.html) How could things be different?
+
+Back to [HomePage](HomePage.html)
