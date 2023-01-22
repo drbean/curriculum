@@ -3,5 +3,6 @@
 What happens when we think the unexamined life is not worth living, if we live it as a scientific experiment?
 
 - [DifferentStudy](DifferentStudy.html) How could things be different?
+- [Self-Diagnosis](Self-Diagnosis.html) A dangerous thing
 
 Back to [HomePage](HomePage.html)
