@@ -17,3 +17,5 @@ My prejudices confronting an open mind.
 A little
 [self-diagnosis](http://en.wikipedia.org/wiki/self-diagnosis)
 is a dangerous thing.
+
+Back to [ActionResearch](ActionResearch.html)
