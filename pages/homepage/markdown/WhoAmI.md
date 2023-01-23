@@ -17,3 +17,5 @@ because of money.
 slip through the cracks and get something for nothing.
 
 The obverse of this is gratitude for people's charity.
+
+Back to [ActionResearch](ActionResearch.html)
