@@ -22,6 +22,7 @@ Some attempts to see English wobble, benefiting from conversations on the ##Engl
 * [AfterAll](AfterAll.html) Solving a dilemma
 * [BeliesAnyClaim](BeliesAnyClaim.html) The use of 'belie'
 * [ReadyWillingAbleAndCapable](ReadyWillingAbleAndCapable.html) Ready Willing and Able, or Capable?
+- [FormerlyFormally](FormerlyFormally.html) Homophones for me!
 
 #### Grammar
 
@@ -50,6 +51,5 @@ Some attempts to see English wobble, benefiting from conversations on the ##Engl
 * [ModifierScope](ModifierScope.html) Free software and beer
 * [SubjectVerbDisagreement](SubjectVerbDisagreement.html) Coat and tie is required
 * [ThatsItThere](ThatsItThere.html) Finding something: "There it is" or "That's it there"?
-
 
 Return to [HomePage](HomePage.html)
