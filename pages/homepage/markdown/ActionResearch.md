@@ -5,5 +5,7 @@ What happens when we think the unexamined life is not worth living, if we live i
 - [WhoAmI](WhoAmI.html) Examining what drives me
 - [DifferentStudy](DifferentStudy.html) How could things be different?
 - [SelfDiagnosis](SelfDiagnosis.html) A dangerous thing
+- [LostAmbition](LostAmbition.html) The evil of the day is sufficient thereof
+- [BrillianceOfMind](BrillianceOfMind.html) Self-deception is the answer
 
 Back to [HomePage](HomePage.html)
