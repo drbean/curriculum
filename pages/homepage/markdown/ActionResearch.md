@@ -7,5 +7,6 @@ What happens when we think the unexamined life is not worth living, if we live i
 - [SelfDiagnosis](SelfDiagnosis.html) A dangerous thing
 - [LostAmbition](LostAmbition.html) The evil of the day is sufficient thereof
 - [BrillianceOfMind](BrillianceOfMind.html) Self-deception is the answer
+- A[HigamusHogamus](HigamusHogamus.html) What poetry says about truth
 
 Back to [HomePage](HomePage.html)
