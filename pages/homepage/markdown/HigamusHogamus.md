@@ -18,6 +18,8 @@ PS. My apparently mistaken understanding, due to reading a HJ Eysenck popular ex
 
 His teacher, Cyril Burt is also known as the serial perpetrator of scientific fraud.
 
-Perhaps, psychology, in and of itself, is (also) a scientific fraud.
+Is psychology (also) a scientific fraud?
+
+[Feynman and cargo cult psychology at DDG](https://duckduckgo.com/?q=feynman+cargo+cult+psychology)
 
 Back to [ActionResearch](ActionResearch.html)
