@@ -10,6 +10,7 @@ wound down.
 
 * [KotesolHistory](KotesolHistory.html) AETK/KOTESOL 1990-1993
 * [OryangPraise](OryangPraise.html) Korean/expat teacher communication
+* [DoingKorea](DoingKorea.html) Personal experience is best
 
 Back to [HomePage](HomePage.html)
 
