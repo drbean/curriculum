@@ -8,5 +8,6 @@ What happens when we think the unexamined life is not worth living, if we live i
 - [LostAmbition](LostAmbition.html) The evil of the day is sufficient thereof
 - [BrillianceOfMind](BrillianceOfMind.html) Self-deception is the answer
 - [HigamusHogamus](HigamusHogamus.html) What poetry says about truth
+- [FoodClothingShelter](FoodClothingShelter.html) .. Intimacy
 
 Back to [HomePage](HomePage.html)
