@@ -3,8 +3,8 @@ fullname: Teach yourself English with Dr Bean
 shortname: drbean
 summary: Learn English while preparing for TOEIC, TOEFL tests
 participant:
-  admin: Ed Min drbean@freeshell.org 12qw12qw
-  drbean: Dr Bean drbean+drbean@freeshell.org 12qw12qw
+  admin: Ed Min drbean@freeshell.org ********
+  drbean: Dr Bean drbean+drbean@freeshell.org ********
 course:
   - 
     - toeic
