@@ -6,6 +6,12 @@ If those PressingNeeds are satisfied, the survival of the individual is insured 
 
 The survival of the human race is not insured, unless the need/want/desire of men for ejaculation (or is it, penetration) in a woman is satisfied.
 
-Men (ie, me) are confused about the relation of what they're doing with intimacy.
+Speaking for all men, I say we are confused about the relation of intercourse with intimacy.
+
+We understand sex is impossible without physical entanglement.
+
+We don't understand the emotional entanglement, attachment, bonds that result from intercourse, and which I believe (but cannot prove) are baked in to intercourse.
+
+Seeing it as an analogue to the physical tie that locks together copulating dogs helps me understand.
 
 Back to [ActionResearch](ActionResearch.html)
