@@ -14,4 +14,8 @@ We don't understand the emotional entanglement, attachment, bonds that result fr
 
 Seeing it as an analogue to the physical tie that locks together copulating dogs helps me understand.
 
+I told my significant other 40 years ago that I could accept if she wanted that we stop having sex, but I asked her not to stop allowing physical intimacy.
+
+Read how [AnimalSpirits](AnimalSpirits.html) have a lot to answer for.
+
 Back to [ActionResearch](ActionResearch.html)
