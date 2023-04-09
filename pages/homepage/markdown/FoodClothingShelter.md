@@ -1,4 +1,4 @@
-% A good theory about what we need/want/desire?
+% On being fed, clothed and housed, what do we need/want/desire?
 
 Nothing is necessary, but when you're hungry, naked and homeless in a hostile environment, you have PressingNeeds.
 
@@ -12,9 +12,9 @@ We understand sex is impossible without physical entanglement.
 
 We don't understand the emotional entanglement, attachment, bonds that result from intercourse, and which I believe (but cannot prove) are baked in to intercourse.
 
-Seeing it as an analogue to the physical tie that locks together copulating dogs helps me understand.
-
 I told my significant other 40 years ago that I could accept if she wanted that we stop having sex, but I asked her not to stop allowing physical intimacy.
+
+Seeing it as an analogue to the physical tie that locks together copulating dogs helps me understand it.
 
 Read how [AnimalSpirits](AnimalSpirits.html) have a lot to answer for.
 
