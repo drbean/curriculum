@@ -51,7 +51,7 @@ TODO: under construction
 :   Business English
 :   Listening
 :   Computer Programming
-:   Copy editing/ESP
+:   ESP
 :   Learner Autonomy
 :   Teacher Development
 :   Communicative Methodology
