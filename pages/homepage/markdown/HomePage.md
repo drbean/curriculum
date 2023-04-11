@@ -41,8 +41,7 @@
 - [InterNet](InterNet.html) Is the Internet on? Are we on the line?
 - [LanguageAndThought](LanguageAndThought.html) They do very well together
 - [CategoryTheory](CategoryTheory.html) Mind map math
-- [ActionResearch](ActionResearch.html) Wearing the scientist hat taking on self
-
+- [TheExaminedLife](TheExaminedLife.html) Worth it, or navel gazing?
 <!-- end of list -->
 
 - [LecturesCourses](LecturesCourses.html) Speaker stands, audience sits for short lesson/course
