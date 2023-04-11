@@ -42,6 +42,7 @@
 - [LanguageAndThought](LanguageAndThought.html) They do very well together
 - [CategoryTheory](CategoryTheory.html) Mind map math
 - [TheExaminedLife](TheExaminedLife.html) Worth it, or navel gazing?
+
 <!-- end of list -->
 
 - [LecturesCourses](LecturesCourses.html) Speaker stands, audience sits for short lesson/course
