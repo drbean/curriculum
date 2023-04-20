@@ -15,10 +15,6 @@ I think it's more likely to occur than
 
 	a friend of John
 
-With a different use than
-
-	John's friend
-
 But it would be
 
 	the collar of my dog
