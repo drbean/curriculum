@@ -63,4 +63,6 @@ The only difference between the 2 situations is my state of mind, and the search
 
 What is the grammatical relationship between `There it is!` and `It IS there!`
 
+Again, another time when what I was looking for I found in my hand (It was a shaving cartridge holder), I didn't say anything at all.
+
 Back to [WobblyEnglish](WobblyEnglish.html)
