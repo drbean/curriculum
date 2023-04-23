@@ -52,5 +52,6 @@ Some attempts to see English wobble, benefiting from conversations on the ##Engl
 * [SubjectVerbDisagreement](SubjectVerbDisagreement.html) Coat and tie is required
 * [ThatsItThere](ThatsItThere.html) Finding something: "There it is" or "That's it there"?
 * [MinesIsBlue](MinesIsBlue.html) Can you say that?
+* [HairOfTheDog](HairOfTheDog.html) A dog hair? A hair of the dog's?
 
 Return to [HomePage](HomePage.html)

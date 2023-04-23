@@ -23,4 +23,6 @@ rather than
 
 	the collar of my dog's
 
+See [HairOfTheDog](HairOfTheDog.html)
+
 Back to [WobblyEnglish](WobblyEnglish.html)
