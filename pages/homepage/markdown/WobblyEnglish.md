@@ -32,6 +32,7 @@ Some attempts to see English wobble, benefiting from conversations on the ##Engl
 * [LeavePassive](LeavePassive.html)
 * [NuisancePassive](NuisancePassive.html) 'We were died on by our son.'
 * [LetCausative](LetCausative.html) Let 'er rip! Let 'em have it! Let there be light!
+* [MayWeBeHeard](MayWeBeHeard.html) Avoiding saying what the requestor will do
 * [PresentPerfect](PresentPerfect.html) Present, Present perfect and past in Japanese and English
 * [TheGuy](TheGuy.html) *The* guy from San Antonio or *a* guy from San Antonio
 * [TheDefaultReferenceOfThe](TheDefaultReferenceOfThe.html) The reference in 'the store'. Which store? *All/many* stores.
