@@ -1,4 +1,4 @@
-% Focusing on they would like others to do, rather than what they themselves want to do
+% Turning what they want to do into what they would like others to do
 
 	Lawyer in court: May we be heard?
 
