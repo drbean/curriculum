@@ -41,7 +41,7 @@
 - [InterNet](InterNet.html) Is the Internet on? Are we on the line?
 - [LanguageAndThought](LanguageAndThought.html) They do very well together
 - [CategoryTheory](CategoryTheory.html) Mind map math
-- [TheExaminedLife](TheExaminedLife.html) Worth it, or navel gazing?
+- [TheUnexaminedLife](TheUnexaminedLife.html) Not worth living?
 
 <!-- end of list -->
 
