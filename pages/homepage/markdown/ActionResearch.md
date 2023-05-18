@@ -12,4 +12,5 @@ Wearing the scientist hat taking on self?
 - [HigamusHogamus](HigamusHogamus.html) What poetry says about truth
 - [FoodClothingShelter](FoodClothingShelter.html) .. Intimacy
 
-Back to [HomePage](HomePage.html)
+Back to
+[TheUnexaminedLife](TheUnexaminedLife.html)
