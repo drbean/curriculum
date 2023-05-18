@@ -8,3 +8,6 @@ i. a scientific experiment with
 2. a design exercise with
 [DesigningMenAndWomen](DesigningMenAndWomen.html)?
 
+[TheExaminedLife](TheExaminedLife.html) The FAQs of life
+
+Back to [HomePage](HomePage.html)
