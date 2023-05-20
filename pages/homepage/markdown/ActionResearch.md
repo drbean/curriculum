@@ -11,6 +11,7 @@ Wearing the scientist hat taking on self?
 - [BrillianceOfMind](BrillianceOfMind.html) Self-deception is the answer
 - [HigamusHogamus](HigamusHogamus.html) What poetry says about truth
 - [FoodClothingShelter](FoodClothingShelter.html) .. Intimacy
+- [AnimalSentience](AnimalSentience.html) What philosophers say
 
 Back to
 [TheUnexaminedLife](TheUnexaminedLife.html)
