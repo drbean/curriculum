@@ -63,6 +63,14 @@ The only difference between the 2 situations is my state of mind, and the search
 
 What is the grammatical relationship between `There it is!` and `It IS there!`
 
-Again, another time when what I was looking for I found in my hand (It was a shaving cartridge holder), I didn't say anything at all.
+## Different responses
+
+1. Silence
+
+:	The response described above:  When what I was looking for it I found in my hand (It was a shaving cartridge holder), I didn't say anything at all.
+
+2. 'Oh, look.'
+
+:	I spent time looking for a magnifying glass. Its cover was on my desk. I gave up looking for it. Some time later, I opened a drawer and saw it there, where it was kept. I didn't say, 'That's it there!'
 
 Back to [WobblyEnglish](WobblyEnglish.html)
