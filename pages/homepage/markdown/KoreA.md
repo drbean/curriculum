@@ -13,7 +13,7 @@ went there to:
 
 1. learn the
 [단소](https://namu.wiki/w/%EB%8B%A8%EC%86%8C)
-[Korean recorder](https://ko.wikipedia.org/wiki/%EB%8B%A8%EC%86%8C)
+, the [Korean recorder](https://ko.wikipedia.org/wiki/%EB%8B%A8%EC%86%8C)
 2. learn Korean
 3. teach English
 
