@@ -73,4 +73,8 @@ What is the grammatical relationship between `There it is!` and `It IS there!`
 
 :	I spent time looking for a magnifying glass. Its cover was on my desk. I gave up looking for it. Some time later, I opened a drawer and saw it there, where it was kept. I didn't say, 'That's it there!'
 
+3. 'Here it is.'
+
+:I was looking for my mask in my pockets. I looked in my left pocket. It was there. I said, 'Here it is.'
+
 Back to [WobblyEnglish](WobblyEnglish.html)
