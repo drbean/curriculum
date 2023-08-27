@@ -8,3 +8,4 @@ And it goes over their heads. Or, if not, in one ear and out the other.
 - [Three sayings](saying.html) Be ambitious, Nothing succeeds.., Turn on, tune in ..
 - [Culture Course](culture.html) The 5th language skill
 - [Turn Presentation](presentation.html) Yielding the floor to the next speaker
+- [KeiSato](KeiSato.html) Quizzes for his students about me and him
