@@ -4,9 +4,9 @@ I got a ride with K Sato, who teaches English at Oma High School, from Shimonose
 
 Here are 3 listening exercises for his students, 2 about relationships between the 2 of us, and one about my own trip.
 
-- [CommonCharacters](CommonCharacters.html)
-- [AgeRelationship](AgeRelationship.html)
-- [ShimonosekiToNara](ShimonosekiToNara.html)
+- [CommonCharacters](CommonCharacters.html) Uncommon characters in our names
+- [AgeRelationship](AgeRelationship.html) Young, but older than students
+- [ShimonosekiToNara](ShimonosekiToNara.html) Distance in Western Japan
 
 I like to turn comprehension questions into math problems. It's boring if the teacher just seeks to confirm whether the students understood what was said or not. And it's also not how language works.
 
