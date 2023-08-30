@@ -1,6 +1,11 @@
-Identifying the Chinese character in K. Sato and Dr Bean's names.
+% Identifying the Chinese character in K. Sato and Dr Bean's names.
 
-youtube.com Script
+=== Video
+
+[A character common to 2 people's names](https://youtu.be/yoEpYa_pBig),
+at [https://youtu.be/yoEpYa_pBig](https://youtu.be/yoEpYa_pBig)
+
+=== Script
 
 Hi.
 
@@ -21,7 +26,7 @@ I also have a name in characters, Chinese characters.
 
 高 means 'high' or 'tall'. I am tall.
 
-来 means 'come'. I came to Japan in 1980.
+来 means 'come'. (I come from Australia.) I came to Japan in 1980.
 
 圭? I don't know what 圭 means. But I know it's not a common character.
 
