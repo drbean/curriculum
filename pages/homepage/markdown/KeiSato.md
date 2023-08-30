@@ -8,7 +8,7 @@ Here are 3 listening exercises for his students, 2 about relationships between t
 - [AgeRelationship](AgeRelationship.html) Young, but older than students
 - [ShimonosekiToNara](ShimonosekiToNara.html) Distance in Western Japan
 
-I like to turn comprehension questions into math problems. It's boring if the teacher just seeks to confirm whether the students understood what was said or not. And it's also not how language works.
+I like to turn comprehension questions into math problems. It's boring if the teacher just seeks to confirm whether the students understood what was said or not. And it's also not how language works. That's why Content Based Instruction (CBI) is good.
 
 There's an intimate connection between language and thought. You can't be said to have understood unless you can make inferences from what was said, or react in some other way to what was said.
 
