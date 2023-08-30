@@ -1,11 +1,11 @@
-% Identifying the Chinese character in K. Sato and Dr Bean's names.
+% Identifying the Chinese character in K. Sato and Dr Bean's names
 
-=== Video
+### Video
 
 [A character common to 2 people's names](https://youtu.be/yoEpYa_pBig),
 at [https://youtu.be/yoEpYa_pBig](https://youtu.be/yoEpYa_pBig)
 
-=== Script
+### Script
 
 Hi.
 
