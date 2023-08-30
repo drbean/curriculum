@@ -1,6 +1,6 @@
 % 3 easy questions but students must infer from what they hear
 
-I got a ride with K Sato, who teaches English at Oma High School, from Shimonoseki to Okayama, on his road trip from Aomori to Oita, Kyushu, via Korea, Biwa-ko and Kochi.
+I got a ride with K Sato, who teaches English at Oma High School in Aomori, from Shimonoseki to Okayama, on his road trip to Oita, Kyushu, via Korea, Biwa-ko and Kochi.
 
 Here are 3 listening exercises for his students, 2 about relationships between the 2 of us, and one about my own trip.
 
