@@ -46,6 +46,7 @@
 - [LanguageAndThought](LanguageAndThought.html) They do very well together
 - [CategoryTheory](CategoryTheory.html) Mind map math
 - [TheUnexaminedLife](TheUnexaminedLife.html) Not worth living?
+- [LetUsNowPraiseFamousMen](LetUsNowPraiseFamousMen.html) Cheap shots at the eminent
 
 <!-- end of list -->
 
