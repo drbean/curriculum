@@ -1,9 +1,6 @@
 % Ironical comment on Riley's stamina
 
-[Terry Riley](http://www.terryriley.net/):
-
-| No music,
-| No life (2023)
+[Terry Riley](http://www.terryriley.net/): No music, No life (2023)
 
 No wonder
 
