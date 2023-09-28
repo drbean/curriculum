@@ -2,8 +2,8 @@
 
 ### Video
 
-[A character common to 2 people's names](https://youtu.be/yoEpYa_pBig),
-at [https://youtu.be/yoEpYa_pBig](https://youtu.be/yoEpYa_pBig)
+[下関岡山奈良 nearer than 青森東京](https://youtu.be/v2f9LVXRqEA),
+at [https://youtu.be/v2f9LVXRqEA](https://youtu.be/v2f9LVXRqEA)
 
 ### Script
 
