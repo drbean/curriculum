@@ -1,4 +1,9 @@
-% How old is Dr Bean
+---
+title: How old is Dr Bean?
+header-includes:
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
+---
 
 ### Video
 
@@ -111,11 +116,11 @@ What is the distance from Aomori to Tokyo?
 
 Next time, we are going to do 'older than', and 'younger than'.
 
-Me at [Mastodon](https://mastodon.sdf.org/@drbean)	
+Me at <form action="https://mastodon.sdf.org/@drbean">
+<button type="submit" class="btn"><img src="./mastodon.svg" alt="https://joinmastodon.org/logos/wordmark-black-text.svg" style="width:100px;height:50px"/></button>
+</form>
 
-Back to [KeiSato](KeiSato.html)
+Me at <a href="https://mastodon.sdf.org/@drbean"><i class="fa-brands fa-mastodon" style="font-size:48px;"></i></a>
 
-
-Me at [Mastodon](https://mastodon.sdf.org/@drbean)	
 
 Back to [KeiSato](KeiSato.html)
