@@ -5,7 +5,6 @@ I haven't asked the authors of these papers if it was OK to publicize my involve
 ##### Ergonomics
 
 * [Risk of tripping, minimum foot clearance, and step length when crossing a barrier](https://www.semanticscholar.org/paper/Risk-of-tripping%2C-minimum-foot-clearance%2C-and-step-Zhao-Li/7226d6cc8dbaf65ba3cd093a583177099cf1bdb7)
-* [Exploring factors that influence the cardiovascular health of bus drivers for the improvement of transit safety](https://pubmed.ncbi.nlm.nih.gov/36046884/)
 
 ##### Materials science
 
