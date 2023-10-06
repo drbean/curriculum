@@ -9,7 +9,7 @@ I haven't asked all the authors of these papers if it was OK to publicize my inv
 
 ##### Commerce
 
-[Investigating Factors that Influence the Intention to Use Electric
+* [Investigating Factors that Influence the Intention to Use Electric
 Scooter Sharing in a Market with Multiple Service Providers: Combined
 UTAUT2 and Brand Attitude](https://journals.sagepub.com/doi/abs/10.1177/03611981231185142)
 
