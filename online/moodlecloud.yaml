@@ -14,7 +14,7 @@ course:
     - moosh_backup_course_2_toefl_2022-05-17-nu.mbz
 authentication:
   registerauth: |+
-    on 'Manage authentication' page, 'Common
+    on Authentication plugin 'Manage authentication' page, 'Common
     settings' email-based self-registration
     below 'Available plugins'
 enrolments:
@@ -24,9 +24,12 @@ enrolments:
       - Users.permissions.user_policies.autologinguests
       - Authentication.manage_authentication.guestloginbutton.show
   course:
-    enrolled users:
+    Participants.enrolled users:
       enrolment methods:
         guest access: 
           - enrol_guest|status: Yes (site administration)
           - allow guest access (in 'Show more')
         self enrolments: eye
+    Participants.enrol users:
+      select:
+      assign:
