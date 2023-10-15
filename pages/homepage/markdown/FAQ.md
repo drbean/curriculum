@@ -1,6 +1,12 @@
 % Frequently Asked Questions
 
-NCKU has an [internal academic editing service][1]
+* [Source of questions]
+* [Proofreading Approach]
+* [Acceptable file formats]
+
+## Source of questions
+
+In Taiwan, NCKU has an [internal academic editing service][1]
 staffed by foreign teachers associated with the university, 
 [NDHU][3] also has one.
 
@@ -9,17 +15,24 @@ the one they wish to edit their manuscript. And the teacher/editors
 have [descriptions of their requirements and their strengths][2] as 
 editors.
 
+Researchers pay the service which pays the editors. (In Korea, 
+Yonsei U will pay for [editing by external commercial 
+services][4] and it maintains a list of services with 
+relationships with the school.)
+
 [1]: https://flc.ncku.edu.tw/p/412-1144-17900.php?Lang=en
 [2]: https://flc.ncku.edu.tw/p/412-1144-22614.php?Lang=zh-tw
 [3]: https://rc040.ndhu.edu.tw/p/412-1077-6015.php?Lang=zh-tw
+[4]: https://research.yonsei.ac.kr/research-en/info/personal.do#a
 
 Two of the items that I thought were good questions were 
 *Proofreading Approach* and *Acceptable File Formats*.
 
 I want to answer those questions myself.
 
-Proofreading Approach
-  ~ I find it difficult to describe what I'm doing when I am editing.
+## Proofreading Approach
+
+  I find it difficult to describe what I'm doing when I am editing.
 
   It is hard to think about what one is doing when one is so 
   concentrated on the *text* itself and on how the *problems* it 
@@ -87,14 +100,15 @@ Proofreading Approach
           with some touches of liveliness here and there
           is to be appreciated."
 
-Acceptable File Formats
-  ~ First, let me say I will edit any file in any format I am 
-    sent.
+## Acceptable File Formats
 
-    That said, my order of preferences is:
+  First, let me say I will edit any file in any format I am 
+  sent.
 
-    * [plain text](https://en.wikipedia.org/wiki/Plain_text)
+  That said, my order of preferences is:
+
+  * [plain text](https://en.wikipedia.org/wiki/Plain_text)
 or [markdown](https://en.wikipedia.org/wiki/Markdown) files
-    * [latex](https://en.wikipedia.org/wiki/LaTeX) documents
-    * [MS Word](https://en.wikipedia.org/wiki/Microsoft_Word) files
+  * [latex](https://en.wikipedia.org/wiki/LaTeX) documents
+  * [MS Word](https://en.wikipedia.org/wiki/Microsoft_Word) files
 
