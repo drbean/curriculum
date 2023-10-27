@@ -35,7 +35,7 @@
 - [MyPics](http://drbean.sdf.org/pics) A bag of my & other people's photos
 - [LettersOfRecommendation](LettersOfRecommendation.html) From the horse's mouth
 - [CoverLetter](CoverLetter.html)
-- [MyHobbies](MyHobbies.html)
+- [MyHobbies](MyHobbies.html) Programming, bicycling, jogging, hitchhiking
 - [WobblyEnglish](WobblyEnglish.html) Language isn't logical
 - [ChineseJapaneseKorean](ChineseJapaneseKorean.html) My other languages
 - [KoreA](KoreA.html) 1986-1998 highpoints recollected
