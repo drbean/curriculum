@@ -33,3 +33,4 @@ enrolments:
     Participants.enrol users:
       select:
       assign:
+public: https://github.com/drbean/curriculum/blob/master/online/moodlecloud.yaml
