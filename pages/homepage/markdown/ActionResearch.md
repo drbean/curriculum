@@ -9,9 +9,6 @@ Wearing the scientist hat taking on self?
 - [SelfDiagnosis](SelfDiagnosis.html) A dangerous thing
 - [LostAmbition](LostAmbition.html) The evil of the day is sufficient thereof
 - [BrillianceOfMind](BrillianceOfMind.html) Self-deception is the answer
-- [HigamusHogamus](HigamusHogamus.html) What poetry says about truth
-- [FoodClothingShelter](FoodClothingShelter.html) .. Intimacy
-- [AnimalSentience](AnimalSentience.html) What philosophers say
 
 Back to
 [TheUnexaminedLife](TheUnexaminedLife.html)
