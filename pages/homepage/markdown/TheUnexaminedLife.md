@@ -6,7 +6,9 @@ i. a scientific experiment with
 [ActionResearch](ActionResearch.html), or
 
 2. a design exercise with
-[DesigningMenAndWomen](DesigningMenAndWomen.html)?
+[DesigningMenAndWomen](DesigningMenAndWomen.html)
+
+3. or as [PhilosophicalAmusings](PhilosophicalAmusings.html) This I believe
 
 [TheExaminedLife](TheExaminedLife.html) The FAQs of life
 
