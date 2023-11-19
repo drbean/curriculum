@@ -31,6 +31,7 @@ Some attempts to see English wobble, benefiting from conversations on the ##Engl
 * [PassiveMarriage](PassiveMarriage.html) The rabbi married Jack and Jill.
 * [LeavePassive](LeavePassive.html)
 * [NuisancePassive](NuisancePassive.html) 'We were died on by our son.'
+* [ReturnedPeaceCorps](ReturnedPeaceCorps.html) They were returned, or have returned?
 * [LetCausative](LetCausative.html) Let 'er rip! Let 'em have it! Let there be light!
 * [MayWeBeHeard](MayWeBeHeard.html) Avoiding saying what the requestor will do
 * [PresentPerfect](PresentPerfect.html) Present, Present perfect and past in Japanese and English
