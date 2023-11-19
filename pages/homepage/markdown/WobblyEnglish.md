@@ -17,6 +17,7 @@ Some attempts to see English wobble, benefiting from conversations on the ##Engl
 * [WillDo](WillDo.html) Strange use of 'do'
 * [AKnowledgeableAcknowledgment](AKnowledgeableAcknowledgment.html) The spelling of '-dgeable', '-dgment'
 * [FauxOutrage](FauxOutrage.html) Outrageous--Not damning with faint praise, but praising with quaint 'Damn'
+* [FootHeadsArmsBody](FootHeadsArmsBody.html) [Up garden path](https://en.wikipedia.org/wiki/Garden-path_sentence)?
 * [AutoAntonym](AutoAntonym.html) One Word--Two opposite meanings
 * [PrancingPony](PrancingPony.html) Disparaging a politician--How is it done?
 * [AfterAll](AfterAll.html) Solving a dilemma
