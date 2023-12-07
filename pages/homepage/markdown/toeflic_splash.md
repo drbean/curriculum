@@ -4,4 +4,4 @@ Upload Speaking and Writing responses!
 
 And more!
 
-[Do it!](https://etset.moodlecloud.com)
+[Do it!](https://etsit.moodlecloud.com)
