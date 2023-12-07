@@ -45,6 +45,7 @@
 - [InterNet](InterNet.html) Is the Internet on? Are we on the line?
 - [LanguageAndThought](LanguageAndThought.html) They do very well together
 - [CategoryTheory](CategoryTheory.html) Mind map math
+- [ComputerProgramming](ComputerProgramming.html) Best thing since reading/writing
 - [TheUnexaminedLife](TheUnexaminedLife.html) Not worth living?
 - [LetUsNowPraiseFamousMen](LetUsNowPraiseFamousMen.html) Cheap shots at the eminent
 
@@ -56,7 +57,6 @@ TODO: under construction
 :   E learning
 :   Business English
 :   Listening
-:   Computer Programming
 :   ESP
 :   Learner Autonomy
 :   Teacher Development
