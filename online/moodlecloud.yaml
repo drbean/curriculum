@@ -1,6 +1,6 @@
 ---
 fullname: Teach yourself English with Dr Bean
-shortname: drbean
+shortname: date -I
 summary: Learn English while preparing for TOEIC, TOEFL tests
 participant:
   admin: Ed Min drbean@freeshell.org ********
@@ -13,16 +13,17 @@ course:
     - toefl
     - moosh_backup_course_2_toefl_2022-05-17-nu.mbz
 authentication:
-  registerauth: |+
+  Authentication.manage_authentication.registerauth: |+
     on Authentication plugin 'Manage authentication' page, 'Common
     settings' email-based self-registration
     below 'Available plugins'
+  Authentication.manage_authentication.guestloginbutton: show
 enrolments:
-  site:
+  site administration entrolment plugin:
     guest access: 
       - Enrolments.default.enrol_guest|status
-      - Users.permissions.user_policies.autologinguests
-      - Authentication.manage_authentication.guestloginbutton.show
+  site administration Users menu:
+      - Users.Permissions.user_policies.autologinguests
   course:
     Participants.enrolled users:
       enrolment methods:
