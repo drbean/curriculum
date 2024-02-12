@@ -5,6 +5,10 @@ I knew nothing about James Agee and what
 was about (it was about poor sharecroppers during the Depression, so an ironic title), but the phrase and author's name stuck with me.
 
 * [TerryRiley](TerryRiley.html) Responsible for the minimalism/new tonality track in contemporary music
+* [JeromeBruner](JeromeBruner.html) Chided Chomsky's
+[LAD](http://en.wikipedia.org/wiki/LAD)
+for failing to recognize
+[LASS](http://en.wikipedia.org/wiki/LASS)
 
 Me at [Mastodon](https://mastodon.sdf.org/@drbean)	
 
