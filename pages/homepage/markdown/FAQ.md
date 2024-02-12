@@ -112,3 +112,20 @@ or [markdown](https://en.wikipedia.org/wiki/Markdown) files
   * [latex](https://en.wikipedia.org/wiki/LaTeX) documents
   * [MS Word](https://en.wikipedia.org/wiki/Microsoft_Word) files
 
+## Rewriting
+
+*Question*: Do you understand my argument? I don't think I understand it myself.
+Can you rewrite the paper for me?
+
+*Answer*: No, I can't do that. See 
+[Rewriting](Rewriting.html)
+
+Me at
+    <form action='https://mastodon.sdf.org/@drbean'>
+    <button type='submit' class='btn'>
+    <img src='./mastodon.svg'
+        alt='https://joinmastodon.org/logos/wordmark-black-text.svg'
+        style='width:100px;height:50px'/>
+    </button></form>
+    
+Back to [AcademicEditingService](AcademicEditingService.html)
