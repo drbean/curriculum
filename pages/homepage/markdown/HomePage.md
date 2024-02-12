@@ -1,8 +1,12 @@
 % Home Page of Dr Bean
 
+<!--
+
 [yengtungpho yeinswuk](http://localmap.co.kr/web/splus/kmap/list.php?sigun=6110000&gugun=3180000&keyno=257)
 
 [영등초여인숙](http://localmap.co.kr/web/splus/kmap/list.php?sigun=6110000&gugun=3180000&keyno=257)
+
+-->
 
 - [AcademicEditingService ](AcademicEditingService.html)
 - [TOEFL® and TOEIC® Speaking Test site](toeflic)
