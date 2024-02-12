@@ -23,6 +23,10 @@ UTAUT2 and Brand Attitude](https://journals.sagepub.com/doi/abs/10.1177/03611981
 
 * [Applying Kansei Engineering to the Design of Headwear with Traditional Shape Features](https://www.semanticscholar.org/paper/Applying-Kansei-engineering-to-the-design-of-pieces-Tsai-Hsu/38b7e047b4356ef2f31b164d6e18d7629c1852b5)
 
+##### Futures Studies
+
+* [Exploring Images of Women Cyclists' Futures Using the Futures Triangle](https://jfsdigital.org/articles-and-essays/2023-2/exploring-images-of-the-future-of-women-cyclists-using-the-futures-triangle/)
+
 ##### Education
 
 * [Dissertation: Validation of The Quick Letter Name Knowledge Assessment for Use in School-aged EFL Learners](https://hdl.handle.net/11296/am9ew5)
