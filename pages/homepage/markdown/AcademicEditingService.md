@@ -11,9 +11,9 @@ ii) the care with which I express myself, and
 iii) my desire to understand even difficult material, and
 iv) my experience (I've been editing non-native-speaker English texts for 35 years).
 
-NUU 語文中心's promotion of me on its Facebook page at [https://www.facebook.com/nuulc/photos/英文論文編輯服務你在寫英文論文嗎需要專業人士幫你校稿嗎需要英文寫作諮商嗎聯合大學語文中心提供付費英文論文編輯服務由外籍教師且母語為英語的專業人士協助您修改出高品/346777209352546/](https://www.facebook.com/nuulc/posts/346777299352535/)
+NUU 語文中心's had a promotion of me on its Facebook page at the now-BROKEN LINK: [https://www.facebook.com/nuulc/photos/英文論文編輯服務你在寫英文論文嗎需要專業人士幫你校稿嗎需要英文寫作諮商嗎聯合大學語文中心提供付費英文論文編輯服務由外籍教師且母語為英語的專業人士協助您修改出高品/346777209352546/](https://www.facebook.com/nuulc/posts/346777299352535/)
 
-In the last 18 months, I have edited materials science, medicine, biochemistry, ergonomics, finance, marketing, education and business/public administration manuscripts from researchers at 清華, 中興, NTUST, 中華, and 靜宜 Universities and Academia Sinica.
+In the last 36 months, I have edited materials science, medicine, biochemistry, ergonomics, finance, marketing, education and business/public administration manuscripts from researchers at 清華, 中興, NTUST, 中華, and 靜宜 Universities and Academia Sinica.
 
 ### Testimonials
 
@@ -31,7 +31,7 @@ Please feel free to [contact me](mailto:drbean@freeshell.org), just to say, "Hel
 - See my thoughts on the work of the editor at [http://drbean.sdf.org/sentence_and_text.pdf](http://drbean.sdf.org/sentence_and_text.pdf)
 - See my work on a paper about an experimental intervention in education, [http://drbean.sdf.org/q-technique.html](http://drbean.sdf.org/q-technique.html)
 - See a cover letter I sent to [Wallace Editing Services](http://www.editing.tw) , in application for a freelance editing position at [http://drbean.sdf.org/wallace_cover_letter.txt](http://drbean.sdf.org/wallace_cover_letter.txt)
-- See my response to NCKU questions for text editors about Proofreading Approach and Acceptable File Formats at [FAQ](FAQ.html)
+- See Frequently Asked Questions at [FAQ](FAQ.html)
 - See a list of some of the [published papers](PublishedList.html) authors have given me the chance to work on
 
 ### Writing advice
