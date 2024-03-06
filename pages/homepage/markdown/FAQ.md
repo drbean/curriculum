@@ -3,7 +3,8 @@
 * [Proofreading Approach]
 * [Acceptable file formats]
 * [Rewriting]
-* [Using First Lanuguage]
+* [Using First Language]
+* [Discipline-specific experience]
 
 ## Proofreading Approach
 
@@ -64,6 +65,21 @@ Maybe, l need to use my native languagge to express my meanings sometimes.
 
 *Answer*: Yes, we can do that. See 
 [UsingFirstLanguage](UsingFirstLanguage.html)
+
+## Discipline-specific experience
+
+*Question* My major research is XXXXXXXXX XXXXXXXX and YYYYYYY YYYYYYYY.
+It seems that you did not do the related article for English
+editing. For example, aaaaaaaaaaa aaaa, bbbb bbbbbbb…
+
+*Answer* I did edit an article on ZZZZZZZZ a long time ago, and recently I
+have been editing a cccccccccccc article about the dddddddd ddddddd by
+someone at UUU University.
+
+But, no, I haven't ever edited a XXXXXXXXX XXXXXXXX paper.
+
+But I would like to try. I think I would do a
+[GoodJob](GoodJob.html).
 
 Me at
     <form action='https://mastodon.sdf.org/@drbean'>
