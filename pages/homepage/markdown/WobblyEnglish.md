@@ -23,21 +23,34 @@ Some attempts to see English wobble, benefiting from conversations on the ##Engl
 * [AfterAll](AfterAll.html) Solving a dilemma
 * [BeliesAnyClaim](BeliesAnyClaim.html) The use of 'belie'
 * [ReadyWillingAbleAndCapable](ReadyWillingAbleAndCapable.html) Ready Willing and Able, or Capable?
-- [FormerlyFormally](FormerlyFormally.html) Homophones for me!
+* [FormerlyFormally](FormerlyFormally.html) Homophones for me!
+* [TakeThisOpportunity](TakeThisOpportunity.html) Recognition/appreciation of other's role in speakers' action
 
 #### Grammar
 
 ##### Verb
 
+* [ComeAndGo](ComeAndGo.html) Change as movement on timeline with close/far ends
 * [CanConfirm](CanConfirm.html) Come on. Are you confirming or not?
 * [FightWith](FightWith.html) On whose side are they?
 * [PassiveMarriage](PassiveMarriage.html) The rabbi married Jack and Jill.
-* [LeavePassive](LeavePassive.html)
+* [LeavePassive](LeavePassive.html) 'be left' acceptability discussion
 * [NuisancePassive](NuisancePassive.html) 'We were died on by our son.'
 * [ReturnedPeaceCorps](ReturnedPeaceCorps.html) They were returned, or have returned?
 * [LetCausative](LetCausative.html) Let 'er rip! Let 'em have it! Let there be light!
 * [MayWeBeHeard](MayWeBeHeard.html) Avoiding saying what the requestor will do
 * [PresentPerfect](PresentPerfect.html) Present, Present perfect and past in Japanese and English
+* [InTransitive ](InTransitive.html) Transitive and intransitive: What is the difference?
+* [ErgativeVerb](ErgativeVerb.html) Challenge: Find 2 in/transitive verbs which go together
+* [GettingLaid](GettingLaid.html) Boswell teaches Dr Johnson how to describe liaisons
+* [WhileAspect](WhileAspect.html) Wait, while we check your ID, OR while we are checking your ID?
+* [PassiveFlagging](PassiveFlagging.html) When is it necessary to add 'by who' to a passive?
+
+##### Modifier
+
+* [JustGetThereJustOnFoot](JustGetThereJustOnFoot.html) "Just Do" vs "Do Just"
+* [NotJustAPrettyFace](NotJustAPrettyFace.html) Ambiguity of 'just not' or 'not just'
+* [ModifierScope](ModifierScope.html) Free software and beer
 
 ##### Determiner
 
@@ -46,18 +59,10 @@ Some attempts to see English wobble, benefiting from conversations on the ##Engl
 * [ArticleRole](ArticleRole.html) 'The' with nouns in topic position, 'a' with nouns in other positions
 * [SupportForIEEEwithTHEorA](SupportForIEEEwithTHEorA.html) IEEE: THE or AN organization
 * [FallRainVersusRainFall](FallRainVersusRainFall.html) A parallel to article use in a topic-comment language
-* [InTransitive ](InTransitive.html) Transitive and intransitive: What is the difference?
-* [ErgativeVerb](ErgativeVerb.html) Challenge: Find 2 in/transitive verbs which go together
-* [GettingLaid](GettingLaid.html) Boswell teaches Dr Johnson how to describe liaisons
-* [WhileAspect](WhileAspect.html) Wait, while we check your ID, OR while we are checking your ID?
-* [PassiveFlagging](PassiveFlagging.html) When is it necessary to add 'by who' to a passive?
-* [JustGetThereJustOnFoot](JustGetThereJustOnFoot.html) "Just Do" vs "Do Just"
-* [NotJustAPrettyFace](NotJustAPrettyFace.html) Ambiguity of 'just not' or 'not just'
+
+##### Pro/Noun
 * [WeatherIt](WeatherIt.html) The 'it' in 'It's raining'--Is it a dummy pronoun?
 * [UnaccountablyUncountable](UnaccountablyUncountable.html) Quirks of the un/countable distinction 
-* [ComeAndGo](ComeAndGo.html) Change as movement on timeline with close/far ends
-* [TakeThisOpportunity](TakeThisOpportunity.html) Recognition/appreciation of other's role in speakers' action
-* [ModifierScope](ModifierScope.html) Free software and beer
 * [SubjectVerbDisagreement](SubjectVerbDisagreement.html) Coat and tie is required
 * [ThatsItThere](ThatsItThere.html) Finding something: "There it is" or "That's it there"?
 * [MinesIsBlue](MinesIsBlue.html) Can you say that?
