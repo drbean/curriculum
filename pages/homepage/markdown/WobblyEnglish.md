@@ -27,6 +27,8 @@ Some attempts to see English wobble, benefiting from conversations on the ##Engl
 
 #### Grammar
 
+##### Verb
+
 * [CanConfirm](CanConfirm.html) Come on. Are you confirming or not?
 * [FightWith](FightWith.html) On whose side are they?
 * [PassiveMarriage](PassiveMarriage.html) The rabbi married Jack and Jill.
@@ -36,9 +38,13 @@ Some attempts to see English wobble, benefiting from conversations on the ##Engl
 * [LetCausative](LetCausative.html) Let 'er rip! Let 'em have it! Let there be light!
 * [MayWeBeHeard](MayWeBeHeard.html) Avoiding saying what the requestor will do
 * [PresentPerfect](PresentPerfect.html) Present, Present perfect and past in Japanese and English
+
+##### Determiner
+
 * [TheGuy](TheGuy.html) *The* guy from San Antonio or *a* guy from San Antonio
 * [TheDefaultReferenceOfThe](TheDefaultReferenceOfThe.html) The reference in 'the store'. Which store? *All/many* stores.
 * [ArticleRole](ArticleRole.html) 'The' with nouns in topic position, 'a' with nouns in other positions
+* [SupportForIEEEwithTHEorA](SupportForIEEEwithTHEorA.html) IEEE: THE or AN organization
 * [FallRainVersusRainFall](FallRainVersusRainFall.html) A parallel to article use in a topic-comment language
 * [InTransitive ](InTransitive.html) Transitive and intransitive: What is the difference?
 * [ErgativeVerb](ErgativeVerb.html) Challenge: Find 2 in/transitive verbs which go together
