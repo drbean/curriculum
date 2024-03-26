@@ -2,6 +2,10 @@
 
 I haven't asked all the authors of these papers if it was OK to publicize my involvement in their editing, so they are not endorsing my work with their listing here. You would have to contact them directly to see what they thought of my work.
 
+##### Biology
+
+* [An integrative approach unveils a distal encounter site for rPTPε and phospho-Src complex formation](https://pubmed.ncbi.nlm.nih.gov/37794594/.html)
+
 ##### Ergonomics
 
 * [Risk of tripping, minimum foot clearance, and step length when crossing a barrier](https://www.semanticscholar.org/paper/Risk-of-tripping%2C-minimum-foot-clearance%2C-and-step-Zhao-Li/7226d6cc8dbaf65ba3cd093a583177099cf1bdb7)
