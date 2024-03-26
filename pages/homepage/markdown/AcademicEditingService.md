@@ -28,11 +28,11 @@ Please feel free to [contact me](mailto:drbean@freeshell.org), just to say, "Hel
 ### Supporting documents
 
 - See my resume at [ResumE.html](ResumE.html)
+- See Frequently Asked Questions at [FAQ](FAQ.html)
+- See a list of some of the [published papers](PublishedList.html) authors have given me the chance to work on
 - See my thoughts on the work of the editor at [http://drbean.sdf.org/sentence_and_text.pdf](http://drbean.sdf.org/sentence_and_text.pdf)
 - See my work on a paper about an experimental intervention in education, [http://drbean.sdf.org/q-technique.html](http://drbean.sdf.org/q-technique.html)
 - See a cover letter I sent to [Wallace Editing Services](http://www.editing.tw) , in application for a freelance editing position at [http://drbean.sdf.org/wallace_cover_letter.txt](http://drbean.sdf.org/wallace_cover_letter.txt)
-- See Frequently Asked Questions at [FAQ](FAQ.html)
-- See a list of some of the [published papers](PublishedList.html) authors have given me the chance to work on
 
 ### Writing advice
 
