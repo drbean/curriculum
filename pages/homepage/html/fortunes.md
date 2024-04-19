@@ -449,6 +449,9 @@ force meets the immovable object.
 No mind? No matter.
 No matter? Never mind.
 %
+How are then and now?
+Now and then.
+%
 What I allow I teach,
 and all I teach is all that is allowed.
 --Dr Bean
@@ -610,4 +613,8 @@ Nietzsche fails to respond.
 Observe the climate of the era,
 not the weather of the day.
 --Paul Freund
+%
+Follow not the weather of the day.
+But good luck with the climate of
+the times.
 %
