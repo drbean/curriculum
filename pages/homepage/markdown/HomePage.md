@@ -71,3 +71,5 @@ TODO: under construction
 :   Hitchhiking
 
 email: drbean [at] freeshell [dot] org
+
+<a rel="me" href="https://mastodon.sdf.org/@drbean">drbean@Mastodon</a>
