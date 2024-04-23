@@ -13,6 +13,10 @@ the purple art.'
 If it ain't broke, don't fix it.
 %
 'The perfect is the enemy of the good'
+
+If it ain't broke, don't fix it.
+%
+'The perfect is the enemy of the good'
 means if it ain't broke, don't fix it.
 %
 The perfect is the enemy of the good.
@@ -115,6 +119,10 @@ there from here?
 %
 Learning: How do I get there from here?
 Teaching: Where am I?
+%
+The flip side of dreaming I am a butterfly
+is the fear, waking up in the morning and
+relieving myself, I am wetting the bed.
 %
 Make a mistake.
 Try it, you'll like it.
