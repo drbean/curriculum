@@ -250,6 +250,9 @@ device for turning knowledge into
 learning
 %
 Teaching: brain surgery
+over the telephone
+%
+Teaching: brain surgery
 with a blunt instrument
 --Dr Bean
 %
