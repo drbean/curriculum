@@ -249,7 +249,7 @@ Teacher: an action-at-a-distance
 device for turning knowledge into
 learning
 %
-Teaching: brain surgery
+Talking: brain surgery
 over the telephone
 %
 Teaching: brain surgery
