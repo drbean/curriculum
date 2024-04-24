@@ -441,8 +441,8 @@ don't do it anyway.--Ian Bicking
 How do we make someone unafraid of failure,
 but also eager for success?--Ian Bicking
 %
-Theory and practice. In theory, they are the same
-thing. In practice, they are different.
+Theory and practice. In theory, they are the
+same thing. In practice, they are different.
 --https://quoteinvestigator.com/2018/04/14/theory/
 %
 In theory, theory and practice are the same
@@ -475,47 +475,48 @@ Head in the clouds,
 but feet on the ground.
 --Richard Feynman on Einstein
 %
-If I did not see further, it was because of the
-giants standing on my shoulders.
+If I did not see further, it was because of
+the giants standing on my shoulders.
 --Dr Bean
 %
-If I did not see further, it was because of the
-midgets standing on my shoulders.
+If I did not see further, it was because of
+the midgets standing on my shoulders.
 --Dr Bean
 %
-If I did not see further, it was because of the
-giants standing on my shoulders, and the giants 
-who would not let me stand on their shoulders.
+If I did not see further, it was because of
+the giants standing on my shoulders, and the
+giants who would not let me stand on their
+shoulders.
 --Dr Bean
 %
-If I did not see further, it was because those
-who would stand on my shoulders would not
-have me stand on theirs.
+If I did not see further, it was because
+those who would stand on my shoulders would
+not have me stand on theirs.
 --Dr Bean
 %
-If I did not see further, it was because those
-who would stand on my shoulders would not
-have me stand on their shoulders.
+If I did not see further, it was because
+those who would stand on my shoulders would
+not have me stand on their shoulders.
 --Dr Bean
 %
-If I did not see further, it was because those
-on whose shoulders I would stand would stand on
-mine.
+If I did not see further, it was because
+those on whose shoulders I would stand would
+stand on mine.
 --Dr Bean
 %
-If I did not see further, it was because those
-on whose shoulders I would stand would stand on
-my shoulders.
+If I did not see further, it was because
+those on whose shoulders I would stand would
+stand on my shoulders.
 --Dr Bean
 %
-If I did not see further, it was because those
-who would stand on my shoulders would not
-have me stand on their shoulders.
+If I did not see further, it was because
+those who would stand on my shoulders would
+not have me stand on their shoulders.
 --Dr Bean
 %
 If I prevailed in a pissing match, it was
-because I was standing on the shoulders
-of giants.
+because I was standing on the shoulders of 
+giants.
 --Dr Bean
 %
 If my water flew further, it was because
