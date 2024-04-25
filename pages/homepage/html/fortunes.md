@@ -4,6 +4,8 @@ but you can't fool all of the people all of
 the time. https://quoteinvestigator.com/
 2013/12/11/cannot-fool/
 %
+"No strings attached" (read: On the take)
+%
 Korean monk (Going behind the temple
 to smoke): 'Baudelaire said smoking is
 the purple art.'
