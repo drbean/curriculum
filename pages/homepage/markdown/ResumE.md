@@ -1,19 +1,21 @@
+%                     Resume
 |                     RESUME
 |
 | CONTACT INFORMATION
 | Name:        Gregory John Matheson
-| Address:     Language Center
-|              National United University
-|              1, Lienda, Miaoli 36003, Taiwan, R.O.C
-| Telephone:   037-381701
-| Email:       drbean@freeshell.org, greg@nuu.edu.tw
+| Address:     3-403, 4-23
+|              Shirakashicho, Kashihara
+|              Nara, 634-0051, Japan
+| Telephone:   +81-90-3969-0818
+| Email:       drbean@freeshell.org
 | Homepage:    http://drbean.sdf.org
 |
 | PERSONAL INFORMATION
 | Date of Birth:       January 29,1949
 | Place of Birth:      Sydney, Australia
 | Citizenship:         Australian
-| Alien Resident Certificate: KC00125148
+| Japan 個人番号:      0316 9910 3155
+| Taiwan 居留證:       KC00125148 (舊)
 | Registered MOE Lecturer (JiangShi):  056372
 | Sex:                 Male
 |
@@ -53,7 +55,7 @@
 |
 | National United University, Miaoli, Taiwan
 | Intercultural communication, Popculture, Media,
-| Composition, Conversation, Business English (2008-to date)
+| Composition, Conversation, Business English (2008-2021)
 |
 | Minghsin University of Science and Technology, Hsinchu, Taiwan
 | Composition, Conversation, Internet English, etc (2013-2018)
@@ -95,7 +97,7 @@
 | Grade 84.3
 |
 | Testing Skills
-| GRE scores (1992)
+| [GRE scores (1992)](http://drbean.sdf.org/p4290198.jpg)
 |
 | Analytical 710 (top 10 percent)
 | Quantitative 780 (top 7 percent)
@@ -121,3 +123,5 @@
 | Jogging, 6 kms in 1 hour
 | Pushups, 35
 | Cycling, Taichung-Toufen, 8 hours, August 2004
+
+Back to [AcademicEditingService](AcademicEditingService.html)
