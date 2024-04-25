@@ -6,8 +6,8 @@ I am offering an academic paper editing service, "the next best thing to a journ
 
 Let me edit your paper. I do a good job because of
 
-i) my English language skills (see my old GRE scores in my resume),
-ii) the care with which I express myself, and
+i) my English language skills (see my top 90-99% GRE scores in my resume),
+ii) the care with which I express myself,
 iii) my desire to understand even difficult material, and
 iv) my experience (I've been editing non-native-speaker English texts for 35 years).
 
