@@ -620,8 +620,9 @@ Your turn, Friedrich.
 The rest is silence.
 %
 Nietzsche: God is dead (1882)
-God gives him a taste of his
-own medicine, (1900.)
+God: (giving him a taste of his
+own medicine, 1900), See how you
+like it, Friedrich.
 Nietzsche fails to respond.
 %
 Observe the climate of the era,
