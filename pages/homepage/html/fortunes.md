@@ -393,6 +393,10 @@ In theory, nothing is as practical
 as a good theory. In practice, theory
 is good for practically nothing.
 %
+In theory, nothing is as practical
+as a good theory. In practice, theory
+is good for nothing practical.
+%
 Learn a third language and 
 be born again, again.
 --Dr Bean
