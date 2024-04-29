@@ -17,7 +17,9 @@ I haven't asked all the authors of these papers if it was OK to publicize my inv
 Scooter Sharing in a Market with Multiple Service Providers: Combined
 UTAUT2 and Brand Attitude](https://journals.sagepub.com/doi/abs/10.1177/03611981231185142)
 
-##### Materials science
+##### Engineering
+
+* [An Intelligent Product-Driven Manufacturing System Using Data Distribution Service](https://doi.org/10.1109/ACCESS.2024.3359228)
 
 * [Development of a real-time machine vision system for functional textile fabric defect detection using a deep YOLOv4 model](https://journals.sagepub.com/doi/abs/10.1177/00405175211034241)
 
