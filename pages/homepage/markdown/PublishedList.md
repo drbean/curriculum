@@ -2,8 +2,10 @@
 
 I haven't asked all the authors of these papers if it was OK to publicize my involvement in their editing, so they are not endorsing my work with their listing here. You would have to contact them directly to see what they thought of my work.
 
-##### Biology
+##### Biology/Medicine
 
+* Bacteriophage-cocktail hydrogel dressing to prevent multiple
+[bacterial infections and heal diabetic ulcers in mice](https://doi.org/10.1002/jbm.a.37728)
 * [An integrative approach unveils a distal encounter site for rPTPε and phospho-Src complex formation](https://pubmed.ncbi.nlm.nih.gov/37794594/.html)
 
 ##### Ergonomics
