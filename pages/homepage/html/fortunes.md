@@ -32,6 +32,13 @@ The perfect is the enemy of the good.
 But, my enemy's enemy is my friend.
 Ambition and hubris are my friend.
 %
+All's fair in lova and war.
+%
+Make love, not war.
+%
+All's fair in lova and war.
+Make love, not war.
+%
 One brain and consciousness researcher
 in praise of another\'s experimental skills:
 The electrode in the monkey's skull was
