@@ -44,6 +44,10 @@ the 'fog of war' also covers love, and
 by extension, all social intercourse.
 QED
 %
+No battle plan survives first
+contact with the enemy.
+https://quoteinvestigator.com/2021/05/04/no-plan/
+%
 One brain and consciousness researcher
 in praise of another\'s experimental skills:
 The electrode in the monkey's skull was
