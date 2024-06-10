@@ -48,6 +48,7 @@ Some attempts to see English wobble, benefiting from conversations on the ##Engl
 
 ##### Modifier
 
+* [TimeConsumingVersusConsumingTime](TimeConsumingVersusConsumingTime.html) Take/spend/consume your time
 * [JustGetThereJustOnFoot](JustGetThereJustOnFoot.html) "Just Do" vs "Do Just"
 * [NotJustAPrettyFace](NotJustAPrettyFace.html) Ambiguity of 'just not' or 'not just'
 * [ModifierScope](ModifierScope.html) Free software and beer
