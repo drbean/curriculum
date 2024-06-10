@@ -639,6 +639,10 @@ Napoleon: You allow God no
 role in your solar system!
 Laplace: I have no need of
 that hypothesis.
+God: You allow mind no
+role in your psychology!
+Behaviorism: We have no
+need of that hypothesis.
 %
 Observe the climate of the era,
 not the weather of the day.
