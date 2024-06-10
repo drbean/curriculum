@@ -32,12 +32,17 @@ The perfect is the enemy of the good.
 But, my enemy's enemy is my friend.
 Ambition and hubris are my friend.
 %
-All's fair in lova and war.
+All's fair in love and war.
 %
 Make love, not war.
 %
-All's fair in lova and war.
+All's fair in love and war.
 Make love, not war.
+%
+If all's fair in love and war, then
+the 'fog of war' also covers love, and
+by extension, all social intercourse.
+QED
 %
 One brain and consciousness researcher
 in praise of another\'s experimental skills:
@@ -289,6 +294,9 @@ flesh has its own program.
 The spirit is willing, but the
 flesh has other plans.
 %
+The spirit is willing, but the
+flesh just laughs.
+%
 Intention and action are loosely
 coupled. Action is the driver.
 Intention is the back-seat driver.
@@ -536,15 +544,6 @@ If my water flew further, it was because
 I was standing on the shoulders of giants.
 --Dr Bean
 %
-School: When the students have to be there,
-the teacher has to be there, too.
---Dr Bean
-%
-_--_|\    Home is where when you have to go
-/      \   there they have to take you in.
-\_.--._/   --Robert Frost
-v --Peter Fletcher
-%
 Motorist: How do I get to Lonesome Pine.
 Farmer: You can't get there from here.
 --Anonymous 
@@ -577,9 +576,9 @@ Where do I have to be to get to
 where I want to be?
 --Dr Bean
 %
-Your encylopedia told me more about penguins
+Your encyclopedia told me more about penguins
 than I cared to know.
---Child to Pears' Children Encylopedia editor
+--Child to Pears' Children Encyclopedia editor
 %
 Doing things right is doing the right thing. 
 Doing things wrong is education.
@@ -636,6 +635,11 @@ own medicine, 1900), See how you
 like it, Friedrich.
 Nietzsche fails to respond.
 %
+Napoleon: You allow God no
+role in your solar system!
+Laplace: I have no need of
+that hypothesis.
+%
 Observe the climate of the era,
 not the weather of the day.
 --Paul Freund
@@ -643,4 +647,13 @@ not the weather of the day.
 Follow not the weather of the day.
 But good luck with the climate of
 the times.
+%
+School: When the students have to be there,
+the teacher has to be there, too.
+--Dr Bean
+%
+_--_|\    Home is where when you have to go
+/      \   there they have to take you in.
+\_.--._/   --Robert Frost
+v --Peter Fletcher
 %
