@@ -46,7 +46,7 @@ QED
 %
 No battle plan survives first
 contact with the enemy.
-https://quoteinvestigator.com/2021/05/04/no-plan/
+https://Quoteinvestigator.com/2021/05/04/no-plan/
 %
 One brain and consciousness researcher
 in praise of another\'s experimental skills:
@@ -643,6 +643,7 @@ Napoleon: You allow God no
 role in your solar system!
 Laplace: I have no need of
 that hypothesis.
+%
 God: You allow mind no
 role in your psychology!
 Behaviorism: We have no
@@ -660,8 +661,8 @@ School: When the students have to be there,
 the teacher has to be there, too.
 --Dr Bean
 %
-_--_|\    Home is where when you have to go
+ _--_|\    Home is where when you have to go
 /      \   there they have to take you in.
 \_.--._/   --Robert Frost
-v --Peter Fletcher
+      v --Peter Fletcher
 %
