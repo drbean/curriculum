@@ -5,6 +5,7 @@
 * [Rewriting]
 * [Using First Language]
 * [Discipline-specific experience]
+* [Track Changes]
 
 ## Proofreading Approach
 
@@ -14,7 +15,7 @@
 
 [^source1]: Not actually questions I've been asked, but one asked of editors at NCCU
 
-    In Taiwan, NCKU has an [internal academic editing service][1]
+    In Taiwan, NCKU has (had) an [internal academic editing service][1]
 staffed by foreign teachers associated with the university, 
 [NDHU][3] also has one.
 
@@ -81,6 +82,12 @@ But, no, I haven't ever edited a XXXXXXXXX XXXXXXXX paper.
 But I would like to try. I think I would do a
 [GoodJob](GoodJob.html).
 
+## Track Changes
+
+*Question* Can you use Track Changes in MS Word so I can see what changes you make?
+
+*Answer* Sorry, I can't usually do that. Let me explain at 
+[TrackChanges](TrackChanges.html).
 Me at
     <form action='https://mastodon.sdf.org/@drbean'>
     <button type='submit' class='btn'>
