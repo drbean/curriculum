@@ -11,6 +11,15 @@ useful to you.
 
 Sorry.
 
+Use the nano_Diff.html file to check changes. The pink lines are those
+which are different in the two versions. The orange sections of those
+lines in the 2 versions extend from the first character which is
+different to the last character which is different. Unfortunately, this
+means some of the characters in those orange sections could be the same.
+
+It's not a Word plugin, so you have to copy from the file and paste into
+Word, which is not as convenient as Track Changes for authors..
+
 Use nano_Diff.html to check changes. It shows It's not a Word plugin, so you
 have to copy from the file and paste into Word, which is not as .
 
