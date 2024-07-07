@@ -5,11 +5,10 @@ edit with a developer's editor (it has greater functionality for making
 changes in the text), before importing them back into Word.
 
 Unfortunately it means you can't use Track Changes to check my changes.
-In your case, the changes I had to make were only sentence level ones,
-and being able to see the 2 versions in the Word file itself would be
-useful to you.
 
-Sorry.
+In the simple case, when the changes I have made are only sentence level ones,
+being able to see the 2 versions in the Word file itself would be
+useful.
 
 Use the nano_Diff.html file to check changes. The pink lines are those
 which are different in the two versions. The orange sections of those
