@@ -6,11 +6,11 @@ changes in the text), before importing them back into Word.
 
 Unfortunately it means you can't use Track Changes to check my changes.
 
-In the simple case, when the changes I have made are only sentence level ones,
+In the simple case, when the changes I make are only sentence level ones,
 being able to see the 2 versions in the Word file itself would be
 useful.
 
-Use the nano_Diff.html file to check changes. The pink lines are those
+Instead, use the Diff.html file to check changes. The pink lines are those
 which are different in the two versions. The orange sections of those
 lines in the 2 versions extend from the first character which is
 different to the last character which is different. Unfortunately, this
