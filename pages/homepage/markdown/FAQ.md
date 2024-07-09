@@ -69,15 +69,15 @@ Maybe, l need to use my native languagge to express my meanings sometimes.
 
 ## Discipline-specific experience
 
-*Question* My major research is XXXXXXXXX XXXXXXXX and YYYYYYY YYYYYYYY.
+*Question* My major research is in X and Y.
 It seems that you did not do the related article for English
-editing. For example, aaaaaaaaaaa aaaa, bbbb bbbbbbb…
+editing. For example, a, b …
 
-*Answer* I did edit an article on ZZZZZZZZ a long time ago, and recently I
-have been editing a cccccccccccc article about the dddddddd ddddddd by
-someone at UUU University.
+*Answer* I did edit an article on Z a long time ago, and recently I
+have been editing a c article about the d by
+someone at U University.
 
-But, no, I haven't ever edited a XXXXXXXXX XXXXXXXX paper.
+But, no, I haven't ever edited an X paper.
 
 But I would like to try. I think I would do a
 [GoodJob](GoodJob.html).
@@ -88,6 +88,7 @@ But I would like to try. I think I would do a
 
 *Answer* Sorry, I can't usually do that. Let me explain at 
 [TrackChanges](TrackChanges.html).
+
 Me at
     <form action='https://mastodon.sdf.org/@drbean'>
     <button type='submit' class='btn'>
