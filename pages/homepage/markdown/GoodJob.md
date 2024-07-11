@@ -5,9 +5,9 @@ Getting the English in a paper just right is what is important to me and what ma
 
 Actually, I'm quite modest, but I do a good job, because of:
 
-1. my English language skills. See my old GRE scores [^source 3], in the top one (1) percent in Verbal Reasoning skills, top seven (7) percent in Quantitative Reasoning skills and top ten (10) percent in Analytical Reasoning skills.
+1. my English language skills. See my old GRE scores[^source 3], in the top one (1) percent in Verbal Reasoning skills, top seven (7) percent in Quantitative Reasoning skills and top ten (10) percent in Analytical Reasoning skills.
 
-[^source 3] ![GRE Results](./pics/p4290198.jpg)
+[^source 3]: Now 30 years ago! ![GRE Results](./pics/p4290198.jpg)
 
 2. The care with which I express myself. The details and the words used are important. It is important to me that I get all aspects of the paper right and the word I choose is the right word in the right place. To do that, I will use Google to check terminology and will even check the references cited.
 
