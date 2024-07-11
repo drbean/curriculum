@@ -17,4 +17,5 @@ Me at
         style='width:100px;height:50px'/>
     </button></form>
     
-Back to [FAQ](FAQ.html)
+Back to
+[InUsWeTrust](InUsWeTrust.html)
