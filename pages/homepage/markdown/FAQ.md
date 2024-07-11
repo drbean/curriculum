@@ -6,6 +6,7 @@
 * [Using First Language]
 * [Discipline-specific experience]
 * [Track Changes]
+* [Strengths and Weaknesses]
 
 ## Proofreading Approach
 
@@ -13,7 +14,7 @@
 
 *Answer*: That's a good question, but giving a good answer is difficult. Let me answer at length at [EditingApproach](EditingApproach.html)
 
-[^source1]: Not actually questions I've been asked, but one asked of editors at NCCU
+[^source1]: Not actually questions I've been asked, but one asked of editors at NCKU
 
     In Taiwan, NCKU has (had) an [internal academic editing service][1]
 staffed by foreign teachers associated with the university, 
@@ -88,6 +89,16 @@ But I would like to try. I think I would do a
 
 *Answer* Sorry, I can't usually do that. Let me explain at 
 [TrackChanges](TrackChanges.html).
+
+## Strengths and Weaknesses
+
+*Questio* What are your strengths and weaknesses?
+
+*Answer* My strengths are my English language skills, my attention to detail, my ability and desire to understand difficult material and my experience. See 
+[GoodJob](GoodJob.html)
+
+My weaknesses are that it may take me more than a week to finish a long paper and my wish that I did not have to deal with MS Word. See
+[FileFormats](AcceptableFileFormats.html)
 
 Me at
     <form action='https://mastodon.sdf.org/@drbean'>
