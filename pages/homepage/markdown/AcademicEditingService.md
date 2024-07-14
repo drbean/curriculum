@@ -6,14 +6,12 @@ I am offering an academic paper editing service, "the next best thing to a journ
 
 Let me edit your paper. I do a good job because of
 
-i) my English language skills (see my top 90-99% GRE scores in my resume),
+i) my English language skills (see my top 1-10% GRE scores in my resume),
 ii) the care with which I express myself,
-iii) my desire to understand even difficult material, and
+iii) my desire and ability to understand difficult subjects, and
 iv) my experience (I've been editing non-native-speaker English texts for 35 years).
 
-NUU語文中心 had a promotion of me on its Facebook page before at the now-BROKEN LINK: [https://www.facebook.com/nuulc/photos/英文論文編輯服務你在寫英文論文嗎需要專業人士幫你校稿嗎需要英文寫作諮商嗎聯合大學語文中心提供付費英文論文編輯服務由外籍教師且母語為英語的專業人士協助您修改出高品/346777209352546/](https://www.facebook.com/nuulc/posts/346777299352535/)
-
-In the last 36 months, I have edited materials science, medicine, biochemistry, ergonomics, finance, marketing, education and business/public administration manuscripts from researchers at 清華, 中興, NSYSU, NTUST, NTUT, NKUST, NCU, NYCU, NCKU, 中華, and 靜宜 Universities and Academia Sinica.
+In the last 48 months, I have edited materials science, medicine, biochemistry, ergonomics, finance, marketing, education and business/public administration manuscripts from researchers at 清華, 中興, NSYSU, NTUST, NTUT, NKUST, NCU, NYCU, NCKU, 中華, and 靜宜 Universities and Academia Sinica in Taiwan.
 
 ### Testimonials
 
@@ -66,11 +64,11 @@ Let me share two excellent writing sites:
 
 ### Pricing
 
-People in Taiwan have been very generous to me, I have for many years benefited from free software and I always appreciate vendors who offer good service at low prices, so I want to return the favor by keeping to the rock-bottom recommended 科技部 rate of 0.5元 per word.
+People in East Asia have been very generous to me, I have for many years benefited from free software and I always appreciate vendors who offer good service at low prices, so I want to return the favor by keeping to a rock-bottom recommended rate in your country.
 
 Thanks for reading this far. I look forward to hearing from you.
 
 --
 Greg Matheson
 <http://drbean.sdf.org>
-
+drbean <at, ie @> freeshell <dot, ie .> org
