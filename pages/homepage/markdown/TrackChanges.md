@@ -12,7 +12,7 @@ would be useful.
 
 As a replacement, I can offer a Diff.html file to check changes.
 
-![Diff.html](./Diff.html){#id .class width=750 height=200px}
+![example_diff.html](/example_diff.html){#id .class width=750 height=200px}
 
 The pink lines are those which are different in the two versions. The orange 
 sections of those lines in the 2 versions extend from the first character which 
