@@ -17,7 +17,7 @@ Actually, I'm quite modest, but I do a good job, because of:
 
 4. My experience. I started editing as a copyreader at the Korea Times in 1986 and was there for 10 years, reading newspaper copy by the Korean journalists. Experience outside during that period reading academic articles by Korean professors whose command of English was less secure showed me that editing papers is an order of magnitude more difficult because of the academic knowledge that is assumed which the editor doesn't have access to.
 
-In Taiwan for a further 20 years, I learned when the wording chosen by authors could be respected, perhaps with grammar fix-ups, and when it had to be ignored. I became used to the effects of first-language transfer on authors' papers and learned of methods to negate those effects. I learned I needed to have content knowledge at some high level of the area of the paper. And, I learned that I had to be able to follow the argument of a paper to be able to correct it. 
+    In Taiwan for a further 20 years, I learned when the wording chosen by authors could be respected, with grammar fix-ups, and when it had to be ignored. I became used to the effects of first-language transfer on authors' papers and learned of methods to negate those effects. I learned I needed to have content knowledge at some high level of the area of the paper. And, I learned that I had to be able to follow the argument of a paper to be able to correct it. 
 
 I now consider myself an expert academic paper editor.
 
