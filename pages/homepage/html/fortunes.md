@@ -623,6 +623,10 @@ reading and writing.
 He who laughs last has not yet heard
 the bad news. --Bertolt Brecht
 %
+Those who laugh last longest.
+But those who laugh last laugh longest.
+https://quoteinvestigator.com/2015/03/15/laughs/
+%
 Nietzsche: 'God is dead' (1882)
 God: 'Nietzsche is dead' (1900)
 Nietzsche has yet to respond.
