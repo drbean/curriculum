@@ -500,6 +500,11 @@ Head in the clouds,
 but feet on the ground.
 --Richard Feynman on Einstein
 %
+If there is anything we can say after
+standing on the shoulders of giants it
+is that the position is precarious and
+the view fleeting.
+%
 If I did not see further, it was because of
 the giants standing on my shoulders.
 --Dr Bean
