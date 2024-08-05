@@ -10,6 +10,7 @@ or the amazing panache of
 [Sacha Baron Cohen][2].
 The jaw drops, but no laughs come out.
 
+But I did laugh at Borat shooting dogs in the street outside.
 
 [2]: https://en.wikipedia.org/wiki/Sacha_Baron_Cohen
 
