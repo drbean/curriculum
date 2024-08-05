@@ -632,6 +632,12 @@ Those who laugh last longest.
 But those who laugh last laugh longest.
 https://quoteinvestigator.com/2015/03/15/laughs/
 %
+Good and bad COVID news:
+The good news is that only
+2~3% are dying. The bad news
+is that the rate for those
+over 65-years-of-age is 50%.
+%
 Nietzsche: 'God is dead' (1882)
 God: 'Nietzsche is dead' (1900)
 Nietzsche has yet to respond.
