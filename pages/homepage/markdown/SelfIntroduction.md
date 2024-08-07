@@ -1,6 +1,4 @@
----
-title: 'HomePage - Kwiki'
----
+% Dr Bean--the teacher
 
 +-----------------------------------+-----------------------------------+
 | ::: {.navigation}                 | ::: {.navigation}                 |
@@ -62,6 +60,25 @@ title: 'HomePage - Kwiki'
 | found myself gradually becoming a |                                   |
 | full-time English teacher.        |                                   |
 |                                   |                                   |
+| I had never had much respect for  |                                   |
+| teachers. They talk *at* you,     |                                   |
+| rather than *to* you.             |                                   |
+|                                   |                                   |
+|     I threw the ball to the dog.  |                                   |
+|                                   |                                   |
+| versus                            |                                   |
+|                                   |                                   |
+|     I threw the rock at the dog.  |                                   |
+|                                   |                                   |
+| This establishes a power          |                                   |
+| differential, as with parents,    |                                   |
+| but they are closer to you.       |                                   |
+|                                   |                                   |
+| I did like math and I thought the |                                   |
+| math teacher did a good job.      |                                   |
+|                                   |                                   |
+| But ..                            |                                   |
+|                                   |                                   |
 | Teaching was very interesting. I  |                                   |
 | was able to observe in others to  |                                   |
 | varying degrees the same          |                                   |
@@ -96,8 +113,9 @@ title: 'HomePage - Kwiki'
 | learning Chinese and most of my   |                                   |
 | time on trying to program in      |                                   |
 | perl. See                         |                                   |
-| [ComputerProgramming](ComputerPro |                                   |
-| gramming.html).                   |                                   |
+| [ComputerProgramming][1]          |                                   |
+|                                   |                                   |
+| [1]: ComputerProgramming.html     |                                   |
 |                                   |                                   |
 | However I am still interested in  |                                   |
 | the process of language learning  |                                   |
