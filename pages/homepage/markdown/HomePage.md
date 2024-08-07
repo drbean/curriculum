@@ -1,19 +1,29 @@
 % Home Page of Dr Bean
 
+<!--
+
 [yengtungpho yeinswuk](http://localmap.co.kr/web/splus/kmap/list.php?sigun=6110000&gugun=3180000&keyno=257)
 
 [영등초여인숙](http://localmap.co.kr/web/splus/kmap/list.php?sigun=6110000&gugun=3180000&keyno=257)
 
-- [AcademicEditingService ](AcademicEditingService.html)
-- [TOEFL® and TOEIC® Speaking Test site](toeflic)
+-->
+
+## Sites
+
+- [_AcademicEditingService_](AcademicEditingService.html)
+- [_TOEFL® and TOEIC® Speaking Test site_](toeflic)
 
 <!-- end of list -->
 
--   [ClassContent](Contents.html)
--   [SelfIntroduction](SelfIntroduction.html)
--   [TOEIC](TOEIC.html)
+## Teaching
+
+-   [_ClassContent_](Contents.html): Teaching page
+-   [_SelfIntroduction_](SelfIntroduction.html): How I became a teacher
+-   [_TOEIC_](TOEIC.html): Slides for TOEIC® site
 
 <!-- end of list -->
+
+## Writings
 
 - [ThePracticeofTeaching](ThePracticeofTeaching.html) List of High-EQ rocket science writings
   -   [TeachingMethodology](TeachingMethodology.html) How to teach
