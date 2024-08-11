@@ -48,6 +48,14 @@ No battle plan survives first
 contact with the enemy.
 https://Quoteinvestigator.com/2021/05/04/no-plan/
 %
+My enemy's enemies are my friends.
+But, with friends like these, who
+needs enemies.
+%
+The perfect is the enemy of the good.
+But, with enemies like these, who
+needs friends.
+%
 One brain and consciousness researcher
 in praise of another\'s experimental skills:
 The electrode in the monkey's skull was
@@ -443,6 +451,10 @@ http://wikipedia.org/wiki/Animal_spirits_(Keynes)
 Throw enough mud against the wall,
 and some of it will stick.
 --A conservative theory of instruction
+%
+The Socratic Method in court:
+Never ask a question you don't know
+the answer to.
 %
 Gertrude Stein (on deathbed): What is the
 answer? What is the answer? (Sits up)
