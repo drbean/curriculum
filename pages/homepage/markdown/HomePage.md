@@ -61,7 +61,7 @@
 
 <!-- end of list -->
 
-- [LecturesCourses](LecturesCourses.html) Speaker stands, audience sits for short lesson/course
+- [LecturesCourses](LecturesCourses.html) Short lesson/courses where I stood and audience sat
 
 TODO: under construction
 :   E learning
