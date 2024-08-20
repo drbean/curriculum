@@ -329,6 +329,10 @@ Intention and action, night and
 day. Action and intention,
 long day's journey into night.
 %
+If your only tool is a hammer,
+every problem looks like a nail.
+https://quoteinvestigator.com/2014/05/08/hammer-nail/
+%
 Rather than do things right,
 Do the right thing. 
 --Anonymous
