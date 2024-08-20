@@ -380,6 +380,15 @@ None of the language can be explained well
 until most of it has already been understood.
 --Norman Cohen
 %
+Our bandaids and figleafs are not working.
+We must reapply our bandaids to our figleafs
+and cover our figleafs with our bandaids.
+%
+Aide: They have seen through our figleaf,
+calling it 'a transparent play in the
+seduction of the public.'
+Legislator: Where's a bandaid, when needed?
+%
 More Pricks than Kicks.
 --Samuel Beckett
 %
