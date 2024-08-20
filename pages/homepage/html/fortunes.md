@@ -384,6 +384,9 @@ None of the language can be explained well
 until most of it has already been understood.
 --Norman Cohen
 %
+Foot Heads Arms Body
+https://www.theguardian.com/theguardian/2010/mar/05/footnotes-life-michael-foot
+%
 Our bandaids and figleafs are not working.
 We must reapply our bandaids to our figleafs
 and cover our figleafs with our bandaids.
