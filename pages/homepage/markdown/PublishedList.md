@@ -1,6 +1,6 @@
 % Published papers I edited
 
-I haven't asked all the authors of these papers if it was OK to publicize my involvement in their editing, so they are not endorsing my work with their listing here. You would have to contact them directly to see what they thought of my work.
+Although authors have allowed me to publicize my involvement in editing their papers, they are not endorsing my work with their listing here. You would have to contact them directly to see what they thought of my work.
 
 ##### Biology/Medicine
 
