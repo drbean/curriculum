@@ -4,20 +4,21 @@ I haven't asked all the authors of these papers if it was OK to publicize my inv
 
 ##### Biology/Medicine
 
-* Bacteriophage-cocktail hydrogel dressing to prevent multiple
-[bacterial infections and heal diabetic ulcers in mice](https://doi.org/10.1002/jbm.a.37728)
+* [Bacteriophage-cocktail hydrogel dressing to prevent multiple
+bacterial infections and heal diabetic ulcers in mice](https://doi.org/10.1002/jbm.a.37728)
 * [An integrative approach unveils a distal encounter site for rPTPε and phospho-Src complex formation](https://pubmed.ncbi.nlm.nih.gov/37794594/.html)
 
-##### Ergonomics
+##### Ergonomics/Epidemiology
 
 * [Risk of tripping, minimum foot clearance, and step length when crossing a barrier](https://www.semanticscholar.org/paper/Risk-of-tripping%2C-minimum-foot-clearance%2C-and-step-Zhao-Li/7226d6cc8dbaf65ba3cd093a583177099cf1bdb7)
 * [Exploring factors that influence the cardiovascular health of bus drivers for the improvement of transit safety](https://pubmed.ncbi.nlm.nih.gov/36046884/)
+* [Applying the job demands-resources model to reduce the aberrant behavior of bus drivers: Let them play a good social role](https://doi.org/10.1016/j.jth.2023.101711)
 
 ##### Commerce
 
 * [Investigating Factors that Influence the Intention to Use Electric
 Scooter Sharing in a Market with Multiple Service Providers: Combined
-UTAUT2 and Brand Attitude](https://journals.sagepub.com/doi/abs/10.1177/03611981231185142)
+UTAUT2 and Brand Attitude](https://doi.org/10.1177/03611981231185142)
 
 ##### Engineering
 
