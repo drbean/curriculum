@@ -8,6 +8,10 @@ Although authors have allowed me to publicize my involvement in editing their pa
 bacterial infections and heal diabetic ulcers in mice](https://doi.org/10.1002/jbm.a.37728)
 * [An integrative approach unveils a distal encounter site for rPTPε and phospho-Src complex formation](https://pubmed.ncbi.nlm.nih.gov/37794594/.html)
 
+##### Environment
+
+* [Kuroshio path variability inferred from satellite-derived sea surface topography in the northwestern Pacific](https://doi.org/10.1016/j.rse.2024.114443)
+
 ##### Ergonomics/Epidemiology
 
 * [Risk of tripping, minimum foot clearance, and step length when crossing a barrier](https://www.semanticscholar.org/paper/Risk-of-tripping%2C-minimum-foot-clearance%2C-and-step-Zhao-Li/7226d6cc8dbaf65ba3cd093a583177099cf1bdb7)
