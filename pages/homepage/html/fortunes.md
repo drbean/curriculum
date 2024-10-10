@@ -1,3 +1,7 @@
+A: Call tails legs and a pig has 5 legs.
+B: Calling it a leg doesn't make it a leg.
+https://quoteinvestigator.com/2015/11/15/legs/
+%
 You can fool all of the people some of the 
 time, and some of the people all the time,
 but you can't fool all of the people all of
@@ -47,6 +51,14 @@ QED
 No battle plan survives first
 contact with the enemy.
 https://Quoteinvestigator.com/2021/05/04/no-plan/
+%
+Everybody has a plan until they get hit
+--Mike Tyson
+https://quoteinvestigator.com/2021/08/25/plans-hit/
+%
+Plans Are Worthless, But Planning Is Everything
+--Dwight Eisenhower
+https://quoteinvestigator.com/2017/11/18/planning/
 %
 My enemy's enemies are my friends.
 But, with friends like these, who
@@ -387,9 +399,13 @@ until most of it has already been understood.
 Foot Heads Arms Body
 https://www.theguardian.com/theguardian/2010/mar/05/footnotes-life-michael-foot
 %
-Our bandaids and figleafs are not working.
+Our bandaids and figleafs are slipping.
 We must reapply our bandaids to our figleafs
 and cover our figleafs with our bandaids.
+%
+Aide: They have seen through the bandaid we
+applied to our figleaf. Politico: Paint
+over the figleaf and whitewash the bandaid.
 %
 Aide: They have seen through our figleaf,
 calling it 'a transparent play in public
@@ -532,6 +548,9 @@ If there is anything we can say after
 standing on the shoulders of giants it
 is that the position is precarious and
 the view fleeting.
+%
+If I fell further, it was because I was
+standing on the shoulders of giants.
 %
 If I did not see further, it was because of
 the giants standing on my shoulders.
