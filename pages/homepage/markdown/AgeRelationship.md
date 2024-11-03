@@ -7,34 +7,29 @@ header-includes:
 
 ### Video
 
-[下関岡山奈良 nearer than 青森東京](https://youtu.be/v2f9LVXRqEA),
-at [https://youtu.be/v2f9LVXRqEA](https://youtu.be/v2f9LVXRqEA)
+[Calculating Dr Bean's age](https://youtu.be/Sy69eAtz6GY),
+at [https://youtu.be/Sy69eAtz6GY](https://youtu.be/Sy69eAtz6GY)
 
 ### Script
 
-Hi. My name is Greg.
+Hi. My name is Greg. I traveled with Mr Sato in western Japan last year. We talked about our ages. How old are you? How old am I?
 
-#### Last time
+#### Your task
 
-Last time I talked about Mr Sato and my names.
+I want you to tell me how old I am.
 
-We both have the Chinese character, 圭, in our names.
+I'm older than you. You're not as old as me.
+You're younger than me. I'm not as young as you.
 
-#### Distance
+But I want you to tell me how old I am.
 
-This time I want to talk about how far it is from Shimonoseki, where I met Mr Sato, to Nara, where I live. Aomori is at one end of Honshu. Shimonoseki is at the other end. Nara is not near Aomori, but it is nearer to Aomori than Shimonoseki is. Nara is not near Shimonoseki, but it is nearer to Shimonoseki than Aomori.
-
-#### Okayama
-
-I traveled with Mr Sato from Shimonoseki to Okayama. Okayama is not near Shimonoseki, but it is nearer to Shimonoseki than Nara and Aomori are.
-
-#### Nara
-I then traveled by myself to Nara. I live in Nara. 
-I want you to tell me how far it is from Shimonoseki to Nara.
+I will help you guess, but first, I want you to tell me the answer to a math problem.
 
 #### Math
 
-I want you to write it using '+', '-', 'x' or '/'.
+I want you to write down the answer using '+', '-', 'x' or '/'.
+
+Let's review '+', '-', 'x' and '/'.
 
 Plus:
 
@@ -72,55 +67,62 @@ Divided by:
 
 Say, '2 / 2 = 1'
 
-#### 2 Distances
+#### Ages
 
-OK. So, back to distances between Shimonoseki and Nara.
+OK. So, back to ages.
 
-From Shimonoseki to Okayama, it's 350 kilometers.
-From Okayama to Nara, it's 200 kilometers.
+I guess you're 15. Perhaps you're not 15.
 
-How far is it from Shimonoseki to Nara?
-I want you to write an expression using the numbers, 200 and 350 and one of the signs, '+', '-', 'x' or '/'.
+Perhaps you're younger than 15. 
+Perhaps you're older than 15. 
 
-Get a pen and a piece of paper. Write down 2 numbers and one sign.
+Perhaps you were 15 last year, and you're older than that now.
+
+I'm older than I was last year.
+We're all older than we were last year.
+
+But let's suppose you're 15. You're 15.
+
+How old am I?
+
+I'M FIVE TIMES YOUR AGE.
+
+I want you to write an expression using the numbers, 5 and 15 and one of the signs, '+', '-', 'x' or '/'.
+
+Get a pen and a piece of paper. Write down 2 numbers and one sign to show my age.
 
 Did you write down 2 numbers and one of '+', '-', 'x' or '/'?
 Which of the 4 signs did you use?
 
 #### Explication
 
-Nara is farther from Shimonoseki. It's not near Aomori, but it's nearer to Aomori than Okayama is. So the answer is going to be bigger than 350, the distance from Shimonoseki to Okayama. It's going to be 200 bigger than 350,
-the distance from Okayama to Nara.
+15 + 5 = 20. I can't be 20 years old. It's not 15 + 5.
+
+15 - 5 = 10. I can't be 10 years old. It's not 15 - 5.
+
+15 / 5 = 3. I can't be 3 years old. It's not 15 / 5.
+
+It can only be the last one, 5 x 15, 15 X 5.
 
 #### Answer
 
 OK. So you wrote down the expression. What is the answer?
-500, 550, or 700?
+How old am I?
 
-#### Aomori-Tokyo
+60, 75 or 90?
 
-The distance from Aomori to Tokyo is 700 kilometers. Shimonoseki is closer/nearer to Nara than Aomori is to Tokyo. Is the answer 700?
+#### Extension
 
-The distance from Shimonoseki to Nara is ...
+Are you older or younger than the person sitting next to you?
 
-What is the distance from Aomori to Tokyo?
+How many more months are you older or younger than the person sitting next to you?
 
-#### X-er than
-
-* 700 is bigger than 550. 550 is bigger than 500.
-* Shimonoseki and Nara are closer than Aomori and Tokyo.
-* Nara is further/farther from Shimonoseki than Okayama.
-* Nara is nearer to Aomori than Shimonoseki is.
-
-#### Next time
-
-Next time, we are going to do 'older than', and 'younger than'.
-
-Me at <form action="https://mastodon.sdf.org/@drbean">
-<button type="submit" class="btn"><img src="./mastodon.svg" alt="https://joinmastodon.org/logos/wordmark-black-text.svg" style="width:100px;height:50px"/></button>
-</form>
-
-Me at <a href="https://mastodon.sdf.org/@drbean"><i class="fa-brands fa-mastodon" style="font-size:48px;"></i></a>
-
-
+Me at
+    <form action='https://mastodon.sdf.org/@drbean'>
+    <button type='submit' class='btn'>
+    <img src='./mastodon.svg'
+        alt='https://joinmastodon.org/logos/wordmark-black-text.svg'
+        style='width:100px;height:50px'/>
+    </button></form>
+    
 Back to [KeiSato](KeiSato.html)
