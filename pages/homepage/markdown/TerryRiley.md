@@ -19,10 +19,12 @@ on national TV in Japan in September, 2023:
 
 **Dr Bean:** With the end of music, science is doing a pretty good job of understanding the universe.
 
-Me at <form action="https://mastodon.sdf.org/@drbean">
+Me at
+<form action="https://mastodon.sdf.org/@drbean">
 <button type="submit" class="btn"><img src="./mastodon.svg" alt="https://joinmastodon.org/logos/wordmark-black-text.svg" style="width:100px;height:50px"/></button>
 </form>
 
-Me at <a href="https://mastodon.sdf.org/@drbean"><i class="fa-brands fa-mastodon" style="font-size:48px;"></i></a>
+Me at
+<a href="https://mastodon.sdf.org/@drbean"><i class="fa-brands fa-mastodon" style="font-size:48px;"></i></a>
 
 Back to [LetUsNowPraiseFamousMen](LetUsNowPraiseFamousMen.html)
