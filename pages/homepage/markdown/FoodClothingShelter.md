@@ -7,6 +7,7 @@ If those PressingNeeds are satisfied, the survival of the individual is insured 
 But read how
 [SexRearsItsUglyHead](SexRearsItsUglyHead.html)
 
-Me at [Mastodon](https://mastodon.sdf.org/@drbean)
+Me at
+[Mastodon](https://mastodon.sdf.org/@drbean)
 
 Back to [ActionResearch](ActionResearch.html)

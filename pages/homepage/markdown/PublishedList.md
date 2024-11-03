@@ -48,7 +48,8 @@ UTAUT2 and Brand Attitude](https://doi.org/10.1177/03611981231185142)
 
 This is not all the papers I have edited, of course. Some have been accepted, but have not appeared, or have appeared in relatively obscure places. Others have not been published.
 
-Me at <form action="https://mastodon.sdf.org/@drbean">
+Me at
+<form action="https://mastodon.sdf.org/@drbean">
 <button type="submit" class="btn"><img src="./mastodon.svg" alt="https://joinmastodon.org/logos/wordmark-black-text.svg" style="width:100px;height:50px"/></button>
 </form>
 

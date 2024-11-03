@@ -10,6 +10,7 @@ was about (it was about poor sharecroppers during the Depression, so an ironic t
 for failing to recognize
 [LASS](http://en.wikipedia.org/wiki/LASS)
 
-Me at [Mastodon](https://mastodon.sdf.org/@drbean)	
+Me at
+[Mastodon](https://mastodon.sdf.org/@drbean)	
 
 Back to [HomePage](HomePage.html)

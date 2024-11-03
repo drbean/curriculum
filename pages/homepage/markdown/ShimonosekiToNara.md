@@ -111,6 +111,7 @@ What is the distance from Aomori to Tokyo?
 
 Next time, we are going to do 'older than', and 'younger than'.
 
-Me at [Mastodon](https://mastodon.sdf.org/@drbean)	
+Me at
+[Mastodon](https://mastodon.sdf.org/@drbean)	
 
 Back to [KeiSato](KeiSato.html)
