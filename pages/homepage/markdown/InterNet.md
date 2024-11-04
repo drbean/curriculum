@@ -4,8 +4,7 @@
 - [TwitterPopularity](TwitterPopularity.html) Did it appear a good idea?
 - [RubberDuckyMastodon](RubberDuckyMastodon.html) Not sounding board, not echo chamber
 - [StaticSiteGenerator](StaticSiteGenerator.html) Props/scaffolding behind the facade
-
-* [_POSSE_](POSSE.html) Control of self, Internet
+- [POSSE](POSSE.html) Control of voice on Internet
 
 Me at
     <form action='https://mastodon.sdf.org/@drbean'>
