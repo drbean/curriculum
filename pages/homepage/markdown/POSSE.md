@@ -4,6 +4,8 @@ POSSE (Publish on Own Site, Syndicate Everywhere) is great. The issue is control
 
 
 
+* [_CUSP_](CUSP.html) A different initialism
+
 Me at
 <form action='https://mastodon.sdf.org/@drbean'>
 <button type='submit' class='btn'>
