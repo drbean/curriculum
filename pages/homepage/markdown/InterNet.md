@@ -5,6 +5,8 @@
 - [RubberDuckyMastodon](RubberDuckyMastodon.html) Not sounding board, not echo chamber
 - [StaticSiteGenerator](StaticSiteGenerator.html) Props/scaffolding behind the facade
 
+* [_POSSE_](POSSE.html) Control of self, Internet
+
 Me at
     <form action='https://mastodon.sdf.org/@drbean'>
     <button type='submit' class='btn'>
