@@ -6,6 +6,7 @@ Some attempts to see English wobble, benefiting from conversations on the ##Engl
 
 * [_OEDReaders_](OEDReaders.html) The good, the bad, the indifferent, and the dishonourable
 * [_SentenceStress_](SentenceStress.html)--Speech aspires to poetry
+* [_NGrams_](NGrams.html) Einstein, Sherlock Holmes, Frankenstein citations in books
 
 #### Words
 
