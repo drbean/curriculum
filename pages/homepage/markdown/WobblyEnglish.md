@@ -70,4 +70,14 @@ Some attempts to see English wobble, benefiting from conversations on the ##Engl
 * [_MinesIsBlue_](MinesIsBlue.html) Can you say that?
 * [_HairOfTheDog_](HairOfTheDog.html) A dog hair? A hair of the dog's?
 
+* [_NGrams_](NGrams.html) Einstein, Sherlock Holmes, Frankenstein citations in books
+
+Me at
+<form action='https://mastodon.sdf.org/@drbean'>
+<button type='submit' class='btn'>
+<img src='./mastodon.svg'
+alt='https://joinmastodon.org/logos/wordmark-black-text.svg'
+style='width:100px;height:50px'/>
+</button></form>
+
 Return to [_HomePage_](HomePage.html)
