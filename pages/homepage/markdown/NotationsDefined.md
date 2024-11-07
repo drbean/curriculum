@@ -2,9 +2,11 @@
 
 'The following notations are defined' doesn't seem an idiomatic way to introduce a list of symbols for the entities in a model
 
-
-
 * [_MathNotation_](MathNotation.html) A deeper understanding of notation
+
+I think I was sticking on 'notation' as a countable noun. Not all of the citations at
+[https://books.google.com/ngrams/graph?content=following+notations+are+defined](https://books.google.com/ngrams/graph?content=following+notations+are+defined)
+are of non-native speakers, I think.
 
 Me at
 <form action='https://mastodon.sdf.org/@drbean'>
