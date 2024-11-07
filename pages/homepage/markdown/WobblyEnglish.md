@@ -71,7 +71,7 @@ Some attempts to see English wobble, benefiting from conversations on the ##Engl
 * [_MinesIsBlue_](MinesIsBlue.html) Can you say that?
 * [_HairOfTheDog_](HairOfTheDog.html) A dog hair? A hair of the dog's?
 
-* [_NGrams_](NGrams.html) Einstein, Sherlock Holmes, Frankenstein citations in books
+* [_NotationsDefined_](NotationsDefined.html) Does not seem right
 
 Me at
 <form action='https://mastodon.sdf.org/@drbean'>
