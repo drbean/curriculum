@@ -88,6 +88,8 @@ associations, this has been my
 main source of inspiration for my
 own teaching.
 
+* [_InstallingToot_](InstallingToot.html) 4 easy steps
+
 Me at
     <form action='https://mastodon.sdf.org/@drbean'>
     <button type='submit' class='btn'>
