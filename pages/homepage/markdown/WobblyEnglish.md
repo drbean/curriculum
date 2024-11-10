@@ -71,7 +71,10 @@ Some attempts to see English wobble, benefiting from conversations on the ##Engl
 * [_MinesIsBlue_](MinesIsBlue.html) Can you say that?
 * [_HairOfTheDog_](HairOfTheDog.html) A dog hair? A hair of the dog's?
 
+##### Non-Native Speaker English
 * [_NotationsDefined_](NotationsDefined.html) Does not seem right
+
+* [_NumberAgreement_](NumberAgreement.html) Playing fast and loose with number
 
 Me at
 <form action='https://mastodon.sdf.org/@drbean'>
