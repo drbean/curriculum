@@ -9,6 +9,15 @@ Wearing the scientist hat taking on self?
 - [SelfDiagnosis](SelfDiagnosis.html) A dangerous thing
 - [LostAmbition](LostAmbition.html) The evil of the day is sufficient thereof
 - [BrillianceOfMind](BrillianceOfMind.html) Self-deception is the answer
+* [WalkingFalling](WalkingFalling.html) What is the difference?
 
+Me at
+    <form action='https://mastodon.sdf.org/@drbean'>
+    <button type='submit' class='btn'>
+    <img src='./mastodon.svg'
+        alt='https://joinmastodon.org/logos/wordmark-black-text.svg'
+        style='width:100px;height:50px'/>
+    </button></form>
+    
 Back to
 [TheUnexaminedLife](TheUnexaminedLife.html)

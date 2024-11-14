@@ -10,16 +10,16 @@
 
 ## Sites
 
-- [_AcademicEditingService_](AcademicEditingService.html)
-- [_TOEFL® and TOEIC® Speaking Test site_](toeflic)
+- [AcademicEditingService](AcademicEditingService.html)
+- [TOEFL® and TOEIC® Speaking Test site](toeflic)
 
 <!-- end of list -->
 
 ## Teaching
 
--   [_ClassContent_](Contents.html): Teaching page
--   [_SelfIntroduction_](SelfIntroduction.html): How I became a teacher
--   [_TOEIC_](TOEIC.html): Slides for TOEIC® site
+-   [ClassContent](Contents.html): Teaching page
+-   [SelfIntroduction](SelfIntroduction.html): How I became a teacher
+-   [TOEIC](TOEIC.html): Slides for TOEIC® site
 
 <!-- end of list -->
 

@@ -2,8 +2,6 @@
 
 Walking is falling forward #fallingforward one step at a time
 
-
-
 Me at
 <form action='https://mastodon.sdf.org/@drbean'>
 <button type='submit' class='btn'>
