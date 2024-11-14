@@ -19,7 +19,7 @@ read post
 echo % $header > $M/$story.md
 echo >> $M/$story.md
 echo $post >> $M/$story.md
-echo -e "\n\n\nMe at
+echo -e "\n\nMe at
 <form action='https://mastodon.sdf.org/@drbean'>
 <button type='submit' class='btn'>
 <img src='./mastodon.svg'
@@ -28,7 +28,7 @@ style='width:100px;height:50px'/>
 </button></form>
 \nBack to [$topic]($topic.html)" >> $M/$story.md
 
-sed -i.BAK -E "s/^Me at/* [_${story}_]($story.html) $kicker\n\nMe at/" $M/$topic.md
+sed -i.BAK -E "s/^Me at/* [$story]($story.html) $kicker\n\nMe at/" $M/$topic.md
 
 for p in $story $topic
     do pandoc -o c:/cygwin64/tmp/pandoc/$p.html --standalone \
