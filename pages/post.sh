@@ -32,7 +32,7 @@ sed -i.BAK -E "s/^Me at/* [$story]($story.html) $kicker\n\nMe at/" $M/$topic.md
 
 for p in $story $topic
     do pandoc -o c:/cygwin64/tmp/pandoc/$p.html --standalone \
-        --template=c:$HOME/curriculum/pages/pandoc-templates/homepagePost.html5 \
+        --template=c:$HOME/curriculum/pages/pandoc-templates/git/homepagePost.html5 \
        $M/$p.md
 done
 
