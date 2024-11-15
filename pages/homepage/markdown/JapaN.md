@@ -1,4 +1,8 @@
-% 1 week, write an article. 1 year, write a book. A lifetime, not say anything at all
+% 1 week: write an article.
+
+1 year: write a book.
+
+A lifetime: not say anything at all
 
 In Japan, 1980-1986, visiting 2004-2020, and resident 2023-
 
