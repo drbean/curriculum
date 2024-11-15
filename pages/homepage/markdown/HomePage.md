@@ -1,5 +1,9 @@
 % Home Page of Dr Bean
 
+---
+linkcolor: '#4682B4'
+...
+
 <!--
 
 [yengtungpho yeinswuk](http://localmap.co.kr/web/splus/kmap/list.php?sigun=6110000&gugun=3180000&keyno=257)
@@ -47,10 +51,6 @@
 - [CoverLetter](CoverLetter.html)
 - [MyHobbies](MyHobbies.html) Programming, bicycling, jogging, hitchhiking
 - [WobblyEnglish](WobblyEnglish.html) Language isn't logical
-- [ChineseJapaneseKorean](ChineseJapaneseKorean.html) My other languages
-- [KoreA](KoreA.html) 1986-1998 highpoints recollected
-- [ChinA](ChinA.html) 1992-2092 A replay of Japan 1868-1945?
-- [InUsWeTrust](InUsWeTrust.html) The US: thoughts from abroad
 - [HumorMyHumors](HumorMyHumors.html) Levity is the soul of wit
 - [InterNet](InterNet.html) Is the Internet on? Are we on the line?
 - [LanguageAndThought](LanguageAndThought.html) They do very well together
@@ -58,6 +58,15 @@
 - [ComputerProgramming](ComputerProgramming.html) Best thing since reading/writing
 - [TheUnexaminedLife](TheUnexaminedLife.html) Not worth living?
 - [LetUsNowPraiseFamousMen](LetUsNowPraiseFamousMen.html) Cheap shots at the eminent
+
+## Places
+
+- [ChineseJapaneseKorean](ChineseJapaneseKorean.html) My other languages
+- [JapaN](JapaN.html) 1980-1986, 2022- Learning and living
+- [KoreA](KoreA.html) 1986-1998 High points recollected
+- [TaiWan](TaiWan.html) 1999-2021 High points recollected
+- [ChinA](ChinA.html) 1992-2092 A replay of Japan 1868-1945?
+- [InUsWeTrust](InUsWeTrust.html) The US: thoughts from abroad
 
 <!-- end of list -->
 
@@ -82,4 +91,10 @@ TODO: under construction
 
 email: drbean [at] freeshell [dot] org
 
-<a rel="me" href="https://mastodon.sdf.org/@drbean">drbean@Mastodon</a>
+Me at
+<form action='https://mastodon.sdf.org/@drbean'>
+<button type='submit' class='btn'>
+<img src='./mastodon.svg'
+alt='https://joinmastodon.org/logos/wordmark-black-text.svg'
+style='width:100px;height:50px'/>
+</button></form>
