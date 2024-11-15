@@ -12,6 +12,8 @@ I need to be careful of who I accuse of #vendor_lockin here, but my failure to e
 
 * [_DIY_](DIY.html) Using free tools and materials
 
+* [_PublishingScript_](PublishingScript.html) Putting posts online
+
 Me at
 <form action='https://mastodon.sdf.org/@drbean'>
 <button type='submit' class='btn'>
