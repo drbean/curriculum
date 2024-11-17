@@ -6,6 +6,8 @@
 - [StaticSiteGenerator](StaticSiteGenerator.html) Props/scaffolding behind the facade
 - [POSSE](POSSE.html) Control of voice on Internet
 
+* [WebDesign](WebDesign.html) More than meets the eye
+
 Me at
     <form action='https://mastodon.sdf.org/@drbean'>
     <button type='submit' class='btn'>
