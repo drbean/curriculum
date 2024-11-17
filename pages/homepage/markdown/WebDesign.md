@@ -1,7 +1,6 @@
 % What you see is what you get
 
-I don't have any interest in good/bad design (I'm graphically challenged), but I know it when I see it. The entities responsible for the 'look and feel' of CJK university web pages range from outside contractors where either designers or computer nerds are in control to the prof in a lab, who will also probably be graphically challenged, and not a web developer.
-
+I don't have any interest in good/bad design (I'm graphically challenged), but I know it when I see it.
 
 * [CJKUniversitySites](CJKUniversitySites.html) In East Asia
 
