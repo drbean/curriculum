@@ -9,6 +9,7 @@ was about (it was about poor sharecroppers during the Depression, so an ironic t
 [LAD](http://en.wikipedia.org/wiki/LAD)
 for failing to recognize
 [LASS](http://en.wikipedia.org/wiki/LASS)
+* [DorothyParker](DorothyParker.html) Poet, writer 1893-1967
 
 Me at
 [Mastodon](https://mastodon.sdf.org/@drbean)	
