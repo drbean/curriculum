@@ -1,6 +1,8 @@
 % Appearing at prof's request?
 
-Smiles, but apparently not completely at ease, at https://iryouyakuzai.amebaownd.com/ Front row: 6 women, 5 in colorful kimonos, with prof in formal suit. Behind: 5 women, 7 men dressed casually.
+Smiles, but apparently not completely at ease, at
+[https://iryouyakuzai.amebaownd.com/](https://iryouyakuzai.amebaownd.com/)
+Front row: 6 women, 5 in colorful kimonos, with prof in formal suit. Behind: 5 women, 7 men dressed casually.
 
 
 Me at
