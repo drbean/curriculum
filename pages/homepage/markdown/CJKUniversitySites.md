@@ -5,6 +5,8 @@ The entities responsible for the 'look and feel' of CJK university web pages ran
 
 * [PharmaceuticalLabLineup](PharmaceuticalLabLineup.html) Affirming tradition
 
+* [PortraitPhotography](PortraitPhotography.html) 100 CompSci profs pose
+
 Me at
 <form action='https://mastodon.sdf.org/@drbean'>
 <button type='submit' class='btn'>

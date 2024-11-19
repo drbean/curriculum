@@ -1,6 +1,7 @@
 % Pick the profs not impressed
 
-Professional portrait photographer got subjects to smile while composing the shots and working with the camera for https://www.ritsumei.ac.jp/ise/teacher/
+Professional portrait photographer got subjects to smile while composing the shots and working with the camera for
+[https://www.ritsumei.ac.jp/ise/teacher/](https://www.ritsumei.ac.jp/ise/teacher/)
 
 
 Me at
