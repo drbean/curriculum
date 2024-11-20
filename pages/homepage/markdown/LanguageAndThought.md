@@ -4,7 +4,6 @@
 - [DogConversation](DogConversation.html) Do animals 'speak' or do they 'talk'?
 - [GeneExpression](GeneExpression.html) Are they talking to/for/at us?
 
-* [GeneExpression](GeneExpression.html) Are they talking to us? 
 
 Me at
 <form action='https://mastodon.sdf.org/@drbean'>
