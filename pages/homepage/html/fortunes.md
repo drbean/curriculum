@@ -475,6 +475,10 @@ We know more than we can say.
 We know more than we can say.
 --Michael Polanyi
 %
+The map is not the territory.
+—Alfred Korzybski
+It comes with the territory.
+%
 Dangle it in front of their
 noses and see if they attack.
 --An 'animal spirits' theory of instruction
