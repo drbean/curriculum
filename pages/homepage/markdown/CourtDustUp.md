@@ -6,7 +6,7 @@ Scalia and Co: 'Two can play at that game!'
 
 Conspirators (getting even): Hack, hack, hack.
 
-Activist Roberts' court (outlawing abortion): 'See how you like it!''
+Activist Roberts' court (giving them a taste of their own medicine): 'See how you like it!'
 
 
 Me at
