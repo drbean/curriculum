@@ -1,9 +1,5 @@
 % Talking to machines
 
-But read
-
-- [SubversionSubmersion](SubversionSubmersion.html)
-
 I\'m a language teacher. Teaching
 and learning languages is
 frustrating and very difficult.
@@ -87,8 +83,6 @@ the activities of teacher
 associations, this has been my
 main source of inspiration for my
 own teaching.
-
-* [_InstallingToot_](InstallingToot.html) 4 easy steps
 
 Me at
     <form action='https://mastodon.sdf.org/@drbean'>
