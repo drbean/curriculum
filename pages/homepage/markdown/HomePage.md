@@ -65,9 +65,9 @@ linkcolor: '#4682B4'
 - [TheUnexaminedLife](TheUnexaminedLife.html) Not worth living?
 - [LetUsNowPraiseFamousMen](LetUsNowPraiseFamousMen.html) Cheap shots at the eminent
 
-## Computers
+## Computers--Best thing since reading/writing 
 
-- [ComputerProgramming](ComputerProgramming.html) Best thing since reading/writing for a sense of achievement
+- [TheTeachingConnection](TheTeachingConnection.html) A sense of achievement
 - [SubversionSubmersion](SubversionSubmersion.html) Put down by github
 - [InstallingToot](InstallingToot.html) 4 easy steps
 
