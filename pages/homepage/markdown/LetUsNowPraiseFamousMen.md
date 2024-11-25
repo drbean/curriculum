@@ -11,6 +11,8 @@ for failing to recognize
 [LASS](http://en.wikipedia.org/wiki/LASS)
 * [DorothyParker](DorothyParker.html) Poet, writer 1893-1967
 
+* [ReneDescartes](ReneDescartes.html) Philosopher, mathematician 1596-1650
+
 Me at
 [Mastodon](https://mastodon.sdf.org/@drbean)	
 
