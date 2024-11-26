@@ -101,6 +101,8 @@ TODO: under construction
 
 email: drbean [at] freeshell [dot] org
 
+* [AI](AI.html) A 'hair on fire' moment
+
 Me at
 <form action='https://mastodon.sdf.org/@drbean'>
 <button type='submit' class='btn'>
