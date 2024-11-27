@@ -4,6 +4,8 @@ Clever Hans, the horse which understood German and answered questions with numer
 
 * [ChatBot](ChatBot.html)  
 
+* [ChatBot](ChatBot.html) Mindlessness in conversation
+
 Me at
 <form action='https://mastodon.sdf.org/@drbean'>
 <button type='submit' class='btn'>
