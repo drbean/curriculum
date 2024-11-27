@@ -1,4 +1,4 @@
-% Good news and bad news
+% Paying attention to the deus ex machina behind the curtain
 
 A portal for my understanding of the implications of Artificial Intelligence developments
 
