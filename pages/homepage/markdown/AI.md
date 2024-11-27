@@ -3,7 +3,7 @@
 A portal for my understanding of the implications of Artificial Intelligence developments
 
 
-* [CleverHans](CleverHans.html) And ChatGPT
+* [CleverHans](CleverHans.html) And machine learning
 
 Me at
 <form action='https://mastodon.sdf.org/@drbean'>
