@@ -70,6 +70,8 @@ linkcolor: '#4682B4'
 - [TheTeachingConnection](TheTeachingConnection.html) A sense of achievement
 - [SubversionSubmersion](SubversionSubmersion.html) Put down by github
 - [InstallingToot](InstallingToot.html) 4 easy steps
+* [AI](AI.html) A 'hair on fire' moment
+
 
 ## Places
 
@@ -100,8 +102,6 @@ TODO: under construction
 :   Hitchhiking
 
 email: drbean [at] freeshell [dot] org
-
-* [AI](AI.html) A 'hair on fire' moment
 
 Me at
 <form action='https://mastodon.sdf.org/@drbean'>
