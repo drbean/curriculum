@@ -37,7 +37,7 @@ for p in $story $topic
 done
 
 cd $M 1>&2
-for v in svn git ; do $v add $M/$story.md ; done 1>&2
+for v in svn git ; do $v add $M/{$topic,$story}.md ; done 1>&2
 svn ci $M/{$story,$topic}.md -m "$topic:$story with post.sh" 1>&2
 cd - 1>&2
 
