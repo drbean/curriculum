@@ -7,6 +7,8 @@ However, the real story is he wasn't trying to algebraise geometry, apparently, 
 And the rest is history.
 
 
+* [OnLookingUp](OnLookingUp.html) Achieving greatness
+
 Me at
 <form action='https://mastodon.sdf.org/@drbean'>
 <button type='submit' class='btn'>
