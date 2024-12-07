@@ -1,6 +1,6 @@
 % Design impressions
 
-The entities responsible for the 'look and feel' of CJK university web pages range from outside contractors where either designers or computer nerds are in control to the prof in a lab, who will probably be graphically challenged, and not a web developer.
+The entities responsible for the 'look and feel' of CJK university web pages range from outside contractors where either designers or computer engineers are in control to the prof in a lab, who will probably be graphically challenged, and not a web developer.
 
 
 * [PharmaceuticalLabLineup](PharmaceuticalLabLineup.html) Affirming tradition
