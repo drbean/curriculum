@@ -1,6 +1,8 @@
 % Demonstrating photographer's people skills
 
-For the photos in https://www.ritsumei.ac.jp/gsls/education/faculty/ the photographer must have caught the profs around the department in a good mood.
+For the photos in
+[https://www.ritsumei.ac.jp/gsls/education/faculty/](https://www.ritsumei.ac.jp/gsls/education/faculty/)
+the photographer must have caught the profs around the department in a good mood, while handling the camera competently.
 
 
 Me at
