@@ -9,6 +9,8 @@ The entities responsible for the 'look and feel' of CJK university web pages ran
 
 * [InformalSnapshots](InformalSnapshots.html) Grad school life science profs 
 
+* [YearlyLabPhoto](YearlyLabPhoto.html) From 2016
+
 Me at
 <form action='https://mastodon.sdf.org/@drbean'>
 <button type='submit' class='btn'>
