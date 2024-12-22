@@ -31,6 +31,8 @@ linkcolor: '#4682B4'
 ## Writing about teaching
 
 - [ThePracticeofTeaching](ThePracticeofTeaching.html) List of High-EQ rocket science writings
+- [ResearchingTeaching](ResearchingTeaching.html) Teaching under the microscope
+
 -   [TeachingMethodology](TeachingMethodology.html) How to teach
 -   [SpeakingSyllabus](SpeakingSyllabus.html) How to teach speaking
 -   [WorldAffairsSyllabus](WorldAffairsSyllabus.html)
