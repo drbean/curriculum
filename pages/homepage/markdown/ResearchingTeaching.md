@@ -1,0 +1,14 @@
+% The teacher as researcher.
+
+The teacher wearing a researcher hat
+
+
+Me at
+<form action='https://mastodon.sdf.org/@drbean'>
+<button type='submit' class='btn'>
+<img src='./mastodon.svg'
+alt='https://joinmastodon.org/logos/wordmark-black-text.svg'
+style='width:100px;height:50px'/>
+</button></form>
+
+Back to [HomePage](HomePage.html)
