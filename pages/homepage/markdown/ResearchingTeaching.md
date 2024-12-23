@@ -1,8 +1,13 @@
 % The teacher as researcher.
 
-A teacher wearing a researcher hat?
+#### A teacher wearing a researcher hat?
 
-Or, researchers going into classrooms?
+#### Or, researchers going into classrooms?
+
+[ResearcherTeacherConflict](ResearcherTeacherConflict.html)
+
+Read
+[BeingResearched](BeingResearched.html)
 
 A portal into classroom research.
 
