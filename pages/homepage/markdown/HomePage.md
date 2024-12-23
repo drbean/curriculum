@@ -105,6 +105,8 @@ TODO: under construction
 
 email: drbean [at] freeshell [dot] org
 
+* [ResearchingTeaching](ResearchingTeaching.html) Teaching under the microscope
+
 Me at
 <form action='https://mastodon.sdf.org/@drbean'>
 <button type='submit' class='btn'>

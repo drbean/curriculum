@@ -1,6 +1,10 @@
 % The teacher as researcher.
 
-The teacher wearing a researcher hat
+A teacher wearing a researcher hat?
+
+Or, researchers going into classrooms?
+
+A portal into classroom research.
 
 
 Me at
