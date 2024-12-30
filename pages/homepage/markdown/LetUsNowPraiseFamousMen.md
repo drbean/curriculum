@@ -13,6 +13,8 @@ for failing to recognize
 
 * [ReneDescartes](ReneDescartes.html) Philosopher, mathematician 1596-1650
 
+* [AndrewPlotkin](AndrewPlotkin.html) Interactive fiction, narrative game developer 1970-
+
 Me at
 [Mastodon](https://mastodon.sdf.org/@drbean)	
 
