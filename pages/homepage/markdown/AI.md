@@ -5,6 +5,8 @@ A portal for my understanding of the implications of Artificial Intelligence dev
 
 * [CleverHans](CleverHans.html) And machine learning
 
+* [ConstitutionLaw](ConstitutionLaw.html) Great leap forward, or small step sideways?
+
 Me at
 <form action='https://mastodon.sdf.org/@drbean'>
 <button type='submit' class='btn'>
