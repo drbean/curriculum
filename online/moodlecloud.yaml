@@ -1,13 +1,28 @@
 ---
 fullname: Teach yourself English with Dr Bean
 shortname: date -I ; date --date='27 days' -I
-summary: Learn English while preparing for TOEIC, TOEFL tests
+summary: |+
+  Learn English while preparing for TOEIC, TOEFL tests
+
+  To look around and try the material, login as
+
+  test
+
+  with passwod
+
+  Testing123
+
+  That's 'Testing123' with a capital 'T'
+
+
 participant:
   admin: Ed Min drbean@freeshell.org ********
   drbean: Dr Bean drbean+drbean@freeshell.org ********
+  test: Tess Taker drbean+test@freeshell.org
 course:
   - 
     - toeic
+    - backup-moodle2-course-10-toeic-20241121-1452.mbz
     - backup-moodle2-course-9-toefl-20241026-1400.mbz
     - backup-moodle2-course-10-toeic-20240828-0751.mbz
     - backup-moodle2-course-9-toeic-20240802-1621.mbz
@@ -15,6 +30,7 @@ course:
     - backup-moodle2-course-2-toeic-20210327-0709-nu-nf.mbz
   - 
     - toefl
+    - backup-moodle2-course-9-toefl-20241121-1453.mbz
     - backup-moodle2-course-9-toefl-20241026-1400.mbz
     - backup-moodle2-course-9-toefl-20240828-0750.mbz
     - backup-moodle2-course-10-toefl-20240802-1622.mbz
