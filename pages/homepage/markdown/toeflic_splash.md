@@ -11,8 +11,8 @@ Learn English while preparing for TOEIC, TOEFL tests
 
 Do TOEIC® Speaking and TOEFL® tests! At
 
-* [Teach Yourself TOEIC Speaking](https://estest.moodlecloud.com/course/view.php?id=10)
-* [Teach Yourself TOEFL](https://estest.moodlecloud.com/course/view.php?id=9)
+* [Teach Yourself TOEIC Speaking](toeic.html)
+* [Teach Yourself TOEFL](toefl.html)
 
 Upload Speaking and Writing responses!
 
@@ -36,5 +36,5 @@ That's 'Testing123' with a capital 'T'
 <!-- <p><a href="https://tesest.moodlecloud.com">Do it!</a></p> -->
 <!-- <p><a href="https://tesets.moodlecloud.com">Do it!</a></p> -->
 <!-- <p><a href="https://tesset.moodlecloud.com">Do it!</a></p> -->
-[Do it!](https://tesest.moodlecloud.com)
+[Do it!](cloud.html)
 
