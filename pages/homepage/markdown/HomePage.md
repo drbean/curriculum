@@ -32,7 +32,6 @@ linkcolor: '#4682B4'
 
 - [ThePracticeofTeaching](ThePracticeofTeaching.html) List of High-EQ rocket science writings
 - [ResearchingTeaching](ResearchingTeaching.html) Teaching under the microscope
-
 -   [TeachingMethodology](TeachingMethodology.html) How to teach
 -   [SpeakingSyllabus](SpeakingSyllabus.html) How to teach speaking
 -   [WorldAffairsSyllabus](WorldAffairsSyllabus.html)
@@ -72,7 +71,8 @@ linkcolor: '#4682B4'
 - [TheTeachingConnection](TheTeachingConnection.html) A sense of achievement
 - [SubversionSubmersion](SubversionSubmersion.html) Put down by github
 - [InstallingToot](InstallingToot.html) 4 easy steps
-* [AI](AI.html) A 'hair on fire' moment
+- [AI](AI.html) A 'hair on fire' moment
+- [FakePersona](FakePersona.html) Ed Min and Tess Staker
 
 
 ## Places
