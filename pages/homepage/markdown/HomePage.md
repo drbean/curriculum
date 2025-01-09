@@ -73,7 +73,7 @@ linkcolor: '#4682B4'
 - [InstallingToot](InstallingToot.html) 4 easy steps
 - [AI](AI.html) A 'hair on fire' moment
 - [FakePersona](FakePersona.html) Ed Min and Tess Staker
-
+- [WebCaster3100SV](WebCaster3100SV.html) 誰かにあげたい
 
 ## Places
 
