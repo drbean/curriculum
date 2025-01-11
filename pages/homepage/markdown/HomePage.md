@@ -107,6 +107,8 @@ email: drbean [at] freeshell [dot] org
 
 * [ResearchingTeaching](ResearchingTeaching.html) Teaching under the microscope
 
+* [CodePageUnicodeEquivalents](CodePageUnicodeEquivalents.html) The road to hell is paved with good intentions
+
 Me at
 <form action='https://mastodon.sdf.org/@drbean'>
 <button type='submit' class='btn'>
