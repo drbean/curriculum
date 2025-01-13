@@ -47,6 +47,7 @@ Some attempts to see English wobble, benefiting from conversations on the ##Engl
 * [_WhileAspect_](WhileAspect.html) Wait, while we check your ID, OR while we are checking your ID?
 * [_PassiveFlagging_](PassiveFlagging.html) When is it necessary to add 'by who' to a passive?
 * [_AdjectiveParticleVerb_](AdjectiveParticleVerb.html) How to make an adjective into a verb
+* [LeadPastTense](LeadPastTense.html) 'Read, read, read', but 'lead, led, led'
 
 ##### Modifier
 
