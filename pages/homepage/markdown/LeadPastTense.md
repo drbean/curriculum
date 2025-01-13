@@ -13,7 +13,7 @@ but ddging it, ChatGPT summarized it in August, 2024 as
 'A verb'? Which one? AI lost track of the argument there!
 
 This is an AI
-[CohesionAdherence](CohesionAdherence.html) mistake.
+[CohesionAdhesion](CohesionAdhesion.html) mistake.
 
 I don't see that summary on ddg now.
 
