@@ -74,6 +74,7 @@ linkcolor: '#4682B4'
 - [AI](AI.html) A 'hair on fire' moment
 - [FakePersona](FakePersona.html) Ed Min and Tess Staker
 - [WebCaster3100SV](WebCaster3100SV.html) 誰かにあげたい
+- [CodePageUnicodeEquivalents](CodePageUnicodeEquivalents.html) The road to hell is paved with good intentions
 
 ## Places
 
@@ -104,10 +105,6 @@ TODO: under construction
 :   Hitchhiking
 
 email: drbean [at] freeshell [dot] org
-
-* [ResearchingTeaching](ResearchingTeaching.html) Teaching under the microscope
-
-* [CodePageUnicodeEquivalents](CodePageUnicodeEquivalents.html) The road to hell is paved with good intentions
 
 Me at
 <form action='https://mastodon.sdf.org/@drbean'>
