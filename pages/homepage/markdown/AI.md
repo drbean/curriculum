@@ -2,10 +2,9 @@
 
 A portal for my understanding of the implications of Artificial Intelligence developments
 
-
 * [CleverHans](CleverHans.html) And machine learning
-
 * [ConstitutionLaw](ConstitutionLaw.html) Great leap forward, or small step sideways?
+* [CohesionAdhesion](CohesionAdhesion.html) Is AI following the argument or chiming in?
 
 Me at
 <form action='https://mastodon.sdf.org/@drbean'>
