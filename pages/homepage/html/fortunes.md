@@ -36,6 +36,14 @@ The perfect is the enemy of the good.
 But, my enemy's enemy is my friend.
 Ambition and hubris are my friend.
 %
+My enemy's enemies are my friends.
+But, with friends like these, who
+needs enemies.
+%
+The perfect is the enemy of the good.
+But, with enemies like these, who
+needs friends.
+%
 All's fair in love and war.
 %
 Make love, not war.
@@ -59,14 +67,6 @@ https://quoteinvestigator.com/2021/08/25/plans-hit/
 Plans Are Worthless, But Planning Is Everything
 --Dwight Eisenhower
 https://quoteinvestigator.com/2017/11/18/planning/
-%
-My enemy's enemies are my friends.
-But, with friends like these, who
-needs enemies.
-%
-The perfect is the enemy of the good.
-But, with enemies like these, who
-needs friends.
 %
 One brain and consciousness researcher
 in praise of another\'s experimental skills:
