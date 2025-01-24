@@ -5,7 +5,7 @@ I'm not a python person, so I had to try some things to install the python toot 
 1. pull from the upstream ihabunet/toot github repo,
 2. make clean, to remove previous build config,
 3. make, to build the wheel,
-4. run 'python -n pip install dist/toot-0.45.1.dev4+g89ea460.d20241105-py3-none-any.whl', because pip isn't installed.
+4. run 'python -m pip install dist/toot-0.45.1.dev4+g89ea460.d20241105-py3-none-any.whl', because pip isn't installed.
 
 Me at
 <form action='https://mastodon.sdf.org/@drbean'>
