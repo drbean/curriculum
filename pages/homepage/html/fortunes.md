@@ -44,6 +44,17 @@ The perfect is the enemy of the good.
 But, with enemies like these, who
 needs friends.
 %
+Flip the script: Goodies are baddies,
+baddies are goodies.
+%
+Flip the script: Goodies are baddies,
+baddies are goodies. Bad goodies are
+good baddies and the ugly bad goodies.
+%
+Flip the script: Goodies are baddies,
+baddies are goodies. The ugly are bad
+goodies and others good baddies.
+%
 All's fair in love and war.
 %
 Make love, not war.
