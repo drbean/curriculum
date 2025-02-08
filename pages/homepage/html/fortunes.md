@@ -687,6 +687,9 @@ A: What is the man who invented sex working on now?
 Papert: On computers, the biggest thing since
 reading and writing.
 %
+The generation of random numbers is too important
+to be left to chance.--sdf.org fortune
+%
 He who laughs last has not yet heard
 the bad news. --Bertolt Brecht
 %
