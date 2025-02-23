@@ -1,9 +1,6 @@
 % If at first you don't succeed, ..
 
-How does trial and error align with Lewin's Action Research? Especially, seeing one of his principles was, 'There's nothing as practical as a good theory'. What is trial and error anyway? It seems like it can be used with negative connotations, 'Enough with the trial and error, already, It's not leading to a good result. Try a principled approach, like Response Surface Methodology'
-
-A: After a lot of trial and error, we gave up. It probably wasn't going to work, anyway.
-B: Sour grapes!
+Trial and error's the repeated doing of something despite not being successful, in search of success. It's bottom-up rather than top-down. Which doesn't align with, 'There's nothing as practical as a good theory.' 2/2 #trialanderror #actionresearch
 
 
 Me at

@@ -17,6 +17,8 @@ Wearing the scientist hat taking on self?
 
 * [TrialAndError](TrialAndError.html) Make a mistake, try it you'll like it
 
+* [TrialAndError](TrialAndError.html) Make a mistake, try it you'll like it
+
 Me at
     <form action='https://mastodon.sdf.org/@drbean'>
     <button type='submit' class='btn'>
