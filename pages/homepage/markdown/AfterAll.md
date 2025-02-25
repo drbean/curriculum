@@ -45,4 +45,10 @@ Law students are treated to theory in law school, but they are destined to be de
 
 `The practical question, perhaps, is the extent to which law students, who aspire, *after all*, to being practicing lawyers and who therefore must take courts and judges with special seriousness, should be taught _only_ the "law" as enunciated by the courts.` 
 
+Apparently, "after all" is discussed in
+
+| Elizabeth Closs Traugott. (2022). Ten Lectures on a Diachronic
+| Constructionalist Approach to Discourse Structuring Markers. Leiden:
+| Brill. ISBN 978-90-50690-9
+
 Back to [WobblyEnglish](WobblyEnglish.html)
