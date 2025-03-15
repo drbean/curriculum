@@ -7,6 +7,18 @@ I'm not a python person, so I had to try some things to install the python toot 
 3. make, to build the wheel,
 4. run 'python -m pip install dist/toot-0.45.1.dev4+g89ea460.d20241105-py3-none-any.whl', because pip isn't installed.
 
+New instructions:
+
+1. git clone git@github.com:ihabunek/toot.git
+1. cd toot
+1. python3 -m venv .venv
+1. source .venv/bin/activate
+1. pip install .
+
+Available in .venv/bin/toot
+
+https://github.com/ihabunek/toot/discussions/503
+
 Me at
 <form action='https://mastodon.sdf.org/@drbean'>
 <button type='submit' class='btn'>
