@@ -22,6 +22,7 @@ participant:
 course:
   - 
     - toeic
+    - backup-moodle2-course-10-toeic-20250318-2040.mbz
     - backup-moodle2-course-10-toeic-20250220-2233.mbz
     - backup-moodle2-course-10-toeic-20250122-1700.mbz
     - backup-moodle2-course-10-toeic-20241121-1452.mbz
@@ -32,6 +33,7 @@ course:
     - backup-moodle2-course-2-toeic-20210327-0709-nu-nf.mbz
   - 
     - toefl
+    - backup-moodle2-course-9-toefl-20250318-2039.mbz
     - backup-moodle2-course-9-toefl-20250220-2232.mbz
     - backup-moodle2-course-9-toefl-20250122-1658.mbz
     - backup-moodle2-course-9-toefl-20241121-1453.mbz
@@ -58,12 +60,12 @@ enrolments:
           - enrol_guest|status: Yes (site administration)
           - allow guest access (in 'Show more')
         self enrolments: eye
-    Participants.enrol users:
+    Participants.enrol users
       select:
       assign:
 public: https://github.com/drbean/curriculum/blob/master/online/moodlecloud.yaml
 ---
 # in /sdf/udd/d/drbean/html/.htaccess
-RedirectMatch permanent toeflic/toeic.html https://estest.moodlecloud.com/course/view.php?id=10
-RedirectMatch permanent toeflic/toefl.html https://estest.moodlecloud.com/course/view.php?id=9
-RedirectMatch permanent toeflic/cloud.html https://estest.moodlecloud.com
+RedirectMatch temp toeflic/toeic.html https://etsest.moodlecloud.com/course/view.php?id=10
+RedirectMatch temp toeflic/toefl.html https://etsest.moodlecloud.com/course/view.php?id=9
+RedirectMatch temp toeflic/cloud.html https://etsest.moodlecloud.com
