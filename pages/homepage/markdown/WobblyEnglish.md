@@ -77,6 +77,8 @@ Some attempts to see English wobble, benefiting from conversations on the ##Engl
 
 * [_NumberAgreement_](NumberAgreement.html) Playing fast and loose with number
 
+* [AutoAntonym](AutoAntonym.html) 
+
 Me at
 <form action='https://mastodon.sdf.org/@drbean'>
 <button type='submit' class='btn'>
