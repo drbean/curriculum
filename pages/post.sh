@@ -14,7 +14,7 @@ done
 
 M="$HOME/curriculum/pages/homepage/markdown"
 
-echo % $header > $M/$story.md
+echo % $header >> $M/$story.md
 echo >> $M/$story.md
 while read post ; do 
 	echo $post >> $M/$story.md
