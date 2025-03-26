@@ -28,7 +28,7 @@ linkcolor: '#4682B4'
 
 <!-- end of list -->
 
-## Writing about teaching
+## About teaching
 
 - [ThePracticeofTeaching](ThePracticeofTeaching.html) List of High-EQ rocket science writings
 - [ResearchingTeaching](ResearchingTeaching.html) Teaching under the microscope
