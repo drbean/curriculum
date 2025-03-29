@@ -2,14 +2,13 @@
 
 How good is the picture I form of 'you'?
 
-Because 'you' is out there, but in the mind, behind the bone curtain, a confusion of complicated impulses and motivations, represented by language (a blunt weapon), lack of candor and kayfabe poses.
+It's difficult, because 'you' is out there, but in the mind, behind the bone curtain, a confusion of complicated impulses and motivations, represented by language (a blunt instrument), lack of candor and kayfabe postures.
 
-And my drawing of the picture 'you' present is limited by my prejudices and lack of EQ.
+And my drawing of the picture 'you' present is limited by my boneheadedness, wishful thinking and inadequate EQ.
 
 Compare and contrast with the picture I have of people on the Internet and of me represented to me by my self-image.
 
-
-* [JohariWindow](JohariWindow.html) Self-image analysis
+Interfacing the [JohariWindow](JohariWindow.html) for self-image analysis with the window on 'you'.
 
 Me at
 <form action='https://mastodon.sdf.org/@drbean'>
