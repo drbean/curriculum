@@ -1,0 +1,31 @@
+% Double meaning of agent
+
+'agent' means either a doer or actor with some amount of free will or control over events within a context, or alternatively an entity controlled by a principal, but with some degree of independence.
+[https://en.wiktionary.org/wiki/agent](https://en.wiktionary.org/wiki/agent)
+doesn't recognize any tension between the meanings.
+
+Compare and contrast the meanings.
+
+A Mail User Agent is your email app. A Mail Transfer Agent is what moves the email between mail servers. In which sense is 'agent' being used? The first sense, rather than the second, perhaps? Or, both?
+
+There is a commonality between the 2 meanings, but is it autonomy, varying in degree? Before, a sense of ambiguity was not felt, I guess.
+
+A duplicitous agent, actually
+[double agent](https://en.wikipedia.org/wiki/Double_agent)
+is a [secret agent](https://en.wikipedia.org/wiki/Espionage)
+who one side believes is working for them against an adversary,
+but is actually working for the other side, or themselves,
+against them.
+
+Read [AgainstAgency](AgainstAgency.html)
+
+Me at
+    <form action='https://mastodon.sdf.org/@drbean'>
+    <button type='submit' class='btn'>
+    <img src='./mastodon.svg'
+        alt='https://joinmastodon.org/logos/wordmark-black-text.svg'
+        style='width:100px;height:50px'/>
+    </button></form>
+    
+* Back to [AgainstAgency](AgainstAgency.html)
+* Back to [AutoAntonym](AutoAntonym.html)
