@@ -15,7 +15,7 @@ for failing to recognize
 
 * [AndrewPlotkin](AndrewPlotkin.html) Interactive fiction, narrative game developer 1970-
 
-* [FerdinandDeLesseps](FerdinandDeLesseps.html) Suez Canal builder and father of 17
+* [FerdinanddeLesseps](FerdinanddeLesseps.html) Suez Canal builder and father of 17, 1805-1894
 
 Me at
 [Mastodon](https://mastodon.sdf.org/@drbean)	
