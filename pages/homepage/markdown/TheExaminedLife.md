@@ -10,3 +10,8 @@ Q: How good is the picture I form of 'you'?
 
 A: The answer is drawn from
 [MyPictureOfYou](MyPictureOfYou.html)
+
+Q: Is self-confidence a good thing?
+
+A: Feeling that you have agency and that you are in control may be misleading you, especially if you are unskilled and not in control. See
+[SelfEfficacy](SelfEfficacy.html).
