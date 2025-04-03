@@ -1,6 +1,14 @@
 % Double meaning of agent
 
-'agent' means either a doer or actor with some amount of free will or control over events within a context, or alternatively an entity controlled by a principal, but with some degree of independence.
+In what sense are
+[intelligent agents](https://en.wikipedia.org/wiki/Intelligent_agent)
+agents?
+
+'agent' means either
+
+- 1) a doer or actor with some amount of free will or control over events within a context, or alternatively
+- 2) an entity controlled by a principal, but with some degree of independence.
+
 [https://en.wiktionary.org/wiki/agent](https://en.wiktionary.org/wiki/agent)
 doesn't recognize any tension between the meanings.
 
@@ -27,5 +35,5 @@ Me at
         style='width:100px;height:50px'/>
     </button></form>
     
-* Back to [AgainstAgency](AgainstAgency.html)
+* Back to [AI](AI.html)
 * Back to [AutoAntonym](AutoAntonym.html)
