@@ -17,6 +17,11 @@
 
 perl is the winner!
 
+A nicer bash way is
+
+    drbean@ESPRIMO ~/dot
+    $ x=($(yes 10 | head -n 4 | tr '\n' ' '))
+
 Me at
     <form action='https://mastodon.sdf.org/@drbean'>
     <button type='submit' class='btn'>
