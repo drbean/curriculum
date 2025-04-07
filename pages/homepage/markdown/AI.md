@@ -3,6 +3,7 @@
 A portal for my understanding of the implications of Artificial Intelligence developments
 
 * [CleverHans](CleverHans.html) And machine learning
+* [DuplicitousAgent](DuplicitousAgent.html) What is an 'agent'?
 * [ConstitutionLaw](ConstitutionLaw.html) Great leap forward, or small step sideways?
 * [CohesionAdhesion](CohesionAdhesion.html) Is AI following the argument or chiming in?
 
