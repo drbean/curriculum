@@ -25,6 +25,10 @@ who one side believes is working for them against an adversary,
 but is actually working for the other side, or themselves,
 against them.
 
+Compare with the [principal-agent problem](https://en.wikipedia.org/wiki/Principal%E2%80%93agent_problem) describing the conflict of interests involved in the second sense.
+
+But the AI community wants to call its AI apps 'agents'? Is it aware of the slippery slope it is placing AI on?
+
 Read [AgainstAgency](AgainstAgency.html)
 
 Me at
