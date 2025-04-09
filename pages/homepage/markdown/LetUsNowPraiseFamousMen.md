@@ -17,6 +17,8 @@ for failing to recognize
 
 * [FerdinanddeLesseps](FerdinanddeLesseps.html) Suez Canal builder and father of 17, 1805-1894
 
+* [JohnSearle](JohnSearle.html) AI skeptic, promoter of Chinese Room
+
 Me at
 [Mastodon](https://mastodon.sdf.org/@drbean)	
 
