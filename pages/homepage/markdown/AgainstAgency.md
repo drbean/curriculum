@@ -34,11 +34,31 @@ The Wikipedia article says that defining AI in terms of agents:
 * Creates a common language for collaboration with
   mathematical optimization and economics researchers.
 
-I don't think these are real benefits. I agree purpose and 
-goals are important. They're fundamental to what computer 
-processes are achieving. But ascribing agency to mechanical 
-processes to handle their purpose and goals is unnecessary 
-and a mistake.
+I don't think treating AI as agents does any of these 
+things, and even if it does they're not real benefits. I 
+agree purpose and goals are important.  They're fundamental 
+to what computer processes are achieving. But ascribing 
+agency to mechanical processes to handle their purpose and 
+goals is unnecessary and a mistake.
+
+People have tools. They have goals using these tools. Tools 
+are created with a purpose in mind. People use the tools to 
+some end.
+
+The tools have a use, meaning they are useful. But they 
+don't have goals. Their use has a purpose, but the purpose 
+is the user's not the tool's. Actions with the tool have a 
+purpose. There is a reason for the action. It is the reason 
+the tool is used.
+
+The purpose of the hammer is to hammer nails into wood, but
+
+"When all you have is a hammer, 
+everything looks like a 
+nail."
+r
+It is a truth not universally acknowledged, but as the gun lobby says, Guns don't kill people, people kill 
+people.
 
 Agency as a framework for understanding AI is unhelpful.  
 Rather than attacking agency head on, I'm going to attack 
