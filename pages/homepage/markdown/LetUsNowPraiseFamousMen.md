@@ -10,14 +10,11 @@ was about (it was about poor sharecroppers during the Depression, so an ironic t
 for failing to recognize
 [LASS](http://en.wikipedia.org/wiki/LASS)
 * [DorothyParker](DorothyParker.html) Poet, writer 1893-1967
-
 * [ReneDescartes](ReneDescartes.html) Philosopher, mathematician 1596-1650
-
 * [AndrewPlotkin](AndrewPlotkin.html) Interactive fiction, narrative game developer 1970-
-
 * [FerdinanddeLesseps](FerdinanddeLesseps.html) Suez Canal builder and father of 17, 1805-1894
-
 * [JohnSearle](JohnSearle.html) AI skeptic, promoter of Chinese Room
+* [JaneAusten](JaneAusten.html) 'A truth universally acknowledged ..'
 
 Me at
 [Mastodon](https://mastodon.sdf.org/@drbean)	
