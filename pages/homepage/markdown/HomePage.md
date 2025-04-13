@@ -107,7 +107,7 @@ TODO: under construction
 
 email: drbean [at] freeshell [dot] org
 
-Me at
+Me at <a rel="me" href="https://mastodon.sdf.org/@drbean">Mastodon</a>
 <form action='https://mastodon.sdf.org/@drbean'>
 <button type='submit' class='btn'>
 <img src='./mastodon.svg'
