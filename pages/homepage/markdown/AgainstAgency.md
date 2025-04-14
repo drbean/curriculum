@@ -21,6 +21,19 @@ it's the thermostat's goal, or that the thermostat has
 goals, rather than uses or a purpose, giving them 
 capabilities that living things have?
 
+As a general principle, it is not necessary to propose a 
+purpose or reason to explain something. 
+
+    A: Why is he running up the stairs?
+    B: He always runs up stairs (on other occasions and 
+    other stairs)
+
+B's explanation is a good explanation. Many explanations in 
+science saying how something is consistent with or the 
+result of a more general principle are like this, aren't 
+they. Avoiding teleological arguments about goals is one 
+aim.
+
 And this agency, is that in the first or 
 second sense of [DuplicitousAgent](DuplicitousAgent.html)?
 I think proposing intelligent agents, they mean the first 
