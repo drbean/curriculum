@@ -18,8 +18,8 @@ control mechanism as an agent with goals? The goal of a
 thermostat is to keep a temperature constant. But is that 
 the thermostat's goal or the goal of its users? Isn't saying 
 it's the thermostat's goal, or that the thermostat has 
-goals, rather than uses or a purpose, giving them capabilities that 
-living things have?
+goals, rather than uses or a purpose, giving them 
+capabilities that living things have?
 
 And this agency, is that in the first or 
 second sense of [DuplicitousAgent](DuplicitousAgent.html)?
@@ -28,15 +28,18 @@ sense, doers rather than helpers.
 
 The Wikipedia article says that defining AI in terms of agents:
 
-* Avoids philosophical debate about the Turing test and Searle's 
-  Chinese Room.
+* Avoids philosophical debate about the Turing test and
+[Searle's Chinese Room.](JohnSearle.html)
 * Allows testing of how well a goal is achieved.
 * Creates a common language for collaboration with
   mathematical optimization and economics researchers.
 
 I don't think treating AI as agents does any of these 
-things, and even if it does they're not real benefits. I 
-agree purpose and goals are important.  They're fundamental 
+things, and giving people (real agents) and their AI tools 
+the same status is bizarre, more appropriate for science 
+fiction than scientific fact.
+
+I agree purpose and goals  are important.  They're fundamental 
 to what computer processes are achieving. But ascribing 
 agency to mechanical processes to handle their purpose and 
 goals is unnecessary and a mistake.
@@ -46,21 +49,69 @@ are created with a purpose in mind. People use the tools to
 some end.
 
 The tools have a use, meaning they are useful. But they 
-don't have goals. Their use has a purpose, but the purpose 
-is the user's not the tool's. Actions with the tool have a 
-purpose. There is a reason for the action. It is the reason 
-the tool is used.
+don't have goals. 'The goal of a tool' means its use has a 
+purpose, but the purpose is the user's not the tool's. 
+Actions with the tool have a purpose. There is a reason for 
+the action. It is the reason the tool is used.
 
 The purpose of the hammer is to hammer nails into wood, but
 
-"When all you have is a hammer, 
-everything looks like a 
-nail."
-r
-It is a truth not universally acknowledged, but as the gun lobby says, Guns don't kill people, people kill 
-people.
+    When all you have is a hammer, everything looks like a nail.
+
+I think that's relevant to purpose and agency. When you 
+are using the hammer for another purpose, your purpose, 
+without realizing it's not the purpose for which tool makers 
+intended it to be used, you're liable to make mistakes.
+
+Rather than using the hammer this way without thought about 
+purpose, be very clear about your purpose, and how the way 
+you want to use it is compatible or not with the way it is 
+designed to be used.
+
+Think of using a hammer to put bottle caps on beer bottles 
+when you don't have a bottle cap applicator. Without thought 
+about purpose, you bring down the hammer with some force on the cap, 
+breaking the bottle, instead of just giving it a light tap.
+
+Our tools do our thinking for us, but we shouldn't let them do that.
+
+Is the AI community falling into the trap somehow, of thinking 
+their apps with purposes have agency?
+
+It is a truth not universally acknowledged, but as the gun 
+lobby says,
+
+    Guns don't kill people, people kill people.
+
+That doesn't mean everyone should have access to guns. It 
+means it's important to distinguish who/what has the purpose, the 
+tool or you.
+
+Don't let your tools do your thinking for you. A tool is a 
+means to an end, the goal or purpose of the tool, not an end 
+in itself.
+
+I don't understand how the AI community can believe agency
+for their apps is the right approach.
+
+Whose interests are served by apps having agency?
+Don't obey/welcome our new overlords, Big Tech and AI.
+
+In a curious reversal of agency for AI apps,
+Frankenstein's monster, as distinct from an AI app, had 
+agency as portrayed in the story by Wollstonecraft, but his 
+identification with his creator by the use of the 
+Frankenstein name for him denies this agency in the present 
+day.
+
+AI community, be warned.
+
+Compare and contrast with the problem of
+agency and [EvolutionaryGoals](EvolutionaryGoals.html).
 
 Agency as a framework for understanding AI is unhelpful.  
+Associating apps with 
+Not making the distinction 
 Rather than attacking agency head on, I'm going to attack 
 the problem of goals. The argument is going to be one from 
 analogy. 
@@ -168,7 +219,7 @@ surprised rather than relieved when their partners tell them
 they are pregnant. They may want children, but 
 it is not the reason they are sexually active.
 
-Although some men apparently do have sex because they want 
+Although the reason some men apparently do have sex is because they want 
 children. [Ferdinand_de_Lesseps](Ferdinand_de_Lesseps.html) 
 for example had 12 children in the 15 years between the ages 
 of 65 and 80, before dying 9 years later at the age of 89.
@@ -184,11 +235,7 @@ species is mirrored in the mistake of ascribing
 goals and agency to AI apps.
 
 
-Frankenstein's monster
 running up stairs explanation
-
-Whose interests are served?
-Don't obey/welcome our new overlords, Big Tech and AI.
 
 % 
 
