@@ -119,8 +119,12 @@ day.
 
 AI community, be warned.
 
+"Many of the truths we cling to depend 
+greatly upon our own point of view." 
+--Obi Wan Kenobi
+
 Compare and contrast with the problem of
-agency and [EvolutionaryGoals](EvolutionaryGoals.html).
+agency in [OnEvolution](OnEvolution.html).
 
 Me at
     <form action='https://mastodon.sdf.org/@drbean'>
