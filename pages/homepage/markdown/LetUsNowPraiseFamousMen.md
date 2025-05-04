@@ -16,6 +16,8 @@ for failing to recognize
 * [JohnSearle](JohnSearle.html) AI skeptic, promoter of Chinese Room
 * [JaneAusten](JaneAusten.html) 'A truth universally acknowledged ..'
 
+* [ImmanuelKant](ImmanuelKant.html) 1724-1804 Immensely ponderous, but influential, systematic thinker
+
 Me at
 [Mastodon](https://mastodon.sdf.org/@drbean)	
 
