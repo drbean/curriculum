@@ -15,8 +15,7 @@ for failing to recognize
 * [FerdinanddeLesseps](FerdinanddeLesseps.html) Suez Canal builder and father of 17, 1805-1894
 * [JohnSearle](JohnSearle.html) AI skeptic, promoter of Chinese Room
 * [JaneAusten](JaneAusten.html) 'A truth universally acknowledged ..'
-
-* [ImmanuelKant](ImmanuelKant.html) 1724-1804 Immensely ponderous, but influential, systematic thinker
+* [ImmanuelKant](ImmanuelKant.html) Immensely ponderous, but influential, systematic thinker 1724-1804
 
 Me at
 [Mastodon](https://mastodon.sdf.org/@drbean)	
