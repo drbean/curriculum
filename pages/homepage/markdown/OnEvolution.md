@@ -119,6 +119,13 @@ behind the self-replication of groups as they persist,
 proliferate or contract. The process just is. No why, just a 
 thing.
 
+Groups may benefit from the persistence, proliferation or 
+contraction from other groups. But this is not a search for
+the beneficiaries of persistence, proliferation or 
+contraction. It is a search on a more abstract level for an 
+agent that benefits from the self-replication process 
+itself, and of having life as we know it exist.
+j
 The basis for the is not because of the first's greater desire or greater ability to read the climate of the times.
 
 The role of population variability in natural selection is?
