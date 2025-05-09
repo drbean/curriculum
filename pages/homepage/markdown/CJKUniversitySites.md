@@ -7,6 +7,7 @@ The entities responsible for the 'look and feel' of CJK university web pages ran
 * [PortraitPhotography](PortraitPhotography.html) 100 CompSci profs pose
 * [InformalSnapshots](InformalSnapshots.html) Grad school life science profs 
 * [YearlyLabPhoto](YearlyLabPhoto.html) From 2016
+* [SittingNextToProf](SittingNextToProf.html) How to avoid 'rubbing shoulders'
 
 Me at
 <form action='https://mastodon.sdf.org/@drbean'>
