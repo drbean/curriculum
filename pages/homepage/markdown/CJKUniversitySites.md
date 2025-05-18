@@ -10,6 +10,8 @@ The entities responsible for the 'look and feel' of CJK university web pages ran
 * [SittingNextToProf](SittingNextToProf.html) How to avoid 'rubbing shoulders'
 * [PhotographersNotWelcomeHere](PhotographersNotWelcomeHere.html) Caught at a bad moment?
 
+* [FacialSketch](FacialSketch.html) Prof having fun?
+
 Me at
 <form action='https://mastodon.sdf.org/@drbean'>
 <button type='submit' class='btn'>
