@@ -134,4 +134,4 @@ Me at
         style='width:100px;height:50px'/>
     </button></form>
     
-Back to [AI]repolo(AI.html)
+Back to [AI](AI.html)
