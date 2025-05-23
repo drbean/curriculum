@@ -109,53 +109,32 @@ out, this process is interrupted.
 
 The ultimate causes will be those explored by evolutionary 
 biologists. But rather than a search for an ultimate cause, 
-we want to search for a beneficiary, the agent or actor with objectives whose interests are or are not served by having a group die out, or alternatively by having it continue.
+we want to search for a beneficiary, the agent or actor with 
+objectives whose interests are or are not served by having 
+groups die out, or alternatively by having them continue.
 
 The theory of evolution is saying we don't need 
 agency to explain whether groups prevail or die out.
 
 I don't think there is such an agent. There is no purpose 
 behind the self-replication of groups as they persist, 
-proliferate or contract. The process just is. No why, just a 
-thing.
+proliferate or contract. The process just is. It exists. 
+No why, just a thing.
 
 Groups may benefit from the persistence, proliferation or 
-contraction from other groups. But this is not a search for
+contraction of their own or other groups, because of their 
+greater desire or greater ability to read the climate of the 
+times. But this search for a beneficiary is not a search for 
 the beneficiaries of persistence, proliferation or 
 contraction. It is a search on a more abstract level for an 
-agent that benefits from the self-replication process 
-itself, and of having life as we know it exist.
-j
-The basis for the is not because of the first's greater desire or greater ability to read the climate of the times.
+agent that benefits from the species' self-replication 
+process itself, and of having life as we know it exist.
 
-The role of population variability in natural selection is?
-
-Cause types: https://en.wikipedia.org/wiki/Proximate_and_ultimate_causation
-https://plato.stanford.edu/entries/aristotle-causality/#FourCauses
-
-I think the problem biology has defining 
-['species'](http://en.wikipedia.org/wiki/species) is 
-connected to this confusion. Are species real or do they 
-exist in name only as imagined concepts like imaginary 
-numbers, or even just the abstract concept of number, perhaps?
-
-Deciding AI apps have agency is the same kind of mistake.
-
-Incidentally, I thought the Shakespeare family line had 
-disappeared, but [famous Shakespeares on 
-Wikipedia](https://en.wikipedia.org/wiki/Shakespeare_(surname)) 
-shows it alive and well.
-
-The disappearance of family lines does not indicate those 
-lines were failures. It only indicates that there was a last 
-surviving male member. By definition, this member did not have 
-any male children, but a female member might have continued 
-a line of matrilineal descent.
-
+But what benefit do groups draw from their persistence?
 I want to argue that the attention a proliferating species 
 gets at the expense of one that disappears, and the mistaken 
 idea that evolutionary change has goals, together lead to the 
-idea that the proliferating species has the goal of 
+idea that a proliferating species has the goal of 
 self-preservation, that it has it to a greater degree than the 
 disappearing species and that it is more successful at achieving 
 that goal.
@@ -163,23 +142,59 @@ that goal.
 I think that's a mistake. Self-replication by instances is 
 just something the species does. Making lots of copies of 
 itself leads to self-preservation of the species/population, 
-but self-preservation is not a goal of the species. It is 
+but self-preservation is arguably not a goal of the species. It is 
 just a consequence of the replication and big population.
 Inferring goals requires more than a cause and effect 
 relationship, as the theory of evolution, which is not 
 goal-oriented, shows. There needs to be a context of 
 interaction over time.
 
-Leaving aside the question whether species have the goal of 
-self-replication through (a)sexual reproduction of their 
-instances, what about individuals?  People have goals. They 
-have ideas about how to reach them and engage in trial and 
-error to reach them.  But what about the sexual activity 
-responsible for preservation of the species? People have a 
-drive to engage in sex, but specifically for men do they 
-have goals they seek to attain through sexual intercourse? 
-Does a means-end analysis help us understand their sexual 
-activity?
+Deciding
+[AI apps have agency](AgainstAgency.html)
+is the same kind of mistake.
+
+The disappearance of family lines does not indicate those 
+lines were failures. It only indicates that there was a last 
+surviving male member. By definition, this member did not have 
+any male children, but a female member might have continued 
+a line of matrilineal descent.
+
+The Shakespeare family line disappeared, after producing 
+William Shakespeare. Does this mean the family line was a 
+failure? Was it its intention that it not disappear?
+
+[ I thought the Shakespeare family line had 
+    disappeared, but [famous Shakespeares on 
+    Wikipedia](https://en.wikipedia.org/wiki/Shakespeare_(surname)) 
+    shows it alive and well.  ]
+
+Assuming for the sake of argument that species do not have 
+the goal of persistence by means of self-replication through 
+(a)sexual reproduction of their instances, this creates an 
+anomaly. Species may not have goals, but what about 
+individuals?  People have goals. They have ideas about how 
+to reach them and engage in trial and error to reach them. 
+Self-preservation is a goal for most. A more striking 
+anomaly is raised by the sexual activity responsible for 
+preservation of the species? How can it not be the goal of 
+the group to persist if sex is such an important part of 
+life for people? Its biological function is to ensure the 
+self-persistence of the group.
+
+Assuming for the moment that homo sapiens does not have as a 
+goal its self-persistence, let us consider the role of sex 
+in human life and its implications for individual and 
+species goals. What are the goals of people in the area of 
+sex? People have a drive to engage in sex, but specifically 
+for men do they have goals they seek to attain through 
+sexual intercourse?  Does a means-end analysis help us 
+understand their sexual activity?
+
+I think the problem biology has defining 
+['species'](http://en.wikipedia.org/wiki/species) is 
+connected to this confusion. Are species real or do they 
+exist in name only as imagined concepts like imaginary 
+numbers, or even just the abstract concept of number, perhaps?
 
 Listing possible goals:
 
@@ -246,12 +261,6 @@ of ascribing purpose to evolution and perhaps goals to
 species is mirrored in the mistake of ascribing
 goals and agency to AI apps.
 
-
-running up stairs explanation
-
-% 
-
-
 Me at
     <form action='https://mastodon.sdf.org/@drbean'>
     <button type='submit' class='btn'>
@@ -260,4 +269,4 @@ Me at
         style='width:100px;height:50px'/>
     </button></form>
     
-Back to [AI]repolo(AI.html)
+Back to [AI](AI.html)
