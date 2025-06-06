@@ -67,8 +67,10 @@ Non-Alignment puts it, it's impossible for people from
 different cultures to understand each other, because 
 intentions, motivations and feelings are never aligned.
 
-Read about my own AI skepticism at
+* Read about my own AI skepticism at
 [AI](AI.html)
+* Read about the minds (sentience) of lower life forms according to other philosophers at
+[AnimalSentience](AnimalSentience.html)
 
 Me at
     <form action='https://mastodon.sdf.org/@drbean'>
