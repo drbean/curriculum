@@ -22,6 +22,7 @@ participant:
 course:
   - 
     - toeic
+    - backup-moodle2-course-10-toeic-20250608-1628.mbz
     - backup-moodle2-course-10-toeic-20250511-1711.mbz
     - backup-moodle2-course-10-toeic-20250413-2047.mbz
     - backup-moodle2-course-10-toeic-20250318-2040.mbz
@@ -35,6 +36,7 @@ course:
     - backup-moodle2-course-2-toeic-20210327-0709-nu-nf.mbz
   - 
     - toefl
+    - backup-moodle2-course-9-toefl-20250607-1647.mbz
     - backup-moodle2-course-9-toefl-20250511-1710.mbz
     - backup-moodle2-course-9-toefl-20250413-2047.mbz
     - backup-moodle2-course-9-toefl-20250318-2039.mbz
@@ -70,6 +72,6 @@ enrolments:
 public: https://github.com/drbean/curriculum/blob/master/online/moodlecloud.yaml
 ---
 # in /sdf/udd/d/drbean/html/.htaccess
-RedirectMatch temp toeflic/toeic.html https://sestet.moodlecloud.com/course/view.php?id=10
-RedirectMatch temp toeflic/toefl.html https://sestet.moodlecloud.com/course/view.php?id=9
-RedirectMatch temp toeflic/cloud.html https://sestet.moodlecloud.com
+RedirectMatch temp toeflic/toeic.html https://etsest.moodlecloud.com/course/view.php?id=10
+RedirectMatch temp toeflic/toefl.html https://etsest.moodlecloud.com/course/view.php?id=9
+RedirectMatch temp toeflic/cloud.html https://etsest.moodlecloud.com
