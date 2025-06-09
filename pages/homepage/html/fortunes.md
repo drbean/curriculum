@@ -543,6 +543,7 @@ force meets the immovable object.
 %
 No mind? No matter.
 No matter? Never mind.
+--https://quoteinvestigator.com/2012/12/04/those-who-mind/
 %
 How are then and now?
 Now and then.
