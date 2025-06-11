@@ -16,6 +16,7 @@ linkcolor: '#4682B4'
 
 - [AcademicEditingService](AcademicEditingService.html)
 - [TOEFL® and TOEIC® Speaking Test site](toeflic)
+- [ドクター・ビーン英語教室](EigoKyoushitsu.html) Under construction
 
 <!-- end of list -->
 
@@ -58,6 +59,7 @@ linkcolor: '#4682B4'
 
 ## Language, Communication
 
+- [MemorializingMemory](MemorializingMemory.html) Lest We Forget memory
 - [WobblyEnglish](WobblyEnglish.html) Language isn't logical
 - [HumorMyHumors](HumorMyHumors.html) Levity is the soul of wit
 - [InterNet](InterNet.html) Is the Internet on? Are we on the line?
@@ -106,8 +108,6 @@ TODO: under construction
 :   Hitchhiking
 
 email: drbean [at] freeshell [dot] org
-
-* [RememberMemory](RememberMemory.html) Those were the days
 
 Me at <a rel="me" href="https://mastodon.sdf.org/@drbean">Mastodon</a>
 <form action='https://mastodon.sdf.org/@drbean'>
