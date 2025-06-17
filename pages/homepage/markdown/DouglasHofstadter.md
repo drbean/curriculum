@@ -1,12 +1,17 @@
 % An undisciplined (ie, creative) mind
 
 In [Analogy as the Core of Cognition](http://worrydream.com/refs/Hofstadter%20-%20Analogy%20as%20the%20Core%20of%20Cognition.pdf),
-Hofstadter touches on many things besides analogy, including his translation of Eugene Onegin and what he has learned about language from learning foreign languages.
- 
-To see meaning in events or language, is to see analogy with remembered events. To understand expressions common to, and used across, different situations is to recognize the analogy between the different situations. 'A concept is a package of analogies.'
+Hofstadter touches on many things besides analogy, including his translation of Eugene Onegin and what he has learned about language from learning foreign languages. Summarizing,
 
-Analogy is the handmaiden of thought which involves 'pull[ing things] like a fish out of the deep, dark brine of dormant memory.'
+    To see meaning in events or language, is to see analogy with remembered events. To understand expressions common to, and used across, different situations is to recognize the analogy between the different situations. 'A concept is a package of analogies.'
 
+Analogy is the handmaiden of thought.
+
+    It involves 'pull[ing things] like a fish out of the deep, dark brine of dormant memory.'
+
+Read a 
+[CloseEncounterWithAnalogousMind](CloseEncounterWithAnalogousMind.html)
+his experience of a feeling evoking a memory of an event quite different to the one he was participating in.
 
 Me at
     <form action='https://mastodon.sdf.org/@drbean'>
