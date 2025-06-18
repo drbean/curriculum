@@ -1,24 +1,20 @@
-% An undisciplined (ie, creative) mind
+% From 'AI researcher' in 1977 to 'cognitive science researcher' now
 
-In [Analogy as the Core of Cognition](http://worrydream.com/refs/Hofstadter%20-%20Analogy%20as%20the%20Core%20of%20Cognition.pdf),
-Hofstadter touches on many things besides analogy, including his translation of Eugene Onegin and what he has learned about language from learning foreign languages. Summarizing,
+Descriptions of his famous 1979 book, 「Gödel, Escher, Bach」never led me to an interest in investigating his ideas, but I became a believer reading about the central role he saw for analogy in thinking[^1]
 
-    To see meaning in events or language, is to see analogy with remembered events. To understand expressions common to, and used across, different situations is to recognize the analogy between the different situations. 'A concept is a package of analogies.'
+See
+[CognitionAnalogyCore](CognitionAnalogyCore.html)
 
-Analogy is the handmaiden of thought.
+Link^[From a link in a footnote to a blog article describing mechanistic interpretability study of his and Melanie Mitchell's Copycat, "abc is to abb as xyz is to ???"] 
 
-    It involves 'pull[ing things] like a fish out of the deep, dark brine of dormant memory.'
-
-Read a 
-[CloseEncounterWithAnalogousMind](CloseEncounterWithAnalogousMind.html)
-his experience of a feeling evoking a memory of an event quite different to the one he was participating in.
+[^1]: In an article about mechanistic interpretability of Copycat^[ [https://www.lesswrong.com/posts/fjcL3XqmcJNn8AzuA/mechanistic-interpretability-of-llm-analogy-making](https://www.lesswrong.com/posts/fjcL3XqmcJNn8AzuA/mechanistic-interpretability-of-llm-analogy-making) ]
 
 Me at
     <form action='https://mastodon.sdf.org/@drbean'>
     <button type='submit' class='btn'>
     <img src='./mastodon.svg'
         alt='https://joinmastodon.org/logos/wordmark-black-text.svg'
-        style='width:100px;height:50px'/>
+        style='width:90px;height:25px'/>
     </button></form>
     
 Back to [LetUsNowPraiseFamousMen](LetUsNowPraiseFamousMen.html)

@@ -16,9 +16,14 @@ for failing to recognize
 * [JohnSearle](JohnSearle.html) AI skeptic, promoter of Chinese Room
 * [JaneAusten](JaneAusten.html) 'A truth universally acknowledged ..'
 * [ImmanuelKant](ImmanuelKant.html) Immensely ponderous, but influential, systematic thinker 1724-1804
-* [DouglasHofstadter](DouglasHofstadter.html) 「 Gödel, Escher, and Bach 」author 1945-
+* [DouglasHofstadter](DouglasHofstadter.html) 「 Gödel, Escher, and Bach 」author, analogist 1945-
 
 Me at
-[Mastodon](https://mastodon.sdf.org/@drbean)	
-
+    <form action='https://mastodon.sdf.org/@drbean'>
+    <button type='submit' class='btn'>
+    <img src='./mastodon.svg'
+        alt='https://joinmastodon.org/logos/wordmark-black-text.svg'
+        style='width:75px;height:25px'/>
+    </button></form>
+    
 Back to [HomePage](HomePage.html)
