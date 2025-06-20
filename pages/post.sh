@@ -16,9 +16,7 @@ M="$HOME/curriculum/pages/homepage/markdown"
 
 echo % $header >> $M/$story.md
 echo >> $M/$story.md
-while read post ; do 
-	echo $post >> $M/$story.md
-done
+read post ; echo $post >> $M/$story.md
 echo -e "\n\nMe at
 <form action='https://mastodon.sdf.org/@drbean'>
 <button type='submit' class='btn'>
