@@ -97,15 +97,6 @@ In the US, Lifeguard: 'Everyone out
 of the pool,' people start arguing.
 http://drbean.sdf.org/ACanadianInNYC
 %
-'I think, therefore I am' could only
-be the statement of an intellectual
-who doesn't understand toothaches.
---Milan Kundera
-%
-Dr Bean: We are born helpless and clinging.
-No wonder we are everywhere in chains.
-Jean-Jacques Rousseau: Et toi?
-%
 All teaching is teaching 
 under difficult circumstances.
 --Dr Bean
@@ -233,6 +224,15 @@ To be is to do-- Voltaire
 Do be do be do-- Frank Sinatra
 Men's Restrooms, Greasewood Flats, Scottsdale
 https://quoteinvestigator.com/2013/09/16/do-be-do/
+%
+'I think, therefore I am' could only
+be the statement of an intellectual
+who doesn't understand toothaches.
+--Milan Kundera
+%
+Dr Bean: We are born helpless and clinging.
+No wonder we are everywhere in chains.
+Jean-Jacques Rousseau: Et toi?
 %
 Failed to turn my reluctant students into
 autonomous language learners, but it did
