@@ -666,6 +666,11 @@ Every dog leaves its mark. But,
 if I did not see further, it was
 because of anklebiters--Dr Bean
 %
+You can almost live on bread alone.
+%
+Man can live on bread (sandwiches) alone.
+Until marriage.
+%
 Why I am not a vegetarian--
 Biology trumps ideology.
 --Dr Bean
