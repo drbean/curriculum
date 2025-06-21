@@ -219,6 +219,9 @@ done by monkeys.
 Teaching: The last refuge of the manipulative.
 --Dr Bean
 %
+Putting Descartes before the horse
+--McGonigle & Chalmers and Briggle
+"
 To do is to be-- Descartes
 To be is to do-- Voltaire
 Do be do be do-- Frank Sinatra
