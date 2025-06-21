@@ -326,6 +326,23 @@ People don't know what they say or what they
 think they ought to say.--Leonard Bloomfield, 
 quoted by Virginia McDavid
 %
+You can almost live on bread alone.
+%
+Man can live on bread (sandwiches) alone.
+Until marriage.
+%
+Why I am not a vegetarian--
+Biology trumps ideology.
+--Dr Bean
+%
+Why I am a vegetarian: I have no problem with
+dogs eating meat, but the idea of a meat-eating
+monkey is unacceptable. --Dr Bean
+%
+Why I am a vegetarian: I have no problem with
+dogs eating meat, but I cannot accept the idea
+of monkeys eating meat. --Dr Bean
+%
 The spirit is willing, but the
 flesh has its own program.
 %
@@ -665,23 +682,6 @@ Every dog leaves its mark.
 Every dog leaves its mark. But,
 if I did not see further, it was
 because of anklebiters--Dr Bean
-%
-You can almost live on bread alone.
-%
-Man can live on bread (sandwiches) alone.
-Until marriage.
-%
-Why I am not a vegetarian--
-Biology trumps ideology.
---Dr Bean
-%
-Why I am a vegetarian: I have no problem with
-dogs eating meat, but the idea of a meat-eating
-monkey is unacceptable. --Dr Bean
-%
-Why I am a vegetarian: I have no problem with
-dogs eating meat, but I cannot accept the idea
-of monkeys eating meat. --Dr Bean
 %
 God's review committee:
 You've overloaded the reproductive
