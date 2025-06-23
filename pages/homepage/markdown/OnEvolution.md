@@ -198,6 +198,7 @@ numbers, or even just the abstract concept of number, perhaps?
 
 Listing possible goals:
 
+* identifying a partner
 * intimacy
 * penetration
 * orgasm and ejaculation
@@ -266,7 +267,9 @@ Me at
     <button type='submit' class='btn'>
     <img src='./mastodon.svg'
         alt='https://joinmastodon.org/logos/wordmark-black-text.svg'
-        style='width:100px;height:50px'/>
+        style='width:100px;height:20px'/>
     </button></form>
     
+Back to [AgainstAgency](AgainstAgency.html)
+
 Back to [AI](AI.html)
