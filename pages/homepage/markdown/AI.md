@@ -2,18 +2,20 @@
 
 A portal for my understanding of the implications of Artificial Intelligence developments
 
-* [CleverHans](CleverHans.html) And machine learning
-* [DuplicitousAgent](DuplicitousAgent.html) What is an 'agent'?
+* [AnimalCognition](AnimalCognition.html) The teachings of animals
+    * [CleverHans](CleverHans.html) And machine learning
+* [AgainstAgency](AgainstAgency.html) Keep Agents out of AI!
+    * [DuplicitousAgent](DuplicitousAgent.html) What is an 'agent'?
+    * [Chinese Room](JohnSearle.html) John Searle's machine translation analogy
 * [ConstitutionLaw](ConstitutionLaw.html) Great leap forward, or small step sideways?
 * [CohesionAdhesion](CohesionAdhesion.html) Is AI following the argument or chiming in?
-* [Chinese Room](JohnSearle.html) John Searle's machine translation analogy
 
 Me at
 <form action='https://mastodon.sdf.org/@drbean'>
 <button type='submit' class='btn'>
 <img src='./mastodon.svg'
 alt='https://joinmastodon.org/logos/wordmark-black-text.svg'
-style='width:100px;height:50px'/>
+style='width:80px;height:20px'/>
 </button></form>
 
 Back to [HomePage](HomePage.html)
