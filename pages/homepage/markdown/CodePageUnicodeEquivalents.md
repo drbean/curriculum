@@ -15,7 +15,7 @@ Me at
 <button type='submit' class='btn'>
 <img src='./mastodon.svg'
 alt='https://joinmastodon.org/logos/wordmark-black-text.svg'
-style='width:100px;height:50px'/>
+style='width:90px;height:20px'/>
 </button></form>
 
-Back to [HomePage](HomePage.html)
+Back to [WYSInotWYG](WYSInotWYG.html)
