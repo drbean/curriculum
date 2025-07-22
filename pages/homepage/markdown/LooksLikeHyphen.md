@@ -1,4 +1,4 @@
-% No representation without authentication
+% No representation without identification
 
 I couldn't understand why
 
@@ -15,12 +15,14 @@ I finally checked the byte value of '-' without really thinking, or expecting th
 Turns out 'man which' was giving me,
 
     <‐> 8208, Hex 2010, Oct 20020, Digr -1
+
 not
+
     <->  45,  Hex 2d,  Octal 055.
 
 Syntax highlighting changed with the change, showing that was my answer.
 
-A particular instance of a bigger problem reading computer output.
+A particular instance of a general problem reading computer output.
 
 Me at
     <form action='https://mastodon.sdf.org/@drbean'>
