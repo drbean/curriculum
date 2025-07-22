@@ -77,6 +77,7 @@ linkcolor: '#4682B4'
 - [FakePersona](FakePersona.html) Ed Min and Tess Staker
 - [WebCaster3100SV](WebCaster3100SV.html) 誰かにあげたい
 - [CodePageUnicodeEquivalents](CodePageUnicodeEquivalents.html) The road to hell is paved with good intentions
+- [LooksLikeHyphen](LooksLikeHyphen.html) WYSINotWYG
 - [AssigningSameValuedPerlBashArrays](AssigningSameValuedPerlBashArrays.html) perl: good, bash: ugly
 
 ## Places
