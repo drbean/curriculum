@@ -76,8 +76,7 @@ linkcolor: '#4682B4'
 - [AI](AI.html) A 'hair on fire' moment
 - [FakePersona](FakePersona.html) Ed Min and Tess Staker
 - [WebCaster3100SV](WebCaster3100SV.html) 誰かにあげたい
-- [CodePageUnicodeEquivalents](CodePageUnicodeEquivalents.html) The road to hell is paved with good intentions
-- [LooksLikeHyphen](LooksLikeHyphen.html) WYSINotWYG
+- [WYSInotWYG](WYSInotWYG.html) Fooled by ambiguity in plain sight
 - [AssigningSameValuedPerlBashArrays](AssigningSameValuedPerlBashArrays.html) perl: good, bash: ugly
 
 ## Places
