@@ -103,7 +103,7 @@ Because animal cognition and AI researchers want to claim unobserved inference, 
 The paper gives the example of meerkats 'teaching' their pups to hunt[^hunt], gradually reducing the assistance they give them getting hold of prey as they get older. Most definitions of teaching[^teaching] require teachers to have some idea of what they're doing, ie, of agency, and that they have some idea of what their pupils know (or don't know), according to the paper. Anything else removes agency from the parents, giving it to the pups. Researchers don't know whether parent meerkats have this agency, and so whether they're really teaching. But because it looks like teaching, they discuss this as meerkats 'functionally teaching' their pups, to indicate they're not making any claims about meerkat agency.
 
 They say LLM researchers can do the same, when LLM appear to have a Theory of Mind, but there is a lack of evidence of causes explaining the Theory of Mind (eg,from 
-mechanistic [interpretability](http://en.wikipedia.org/wiki/mechanistic_interpretability) 
+[mechanistic interpretability](http://en.wikipedia.org/wiki/mechanistic_interpretability) 
 or other studies), and there is inadequate questioning of alternative explanations of the Theory of Mind (Principle 1). In that case, they can say LLM have a "functional Theory of Mind".
 
 [^teaching]: No wonder I was not a 'teacher'. I only knew that I did not know what I was doing or what effect I was having. If teaching is cognate with 'making an impression,' it is equivalent to leaving fingerprints over the tabula rasa.
