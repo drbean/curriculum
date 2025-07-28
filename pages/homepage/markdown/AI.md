@@ -8,7 +8,7 @@ A portal for my understanding of the implications of Artificial Intelligence dev
     * [DuplicitousAgent](DuplicitousAgent.html) What is an 'agent'?
     * [Chinese Room](JohnSearle.html) John Searle's machine translation analogy
 * [ConstitutionLaw](ConstitutionLaw.html) Great leap forward, or small step sideways?
-* [CohesionAdhesion](CohesionAdhesion.html) Is AI following the argument or chiming in?
+* [CohesionAdhesion](CohesionAdhesion.html) Is AI following the argument, riffing on it or chiming in?
 
 Me at
 <form action='https://mastodon.sdf.org/@drbean'>
