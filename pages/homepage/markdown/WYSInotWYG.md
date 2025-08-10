@@ -4,9 +4,7 @@ Many-to-one mappings of characters in the computer to glyphs on the screen mean 
 
 - [CodePageUnicodeEquivalents](CodePageUnicodeEquivalents.html) The road to hell is paved with good intentions
 - [LooksLikeHyphen](LooksLikeHyphen.html) Separate, but equal?
-
-
-* [BrokenNonBreakingSpace](BrokenNonBreakingSpace.html) Not everything white is a space
+- [BrokenNonBreakingSpace](BrokenNonBreakingSpace.html) Not everything white is a space
 
 Me at
     <form action='https://mastodon.sdf.org/@drbean'>
