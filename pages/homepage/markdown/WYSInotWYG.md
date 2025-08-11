@@ -6,6 +6,8 @@ Many-to-one mappings of characters in the computer to glyphs on the screen mean 
 - [LooksLikeHyphen](LooksLikeHyphen.html) Separate, but equal?
 - [BrokenNonBreakingSpace](BrokenNonBreakingSpace.html) Not everything white is a space
 
+* [BrokenNonBreakingSpace](BrokenNonBreakingSpace.html) Not everything white is a space
+
 Me at
     <form action='https://mastodon.sdf.org/@drbean'>
     <button type='submit' class='btn'>
