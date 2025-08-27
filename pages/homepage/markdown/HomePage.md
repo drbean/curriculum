@@ -109,6 +109,8 @@ TODO: under construction
 
 email: drbean [at] freeshell [dot] org
 
+* [CommonPlace](CommonPlace.html) A grab bag of observations
+
 Me at <a rel="me" href="https://mastodon.sdf.org/@drbean">Mastodon</a>
 <form action='https://mastodon.sdf.org/@drbean'>
 <button type='submit' class='btn'>
