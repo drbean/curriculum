@@ -16,7 +16,11 @@ M="$HOME/curriculum/pages/homepage/markdown"
 
 echo % $header >> $M/$story.md
 echo >> $M/$story.md
-while IFS= read -r post ; do echo $post >> $M/$story.md ; done
+while IFS= read -r post ; do
+    echo $post >> $mastodon
+    echo $post >> $M/$story.md
+done
+echo $mastodon
 echo -e "\n\nMe at
 <form action='https://mastodon.sdf.org/@drbean'>
 <button type='submit' class='btn'>
@@ -41,5 +45,3 @@ cd - 1>&2
 
 lftp -c "lcd /tmp/pandoc && open sftp://drbean@freeshell.org &&
 	cd html && put $story.html && put $topic.html && qui"
-
-echo $post
