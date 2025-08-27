@@ -67,6 +67,7 @@ linkcolor: '#4682B4'
 - [CategoryTheory](CategoryTheory.html) Mind map math
 - [TheUnexaminedLife](TheUnexaminedLife.html) Not worth living?
 - [LetUsNowPraiseFamousMen](LetUsNowPraiseFamousMen.html) Cheap shots at the eminent
+- [CommonPlace](CommonPlace.html) A grab bag of observations
 
 ## Computers--Best thing since reading/writing 
 
@@ -108,10 +109,6 @@ TODO: under construction
 :   Hitchhiking
 
 email: drbean [at] freeshell [dot] org
-
-* [CommonPlace](CommonPlace.html) A grab bag of observations
-
-* [CommonPlace](CommonPlace.html) A grab bag of observations
 
 Me at <a rel="me" href="https://mastodon.sdf.org/@drbean">Mastodon</a>
 <form action='https://mastodon.sdf.org/@drbean'>
