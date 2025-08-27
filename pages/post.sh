@@ -16,13 +16,13 @@ M="$HOME/curriculum/pages/homepage/markdown"
 
 echo % $header >> $M/$story.md
 echo >> $M/$story.md
-read post ; echo $post >> $M/$story.md
+while IFS= read -r post ; do echo $post >> $M/$story.md ; done
 echo -e "\n\nMe at
 <form action='https://mastodon.sdf.org/@drbean'>
 <button type='submit' class='btn'>
 <img src='./mastodon.svg'
 alt='https://joinmastodon.org/logos/wordmark-black-text.svg'
-style='width:100px;height:50px'/>
+style='width:75px;height:20px'/>
 </button></form>
 \nBack to [$topic]($topic.html)" >> $M/$story.md
 
