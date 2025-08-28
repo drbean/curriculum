@@ -14,6 +14,10 @@ _08-28 16:28_ That is, we don't know why she asked him to leave the room. It may
 
 
 
+_08-28 17:29_ That said, @melaniemitchell's bringing in Weizenbaum, a chatbot creator's misgivings, like Frankenstein's horror, about what they've done, is refreshing, the other AI bros going, 'La-la-la I can't hear you.'
+
+
+
 Me at
 <form action='https://mastodon.sdf.org/@drbean'>
 <button type='submit' class='btn'>
@@ -24,7 +28,7 @@ style='width:75px;height:20px'/>
 
 Back to [HomePage](HomePage.html)
 
-_08-28 17:29_ That said, @melaniemitchell's bringing in Weizenbaum, a chatbot creator's misgivings, like Frankenstein's horror, about what they've done, is refreshing, the other AI bros going, 'La-la-la I can't hear you.'
+_08-28 22:44_ The Weizenbaum wikipedia article, https://en.wikipedia.org/wiki/Joseph_Weizenbaum, explains his ambivalence on AI with his distinction between deciding and choosing, a distinction I had not recognized. Deciding, being calculating, could be calculated, but choosing, could not be. Being based on values, ie, non-rationality, choice, on the basis of tasks and criteria, can only be creative human acts with consequences. Deciding and choosing, a distinction without a difference?
 
 
 
