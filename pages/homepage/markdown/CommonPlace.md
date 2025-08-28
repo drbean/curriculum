@@ -29,3 +29,17 @@ style='width:75px;height:20px'/>
 </button></form>
 
 Back to [HomePage](HomePage.html)
+
+08-28 16:28That is, we don't know why she asked him to leave the room. It may have had nothing to do with her interaction with the chatbot. We never hear the other side's story.
+
+
+
+Me at
+<form action='https://mastodon.sdf.org/@drbean'>
+<button type='submit' class='btn'>
+<img src='./mastodon.svg'
+alt='https://joinmastodon.org/logos/wordmark-black-text.svg'
+style='width:75px;height:20px'/>
+</button></form>
+
+Back to [HomePage](HomePage.html)
