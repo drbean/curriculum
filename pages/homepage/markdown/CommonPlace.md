@@ -32,26 +32,14 @@ _08-28 22:44_ The Weizenbaum wikipedia article, https://en.wikipedia.org/wiki/Jo
 
 
 
-Me at
-<form action='https://mastodon.sdf.org/@drbean'>
-<button type='submit' class='btn'>
-<img src='./mastodon.svg'
-alt='https://joinmastodon.org/logos/wordmark-black-text.svg'
-style='width:75px;height:20px'/>
-</button></form>
-
-Back to [HomePage](HomePage.html)
-
 _08-30 17:17_ https://www.baeldung.com/linux/sed-with-string
 
 was helpful explaining how to pipe string to sed without
 using 'echo' and how pipes and process substitution
 play roles.
 
-title="$(sed -nE "1s/^(([[:graph:]]+[[:blank:]]+){4}).*$/\1/p" <<< $story )"
-html="$(pandoc -f markdown -t html <<< $story )"
-
-
+    title="$(sed -nE "1s/^(([[:graph:]]+[[:blank:]]+){4}).*$/\1/p" <<< $story )"
+    html="$(pandoc -f markdown -t html <<< $story )"
 
 
 Me at
