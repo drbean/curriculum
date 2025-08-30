@@ -41,3 +41,17 @@ style='width:75px;height:20px'/>
 </button></form>
 
 Back to [HomePage](HomePage.html)
+
+_08-30 22:17_ https://simonwillison.net/2025/Aug/29/lossy-encyclopedia/: An encyclopedia metaphor for LLM. Mine is a bag of statements, cut up into phrases, nouns, verbs, all linked in one big tree, with all the google search keywords ever used to find the statements. We're used to google finding things on the Internet with the right search terms. This is just a step-up from that. LLM are mixing and matching statements & pushing one out. The surprising thing is that the statement is native-speaker-like text.
+
+
+
+Me at
+<form action='https://mastodon.sdf.org/@drbean'>
+<button type='submit' class='btn'>
+<img src='./mastodon.svg'
+alt='https://joinmastodon.org/logos/wordmark-black-text.svg'
+style='width:75px;height:20px'/>
+</button></form>
+
+Back to [HomePage](HomePage.html)
