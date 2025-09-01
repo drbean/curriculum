@@ -43,6 +43,11 @@ _09-01  9:06_ Toot posted: https://mastodon-japan.net/@drbean/115126121722591558
 
 
 
+
+_09-01  9:47_ @jensorensen@mastodon.social envisages reading AI summaries resulting in the death of the Internet. I'm not guilty of this, though out of the corner of my eye I can see google's AI overview has the answer to "input string sed" that the hits below only tease with intros like "Read ..", "Learn ..", The lesser sin I'm guilty of is scrolling through google hits to find the answer to my question, "Use a <<< here string" without having to visit sites, which may or may not have that answer.
+
+
+
 Me at
 <form action='https://mastodon.sdf.org/@drbean'>
 <button type='submit' class='btn'>
