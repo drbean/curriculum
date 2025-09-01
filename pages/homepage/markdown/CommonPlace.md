@@ -37,6 +37,12 @@ _08-30 22:51_ https://simonwillison.net/2025/Aug/29/lossy-encyclopedia/: An ency
 
 
 
+
+_09-01  9:06_ Toot posted: https://mastodon-japan.net/@drbean/115126121722591558
+ジャズ・アヴァンギャルド クロニクル1967-1989著者 清水 俊彦 のタイトルが気にならない。なぜならジャズはカウンタカルチャの一つだ。アヴァンギャルドはカルチャの現象だ。カウンタカルチャの現象ではない。
+
+
+
 Me at
 <form action='https://mastodon.sdf.org/@drbean'>
 <button type='submit' class='btn'>
