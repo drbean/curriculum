@@ -48,6 +48,11 @@ _09-01  9:47_ @jensorensen@mastodon.social envisages reading AI summaries result
 
 
 
+
+_09-03  8:02_ Look at this Google Books comparison of frequency of "time-consuming" vs all other permutations of "time" and "consume_INF", https://books.google.com/ngrams/graph?content=time%3D%3Econsume_INF%2Cconsume_INF%3D%3Etime&year_start=1800&year_end=2022&corpus=en&smoothing=3
+
+
+
 Me at
 <form action='https://mastodon.sdf.org/@drbean'>
 <button type='submit' class='btn'>
