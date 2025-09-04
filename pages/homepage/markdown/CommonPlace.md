@@ -69,6 +69,11 @@ _09-04 21:56_ 間章のきかけでは1975年にレイシが最初来日した�
 
 
 
+
+_09-05  8:54_ Man should think. Machines should work--https://quoteinvestigator.com/2025/09/01/people-think/
+
+
+
 Me at
 <form action='https://mastodon.sdf.org/@drbean'>
 <button type='submit' class='btn'>
