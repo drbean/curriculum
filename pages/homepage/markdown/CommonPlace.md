@@ -35,6 +35,7 @@ play roles.
 
 _08-30 22:51_ https://simonwillison.net/2025/Aug/29/lossy-encyclopedia/: An encyclopedia metaphor for LLM. Mine is a bag of statements, cut up into phrases, nouns, verbs, all linked in one big tree, with all the google search keywords ever used to find the statements. We're used to google finding things on the Internet with the right search terms. This is just a step-up from that. LLM are mixing and matching statements & pushing one out. The surprising thing is that the statement is native-speaker-like text.
 
+## 2025-09
 
 
 
@@ -55,6 +56,11 @@ _09-03  8:02_ Look at this Google Books comparison of frequency of "time-consumi
 
 
 _09-04 10:11_ 前にジャズ．アヴァンギャルドに日本のフリージャズが出ない理由は清水俊彦が日本人のミュージシャンを蔑視すると思った。今はかれはそういう風にした理由は「触らぬ神に祟りなし」がましだとかんがえたと思う。
+
+
+
+
+_09-04 21:28_ ジャズ．アヴァンギャルドは日本のフリージャズに触れることの一つが広島リアル．ジャズ集団の出したLunatic Records 001 と002 が話題になったステイーヴ．レイシーの章だ。Lunatic 001 はただ「日本を代表する四人の若手ピアニスト」のものだけですむが、 レイシーの Lunatic 002 にある「Blues for Aida」が清水を間章に関する7（七つ）行を書かせるようになった。
 
 
 
