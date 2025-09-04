@@ -53,6 +53,11 @@ _09-03  8:02_ Look at this Google Books comparison of frequency of "time-consumi
 
 
 
+
+_09-04 10:11_ 前にジャズ．アヴァンギャルドに日本のフリージャズが出ない理由は清水俊彦が日本人のミュージシャンを蔑視すると思った。今はかれはそういう風にした理由は「触らぬ神に祟りなし」がましだとかんがえたと思う。
+
+
+
 Me at
 <form action='https://mastodon.sdf.org/@drbean'>
 <button type='submit' class='btn'>
