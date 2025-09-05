@@ -74,6 +74,11 @@ _09-05  8:54_ Man should think. Machines should work--https://quoteinvestigator.
 
 
 
+
+_09-05  9:22_ The real question is not whether machines think but whether man does--https://quoteinvestigator.com/2025/09/04/machines-think/
+
+
+
 Me at
 <form action='https://mastodon.sdf.org/@drbean'>
 <button type='submit' class='btn'>
