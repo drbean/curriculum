@@ -95,6 +95,14 @@ _09-06 16:55_ 2 active_tooter active_tooter~ actor.json bookmarks.json duk.space
 
 
 
+
+_09-06 17:34_ "* 1. 몇 번도"
+"* 2. 몇 번이어도"
+"* 3. 몇 번으로도"
+"* 4. 몇 번이라도"
+
+
+
 Me at
 <form action='https://mastodon.sdf.org/@drbean'>
 <button type='submit' class='btn'>
