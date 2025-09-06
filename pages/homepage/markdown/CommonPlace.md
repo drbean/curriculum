@@ -80,60 +80,6 @@ _09-05  9:22_ The real question is not whether machines think but whether man do
 
 
 
-_09-06 16:44_ 2 active_tooter active_tooter~ actor.json bookmarks.json duk.space.txt duk.space.txt~ email.txt HomePage.png likes.json masto_master_messter masto_master_messter~ mastodon.sdf.txt~ mastodon-japan.net outbox.json perlbrew-1.02.json post.txt post.txt~ screenlog.2 sdf.txt StaticSiteGenerator.png status-113931287204826521.json status-114395811279167506.json status-114516244639607826.json status-114652590179964571.json status-114697627113672487.json status-114718365868846511.json status-114729761865870893.json status-114730511598049670.json status-114737587231387376.json status-114741078870319471.json status-114742796069453380.json status-114752161327498572.json status-114891092056106078.json status-115154496177821295.json ur_auth "1. 몇 번도"
-2 active_tooter active_tooter~ actor.json bookmarks.json duk.space.txt duk.space.txt~ email.txt HomePage.png likes.json masto_master_messter masto_master_messter~ mastodon.sdf.txt~ mastodon-japan.net outbox.json perlbrew-1.02.json post.txt post.txt~ screenlog.2 sdf.txt StaticSiteGenerator.png status-113931287204826521.json status-114395811279167506.json status-114516244639607826.json status-114652590179964571.json status-114697627113672487.json status-114718365868846511.json status-114729761865870893.json status-114730511598049670.json status-114737587231387376.json status-114741078870319471.json status-114742796069453380.json status-114752161327498572.json status-114891092056106078.json status-115154496177821295.json ur_auth "2. 몇 번이어도"
-2 active_tooter active_tooter~ actor.json bookmarks.json duk.space.txt duk.space.txt~ email.txt HomePage.png likes.json masto_master_messter masto_master_messter~ mastodon.sdf.txt~ mastodon-japan.net outbox.json perlbrew-1.02.json post.txt post.txt~ screenlog.2 sdf.txt StaticSiteGenerator.png status-113931287204826521.json status-114395811279167506.json status-114516244639607826.json status-114652590179964571.json status-114697627113672487.json status-114718365868846511.json status-114729761865870893.json status-114730511598049670.json status-114737587231387376.json status-114741078870319471.json status-114742796069453380.json status-114752161327498572.json status-114891092056106078.json status-115154496177821295.json ur_auth "3. 몇 번으로도"
-2 active_tooter active_tooter~ actor.json bookmarks.json duk.space.txt duk.space.txt~ email.txt HomePage.png likes.json masto_master_messter masto_master_messter~ mastodon.sdf.txt~ mastodon-japan.net outbox.json perlbrew-1.02.json post.txt post.txt~ screenlog.2 sdf.txt StaticSiteGenerator.png status-113931287204826521.json status-114395811279167506.json status-114516244639607826.json status-114652590179964571.json status-114697627113672487.json status-114718365868846511.json status-114729761865870893.json status-114730511598049670.json status-114737587231387376.json status-114741078870319471.json status-114742796069453380.json status-114752161327498572.json status-114891092056106078.json status-115154496177821295.json ur_auth "4. 몇 번이라도"
-
-
-
-
-_09-06 16:55_ 2 active_tooter active_tooter~ actor.json bookmarks.json duk.space.txt duk.space.txt~ email.txt HomePage.png likes.json masto_master_messter masto_master_messter~ mastodon.sdf.txt~ mastodon-japan.net outbox.json perlbrew-1.02.json post.txt post.txt~ screenlog.2 sdf.txt StaticSiteGenerator.png status-113931287204826521.json status-114395811279167506.json status-114516244639607826.json status-114652590179964571.json status-114697627113672487.json status-114718365868846511.json status-114729761865870893.json status-114730511598049670.json status-114737587231387376.json status-114741078870319471.json status-114742796069453380.json status-114752161327498572.json status-114891092056106078.json status-115154496177821295.json ur_auth "1. 몇 번도"
-2 active_tooter active_tooter~ actor.json bookmarks.json duk.space.txt duk.space.txt~ email.txt HomePage.png likes.json masto_master_messter masto_master_messter~ mastodon.sdf.txt~ mastodon-japan.net outbox.json perlbrew-1.02.json post.txt post.txt~ screenlog.2 sdf.txt StaticSiteGenerator.png status-113931287204826521.json status-114395811279167506.json status-114516244639607826.json status-114652590179964571.json status-114697627113672487.json status-114718365868846511.json status-114729761865870893.json status-114730511598049670.json status-114737587231387376.json status-114741078870319471.json status-114742796069453380.json status-114752161327498572.json status-114891092056106078.json status-115154496177821295.json ur_auth "2. 몇 번이어도"
-2 active_tooter active_tooter~ actor.json bookmarks.json duk.space.txt duk.space.txt~ email.txt HomePage.png likes.json masto_master_messter masto_master_messter~ mastodon.sdf.txt~ mastodon-japan.net outbox.json perlbrew-1.02.json post.txt post.txt~ screenlog.2 sdf.txt StaticSiteGenerator.png status-113931287204826521.json status-114395811279167506.json status-114516244639607826.json status-114652590179964571.json status-114697627113672487.json status-114718365868846511.json status-114729761865870893.json status-114730511598049670.json status-114737587231387376.json status-114741078870319471.json status-114742796069453380.json status-114752161327498572.json status-114891092056106078.json status-115154496177821295.json ur_auth "3. 몇 번으로도"
-2 active_tooter active_tooter~ actor.json bookmarks.json duk.space.txt duk.space.txt~ email.txt HomePage.png likes.json masto_master_messter masto_master_messter~ mastodon.sdf.txt~ mastodon-japan.net outbox.json perlbrew-1.02.json post.txt post.txt~ screenlog.2 sdf.txt StaticSiteGenerator.png status-113931287204826521.json status-114395811279167506.json status-114516244639607826.json status-114652590179964571.json status-114697627113672487.json status-114718365868846511.json status-114729761865870893.json status-114730511598049670.json status-114737587231387376.json status-114741078870319471.json status-114742796069453380.json status-114752161327498572.json status-114891092056106078.json status-115154496177821295.json ur_auth "4. 몇 번이라도"
-
-
-
-
-_09-06 17:34_ "* 1. 몇 번도"
-"* 2. 몇 번이어도"
-"* 3. 몇 번으로도"
-"* 4. 몇 번이라도"
-
-
-
-
-_09-06 17:37_ 김현근의 『クイズで学ぶ韓国語』 16
-
-A 이 티켓은 어떻습니까?
-B 뭐가 다른데요?
-A 이 티켓은 기간 중에 ?????? 쓸 수 있읍니다.
-B 아, 그럼 그걸로 할게요.
-
-"* 1. 몇 번도"
-"* 2. 몇 번이어도"
-"* 3. 몇 번으로도"
-"* 4. 몇 번이라도"
-
-
-
-
-_09-06 17:45_ 김현근의 『クイズで学ぶ韓国語』 16
-
-| A 이 티켓은 어떻습니까?
-| B 뭐가 다른데요?
-| A 이 티켓은 기간 중에 ?????? 쓸 수 있읍니다.
-| B 아, 그럼 그걸로 할게요.
-
-"* 1. 몇 번도"
-"* 2. 몇 번이어도"
-"* 3. 몇 번으로도"
-"* 4. 몇 번이라도"
-
-
-
-
 _09-06 17:53_ 김현근의 『クイズで学ぶ韓国語』 16
 
 | A 이 티켓은 어떻습니까?
