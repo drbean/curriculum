@@ -94,91 +94,6 @@ _09-06 17:53_ 김현근의 『クイズで学ぶ韓国語』 16
 
 
 
-
-_09-07 16:45_ I just saw this, but can't recall where, Distinguishing characteristics of language:
-active_tooter active_tooter~ actor.json bookmarks.json duk.space.sh duk.space.txt duk.space.txt~ email.txt HomePage.png likes.json masto_master_messter masto_master_messter~ mastodon.sdf.txt~ mastodon-japan.net outbox.json perlbrew-1.02.json post.txt post.txt~ screenlog.2 sdf.txt StaticSiteGenerator.png status-113931287204826521.json status-114395811279167506.json status-114516244639607826.json status-114652590179964571.json status-114697627113672487.json status-114718365868846511.json status-114729761865870893.json status-114730511598049670.json status-114737587231387376.json status-114741078870319471.json status-114742796069453380.json status-114752161327498572.json status-114891092056106078.json status-115154496177821295.json ur_auth compositionality, Basically, the whole is the sum of the parts,
-active_tooter active_tooter~ actor.json bookmarks.json duk.space.sh duk.space.txt duk.space.txt~ email.txt HomePage.png likes.json masto_master_messter masto_master_messter~ mastodon.sdf.txt~ mastodon-japan.net outbox.json perlbrew-1.02.json post.txt post.txt~ screenlog.2 sdf.txt StaticSiteGenerator.png status-113931287204826521.json status-114395811279167506.json status-114516244639607826.json status-114652590179964571.json status-114697627113672487.json status-114718365868846511.json status-114729761865870893.json status-114730511598049670.json status-114737587231387376.json status-114741078870319471.json status-114742796069453380.json status-114752161327498572.json status-114891092056106078.json status-115154496177821295.json ur_auth substitutability, 'Dog bites man and man bites dog' '我愛她和她愛我' https://chineseedge.com/how-to-say-and-in-chinese/,
-active_tooter active_tooter~ actor.json bookmarks.json duk.space.sh duk.space.txt duk.space.txt~ email.txt HomePage.png likes.json masto_master_messter masto_master_messter~ mastodon.sdf.txt~ mastodon-japan.net outbox.json perlbrew-1.02.json post.txt post.txt~ screenlog.2 sdf.txt StaticSiteGenerator.png status-113931287204826521.json status-114395811279167506.json status-114516244639607826.json status-114652590179964571.json status-114697627113672487.json status-114718365868846511.json status-114729761865870893.json status-114730511598049670.json status-114737587231387376.json status-114741078870319471.json status-114742796069453380.json status-114752161327498572.json status-114891092056106078.json status-115154496177821295.json ur_auth productivity, You can say anything with language.
-
-They forgot grammaticality? Or did they.
-
-
-
-
-_09-07 16:52_ I just saw this, but can't recall where, Distinguishing characteristics of language:
-\* compositionality, Basically, the whole is the sum of the parts,
-\* substitutability, 'Dog bites man and man bites dog' '我愛她和她愛我' https://chineseedge.com/how-to-say-and-in-chinese/,
-\* productivity, You can say anything with language.
-
-They forgot grammaticality? Or did they.
-
-
-
-
-_09-07 16:55_ I just saw this, but can't recall where, Distinguishing characteristics of language:
-
-active_tooter active_tooter~ actor.json bookmarks.json duk.space.sh duk.space.txt duk.space.txt~ email.txt HomePage.png likes.json masto_master_messter masto_master_messter~ mastodon.sdf.txt~ mastodon-japan.net outbox.json perlbrew-1.02.json post.txt post.txt~ screenlog.2 sdf.txt StaticSiteGenerator.png status-113931287204826521.json status-114395811279167506.json status-114516244639607826.json status-114652590179964571.json status-114697627113672487.json status-114718365868846511.json status-114729761865870893.json status-114730511598049670.json status-114737587231387376.json status-114741078870319471.json status-114742796069453380.json status-114752161327498572.json status-114891092056106078.json status-115154496177821295.json ur_auth compositionality, Basically, the whole is the sum of the parts,
-active_tooter active_tooter~ actor.json bookmarks.json duk.space.sh duk.space.txt duk.space.txt~ email.txt HomePage.png likes.json masto_master_messter masto_master_messter~ mastodon.sdf.txt~ mastodon-japan.net outbox.json perlbrew-1.02.json post.txt post.txt~ screenlog.2 sdf.txt StaticSiteGenerator.png status-113931287204826521.json status-114395811279167506.json status-114516244639607826.json status-114652590179964571.json status-114697627113672487.json status-114718365868846511.json status-114729761865870893.json status-114730511598049670.json status-114737587231387376.json status-114741078870319471.json status-114742796069453380.json status-114752161327498572.json status-114891092056106078.json status-115154496177821295.json ur_auth substitutability, 'Dog bites man and man bites dog' '我愛她和她愛我' https://chineseedge.com/how-to-say-and-in-chinese/,
-active_tooter active_tooter~ actor.json bookmarks.json duk.space.sh duk.space.txt duk.space.txt~ email.txt HomePage.png likes.json masto_master_messter masto_master_messter~ mastodon.sdf.txt~ mastodon-japan.net outbox.json perlbrew-1.02.json post.txt post.txt~ screenlog.2 sdf.txt StaticSiteGenerator.png status-113931287204826521.json status-114395811279167506.json status-114516244639607826.json status-114652590179964571.json status-114697627113672487.json status-114718365868846511.json status-114729761865870893.json status-114730511598049670.json status-114737587231387376.json status-114741078870319471.json status-114742796069453380.json status-114752161327498572.json status-114891092056106078.json status-115154496177821295.json ur_auth productivity, You can say anything with language.
-
-They forgot grammaticality? Or did they.
-
-
-
-
-_09-07 16:57_ I just saw this, but can't recall where, Distinguishing characteristics of language:
-
-\* compositionality, Basically, the whole is the sum of the parts,
-\* substitutability, 'Dog bites man and man bites dog' '我愛她和她愛我' https://chineseedge.com/how-to-say-and-in-chinese/,
-\* productivity, You can say anything with language.
-
-They forgot grammaticality? Or did they.
-
-
-
-
-_09-07 17:02_ I just saw this, but can't recall where, Distinguishing characteristics of language:
-
-active_tooter active_tooter~ actor.json bookmarks.json duk.space.sh duk.space.txt duk.space.txt~ email.txt HomePage.png likes.json masto_master_messter masto_master_messter~ mastodon.sdf.txt~ mastodon-japan.net outbox.json perlbrew-1.02.json post.txt post.txt~ screenlog.2 sdf.txt StaticSiteGenerator.png status-113931287204826521.json status-114395811279167506.json status-114516244639607826.json status-114652590179964571.json status-114697627113672487.json status-114718365868846511.json status-114729761865870893.json status-114730511598049670.json status-114737587231387376.json status-114741078870319471.json status-114742796069453380.json status-114752161327498572.json status-114891092056106078.json status-115154496177821295.json ur_auth compositionality, Basically, the whole is the sum of the parts,
-active_tooter active_tooter~ actor.json bookmarks.json duk.space.sh duk.space.txt duk.space.txt~ email.txt HomePage.png likes.json masto_master_messter masto_master_messter~ mastodon.sdf.txt~ mastodon-japan.net outbox.json perlbrew-1.02.json post.txt post.txt~ screenlog.2 sdf.txt StaticSiteGenerator.png status-113931287204826521.json status-114395811279167506.json status-114516244639607826.json status-114652590179964571.json status-114697627113672487.json status-114718365868846511.json status-114729761865870893.json status-114730511598049670.json status-114737587231387376.json status-114741078870319471.json status-114742796069453380.json status-114752161327498572.json status-114891092056106078.json status-115154496177821295.json ur_auth substitutability, 'Dog bites man and man bites dog' '我愛她和她愛我' https://chineseedge.com/how-to-say-and-in-chinese/,
-active_tooter active_tooter~ actor.json bookmarks.json duk.space.sh duk.space.txt duk.space.txt~ email.txt HomePage.png likes.json masto_master_messter masto_master_messter~ mastodon.sdf.txt~ mastodon-japan.net outbox.json perlbrew-1.02.json post.txt post.txt~ screenlog.2 sdf.txt StaticSiteGenerator.png status-113931287204826521.json status-114395811279167506.json status-114516244639607826.json status-114652590179964571.json status-114697627113672487.json status-114718365868846511.json status-114729761865870893.json status-114730511598049670.json status-114737587231387376.json status-114741078870319471.json status-114742796069453380.json status-114752161327498572.json status-114891092056106078.json status-115154496177821295.json ur_auth productivity, You can say anything with language.
-
-They forgot grammaticality? Or did they.
-
-
-
-
-_09-07 17:11_ I just saw this, but can't recall where, Distinguishing characteristics of language:
-
-active_tooter active_tooter~ actor.json bookmarks.json duk.space.sh duk.space.txt duk.space.txt~ email.txt HomePage.png likes.json masto_master_messter masto_master_messter~ mastodon.sdf.txt~ mastodon-japan.net outbox.json perlbrew-1.02.json post.txt post.txt~ screenlog.2 sdf.txt StaticSiteGenerator.png status-113931287204826521.json status-114395811279167506.json status-114516244639607826.json status-114652590179964571.json status-114697627113672487.json status-114718365868846511.json status-114729761865870893.json status-114730511598049670.json status-114737587231387376.json status-114741078870319471.json status-114742796069453380.json status-114752161327498572.json status-114891092056106078.json status-115154496177821295.json ur_auth compositionality, Basically, the whole is the sum of the parts,
-active_tooter active_tooter~ actor.json bookmarks.json duk.space.sh duk.space.txt duk.space.txt~ email.txt HomePage.png likes.json masto_master_messter masto_master_messter~ mastodon.sdf.txt~ mastodon-japan.net outbox.json perlbrew-1.02.json post.txt post.txt~ screenlog.2 sdf.txt StaticSiteGenerator.png status-113931287204826521.json status-114395811279167506.json status-114516244639607826.json status-114652590179964571.json status-114697627113672487.json status-114718365868846511.json status-114729761865870893.json status-114730511598049670.json status-114737587231387376.json status-114741078870319471.json status-114742796069453380.json status-114752161327498572.json status-114891092056106078.json status-115154496177821295.json ur_auth substitutability, 'Dog bites man and man bites dog' '我愛她和她愛我' https://chineseedge.com/how-to-say-and-in-chinese/,
-active_tooter active_tooter~ actor.json bookmarks.json duk.space.sh duk.space.txt duk.space.txt~ email.txt HomePage.png likes.json masto_master_messter masto_master_messter~ mastodon.sdf.txt~ mastodon-japan.net outbox.json perlbrew-1.02.json post.txt post.txt~ screenlog.2 sdf.txt StaticSiteGenerator.png status-113931287204826521.json status-114395811279167506.json status-114516244639607826.json status-114652590179964571.json status-114697627113672487.json status-114718365868846511.json status-114729761865870893.json status-114730511598049670.json status-114737587231387376.json status-114741078870319471.json status-114742796069453380.json status-114752161327498572.json status-114891092056106078.json status-115154496177821295.json ur_auth productivity, You can say anything with language.
-
-They forgot grammaticality? Or did they.
-
-
-
-
-_09-07 17:12_ I just saw this, but can't recall where, Distinguishing characteristics of language:
-
-* compositionality, Basically, the whole is the sum of the parts,
-* substitutability, 'Dog bites man and man bites dog' '我愛她和她愛我' https://chineseedge.com/how-to-say-and-in-chinese/,
-* productivity, You can say anything with language.
-
-They forgot grammaticality? Or did they.
-
-
-
-Me at
-<form action='https://mastodon.sdf.org/@drbean'>
-<button type='submit' class='btn'>
-<img src='./mastodon.svg'
-alt='https://joinmastodon.org/logos/wordmark-black-text.svg'
-style='width:75px;height:20px'/>
-</button></form>
-
-Back to [HomePage](HomePage.html)
-
 _09-07 17:18_ I just saw this, but can't recall where, Distinguishing characteristics of language:
 
 * compositionality, Basically, the whole is the sum of the parts,
@@ -186,6 +101,12 @@ _09-07 17:18_ I just saw this, but can't recall where, Distinguishing characteri
 * productivity, You can say anything with language.
 
 They forgot grammaticality? Or did they.
+
+
+
+
+_09-08  7:33_ | 일 오른 귀에소 왼 귀
+| 한 귓구멍에 마늘쪽 박았나
 
 
 
