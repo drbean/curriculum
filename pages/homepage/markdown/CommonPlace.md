@@ -104,6 +104,16 @@ They forgot grammaticality? Or did they.
 
 
 
+
+_09-07 16:52_ I just saw this, but can't recall where, Distinguishing characteristics of language:
+\* compositionality, Basically, the whole is the sum of the parts,
+\* substitutability, 'Dog bites man and man bites dog' '我愛她和她愛我' https://chineseedge.com/how-to-say-and-in-chinese/,
+\* productivity, You can say anything with language.
+
+They forgot grammaticality? Or did they.
+
+
+
 Me at
 <form action='https://mastodon.sdf.org/@drbean'>
 <button type='submit' class='btn'>
