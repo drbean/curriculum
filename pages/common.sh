@@ -3,19 +3,19 @@
 topic=HomePage
 story=CommonPlace
 M="$HOME/curriculum/pages/homepage/markdown"
-declare mastodon
+declare stdout
 
-sed -E '/Me at/,$d' $M/$story.md
+sed -i.BAK -E '/Me at/,$d' $M/$story.md
 echo >> $M/$story.md
 
 echo -n "_$(date  +'%m-%d %k:%M')_ " >> $M/$story.md
 
-while IFS= read -r post ; do
-    mastodon+=$post
-    echo $post >> $M/$story.md
+while read -r post ; do
+    stdout+=$post
+    echo "$post" >> $M/$story.md
 done
 
-echo $mastodon
+echo $stdout
 echo >> $M/$story.md
 
 echo -e "\n\nMe at
