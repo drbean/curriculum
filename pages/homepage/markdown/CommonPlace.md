@@ -110,6 +110,10 @@ _09-08  7:33_ | 일 오른 귀에소 왼 귀
 
 
 
+
+_09-08  7:56_ 
+
+
 Me at
 <form action='https://mastodon.sdf.org/@drbean'>
 <button type='submit' class='btn'>
