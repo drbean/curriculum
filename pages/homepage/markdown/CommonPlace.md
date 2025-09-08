@@ -117,6 +117,11 @@ _09-08 10:00_ qutebrowser history to the rescue! I read the characterization of 
 
 
 
+
+_09-08 10:22_ she, where I had had 'had had', had had 'had'. 'Had had' had been advised, but 'had' had been chosen.
+
+
+
 Me at
 <form action='https://mastodon.sdf.org/@drbean'>
 <button type='submit' class='btn'>
