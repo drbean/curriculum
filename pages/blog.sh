@@ -3,40 +3,36 @@
 topic=HomePage
 story=CommonPlace
 M="$HOME/curriculum/pages/homepage/markdown"
-declare mastodon
+stdout=''
+story=''
 
-sed -E '/Me at/,$d' $M/$story.md
-echo >> $M/$story.md
+date="$(date  +'%m-%d %k:%M')"
 
-echo -n "_$(date  +'%m-%d %k:%M')_ " >> $M/$story.md
+header="<!--
+aliases: [ "http://niftybytes.blogspot.com/2018/04/proxy-pac-file-for-work_30.html", ]
+date: 2018-04-30T12:42:00+05:30
+draft: false
+published: true
+filters: <path to your filter>
+format: markdown
+id:
+lastmod: 2018-04-30T12:47:37+05:30
+publishdate: 2018-04-30T12:42:00+05:30
+tags: [any, comma, separated, labels]
+title: $date
+-->
+"
+# story=$header
 
 while IFS= read -r post ; do
-    mastodon+=$post
-    echo $post >> $M/$story.md
+    stdout+=$post
+    story+=$post
 done
 
-echo $mastodon
-echo >> $M/$story.md
+title="$(sed -nE "1s/^(([[:graph:]]+[[:blank:]]+){4}).*$/\1/p" <<< $story )"
+html="$(pandoc -f markdown -t html <<< $story )"
+# html="$story"
 
-echo -e "\n\nMe at
-<form action='https://mastodon.sdf.org/@drbean'>
-<button type='submit' class='btn'>
-<img src='./mastodon.svg'
-alt='https://joinmastodon.org/logos/wordmark-black-text.svg'
-style='width:75px;height:20px'/>
-</button></form>
-\nBack to [$topic]($topic.html)" >> $M/$story.md
+easyblogger -v INFO --blogid 7043542124747063255 post -t "$title" -c "$html" --publish 1>&2
 
-for p in $story $topic
-    do pandoc -o c:/cygwin64/tmp/pandoc/$p.html --standalone \
-        --template=c:$HOME/curriculum/pages/pandoc-templates/git/homepagePost.html5 \
-       $M/$p.md
-done
-
-cd $M 1>&2
-for v in svn git ; do $v add $M/{$topic,$story}.md ; done 1>&2
-svn ci $M/{$story,$topic}.md -m "$topic:$story with comment.sh" 1>&2
-cd - 1>&2
-
-lftp -c "lcd /tmp/pandoc && open sftp://drbean@freeshell.org &&
-	cd html && put $story.html && put $topic.html && qui"
+echo $stdout
