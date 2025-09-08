@@ -135,6 +135,11 @@ In the first she is mad because he already ate while she was still sleeping (she
 
 
 
+
+_09-08 10:36_ Halliday's 'had' + past participle as 'past in past', as opposed to 'have' + past participle, which is 'past in present'.
+
+
+
 Me at
 <form action='https://mastodon.sdf.org/@drbean'>
 <button type='submit' class='btn'>
