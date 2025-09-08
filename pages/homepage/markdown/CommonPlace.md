@@ -104,14 +104,17 @@ They forgot grammaticality? Or did they.
 
 
 
+_09-08  8:26_ 賈惠京(가혜경) 의 『한일 유사 속담 관용구사전』 527
 
-_09-08  7:33_ | 일 오른 귀에소 왼 귀
+| 일 오른 귀에소 왼 귀
 | 한 귓구멍에 마늘쪽 박았나
 
 
 
 
-_09-08  7:56_ 
+
+_09-08 10:00_ qutebrowser history to the rescue! I read the characterization of language as compositional, systematic, productive in https://aiguide.substack.com/p/an-ai-breakthrough-on-systematic that I probly found in https://aiguide.substack.com/p/do-half-of-ai-researchers-believe. But where I had 'subsitutability', https://melaniemitchell.me/ had 'systematicity'. I stand by my choice.
+
 
 
 Me at
