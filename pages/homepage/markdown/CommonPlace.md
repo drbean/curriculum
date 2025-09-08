@@ -122,6 +122,19 @@ _09-08 10:22_ she, where I had had 'had had', had had 'had'. 'Had had' had been 
 
 
 
+
+_09-08 10:28_ I had had my breakfast when she woke up. She became angry that I had had my breakfast.
+
+vs
+
+I had my breakfast when she woke up. She became mad that I had my breakfast.
+
+In the first she is mad because he already ate while she was still sleeping (she now has to eat by herself). In the second she is mad because he is now eating (maybe they agreed on a diet the night before).
+
+'had had' by https://www.reddit.com/user/Causative/
+
+
+
 Me at
 <form action='https://mastodon.sdf.org/@drbean'>
 <button type='submit' class='btn'>
