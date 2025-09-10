@@ -140,6 +140,17 @@ _09-08 10:36_ Halliday's 'had' + past participle as 'past in past', as opposed t
 
 
 
+
+_09-11  8:42_ Strange ways of becoming a father on wikipedia
+
+* https://en.wikipedia.org/wiki/Anthony_R._Michaelis
+After World War II Michaelis .. married Ann Aikman, with whom he was to have three children.
+
+* https://en.wikipedia.org/wiki/Pierre_Bourdieu
+In 1962, Bourdieu married Marie-Claire Brizard, and the couple would go on to have three sons ..
+
+
+
 Me at
 <form action='https://mastodon.sdf.org/@drbean'>
 <button type='submit' class='btn'>
