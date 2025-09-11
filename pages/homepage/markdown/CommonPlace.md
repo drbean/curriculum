@@ -1,81 +1,67 @@
 % Read it here first
 
-## 2025-08
-
-_08-28 11:32_
-Going to try to commonplace book my mastodon posts first #POSSE
-
-
-_08-28 12:11_ Alerted by https://bsky.app/profile/melaniemitchell.bsky.social/post/3lxcsdxrv5c26 to Eliza chatbot creator, Weizenbaum's mixed feelings about AI, I challenge his disingenousness in being disturbed by his secretary's being sucked in (?) by the bot, and asking him to leave the room. That is what he was trying to achieve with it! Perhaps she was only using it to say something about him, or to adjust her dress!
-
-
-
-_08-28 16:28_ That is, we don't know why she asked him to leave the room. It may have had nothing to do with her interaction with the chatbot. We never hear the other side's story.
-
-
-
-_08-28 17:29_ That said, @melaniemitchell's bringing in Weizenbaum, a chatbot creator's misgivings, like Frankenstein's horror, about what they've done, is refreshing, the other AI bros going, 'La-la-la I can't hear you.'
-
-
-
-_08-28 22:44_ The Weizenbaum wikipedia article, https://en.wikipedia.org/wiki/Joseph_Weizenbaum, explains his ambivalence on AI with his distinction between deciding and choosing, a distinction I had not recognized. Deciding, being calculating, could be calculated, but choosing, could not be. Being based on values, ie, non-rationality, choice, on the basis of tasks and criteria, can only be creative human acts with consequences. Deciding and choosing, a distinction without a difference?
-
-
-
-_08-30 17:17_ https://www.baeldung.com/linux/sed-with-string
-
-was helpful explaining how to pipe string to sed without
-using 'echo' and how pipes and process substitution
-play roles.
-
-    title="$(sed -nE "1s/^(([[:graph:]]+[[:blank:]]+){4}).*$/\1/p" <<< $story )"
-    html="$(pandoc -f markdown -t html <<< $story )"
-
-
-
-_08-30 22:51_ https://simonwillison.net/2025/Aug/29/lossy-encyclopedia/: An encyclopedia metaphor for LLM. Mine is a bag of statements, cut up into phrases, nouns, verbs, all linked in one big tree, with all the google search keywords ever used to find the statements. We're used to google finding things on the Internet with the right search terms. This is just a step-up from that. LLM are mixing and matching statements & pushing one out. The surprising thing is that the statement is native-speaker-like text.
-
 ## 2025-09
 
 
 
-_09-01  9:06_ Toot posted: https://mastodon-japan.net/@drbean/115126121722591558
-ジャズ・アヴァンギャルド クロニクル1967-1989著者 清水 俊彦 のタイトルが気にならない。なぜならジャズはカウンタカルチャの一つだ。アヴァンギャルドはカルチャの現象だ。カウンタカルチャの現象ではない。
+_09-11  9:13_ Instead of saying, "was to have 3 children," and "would go on to have 3 sons," they should just say, "and they had 3 children"
 
 
 
 
-_09-01  9:47_ @jensorensen@mastodon.social envisages reading AI summaries resulting in the death of the Internet. I'm not guilty of this, though out of the corner of my eye I can see google's AI overview has the answer to "input string sed" that the hits below only tease with intros like "Read ..", "Learn ..", The lesser sin I'm guilty of is scrolling through google hits to find the answer to my question, "Use a <<< here string" without having to visit sites, which may or may not have that answer.
+_09-11  8:42_ Strange ways of becoming a father on wikipedia
+
+* https://en.wikipedia.org/wiki/Anthony_R._Michaelis
+After World War II Michaelis .. married Ann Aikman, with whom he was to have three children.
+
+* https://en.wikipedia.org/wiki/Pierre_Bourdieu
+In 1962, Bourdieu married Marie-Claire Brizard, and the couple would go on to have three sons ..
 
 
 
 
-_09-03  8:02_ Look at this Google Books comparison of frequency of "time-consuming" vs all other permutations of "time" and "consume_INF", https://books.google.com/ngrams/graph?content=time%3D%3Econsume_INF%2Cconsume_INF%3D%3Etime&year_start=1800&year_end=2022&corpus=en&smoothing=3
+_09-08 10:36_ Halliday's 'had' + past participle as 'past in past', as opposed to 'have' + past participle, which is 'past in present'.
 
 
 
 
-_09-04 10:11_ 前にジャズ．アヴァンギャルドに日本のフリージャズが出ない理由は清水俊彦が日本人のミュージシャンを蔑視すると思った。今はかれはそういう風にした理由は「触らぬ神に祟りなし」がましだとかんがえたと思う。
+_09-08 10:28_ I had had my breakfast when she woke up. She became angry that I had had my breakfast.
+
+vs
+
+I had my breakfast when she woke up. She became mad that I had my breakfast.
+
+In the first she is mad because he already ate while she was still sleeping (she now has to eat by herself). In the second she is mad because he is now eating (maybe they agreed on a diet the night before).
+
+'had had' by https://www.reddit.com/user/Causative/
 
 
 
 
-_09-04 21:28_ ジャズ．アヴァンギャルドは日本のフリージャズに触れることの一つが広島リアル．ジャズ集団の出したLunatic Records 001 と002 が話題になったステイーヴ．レイシーの章だ。Lunatic 001 はただ「日本を代表する四人の若手ピアニスト」のものだけですむが、 レイシーの Lunatic 002 にある「Blues for Aida」が清水を間章に関する7（七つ）行を書かせるようになった。
+_09-08 10:22_ she, where I had had 'had had', had had 'had'. 'Had had' had been advised, but 'had' had been chosen.
+
+
+
+_09-08 10:00_ qutebrowser history to the rescue! I read the characterization of language as compositional, systematic, productive in https://aiguide.substack.com/p/an-ai-breakthrough-on-systematic that I probly found in https://aiguide.substack.com/p/do-half-of-ai-researchers-believe. But where I had 'subsitutability', https://melaniemitchell.me/ had 'systematicity'. I stand by my choice.
 
 
 
 
-_09-04 21:56_ 間章のきかけでは1975年にレイシが最初来日した。今度、1986年レイシーは富樫雅彦の音楽生活三十周年の記念コンサートのために、また来日したと言ったが、富樫雅彦に関してその他のもの何も言わない。
+
+_09-08  8:26_ 賈惠京(가혜경) 의 『한일 유사 속담 관용구사전』 527
+
+| 일 오른 귀에소 왼 귀
+| 한 귓구멍에 마늘쪽 박았나
 
 
 
+_09-07 17:18_ I just saw this, but can't recall where, Distinguishing characteristics of language:
 
-_09-05  8:54_ Man should think. Machines should work--https://quoteinvestigator.com/2025/09/01/people-think/
+* compositionality, Basically, the whole is the sum of the parts,
+* substitutability, 'Dog bites man and man bites dog' '我愛她和她愛我' https://chineseedge.com/how-to-say-and-in-chinese/,
+* productivity, You can say anything with language.
 
-
-
-
-_09-05  9:22_ The real question is not whether machines think but whether man does--https://quoteinvestigator.com/2025/09/04/machines-think/
+They forgot grammaticality? Or did they.
 
 
 
@@ -94,72 +80,80 @@ _09-06 17:53_ 김현근의 『クイズで学ぶ韓国語』 16
 
 
 
-_09-07 17:18_ I just saw this, but can't recall where, Distinguishing characteristics of language:
 
-* compositionality, Basically, the whole is the sum of the parts,
-* substitutability, 'Dog bites man and man bites dog' '我愛她和她愛我' https://chineseedge.com/how-to-say-and-in-chinese/,
-* productivity, You can say anything with language.
-
-They forgot grammaticality? Or did they.
-
-
-
-_09-08  8:26_ 賈惠京(가혜경) 의 『한일 유사 속담 관용구사전』 527
-
-| 일 오른 귀에소 왼 귀
-| 한 귓구멍에 마늘쪽 박았나
+_09-05  9:22_ The real question is not whether machines think but whether man does--https://quoteinvestigator.com/2025/09/04/machines-think/
 
 
 
 
-
-_09-08 10:00_ qutebrowser history to the rescue! I read the characterization of language as compositional, systematic, productive in https://aiguide.substack.com/p/an-ai-breakthrough-on-systematic that I probly found in https://aiguide.substack.com/p/do-half-of-ai-researchers-believe. But where I had 'subsitutability', https://melaniemitchell.me/ had 'systematicity'. I stand by my choice.
-
-
-
-
-_09-08 10:22_ she, where I had had 'had had', had had 'had'. 'Had had' had been advised, but 'had' had been chosen.
+_09-05  8:54_ Man should think. Machines should work--https://quoteinvestigator.com/2025/09/01/people-think/
 
 
 
 
-_09-08 10:28_ I had had my breakfast when she woke up. She became angry that I had had my breakfast.
-
-vs
-
-I had my breakfast when she woke up. She became mad that I had my breakfast.
-
-In the first she is mad because he already ate while she was still sleeping (she now has to eat by herself). In the second she is mad because he is now eating (maybe they agreed on a diet the night before).
-
-'had had' by https://www.reddit.com/user/Causative/
+_09-04 21:56_ 間章のきかけでは1975年にレイシが最初来日した。今度、1986年レイシーは富樫雅彦の音楽生活三十周年の記念コンサートのために、また来日したと言ったが、富樫雅彦に関してその他のもの何も言わない。
 
 
 
 
-_09-08 10:36_ Halliday's 'had' + past participle as 'past in past', as opposed to 'have' + past participle, which is 'past in present'.
+_09-04 21:28_ ジャズ．アヴァンギャルドは日本のフリージャズに触れることの一つが広島リアル．ジャズ集団の出したLunatic Records 001 と002 が話題になったステイーヴ．レイシーの章だ。Lunatic 001 はただ「日本を代表する四人の若手ピアニスト」のものだけですむが、 レイシーの Lunatic 002 にある「Blues for Aida」が清水を間章に関する7（七つ）行を書かせるようになった。
 
 
 
 
-_09-11  8:42_ Strange ways of becoming a father on wikipedia
-
-* https://en.wikipedia.org/wiki/Anthony_R._Michaelis
-After World War II Michaelis .. married Ann Aikman, with whom he was to have three children.
-
-* https://en.wikipedia.org/wiki/Pierre_Bourdieu
-In 1962, Bourdieu married Marie-Claire Brizard, and the couple would go on to have three sons ..
+_09-04 10:11_ 前にジャズ．アヴァンギャルドに日本のフリージャズが出ない理由は清水俊彦が日本人のミュージシャンを蔑視すると思った。今はかれはそういう風にした理由は「触らぬ神に祟りなし」がましだとかんがえたと思う。
 
 
 
 
-_09-11  9:13_ Instead of saying, "was to have 3 children," and "would go on to have 3 sons," they should just say, "and they had 3 children"
+_09-03  8:02_ Look at this Google Books comparison of frequency of "time-consuming" vs all other permutations of "time" and "consume_INF", https://books.google.com/ngrams/graph?content=time%3D%3Econsume_INF%2Cconsume_INF%3D%3Etime&year_start=1800&year_end=2022&corpus=en&smoothing=3
 
 
 
 
-_09-11  9:17_ Instead of saying, "was to have 3 children," and "would go on to have 3 sons," they should just say, "and they had 3 children"
+_09-01  9:47_ @jensorensen@mastodon.social envisages reading AI summaries resulting in the death of the Internet. I'm not guilty of this, though out of the corner of my eye I can see google's AI overview has the answer to "input string sed" that the hits below only tease with intros like "Read ..", "Learn ..", The lesser sin I'm guilty of is scrolling through google hits to find the answer to my question, "Use a <<< here string" without having to visit sites, which may or may not have that answer.
 
 
+
+_09-01  9:06_ Toot posted: https://mastodon-japan.net/@drbean/115126121722591558
+ジャズ・アヴァンギャルド クロニクル1967-1989著者 清水 俊彦 のタイトルが気にならない。なぜならジャズはカウンタカルチャの一つだ。アヴァンギャルドはカルチャの現象だ。カウンタカルチャの現象ではない。
+
+
+
+## 2025-08
+
+_08-30 22:51_ https://simonwillison.net/2025/Aug/29/lossy-encyclopedia/: An encyclopedia metaphor for LLM. Mine is a bag of statements, cut up into phrases, nouns, verbs, all linked in one big tree, with all the google search keywords ever used to find the statements. We're used to google finding things on the Internet with the right search terms. This is just a step-up from that. LLM are mixing and matching statements & pushing one out. The surprising thing is that the statement is native-speaker-like text.
+
+
+
+_08-30 17:17_ https://www.baeldung.com/linux/sed-with-string
+
+was helpful explaining how to pipe string to sed without
+using 'echo' and how pipes and process substitution
+play roles.
+
+    title="$(sed -nE "1s/^(([[:graph:]]+[[:blank:]]+){4}).*$/\1/p" <<< $story )"
+    html="$(pandoc -f markdown -t html <<< $story )"
+
+
+
+_08-28 22:44_ The Weizenbaum wikipedia article, https://en.wikipedia.org/wiki/Joseph_Weizenbaum, explains his ambivalence on AI with his distinction between deciding and choosing, a distinction I had not recognized. Deciding, being calculating, could be calculated, but choosing, could not be. Being based on values, ie, non-rationality, choice, on the basis of tasks and criteria, can only be creative human acts with consequences. Deciding and choosing, a distinction without a difference?
+
+
+
+_08-28 17:29_ That said, @melaniemitchell's bringing in Weizenbaum, a chatbot creator's misgivings, like Frankenstein's horror, about what they've done, is refreshing, the other AI bros going, 'La-la-la I can't hear you.'
+
+
+
+_08-28 16:28_ That is, we don't know why she asked him to leave the room. It may have had nothing to do with her interaction with the chatbot. We never hear the other side's story.
+
+
+
+
+_08-28 12:11_ Alerted by https://bsky.app/profile/melaniemitchell.bsky.social/post/3lxcsdxrv5c26 to Eliza chatbot creator, Weizenbaum's mixed feelings about AI, I challenge his disingenousness in being disturbed by his secretary's being sucked in (?) by the bot, and asking him to leave the room. That is what he was trying to achieve with it! Perhaps she was only using it to say something about him, or to adjust her dress!
+
+_08-28 11:32_
+Going to try to commonplace book my mastodon posts first #POSSE
 
 Me at
 <form action='https://mastodon.sdf.org/@drbean'>
@@ -170,3 +164,5 @@ style='width:75px;height:20px'/>
 </button></form>
 
 Back to [HomePage](HomePage.html)
+
+
