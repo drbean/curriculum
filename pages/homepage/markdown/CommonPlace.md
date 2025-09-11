@@ -156,6 +156,11 @@ _09-11  9:13_ Instead of saying, "was to have 3 children," and "would go on to h
 
 
 
+
+_09-11  9:17_ Instead of saying, "was to have 3 children," and "would go on to have 3 sons," they should just say, "and they had 3 children"
+
+
+
 Me at
 <form action='https://mastodon.sdf.org/@drbean'>
 <button type='submit' class='btn'>
