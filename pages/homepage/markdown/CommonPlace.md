@@ -38,7 +38,7 @@ In the first she is mad because he already ate while she was still sleeping (she
 
 
 
-_09-08 10:22_ she, where I had had 'had had', had had 'had'. 'Had had' had been advised, but 'had' had been chosen.
+_09-08 10:22_ she, where I had had 'had', had had 'had had'. 'Had had' had been advised, and 'had had' had been chosen.
 
 
 
