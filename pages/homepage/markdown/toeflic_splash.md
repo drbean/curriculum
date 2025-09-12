@@ -24,9 +24,9 @@ To look around and try the material, login as
 
 with password
 
-    Testing123
+    T0efltoeic
 
-That's 'Testing123' with a capital 'T'
+That's 'T0efltoeic' with a capital 'T' and a (0) zero, not an O.
 
 <!-- <a href="https://etsets.moodlecloud.com">Do it!</a></p> -->
 <!-- <a href="https://etsest.moodlecloud.com">Do it!</a></p> -->
