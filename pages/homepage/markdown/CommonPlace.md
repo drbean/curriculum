@@ -2,6 +2,7 @@
 
 ## 2025-09
 
+_09-15  7:30_ 
 _09-15  7:26_ 
 _09-14 21:36_ Painting yourself into a corner.Walking on air, anyone?Walking on water, anyone?Walking on paint, anyone?Watching paint dry, anyone?
 _09-11 22:36_ sponge(1) is counterintuitive. The man page says, "sponge reads standard input and writes it out to the specified file. Unlike a shell redirect, sponge soaks up all its input before writing the output file. This allows constructing pipelines that read from and write to the same file."
