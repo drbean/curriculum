@@ -2,6 +2,7 @@
 
 ## 2025-09
 
+_09-15  8:01_ I was distressed that version control was not seeing changes I made to my blog. Then I couldn't understand why the changes were appearing in the repo. Then I remembered my blogging script commits changes I make to the blog to the repo. The feeling was like wandering around, lost, for a time, and then coming across a place that seems familiar, because I've already been here. LLM hallucinations, anyone?
 _09-15  7:30_ 
 _09-15  7:26_ 
 _09-14 21:36_ Painting yourself into a corner.Walking on air, anyone?Walking on water, anyone?Walking on paint, anyone?Watching paint dry, anyone?
