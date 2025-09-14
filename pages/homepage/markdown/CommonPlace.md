@@ -2,6 +2,19 @@
 
 ## 2025-09
 
+_09-14 21:36_ Painting yourself into a corner.Walking on air, anyone?Walking on water, anyone?Walking on paint, anyone?Watching paint dry, anyone?
+_09-11 22:36_ sponge(1) is counterintuitive. The man page says, "sponge reads standard input and writes it out to the specified file. Unlike a shell redirect, sponge soaks up all its input before writing the output file. This allows constructing pipelines that read from and write to the same file."
+
+But this code,
+
+    < file.txt sponge | tac > file.txt
+
+truncates the file. This code,
+
+    < file.txt tac | sponge file.txt
+
+works. I don't understand. At the end doesn't seem like the right place for it. By then the file's already truncated.
+
 
 
 _09-11  9:13_ Instead of saying, "was to have 3 children," and "would go on to have 3 sons," they should just say, "and they had 3 children"
@@ -155,14 +168,5 @@ _08-28 12:11_ Alerted by https://bsky.app/profile/melaniemitchell.bsky.social/po
 _08-28 11:32_
 Going to try to commonplace book my mastodon posts first #POSSE
 
-Me at
-<form action='https://mastodon.sdf.org/@drbean'>
-<button type='submit' class='btn'>
-<img src='./mastodon.svg'
-alt='https://joinmastodon.org/logos/wordmark-black-text.svg'
-style='width:75px;height:20px'/>
-</button></form>
-
-Back to [HomePage](HomePage.html)
 
 
