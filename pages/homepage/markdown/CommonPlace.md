@@ -2,6 +2,7 @@
 
 ## 2025-09
 
+_09-15  8:14_ An LLM is designed to generate statistically likely responses to the question "Whatwould an answer to this query sound like?" This is not the same thing asanswering the question. It might produce what you are looking for, or it mightnot. This is one reason why output from an LLM will sound authoritative evenwhen it is wrong, and apologetic when mistakes are pointed out. It is notauthoritative or apologetic, and it is not "thinking" about the question, says @mcnees@mastodon.social
 _09-15  8:01_ I was distressed that version control was not seeing changes I made to my blog. Then I couldn't understand why the changes were appearing in the repo. Then I remembered my blogging script commits changes I make to the blog to the repo. The feeling was like wandering around, lost, for a time, and then coming across a place that seems familiar, because I've already been here. LLM hallucinations, anyone?
 _09-15  7:30_ 
 _09-15  7:26_ 
