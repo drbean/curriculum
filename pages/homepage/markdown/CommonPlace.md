@@ -2,11 +2,21 @@
 
 ## 2025-09
 
-_09-15  8:14_ An LLM is designed to generate statistically likely responses to the question "Whatwould an answer to this query sound like?" This is not the same thing asanswering the question. It might produce what you are looking for, or it mightnot. This is one reason why output from an LLM will sound authoritative evenwhen it is wrong, and apologetic when mistakes are pointed out. It is notauthoritative or apologetic, and it is not "thinking" about the question, says @mcnees@mastodon.social
+_09-15  8:50_ My analogy for this AI hair on fire moment was Clever Hans, because people were amazed at the horse's ability to do arithmetic in German. Ny new analogy is #ventriloquism and people's amazement a dummy could be a living breathing doll.
+_09-15  8:14_ An LLM is designed to generate statistically likely responses to the question "What would an answer to this query sound like?" This is not the same thing as answering the question. It might produce what you are looking for, or it might not. This is one reason why output from an LLM will sound authoritative even when it is wrong, and apologetic when mistakes are pointed out. It is not authoritative or apologetic, and it is not "thinking" about the question, says @mcnees@mastodon.social
+
 _09-15  8:01_ I was distressed that version control was not seeing changes I made to my blog. Then I couldn't understand why the changes were appearing in the repo. Then I remembered my blogging script commits changes I make to the blog to the repo. The feeling was like wandering around, lost, for a time, and then coming across a place that seems familiar, because I've already been here. LLM hallucinations, anyone?
-_09-15  7:30_ 
-_09-15  7:26_ 
-_09-14 21:36_ Painting yourself into a corner.Walking on air, anyone?Walking on water, anyone?Walking on paint, anyone?Watching paint dry, anyone?
+
+_09-14 21:36_ Painting yourself into a corner:
+
+Walking on air, anyone?
+
+Walking on water, anyone?
+
+Walking on paint, anyone?
+
+Watching paint dry, anyone?
+
 _09-11 22:36_ sponge(1) is counterintuitive. The man page says, "sponge reads standard input and writes it out to the specified file. Unlike a shell redirect, sponge soaks up all its input before writing the output file. This allows constructing pipelines that read from and write to the same file."
 
 But this code,
