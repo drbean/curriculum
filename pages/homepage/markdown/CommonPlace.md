@@ -3,6 +3,7 @@
 ## 2025-09
 
 _ 
+_ 
 _ "Living breathing doll" is a song title, a later rendering of the earlier song title,  "Living doll". ddg returns "breathing doll" doll hits, but google doesn't on the first page. The first seems to be a title for a NY Post article about a Japanese robot in 2005, a second a quote from a book in 2017, and the third the song title in 2019. Given this, I suspect the google AI overview of the phrase is "extrapolating", or playing fast and loose with the facts.
 _09-15  8:50_ My analogy for this AI hair on fire moment was Clever Hans, because people were amazed at the horse's ability to do arithmetic in German. Ny new analogy is #ventriloquism and people's amazement a dummy could be a living breathing doll.
 
