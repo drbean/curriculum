@@ -2,6 +2,7 @@
 
 ## 2025-09
 
+_ Ha. gmail is putting notifications from me as an administrator of my google blogger.com blog to me (under another id) inviting me to be a poster in my spam folder.
 _ On 09-15 10:16, google AI overview returned,  "Living breathing doll" is a figurative phrase or idiom that describes a person who is exceptionally beautiful, charming, or endearing, often to the point of seeming unreal or like a perfectly crafted doll come to life. It can also refer to the "Living Doll" aesthetic, a beauty trend characterized by a hyper-feminine, doll-like appearance, and in a broader sense, can refer to life-sized, lifelike mannequins or dolls, such as the historical Japan
 _ 
 _ 
