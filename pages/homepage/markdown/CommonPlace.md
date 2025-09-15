@@ -2,6 +2,7 @@
 
 ## 2025-09
 
+_09-15 23:07_ The reference to iki-ningyo (生人形) or ikiki-ningyo (行き来人形) is completely gratuitous, I assume included because the literal translation is "living doll". (Though, I'm wondering if the Japan reference is because google knows I'm in Japan from my IP address.). They were exhibited waxwork figures and are not in the Japanese wikipedia doll page, but at https://ja.wikipedia.org/wiki/%E7%94%9F%E4%BA%BA%E5%BD%A2 The English wikipedia page is more gory.
 _ There's much wrong with this changing AI Assist. The 2 sentences are 2 bites at the apple, failing because they are saying essentially the same thing twice. The verbs in the 2 sentences, "describe", "seem", "refer," "possess", "be", "have", "seem", "come to life", "refer" again, "characterize" are weak verbs. Without meaningful verbs, the effect is of having a series of noun phrases hanging together grammatically, but failing to communicate semantically anything more than they would as a list.
 _09-15 13:??_ Ha. gmail is putting notifications from me as an administrator of my google blogger.com blog to me (under another id) inviting me to be a poster in my spam folder.
 
