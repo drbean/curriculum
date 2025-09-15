@@ -2,11 +2,13 @@
 
 ## 2025-09
 
-_ Ha. gmail is putting notifications from me as an administrator of my google blogger.com blog to me (under another id) inviting me to be a poster in my spam folder.
-_ On 09-15 10:16, google AI overview returned,  "Living breathing doll" is a figurative phrase or idiom that describes a person who is exceptionally beautiful, charming, or endearing, often to the point of seeming unreal or like a perfectly crafted doll come to life. It can also refer to the "Living Doll" aesthetic, a beauty trend characterized by a hyper-feminine, doll-like appearance, and in a broader sense, can refer to life-sized, lifelike mannequins or dolls, such as the historical Japan
-_ 
-_ 
-_ "Living breathing doll" is a song title, a later rendering of the earlier song title,  "Living doll". ddg returns "breathing doll" doll hits, but google doesn't on the first page. The first seems to be a title for a NY Post article about a Japanese robot in 2005, a second a quote from a book in 2017, and the third the song title in 2019. Given this, I suspect the google AI overview of the phrase is "extrapolating", or playing fast and loose with the facts.
+_ There's much wrong with this changing AI Assist. The 2 sentences are 2 bites at the apple, failing because they are saying essentially the same thing twice. The verbs in the 2 sentences, "describe", "seem", "refer," "possess", "be", "have", "seem", "come to life", "refer" again, "characterize" are weak verbs. Without meaningful verbs, the effect is of having a series of noun phrases hanging together grammatically, but failing to communicate semantically anything more than they would as a list.
+_09-15 13:??_ Ha. gmail is putting notifications from me as an administrator of my google blogger.com blog to me (under another id) inviting me to be a poster in my spam folder.
+
+_09-15 10:??_ On 09-15 10:16, google AI overview returned,  "Living breathing doll" is a figurative phrase or idiom that describes a person who is exceptionally beautiful, charming, or endearing, often to the point of seeming unreal or like a perfectly crafted doll come to life. It can also refer to the "Living Doll" aesthetic, a beauty trend characterized by a hyper-feminine, doll-like appearance, and in a broader sense, can refer to life-sized, lifelike mannequins or dolls, such as the historical Japan iki-ningyō.
+
+_09-15 9:??_ "Living breathing doll" is a song title, a later rendering of the earlier song title,  "Living doll". ddg returns "breathing doll" doll hits, but google doesn't on the first page. The first seems to be a title for a NY Post article about a Japanese robot in 2005, a second a quote from a book in 2017, and the third the song title in 2019. Given this lack of depth for the phrase, I suspect the google AI overview of the phrase is "extrapolating", or playing fast and loose with the facts.
+
 _09-15  8:50_ My analogy for this AI hair on fire moment was Clever Hans, because people were amazed at the horse's ability to do arithmetic in German. Ny new analogy is #ventriloquism and people's amazement a dummy could be a living breathing doll.
 
 _09-15  8:14_ An LLM is designed to generate statistically likely responses to the question "What would an answer to this query sound like?" This is not the same thing as answering the question. It might produce what you are looking for, or it might not. This is one reason why output from an LLM will sound authoritative even when it is wrong, and apologetic when mistakes are pointed out. It is not authoritative or apologetic, and it is not "thinking" about the question, says @mcnees@mastodon.social
