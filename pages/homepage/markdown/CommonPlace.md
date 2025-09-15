@@ -2,7 +2,9 @@
 
 ## 2025-09
 
+_ "Living breathing doll" is a song title, a later rendering of the earlier song title,  "Living doll". ddg returns "breathing doll" doll hits, but google doesn't on the first page. The first seems to be a title for a NY Post article about a Japanese robot in 2005, a second a quote from a book in 2017, and the third the song title in 2019. Given this, I suspect the google AI overview of the phrase is "extrapolating", or playing fast and loose with the facts.
 _09-15  8:50_ My analogy for this AI hair on fire moment was Clever Hans, because people were amazed at the horse's ability to do arithmetic in German. Ny new analogy is #ventriloquism and people's amazement a dummy could be a living breathing doll.
+
 _09-15  8:14_ An LLM is designed to generate statistically likely responses to the question "What would an answer to this query sound like?" This is not the same thing as answering the question. It might produce what you are looking for, or it might not. This is one reason why output from an LLM will sound authoritative even when it is wrong, and apologetic when mistakes are pointed out. It is not authoritative or apologetic, and it is not "thinking" about the question, says @mcnees@mastodon.social
 
 _09-15  8:01_ I was distressed that version control was not seeing changes I made to my blog. Then I couldn't understand why the changes were appearing in the repo. Then I remembered my blogging script commits changes I make to the blog to the repo. The feeling was like wandering around, lost, for a time, and then coming across a place that seems familiar, because I've already been here. LLM hallucinations, anyone?
