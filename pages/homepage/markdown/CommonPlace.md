@@ -2,6 +2,7 @@
 
 ## 2025-09
 
+_ On 09-15 10:16, google AI overview returned,  "Living breathing doll" is a figurative phrase or idiom that describes a person who is exceptionally beautiful, charming, or endearing, often to the point of seeming unreal or like a perfectly crafted doll come to life. It can also refer to the "Living Doll" aesthetic, a beauty trend characterized by a hyper-feminine, doll-like appearance, and in a broader sense, can refer to life-sized, lifelike mannequins or dolls, such as the historical Japan
 _ 
 _ 
 _ "Living breathing doll" is a song title, a later rendering of the earlier song title,  "Living doll". ddg returns "breathing doll" doll hits, but google doesn't on the first page. The first seems to be a title for a NY Post article about a Japanese robot in 2005, a second a quote from a book in 2017, and the third the song title in 2019. Given this, I suspect the google AI overview of the phrase is "extrapolating", or playing fast and loose with the facts.
