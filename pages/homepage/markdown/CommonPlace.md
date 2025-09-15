@@ -3,6 +3,7 @@
 ## 2025-09
 
 _09-16  8:01_ I don't think Melanie Mitchell's magical thinking (https://aiguide.substack.com/p/magical-thinking-on-ai) and Murray Shanahan's roleplaying (https://www.nature.com/articles/s41586-023-06647-8) bring much to the table, explaining the reaction to or the nature of LLM, but Alison Gopnik's stone soup story (https://simons.berkeley.edu/news/stone-soup-ai) is illuminating, inspirational because it takes LLM apart *and* gives them respect.
+
 _09-15 23:07_ The reference to iki-ningyo (生人形) or ikiki-ningyo (行き来人形) is completely gratuitous, I assume included because the literal translation is "living doll". (Though, I'm wondering if the Japan reference is because google knows I'm in Japan from my IP address.). They were exhibited waxwork figures and are not mentioned in the Japanese wikipedia doll page, but are at https://ja.wikipedia.org/wiki/%E7%94%9F%E4%BA%BA%E5%BD%A2 The English wikipedia page has more gory details than the Japanese.
 
 _09-15 ??:??_ There's much wrong with this unstable AI Assist. The 2 sentences are 2 bites at the apple, failing because they are saying essentially the same thing twice. The verbs in the 2 sentences, "describe", "seem", "refer," "possess", "be", "have", "seem", "come to life", "refer" again, "characterize" are weak verbs. Without meaningful verbs, the effect is of having a series of noun phrases hanging together grammatically, but failing to communicate semantically anything more than they would have as a list.
