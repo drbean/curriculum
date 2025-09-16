@@ -2,16 +2,7 @@
 
 ## 2025-09
 
-_09-16 17:16_ Googling "bash digraphs like vim" the first line of the AI Assist answer says something about creating aliases. I want to resist reading further but the hits are unhelpful, being all about vim, not bash. I will change the search string to "bash unicode". 'man bash' only offers 'uHHHH'. Ugh
-
-
-_09-16 17:15_ 
-
-
-_09-16 17:14_ 
-
-
-_09-16  9:46_ 'Living breathing doll' AI Assist: ".. in a broader sense, can refer to life-sized, lifelike mannequins or dolls, such as the historical Japan iki-ningyo." 'in a broader sense'? I don't think it means what you think it means.
+_09-16 17:16_ Googling "bash digraphs like vim" the first line of the AI Assist answer says something about creating aliases. I want to resist reading further but the hits are unhelpful, being all about vim, not bash. I will change the search string to "bash unicode". 'man bash' only offers '\\uHHHH'. Ugh
 
 _09-16  8:01_ I don't think Melanie Mitchell's magical thinking (https://aiguide.substack.com/p/magical-thinking-on-ai) and Murray Shanahan's roleplaying (https://www.nature.com/articles/s41586-023-06647-8) bring much to the table, explaining the reaction to or the nature of LLM, but Alison Gopnik's stone soup story (https://simons.berkeley.edu/news/stone-soup-ai) is illuminating, inspirational because it takes LLM apart *and* gives them respect.
 
