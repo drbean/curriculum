@@ -2,6 +2,9 @@
 
 ## 2025-09
 
+_09-16 20:20_ I might make a bash alias for a Unicode right arrow. I can find the code point in vim digraphs, though there are a lot to scroll through. It's probably just '->'.
+
+
 _09-16 17:59_ "bash unicode typing" wasn't much use, but "mintty cygwin terminal unicode" led me to the mintty manual, where I found I didn't have the Ctrl+Shift+letter shortcut option enabled
 
 
