@@ -2,6 +2,17 @@
 
 ## 2025-09
 
+_09-17  8:41_ ### language as a general cognitive function
+
+3 keywords:
+
+* memory
+* imagination
+* analogy
+
+
+
+
 _09-17  8:22_ I need to learn how to use readline better. It has almost 800 lines in 'man bash', around a sixth of the total 4452 lines
 
 
