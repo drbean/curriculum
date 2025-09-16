@@ -42,7 +42,18 @@ truncates the file. This code,
 
 works. I don't understand. At the end doesn't seem like the right place for it. By then the file's already truncated.
 
+In thread:
 
+joe
+wyohjoe@mastodon.sdf.org
+
+@drbean In the first one, you're using shell redirection (the ` > file.txt`
+part) to write into file.txt. All shell redirections are opened by the shell
+before any of the commands are invoked, which is why file.txt gets truncated.
+
+In your second example, you're passing file.txt as an argument to the sponge
+command, and the sponge command opens the file itself, which occurs later in
+processing which is why that doesn't truncate it.
 
 _09-11  9:13_ Instead of saying, "was to have 3 children," and "would go on to have 3 sons," they should just say, "and they had 3 children"
 
