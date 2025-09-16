@@ -2,6 +2,9 @@
 
 ## 2025-09
 
+_09-17  8:22_ I need to learn how to use readline better. It has almost 800 lines in 'man bash', around a sixth of the total 4452 lines
+
+
 _09-17  8:03_ ### language as a general cognitive function3 keywords:* memory* imagination* analogy
 
 
