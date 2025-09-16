@@ -2,6 +2,18 @@
 
 ## 2025-09
 
+_09-17  8:45_ 
+### language as a general cognitive function
+
+3 keywords:
+
+* memory
+* imagination
+* analogy
+
+
+
+
 _09-17  8:41_ ### language as a general cognitive function
 
 3 keywords:
