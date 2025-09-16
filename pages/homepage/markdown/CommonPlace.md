@@ -2,6 +2,9 @@
 
 ## 2025-09
 
+_09-16 17:59_ "bash unicode typing" wasn't much use, but "mintty cygwin terminal unicode" led me to the mintty manual, where I found I didn't have the Ctrl+Shift+letter shortcut option enabled
+
+
 _09-16 17:55_ "bash unicode typing" wasn't much use, but "mintty cygwin terminal unicode" led me to the mintty manual, where I found I didn't have the Ctrl+Shift+letter shortcut option enabled
 
 
