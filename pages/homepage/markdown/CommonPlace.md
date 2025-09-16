@@ -2,6 +2,9 @@
 
 ## 2025-09
 
+_09-16 17:16_ Googling "bash digraphs like vim" the first line of the AI Assist answer says something about creating aliases. I want to resist reading further but the hits are unhelpful, being all about vim, not bash. I will change the search string to "bash unicode". 'man bash' only offers 'uHHHH'. Ugh
+
+
 _09-16 17:15_ 
 
 
