@@ -2,7 +2,28 @@
 
 ## 2025-09
 
-_09-16 21:05_ alias arrow="echo -n → "$ arrow hey howdy ha→ hey howdy hadrbean@ESPRIMO ~$ echo -n hey ; arrow howdy hahey→ howdy hadrbean@ESPRIMO ~$ echo -n $(arrow howdy hey) ha→ howdy hey hadrbean@ESPRIMO ~$I guess this is marginally useful for something
+_09-17  8:03_ ### language as a general cognitive function3 keywords:* memory* imagination* analogy
+
+
+_09-16 21:05_
+
+    alias arrow="echo -n → "
+
+    $ arrow hey howdy ha
+    → hey howdy ha
+
+    drbean@ESPRIMO ~
+    $ echo -n hey ; arrow howdy ha
+    hey→ howdy ha
+
+    drbean@ESPRIMO ~
+    $ echo -n $(arrow howdy hey) ha
+    → howdy hey ha
+
+    drbean@ESPRIMO ~
+    $
+
+I guess this is marginally useful for something
 
 
 _09-16 20:20_ I might make a bash alias for a Unicode right arrow. I can find the code point in vim digraphs, though there are a lot to scroll through. It's probably just '->'.
