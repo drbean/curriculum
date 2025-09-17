@@ -2,6 +2,19 @@
 
 ## 2025-09
 
+_09-17  9:47_ 
+Scene: A car at the bottom of a cliff, with blood splattered everywhere
+
+| Bystander: Was there anyone in the car?
+| Police: No, Einstein.
+
+| Bystander: Someone was in the car?
+| Police: Yes, Sherlock.
+
+
+
+
+
 _09-17  8:55_ 
 
 ##### language as a general cognitive function
@@ -15,47 +28,7 @@ _09-17  8:55_
 
 
 
-
-_09-17  8:48_ 
-
-### language as a general cognitive function
-
-3 keywords:
-
-* memory
-* imagination
-* analogy
-
-
-
-
-_09-17  8:45_ 
-### language as a general cognitive function
-
-3 keywords:
-
-* memory
-* imagination
-* analogy
-
-
-
-
-_09-17  8:41_ ### language as a general cognitive function
-
-3 keywords:
-
-* memory
-* imagination
-* analogy
-
-
-
-
 _09-17  8:22_ I need to learn how to use readline better. It has almost 800 lines in 'man bash', around a sixth of the total 4452 lines
-
-
-_09-17  8:03_ ### language as a general cognitive function3 keywords:* memory* imagination* analogy
 
 
 _09-16 21:05_
