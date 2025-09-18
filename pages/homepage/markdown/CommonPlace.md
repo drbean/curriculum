@@ -2,6 +2,10 @@
 
 ## 2025-09
 
+_09-19  8:52_ Agent definitions collected at https://simonwillison.net/tags/agent-definitions/ I'm unhappy about term, 'agents'. http://drbean.sdf.org/AgainstAgency.html They never discuss the double meaning, http://drbean.sdf.org/DuplicitousAgent.html I'm afraid of the technical AI meaning tail wagging the established, real-world meaning dog.
+
+
+
 _09-17  9:47_ 
 Scene: A car at the bottom of a cliff, with blood splattered everywhere
 
