@@ -20,23 +20,19 @@ post="_${date}_ "
 
 while read -r line ; do
     stdout+=$line
-    post+=$line
+    post+="$line\n"
 done
 
 title="$(sed -nE "1s/^_${date}_ (([[:graph:]]+[[:blank:]]+){5}).*$/\1/p" <<< $post)"
 
-echo $stdout
-sed -i.BAK -e "4a\
-$post\
-\
-\
-" $M/$story.md
+sed -i.BAK -e "4a$post\n\n" $M/$story.md
 
 for p in $story $topic
     do pandoc -o c:/cygwin64/tmp/pandoc/$p.html --standalone \
         --template=c:$HOME/curriculum/pages/pandoc-templates/git/homepagePost.html5 \
        $M/$p.md
 done
+pandoc -t plain <<< "$post"
 
 cd $M 1>&2
 for v in svn git ; do $v add $M/{$topic,$story}.md ; done 1>&2
