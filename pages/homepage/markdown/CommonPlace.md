@@ -2,6 +2,13 @@
 
 ## 2025-09
 
+_09-21  8:10_ 『暮らしの韓国語表現6001』、今井久美雄 에서 399
+
+| A 오늘은 내가 살 테니까, 잘 아는 단골 초밥집에 가자.
+| B 와, 정말? 꼭 스시바에 앉아서 먹어 보고 싶었는데.
+
+
+
 _09-20 23:07_ I'm going to try to use "in a broader sense" properly and show that AI Assist was not using it properly. I may have misunderstood the point of the sentence in which it occurs. I took it to be a statement about Japanese 生人形, but actually it was probably saying life-like store window mannequins might be called "living breathing dolls".
 
 
