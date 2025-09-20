@@ -2,6 +2,10 @@
 
 ## 2025-09
 
+_09-20 23:07_ I'm going to try to use "in a broader sense" properly and show that AI Assist was not using it properly. I may have misunderstood the point of the sentence in which it occurs. I took it to be a statement about Japanese 生人形, but actually it was probably saying life-like store window mannequins might be called "living breathing dolls".
+
+
+
 _09-19  8:52_ Agent definitions collected at https://simonwillison.net/tags/agent-definitions/ I'm unhappy about term, 'agents'. http://drbean.sdf.org/AgainstAgency.html They never discuss the double meaning, http://drbean.sdf.org/DuplicitousAgent.html I'm afraid of the technical AI meaning tail wagging the established, real-world meaning dog.
 
 
