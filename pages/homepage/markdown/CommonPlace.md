@@ -2,6 +2,14 @@
 
 ## 2025-09
 
+_09-21  9:04_ Checking google AI's response to "living breathing doll" again to see if it had a different Japanese reference this time. (It did a second time), it said:
+
+It sounds like you're interested in the idea of a "living breathing doll." To give you a more specific answer, I can help you find products, people, or media related to this topic. Would you like me to find out more about interactive plush toys, lifelike reborn dolls, or something else entirely?
+
+That's unsettling. I am being stalked.
+
+
+
 _09-21  8:10_ 『暮らしの韓国語表現6001』、今井久美雄 에서 399
 
 | A 오늘은 내가 살 테니까, 잘 아는 단골 초밥집에 가자.
