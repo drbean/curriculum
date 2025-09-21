@@ -4,7 +4,7 @@
 
 _09-21  9:04_ Checking google AI's response to "living breathing doll" again to see if it had a different Japanese reference this time. (It did a second time), it said:
 
-It sounds like you're interested in the idea of a "living breathing doll." To give you a more specific answer, I can help you find products, people, or media related to this topic. Would you like me to find out more about interactive plush toys, lifelike reborn dolls, or something else entirely?
+    It sounds like you're interested in the idea of a "living breathing doll." To give you a more specific answer, I can help you find products, people, or media related to this topic. Would you like me to find out more about interactive plush toys, lifelike reborn dolls, or something else entirely?
 
 That's unsettling. I am being stalked.
 
