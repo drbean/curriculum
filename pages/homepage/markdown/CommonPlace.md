@@ -2,15 +2,13 @@
 
 ## 2025-09
 
+_09-21 16:23_ How did I do? The phrase, *_in a broader sense_* is used to indicate some form of hypernym/hyponym relationship and synecdoche (?), I think. It is not used to introduce a different thing which is also an exemplar of the category being discussed. There are probably animal and plant terms used this way, Eg, "cats", "big cats" and, in a broader sense, "the cat family"?
+
+
+
 _09-21  9:59_ My attempt to use "in a broader sense":
 
-A "car" is a sedan or similar-styled vehicle, but *_in a broader sense_* the term may be used to include a wider range of vehicles, eg buses and other vehicles with more than 4 wheels, but probably not motor cycles or bicycles, as in the statement, "Many cars on the road today"
-
-
-
-_09-21  9:54_ My attempt to use "in a broader sense":
-
-A "car" is a sedan or similar-styled vehicle, but *_in a broader sense_* the term may be used to include a wider range of vehicles, eg buses and other vehicles with more than 4 wheels, but probably not motor cycles or bicycles, as in the statement, "Many cars on the road today"
+    A "car" is a sedan or similar-styled vehicle, but the term may be used *_in a broader sense_* to refer to a wider range of vehicles, eg buses and other vehicles with more than 4 wheels, but probably not motor cycles or bicycles, as in the statement, "Many cars on the road this morning."
 
 
 
