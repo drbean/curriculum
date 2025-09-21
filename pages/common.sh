@@ -27,6 +27,8 @@ title="$(sed -nE "1s/^_${date}_ (([[:graph:]]+[[:blank:]]+){5}).*$/\1/p" <<< $po
 
 sed -i.BAK -e "4a$post\n\n" $M/$story.md
 
+sed -i.BAK -nE 's/http(s?:[[:graph:]]*)([[:blank:]])/Þ\1\2/g ; /^[^Þ]*$/p ; s/([^Þ]*)Þ(s?:[[:graph:]]*)([[:blank:]])/\1[http\2](http\3)/pg' $M/$story.md
+
 for p in $story $topic
     do pandoc -o c:/cygwin64/tmp/pandoc/$p.html --standalone \
         --template=c:$HOME/curriculum/pages/pandoc-templates/git/homepagePost.html5 \
