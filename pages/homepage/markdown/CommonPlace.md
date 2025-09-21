@@ -2,7 +2,7 @@
 
 ## 2025-09
 
-_09-21 16:46_ Google book hits for 'in a broader sense': [https://books.google.com/ngrams/graph?content=in+a+broader+sense&year_start=1800&year_end=2022&corpus=en&smoothing=3](https://books.google.com/ngrams/graph?content=in+a+broader+sense&year_start=1800&year_end=2022&corpus=en&smoothing=3) impressively monotonically increasing.
+_09-21 16:46_ Google book hits for 'in a broader sense': https://books.google.com/ngrams/graph?content=in+a+broader+sense&year_start=1800&year_end=2022&corpus=en&smoothing=3 impressively monotonically increasing.
 
 
 
