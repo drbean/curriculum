@@ -19,7 +19,7 @@ date=$(date  +'%m-%d %k:%M')
 post="_${date}_ "
 
 while read -r line ; do
-    stdout+=$line
+    stdout+="$line\n"
     post+="$line\n"
 done
 
@@ -32,7 +32,7 @@ for p in $story $topic
         --template=c:$HOME/curriculum/pages/pandoc-templates/git/homepagePost.html5 \
        $M/$p.md
 done
-pandoc -t plain <<< "$post"
+pandoc -t plain <<< "$stdout"
 
 cd $M 1>&2
 for v in svn git ; do $v add $M/{$topic,$story}.md ; done 1>&2
