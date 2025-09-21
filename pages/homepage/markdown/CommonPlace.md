@@ -2,6 +2,12 @@
 
 ## 2025-09
 
+_09-21  9:54_ My attempt to use "in a broader sense":
+
+A "car" is a sedan or similar-styled vehicle, but *_in a broader sense_* the term may be used to include a wider range of vehicles, eg buses and other vehicles with more than 4 wheels, but probably not motor cycles or bicycles, as in the statement, "Many cars on the road today"
+
+
+
 _09-21  9:04_ Checking google AI's response to "living breathing doll" again to see if it had a different Japanese reference this time. (It did a second time), it said:
 
     It sounds like you're interested in the idea of a "living breathing doll." To give you a more specific answer, I can help you find products, people, or media related to this topic. Would you like me to find out more about interactive plush toys, lifelike reborn dolls, or something else entirely?
