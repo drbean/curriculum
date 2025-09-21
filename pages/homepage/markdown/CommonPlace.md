@@ -2,6 +2,12 @@
 
 ## 2025-09
 
+_09-21  9:59_ My attempt to use "in a broader sense":
+
+A "car" is a sedan or similar-styled vehicle, but *_in a broader sense_* the term may be used to include a wider range of vehicles, eg buses and other vehicles with more than 4 wheels, but probably not motor cycles or bicycles, as in the statement, "Many cars on the road today"
+
+
+
 _09-21  9:54_ My attempt to use "in a broader sense":
 
 A "car" is a sedan or similar-styled vehicle, but *_in a broader sense_* the term may be used to include a wider range of vehicles, eg buses and other vehicles with more than 4 wheels, but probably not motor cycles or bicycles, as in the statement, "Many cars on the road today"
