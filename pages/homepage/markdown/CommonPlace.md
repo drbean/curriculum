@@ -2,6 +2,12 @@
 
 ## 2025-09
 
+_09-27 14:41_ Alerted by [https://languagelog.ldc.upenn.edu/nll/?p=71138](http )I need to read [https://www.cambridge.org/core/services/aop-cambridge-core/content/view/2395C24EB472B60B2514F7D5F93EB9A8/S0140525X2510112Xa.pdf/how_linguistics_learned_to_stop_worrying_and_love_the_language_models.pdf](http )about the implications for linguistics of LLM language user verisimilitude.
+
+It starts with an allegory of disagreement between Norm (ie Chomsky) and Claudette (Claude, I guess), and is easy to read.
+
+
+
 _09-26 10:39_ 『실용 한국어 문법 상급』 안진명, 선은희  에서 11
 
 | 가: 이거 프랑스 초콜릿이네요. 휴가 때 프랑스에 다녀 오셔나 봐요.
@@ -24,7 +30,7 @@ _09-25  9:52_ "dir" and "mkdir" typed with the left hand one key to the right sp
 
 
 
-_09-21 16:46_ Google book hits for 'in a broader sense': [[[[https://books.google.com/ngrams/graph?content=in+a+broader+sense&year_start=1800&year_end=2022&corpus=en&smoothing=3](https://books.google.com/ngrams/graph?content=in+a+broader+sense&year_start=1800&year_end=2022&corpus=en&smoothing=3)impressively](http](http](http )))monotonically increasing.
+_09-21 16:46_ Google book hits for 'in a broader sense': [[[[[https://books.google.com/ngrams/graph?content=in+a+broader+sense&year_start=1800&year_end=2022&corpus=en&smoothing=3](https://books.google.com/ngrams/graph?content=in+a+broader+sense&year_start=1800&year_end=2022&corpus=en&smoothing=3)impressively](http](http](http](http ))))monotonically increasing.
 
 
 
@@ -57,7 +63,7 @@ _09-20 23:07_ I'm going to try to use "in a broader sense" properly and show tha
 
 
 
-_09-19  8:52_ Agent definitions collected at [[[[https://simonwillison.net/tags/agent-definitions/](https://simonwillison.net/tags/agent-definitions/)I'm](http](http](http )))unhappy about term, 'agents'. [[[[http://drbean.sdf.org/AgainstAgency.html](http://drbean.sdf.org/AgainstAgency.html)They](http](http](http )))never discuss the double meaning, [[[[http://drbean.sdf.org/DuplicitousAgent.html](http://drbean.sdf.org/DuplicitousAgent.html)I'm](http](http](http )))afraid of the technical AI meaning tail wagging the established, real-world meaning dog.
+_09-19  8:52_ Agent definitions collected at [[[[[https://simonwillison.net/tags/agent-definitions/](https://simonwillison.net/tags/agent-definitions/)I'm](http](http](http](http ))))unhappy about term, 'agents'. [[[[[http://drbean.sdf.org/AgainstAgency.html](http://drbean.sdf.org/AgainstAgency.html)They](http](http](http](http ))))never discuss the double meaning, [[[[[http://drbean.sdf.org/DuplicitousAgent.html](http://drbean.sdf.org/DuplicitousAgent.html)I'm](http](http](http](http ))))afraid of the technical AI meaning tail wagging the established, real-world meaning dog.
 
 
 
@@ -119,9 +125,9 @@ _09-16 17:59_ "bash unicode typing" wasn't much use, but "mintty cygwin terminal
 
 _09-16 17:16_ Googling "bash digraphs like vim" the first line of the AI Assist answer says something about creating aliases. I want to resist reading further but the hits are unhelpful, being all about vim, not bash. I will change the search string to "bash unicode". 'man bash' only offers '\\uHHHH'. Ugh
 
-_09-16  8:01_ I don't think Melanie Mitchell's magical thinking ([[[[https://aiguide.substack.com/p/magical-thinking-on-ai)](https://aiguide.substack.com/p/magical-thinking-on-ai))and](http](http](http )))Murray Shanahan's roleplaying ([[[[https://www.nature.com/articles/s41586-023-06647-8)](https://www.nature.com/articles/s41586-023-06647-8))bring](http](http](http )))much to the table, explaining the reaction to or the nature of LLM, but Alison Gopnik's stone soup story ([[[[https://simons.berkeley.edu/news/stone-soup-ai)](https://simons.berkeley.edu/news/stone-soup-ai))is](http](http](http )))illuminating, inspirational because it takes LLM apart, showing users are being fooled, and *still* shows respect.
+_09-16  8:01_ I don't think Melanie Mitchell's magical thinking ([[[[[https://aiguide.substack.com/p/magical-thinking-on-ai)](https://aiguide.substack.com/p/magical-thinking-on-ai))and](http](http](http](http ))))Murray Shanahan's roleplaying ([[[[[https://www.nature.com/articles/s41586-023-06647-8)](https://www.nature.com/articles/s41586-023-06647-8))bring](http](http](http](http ))))much to the table, explaining the reaction to or the nature of LLM, but Alison Gopnik's stone soup story ([[[[[https://simons.berkeley.edu/news/stone-soup-ai)](https://simons.berkeley.edu/news/stone-soup-ai))is](http](http](http](http ))))illuminating, inspirational because it takes LLM apart, showing users are being fooled, and *still* shows respect.
 
-_09-15 23:07_ The reference to iki-ningyo (生人形) or ikiki-ningyo (行き来人形) is completely gratuitous, I assume included because the literal translation is "living doll". (Though, I'm wondering if the Japan reference is because google knows I'm in Japan from my IP address.). They were exhibited waxwork figures and are not mentioned in the Japanese wikipedia doll page, but are at [[[[https://ja.wikipedia.org/wiki/%E7%94%9F%E4%BA%BA%E5%BD%A2](https://ja.wikipedia.org/wiki/%E7%94%9F%E4%BA%BA%E5%BD%A2)The](http](http](http )))English wikipedia page has more gory details than the Japanese.
+_09-15 23:07_ The reference to iki-ningyo (生人形) or ikiki-ningyo (行き来人形) is completely gratuitous, I assume included because the literal translation is "living doll". (Though, I'm wondering if the Japan reference is because google knows I'm in Japan from my IP address.). They were exhibited waxwork figures and are not mentioned in the Japanese wikipedia doll page, but are at [[[[[https://ja.wikipedia.org/wiki/%E7%94%9F%E4%BA%BA%E5%BD%A2](https://ja.wikipedia.org/wiki/%E7%94%9F%E4%BA%BA%E5%BD%A2)The](http](http](http](http ))))English wikipedia page has more gory details than the Japanese.
 
 _09-15 ??:??_ There's much wrong with this unstable AI Assist. The 2 sentences are 2 bites at the apple, failing because they are saying essentially the same thing twice. The verbs in the 2 sentences, "describe", "seem", "refer," "possess", "be", "have", "seem", "come to life", "refer" again, "characterize" are weak verbs. Without meaningful verbs, the effect is of having a series of noun phrases hanging together grammatically, but failing to communicate semantically anything more than they would have as a list.
 
@@ -210,7 +216,7 @@ _09-08 10:22_ she, where I had had 'had', had had 'had had'. 'Had had' had been 
 
 
 
-_09-08 10:00_ qutebrowser history to the rescue! I read the characterization of language as compositional, systematic, productive in [[[[https://aiguide.substack.com/p/an-ai-breakthrough-on-systematic](https://aiguide.substack.com/p/an-ai-breakthrough-on-systematic)that](http](http](http )))I probly found in [[[[https://aiguide.substack.com/p/do-half-of-ai-researchers-believe.](https://aiguide.substack.com/p/do-half-of-ai-researchers-believe.)But](http](http](http )))where I had 'subsitutability', [[[[https://melaniemitchell.me/](https://melaniemitchell.me/)had](http](http](http )))'systematicity'. I stand by my choice.
+_09-08 10:00_ qutebrowser history to the rescue! I read the characterization of language as compositional, systematic, productive in [[[[[https://aiguide.substack.com/p/an-ai-breakthrough-on-systematic](https://aiguide.substack.com/p/an-ai-breakthrough-on-systematic)that](http](http](http](http ))))I probly found in [[[[[https://aiguide.substack.com/p/do-half-of-ai-researchers-believe.](https://aiguide.substack.com/p/do-half-of-ai-researchers-believe.)But](http](http](http](http ))))where I had 'subsitutability', [[[[[https://melaniemitchell.me/](https://melaniemitchell.me/)had](http](http](http](http ))))'systematicity'. I stand by my choice.
 
 
 
@@ -290,7 +296,7 @@ _09-01  9:06_ Toot posted: https://mastodon-japan.net/@drbean/115126121722591558
 
 ## 2025-08
 
-_08-30 22:51_ [[[[https://simonwillison.net/2025/Aug/29/lossy-encyclopedia/:](https://simonwillison.net/2025/Aug/29/lossy-encyclopedia/:)An](http](http](http )))encyclopedia metaphor for LLM. Mine is a bag of statements, cut up into phrases, nouns, verbs, all linked in one big tree, with all the google search keywords ever used to find the statements. We're used to google finding things on the Internet with the right search terms. This is just a step-up from that. LLM are mixing and matching statements & pushing one out. The surprising thing is that the statement is native-speaker-like text.
+_08-30 22:51_ [[[[[https://simonwillison.net/2025/Aug/29/lossy-encyclopedia/:](https://simonwillison.net/2025/Aug/29/lossy-encyclopedia/:)An](http](http](http](http ))))encyclopedia metaphor for LLM. Mine is a bag of statements, cut up into phrases, nouns, verbs, all linked in one big tree, with all the google search keywords ever used to find the statements. We're used to google finding things on the Internet with the right search terms. This is just a step-up from that. LLM are mixing and matching statements & pushing one out. The surprising thing is that the statement is native-speaker-like text.
 
 
 
@@ -305,7 +311,7 @@ play roles.
 
 
 
-_08-28 22:44_ The Weizenbaum wikipedia article, [[[[https://en.wikipedia.org/wiki/Joseph_Weizenbaum,](https://en.wikipedia.org/wiki/Joseph_Weizenbaum,)explains](http](http](http )))his ambivalence on AI with his distinction between deciding and choosing, a distinction I had not recognized. Deciding, being calculating, could be calculated, but choosing, could not be. Being based on values, ie, non-rationality, choice, on the basis of tasks and criteria, can only be creative human acts with consequences. Deciding and choosing, a distinction without a difference?
+_08-28 22:44_ The Weizenbaum wikipedia article, [[[[[https://en.wikipedia.org/wiki/Joseph_Weizenbaum,](https://en.wikipedia.org/wiki/Joseph_Weizenbaum,)explains](http](http](http](http ))))his ambivalence on AI with his distinction between deciding and choosing, a distinction I had not recognized. Deciding, being calculating, could be calculated, but choosing, could not be. Being based on values, ie, non-rationality, choice, on the basis of tasks and criteria, can only be creative human acts with consequences. Deciding and choosing, a distinction without a difference?
 
 
 
@@ -318,7 +324,7 @@ _08-28 16:28_ That is, we don't know why she asked him to leave the room. It may
 
 
 
-_08-28 12:11_ Alerted by [[[[https://bsky.app/profile/melaniemitchell.bsky.social/post/3lxcsdxrv5c26](https://bsky.app/profile/melaniemitchell.bsky.social/post/3lxcsdxrv5c26)to](http](http](http )))Eliza chatbot creator, Weizenbaum's mixed feelings about AI, I challenge his disingenousness in being disturbed by his secretary's being sucked in (?) by the bot, and asking him to leave the room. That is what he was trying to achieve with it! Perhaps she was only using it to say something about him, or to adjust her dress!
+_08-28 12:11_ Alerted by [[[[[https://bsky.app/profile/melaniemitchell.bsky.social/post/3lxcsdxrv5c26](https://bsky.app/profile/melaniemitchell.bsky.social/post/3lxcsdxrv5c26)to](http](http](http](http ))))Eliza chatbot creator, Weizenbaum's mixed feelings about AI, I challenge his disingenousness in being disturbed by his secretary's being sucked in (?) by the bot, and asking him to leave the room. That is what he was trying to achieve with it! Perhaps she was only using it to say something about him, or to adjust her dress!
 
 _08-28 11:32_
 Going to try to commonplace book my mastodon posts first #POSSE
