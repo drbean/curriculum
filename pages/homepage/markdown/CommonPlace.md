@@ -2,6 +2,10 @@
 
 ## 2025-10
 
+_10-06 21:15_ I dreamed someone asked me to talk about my beliefs. I took the opportunity to talk about Laozi (老子), who probably did not exist, Zhuangzi (莊子), who may not have existed, and someone who did exist, but whom I may not have identifed by name or what they did.
+
+
+
 _10-06 20:54_ No, they use it as a joke. It means that they think it could be that sex is a means to an end, but that they don't think that it is. Were we also supposed to laugh when Socrates said, "Others live to eat, but I eat to live."?
 
 
