@@ -2,6 +2,10 @@
 
 ## 2025-10
 
+_10-06 20:54_ No, they use it as a joke. It means that they think it could be that sex is a means to an end, but that they don't think that it is. Were we also supposed to laugh when Socrates said, "Others live to eat, but I eat to live."?
+
+
+
 _10-06 17:37_ Does men's use of "tool" to refer to their genitals suggest that they think sex is agentic?
 
 
