@@ -2,7 +2,7 @@
 
 ## 2025-10
 
-_10-06 17:37_ Does the male use of "tool" to refer to their genitals suggest that men think sex is agentic?
+_10-06 20:06_ Does men's use of "tool" to refer to their genitals suggest they think sex is agentic?
 
 
 
