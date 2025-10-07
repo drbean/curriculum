@@ -2,6 +2,10 @@
 
 ## 2025-10
 
+_10-08  7:53_ I'm trying to remember Jack Balkin's 4 causes for the US's problems. They were inequality, polarization, something and what was the fourth: a breakdown in trust, as laid out at https://balkin.blogspot.com sometime at the start of 2025. Findable with keyword, which was? Was response to NYT request.
+
+
+
 _10-06 21:15_ I dreamed someone asked me to talk about my beliefs. I took the opportunity to talk about Laozi (老子), who probably did not exist, Zhuangzi (莊子), who may not have existed, and someone who did exist, but whom I may not have identifed by name or what they did.
 
 
