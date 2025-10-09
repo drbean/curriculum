@@ -2,6 +2,10 @@
 
 ## 2025-10
 
+_10-09 17:33_ As @OrvarLog@mathstodon.xyz said: When novelty is king, we are standing not on the "shoulders of giants", but on a pile of strawmen
+
+
+
 _10-08  7:53_ I'm trying to remember Jack Balkin's 4 causes for the US's problems. They were inequality, polarization, something and what was the fourth: a breakdown in trust, as laid out at https://balkin.blogspot.com sometime at the start of 2025. Findable with keyword, which was? Was response to NYT request.
 
 
