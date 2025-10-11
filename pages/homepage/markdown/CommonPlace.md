@@ -2,7 +2,11 @@
 
 ## 2025-10
 
-_10-09 17:33_ As @OrvarLog@mathstodon.xyz said: When novelty is king, we are standing not on the "shoulders of giants", but on a pile of strawmen
+_10-11 16:29_ Typing "balkin.blogspot.com" into the address bar in qutebrowser to read current posts there, I see down toward the bottom of the alternatives. "The Big Picture", so I guess that's the keyword or title I was looking for
+
+
+
+_10-09 17:33_ As @OrvarLog@mathstodon.xyz said: When novelty is king, we stand not on the "shoulders of giants", but on a pile of strawmen
 
 
 

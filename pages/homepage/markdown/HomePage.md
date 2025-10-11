@@ -67,7 +67,7 @@ linkcolor: '#4682B4'
 - [CategoryTheory](CategoryTheory.html) Mind map math
 - [TheUnexaminedLife](TheUnexaminedLife.html) Not worth living?
 - [LetUsNowPraiseFamousMen](LetUsNowPraiseFamousMen.html) Cheap shots at the eminent
-- [CommonPlace](CommonPlace.html) A grab bag of observations
+- [CommonPlace](CommonPlace.html) A bag of observations
 
 ## Computers--Best thing since reading/writing 
 
