@@ -2,6 +2,12 @@
 
 ## 2025-10
 
+_10-13  8:46_ git apparently breaks hard links. https://unix.stackexchange.com/questions/231955/why-are-hard-links-are-not-updated-when-modified-with-an-editor
+
+I think now I remember reading that somewhere, but it didn't register trying to understand why stow wasn't updating linked files after I edited and committed them
+
+
+
 _10-13  8:42_ git apparently breaks hard links. https://unix.stackexchange.com/questions/231955/why-are-hard-links-are-not-updated-when-modified-with-an-editor
 
 
