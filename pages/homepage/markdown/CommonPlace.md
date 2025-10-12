@@ -2,6 +2,10 @@
 
 ## 2025-10
 
+_10-13  8:42_ git apparently breaks hard links. https://unix.stackexchange.com/questions/231955/why-are-hard-links-are-not-updated-when-modified-with-an-editor
+
+
+
 _10-11 16:29_ Typing "balkin.blogspot.com" into the address bar in qutebrowser to read current posts there, I see down toward the bottom of the alternatives. "The Big Picture", so I guess that's the keyword or title I was looking for
 
 
