@@ -2,6 +2,10 @@
 
 ## 2025-10
 
+_10-19  7:41_ I wonder if I should try linking perlbrew virtual environment's perl to system perl, ie /usr/bin/perl via `alternatives`. I guess it should be a link to `pl`.
+
+
+
 _10-18 22:23_ w32 neovim not finding modules installed by cygwin python3 (actually python3.9 as set by alternatives command). To find them, it requires python to be invoked as python3.9, not python3.
 
 
