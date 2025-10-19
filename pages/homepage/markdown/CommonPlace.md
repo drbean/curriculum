@@ -2,6 +2,14 @@
 
 ## 2025-10
 
+_10-19 17:27_ More strange ways to become a father on wikipedia
+
+* https://en.wikipedia.org/wiki/Nathan_Ross_Margold
+
+A Felix Frankfurter 'Happy Hotdogger' and 1930's contributor to NAACP's legal strategy "married Gertrude Weiner (the couple would go on to have a son)", "Margold is [also] remembered as the father of adult film pioneer William Margold." Is it just me, or is "go on to have children" an idiomatic way of describe becoming a father consequent on marriage?
+
+
+
 _10-19  7:41_ I wonder if I should try linking perlbrew virtual environment's perl to system perl, ie /usr/bin/perl via `alternatives`. I guess it should be a link to `pl`.
 
 
