@@ -6,9 +6,9 @@ was about (it was about poor sharecroppers during the Depression, so an ironic t
 
 * [TerryRiley](TerryRiley.html) Responsible for the minimalism/new tonality track in contemporary music
 * [JeromeBruner](JeromeBruner.html) Chided Chomsky's
-[LAD](http://en.wikipedia.org/wiki/LAD)
+[LAD](https://en.wikipedia.org/wiki/Language_acquisition_device)
 for failing to recognize
-[LASS](http://en.wikipedia.org/wiki/LASS)
+[LASS](https://psycnet.apa.org/record/1983-07638-001)
 * [DorothyParker](DorothyParker.html) Poet, writer 1893-1967
 * [ReneDescartes](ReneDescartes.html) Philosopher, mathematician 1596-1650
 * [AndrewPlotkin](AndrewPlotkin.html) Interactive fiction, narrative game developer 1970-
