@@ -636,6 +636,10 @@ If my water flew further, it was because
 I was standing on the shoulders of giants.
 --Dr Bean
 %
+When novelty is king, we stand not on the
+'shoulders of giants' but on a pile of
+strawmen--@OrvarLog@mathstodon.xyz
+%
 Motorist: How do I get to Lonesome Pine.
 Farmer: You can't get there from here.
 --Anonymous 
