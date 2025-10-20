@@ -1,66 +1,21 @@
----
-title: 'MyDocuments - Kwiki'
----
+% MyDocuments
 
-+-----------------------------------+-----------------------------------+
-| ::: {.navigation}                 | ::: {.navigation}                 |
-| ::: {#title_pane}                 | ::: {#logo_pane}                  |
-| MyDocuments                       | ![Kwiki                           |
-| ===========                       | Logo](http://momotaro/home/greg/h |
-| :::                               | tml/pics/P1010091cut.JPG "Kwiki") |
-|                                   | :::                               |
-| ::: {#status_pane}                |                                   |
-| ::: {.status}                     | \                                 |
-| :::                               |                                   |
-| :::                               | ::: {#widgets_pane}               |
-| :::                               | ::: {.widgets}                    |
-|                                   | :::                               |
-| -------------------------------   | :::                               |
-|                                   | :::                               |
-| ::: {#content_pane}               |                                   |
-| ::: {.wiki}                       |                                   |
-| On this page are photos/scans of  |                                   |
-| my:                               |                                   |
-|                                   |                                   |
-| -   Ministry of Education         |                                   |
-|     Teaching Certificate          |                                   |
-| -   Master of Science Diploma     |                                   |
-|     from Troy State University    |                                   |
-| -   Transcripts from Troy State   |                                   |
-| -   GRE scores in 1992            |                                   |
-| -   Scanned first page of         |                                   |
-|     2019-2029 passport            |                                   |
-|    [PassportPDF](passport_arc.pdf)|                                   |
-| -   Scanned Master of Science     |                                   |
-|     Diploma from Troy State       |                                   |
-|     University                    |                                   |
-|     [DiplomaPDF](diploma.pdf)     |                                   |
-|                                   |                                   |
-| Ministry of Education Teaching    |                                   |
-| Certificate ![](p4100194.jpg)     |                                   |
-|                                   |                                   |
-| Master of Science Diploma from    |                                   |
-| Troy State University             |                                   |
-| ![](p4290195.jpg)                 |                                   |
-|                                   |                                   |
-| Transcripts from Troy State       |                                   |
-| ![](p4290196.jpg)                 |                                   |
-| ![](p4290197.jpg)                 |                                   |
-|                                   |                                   |
-| GRE scores in 1992                |                                   |
-| ![](p4290198.jpg)                 |                                   |
-|                                   |                                   |
-| First page of 2009-2019 passport  |                                   |
-| ![](passport.jpg)                 |                                   |
-|                                   |                                   |
-| Master of Science Diploma from    |                                   |
-| Troy State University             |                                   |
-| ![](diploma.jpg)                  |                                   |
-| :::                               |                                   |
-| :::                               |                                   |
-|                                   |                                   |
-| -------------------------------   |                                   |
-|                                   |                                   |
-| ::: {.navigation}                 |                                   |
-| :::                               |                                   |
-+-----------------------------------+-----------------------------------+
+On this page are photos/scans of
+my:
+
+-   [GRE scores](GREScores.html) 1992, in 한국
+-   [Transcripts from Troy State](TroyStateTranscripts.html) 1993-1995, in 한국
+-   [Master of Science Diploma from Troy State University](TroyStateDiploma.html) 1995, in 한국
+-   [Ministry of Education Teaching Certificate](MOECertificate.html) 1999, in 台灣
+-   [Passport](PassPort.html) 2019-2029, in 台灣 and 日本
+
+
+Me at
+    <form action='https://mastodon.sdf.org/@drbean'>
+    <button type='submit' class='btn'>
+    <img src='./mastodon.svg'
+        alt='https://joinmastodon.org/logos/wordmark-black-text.svg'
+        style='width:90px;height:20px'/>
+    </button></form>
+    
+Back to [HomePage](HomePage.html)
