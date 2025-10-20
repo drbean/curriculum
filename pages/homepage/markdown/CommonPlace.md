@@ -2,6 +2,10 @@
 
 ## 2025-10
 
+_10-20 15:29_ Mmmh? A file opened in 'cmd' shows only tofu glyphs for the Chinese/Japanese (漢字) characters and Korean 한글. Opened in 'powershell' it shows the 漢字 but nothing is shown for the 한글. 2/2
+
+
+
 _10-20 15:10_ From Microsoft: An account from 10,000 meters and coming in slowly of the development of UTF-8 support for the Windows Console, https://devblogs.microsoft.com/commandline/windows-command-line-unicode-and-utf-8-output-text-buffer/ But did I leave it too late to update 'cmd' for it now with the ending of support for Windows 10? 1/2
 
 
