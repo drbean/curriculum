@@ -2,6 +2,10 @@
 
 ## 2025-10
 
+_10-22  8:56_ Two observations from https://philipball86.substack.com/p/what-does-the-turing-test-test : 1. Alan Kay's metaphor for the surprise of AI is Daniel Kahneman's fast and slow thinking: The slow mind sees the marionette/puppet as blocks of wood. The fast mind is moved by its gestures. 2. ChatGPT is life-like, but even in 1996 some humans mistook ELIZA for a human.
+
+
+
 _10-22  8:39_ Then https://philipball86.substack.com/p/what-does-the-turing-test-test suggests we may have gotten the Turing test wrong, based on English prof, Sarah Dillon's observation Turing was kidding a lot of the time.
 
 
