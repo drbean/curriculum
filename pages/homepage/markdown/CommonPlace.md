@@ -2,6 +2,10 @@
 
 ## 2025-10
 
+_10-22  8:21_ https://philipball86.substack.com/p/can-we-find-a-good-definition-of in opinionated take-down of AGI paper, linked by bsky.app/profile/melaniemitchell.bsky.social/post/3m3plzv2bsc2a notes that AI developers' aim was to mimic human cognition works against their claim that AI does more than (checks notes) mimic human cognition. But it also puts psychometric testing in a hard place because inferences we make about humans from test results are not justified when the testee .. might not be human.
+
+
+
 _10-20 15:29_ Mmmh? A file opened in 'cmd' shows only tofu glyphs for the Chinese/Japanese (漢字) characters and Korean 한글. Opened in 'powershell' it shows the 漢字 but nothing is shown for the 한글. 2/2
 
 
