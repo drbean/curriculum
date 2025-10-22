@@ -35,7 +35,7 @@ done
 pandoc -t plain <<< "$stdout"
 
 cd $M 1>&2
-for v in svn git ; do $v add $M/{$topic,$story}.md ; done 1>&2
+for v in svn git ; do $v add $M/{$topic,$story}.md ; done 2>/dev/null 1>&2
 svn ci $M/{$story,$topic}.md -m "$story: $title" 1>&2
 cd - 1>&2
 
