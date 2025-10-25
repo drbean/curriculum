@@ -2,7 +2,11 @@
 
 ## 2025-10
 
-_10-25 13:38_ The opaqueness of a dog's texts on the Internet is mirrored and matched by the opaqueness in real life of thoughts and actions of people we think we understand.
+_10-25 14:19_ But what is this fast and slow mind of which Daniel Kahneman speaks?
+
+
+
+_10-25 13:38_ The opaqueness of a dog's texts on the Internet is mirrored and matched by the opaqueness in real life of the thoughts and actions of people we appear to understand.
 
 
 
