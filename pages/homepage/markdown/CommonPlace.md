@@ -2,6 +2,10 @@
 
 ## 2025-10
 
+_10-25 13:38_ The opaqueness of a dog's texts on the Internet is mirrored and matched by the opaqueness in real life of thoughts and actions of people we think we understand.
+
+
+
 _10-22  8:56_ Two observations from https://philipball86.substack.com/p/what-does-the-turing-test-test : 1. Alan Kay's metaphor for the surprise of AI is Daniel Kahneman's fast and slow thinking: The slow mind sees the marionette/puppet as blocks of wood. The fast mind is moved by its gestures. 2. ChatGPT is life-like, but even in 1996 some humans mistook ELIZA for a human.
 
 
