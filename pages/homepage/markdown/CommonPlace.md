@@ -2,6 +2,21 @@
 
 ## 2025-10
 
+_10-27  7:22_ Invention suborning intention.
+
+Intention subverted by invention.
+
+A beautiful intention slain by an ugly invention.
+
+- https://quoteinvestigator.com/2020/12/26/ugly-fact/
+
+Allowing invention to subordinate intention
+
+- https://larrycuban.wordpress.com/2025/10/25/what-the-history-of-supermarkets-teaches-us-about-ai-in-schools-andrew-cantarutti/#comment-95761
+
+
+
+
 _10-25 14:19_ But what is this fast and slow mind of which Daniel Kahneman speaks?
 
 
