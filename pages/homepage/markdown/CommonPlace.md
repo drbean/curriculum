@@ -2,6 +2,10 @@
 
 ## 2025-10
 
+_10-27 16:32_ Interesting analogizing of Adam Smith's invisible hand in commerce and the Tao's 無為 (=take no action, let nature take its course, adopt a laissez-faire approach, accomplish nothing, peaceful, detachment, https://en.wiktionary.org/wiki/%E7%84%A1%E7%82%BA ) by https://www.nakedcapitalism.com/2025/10/how-the-tao-explains-our-economies.html
+
+
+
 _10-27  7:59_ Invention suborning intention.
 
 Intention subverted by invention.
