@@ -1,6 +1,11 @@
 % Read it here first
 
+## 2025-11
 ## 2025-10
+_11-02 17:38_ I looked at Google AIAssist's answer to "joint theory planned behavior" against my better instincts, and it has a helpful explanation I cannot see in the hits below, showing I need to use "a" rather than "the". Aaargh. I need to develop more self control!
+
+
+
 
 _10-27 16:32_ Interesting analogizing of Adam Smith's invisible hand in commerce and the Tao's 無為 (=take no action, let nature take its course, adopt a laissez-faire approach, accomplish nothing, peaceful, detachment, https://en.wiktionary.org/wiki/%E7%84%A1%E7%82%BA ) by https://www.nakedcapitalism.com/2025/10/how-the-tao-explains-our-economies.html
 
