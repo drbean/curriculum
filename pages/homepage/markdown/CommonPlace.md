@@ -2,6 +2,10 @@
 
 ## 2025-11
 ## 2025-10
+_11-02 20:32_ "fling", "sling" and "swing". #phonestheme, #soundsymbolism and #iconicity, anyone? All describe movement in an arc. Is there any difference between "sling" and "fling"? The difference of being directed at a target, or not?
+
+
+
 _11-02 17:42_ "Not a bug, but a feature": the thinking which gives us a seamstress mistake as a fashion innovation
 
 
