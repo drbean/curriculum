@@ -25,7 +25,7 @@ done
 
 title="$(sed -nE "1s/^_${date}_ (([[:graph:]]+[[:blank:]]+){5}).*$/\1/p" <<< $post)"
 
-sed -i.BAK -e "4a$post\n\n" $M/$story.md
+sed -i.BAK -e "4i$post\n\n" $M/$story.md
 
 for p in $story $topic
     do pandoc -o c:/cygwin64/tmp/pandoc/$p.html --standalone \
