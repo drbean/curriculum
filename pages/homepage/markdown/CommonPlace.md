@@ -1,6 +1,16 @@
 % Read it here first
 
 ## 2025-11
+_11-05 15:32_ Pnin didn't presume to approach the lofty halls of modern
+scientific linguistics, that ascetic fraternity of phonemes, that temple wherein young
+people are taught not the language itself, but the method of teaching others to teach
+that method, like a waterfall splashing from rock to rock which ceases to
+be a medium of rational navigation but perhaps in some fabulous future may
+become instrumental in evolving esoteric dialects like Basic
+Basque spoken only by elaborate machines 1/2
+
+
+
 _11-05 13:16_ Helping a prof with the English of a Theory of Planned Behavior paper, I wrote about ways of referring to future action in English:
 
 will is kind of used to make a public commitment,
