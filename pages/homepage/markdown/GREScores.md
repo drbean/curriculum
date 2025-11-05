@@ -23,4 +23,5 @@ Me at
         style='width:90px;height:20px'/>
     </button></form>
     
-Back to [MyDocuments](MyDocuments.html)
+* Back to [AcademicEditingService](AcademicEditingService.html)
+* Back to [MyDocuments](MyDocuments.html)
