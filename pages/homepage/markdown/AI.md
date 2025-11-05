@@ -9,6 +9,7 @@ A portal for my understanding of the implications of Artificial Intelligence dev
     * [Chinese Room](JohnSearle.html) John Searle's machine translation analogy
 * [ConstitutionLaw](ConstitutionLaw.html) Great leap forward, or small step sideways?
 * [CohesionAdhesion](CohesionAdhesion.html) Is AI following the argument, riffing on it or chiming in?
+* [ResearcherCriticalOfAI](ResearcherCriticalOfAI.html) Instead he digs into the literature
 
 Me at
 <form action='https://mastodon.sdf.org/@drbean'>
