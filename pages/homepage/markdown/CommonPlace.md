@@ -1,7 +1,10 @@
 % Read it here first
 
 ## 2025-11
-## 2025-10
+_11-05 13:04_ In college, in response to a questionnaire about high school subjects, my placing of English high on the list, while at high school I had not had that feeling, rather the opposite, about it, made me skeptical of the value of surveys.
+
+
+
 _11-02 20:32_ "fling", "sling" and "swing". #phonestheme, #soundsymbolism and #iconicity, anyone? All describe movement in an arc. Is there any difference between "sling" and "fling"? The difference of being directed at a target, or not?
 
 
@@ -15,6 +18,7 @@ _11-02 17:38_ I looked at Google AIAssist's answer to "joint theory planned beha
 
 
 
+## 2025-10
 _10-27 16:32_ Interesting analogizing of Adam Smith's invisible hand in commerce and the Tao's 無為 (=take no action, let nature take its course, adopt a laissez-faire approach, accomplish nothing, peaceful, detachment, https://en.wiktionary.org/wiki/%E7%84%A1%E7%82%BA ) by https://www.nakedcapitalism.com/2025/10/how-the-tao-explains-our-economies.html
 
 
