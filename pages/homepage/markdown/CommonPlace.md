@@ -1,6 +1,14 @@
 % Read it here first
 
 ## 2025-11
+_11-05 17:19_ * Daniel Dennett The dude flicking the towel in the philosophy locker room 1942-2024
+
+Read https://languagelog.ldc.upenn.edu/myl/ChomskyContraDarwin.pdf after reading https://languagelog.ldc.upenn.edu/nll/?p=71138
+
+
+
+
+
 _11-05 15:34_ Nabokov mocks linguistics, applied linguistics, machine translation, AI. (quoted in https://www.cambridge.org/core/services/aop-cambridge-core/content/view/2395C24EB472B60B2514F7D5F93EB9A8/S0140525X2510112Xa.pdf/how_linguistics_learned_to_stop_worrying_and_love_the_language_models.pdf) 2/2
 
 
