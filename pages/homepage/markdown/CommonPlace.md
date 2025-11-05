@@ -1,6 +1,38 @@
 % Read it here first
 
 ## 2025-11
+_11-05 13:16_ Helping a prof with the English of a Theory of Planned Behavior paper, I wrote about ways of referring to future action in English:
+
+will is kind of used to make a public commitment,
+like when making a decision and telling someone about
+it, ie a Rubicon moment.
+
+A: Don't you think you should use public transport?
+B: I will use it next week.
+
+going to is different.
+
+A: Don't you think you should use public transport?
+B: I'm going to use it next week (but I disagree it's
+important to use public transport).
+
+Present continuous with future reference is used to
+show a planning and action mindset.
+
+A: Don't you think you should use public transport?
+B: I'm using it next week (I already use it and/or I agree it's
+important to use public transport).
+
+On the other hand, want is a wishy-washy way of
+showing intention.
+
+A: Don't you think you should use public transport?
+B: I want to (but won't/cannot).
+
+
+
+
+
 _11-05 13:04_ In college, in response to a questionnaire about high school subjects, my placing of English high on the list, while at high school I had not had that feeling, rather the opposite, about it, made me skeptical of the value of surveys.
 
 
