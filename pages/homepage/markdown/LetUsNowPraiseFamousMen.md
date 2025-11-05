@@ -17,6 +17,7 @@ for failing to recognize
 * [JaneAusten](JaneAusten.html) 'A truth universally acknowledged ..'
 * [ImmanuelKant](ImmanuelKant.html) Immensely ponderous, but influential, systematic thinker 1724-1804
 * [DouglasHofstadter](DouglasHofstadter.html) 「 Gödel, Escher, and Bach 」author, analogist 1945-
+* [DanielDennett](DanielDennett.html) The dude flicking the towel in the philosophy locker room 1942-2024
 
 Me at
     <form action='https://mastodon.sdf.org/@drbean'>
