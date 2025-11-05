@@ -1,9 +1,12 @@
 % Read it here first
 
 ## 2025-11
-_11-05 17:19_ * Daniel Dennett The dude flicking the towel in the philosophy locker room 1942-2024
+_11-05 17:19_ Daniel Dennett
 
-Read https://languagelog.ldc.upenn.edu/myl/ChomskyContraDarwin.pdf after reading https://languagelog.ldc.upenn.edu/nll/?p=71138
+Read
+
+- https://languagelog.ldc.upenn.edu/myl/ChomskyContraDarwin.pdf after reading
+- https://languagelog.ldc.upenn.edu/nll/?p=69401
 
 
 
