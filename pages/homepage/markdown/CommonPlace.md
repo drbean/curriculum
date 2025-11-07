@@ -1,6 +1,10 @@
 % Read it here first
 
 ## 2025-11
+_11-07 10:10_ Matt Glassman, political gaming thinker with https://mattglassman.substack.com/p/ten-thoughts-on-sports-betting and https://mattglassman.substack.com/p/book-review-on-the-edge-nate-silver as an "inveterate gambling degenerate" made me realize *my* understanding of insurance as gambling with positive expected value for the insurer, but negative expected value for the insuree, missed the importance of the variance in possible value outcomes.
+
+
+
 _11-05 17:19_ Daniel Dennett
 
 Read
