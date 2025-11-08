@@ -1,7 +1,11 @@
 % Read it here first
 
 ## 2025-11
-_11-07 10:10_ Matt Glassman, political gaming thinker with https://mattglassman.substack.com/p/ten-thoughts-on-sports-betting and https://mattglassman.substack.com/p/book-review-on-the-edge-nate-silver as an "inveterate gambling degenerate" made me realize *my* understanding of insurance as gambling with positive expected value for the insurer, but negative expected value for the insuree, missed the importance of the variance in possible value outcomes.
+_11-08 17:37_ I think I now understand the difference between bash's login, interactive, and non-interactive shell. Non-interactive shells are not connected to stdin or stdout, whereas interactive shells are, but with limited functionality, eg /etc/profile is not read. Login shells get all the functionality bash can provide. Non-interactive shells are for scripts, interactive shells are for sub-shells and login shells are not sub-shells, but the shell you want when you login. The name's just confusing.
+
+
+
+_11-07 10:10_ Matt Glassman, political gaming thinker and inveterate "gambling degenerate", with https://mattglassman.substack.com/p/ten-thoughts-on-sports-betting and https://mattglassman.substack.com/p/book-review-on-the-edge-nate-silver , made me realize *my* understanding of insurance as gambling with positive expected value for the insurer, but negative expected value for the insuree, got that point correct, but missed the importance of the variance in possible value outcomes.
 
 
 
