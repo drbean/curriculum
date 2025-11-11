@@ -1,6 +1,10 @@
 % Read it here first
 
 ## 2025-11
+_11-11 14:56_ Looking for instances of "controls the decision" on https://books.google.com/ngrams/graph?content=controls+the+decision I came across https://www.google.co.jp/books/edition/Free_Will_as_an_Open_Scientific_Problem Interesting. Mark Balaguer is a philosopher
+
+
+
 _11-08 17:37_ I think I now understand the difference between bash's login, interactive, and non-interactive shell. Non-interactive shells are not connected to stdin or stdout, whereas interactive shells are, but with limited functionality, eg /etc/profile is not read. Login shells get all the functionality bash can provide. Non-interactive shells are for scripts, interactive shells are for sub-shells and login shells are not sub-shells, but the shell you want when you login. The name's just confusing.
 
 
