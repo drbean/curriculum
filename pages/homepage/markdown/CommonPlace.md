@@ -1,6 +1,10 @@
 % Read it here first
 
 ## 2025-11
+_11-13 16:58_ The prepositions, "like" and "such as" discussed at https://english.stackexchange.com/questions/19370/formal-alternative-for-like-and-such-as
+
+
+
 _11-13 16:50_ "some" and "any" discussed at https://english.stackexchange.com/questions/19364/difference-between-somewhere-and-anywhere/19371#19371
 
 
