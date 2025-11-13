@@ -1,6 +1,10 @@
 % Read it here first
 
 ## 2025-11
+_11-13 20:05_ "It may be anywhere in this room," means it is somewhere in the room. But, "It may be somewhere in this room," means it may also not be in the room, ie, not anywhere in the room.
+
+
+
 _11-13 16:58_ The prepositions, "like" and "such as" discussed at https://english.stackexchange.com/questions/19370/formal-alternative-for-like-and-such-as
 
 
