@@ -1,6 +1,10 @@
 % Read it here first
 
 ## 2025-11
+_11-13 16:50_ "some" and "any" discussed at https://english.stackexchange.com/questions/19364/difference-between-somewhere-and-anywhere/19371#19371
+
+
+
 _11-12  8:56_ The problem reading this paper by authors whose first language doesn't have 'a', 'the' and plural nouns is knowing whether 'the reformulation/linearization technique' refers to one technique or a class of techniques. I don't know what a/the reformulation/linearization technique is. https://optimization.cbe.cornell.edu/index.php?title=Mixed-integer_linear_fractional_programming_(MILFP)#Reformulation-Linearization_Method suggests it is a specific method, but grammatical errors in the exposition there mean it might not be.
 
 
