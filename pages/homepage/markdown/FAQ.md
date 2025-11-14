@@ -1,12 +1,54 @@
 % Frequently Asked Questions
 
+* [Submission Process]
+* [Availability and Turn-around Time]
+* [Rates and Payment Methods]
 * [Proofreading Approach]
-* [Acceptable file formats]
+* [Preferred file formats]
 * [Rewriting]
 * [Using First Language]
 * [Discipline-specific experience]
 * [Track Changes]
 * [Strengths and Weaknesses]
+
+## Submission Process
+
+*Question*: What is the process for submitting a paper for editing?
+
+*Answer*: Usually people just attach the paper to an email.
+If the file is too large to attach it, they will
+post it on a website, like https://docs.google.com/
+and give me access. Or they will post it on a website
+under their control.
+
+One researcher puts a text file on https://github.com/
+where they can read my edits, and they can make changes
+to the edits, as I post them.
+
+## Availability and Turn-around Time
+
+*Question*: What is your availability and estimated turnaround time?
+
+*Answer*: I am only getting work 1~3 times each month. It takes
+me about one week to do a 5,000 word paper. I try to
+educate myself in the researcher's discipline so I can
+understand what they are saying.
+
+## Rates and Payment Methods
+
+*Question*: What are your rates and payment methods
+
+*Answer*: I charge 0.5NT per word, excluding references (I'm 
+assuming you're in 台灣, if not, the equivalent in 
+your currency).
+
+I'm in Japan, so you could pay via an international
+bank transfer into my Japanese bank account.
+
+Most however have been using paypal,
+https://www.paypal.com/ to pay me. There is also
+https://wise.com/, but I haven't been able to set up
+an account with them yet.
 
 ## Proofreading Approach
 
@@ -41,16 +83,34 @@ relationships with the school.)
     I wanted to answer those questions myself.
 
 
-## Acceptable File Formats
+## Preferred File Formats
 
-*Question*: As what kind of file should I send my paper to you?[^source2]
-
-[^source2]: As for the question, [Proofreading Approach], this is not one I have actually been asked. See the footnote to that question.
+*Question*: As what kind of file should I send my paper to you?
 
 *Answer*: I will edit any file in any format I am sent.
 
-  That said, I have an
+That said, I have an
 [OrderOfPreferences](AcceptableFileFormats.html)
+
+Let me explain further.
+
+I will accept any format you wish to use. Most
+researchers submit MS Word files.
+
+My preference is for text files with the figures 
+(and tables?) in image files.
+
+I export the MS Word files into text files in 
+markdown format, which I then edit with a 
+developer-friendly editor.
+
+The mouse-oriented MS Word is not built to make 
+lots of small editing changes easy.
+
+Then I import my changes back into the Word file.
+
+But you don't need to worry about that. I'm more 
+than happy to get Word files.
 
 ## Rewriting
 
@@ -83,21 +143,24 @@ But, no, I haven't ever edited an X paper.
 But I would like to try. I think I would do a
 [GoodJob](GoodJob.html).
 
+Most of my work recently has been on papers in engineering and
+related studies.
+
 ## Track Changes
 
 *Question* Can you use Track Changes in MS Word so I can see what changes you make?
 
-*Answer* Sorry, I can't usually do that. Let me explain at 
+*Answer* Sorry, I can't usually do that. But I have a substitute that may be even better because it lays out the versions side-by-side. Let me explain at 
 [TrackChanges](TrackChanges.html).
 
 ## Strengths and Weaknesses
 
-*Questio* What are your strengths and weaknesses?
+*Question* What are your strengths and weaknesses?
 
-*Answer* My strengths are my English language skills, my attention to detail, my ability and desire to understand difficult material and my experience. See 
+*Answer* My strengths are my English language skills, my attention to detail, my ability and desire to understand difficult material, my fluency in the sciences and liberal arts and my experience. See 
 [GoodJob](GoodJob.html)
 
-My weaknesses are that it may take me more than a week to finish a long paper and my wish that I did not have to deal with MS Word. See
+My weaknesses are that it may take me more than a week to finish a long paper, my perfectionism and my wish that I did not have to deal with MS Word. See
 [FileFormats](AcceptableFileFormats.html)
 
 Me at
