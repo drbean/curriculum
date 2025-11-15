@@ -1,6 +1,10 @@
 % Read it here first
 
 ## 2025-11
+_11-15  9:41_ "The program was executed on a computer equipped with an Intel(R) Core (TM) i7-10700 processor, and a Windows 11 operating system." Why should it be "the Windows 11 operating system", but not "the Intel(R) Core (TM) i7-10700 processor?" The processor is the named instance of a class that has the same nameas the instance? With the OS, an instance of a class is not the relationship involved? There are not many Windows 11 OS of which this one? See the "a Ford → Ford Company" relationship.
+
+
+
 _11-13 20:05_ "It may be anywhere in this room," means it is somewhere in the room. But, "It may be somewhere in this room," means it may also not be in the room, ie, not anywhere in the room.
 
 
