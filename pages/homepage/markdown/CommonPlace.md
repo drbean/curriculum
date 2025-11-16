@@ -1,6 +1,10 @@
 % Read it here first
 
 ## 2025-11
+_11-16 17:51_ What's the relationship between price stickiness and price elasticity in economics? The first is result of operators' unwillingness to cut prices if it means making less money? The second is users' willingness to accept that unwillingness even if it means they have less money?
+
+
+
 _11-15  9:41_ "The program was executed on a computer equipped with an Intel(R) Core (TM) i7-10700 processor, and a Windows 11 operating system." Why should it be "the Windows 11 operating system", but not "the Intel(R) Core (TM) i7-10700 processor?" The processor is the named instance of a class that has the same nameas the instance? With the OS, an instance of a class is not the relationship involved? There are not many Windows 11 OS of which this one? See the "a Ford → Ford Company" relationship.
 
 
