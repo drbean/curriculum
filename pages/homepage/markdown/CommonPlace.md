@@ -1,6 +1,10 @@
 % Read it here first
 
 ## 2025-11
+_11-19  8:55_ It's used when the means to understand the problem lie under your nose, but you fail to put 2 & 2 together. Googling shows more literal interpretations, 'trapped by details,' 'too involved in a situation,' 'deep in granular details, failing to get the big picture.' Perhaps they're better. But the idea is that you have a grasp of a problem, but it is a problematic grasp? That you have a framing problem?
+
+
+
 _11-19  8:35_ The explanation at https://www.electoral-vote.com/evp2025/Items/Nov18-1.html of the idiom, "Can't see the forest for the trees," is that in a forest, you only see individual trees, not the whole forest from an aerial view. I think it stems from a conversation with someone who doesn't understand forests.
 
 A: See that forest over there?
