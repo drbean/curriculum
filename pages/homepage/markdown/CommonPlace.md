@@ -1,6 +1,16 @@
 % Read it here first
 
 ## 2025-11
+_11-19  8:35_ The explanation at https://www.electoral-vote.com/evp2025/Items/Nov18-1.html of the idiom, "Can't see the forest for the trees," is that in a forest, you only see individual trees, not the whole forest from an aerial view. I think it stems from a conversation with someone who doesn't understand forests.
+
+A: See that forest over there?
+B: I only see trees. It's behind the trees?
+A: Oh, you can't see the forest for the trees?
+
+The idiom captures a problematic failure to understand a problem.
+
+
+
 _11-16 17:51_ What's the relationship between price stickiness and price elasticity in economics? The first is result of operators' unwillingness to cut prices if it means making less money? The second is users' willingness to accept that unwillingness even if it means they have less money?
 
 
