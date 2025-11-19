@@ -1,6 +1,10 @@
 % Read it here first
 
 ## 2025-11
+_11-19 15:10_ "see the (woods?|forest) for the trees" in google books: https://books.google.com/ngrams/graph?content=see+the+wood+for+the+trees,see+the+woods+for+the+trees,see+the+forest+for+the+trees
+
+
+
 _11-19  8:55_ It's used when the means to understand the problem lie under your nose, but you fail to put 2 & 2 together. Googling shows more literal interpretations, 'trapped by details,' 'too involved in a situation,' 'deep in granular details, failing to get the big picture.' Perhaps they're better. But the idea is that you have a grasp of a problem, but it is a problematic grasp? That you have a framing problem?
 
 
