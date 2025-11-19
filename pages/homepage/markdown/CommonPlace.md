@@ -1,6 +1,10 @@
 % Read it here first
 
 ## 2025-11
+_11-19 17:52_ I think I was wrong about the woods/trees idiom being about not accepting what's staring you in the face, under your nose, & not putting 2+2 together, but perhaps it is about framing the problem, or getting the wrong end of the stick. It's certainly about recognizing you have a grasp of some aspects (details) of the problem, but not the most important ones (the big picture). What role does the idiom have in a conversation?
+
+
+
 _11-19 15:10_ "see the (woods?|forest) for the trees" in google books: https://books.google.com/ngrams/graph?content=see+the+wood+for+the+trees,see+the+woods+for+the+trees,see+the+forest+for+the+trees
 
 
