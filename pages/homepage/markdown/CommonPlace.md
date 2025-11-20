@@ -1,6 +1,11 @@
 % Read it here first
 
 ## 2025-11
+_11-20 18:05_ I think the forest/tree idiom is used to say, "Your view's plausible, partly right, even, but wrong," with the same force as Korzybski's "the map is not the territory," and Mencken's "every complex problem has a solution that is clear, simple and wrong,"and Shakespeare's "there are more things in heaven and earth than dreamed of in your philosophy."
+
+
+
+
 _11-19 17:52_ I think I was wrong about the woods/trees idiom being about not accepting what's staring you in the face, under your nose, & not putting 2+2 together, but perhaps it is about framing the problem, or getting the wrong end of the stick. It's certainly about recognizing you have a grasp of some aspects (details) of the problem, but not the most important ones (the big picture). What role does the idiom have in a conversation?
 
 
