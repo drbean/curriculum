@@ -1,6 +1,10 @@
 % Read it here first
 
 ## 2025-11
+_11-20 18:10_ But who of it is said, "I/you/they couldn't see the wood for the trees!"? "I couldn't see the wood for the trees!," or "That's like being unable to see the wood for the trees!"? It's an invitation (or a notice it's time?) to flip the script?
+
+
+
 _11-20 18:05_ I think the forest/tree idiom is used to say, "Your view's plausible, partly right, even, but wrong," with the same force as Korzybski's "the map is not the territory," and Mencken's "every complex problem has a solution that is clear, simple and wrong,"and Shakespeare's "there are more things in heaven and earth than dreamed of in your philosophy."
 
 
