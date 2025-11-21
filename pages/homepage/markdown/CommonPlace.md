@@ -1,6 +1,10 @@
 % Read it here first
 
 ## 2025-11
+_11-21 22:55_ Bubble and selection sort algorithm practice site in Japanese: https://cardalgo.csle-lab.org/
+
+
+
 _11-20 18:10_ But who of it is said, "I/you/they couldn't see the wood for the trees!"? "I couldn't see the wood for the trees!," or "That's like being unable to see the wood for the trees!"? It's an invitation (or a notice it's time?) to flip the script?
 
 
