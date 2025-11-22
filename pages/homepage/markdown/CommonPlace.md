@@ -1,6 +1,12 @@
 % Read it here first
 
 ## 2025-11
+_11-22 23:00_ "I'll get to it soon" means you better do it within 3 seconds." "better" as modal verb, anyone?
+
+I can remember at the age of 5(?) using it in a modal verb's full range: "You better stop that, bettern't you", probably in response to my mother using "better" as a command. I stopped doing that. Did I realize it's a contraction of "had better"?
+
+
+
 _11-21 22:57_ ソートアルゴリズムオンライン学習教材 CardAlgo https://cardalgo.csle-lab.org/
 
 
