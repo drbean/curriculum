@@ -1,6 +1,10 @@
 % Read it here first
 
 ## 2025-11
+_11-23  8:27_ "sling the backpack up on the truck" versus "fling the towel around the waist" https://www.english-corpora.org/coca/ has "sling/fling the ball" and "slung the strap/flung the door" as top cites. No cites of my examples, so no diff? For balls, sure, but "sling the door/fling the door"?, surely not.
+
+
+
 _11-22 23:00_ "I'll get to it soon" means you better do it within 3 seconds." "better" as modal verb, anyone?
 
 I can remember at the age of 5(?) using it in a modal verb's full range: "You better stop that, bettern't you", probably in response to my mother using "better" as a command. I stopped doing that. Did I realize it's a contraction of "had better"?
