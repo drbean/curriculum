@@ -1,6 +1,10 @@
 % Read it here first
 
 ## 2025-11
+_11-24  8:22_ Microsoft, ex-Red Hat lead developer explains problem wearing different hats at https://bexelbie.com/2025/11/20/if-you-are-wearing-more-than-one-hat advising conservativeness
+
+
+
 _11-24  7:58_ "just", typed with the left hand one key to the right, spells "judy"
 
 
