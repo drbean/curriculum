@@ -1,6 +1,10 @@
 % Read it here first
 
 ## 2025-11
+_11-24  7:58_ "just", typed with the left hand one key to the right, spells "judy"
+
+
+
 _11-23  8:27_ "sling the backpack up on the truck" versus "fling the towel around the waist" https://www.english-corpora.org/coca/ has "sling/fling the ball" and "slung the strap/flung the door" as top cites. No cites of my examples, so no diff? For balls, sure, but "sling the door/fling the door"?, surely not.
 
 
