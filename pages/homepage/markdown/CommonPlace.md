@@ -1,6 +1,12 @@
 % Read it here first
 
 ## 2025-11
+_11-25  7:50_ Dreams are different. In one, I was intrigued passing a non-native street vendor. The visuals were vague, perhaps monochrome. He called out, "What's your middle name?" He asked what 'myself' meant. Then I crossed the street.
+
+Someone could dream that without any visual content? I am sometimes aware of color in dreams. But not touch, smells? #dream 2/2
+
+
+
 _11-25  7:33_ Matt Glassman at https://mattglassman.substack.com/p/moderation-has-multiple-dimension talks about some recent writing on how some people lack mental imagery, so called aphantasia. He calls such differences perhaps a big unknown unknown.
 
 Awareness of imagery differences is not new, no? Do these people hear, but see nothing, when they dream?
