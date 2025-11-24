@@ -1,6 +1,14 @@
 % Read it here first
 
 ## 2025-11
+_11-25  7:33_ Matt Glassman at https://mattglassman.substack.com/p/moderation-has-multiple-dimension talks about some recent writing on how some people lack mental imagery, so called aphantasia. He calls such differences perhaps a big unknown unknown.
+
+Awareness of imagery differences is not new, no? Do these people hear, but see nothing, when they dream?
+
+I see mental images, memories of places/people sometimes. They're not vivid. But when imagining things not evident, the thoughts are words. #imagery 1/2
+
+
+
 _11-24 16:55_ Intention is also a wishy-washy notion.
 
 A: Don't you think you should use public transport?
