@@ -1,6 +1,10 @@
 % Read it here first
 
 ## 2025-11
+_11-24 16:15_ There's no mind behind LLM translations from Chinese to English, so although they do a fantastic job at sentence-level syntax translation, they're lost with unspoken articles and tense distinctions conveyed from mind to mind in Chinese because the Chinese text gives them no guidance as to how to express them in text in English where they are a grammatical requirement. They can read text, but can't read minds. That's my story, anyway, and I'm sticking with it. #LLM #中文 #translation
+
+
+
 _11-24  9:29_ Discussion of "impend/impending" frequency and collocation differences at https://languagelog.ldc.upenn.edu/nll/?p=72043#more-72043 as with "consume time/time-consuming" suggests '-ing' adjectives have a life of their own.
 
 
