@@ -1,6 +1,20 @@
 % Read it here first
 
 ## 2025-11
+_11-24 16:55_ Intention is also a wishy-washy notion.
+
+A: Don't you think you should use public transport?
+
+B: I intend to next week (but I may or may not get around to doing it.)
+
+In the spirit of "The (checks notes) spirit is willing but the flesh is weak," intention and action are 2 different things.
+
+That's why the post-Rubicon moment and mindsets are important.
+
+#TPB 3/2
+
+
+
 _11-24 16:15_ There's no mind behind LLM translations from Chinese to English, so although they do a fantastic job at sentence-level syntax translation, they're lost with unspoken articles and tense distinctions conveyed from mind to mind in Chinese because the Chinese text gives them no guidance as to how to express them in text in English where they are a grammatical requirement. They can read text, but can't read minds. That's my story, anyway, and I'm sticking with it. #LLM #中文 #translation
 
 
