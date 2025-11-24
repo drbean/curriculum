@@ -1,6 +1,10 @@
 % Read it here first
 
 ## 2025-11
+_11-24  9:29_ Discussion of "impend/impending" frequency and collocation differences at https://languagelog.ldc.upenn.edu/nll/?p=72043#more-72043 as with "consume time/time-consuming" suggests '-ing' adjectives have a life of their own.
+
+
+
 _11-24  8:22_ Microsoft, ex-Red Hat lead developer explains problem wearing different hats at https://bexelbie.com/2025/11/20/if-you-are-wearing-more-than-one-hat advising conservativeness
 
 
