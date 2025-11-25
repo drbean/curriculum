@@ -1,6 +1,14 @@
 % Read it here first
 
 ## 2025-11
+_11-26  7:08_ Adam Mastroianni on US political culture divide through a religious study lens.
+
+https://www.experimental-history.com/p/secrets-of-the-ancient-memelords
+
+I wrote something on his "study" of people imagining different consequences. They mostly imagined good or bad consequences?
+
+
+
 _11-25 23:03_ Another plan of attack is how text is more than just the individual sentences in it.
 
 Although LLM create grammatical sentences, does it connect them into text?
