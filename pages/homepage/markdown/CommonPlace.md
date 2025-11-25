@@ -1,6 +1,14 @@
 % Read it here first
 
 ## 2025-11
+_11-25 23:03_ Another plan of attack is how text is more than just the individual sentences in it.
+
+Although LLM create grammatical sentences, does it connect them into text?
+
+https://en.wikipedia.org/wiki/Text_linguistics #text #LLM 3/?
+
+
+
 _11-25 21:03_ Language is not just about communicating statements, but also conveying feelings and attitudes.
 
 Those can be explicitly expressed by the speakers along with the statements or inferred by listeners reading between the lines.
