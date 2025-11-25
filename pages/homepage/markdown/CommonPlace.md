@@ -1,6 +1,10 @@
 % Read it here first
 
 ## 2025-11
+_11-25 17:59_ Thinking how to conceptualize LLM language production's deficiencies (?) despite its amazing Comparing NNS texts with LLM texts is frightening. 1/? #LLM #NNS
+
+
+
 _11-25  7:50_ Dreams are different. In one, I was intrigued passing a non-native street vendor. The visuals were vague, perhaps monochrome. He called out, "What's your middle name?" He asked what 'myself' meant. Then I crossed the street.
 
 Someone could dream that without any visual content? I am sometimes aware of color in dreams. But not touch, smells? #dream 2/2
