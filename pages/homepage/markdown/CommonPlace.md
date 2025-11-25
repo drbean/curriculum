@@ -1,6 +1,14 @@
 % Read it here first
 
 ## 2025-11
+_11-25 21:03_ Language is not just about communicating statements, but also conveying feelings and attitudes.
+
+Those can be explicitly expressed by the speakers along with the statements or inferred by listeners reading between the lines.
+
+Mind readers try to understand what is meant by what is said and assume there are minds behind the language, which are to be understood. #mind #language #AI 2/?
+
+
+
 _11-25 17:59_ Thinking how to conceptualize LLM language production's deficiencies (?) despite its amazing Comparing NNS texts with LLM texts is frightening. 1/? #LLM #NNS
 
 
