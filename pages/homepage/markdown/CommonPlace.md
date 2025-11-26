@@ -1,6 +1,15 @@
 % Read it here first
 
 ## 2025-11
+_11-27  7:59_ https://arxiv.org/abs/2511.19757 argues, "Language understanding entails not just extracting the surface-level meaning of the linguistic input, but constructing rich mental models of the situation it describes."
+
+This puts LLM in their place. But to this shallow take on language I would say, It's language all the way down.
+
+https://en.wikipedia.org/wiki/Turtles_all_the_way_down
+
+
+
+
 _11-26  7:08_ Adam Mastroianni on US political culture divide through a religious study lens.
 
 https://www.experimental-history.com/p/secrets-of-the-ancient-memelords
