@@ -1,6 +1,16 @@
 % Read it here first
 
 ## 2025-11
+_11-27 22:45_ If you make a system that can self-replicate and is capable of mutation in
+a way that can respond to selective influences, that doesn't mean it's
+alive ..
+
+https://bsky.app/profile/philipcball.bsky.social/post/3m6jtbmsrt22r
+
+If it has a constant non-ending carnivorous need for sustenance, non-consensually provided by other members of the system, it would be alive.
+
+
+
 _11-27  7:59_ https://arxiv.org/abs/2511.19757 argues, "Language understanding entails not just extracting the surface-level meaning of the linguistic input, but constructing rich mental models of the situation it describes."
 
 This puts LLM in their place. But to this shallow take on language I would say, It's language all the way down.
