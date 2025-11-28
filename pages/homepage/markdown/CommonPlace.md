@@ -1,6 +1,17 @@
 % Read it here first
 
 ## 2025-11
+_11-28 15:16_ Don't do this: have a dir and a file of the same name as the dir plus an extension, and have files in the dir with the same extension.
+
+My script was returning:
+
+Unable to open /home/drbean/dot/screen/dot.rc.
+
+
+But it was not 'dot.rc' that was missing, it was a file in dot/, .rc, where SCREEN was an empty string, that bash could not find. #gotcha #bash
+
+
+
 _11-28 12:24_ Wait! Plants, except for some parasitic and carnivorous ones, don't rely on biological matter for sustenance, only on chemical elements and compounds.
 
 And they are alive! But not, I think, having intentions or goals, just following progams.
