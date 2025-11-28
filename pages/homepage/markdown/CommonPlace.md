@@ -1,6 +1,16 @@
 % Read it here first
 
 ## 2025-11
+_11-28 12:24_ Wait! Plants, except for some parasitic and carnivorous ones, don't rely on biological matter for sustenance, only on chemical elements and compounds.
+
+And they are alive! But not, I think, having intentions or goals, just following progams.
+
+https://en.wikipedia.org/wiki/Plant_nutrition
+
+
+
+
+
 _11-27 22:45_ If you make a system that can self-replicate and is capable of mutation in
 a way that can respond to selective influences, that doesn't mean it's
 alive ..
