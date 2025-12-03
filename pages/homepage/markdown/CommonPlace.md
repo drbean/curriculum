@@ -1,5 +1,10 @@
 % Read it here first
 
+## 2025-12
+_12-04  8:47_ Han Eysenck, fabricating psychologist, according to https://retractionwatch.com/2025/12/03/number-of-unsafe-publications-by-psychologist-hans-eysenck-could-be-high-and-far-reaching/ See my http://drbean.sdf.org/HigamusHogamus.html
+
+
+
 ## 2025-11
 _11-28 15:16_ Don't do this: have a dir and a file of the same name as the dir plus an extension, and have files in the dir with the same extension.
 
