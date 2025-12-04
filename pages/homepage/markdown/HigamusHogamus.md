@@ -18,8 +18,14 @@ PS. My apparently mistaken understanding, due to reading a HJ Eysenck popular ex
 
 His teacher, Cyril Burt is also known as the serial perpetrator of scientific fraud.
 
+According to
+[https://retractionwatch.com/2025/12/03/number-of-unsafe-publications-by-psychologist-hans-eysenck-could-be-high-and-far-reaching/](https://retractionwatch.com/2025/12/03/number-of-unsafe-publications-by-psychologist-hans-eysenck-could-be-high-and-far-reaching/)
+many of his publications are "unsafe".
+
 Is psychology (also) a scientific fraud?
 
 [Feynman and cargo cult psychology at DDG](https://duckduckgo.com/?q=feynman+cargo+cult+psychology)
 
-Back to [ActionResearch](ActionResearch.html)
+Read [ActionResearch](ActionResearch.html)
+
+Back to [PhilosophicalAmusings](PhilosophicalAmusings.html)
