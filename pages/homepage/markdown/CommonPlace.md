@@ -1,6 +1,10 @@
 % Read it here first
 
 ## 2025-12
+_12-05 16:39_ "High-jumper, Dick Fosbury flings/heaves self over the bar". Which is it?
+
+
+
 _12-05 16:29_ I never felt the need to distinguish "heading" and "title", but in a table in a paper,
 
 title:
