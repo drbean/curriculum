@@ -1,6 +1,10 @@
 % Read it here first
 
 ## 2025-12
+_12-05 16:22_ What's the connection between "sling" and "slide", other than the connection through "swing" of playground equipment? Perhaps that connection is informative.
+
+
+
 _12-05 16:14_ Difference of "heave/sling the backpack up on the truck." "heave" if it travels in a straight line, "sling" if it travels in an arc?
 
 
