@@ -1,6 +1,22 @@
 % Read it here first
 
 ## 2025-12
+_12-05 16:29_ I never felt the need to distinguish "heading" and "title", but in a table in a paper,
+
+title:
+**Table 1 Overview of the ESS service providers**
+
+heading:
++------------+-------------+-------------+-------------+-------------+
+| Items      | GoShare     |             | iRent       | WeMo        |
+|            | (multiple   |             |             |             |
+|            | types of    |             |             |             |
+|            | vehicles)   |             |             |             |
++============+=============+=============+=============+=============+
+
+
+
+
 _12-05 16:22_ What's the connection between "sling" and "slide", other than the connection through "swing" of playground equipment? Perhaps that connection is informative.
 
 
