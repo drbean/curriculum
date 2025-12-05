@@ -1,6 +1,10 @@
 % Read it here first
 
 ## 2025-12
+_12-05 16:14_ Difference of "heave/sling the backpack up on the truck." "heave" if it travels in a straight line, "sling" if it travels in an arc?
+
+
+
 _12-04  8:47_ Han Eysenck, fabricating psychologist, according to https://retractionwatch.com/2025/12/03/number-of-unsafe-publications-by-psychologist-hans-eysenck-could-be-high-and-far-reaching/ See my http://drbean.sdf.org/HigamusHogamus.html
 
 
