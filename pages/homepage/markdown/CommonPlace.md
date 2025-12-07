@@ -1,6 +1,10 @@
 % Read it here first
 
 ## 2025-12
+_12-08  7:21_ LLM can read text but can't read minds, so they don't know whether it should be "a _NOUN_" or "the _NOUN_" . That's in the mind. "You need to be a mind reader!" #AI #LLM #mindreading
+
+
+
 _12-07 20:57_ https://books.google.com/ngrams/graph?content=gain+success,earn+success I prefered the unpopular alternative!
 
 
