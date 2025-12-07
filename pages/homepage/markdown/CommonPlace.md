@@ -1,6 +1,10 @@
 % Read it here first
 
 ## 2025-12
+_12-07  9:13_ https://english.stackexchange.com/questions/52009/in-person-equivalent-for-inanimate-objects says no to "in person". But what about 	"surveillance capitalism (Zuboff, 2019), in the form of Google, Facebook and others, sweeps up their data to predict, target and shape their behavior."
+
+
+
 _12-05 16:39_ "High-jumper, Dick Fosbury flings/heaves self over the bar". Which is it?
 
 
