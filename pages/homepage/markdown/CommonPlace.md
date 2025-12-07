@@ -1,6 +1,10 @@
 % Read it here first
 
 ## 2025-12
+_12-07 20:13_ "Immanent": a word I didn't know though I think I had encountered it. I think I thought is was a blend of "imminent" and "emanate", an "eminent imminent emanate."
+
+
+
 _12-07  9:16_ https://english.stackexchange.com/questions/52009/in-person-equivalent-for-inanimate-objects says no to "in person". But what about 	"surveillance capitalism (Zuboff, 2019), in the PERSON of Google, Facebook and others, sweeps up their data to predict, target and shape their behavior.".
 
 Because of corporate personhood.
