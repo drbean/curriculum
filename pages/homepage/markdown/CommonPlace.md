@@ -1,6 +1,10 @@
 % Read it here first
 
 ## 2025-12
+_12-07 20:57_ https://books.google.com/ngrams/graph?content=gain+success,earn+success I prefered the unpopular alternative!
+
+
+
 _12-07 20:13_ "Immanent": a word I didn't know though I think I had encountered it. I think I thought is was a blend of "imminent" and "emanate", an "eminent imminent emanate."
 
 
