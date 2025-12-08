@@ -1,6 +1,14 @@
 % Read it here first
 
 ## 2025-12
+_12-08  9:01_ "compare and contrast": favorite words after "although". I think Richard Day, https://www2.hawaii.edu/~rday/ took "but".
+
+
+
+_12-08  9:01_ "compare and contrast": favorite words after "although". I think Richard Day, https://www2.hawaii.edu/~rday/ took "but".
+
+
+
 _12-08  7:21_ LLM can read text but can't read minds, so they don't know whether it should be "a _NOUN_" or "the _NOUN_" . That's in the mind. "You need to be a mind reader!" #AI #LLM #mindreading
 
 
