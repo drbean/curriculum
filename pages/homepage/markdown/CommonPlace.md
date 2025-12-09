@@ -1,6 +1,10 @@
 % Read it here first
 
 ## 2025-12
+_12-09 10:22_ MS Word is flagging "compare and contrast"!!
+
+
+
 _12-08  9:01_ "compare and contrast": favorite words after "although". I think Richard Day, https://www2.hawaii.edu/~rday/ took "but".
 
 
