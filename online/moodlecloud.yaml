@@ -10,11 +10,13 @@ summary: |+
 
   with passwod
 
-  Testing123
+  T0efltoeic
 
-  That's 'Testing123' with a capital 'T'
+  That’s ‘T0efltoeic’ with a capital ‘T’ and a (0) zero, not an O.
 
-
+block:
+  site administration block plugin:
+    Course/site summary: enabled, locked
 participant:
   admin: Ed Min drbean@freeshell.org ********
   drbean: Dr Bean drbean+drbean@freeshell.org ********
@@ -22,6 +24,8 @@ participant:
 course:
   - 
     - toeic
+    - backup-moodle2-course-11-toeic-20250731-1747.mbz
+    - backup-moodle2-course-11-toeic-20250704-2133.mbz
     - backup-moodle2-course-10-toeic-20250608-1628.mbz
     - backup-moodle2-course-10-toeic-20250511-1711.mbz
     - backup-moodle2-course-10-toeic-20250413-2047.mbz
@@ -36,6 +40,11 @@ course:
     - backup-moodle2-course-2-toeic-20210327-0709-nu-nf.mbz
   - 
     - toefl
+    - backup-moodle2-course-9-toefl-20251102-1415.mbz
+    - backup-moodle2-course-9-toefl-20251008-1502.mbz
+    - backup-moodle2-course-9-toefl-20250909-0653.mbz
+    - backup-moodle2-course-9-toefl-20250731-1747.mbz
+    - backup-moodle2-course-9-toefl-20250704-2134.mbz
     - backup-moodle2-course-9-toefl-20250607-1647.mbz
     - backup-moodle2-course-9-toefl-20250511-1710.mbz
     - backup-moodle2-course-9-toefl-20250413-2047.mbz
@@ -72,6 +81,6 @@ enrolments:
 public: https://github.com/drbean/curriculum/blob/master/online/moodlecloud.yaml
 ---
 # in /sdf/udd/d/drbean/html/.htaccess
-RedirectMatch temp toeflic/toeic.html https://etsest.moodlecloud.com/course/view.php?id=10
-RedirectMatch temp toeflic/toefl.html https://etsest.moodlecloud.com/course/view.php?id=9
-RedirectMatch temp toeflic/cloud.html https://etsest.moodlecloud.com
+RedirectMatch temp toeflic/toeic.html https://setset.moodlecloud.com/course/view.php?id=10
+RedirectMatch temp toeflic/toefl.html https://setset.moodlecloud.com/course/view.php?id=9
+RedirectMatch temp toeflic/cloud.html https://setset.moodlecloud.com
