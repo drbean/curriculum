@@ -1,6 +1,13 @@
 % Read it here first
 
 ## 2025-12
+_12-10 15:56_ cygwin's mkshortcut creates Windows shortcut icons on the Desktop or in StartUp to invoke cygwin programs the Windows way.
+
+in C:/Users/Public/Public Desktop
+and C:ProgramDataMicrosoftWindowsStart MenuProgramsStartUp
+
+
+
 _12-09 10:22_ MS Word is flagging "compare and contrast"!!
 
 
