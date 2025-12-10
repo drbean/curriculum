@@ -1,5 +1,6 @@
 % Home Page of Dr Bean
 
+
 ---
 linkcolor: '#4682B4'
 ...
@@ -79,6 +80,7 @@ linkcolor: '#4682B4'
 - [WebCaster3100SV](WebCaster3100SV.html) 誰かにあげたい
 - [WYSInotWYG](WYSInotWYG.html) Fooled by ambiguity in plain sight
 - [AssigningSameValuedPerlBashArrays](AssigningSameValuedPerlBashArrays.html) perl: good, bash: ugly
+- [ShortCut](ShortCut.html) Turning the Windows GUI into a Unix TUI
 
 ## Places
 
@@ -110,7 +112,8 @@ TODO: under construction
 
 email: drbean [at] freeshell [dot] org
 
-Me at <a rel="me" href="https://mastodon.sdf.org/@drbean">Mastodon</a>
+[Me at <a rel="me" href="](https://mastodon.sdf.org/@drbean">Mastodon</a>)
+
 <form action='https://mastodon.sdf.org/@drbean'>
 <button type='submit' class='btn'>
 <img src='./mastodon.svg'

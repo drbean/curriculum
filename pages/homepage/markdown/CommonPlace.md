@@ -1,6 +1,10 @@
 % Read it here first
 
 ## 2025-12
+_12-10 16:25_ With mkshortcut -a "/usr/bin/bash -l -c 'tt 'web -w sdf' 'qb -w qt' mastodon' &" -A -P -n "StartUp/web,qb,mastodon" /usr/bin/mintty
+
+
+
 _12-10 15:56_ cygwin's mkshortcut creates Windows shortcut icons on the Desktop or in StartUp to invoke cygwin programs the Windows way.
 
 in C:/Users/Public/Public Desktop
