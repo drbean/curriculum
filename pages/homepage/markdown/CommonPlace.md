@@ -1,6 +1,10 @@
 % Read it here first
 
 ## 2025-12
+_12-10 16:28_ mkshortcut -d "場所: mintty C:gwin64" -i /cygdrive/c/cygwin64/Cygwin.ico -A -D -n "Cygwin64 Terminal" -i /cygdrive/c/cygwin64/Cygwin.ico /cygdrive/c/cygwin64/Cygwin.bat
+
+
+
 _12-10 16:25_ With mkshortcut -a "/usr/bin/bash -l -c 'tt 'web -w sdf' 'qb -w qt' mastodon' &" -A -P -n "StartUp/web,qb,mastodon" /usr/bin/mintty
 
 
