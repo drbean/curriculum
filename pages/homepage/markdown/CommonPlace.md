@@ -1,6 +1,16 @@
 % Read it here first
 
 ## 2025-12
+_12-11 22:13_ $ man git-diff | wc
+1520    8932   69395
+
+drbean@ESPRIMO ~/dot
+$ svn h diff | wc
+83     623    5027
+
+
+
+
 _12-10 16:30_ Check `man mkshortcut`
 
 
