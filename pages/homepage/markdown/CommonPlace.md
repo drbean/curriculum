@@ -1,6 +1,12 @@
 % Read it here first
 
 ## 2025-12
+_12-12  8:33_ This AI-LLM hair on fire moment is shaping up to be a battle polarized into those for those against. I'm in the against camp, because the LLM result in CJK profs not asking me to edit their papers https://quoteinvestigator.com/2017/11/30/salary/. But Mark Dominus and Terence Tao, whom I respect and admire are for, which is a problem.
+
+I also don't like to be categorized, so I'm going to join the 'run with the foxes, hunt with the hounds' camp.
+
+
+
 _12-11 22:13_ $ man git-diff | wc
 1520    8932   69395
 
