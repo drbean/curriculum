@@ -1,6 +1,10 @@
 % Read it here first
 
 ## 2025-12
+_12-14  8:46_ 比韓 3 跟 4 ，我覺得 1 (일) 跟 2 (이) 類似。
+
+
+
 _12-13 10:07_ The marry/merry/merger occurs only before /r/?
 
 `Marry a merry Mary`
