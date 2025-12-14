@@ -1,6 +1,10 @@
 % Read it here first
 
 ## 2025-12
+_12-15  8:41_ That flying saucer reports were the subject of the 1950 Los Alamos pre-lunch discussion, and that Fermi was a source of provocative estimation questions, https://en.wikipedia.org/wiki/Fermi_problem explains a lot about his blurting out at lunch, Where is everybody, and that everyone laughed.
+
+
+
 _12-15  8:24_ https://codemanship.wordpress.com/2025/12/14/the-gorman-paradox-where-are-all-the-ai-generated-apps/ leverages the Fermi Paradox, https://en.wikipedia.org/wiki/Fermi_paradox to motivate the Gorman Paradox, Where Are All The AI-Generated Apps? Does https://simonwillison.net/ have an answer?
 
 
