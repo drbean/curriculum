@@ -1,6 +1,14 @@
 % Read it here first
 
 ## 2025-12
+_12-15  8:52_ What do the attractions of tobacco say about the physiological mechanisms by which taste governs individual nutrition decisions that are biologically sound.
+
+Except for sugar? Or especially for sugar?
+
+And does this suggest there are ways to combat tobacco addiction, other than adding horrible tastes to cigarettes, as that doesn't work for alcohol.
+
+
+
 _12-15  8:41_ That flying saucer reports were the subject of the 1950 Los Alamos pre-lunch discussion, and that Fermi was a source of provocative estimation questions, https://en.wikipedia.org/wiki/Fermi_problem explains a lot about his blurting out at lunch, Where is everybody, and that everyone laughed.
 
 
