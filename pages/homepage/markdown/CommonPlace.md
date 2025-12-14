@@ -1,6 +1,12 @@
 % Read it here first
 
 ## 2025-12
+_12-14  9:22_ https://simonwillison.net/2025/Dec/13/obie-fernandez/#atom-everything reports https://obie.medium.com/what-happens-when-the-coding-becomes-the-least-interesting-part-of-the-work-ab10c213c660 . Paraphrasing, even if you enjoy writing code, AI autocompletion will help you write faster!!
+
+But for me, decision-making, with AI clearing space, is key. No mechanics, just judgment, tradeoffs, intent. Typing code wastes time. https://mathshistory.st-andrews.ac.uk/Biographies/Babbage/quotations/
+
+
+
 _12-14  8:46_ 比韓 3 跟 4 ，我覺得 1 (일) 跟 2 (이) 類似。
 
 
