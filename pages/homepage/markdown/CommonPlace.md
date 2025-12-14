@@ -1,6 +1,10 @@
 % Read it here first
 
 ## 2025-12
+_12-15  8:24_ https://codemanship.wordpress.com/2025/12/14/the-gorman-paradox-where-are-all-the-ai-generated-apps/ leverages the Fermi Paradox, https://en.wikipedia.org/wiki/Fermi_paradox to motivate the Gorman Paradox, Where Are All The AI-Generated Apps? Does https://simonwillison.net/ have an answer?
+
+
+
 _12-14 17:43_ https://simonwillison.net/2025/Dec/14/copywriters-reveal-how-ai-has-decimated-their-industry/#atom-everything reports https://www.bloodinthemachine.com/p/i-was-forced-to-use-ai-until-the reveal of copywriter industry decimation.
 
 Me,too.
