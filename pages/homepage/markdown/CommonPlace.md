@@ -1,6 +1,13 @@
 % Read it here first
 
 ## 2025-12
+_12-14 17:27_ https://en.wikipedia.org/wiki/English-language_vowel_changes_before_historic_/r/
+
+/æ/                      /ɛ/                      /eɪ/
+Barry                   berry                     beary as in 'This district is beary. This one less so' #115709583857304379
+
+
+
 _12-14  9:22_ https://simonwillison.net/2025/Dec/13/obie-fernandez/#atom-everything reports https://obie.medium.com/what-happens-when-the-coding-becomes-the-least-interesting-part-of-the-work-ab10c213c660 . Paraphrasing, even if you enjoy writing code, AI autocompletion will help you write faster!!
 
 But for me, decision-making, with AI clearing space, is key. No mechanics, just judgment, tradeoffs, intent. Typing code wastes time. https://mathshistory.st-andrews.ac.uk/Biographies/Babbage/quotations/
