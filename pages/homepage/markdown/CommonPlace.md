@@ -1,6 +1,16 @@
 % Read it here first
 
 ## 2025-12
+_12-14 17:43_ https://simonwillison.net/2025/Dec/14/copywriters-reveal-how-ai-has-decimated-their-industry/#atom-everything reports https://www.bloodinthemachine.com/p/i-was-forced-to-use-ai-until-the reveal of copywriter industry decimation.
+
+Me,too.
+
+How to make lemonade out of lemons.
+
+Get the CJK profs to help them hide LLM are translating their papers into English, or that they are giving them leads to pursue in them?
+
+
+
 _12-14 17:27_ https://en.wikipedia.org/wiki/English-language_vowel_changes_before_historic_/r/
 
 /æ/                      /ɛ/                      /eɪ/
