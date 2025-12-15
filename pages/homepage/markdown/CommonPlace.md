@@ -1,6 +1,28 @@
 % Read it here first
 
 ## 2025-12
+_12-15 17:57_ What about raw meat? Eating it is, let's say, biologically-sound, because eating cooked meat is, it being nutritional. The Japanese eat raw fish, but is there any group where raw meat eating is a practice? (Apparently Inuit do) It doesn't taste good, but cooked meat does.
+
+I want to find points in the evolution of Homo sapiens where cooking with fire and meat eating became common practices. If I can show some relationship, perhaps I can establish meat-eating became a practice after it started tasting good, because it was cooked.
+
+Or perhaps, meat tastes evolved.
+
+This runs up against food aversions which result in eating decisions with no nutritional benefit. And the eating of fermented foods despite "bad" tastes.
+
+
+
+
+_12-15 17:57_ What about raw meat? Eating it is, let's say, biologically-sound, because eating cooked meat is, it being nutritional. The Japanese eat raw fish, but is there any group where raw meat eating is a practice? (Apparently Inuit do) It doesn't taste good, but cooked meat does.
+
+I want to find points in the evolution of Homo sapiens where cooking with fire and meat eating became common practices. If I can show some relationship, perhaps I can establish meat-eating became a practice after it started tasting good, because it was cooked.
+
+Or perhaps, meat tastes evolved.
+
+This runs up against food aversions which result in eating decisions with no nutritional benefit. And the eating of fermented foods despite "bad" tastes.
+
+
+
+
 _12-15 17:27_ Tobacco addiction goes beyond those physiological mechanisms of taste however by inducing a new substance need paralleling the need for food. This new substance need governed by the taste/smell of tobacco is biologically unsound. But can we still learn something about the role of good/bad tastes in making biologically-sound eating decisions?
 
 
