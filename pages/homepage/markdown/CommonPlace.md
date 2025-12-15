@@ -1,6 +1,10 @@
 % Read it here first
 
 ## 2025-12
+_12-15 17:27_ Tobacco addiction goes beyond those physiological mechanisms of taste however by inducing a new substance need paralleling the need for food. This new substance need governed by the taste/smell of tobacco is biologically unsound. But can we still learn something about the role of good/bad tastes in making biologically-sound eating decisions?
+
+
+
 _12-15  8:52_ What do the attractions of tobacco say about the physiological mechanisms by which taste governs individual nutrition decisions that are biologically sound.
 
 Except for sugar? Or especially for sugar?
