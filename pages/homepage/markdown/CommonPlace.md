@@ -1,6 +1,10 @@
 % Read it here first
 
 ## 2025-12
+_12-16  8:22_ For "biologically-sound", or "beneficial", read "nutritious and with reduced risk of harm to health". With this definition, eating of raw animal products (including milk and eggs?) is not biologically-sound, because of the risk of parasites. The unappealing taste of raw meat (and to a lesser extent of raw fish, but not animal milk?), and all non-fresh, non-cooked thing which looks it might still be swallowable, is a word to the wise, "Don't eat it!"
+
+
+
 _12-15 21:13_ For "biologically-sound/unsound" read "beneficial/unbeneficial"
 
 
