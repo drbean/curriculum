@@ -1,6 +1,10 @@
 % Read it here first
 
 ## 2025-12
+_12-17  8:04_ Thesis: think something. Antithesis: have a contrary thought. Synthesis: do compare-and-contrast brainstorming.
+
+
+
 _12-16  9:41_ Pro tip paper writers: If you think your 'thing' needs explanation, like "is <a|the> thing ensuring that something else does something," it's not 'is the thing,' but 'is a thing' often
 
 
