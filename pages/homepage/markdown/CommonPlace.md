@@ -1,6 +1,10 @@
 % Read it here first
 
 ## 2025-12
+_12-18  8:14_ AI done right: https://www.aiweirdness.com as source of humor. Mark Dominus toot of weird AI-created drama plot
+
+
+
 _12-17 16:32_ define the evolution of SoC across arcs, consistent with the main optimization model.
 
 should be
