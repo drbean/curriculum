@@ -1,6 +1,21 @@
 % Read it here first
 
 ## 2025-12
+_12-17 16:32_ define the evolution of SoC across arcs, consistent with the main optimization model.
+
+should be
+
+define the evolution of SoC across arcs, as with the main
+optimization model
+
+
+OK is
+
+define AN evolution of SoC across arcs consistent with the main
+optimization model 115726466324245453
+
+
+
 _12-17  8:28_ https://mattglassman.substack.com/p/the-game-theory-of-yankee-swap  Yankee swap, https://en.wikipedia.org/wiki/White_elephant_gift_exchange for insights into the American fun-loving but sharp-elbowed psyche, reminding me of the description of Paul Elvstrom https://en.wikipedia.org/wiki/Paul_Elvstr%C3%B8m as not letting his grandmother win an egg-and-spoon race.
 
 With caveat, Glassman family competitive focus an outlier? His father not having sympathy for sister distraught at game outcome 115505750277762830
