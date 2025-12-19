@@ -8,6 +8,11 @@ But read how
 [SexRearsItsUglyHead](SexRearsItsUglyHead.html)
 
 Me at
-[Mastodon](https://mastodon.sdf.org/@drbean)
+    <form action='https://mastodon.sdf.org/@drbean'>
+    <button type='submit' class='btn'>
+    <img src='./mastodon.svg'
+        alt='https://joinmastodon.org/logos/wordmark-black-text.svg'
+        style='width:50px;height:25px'/>
+    </button></form>
 
 Back to [ActionResearch](ActionResearch.html)
