@@ -1,6 +1,10 @@
 % Read it here first
 
 ## 2025-12
+_12-20  8:09_ Mark Dominus shares https://www.anthropic.com/research/project-vend-2 , a light-hearted account of an Anthropic AI experiment with real-world tasks, operating a store. Anthropic doesn't see ethical implications of businesses run for profit? Are they win-win operations or zero-sum games? Money (=the relationships between people in the struggle for survival, or the good life) as the root of all evil.
+
+
+
 _12-19 22:38_ https://absolutelymaybe.plos.org/2025/12/19/science-populism-medicine-style/ Evidence-based medicine analyst sees influence of science populism (anti-science distrust of experts) within that community, disabusing her of conviction evidence-based medicine was aantithetical to authoritarianism. #evidencebasedmedicine 114962426700427923
 
 
