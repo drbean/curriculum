@@ -1,6 +1,10 @@
 % Read it here first
 
 ## 2025-12
+_12-19 22:38_ https://absolutelymaybe.plos.org/2025/12/19/science-populism-medicine-style/ Evidence-based medicine analyst sees influence of science populism (anti-science distrust of experts) within that community, disabusing her of conviction evidence-based medicine was aantithetical to authoritarianism. #evidencebasedmedicine 114962426700427923
+
+
+
 _12-18  8:14_ AI done right: https://www.aiweirdness.com as source of humor. Mark Dominus toot of weird AI-created drama plot
 
 
