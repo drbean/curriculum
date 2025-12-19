@@ -943,5 +943,12 @@ _08-28 12:11_ Alerted by https://bsky.app/profile/melaniemitchell.bsky.social/po
 _08-28 11:32_
 Going to try to commonplace book my mastodon posts first #POSSE
 
+Read it again at
+    <form action='https://mastodon.sdf.org/@drbean'>
+    <button type='submit' class='btn'>
+    <img src='./mastodon.svg'
+        alt='https://joinmastodon.org/logos/wordmark-black-text.svg'
+        style='width:50px;height:25px'/>
+    </button></form>
 
 

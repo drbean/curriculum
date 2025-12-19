@@ -20,6 +20,8 @@ What am I saying? That I don't know what I'm talking about!
 
 Read how [AnimalSpirits](AnimalSpirits.html) have a lot to answer for.
 
+Read what the [BiologyOfTaste](BiologyOfTaste.html) has to teach us about the chemistry of tobacco addiction.
+
 Me at
     <form action='https://mastodon.sdf.org/@drbean'>
     <button type='submit' class='btn'>
