@@ -112,8 +112,7 @@ TODO: under construction
 
 email: drbean [at] freeshell [dot] org
 
-[Me at <a rel="me" href="](https://mastodon.sdf.org/@drbean">Mastodon</a>)
-
+Me at
 <form action='https://mastodon.sdf.org/@drbean'>
 <button type='submit' class='btn'>
 <img src='./mastodon.svg'
