@@ -1,6 +1,10 @@
 % Read it here first
 
 ## 2025-12
+_12-20 13:38_ A vending machine is a machine representation of a store. It exchanges money for items. What is the purpose of modeling this with AI? First let us understand the ethical responsibilities of entrepreneurs. The AI experiment's purpose was not modeling store keeping. It was modeling entrepreneurship.
+
+
+
 _12-20 13:30_ https://www.aiweirdness.com/when-a-chatbot-runs-your-store/ links the un-funny archived Wall Street Journal experiment experience writeup of the Anthropic AI store at https://archive.is/I1lyh The commenters to it responding there are superficial (perhaps they're LLM bots) except for one informative (impressive?) booster (which is almost certainly a bot).
 
 
