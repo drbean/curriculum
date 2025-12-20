@@ -1,6 +1,10 @@
 % Read it here first
 
 ## 2025-12
+_12-20 13:30_ https://www.aiweirdness.com/when-a-chatbot-runs-your-store/ links the un-funny archived Wall Street Journal experiment experience writeup of the Anthropic AI store at https://archive.is/I1lyh The commenters to it responding there are superficial (perhaps they're LLM bots) except for one informative (impressive?) booster (which is almost certainly a bot).
+
+
+
 _12-20  8:09_ Mark Dominus shares https://www.anthropic.com/research/project-vend-2 , a light-hearted account of an Anthropic AI experiment with real-world tasks, operating a store. Anthropic doesn't see ethical implications of businesses run for profit? Are they win-win operations or zero-sum games? Money (=the relationships between people in the struggle for survival, or the good life) as the root of all evil.
 
 
