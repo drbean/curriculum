@@ -1,6 +1,10 @@
 % Read it here first
 
 ## 2025-12
+_12-21 17:44_ No indication of who is developer of https://ozdic.com English collocation dictionary, but it appears has access to big dictionary resources. A site to bookmark with https://www.english-corpora.org/ 115595941663656001
+
+
+
 _12-20 13:38_ A vending machine is a machine representation of a store. It exchanges money for items. What is the purpose of modeling this with AI? First let us understand the ethical responsibilities of entrepreneurs. The AI experiment's purpose was not modeling store keeping. It was modeling entrepreneurship.
 
 
