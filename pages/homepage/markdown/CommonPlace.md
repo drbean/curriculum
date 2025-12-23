@@ -1,6 +1,10 @@
 % Read it here first
 
 ## 2025-12
+_12-24  8:30_ 부산為很好地方。我2023年夏天在那兒。On the street, ie, 노숙(露宿)。好經驗。115768684326146576
+
+
+
 _12-21 17:44_ No indication of who is developer of https://ozdic.com English collocation dictionary, but it appears has access to big dictionary resources. A site to bookmark with https://www.english-corpora.org/ 115595941663656001
 
 
