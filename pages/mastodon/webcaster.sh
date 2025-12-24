@@ -3,6 +3,7 @@
 #})'}
 
 offer="ADSL Wi-Fiルーターの欲 しい 人！に上げます。詳細は http://drbean.sdf.org/WebCaster3100SV.html
+
 https://www.ntt-west.co.jp/kiki/download/flets/3100sv/WBC3100SV_4th.pdf"
 
 <<< $offer masto_master_messter mastodon-japan.net mstdn.jp
