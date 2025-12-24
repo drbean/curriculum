@@ -1,6 +1,10 @@
 % Read it here first
 
 ## 2025-12
+_12-24 22:11_ It was somewhat stressful, but you get used to it. https://mastodon.sdf.org/users/drbean/statuses/110863387485434425
+
+
+
 _12-24  8:30_ 부산為很好地方。我2023年夏天在那兒。On the street, ie, 노숙(露宿)。好經驗。115768684326146576
 
 
