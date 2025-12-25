@@ -32,8 +32,8 @@ for p in $story $topic
         --template=c:$HOME/curriculum/pages/pandoc-templates/git/homepagePost.html5 \
        $M/$p.md
 done
-pandoc -f markdown -t plain <<< "$stdout"
-# echo $stdout
+# pandoc -f markdown -t plain <<< "$stdout"
+echo $stdout
 
 cd $M 1>&2
 for v in svn git ; do $v add $M/{$topic,$story}.md ; done 2>/dev/null 1>&2
