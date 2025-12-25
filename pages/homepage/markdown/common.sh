@@ -15,7 +15,7 @@ if [[ $record_date != $date_now ]]; then
 " $M/$story.md
 fi
 
-date=$(date  +'%m-%d %k:%M')
+date=$(date  +'%m/%d %k:%M')
 post="_${date}_ "
 
 while read -r line ; do
