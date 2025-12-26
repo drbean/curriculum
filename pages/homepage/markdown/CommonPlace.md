@@ -1,6 +1,10 @@
 % Read it here first
 
 ## 2025-12
+_12/26 22:23_ https://www.electoral-vote.com/evp2025/Items/Dec23-2.html says fundamental to Trump is grift, ego and revenge, which I think is right. But there is more to it. I think also important is the Great Pretender personality and walk-on-water-level of delusions of grandeur, perhaps stylable as reverse Imposter Syndrome. 1/3
+
+
+
 _12-24 22:11_ It was somewhat stressful, but you get used to it. https://mastodon.sdf.org/users/drbean/statuses/110863387485434425
 
 
