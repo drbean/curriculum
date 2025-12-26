@@ -1,6 +1,10 @@
 % Read it here first
 
 ## 2025-12
+_12/27  8:47_ Recent Torvalds statement on Vizio court case, https://social.kernel.org/objects/ec146b14-a7ae-44c8-928e-58968b2fd8ae
+
+
+
 _12/27  8:34_ https://www.lexology.com/library/detail.aspx?g=af98fe0c-83ae-4710-9caa-4ab2688ca98a : a 2008 article on Tivo GPL debate, positioning the Linux against the FSF camps.
 
 
