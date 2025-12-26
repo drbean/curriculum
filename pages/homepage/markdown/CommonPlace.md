@@ -1,6 +1,10 @@
 % Read it here first
 
 ## 2025-12
+_12/27  8:34_ https://www.lexology.com/library/detail.aspx?g=af98fe0c-83ae-4710-9caa-4ab2688ca98a : a 2008 article on Tivo GPL debate, positioning the Linux against the FSF camps.
+
+
+
 _12/26 22:58_ POSSE: The Publish Own Site, Syndicate Everywhere initialism is a real word meaning a group of citizens deputized by law enforcement to follow and arrest outlaws. But it is also a string of letters part of the verb 'POSSEss'. The verb is rich in productions:
 1. a (wo)man possessed by (ambition,an idea,demons). 1/? 
 
