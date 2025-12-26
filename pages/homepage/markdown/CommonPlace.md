@@ -1,6 +1,10 @@
 % Read it here first
 
 ## 2025-12
+_12/26 22:28_ The Great Pretender in the 2 senses of liar and aspiring candidate risking all to overcome all odds and win power. This is consistent with entrepreneurship, and rational reliance on trial and error. The delusions of grandeur stem perhaps from not expecting to win in 2016 but winning anyway and in 2020 prevented by his Secret Service from acting and left to stew at the White House, then coming back to win in 2024. That reversal of fortunes would be enough to go to anyone's head but still leave them in touch with reality, if also committed to revenge on opponents. 2/3
+
+
+
 _12/26 22:23_ https://www.electoral-vote.com/evp2025/Items/Dec23-2.html says fundamental to Trump is grift, ego and revenge, which I think is right. But there is more to it. I think also important is the Great Pretender personality and walk-on-water-level of delusions of grandeur, perhaps stylable as reverse Imposter Syndrome. 1/3
 
 
