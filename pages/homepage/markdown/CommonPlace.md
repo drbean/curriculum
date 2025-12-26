@@ -1,6 +1,11 @@
 % Read it here first
 
 ## 2025-12
+_12/26 22:58_ POSSE: The Publish Own Site, Syndicate Everywhere initialism is a real word meaning a group of citizens deputized by law enforcement to follow and arrest outlaws. But it is also a string of letters part of the verb 'POSSEss'. The verb is rich in productions:
+1. a (wo)man possessed by (ambition,an idea,demons). 1/? 
+
+
+
 _12/26 22:42_ I haven't seen reports of him having good feelings about people, but I think that he must be capable of this to have retained the services of his children. I think the reason he pardoned the January 6 rioters was gratitude, not to poke his opponents in the eye, believing, My enemy's enemy is my friend. Because the political consequences could only be a negative. 3/3
 
 
