@@ -1,6 +1,10 @@
 % Read it here first
 
 ## 2025-12
+_12/27  9:00_ The opposite to POSSE point of view is Linus Torvald's, which is like the cuckoo, letting the eggs it lays be hatched by other birds, by not maintaining his own data but putting it out for the public to maintain or not, depending on whether it sees its fit or not. Which is strange for someone who developed a version control system in git. But can't find citation.
+
+
+
 _12/27  8:47_ Recent Torvalds statement on Vizio court case, https://social.kernel.org/objects/ec146b14-a7ae-44c8-928e-58968b2fd8ae
 
 
