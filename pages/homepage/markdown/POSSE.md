@@ -12,7 +12,7 @@ I need to be careful of who I accuse of #vendorlockin here, but my failure to ex
 
 * [MastodonLockInDisabusing](MastodonLockInDisabusing.html) Dissolving inability to export ActivityPub posts
 
-* [PositivelyPOSSE](PositivelyPOSSE.html) Words with POSSE
+* [POSSEbleWords](POSSEbleWords.html) Words with POSSE
 
 
 * [_CUSP_](CUSP.html) A different initialism
