@@ -23,7 +23,7 @@ while read -r line ; do
     post+="$line\n"
 done
 
-title="$(sed -nE "1s/^_${date}_ (([[:graph:]]+[[:blank:]]+){5}).*$/\1/p" <<< $post)"
+title="$(sed -nE "1s|^_${date}_ (([[:graph:]]+[[:blank:]]+){5}).*$|\1|p" <<< $post)"
 
 sed -i.BAK -e "4i$post\n\n" $M/$story.md
 
