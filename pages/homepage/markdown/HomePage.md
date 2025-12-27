@@ -81,6 +81,7 @@ linkcolor: '#4682B4'
 - [WYSInotWYG](WYSInotWYG.html) Fooled by ambiguity in plain sight
 - [AssigningSameValuedPerlBashArrays](AssigningSameValuedPerlBashArrays.html) perl: good, bash: ugly
 - [ShortCut](ShortCut.html) Turning the Windows GUI into a Unix TUI
+- [POSSE](POSSE.html) Publish Own Site; Syndicate Everywhere
 
 ## Places
 
