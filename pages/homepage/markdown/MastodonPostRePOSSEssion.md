@@ -5095,8 +5095,8 @@ resources. A site to bookmark with https://www.english-corpora.org/
 
 https://techdirt.com @birb
 
-
-
+How to get posts off Mastodon
+at [MastodonLockInDisabusing](MastodonLockInDisabusing.html)
 
 Me at
     <form action='https://mastodon.sdf.org/@drbean'>
