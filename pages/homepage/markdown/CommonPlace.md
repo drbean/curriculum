@@ -1,6 +1,17 @@
 % Read it here first
 
 ## 2025-12
+_12/27  9:18_ 1. a (wo)man possessed by (ambition|an idea|demons). 1/6
+2. car repossession 2/6
+3. possession of the ball 3/6
+4. possessive relationship with partner 4/6
+5. possessive (case|pronoun) 5/6
+6. Possession is 9 (points|tenths) of the law. https://en.wikipedia.org/wiki/Possession_is_nine-tenths_of_the_law 6/6
+
+Collocation source: https://fluentwords.net/en/collocations/possessive/en and https://ozdic.com/collocation/possessive
+
+
+
 _12/27  9:00_ The opposite to POSSE point of view is Linus Torvald's, which is like the cuckoo, letting the eggs it lays be hatched by other birds, by not maintaining his own data but putting it out for the public to maintain or not, depending on whether it sees its fit or not. Which is strange for someone who developed a version control system in git. But can't find citation.
 
 
