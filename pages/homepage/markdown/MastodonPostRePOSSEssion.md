@@ -5095,8 +5095,13 @@ resources. A site to bookmark with https://www.english-corpora.org/
 
 https://techdirt.com @birb
 
+Continuing post-RePOSSEssion observations at
+[CommonPlace](CommonPlace.html)
+    
 How to get posts off Mastodon
 at [MastodonLockInDisabusing](MastodonLockInDisabusing.html)
+
+Back to [POSSE](POSSE.html)
 
 Me at
     <form action='https://mastodon.sdf.org/@drbean'>
@@ -5105,8 +5110,3 @@ Me at
         alt='https://joinmastodon.org/logos/wordmark-black-text.svg'
         style='width:50px;height:20px'/>
     </button></form>
-
-Continuing post-RePOSSEssion observations at
-[CommonPlace](CommonPlace.html)
-    
-Back to [POSSE](POSSE.html)
