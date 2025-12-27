@@ -2,8 +2,6 @@
 
 POSSE (Publish on Own Site, Syndicate Everywhere) is great.
 
-I need to be careful of who I accuse of #vendorlockin here, but my failure to export my mastodon toots as plain text, giving up on an attempt to extract them with jq (a great tool) from the JSON glob exported by ActivityPub a couple of months ago, contributes to my support for #POSSE. It doesn't t lessen my appreciation for mastodon and ActivityPub as vendors/brands of the FOSS software I'm grateful for.
-
 * [POSSEtivePhilosophy](POSSEtivePhilosophy.html) Reflections on POSSE virtues
 
 * [LinusTorvaldsOnPOSSE](LinusTorvaldsOnPOSSE.html) A contrary point of view
