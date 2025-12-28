@@ -1,6 +1,14 @@
 % Read it here first
 
 ## 2025-12
+_12/28 13:08_ Eatimg peas on a piece of bread, I noticed one dropped off. I could feel it coming into contact with, touching/hitting my leg.I looked around on the floor, but couldn't see it.
+
+Later, as I approached the sink to do the dishes. I noticed it close to the sink.
+
+I said, "Doh."
+
+
+
 _12/27  9:18_ 1. a (wo)man possessed by (ambition|an idea|demons). 1/6
 2. car repossession 2/6
 3. possession of the ball 3/6
