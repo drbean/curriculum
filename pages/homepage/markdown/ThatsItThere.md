@@ -75,6 +75,23 @@ What is the grammatical relationship between `There it is!` and `It IS there!`
 
 3. 'Here it is.'
 
-:I was looking for my mask in my pockets. I looked in my left pocket. It was there. I said, 'Here it is.'
+:    I was looking for my mask in my pockets. I looked in my left pocket. It was there. I said, 'Here it is.'
+
+4. 'Doh'
+
+:    2025/_12/28 13:08_ Eating peas on a piece of bread, I noticed one drop off. I could feel it coming into contact with, touching/hitting my leg.I looked around on the floor, but couldn't see it.
+
+Later, as I approached the sink to do the dishes. I noticed it close to the sink.
+
+I said, "Doh."
+
+
+Me at
+<form action='https://mastodon.sdf.org/@drbean'>
+<button type='submit' class='btn'>
+<img src='./mastodon.svg'
+alt='https://joinmastodon.org/logos/wordmark-black-text.svg'
+style='width:50px;height:20px'/>
+</button></form>
 
 Back to [WobblyEnglish](WobblyEnglish.html)
