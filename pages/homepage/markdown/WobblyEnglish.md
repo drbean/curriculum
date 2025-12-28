@@ -19,7 +19,7 @@ Some attempts to see English wobble, benefiting from conversations on the ##Engl
 * [_AKnowledgeableAcknowledgment_](AKnowledgeableAcknowledgment.html) The spelling of '-dgeable', '-dgment'
 * [_FauxOutrage_](FauxOutrage.html) Outrageous--Not damning with faint praise, but praising with quaint 'Damn'
 * [_FootHeadsArmsBody_](FootHeadsArmsBody.html) [Up garden path_](https://en.wikipedia.org/wiki/Garden-path_sentence)?
-* [_AutoAntonym_](AutoAntonym.html) One Word--Two opposite meanings
+* [_AutoAntonym_](AutoAntonym.html) One word--Two opposite meanings
 * [_PrancingPony_](PrancingPony.html) Disparaging a politician--How is it done?
 * [_AfterAll_](AfterAll.html) Solving a dilemma
 * [_BeliesAnyClaim_](BeliesAnyClaim.html) The use of 'belie'
@@ -74,10 +74,7 @@ Some attempts to see English wobble, benefiting from conversations on the ##Engl
 
 ##### Non-Native Speaker English
 * [_NotationsDefined_](NotationsDefined.html) Does not seem right
-
 * [_NumberAgreement_](NumberAgreement.html) Playing fast and loose with number
-
-* [AutoAntonym](AutoAntonym.html) 
 
 Me at
 <form action='https://mastodon.sdf.org/@drbean'>
