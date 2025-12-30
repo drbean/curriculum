@@ -18,13 +18,14 @@ for failing to recognize
 * [ImmanuelKant](ImmanuelKant.html) Immensely ponderous, but influential, systematic thinker 1724-1804
 * [DouglasHofstadter](DouglasHofstadter.html) 「 Gödel, Escher, and Bach 」author, analogist 1945-
 * [DanielDennett](DanielDennett.html) The dude flicking the towel in the philosophy locker room 1942-2024
-
+* [DickFosbury](DickFosbury.html) Revolutionized the high jump with the Fosbury flop
+ 
 Me at
     <form action='https://mastodon.sdf.org/@drbean'>
     <button type='submit' class='btn'>
     <img src='./mastodon.svg'
         alt='https://joinmastodon.org/logos/wordmark-black-text.svg'
-        style='width:75px;height:25px'/>
+        style='width:50px;height:20px'/>
     </button></form>
     
 Back to [HomePage](HomePage.html)
