@@ -26,7 +26,7 @@ Some attempts to see English wobble, benefiting from conversations on the ##Engl
 * [_ReadyWillingAbleAndCapable_](ReadyWillingAbleAndCapable.html) Ready Willing and Able, or Capable?
 * [_FormerlyFormally_](FormerlyFormally.html) Homophones for me!
 * [_TakeThisOpportunity_](TakeThisOpportunity.html) Recognition/appreciation of other's role in speakers' action
-
+* [_FlingOrSling_](FlingOrSling.html) Is there a difference in meaning?
 #### Grammar
 
 ##### Verb
