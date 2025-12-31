@@ -1,6 +1,10 @@
 % Read it here first
 
 ## 2025-12
+_12/31 17:55_ 2. The antecedent of `which is unrelated to standard appliance use' is `human remains`. That part should be, `but the placing of body parts in freezers is not standard appliance use.` Or just start a new sentence, `The placing of body parts ..`
+
+
+
 _12/31 17:48_ 1. In the overview, `though` is doing a lot of work in the segue from temperature advice to body part reports. 1/3
 
 
