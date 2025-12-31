@@ -1,6 +1,10 @@
 % Read it here first
 
 ## 2025-12
+_12/31 14:07_ The ugly: Computer language creator's reaction to LLM-generated praise of his achievements, https://gist.github.com/richhickey/ea94e3741ff0a4e3af55b9fe6287887f 115812407635886593 4/4
+
+
+
 _12/31 13:57_ The good: Prof at https://www.logicmatters.net/2025/12/28/ai-proof-reading-again/ finds AI proof reading helpful. Good for him, but not for me, a proof reader editing English of CJK profs' papers, using Natural Intelligence. 115811551259962114 3/4
 
 
