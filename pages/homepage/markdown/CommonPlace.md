@@ -1,6 +1,10 @@
 % Read it here first
 
 ## 2025-12
+_12/31 17:48_ 1. In the overview, `though` is doing a lot of work in the segue from temperature advice to body part reports. 1/3
+
+
+
 _12/31 17:45_ AI Overview (continued): When buying or using one, look for features like a wide temperature range, especially if placing in a garage (garage-ready models), and use an external thermometer to confirm it holds that consistent 0°F
 
 
