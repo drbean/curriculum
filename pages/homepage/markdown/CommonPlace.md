@@ -1,6 +1,10 @@
 % Read it here first
 
 ## 2025-12
+_12/31 10:20_ molly0xfff reports https://hachyderm.io/@molly0xfff/115800875234565576 an LLM trying to reconcile reports of body parts in a freezer with information/advice about freezer temperature, paralleling my experience with 'living doll' and Edo-period Japanese waxworks, but more bizarre. 115811497910310593 2/?
+
+
+
 _12/31 10:06_ LLM: The Good, the Bad and the Ugly 1/?
 
 
