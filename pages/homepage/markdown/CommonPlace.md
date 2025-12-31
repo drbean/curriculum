@@ -1,6 +1,10 @@
 % Read it here first
 
 ## 2025-12
+_12/31 10:06_ LLM: The Good, the Bad and the Ugly 1/?
+
+
+
 _12/31  9:43_ LLM: The Good, the Bad and the Ugly 1/?
 
 
