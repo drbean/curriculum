@@ -1,6 +1,10 @@
 % Read it here first
 
 ## 2025-12
+_12/31 13:57_ The good: Prof at https://www.logicmatters.net/2025/12/28/ai-proof-reading-again/ finds AI proof reading helpful. Good for him, but not for me, a proof reader editing English of CJK profs' papers, using Natural Intelligence. 115811551259962114 3/4
+
+
+
 _12/31 10:20_ molly0xfff reports https://hachyderm.io/@molly0xfff/115800875234565576 an LLM trying to reconcile reports of body parts in a freezer with information/advice about freezer temperature, paralleling my experience with 'living doll' and Edo-period Japanese waxworks, but more bizarre. 115811497910310593 2/?
 
 
