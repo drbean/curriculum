@@ -1,6 +1,10 @@
 % Read it here first
 
 ## 2025-12
+_12/31 16:53_ Like "You can't say that in English," google's AI Overview should have balked at trying to reconcile the Tempe body parts reports with freezer temperature advice. It could have done that by offering a 3rd alternative to "Including results for " & "Search only for  with a link to "Search only for " 2/3 115811551259962114
+
+
+
 _12/31 14:07_ The ugly: Computer language creator's reaction to LLM-generated praise of his achievements, https://gist.github.com/richhickey/ea94e3741ff0a4e3af55b9fe6287887f 115812407635886593 4/4
 
 
