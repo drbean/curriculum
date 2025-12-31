@@ -1,6 +1,10 @@
 % Read it here first
 
 ## 2025-12
+_12/31 18:14_ 4. placing body parts in freezers is hardly an `extreme scenario` A major LLM failure is tone-deaf vocab choices. I would change it to, `but might be done if you lop off your finger and are waiting for the ambulance.` 4/5
+
+
+
 _12/31 18:07_ 3. `highlight_VERB https://books.google.com/ngrams/graph?content=highlight_VERB CJK researchers love it. And LLM, too? I usually don't change it, if what is highlighted is already a topic. 3/5
 
 
