@@ -1,7 +1,11 @@
 % Read it here first
 
 ## 2025-12
-_12/31 17:55_ 2. The antecedent of `which is unrelated to standard appliance use' is `human remains`. That part should be, `but the placing of body parts in freezers is not standard appliance use.` Or just start a new sentence, `The placing of body parts ..`
+_12/31 18:07_ 3. `highlight_VERB https://books.google.com/ngrams/graph?content=highlight_VERB CJK researchers love it. And LLM, too? I usually don't change it, if what is highlighted is already a topic. 3/5
+
+
+
+_12/31 17:55_ 2. The antecedent of `which is unrelated to standard appliance use` is `human remains`. That part should be, `but the placing of body parts in freezers is not standard appliance use.` Or just start a new sentence, `The placing of body parts ..`
 
 
 
@@ -13,7 +17,7 @@ _12/31 17:45_ AI Overview (continued): When buying or using one, look for featur
 
 
 
-_12/31 17:40_ AI Overview: A chest freeze in Tempe (or anywhere) *should ideally be set to to 0°F (-18°C) or below for safe, long-term food storage, though some searches reveal disturbing news of human remains found in a freezer in Tempe, Arizona, which is unrelated to standard appliance use but highlights extreme scenarios. (cont)
+_12/31 17:40_ AI Overview: A chest freeze in Tempe (or anywhere) *should ideally be set to to 0°F (-18°C) or below for safe, long-term food storage*, though some searches reveal disturbing news of human remains found in a freezer in Tempe, Arizona, which is unrelated to standard appliance use but highlights extreme scenarios. (cont)
 
 
 
