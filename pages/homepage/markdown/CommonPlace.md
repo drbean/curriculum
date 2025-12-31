@@ -1,7 +1,11 @@
 % Read it here first
 
 ## 2025-12
-_12/31 16:53_ Like "You can't say that in English," google's AI Overview should have balked at trying to reconcile the Tempe body parts reports with freezer temperature advice. It could have done that by offering a 3rd alternative to "Including results for " & "Search only for  with a link to "Search only for " 2/3 115811551259962114
+_12/31 17:40_ AI Overview: A chest freeze in Tempe (or anywhere) *should ideally be set to to 0°F (-18°C) or below for safe, long-term food storage, though some searches reveal disturbing news of human remains found in a freezer in Tempe, Arizona, which is unrelated to standard appliance use but highlights extreme scenarios. (cont)
+
+
+
+_12/31 16:53_ Like "You can't say that in English," google's AI Overview should have balked at trying to reconcile the Tempe body parts reports with freezer temperature advice. It could have done that by offering a 3rd alternative to "Including results for `freezer temp`" & "Search only for `freezer tempe` with a link to "Search only for `freezer temp` " 2/3 115811551259962114
 
 
 
