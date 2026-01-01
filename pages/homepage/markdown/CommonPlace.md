@@ -1,5 +1,10 @@
 % Read it here first
 
+## 2026-01
+_01/01 22:04_ 5. The `that` in `that consistent 0°` in the final sentence interestingly draws attention to the 0°F mentioned in the first sentence. It could have been `a consistent 0°` as there is no mention of a need for a consistent temperature in the 1st sentence.
+
+
+
 ## 2025-12
 _12/31 18:14_ 4. placing body parts in freezers is hardly an `extreme scenario` A major LLM failure is tone-deaf vocab choices. I would change it to, `but might be done if you lop off your finger and are waiting for the ambulance.` 4/5
 
