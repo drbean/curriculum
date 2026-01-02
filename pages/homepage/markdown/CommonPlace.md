@@ -1,6 +1,10 @@
 % Read it here first
 
 ## 2026-01
+_01/02 20:44_ My rewritten rewrite, `A chest freezer in Tempe, or anywhere, should ideally be set to to 0°F (-18°C) or below for safe, long-term food storage. When buying or using one, look for features like a wide temperature range, especially if placing in a garage (garage-ready models), and use an external thermometer to confirm it holds that consistent 0°F. The nature of the freezer's content also needs to be considered. The mention of Tempe calls to mind ghastly reports of body parts found in a freezer there.`
+
+
+
 _01/02 20:39_ The characterization of Tempe as a place with hot summers is unnecessary.
 
 
