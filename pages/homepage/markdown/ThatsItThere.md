@@ -65,6 +65,14 @@ What is the grammatical relationship between `There it is!` and `It IS there!`
 
 ## Different responses
 
+0. 'That's it there'
+
+:    Last night or the night before last, I was looking for some ointment in the cosmetics box. Usually I can recognize it by the tube cap. But I couldn't see it.
+
+The next morning looking in the box again at the various tubes, I realized one was the ointment I was looking for.
+
+I said, "That's it there!" It was staring me in the face.
+
 1. Silence
 
 :	The response described above:  When what I was looking for it I found in my hand (It was a shaving cartridge holder), I didn't say anything at all.
