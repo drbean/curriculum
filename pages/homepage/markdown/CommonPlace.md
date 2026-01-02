@@ -1,6 +1,10 @@
 % Read it here first
 
 ## 2026-01
+_01/02 20:39_ The characterization of Tempe as a place with hot summers is unnecessary.
+
+
+
 _01/02 17:53_ My rewrite doesn't adequately motivate change of topic to body part reports.
 
 
