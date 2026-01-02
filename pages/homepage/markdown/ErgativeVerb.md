@@ -1,6 +1,6 @@
 % Challenge: Find 2 in/transitive verbs which go together
 
-I've been thinking about ergative verbs, like 'sail', 'sink', '
+I've been thinking about ergative verbs[^1], like 'sail', 'sink', '
 'open', 'close' which can be used as intransitive, and transitive verbs.
 
 If you open/close the door, the door opens/closes.
@@ -55,4 +55,11 @@ They are semantically related.
 
 Clue to my challenge: the members of the pair exhibit differences in use in dialects and between AmE and BrE, as nouns and verbs.
 
+[^1]: A better name in the case of English is
+[labile verb](http://en.wikipedia.org/wiki/labile_verb)
+See 
+[https://en.wikipedia.org/wiki/Ergative](https://en.wikipedia.org/wiki/Ergative)
+
+
 Back to [WobblyEnglish](WobblyEnglish.html)
+
