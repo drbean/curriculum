@@ -1,6 +1,12 @@
 % Read it here first
 
 ## 2026-01
+_01/02 21:02_ The introduction of the freezer content as topic, alongside thermometers and garage-placement leads readers to expect advice about what can or can't be stored in one. The Tempe body part report information then becomes relevant, even as it shocks by taking the topic in different direction than expected.
+
+So, how about my rewritten rewrite and my analysis of it.
+
+
+
 _01/02 20:49_ My rewritten rewrite, `A chest freezer in Tempe, or anywhere, should ideally be set to to 0°F (-18°C) or below for safe, long-term food storage. When buying or using one, look for features like a wide temperature range, especially if placing in a garage (garage-ready models), and use an external thermometer to confirm it holds that consistent 0°F. Also consider the nature of the freezer's content. The mention of Tempe calls to mind ghastly reports of body parts found in a freezer there.`
 
 
