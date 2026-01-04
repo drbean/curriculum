@@ -1,6 +1,10 @@
 % Read it here first
 
 ## 2026-01
+_01/04 12:16_ The well-known AI failure on word letter counts, https://www.google.com/search?q=AI+error+count+number+letter+words&udm=14 is surprising, but should not be surprising, because LLM are just generating statements and not stating truths. But people by default expect a statement to be accompanied  by a claim of truth even when coming from known liars (Trump). A foolish inconsistency is the hobgoblin of small minds.
+
+
+
 _01/04 12:05_ Thinking about the crossover of AI opinions on other political, economic, persnality, intellectual positions in terms of Venn diagram intersections, what is the correlation between these positions and pro-, contra-AI positions?
 
 
