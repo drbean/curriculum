@@ -1,6 +1,11 @@
 % Read it here first
 
 ## 2026-01
+_01/04 12:33_ Riffing on the 3 faces of Eve. https://en.wikipedia.org/wiki/Chris_Costner_Sizemore the `3 faces of AI. The
+good, bad and ugly`, http://drbean.sdf.org/GoodBadUgly.html 115812446156051960 5/4
+
+
+
 _01/04 12:16_ The well-known AI failure on word letter counts, https://www.google.com/search?q=AI+error+count+number+letter+words&udm=14 is surprising, but should not be surprising, because LLM are just generating statements and not stating truths. But people by default expect a statement to be accompanied  by a claim of truth even when coming from known liars (Trump). A foolish inconsistency is the hobgoblin of small minds.
 
 
