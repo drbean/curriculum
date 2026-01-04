@@ -1,6 +1,10 @@
 % Read it here first
 
 ## 2026-01
+_01/04 12:05_ Thinking about the crossover of AI opinions on other political, economic, persnality, intellectual positions in terms of Venn diagram intersections, what is the correlation between these positions and pro-, contra-AI positions?
+
+
+
 _01/02 21:02_ The introduction of the freezer content as topic, alongside thermometers and garage-placement leads readers to expect advice about what can or can't be stored in one. The Tempe body part report information then becomes relevant, even as it shocks by taking the topic in different direction than expected.
 
 So, how about my rewritten rewrite and my analysis of it.
