@@ -1,6 +1,10 @@
 % Read it here first
 
 ## 2026-01
+_01/04 22:54_ Ben Stein according to https://www.usatoday.com/story/money/2025/03/04/ferris-bueller-tariffs-scene-trump/81336305007/ sought a student response, with, `Anyone? Anyone?`. In class, I would say, `Someone? Anyone? No one?` The first with the expectation there would be a response, the second without that expectation, the third with the expectation that there would be no response. See 115542063600019020
+
+
+
 _01/04 12:33_ Riffing on the 3 faces of Eve. https://en.wikipedia.org/wiki/Chris_Costner_Sizemore the `3 faces of AI. The
 good, bad and ugly`, http://drbean.sdf.org/GoodBadUgly.html 115812446156051960 5/4
 
