@@ -1,6 +1,22 @@
 % Read it here first
 
 ## 2026-01
+_01/05 15:39_ But in https://cygwin.com/pipermail/cygwin/2026-January/259210.html is included, `Thanks for the report and the test case.
+I looked into the issue and found the cause. I also confirmed that
+the patch attached solves the issue.
+
+Could anyone please review the patch?`,
+
+a response to a bug report, it should be,
+
+`Could someone please review the patch?`,
+
+Why?
+
+`Does anyone want to review the patch?` is OK, because the answer is `Yes/No`, but in the other `OK/Sorry` and it expresses hope/expectation so is not ok?
+
+
+
 _01/05 15:29_ To a first approximation, `some` in positive statements, and `any` only in negative statements, conditional clauses and questions.
 
 
