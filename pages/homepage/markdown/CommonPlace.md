@@ -1,6 +1,10 @@
 % Read it here first
 
 ## 2026-01
+_01/05 15:13_ `In class, I would say X` implies I said X, and more than once. `In a class, I would say X` does not imply that.
+
+
+
 _01/04 22:54_ Ben Stein according to https://www.usatoday.com/story/money/2025/03/04/ferris-bueller-tariffs-scene-trump/81336305007/ sought a student response, with, `Anyone? Anyone?`. In class, I would say, `Someone? Anyone? No one?` The first with the expectation there would be a response, the second without that expectation, the third with the expectation that there would be no response. See 115542063600019020
 
 
