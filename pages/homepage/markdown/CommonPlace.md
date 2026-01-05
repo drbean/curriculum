@@ -1,6 +1,10 @@
 % Read it here first
 
 ## 2026-01
+_01/05 15:28_ To a first approximation, `some` in positive statements, and `any` only in negative statements and questions.
+
+
+
 _01/05 15:13_ `In class, I would say X` implies I said X, and more than once. `In a class, I would say X` does not imply that.
 
 
