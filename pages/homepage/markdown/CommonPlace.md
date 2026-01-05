@@ -1,6 +1,34 @@
 % Read it here first
 
 ## 2026-01
+_01/05 16:01_ Scene: A car at the bottom of a cliff, with blood splattered everywhere
+
+After the bystanders, students from a detective academy arrive on a field trip.
+
+`Instructor: It is your task to learn things about the occupants of the car.
+
+Do you use someone or anyone.
+
+Someone? Anyone?
+
+Students: [crickets]` See 115216924955571809
+
+
+
+_01/05 16:00_ Scene: A car at the bottom of a cliff, with blood splattered everywhere
+
+After the bystanders, students from a detective academy arrive on a field trip.
+
+`Instructor: It is your task to learn things about the occupants of the car.
+
+Do you use someone or anyone.
+
+Someone? Anyone?
+
+Students: [crickets]`
+
+
+
 _01/05 15:39_ But in https://cygwin.com/pipermail/cygwin/2026-January/259210.html is included, `Thanks for the report and the test case.
 I looked into the issue and found the cause. I also confirmed that
 the patch attached solves the issue.
