@@ -1,6 +1,10 @@
 % Read it here first
 
 ## 2026-01
+_01/05 15:29_ To a first approximation, `some` in positive statements, and `any` only in negative statements, conditional clauses and questions.
+
+
+
 _01/05 15:28_ To a first approximation, `some` in positive statements, and `any` only in negative statements and questions.
 
 
