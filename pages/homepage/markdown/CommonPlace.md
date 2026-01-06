@@ -1,6 +1,10 @@
 % Read it here first
 
 ## 2026-01
+_01/06 13:46_ Still I think the viewpoint of the teacher needs to be prioritized.
+
+
+
 _01/06 13:22_ https://larrycuban.wordpress.com/2024/12/17/teachers-or-researchers-whose-judgments-about-classroom-practice-matter-the-most/ Karl Marx said something like, "The point is not to understand the world, the point is to change it." But, "There is nothing as practical as a good theory," according to a saying associated with Kurt Lewin. Noam Chomsky agreed, "If you want to change the world, you'd better try to understand it." https://faculty.lsu.edu/bedeian/files/a-note-on-the-aphorism-there-is-nothing-as-practical-as-a-good-theory.pdf
 
 
