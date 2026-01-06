@@ -2,14 +2,14 @@
 
 ### What is the difference?
 
-How to account for the difference in use of `some X` and `any X`? Both seem to refer to members of the X set without identifying them, but `some` implies those members which are of interest exist, while `any` doesn't[^1].
+How to account for the difference in use of `some X` and `any X`? Both seem to refer to members of the X set without identifying them, but `some X` implies `X` which are of interest exist, while `any X` doesn't[^1].
 
-I think there is a parallel with `a` and `the`. `Some` and `any` don't identify members, but `a` and `the` do. `The` implies that the identified member is already considered a member of the (different?) set of topics under discussion. `A/an` introduces that member to that set.
+I think there is a parallel with `a X` and `the X`. `Some X` and `any X` don't identify the members of the X set which are of interest, but `a X` and `the X` do. `The X` implies that the identified member of the set of `X`s is already considered a member of the different(?) set of topics under discussion. `A/an` introduces that member to that set.
 
-This difference between `a` and `the` can be described perhaps as
+This difference between `a X` and `the X` can be described perhaps as
 
-- creating, realizing, asserting, emphasizing, focusing and introducing, *or*
-- not creating, not realizing, not asserting, not emphasizing, not focusing, and not introducing?
+- creating, realizing, asserting, emphasizing, embracing, focusing and introducing the `X` set member, *or*
+- not creating, not realizing, not asserting, not emphasizing, not embracing, not focusing, and not introducing that member?
 
 The same difference describes the relationship between `some` and `any`?
 
@@ -23,7 +23,7 @@ The same difference describes the relationship between `some` and `any`?
 
 Table: The correspondence of `some/any` with `a/the`
 
-### Analysis of naturally-occurring examples
+### Analysis of some naturally-occurring examples
 
 #### Calling on students
 
@@ -99,11 +99,11 @@ or
     Could people please review the patch?
 
 
-Why?
+Why is that? On the other hand,
 
     Does anyone want to review the patch?
 
-is OK, because the answer is `Yes/No`, but the answer to the first question is `OK/Sorry`. It is a request and expresses hope/expectation, so `anyone` is not OK?
+is OK, because the answer is `Yes/No`. The answer to the first question is different. It's `OK/Sorry`. The first question is a request and expresses hope/expectation, so `anyone` is not OK?
 
 `Could X please ..` puts X on notice they are being requested to do something, and you can't make a request if you aren't putting anyone on notice. Using `anyone` is not putting anyone on notice?
 
