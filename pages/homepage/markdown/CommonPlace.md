@@ -1,6 +1,10 @@
 % Read it here first
 
 ## 2026-01
+_01/06 12:55_ https://davidlabaree.com/2026/01/01/peculiar-problems-of-preparing-educational-researchers/ a looooong account of teacher resistance to academic conceptions of the way to conduct classroom research
+
+
+
 _01/05 16:01_ Scene: A car at the bottom of a cliff, with blood splattered everywhere
 
 After the bystanders, students from a detective academy arrive on a field trip.
@@ -29,7 +33,7 @@ Students: [crickets]`
 
 
 
-_01/05 15:39_ But in https://cygwin.com/pipermail/cygwin/2026-January/259210.html is included, `Thanks for the report and the test case.
+e01/05 15:39_ But in https://cygwin.com/pipermail/cygwin/2026-January/259210.html is included, `Thanks for the report and the test case.
 I looked into the issue and found the cause. I also confirmed that
 the patch attached solves the issue.
 
@@ -1171,6 +1175,9 @@ _08-28 12:11_ Alerted by https://bsky.app/profile/melaniemitchell.bsky.social/po
 _08-28 11:32_
 Going to try to commonplace book my mastodon posts first #POSSE
 
+Older mastodon posts rePOSSEssed at
+[MastodonPostRePOSSEssion](MastodonPostRePOSSEssion.html)
+    
 Read it again at
     <form action='https://mastodon.sdf.org/@drbean'>
     <button type='submit' class='btn'>
