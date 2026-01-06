@@ -1,6 +1,14 @@
 % Read it here first
 
 ## 2026-01
+_01/07  8:47_ https://rogue-scholar.org/ liberates DOI URL shortening for you, according to https://anil.recoil.org/notes/principles-for-collective-knowledge#p1-permanence-aka-dois-for-all-with-the-rogue-scholar (@jer_gib@functional.cafe boost). Now to follow @avsm@recoil.org and @rogue-scholar@rss-parrot.net
+
+
+
+_01/07  8:46_ https://rogue-scholar.org/ liberates DOI URL shortening for you, according to https://anil.recoil.org/notes/principles-for-collective-knowledge#p1-permanence-aka-dois-for-all-with-the-rogue-scholar (@jer_gib@functional.cafe boost). Now to follow @avsm@recoil.org and @rogue-scholar@rss-parrot.net
+
+
+
 _01/06 13:46_ Still I think the viewpoint of the teacher needs to be prioritized.
 
 
