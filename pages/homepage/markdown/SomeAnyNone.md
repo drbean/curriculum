@@ -37,21 +37,37 @@ In a class, I would say, `Someone? Anyone? No one?` The first with the expectati
 
 The difference between `somewhere` and `anywhere` is discussed at
 [https://english.stackexchange.com/questions/19364/difference-between-somewhere-and-anywhere/19371#19371](https://english.stackexchange.com/questions/19364/difference-between-somewhere-and-anywhere/19371#19371)
-with the example, 
+with the examples, 
 
             “It may be anywhere in this room,”
 
-but not.
+(but not. “* It is anywhere in this room,” )
 
-            “# It is anywhere in this room,”
-
-means it is in the room, somewhere in the room. But,
+and
 
             “It may be somewhere in this room,”
 
-doesn't mean it is in the room. It means it may also not be in the room, ie, not anywhere in the room.
+##### Scenarios explaining the somewhere/anywhere difference
 
-Tricky. In interaction with the modal `may`, `some/any` are deciding there are different possible places from which one is to be chosen for focus.
+When would these 2 different sentences be used?
+
+Consider the scenario of a search being carried out of a room for something which is believed to be in the room, but which is not immediately visible, creating a problem. For example, the FBI goes to Mar-a-Lago and enters Trump's office looking for a letter from Kim Jong-un, or in an
+[evil maid attack](https://en.wikipedia.org/wiki/Evil_maid_attack)
+a Saudi spy enters Jeff Bezos' hotel room to plant malware on his phone while he is with Lauren Sanchez in another room in the hotel. Both the FBI and the Saudi spy believe what they're looking for is in the room, but that they're going to have to search everywhere in the room to find it. They say, expressing the problem they face,
+
+            “It may be anywhere in this room,”
+
+meaning it is in the room, somewhere in the room, but that they don't know where in the room, and that this is a problem.
+
+Now suppose the FBI and the Saudi spy aren't able to find what they're looking for. The FBI has information Trump has stored boxes in a bathroom, and the Saudi spy realizes there is a second room in Bezos' hotel suite. So, they go to this second place, and say, expressing hope they will find what they're looking for in this other room,
+
+            “It may be somewhere in this room,”
+
+But this doesn't mean they believe it is in the room. It means they know it may also not be in the room, ie, not anywhere in the room, but that it is possible they may find it if they look everywhere in the room.
+
+##### Analysis of difference
+
+Tricky. In interaction with the modal `may`, `some/any` refer to unspecified possible places in some space to communicate different interpretations of this inability to specify place.
 
 #### Drawing conclusions leaving details unspecified 
 
