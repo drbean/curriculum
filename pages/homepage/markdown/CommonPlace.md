@@ -1,6 +1,10 @@
 % Read it here first
 
 ## 2026-01
+_01/07  9:18_ https://bsky.app/profile/emptywheel.bsky.social/post/3mbqvpku3es2q imagines targets of Trump's exhortations they subjugate the world being unwilling to cooperate.
+
+
+
 _01/07  8:47_ https://rogue-scholar.org/ liberates DOI URL shortening for you, according to https://anil.recoil.org/notes/principles-for-collective-knowledge#p1-permanence-aka-dois-for-all-with-the-rogue-scholar (@jer_gib@functional.cafe boost). Now to follow @avsm@recoil.org and @rogue-scholar@rss-parrot.net
 
 
