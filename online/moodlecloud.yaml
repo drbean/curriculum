@@ -16,7 +16,8 @@ summary: |+
 
 block:
   site administration block plugin:
-    Course/site summary: enabled, locked
+    Manage blocks:
+      Course/site summary: enabled, locked
 participant:
   admin: Ed Min drbean@freeshell.org ********
   drbean: Dr Bean drbean+drbean@freeshell.org ********
