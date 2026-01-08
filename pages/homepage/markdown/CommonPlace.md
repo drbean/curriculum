@@ -1,6 +1,13 @@
 % Read it here first
 
 ## 2026-01
+_01/08  9:00_ Adding the `-e` flag to `echo` will hopefully turn these `
+` into actual newlines.
+
+Did they?
+
+
+
 _01/07  9:18_ https://bsky.app/profile/emptywheel.bsky.social/post/3mbqvpku3es2q imagines targets of Trump's exhortations they subjugate the world being unwilling to cooperate.
 
 
