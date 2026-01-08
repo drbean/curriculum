@@ -1,6 +1,10 @@
 % Read it here first
 
 ## 2026-01
+_01/08 12:37_ jer_gib@functional.cafe boosted pigworker@types.pl's play on the name of Ian Hislop, editor of British satirical magazine, Private Eye, as 'IAN AISLOP, the editor of PRIVATE AI'
+
+
+
 _01/08  9:36_ Good. `echo -e` turned the escaped '
 ' into newline, but it also turned 
  in `\n` into a newline
