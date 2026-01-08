@@ -11,6 +11,8 @@ This difference between `a X` and `the X` can be described perhaps as
 - creating, realizing, asserting, emphasizing, embracing, focusing and introducing the `X` set member, *or*
 - not creating, not realizing, not asserting, not emphasizing, not embracing, not focusing, and not introducing that member?
 
+Lets call this difference *instantiating*. An instance of X, a member of the X set is posited.
+
 The same difference describes the relationship between `some` and `any`?
 
 +-------------------+-------------+-----------------+
