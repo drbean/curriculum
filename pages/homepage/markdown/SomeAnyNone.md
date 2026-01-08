@@ -18,9 +18,9 @@ The same difference describes the relationship between `some` and `any`?
 +-------------------+-------------+-----------------+
 | \                 | identifying | not identifying |
 +===================+=============+=================+
-| **asserting**     | a           | some            |
+| **instantiating** | a | some |
 +-------------------+-------------+-----------------+
-| **not asserting** | the         | any             |
+| **not instantiating** | the | any |
 +-------------------+-------------+-----------------+
 
 Table: The correspondence of `some/any` with `a/the`
