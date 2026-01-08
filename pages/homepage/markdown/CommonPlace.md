@@ -1,6 +1,12 @@
 % Read it here first
 
 ## 2026-01
+_01/08  9:36_ Good. `echo -e` turned the escaped '
+' into newline, but it also turned 
+ in `\n` into a newline
+
+
+
 _01/08  9:00_ Adding the `-e` flag to `echo` will hopefully turn these `
 ` into actual newlines.
 
