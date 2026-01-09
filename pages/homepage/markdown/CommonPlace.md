@@ -1,6 +1,10 @@
 % Read it here first
 
 ## 2026-01
+_01/09  9:16_ I used it to scaffold generation of student responses to https://storycorps.org stories.
+
+
+
 _01/09  9:13_ Framenet https://framenet.icsi.berkeley.edu looks to have changed its look and feel. It's good to know it's still being maintained. https://www.globalframenet.org/ deserves support too
 
 
