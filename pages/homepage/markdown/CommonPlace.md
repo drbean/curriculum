@@ -1,6 +1,10 @@
 % Read it here first
 
 ## 2026-01
+_01/09 16:40_ Spoons is the game, Musical chairs but called by the player collecting a run of cards following Go Fish-style rules, rather than a game master. And instead of chairs, spoons are grabbed. The innovation of Talking Rule Spoons is ousting of players who respond to communication from ousted players.
+
+
+
 _01/09  9:31_ Another delight following Yankee Swap from game theorist extraordinaire Matt Glassman, providing insight into the fun-loving, conflict-happy American psyche, Talking Rule Spoons, https://fivepoints.mattglassman.net/p/talking-rule-spoons-an-appreciation
 
 
