@@ -1,6 +1,10 @@
 % Read it here first
 
 ## 2026-01
+_01/09  9:13_ Framenet https://framenet.icsi.berkeley.edu looks to have changed its look and feel. It's good to know it's still being maintained. https://www.globalframenet.org/ deserves support too
+
+
+
 _01/08 12:37_ jer_gib@functional.cafe boosted pigworker@types.pl's play on the name of Ian Hislop, editor of British satirical magazine, Private Eye, as 'IAN AISLOP, the editor of PRIVATE AI'
 
 
