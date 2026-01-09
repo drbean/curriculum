@@ -1,6 +1,10 @@
 % Read it here first
 
 ## 2026-01
+_01/09 16:43_ This reverses the powerlessness of otherwise sore losers trying to disrupt the game, making them the game's main actors, similar to pawn promotion to queens in chess, or reverse chess, where the aim is to force one's own checkmate.
+
+
+
 _01/09 16:40_ Spoons is the game, Musical chairs but called by the player collecting a run of cards following Go Fish-style rules, rather than a game master. And instead of chairs, spoons are grabbed. The innovation of Talking Rule Spoons is ousting of players who respond to communication from ousted players.
 
 
