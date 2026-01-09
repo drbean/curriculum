@@ -1,6 +1,10 @@
 % Read it here first
 
 ## 2026-01
+_01/09 17:05_ I wonder about the robustness of the game outside the Glassman family circle. Glassman's wife taught him the Talking Rule extension. If I were still teaching English as a Foreign Language, I would try to substitute card runs that potentially form sentences and have ousted players bid for the grammaticality of proffered sentences as in Mario Rinvolucri's Grammar Auction. Or perhaps bidding for the UNgrammaticality, which would be interpretable as criticism of the player and cause for ousting.
+
+
+
 _01/09 16:43_ This reverses the powerlessness of otherwise sore losers trying to disrupt the game, making them the game's main actors, similar to pawn promotion to queens in chess, or reverse chess, where the aim is to force one's own checkmate.
 
 
