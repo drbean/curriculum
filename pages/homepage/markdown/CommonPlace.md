@@ -1,6 +1,12 @@
 % Read it here first
 
 ## 2026-01
+_01/09 22:51_ 私は外人の尺八がよくないが、https://files.shakuhachisociety.eu/members-area/newsletter/2025_winter/BAMBOO-AutumnWinter2025_v2.pdfが本当に素晴らしい
+
+江月宗J玩（1574-1643）の詩にでる尺八と九州柳川の虚無僧寺江月院の情報がでる。日本語に翻訳したらいい。
+
+
+
 _01/09 17:14_ The effect of its anti-social nature on the robustness of Talking Rule Spoons is probably less than that of the flakiness of language prompts in generating language in an EFL version.
 
 
