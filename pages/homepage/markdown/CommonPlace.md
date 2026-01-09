@@ -1,6 +1,10 @@
 % Read it here first
 
 ## 2026-01
+_01/09  9:31_ Another delight following Yankee Swap from game theorist extraordinaire Matt Glassman, providing insight into the fun-loving, conflict-happy American psyche, Talking Rule Spoons, https://fivepoints.mattglassman.net/p/talking-rule-spoons-an-appreciation
+
+
+
 _01/09  9:16_ I used it to scaffold generation of student responses to https://storycorps.org stories.
 
 
