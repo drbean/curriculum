@@ -19,5 +19,12 @@ So the difference in meaning between `fling` and `sling` is not clear.
 See
 [DickFosbury](DickFosbury.html)
 
+Back to [WobblyEnglish](WobblyEnglish.html)
 
-
+Me at
+<form action='https://mastodon.sdf.org/@drbean'>
+<button type='submit' class='btn'>
+<img src='./mastodon.svg'
+alt='https://joinmastodon.org/logos/wordmark-black-text.svg'
+style='width:100px;height:50px'/>
+</button></form>
