@@ -1,6 +1,10 @@
 % Read it here first
 
 ## 2026-01
+_01/10  9:39_ vim's table mode not playing well with pandoc's grid tables, its most general/specific table. But could be due to table-mode unfamiliarity with Tableize command. As pandoc renders pipe tables and grid tables the same in html, I will probably not pursue this.
+
+
+
 _01/09 22:51_ 私は外人の尺八がよくないが、https://files.shakuhachisociety.eu/members-area/newsletter/2025_winter/BAMBOO-AutumnWinter2025_v2.pdfが本当に素晴らしい
 
 江月宗J玩（1574-1643）の詩にでる尺八と九州柳川の虚無僧寺江月院の情報がでる。日本語に翻訳したらいい。
