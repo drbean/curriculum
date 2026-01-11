@@ -1,6 +1,10 @@
 % Read it here first
 
 ## 2026-01
+_01/11 17:08_ Programming bugs are as likely to disappear in future code as birth defects (congenital disease) are in life forms. The developer as Blind Watchmaker: https://en.wikipedia.org/wiki/The_Blind_Watchmaker
+
+
+
 _01/10  9:39_ vim's table mode not playing well with pandoc's grid tables, its most general/specific table. But could be due to table-mode unfamiliarity with Tableize command. As pandoc renders pipe tables and grid tables the same in html, I will probably not pursue this.
 
 
