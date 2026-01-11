@@ -1,6 +1,10 @@
 % Read it here first
 
 ## 2026-01
+_01/11 22:12_ https://www.baeldung.com/linux/sed-replace-multi-line-string reading next line after search match. For next time I forget how.
+
+
+
 _01/11 18:05_ A better Dawkins metaphor might have been the God who Fucks Around and Finds Out
 
 
