@@ -1,6 +1,10 @@
 % Read it here first
 
 ## 2026-01
+_01/11 18:05_ A better Dawkins metaphor might have been the God who Fucks Around and Finds Out
+
+
+
 _01/11 17:08_ Programming bugs are as likely to disappear in future code as birth defects (congenital disease) are in life forms. The developer as Blind Watchmaker: https://en.wikipedia.org/wiki/The_Blind_Watchmaker
 
 
