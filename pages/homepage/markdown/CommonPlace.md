@@ -1,6 +1,10 @@
 % Read it here first
 
 ## 2026-01
+_01/12  8:34_ Glassman at https://blog.mattglassman.net/you-can-just-do-things/ claims you can just do things, praising high personal agency as key to success. I agree with Winston Churchill, Success is going from failure to failure without loss of confidence. And I support trial and errror. And fucking around and finding out. My take: By intention, action follows intention as night follows day, but in actuality intention follows action as day night. Thread to mastodon.sdf.org status 115864141349409437
+
+
+
 _01/11 22:12_ https://www.baeldung.com/linux/sed-replace-multi-line-string reading next line after search match. For next time I forget how.
 
 
